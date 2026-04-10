@@ -1,0 +1,50 @@
+{
+  "novel": "将夜",
+  "chapter_number": 337,
+  "chapter_title": "第一百四十三章 鸽子汤（下）",
+  "filename": "ch_0337_第一百四十三章 鸽子汤（下）.txt",
+  "char_count": 290,
+  "timestamp": "2026-04-10T12:11:21.748484",
+  "techniques_count": 3,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "上那件染了油污的棉裙，脱掉鞋子把脚伸进温水中。\n　　桑桑的脚很小巧，肤色也与身体别的地方不同，纯白似雪，看上去就像两朵瑟瑟瑟的小白花，在盆中清水里缓缓荡漾。\n　　（此处详见拙著……哈哈哈哈……将夜第一卷 清晨的帝国，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "桑桑从里到外都是透明的，如同深山里的水晶，能够映照出这个世界最真实的颜色，她能很肯定地知道这个世界上究竟谁对她好，遗憾的是这么多年过去了，像宁缺那样的人她只遇见过一个，前不久还死了。\n　　不过她能感受到曾静夫人的善意，所以她听从了对方的建议，跟着进了内室，解开身上那件染了油污的棉裙，脱掉鞋子把脚伸进",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "桑桑的脚很小巧，肤色也与身体别的地方不同，纯白似雪，看上去就像两朵瑟瑟瑟的小白花，在盆中清水里缓缓荡漾。\n　　（此处详见拙著……哈哈哈哈……将夜第一卷 清晨的帝国，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

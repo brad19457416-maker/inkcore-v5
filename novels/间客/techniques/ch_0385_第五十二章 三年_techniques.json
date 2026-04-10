@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 385,
+  "chapter_title": "第五十二章 三年",
+  "filename": "ch_0385_第五十二章 三年.txt",
+  "char_count": 3428,
+  "timestamp": "2026-04-10T12:04:59.233889",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "解散，而是分成了两班，寸步不离地跟着许乐，就像是特勤局用来保护要人的特工一般。许乐很不适应这种安排，心想七组马上就要去做简水儿的保镖，怎么这些人却要来保护我？但他明白这应该是来自国防部，甚至是费城那位老爷子的亲自命令，自己就算想摆脱这些人，都很困难。\n\n    再加上在作训基地和演中，他与七组的十几",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "明白了这句话。禁陷入了沉默。自己只不过打了一个电话。应该说是素不相识、毫无交情地西林钟家帮了自己这么大地忙。惹出了这么大地麻烦自己身处其间。即便想要补偿乎也做不到什么。\n\n    “我欠您和钟司令一个天大地人情。”他些不习惯用这种联邦权贵地口吻轻声说道。只是就像过往地岁月里那般只要他说出口地事情。便",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。但更多的人却畏惧你的手段，我想铁算利家那位小老头，肯定不敢单独面对你，因为……你表现出来的心志太过危险。”\n\n    许乐自嘲地想道，自己又不是一个冷血的杀手。\n\n    “不过也有很多人喜欢你，比如总统阁下。”钟夫人微笑说道：“包括我家那头老虎在内，所以你不要有什么心理压力。”\n\n    许乐想",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "林园里，老爷子和邰夫人说了些什么。”\n\n    钟夫人坐到了沙发上，双手轻柔地搁在腹前，望着许乐微笑说道：“但这是面子的问题，既然你能从倾城里平安出来，自然说明莫愁后山在老爷子面前做了让步。你有李老爷子的面子，你和他的安全便不会有大问题。更何况夫人也不会做这等手脚，毕竟以她的身份地位、谋略手段，再要",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "地位、谋略手段，再要对付你未免显得不够大气够体面。”\n\n    许乐不明白既邰夫人暂时不会对付自己，为什么西林方面如此警惕，甚至玩了一招虎**接头的小把戏。\n\n    “但这件事情我们西林插，即便邰夫人什么都不做只是冷眼旁观，可若是让她拿着证据……知道西林坏了她的安排，就等若我家那位和我欠了她一个交",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "与七组的十几条汉子相处渐渐融洽，所有人都刻意回避了他在婚礼上刺白玉兰的那一刀，彼此竟有些习惯了彼此的存在。\n\n    黑车驶过了大道，绕向了出城的二号高速公路，小组通信装备里传来后方军车里兰晓龙的回报声：“一切正常，没有跟踪。”\n\n    许乐微微眯眼，看来莫愁后山终是承认了当前的局面，此时也不用担",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "钟夫人平静地看着他。沉默片刻后回答道：“不是所有地帮助都隐藏着什么目地。虽然我很看好你在军队里地将来。但你去刺杀麦德林之前。并没有这种将来。更没有投资地必要。所以。这并不是一椿投资。”\n\n    许乐安静的听着。\n\n    钟夫人微笑着轻叹一口气，亲切暖和的容颜淡发光，悠悠说道：“有很多人敬畏你",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "而屈尊等着衣衫单薄的自己，赠予一件西林军风衣，一张小卡片。三年后只是通过几次电话，然后再相见，本应该陌生的眉眼却因为那丝很令人心折的亲切感，而变得熟悉起来。\n\n    所以许乐有些感动，他一直认为逃出东林的飞船上照顾小西瓜是小事，西林钟家的当家主母彼时对自己这样一个小人物能够如此，实属不易，这种亲切",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "”\n\n    许乐想到曾经听说的那些事情，帕布尔总统决定特赦自己时，曾经遭遇过无数阻力，而西林的那位一向与帕布尔总统不怎么对路的钟司令，却\n\n    站在了总统一边，旗帜鲜明地支持特赦，一念及此，家的感激之情愈发浓郁，也不知该说什么，认真地鞠躬致谢。\n\n    “我和烟花现在住在栖霞州，马上是除秋节",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，一份人情。”\n\n    “我们西林人想欠她这份人情。”钟夫人微微一笑，笑容显得有些无奈，说道：“七大家之间的人情太大能轻易欠的。”\n\n    对于西林钟家来说，每年初春时会预算审核是最麻烦的事情，饱经战火的西林大区需要联邦管理委员会审核援助预算和能量配额。社会上一般的人情或交待，西林老虎和他的妻子",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "念及此，家的感激之情愈发浓郁，也不知该说什么，认真地鞠躬致谢。\n\n    “我和烟花现在住在栖霞州，马上是除秋节的假期，如果你有空，欢迎你去做客。”钟夫人微笑说道。\n\n    许乐微微一怔，脑海里很自然地浮现出一个沐浴在星光中穿着白裙抱着娃娃的小女孩儿形象，三年不见，不知道那个不爱吃饭，喜欢翘家的小",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "三年前许乐只是一个修理铺里的学徒工，用大叔教自己的手艺渡着乏善可陈的日子，替李维制造合手的武器，同时不厌其烦地劝说他要小心谨慎，与人为善，少下死手。\n\n    三年后两个人再次相见时，很多事情都已经发生了变化。\n\n    ……\n\n    ……\n\n    黑车停在了望都区一家年糕摊的旁边，许乐和李",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "报声：“一切正常，没有跟踪。”\n\n    许乐微微眯眼，看来莫愁后山终是承认了当前的局面，此时也不用担心邰夫人会抓到西林钟家参与此事的证明，想到此节，他终于松了一口气，一丝绝对真正的开心愉悦浮上了脸庞，说道：“我就说，谁会在乎我们这种小人物，维哥你的胆子现在变得也太小了些。”\n\n    “军车上那些",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "说，每年初春时会预算审核是最麻烦的事情，饱经战火的西林大区需要联邦管理委员会审核援助预算和能量配额。社会上一般的人情或交待，西林老虎和他的妻子从来不会在意，但那位隐情于山水湖色之间的邰夫人，长袖轻舞便能影响议会里很多人于钟家来说，这种人情未免太大，太头痛。\n\n    许乐听明白了这句话。禁陷入了沉默",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "绿色的军车一直不远不近地跟着，许乐眯着眼睛，透过后视光幕看了一眼，心情有些怪异，却没有发出指令让他们离开，毕竟他不清楚邰夫人是不是愿意就此罢手，有这些悍勇善战的专家们跟着，自己两个人的安全比较有保障。\n\n    名义上是全员假，但从离开受训基地后，白水公司第七战斗小组并没有解散，而是分成了两班，寸步",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。但你去刺杀麦德林之前。并没有这种将来。更没有投资地必要。所以。这并不是一椿投资。”\n\n    许乐安静的听着。\n\n    钟夫人微笑着轻叹一口气，亲切暖和的容颜淡发光，悠悠说道：“有很多人敬畏你身后那位老爷子，虽然包括我在内，现在还没有人知道你和那位老爷子的真正关系。但更多的人却畏惧你的手段，我想",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

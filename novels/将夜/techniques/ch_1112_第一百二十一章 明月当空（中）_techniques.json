@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1112,
+  "chapter_title": "第一百二十一章 明月当空（中）",
+  "filename": "ch_1112_第一百二十一章 明月当空（中）.txt",
+  "char_count": 3666,
+  "timestamp": "2026-04-10T12:11:34.930970",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "第一百二十一章 明月当空（中）\n　　一个人的名字往往有其出处或者说意义。比如宁缺，比如桑桑，比如君陌，当然，像翠花、二丫这种名字要除外。\n　　李慢慢之所以叫李慢慢，自然是因为他很慢，他说话行事的节奏很缓慢，他走路很慢，就连修行也很慢。\n　　他用了整整十七年的时间才不",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "倒退，如闪电般，顺着长街疾退百丈。\n　　最终，他没有选择硬接屠夫的刀。\n　　因为今夜，不是他一个人的战斗。\n　　他是骄傲的君陌，但更是书院的二师兄。\n　　然而屠夫的刀意何其恐怖，依然缀着他。\n　　伴着恐怖的声响，铁剑急剧地弯曲。\n　　最终触着他的冠。\n　　他的发还没有回复到原先的长度，但他今夜重新戴",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "望自己教出来的学生能够赢过夫子的学生。\n　　事实上，他教出来的两个学生确实都很了不起，叶苏创建新教，最终成圣，然而他很清楚，叶苏的转变离不开李慢慢在长安城里的点化。还有隆庆走上了一条从来没有前人走的道路，最终却还是死在了宁缺的手里。\n　　听到赞美老师，大师兄微微躬身回礼，没有想什么，在他看来这本就是",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "是徐迟，按道理来说，他不会犯这种错误，那么这说明是书院在主事。\n　　就像过去的那些夜晚一样，今夜依然风雪缓落，小镇四周静寂无声，仿佛又要无事无扰地过去，到第二天清晨再来煎熬这一天……\n　　镇外却响起了脚步声。\n　　屠夫解下身上的皮大褂，从案板上拾起那把沉重的屠刀，走出门槛，望向缓缓走来的君陌，神情显",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "踢出。\n　　这一踢，他踢的是天，是为蹬天踢。\n　　他一脚踢到了铁剑的剑首上。\n　　铁剑呼啸破空，却未离去，仿佛变成一道弓弦。\n　　弦的一端在他的手里，另一端在他的脚下。\n　　铁刀砍在了铁剑上，弦弯，而未折。\n　　铁剑如弦，君陌如箭，倒退，如闪电般，顺着长街疾退百丈。\n　　最终，他没有选择硬接屠夫的刀",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "……\n　　镇外却响起了脚步声。\n　　屠夫解下身上的皮大褂，从案板上拾起那把沉重的屠刀，走出门槛，望向缓缓走来的君陌，神情显得异常漠然，或者说冷酷。\n　　“你是来送死的？”\n　　君陌走到他身前停下，举起单手为礼，说道：“酒徒死了。”\n　　遥远北方小镇那片如痛苦人脸的云，还在夜空里飘浮着，其实并不太高，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "空寺战斗数年，未曾折断，只是有些变形，后被修复如初，今夜却险些被屠夫一刀砍断。\n　　何其恐怖的一刀，果然无敌。\n　　君陌退到了山崖下。\n　　他的右足落下，蹬天踢，变成了入岩松，如钉在地面一般，再不后退。\n　　屠夫也到了。\n　　和世人的想法不同，屠夫的速度并不是太慢。\n　　君陌唇角溢着血，看着再次破夜",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "不覆。\n　　君陌继续后退，一直退出小镇，退到山崖之下。\n　　刀意依然未绝，只听得嗤啦一声响，他的胸口出现了一道清晰的裂痕，他的铁剑上出现了一道深刻的痕迹。\n　　这把铁剑，在极西荒原的天坑底，带领农奴们与悬空寺战斗数年，未曾折断，只是有些变形，后被修复如初，今夜却险些被屠夫一刀砍断。\n　　何其恐怖的一",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "？那两条路不通，还有第三条，昊天现在回了长安城，你没有道理不选这条路。”\n　　“按道理……按我怕死的性子……我确实应该选你们这条路，我没见过神国的昊天，但见过人间的她，我从她那里得到过承诺，但是……”\n　　屠夫沉默片刻，说道：“我不想这么选。”\n　　君陌隐约猜到他的想法，微生敬意，再行一礼，说道：“",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "到第二天清晨再来煎熬这一天……\n　　镇外却响起了脚步声。\n　　屠夫解下身上的皮大褂，从案板上拾起那把沉重的屠刀，走出门槛，望向缓缓走来的君陌，神情显得异常漠然，或者说冷酷。\n　　“你是来送死的？”\n　　君陌走到他身前停下，举起单手为礼，说道：“酒徒死了。”\n　　遥远北方小镇那片如痛苦人脸的云，还在夜",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "只不过从来没有相信那是事实。后来他学会了打架和杀人，于是慢又变成了快。\n　　他以难以想象的速度掌握了无数种打架的方法，陈皮皮的天下溪神指，君陌的相敬如宾意，浩然剑，还有夫子的棍，包括他先前刺用观主的这一棍。\n　　他用的是柳白的剑。\n　　这样的剑当然不慢。\n　　这就是李慢慢，最慢的李慢慢，最快的李慢慢",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "是真实的夜色，也代表着自北方蔓延而来的夜色，就像过去几年那样，人间正在慢慢地变冷，往年哪怕隆冬时节也温暖如春的西陵神国，此时已经落了好几场雪，青青山峦已然被白雪覆盖。\n　　雪笼四野。来自北方的唐军与南方的大河国军队，于十余日前攻入西陵神国，神殿骑兵节节败退，最终退守桃山周遭方圆数百里的范围，桃山通往",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "李慢慢，最慢的李慢慢，最快的李慢慢。\n　　观主站在雪峰上，举头望向夜空里被繁星包围着的那轮明月，赞叹说道：“你教出来的好徒儿。”\n　　这句话里没有任何怨毒的意味，只有佩服。\n　　虽然是晋入清静境的大修行者，对世间一应贪嗔痴爱已可看淡，但看淡终究不是无视，观主依然有所追求，自败在夫子手下，他便没有奢望",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

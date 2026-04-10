@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1063,
+  "chapter_title": "第七十二章 这里的黎明静悄悄",
+  "filename": "ch_1063_第七十二章 这里的黎明静悄悄.txt",
+  "char_count": 5401,
+  "timestamp": "2026-04-10T12:11:34.902445",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "街道上，推开尘封的一间旧铺子，在桌旁坐了下来，然后再没有离开。\n　　其余的人都纷纷离开房间，开始准备逃亡和南下事宜。\n　　国师知道单于的计划后，自然也要做相应的安排。\n　　人去屋空。单于转向窗外，望向夜空里那轮明月，从那些温暖而慈爱的光辉里，仿佛获得了某种力量。\n　　渭城被屠后，绝大多数的房屋都无法",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "盘上面一座起不起眼的小城，平静说道：“我知道唐人和部落里很多人都以为这场战争已经结束，那天的战斗便是决战，但我不这样以为，这里是我们脚下的土城，也是我选择的决战地。”\n　　没有人明白他的意思，王庭已经远不是唐国的对手，就算想要拼命决一死战，对方又怎可能给自己机会，换句话说，王庭哪里来的资格？\n　　“",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "。\n　　开战至今，书院还没有真正出手。\n　　那些真正的强者还没有出手。\n　　静悄悄的黎明里，国师看着天空，等待着某些人的到来。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "。\n　　他不明白――书院的这个局其实很冒险，如果稍有些问题，草原骑兵便能挥鞭南下，横扫中原，那么书院为什么要这样做？\n　　除了让金帐灭族，还有什么值得唐国冒如此风险的目的？\n　　书院何时变得如此冷血？\n　　那个叫宁缺的十三先生，与自己之间究竟有何深仇大恨？\n　　单于思索了很长时间，情绪渐渐变得平静。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，确实已经累了。\n　　至于单于的深谋或者远虑，令人赞叹的决断和魄力……既然已经被他看穿，自然不需要再担心什么，因为有人承诺过，不会出任何问题。\n　　徐迟这夜睡的很塌实，醒来时，天尚未全亮，正是黎明前最黑暗的那段时光，他起床洗漱，接过一碗马奶饮尽，然后穿戴盔甲、牵着座骑走到营畔地势略高的草甸上，自鞍旁",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "生天没有抛弃自己。\n　　没有过多长时间，族中德高望重的老人、阿打、勒布大将、做为国师代表的大祭司，都来到了他的房间里，看到单于对着沙盘沉默的背影。\n　　单于指着沙盘上面一座起不起眼的小城，平静说道：“我知道唐人和部落里很多人都以为这场战争已经结束，那天的战斗便是决战，但我不这样以为，这里是我们脚下的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，所有人都觉得不妥：单于的决定不是冒险，是疯狂的赌博――不，连赌博都不是――这更像是绝望深渊之前回身愤怒无助地呐喊，就算徐迟真的将唐军阵势摆成最易凿穿的线状，就算朵儿骑真的能够突破到南方，也无法改变整个局面。\n　　阿打的眼睛明亮了起来，完全明白了单于的意思。单于根本没有想赢，他只想带走两万多精骑，那",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "以最快的速度去追击单于所在的王庭――最快的速度需要最近的距离，最近的距离是直线，这好像是书院传出来的道理。\n　　王庭要从渭城北归，唐人便要从渭城追击。\n　　他要做的事情，就是守在渭城那条唯一的街道上。\n　　阿打对着单于躬身行礼，转身离开，走到那条街道上，推开尘封的一间旧铺子，在桌旁坐了下来，然后再没",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "进行骑兵方面的训练，所以按道理来说，王庭占据着优势，但唐军却获得了最后的胜利，尤其是在镇北军两路伏兵出现之前，先锋大营的骑兵硬生生地挡住了如潮水般涌来的王庭骑兵，那是因为唐军比王庭骑兵多了口气。\n　　那是剽悍之气――唐军有这口气，他们身下的野马也有这口气，在草原春天的风里，唐军挥舞着朴刀，沉默地砍死",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的几段话，远不足以描述这场发生在七城寨一线的血战，不足以描述金帐王庭残兵面临的压力和唐军付出的牺牲。人们只需要记住，短短数日的围城战里，死去的人便已经快要超过那日在谷河原野上的数量。\n　　与开平、渠城等数座城寨不同，本应是真正主战场的渭城，却显得很宁静，没有血腥惨烈的骑兵冲杀画面，连马蹄声都听不到。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "着四周散去，必将成为唐军骑兵的俘虏，甚至可能被那些肮脏的马贼拣便宜。\n　　这让他害怕。\n　　前一刻便马上成为整个人间的君王，下一刻便在登基的道路上被一道暗箭射穿了双颊，鲜血横流，而且流的很难看――无论是谁，都很难接受这样的事实――他的信心和雄心一道被碾的粉碎，碎的不能再碎。\n　　这让他害怕。\n　　最",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "把全部的精神与资源都投向南方，如果能抢在道门解决内部纷争之前定势，桃山将面临难以想象的压力。\n　　数日后，司徒依兰带着先锋大营的骑兵，来到了七城寨一线，此时的她和所有的唐军，都已经确认了胜势，但他们想要获得更大的胜利。\n　　这段时间里，北大营的亲兵以及半年前悄无声息从葱岭调至此间的征西军某部，拼着惨",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "经快要超过那日在谷河原野上的数量。\n　　与开平、渠城等数座城寨不同，本应是真正主战场的渭城，却显得很宁静，没有血腥惨烈的骑兵冲杀画面，连马蹄声都听不到。\n　　金帐王庭在此，唐军中军帐在此，战斗却似乎离此地远去。\n　　徐迟看着望远镜里那座灰朴朴的土城，微微皱眉，沉默不语。\n　　“真正还能战的是三万朵儿",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "国师知道单于的计划后，自然也要做相应的安排。\n　　人去屋空。单于转向窗外，望向夜空里那轮明月，从那些温暖而慈爱的光辉里，仿佛获得了某种力量。\n　　渭城被屠后，绝大多数的房屋都无法住人，草原人也习惯住在城外的帐篷里，他今天住的地方，是相对僻静处的一个小院。\n　　他并不知道，这个小院曾经属于谁，不知道谁",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "祭司，都来到了他的房间里，看到单于对着沙盘沉默的背影。\n　　单于指着沙盘上面一座起不起眼的小城，平静说道：“我知道唐人和部落里很多人都以为这场战争已经结束，那天的战斗便是决战，但我不这样以为，这里是我们脚下的土城，也是我选择的决战地。”\n　　没有人明白他的意思，王庭已经远不是唐国的对手，就算想要拼命",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

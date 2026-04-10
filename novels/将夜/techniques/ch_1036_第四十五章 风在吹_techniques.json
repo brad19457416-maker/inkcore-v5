@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1036,
+  "chapter_title": "第四十五章 风在吹",
+  "filename": "ch_1036_第四十五章 风在吹.txt",
+  "char_count": 2204,
+  "timestamp": "2026-04-10T12:11:34.955379",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "晕，神情始终是那样的平静。\n　　他的眼里充满了对人间美丽风景的向往，对月光和雪花以及播洒月光和雪花的天空的好奇，纯真的就像个孩子。\n　　横木和阿打这些昊天留给人间的神子，脸上的神情也常现天真之意，但那种天真来自对人间的疏离感以及本身的年龄。\n　　观主的天真不同，他静静看着人间，思想着人间，似乎懵懂无",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "人间最接近昊天的人便是观主，一直都是观主。\n　　而前些年昊天来到人间，观主与她相遇，那种接近便从神学意义上落到了实处，不是看见而是相见，便自然没了距离。\n　　因为看见，所以畏惧？不，看见后便不再畏惧，便敢思之想之杀之灭之夺之，与之相比，无论是莲生的野望还是书院的理想，以至昊天本身的想法，都会有些等而",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "渐被热度融成春泉，神情也如春泉般怡人。\n　　中年道人动容无语，因为震撼，因为猜想变成了现实，那个令他激动万分的猜想，似乎马上便要成真。\n　　中年道人扶在轮椅上的双手有些颤抖。\n　　当初观主的局被书院所破，他的人被长安所伤，但真正把他变成凡人的是昊天的手段，现在这种变化意味着什么？\n　　观主站起身来，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "院和唐国被灭，道门也无法改变这个结局，但何必感伤痛苦？不过是场涅，应该欣喜庆贺。”\n　　“佛祖说的涅难道便要落在今年冬天？”\n　　“那僧人看顾的是自己，哪里会在意整个人间？”\n　　“接下来，该做些什么？”\n　　“决定人间命运的，以前在天上……”\n　　观主的目光从夜穹转向山下的风雪世界，看了会儿悠悠继",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "神情很快便回复平静，因为他是道门真正的强者，更因为他对观主有绝对的信心――道门在世上存在无数年，不知出现了多少了不起的人物，为人类奉献了多少智慧，千年以来，人间的光彩似乎都集中到夫子和书院的身上，但道门毕竟是道门，观主毕竟是观主。\n　　中年道人离开了崖坪，去了天谕神殿。\n　　没人知道在神殿里，他和赵",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，由仙归凡，那便是真人。\n　　中年道人看着椅中的他，感受着那道天真烂漫的气息，隐约明白了些什么，很是感慨，原来清静之上，尤有世界。\n　　观主忽然动了，双手自膝上离开，缓缓落到轮椅的扶手上，掌下有残雪，渐被热度融成春泉，神情也如春泉般怡人。\n　　中年道人动容无语，因为震撼，因为猜想变成了现实，那个令他",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "接近昊天的人，但他知道，从千年之前开始，人间最接近昊天的人便是观主，一直都是观主。\n　　而前些年昊天来到人间，观主与她相遇，那种接近便从神学意义上落到了实处，不是看见而是相见，便自然没了距离。\n　　因为看见，所以畏惧？不，看见后便不再畏惧，便敢思之想之杀之灭之夺之，与之相比，无论是莲生的野望还是书院",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "情也如春泉般怡人。\n　　中年道人动容无语，因为震撼，因为猜想变成了现实，那个令他激动万分的猜想，似乎马上便要成真。\n　　中年道人扶在轮椅上的双手有些颤抖。\n　　当初观主的局被书院所破，他的人被长安所伤，但真正把他变成凡人的是昊天的手段，现在这种变化意味着什么？\n　　观主站起身来，离开了轮椅。\n　　仿",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "烂漫的气息，隐约明白了些什么，很是感慨，原来清静之上，尤有世界。\n　　观主忽然动了，双手自膝上离开，缓缓落到轮椅的扶手上，掌下有残雪，渐被热度融成春泉，神情也如春泉般怡人。\n　　中年道人动容无语，因为震撼，因为猜想变成了现实，那个令他激动万分的猜想，似乎马上便要成真。\n　　中年道人扶在轮椅上的双手有",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "？”\n　　“那僧人看顾的是自己，哪里会在意整个人间？”\n　　“接下来，该做些什么？”\n　　“决定人间命运的，以前在天上……”\n　　观主的目光从夜穹转向山下的风雪世界，看了会儿悠悠继续说道：“现在却在人间，那么我们当然要先找到她。”\n　　宁缺让他多在意些人间的事情，其实他一直在意，比谁都在意――本应在",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "他是道门真正的强者，更因为他对观主有绝对的信心――道门在世上存在无数年，不知出现了多少了不起的人物，为人类奉献了多少智慧，千年以来，人间的光彩似乎都集中到夫子和书院的身上，但道门毕竟是道门，观主毕竟是观主。\n　　中年道人离开了崖坪，去了天谕神殿。\n　　没人知道在神殿里，他和赵南海说了些什么，但接下来",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "但真正把他变成凡人的是昊天的手段，现在这种变化意味着什么？\n　　观主站起身来，离开了轮椅。\n　　仿佛无数万年前，人类曾经做过的那个动作。\n　　雪花混着月光，在崖坪上缓缓落着，寒风不停地吹拂，拂的观主身上的青色道衣不停飘动，却吹不乱他鬓角花白的发。\n　　“你看，那真的好像一条狗啊。”\n　　观主看着夜空",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "”\n　　“决定人间命运的，以前在天上……”\n　　观主的目光从夜穹转向山下的风雪世界，看了会儿悠悠继续说道：“现在却在人间，那么我们当然要先找到她。”\n　　宁缺让他多在意些人间的事情，其实他一直在意，比谁都在意――本应在天上，现在在人间，怎能不在意？\n　　说完这句话后，观主不再多言，望向崖外的风雪，看",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

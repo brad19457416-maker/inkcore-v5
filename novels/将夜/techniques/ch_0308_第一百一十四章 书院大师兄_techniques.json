@@ -1,0 +1,115 @@
+{
+  "novel": "将夜",
+  "chapter_number": 308,
+  "chapter_title": "第一百一十四章 书院大师兄",
+  "filename": "ch_0308_第一百一十四章 书院大师兄.txt",
+  "char_count": 2257,
+  "timestamp": "2026-04-10T12:11:21.686981",
+  "techniques_count": 8,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "勘破死关、无比强大的知守观传人，没能留下那名书生。\n　　书生出现在山谷中宁缺身边，平静请那名武道巅峰强者收拳。\n　　长安城南有间书院，书院后山有位大师兄，而用那位以骄傲自负闻名于世的二师兄的话来说，大师兄之所以是大师兄，自然是因为他在书院排在第一。\n　　无论修行境界弈棋弄琴绘画绣花还是烹饪，他都",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "日，试图与往日隔断过往，要逆天行事，却依然被太多红尘意牵住心神从而停下拳头的中年男人不同。\n　　站在雪峰之巅的叶苏，一直很想挑战书院大师兄。\n　　他是知守观传人，昊天道门最强大的当代天下行走，十四年前，还是少年时便是那般骄傲自负，最能了解轲先生以及书院二师兄君陌的骄傲自负里所蕴藏的意味，所以他会因为",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "有几分神秘。尤其是自轲浩然后，书院后山弟子极少在世间出现，所以没有多少人真的了解那个地方，知道那里面究竟有些什么人。\n　　不要说什么俗世帝国，西陵神殿，即便是远离世外的知守观、悬空寺或魔宗，也只知道书院后山里的大概情况，知道那座大山云雾之后有十三位夫子亲传弟子，他们在那里日夜潜修，实力深不可测。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "之地，但毕竟有着不可知之地的名声，对外人而言自然有几分神秘。尤其是自轲浩然后，书院后山弟子极少在世间出现，所以没有多少人真的了解那个地方，知道那里面究竟有些什么人。\n　　不要说什么俗世帝国，西陵神殿，即便是远离世外的知守观、悬空寺或魔宗，也只知道书院后山里的大概情况，知道那座大山云雾之后有十三位夫子",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "雪崖畔的叶苏缓缓低头望向脚旁的积水，看不出脸上是何神情。\n　　凝聚着万束阳光，纯净而强大的生杀剑意，瞬间将积雪碾压成冰，而冰却在此时化了，只能说明那道本应聚束如光的剑意，竟是在慢慢泄漏开来。\n　　那柄单薄的木剑不知何时回到了他的双手中。\n　　山腰间水潭畔的书生已经没了踪迹。\n　　叶苏脸上露出一道极嘲",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "或许很久，或许只是书生一眼之间。\n　　雪峰之巅的冰砾渐渐融化，汇成极细的小溪。\n　　站在雪崖畔的叶苏缓缓低头望向脚旁的积水，看不出脸上是何神情。\n　　凝聚着万束阳光，纯净而强大的生杀剑意，瞬间将积雪碾压成冰，而冰却在此时化了，只能说明那道本应聚束如光的剑意，竟是在慢慢泄漏开来。\n　　那柄单薄的木剑不",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "加强大，然而他总想寻回那些失去的东西，所以他必须遇见当年线那边的那个人。\n　　这种想法甚至可以称之为渴望的情绪，在这些年里随着修行境界越来越深妙圆融，随着对这个世界的认知越来越清晰，在他心里也越来越强烈。\n　　甚至比雪峰上方太阳洒下的光芒还要强烈。\n　　十四年过去了，他终于遇见了书生，而且遇见了一个",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "人是个书生，手里时常拿着一卷书，腰间系着个水瓢，常年跟随夫子在诸国游历，很少有人能够亲眼看到他，而且从来没有人与他真正地交过手。\n　　然而从来没有人敢轻视这位书院大师兄。\n　　因为书院大师兄是唯一有资格跟随夫子游历天下的人，而变态骄傲的君陌每每提及自己的师兄都会叹息一声，然后用最不可质疑的神情表示自",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

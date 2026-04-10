@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1080,
+  "chapter_title": "第八十九章 小镇、肉铺和刀",
+  "filename": "ch_1080_第八十九章 小镇、肉铺和刀.txt",
+  "char_count": 3403,
+  "timestamp": "2026-04-10T12:11:34.928742",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "让人产生油腻的感觉，就像你手里的刀一样，但没自由，真的没意思。”\n　　屠夫说道：“……哪怕那是未知的危险的？”\n　　宁缺说道：“你应该隐约猜到我的来历，那么就应该知道我的话才是正确的，我看到过，真实的本来就应该是那个样子。”\n　　屠夫沉默了很长时间，然后说道：“那里是冥界。”\n　　“如果你坚持认为真",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "休整便会继续南下，如今的南晋哪里还有办法能够抵抗？\n　　他真的凭一己之力便提前确定了一场国战的走势，为什么？因为他能杀人，而且擅长杀人，以往书院这般能杀的人是轲浩然，只不过时间隔的太久，已经渐被人间淡忘，他现在做的事情，就是让人们再次想起来。\n　　他入渭城，金帐亡，过大泽，南晋亡，现在他再次消失，不",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "然也没有人知道他的真实身份。\n　　如今的西陵神殿联军营里，还有百余名暗中自桃山潜来的红衣神官――道门最强大的力量，都集中在这里，而不在桃山神殿里。\n　　这样恐怖的力量，等的不止是叶红鱼和莫山山，还有宁缺……当金帐覆灭、阿打和国师惨死的消息传到桃山，道门便开始着手做准备。\n　　前数日，宁缺在清河杀死横",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "擅长杀人，以往书院这般能杀的人是轲浩然，只不过时间隔的太久，已经渐被人间淡忘，他现在做的事情，就是让人们再次想起来。\n　　他入渭城，金帐亡，过大泽，南晋亡，现在他再次消失，不知去往人间哪个国度，又有哪个国度将要灭亡？\n　　……\n　　……\n　　盛夏渐去，酷暑依旧，西陵神殿在大河畔为宁缺准备的局，始终没",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的案板前不停地挥动沉重的刀，古铜色的身躯上竟是没有一滴汗。\n　　刀锋落下，溅出的是血与脂肪溢出形成的雪花。\n　　宁缺站在肉铺门槛外，看着案板后的屠夫说道：“你好。”\n　　屠夫没有抬头看他，依然继续着斫肉的动作，说道：“一般。”\n　　宁缺沉默了会儿，问道：“你见到她了吗？”\n　　屠夫停下斫肉的动作，从",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "老师他做的事情，至少相对是正确的。”\n　　“那是因为他拳头最大。”\n　　屠夫面无表情说道：“拳头大便道理大，书院就是这种地方？”\n　　宁缺想起小师叔，想起三师姐和自己，沉默了很长时间，然后他又想起老师，想起大师兄和二师兄，把早已想通的事情，再次梳理的更清楚了些。\n　　“你说的不是书院，也不是唐国。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "灭亡？\n　　……\n　　……\n　　盛夏渐去，酷暑依旧，西陵神殿在大河畔为宁缺准备的局，始终没有等到宁缺出现，更没有想到，他此时忽然出现在西陵神殿附近。\n　　前一个西陵神殿指的是道门，后一个西陵神殿指的是位置，是桃山峰顶那几座庄严的道殿――从小镇望去，刚好可以看到那个神圣的地方。\n　　大黑马来到了西陵神",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "上升了几分。\n　　那把看似寻常、厚而满是油光的屠刀，仿佛有座山一般重。\n　　“夫子总说宽仁，书院总说为人间，哪怕当年轲浩然杀了那么多人，依然如此，觉得自己从来无错，便是杀人也是为了人间所杀，就像现在书院和你做的这些事情一样，难道把人间杀了一半人，也是为了人间吗？”\n　　屠夫看着他说道：“拯救苍生？我",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "陵神殿指的是位置，是桃山峰顶那几座庄严的道殿――从小镇望去，刚好可以看到那个神圣的地方。\n　　大黑马来到了西陵神国，沉默地行走在桃山前那座小镇里，与远处山峰间神圣的道殿相比，小镇宁静而世俗，形成鲜明的对照。\n　　宁缺本准备去买些烤红薯吃，但在进入小镇时忽然改了主意，他沉默想了会儿时间，翻身下马，牵着",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "处是令人掩鼻的气息和令人难耐的高温，那个精壮的中年人，却依然穿着件皮围裙，站在厚厚的案板前不停地挥动沉重的刀，古铜色的身躯上竟是没有一滴汗。\n　　刀锋落下，溅出的是血与脂肪溢出形成的雪花。\n　　宁缺站在肉铺门槛外，看着案板后的屠夫说道：“你好。”\n　　屠夫没有抬头看他，依然继续着斫肉的动作，说道：“",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "不？”\n　　屠夫说道：“那里很冷。”\n　　宁缺说道：“但是，也很大。”\n　　说完这句话，肉铺内外变得安静，因为太过安静，于是死寂，铺里的死猪瞪圆了眼睛看着两个人，搁在沸水锅里的羊头也眯着眼睛看着他们。\n　　彼此有彼此的想法，没有共识，于是便有死意。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "着手做准备。\n　　前数日，宁缺在清河杀死横木的消息，也传到了这里，这个事实，令西陵神殿最强大的数人，同时沉默了很长时间。\n　　按照宁缺万里奔波杀人的速度，他应该到来的不会比消息慢多少，掌教、赵南海及中年道人，开始沉默地准备最后的战斗。\n　　就算叶红鱼和莫山山与宁缺之间形成某种默契，西陵神殿方面也觉得",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "有一滴汗。\n　　刀锋落下，溅出的是血与脂肪溢出形成的雪花。\n　　宁缺站在肉铺门槛外，看着案板后的屠夫说道：“你好。”\n　　屠夫没有抬头看他，依然继续着斫肉的动作，说道：“一般。”\n　　宁缺沉默了会儿，问道：“你见到她了吗？”\n　　屠夫停下斫肉的动作，从绳上取下一块布，胡乱擦了擦脸，又擦了擦手。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 254,
+  "chapter_title": "第六十章 有所思",
+  "filename": "ch_0254_第六十章 有所思.txt",
+  "char_count": 3317,
+  "timestamp": "2026-04-10T12:11:21.674402",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "秀的符师，在宁缺出现之前，她已经是神符师的传人。\n　　正如颜瑟大师所说，阵就是大符，最优秀的符师毫无疑问便是最优秀的阵师，她看湖，便是想看穿大明湖的这道神奇阵法。\n　　她站在湖畔认真看了一夜，终于大致猜到了这片青翠山谷的由来。\n　　清澈湖水深处有一座大阵，具体效用未明，但足以遮蔽视线甚至念力的感知，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "破境洞玄，便知此法并无玄妙。”\n　　莫山山平静说道，心里却在想着别的事情。视符道极为神圣的少女符师，心想若不是想着你想吃些新鲜东西，若不是想着身上贴着你的那些暖符，若不是想着你现在正处于破境的关键时刻，我怎么会做这种事？\n　　宁缺把那团美丽的琥珀冰块从湖里捞了起来，看着晨光下仿佛玉石般的冰块和里面那",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "鱼？”\n　　宁缺笑着回答道：“鱼钩都被那厮给咬走了，哪里能钓的上来。”\n　　莫山山站起身来，棉裙在晨风中微振，右手自袖中缓缓探出，随着一股微寒的符息波动，湖水间忽然多出了一方冰块，几乎透明的冰块里有一条极肥的无鳞鱼，看上去就像冰色琥珀一样美丽，随着水波轻轻荡漾。\n　　宁缺看着这幕画面，诚恳感慨道：“",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "揉肚子，看着专注看着自己的少女，问道：“饿了？”\n　　莫山山轻轻点头，看着身前湖水里的倒影，轻言细语说道：“我马上来做。”\n　　湖水里两个人的倒影非常清晰，显得要更靠近一些。\n　　宁缺问道：“肉干着实吃的有些腻了，能不能改善一下伙食？”\n　　莫山山看着他手中那根杨柳枝，好奇问道：“有没有钓上来鱼？”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "然后说道：“可惜没带什么调料，不然肯定更好。”\n　　很随意的一句话，主要还是赞美，但这是书痴姑娘此生第一次独立烹煮食物，而且隐约间还存着一些别的意思，所以听到这句话后并不怎么高兴。\n　　她低着头捧着一碗鱼汤，轻轻吹着上面的浮沫和热气，长长的睫毛微微眨动，片刻后轻声问道：“比你平时吃的要差些？”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "山，里面什么都有。\n　　莫山山抬起手臂，用衣袖擦去漂亮小圆脸蛋儿上的柴灰，睁着明亮的眼睛，满怀期待和紧张的神色看着他，问道：“怎么样？”\n　　在冰天雪地里过了这么长时间，能喝到一碗暖暖的鱼汤，当然是极好的享受，宁缺笑着赞了几句，然后说道：“可惜没带什么调料，不然肯定更好。”\n　　很随意的一句话，主要",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "他梦中，从来没有亲眼见过的荒原。\n　　今天的荒原之上没有满地尸骸，没有鲜血浸地的惨景，没有恐惧看天的人们，没有神情漠然的屠夫与酒徒，也没有那个高大的背影。\n　　只有寒冷干燥的空气，荒芜黑凉的原野，远处隐隐传来黑鸦的鸣叫。\n　　宁缺揉了揉眼睛，往黑鸦鸣叫处望去，却没有看到满天乌翅，只看到三道黑色的烟尘",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "大明湖四周的雪峰映入青翠山谷，光线温暖而又美好。\n　　宁缺钓鱼钓的无聊时，偶尔也会离开湖畔那块大石，来到少女身旁看她书写，点评几后自己提笔写上几个字，彼此参详欣赏。\n　　都是书道中人，最为耐得住寂寞，在这无人青翠山谷里，二人写字赏字看湖赏湖，时光飞逝的缓慢，别无特异之处。\n　　当然绝大多数时间，宁缺",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "……\n　　大明湖畔，宁缺正在破境边缘挣扎。\n　　离大明湖约数十里地之外的那道雪崖上，与宁缺用整个人生为代价进入破境之约的隆庆皇子，也已经踩到了知天命境界的门槛上。\n　　一只脚踩在门槛上，并不稳定，可能前进也可能倒退，就仿佛站在两个世界的分界线上，或者拥抱昊天神辉，或者堕落沉沦。\n　　隆庆皇子在雪",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "着专注看着自己的少女，问道：“饿了？”\n　　莫山山轻轻点头，看着身前湖水里的倒影，轻言细语说道：“我马上来做。”\n　　湖水里两个人的倒影非常清晰，显得要更靠近一些。\n　　宁缺问道：“肉干着实吃的有些腻了，能不能改善一下伙食？”\n　　莫山山看着他手中那根杨柳枝，好奇问道：“有没有钓上来鱼？”\n　　宁缺",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "是一座山，里面什么都有。\n　　莫山山抬起手臂，用衣袖擦去漂亮小圆脸蛋儿上的柴灰，睁着明亮的眼睛，满怀期待和紧张的神色看着他，问道：“怎么样？”\n　　在冰天雪地里过了这么长时间，能喝到一碗暖暖的鱼汤，当然是极好的享受，宁缺笑着赞了几句，然后说道：“可惜没带什么调料，不然肯定更好。”\n　　很随意的一句话",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "宁的大明湖，身旁也没有了莫山山的踪影，只有一片荒凉。\n　　他再次来到了荒原之上，那片只出现在他梦中，从来没有亲眼见过的荒原。\n　　今天的荒原之上没有满地尸骸，没有鲜血浸地的惨景，没有恐惧看天的人们，没有神情漠然的屠夫与酒徒，也没有那个高大的背影。\n　　只有寒冷干燥的空气，荒芜黑凉的原野，远处隐隐传来",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "慧和强大力量，对于当年的魔宗以及布下这道大阵的前辈，不免生出极浓郁的敬畏之心。\n　　晨光渐至，莫山山缓缓睁开眼睛，从空明心境中醒来，转头望向身旁，只见宁缺还坐在湖畔的石头上钓鱼，好笑的他眼睛闭着，明显已经随着了，脑袋随着湖波轻轻上下点动，倒像是在用脑袋钓鱼一般。\n　　或许是感受到了她的目光，宁缺醒了",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "山铺开书卷，坐在他身旁不远处开始写字，天穹上的冬阳散发出的光浑，被大明湖四周的雪峰映入青翠山谷，光线温暖而又美好。\n　　宁缺钓鱼钓的无聊时，偶尔也会离开湖畔那块大石，来到少女身旁看她书写，点评几后自己提笔写上几个字，彼此参详欣赏。\n　　都是书道中人，最为耐得住寂寞，在这无人青翠山谷里，二人写字赏字看",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

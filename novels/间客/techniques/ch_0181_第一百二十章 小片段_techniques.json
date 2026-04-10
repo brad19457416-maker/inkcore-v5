@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 181,
+  "chapter_title": "第一百二十章 小片段",
+  "filename": "ch_0181_第一百二十章 小片段.txt",
+  "char_count": 3639,
+  "timestamp": "2026-04-10T12:04:45.702529",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "站在首都特区高大建筑的顶层。透过四方地玻璃，看着脚底下那些庶民的悲欢离合。\n\n    但今天他没有看风景，而是认真地看着桌上的那些情报案卷，很久之后才抬起头来，平静说道：“研究所三部实验室里的那些资料，必须要拿到手，这是罗秘书的请求，科学院虽然可以从正面给果壳董事会压力，但是那个助理研究人员似乎有些",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "面比较感兴趣？”\n\n    许乐没有回答他的话，只是微低着头，保持着沉默。办公室里的气氛顿时变得有些紧张，主任用手帕擦了擦额头的冷汗，有些艰难地开口说道：“这事情真的有些难办。”\n\n    虽然不知道内情，但昨天清晨公司的技术主管直接要求封存沈老教授的实验室，而且背后还有联邦科学院那些大拿们的身影，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第一百二十章 小片段 \n\n    听到许乐的要求，主任愣了愣，没有马上开口应下，反而是笑着说道：“许少尉，研究所三部还有很多研究部门，你对哪方面比较感兴趣？”\n\n    许乐没有回答他的话，只是微低着头，保持着沉默。办公室里的气氛顿时变得有些紧张，主任用手帕擦了擦额头的冷汗，有些艰难地开口",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "问题，虽然数万年以降。这些家族已经有了一套成熟的继承体制。可是那种兄弟姐妹间地倾轧，并不会因为体制的存在。而变得云淡风轻。\n\n    利修竹选择朴志镐来做这件事情，一方面是要把自己摘出来。另一方面自然也是要考量一下，当小七利孝通查觉他动用了自己的人手后，会有怎样地反应。\n\n    “每个人都有自己的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "像是一场梦一般美妙。\n\n    “实验室已经被封存，后天董事会的书面命令就可以下来，我不明白，这时候为什么还要对那个少尉出手。”朴志镐并没有因为这个美妙的梦而丧失所有的理性判断，轻声说道。\n\n    利修竹抬起头来，带着一丝欣赏看了他一眼，说道：“你不需要了解我做事的手法，只需要去做。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "果壳机动公司，他一向自以为优秀，但没有想到，一直被一院的周玉将自己死死压住，后来在春季招募考试中，又出现了那个叫许乐的挖坑兵……\n\n    直接进入联邦科学院，成为院长大人的学生？这就像是一场梦一般美妙。\n\n    “实验室已经被封存，后天董事会的书面命令就可以下来，我不明白，这时候为什么还要对那个",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "融界地顶端。这种孤单实际上是一种荣耀。\n\n    二十七岁的年纪，已经是三林联合银行地副总裁。联邦七大家利家的继承人，习惯于站在首都特区高大建筑的顶层。透过四方地玻璃，看着脚底下那些庶民的悲欢离合。\n\n    但今天他没有看风景，而是认真地看着桌上的那些情报案卷，很久之后才抬起头来，平静说道：“研究",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "越多的冷汗，大脑快速地转动着，两方面他都不想得罪，更不敢得罪，如果这位国防部副部长的乘龙快婿，只是想进入实验室，进行一些收尾工作，想来也不会让那边太过不悦。\n\n    果壳研究所的数据安全工作做的极好，只让此人进入实验室，对方不可能在不惊动安全部门的情况下，对那个数据库和实验室里的一切造成毁坏。一念",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "第一百二十章 小片段 \n\n    听到许乐的要求，主任愣了愣，没有马上开口应下，反而是笑着说道：“许少尉，研究所三部还有很多研究部门，你对哪方面比较感兴趣？”\n\n    许乐没有回答他的话，只是微低着头，保持着沉默。办公室里的气氛顿时变得有些紧张，主任用手帕擦了擦额",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "优势也是致命伤。利修竹微眯着眼睛，看着脚下首都特区街道中的影子。不禁有些羡慕，邰之源那个小子至少不用担心家族权利分配的问题，只不过如果这小子死了，邰家也算是完了。\n\n    联邦七大家，除了邰家和钟家之外，其余的五个家族一直以来都面临着权利分配地问题，虽然数万年以降。这些家族已经有了一套成熟的继承体",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "所带来的大名誉，会为联邦最重要的总统选举，带来大变数。这些联邦上层的大人物们，所做的一切事情都是为了权力二字，无论是那间实验室里的数据资料，还是那个即将面临麻烦的年轻少尉许乐，都只是总统选举中的一个个小情节片段wＷw．xiＡoshＵotxt.cＯm",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "朴志镐脸部的表情终于变化了一下，悬在身侧的手轻轻地握了握，从军事学院进入果壳机动公司，他一向自以为优秀，但没有想到，一直被一院的周玉将自己死死压住，后来在春季招募考试中，又出现了那个叫许乐的挖坑兵……\n\n    直接进入联邦科学院，成为院长大人的学生？这就像是一场梦一般美妙。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "渗了进来，多层玻璃内部构造可以自行调节角度，进入建筑空间内部的光线，并不刺眼，也不是炽烈，只是一味的温暖清朗。\n\n    利修竹在空无一人的办公室里。沉默了许久，然后走到了玻璃幕墙的旁边，看着首都特区里高低不一地建筑群，久久无语。\n\n    邰家那位太子爷。自从离开临海州之后，便再也找不到丝毫踪迹，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

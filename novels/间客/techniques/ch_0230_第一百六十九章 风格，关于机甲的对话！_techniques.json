@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 230,
+  "chapter_title": "第一百六十九章 风格，关于机甲的对话！",
+  "filename": "ch_0230_第一百六十九章 风格，关于机甲的对话！.txt",
+  "char_count": 3317,
+  "timestamp": "2026-04-10T12:04:51.187152",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "在十几年前大战结束之后，联邦与帝国之间保持着表双方在星域交织的区域依然在不停地进行着试探，零星的冲突与伤亡从来没有停止过。第四军区驻守的西林大区哲伦星云空间通道，是联邦与帝国必争之地，这些年在那些资源星甚至是荒芜星球上的战争，一直在持续。而百慕大三角星域那边。则是双方用来试探彼此军事力量的最佳场",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "到军队，连白水公司总部都没有来过。\n\n    “要不要先洗个澡？”许乐走下控制台，望着低着头的白玉兰说道。这个男人总是习惯性地微低着头，不知道是不是为了掩饰自己太过秀气的五官，还是说他不想看见什么东西。\\*\\有流太多汗。”白玉兰轻声回答道。\n\n    控制台上的口哨声还在继续，许乐回头笑着看了一眼，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "种操控能力的机师，如果在联邦军队中，肯定是一名王牌机师。\n\n    当然，白水公司做为联邦军方最大的秘密承包商，也有军队的王牌机师曾经改变身份来这里执行过任务，但那些高高在上的机师，却不会长期驻在基地中，甚至往往执行完任务之后，便会回到军队，连白水公司总部都没有来过。\n\n    “要不要先洗个澡？”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "公司，这一呆也是好几年了。我性格有些怪异，杀人太多，又太喜欢钞票，所以没什么人喜欢我。”\n\n    第一次简单地交待了自己的来历与背景后。白玉兰便再也没有在许乐面前谈论过自己，这个习惯一直维持到很久以后。\n\n    两个人走出了地下基地，顺着自行履带通道，来到了白水公司大楼侧方地平台上。此时快要接近",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "许乐面前谈论过自己，这个习惯一直维持到很久以后。\n\n    两个人走出了地下基地，顺着自行履带通道，来到了白水公司大楼侧方地平台上。此时快要接近傍晚，星系的太阳向着反方向移动。红艳艳的光芒，照耀在白水公司隔壁那一大片联邦农场上空，将那些青翠欲滴的青菜照成了燃烧的火苗。\n\n    许乐点燃了打火机，将",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "“我是班长。本来应该上军事法庭，但原来的主官求了情，所以把我发配到了白水公司，这一呆也是好几年了。我性格有些怪异，杀人太多，又太喜欢钞票，所以没什么人喜欢我。”\n\n    第一次简单地交待了自己的来历与背景后。白玉兰便再也没有在许乐面前谈论过自己，这个习惯一直维持到很久以后。\n\n    两个人走出了",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "地比喻，倒真的很少见。”\n\n    “嗯。这句话是以前第四军区那边的特种营流传过来的，因为形象，所以大家都记住了。”白玉兰低头说道：“机甲的特征便在这些地方，天生是一种突击性质的恐怖战斗机器，如果用来防御，那实在是极大的浪费，还不如堆几十辆重型装甲车。”\n\n    “联邦军队特种机甲营，没有打防守的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百六十九章 风格，关于机甲的对话！ \n\n    自行维护设备悄无声息地驶进了宽阔的机战室中，发着嘀嘀轻柔的声音，光滑结实的地面下方，圆心的四周伸出了几个探头，驳接在黑色机甲的腹部驳接口处，开始进行控制电脑的测试与",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "台墙壁的瘦削身体，他的心情有些怪异，这样一个平静的有些出奇，像个少女一般地旦进入机甲之后，却能让那台沉重地像一只猎豹般凶猛灵动。\n\n    “能不能教我怎么开机甲？”许乐抽了一口烟。就像是忽然想到了这件事情。随口说道。\n\n    他现在对机甲的了解已经极为深入，在梨花大学里。也曾经做过无数次的演练，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "第一次简单地交待了自己的来历与背景后。白玉兰便再也没有在许乐面前谈论过自己，这个习惯一直维持到很久以后。\n\n    两个人走出了地下基地，顺着自行履带通道，来到了白水公司大楼侧方地平台上。此时快要接近傍晚，星系的太阳向着反方向移动。红艳艳的光芒，照耀在白水公司隔壁那一大片联邦农场上空，将那些青翠欲",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

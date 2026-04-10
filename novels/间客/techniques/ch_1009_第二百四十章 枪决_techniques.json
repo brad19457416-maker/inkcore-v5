@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 1009,
+  "chapter_title": "第二百四十章 枪决",
+  "filename": "ch_1009_第二百四十章 枪决.txt",
+  "char_count": 3362,
+  "timestamp": "2026-04-10T12:05:26.908472",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "藏的一些隐含意味渐渐清晰，联合调查部门的官员们终于明白贝里主任为什么先前会有那样的表现。\n\n    危险的气氛弥漫在场间，顺着冰冷钢铁机甲和枪械的边缘缓慢而沁人的流转着，仿佛要冻结所有的热度与嘈杂，贝里主任脸色微微发白，望着李疯子的脸，垂在裤边的手指微微颤抖。\n\n    他很怕不代表部门里所有人都怕",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "地要求他们留下来接受自己的审查，其中隐藏的一些隐含意味渐渐清晰，联合调查部门的官员们终于明白贝里主任为什么先前会有那样的表现。\n\n    危险的气氛弥漫在场间，顺着冰冷钢铁机甲和枪械的边缘缓慢而沁人的流转着，仿佛要冻结所有的热度与嘈杂，贝里主任脸色微微发白，望着李疯子的脸，垂在裤边的手指微微颤抖。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "举起手中的枪，对准那个叫尼奥的宪章局官员，面无表情抠动扳机。\n\n    随着一声清脆的枪响，尼奥脑后骤然喷出一蓬血花，然后眉心间缓缓现出一个深深的血洞，就像是一个怪物惊愕而惘然的第三只眼。\n\n    咚的一声闷响，宪章局官员的身躯像塞满石墨矿的麻袋，重重地摔落到地面，稍一弹起便僵硬无觉。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "说了两句话，一名高阶宪章局官员就在李疯子的枪口下变成冰冷的尸体，小眼睛部队精锐们的感受自然和新十七师众人截然相反。\n\n    他们当中大多数人震骇莫名地望着李疯子的脸；试图在这今年轻师长的脸上找到一丝暴戾或变态的情绪，却什么都无法找到，只是一片平静或者叫冷漠。\n\n    有少数还没有被缴械的小眼睛部",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "战斗部队成员，必须在半小时内撤离行星地表。”\n\n    他的目光越过李疯子铁尺般的肩头，望向灰蒙蒙的天空，微微颌首说道：“舰队的接应船马上就要降落。”\n\n    联合调查部门有九个名字被点到，被要求留下，除了贝里主任之外，还有六名高级调查官员以及两名小眼睛特战部队的指挥官。这些人都参与了对新十七师n",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "而沁人的流转着，仿佛要冻结所有的热度与嘈杂，贝里主任脸色微微发白，望着李疯子的脸，垂在裤边的手指微微颤抖。\n\n    他很怕不代表部门里所有人都怕，联合调查部门拥有罕见的高级权限，直接向总统和参谋联席会议负责，这些年来肆虐首都星圈官场与司法界，从未遇到过任何真正的挑战，尤其是里面那些来自宪章局的高阶",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "章局，是整个联邦的基石，政仧府再强力的部门，都不敢违逆这个机构的意愿，甚至议会山和总统府都必须对这个存在表示出足够的尊敬。\n\n    这是联邦深入人心的传统或者说规矩，就连联邦军方都不得不有些窝囊地遵守这一切，眼睁睁看着那些技术官员像大爷一样留在基地中，带着轻蔑劲儿指挥着宪章网络的重构与启动。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的宪章局官员，面无表情抠动扳机。\n\n    随着一声清脆的枪响，尼奥脑后骤然喷出一蓬血花，然后眉心间缓缓现出一个深深的血洞，就像是一个怪物惊愕而惘然的第三只眼。\n\n    咚的一声闷响，宪章局官员的身躯像塞满石墨矿的麻袋，重重地摔落到地面，稍一弹起便僵硬无觉。\n\n    清清袅袅的枪声回荡在基地里，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "针般扎进他们后背。数十台黑色的mx机甲，像冰冷的钢铁巨人般微微调整姿态，机身前倾，机械臂上的达林机炮同时开始高速旋转，凄厉的嗡鸣声迭加在一处，份外煞人。新十七师姿态很明确，如果小眼睛特战部队此时胆敢开火还击，那么占据绝对优势的机甲群绝对不介意用数万颗比手指还要粗的子弹，把他们全部削成肉渣。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "必须在半小时内撤离行星地表。”\n\n    他的目光越过李疯子铁尺般的肩头，望向灰蒙蒙的天空，微微颌首说道：“舰队的接应船马上就要降落。”\n\n    联合调查部门有九个名字被点到，被要求留下，除了贝里主任之外，还有六名高级调查官员以及两名小眼睛特战部队的指挥官。这些人都参与了对新十七师ntr部队的调查",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "点到名的尼奥就是其中一员。\n\n    大学毕业直接进入宪章局，除了联合调查部门这三年接触过普通的联邦社会，他一直在那个神秘机构里工作，在神圣不可侵犯的宪章光辉之中沐浴了太久，很自然形成宪章局官员同样神圣不可侵犯的概念。\n\n    他走过贝里主任身旁，看着李疯子的脸，微笑说道：“很抱歉，我不能按照你们",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "看着被自己审查的对象如冬日黄羚瑟瑟。\n\n    被点到名的尼奥就是其中一员。\n\n    大学毕业直接进入宪章局，除了联合调查部门这三年接触过普通的联邦社会，他一直在那个神秘机构里工作，在神圣不可侵犯的宪章光辉之中沐浴了太久，很自然形成宪章局官员同样神圣不可侵犯的概念。\n\n    他走过贝里主任身旁，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 160,
+  "chapter_title": "第一百六十章 春晨之风光",
+  "filename": "ch_0160_第一百六十章 春晨之风光.txt",
+  "char_count": 4369,
+  "timestamp": "2026-04-10T12:11:11.986551",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "了想后，说道：“过些日子请你去我家吃饭，我让桑桑给你做酸辣面片汤，跟你说她的手艺可不比东城摊子差，这秘密我一般不告诉别人。”\n　　陈皮皮没有接这话，看着他忽然开口说道：“今日之后我们便是师兄弟了。”\n　　宁缺看着他的圆脸，虽然有些不甘心，但叹息一声后不得不再次拜倒，道：“师兄。”\n　　陈皮皮眉开眼笑",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "：“余生也天才，又入夫子门下，若不能先柳白跨出那步，岂不羞死？”\n　　颜瑟听着这回答，顿时愕然无语，心想连世间公认第一强者柳白都无法摧毁此人的骄傲与自信，这可真是全无办法，沉默片刻后试探着问道：“叶苏……如何？”\n　　二师兄微微蹙眉，面露憎恶之色，似乎是在说你居然把我和那等废柴相提并论，实在荒唐。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百六十章 春晨之风光\n　　颜瑟气的浑身颤抖，然而还没有等到他来得及做出反应，又听着崖畔那边传来了一句补充。\n　　“噢，我说错了，李青山和你还是敢哭两声的，会哭的孩子才有奶吃，你们现在的问题是不知道扑左边的奶子，还是右",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "子才有奶吃，你们现在的问题是不知道扑左边的奶子，还是右边的奶子。”\n　　颜瑟被这句话弄的一怔，满怀的愤怒被迫升华为哭笑不得，恼火说道：“用词何其粗俗。”\n　　二师兄转过身来，平静看着他说道：“屎橛黄尿也是道，只要说的有道理，何必在意用词。”\n　　颜瑟连连摇头，看着神情肃然方正，根本不像个市井之徒的对",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "不知道扑左边的奶子，还是右边的奶子。”\n　　颜瑟被这句话弄的一怔，满怀的愤怒被迫升华为哭笑不得，恼火说道：“用词何其粗俗。”\n　　二师兄转过身来，平静看着他说道：“屎橛黄尿也是道，只要说的有道理，何必在意用词。”\n　　颜瑟连连摇头，看着神情肃然方正，根本不像个市井之徒的对方，叹息说道：“君陌啊君陌，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "弟不用多礼。”\n　　宁缺抬起头来，二人相视一笑。\n　　整整一年在旧书楼的相识相交，一个不能修行的废柴最终成了书院二层楼的一分子，无论是宁缺本人，还是亲眼看着这场奇迹一点一点发生的陈皮皮，心头都生出无限感慨唏嘘。\n　　陈皮皮感慨说道：“老师曾经说过，极西干旱之地有种蝉，匿于泥间二十三年，待雪山冰融洪水",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "也不过是自曝其短，几乎只是转瞬之间，他便将这份怒意尽数转到了房间里的宁缺头上。\n　　不知何时，林公公来到他的身边，怀着好意提醒道：“殿下，其实依奴才看来，对于西陵方面如何交待，陛下其实并不在关心，至于宁缺此人，您或许还是不要理会为好。”\n　　……\n　　……\n　　确认亲王殿下和那些朝廷官员都离开了书院",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "不得，恼火说道：“用词何其粗俗。”\n　　二师兄转过身来，平静看着他说道：“屎橛黄尿也是道，只要说的有道理，何必在意用词。”\n　　颜瑟连连摇头，看着神情肃然方正，根本不像个市井之徒的对方，叹息说道：“君陌啊君陌，你要世人如何看你？真不明白像你这般骄傲这般二的人，怎么还活了这么多年。”\n　　二师兄微微一",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "清旷很多，官员和使臣们早已纷纷散去，大部分书院学生留了下来，他们聚拢在那张告示下，抬首望着那个熟悉又陌生，被他们刻意遗忘了半年，今日却以如此凶残的方式强行回到他们眼中的名字，震惊的沉默无语。\n　　知道了二层楼考试的最终结果，学生们依旧没有离开，在他们的潜意识里，或许是想亲眼看着宁缺走到自己身前，才能",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "未免有些过于自虐。\n　　晨光不再熹微，和春风一道温柔地照拂着山脚下的书院，一大一小两个身影从书院后方缓缓走了出来，所有人的目光下意识里望了过去。\n　　在山道上摸爬滚打一夜，宁缺身上的学院春服被撕破了很多道口子，再加上那些泥土的痕迹和糕点的污渍，看上去显得异常狼狈。走在他身旁的桑桑也好不到哪里去，身上",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "湿地，艰难而缓慢地向前坪走去。\n　　……\n　　……\n　　书院前坪比昨夜安静清旷很多，官员和使臣们早已纷纷散去，大部分书院学生留了下来，他们聚拢在那张告示下，抬首望着那个熟悉又陌生，被他们刻意遗忘了半年，今日却以如此凶残的方式强行回到他们眼中的名字，震惊的沉默无语。\n　　知道了二层楼考试的最终结果，学",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "到自己身前，才能证明这一切并不是幻觉，只是这种潜意识未免有些过于自虐。\n　　晨光不再熹微，和春风一道温柔地照拂着山脚下的书院，一大一小两个身影从书院后方缓缓走了出来，所有人的目光下意识里望了过去。\n　　在山道上摸爬滚打一夜，宁缺身上的学院春服被撕破了很多道口子，再加上那些泥土的痕迹和糕点的污渍，看上",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

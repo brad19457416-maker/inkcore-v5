@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 842,
+  "chapter_title": "第十五章 破屋里的男子",
+  "filename": "ch_0842_第十五章 破屋里的男子.txt",
+  "char_count": 3572,
+  "timestamp": "2026-04-10T12:11:27.283237",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "回，整个过程很简单，没有任何人发现。\n　　按照原来的计划，他准备在临康城里呆两天，感受一下此间的人情风物，看看对自已的修行有没有什么帮助，然后便要离开。\n　　既然是重赴红尘觅机缘，要感受人间的气息和力量，自然要与普通人接触，所以他直接去了东城，和长安相同，临康的东城也住着最穷困的人，而最穷困就是最普",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "思议的震惊神情，完全就像是看到了世界上最荒谬的事情。\n　　女孩听着弟弟的回报，脸色变得异常难看，推开人群挤了进去，看着一名衣着相对稍好些的同龄女孩，大声说道：“今天轮到我家做饭！”\n　　然后她望向破屋前那些端着饭碗的孩子，瞪圆眼睛说道：“轮到我家就是我家，谁要敢和我抢，我夜里就去把他家房子给烧了！”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "抢几口。\n　　宁缺想了想，跟了上去。\n　　在这片破落坊市的最深处，有一间最破落的房子，女孩带着弟弟们来到房前，才发现房前已经围满了像他们一样的孩子，手上都端着饭碗。\n　　弟弟踮起脚尖，看着别家孩子手里端着的饭碗，转身对她喊道：“姐，郑丽丽家居然做的红烧肉！做的红烧肉啊！”\n　　小男孩的表情异常夸张，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "女孩听着弟弟的回报，脸色变得异常难看，推开人群挤了进去，看着一名衣着相对稍好些的同龄女孩，大声说道：“今天轮到我家做饭！”\n　　然后她望向破屋前那些端着饭碗的孩子，瞪圆眼睛说道：“轮到我家就是我家，谁要敢和我抢，我夜里就去把他家房子给烧了！”\n　　端着饭碗来送饭的孩子有十几名，有些年龄明显要比",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第十五章 破屋里的男子\n　　对修行者来说，危险往往便是契机，越大的危险，越有可能帮助他们破境，黄杨大师当年在西荒遇着马贼，生死存亡之际开悟，观主在长安城千万把刀前晋入传说中的清静境界，这些都是明证。\n　　离开长安城，对宁缺来说，自然是一场冒险",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "不要脸的狐媚子，你这是给老师送饭还是要勾引男人？”\n　　郑丽丽被气的小脸通红，又不擅长对骂，手都开始颤抖起来，却害怕碗里的红烧肉落到地上，不敢出手去撕女孩的嘴。\n　　女孩看着她冷哼一声，仰起头挺起明显还没发育完全的小胸脯，就像得胜的母鸡那般，端着青菜饭向破屋走去。走到破屋前，她的神情顿时变得无比恭顺",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "在藏身于临康东城破落屋宅里的他，却是那样的平静，那样的普通，仿佛他在这里已经生活了很多个年头。\n　　究竟发生了什么事？\n　　便在这时，人群外忽然传来暴戾的喝骂声和鞭声。\n　　一名神官在十余名护卫的保护下，走到了旧屋前。神官看着捧着饭碗的叶苏，寒声质问道：“谁准你在这里授课的？”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，其时呼兰海寒风呼啸，无数强者云集，即便是大师兄，都不能完全掩去这名男子的光彩。\n　　这名男子无论是出现在西陵神殿或是魔宗山门，俗世皇宫或是烂柯古寺，都是那样的骄傲，因为他是道门天下行走叶苏。\n　　然而现在藏身于临康东城破落屋宅里的他，却是那样的平静，那样的普通，仿佛他在这里已经生活了很多个年头。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "随意地梳了个道髻，上面插了根筷子，神情宁静而自然。\n　　他看着屋外那些端着饭碗的孩子，看着孩子们脸上盼望的神情，忍不住微涩一笑，说道：“回去告诉你们父母，事先便说好一家家轮着吃，如果你们还是要坚持如此，那我只好离开这里。”\n　　听男子说要离开这里，那些孩子们像是听到了最可怕的事情，赶紧把先前高高举着",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "了出来。\n　　男子眉眼清晰至极，穿着件无领的薄布衫，乌黑的头发随意地梳了个道髻，上面插了根筷子，神情宁静而自然。\n　　他看着屋外那些端着饭碗的孩子，看着孩子们脸上盼望的神情，忍不住微涩一笑，说道：“回去告诉你们父母，事先便说好一家家轮着吃，如果你们还是要坚持如此，那我只好离开这里。”\n　　听男子说要",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

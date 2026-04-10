@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 579,
+  "chapter_title": "第八十三章 秋雨里的掌印，寺前的舞",
+  "filename": "ch_0579_第八十三章 秋雨里的掌印，寺前的舞.txt",
+  "char_count": 3520,
+  "timestamp": "2026-04-10T12:11:26.667877",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "是著名大寺，如果要把那些普通寺庙算进去，只怕要超过一千之数，而且那里邻着西方荒原，与悬空寺要近很多，为什么佛宗当年没有把盂兰节会放在月轮国举行，比如白塔寺？”\n　　宁缺不解问道。\n　　歧山大师问道：“你可知道当年悬空寺在世间修的第一座大寺在哪里？”\n　　宁缺摇了摇头。\n　　歧山大师指着栏下的重重殿檐",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "里？”\n　　宁缺摇了摇头。\n　　歧山大师指着栏下的重重殿檐，说道：“便是此间。”\n　　宁缺微感吃惊，心想这是什么道理？\n　　歧山大师知道他在想些什么，解释道：“因为这里离悬空寺最近。”\n　　宁缺心想悬空寺远在极西荒原深处，而烂柯寺则是地处东南，瓦山顶峰上便能看到海岸线，两地之间的距离，明明是世间最远",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "鬓摇动，觉得极为悦目。\n　　远远看着舞台上的小草，用清脆的声音不停指挥着，训斥着，俨然已经有了几分简大家的作派，桑桑忍不住笑了起来。\n　　红袖招此次献祭的舞蹈，虽然不如霓裳那般华美惊世，但却多了几分佛宗天女吉祥之感，想来应该会非常成功。\n　　宁缺和桑桑只是站在亭中远远看着，并没有去与红袖招舞团相会的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "生当年早已逾越。\n　　歧山大师看着宁缺，感伤想道，师弟你正在不断地真正离开这个世界，难道这就是你继续存在于这个世界的方式吗？\n　　……\n　　……\n　　各国使团已经纷纷抵达瓦山，在前寺商议荒人南侵一事，成日里都在开会，修行者们在中寺里议论着前些天在瓦山里的见闻，敬畏又兴奋地回思着当日的情景，同时猜测着",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "片，然后渐渐回复寻常。\n　　看着槛外渐骤的秋雨，他举起右臂，意随念走，极为随意向前伸出。\n　　殿前秋风大作，雨丝飘摇不安，悄无声息间，重重雨幕里，忽然出现了一片极大的空白，那片空间里没有一滴雨珠，看着干燥无比。\n　　如果仔细望去，秋雨里的那片空白，恰好是个手掌的形状。\n　　不知道过了多长时间，缭绕在",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "举起右臂，意随念走，极为随意向前伸出。\n　　殿前秋风大作，雨丝飘摇不安，悄无声息间，重重雨幕里，忽然出现了一片极大的空白，那片空间里没有一滴雨珠，看着干燥无比。\n　　如果仔细望去，秋雨里的那片空白，恰好是个手掌的形状。\n　　不知道过了多长时间，缭绕在佛殿前的气息才渐渐淡去，那些斜掠横飞不敢落的秋雨，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "原因。\n　　因为这些知见障，莲生当年早已逾越。\n　　歧山大师看着宁缺，感伤想道，师弟你正在不断地真正离开这个世界，难道这就是你继续存在于这个世界的方式吗？\n　　……\n　　……\n　　各国使团已经纷纷抵达瓦山，在前寺商议荒人南侵一事，成日里都在开会，修行者们在中寺里议论着前些天在瓦山里的见闻，敬畏又兴奋",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "宁缺想着那日自己和桑桑在佛祖棋盘上的奇遇，又想着这些天没有离身的那本佛祖笔记，心里也多了几分相信，紧张问道：“现在那法阵呢？”\n　　歧山大师微涩一笑，说道：“再如何风流，总被风吹雨打去，佛祖再如何强大，数千数万年过去，他留下的法力也早已消散无踪，传说中的那座简易石塔，只怕早就化成了飞灰，寺中僧人后",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "团依然在热烈或激烈的讨论，修行者们依然在互相切磋，前寺一片严肃紧张，中寺剑影活泼。\n　　唯有后寺依然安静，学习佛法的闲暇，宁缺偶尔会带着桑桑到中寺诸殿散步，他们撑着大黑伞行走在淅淅沥沥的秋雨里，听着各座殿内的声音微笑不语，没有人注意到他们的存在，只要他不想让人注意到。\n　　他们还去了前寺，站在秋树亭",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "南侵一事，成日里都在开会，修行者们在中寺里议论着前些天在瓦山里的见闻，敬畏又兴奋地回思着当日的情景，同时猜测着过些日子的盂兰节会不会再来什么大人物。\n　　宁缺和桑桑自然不会理这些事情，虽然是受邀前来参加盂兰节。他们在烂柯寺后寺里读佛经，看佛像，随歧山大师参观诸殿的佛教壁法，生活过的异常平静，便是他们",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "年过去，黑夜始终没有来临，冥界入侵的传说变成了真正的传说，哪里还有修行者会在意？”\n　　歧山大师微笑说道：“盂兰节每年都会有一次，修行者的聚会时间则是并不固定，虽然失了原意，但我佛门也不想失去展现自己的机会。”\n　　“月轮国号称烟雨七十二寺，还说的是著名大寺，如果要把那些普通寺庙算进去，只怕要超过一",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "是佛门特有的平静沉默自持，自有其动人之处。\n　　如今桑桑大病渐愈，宁缺学佛亦有收获，心境自然平和，他日后回忆起来，天启十六年秋天在烂柯寺里的短短数日，竟是他这一生最平静喜乐的一段时光，然而那时候他才明白，这种平静喜乐原来只是令人心酸的安慰。\n　　……\n　　……\n　　盂兰节正日。\n　　来自世间诸国的游",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "净土。”\n　　宁缺震惊说道：“我只听说过大唐军方和西陵神殿有些特殊强大的符阵，可以传递简单的信息，却从来没有听说过有什么阵法可以把人传到远方，这岂不是传说中无距的境界？”\n　　歧山大师说道：“佛门里没有天启，自然也没有无距的说法，不过以佛祖通天彻地之能，弄出这样一样物事，也不是太过难以想象。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

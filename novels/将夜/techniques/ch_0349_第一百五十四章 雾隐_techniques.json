@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 349,
+  "chapter_title": "第一百五十四章 雾隐",
+  "filename": "ch_0349_第一百五十四章 雾隐.txt",
+  "char_count": 3311,
+  "timestamp": "2026-04-10T12:11:21.769727",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "为只有这样，才能让修行不同法门的修行者都感到公平。\n　　南门道观正殿非常大，顶上那根黑梁仿佛是横亘在天空里的一道线，空间阔大到完全可以装进整株的千年高树，可以装进十几座假山，然而此时的殿内没有高树没有假山甚至连桌椅都没有，只有极高处的横梁侧方的廊柱，显得格外空旷。\n　　地面铺着的乌黑色木板仿佛没有边",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "道殿内骤然出现了一股极纯正的佛门气息，澄静淡然令人生出不争之感。\n　　然而既然是战斗，哪里又有不争的道理？\n　　宁缺左手扶着膝头，右手缓缓抬起，指尖微弹，便有一片微黄符纸缓缓飘出，门窗早已紧闭，殿内没有丝毫微风，然而不知为何，那片符纸仿佛可以凭空借风，竟是像秋风中的落叶般，飘飘摇摇穿过整座大殿，向观",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "僧衣哗哗向下淌，也在观海僧微黑的脸颊上纵横，他看着远处草席上的宁缺，心间生出极强烈的不解，这第二道符为什么会是一道水符？\n　　先前那道猛烈的符火让他确认宁缺在符道上的造诣果然精深，如果不是自己早已修成身似诸天法像，只怕一个照面就要吃大亏，然而水乃世间最柔最弱之物，若要单以水符破敌，那必须修到神符师的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "厚实的佛宗气息前，那片飘摇的微黄符纸显得那般孱弱不堪，就如同秋风里的落叶，然而二者甫一相遇，那道符纸瞬间凶猛地燃烧起来，在极短的时间内暴涨成巨大的火团，把观海僧的身体笼罩其间！\n　　面对着如此猛烈的符火，观海僧却是神情不变，甚至缓缓闭上了眼睛，竖于胸间的右掌中指再屈，以身相拟的护教明王法像多了一道静",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第一百五十四章 雾隐\n　　选择南门观正殿做为战场，是宁缺刻意的选择。\n　　修行者之间的战斗声势太过惊人，不能在街巷之间进行，而他不愿意让太多人看到自己的出手，所以需要选择一个密闭的空间，那个空间需要足够大，因为只有这样，才能让修行不同法门的修行者都感到公平。\n　　南门道观正殿非常大，顶",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "身周无形天地元气屏障的时候，第二张符纸已经悄无声息飘出他的衣袖，贴着乌黑哑光的地板飘向观海僧，当符火最终焕散，观海僧睁开双眼意图反击时，那张符纸开始施放出磅礴的符意。\n　　磅礴暴雨从天而降。\n　　然而现在是在道殿内，殿便有屋顶，哪里来的天？\n　　暴雨便是从道殿内约三丈高的空气中无由生成，然后哗哗落下",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，面露微笑不语。\n　　宁缺不知这僧人起手势便是佛宗护教明王庄严法像，但能清晰地感觉到清旷的道殿内骤然出现了一股极纯正的佛门气息，澄静淡然令人生出不争之感。\n　　然而既然是战斗，哪里又有不争的道理？\n　　宁缺左手扶着膝头，右手缓缓抬起，指尖微弹，便有一片微黄符纸缓缓飘出，门窗早已紧闭，殿内没有丝毫微风",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "作，只是低下了头。\n　　观海僧隔着眼前瀑布般的雨帘，隐约看到那滴雨珠没入宁缺的头发里，不禁神情微凛，暗想若让真伤害了对方，烂柯寺该如何向书院交待？\n　　然而出乎意料，那滴雨珠似乎对宁缺没有造成任何影响，他只是静静低着头。\n　　而他施出的第三道符纸，已然飘到观海僧身前，就在道殿半空落下的那场暴雨渐歇之",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "数万粒碎冰悬浮在观海僧四周。\n　　殿外最后的暮色从窗缝间漏进来，被数万粒碎冰反照折射，顿时化作无数道金色的光线，观海僧身在金光之中，以身相似的明王法像终于到了圆满境界！\n　　便在这时，宁缺抬起头来，静静看着佛光之中的观海僧，一直扶在膝头上的左手骤然一紧，把那道暗中握了很长时间的符纸捏碎。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "息，澄静淡然令人生出不争之感。\n　　然而既然是战斗，哪里又有不争的道理？\n　　宁缺左手扶着膝头，右手缓缓抬起，指尖微弹，便有一片微黄符纸缓缓飘出，门窗早已紧闭，殿内没有丝毫微风，然而不知为何，那片符纸仿佛可以凭空借风，竟是像秋风中的落叶般，飘飘摇摇穿过整座大殿，向观海僧处落去。\n　　在那片符纸飘进观",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "尘埃。\n　　冰是水。\n　　水化作的尘埃是云，或者是雾。\n　　无数的云雾弥漫在道殿里，仿佛这个世界忽然来到了高空云海之中，遮掩住了所有的视线，甚至扰乱了所有的天地气息。\n　　便在这时，云雾骤然波动起来。\n　　云雾微散，现出宁缺的身影。\n　　他的身影已经来到了观海僧的身前。\n　　只差咫尺。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "了眼睛，竖于胸间的右掌中指再屈，以身相拟的护教明王法像多了一道静柔之意，殿内的天地气息受这道静意所感温柔落下，在他身体外形成一道极薄的屏障。\n　　火焰笼罩住观海僧的身体，灼烧着那道极薄的天地元气屏障，发出一种怪异的噼啪响声，似乎是干柴被烧裂，又像是水壶被煮干，然而飘摇火焰间可以清晰地看到观海僧眉眼宁",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "没有边际。\n　　宁缺和观海盘膝坐在乌黑地板两头的草席上，遥遥相对。\n　　二人点头互相致意。\n　　宁缺说道：“我无刀无箭，只有符，今日之战便以符意应之。”\n　　观海僧说道：“我有佛家手印，有佛偈护身。”\n　　殿内太过空旷，二人的声音在乌黑地板上方不停回荡嗡鸣。\n　　观海僧又说道：“好教十三先生知晓，我",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

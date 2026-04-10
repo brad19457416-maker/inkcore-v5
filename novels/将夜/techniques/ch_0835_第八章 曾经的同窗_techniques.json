@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 835,
+  "chapter_title": "第八章 曾经的同窗",
+  "filename": "ch_0835_第八章 曾经的同窗.txt",
+  "char_count": 3415,
+  "timestamp": "2026-04-10T12:11:27.274190",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "那便动一动。”\n　　宁缺想了想，说道：“太冒险。”\n　　大师兄说道：“惊神阵还在，我也能走了，就算有危险，相信也能抵挡一阵，总不能让你真的在这里虚耗岁月。”\n　　宁缺指着街巷里的行人说道：“他们的生命与将来，都在我的肩上，我有什么资格带着他们一起冒险呢？”\n　　大师兄说道：“现在是你在守护这座城和城",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "宁缺很确定，从天启十三年春天初遇大师兄的那天开始，大师兄的棉袄便没有洗过，无论何时都是满身灰尘，可为什么感觉还是那样干净？\n　　“心净自然身净。”大师兄慢条斯理说道。\n　　宁缺笑了笑，说道：“我只听说过心静地自偏，却没听说过心净身自净的说法，师兄难道你不觉得这很不讲理？”\n　　大师兄缓步走到他身旁",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第八章 曾经的同窗\n　　初夏的长安还谈不上酷热，有钱人的后宅里却已经摆上了冰盆，穿堂风带着冰块的凉意，在屋里缭绕不去，竟似回到了冬天。\n　　褚老爷却依然敞着衣襟，满头大汗，不停挥动着蒲扇，显得非常热――听到那个消息后他无法不紧张，心也开始热起来。\n　　“是真的吗？这事儿是真的吗？”他",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "展，大笑两声，兴奋地拍着他的肩头，说道：“难怪这些日子很难在家里看见你的人，在红袖招也没有撞见过你，心想你不可能就这么洗心革面，原来竟是去做官了。不错不错，当年花那么多银子送你去书院，果然没错。”\n　　老爷乃是长安城里有名的富翁，这辈子最希望的便是子弟能够在官场上混出模样，按照查到的那消息，由贤的职",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "险，相信也能抵挡一阵，总不能让你真的在这里虚耗岁月。”\n　　宁缺指着街巷里的行人说道：“他们的生命与将来，都在我的肩上，我有什么资格带着他们一起冒险呢？”\n　　大师兄说道：“现在是你在守护这座城和城里的人，可如果你始终不能走出这座城，那便是这座城和城里的人在守护你。”\n　　宁缺沉默了很长时间，说道：",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "我先走了。”\n　　宁缺问道：“师兄你要回宫？”\n　　大师兄说道：“渭水长堤出了些问题，工部和户部的大人们正在殿上吵架，陛下和李渔还等着我回去定夺。”\n　　宁缺很认真地问道：“师兄，你有什么事情是不会的吗？”\n　　大师兄微笑说道：“我不识符道，不然我就是这座城的囚徒，不过如果真是换作我被长安囚禁，想来",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "地想起了这两个人，然后想起了叶红鱼在雁鸣湖畔说的那句话。\n　　――你一生都将困在长安城中，你会是一个愤怒的囚徒。\n　　除了清明时节出城十里祭坟，他很多天都没有离开过长安，已经开始厌倦，距离愤怒还有一段距离，但他明白自已确实变成了一个囚徒。\n　　有和暖的风在城墙上轻拂，初夏和深春一样，都是长安城最温暖",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "。\n　　看着他的反应，老爷便知道那事儿大概是真的，脸上的皱纹骤然舒展，大笑两声，兴奋地拍着他的肩头，说道：“难怪这些日子很难在家里看见你的人，在红袖招也没有撞见过你，心想你不可能就这么洗心革面，原来竟是去做官了。不错不错，当年花那么多银子送你去书院，果然没错。”\n　　老爷乃是长安城里有名的富翁，这辈",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "到的那消息，由贤的职位虽然不高，但位置却极要害，堪称朝廷心腹，确认这件事情是真的，他哪有不老怀欣慰的道理。\n　　他看着由贤肃容说道：“你在书院里的成绩一塌糊涂，办事能力也不怎么突出，能做到这位置上，你应该心知肚明，那是十三先生念着旧日情谊，你可万万不能辜负，谨行慎言，不要太过得意。”\n　　由贤忍了多",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "都是长安城最温暖最美好的时节，大师兄却依然没有解下身上那件旧棉袄。\n　　宁缺很确定，从天启十三年春天初遇大师兄的那天开始，大师兄的棉袄便没有洗过，无论何时都是满身灰尘，可为什么感觉还是那样干净？\n　　“心净自然身净。”大师兄慢条斯理说道。\n　　宁缺笑了笑，说道：“我只听说过心静地自偏，却没听说过心净",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "有什么资格带着他们一起冒险呢？”\n　　大师兄说道：“现在是你在守护这座城和城里的人，可如果你始终不能走出这座城，那便是这座城和城里的人在守护你。”\n　　宁缺沉默了很长时间，说道：“我懂了。”\n　　大师兄说道：“按照前些日子想好的法子，动一动也无妨，我和君陌并不担心长安，只担心你在路上可能会遇到什么事",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "到了冬天。\n　　褚老爷却依然敞着衣襟，满头大汗，不停挥动着蒲扇，显得非常热――听到那个消息后他无法不紧张，心也开始热起来。\n　　“是真的吗？这事儿是真的吗？”他盯着由贤，压低声音问道，显得格外神秘，“如果你不方便说，你可以不说，眨眨眼睛就成。”\n　　由贤看着父亲无奈地叹息一声，扶着额头，根本不知道该",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "这两天宅里都开始传这件事情，他却没法承认。\n　　看着他的反应，老爷便知道那事儿大概是真的，脸上的皱纹骤然舒展，大笑两声，兴奋地拍着他的肩头，说道：“难怪这些日子很难在家里看见你的人，在红袖招也没有撞见过你，心想你不可能就这么洗心革面，原来竟是去做官了。不错不错，当年花那么多银子送你去书院，果然没错。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "了很长时间，说道：“我懂了。”\n　　大师兄说道：“按照前些日子想好的法子，动一动也无妨，我和君陌并不担心长安，只担心你在路上可能会遇到什么事情。”\n　　宁缺说道：“如果四师兄计算的没有错误，就算遇到事情也能解决，现在需要确定的是西陵神殿方面的消息。”\n　　大师兄问道：“什么时候能够确认？”\n　　宁缺",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "一段距离，但他明白自已确实变成了一个囚徒。\n　　有和暖的风在城墙上轻拂，初夏和深春一样，都是长安城最温暖最美好的时节，大师兄却依然没有解下身上那件旧棉袄。\n　　宁缺很确定，从天启十三年春天初遇大师兄的那天开始，大师兄的棉袄便没有洗过，无论何时都是满身灰尘，可为什么感觉还是那样干净？\n　　“心净自然身",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

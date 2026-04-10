@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 634,
+  "chapter_title": "第十五章 湖的彼岸，血的世界",
+  "filename": "ch_0634_第十五章 湖的彼岸，血的世界.txt",
+  "char_count": 2391,
+  "timestamp": "2026-04-10T12:11:26.793508",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "楚，沉默片刻后，他踏上窄桥向着对岸走去，曲妮玛娣和陆晨迦被迫跟在他的身后。\n　　随着他走上窄桥，湖畔人群的议论声再次停止，重新变得安静一片，桥头处的那些人更是惊慌失措，连连向后退去，有人更是险些跌倒被踩伤。\n　　不知是谁在人群里高喊了一声，辱骂诅咒声再次高扬，那些被惊的向后退去的人们重新冲回桥边，而",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "窄桥之前。\n　　“让人群散开，我和你打一场。”\n　　宁缺看着这名悬空寺高僧的眼睛，根本无视周遭人群的愤怒，平静说道：“如果你觉得我的要求太过分，那你可以让佛道两宗所有的修行者都出手。”\n　　七枚大师说道：“你知道的，现在的人群不可能散开，如果你坚持要在这里和佛道两宗战上一场，那么肯定会死很多人。”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "么只要突破眼前这些人，自已和桑桑便有机会逃离朝阳城，然而问题在于，看着那片黑压压的人群，根本数不出来究竟有多少人，想要冲过去谈何容易？\n　　七枚大师不知何时，出现在窄桥之前。\n　　“让人群散开，我和你打一场。”\n　　宁缺看着这名悬空寺高僧的眼睛，根本无视周遭人群的愤怒，平静说道：“如果你觉得我的要求",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "现在所处的位置和移动的速度。\n　　宁缺神情微凛，知道留给自已的时间不多了，望向湖岸上越来越近的民众，心想狂热的民众基本上都聚集在白塔寺中，那么只要突破眼前这些人，自已和桑桑便有机会逃离朝阳城，然而问题在于，看着那片黑压压的人群，根本数不出来究竟有多少人，想要冲过去谈何容易？\n　　七枚大师不知何时，出",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "双脚踩立的地面，看到几只在泥缝里穿行的辛苦的蚂蚁。然后他抬起头来，望向正在逐渐向自已靠近的人群，右手缓缓握住刀柄。\n　　呛啷一声，朴刀出鞘。\n　　……\n　　……\n　　一名闲汉猛地扑了过来，他的手臂飞到空中，鲜血狂喷，惨嚎着倒下。一名虔诚的老妇挥舞着手臂抓向宁缺的脸，双手忽然断了。\n　　一名激动的学生",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "界舍生忘死。”\n　　陆晨迦说道：“我心已死，受国民多年供奉，却无所回报，如果只有桑桑死，人间才能继续存在，那么至少我不能害他们。”\n　　曲妮玛娣冷冷说道：“我不在乎人间如何，但只要你死，我不在乎死。”\n　　宁缺闻言，摇了摇头，然后向前走了几步。\n　　人群向后急退。\n　　不知何处，忽然响起僧侣颂经的声",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "题在于，看着那片黑压压的人群，根本数不出来究竟有多少人，想要冲过去谈何容易？\n　　七枚大师不知何时，出现在窄桥之前。\n　　“让人群散开，我和你打一场。”\n　　宁缺看着这名悬空寺高僧的眼睛，根本无视周遭人群的愤怒，平静说道：“如果你觉得我的要求太过分，那你可以让佛道两宗所有的修行者都出手。”\n　　七枚",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "白塔寺西南方向远处，感觉到那道令他惊惧不安的强大气息越来越近，那道气息虽然移动的不算快，才从西城门外来到这里，然而只要在不停移动，那么终究是会到的。\n　　桑桑紧紧握着大黑伞的伞柄，小脸变得愈发苍白，沉默感知片刻后，把那道气息现在所处的位置和移动的速度。\n　　宁缺神情微凛，知道留给自已的时间不多了，望",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "本没有想过对方会同意，然而出乎他的意料，七枚大师没有任何犹豫，伸手轻摆，示意桥头前的箭手向两边撤去，同时西陵神卫和数十名僧侣也让开了道路。\n　　现在拦在宁缺身前的，便只剩下普通人形成的黑压压的人群，那些神情复杂、惊恐不安，愤怒激昂的普通人。\n　　“我们就算让开道路，你就能出去吗？”七枚大师平静问道。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“让人群散开，我和你打一场。”\n　　宁缺看着这名悬空寺高僧的眼睛，根本无视周遭人群的愤怒，平静说道：“如果你觉得我的要求太过分，那你可以让佛道两宗所有的修行者都出手。”\n　　七枚大师说道：“你知道的，现在的人群不可能散开，如果你坚持要在这里和佛道两宗战上一场，那么肯定会死很多人。”\n　　宁缺说",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "先前的人群像蕴集着能量，海面轻缓摇动，只偶尔拍打礁石出现几朵浪花的大海，那么现在这片大海正在开始掀起风浪，直至风暴成灾。\n　　“杀死冥王之女！”\n　　“不要放他们走！”\n　　人群愤怒地喊叫声越来越大，越来越整集，也显得越来越有力量，场间的气氛却显得越来越嘈乱，就像是被砍断梁柱的大宅，随时可能倒塌。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

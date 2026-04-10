@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 442,
+  "chapter_title": "第二百四十六章 熬鹰",
+  "filename": "ch_0442_第二百四十六章 熬鹰.txt",
+  "char_count": 3676,
+  "timestamp": "2026-04-10T12:11:21.798353",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "交待，他当然不会当着李渔的面挑明这个大秘密。\n　　李渔说道：“如果你和夏侯之间的仇怨只是荒原上的那些冲突，既然大先生已经定了基调，我希望你还是甘心为好。”\n　　宁缺微微皱眉，有些不解为什么她会选择和皇后一个立场。\n　　李渔低声说道：“军中只有一些年轻的将领愿意效忠于我，华山岳领的是河北郡厢兵，军功积",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "宁缺心想我还知道皇后娘娘是夏侯的亲妹妹。\n　　大师兄早已经做过交待，他当然不会当着李渔的面挑明这个大秘密。\n　　李渔说道：“如果你和夏侯之间的仇怨只是荒原上的那些冲突，既然大先生已经定了基调，我希望你还是甘心为好。”\n　　宁缺微微皱眉，有些不解为什么她会选择和皇后一个立场。\n　　李渔低声说道：“军中",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，微笑说道：“蝉噪林愈静，这片宅院果然不错，难怪你这种吝啬鬼也肯花这么多银子。”\n　　宁缺叹了口气，心想果然便是要从这里开始说话？\n　　他走到李渔身侧，说道：“多谢殿下送来的这些大树。”\n　　雁鸣湖畔宅院里的古树，全部来自李渔的皇室封地，这些树木的价值不菲，光是运送出山再入长安城的费用便是个极可怕的",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "走更像是个孤家寡人，不说与西陵神殿无数道士相比，就连与叛徒夏侯相比，也显得那般势单力薄。\n　　从某种意义上来说，如今世间的魔宗，就是他。\n　　他就是魔宗。\n　　他是魔宗最后的精神和骄傲，所以他不能倒下。\n　　所以哪怕身受重伤，看不到任何希望，他依然沉默地与和夏侯以及数千名大唐骑兵战斗到了此时此刻，战",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "饮了口杯中的凉茶，秀眉微蹙，然而展颜一笑，说道：“很好喝，这是桑桑做的桑椹茶？听她说过好几次，却还是第一次喝到。”\n　　听着殿下说起家长里短事，宁缺顿时觉得放松了不少，准备好生讲解一下桑椹茶的做法，并且重点说明这是自己的发明。\n　　然而他没有料到，李渔的下一句话来的极快。\n　　气氛急转而下，或者上。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "进中原。”\n　　唐看着不远处的土阳城，说道：“我便连那座城都不敢进，但我已经伤到了你，我让你变得虚弱紧张，那么我知道你注定会死去。”\n　　夏侯说道：“何必说这些没有意义的话。”\n　　“没有意义的事情我不会做，没有意义的话我也不会说。世间绝对不止我一个人想要杀死你，当你离开军营回到长安城后，或者当你归",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "“你不可能跟着我回长安，中原是昊天神辉笼罩的人间，天都不能容你，你又能如何？”\n　　作为魔宗最后也是最强大的余孽，唐可以在荒原上自在生活，可以与叶苏隔峰对峙相望，但他很清楚，如果自己真的去了中原，那么必然会面临西陵神殿强者们无休止的追杀，终究是死路一条。\n　　“我确实不能进中原。”\n　　唐看着不远处",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "精彩。”\n　　说完这句话，他转身离开草甸，消失在山林之中。\n　　夏侯沉默看着人迹已无的草甸，看着被夏风轻轻拂动的山林，没有再说什么，轻提马缰，向土阳城里驶去。\n　　荒原上吹来的风拂动山林，拂动深草，拂动土阳城头的军旗，拂动着他头盔边缘露出的发，那些花白的头发。\n　　自古名将如美人，不许人间见白头，然",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的画面。\n　　从荒原深处南归，一路千里相杀，他始终都很自信，认为自己是在像熬鹰一般煎熬唐，利用对方的愤怒与仇恨，让对方闭不上眼睛，把所有的精神都消耗在日复一日的枯燥战斗之中。\n　　夏侯本来以为自己快要成功了，他亲眼看着唐体内的真气渐枯，精神渐疲，坚若金石的身躯变得普通，可以受伤，开始流血，他以为唐的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "海畔的岩壁上，只有老鹰才是真正的鹰。\n　　他放下拳头，取出手巾擦拭掉唇角的血渍，面无表情看着远处的唐说道：“你的毅力让我有些吃惊，但终究只是吃惊而已，你毕竟不是你的那位老师，在逾过那道门槛之前，你永远无法威胁到我。”\n　　唐低头看着脚下那些被自己血水点燃的长草。\n　　连续的战斗让他身受重伤，那些看似",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "一个人想要杀死你，当你离开军营回到长安城后，或者当你归老之后，那些蒸屉里的冤魂，枉死路上的小鬼，都会来到你的背后，索要你的性命。那些冤魂会感激我追杀了你一路，我也会感激那些冤魂把你追杀到死。”\n　　唐最后向着夏侯点头致意，说道：“祝你归老愉快，死的精彩。”\n　　说完这句话，他转身离开草甸，消失在山林",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "实都是基于相同的一个原因。”\n　　“没有人能够抵抗昊天的命轮，时间的流逝，大唐终究将失去他们，有些人担心你变成没有猎人压制的恶鹰，祸害他们逝去之后的世界。而夫子和父皇则是沉默不语，护着你煎熬你打磨你，想让你从一只雏鹰变成一只雄鹰，守护没有他们的那个大唐。”",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "躯，也终于在那些刀箭之下流血。\n　　魔宗已然凋蔽，他这个魔宗天下行走更像是个孤家寡人，不说与西陵神殿无数道士相比，就连与叛徒夏侯相比，也显得那般势单力薄。\n　　从某种意义上来说，如今世间的魔宗，就是他。\n　　他就是魔宗。\n　　他是魔宗最后的精神和骄傲，所以他不能倒下。\n　　所以哪怕身受重伤，看不到任",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "不免觉得有些麻烦。\n　　他与李渔之间的关系不错，但他很清楚她一定会给自己带来麻烦。\n　　果不其然，当安静的书房里只剩下他和李渔时，麻烦便来了。\n　　书房雕花窗外，是数株古树，林荫遮蔽着夏日，清风怡人，便是树林里那些蝉鸣，也并不令人觉得厌烦。\n　　李渔端着碗凉茶，看着窗外隐隐可见的湖景，微笑说道：“蝉",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

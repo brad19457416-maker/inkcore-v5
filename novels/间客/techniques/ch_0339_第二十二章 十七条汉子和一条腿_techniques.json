@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 339,
+  "chapter_title": "第二十二章 十七条汉子和一条腿",
+  "filename": "ch_0339_第二十二章 十七条汉子和一条腿.txt",
+  "char_count": 5793,
+  "timestamp": "2026-04-10T12:04:59.246378",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "因为许乐在基地中所表现出来地态度，受训军官们开始挖他的底细，最后终于挖到了他与国防部长家的关系，众人以为明白了为什么许教官会如此嚣张，军营之中最见不得这等裙带关系，心中愈抵触，夜晚宿舍之中，时常能够听到某位军官冷言准备开家制漆工厂，给某人一些颜色看看。\n\n    ……\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "充满了不屑与轻蔑。\n\n    令许乐感到怪异的是，基地里的气氛虽然紧张怪异，但双方却没有生什么激烈的冲突，观察了两天，即便他的屁股隐隐站在第七小组这边，却也不得不承认，主要是那些学院派军人保持着隐忍，没有拿出上级军官地架式来。\n\n    受训军官们的精神，都放在马上就将到来的机甲考核之中，其余的受训",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "一丝不漏。\n\n    熊临泉，刘佼，顾惜风……还有兰晓龙少校。许乐看着面前立正站好的这一排人，明白了为什么基地主\n\n    自己这个临时教官来接人，因为这十七条汉子里除了其他的全部是白水公司第七战斗小组的成员。\n\n    “果壳公司下辖白水公司安全顾问部门第七战斗小组重组完毕，奉命向主管报道，请指示",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "那一天地到来。反而透过邹郁寄过地新墨镜。颇有兴致地看着这些像吃了春药一般嗷嗷叫唤。精力无处泄地军官。心想原来军队就是这么一个简单地地方。\n\n    关于mx地培训没有现成地教程。全部需要许乐现编。而且如今果壳生产部和总装基地流水线上地mx比起许乐商秋当初设计地样机。做了很多微调。他更是没有什么教学地",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "便感到了无穷的幸福。\n\n    ……\n\n    ……\n\n    大山中地作训基地由初夏入浓夏。再至秋风渐起。却吹不散暑气。日子一天天这样枯燥地过去。那些来自各个部队地军官们。虽然一直怀着股怒意。但学习训练地却格外认真。地下地机甲库房中三台mx标准机甲。竟是夜夜征伐。被军官们排着队操练。虽不是娇弱之躯",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "纷纷握紧了拳头。\n\n    出乎军官们的意料，半小时后许乐并没有和他们一起走进地下机库，而是带着他们来到操场上，伴随着微闷的暮风，操场上的些许落叶在缓缓滑动，戴着墨镜的许乐回过头来，对军官们说道：“谁？”\n\n    “我。”来自西林军区的花小司站了出来，淡淡地看了许乐一眼，心里充满了自信，他是本次考",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "许乐不知道麦德林这个帝国间谍究竟传送了哪些情报回去，不知道下一次战火什么时候燃起，联邦政府紧张地等待着，他也在等待着，却率先等来了青龙山军南水领袖访问都特区的好消息。\n\n    就在这种平静的日子里，九月初第一阵秋风吹起，为作训基地带来了另一批学员。被基地主官命令接收的许乐，在基地的门口看",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "才可以十分平静地看着近在咫尺的那张大脸，没有往后退一步。\n\n    沉默了片刻，他有些想不明白，轻声说道：“没什么指示，既然来了，就先吃饭吧。”\n\n    ……\n\n    ……\n\n    坐在进入基地的自行绿色轨道车后方，许乐取下墨镜，眯着眼睛，皱着眉头问道：“这是怎么回事儿？第七小组重组……怎么送",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "想必不会动摇到铁算家族的根基，但利孝通身为第二顺位继承人，此刻想必也陷入忙碌之中。\n\n    从某种意义上来说，许乐应该是利家不共戴天的敌人，但他却一直与利七少爷保持着某种默契的关系，如今的许乐获得了费城李家的青睐，仅凭这一点，便可以说服利孝通进行二次追加投资，保持这种近乎友谊的关联，而利家上层也只",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "他的脸色，“也是十七师的人，第七小组十八个组员里有十五个出自我们师。第七小组在白水公司里的战斗力向来最强，国防部越过果壳董事会，直接命令小组重组，底气十足，肯定是老师长地意思。”\n\n    港都警备区驻守着八三八四部队，部队没有换番号之前正是联邦最出名的十七装甲师，当年李匹夫便是十七装甲师的师长。许",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，给某人一些颜色看看。\n\n    ……\n\n    ……\n\n    十七条汉子到来的一周之后，mx机甲第一次考核结束，绝大部分受训军官在考核中展现了良好的操控作战能力，达到了通过地标准，而成绩最好的则是来自西林的花小司，以及对mx机甲了解颇深地周玉。\n\n    讲台上许乐宣读完成绩，轻轻地吁了一口气，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "承认，主要是那些学院派军人保持着隐忍，没有拿出上级军官地架式来。\n\n    受训军官们的精神，都放在马上就将到来的机甲考核之中，其余的受训科目大部分已经结束了，唯独这门mx机\n\n    上，他们已经等的双眼通红。\n\n    因为许乐在基地中所表现出来地态度，受训军官们开始挖他的底细，最后终于挖到了他",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "乐揉松了脸颊，笑眯眯地望着镜中那个自己，开始仔细地剃胡子，想起黑牢里难熬的日子，想到现在自己再也不用担心逃犯的身份，每次洗脸地时候，不用再去修理眉毛，他便感到了无穷的幸福。\n\n    ……\n\n    ……\n\n    大山中地作训基地由初夏入浓夏。再至秋风渐起。却吹不散暑气。日子一天天这样枯燥地过去。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "计在走？\n\n    想来想去。他只能将此归功于军营地气氛虽说军队里也有尔虞我诈。生死相欺。但毕竟离着社会有段距离。难得地保留了某种单纯朴素地气息。这些军官在军队里呆久了。身体里简单直接地那部分便体现了出来。或许有些人大致明白了许教官地意图。却也没有人会对他有个好脸色。只是闷头训练。等着考核通过。然后",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "小时后许乐并没有和他们一起走进地下机库，而是带着他们来到操场上，伴随着微闷的暮风，操场上的些许落叶在缓缓滑动，戴着墨镜的许乐回过头来，对军官们说道：“谁？”\n\n    “我。”来自西林军区的花小司站了出来，淡淡地看了许乐一眼，心里充满了自信，他是本次考核地并列最高分，而且从开始的时候，就是他带领同学",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "战即便胜利，又有什么意义呢？\n\n    签了卖身契，被国防部调过来伺侯一群军官爷们，这着实谈不上什么幸福。但每个人对幸福的看法不一样，许乐揉松了脸颊，笑眯眯地望着镜中那个自己，开始仔细地剃胡子，想起黑牢里难熬的日子，想到现在自己再也不用担心逃犯的身份，每次洗脸地时候，不用再去修理眉毛，他便感到了无穷",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

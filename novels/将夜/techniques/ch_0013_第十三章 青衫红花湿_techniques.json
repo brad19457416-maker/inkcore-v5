@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 13,
+  "chapter_title": "第十三章 青衫红花湿",
+  "filename": "ch_0013_第十三章 青衫红花湿.txt",
+  "char_count": 1944,
+  "timestamp": "2026-04-10T12:11:03.398897",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "许自己的子女姓夏，而是把自己的全名变成了他们的姓，长子夏侯敬，次子夏侯畏，诸如此类，当朝中某学士提出疑问时，夏侯桀傲应道：“吾当开创一流传万世之姓氏，吾当为祖，故当以我名为姓。”\n　　“是为夏侯氏。”\n　　……\n　　……\n　　夏侯将军是名人，但宁缺一直在心中默默念着他的名字，从叙述到震惊再到淡淡惘然",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "破开精密的轻甲，近乎不可思议的杀死一位大剑师，挽狂澜于即倒，拯救大唐公主殿下于危难之际……是时候享受众人目光中的震惊感激甚至是崇拜了？\n　　宁缺并不这样认为，脸上没有一丝如释重负的笑容，依旧紧握着手中的黄杨硬木弓，箭在弦上，弦已拉开，瞄准着树下箕坐的大剑师，耳朵却在听着树林上方的轻微声音。\n　　他在",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，是大唐边军精锐才会极少量配备的火油弹，燃烧威力极为恐怖。\n　　宁缺常年厮混在边塞军营之中，自然不会陌生，用最快的速度扔掉弓箭，双手同时伸向背后的刀柄，大声喊道：“伞！”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "叫夏侯某某。\n　　他姓夏名侯。\n　　做为大唐权柄最重的四大王将之一，此人武功霸蛮不可一世，战功昭著，性格更是骁勇冷酷至极，长年驻守在军法森严的猛柳营中，以嚣张好杀闻名于天下。\n　　他自己本姓为夏，却不允许自己的子女姓夏，而是把自己的全名变成了他们的姓，长子夏侯敬，次子夏侯畏，诸如此类，当朝中某学士提",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "现在就是最好的时刻。\n　　半边车厢垮塌，半边车厢完好，一个满脸灰尘的小男孩儿哭泣着探出脸来，清秀婢女紧张地提起裙摆，向那边跑去。\n　　宁缺右手闪电般探出，把她重重摔倒在地。\n　　头顶细树枝碎成一片，啪啪作响，迷朦遮人眼，碎砾之中，两名穿着黑衣的蒙面人现出身形，呼啸向下方掷出两粒金属丸，同时背后长剑反",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "肉声，射中中年书生的胸膛，箭没处，正是第一根羽箭破开青衫破开软甲的所在！\n　　第三根箭仿佛没有先后，瞬间再至，同样射中那个被逐渐扩开的破口，箭锋之前再无阻碍，竟是狠狠射穿了他的身体！\n　　没有人知道宁缺如何做到，在电光火石极短的一瞬间内，用手里那把看似普通的黄杨硬木弓连续射出三枝羽箭，更没有人能想明",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "枝碎成一片，啪啪作响，迷朦遮人眼，碎砾之中，两名穿着黑衣的蒙面人现出身形，呼啸向下方掷出两粒金属丸，同时背后长剑反抽出鞘，冰寒刺骨！\n　　那两粒呼啸而至的金属丸漆着红点，是大唐边军精锐才会极少量配备的火油弹，燃烧威力极为恐怖。\n　　宁缺常年厮混在边塞军营之中，自然不会陌生，用最快的速度扔掉弓箭，双手",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "小截箭杆和箭羽，鲜血侵染，就像是开了一朵红花。\n　　中年书生不可置信盯着胸前青衫上湿润的红花，满是血水的脸上显现出一抹荒谬错愕的神情。\n　　他慢慢无力跌坐进地面的落叶腐泥间。\n　　即便是修行者，即便是用魔宗手段吸纳天地元气入体的修行者，在心脏被射穿后也没有办法再继续操控自己的意念。\n　　天地间那根无",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "花。\n　　中年书生不可置信盯着胸前青衫上湿润的红花，满是血水的脸上显现出一抹荒谬错愕的神情。\n　　他慢慢无力跌坐进地面的落叶腐泥间。\n　　即便是修行者，即便是用魔宗手段吸纳天地元气入体的修行者，在心脏被射穿后也没有办法再继续操控自己的意念。\n　　天地间那根无形的线，就在他跌坐的那一刻戛然断裂。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "恐怖。\n　　宁缺常年厮混在边塞军营之中，自然不会陌生，用最快的速度扔掉弓箭，双手同时伸向背后的刀柄，大声喊道：“伞！”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

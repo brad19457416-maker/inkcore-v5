@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 350,
+  "chapter_title": "第三十二章 我能",
+  "filename": "ch_0350_第三十二章 我能.txt",
+  "char_count": 4699,
+  "timestamp": "2026-04-10T12:04:59.267573",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的生猛人物！\n\n    列队的军官们震惊地看着小许教官，有些不敢相信自己的耳朵，联想到这几个月里自己众人一直试图用机甲挑战教官，不由生出了几分惭愧和后怕的感觉。\n\n    许乐不知道杜少卿为什么这时候要提自己最出彩的事迹，他看着对方，眉头微皱说道：“报告师长，这是联邦机密。”\n\n    “三天之前，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "己最出彩的事迹，他看着对方，眉头微皱说道：“报告师长，这是联邦机密。”\n\n    “三天之前，卡琪峰战斗细节，已经解密。”杜少卿面无表情地看着他。\n\n    许乐心中生起一丝怪异的感觉，他不清楚面前这位冷酷的名将师长说这些话，究竟有何用意，便在此时，杜少卿又继续冷冷说道：“听说你是被元帅大人亲自召进",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "甲定形，然而却一直不知道那两名厉害到了极点地机师，究竟是何方神圣。\n\n    在作训基地中，周玉知道真相，第七小组成员也从白秘书的口中隐约了解了一些，然而绝大部分人并不知道这一点，此时听杜师长淡淡说出，才明白原来自己地机甲教官……居然是能够战胜费城李家传人，那个疯子天才的生猛人物！\n\n    列队的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "力，荣耀，财富，许乐喜爱却并不觉得不可或缺。『』意的某些东西早已颇具文艺气息地在议会大厦门前随风而逝，另一部分却又在某大楼和黑暗的牢房中坚固再生。\n\n    那些他最在意的部分，不是能够被外力强行夺走的事物，于是对于今日的他而言，无所失去，自然也就无所畏惧，双眼一眯，军营里的森严阶层秩序和牢不",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "颗帝国的毒种子，但事后联邦许多顶尖政客，以及七大家的上层人物们，都对他生出了强烈的警惕，甚至想将他的存在抹掉，也正是因为这个原因。\n\n    像许乐这种有实力挑战某种秩序，并且敢于挑战的人物，对于一个稳定的社会来讲，并不是好事，人类社会所倚赖的稳定架构，便在于阶层的排列与秩序，有人威胁到这种秩序，是",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "够操控mx机甲打败李疯子，能够让联邦军神青睐有加，许乐说出来的机甲突袭再如何匪夷所思，他们都忍不住要思忖一下。\n\n    许乐知道自己确实是在胡乱瞎说。\n\n    他不会战术推演，没有能力在指挥上面做出任何自己地判断，在军营中唯有的自信，便是来源于mx机甲凌厉而灵动地攻击方式。要突破铁七师的联防，他",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "肃冷依旧。倒是几名第三军区的军官，不屑地看了许乐一眼，就像看到了一个天大的傻瓜。\n\n    许乐没有愤怒地喊对方回来较量较量，反而有些庆幸铁七师并不准再开一场军演，来试一下自己的战术推演能不能成功。他的军靴里早已湿透，靠八台mx去生挑一个整编机械师，那……真的是傻子。\n\n    “就算特种团混编八台",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "宙里地光亮背景。给人一种寒不能承地感受。\n\n    “听说是你研制成功了mx？”杜少卿盯着许乐地眼睛说道。身为一代名将。审时度势。敢于壮士断腕。是一种真正地军事智慧。只用了不过几秒钟地时间。他便冷静了下来。接受了许乐双方都不要飙地威胁。\n\n    场间地军官们都知道许乐在mx机甲研制中地重要作用。听",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。\n\n    只是到目前为止，许乐还是活的好好的。\n\n    ……\n\n    ……\n\n    杜少卿第一次在军营里笑了。笑容里充满了一种淡淡地自嘲。因为他很清楚许乐地威胁。确实是自己很忌惮地事情。面对着一个不讲规矩地强。用军阶规矩去压他。根本是无法做到地事情。既然如此。他又如何能够飙？\n\n    但",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "重要的角色，必要浓墨描之，至于盒饭，定要扔的准确凌厉才是，当然，我不排除以后扔他红烧肉……祝大家周末愉快。(未完待续，如欲知后事如何，。章节更多，！小＿说txt天'堂\n\n\n\n第三卷西林的征途",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。偏偏他却能强行镇压住内心那股疯长地怒火。没有任何失态地表现。\n\n    他只是盯着面前地许乐。然后缓缓地摘下了自己地墨镜。深陷地眼窝中。他地目光深远而冷厉。就像是某处矿星上挖到深处地矿坑。积着甲烷雪。反射着宇宙里地光亮背景。给人一种寒不能承地感受。\n\n    “听说是你研制成功了mx？”杜少卿盯着",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "掉，也正是因为这个原因。\n\n    像许乐这种有实力挑战某种秩序，并且敢于挑战的人物，对于一个稳定的社会来讲，并不是好事，人类社会所倚赖的稳定架构，便在于阶层的排列与秩序，有人威胁到这种秩序，是绝对不能被允许的事情，即便是费城那位老爷子，若他不是为联邦立下不世战功的军神，如果不是宇宙的那头有真正凶恶",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "顺畅些。关于杜少卿，这是非常重要的角色，必要浓墨描之，至于盒饭，定要扔的准确凌厉才是，当然，我不排除以后扔他红烧肉……祝大家周末愉快。(未完待续，如欲知后事如何，。章节更多，！小＿说txt天'堂\n\n\n\n第三卷西林的征途",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "疯子的强人，你是元帅大人亲自培养的对象许乐此时若还用先前那句不会应之，谁能相信？\n\n    以许乐地性格，不会便是不会，他并不怎么怕\n\n    然而此时杜少卿却把自己和费城李家联系在了一起，谨慎。\n\n    他能够活下来，能够离开黑暗的军事监狱，都是依靠那位老爷子，虽然他在心底对那位老爷子的定位是远",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "怎么怕\n\n    然而此时杜少卿却把自己和费城李家联系在了一起，谨慎。\n\n    他能够活下来，能够离开黑暗的军事监狱，都是依靠那位老爷子，虽然他在心底对那位老爷子的定位是远房亲戚，但他清楚，联邦军方上层的将领们看自己，都把自己看成军神大人重点培养的人物。不然上午观礼时，易副司令何至于要和他这个小人",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

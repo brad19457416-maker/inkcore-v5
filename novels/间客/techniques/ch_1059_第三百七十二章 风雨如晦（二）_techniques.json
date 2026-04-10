@@ -1,0 +1,245 @@
+{
+  "novel": "间客",
+  "chapter_number": 1059,
+  "chapter_title": "第三百七十二章 风雨如晦（二）",
+  "filename": "ch_1059_第三百七十二章 风雨如晦（二）.txt",
+  "char_count": 3412,
+  "timestamp": "2026-04-10T12:05:26.911458",
+  "techniques_count": 18,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "大程度发挥原装钨金尾翼弹的破甲和附加磁扳能力．保证第一击的成功率。\n\n    躺在巨石下仰望黑灰色的天空．许乐发现刚刚现出一丝的晨光又快速黯淡下去．从北方缓慢挤来的铅云重新笼罩苍穹，有风渐起光线晦淡。\n\n    “一个帝国人，不远无数万年来到联邦……这是一种什么样的精神病？”\n\n    他唇角微翘，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "黯淡下去．从北方缓慢挤来的铅云重新笼罩苍穹，有风渐起光线晦淡。\n\n    “一个帝国人，不远无数万年来到联邦……这是一种什么样的精神病？”\n\n    他唇角微翘，泛起自嘲的笑容，在心中默默自问曾径问过很多遍的的那个问题，却找不到答案。\n\n    狙杀杜少卿成功的可能性很小即便成功，一位深受联邦民众爱",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "南水领袖望着她．洽桑目光中浮现出老人独有的容智和莫名的淡淡笑意。\n\n    在她离开前，老人低语喃喃说道：“……激进修正主义是要不得的。，第二天．青龙山中央委员会通过首都特区日报发布了告全体联邦公民书告全体公民书中．青龙山方面要求彻查古钟号爆炸一案．要求总统辞职接受审判．要求民众们团结起来．把李在道",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "战，速度最快的一支机甲部队在傍晚时分逼近了落日州首府。\n\n    一场内战似乎就要拉开序幕，西林局势骤然恶化，气氛紧张的令人快要窒息。而就在此时．受到西林人民狂热拥戴的钟家小公主．在落日之下走出纬二区老宅。\n\n    在那间红油饭馆散，钟烟花对着面前的镜头，眯起那双明月般的眼，微笑着平静说道：“关于",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "统先生，历史是由胜利者书写的。”\n\n    “冒着内战的危险．奔向未知钟将来？”\n\n    “如果您担心这两场战争的胜负，在道向您保证．我们必将获得最后的胜利。”\n\n    电话那头的帕布尔总统沉默了很长时间．然后声音疲惫回答道“将军．再等等。，参谋联席会办公大楼对面街巷深处．有一间著名的百慕大风情",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "不会认输，而当他们开始调动军队可怕的力量．包括自己在内再也没有任何人能够拦阻这一切．他只能选择杀死最危险也是最强大的杜少卿．然后再继续尝试杀死另外两个人。\n\n    李在道端着杯清茶缓缓嚷着。\n\n    这位联邦军方领袖兼联合调查部门最高领导人．这些天一直表现的很平静，无冷是沉默行军进入首都，七组突",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，而当他们开始调动军队可怕的力量．包括自己在内再也没有任何人能够拦阻这一切．他只能选择杀死最危险也是最强大的杜少卿．然后再继续尝试杀死另外两个人。\n\n    李在道端着杯清茶缓缓嚷着。\n\n    这位联邦军方领袖兼联合调查部门最高领导人．这些天一直表现的很平静，无冷是沉默行军进入首都，七组突袭表都疗",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "进入到了弹劫总统程这幕大戏．所有电视台开始并直播，以至于某些政治虚无主义者发现遥控器基本等于无效后，愤怒地砸烂了电视光暮。\n\n    就在这个时候．联邦新闻频道忽然在议会山直播画面方上角显示出一个窗口画面．在窗口画面中、主持人对着稿子宣布了一条最新的消息。\n\n    栖霞州州议会通过决议，州长在电视",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "到棋盘将满的地步．菲利浦已经开始感觉到吃力。\n\n    对于他来说，现在更重要的问题是要找到那些可能存在的坏炸弹，从比基高原的线索计算分析到现在．依然没有发现任何可疑的踪迹。\n\n    满头潦乱脏发的贝得曼，比几天前显得要更加惫疲．他像个疯子瞪着惨白的眼睛．机械的喝着咖啡．问道：“你不肯说在找什么．",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "船船中，纤细机械臂不停地东摇西晃．像喝醉了酒的女人般细声喃喃自语道：“坏炸弹你在哪里？\n\n    你究竟在哪里？”\n\n    巨大的二维光束棋盘上面落满了黑白二色的棋子．与宪章局地底那诧废铁的战争持续到棋盘将满的地步．菲利浦已经开始感觉到吃力。\n\n    对于他来说，现在更重要的问题是要找到那些可能",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "史教科书上。\n\n    “总统先生，历史是由胜利者书写的。”\n\n    “冒着内战的危险．奔向未知钟将来？”\n\n    “如果您担心这两场战争的胜负，在道向您保证．我们必将获得最后的胜利。”\n\n    电话那头的帕布尔总统沉默了很长时间．然后声音疲惫回答道“将军．再等等。，参谋联席会办公大楼对面街巷",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "“一个帝国人，不远无数万年来到联邦……这是一种什么样的精神病？”\n\n    他唇角微翘，泛起自嘲的笑容，在心中默默自问曾径问过很多遍的的那个问题，却找不到答案。\n\n    狙杀杜少卿成功的可能性很小即便成功，一位深受联邦民众爱戴的联邦名将，死在帝国皇子手中，谁也不知道会引发怎样的骚乱与动荡。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "经验．我怎么找？”\n\n    宪历七十六年，联邦政局陷入动荡之中．首都特区涌入了十几万名沉默行军示威人群、虽然这些示威者们尽可能保持了良好的秩序．但如此多的人依然让首都很多区域的交通和治安受到了极大影响。\n\n    幸运的是．像此时联邦百亿民众中的大多数那样．首都市民这两天基本上都留在家里．他们端着",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "此时联邦百亿民众中的大多数那样．首都市民这两天基本上都留在家里．他们端着面碗．抽着香烟．喝着啤酒．或紧张兴奋或无聊地被新闻频道的直播所吸引、从而没有让社会秩序变的更议会山的直播进入到了弹劫总统程这幕大戏．所有电视台开始并直播，以至于某些政治虚无主义者发现遥控器基本等于无效后，愤怒地砸烂了电视光暮。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "求彻查古钟号爆炸一案．要求总统辞职接受审判．要求民众们团结起来．把李在道等战争贩子送进倾城军事监狱．同时表示不排除在适当的时机．动用武力雄护真正的宪章精神。\n\n    同一天．联邦西林军区某机械师进入落日州首府．包围国防部联络处所在地金星酒店，另一支快速反应旅空降长风军事基地、一枪未开便夺取了控制权",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "上都留在家里．他们端着面碗．抽着香烟．喝着啤酒．或紧张兴奋或无聊地被新闻频道的直播所吸引、从而没有让社会秩序变的更议会山的直播进入到了弹劫总统程这幕大戏．所有电视台开始并直播，以至于某些政治虚无主义者发现遥控器基本等于无效后，愤怒地砸烂了电视光暮。\n\n    就在这个时候．联邦新闻频道忽然在议会山直",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "当时面对拥有宪章第一序列、仿佛杀神般不可战脸的许乐，李在道的表现也像现在这般平静，事后宪章电脑始终不为人知的变化．证明他的平前来自于对自己智慧手段的强大自信．来自于谁都想不到的底牌。\n\n    李在道看着杯中缓慢打着旋的茶叶，想起小时候父亲从前线回到费城家中。径常会用八稻真气震荡杯中茶水旋转奔腾，试",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "．他只能选择杀死最危险也是最强大的杜少卿．然后再继续尝试杀死另外两个人。\n\n    李在道端着杯清茶缓缓嚷着。\n\n    这位联邦军方领袖兼联合调查部门最高领导人．这些天一直表现的很平静，无冷是沉默行军进入首都，七组突袭表都疗养院，最高法废止爱国者法案，还是议会山现在正在激烈辨冷的弹劫案．都不能让也",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

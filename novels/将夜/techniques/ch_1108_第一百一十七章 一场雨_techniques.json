@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1108,
+  "chapter_title": "第一百一十七章 一场雨",
+  "filename": "ch_1108_第一百一十七章 一场雨.txt",
+  "char_count": 3404,
+  "timestamp": "2026-04-10T12:11:34.922744",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "那头书画铺微弱的灯光漏了些许出来，到酒肆处时，已经极淡，但足够照清楚人们的模样。\n　　酒徒的身上有些风尘，但没有血迹，很明显，这两天的时间里他去过很多地方，却并不焦虑，因为他还有心情洗澡，换了衣裳。\n　　贺兰城垮塌，传送阵启动的最后时刻，他的无量境界成功地干扰到了天地气息的运转，他知道昊天和宁缺都没",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "想来尝试一次？你已经堕落人间，神国将会变成我们永恒的乐土，我们将共享永恒以及不朽以及无尽荣耀，生命的意义就在于追求永恒，在此之前，情爱又是何物？任何其余又是何物？”\n　　他在人类社会甚至说整个人类历史里的地位其实都很高，对于普通人来说，他就是活着的神佛，但此时，手执血剑的他更像个魔鬼。\n　　桑桑她本",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "她心里的那抹意愿，她是昊天，那便是天意――现在的她，无法动念便召集东海上的天地气息变成风暴来帮助自己战斗，她已经没有神力，她用的手段是模仿，她在模仿宁缺写符，把自己的意愿化作念力，然后讲给这片天地知晓。\n　　她以天算帮助自己模拟人类修行的手段，只需要计算，便能模似到完美，于是她刚刚学着宁缺的手段会了",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "星也没有月，小镇漆黑一片，只有街那头书画铺微弱的灯光漏了些许出来，到酒肆处时，已经极淡，但足够照清楚人们的模样。\n　　酒徒的身上有些风尘，但没有血迹，很明显，这两天的时间里他去过很多地方，却并不焦虑，因为他还有心情洗澡，换了衣裳。\n　　贺兰城垮塌，传送阵启动的最后时刻，他的无量境界成功地干扰到了天地",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "想？”\n　　桑桑沉默，想起在宋国都城里遇到的那些神官执事。\n　　酒徒笑声微敛，看着她皱眉不解问道：“为什么？”\n　　“什么为什么？”\n　　“为什么你一定要变成人？不要说夫子，也不要说宁缺，更不要提叶苏，就如观主说过的那样，如果你不想变成人，这一切都不会发生。”\n　　桑桑说道：“我没有想过，但既然会变",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "逾过五境那道门槛。\n　　湿发搭在眼前，他盯着桑桑，狼狈而警惕。\n　　他不在意自己变成无家之人，因为他将来的家必将在神国之上，是完美而肃穆的殿堂，他很想杀死桑桑，但他需要先确定一件事情。\n　　宁缺在哪里？\n　　酒徒真正警惕的，是没有出现的宁缺，他在宁缺手下重伤断手，虽然宁缺被他伤的更重，但他知道宁缺的",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，破开夜色而去，在所有人包括青狮黑马都反应过来之前，落在了酒娘的咽喉处。\n　　如盛酒玉壶般的脖颈间，出现了一道细细的血线。\n　　酒娘睁圆双眼，看着手执锋剑的酒徒，想要说些什么，却什么都无法说出来，下一刻，头颅落进了垆间的酒缸里，起浮不安。\n　　桑桑看着随酒起伏的酒娘头颅，沉默不语，不知在想些什么。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "在的位置，也不需要知道，从贺兰城离开之后，无论他被传送阵送去了魔宗山门还是成京，西陵抑或长安，他总会来到这里。\n　　因为她在这里。\n　　就算他的人一时半会儿到不了，他的箭也该到了。\n　　雨声消失，算珠击打算盘框的声音也消失不见，小镇里一片静寂，青狮先前抬起前掌替两个婴儿遮雨，此时与大黑马一道缓缓遁入",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "身躯早已腐朽。\n　　腐朽，但还能活着，但想要修复如新，非常艰难，无论是受伤还是别的问题，总会让他感到紧张和强烈的不安。\n　　宁缺在哪里？\n　　桑桑不知道他现在的位置，也不需要知道，从贺兰城离开之后，无论他被传送阵送去了魔宗山门还是成京，西陵抑或长安，他总会来到这里。\n　　因为她在这里。\n　　就算他的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "散，与淡酒融为一体。啪的一声，酒缸破裂成数十片块，酒水冲入铺里，四处漫淌，遇着房柱就像烈火遇着冰块，瞬间侵蚀一空，整个房屋都开始坍塌。\n　　这场寒冷夜里的暴雨，来自桑桑手里的算盘，来自于她心里的那抹意愿，她是昊天，那便是天意――现在的她，无法动念便召集东海上的天地气息变成风暴来帮助自己战斗，她已经没",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "失，算珠击打算盘框的声音也消失不见，小镇里一片静寂，青狮先前抬起前掌替两个婴儿遮雨，此时与大黑马一道缓缓遁入夜色中。\n　　“1989、0309”\n　　桑桑忽然说了两个数字，她低着头，看着算盘珠构成的形状，声音很轻，却随风而飘，飘到了无数里外，应该是北方某处。\n　　前天在贺兰城外的山崖里，面对满山花海",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "断了一只手，受了如此重的伤，即便是他，也无法短时间内恢复。\n　　“我到处在找你。”\n　　酒徒看着桑桑说道，远处昏暗的灯光，落在他幽深的眼眸里，看着有些噬人，就像是荒原上的夜行野兽。\n　　“却没有想到你来了我的家。”\n　　桑桑面无表情说道：“你找我做什么？”\n　　酒徒肃然说道：“你让我恐惧，所以必须尽",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "朽以及无尽荣耀，生命的意义就在于追求永恒，在此之前，情爱又是何物？任何其余又是何物？”\n　　他在人类社会甚至说整个人类历史里的地位其实都很高，对于普通人来说，他就是活着的神佛，但此时，手执血剑的他更像个魔鬼。\n　　桑桑她本以为对于人类来说，总有些事情是重于自己的生命的，现在看来，那只是她的误解，或者",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "城里的、长安城里的那些人，那些人和别的人本来就不一样？\n　　无论酒徒是何种人，又甚至他已经不再视自己为人，总之今夜，她都要杀死他，她从怀里取出那把算盘，开始拨打。\n　　很简单的动作，指尖轻移算珠，从上至下或者从下至上，上下两格间的隔木被算珠敲击出清脆的响声，不似琴而像鼓，又不是战鼓，似助舞兴的手鼓。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

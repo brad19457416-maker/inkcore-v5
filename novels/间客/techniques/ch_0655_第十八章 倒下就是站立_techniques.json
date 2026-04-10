@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 655,
+  "chapter_title": "第十八章 倒下就是站立",
+  "filename": "ch_0655_第十八章 倒下就是站立.txt",
+  "char_count": 6833,
+  "timestamp": "2026-04-10T12:05:08.542345",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "套复合引擎驱动，护甲三层厚度递增……”\n\n    怀草诗只沉默了片刻，便开始平静地讲述帝**方绝对的秘密情报，似乎浑然忘记了椅中的许乐是一个联邦军人。\n\n    整个飞船的帝国官员都傻了，除了她的声音之外一片死寂，夜猫走过都能听到如雷般的脚步声。只有许乐注意到怀草诗眼眸里闪过的那道光芒，也只有他明白",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "观帝国情报署官员的行动，他看着这些情报署官员与叛军舰队打着交道，与那些隐在黑暗里的走私大佬通话，看似危险实际轻描淡写地护送着怀草诗远离危险，内心不禁感到越来越震惊。\n\n    帝国皇家情报署，这个很像宪章局却没有宪章电脑的情报机构，所展现的能力太过强悍。\n\n    无数眼线密谍的情报信息，就像是联邦",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "表普通，实际上骨子里比谁都骄傲自信的年轻人的声音，这场谈话不知道持续了多久，帝**方的布署，天京星的风物人情，帝国民间最出名的食物，最直接的问题有着最直接的答案，然后给船内的帝目官员们带来了最直接的震撼。\n\n    一问一答间，有某种刀剑一样的气氛在酝酿。\n\n    在那片桑树海中，许乐和怀草诗就曾",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "睡眠总有醒来的一天。\n\n    伪装的走私飞船不知道用了什么方法，突破了叛军舰队对星系的封锁，在幽黑寂静的太空中漫漫远航，顺着丝绸走私商人和皇家情报署共享的绝密走私航道，离那颗充满了动荡不安的星球越来越远。\n\n    在这些天中，太空标准用餐，美味的帝国手磨咖啡，越来越清晰的帝国话语，用来打发时间的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "丽的烟花在那片太空中此起彼伏的按开。\n\n    许乐眯着眼睛看着这一切，发现身边的情报署官员没有任何激动的表情，或许在这些极度忠诚于皇室的帝国官员看来，这场贵族叛乱本就是场笑话，只要陛下和殿下还活着，那些反动派迟早都会被撕成碎片。\n\n    “你在想什么？”\n\n    一个声音在他的身后响起。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "这样恐怖的敌人面前，许乐真要丧失所有的希望，好在……她终究还是倒了。\n\n    帝国是一个阶层森严的社会，皇族，贵族，平民，贱民，奴隶，五个阶层划分的相当清楚，在辽阔星域太空时代依然能够维持帝权，帝国皇室所依靠的便是阶层由上至下的压迫与无比血腥的秩序维护力度，帝国史实际上就是一部镇压和反抗史，流着血",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，因为皇室终究还是要给那些中立派的贵族们一个明确的解释和交待。\n\n    黑暗的无声的牢房，许乐毫不陌生，他曾经在这样孤独至死的环境里熬了整整半年，狐狸堡垒曾经像他第二个家那般亲切却又该死，只不过那时他有老东西播放爱情动作片，现在能有什么呢？只有不停地思考，一直在暗中进行的尝试和轻轻抚摩左手腕上的金",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。\n\n    好在森严的帝国秩序上面的最上面，是不可挑战的皇权，既然公主殿下说了话，再低贱的联邦人也瞬间摇身一变成了必须好好对待的客人，即便帝国情报署官员们再如何不甘心，也必须做到，因为殿下的深层睡眠总有醒来的一天。\n\n    伪装的走私飞船不知道用了什么方法，突破了叛军舰队对星系的封锁，在幽黑寂静",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "嘀！嘀！伴随着尖锐的警报声，舱门侧方的光幕上出现了触目惊心的红色标志，类似于虫状的动画，提醒飞船内的人们，监控扫描系统发现了一块芯片，联邦人颈后……的芯片。\n\n    伪装成丝绸走私商人的帝国皇家情报署官员们反应奇快，在几分之一秒的时间内，取出了腰畔的枪丄械，将怀草诗二人拦在身后，黑洞洞的枪口对准四",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "药，依然不肯放心，直到下属们从库房中辛苦找出一套沉重的电击合金镣套在了许乐的脚踝上，她才真正地放松，缓缓直起身体。\n\n    许乐看着她的眼睛慢慢眯起，就像将要关闭的黑色封面的书，眉毛忽然一挑，说道：“不要倒。”\n\n    怀草诗霍地睁开双眼，盯着他说道：“你说什么？”\n\n    “不要倒。”许乐就",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "发贵族叛乱的传闻是真的？\n\n    “把警报系统的声音调小一些。”怀草诗微微皱眉，迈步向前走去，冷声说道：“我可不想回天京的旅途中要不停听这些刺耳的声音。”\n\n    许乐跟着她向前走去，对舱门两旁表情怪异的帝国官员们耸耸肩，表达自己的无辜情绪，公主殿下没有命令下属关掉芯片扫描系统，令他有些失望，也",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "挣扎的贱民还在矿场中黑背朝天的奴隶，都已经被培养出来了对联邦人的本能仇恨，狂热噬血冲动。\n\n    存在并不见得都是合理的，但肯定是有合理需求的。\n\n    如果怀草诗昏睡前，许乐没有从她嘴里生生抢出那句话，那么他在这艘情报署伪装飞船上的待遇可以想像将是多么的凄惨，就好像红蔷薇号上那两名帝国专家一般",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "强实力支撑的个人英雄主义早已让位于冰冷的机械秩序，在这种背景下任何人敢于像舷窗边这位公主殿下抒无敌之感慨，大抵都可以归为疯子或装逼的白痴，然而历史那么长，人类基数那么大，总会不断出现有资格说这种话的绝世牛人。比如李匹夫，比如被李匹夫拍烂满口牙的那人，比如他，比如她，比如他。\n\n    “我会尽力。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "在那片桑树海中逃亡拼杀了这么多天，几乎没有片刻休息过，即便是真正的金属身躯，只怕也要崩溃了，进入飞船后，怀草诗确认暂时安全，精神一旦放松，那些疲惫与伤势像山洪般涌了出来，怎能不倒？\n\n    如果……如果这样她还不倒，在这样恐怖的敌人面前，许乐真要丧失所有的希望，好在……她终究还是倒了。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "还能笑的如此开心，我不相信你真有信心能逃走。”\n\n    “当然。”她那双直眉微挑，眯眼说道：“我很期待你能给我带来一些惊奇。”\n\n    “这难道就是传说中的所谓高手寂寞？”许乐挠了挠头，肩膀有些痛，眉头皱了皱。\n\n    “大概如此。”怀草诗回答道。\n\n    在波澜壮阔的星际时代中，超强实力支",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "形单影只的情报署飞船擦身而过，分留下十艘战舰做为保护，其余的战舰全体向离阪星扑了过去。\n\n    数日后，光幕上出现了离阪星四周的太空画面，无数无声的爆炸和炫丽的烟花在那片太空中此起彼伏的按开。\n\n    许乐眯着眼睛看着这一切，发现身边的情报署官员没有任何激动的表情，或许在这些极度忠诚于皇室的帝国",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "醒道：“扶住她。”\n\n    帝国官员们不知道这个联邦人忽然说出的这三个字是什么意思，更关键的是他们从来没有想像过公主殿下，站在战舰舷窗边，身形瘦削，却给人不可战胜感觉，单凭强大都快要变得伟大的殿下，会有倒下的那一天。\n\n    所以他们的反应慢了一步。\n\n    怀草诗眯起的双眼终于轻柔地闭阖在了",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

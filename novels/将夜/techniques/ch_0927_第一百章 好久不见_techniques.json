@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 927,
+  "chapter_title": "第一百章 好久不见",
+  "filename": "ch_0927_第一百章 好久不见.txt",
+  "char_count": 4246,
+  "timestamp": "2026-04-10T12:11:27.501496",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "：“不错，你师兄确实拥有道门罕见的天赋，我以往认为他的天赋在皮皮之下，如今想来却是错了。”\n　　隆庆心想师兄如今已经变成废人，观主这话所指必然不是修为境界，而是因为他最近在临康城传道而生出的感慨。\n　　“掌教很是愤怒，已经派人去临康城彻查。”他说道：“但依弟子看来，师兄传道时日尚短，他的信徒大多愚顽",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "他本应该做出更强势的回击，甚至可以直接镇压，但这一次，掌教却显得那般束手无策，因为观主离开了知守观，来到了桃山，更因为裁决神殿的这次清洗行动，是在执行昊天的意志。\n　　数百神官和执事领命而去，昊天神殿渐渐变得安静，至于这些人怎样突破南晋剑阁的封锁，进入临康城，那是他们需要考虑的事情，如果他们胆敢在此",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "腹里，关押着数百名被裁决司从各国押解回来的神官道人执事，昏暗的光线里混杂着血腥的味道，让气氛变得很是压抑。\n　　隆庆行走在安静的山道里，神情平静，没有觉得丝毫压抑，看着眼前晃动的光线，闻着传入鼻端的血腥味，觉得心跳都因为兴奋而开始加快。\n　　他穿着寻常的道袍，道袍下的胸口上有个洞，心脏在洞里跳跃，道",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "轻道人，这道人脸上有数道非常凄惨的伤疤，睹之令人生畏。\n　　他是宋国首席红衣大神官，哪有不认识隆庆的道理。\n　　“隆庆皇子？”\n　　曲奉池有些震惊，眼眸里生出不解的情绪，旋即忽然明亮起来，因为他想到了隆庆和叶红鱼的关系，也想到了隆庆如今在道门的地位。\n　　现在连掌教大人都选择了抛弃，那么如果说还有人",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "然而就在他的目光落下时，诡异的变化发生了。\n　　黑色的瞳孔与白色的眼仁之间的那道分界线，不知因何缘故瞬间消失不见，线两端的世界开始接触，然后融化。\n　　黑瞳变淡，白仁变黑，黑白相混，便是混沌初开时的灰色，只是呼吸之间，隆庆的眼珠便完全变成了灰色。\n　　看着这双灰色的眼眸，曲奉池忽然觉得非常恐惧，身体",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "昊天神殿万道光线组成的帘幕后方，掌教的身影还是那般高大，只是挥舞的手臂和如雷般的吼声，表明他现在非常愤怒。\n　　隆庆站在帘前的石阶下，看着跪在身前数百名神官执事，神情平静。他清楚掌教大人的愤怒，并不仅仅因为叶苏在临康城传道，更多来自桃山看似平静实际上暗流涌动的局势，还有掌教现在尴尬、甚至渐渐变得危急",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "些被打落尘埃的人绝大多数都是掌教的亲信。\n　　墨玉神座上的那个女人已经亮出了她的道剑――没有人明白她为什么会忽然向掌教发起攻势，但同样没有人会误判局势。\n　　掌教乃是西陵神殿之主，执掌道门俗世权柄数十年，自然根基深厚，面对裁决神殿的攻势，他本应该做出更强势的回击，甚至可以直接镇压，但这一次，掌教却显",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，那么谁敢拦他？\n　　幽阁还是那样的幽静，干燥的通道两侧牢房里没有任何声音，那些被抓回桃山的神官和道人们，早已被裁决司的酷刑折磨的奄奄一息，连呼痛都已经做不到，只能躺在干稻草上绝望地等待着死亡。\n　　虽然很幽静，但事实上，幽阁已经很久没有这样热闹过了，现在桃山的山腹里，关押着数百名被裁决司从各国押解",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "但她毕竟已经算错了很多与宁缺有关的人和事。\n　　宁缺回头望向夕阳下的临康城，沉默不语。\n　　大黑马自山间狂奔而出，欢嘶连连。\n　　……\n　　……\n　　有人未经西陵神殿允许，便在临康城传道，这件事情最开始的时候没有惊动西陵神殿，直到神殿发现那名传道者的身份，而且发现那名传道者的信徒越来越多，才变得严肃",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "精神，修为境界和念力，都被隆庆那双有若仙魔的灰色眼眸所夺取。\n　　瞬间之间，曲奉池便没有了呼吸，隆庆缓缓闭上眼睛，再重新睁开，灰色的眼眸已经变回黑白分明的模样，看不出有任何的特殊之处。\n　　谁也不知道，他的身体里现在又多了一个人，他的识海里多出一份极为丰富的感知和一些崭新的知识，他又强大了一分。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "里渐行渐远，待出了临康城，他终于忍不住开口说话，无奈地摇头问道：“你就不能说点儿吉利话？”\n　　桑桑说道：“我说的是真话。”\n　　宁缺恼火说道：“就因为是真话，所以才不吉利！”\n　　桑桑没有理他，背着手向北方行去。\n　　没有人知道叶苏最后的结局是什么，会不会真的被烧死，桑桑虽然无所不知，但她毕竟已经",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "与幽暗已经融为一体。\n　　观主轻轻咳了两声，伸手准备端水喝。\n　　中年道人的手一直扶在轮椅的后背上，从来没有离开过，隆庆快步上前，在石桌上提起水壶，斟满水碗，恭敬地递到观主身前。\n　　观主喝过水后精神显得好了些，看着他说道：“你有困惑？”\n　　隆庆不敢隐瞒，把心中的那些不解说了出来。\n　　观主没有解",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

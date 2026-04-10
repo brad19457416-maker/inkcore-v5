@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 766,
+  "chapter_title": "第一百四十七章 青峡论剑（上）",
+  "filename": "ch_0766_第一百四十七章 青峡论剑（上）.txt",
+  "char_count": 3303,
+  "timestamp": "2026-04-10T12:11:27.132539",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "十三年蝉，原来在书院。\n　　毫无疑问，这是修行界二十余年来最令人震撼的一个消息，即便是他，在听到这个秘密之后，也不免觉得极为震撼。\n　　“看来道门终究还是低估了书院。”\n　　柳白说道：“熊初墨那个蠢货去书院必败无疑，我却不知那个人居然也在书院，那么如今想来，他的结局必然比我想的还要惨。”\n　　这句话",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "出过任何质疑。\n　　“剑道在于剑与法，我一直很看重剑。”\n　　柳白说道：“我在剑阁崖洞里培剑十余载，最终修成一柄好剑，然后被夫子借走，虽然有所遗憾，但那剑能在夫子手中斩神屠龙，也算荣耀。除了那把剑，我还有很多把好剑，比如现在腰间系着的这把，比你的铁剑也要强。”\n　　“至于剑法，我并不觉得自已有何天赋",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。”\n　　青峡前的对话与交流很平静，温和而且充满了善意，无论怎么听，也听不到剑拔弩张、生死立见的那种紧张味道。\n　　书院与剑阁本来就没有什么仇怨，柳亦青虽然被宁缺劈瞎了双眼，那也是公平的决斗，以柳白的气度身份哪里会因此而动怒。\n　　这也正是书院所不理解的事情。\n　　二师兄看着原野间那辆马车，问道：“",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "是手里握着的一把虚无，因为剑必须足够坚硬强韧，笔直锋利，如此才能周游于青天之外，落于万里之外，不然连风都斩不破，摩擦都能烧融剑身，又何谈破甲杀人？我看人用剑，首先便看他用的是不是好剑。”\n　　“今日我看到了两把好剑，叶苏的剑用的是异木，单从材质上论，已是最好的选择，但与你的铁剑比起来，却还是差了些味",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的声音。\n　　“你要不要歇一会儿？”\n　　二师兄看着数百丈外那辆马车，用修长的手指把绳子在颈间系好，说道：“我不知道歇阵之后，还能不能像现在这般自信。”\n　　柳白在车厢中说道：“如此那便不歇。”\n　　二师兄说道：“若前两日与先生战，我必败无疑，感谢先生等到此时才出剑。”\n　　柳白说道：“我也要感谢你",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "任何中庸都不行，或者纵剑万里，或者身前一尺，你不能摇摆不定。”\n　　柳白说道：“你先前与叶苏说了很多道理，我不懂那些道理，我只懂剑理，剑既然是直的，那就应该刺破，应该穿过，唯其至简，所以至强。”\n　　二师兄说道：“道理本是人间之事，你本就不应该还留在人间，自然不需要理会，可如果你要留在人间出剑，有些",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "也要强。”\n　　“至于剑法，我并不觉得自已有何天赋。身前一尺，其实并不是我的开创。这种驭剑法门，最初出现在世间，来自于轲先生。”\n　　二师兄说道：“但却是你发扬光大的，值得世间用剑之人相敬。”\n　　在修行界尤其是剑道的历史上，柳白是一个无法忘记的名字，因为他是第一个把近战提到绝对高位置上的大剑师。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "对着堤外的狂暴海潮写了一道符，明明隔着那么远，那根秃笔却落到了我的脸上。”\n　　柳白摸了摸眉毛，微微自嘲一笑。\n　　“那一战之后，我才最终选择剑在手中。这两种驭剑法门最根本的区别就在于，修行者是要用天地元气控剑，还是用剑控天地元气，其间各有优劣，并不明显，但如果你仔细去想，就会发现剑就应该用这种法门",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "晋人总要表明一些态度，能与书院战上一场，也是我的心愿。”\n　　“如今世间还值得我出手的，不过是你与李慢慢二人了。”\n　　这句话出自剑圣柳白之口，是对书院无比的尊重。二师兄却并不赞同，摇头说道：“若有机会，我想三师妹一定很想向先生您请教。”\n　　听着这句话，柳白沉默，马车再次变得安静起来。\n　　不知道",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "很多次，直到世间再也没有谁敢对他的剑做出评价。\n　　少年时，他在大河畔悟道，自此剑气纵横于山河之间，从来没有人敢对他剑道第一的名声提出过任何质疑。\n　　“剑道在于剑与法，我一直很看重剑。”\n　　柳白说道：“我在剑阁崖洞里培剑十余载，最终修成一柄好剑，然后被夫子借走，虽然有所遗憾，但那剑能在夫子手中斩",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "待修好不迟。”\n　　便在这时，铁篷下传出一声闷响，沉重的铁锤与火红的铁剑相撞，然后热剑入水，发出嗤嗤无数声，白雾大作。\n　　二师兄伸手，接过修复如新的铁剑，说道：“剑修好了。”\n　　“很好。”\n　　青色车帘微动，被一只手掀起。\n　　那只手很大，指节修长有力，很适合握剑。\n　　柳白从车厢里走了出来。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "如何？”\n　　二师兄沉默片刻，说道：“老师说的对，他果然不是无所不知无所不能的人，他大概不会想到，他离开之后，人间的信心会因此弱很多。”\n　　“再说我毕竟是神殿客卿。”\n　　柳白的声音从马车里继续传出：“举世伐唐，我身为晋人总要表明一些态度，能与书院战上一场，也是我的心愿。”\n　　“如今世间还值得我",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

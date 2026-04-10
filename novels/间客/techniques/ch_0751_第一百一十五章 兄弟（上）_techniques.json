@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 751,
+  "chapter_title": "第一百一十五章 兄弟（上）",
+  "filename": "ch_0751_第一百一十五章 兄弟（上）.txt",
+  "char_count": 3651,
+  "timestamp": "2026-04-10T12:05:17.547719",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "“我不是阴谋家，你才是这个宇雷最大的阴谋家。”\n\n    “又要争执下去？”李匹夫难受地咳嗽了两声，愤怒而阴沉地盯着阴暗角落，“难道你想否认培养许乐的背后。你没有隐藏什么阴谋？”\n\n    “当然没有。”封余说道：“他就是一头乖巧可爱的小狗，可以看家护院，可以挑戏取乐，所以我就拣回家养着，至于现这是",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "“有！”\n\n    深夜静室中，响起激烈幼稚类似于孩童般的争执声。\n\n    李匹夫和封余，毫无疑问是三十七宪历，不，应该说是历史长河中最不可思议的一对兄弟，他们在联邦与帝国之间的星辰中嚣张站立。整整影响了我们所生存的世界数十年的时间。\n\n    他们影响了历史，改变了历史，甚至他们本身已经是历",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "只猫走过。\n\n    很长一段时间的寂静，就像是人类思维巾忽然出现的空白，不知道具体的分与秒，只知道存在并且漫长。\n\n    然后从那片阴影中有一个声音响了起来。\n\n    “不，这里不是我的家。你忘了，我们的家在山背后，离修身馆有四公里路。那里没有霓虹灯，没有这么大的私家湖泊。也没有几百个）愚蠢的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "着人走，所以在教导李封的过程中，我只会用血腥的心理手段和不健康的医学手段去刺激他的经脉育，而几年前我第一次看到许乐这个小家伙时，才现原来你已经带着他走到了更远的地方。”\n\n    “还是那句话，关于打架这种事情你不需要谦虚，因为那会显得很虚伪，出现这种局面只能证明你的运气太差。”\n\n    阴影中的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的时钟，催促人们的归去或是归来了\n\n    屋角阴影中没有任何动静。只有厚重的墨绿色窗帘，在内循环通风系统的吹拂下轻轻摇摆，没有猫走过，却像有一只猫走过。\n\n    很长一段时间的寂静，就像是人类思维巾忽然出现的空白，不知道具体的分与秒，只知道存在并且漫长。\n\n    然后从那片阴影中有一个声音响了",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "白色的被褥，沙哑而疲惫的声音在干瘪的胸膛内丝丝回荡。\n\n    停顿片刻后，他艰难地笑了笑，继续低声感慨说道：“但我没有这么做，因为，就算我布置好了计划，也不能确定部队能不能逮住你或者杀死你，另外更重要的原因是，我这辈子已经为联邦做的足够多，最后这点儿时间应该有资格过些普通人的生活。”\n\n    老",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "绿色窗帘，在内循环通风系统的吹拂下轻轻摇摆，没有猫走过，却像有一只猫走过。\n\n    很长一段时间的寂静，就像是人类思维巾忽然出现的空白，不知道具体的分与秒，只知道存在并且漫长。\n\n    然后从那片阴影中有一个声音响了起来。\n\n    “不，这里不是我的家。你忘了，我们的家在山背后，离修身馆有四公",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "么对错是非\n\n    “为什么不芝？”阴影中的声音响起的很快，带着一丝令人耳膜有些不适应的尖锐，“你马上就要死了，我当然要趁着你死之前，把这些事情说清楚，不然你死之后，我找谁说理去？你儿子？还是你孙子？还是说那个，天天往自己脸上涂黑鞋油的娘们儿总统？对了老头子，你觉着那娘们儿总统真以为把自己涂黑了就",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "最后一次见面，我并不想和你重复那些无聊的吵架过程\n\n    老爷子痛苦地皱了皱眉，有些厌烦地挥手继续说道：“你选择最后来看看我，总不会是又来和我争什么对错是非\n\n    “为什么不芝？”阴影中的声音响起的很快，带着一丝令人耳膜有些不适应的尖锐，“你马上就要死了，我当然要趁着你死之前，把这些事情说清楚",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "然他的手臂颤抖的非常厉害。“从七八岁开始争。我不想到七八十岁还要争”我都要死了，我想保有不听你废话的权力，你如果非要继续争下去。那我干脆去死\n\n    “别拿死来吓我，也不用装死，这个宇宙里我最了解你，哪怕你只剩最后的一口气，你那口气绝对可以支撑着你从床上跳起来，再打我一巴掌。”\n\n    封余平静",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，教他杀牛。教他吃牛，教他享受人生，我有什么好亏疚的？老头子，你如果真觉得这件事情背后有阴谋，以你的性格难道不会去查？”\n\n    “不用查。”李匹夫嘲弄不屑说道：“我也知道有阴谋。”\n\n    “没阴谋。”\n\n    “有阴谋。”\n\n    “没！”\n\n    “有！”\n\n    深夜静室中，响起",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "十五章 兄弟（上） \n\n    品卜夜煮深沉，房内光线昏暗，医疗器械的电子音嘀嘀如同旧式的时钟，催促人们的归去或是归来了\n\n    屋角阴影中没有任何动静。只有厚重的墨绿色窗帘，在内循环通风系统的吹拂下轻轻摇摆，没有猫走过，却像有一只猫走过。\n\n    很长一段时间的寂静，就像是人类思维巾忽然出现的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的年轻混子，却又带着某种盘腿坐在旧月山数上眯眼看引棉花糖般风暴的俯睡酷劲。\n\n    病床上的李匹夫安静炮看着墙角的阴影。目光平和而虚弱，回答的声音却不知道为什么，也多了很多嘲讽的色彩，做为联邦军神，在这漫长的一生当中，大概也只有在这个人面前。他才能感受到真正的对等，于是也有某种自由。\n\n    “",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

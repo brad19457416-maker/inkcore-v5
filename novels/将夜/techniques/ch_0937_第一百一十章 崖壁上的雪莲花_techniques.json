@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 937,
+  "chapter_title": "第一百一十章 崖壁上的雪莲花",
+  "filename": "ch_0937_第一百一十章 崖壁上的雪莲花.txt",
+  "char_count": 3321,
+  "timestamp": "2026-04-10T12:11:27.514679",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "道：“上师，那处乃是佛祖神国，岂是我们这些罪孽深重的凡夫俗子能够去的地方？”\n　　君陌没有理他，看着人群，想要听到有人做出不一样的回答，然而过去了很长时间，湖边依然安静一片。\n　　他的神情显得有些疲惫，有些淡淡的失望。\n　　就在这时，宁缺牵着的那名小女孩开口说话了。\n　　不知道是不是因为宁缺的手很温",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "君陌挥剑，十余颗人头破空而起，十余道血花从那些汉子的颈腔处向着格外高远的天穹狂喷，仿佛要把这罪恶的天空洗净。\n　　铁剑虽然宽厚，但用剑的人从来不知何为宽厚，他只知道方正的道理。\n　　没有什么激烈的画面，甚至谈不上战斗，君陌只是挥了一剑，一切便结束了。\n　　那名贵人看着这幕面画，脸色惨白，张着嘴半天",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "着上师，会受到佛祖的惩罚。\n　　那名贵人也知道，和这些愚蠢的贱民们说不清楚，举起手中的马鞭，指着君陌说道：“把这个残废绑起来，活佛说了，要把他烧死。”\n　　那些汉子齐声应声，一夹马腹便向湖边冲了过去，手里的刀反射着阳光，显得极为锋利，牧民们被唬的四处逃散。\n　　看着那名黄衣僧人眼看着便要被撞倒，那名",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "有听过这样的话，他们不知道什么是地面，难道自己站着的原野不是地面吗？还有别的地面吗？那个地面是哪里？为什么站在那个地面上，看神山便会像座小土丘？不，神山怎么可能是座小土丘呢？\n　　一道清稚的声音打破了场间安静。\n　　宁缺牵着的小女孩，好奇问道：“上师，你说的地面在哪里？”\n　　湖畔的牧民们神情显得格",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "说是井壁，实际上便是一堵监狱的墙。\n　　牧民们顺着他的手指望向崖壁，根本看不到尽头，时常有云雾缭绕，心想这道崖壁都快有神山那般高了，怎么可能爬得上去？\n　　无数年来，从来没有人爬上过这道崖壁，在僧侣们的教谕中，这种思想都渐渐变成了亵渎佛祖的行为，谁敢尝试？\n　　牧民们看着崖壁，忽然醒过神来，发现自己",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "铁剑虽然宽厚，但用剑的人从来不知何为宽厚，他只知道方正的道理。\n　　没有什么激烈的画面，甚至谈不上战斗，君陌只是挥了一剑，一切便结束了。\n　　那名贵人看着这幕面画，脸色惨白，张着嘴半天说不出话来，然后他才渐渐感觉到疼痛，伸手一摸发现脸上竟然全部是血。\n　　铁剑破湖而出，落在君陌手中，刚好经过他的座",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "界里生活，他们曾经见过很多血腥的画面，甚至比这更残酷的画面也见过不少，但他们从来没有想象过，巴依老爷最强大的屠夫们，居然有一天会被人用如此简单的方式变成死人。\n　　看着湖畔的黄衣僧人，人们纷纷再次跪下，脸上写满了敬畏与恐惧的情绪，还有隐隐的不安，不知道接下来该怎么办。\n　　先前那名老牧民走到君陌身前",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的天穹狂喷，仿佛要把这罪恶的天空洗净。\n　　铁剑虽然宽厚，但用剑的人从来不知何为宽厚，他只知道方正的道理。\n　　没有什么激烈的画面，甚至谈不上战斗，君陌只是挥了一剑，一切便结束了。\n　　那名贵人看着这幕面画，脸色惨白，张着嘴半天说不出话来，然后他才渐渐感觉到疼痛，伸手一摸发现脸上竟然全部是血。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。\n　　一名中年妇女大概是小女孩的母亲，更是吓的脸色苍白，想要上前把她拖回来打一顿，却发现女儿牵着个陌生人，不敢上前。\n　　君陌看到了宁缺，也看到了桑桑，微微一怔，然后没有理他们，对着那名小女孩说道：“我们现在是在地下，地面是上面。”\n　　他指着身后说道：“爬上这座悬崖，便到了真正的地面。”\n　　他",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "厉声喝斥道：“活佛说了，他是外教的邪人，根本不是什么上师！你们还不赶紧让开！”\n　　牧民们惊恐地看着马上的贵人，却没有让开，不是他们勇敢到敢违反巴依老爷的命令，而是他们坚信君陌就是上师，不然怎么会对低贱的自己如此慈悲，所以他们很害怕巴依老爷伤着上师，会受到佛祖的惩罚。\n　　那名贵人也知道，和这些愚蠢",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，看着场间那些跪在地面上的牧民们厉声喝斥了数句，大概是要他们散去。\n　　牧民们畏惧起身，想要避散，又担心部落好不容易请来的上师被皮鞭挥到，惶急地挥动着双手，向马背上那男人辩解了几句。\n　　“巴依老爷，这是……”\n　　话还没有说完，皮鞭便狠狠地挥了下来，落在一名老牧民的肩头，抽出一道血痕，这还是那男人",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "花从那些汉子的颈腔处向着格外高远的天穹狂喷，仿佛要把这罪恶的天空洗净。\n　　铁剑虽然宽厚，但用剑的人从来不知何为宽厚，他只知道方正的道理。\n　　没有什么激烈的画面，甚至谈不上战斗，君陌只是挥了一剑，一切便结束了。\n　　那名贵人看着这幕面画，脸色惨白，张着嘴半天说不出话来，然后他才渐渐感觉到疼痛，伸手",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。\n　　先前那名老牧民走到君陌身前跪下，亲吻他鞋前的土地，颤着声音说道：“伟大而仁慈的上师，请您赶快离开吧。”\n　　君陌面无表情看着他的头顶，说道：“因为我留下会连累你们？”\n　　“不！”\n　　老牧民抬起头来，黝黑的脸庞上满是皱纹，皱纹里满是痛苦的泪水，说道：“您若能够拥有时间，便一定能成为最强大的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "知道，那座山其实很矮，在地面上看过去，只不过是座不起眼的小土丘。”\n　　听到这段话，湖边忽然变得极为安静，只能听到湖水里先前被铁剑吓坏的鱼儿到处游动的摆尾声，牧民们的神情显得很惘然。\n　　他们从来没有听过这样的话，他们不知道什么是地面，难道自己站着的原野不是地面吗？还有别的地面吗？那个地面是哪里？为",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "惫，有些淡淡的失望。\n　　就在这时，宁缺牵着的那名小女孩开口说话了。\n　　不知道是不是因为宁缺的手很温暖，给小女孩带来了很大的勇气，她用湖水般透亮的声音，轻声说道：“我想上去看看。”\n　　无数双目光望向小女孩，她的母亲甚至昏了过去。\n　　小女孩低着头，显得有些不安和害怕。\n　　宁缺轻轻捏了捏她的手，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

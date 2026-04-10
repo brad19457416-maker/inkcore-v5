@@ -1,0 +1,115 @@
+{
+  "novel": "将夜",
+  "chapter_number": 34,
+  "chapter_title": "第三十四章 老笔斋的第一位客人",
+  "filename": "ch_0034_第三十四章 老笔斋的第一位客人.txt",
+  "char_count": 2276,
+  "timestamp": "2026-04-10T12:11:03.420790",
+  "techniques_count": 8,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，还有些流传颇广的经书，但他相信即便如此，待这些纸卷挂上墙后，必然有无数达官贵人名流文士慧眼识书，闻风而至。\n　　“哎呀，门槛过两天就会被踩断了，看来得提前备着修。”\n　　宁缺得意无比地想道，右手伸至墙上，把原东主留下来的纸卷胡乱扯落，就像是扯掉一堆垃圾，正准备喊桑桑去寻间装裱店，再把自己的大作挂上",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "要有点儿读书人的劲儿，宁缺懒怠去招呼什么客人，虽然对方是老笔斋开门以来的第一位客人，深具历史重大题材意义。\n　　中年男子看完一圈，踱回宁缺身前，微笑说道：“小老板……”\n　　没等他把整句话说完，宁缺笑着纠正道：“请叫我老板，不要因为我看着年纪小便叫我小老板，就像我不会看间您佩着一把剑就称呼您为剑……",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "一把剑就称呼您为剑……客。”\n　　“好吧，小老板。”中年男子并没有改变称呼，笑着说道：“我很想知道，为什么你会愿意租这间三个月都没有人愿意租的铺面。”\n　　宁缺回答道：“地方清净，环境不错，前店后宅，我没道理不租。”\n　　中年男子微微一笑说道：“我只是想提醒你，这间铺子之所以这么便宜却一直没有租出去",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "然对方是老笔斋开门以来的第一位客人，深具历史重大题材意义。\n　　中年男子看完一圈，踱回宁缺身前，微笑说道：“小老板……”\n　　没等他把整句话说完，宁缺笑着纠正道：“请叫我老板，不要因为我看着年纪小便叫我小老板，就像我不会看间您佩着一把剑就称呼您为剑……客。”\n　　“好吧，小老板。”中年男子并没有改变",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "总而言之，这家有一个老板兼书家，一个侍女兼打杂，一个古怪的名字的书法作品专卖店，终于在临四十七巷书墨登场了。\n　　宁缺对这铺子唯一的不满就在于离装裱铺子太远，而装裱又太慢，偏生他自己并不擅长此道，于是只好耐着性子又等了两天。\n　　某一日长安城再次落下雨水，临四十七巷的铺子悄无声息地开张。宁缺穿了一身",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "宁缺对这铺子唯一的不满就在于离装裱铺子太远，而装裱又太慢，偏生他自己并不擅长此道，于是只好耐着性子又等了两天。\n　　某一日长安城再次落下雨水，临四十七巷的铺子悄无声息地开张。宁缺穿了一身崭新的书生青衫，左手捧着把廉价的红泥小茶壶，站在满墙书卷之前门槛之后，仿佛看到新的生活正在向自己招手，而那新",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "何应去？所以他只好抄些现世的诗集，还有些流传颇广的经书，但他相信即便如此，待这些纸卷挂上墙后，必然有无数达官贵人名流文士慧眼识书，闻风而至。\n　　“哎呀，门槛过两天就会被踩断了，看来得提前备着修。”\n　　宁缺得意无比地想道，右手伸至墙上，把原东主留下来的纸卷胡乱扯落，就像是扯掉一堆垃圾，正准备喊桑桑",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "修行就是一个很臭的空心屁……\n　　虽然有这么多虽然，但当笔锋可以放肆在雪纸上舞蹈的时候，他还是觉得很幸福，甚至觉得桑桑提议卖字儿实在是个天才主意。\n　　渭城苦寒谈不上贫困却也难称富庶，军部运送的物资里更不会包括笔墨纸砚这些东西，所以从前想要写上几卷字花费可是不小，现在而今眼目下，笔墨纸砚可以任情使用",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

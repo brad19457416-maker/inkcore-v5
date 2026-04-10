@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 138,
+  "chapter_title": "第一百三十八章 柳絮下的真相",
+  "filename": "ch_0138_第一百三十八章 柳絮下的真相.txt",
+  "char_count": 3395,
+  "timestamp": "2026-04-10T12:11:12.028274",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第一百三十八章 柳絮下的真相\n　　宁缺想起去年书院入院试放榜那时，小桑桑也曾经盯着谢三公子发过呆，这才明白原来这丫头原来和自己一样，也是首重皮囊的凡人啊。可为什么她从来没有看着自己发呆？那自然是因为自己的皮囊实在太过普通。想",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "为了自己的人生还是为了小侍女的梦想，自己都必须往二层楼爬一爬了。\n　　……\n　　……\n　　又是一年春来到，柳絮满天飘，飘过坊市水井，飘过南城清幽贵宅，飘过热闹的朱雀大街，飘过高高的朱色宫墙，在檐兽鼻尖调皮地挑了挑，然后轻轻扬扬地向地面落去，把洗衣局湿漉的地面粘成一片稀薄的毡子。\n　　“额错了，额真的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "只不过顺便看看他。”\n　　“这还差不多，乖。”\n　　宁缺笑着揉了揉她的脑袋，然后背着双手向后宅走去，心想看来无论是为了自己的人生还是为了小侍女的梦想，自己都必须往二层楼爬一爬了。\n　　……\n　　……\n　　又是一年春来到，柳絮满天飘，飘过坊市水井，飘过南城清幽贵宅，飘过热闹的朱雀大街，飘过高高的朱色宫",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "纸钱灰烬。\n　　一位穿着灰色袍子的瘦高中年人，站在墓地高处，静静看着下方的动静，等待那座石制大坟前的人们离开，才缓缓走了下去。\n　　看着墓碑上大唐御史张怡琦的生卒年份光辉履历，灰袍中年人沉默片刻，然后前行来到墓堆旁，右手缓慢抚过那些刚被拔断的青草，掌面与新鲜的草根断茬面隔得极近，却又没有完全接触上。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "那些大臣们玩什么心眼？这下可好，玩砸了不是？把自己的脚背砸的好痛，现如今陛下越喜欢，这事儿闹腾出来的风波越大，额越不敢承认当时是俺骗了陛下，这真是一着错，着着错啊。”\n　　小太监禄吉抬起头瞥了一眼统领大人的脸色，压低声音建议说道：“大人，咱们看了这好几个月的时间，就算宁缺藏的再深，总有一天会被朝廷挖",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "还是假喜欢，但总之陛下失望了这么久，最后发现是我们瞒了他这么长时间，所有的失望和喜欢都会变成对你我的愤怒，到那时宁缺那小子倒是不会有什么麻烦，可是你还是我来承受责任？”\n　　说起严肃正事儿，副统领大人的河北道口音变淡了很多，不说额而称我了，禄吉哪里敢接话，眼珠骨碌一转，心想若真有那天，背黑锅挨板子的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "“这还差不多，乖。”\n　　宁缺笑着揉了揉她的脑袋，然后背着双手向后宅走去，心想看来无论是为了自己的人生还是为了小侍女的梦想，自己都必须往二层楼爬一爬了。\n　　……\n　　……\n　　又是一年春来到，柳絮满天飘，飘过坊市水井，飘过南城清幽贵宅，飘过热闹的朱雀大街，飘过高高的朱色宫墙，在檐兽鼻尖调皮地挑了",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "间，林零缓缓睁开双眼，望向身前不远处的御史之墓，脸上露出极为震惊的神情，眼眸里却是疑惑之余浮现出些许轻松之意，仿佛因为确定了某件事情、确定了某种推测而感到如释重负。\n　　抬起衣袖轻轻擦拭掉眉梢快要滴落的汗珠，他艰难地站起身来，扶着疲惫的腰深深吸了一口墓群上空混着烟味的空气，缓慢向长安城的方向走去。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的凡人啊。可为什么她从来没有看着自己发呆？那自然是因为自己的皮囊实在太过普通。想到此节，他看着她忧郁说道：“长的太好看的男人，一般脑子都不大好使，比如那位隆庆皇子。”\n　　桑桑把小黑脸枕在细细胳膊上，出神道：“少爷，我就想看看他那张脸是怎么生的，为什么那般好看，也不知道他用的是哪家的脂粉，陈锦记还是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，小桑桑也曾经盯着谢三公子发过呆，这才明白原来这丫头原来和自己一样，也是首重皮囊的凡人啊。可为什么她从来没有看着自己发呆？那自然是因为自己的皮囊实在太过普通。想到此节，他看着她忧郁说道：“长的太好看的男人，一般脑子都不大好使，比如那位隆庆皇子。”\n　　桑桑把小黑脸枕在细细胳膊上，出神道：“少爷，我就",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "一位穿着灰色袍子的瘦高中年人，站在墓地高处，静静看着下方的动静，等待那座石制大坟前的人们离开，才缓缓走了下去。\n　　看着墓碑上大唐御史张怡琦的生卒年份光辉履历，灰袍中年人沉默片刻，然后前行来到墓堆旁，右手缓慢抚过那些刚被拔断的青草，掌面与新鲜的草根断茬面隔得极近，却又没有完全接触上。\n　　灰袍瘦",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

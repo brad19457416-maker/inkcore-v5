@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 368,
+  "chapter_title": "第一百七十三章 不见忧怜",
+  "filename": "ch_0368_第一百七十三章 不见忧怜.txt",
+  "char_count": 3307,
+  "timestamp": "2026-04-10T12:11:21.739854",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，看着大学士说道：“你说这让我这个做母亲的听着心里有何感受？而且你也不要瞒我，我知道昨儿你迟疑那刻是为什么，你不就是担心皇后娘娘想要拉拢书院，所以不想让女儿与她那个杀千刀的主家完全断裂关系。”\n　　曾静想着先前管家私下里的观察回话，对桑桑的观感也更好了几分，这个多年未见的女儿虽说不怎么爱说话，似乎有",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "：“曾大人，是陛下的旨意。”\n　　曾静先是恍然大悟，难怪来的是林公公，接着便是疑惑不解，天启年来大唐风调雨顺，官清民安，极少有这等深夜急旨之事，即便是边境有事，按道理陛下也不可能派太监来召自己这个文臣入宫，而且竟然派来的是陛下宫中最得用，也是品秩最高的太监首领。\n　　林公公没有给曾静更多思考的时间，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "户籍上还是宁缺的侍女，为防民间议论，陛下请大学士今夜先把她送回老笔斋。”\n　　曾静面上隐然透出怒意，心想陛下这道旨意完全是乱命，哪里来的拆散骨肉逆人伦的道理，沉声说道：“我要进宫面见陛下。”\n　　林公公似乎早已猜到他会有此反应，毫不惊讶，向前走了两步凑到他的耳边轻声说道：“这是书院院长的意思。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "不好，昨夜她便一直睁着眼睛看着帷帐上那些繁复美丽的花纹看了整整一夜，今夜她则是坐在窗边发呆。\n　　她来到了书房。\n　　林公公只说了一句话：“宁缺受了重伤。”\n　　桑桑沉默片刻，然后转身走出书房，就像是没有听到。\n　　片刻后，她抱着自己的行囊走了回来。\n　　她对着学士夫妇行礼，低声说道：“我去看看，明",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "师兄背着宁缺，跟在身后，冬末的深夜，长安城巷中，一名老师带着他这辈子最疼爱的两个学生平静前行，却不知最终会走向何方。\n　　……\n　　……\n　　深夜的长安城，万家灯火已经熄了九千多家，除了皇宫城墙上的灯光，便只有西城通宵热闹的赌坊青楼还亮着，南城多住大臣富商，门禁森严，早已一片漆黑，但今夜却还有一座府",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "想必将来他对你和小陌会一直尊敬下去，对书院也会有应有的归属感。”\n　　夫子回身看着昏迷中的宁缺，微笑说道：“当然这些都是些无关紧要的事情，但我想或许会对这个孩子将来的选择有影响。”\n　　听到桑桑的名字，大师兄微微皱眉，但他没有就此发论，而是忽然说道：“出污泥而不染，我一直记得老师当年所作爱莲说里的这",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "过些时日，总是能喊出那声母亲，你不要太过急切。”\n　　曾静夫人抬头看着他伤感说道：“我哪里不明白这个道理，难道我还非要逼女儿今天就要如何，我只是觉得她这些年受了太多苦，做母亲的总觉得伤心愧疚，尤其是看她如今这小模样便忍不住流泪。”\n　　曾静大学士微异问道：“她又如何了？”\n　　“静岷园里给她住的小楼",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "第一百七十三章 不见忧怜\n　　“渭城里的人到今天还能收到银子，也懂得怜惜桑桑那个小姑娘，那么想必将来他对你和小陌会一直尊敬下去，对书院也会有应有的归属感。”\n　　夫子回身看着昏迷中的宁缺，微笑说道：“当然这些都是些无关紧要的事情，但我想或许会对这个孩子将来的选择有影响。”\n　　听到桑桑的名字，大",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "常清晰。\n　　曾静大学士看着她叹息一声，说道：“女儿已经接回府了，夫人你为何还如此伤心？现如今还有些陌生，再过些时日，总是能喊出那声母亲，你不要太过急切。”\n　　曾静夫人抬头看着他伤感说道：“我哪里不明白这个道理，难道我还非要逼女儿今天就要如何，我只是觉得她这些年受了太多苦，做母亲的总觉得伤心愧疚，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "：“学生愧不敢当。”\n　　夫子说道：“世间本无完人，但在道德心性方面，你比我强，比你小师叔强，比我这无数年来见过的所有人都强，然而前些日子那件事情，你却做的不好，想的不善，不如君陌。”\n　　听着老师的批评，大师兄沉默受教，却说道：“小师弟身后那把大黑伞，只怕佛宗的人已经看出了些端倪，不得不慎。”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "悬空寺里读经礼佛多年，境界很是高深，所以我想宁缺受的伤应该不轻。”\n　　莫山山站起身来，沉默片刻后又缓缓坐下。\n　　“原来你写书帖时已经受了伤，可你为什么不说呢？”\n　　很久没有人去剪的烛芯微微卷曲，光线昏淡，映在少女的白裙上泛着淡黄，但映在她的脸上，却依然遮不住微微的苍白。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "：“你说这让我这个做母亲的听着心里有何感受？而且你也不要瞒我，我知道昨儿你迟疑那刻是为什么，你不就是担心皇后娘娘想要拉拢书院，所以不想让女儿与她那个杀千刀的主家完全断裂关系。”\n　　曾静想着先前管家私下里的观察回话，对桑桑的观感也更好了几分，这个多年未见的女儿虽说不怎么爱说话，似乎有些不讨喜，但实际",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "是这些民间最普通的人，他们的感情和是非观才会最朴素，也最坚定。\n　　在这种朴素坚定的感情与是非观前，权力和力量往往会失去它们本来的魔力，无论是夫子还是皇帝，或许都要暂避一二。\n　　林公公微微一怔，对这位学士夫人暗生敬意，和声说道：“夫人您误会了，这件事情当然首先要听桑桑小姐自己的意思，陛下这道旨意只",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

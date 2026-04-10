@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 455,
+  "chapter_title": "第二百五十九章 终归，已老",
+  "filename": "ch_0455_第二百五十九章 终归，已老.txt",
+  "char_count": 3634,
+  "timestamp": "2026-04-10T12:11:21.714746",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "颤抖。\n　　夏侯虽然是武道巅峰强者，世间最强大恐怖的男人之一，但他不是真的天神，所以他的咳嗽不可能让大地都颤抖起来。\n　　他静静看着夕阳下的长安城，然后转身走进了驿站。\n　　……\n　　……\n　　有人在驿站房间里等他。\n　　那是一个极其高大魁梧的男人，竟比夏侯还要高半个头，神情肃然，身形笔挺，就像是一",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "微颤抖了一丝，无论是驿站里神情恭谨的小吏，还是夏侯的亲卫，都没有注意到这丝颤抖。\n　　夏侯虽然是武道巅峰强者，世间最强大恐怖的男人之一，但他不是真的天神，所以他的咳嗽不可能让大地都颤抖起来。\n　　他静静看着夕阳下的长安城，然后转身走进了驿站。\n　　……\n　　……\n　　有人在驿站房间里等他。\n　　那是",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "？\n　　夏侯脸上嘲讽的笑容淡淡转为自嘲，手指微微用力，准备把这封西陵掌教的亲笔信碾成粉末，然而不知道为什么，他犹豫片刻后停止了动作。\n　　……\n　　……\n　　替大唐帝国驻守北疆数十年的夏侯大将军，没有提任何条件，便愿意解甲归老，朝中诸公微觉异样之余，顿时觉得轻松了很多，在请示了陛下旨意后，朝廷给予了",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "亭前，二人相遇。\n　　夏侯神情平静地向亲王殿下行礼。\n　　李沛言却有些难以平静，看着他黝黑如铁的脸，感慨说道：“回来就好。”\n　　……\n　　……\n　　大唐朝臣并不喜欢以骄纵奢暴闻名的夏侯将军。\n　　因为数十年来，世间一直风传夏侯杀俘，滥杀无辜冒充战功，不知道违反了多少唐律，然而一直没有证据，并且所有",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "只不过是掌教养的一条狗，你有什么资格用这种语气和我说话？”\n　　罗克敌的眼眸深处闪过一丝怒意，却强行压抑下来，冷笑说道：“我承认自己就是掌教大人养的一条狗，而你就算是昊天养的一头雄狮，如今失了锐气还要回长安城，难道你真想让自己的敌人开心？”\n　　夏侯沉声喝道：“这是本将军与书院之间达成的协议，放眼世",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "脸上流露出担忧的神情，在他眼中将军确实依然强大，但在荒原上他曾经亲眼见过那个魔宗强者和将军之间的数场战斗，所以他很担心。\n　　便在这时，驿站院墙外的地面，忽然微微颤抖了一丝，无论是驿站里神情恭谨的小吏，还是夏侯的亲卫，都没有注意到这丝颤抖。\n　　夏侯虽然是武道巅峰强者，世间最强大恐怖的男人之一，但他",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "经亲眼见过那个魔宗强者和将军之间的数场战斗，所以他很担心。\n　　便在这时，驿站院墙外的地面，忽然微微颤抖了一丝，无论是驿站里神情恭谨的小吏，还是夏侯的亲卫，都没有注意到这丝颤抖。\n　　夏侯虽然是武道巅峰强者，世间最强大恐怖的男人之一，但他不是真的天神，所以他的咳嗽不可能让大地都颤抖起来。\n　　他静静",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "矮，但感觉却比对方更魁梧，更强大，所以他不用抬头。\n　　“如果被人看见，西陵神殿神卫统领罗克敌，忽然出现在离长安城最近的驿站里，一定会被认为这是对大唐的挑衅。”\n　　他冷冷看着这个男人说道：“我知道你是个骄傲的人，但你真以为我大唐天枢处没有高手？我们身后这座长安城里，至少有十个人可以轻而易举地杀死你",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "宫觐见时颁发，此时正安静搁在皇宫里的那道旨意下，有着令人目眩的封赏和爵位。\n　　远远看着黑压压的欢迎人群，夏侯不顾礼部官员的劝说，提前翻身下马，拉着马疆向着那方步行而去。\n　　亲王殿下看着这幕画面，微笑着摇了摇头，挥手驱走身边劝谏的太监，同时向着他走了过去。\n　　便在东门外的那道离亭前，二人相遇。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "他依然是大唐军方的第一人，无论是威信还是陛下的宠信，永远无人替代。\n　　夏侯连声咳嗽，大概是想着明天进入长安城后，自己便会无甲一身轻，连最后一丝忌惮都没有，所以他咳的很是快意甚至显得有些放肆。\n　　站在驿站门口的亲兵校尉，看着眼前将军宽厚如山的身影，听着咳嗽声，脸上流露出担忧的神情，在他眼中将军确实",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "下马，拉着马疆向着那方步行而去。\n　　亲王殿下看着这幕画面，微笑着摇了摇头，挥手驱走身边劝谏的太监，同时向着他走了过去。\n　　便在东门外的那道离亭前，二人相遇。\n　　夏侯神情平静地向亲王殿下行礼。\n　　李沛言却有些难以平静，看着他黝黑如铁的脸，感慨说道：“回来就好。”\n　　……\n　　……\n　　大唐朝",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "的神情，在他眼中将军确实依然强大，但在荒原上他曾经亲眼见过那个魔宗强者和将军之间的数场战斗，所以他很担心。\n　　便在这时，驿站院墙外的地面，忽然微微颤抖了一丝，无论是驿站里神情恭谨的小吏，还是夏侯的亲卫，都没有注意到这丝颤抖。\n　　夏侯虽然是武道巅峰强者，世间最强大恐怖的男人之一，但他不是真的天神，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "统领罗克敌，忽然出现在离长安城最近的驿站里，一定会被认为这是对大唐的挑衅。”\n　　他冷冷看着这个男人说道：“我知道你是个骄傲的人，但你真以为我大唐天枢处没有高手？我们身后这座长安城里，至少有十个人可以轻而易举地杀死你，你这时候出现在我面前，完全是在找死。”\n　　罗克敌说道：“我既然敢来，自然就不怕死",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "毛微微挑起，说道：“你们能给我什么？”\n　　罗克敌说道：“既然您效忠的是皇后娘娘，那么西陵神殿承诺，日后在大唐皇位的争夺上，神殿会尽一切力量帮助皇后娘娘膝下那位皇子成功。”\n　　以西陵神殿恐怖的实力，提前很长时间，抛出这样一个毫无余地的重注，对于夏侯来说，不得不说是个很有诚意的邀约。\n　　然而出乎罗",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "武百官出城相候，更有无数城中名流翘首以待。\n　　朝廷早已拟好了旨意，就等着夏侯入宫觐见时颁发，此时正安静搁在皇宫里的那道旨意下，有着令人目眩的封赏和爵位。\n　　远远看着黑压压的欢迎人群，夏侯不顾礼部官员的劝说，提前翻身下马，拉着马疆向着那方步行而去。\n　　亲王殿下看着这幕画面，微笑着摇了摇头，挥手驱",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

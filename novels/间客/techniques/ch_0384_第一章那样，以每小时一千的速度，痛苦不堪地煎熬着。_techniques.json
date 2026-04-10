@@ -1,0 +1,102 @@
+{
+  "novel": "间客",
+  "chapter_number": 384,
+  "chapter_title": "第一章那样，以每小时一千的速度，痛苦不堪地煎熬着。",
+  "filename": "ch_0384_第一章那样，以每小时一千的速度，痛苦不堪地煎熬着。.txt",
+  "char_count": 1273,
+  "timestamp": "2026-04-10T12:04:59.232661",
+  "techniques_count": 7,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "天写地确实有点累。没有什么免俗不免俗地。毫无烟火气息（记得以前有位书友说最讨厌这句。然后我就在废话里拼命用这句。我是不是特无聊？）地喊一声：\n\n    请把月票投过来吧。老猫需要你们地票票。钞票月票推荐票！钞票你们订阅了就是给了。月票您愿意给就给。推荐票……好像你们从来都没给我地习惯吧。捶地。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "没有之一。而我以前又是最不喜欢极品公子的，所以有时候总觉得这世界太奇妙了，丫就是同一个人，怎么水平见风就涨，涨了这么多，让我看着双眼发花哩？所以这就是认真这个大杀器的效用了。\n\n    以前有很多人说我文字好，从来没有做过回应，现在正经说一句，这就是扯淡啊。文字要简略得宜，该华时则华，该脆时则脆，这",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "是自己给自己压力，自己让自己多用心的缘故。周星星王八蛋的前半部都能说出一字记之曰心这种大废话大实话大真理，我这个编故事的人，更要牢记这点。\n\n    生活里没有其余事情地时候。我地作职责便是编故事给大家看。所以要给自己压力。要用心。真有事情地时候。少写一点。想必你们这些习惯了我地懒惰地人自然也舍不得",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "文字好的章节，自认下了功夫的，是那些简洁的章节，比如间客里的某几章——不算酸的还有几章、庆余年里范闲第一次杀人。只是不多，因为写着写着就容易写滑手了，滑手有好处，但坏处更多，问题是不滑手的时候，写的会非常辛苦。\n\n    当然，要疯了，怎么又是当然，我自己欢的当然还是我的废话。\n\n    这几天是过",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "保证健康。用心编故事让大家玩……\n\n    tnndd，准备更的时候，才发现一罗嗦居然又超了一千字，以后谁再敢说我文字好的，直接拖下去打死，信春哥的继续打……小说^t*xt-天.堂\n\n\n\n第三卷西林的征途",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "了这么多，让我看着双眼发花哩？所以这就是认真这个大杀器的效用了。\n\n    以前有很多人说我文字好，从来没有做过回应，现在正经说一句，这就是扯淡啊。文字要简略得宜，该华时则华，该脆时则脆，这才是好文字，像我这种老太婆的裹脚，能好到哪里去？当然，又是当然，这裹脚布里偶尔还是有些句子不错的，只不过我自己",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "都有些发烧。再当然，当然也有很多片段是很的，我自己看着也很得意，但综合起来算，只能勉强维持一个对得起大家订阅所花的千字两分或者三分钱，并没有多余自傲的东西。\n\n    昨天看了烽火的那个章节，很受感触。我始终坚持认为二狗是今年来起点最牛叉的书，不管说装不装逼什么的，这本就是最牛逼的，没有之一。而我以",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

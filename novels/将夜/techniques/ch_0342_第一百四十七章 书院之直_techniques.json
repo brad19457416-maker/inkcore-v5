@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 342,
+  "chapter_title": "第一百四十七章 书院之直",
+  "filename": "ch_0342_第一百四十七章 书院之直.txt",
+  "char_count": 3272,
+  "timestamp": "2026-04-10T12:11:21.757728",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "便是一见宁缺误终生？\n　　新坟前，桑桑低身拍掉膝盖上的土屑，走到宁缺身边替他清理了一下衣衫，便在这时天空忽然飘起稀稀落落的雪来。\n　　蓬的一声轻响，大黑伞在头顶撑开，遮住天空，也遮住了那些从云层里挤出来的雪沫儿，主仆二人撑着黑伞向草甸外的马车走去。\n　　大黑伞下，桑桑低着脑袋轻声说道：“少爷我真有件",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "一动，便将体内的浩然气运至双手间，双手一搓便将那锭雪花银搓成了一根银棍，然后手指快速轻捏，银棍的尖端瞬间变得无比锋利。\n　　桑桑跪在炕上，肩上搭着被子，不解问道：“你什么时候学会变戏法了？”\n　　宁缺把那根锋利的银棍狠狠向自己的手臂上戳去，只见锋利的尖端深深陷入，却只留下了一个极浅的白痕，一滴血都没",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "住了那些从云层里挤出来的雪沫儿，主仆二人撑着黑伞向草甸外的马车走去。\n　　大黑伞下，桑桑低着脑袋轻声说道：“少爷我真有件事情要和你说。”\n　　“先不慌。”宁缺想起一件事情，从怀里摸出一个小盒子，“我在土阳城里花了半个月时间，给你精心挑选了件礼物，你看看喜欢不？”\n　　事实上这盒子是年节那天离开土阳城",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "会了小师叔留下的浩然气，就是这股浩然气把我的身体变成了这样，而所谓浩然气就是吸收天地间的元气，然后储存在自己的身体里。”\n　　宁缺看着她眼眸里反射的星光雪色，沉默很长时间后说道：“换个说法，我现在修行的功法是魔宗的功法，对这个世界而言，我就是魔宗余孽。”\n　　就算他是冥王之子，对桑桑而言也没有任何影",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "挺温柔。\n　　想着这些有的没有的事情，它踱步向草甸外走去，待看见那个黑沉的车厢后，它的身躯骤然僵硬，心想这世界上怎么有这么重的马车？自从那年春天在草甸间被宁缺瞧中之后，自己便越混越凄惨，莫非这便是一见宁缺误终生？\n　　新坟前，桑桑低身拍掉膝盖上的土屑，走到宁缺身边替他清理了一下衣衫，便在这时天空忽然",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "世界而言，我就是魔宗余孽。”\n　　就算他是冥王之子，对桑桑而言也没有任何影响，更何况是什么魔宗余孽，难道修了魔宗功法的少爷就不是少爷？桑桑怔了怔后，想到另外一个很重要的问题，说道：“这样啊……那老师说的可能确实是真的，你就是冥王的儿子。”\n　　“扯蛋。”宁缺暗运真气，把手里那根银棍揉成银球，一抖被子",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "些悻悻，顺着山道向那片镜湖走去，然后他脸上的神情变得越来越开心，越来越快活，因为虽然依然没有师兄师姐出现，但他听到了道畔的山林里有人在弹琴唱歌，有棋子落在枰上清脆作响，有锄头入土的声音想必是在葬花。\n　　溪畔有水车，水车前的屋内依然响着打铁的声音，那些单调而枯燥的声音似乎从来没有停止过，宁缺精神一振",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "当伟大遗产赠予他，他自然就乘这辆马车，原先那辆马车已经花钱退掉。\n　　马车行经冬日晨光下的微黄草甸，来到书院石门外，宁缺跳下马车，解下大黑马让它自行去玩耍，背着行李走入书院，觅着教习交待了边塞实修的一些事务。\n　　然后他背着沉重的行囊，走过诸舍走过窄巷，走到湿地畔看了眼薄冰块间无神游动的鱼，又看了眼",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "要紧的事情要告诉你。”\n　　没有重新点亮烛火，借着窗外星光照在冬雪上的明亮，他从墙角不知何处摸出一锭沉重的雪花银，让桑桑专心看着。\n　　宁缺意念一动，便将体内的浩然气运至双手间，双手一搓便将那锭雪花银搓成了一根银棍，然后手指快速轻捏，银棍的尖端瞬间变得无比锋利。\n　　桑桑跪在炕上，肩上搭着被子，不解",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "初，七师姐看着他掩嘴而笑，挥挥手便算是打了招呼，而片刻后，神情严肃的二师兄和他那顶极不严肃的高冠一起缓缓走了出来。\n　　“你这次实修的表现不错。”\n　　站在湖畔，二师兄负着手，看着湖光山色缓声说道，语气平淡而不容置疑。\n　　在书院后山，能够得到二师兄的赞美或者说肯定，要比从夫子或大师兄那里听到好话要",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，有很大原因是因为体内浩然气境界陡进而做出的选择，事后想来确实显得有些疯狂，回长安的旅途中他一直有些担心大师兄会不会因为这件事情而教训自己，却没料到二师兄竟是如此看法。\n　　仿佛猜到他在想什么，二师兄沉默片刻后缓声说道：“我对大师兄向来尊敬，但我尊敬的是他的修为、心境乃至德行，至于他信奉的那些宽恕之",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "头入土的声音想必是在葬花。\n　　溪畔有水车，水车前的屋内依然响着打铁的声音，那些单调而枯燥的声音似乎从来没有停止过，宁缺精神一振，掂了掂身后的行囊，加快了脚步。\n　　然而还在中途，他便被人喊住了。\n　　他循着声音望去，只见明镜般的小湖中央，那道被第一枝元十三箭轰塌的亭子早已修复如初，七师姐看着他掩嘴",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "些不习惯。他默默想了会儿，把手伸出被子食指轻弹，桌上的烛火应声而熄。\n　　“那就睡吧。”\n　　房间里一片安静，过了会儿忽然响起悉悉@@的声音，然后他的被褥被掀开，一个小而微凉的身子钻了进来，然后安安静静靠在他胸口。\n　　宁缺抱着她，手掌在她背上轻轻抚拍，就像小时候哄她睡觉时那样，感受着怀里的小姑娘身",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "两个人可能成为自己的女主人，还是那个在荒原上替自己洗澡的好些，这个太黑太瘦不好看，那个又白又美手还挺温柔。\n　　想着这些有的没有的事情，它踱步向草甸外走去，待看见那个黑沉的车厢后，它的身躯骤然僵硬，心想这世界上怎么有这么重的马车？自从那年春天在草甸间被宁缺瞧中之后，自己便越混越凄惨，莫非这便是一见宁",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

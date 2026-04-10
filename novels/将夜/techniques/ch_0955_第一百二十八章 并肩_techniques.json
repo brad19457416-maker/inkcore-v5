@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 955,
+  "chapter_title": "第一百二十八章 并肩",
+  "filename": "ch_0955_第一百二十八章 并肩.txt",
+  "char_count": 3323,
+  "timestamp": "2026-04-10T12:11:27.596686",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "峰虽然雄峻高大，堪称人间第一峰，但因为深在地底，所以如果从地表看，峰顶只比荒原高出很短的一截。\n　　天空要比峰顶高很多。\n　　飘蓝的天空里飘着白云，白云里出现了两个人。\n　　大师兄松开手。\n　　首座破云而落，向着地面而去。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "旧静静躺在老僧膝前。\n　　棋盘表面没有留下任何痕迹，甚至连颤抖都没有。\n　　以君陌强大的修为境界，这全力挥出的铁剑，只怕能够斩断一座石山，未料得，却不能撼动棋盘丝毫！\n　　棋盘承受住了铁剑的威力，崖坪却有些承受不住，伴着清晰的碎响，崖坪表现出现了数道裂缝，缝里幽暗不知多深，只怕要深入山体数百丈之内，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "极小一部分。\n　　在他砸石头的时候，师兄什么都没有做，就在一边看着，他知道师兄身体有些弱，但最后因为愤怒无助，还是有些生气。\n　　再生气，君陌也不会指责师兄，更不要说恶言相向，所以他又觉得很委屈，竟不知道为什么，就这样哭了起来。\n　　师兄看着那块巨岩，看了很长时间，当发现小君陌在哭，又看了他很长时间",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "便没有离开过棋盘，看山间春叶夏花秋实冬雪变幻，听寺里晨钟暮鼓，任凭风吹雨打，始终沉默不语。\n　　君陌来到崖间，与梨树下的大师兄对视一眼，未及塞喧，也未对那老僧说话，直接走到老僧身前，举起手里的铁剑砍将过去。\n　　宽直的铁剑重重地砍在棋盘上，发出一声震耳欲聋的巨响，崖坪上溅起无数烟尘，然后待烟尘敛去，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "断棋盘。\n　　君陌望向棋盘后的首座，再次举起手里的铁剑。\n　　首座依然闭着眼睛，仿佛不知道这道铁剑的存在，双手却不知何时落在了棋盘上，先前棋盘的金刚不坏，或者是他的手段？\n　　君陌不能确定，他也不用确定，举起手里的铁剑，再次向着身前斩下，只不过这一次，他斩的不是棋盘，而是首座。\n　　剑落之前风先至，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "无助，还是有些生气。\n　　再生气，君陌也不会指责师兄，更不要说恶言相向，所以他又觉得很委屈，竟不知道为什么，就这样哭了起来。\n　　师兄看着那块巨岩，看了很长时间，当发现小君陌在哭，又看了他很长时间，然后什么话都没有说，就这样离开了。\n　　师兄如此无情无义地走了，君陌自然不会再哭，哭给谁看呢？他用冰凉",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "料得，却不能撼动棋盘丝毫！\n　　棋盘承受住了铁剑的威力，崖坪却有些承受不住，伴着清晰的碎响，崖坪表现出现了数道裂缝，缝里幽暗不知多深，只怕要深入山体数百丈之内，这些裂缝向着崖畔蔓延，在梨树下终于破开了崖壁。\n　　年前棋盘溅水，化成数道大瀑布，其水虽然无源无根，却持续向着山崖下流淌，直到此时，终于被君",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "之间，自有难以想象的力量。\n　　那张棋盘，终于被撬了起来，缓缓向着地面上升！\n　　首座银眉飘舞，双手骤然一翻，按在了棋盘上。\n　　大山再次落在棋盘上。\n　　君陌清啸骤绝，如雷般厉喝道：“起！”\n　　崖壁崩乱，梨树乱摇，青叶如雨落下，棋盘起！\n　　首座手在棋盘之上，随之而起，依然保持盘膝而坐的姿式。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "他的剑永远是直的，山都无法压弯。\n　　弯直之间，自有难以想象的力量。\n　　那张棋盘，终于被撬了起来，缓缓向着地面上升！\n　　首座银眉飘舞，双手骤然一翻，按在了棋盘上。\n　　大山再次落在棋盘上。\n　　君陌清啸骤绝，如雷般厉喝道：“起！”\n　　崖壁崩乱，梨树乱摇，青叶如雨落下，棋盘起！\n　　首座手在棋盘",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "语。\n　　君陌回头看了他一眼，说道：“你想阻止我们？”\n　　酒徒说道：“我不想拼命。”\n　　书院大二同时在场，即便是他，也要拼命，然而大师兄反而却觉得有些不解，问道：“你不担心我们把棋盘抢走？”\n　　酒徒说道：“首座金刚不坏，就算是我带着屠夫过来，也不见得能把他砸开，你们也不行，那么我有什么好担心的",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "我不想拼命。”\n　　书院大二同时在场，即便是他，也要拼命，然而大师兄反而却觉得有些不解，问道：“你不担心我们把棋盘抢走？”\n　　酒徒说道：“首座金刚不坏，就算是我带着屠夫过来，也不见得能把他砸开，你们也不行，那么我有什么好担心的？”\n　　君陌没有再说什么，转身挥起铁剑，再次砍向首座的头顶。\n　　又是",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，他手下的棋盘，随之向崖枰里陷深，变得更加坚固，大师兄感叹道：“还是砸不动啊。”\n　　君陌举起铁剑，说道：“继续砸便是。”\n　　便在这时，崖坪间又有清风起，酒香微溢。\n　　酒徒来到场间，看着大师兄沉默不语。\n　　君陌回头看了他一眼，说道：“你想阻止我们？”\n　　酒徒说道：“我不想拼命。”\n　　书院大",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "僧身前，举起手里的铁剑砍将过去。\n　　宽直的铁剑重重地砍在棋盘上，发出一声震耳欲聋的巨响，崖坪上溅起无数烟尘，然后待烟尘敛去，棋盘依旧静静躺在老僧膝前。\n　　棋盘表面没有留下任何痕迹，甚至连颤抖都没有。\n　　以君陌强大的修为境界，这全力挥出的铁剑，只怕能够斩断一座石山，未料得，却不能撼动棋盘丝毫！",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

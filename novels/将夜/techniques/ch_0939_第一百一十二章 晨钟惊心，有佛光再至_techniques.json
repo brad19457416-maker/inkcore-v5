@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 939,
+  "chapter_title": "第一百一十二章 晨钟惊心，有佛光再至",
+  "filename": "ch_0939_第一百一十二章 晨钟惊心，有佛光再至.txt",
+  "char_count": 4373,
+  "timestamp": "2026-04-10T12:11:27.517222",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "踏遍原野，再度归来，再登山峰，桑桑在林崖间的无数座寺庙来回，在那些静穆庄严的佛像前沉思，站在崖畔对着天空沉默发呆。\n　　在西峰，戒律院本堂，他们站在参天古树间，听板子重重落在僧人身上的声音，在东峰，他们站在崖石阴影里，看武僧不停跺着地面。\n　　在峰顶的大雄宝殿里，他们看到禅定的七念，在殿后的草屋中，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，被收进了佛祖棋盘。\n　　如果是别的时候倒也罢了，然而现在他和桑桑是在悬空寺中。\n　　宁缺一直不解，为什么悬空寺里的僧人始终这般平静，即便他们找不到桑桑和自己，总该有些紧张才是，然而峰间的无数座寺庙依旧如常，颂经的颂经，入定的入定，戒律堂还在惩罚僧众，武僧不停跺地。\n　　晨钟暮鼓，依然清心，现在的悬",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "很长时间，说道：“不忍之心，才是佛心。”\n　　……\n　　……\n　　宁缺回到那道偏僻的崖坪，拔开青藤，来到莲生旧居前的树下。\n　　他不知道这是棵什么树，只记得前些天来时，整棵树只结了一朵白花，被风吹到他的肩头，现在正插在桑桑的发鬓间。\n　　只过了数日，这棵树上便结满了小白花，在并不繁密的青叶间吐蕊展瓣",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "缩，仿佛被一只无形的手用力握住，下一刻便会被压裂！\n　　这道钟声，不能清心，只能惊心！\n　　宁缺脸色瞬间苍白，痛苦地险些把手里的小青梨握碎。\n　　紧接着，他噗的一声，喷出一口殷红的鲜血！\n　　穿过崖间清风的她的手，不知何时握住了他的手。\n　　那是桑桑的手。\n　　一道至为纯净强大的神性，从她的手中传来",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "开始崩塌，又能怎么管？”\n　　宁缺说道：“这等鬼地方，塌便塌了，何必去管。”\n　　黄杨大师无奈摇头，心想你身为方外之人，这般想自然无错，然而寺中僧人身为佛祖弟子，又怎能眼看着佛国毁灭？\n　　宁缺又道：“若那些高僧真有慈悲心，又如何能忍？”\n　　黄杨大师说道：“不能忍，又无法管，便只能离去。”\n　　宁",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "在悬空寺中。\n　　宁缺一直不解，为什么悬空寺里的僧人始终这般平静，即便他们找不到桑桑和自己，总该有些紧张才是，然而峰间的无数座寺庙依旧如常，颂经的颂经，入定的入定，戒律堂还在惩罚僧众，武僧不停跺地。\n　　晨钟暮鼓，依然清心，现在的悬空寺太过平静。\n　　悬空寺里的僧人们究竟在等什么？等佛宗讲究的缘法？",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "山大师少年时便通读所有佛经，悟所有佛法，被悬空寺当时的首座视为不二传人，然而大师不忍见峰下黎民苦楚，最终破山门而出，去了烂柯寺。”\n　　宁缺看着殿里这尊金身佛像，想着瓦山洞庐里久劳成疾的歧山大师，沉默了很长时间，说道：“不忍之心，才是佛心。”\n　　……\n　　……\n　　宁缺回到那道偏僻的崖坪，拔开青藤",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "样，无论宁缺在哪里，她都能很轻易地找到他，绝对不会让她走丢。\n　　山崖间的清风拂过，青叶和小白花微微颤抖，以肉眼可见的速度，青叶渐厚，小白花渐渐枯萎，画面显得极为神奇。\n　　只有桑桑鬓间的那朵小白花依然娇嫩欲滴，新鲜如初。\n　　青叶渐厚、白花渐萎，并不意味着凄凉，也可能是丰收，因为只有花落时才会结出",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第一百一十二章 晨钟惊心，有佛光再至\n　　宁缺问道：“若斩不死怎么办？”\n　　君陌说道：“那便是我死。”\n　　他说的云淡风清，宁缺却听的惊心动魄，沉默不语很长时间后再次开口说道：“师兄，佛祖真的可能还活着。”\n　　君陌断然不信，肃容教训道：“糊涂，佛祖早已涅，若他还在人间，老师怎会",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "“青峡之前，我便说过，我之命何须天来饶？”\n　　宁缺语重心长说道：“尘缘不是想你斩，想斩便能斩，讲些道理好吗？”\n　　桑桑坐起身来，看着君陌说道：“若讲道理，我极不明白，佛陀若要设局杀我，应是书院最想看的事情，你为何站在我这一方。”\n　　她是昊天，自能从君陌的神情里知道他的倾向，至于她之所以不提宁缺",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "颂读经文，是为早课。\n　　悬空寺醒来，佛祖留在人间的真正佛国，也开始显露它真实的容颜。\n　　一道佛光出现在崖坪上，把桑桑罩在其中。\n　　宁缺看着这幕画面，浑身冰冷，心脏都仿佛停止了跳动。\n　　因为他想起了多年前，在烂柯寺后殿里的一幕画面。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "黄杨大师说道：“或者是错的，但佛祖定下的规矩，谁敢违抗？”\n　　宁缺说道：“修佛要的便是静心，僧人们坐在峰间，享受着那些奴隶的供养，难道你们真的能静心？真的能入禅定？”\n　　黄杨大师说道：“绝大多数寺中僧人，终其一生都未曾到过峰下。”\n　　宁缺说道：“但他们不是傻子，很清楚峰下的世界如何，而且悬",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "首座踩进坚实的大地，但首座并未死亡，悬空寺知道她和宁缺到来的消息，也并不如何出乎意料。\n　　宁缺并不担心，正所谓昊天在怀，谁是敌手。\n　　黄杨大师知道他是怎么想的，却有些不一样的想法，解下腕间的那串念珠，递到他的手里，神情凝重说道：“我佛慈悲，亦有雷霆动时。”\n　　在悬空寺里听着我佛慈悲四字，宁缺下",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "更是被浩然气层层包裹。\n　　然而悬空寺里一道钟声便震破了他的心脏，险些杀死他！\n　　感受着手里握着的温暖，宁缺再次感受到所谓桑桑在手，天下我有的感觉。\n　　就算这道钟声再如何恐怖，就算悬空寺再如何强大，只要我紧紧握着桑桑的手，那么就算你把我斩成无数段，我依然能够活着。\n　　这是宁缺在光明神殿和幽阁里",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

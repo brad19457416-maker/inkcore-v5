@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 72,
+  "chapter_title": "第十一章 人情如纸",
+  "filename": "ch_0072_第十一章 人情如纸.txt",
+  "char_count": 3392,
+  "timestamp": "2026-04-10T11:53:35.130966",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "间里走出来时。注意到桌上地宵夜已经有一大半不见了。他挑了挑如飞刀一样地双眉。这么多天以来。还是那个人第一次在他前面离开。他走到桌边拿起白纸。只见上面写着一句话：“羊排味道不错。”\n\n    这是那小子第一次表扬自己辛苦弄来地宵夜吧？许乐有些恼火地摸了摸脑袋。心想打赢了自己。也不用得意成这样。不过不知",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "：“羊排味道不错。”\n\n    这是那小子第一次表扬自己辛苦弄来地宵夜吧？许乐有些恼火地摸了摸脑袋。心想打赢了自己。也不用得意成这样。不过不知为何。看着味道不错那行字。许乐心里有些高兴。提起笔唰唰在纸上写下了自己地回复。\n\n    “合成羊排有什么好吃地？找机会我给你弄点儿野生羊肉吃。”许乐写下这句",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "子饼，又在那张已经写了很多句话的白纸上添上最新的一句话，从区走回了自己的别墅，不知道是不是体力消耗太大地缘故，他这一晚上睡地格外香甜。\n\n    当许乐从房间里走出来时。注意到桌上地宵夜已经有一大半不见了。他挑了挑如飞刀一样地双眉。这么多天以来。还是那个人第一次在他前面离开。他走到桌边拿起白纸。只见",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "不相见不代表不能说话，邰之源在心里是这样对自己说的，他有些好奇那个看上去十分普通地学生，为什么每天夜里都会和自己一样失眠，难道对方也承载着和自己相似的压力？想到这里，邰之源自己都忍不住苦笑起来，这个世界上。不可能再有同龄人拥有和他一样的压力。\n\n    百无聊赖中随便一句话开始，便有些收",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "之源的身份再如何尊贵，家世再如何显赫，他依然是个、还是个十七岁地少年。他正在青春期里煎熬。正在压力下压抑自己的叛逆冲动。用无可挑剔的仪容与威严埋藏自己地热血冲动。每个经历过青春岁月的人都知道那种热血是最难被压制的，所以邰之源才会选择在空无一人的区里向天大吼。虽然吼的有些生涩和不习惯。他没有打过架，更",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "眼镜的镜片看着食堂外秋天的景况，根本没有注意到许乐说了些什么，而正是她遗漏了的那些信息，在不久之后的将来，让她十分后悔。\n\n    校园内的树林尖梢微微发黄，秋天的风吹拂着它们不停摆动，张小萌鼻梁上黑框眼镜中的天光也在轻轻摇晃，摇的注视着她的人恨不得坠进那片天光之中。许乐怔怔地看着她，觉得心里面空空",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，本就不应该和许乐这种层面的人物发生任何关系。如果不是基于某种很模糊的原因，邰之源甚至都不会允许许乐进入区——哪怕他是靳教授推荐入校的学生，哪怕靳教授是的设计者。\n\n    不知道是因为失眠的夜晚太过无聊，还是因为那些热腾腾的豆浆，那些他叫不出来名字十分油腻，却有一种说不出来的好吃味道的宵夜，还是因",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "上那些代表胜利的烟花和代表失利者的风中小白旗，许乐不禁有些心灰意冷，并且对这个虚拟系统的设计者生出了愤怒，反而没有注意到的虚拟对战系统美工虽然做的极为粗糙，但却运用了联邦军方至今也没有实验成功的三维对战模拟。\n\n    拿过身边的毛巾将脸上的汗水全部擦干净，许乐平静下了心情，从前几夜那种偶然发现宝库",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "是皇太子地身份。即便在如今的联邦之中，七大家之首的邰家依然将它的庞大身躯隐藏于阴影之中，就像首尾绝不同时现于云外的传说神物。称这个家族为联邦另一个层面上的皇帝，也并不为过。这样的身份，让邰之源从小起便没有什么真正的朋友，隐瞒身份在首都一间联邦直属小学就读时，倒是认识了邹家兄妹，然而在邹家猜到了他的身",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "们出去买衣服吧。”\n\n    许乐点了点头，正想说些什么，张小萌低头轻声说道：“当然是用你的钱，不用担心什么。　小说-txt天堂\n\n\n\n今日三章已更，寻求月票支援。 \n\n    先请大家谅解，新书月我拉票肯定会拉的格外频繁，以后应该会少一些。\n\n    本想着在公众版发了个拉票章节应该便够了，然而编",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "种偶然发现宝库的喜悦中脱离出来，重新将自己定位于一个初学者和乡巴佬，笑着对通话器那边陌生又熟悉的同伴说道：“再来。”\n\n    结局并没有太大的变化，在接下来的几次对抗演练之中，不论选择什么样的地形条件，许乐依然被光屏对面的机甲打的满地找牙，虽然他拥有比任何人都要粗壮的“神经”，但是机甲对战的经验却",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "乐每天夜里进入区，可即便如此。他也不准备和许乐相见，在这一点上，他有些欣赏这个年轻人地知情识趣。对方从来没有试图敲开自己房间的门。\n\n    不相见不代表不能说话，邰之源在心里是这样对自己说的，他有些好奇那个看上去十分普通地学生，为什么每天夜里都会和自己一样失眠，难道对方也承载着和自己相似的压力？想",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，想来进步也不会太大。\n\n    邰家传人，久远之前，应该就是皇太子地身份。即便在如今的联邦之中，七大家之首的邰家依然将它的庞大身躯隐藏于阴影之中，就像首尾绝不同时现于云外的传说神物。称这个家族为联邦另一个层面上的皇帝，也并不为过。这样的身份，让邰之源从小起便没有什么真正的朋友，隐瞒身份在首都一间联",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

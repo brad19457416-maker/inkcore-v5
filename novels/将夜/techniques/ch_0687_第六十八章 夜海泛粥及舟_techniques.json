@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 687,
+  "chapter_title": "第六十八章 夜海泛粥及舟",
+  "filename": "ch_0687_第六十八章 夜海泛粥及舟.txt",
+  "char_count": 3543,
+  "timestamp": "2026-04-10T12:11:26.916835",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，开始洗漱穿衣。\n　　夫子用昨夜剩下的牡丹鱼骨，熬了一锅鱼粥。\n　　桑桑掀开厚重的毛毡，走出帐外，寒风袭来，忍不住打了个寒颤，她走到锅旁，接过夫子手里的活儿，脸上微羞的神色，渐渐变为平静。\n　　与桑桑的平静相比，宁缺脸上的傻笑挂了很长时间，直到吃完鱼粥，桑桑去温泉收拾碗筷时，他依然还在傻笑。\n　　夫",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "雪峰。\n　　昨天在热海畔的时候，他也曾经往北看过，却什么都没有看到，然而今日离开热海不远，这座雪峰便进入了他的眼帘，仿佛是撞进来一般，显得格外诡异。\n　　那座雪峰陡峭高耸，在星光散发着幽幽的光芒，高不知多少万丈，从雪原处望去，只觉得峰顶仿佛已经要刺到夜穹一般。\n　　宁缺去过很多名山大川，其中最著名最",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "“有我在还用得着拜什么天地？而且昊天在上，它可不见得喜欢看你们两个人真的成亲。”\n　　宁缺笑了起来，心想桑桑是冥王的女儿，自已和她成亲，要获得昊天的祝福认证，确实是有些不妥当。\n　　然后他忽然想到自已先前和桑桑说的忧虑，沉默想着，莫非老师已经提前确认了那道不安的情绪，所以想在离开之前看着自已成亲？",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "始，然后逐渐向南蔓延。”\n　　宁缺望向他，问道：“老师，这艘船是……”\n　　夫子说道：“很多年前，我担心被昊天找到吃掉，一直想着怎么逃，怎么躲，我心想既然这里是黑夜的开端，应该离冥界最近，冥王的力量最强，昊天的力量很难延伸到这里，所以我在这里造了只大船，准备若昊天来吃我时，我便逃到这里来，乘舟泛于黑",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "我担心被昊天找到吃掉，一直想着怎么逃，怎么躲，我心想既然这里是黑夜的开端，应该离冥界最近，冥王的力量最强，昊天的力量很难延伸到这里，所以我在这里造了只大船，准备若昊天来吃我时，我便逃到这里来，乘舟泛于黑海之上，然后再也不出去。”\n　　宁缺怔住了，通过这番话，便能推想过去千年里，老师始终活在昊天的世界",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "化，抱着他的手臂，把头靠在他的肩上，就像过去那些年里一样不说话，但确保他悲伤或难过时，能够确认自已的存在。\n　　她的头发剪短后，不再像小时候那般黄萎弱细，变得乌黑了些，此时被水打湿后黏在颊畔，看着添了几分秀丽。\n　　因为温泉里的沉默和异样的情绪，还有那抹不知从何而起的对别离的恐惧，宁缺觉得自已的怀抱",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "北寒域，也就是热海北缘，所以他很好奇，北面的世界是什么模样，而且有些不明白，历史上那么多强大的人类，为什么没有探索过热海的北面。\n　　直到他看到那座雪峰。\n　　昨天在热海畔的时候，他也曾经往北看过，却什么都没有看到，然而今日离开热海不远，这座雪峰便进入了他的眼帘，仿佛是撞进来一般，显得格外诡异。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "吧？”\n　　夫子把鱼骨扔进雪里，说道：“我可不没有窥淫癖，只不过你这事儿太罕见，要知道你和她的洞房，将来是必然要上史书的，所以细节你得记清楚。”\n　　宁缺不明白夫子这句话的意思，而且他有些累，所以又去补了一觉。\n　　大黑马也在帐蓬里补觉，它昨夜在雪海之上狂奔百里，也很疲惫，而且觉得很是羞耻，虽说夫子",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "雪峰之下，其次是单凭人力，没有人能够爬得上去。\n　　那么能爬过去的人，还能算是人吗？\n　　当黑色马车出现在雪峰的另一面，出现在一片黑沉的海前时，宁缺看着前方夫子高大的背影，心里想着这样的问题。\n　　那是一片汪洋大海。\n　　之所以海洋的颜色是黑的，这是因为这里没有碧空，没有任何阳光，虽然星星显得更加清",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "面色微红，不知是羞的还是热的。\n　　宁缺转头望向雪后喊道：“订亲的时候，您可是批准了的。”\n　　夫子说道：“订亲和成亲可是两个概念。”\n　　宁缺说道：“不就是差一个拜天地的程序？这时候夜天雪地，我和她拜拜便是。”\n　　夫子说道：“有我在还用得着拜什么天地？而且昊天在上，它可不见得喜欢看你们两个人真的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "人会闹你们，我骑马出去玩会儿。”\n　　……\n　　……\n　　一夜无言。\n　　宁缺醒来时，天还未亮，依然一片漆黑，他想了想才明白过来，如今的热海已经近乎永夜，想要看到太阳是件很困难的事情。\n　　桑桑还在睡，不知梦见了什么，在他怀里拱了拱，咧嘴笑了起来，露出两颗洁白的门牙，看着就像只小灰兔般可爱。\n　　帐",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

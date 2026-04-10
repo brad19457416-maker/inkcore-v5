@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 917,
+  "chapter_title": "第九十章 无题",
+  "filename": "ch_0917_第九十章 无题.txt",
+  "char_count": 3927,
+  "timestamp": "2026-04-10T12:11:27.489277",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "事情变得复杂起来，因为只有这样他们才会觉得有趣，觉得生存是有意义的。\n　　满天繁星在夜空里静静地看着大地，那些星星的位置，还有彼此之间的距离，无数年来都没有发生过任何改变。\n　　她忽然发现，与在神国的位置看上去相比，在地面仰望的星空，虽然同样美丽，但总显得有些单调，有些乏味。\n　　不，静穆才是真正的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "她收了回去。\n　　宁缺这辈子做过很多不容于世的事情，他知道自己很冷血无情，如果用世俗眼光来看，他毫无疑问是个人渣，只是他从来都不在意，直到此时看着莫山山的泪水，他才发现原来人渣不是这么好当的。\n　　庐前一片幽静，暮色渐渐隐去，椅后那株树投下的影子渐渐蔓延开来，直至与夜色融为一体，很长时间都没有人说话",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "俗韵，识大体、正心意，如先前所说，她是最好最好的。\n　　谁会想到她会为了一个男人流泪？\n　　这是宁缺第一次看见她流泪，非常慌乱，不知该做些什么，说些什么，最后憋出一句话：“把我杀了，你能不能开心些？”\n　　他这时候不是在说笑话，说的是真心话。\n　　有些事情太过沉重，无以为报，那该怎么办？他下意识里双",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "这句话一出口，他就觉得自己特别傻逼。\n　　“我也觉得自己是个很好的姑娘。”\n　　莫山山看着湖的方向，感慨说道：“但依然不够啊，我终究赢不了这场战争，但这是天要胜我，非战之罪。”\n　　最后的斜阳，照着山崖间的那片静湖，天光渐暗，湖面泛着金波，湖水则显得深沉起来，随风飘荡，真的很像砚里的墨。\n　　桑桑坐",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，这片青波荡漾的湖，到那时候便会消失无踪。\n　　天猫女怯生生地走过来，双手奉上清茶一盏，神情显得格外紧张，然后便想退走，却被桑桑留了下来，要她陪着说话。\n　　桑桑喜欢小姑娘，因为她也曾经是小姑娘，但天猫女不知道，陪着昊天说话，对她来说实在是压力太过沉重。\n　　闲话便要闲散着说，谈话的对象一方太过紧张",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的喜欢两句，便是我对爱情的全部看法和所有追求。具体的，我会在以后的单章，或者将夜写完之后的后记里，向大家做个详尽的汇报，讲讲我的理解。）",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "世界都变得鲜活起来。\n　　桑桑眯起眼睛，柳叶般的眼睛显得很明亮。\n　　她的眼神却有些迷惘。\n　　昊天来到人间，这听着像是神明降世，实际上，规则离开规则的客观领域，来到人间，就像一个婴儿来到新的世界。\n　　新生的婴儿依靠本能生存，通过学习，才能成长。\n　　她在人间也是在依靠本能生存，只不过她的本能是冰",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "说你习惯了到处许人？那你到底要许给谁？你怎么这么……呢？”\n　　莫山山流泪说道，今天是她第一次在人前落泪，也是她第一次想用脏话骂人，只是在最后那刻，还是被她收了回去。\n　　宁缺这辈子做过很多不容于世的事情，他知道自己很冷血无情，如果用世俗眼光来看，他毫无疑问是个人渣，只是他从来都不在意，直到此时看着",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "情简单很多。她认为这是无趣的人类总喜欢把事情变得复杂起来，因为只有这样他们才会觉得有趣，觉得生存是有意义的。\n　　满天繁星在夜空里静静地看着大地，那些星星的位置，还有彼此之间的距离，无数年来都没有发生过任何改变。\n　　她忽然发现，与在神国的位置看上去相比，在地面仰望的星空，虽然同样美丽，但总显得有些",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "夜空西南的那片云被风吹散，露出一轮圆月。\n　　月光照耀大地，也照耀着夜本身，先前仿佛凝滞不动的星光，瞬间变得鲜活起来，整个世界都变得鲜活起来。\n　　桑桑眯起眼睛，柳叶般的眼睛显得很明亮。\n　　她的眼神却有些迷惘。\n　　昊天来到人间，这听着像是神明降世，实际上，规则离开规则的客观领域，来到人间，就像一",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "。\n　　莫山山看着湖边低声说道：“怎么感觉像是在偷情？”\n　　宁缺苦笑无语。\n　　莫山山说道：“不用担心。”\n　　宁缺说道：“我没担心她。”\n　　莫山山瞧着他色厉内茬的样子，忍不住笑了起来。\n　　宁缺说道：“我是担心你。”\n　　莫山山笑了笑，说道：“你不用担心我，其实我早就想明白了。”\n　　宁缺说道",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "生存，通过学习，才能成长。\n　　她在人间也是在依靠本能生存，只不过她的本能是冰冷的规则和逻辑，而此间温暖的那些东西，对她来说太过陌生。\n　　她的学习很笨拙。\n　　她很孤单，如果没有宁缺的话，她会更孤单。\n　　……\n　　……\n　　莫山山看着湖畔桑桑的背影，疼惜说道：“她真的很可怜。”\n　　宁缺看着那处",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "跑到天上去了，跑的太远，回不来，所以你没有任何办法，现在她已经回到了人间，那么你怎么想？”\n　　宁缺说道：“我发现当时自己想的还是太简单了些，事实上，无论她是去了天上，还是在人间，她总是在那里，没办法。”\n　　莫山山说道：“她已经不是她，她是昊天，这样也可以一直喜欢着吗？”\n　　宁缺想了想，说道：“",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "红墙白雪开始写起，说的就是喜欢，今天最后的喜欢两句，便是我对爱情的全部看法和所有追求。具体的，我会在以后的单章，或者将夜写完之后的后记里，向大家做个详尽的汇报，讲讲我的理解。）",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "是桑桑？”\n　　他沉默了会儿，继续说道：“我知道没有人会喜欢她，但我不在乎，其实从很久以前开始，我就从来没有在乎过这件事情。”\n　　“这大概便是真喜欢吧。”\n　　莫山山抬起头来，静静看着他的眼睛，说道：“那我呢？”\n　　宁缺沉默不语。\n　　莫山山低声说道：“你就是个负心汉。”\n　　宁缺说道：“从某个",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

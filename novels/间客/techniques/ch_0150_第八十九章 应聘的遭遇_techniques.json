@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 150,
+  "chapter_title": "第八十九章 应聘的遭遇",
+  "filename": "ch_0150_第八十九章 应聘的遭遇.txt",
+  "char_count": 3594,
+  "timestamp": "2026-04-10T11:53:35.167734",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "何塞主管就像是赌运一样随便挑选了一个房间，没有想到就碰到了许乐。\n\n    “公司的文化，并不是什么秘密，如果用心的话，应该也能猜到果壳的意思……以前招聘当中。这道问题的回答正确率，也有百分之四。”何塞面无表情地点开面前地光屏，开始审看许乐的资料档案，继续说道：“不过这个考生的回答我真的很满意。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "考官。则是做足了流程，让面试的考生连续回答了十七道规定问题。\n\n    走出房间，在工作人员的带领下来到休息室，许乐一个人在空旷地休息室里等待着下一轮考试的开始，一直等了很久，还没有别的人到来，他这才发现，原来面试这个环节中，只有自己是个特例，结束的比任何人都要快一些。\n\n    左右无人，左右无事",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "中，生存下去。”\n\n    “我想机动公司最开始取名为果壳，就是想告诉每一位职员，机动研发的出发点及最终目的，就是要满足人类的需要。机器，终究是要以人为本。”\n\n    许乐自然不会在面试的时候大谈人体本身才是第一序列的机器，别的机甲战舰之类，都只是外延。或许这种论调很新鲜，但新鲜的必将是离经叛道的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "竟就是回答一个简单的问题，这么快就结束。\n\n    当许乐离开房间之后，那名秃顶的考官恭敬地身旁那人说道：“主任，您看这个考生怎么样先前一直沉默闭眼的考官，是果壳机动公司工程部人事主管何塞。\n\n    本来春天的招募考试，应该不会惊动到他这样高级别的人事主管，但由于工程部这段时间的工作陷入了某种僵局",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "桌上，这种沉默才渐渐被打破。或许是考生们，发现果壳机动公司的工作餐也如此丰盛，心情愉悦之余，对于将来人生地前景，也有了更多的美好想像，所以三五成群的说起了闲话，表达着对下午正式考核的担心。\n\n    许乐与同一张餐桌上的人们偶尔说几句话，大多数的时间依然是沉默。不过他那张平凡朴实的脸庞上，总是带着令",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "的餐桌上，这种沉默才渐渐被打破。或许是考生们，发现果壳机动公司的工作餐也如此丰盛，心情愉悦之余，对于将来人生地前景，也有了更多的美好想像，所以三五成群的说起了闲话，表达着对下午正式考核的担心。\n\n    许乐与同一张餐桌上的人们偶尔说几句话，大多数的时间依然是沉默。不过他那张平凡朴实的脸庞上，总是带",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "地教授再学习两年。本公司会等着他真正优秀地那一天。”\n\n    秃顶考官微微一愣。应了下来。心里不禁感慨那个叫许乐地应聘者地运气。\n\n    何塞主管却只是想着今天地考题是由工程部那些家伙亲自出地试题。外面那一百多名各大院校地应聘者。或许只有十几个真正优秀地人才可以过基数线。更何况是那个只在梨花大学",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "多的美好想像，所以三五成群的说起了闲话，表达着对下午正式考核的担心。\n\n    许乐与同一张餐桌上的人们偶尔说几句话，大多数的时间依然是沉默。不过他那张平凡朴实的脸庞上，总是带着令人亲近的笑容，所以倒也没有人对他的沉默表示不满。\n\n    因为果壳机动公司地归属及军方背景。所以三大军事学院的毕业生如",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "景年限，也不可能有让人满意的设计能力潜质。”\n\n    话虽如此。这位果壳机动公司地上层人物。却没有马上就将许乐剔除出应聘者行列地意思。联邦内部本已没有现成地优秀工程师。哪怕是三大军事学院机动系毕业地优秀学生。进入果壳机动公司也要经过长达数年地培养锻炼。才能真正成材。\n\n    何赛虽然对于许乐没有",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的笑容，看来他很满意于许乐对果壳两个字的理解。这位秃顶主考官身边，另一位主考官一直半闭着眼睛，此时也缓缓睁开了眼，认真地看了椅上的许乐一眼。\n\n    “不错，面试这关算你过了，准备呆会儿真正的考核吧。”那名考官若有所思地看着许乐，示意他可以离开房间。许乐愣了愣才反应过来，没有想到所谓面试，竟就是回",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "许乐说了一声谢谢后，便再次沉默，安静地听着餐桌上的年轻人们交流着彼此的学校与面试时的经验，同时猜测着下午正式考核究竟会偏重于设计方面，还是实践方面。\n\n    “你年纪看着还小，哪所大学毕业的？”身旁一人忽然开口问道。\n\n    “梨花大学，不过没拿到文凭，旁听生。”许乐回答道。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "愉悦之余，对于将来人生地前景，也有了更多的美好想像，所以三五成群的说起了闲话，表达着对下午正式考核的担心。\n\n    许乐与同一张餐桌上的人们偶尔说几句话，大多数的时间依然是沉默。不过他那张平凡朴实的脸庞上，总是带着令人亲近的笑容，所以倒也没有人对他的沉默表示不满。\n\n    因为果壳机动公司地归属",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "之外。他最担心的，便是在东林大区曾经见过自己真面目的那几名军人。正是因为这种担忧，他这一年多的时间，从来没有尝试着打通那张名片上的电话，偶尔会想起小西瓜，却也没有联系过。\n\n    西林军校属于第四军区管辖之下，许乐不愿意在果壳机动公司里看到第四军区地人，但确认没有问题之后，却觉得有些奇怪。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "“不错，面试这关算你过了，准备呆会儿真正的考核吧。”那名考官若有所思地看着许乐，示意他可以离开房间。许乐愣了愣才反应过来，没有想到所谓面试，竟就是回答一个简单的问题，这么快就结束。\n\n    当许乐离开房间之后，那名秃顶的考官恭敬地身旁那人说道：“主任，您看这个考生怎么样先前一直沉默闭眼的考官",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "“我想机动公司最开始取名为果壳，就是想告诉每一位职员，机动研发的出发点及最终目的，就是要满足人类的需要。机器，终究是要以人为本。”\n\n    许乐自然不会在面试的时候大谈人体本身才是第一序列的机器，别的机甲战舰之类，都只是外延。或许这种论调很新鲜，但新鲜的必将是离经叛道的，他可不想被这些",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

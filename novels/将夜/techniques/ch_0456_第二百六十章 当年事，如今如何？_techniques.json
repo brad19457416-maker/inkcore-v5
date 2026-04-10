@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 456,
+  "chapter_title": "第二百六十章 当年事，如今如何？",
+  "filename": "ch_0456_第二百六十章 当年事，如今如何？.txt",
+  "char_count": 3399,
+  "timestamp": "2026-04-10T12:11:21.716647",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "赞同。\n　　桑桑撑着下巴，看着茶楼下方的人群，忽然转过头来，看着宁缺，小脸上满是忧虑的神情，说道：“为什么这么着急？”\n　　宁缺说道：“已经等了十五年，我觉得自己的耐心已经很好。”\n　　桑桑很认真地说道：“等他再老些，我们再强些，等他在乡下归老几年，那时候再动手，不是更有把握？”\n　　从小到大，宁缺",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "巅峰时期的他，想要继续享受着世人的尊敬，所以很平静地接受了对方的请求。\n　　长安城里掀起了一场血雨腥风，宣威将军府满门尽诛。\n　　夏侯知道自己这样做，会激怒正在巡游大泽的皇帝陛下，不过他相信以自己的功绩，陛下再如何盛怒，也不可能在没有证据的情况下，对自己动手，而且他隐隐期盼着陛下一怒之下，便不会册封",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "耳中。\n　　“魔宗清理叛徒的手段，比想像中还要直接强悍啊。”\n　　宁缺看着远处被人海遮住的夏侯背影，心想如果夏侯身上那件盔甲真的被唐手中那把巨刀砍废了，自己那本来极为可怜的成功希望，或许会幸运地多上一分。\n　　夏侯是帝国大将，爵位荣耀，不是张贻琦御史或黄兴这种人，可以被人随意暗杀，最关键的问题在于，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "。”\n　　桑桑不解问道：“那样不好吗？”\n　　宁缺说道：“等他更老的时候……杀死他自然更有把握，可我担心，万一他病死怎么办？万一他真的老死怎么办？”\n　　桑桑听不明白，心想如果夏侯就这样老死病死，有什么问题？\n　　她问道：“那样不好吗？”\n　　宁缺点头说道：“非常不好。”\n　　桑桑眉尖微皱，问道：“",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "之下，便不会册封那个叫夏天的妃子做皇后。\n　　他不愿意自己的亲妹妹成为大唐的皇后，因为他知道这是件很危险的事情。然而他没有想到，陛下依然让自己的妹妹成为了皇后娘娘。\n　　和这些故事比较起来，宣威将军府前的石狮究竟染了多少血和尘埃，从来没有让夏侯动容过，更没有资格让他感伤。\n　　……\n　　……\n　　亲",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "匠，想着当时被雨水打湿的苍白头发，神情微惘。\n　　“他甚至不能老，不能病，不能憔悴，最好还处于人生的巅峰，只有这样才能给复仇者带来足够的快感，而这，便是复仇的重点。”\n　　“夏侯已经老了。”\n　　宁缺很严肃认真地把先前说过的话重复了一遍。\n　　“如果再不杀他，他就真的老了。”\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的老铁匠，想着当时被雨水打湿的苍白头发，神情微惘。\n　　“他甚至不能老，不能病，不能憔悴，最好还处于人生的巅峰，只有这样才能给复仇者带来足够的快感，而这，便是复仇的重点。”\n　　“夏侯已经老了。”\n　　宁缺很严肃认真地把先前说过的话重复了一遍。\n　　“如果再不杀他，他就真的老了。”\n　　……\n　　…",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "第二百六十章 当年事，如今如何？\n　　宁缺去年在呼兰海畔第一次见到夏侯，其后在土阳城里有了近距离的见面，那时候的夏侯，虽然争夺天书明字卷失败，被迫与书院达成协议解甲归老，但神态依然从容自信，甚至有股隐而不发的霸气。\n　　然而今日的夏侯却明显变得苍老了几分，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "问题。\n　　整个世界，大概只是二师兄和朝小树这两个家伙会表示赞同。\n　　桑桑撑着下巴，看着茶楼下方的人群，忽然转过头来，看着宁缺，小脸上满是忧虑的神情，说道：“为什么这么着急？”\n　　宁缺说道：“已经等了十五年，我觉得自己的耐心已经很好。”\n　　桑桑很认真地说道：“等他再老些，我们再强些，等他在乡下",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "世将军进行了很长时间的谈话。\n　　暮色渐退，夜色笼罩长安，夏侯离开了军部，亲兵们骑马举着火把，护送他来到北城肃穆华贵的亲王府。\n　　夜色中的亲王府灯火通明，一番寻常却透着旧谊的王府家宴之后，大唐亲王殿下李沛言带着他来到了书房中。\n　　乌黑色的书案上，搁着几份卷宗，卷宗上的字迹有浓有淡，明显不是一个时",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "伙会表示赞同。\n　　桑桑撑着下巴，看着茶楼下方的人群，忽然转过头来，看着宁缺，小脸上满是忧虑的神情，说道：“为什么这么着急？”\n　　宁缺说道：“已经等了十五年，我觉得自己的耐心已经很好。”\n　　桑桑很认真地说道：“等他再老些，我们再强些，等他在乡下归老几年，那时候再动手，不是更有把握？”\n　　从小到",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "下依然让自己的妹妹成为了皇后娘娘。\n　　和这些故事比较起来，宣威将军府前的石狮究竟染了多少血和尘埃，从来没有让夏侯动容过，更没有资格让他感伤。\n　　……\n　　……\n　　亲王府书房内。\n　　李沛言看着夏侯苦涩说道：“林光远居然还有血脉在世间流传，这件事情本也算不得什么，但如果那个矢志替他复仇的将军公子",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "们的担心是对的，当年宣威将军府果然有人还活着。”\n　　听着林光远这个名字，夏侯那两道如同细铁丝的眉毛缓缓蹙起。\n　　他当然记得林光远是谁。\n　　十几年前，大唐军方有一名以骁勇著称的宣威将军，那位将军的名字叫林光远，当时很多人都认为，林光远是继夏侯之后大唐的又一猛将。\n　　大唐天启元年，夏侯灭了林光远",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

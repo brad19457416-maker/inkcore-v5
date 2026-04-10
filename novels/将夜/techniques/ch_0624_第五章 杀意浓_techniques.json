@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 624,
+  "chapter_title": "第五章 杀意浓",
+  "filename": "ch_0624_第五章 杀意浓.txt",
+  "char_count": 3300,
+  "timestamp": "2026-04-10T12:11:26.781935",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "地方？书院？”\n　　“如果不能回书院，那么没有人的地方，便是安全的地方。”\n　　……\n　　……\n　　天空中的那片云变得越来越大，越来越厚。\n　　云层投下的阴影，已经把大半个朝阳城都笼罩进去，当朝阳升起的时候，朝阳城迎来极短暂的片刻晨光，然后随着太阳升到云层之上，城市再次陷入阴晦的天气之中。\n　　从昨",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "洞，眼瞳骤缩，神情大变。\n　　他忽然想到，如果小院里真是传说中的那两个人，自已因惊惧而禅心不宁，只怕瞬间便会被对方感知，一念及此，他竟是收凝禅心，平心静意，把所看到所猜到的一切，都强行从脑海里驱逐出去。\n　　苦修僧双手合什，面无表情，不思不想，就像个浑浑噩噩的泥胎塑像般，缓步自溪畔离开，穿过窄巷，循",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "疲惫低头。\n　　一个秋天在烂柯寺，一个秋天在荒原，然后来到朝阳城，整整一百多天的时间，他都处于极度的紧张和焦虑之中，虽然身体能够得到休息，精神却没有放松的机会，哪怕只是刹那时间的放松都没有。\n　　从小时候离开长安城开始，他便一直在生死边缘挣扎，无论在岷山还是在荒原，都经常处于精神紧张的状态里，但那时",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "院方向，确认桑桑没有任何问题，在树畔坐了下来，疲惫低头。\n　　一个秋天在烂柯寺，一个秋天在荒原，然后来到朝阳城，整整一百多天的时间，他都处于极度的紧张和焦虑之中，虽然身体能够得到休息，精神却没有放松的机会，哪怕只是刹那时间的放松都没有。\n　　从小时候离开长安城开始，他便一直在生死边缘挣扎，无论在岷山",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "血来，虚弱说道：“找到了。”\n　　……\n　　……\n　　罗克敌看着远处那座小院，魁梧如山的身躯没有丝毫颤抖，如岩石般的脸颊上没有任何情绪，眼眸里熊熊燃烧的战意却似乎要将看到一切事物都焚成灰烬。\n　　十八名西陵神卫，身披红色大氅，神情肃然站在他身体两侧，背着神赐长刀，看刀鞘的宽度，便能想见这些神赐长刀是",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "强者数量多了不少，更令他警惕的是，月轮国朝廷明显加强了对朝阳城内部的搜索，街头巷尾到处可以看到军士，难道说佛道两宗已经确认自已和桑桑在朝阳城里？\n　　看来这次是真的要离开了，只是去哪里呢？\n　　如果宁缺只是一个人，他早就会离开朝阳城，无论回书院还是去别处飘零，他都有自信，不会被佛道两宗发现自己，然而",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "到。\n　　一名来自悬空寺的苦修僧，正带领着十几名军士沿着一条小溪搜索，忽然间，在他身前的一株枯树上，出现了一只黑色的乌鸦。\n　　苦修僧看着乌鸦微微皱眉，伸手轻挥，意欲把它驱走，然而黑色乌鸦却显得毫不惧人，反而冲着他极为凄厉地嘎嘎叫了数声。\n　　数声鸣叫后，那只黑色乌鸦离枝而起，在苦修僧头顶绕飞三次，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，往常喜欢在街边一面蹲着吃饭一面与邻居聊天的月轮国国民，不知道是畏惧头顶的云层，还是冥王之女的传闻，纷纷躲回自已的宅院，街道显得有些冷清。\n　　只有官府的差官在四处巡查。\n　　朝阳城的守卫比去年秋天刚到时要显得严密了很多，但宁缺相信要带着桑桑溜出去问题不是很大，只是先前他手握大黑伞散开念力感知，发现",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "精神状态，脑海里那根弦崩到今天已经崩到了极致，随时可能断裂。\n　　他从溪畔拣起一块石头紧紧握住，然后缓缓用力，不知道过了多长时间才松开手掌，掌心的那块石头已经被压成了几截石砾。\n　　然后他站起身来，对着那棵青树重重地捶了一拳。他想学着记忆深处某篇文章里写的那样，用这种方式来排解沉重的压力，如此回到小",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "回到小院时，他已经回复了平静，摸黑钻进被褥，抱着桑桑微凉的身子，把脸靠在她的颈后，深深嗅了一口，说道：“赶紧睡吧。”\n　　桑桑感觉颈后有些微湿，转过身看着他的眼睛，但在他的眼里除了平静和温暖，没有看到别的任何东西，低声问道：“你哭了？”\n　　宁缺微笑说道：“这么多年你什么时候见我哭过？”\n　　桑",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "岁之后，就没怎么见过你哭了。”\n　　桑桑说道：“前些年哭过一次，离开老笔斋那夜。”\n　　宁缺说道：“以后不要哭了。”\n　　桑桑低头，轻轻嗯了一声。\n　　宁缺的双唇落在她光洁的额头上，然后下移，落在她的唇上。\n　　桑桑微睁着眼睛，微张着嘴唇。\n　　宁缺用力地抱着她，安静而专注地亲着，仿佛要把她瘦小的身",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "嗅了一口，说道：“赶紧睡吧。”\n　　桑桑感觉颈后有些微湿，转过身看着他的眼睛，但在他的眼里除了平静和温暖，没有看到别的任何东西，低声问道：“你哭了？”\n　　宁缺微笑说道：“这么多年你什么时候见我哭过？”\n　　桑桑把头埋在他怀里，说道：“是不是先前提到山山姑娘，让你想起那些事情，愈发觉得后悔难过，所以",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

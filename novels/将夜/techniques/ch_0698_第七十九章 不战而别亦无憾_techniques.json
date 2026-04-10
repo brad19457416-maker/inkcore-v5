@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 698,
+  "chapter_title": "第七十九章 不战而别亦无憾",
+  "filename": "ch_0698_第七十九章 不战而别亦无憾.txt",
+  "char_count": 3327,
+  "timestamp": "2026-04-10T12:11:26.933557",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，把所有的营帐和城中的住宅征调住满，还是有很大一部分被迫安置在城楼里。\n　　城楼高入崖壁之间，入夜寒风穿行其间，本来夏秋之交的气温应该适合露营，怎奈何连大雨浇了好些时日，秋意提前来到荒原，温度陡然降低，贺兰将军汗青为了这些北大营铁骑的保暖，这些天费尽了心思。\n　　最麻烦的还是粮草给养的问题。\n　　贺",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "勉强支撑一段时间，但如果这场雨再继续下，南方的粮草运不过来，他们也无法离开，那么贺兰城便要面临断粮的危险。\n　　各种各样的问题，各种各样的麻烦，合在一处便成了各种各样的危险，然而无论是北大营的铁骑统领，还是汗青将军，都不敢用这个问题去请示他们最应该请示的皇帝陛下，更不敢惊动皇后娘娘或黄杨大师。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "憾，我还没有看到你老后的模样，我没有让你看到小六子长大成人，我更后悔当年奉宗门之命南下长安，诱你骗你最终把你害成现在这样。”\n　　皇帝微笑说道：“诱我骗我害我，最终你还是爱上了我。”\n　　听着酸甜情话，皇后终于带泪而笑，问道：“你有没有怪过我？”\n　　“要说从来没有怪过你，那是假话，毕竟谁不想多活一",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "伴着他，入腑刻骨无法治愈。\n　　夫子看过皇帝陛下的病，或者是这个病太麻烦，或者是夫子看到了这场病后的命运的深渊，所以只是开了个药方，而没有动用人间之力。\n　　这场病一直拖到了天启十八年的秋天，随着黄金巨龙降临人间，随着这场连绵不绝的寒雨，随着一记命中注定的流矢而暴发。\n　　皇帝靠在榻上，脸色苍白，手",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "着他的胸口，想要让他感觉更舒服一些。\n　　“这几年长安城里死了很多人，有很多陪伴过父皇甚至是祖父的老人们，都走在了我的前面，如今便是院长也离开了我们。”\n　　“如今我也不行了。”\n　　皇帝握住她的手，说道：“天要亡我大唐，非战之罪……即便如此，我也没有任何畏惧之心，因为我坚信大唐必将获得最后的胜利。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "楼高入崖壁之间，入夜寒风穿行其间，本来夏秋之交的气温应该适合露营，怎奈何连大雨浇了好些时日，秋意提前来到荒原，温度陡然降低，贺兰将军汗青为了这些北大营铁骑的保暖，这些天费尽了心思。\n　　最麻烦的还是粮草给养的问题。\n　　贺兰城中储备着很多粮食，但多了数万唐军还有无数战马，承受的压力瞬间增大，眼下还能",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "斗，但唯独是这一场最令他铭心刻骨，最为看重胜负。\n　　“我若不为帝，便是书院一学生，现在想来，那样的人生或者更有意思，不过我终究是把夫子当老师的。”\n　　皇帝疲惫地笑了笑，看着她说道：“如今老师去天上做事，我们还要在人间做事，我随老师去后，你知道该怎么做吧？”\n　　皇后娘娘说道：“陛下放心，我知道怎",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "息传回长安城。\n　　此时整座长安城里，只有寥寥数人知道这个消息，李渔依靠南门观的帮助，暂时守住了这个秘密，此时看国师李青山的神情，便知道对方已经知道――既然她是靠南门观才能守住秘密，自然无法瞒过南门观观主。\n　　李青山看着跪在自已身前的她，虚弱说道：“你要做什么？”\n　　李渔说道：“我要看遗诏。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "开，眼眸里只有悲伤，没有震惊。\n　　数百年来，贺兰城在连续数月内，连续动用了两次千里传书符阵。\n　　第一次是因为那辆黑色马车。\n　　第二次是要把皇帝陛下离开人间的消息传回长安城。\n　　此时整座长安城里，只有寥寥数人知道这个消息，李渔依靠南门观的帮助，暂时守住了这个秘密，此时看国师李青山的神情，便知道",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "最麻烦的还是粮草给养的问题。\n　　贺兰城中储备着很多粮食，但多了数万唐军还有无数战马，承受的压力瞬间增大，眼下还能勉强支撑一段时间，但如果这场雨再继续下，南方的粮草运不过来，他们也无法离开，那么贺兰城便要面临断粮的危险。\n　　各种各样的问题，各种各样的麻烦，合在一处便成了各种各样的危险，然而无论",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "后娘娘不再流泪，非常平静地说道：“我会把这些事情做好。”\n　　“那我就放心了。”\n　　皇帝说道，然后缓缓闭上眼睛。\n　　黄杨大师走进房间内。\n　　皇后看着仿佛熟睡的皇帝，看了很长时间，然后把手腕上那串念珠取下，套到他的手腕上，又低身在他额头轻轻吻了一口。\n　　黄杨大师双手合什。\n　　片刻后，房间里响",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "人们，都走在了我的前面，如今便是院长也离开了我们。”\n　　“如今我也不行了。”\n　　皇帝握住她的手，说道：“天要亡我大唐，非战之罪……即便如此，我也没有任何畏惧之心，因为我坚信大唐必将获得最后的胜利。”\n　　滚烫的眼泪，从皇后娘娘的眼里滴落，此时皇帝正握着她的手，于是泪珠便在两只紧紧相握的手上摔成了",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，最终你还是爱上了我。”\n　　听着酸甜情话，皇后终于带泪而笑，问道：“你有没有怪过我？”\n　　“要说从来没有怪过你，那是假话，毕竟谁不想多活一些时间？”\n　　皇帝伸手，擦去她颊畔的泪水，说道：“不过后来想着，你我之间这场战争，终究以我的胜利而告终，那我负些伤也是光荣的痕迹。”\n　　皇后轻轻抱着他，喃",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "负些伤也是光荣的痕迹。”\n　　皇后轻轻抱着他，喃声说道：“从见到你的那一刻起，我就输了。”\n　　皇帝满足的笑了起来，他这一生打过大大小小无数场战斗，但唯独是这一场最令他铭心刻骨，最为看重胜负。\n　　“我若不为帝，便是书院一学生，现在想来，那样的人生或者更有意思，不过我终究是把夫子当老师的。”\n　　皇",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

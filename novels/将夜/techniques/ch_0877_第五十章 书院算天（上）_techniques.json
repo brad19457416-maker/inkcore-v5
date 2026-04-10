@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 877,
+  "chapter_title": "第五十章 书院算天（上）",
+  "filename": "ch_0877_第五十章 书院算天（上）.txt",
+  "char_count": 3382,
+  "timestamp": "2026-04-10T12:11:27.381534",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "根本毫无还手之力，便身受重伤，其后又与强大无敌的观主在人间千里纵横，周游数日，最终在长安城上演了那幕决战。\n　　二先生君陌守青峡，万骑莫过，力败叶苏，虽然最终被剑圣柳白斩了一臂，却也重伤了那位世间第一强者。三先生余帘便是传说中的二十三年蝉，在书院后山，把掌教大人伤的不成人形，即便西陵神殿试图隐瞒，奈",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "陌望向东南方向，忽然间蹙起了眉头，因为他感觉到柳白的剑离开了剑阁，正向桃山而去。\n　　他沉默片刻，临风无言。\n　　青峡之前，曾经君不见黄河之水天上来，而如今柳白伤势尽复，境界再升，竟于不可能间走到了传说中的那一步，而他却是重伤未愈，断臂阻道，不知还要走多远走多少年才能走到相同的地方，自然不免感慨。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "待被拯救的陈皮皮，这时候应该要比她更低落一些，但他却似乎并不这么想，圆乎乎的脸上还带着笑容。\n　　“为什么呢？”他问唐小棠。\n　　唐小棠看着他很认真地解释道：“因为我不行了。”\n　　陈皮皮说道：“如果只有你，当然不行。”\n　　唐小棠说道：“大不了就一起死。”\n　　陈皮皮委屈说道：“我不想死。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "在这把剑上。”\n　　木柚说道：“她不会算不到这些。”\n　　君陌说道：“小师弟在桃山出现，想必会让她很愤怒，而愤怒的人往往不擅长思考，愤怒的昊天则不愿意思考。”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "勒布大将便让她身受重伤，唐小棠想来想去，觉得自己再怎么拼命，好像都没有办法把自己的男人带走。\n　　按道理来说，等待被拯救的陈皮皮，这时候应该要比她更低落一些，但他却似乎并不这么想，圆乎乎的脸上还带着笑容。\n　　“为什么呢？”他问唐小棠。\n　　唐小棠看着他很认真地解释道：“因为我不行了。”\n　　陈皮皮",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "们，其实也是这样认为的，书院既然已经派了位二代弟子来到桃山，便已经表明了他们的态度，那么一定还会有人出现。\n　　谁会在桃山出现？大先生二先生还是三先生？\n　　七念想着那年在烂柯寺，君陌于秋雨里飞剑斩断佛祖石像的画面，沉默不语，别的人也同样沉默，甚至有些隐惧。\n　　大先生李慢慢在葱岭之前，步步杀人，月",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "走到了传说中的那一步，而他却是重伤未愈，断臂阻道，不知还要走多远走多少年才能走到相同的地方，自然不免感慨。\n　　他静静看着西陵神国方向，仿佛看到柳白的剑已经飞临桃山，仿佛看到了桃山上光明神殿前的那个女子，又仿佛看到了数年前长安城北无名山上，跪在地面不停往瓮里捧着灰的黑瘦小姑娘，竟不知哪个她才是她，只",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，这时候肯定就在光明祭的现场，书院的同门肯定有所安排，唐小棠也知道，只是没有想起来。\n　　祭坛四周的人们，其实也是这样认为的，书院既然已经派了位二代弟子来到桃山，便已经表明了他们的态度，那么一定还会有人出现。\n　　谁会在桃山出现？大先生二先生还是三先生？\n　　七念想着那年在烂柯寺，君陌于秋雨里飞剑斩",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "不行，但既然大师兄同意你来桃山，总不能看着我们不行。”\n　　陈皮皮笑着摇头说道。\n　　他知道宁缺已经来到桃山，这时候肯定就在光明祭的现场，书院的同门肯定有所安排，唐小棠也知道，只是没有想起来。\n　　祭坛四周的人们，其实也是这样认为的，书院既然已经派了位二代弟子来到桃山，便已经表明了他们的态度，那么一",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，不用再坐在轮椅上，但依然没有办法走的太快，除了这个原因，他走的如此慢，还有一个原因，那就是他现在很紧张，甚至有着弱下于面对观主时的紧张。\n　　用了很长时间，他才走进小镇深处，走到那间书画铺子前，然后缓慢地掀起前襟，缓慢地迈过门槛，对着里面那人缓慢地施了一礼。\n　　那人坐在铺子里的椅间，手里拎着只酒",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "姑娘，竟不知哪个她才是她，只知道她无比强大。\n　　“她如果出手怎么办？”木柚想着桃山上的两位小师弟，担心说道。\n　　君陌说道：“我们就是想让她出手。”\n　　木柚微微一怔，问道：“那如果她不出手怎么办？”\n　　君陌说道：“老师登天，观主成了废人，柳白终于走到了那一步，他不需要破五境，便已经是人间最强的",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "容。\n　　“为什么呢？”他问唐小棠。\n　　唐小棠看着他很认真地解释道：“因为我不行了。”\n　　陈皮皮说道：“如果只有你，当然不行。”\n　　唐小棠说道：“大不了就一起死。”\n　　陈皮皮委屈说道：“我不想死。”\n　　唐小棠说道：“死有什么好怕的。”\n　　陈皮皮说道：“反正不想一起死。”\n　　唐小棠有些不",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "烂柯寺，君陌于秋雨里飞剑斩断佛祖石像的画面，沉默不语，别的人也同样沉默，甚至有些隐惧。\n　　大先生李慢慢在葱岭之前，步步杀人，月轮国从国主到普通士兵，纷纷死去，悬空寺七枚大师根本毫无还手之力，便身受重伤，其后又与强大无敌的观主在人间千里纵横，周游数日，最终在长安城上演了那幕决战。\n　　二先生君陌守青",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

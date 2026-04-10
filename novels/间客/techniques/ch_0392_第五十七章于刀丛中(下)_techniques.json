@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 392,
+  "chapter_title": "第五十七章于刀丛中(下)",
+  "filename": "ch_0392_第五十七章于刀丛中(下).txt",
+  "char_count": 3492,
+  "timestamp": "2026-04-10T12:04:59.243244",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "端着咖啡靠在厨房的门上，看着沙发上眼帘已经快要抬不起来的小女孩儿，忍不住微微一笑，不清楚这个小女孩儿为什么一直对自己抱持着绝对的信任，明明三年前她才六岁不到，三年不见，她怎么还没忘了自己？\n\n    这种信任和被记住的感觉很温暖，许乐忘了是哪位哲学家说过，被需要是一种很深沉的幸福感。但同时这种信任和",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "小西瓜玩的高兴，还必须安全清静，没什么危险和打扰，他实在不知道联邦上层社会里有什么去处，除了林园和流风坡，但那种地方怎么适合小女孩儿去？\n\n    忽然想到昨~到过利孝通的电话位外表阴寒，实际上却颇可结交的七大家二代人物，倒是一个不错的征询对象且他反正要在休假结束前和对方见一面。\n\n    “玩的地",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "之意震的有些说不出话来。\n\n    工作人员将一行人领到一扇门前便自行离去，许乐看着面前的醉香木门，心想光这一扇门大抵\n\n    自己一年薪酬，虽知道利孝通和身旁的小西瓜有足够用这种排场，他这几年前也进出过不少高级场所，可未免依然有些不适应。\n\n    推开醉香木门的那一刹那，房间里忽然响起一阵噼噼",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "大院门口那条斑点狗而无比愤怒，自然不敢再打电话，想来想去既要让小西瓜玩的高兴，还必须安全清静，没什么危险和打扰，他实在不知道联邦上层社会里有什么去处，除了林园和流风坡，但那种地方怎么适合小女孩儿去？\n\n    忽然想到昨~到过利孝通的电话位外表阴寒，实际上却颇可结交的七大家二代人物，倒是一个不错的征",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "情弄的一塌糊涂。生活的恶趣味感在这几天里体现的淋漓尽致，从施公子开始，到李维，再到小西瓜，许久不见的人们一古脑地涌回了他的生活，虽然无限温暖，却也无限忙碌，望都公寓什么时候如此热闹过？\n\n    最麻烦的还是小西瓜，他端着咖啡靠在厨房的门上，看着沙发上眼帘已经快要抬不起来的小女孩儿，忍不住微微一笑，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "对安全。\n\n    被邹郁痛快干脆地赠了个滚字，他知道那位年轻妈妈正因为西林大院门口那条斑点狗而无比愤怒，自然不敢再打电话，想来想去既要让小西瓜玩的高兴，还必须安全清静，没什么危险和打扰，他实在不知道联邦上层社会里有什么去处，除了林园和流风坡，但那种地方怎么适合小女孩儿去？\n\n    忽然想到昨~到",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "些童话应该不会再有太多兴趣。\n\n    “真是很麻烦啊。”\n\n    许乐觉得自己的休假，也有可能是人生最后一次休假，已经被很多事情弄的一塌糊涂。生活的恶趣味感在这几天里体现的淋漓尽致，从施公子开始，到李维，再到小西瓜，许久不见的人们一古脑地涌回了他的生活，虽然无限温暖，却也无限忙碌，望都公寓什么时",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "足够用这种排场，他这几年前也进出过不少高级场所，可未免依然有些不适应。\n\n    推开醉香木门的那一刹那，房间里忽然响起一阵噼噼啪啪的脆响声！\n\n    许乐双眼一眯，眼瞳微缩然后散开，刹那之间便知道自己并不是中了埋伏，这些脆响也不是枪声，而是室内喷放的小礼花，因为无数的碎纸屑在灯光下闪耀成彩虹的色",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "？\n\n    这种信任和被记住的感觉很温暖，许乐忘了是哪位哲学家说过，被需要是一种很深沉的幸福感。但同时这种信任和被需要也是一种绝大的压力，再加上钟夫人无来由地放手里所代表的信任压力，就像是一把锋利的小刀横亘在他的脚底之下。\n\n    他必须小心谨走每一步，既要让小西瓜开心地过完这几天假期还要保证她",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "天里体现的淋漓尽致，从施公子开始，到李维，再到小西瓜，许久不见的人们一古脑地涌回了他的生活，虽然无限温暖，却也无限忙碌，望都公寓什么时候如此热闹过？\n\n    最麻烦的还是小西瓜，他端着咖啡靠在厨房的门上，看着沙发上眼帘已经快要抬不起来的小女孩儿，忍不住微微一笑，不清楚这个小女孩儿为什么一直对自己抱",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "园仿古勾檐之下。利孝通放下了电话。平静地眉眼中。往日地阴戾之色淡了许多。却多了几丝复杂情绪喃自言自语说道：“多小才算小女孩儿呢？”\n\n    曾哥依旧如一包被布缚住地枪般站在门口。他很清楚少爷不是在问自己问题还是往前走了两步。准备安排明天地会面。\n\n    “犯法地事情不做四岁以下不动。”利七少吩咐",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "然不敢再打电话，想来想去既要让小西瓜玩的高兴，还必须安全清静，没什么危险和打扰，他实在不知道联邦上层社会里有什么去处，除了林园和流风坡，但那种地方怎么适合小女孩儿去？\n\n    忽然想到昨~到过利孝通的电话位外表阴寒，实际上却颇可结交的七大家二代人物，倒是一个不错的征询对象且他反正要在休假结束前和对",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "看着庄园里的陈设，被此间的清贵之意震的有些说不出话来。\n\n    工作人员将一行人领到一扇门前便自行离去，许乐看着面前的醉香木门，心想光这一扇门大抵\n\n    自己一年薪酬，虽知道利孝通和身旁的小西瓜有足够用这种排场，他这几年前也进出过不少高级场所，可未免依然有些不适应。\n\n    推开醉香木门的那",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "礼花，因为无数的碎纸屑在灯光下闪耀成彩虹的色彩，如天女散花一般洒落。\n\n    散落的纸烟花中，原本安静无比的房间内响起一道整齐的声音。\n\n    八个明眸秀眉眉眼如画，招人疼爱的少女，对着推开醉香木门的许乐，深深鞠躬笑眯眯说道：“许乐哥哥好。”\n\n    正是一水儿的葱，更令人们的眼睛感到如水洗般",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

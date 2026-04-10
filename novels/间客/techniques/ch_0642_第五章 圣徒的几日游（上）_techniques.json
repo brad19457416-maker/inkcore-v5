@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 642,
+  "chapter_title": "第五章 圣徒的几日游（上）",
+  "filename": "ch_0642_第五章 圣徒的几日游（上）.txt",
+  "char_count": 3489,
+  "timestamp": "2026-04-10T12:05:08.608784",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "光瞥了他一眼，没有回答，然而眼眸里闪过一丝异色。\n\n    如果没者意外，身边这个联邦人在被榨干所有价值之后，便会被酷刑处死，除非他同意叛逃。对于这一点，他绝对没平任何同情的想法，只是有些好奇许乐此刻的表现。\n\n    战火连绵数十年，帝国俘获过不少联邦军人，甚至是高级军官，那些明知必死的联非军人，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "有所帮肋。\n\n    至于看风景时为什么要带着许乐，则是基于很简单的两个理由，其中一个：像许乐这样的危险人物，只有他亲自者管，才不个找到任何逃走的机会。\n\n    “我查过你的详细资料，你似乎是个道德完人，圣徒一样的存在。”杯草诗微讽说道：“不用急着拒绝，你们政丄府本就是按照圣徒在打造你。”",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "起什么人的关注。\n\n    除了他们身周四条街区内上百名训练有素的职业军人，这些负责私密安保工作的军人们，沉着脸，关注着这二人的一举一动，警惕地注观着四周的风吹草动。\n\n    这两名年轻游客，看起来并不像是扫携出游的知交好友，因为当其中一人难受地咳嗽不停，眯着的眼睛挣出眼泪来时，另一个根本没有关切",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "论的中心。\n\n    能成为旅游特别区，替皇帝陛下理直气壮分割贵族们的财富，离阪星自然拥有足够优美的风光。无论是西半球壮观的赤凌，松果岭谩天的雾障，黄石矾数万根刺向天穹的石峰，都是难得一见的美景，充分证明着大自然如鬼神一般的雕刻本领。\n\n    离阪星还有一片最美丽的风光，那就是漫过平坦原舞的桑树群",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "复身体，像一块缓缓旋转的巨石，不停地研磨，要把所有希望研磨粉碎。\n\n    很奇怪，从红蔷薇皇家飞船来到这颗陌生的帝国星球，他依然没有死，也没有被投入不见天日的黑牢之中，反而……暂时脱离了令人生不如死的残酷水刑，开始跟着那名年轻的帝**官，在这颗美丽的星球上不停赏看风光。\n\n    很短暂的数日内，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "而惊喜地望着面前的桑树海，他此时与怀草诗并排而站，完全没有死囚的自觉，更没有注意到四周便永军人眼中的愤怒。\n\n    杯草诗冷冷用余光瞥了他一眼，没有回答，然而眼眸里闪过一丝异色。\n\n    如果没者意外，身边这个联邦人在被榨干所有价值之后，便会被酷刑处死，除非他同意叛逃。对于这一点，他绝对没平任何",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "他们大抵是父女，因为都有一对漂亮的天蓝色眸子，而且下颌的曲线像是同一个雕刻家刻出来的那般，只是不知道为什么生着争执，嗜些破旧的衣衫在大手与小手的揪弄着皱了，破了，小女孩儿哭了。\n\n    右手的餐棺后墙有一条黑狗快跑过，尖利的嘴里叼着一根憨厚无语的骨头，黑狗的奔跑很坚决，目的很明确，绕过那个躺在阴影",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "像一块缓缓旋转的巨石，不停地研磨，要把所有希望研磨粉碎。\n\n    很奇怪，从红蔷薇皇家飞船来到这颗陌生的帝国星球，他依然没有死，也没有被投入不见天日的黑牢之中，反而……暂时脱离了令人生不如死的残酷水刑，开始跟着那名年轻的帝**官，在这颗美丽的星球上不停赏看风光。\n\n    很短暂的数日内，他站在飞",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "了某些有趣的童年回忆。\n\n    笑容惭敛，怀苹诗只允许回忆偶尔涌入脑海，偶尔因春秋四季而感触，便要马上恢复绝对的冷静。\n\n    “虽然真的很不明白，不过还是要谢谢你带我看了这么多美丽的景色。”\n\n    许乐咳嗽了两声，专注而惊喜地望着面前的桑树海，他此时与怀草诗并排而站，完全没有死囚的自觉，更",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "到任何逃走的机会。\n\n    “我查过你的详细资料，你似乎是个道德完人，圣徒一样的存在。”杯草诗微讽说道：“不用急着拒绝，你们政丄府本就是按照圣徒在打造你。”\n\n    “我很想知道，如果你真的是圣徒的话，会不会因为内心的道德观，而感到惭傀或者羞耻，会不会在死之前认识到自己的罪恶。“杯草诗缓缓走前几",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "洞暂时止血，体内被那名帝**官楔进去的古怪力量，还在无时无刻地折磨他，阻止他运行力量修复身体，像一块缓缓旋转的巨石，不停地研磨，要把所有希望研磨粉碎。\n\n    很奇怪，从红蔷薇皇家飞船来到这颗陌生的帝国星球，他依然没有死，也没有被投入不见天日的黑牢之中，反而……暂时脱离了令人生不如死的残酷水刑，开",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "风吹是这个声音，被蚕儿啃食也是这个声音……帝园身份录尊贵的年杂人，万古不变的冷漠脸颊上，忽然显出一丝温柔的芙容，似乎想到了某些有趣的童年回忆。\n\n    笑容惭敛，怀苹诗只允许回忆偶尔涌入脑海，偶尔因春秋四季而感触，便要马上恢复绝对的冷静。\n\n    “虽然真的很不明白，不过还是要谢谢你带我看了这么",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 228,
+  "chapter_title": "第三十四章 书痴世界观改造的第一次验收及花痴的伤恸",
+  "filename": "ch_0228_第三十四章 书痴世界观改造的第一次验收及花痴的伤恸.txt",
+  "char_count": 4666,
+  "timestamp": "2026-04-10T12:11:12.013198",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，更有深厚背景。\n　　大帐深处那道华丽屏风之后，莫山山面无表情看着对面那位穿着淡黄斜襟衫的美丽少女，说道：“当日你在草甸之上。”\n　　陆晨迦此时正在用心修剪一盆异种七瓣花的枝叶，听着这话，她抬起头来微微一笑，说道：“这便是王妃爱若珍宝的一盆花，可惜抽丫之初便养植不得法，根茎无精神，花开自然无魂，淡的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "外享受，看着那些阵设用具和精致食物，依然不免觉得有些难过。\n　　同样都是奉西陵神殿诏令而来的年轻人，为什么她们这些墨池苑弟子在燕北边塞军营里没有好营地，承担艰难任务出生入死终于来到王庭却依然没有好营地，而这些天谕院的学生坐着马车哼着歌喝着茶水来到王庭却能有这么好的待遇？\n　　尤其是回想起当日草甸下方",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "……\n　　陆晨迦还是没有说话，缓缓放下手中的小剪，专注地看着对面的莫山山，眼眸里浮现出一抹笑意，心想什么事情让书痴居然变化了这么多？\n　　莫山山的这些指责，谈不上如何犀利，因为无论是谁都能想明白当日草甸上究竟发生了什么，花痴陆晨迦无论当时是沉默还是如何，都应该承担起怎样的责任。\n　　陆晨迦并不在",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "二个地方能与自己所在天谕院相提并论？\n　　大河国少女们强忍着难受与恨意，天谕院学生们只顾着展现自己的风度与骄傲，双方话语之间自然不可能投机，却也没有因此产生什么矛盾冲突，只是渐渐不再交谈，分为两列只与同门说话交谈，就如看不见对方一般。\n　　反正今日他们不是主角，真正的主角早已进了大帐深处，那道华丽屏",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "与恨意，天谕院学生们只顾着展现自己的风度与骄傲，双方话语之间自然不可能投机，却也没有因此产生什么矛盾冲突，只是渐渐不再交谈，分为两列只与同门说话交谈，就如看不见对方一般。\n　　反正今日他们不是主角，真正的主角早已进了大帐深处，那道华丽屏风之风，那两位少女的对话才是今天最重要的事情。\n　　穿着墨池苑弟",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "分，便是自己也不敢言胜，晨迦这朵花，只怕是要败了。\n　　……\n　　……\n　　陆晨迦看着指间片片碎裂，最终融化入空气中再也难觅痕迹的那朵小花，看着对面的白衣少女平静说道：“修行境界我不如你，更是不及道痴，但我真的无所谓，败便败了，我喜欢的终究还是种种花剪剪叶。”\n　　莫山山缓缓把右手收回广袖之中，看着",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "为觉得麻烦而不肯说出口，淑静沉默到了极点的人。\n　　她本以为今日邀莫山山相会，对方因为马贼一事再如何愤怒，也不会当面指责自己，然而没有想到对方竟然表现的如此直接而强硬。\n　　陆晨迦静静看着她，沉默很长时间后开口说道：“莫姐姐，你变了，变得直接了很多，也刻薄了很多，实在是令我感到很意外很吃惊。”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "迦微微一笑，就像是清晨池塘里的睡莲，忽然被几只鸟儿的鸣叫惊醒，舒缓地开始绽放清美的花瓣，美丽安静的让人生不出任何敌意战意。\n　　花痴便是花痴，痴于花痴于情痴于自己的认知痴于自己的想法，她不想与莫山山动手，所以她不准备出手，只是静静微笑看着对面的莫山山。\n　　面对着这样平静微笑看着自己的美丽少女，世间",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "第三十四章 书痴世界观改造的第一次验收及花痴的伤恸\n　　世间万事万物，无论人货感情生活，最怕的便是比较。大河国少女们在唐营外自择平地宿营，虽然稍嫌冷落冷清但也觉着还算清静，并没有太多的不满意，但当她们走进天谕院诸生所在的华丽帐蓬",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "上去极为小心翼翼。\n　　难道这便是书痴莫山山送给花痴陆晨迦的礼物？\n　　……\n　　……\n　　天下美人无数，最出名的只有三人。\n　　按照世间好事者的说法，月轮国公主花痴陆晨迦、大河国王书圣淑静贤贞的关门女弟子书痴莫山山，还是西陵裁决司那位道痴叶红鱼，并称为天下三痴。\n　　每个人眼中的美都不同，自然没有",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "晨迦的美那般动人，那般清晰，却因为没有任何杀伤力，对任何人的眼眸都不会造成格外的负担，而会令观者感到轻松。\n　　这种好看，可以好好地看。\n　　……\n　　……\n　　莫山山好看的脸上没有任何情绪，她看着陆晨迦平静说道：“既然你承认当时自己在草甸之上，那么这件事情就没有什么好说的了。”\n　　陆晨迦静静看着",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "天谕院弟子并不难过，也没有什么低落情绪，脸上更看不到对于马贼劫掠一事的羞愧，他们端着荒原上珍贵的瓷碗缓缓饮着茶，尽着主人的本分与大河国少女们温和叙话，言语间淡着股若有若无的优越感。\n　　天谕院乃是昊天道门的研习书院，由西陵神殿神官亲自负责教授，千万年来不知培养出多少名留青史的大人物，近些年来，便有道",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "树，说道：“世上绝大多数人都与你我无关，但这个世界与你我有关，因为悲喜总会相通。”\n　　“人类的悲喜从来都不相通。”\n　　陆晨迦轻仰美丽的脸颊，说道：“为何你我这样的人要与那些浊世中的人同悲共喜？世间除了花与廖廖数人外，便再也没有干净的，而你我是干净的，若你我在意这些浊世，总有一日会被他们拖进尘埃之",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "陵神殿诏令而来的年轻人，为什么她们这些墨池苑弟子在燕北边塞军营里没有好营地，承担艰难任务出生入死终于来到王庭却依然没有好营地，而这些天谕院的学生坐着马车哼着歌喝着茶水来到王庭却能有这么好的待遇？\n　　尤其是回想起当日草甸下方那场与马贼的血战，想到自己等人在营地里苦苦支撑随时可能死亡的时候，这些天谕院",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "缓把右手收回广袖之中，看着她说道：“若仅痴于花，自然不是花痴。”\n　　陆晨迦不知想起什么，脸上流露出温柔的笑意，又有一丝淡淡的怅然，说道：“花痴花痴……痴于人痴于花，我想应该就足够了吧。”\n　　莫山山站起身，看着她说道：“当年的你经常手拿锄头挖泥，双手沾满尘埃，脸上满是汗水，我觉得那时候的你比现在所",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 207,
+  "chapter_title": "第一百四十六章 车厢中",
+  "filename": "ch_0207_第一百四十六章 车厢中.txt",
+  "char_count": 3456,
+  "timestamp": "2026-04-10T12:04:51.095455",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "缘份的小姑子悄悄告诉她的消息。那个消息一直压在心中,无处去问,此时被好友一番轻语安慰,心头那抹悲痛与愤怒顿时冲了出来,紧紧地抿着嘴说道:“志镐地死有隐情。”“地检署不是已经结案了？”南相美微感诧异,看着她轻声说道。“那只是一个替罪羊。”苗痕地脸上露出一丝凄楚不苦的神色志镐得罪了联邦里地大人物,所以被",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "那个消息一直压在心中,无处去问,此时被好友一番轻语安慰,心头那抹悲痛与愤怒顿时冲了出来,紧紧地抿着嘴说道:“志镐地死有隐情。”“地检署不是已经结案了？”南相美微感诧异,看着她轻声说道。“那只是一个替罪羊。”苗痕地脸上露出一丝凄楚不苦的神色志镐得罪了联邦里地大人物,所以被害。”\n\n    南相美安静地",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "昧,角落里更暗一些,许乐安静地看着那个女孩儿,女孩儿穿着一身素色的裙子,浑身上下透着一股安宁的意味，初见不觉如何,越看却越能看出那头黑发下容颜的秀丽。他在东林的时候,便喜欢看街上不多的美女,当门房时也看过不少青春洋溢的躯体,只是几眼,他便发现了这女孩儿的出色～小  说t  xt 天,堂",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "我多想,所以一直瞒着我。”\n\n    苗淼忧伤地转过了头,看着车窗外蒙着一层夕阳金芒快速闪过的山林,心想今天的太阳落下去,明天终究会爬上来,可是自己的爱人呢？\n\n    南相美轻轻叹了一口气,斟酌了片刻,确信自己在此时说什么都不大合适,只好顺着这个话问了下去:“是谁这么狠毒？”\n\n    “听说是和",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "回答道。\n\n    许乐摇了摇头,暑火假只有四天,他要悄悄地进入果壳工程部,便只能利用假期,时间有些紧张,如果不是担心带的那个黑色大皮箱无法通过联邦机场的扫描检查,他绝对不会来坐高铁,听白玉兰说,这豪华软卧的票价,竟是比机票还要贵很多。\n\n    “往a方向走一个车厢。有个专设的酒吧。”白玉兰说道。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "闺蜜或是家人喊她名字时,心里却只会想着两个青苗的苗的字。~~~~她今年二十岁,正是青苗探头长尖,在春风里招摇的季节,偏生这一束苗生的挺拔又收敛,向来只令人喜,不惹人多眼\n\n    她现在是临海州大学城里的一名学生,还有一个身份则是朴志镐的未婚妻。一头金发的朴志镐,虽说此生命途大不顺,碰见了许乐这个克",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的大箱子拉开,推到了许乐的床下,从首都离开的时候,许乐就一直贴身带着这个大箱子,他也不知道这个箱子里究竟装的是什么,只知道十分沉重。他给许乐倒了一杯橙汁,许乐说了声谢谢,然后两个人便再也找不到任何话说,开始沉默地吃饭。吃完饭后,白玉兰又开始收拾残阵,许乐一个人百无聊赖地看着这个秀气男人人忙迸忙出,一",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "自己在此时说什么都不大合适,只好顺着这个话问了下去:“是谁这么狠毒？”\n\n    “听说是和志镐一起进入果壳的一个人,当初进了研究所,后来却不知所踪。”苗淼回过头来,冷笑说道。\n\n    白玉兰耸耸肩,端着餐盘穿过通道,推开了包间的门,在心里想着,这高铁上的豪华软卧包厢,隔音做的也大差了些,里面那两",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "这位好友并不是心伤未婚夫之死而开始胡乱开口,偏着头想了片刻后说道:“谁告诉你的※“朴智星,家里的长辈担心我多想,所以一直瞒着我。”\n\n    苗淼忧伤地转过了头,看着车窗外蒙着一层夕阳金芒快速闪过的山林,心想今天的太阳落下去,明天终究会爬上来,可是自己的爱人呢？\n\n    南相美轻轻叹了一口气,斟酌",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "朴家苗家本是世交,当年一同在s3打熬出家业,又一同迁回si,两家便按着旧时规矩指了亲,虽不是像七大家这种恐怖家族,但终究也是些根基,朴志镐本也没指望自己能够自由恋爱,再加上苗淼这女孩子温顺可人,他的心思大部分都放在前途上,两个人相处的倒也不错。\n\n    虎山道那件惨案发生之后,苗淼身为朴志镐的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "个替罪羊。”苗痕地脸上露出一丝凄楚不苦的神色志镐得罪了联邦里地大人物,所以被害。”\n\n    南相美安静地看着她的眉眼,确认这位好友并不是心伤未婚夫之死而开始胡乱开口,偏着头想了片刻后说道:“谁告诉你的※“朴智星,家里的长辈担心我多想,所以一直瞒着我。”\n\n    苗淼忧伤地转过了头,看着车窗外蒙着",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

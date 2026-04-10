@@ -1,0 +1,37 @@
+{
+  "novel": "间客",
+  "chapter_number": 563,
+  "chapter_title": "第一章。不过放心，后面两章正在写，只是可能会更的晚些。再就是，由于时间紧张，所以只是粗略地看了一遍，修改了一点，如果错别字多了些，大家请多见谅口小＿说txt天'...",
+  "filename": "ch_0563_第一章。不过放心，后面两章正在写，只是可能会更的晚些。再就是，由于时间紧张，所以只是粗略地看了一遍，修改了一点，如果错别字多了些，大家请多见谅口小＿说txt天'....txt",
+  "char_count": 93,
+  "timestamp": "2026-04-10T12:05:08.541272",
+  "techniques_count": 2,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "第一章。不过放心，后面两章正在写，只是可能会更的晚些。再就是，由于时间紧张，所以只是粗略地看了一遍，修改了一点，如果错别字多了些，大家请多见谅口小＿说txt天'堂\n\n\n\n第三卷西林的征途",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "写，只是可能会更的晚些。再就是，由于时间紧张，所以只是粗略地看了一遍，修改了一点，如果错别字多了些，大家请多见谅口小＿说txt天'堂\n\n\n\n第三卷西林的征途",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

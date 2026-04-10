@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 316,
+  "chapter_title": "第三章西林的征途 第四章 审判开始",
+  "filename": "ch_0316_第三章西林的征途 第四章 审判开始.txt",
+  "char_count": 4541,
+  "timestamp": "2026-04-10T12:04:59.207309",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "参谋长联席会议的成员也全员到齐，第二、第三军区的司令员肃穆地坐在迈尔斯上将的下手方，就连远在西林前线紧张备战的钟司令和最近半年一直驻守在晚蝎星云地联邦舰队总司令洪予良，也通过视频远程联线的方式，参加了这个会议。\n\n    今天的总统官邸作战指挥室，之所以云集了联邦如此多的重要人物，是因为他们今天要听",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "意思，眉头微皱说道：“以前曾经和你见过。如果你没有意见，在这几份法律文书上签字。”\n\n    被联邦秘密关押了近五个月的时间，一直没有审讯，然而就在这些天里，他从狐狸堡垒转移到了地面的军事监狱，国防部派来了法务官员，忽然间似乎一切都开始运转了起来。许乐有些反应不过来，他眯着眼睛看着桌上的几份法律文件",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，当萧文静及另外两个坚持暗中调查的检查官，被联邦调查局以那个无耻的罪名逮捕之后，她对联邦政府以至军方第一次产生了失望的情绪。\n\n    然而联邦上层的大人物们与那位麦德林议员达成了妥协，她这个下层军官又能做什么？所以当一月份她听到了麦德林遇刺身亡的爆炸性新闻时，不免感叹天道循环，报应不爽……",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "答案，却始终找不出一个自己应该活下来地理由。\n\n    这是因为他怎么也想不到，跨越千山万水，枪林弹雨，一笔戮死的麦德林议员，竟有一个隐藏了数十年的可怕身份！\n\n    关于这一点，宪章局地下的联邦中央电脑，严格地遵循了宪章规定以及权限等级，没有让他知道丝毫。\n\n    正是因为麦德林议员的真实身份",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "己的名字。\n\n    徐子平静地看着他，直到他签上了名字，才稍微松了一口气，站起身来说道：“案件已经进入程序，后天我再过来一趟。”\n\n    “谢谢。”许乐很认真地回答道，说道：“我能问几个问题吗？”\n\n    “可以，但除了法律程序上的事情，我可能无法帮助你。”徐子依然保持着专业而严肃的神情，但眼",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "数据库内的庞杂数据存档，依然花了近五个月的时间，才将这个案件完全调查清楚。\n\n    这个案件从某种意义上来说，曾经险些给联邦带来不可挽回的严重伤害，而对这案件的调查报告，在某种程度上，也将决定联邦对待帝国地战略态度。\n\n    长形会议桌的正前方，面色黝黑地帕布尔总统，正认真地阅读着手中的调查报告",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的会客室里，看到这张陌生中带着几丝记忆的清丽面容时，总觉得时光像是转回了一年之前，就像这一年中那么多愤怒伤心郁闷激昂血腥的故事都没有生过一般，前往地检署的街道两旁的树木还在轻呼着春天到来。\n\n    国防部内务处法律署军官徐松子，平静冷漠地坐在桌子的对面。她从从厚厚的文件袋里取出几份文件，顺着桌子光",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "松子，平静冷漠地坐在桌子的对面。她从从厚厚的文件袋里取出几份文件，顺着桌子光滑的表面推到许乐的身前，说道：“许乐，我代表国防部通知你，因为涉嫌68011１8案件，你在总装基地的所有权限已经被解除，国防部委派我作为你的应讯法律顾问。”\n\n    “我叫徐松子。”徐松子看着桌子对面许乐手腕上的手铐，没有",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "“不能。”徐松子干脆利落地回答道，然后开始收拾桌面上地文件。\n\n    许乐注意到了她的眼睛在低头的瞬间快速地眨了眨，心情顿时为之一松，在有监控的情况下，徐松子法务官自然无法告诉许乐他想知道的事情，比如施清海在哪里，但她至少可以告诉许乐某个人是不是还活着，事实上他最关心地便是这点。\n\n    目送着",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "麦德林确实已经死了，但他所引的问题还在继续。\n\n    “先前那份麦德林与帝国那位私下见面的录像，大家已经看过了。”崔聚冬看了一眼沉默的联邦大人物们，认真说道：“基本的脉络已经梳理清楚，在这里，我向大家做一个汇报。”\n\n    “在联邦与帝国的第一次突击战之后，帝国方面为了突破宪章光辉的封锁，构织",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "帕布尔总统没有抬头，只是挥了挥手，示意他继续。一直沉默坐在总统先生右手边的宪章局邰局长，缓缓睁开自己的双眼，看了崔聚冬一眼，然后松开了按在拐杖上的苍老手指，轻轻地无声敲打着光滑的木头。\n\n    看到这个动作，不知道为什么，崔聚冬觉得自己的心情平静了许多，将光幕上的图片又换了一张，沉声解",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

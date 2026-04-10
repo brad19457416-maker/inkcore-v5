@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 282,
+  "chapter_title": "第八十八章 入魔（十三）",
+  "filename": "ch_0282_第八十八章 入魔（十三）.txt",
+  "char_count": 4383,
+  "timestamp": "2026-04-10T12:11:21.737923",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "甚至散发着满足的幸福感，这究竟是怎样做到的？\n　　……\n　　……\n　　粗糙的手指缓缓抚摩石台，兽皮在风中轻轻颤动，站在万丈深渊之前，看着眼前那些纵横相贯的巨大石梁，唐回忆着老师当年叙述中的圣地模样，与眼前这片因为宏伟愈发显得荒凉的世界相对应，久久沉默不语。\n　　他缓步走到崖畔，看着黑暗的无尽深渊，默",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "改变所有的一切吗？近二十年来，谋士跟随自己的大人在诸方之间摇摆求存，看似织了一张极密的网，然而这张网最终却是缚住了自身，渐渐令自己艰于呼吸，想到这一点，他忍不住在心中黯然叹息了一声。\n　　中年男子平静看着湖对岸的远处，再次想起自己逝去的老师。\n　　这些年来，出身明宗的他为了保住自己，更为了保住隐藏在",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "有天地元气正在向房间里渗透，只不过我也需要时间来适应身体里这道全新的气息。”\n　　老僧慨叹说道：“原来到了此时，你我还是在耗时间。”\n　　宁缺平静说道：“时间，对大家都很公平。”\n　　老僧微笑说道：“我的时间到了。”\n　　宁缺说道：“我的时间也恰好到了。”\n　　话音落处，老僧缓缓举起枯瘦的双臂，丝丝",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "“苍天可曾饶过谁？”\n　　宁缺沉默，双手缓缓握紧刀柄，似乎准备向冥冥中的宿命砍上一刀。\n　　然后昏暗寂静的房间里响起他的回答。\n　　“人要胜天，何须天来饶？”\n　　……\n　　……\n　　这句平淡而骄傲的回答让莲生大师微微动容，他静静看着宁缺，忽然说道：“修行者身前一尺之地，必然是自己的世界。”\n　　宁",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，不过看着这支商队给够的银子和货物份上，也没有人去理会他们。\n　　下属看着湖面上的积冰碎雪，低声犹豫说道：“天书真会在这里现世？”\n　　中年男子沉默片刻后说道：“天谕神座自南归来，便放出了天书在荒原现世的消息，想必是从观主那处得到了确认，听闻李青山也曾经在万雁塔上与黄杨共同算过，天书会出现在呼兰海畔",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "数十年前，轲浩然亲手布下的樊笼，直接把这个房间变成与世隔绝的世界，只要不亲自踏入，便能发现这个世界的存在，可如果你真的走进这个世界，却再也无法走出去，因为这个世界是他亲自送给莲生的地狱。\n　　“嘎嘎……呜呜……你居然学会了浩然剑！”\n　　房间中央森然白骨山上，莲生大师看着宁缺，咧开无牙的嘴像孩子般笑",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的话，因为除了我之外这个世界已经没有几个人知道离开山门的通道便在呼兰海。”\n　　那名谋士蹙眉问道：“为什么不进山门去寻找天书？纵使有多方势力关注，但有能力进到山门的人想来极少，伺机而动总比眼下被动等待的把握更大。”\n　　中年男子沉默看着遥远的北方某处，没有回答这个问题。\n　　当年轲先生没有拿走天书，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "全新的气息。”\n　　老僧慨叹说道：“原来到了此时，你我还是在耗时间。”\n　　宁缺平静说道：“时间，对大家都很公平。”\n　　老僧微笑说道：“我的时间到了。”\n　　宁缺说道：“我的时间也恰好到了。”\n　　话音落处，老僧缓缓举起枯瘦的双臂，丝丝缕缕的残破僧衣，在不知何处飘来的风中缓慢摆荡，随着这个简单的动",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "着，总比死了好。”\n　　老僧怔住了，然后癫狂地大笑起来，浊泪从苍老枯萎的眼角缓慢淌落，他用枯瘦的手指颤抖指着宁缺的脸，艰难地压抑住笑的欲望，喘息怨毒说道：“轲疯子入魔而死，而你又要走上他的老路，我真不知道书院是不是被上苍诅咒的地方，你们会一个接着一个被昊天所毁灭，这大概就是你们的命运。”\n　　他盯着",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "了天书在荒原现世的消息，想必是从观主那处得到了确认，听闻李青山也曾经在万雁塔上与黄杨共同算过，天书会出现在呼兰海畔，应该不会有错。”\n　　那名下属蹙着眉头，思忖片刻后说道：“大人，属下本不应该质疑，只是总觉得如果把希望尽数寄托在天谕神座所颁谕旨上，未免有些冒险。”\n　　稍一停顿后他轻声说道：“土阳城",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "李青山也曾经在万雁塔上与黄杨共同算过，天书会出现在呼兰海畔，应该不会有错。”\n　　那名下属蹙着眉头，思忖片刻后说道：“大人，属下本不应该质疑，只是总觉得如果把希望尽数寄托在天谕神座所颁谕旨上，未免有些冒险。”\n　　稍一停顿后他轻声说道：“土阳城那边总不能一直瞒着消息，若让朝廷知晓大人您擅离将军府……",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "还有残余浩然剑意，却已经无法阻止老僧与天地取得联系。\n　　此时魔宗山门外的块垒大阵感应到了天地元气的骤然波动，那些嶙峋石头上的青苔剑痕骤然泛起极耀眼的光芒，黑夜之下的雪峰映着星光，因为天地元气疾速向山门里灌入，带动着石间的郁结气息甚至带动着星光流转起来！\n　　新鲜的充满生机的天地气息，终于穿过残破的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "不堪言。\n　　而当年他的老师周游于天下诸方势力之间，却像是鱼儿游于湖水之中，惬意无比甚至散发着满足的幸福感，这究竟是怎样做到的？\n　　……\n　　……\n　　粗糙的手指缓缓抚摩石台，兽皮在风中轻轻颤动，站在万丈深渊之前，看着眼前那些纵横相贯的巨大石梁，唐回忆着老师当年叙述中的圣地模样，与眼前这片因为宏伟",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "走上他的老路，我真不知道书院是不是被上苍诅咒的地方，你们会一个接着一个被昊天所毁灭，这大概就是你们的命运。”\n　　他盯着宁缺的眼睛，喘息着说道：“你必须足够强大才能坚定地走在这条道路上，而你强大的速度越快，死的便越快，你不要奢望能够逃脱这种宿命。”\n　　老僧幽幽问道：“苍天可曾饶过谁？”\n　　宁缺沉",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "这名二十年来对自己忠心耿耿的谋士，想着那名同样忠诚却已然死亡的下属，轻抚鬓角花发缓声说道：“那些事情以后再做处理，眼下局面错综复杂，唯有拿得天书奢图再进一步方能破局，与之相较别的事情都是闲事。”\n　　他看着大湖对岸北方的莽莽山脉，面无表情说道：“我相信天谕神座的话，因为除了我之外这个世界已经没有几个",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "于湖水之中，惬意无比甚至散发着满足的幸福感，这究竟是怎样做到的？\n　　……\n　　……\n　　粗糙的手指缓缓抚摩石台，兽皮在风中轻轻颤动，站在万丈深渊之前，看着眼前那些纵横相贯的巨大石梁，唐回忆着老师当年叙述中的圣地模样，与眼前这片因为宏伟愈发显得荒凉的世界相对应，久久沉默不语。\n　　他缓步走到崖畔，看",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

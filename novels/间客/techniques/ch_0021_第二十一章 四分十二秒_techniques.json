@@ -1,0 +1,76 @@
+{
+  "novel": "间客",
+  "chapter_number": 21,
+  "chapter_title": "第二十一章 四分十二秒",
+  "filename": "ch_0021_第二十一章 四分十二秒.txt",
+  "char_count": 2245,
+  "timestamp": "2026-04-10T11:53:11.028857",
+  "techniques_count": 5,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "刚才活生生打昏了一个特种兵？腥臭的风扑打在他的脸上，丝毫不能令人清醒，许乐根本无法相信先前的那一幕，为什么自己的身体像是有一种本能似的摆出那样一个姿式，而且那个姿式刚刚好锲进了那名特种兵的攻击范围之内？\n\n    就像是芯片与底座一样，先前许乐本能里一伸手，却恰好躲过了对方的攻击，干脆利落地击打在对",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "里却依然是一片混沌，根本不清楚究竟发生了什么事情。\n\n    自己刚才活生生打昏了一个特种兵？腥臭的风扑打在他的脸上，丝毫不能令人清醒，许乐根本无法相信先前的那一幕，为什么自己的身体像是有一种本能似的摆出那样一个姿式，而且那个姿式刚刚好锲进了那名特种兵的攻击范围之内？\n\n    就像是芯片与底座一样",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "蹈会不会是军中的某种搏击技巧，今天算是得到了某一种程度上的证明，可是……自己只不过学了四年，就能如此轻松地击倒一名特种兵，这套动作会这样简单？\n\n    在下水道的平台上奔跑，脚尖踏中了一滩脏水，啪的轻响把许乐从这种茫然的情绪中揪了出来。事实已经发生了，不需要再去多加思考，他这时候必须要做的事情，则",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "去。\n\n    狂奔中的许乐一身冷汗，那些被打出来的伤口疼痛没有影响他的速度，然而他的脑子里却依然是一片混沌，根本不清楚究竟发生了什么事情。\n\n    自己刚才活生生打昏了一个特种兵？腥臭的风扑打在他的脸上，丝毫不能令人清醒，许乐根本无法相信先前的那一幕，为什么自己的身体像是有一种本能似的摆出那样一",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "需要……”莱克上校抬起手腕，皱着眉头看了一下时间：“四分十二秒。”\n\n    然后他对身边的特种兵们大声训斥道：“四分十二秒！找到他！找到机修师！”\n\n    吼完这句话，他取下了墨镜，回过头看着室内被挣成两截的塑料线和那名正被急救的特种兵，久久沉默不语。放走目标2也是备用计划中的一项，只是他还没有",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

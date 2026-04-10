@@ -1,0 +1,128 @@
+{
+  "novel": "间客",
+  "chapter_number": 562,
+  "chapter_title": "第二百零四章 东北偏北（四）",
+  "filename": "ch_0562_第二百零四章 东北偏北（四）.txt",
+  "char_count": 3544,
+  "timestamp": "2026-04-10T12:05:08.540554",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，那处凝结了亿万年的冰雪猛然炸开！\n\n    此地有暴风雪，然而冰雪忽然炸开激出的无数雪块碎砾，却将天空中的雪花全部荡了开去，一台雪白色的机甲，在没有任何人预见到的情况下，骤然从这暴散的雪团中轰鸣射出！\n\n    白色的t机甲，如同一位冰雪巨人，挟着身周的风雪，以一种令人震惊的速度，冲下了陡啃的雪坡",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "高大的联邦机甲震飞，那台机甲的炮火，轻而易举地撕碎坚硬的立体防弹盾，保护自己生命的防弹盾瞬间变成一朵危险的金属花，向四面八方炸开，手掌大小的锋利金属碎片将很多战友的身体削成凄惨的肉团，而他们的反击却显得那样虚弱无力。\n\n    阵地上仓促组织起来的火力反击毫无效果，普通的枪械子弹根本无法击中高速移动",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "正在沉默拼杀的双方数百名战士，看到了一个令他们难以忘怀的画面。\n\n    低沉而强劲的双引擎嗡鸣声，瞬间从冰川上方传来，雪原四周骤然响起擂鼓一般的沉重声响，那处凝结了亿万年的冰雪猛然炸开！\n\n    此地有暴风雪，然而冰雪忽然炸开激出的无数雪块碎砾，却将天空中的雪花全部荡了开去，一台雪白色的机甲，在",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "么事情。\n\n    当他们反应过来时，白色机甲已经冲锋到了战区边缘第二个本国阵地处。青龙山数十名战士狂喜地大吼着，抓着手中弹药也已经不多的枪械，深一脚浅一脚地踩着厚雪，向著那边冲了过去。\n\n    帝国的军人们也呆住了，怔怔地望著这一幕，眼睁睁看荐白色“灯轻而易举地消灭掉了自己一吓，阵地，然后又毫不",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "双方战士怔然望着那台如天神降临的机甲，终于做出了反应，尖叫着，用彼此语言骂着风格不同的脏话，拼命地向自己的阵地撤去。\n\n    白色t骤然开火，机身微微一震，并没有减缓速度，机械臂上的六道枪火轰啸而出，绞成一道亮丽的火线，凶猛地射击到了本国人的阵地之上。\n\n    迸！迸！迸！迸！",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "大吼着，抓着手中弹药也已经不多的枪械，深一脚浅一脚地踩着厚雪，向著那边冲了过去。\n\n    帝国的军人们也呆住了，怔怔地望著这一幕，眼睁睁看荐白色“灯轻而易举地消灭掉了自己一吓，阵地，然后又毫不犹豫地向着第二个阵地冲去。fo\n\n    他们看着战友们的身体被高大的联邦机甲震飞，那台机甲的炮火，轻而易",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "边缘的那处帝国阵地化为一片火海。\n\n    也许是许乐操控的白色”灯如天神般降临找场，向双方宣告自己来到的方式过于嚣张，所以在此钊，没有多少人注意到，还有一台雪白色的联邦机甲，一直沉默跟随着它右后方一千五百米左右的距离。\n\n    白玉兰操控的机甲为了跟上许乐的速度，从冰川腰际线上开始突击时，便提前",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "难以忘怀的画面。\n\n    低沉而强劲的双引擎嗡鸣声，瞬间从冰川上方传来，雪原四周骤然响起擂鼓一般的沉重声响，那处凝结了亿万年的冰雪猛然炸开！\n\n    此地有暴风雪，然而冰雪忽然炸开激出的无数雪块碎砾，却将天空中的雪花全部荡了开去，一台雪白色的机甲，在没有任何人预见到的情况下，骤然从这暴散的雪团中",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "冰川腰际线上的两台白色机甲中，光幕上清晰捕捉荐战斗的画面。这些画面，让许乐四人心寒帝国人临死疯狂的同时，对这支了不起的青龙山部队生出无尽敬意，正因如此，他们没有时间再去思考更完美的方案，而是选择了最直接的双线突击战术。\n\n    于是就在下一刻，雪原战区外围正在沉默拼杀的双方数百名战士，看到了一个",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

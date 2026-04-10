@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1019,
+  "chapter_title": "第二十八章 开赌，摆人头（下）",
+  "filename": "ch_1019_第二十八章 开赌，摆人头（下）.txt",
+  "char_count": 3708,
+  "timestamp": "2026-04-10T12:11:34.925608",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "此，当初我哪里会让你进书院？”\n　　听着这话，由贤沉默了很长时间，忽然掀起帘布，指向风雨里那片灰暗的天空，说道：“父亲，人这辈子其实就和这片天一样，谁也说不准会遇到什么天气，但我想的明白，总是要遇事儿的，那便要做大事儿，这次朝廷和神殿之间的事儿，往前看一千年，也是最大的一件事……”\n　　他收回手，指",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "头留在桃山上，再也没有回到长安城的可能。\n　　正如老爷子悲伤不解的那样，很多人都想不明白，朝廷和书院为什么要派他们去西陵神殿，谈判只在刀锋之间，在疆场之上，这种行为看上去完全是多此一举。\n　　车轮碾压青石板，发出喀吱的声音，马车缓缓向城外驶去，陈七和由贤不再说话，沉默异常。\n　　能不能回到长安，不是",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "不能落在纸上，不能传诸于口，要听到那句话的人在桃山深处，便是书院大先生都看不到她。\n　　所以哪怕前途危险，极有可能死亡，由贤和陈七依然义无反顾地坐上马车，开始了自己的旅途。\n　　……\n　　……\n　　当由贤和陈七的马车在秋雨里驶出城门的时候，那个要他们传话的某人，正在皇宫御书房里，看着眼前如帘般的雨丝",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "第二十八章 开赌，摆人头（下）\n　　车厢在秋风里微微颤抖，窗缝里传出呼呼的声音，雨点从风里飘了过来，很短的时间便湿了青帘，车里的那盏油灯忽明忽暗，看着随时可能熄灭，灯光照耀下，由贤的脸色显得有些苍白，但那不是因为畏惧，而是因为坐在对面的父亲的脸比他的还",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "门能够影响到酒徒。”\n　　李渔说道：“如果不能呢？”\n　　“幸运的是，酒徒和屠夫这样的人，从来不做无意义的事情，包括无意义的杀戮，他们当昊天的狗，执行的便必然是昊天的意志，而解释昊天意志的人在桃山。”\n　　“你说的是观主。”\n　　“不错。”\n　　李渔转而说道：“由贤和陈七去了清河，诸阀会和他们谈吗？",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "宁缺想着先前在窗口看到的那幕画面，那名穿着明黄衣衫的少年天子脸上流露出来的畏惧和不喜神情，难以抑止地自嘲笑了起来，说道：“我终究不是大师兄那样的人。”\n　　李渔说道：“你可以成为那样的人。”\n　　宁缺神情坚定说道：“我不要成为大师兄那样的人……因为那只是好人，却不是能与整个世界对话的人。”\n　　“与",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "院不在世外，自然要关心这些事情，宁缺信任李渔的治国能力，所以要从她这里得到准话。\n　　“以前便推演过无数次，如果书院不能解决酒徒，那么不要说胜利，这场战争根本没有办法开始。”\n　　李渔静静看着他说道：“你到底有没有办法。”\n　　宁缺沉默片刻后说道：“还需要一些时间。”\n　　李渔说道：“这便是问题。”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "都在证明他的决心和意志。\n　　就在这样的局势下，由贤和陈七的马车驶出了青峡，驶过烟雨凄美的小桥流水，来到了清河郡。\n　　数百具强弩瞄准了这辆马车，数十名洞玄境的修行强者，在街道侧方的小巷里沉默待命。\n　　清河郡诸阀的大人物们，这时候都不在富春江畔的庄园里，而是在阳州最大的那间酒楼里。\n　　只要他们一",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "判只在刀锋之间，在疆场之上，这种行为看上去完全是多此一举。\n　　车轮碾压青石板，发出喀吱的声音，马车缓缓向城外驶去，陈七和由贤不再说话，沉默异常。\n　　能不能回到长安，不是重要的事情――那不是他们的任务，他们此行西陵，除了沿途宣扬某人的冷血，用言语展示那数千颗人头，真正的任务是要替某人给桃山上的某人",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "宁缺说道：“我杀的人越多，清河诸姓便越想和我谈，就算不谈，至少也会请他们吃顿饭。”\n　　李渔有些忧虑，看着他轻声说道：“但你杀的人越多，名声也越……即便是唐人也很难接受这样的杀戮。”\n　　宁缺想着先前在窗口看到的那幕画面，那名穿着明黄衣衫的少年天子脸上流露出来的畏惧和不喜神情，难以抑止地自嘲笑了",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "初我哪里会让你进书院？”\n　　听着这话，由贤沉默了很长时间，忽然掀起帘布，指向风雨里那片灰暗的天空，说道：“父亲，人这辈子其实就和这片天一样，谁也说不准会遇到什么天气，但我想的明白，总是要遇事儿的，那便要做大事儿，这次朝廷和神殿之间的事儿，往前看一千年，也是最大的一件事……”\n　　他收回手，指着自己",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "只能希望道门能够影响到酒徒。”\n　　李渔说道：“如果不能呢？”\n　　“幸运的是，酒徒和屠夫这样的人，从来不做无意义的事情，包括无意义的杀戮，他们当昊天的狗，执行的便必然是昊天的意志，而解释昊天意志的人在桃山。”\n　　“你说的是观主。”\n　　“不错。”\n　　李渔转而说道：“由贤和陈七去了清河，诸阀会和",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "起来，甚至要比门外的秋雨更要寒冷，她走到宁缺身旁，推开窗户，任由风雨飘入，仿佛觉得这样还能得到更多的温暖。\n　　秋雨在御花园里不停落下，金花色的菊花依然夺目，仿佛在燃烧，但在不起眼的角落里，有很多残枝落叶，湿漉的泥土半掩着将要腐烂的果子，如头颅一般。\n　　整个唐国笼罩在寒冷的秋雨里，道旁的枯树就像树",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

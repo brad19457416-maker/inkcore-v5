@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 979,
+  "chapter_title": "第一百五十二章 修佛（二）",
+  "filename": "ch_0979_第一百五十二章 修佛（二）.txt",
+  "char_count": 3329,
+  "timestamp": "2026-04-10T12:11:27.626119",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "禁制，便是青狮也无法逾越，但它的鬃毛没有生命，反而能够发起远程攻击。\n　　青狮鬃毛瞬间来到山崖上，如雨落下，只闻密集的撞击声响起，无数碎石四处溅射，每道鬃毛仿佛就是一根无坚不摧的长矛！\n　　有三根鬃毛化成的长矛，狠狠地扎在桑桑身体上，宁缺神情骤凛，就地翻滚滚到她身旁，撑开大黑伞，把伞柄用力插进崖面。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "宁缺说道：“哪有这么多问题，老实听你家男人的话就好，我是谁？我是这个故事的男主角，你是女主角，危险时，男主角当然要站到女主角身前，替她排忧解难，最后两个人才能过上幸福的生活。”\n　　“幸福的生活吗？我有些累了，先睡会儿。”桑桑说道。\n　　宁缺觉得她的声音有些甜，仿佛喝了糖水，于是他也觉得因为干",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，但能看见他在做什么，脸上的神情渐渐变得严峻起来。\n　　尤其是最前方那头数百丈高的雄骏青狮，显得格外愤怒，又有些不安，对着黑暗的天穹不停发出暴戾的怒啸，不停摆动着头颅，青狮颈间的鬃毛泛着佛光，深密如林，随着愤怒摆首，纷纷竖起，看上去就像无数把剑。\n　　宁缺这时候正拄着铁刀休息，看着远处青狮的变化，先",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "扳飞一块西瓜大的石头，抹掉额头上的汗水，说道：“你对书院有成见……谁说我们不会建设，我们能修长安城，难道还不能修个佛像出来？”\n　　桑桑说道：“你连柳枝都编不好，还想雕出像样的东西？”\n　　宁缺说道：“先前就对你说过，这件事情我早就想好了，在河那边就想好了，我不是拿红杉树修了只船？这就是练手。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第一百五十二章 修佛（二）\n　　佛经里曾经说过，塑画佛像是大不敬的行为，但事实上，人间无数古刹旧庙里都有佛像，墙上都有壁画，烂柯寺后瓦山顶的石佛像直入云霄，佛祖死后的身躯化作般若巨峰，亦是佛像之一种，包括这棋盘里的极乐世界，亦有无数佛像，反而真正统治这个世界的道门，却一直没有替昊天立像",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "色池塘是佛祖留下的禁制，便是青狮也无法逾越，但它的鬃毛没有生命，反而能够发起远程攻击。\n　　青狮鬃毛瞬间来到山崖上，如雨落下，只闻密集的撞击声响起，无数碎石四处溅射，每道鬃毛仿佛就是一根无坚不摧的长矛！\n　　有三根鬃毛化成的长矛，狠狠地扎在桑桑身体上，宁缺神情骤凛，就地翻滚滚到她身旁，撑开大黑伞，把",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "明白，宁缺就算把这座佛山重新整修一遍，对当前的局面又能有什么改变。\n　　宁缺拿着铁刀不停地砍着崖石，说道：“我和你解释不清楚，等修到最后你就明白了，所谓修佛就是修佛。”\n　　修佛就是修佛，两个修自然不是一个意思。桑桑说道：“就算如此，你会修吗？书院只会破坏，什么时候会建设？”\n　　瓦山上的佛祖像被君",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "了碎片！\n　　恐怖的湍流与呼啸声里，青狮的颈间那些泛着佛光的鬃毛激射而出，变成数百道黑影，破云而飞，来到山前！\n　　山外的数千金色池塘是佛祖留下的禁制，便是青狮也无法逾越，但它的鬃毛没有生命，反而能够发起远程攻击。\n　　青狮鬃毛瞬间来到山崖上，如雨落下，只闻密集的撞击声响起，无数碎石四处溅射，每道鬃",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "是这个故事的男主角，你是女主角，危险时，男主角当然要站到女主角身前，替她排忧解难，最后两个人才能过上幸福的生活。”\n　　“幸福的生活吗？我有些累了，先睡会儿。”桑桑说道。\n　　宁缺觉得她的声音有些甜，仿佛喝了糖水，于是他也觉得因为干渴而生辣的咽喉也顿时甘甜起来，很是开心。\n　　桑桑开始睡觉，一睡便睡",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 335,
+  "chapter_title": "第十九章 重新出发",
+  "filename": "ch_0335_第十九章 重新出发.txt",
+  "char_count": 5910,
+  "timestamp": "2026-04-10T12:04:59.239301",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第十九章 重新出发 \n\n    年在西林大区与百慕大交界处的偏远矿星，白水公司执行某项秘密任务时，白玉兰被一块飞溅的硬纤弹片击中胸膛，肋骨被生生削了一道大口，血流如注。但受了如此重的伤，白玉兰却是一声不吭，眉尖都不皱一丝，带着第七小组的战斗人员牢牢地保持着半圆防御阵形，依靠着联邦先进的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "如黑污之泥。东林大区那个荒芜的世界，也拥有豪奢到极点的夜总会，这个联邦中心地都市里，也不止有林园、流风坡会所这种地方，还有街畔的小餐馆。\n\n    准确计算起来，许乐出狱还不到二十四个小时，他却已经做了很多事，拿到了总统地特赦令，签了联邦军方的卖身契，还去捅了某人后背一刀。此刻他坐在椅上大口地捞着锅",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "之源忽然开口说道。\n\n    许乐很了解对面这个年轻男人的能力，知道他所说的大动作，那绝对不是小事，瞬间内，热闹嘈杂的小餐馆似乎变得安静了起来，他认真地抬起了头。\n\n    “准确来说是帕布尔总统先生，这个大动作与青龙山有关。”\n\n    “要开战？”许乐忧心忡忡地问道，自从知道麦德林的真实身份之后",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "个小手术。他安静地平躺在病床上，示意身旁的兰晓龙替自己关闭了自动电子麻醉泵，皱了皱眉头，用沙哑的声音说道：“帮我点根烟。”\n\n    刚刚流了这么多血，动了手术的重伤员，醒来后第一句话便是要抽烟，病房里沉默的众人却没有什么震惊的表示，对于屋内的这些人来说，受伤本来就是家常便饭，只是众人都觉得老白今天",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "“如果谈判成功，军真的愿意被收编，大概也会调出一支部队前往西林表明自己的态度，当然，这主要是象征意义比较大。帕布尔总统的诚意十足，第二军区的主力部队已经撤离，我所属地部队要被调到西林去轮战。”邰之源淡淡说道：“我明天就要走了。”\n\n    “一路保重。”许乐轻声说道：“也许将来再见的时候，我们都",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "生略有迷茫，但自逃离东林后最大的忌惮与恐惧却消失了。联邦逃犯的身份，秘密的把柄反正已经被人捉住了，再紧张沉默自持已是多余。\n\n    就像一个陈年的伤疤总是在麻痒，一朝被猛然揭去，固然是有些痛，却也格外痛快。\n\n    更何况联邦军神似乎变成了他的远亲，不再需要时刻担心自己的逃犯身份，叫许乐这开朗的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "骨被生生削了一道大口，血流如注。但受了如此重的伤，白玉兰却是一声不吭，眉尖都不皱一丝，带着第七小组的战斗人员牢牢地保持着半圆防御阵形，依靠着联邦先进的武器与悍勇的决心，成功地坚持到了后援力量的到来。\n\n    整整十六分钟，穿着全身隔离装备的白玉兰站在自行装甲车后，一步未退，一直坚持到宽翼太空战机滑",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "遮在面上的沉默却渐渐消失，胸中块垒化为锐利之石。\n\n    一往无前自然不是一望无前的缘故，虽然对于将来的人生略有迷茫，但自逃离东林后最大的忌惮与恐惧却消失了。联邦逃犯的身份，秘密的把柄反正已经被人捉住了，再紧张沉默自持已是多余。\n\n    就像一个陈年的伤疤总是在麻痒，一朝被猛然揭去，固然是有些痛",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "他们心中的怒火猛然爆，心中的冷杀之意扬起到了一个不可遏制的程度，即便兰晓龙的严厉压制，也控制不下来，最终让他们稍微冷静一些的缘由，还是白玉兰说的那句话。\n\n    那个人是许乐。\n\n    ……\n\n    ……\n\n    刀尖伤及肺叶，看似伤的极重，但对于白玉兰这种铁血军人出身的人物来说，先前只不过",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "帮我点根烟。”\n\n    刚刚流了这么多血，动了手术的重伤员，醒来后第一句话便是要抽烟，病房里沉默的众人却没有什么震惊的表示，对于屋内的这些人来说，受伤本来就是家常便饭，只是众人都觉得老白今天被捅的这一刀有些说不出的感觉。\n\n    更怪异的是，屋内这些人都很清楚，白玉兰从前年秋天那次实验失败，被送",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "种事情终究也掩盖不了太久。”\n\n    兰晓龙笑了笑，正准备说些什么的时候，手里的电话却响了起来。他走出门去，躺在病床上的白玉兰扔下了手中的烟头，沉默片刻后轻声说道：“可惜了，可惜了。”\n\n    “可惜什么？”一名军官问道。\n\n    “可惜第七小组就这么散了，少了一个跟着注定会最生猛的家伙，去前",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "秘书。”白玉兰轻声细语说道：“可惜以后再也没这种搭配了。”\n\n    屋内地熊临泉、刘佼还有其余几人同时陷入了沉默。联邦军方是一个讲究实力。敬佩强地地方。白玉兰作为第七小组地战斗主管。联邦军方曾经最优秀地军人。对于许乐给出了那般高地评价。自然让他们也十分相信。只是他们不清楚。明明老白很喜欢那个年轻人",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "朝被猛然揭去，固然是有些痛，却也格外痛快。\n\n    更何况联邦军神似乎变成了他的远亲，不再需要时刻担心自己的逃犯身份，叫许乐这开朗的年轻人如何不阳光？\n\n    他的眼睛笑眯眯地就像是天上的双月，说道：“管那么多做什么？国防部顶多就是把我派到前线去当炮灰兵，如果能多杀几个帝国人，倒也不算太亏。要知",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "“想必政府不会省得让你这个机甲天才去当炮灰。”\n\n    邰之源微嘲看着面前双眼微眯的许乐，心头也温暖了少许。整件事情里还有很多内情没有摸清楚，李匹夫出山的理由是什么？母亲为什么要让他死？他又为什么活着？因为这些，许乐的笑脸此时竟显得有些神秘，但作为朋友，他并不想去探究神秘的下面是什么。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "忠的麦德林青年军，但政府开始与青龙山谈判，震惊的新闻掩盖了太多的情绪，此刻帕布尔总统与政府得到了全体社会的真诚支持，纵有些游行示威，也掀不起什么波澜。\n\n    帕布尔总统重启麦德林专案的时机非常完美，充分地展现了自己越来越纯熟的政治手腕和明智的政治智慧。\n\n    联邦开始向死去的麦德林身上涂抹污",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "那个年轻人。为什么今天却生了这么一遭事情。老白也根本没有还手。究竟生了什么？\n\n    “许乐这个人性格好。待人亲厚。实力强大。加上又有国防部地背景。我本以为第七小组要跟着他。是最好地选择。”白玉兰弹掉烟灰。轻声说道：“可惜看来军区里肯定不会放你们回来。他想必对我也失望地厉害。这个小组终究是要散了。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "刀尖伤及肺叶，看似伤的极重，但对于白玉兰这种铁血军人出身的人物来说，先前只不过动了一个小手术。他安静地平躺在病床上，示意身旁的兰晓龙替自己关闭了自动电子麻醉泵，皱了皱眉头，用沙哑的声音说道：“帮我点根烟。”\n\n    刚刚流了这么多血，动了手术的重伤员，醒来后第一句话便是要抽烟，病房里沉默的众人",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

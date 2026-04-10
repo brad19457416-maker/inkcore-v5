@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 16,
+  "chapter_title": "第十六章 大人物的意志",
+  "filename": "ch_0016_第十六章 大人物的意志.txt",
+  "char_count": 2409,
+  "timestamp": "2026-04-10T11:53:11.025184",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "会议你代我出席。”\n\n    中年文官愣了愣，他如今的职位只是局长助理，如果按照宪章局一级命令层级的秘密会议，自己是没有资格代表宪章局发话的。但他习惯性地没有表示反对，更不会无畏地批评局长在这种情况下还只想着去打高尔夫，平静地回答道：“是，明白了。”\n\n    恭敬地目送着局长苍老却依然挺拔的身影消",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "响彻了整个宪章局，那些穿着黑色西装的工作人员诧异地抬起头来，注视着大楼里各个方向的晶屏。除了上次帝国突然袭击之外，宪章局很久没有发出过一级命令了，究竟出了什么事？\n\n    警报声中，中央电脑光幕的画面再次开始闪动，这篇论文的打印件以及它对论文的分析，已经直接出现在了宪章局局长的办公桌上。已经震惊了",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "愤怒起来。\n\n    通过便携通讯设备，在第一时间内通知了总统办公室和国防部，中年文官向前走了几步，来到了局长的身后，低声说道：“会议定在下午两点钟。”\n\n    “我下午和人约好了打高尔夫。”局长挥了挥手，拄着拐杖继续前行，脚步都没有停顿一下，“宪章局把那个机修师找出来了，至于是国防部派军队去，还",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "了无比巨大的压力。如果让他们知道机修师余逢还活着，还好端端地活在东林区的某个街区里，只怕整个军方都会愤怒起来。\n\n    通过便携通讯设备，在第一时间内通知了总统办公室和国防部，中年文官向前走了几步，来到了局长的身后，低声说道：“会议定在下午两点钟。”\n\n    “我下午和人约好了打高尔夫。”局长挥",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "到早已知情的各个部门主官手中，然后平静说道：“中央电脑给出了一级指令，虽然是机器的分析，但想必也有些道理。事情虽然已经过去了十几年，但是联邦绝对不会允许任何一个犯罪分子逃脱法律的制裁，更何况余逢犯下的是叛国罪。”\n\n    一名国防部的上校阴沉着脸说道：“这是军队的耻辱，部长有交代，这件事情必须由国",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "？\n\n    警报声中，中央电脑光幕的画面再次开始闪动，这篇论文的打印件以及它对论文的分析，已经直接出现在了宪章局局长的办公桌上。已经震惊了整个宪章局的警铃，并没让这位老人的面容有丝毫的变化，他冷漠地看了一眼文件上面的内容，唇角微微翘了一下。\n\n    “消失了十二年，终于还是露出了尾巴。”宪章局局",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "身旁的文官，站起身来吩咐道：“通知总统办公室和国防部。”\n\n    文官是一位中年人，他从衣架上取下风衣，披在顶头上司的身上，心头微感震惊。响彻宪章局的警铃足以证明当前的事态被中央电脑判断为第一序列之事件，然而局长似乎并不怎么在意，可是如果真不在意……为什么又要通知总统办公室和国防部？\n\n    宪",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "员们惊愕的眼光中，联邦调查局的工作人员，封锁住了贮物库，将那名刚刚大学毕业不久的陈姓研究员请回调查，同时那份编号为ＡＷ3278的证物也被小心封存，而经手此事的副主任也无奈地上了黑色的汽车。\n\n    下午两点正，一个小型的会议在宪章局三楼召开。代表宪章局局长出席会议的中年文官将文件散发到早已知情的各",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "通过便携通讯设备，在第一时间内通知了总统办公室和国防部，中年文官向前走了几步，来到了局长的身后，低声说道：“会议定在下午两点钟。”\n\n    “我下午和人约好了打高尔夫。”局长挥了挥手，拄着拐杖继续前行，脚步都没有停顿一下，“宪章局把那个机修师找出来了，至于是国防部派军队去，还是总统派特勤局的特工去",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "身为宪章局局长，有足够的资格去俯看总统办公室的幕僚以及国防部里的官员，更何况老局长身后的家族就算在七大家里，也属于历史最悠久，最得民众尊重的那一家。\n\n    宪章局老局长在建筑后方坐上了电瓶车，他把拐杖扔给了秘书，回头看了一眼自己已经呆了很多年的建筑，心里忽然涌起一丝疑虑和不安。那个叫余逢的机修师",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "第十六章 大人物的意志 \n\n    嘀嘀，嘀嘀！……温柔却催促之意十足的警铃响彻了整个宪章局，那些穿着黑色西装的工作人员诧异地抬起头来，注视着大楼里各个方向的晶屏。除了上次帝国突然袭击之外，宪章局很久没有发出过一级命令了，究竟出了什么事？\n\n    警",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

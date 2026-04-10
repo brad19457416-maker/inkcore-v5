@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 150,
+  "chapter_title": "第一百五十章 登山",
+  "filename": "ch_0150_第一百五十章 登山.txt",
+  "char_count": 3408,
+  "timestamp": "2026-04-10T12:11:12.050244",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "楼里静修的神符大家并不如何了解，但在他看来，既然你是书院的学生，在这种时刻哪里有像兔子般畏畏缩缩藏在众人身后的道理？\n　　又有三名来自异国的年轻修行者在同伴的殷切目光下，勇敢地向书院后山走去。已经沉默了很长时间后书院学生群，终于变得有些躁动起来，很多人都忍不住把目光投向他们心中的精神领袖谢三公子。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "脸上渐渐浮现出一丝坚毅及解脱的神情，站起身来，深深地呼吸了一口空气，望向临川王颖和身边的同窗们，有力说道：“这是我们的书院，难道我们要最后上山吗？”\n　　王颖青涩的面容上浮现出开心的笑容，拱手说道：“谢兄，我跟你走。”\n　　书院诸生群情兴奋，开始轻声喝起彩起来，夹道相送术科六子集体登山。\n　　……",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "隆庆皇子一道登山，这也算是勇气。”宁缺看着山脚竹林说道。\n　　今日昊天作美，空气特别干净透亮，湛蓝的天空下是一片最清晰的世界，人们的视线可以延展到非常远的地方，甚至能够看清楚书院后方那座大山里的石径。\n　　越过靠近地平线建筑的那段视障区，留在书院里的人们看到已经有人走上了山道，当先之人正是那名年轻的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，他们每走一步都显得那般痛苦和吃力，像是在与整个天地抗争那般。\n　　那名来自月轮国的年轻僧人显得相对轻松一些，而斜斜山径上只有一个人感觉没有受到任何影响，他如常行走如履平地，好整以暇超过一个一个的同行者，双袖微摆负在身后，不像是在进行某项艰巨的挑战，而更像是在登山观风景。\n　　正是隆庆皇子。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "自月轮国大渡寺的游方僧人，提前做了申请，所以今日被允许入院。”\n　　李沛言微微一怔，想要说些什么，却最终还是闭上了嘴。\n　　和世间的想像不一样，书院二层楼开启时，从来不在意那些想上二层楼的是不是书院学生，书院方面欢迎或者一切挑战者，不分国籍不分流派。\n　　能够进入书院二层楼，便有机会面见夫子，得到夫",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "神符大家并不如何了解，但在他看来，既然你是书院的学生，在这种时刻哪里有像兔子般畏畏缩缩藏在众人身后的道理？\n　　又有三名来自异国的年轻修行者在同伴的殷切目光下，勇敢地向书院后山走去。已经沉默了很长时间后书院学生群，终于变得有些躁动起来，很多人都忍不住把目光投向他们心中的精神领袖谢三公子。\n　　谢承运",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "解脱的神情，站起身来，深深地呼吸了一口空气，望向临川王颖和身边的同窗们，有力说道：“这是我们的书院，难道我们要最后上山吗？”\n　　王颖青涩的面容上浮现出开心的笑容，拱手说道：“谢兄，我跟你走。”\n　　书院诸生群情兴奋，开始轻声喝起彩起来，夹道相送术科六子集体登山。\n　　……\n　　……\n　　书院诸生的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，结果才慢条斯理站起来，掸掸袖子提提裤子倒提把剑去摆姿式，以为是蹲茅坑啊？”\n　　褚由贤不知何时突然出现在宁缺身旁，吓了他一跳，然后紧接着宁缺便被这一长段刻薄的嘲弄逗的笑了起来，摇头笑道：“尖酸，太尖酸了些。”\n　　“过奖过奖。”褚由贤看着他眉开眼笑说道：“那天在得胜居，我没进去，但里面发生的事儿我",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "世间唯一修行正宗、昊天代言人的西陵神殿，自然不可能像那些国家宗派一般埋头偷笑而不在乎颜面，除了某个不为人知的翘家胖少年外，若干年来，没有一名来自西陵的年轻人尝试要进入二层楼，直至今日隆庆皇子来到了书院。\n　　……\n　　……\n　　不止亲王李沛言的神情有些难看，主持此次二层楼开启仪式的书院教授脸色也很难",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "除了某个不为人知的翘家胖少年外，若干年来，没有一名来自西陵的年轻人尝试要进入二层楼，直至今日隆庆皇子来到了书院。\n　　……\n　　……\n　　不止亲王李沛言的神情有些难看，主持此次二层楼开启仪式的书院教授脸色也很难看，对于本届书院学生的境界实力水平，这位躲在书院某间小楼里静修的神符大家并不如何了解，但在",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "娘了，结果才慢条斯理站起来，掸掸袖子提提裤子倒提把剑去摆姿式，以为是蹲茅坑啊？”\n　　褚由贤不知何时突然出现在宁缺身旁，吓了他一跳，然后紧接着宁缺便被这一长段刻薄的嘲弄逗的笑了起来，摇头笑道：“尖酸，太尖酸了些。”\n　　“过奖过奖。”褚由贤看着他眉开眼笑说道：“那天在得胜居，我没进去，但里面发生的事",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第一百五十章 登山\n　　亲王李沛言看着向书院后方走去的那名年轻僧人，眉头缓缓蹙了起来，面上现出不豫神情。今日书院二层楼开启，他代表皇室前来观礼，最重要的目的是为了保证那个协议能够不被干扰的实现，本就没有想着书院学生能够战胜隆庆皇子，然而这么长时间都没有大唐籍的书院学生勇敢",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

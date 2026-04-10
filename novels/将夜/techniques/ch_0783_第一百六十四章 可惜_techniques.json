@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 783,
+  "chapter_title": "第一百六十四章 可惜",
+  "filename": "ch_0783_第一百六十四章 可惜.txt",
+  "char_count": 2251,
+  "timestamp": "2026-04-10T12:11:27.152758",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "去。\n　　他和莫山山行走在街巷里，就像是远道而来欣赏长安的旅客，神情平静，但其实很清楚当前的局势非常危险。\n　　主动权直到现在，依然完全掌握在观主手中，当观主觉得惊神阵能够威胁到他时，可以轻身退走，宁缺却只能被动地等待。\n　　他在长安城里避着观主的目光，他感觉到观主已经越来越近，他需要得到帮助，幸运",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "走在这片大海里，借助大海的气息，隐匿着自已的位置。\n　　……\n　　……\n　　观主的身形再次显现，望向风雪中，他身上的青色道衣已经破损严重，甚至手臂上多了几道伤口，只是没有血流下。\n　　V字符出现的次数越来越多，惊神大阵的裂缝，渐渐要被缝补成形，最关键在于，那些隐在最深处的地方，先后有刀痕出现。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "“我听不明白，你是说……桑桑？”\n　　宁缺说道：“是的，桑桑。”\n　　“她是昊天的一部分，甚至从某种意义上来说，她就是昊天。这座城就是老师用来对付她的，结果我带着她来到了这座城市，我和她在这座城市里生活了很长一段时间，有意无意间，她已经做了很多事情。”\n　　莫山山很是震惊，声音微颤说道：“这……只是",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "订席面，无论开心或是不开心，她都很喜欢去陈锦记买脂粉，这些都是她经常去的地方。”\n　　莫山山不知道他为什么要说这些，联系到先前一路走来，一路斩断的残荷寒柳匾额老井旧墙，隐约明白了一些什么。\n　　“现在，我和她在这座城里留下的大多数痕迹，基本上都没有了。”宁缺看着前方那座青楼，说道：“只是有些可惜。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "第一百六十四章 可惜\n　　隔壁传来吴婶的叫喊声，还有吴老板压抑的训斥声。\n　　宁缺看着眼前的断井颓垣，神情莫名地笑了笑，带着莫山山转身离开老笔斋，走回临四十七巷，向着下一处地方去。\n　　他和莫山山行走在街巷里，就像是远道而来欣赏长安的旅客，神情平静，但其实很",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "显现，望向风雪中，他身上的青色道衣已经破损严重，甚至手臂上多了几道伤口，只是没有血流下。\n　　V字符出现的次数越来越多，惊神大阵的裂缝，渐渐要被缝补成形，最关键在于，那些隐在最深处的地方，先后有刀痕出现。\n　　看着老笔斋方向，观主流露出赞赏的神情，说道：“没想到你身在局中，竟能如此快猜到一切的源起，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "……\n　　宁缺踏雪寻落刀处，施施然而行，神态闲适，眼底深处却有些黯然，偶尔还会发几句与旧事相关的感慨。\n　　莫山山对战斗的所有认知，都是宁缺在荒原上教给她的，她知道他在战斗时是怎样冷酷冷静的人，所以她觉得他此时的表现有些奇怪。\n　　如此紧张的战斗过程里，任何触物生情，感慨沧桑，都是很没有道理的情",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "你们女婿要娶新媳妇儿了。”\n　　曾静夫人啐了一口。\n　　然后是一片安静，没有人有心思继续说笑话。厅内众人猜到宁缺为什么要专程来朝宅一趟，他现在在人间唯一的亲人就在这里。\n　　……\n　　……\n　　“我本以为自已找到了那个字，可惜现在才知道，还是没找到。但我已经看到了那个字，可惜我看不懂，所以写不出来。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "“她是昊天的一部分，甚至从某种意义上来说，她就是昊天。这座城就是老师用来对付她的，结果我带着她来到了这座城市，我和她在这座城市里生活了很长一段时间，有意无意间，她已经做了很多事情。”\n　　莫山山很是震惊，声音微颤说道：“这……只是猜测。”\n　　宁缺没有就这个问题继续探讨下去，看着前方那座青楼，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "竟能如此快猜到一切的源起，可惜晚了些。”\n　　……\n　　……\n　　宁缺踏雪寻落刀处，施施然而行，神态闲适，眼底深处却有些黯然，偶尔还会发几句与旧事相关的感慨。\n　　莫山山对战斗的所有认知，都是宁缺在荒原上教给她的，她知道他在战斗时是怎样冷酷冷静的人，所以她觉得他此时的表现有些奇怪。\n　　如此紧张的战",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "儿可能要先行一步了。”\n　　朝老太爷没有什么反应，坐在桌旁的曾静大学士夫妇却是顿时变了脸色，曾静夫人担心说道：“一切要小心些。”\n　　“岳父大人，岳母大人请放心。”\n　　宁缺长揖行礼，便带着莫山山离了朝宅。\n　　朝老太爷说道：“看来你们女婿要娶新媳妇儿了。”\n　　曾静夫人啐了一口。\n　　然后是一片安",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "成形，最关键在于，那些隐在最深处的地方，先后有刀痕出现。\n　　看着老笔斋方向，观主流露出赞赏的神情，说道：“没想到你身在局中，竟能如此快猜到一切的源起，可惜晚了些。”\n　　……\n　　……\n　　宁缺踏雪寻落刀处，施施然而行，神态闲适，眼底深处却有些黯然，偶尔还会发几句与旧事相关的感慨。\n　　莫山山对战",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

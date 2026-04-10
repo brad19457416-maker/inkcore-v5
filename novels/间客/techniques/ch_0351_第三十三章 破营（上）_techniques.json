@@ -1,0 +1,258 @@
+{
+  "novel": "间客",
+  "chapter_number": 351,
+  "chapter_title": "第三十三章 破营（上）",
+  "filename": "ch_0351_第三十三章 破营（上）.txt",
+  "char_count": 11394,
+  "timestamp": "2026-04-10T12:04:59.186173",
+  "techniques_count": 19,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "平衡，至少证明了联邦某些大的观念在做改变。\n\n    连夜将自己召来见面，当然不可能仅仅是聊一些联邦秘密数字或是家常，许乐心想今夜的谈话必将与mx机甲有关。\n\n    “这些受训军官与此次毕业日军演，实际上是大半年前正式确定mx机甲标准之后，参谋长联席会议便拟定好的方略。”邹部长平静地望着他，问道：",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "些大的观念在做改变。\n\n    连夜将自己召来见面，当然不可能仅仅是聊一些联邦秘密数字或是家常，许乐心想今夜的谈话必将与mx机甲有关。\n\n    “这些受训军官与此次毕业日军演，实际上是大半年前正式确定mx机甲标准之后，参谋长联席会议便拟定好的方略。”邹部长平静地望着他，问道：“你知道这次军演的真实",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "着邹部长脸上那一丝感慨与满足的神色，他才想到，面前这位将军一直负责联邦地后勤系统，数量惊人的机甲和强大地物资配送能力，应该凝结了对方一生的心血和最\n\n    傲。\n\n    打仗打的就是后勤，这个道理谁都明白。而联邦任命了一位后勤出身的将军为国防部长，不论这里面涉及多少莫愁后山的力荐和帕布尔总统的平",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "参谋们在忙碌的时候，许乐和那些军官学员们正在基地食堂里吃晚餐，经过了今天下午这场冷锋乍现的冲突，以十七机械师自居的第七小组成员，早已剥离了最初对许乐的怀与不安，在熊临泉的带领下，大呼小叫地坐到了他的桌子上。而其余的那些军官学员们，对小许教官的观感也生了根本性的变化，满脸笑容地坐在旁边地桌子",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "阶和权力的上升而有丝毫变化。\n\n    许乐坐了下来，看着面前地邹应星，忽然间想到一年前在银河公墓，第一次见到对方时的情形。他们本来应该绝不熟悉，却因为黑锅这种东西而变得熟稔起来。看着邹应星鬃角的白，许乐心中微感慨然，暗想邹部长在政府与莫愁后山之间，大概也要承受不小的压力。\n\n    “少卿师长有才",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "地来到了基地，军演已经结束，他们来做什么？\n\n    看着被一群军官陪伴着的邹部长和迈尔斯上将，场间众人不由感到了震惊与惑，心里面转过了无数念头。\n\n    尤其是正准备离开的杜少卿师长，握着手套和墨镜的手下意识里紧了紧，如剑般的双眉挑弄了一丝。两名军方大佬联袂前来，让他也感到了疑惑，尤其是迈尔斯上",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "谁能想到军演已经结束了好几个小时，国防部长和参谋长联席会议主席，这两名军方最顶尖的大佬却悄无声息地来到了基地，军演已经结束，他们来做什么？\n\n    看着被一群军官陪伴着的邹部长和迈尔斯上将，场间众人不由感到了震惊与惑，心里面转过了无数念头。\n\n    尤其是正准备离开的杜少卿师长，握着手套和墨镜",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "知道面前这人经常进出西山邹家，微笑着说道。\n\n    许乐微微一怔，不明白邹部长为什么要在军演之前的紧张时刻召见自己，难道他就不怕军方内部的猜测和议论？\n\n    ……\n\n    ……\n\n    “坐吧。”\n\n    作训基地地高层套之中，邹应星取下鼻梁上的眼镜，平静地对许乐挥挥手，示意他坐在床边地",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "好奇，虽然看过卡琪峰战斗的录像，但终究没有近距离观察过，尤其是先前许乐的强硬态度，让他的情绪已然阴沉愤怒到了极点，此时有这样一个机会，试着敲打折辱一下此人，用铁血般的事实教育此人，非常难得……\n\n    沉默地思考片刻，杜少卿沉声说道：“西门，好好打，不要给七师丢脸。”\n\n    他身后的侍卫官西门",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“当然，少卿你不能亲自出手，你那个特攻近卫营如果让你亲自指挥，那就是欺负人了。”迈尔斯上将望着杜少卿说道。\n\n    听到这句话，杜少卿的面色微霁，心情略好了些。\n\n    对于许乐这个传说中的机甲高手，他确实有些好奇，虽然看过卡琪峰战斗的录像，但终究没有近距离观察过，尤其是先前许乐的强硬态度，让他",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "此大的心力，备不多的晶矿资源，远程调来参战部队，任由这些军官学员们拿作手中的棋子。这些军官学员从某种意义上是联邦军队的将来，但将来的事情谁能说的准，也许未成将星便陨落在宇宙之中，又或许将来在战场上庸碌无为，所以军方虽然重视，但小心谨慎的没有把阵势弄的太大，今天亲临现场观看毕业日军演的最高级别将领，也",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "铁七师从来没有调动师长身边地近卫营，一旦这个营都被调动起来，那就说明军演另一方确实表现的非常出色，但同时……军演也快要结束了。\n\n    铁七师的近卫营名义是整编营，但事实上，如果算上那些机修连和单独后勤系统，这个营超编的非常厉害。这些军事参谋们闲来无事时，曾经做过战力核算，如果让铁七师的近卫营全力",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "的晶矿资源，远程调来参战部队，任由这些军官学员们拿作手中的棋子。这些军官学员从某种意义上是联邦军队的将来，但将来的事情谁能说的准，也许未成将星便陨落在宇宙之中，又或许将来在战场上庸碌无为，所以军方虽然重视，但小心谨慎的没有把阵势弄的太大，今天亲临现场观看毕业日军演的最高级别将领，也只是第一军区的易副",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "单独后勤系统，这个营超编的非常厉害。这些军事参谋们闲来无事时，曾经做过战力核算，如果让铁七师的近卫营全力动，实际上有接近**团的战斗力。\n\n    这场突如其来的小型军演时间，被定在了明天凌晨。然而军事参谋们忙碌了小半夜，依然没有办法制定出军演计划，因为在过往的演习中，还从来没有这种古怪的设计。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，没有任何的信心，当然，他现在地信心依然并不多。\n\n    伴随着滋滋的微电机声，mx机甲的前置舱门缓缓关闭，安静与世隔绝的感觉，再次出现在许乐的脑海中。他眯着眼睛打开中控系统，进行了最后一遍自检，取出了拟真系统穿在了身上，开始进行接驳。\n\n    作为机甲的设计，在这方面有先天的优势，许乐设计的通",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "看过你在基地里编写的那些教材，很是欣赏，尤其是关于你所说机师应该本身也是优秀机修师的说法，联邦不可能马上培训出数万名现成的机修师，开机甲的人如果对机甲地了解更深入一些，这个问题能够得到缓解。”\n\n    “你的教材再经过一些修改之后，便会被送往四大军事院校。”邹应星地心情似乎好了些，望着他微笑说道：",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "做副部长，还是如今已经成为联邦军方说话极有力量地真正大佬，神态始终是这般平静安宁，没有因为自身位阶和权力的上升而有丝毫变化。\n\n    许乐坐了下来，看着面前地邹应星，忽然间想到一年前在银河公墓，第一次见到对方时的情形。他们本来应该绝不熟悉，却因为黑锅这种东西而变得熟稔起来。看着邹应星鬃角的白，许乐",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "在少卿师长，次在以西门瑾为地一批优秀军官，而最凶残的便是这个全机甲近卫营。在过往很多次军演中，铁七师从来没有调动师长身边地近卫营，一旦这个营都被调动起来，那就说明军演另一方确实表现的非常出色，但同时……军演也快要结束了。\n\n    铁七师的近卫营名义是整编营，但事实上，如果算上那些机修连和单独后勤系",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "到这个数字，许乐心中剧震，原来联邦一直将自己地真实实力隐藏的严严实实地。而看着邹部长脸上那一丝感慨与满足的神色，他才想到，面前这位将军一直负责联邦地后勤系统，数量惊人的机甲和强大地物资配送能力，应该凝结了对方一生的心血和最\n\n    傲。\n\n    打仗打的就是后勤，这个道理谁都明白。而联邦任命了一",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

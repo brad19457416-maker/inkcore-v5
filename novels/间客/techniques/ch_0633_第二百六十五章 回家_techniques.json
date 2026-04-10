@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 633,
+  "chapter_title": "第二百六十五章 回家",
+  "filename": "ch_0633_第二百六十五章 回家.txt",
+  "char_count": 3590,
+  "timestamp": "2026-04-10T12:05:08.594097",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "重机械声，震的街畔树叶都开始颤抖起来。\n\n    数百辆装甲车从四面八方面涌来，快速靠近军车的队伍，大地颤栗！\n\n    双方在极短的时间内会合在一处，秩序极为良好。但那种扑面而来的铁流气息，依然让围观的民众们感到了一种难以抑止的恐慌。\n\n    墨绿色车队此时也终于撕掉了外面的蓬布伪装。数十辆军车",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "那封遗书递给了旁边的军官。\n\n    在遗言中，焦秘书承认自己擅自启用了部长办公室的电子码，伪造军方秘密情报计划。请求宪章局方面配合，暂时终止了对那名帝国种子的调查，至于他为什么这么做的原因，在遗书中并没有得到解答。\n\n    事情至此，古钟号遇袭事件的调查终于取得了突破性的进展，却也被此人的冷默死",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "向前。向前，沉默而强悍的军队，护卫着车队正中央那位小女孩儿，向着纬二区那座老宅前进。\n\n    与此同时。驻守在落日州首府西南军事营地里的两个整编机械师。也早已离开了自己的驻地，沉默悍然、杀气腾腾地进入了城市之中，数万名全副武装的士兵。数千台各式战车，逾百台沉重的合金机甲，变成了一道无可抵御的铁流，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "里，也曾经传出清脆的枪声，那天国防部前任副部长杨劲松。因为临海州体育馆暗杀事件，愤而自杀，留下了一篇愤怒的遗言。\n\n    今天自杀的是国防部一号办公室主任，也就是部长部应星的贴身大秘书焦中校。\n\n    焦秘书同样留下了一篇遗言。\n\n    国防部长郜应星看着倒在血泊中的焦秘书，缓缓取下眼镜，低头",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "们？”\n\n    这些年来，联邦政府和军队内部的强硬派思潮正在逐渐抬头，在最深处的暗流里，甚至有极为危险的军队干政倾向出现。钟瘦虎查觉到了这个严重的问题，部应星自然也早就噢到了这丝味道，甚至隐约能够猜到对方有哪些人。只是他没有足够的证据。也没有改变什么的力量，因为他不知道总统官邸以及费城那边，对这种",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，只是除了坐在主位上的拜伦副总统之外，看不清楚任何人的脸。\n\n    很多年前，这个松散的组织便已经存在，最初只是偏重于学术知识方面交流的高等阶协会，后来却在没有任何人注意到的情况下，暗中放宽入了入会的标准，开始逐渐拥有具体的目标，开始变得无比强大起来。\n\n    协会之所以无比强大，是因为它的每一",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "这些年来，联邦政府和军队内部的强硬派思潮正在逐渐抬头，在最深处的暗流里，甚至有极为危险的军队干政倾向出现。钟瘦虎查觉到了这个严重的问题，部应星自然也早就噢到了这丝味道，甚至隐约能够猜到对方有哪些人。只是他没有足够的证据。也没有改变什么的力量，因为他不知道总统官邸以及费城那边，对这种思潮的真正态度”是",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "此同时。驻守在落日州首府西南军事营地里的两个整编机械师。也早已离开了自己的驻地，沉默悍然、杀气腾腾地进入了城市之中，数万名全副武装的士兵。数千台各式战车，逾百台沉重的合金机甲，变成了一道无可抵御的铁流，令整个。城市的交通与日常运行为之瘫痪。\n\n    紧接着。该整编机械师师长代某方宣布，自即日起，落",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "秘书遗书上沾着的血渍。\n\n    只不过是一天时间。他的人便显得苍老了很多，从身体到精神都遭受了极为沉重的打击。\n\n    从在总装基地担任部门主官时开始，焦秘书便开始跟随他，二人之间的感情早已超越了上下级之间的关系，然而谁能想到，此人心中竟是别有怀抱，今日更是惨淡收场。\n\n    “他们的力量非常",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，但终究还只是个小女孩儿，那怯瘦的双肩，又怎样载得动这多压力？\n\n    “不要睡了，看会儿电视吧，马上就要到了。”全防弹军车后排，田胖子看着身旁的小女孩儿，温和说道。\n\n    这位已经退伍多年的强者，现在自然接过了照顾钟家小公主的重任，或许因为压力因为愤怒所以暴饮暴食的缘故，他比以前显得更胖了些",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "秘书焦中校。\n\n    焦秘书同样留下了一篇遗言。\n\n    国防部长郜应星看着倒在血泊中的焦秘书，缓缓取下眼镜，低头捏了捏眉心，将手中的那封遗书递给了旁边的军官。\n\n    在遗言中，焦秘书承认自己擅自启用了部长办公室的电子码，伪造军方秘密情报计划。请求宪章局方面配合，暂时终止了对那名帝国种子的调",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“他们的力量非常强大，而且正在逐渐变得更加强大。”部部长面无表情看着窗外的浓雨，喃喃自言自语说道：“谁能阻止他们？还是说应不应该阻止他们？”\n\n    这些年来，联邦政府和军队内部的强硬派思潮正在逐渐抬头，在最深处的暗流里，甚至有极为危险的军队干政倾向出现。钟瘦虎查觉到了这个严重的问题，部应",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "课吗？”\n\n    钟烟花回过头来，稚嫩的小脸上没有什么表情，她用力地嗯了一声，点头说道：“是的，我以后要更用功地读书，因为我要自己照顾自己了。”\n\n    随着点头。小姑娘黑色的短发再次如西瓜皮一般荡了起来，令人心酸 www。xiaoshuotxt。com",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

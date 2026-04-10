@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 516,
+  "chapter_title": "第二十三章 断梁之谶",
+  "filename": "ch_0516_第二十三章 断梁之谶.txt",
+  "char_count": 3417,
+  "timestamp": "2026-04-10T12:11:26.531967",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "处理？”\n　　夫子说道：“你小师弟在大明湖畔烹鱼悟道，却依然还没有悟透世间的真理，鱼无论是煎还是烹，最终都是用来吃的。”\n　　二师兄受教，说道：“那便等着他们跳梁。”\n　　夫子忽然想到了一些什么，神情微凝，手里拿着的竹铲忘了从锅里拿出，边缘渐渐焦糊，小黄花鱼也开始泛出糊味。\n　　不知道过了多长时间，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "漠谨慎，等着使团同行，都是比他拿出腰牌亮明身份，让大唐水师替自己开道护航要更加合适。\n　　好在大泽的风景足够怡人，而且使团也没有让他等太长时间，就在他险些要把初秋的芦苇看厌，把生切湖鱼吃腻的时候，使团到了。\n　　在大唐水师的战船上，宁缺第一次看到了使团的正使――那位以武力孱弱、智谋惊人闻名的镇西大将",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "宁缺说道：“书院严禁干涉朝政，更何况你已经是军方屈指可数的大人物，我不认为获得我的好感，对你有任何意义。”\n　　冼植朗笑了笑，说道：“书院严禁干涉朝政，但从来不包括入世之人，如果什么都不能做，院长让你入世做什么？而且……”\n　　他忽然向前倾了倾身体，压低声音，神秘兮兮说道：“……许世老了。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "人，更准确的说，如果陛下离开后，我会效忠于李珲圆皇子，你不用这么看着我，这件事情终究不可能成为永远的秘密。”\n　　冼植朗看着他微笑说道：“当公主殿下试图让我取代夏侯的位置时，这个秘密就已经不再是秘密，而且我相信，如今宫中的皇后娘娘使尽手段让陛下把我赶进这个使团后，也应该已经调查清楚我和前面那位皇后娘",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "兄师姐，清河郡的问题有他们处理，哪里还需要他操心，当天便带着桑桑，坐着那辆黑色的马车离开了阳关城，两日后在一个渡口前停了下来。\n　　没有什么不长眼的盗贼前来打劫，也没有什么愚蠢的官府想来收税钱，拦住马车去路的是一片水气蒸腾、秋苇无边的水面。\n　　大唐帝国南方原野前的湖泊，名字听上去很普通，叫做大泽，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "李渔不知道宁缺写这封信的用心，却隐约明白国师把这封信转给自己看的意思，她微微蹙眉，说道：“那些老人们的行事，我有时候也不是很明白，我只能说这些事情和我没有关系。”\n　　何明池点头说道：“我会把殿下的话带回南门观。”\n　　李渔抬起头来，静静看着他，问道：“国师本不需要把这封信给我看，可以直接带进宫",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "是陛下都极喜爱他，这样一个人如何称得上骄傲？”\n　　崔老太爷笑了笑，没有说话。\n　　崔苦笑一声，继续说道：“好吧，即便此人在书院二层楼里学会了骄傲，冷血何来？我总以为军部的那些履历资料作不得数，他连与叶红鱼的关系都能保持的不错，在我看来，宁缺实在是长袖善舞，极通实务世事。”\n　　崔老太爷说道：“看履",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "长时间，就在他险些要把初秋的芦苇看厌，把生切湖鱼吃腻的时候，使团到了。\n　　在大唐水师的战船上，宁缺第一次看到了使团的正使――那位以武力孱弱、智谋惊人闻名的镇西大将军冼植朗。\n　　战船主厅首位上空空如野，宁缺和冼植朗对面而坐，因为论起身份尊卑，两个人着实不好分出一个强弱主次。\n　　这位镇西大将军不简",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "这个年轻人抹掉，不然我们或许会付出难以想像的代价。”\n　　……\n　　……\n　　两封来自清河郡的密信，来到了长安城。\n　　一封信通过大唐暗侍卫的系统，送进了皇城外的南门观，因为这封信的收信人是大唐国师李青山。\n　　片刻后，何明池从南门观里走了出来，他看了一眼清旷高远的天，想着稍后可能会落雨，把腋下的黄",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "养气。”\n　　崔老太爷说道：“这是他刻在骨子里的生活习惯，那么只能说明他是一个谨慎到了极点的年轻人，同时也是一个不知道信任二字如何写的人，我甚至以为，除了那个小侍女之外，或者他连夫子都不肯完全相信。”\n　　崔沉默不语。\n　　崔老太爷看着窗上黑色的厚幔，想着先前客栈里那个年轻人，叹息说道：“连夫子这样",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "数的大人物，我不认为获得我的好感，对你有任何意义。”\n　　冼植朗笑了笑，说道：“书院严禁干涉朝政，但从来不包括入世之人，如果什么都不能做，院长让你入世做什么？而且……”\n　　他忽然向前倾了倾身体，压低声音，神秘兮兮说道：“……许世老了。”\n　　宁缺看着他摇头说道：“看来我还是低估了你的野心，而你却又",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

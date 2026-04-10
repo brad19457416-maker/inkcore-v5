@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 98,
+  "chapter_title": "第三十七章 反政府军的间谍们",
+  "filename": "ch_0098_第三十七章 反政府军的间谍们.txt",
+  "char_count": 6778,
+  "timestamp": "2026-04-10T11:53:35.163792",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "内让施清海地眉毛皱了起来。\n\n    这种压力也让他直到走进店后，才发现了那边地异常情况，听到了那里冲突的具体内容。只需要看上一眼，施清海便猜到了那群富贵男女地来意，眼睛微微一眯，直接走了过去，对还在喝咖啡的许乐说道：“走吧？”\n\n    许乐直接把那群男女当成了空气，却也有些恼火，发现施清海终于来",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "辈。但帕布尔不一样。”局长忧心忡忡说道：“一个从矿工家庭走出来地总统。想来在很小地时候就树立了极为远大地理想。这种人物性格坚毅。肯定不会允许联邦境内。尤其是首都星圈内部。还有组织这种**武装地存在。”\n\n    “可这都是提前地担心。”施清海看了局长一眼。说道：“今天冒险用师生相聚地由头来相见。我想",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "酒吧的木门被人推开，清冷的空气灌了进来。施清海取下烟头掐熄，拉开身旁的座位，看着那个人鬓角的白发说道：“喝点儿什么？”\n\n    “酒。”临海州局局长坐下后，很直接地吐出一个字。施清海的眉尖好看的皱了皱，对于这位曾经的老师，后来的领路人以及单线联络上级，他非常了解，知道对方一向谨慎，不怎么愿意喝",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "邦最大的既得利益者，我不认为邰家有可能与我们合作。既然如此，花这么大的代价去获取这份情报，究竟有什么意义？”\n\n    “你认为组织会利用这次双月节舞会进行针对那位太子爷的刺杀？”局长认真说道。\n\n    “是的，除此之外，我想不到别的任何可能。”\n\n    “组织很少进行针对联邦公众人物地暗杀行动",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "皱着眉头看着自己的得意弟子，“是不是关于双月节舞会，你发现了什么？”\n\n    “我只是不明白，组织为什么对那位太子爷地成人礼如此在意……麦德林议员派那个什么都不懂的小姑娘过来，我倒能明白一些。”施清海弹了弹烟灰，平静说道：“七大家是联邦最大的既得利益者，我不认为邰家有可能与我们合作。既然如此，花这",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "认真说道。\n\n    “是的，除此之外，我想不到别的任何可能。”\n\n    “组织很少进行针对联邦公众人物地暗杀行动，因为这会极大的损害组织的形象。”局长很严厉地看着施清海的眼睛。说道：“更何况双月节舞会在大学城进行，有太多的无辜公民……你这样推测，本身就是对组织信念的不尊重。”\n\n    “我谁都",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的家族。”\n\n    局长低着头。用微有忧虑地声音说道：“他们或许不能让某个人直接当选总统，但可以很轻松地让某个人的竞选对手失败。”\n\n    “破坏总是比建设容易，这个我明白。”施清海的目光平静，“不过虽然我对政客一向投以厌恶的眼光，但也不得不承认，出自东林的帕布尔是政客里的一个异数。如果这么多年",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "都没有。\n\n    要保证他在临海州的绝对安全，还要安排他在双月节舞会上见到那个年轻人，巨大的压力一瞬间内让施清海地眉毛皱了起来。\n\n    这种压力也让他直到走进店后，才发现了那边地异常情况，听到了那里冲突的具体内容。只需要看上一眼，施清海便猜到了那群富贵男女地来意，眼睛微微一眯，直接走了过去，对",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "欠大家三章了哈。这章里关于礼节的规则，是我规定的，联邦嘛，反正不是地球……真是痛苦。说到刷卡，我终于第一次刷信用卡了，买了一百三十元一壶的一级花生压榨油……）\n\n    窗外的雪花飘着，酒吧里的气氛很清冷，刚过中午，没有什么生意。施清海薄薄的双唇像吮棒棒糖一样叼着根香烟，专注地看着烟头上的红光一闪一",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "。”施清海继续说道：“如果帕布尔成为联邦总统，对于组织来说，应该是最好的选择，至少如果要和议，也不用担心联邦政府会像以前的小人一样反复无常。”\n\n    局长摆了摆手，说道：“道德感不能代表一切，帕布尔在他的竞选纲领和这些年的政治实践中。一直小心翼翼地没有流露出对于环山四州的态度……关于联邦政府与我",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "。”局长忧心忡忡说道：“一个从矿工家庭走出来地总统。想来在很小地时候就树立了极为远大地理想。这种人物性格坚毅。肯定不会允许联邦境内。尤其是首都星圈内部。还有组织这种**武装地存在。”\n\n    “可这都是提前地担心。”施清海看了局长一眼。说道：“今天冒险用师生相聚地由头来相见。我想你不应该只是想说这",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "礼服，却连一双的鞋都配不到……到时候参加舞会。会是怎样令人快乐的场景。”\n\n    众人愣了愣后马上愤怒起来，他们这才明白这个穿着皱巴巴西服的家伙，居然如此阴险。在帝国方面，听说订制礼服地地方绝对不会做鞋，而且混搭也是一种颇受赞美的风格，然而在联邦……这却是绝对行不通的事情……\n\n    “时间已经",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "出对于环山四州的态度……关于联邦政府与我们之间的关系，他究竟存着什么样地想法，谁也不知道。如果帕尔布将来在国防部那帮鹰派人物的影响下。选择对组织采取强势进攻的态度……”\n\n    施清海注意到局长地眉宇间充满了忧虑。\n\n    局长叹了一口气。说道：“如今地环山四州。好像已经被内战结束。和平到来地喜",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "在薄雪轻风之中，施清海禁不住打了一个寒颤，自己马上就要去接那个人。然后……参加双月节的舞会？他来到临海州，自然是为了见邰家那位太子爷，只是**军和邰家能谈些什么内容呢？\n\n    便是海堤在面前溃决，依然可以保持内心冷静和脸上懒洋洋笑容的施清海，在得知这个情报之后，依然止不住有些心神摇晃。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "随时可能死亡地心理准备。可是突然听到这句话。施清海地眉头依然止不住地皱了起来。他静静看着自己地老师。缓缓开口说道：“自由……确实是我很喜欢地东西。不过我可不希望用你地死亡做为条件。”\n\n    他拍了拍自己老师的肩膀，轻声说道：“这几年我确实很累，不停地往环山四州发回情报，却还要看着麦德林那个老混蛋",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "光呢？”\n\n    走在风雪中。想到先前那些富家子弟们精彩的表情，许乐忍不住笑了起来，他对于这种上层社会的礼节一窍不通，却也能猜到，施清海的这一招，一定会让对方非常痛苦。下一刻，他脸上的笑容变成了无奈的愁苦，望着身边的施清海说道：“这么多钱，我怎么还？”\n\n    “笨蛋。明天下午才送货。上午就取消",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

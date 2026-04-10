@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 789,
+  "chapter_title": "第一百七十章 三元里的少年（下）",
+  "filename": "ch_0789_第一百七十章 三元里的少年（下）.txt",
+  "char_count": 2285,
+  "timestamp": "2026-04-10T12:11:27.158643",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "连西瓜都不敢杀。”\n　　张念祖看着他喜悦说道：“李四，我果然没有看错你。”\n　　……\n　　……\n　　风雪如怒，极度严寒，街面上积着厚厚的雪。\n　　长安城已然被冰封，朱雀大道上静寂的仿佛是雪湖最底，没有任何声音，只有雪片深处隐隐传来几声咳嗽。\n　　大师兄在风雪那头咳嗽。\n　　当宁缺挟城而击却依然失败，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "很微妙的变化。\n　　不是微小的变化。\n　　这种变化突如其来。\n　　看着那两名少年，他觉得原来世间还有意义这种事物。\n　　他为长安城做的这些事情，是有意义的。\n　　换句话来说，这座长安城以及生活在城里的人们，值得为之而努力，比如这两名脸色苍白，脚步踉跄的少年。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "个青衣妖怪接连击败后，被热血冲淡的恐惧再次占据了他们的身心。\n　　“怎么办？”\n　　张念祖的声音有些颤抖，听上去下一刻就会哭出声来，只是想着这是自已的提议，而且他不想让乡下孩子看低，所以强自忍着。\n　　李光地相对平静，但苍白的脸也暴露了此时真实的心情，他隔着门缝，看着那个像神仙一样走在雪街上的青衣道",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "事母极孝，哪怕母亲莫名生出一个幼妹，也没有让他改变对母亲的态度。\n　　张念祖有些恼怒，说道：“乡下人果然没胆。”\n　　说完这句话，他转身便往院外走去。\n　　李光地喊住他，从柴房角落里摸出一把钢叉，走出门外，说道：“我在瓜田用叉打猹的时候，你连西瓜都不敢杀。”\n　　张念祖看着他喜悦说道：“李四，我果然",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "。\n　　他看着那两名少年，就像是高高在上昊天，看着地面上的蝼蚁。\n　　蝼蚁的抗争，不会让昊天生出太多感慨，只会觉得有些趣致。\n　　雪街上还有一个人。\n　　坐在血雪中的宁缺，神情微变。\n　　他的神情发生了很微妙的变化。\n　　不是微小的变化。\n　　这种变化突如其来。\n　　看着那两名少年，他觉得原来世间还",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "意义这种事物。\n　　他为长安城做的这些事情，是有意义的。\n　　换句话来说，这座长安城以及生活在城里的人们，值得为之而努力，比如这两名脸色苍白，脚步踉跄的少年。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "头咳嗽。\n　　当宁缺挟城而击却依然失败，眼看着便要被观主杀死，他没有办法再继续等待，于是和三师姐余帘来到了这片风雪里。\n　　宁缺还没有能够用长安城把观主从昊天的世界里隔绝出来，这绝对不是余帘等待的那个机会，所以他们再次失败。\n　　观主向街道那头的宁缺走去，他身上的伤势更重，开始咳嗽，但脚步还是那样的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "到所有唐人少年视为偶像的羽林军，也没有看到传说中南门观的那些修行者，他们只能看到彼此苍白的脸，和写满紧张恐惧的眼神。\n　　他们很勇敢，但毕竟只是普通的少年，当他们看到书院的先生被那个青衣妖怪接连击败后，被热血冲淡的恐惧再次占据了他们的身心。\n　　“怎么办？”\n　　张念祖的声音有些颤抖，听上去下一刻就",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "作，并不是真的被冻僵了，而是因为他们觉得很孤单，而且很害怕。\n　　街巷里没有一个人，整个世界是这样的安静。\n　　他们没有帮手，没有看到平日里横行市井的流氓，没有看到平日里无比艳羡的游侠儿，没有看到所有唐人少年视为偶像的羽林军，也没有看到传说中南门观的那些修行者，他们只能看到彼此苍白的脸，和写满紧张恐",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "一百七十章 三元里的少年（下）\n　　李光地愣住了，看着对方手里那两把刀，不知道该做何表示。张念祖焦急说道：“我们就要输了，你还愣在这里做什么？”\n　　妇人这时候才明白过来，吓的不轻，说道：“你们年纪这么小，能帮什么？”\n　　张念祖挥动手中的刀，说道：“有刀就能砍人，这些年我在长安城里见过好多场决斗，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

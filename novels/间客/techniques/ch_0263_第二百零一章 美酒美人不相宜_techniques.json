@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 263,
+  "chapter_title": "第二百零一章 美酒美人不相宜",
+  "filename": "ch_0263_第二百零一章 美酒美人不相宜.txt",
+  "char_count": 4830,
+  "timestamp": "2026-04-10T12:04:51.122662",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "几年间，她与每一任总统阁下都保持着良好的私人友谊，仅这一点，就足以令她有资格将联邦里的一切都看的云淡风轻一些。\n\n    令她感觉有些不愉快的事情，是地面指挥大厅里，果壳工程部对联邦科学院的抄袭指控。\n\n    抄袭风波之事，让政府、管理委员会里很多人感到不满意，认为联邦无法对民众交待，这些人都认为",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "家中人，才会通过管家传话。\n\n    “最近我心情不好，不想见客。”夫人轻轻地吹着碗中的热粥，微笑着说道：“如果林家那几个老家伙，什么时候能够想明白，他家只有林半山那个家伙才值得依靠，我倒很愿意见见林半山。”:回复。\n\n    夫人这两天的心情确实不好，关于总统竞选，新式机甲标准这些事情，并不能让她",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "真实来历的人，她对那个人有极大的信心。\n\n    联邦科学院方面征调了李封，夫人才开始有些担心，但从秘密渠道第一时间知道，许乐亲自驾控机甲上阵，这抹担心又淡了一些，毕竟和那个人一起生活了这么多年，许乐的最终获胜，在这位夫人看来，是理所当然的事情。\n\n    一切的一切，还是因为对当年的那位故人实力，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "里，竟也是那般的刺眼。\n\n    许乐转过头来，看到商秋胸前动人的风景，一时间怔了，想起在工程部地下第一次打开视频头的刹那，又想到那时候兰晓龙，周玉站在自己身后，目瞪口呆的表情。\n\n    “这也未免太大了些。”他在心里感叹了一声。\n\n    在封余大叔的薰陶下，许乐绝对算不上目不斜视的正人君子，但",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "过头去，不敢被那片丰软的白嫩迷了眼。\n\n    他给白玉兰打了个电话，确认宪章局没有为难他之后，心情轻松了许多。询问了一声商秋，便通知他也来这家酒吧喝两杯。\n\n    “我当然没有什么意见。”商秋说道：“你那位白秘书，其实为mx也做了很多事情，你我都清楚。”\n\n    她顿了顿后，忽然很认真地举起了",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "……\n\n    ……\n\n    保密，沉默，无人问津，来自各方面空气里无形的压力，让卡琪峰顶的战斗并没有给许乐带来任何实质性的好处。他不知道夫人这样做，一方面是为了保护他的安全，另一方面却也是在警告他。因为他根本没有想到这两个方面。\n\n    用拟真系统作战会不会暴露自己的逃犯身份？在被情绪充",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "曾奢望能够控制一位总统先生，但她总觉得帕布尔议员这个人显得太过**自主了一些。\n\n    不过帕布尔将来是要当总统的人，夫人会给予足够的尊敬，而像许乐，她却不会如此看待。\n\n    “真是一个没规矩的家伙。”夫人在心里说道。\n\n    联邦里最重要的便是规矩，许乐这件事情做的太没规矩，夫人沉默地想着",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "密渠道第一时间知道，许乐亲自驾控机甲上阵，这抹担心又淡了一些，毕竟和那个人一起生活了这么多年，许乐的最终获胜，在这位夫人看来，是理所当然的事情。\n\n    一切的一切，还是因为对当年的那位故人实力，拥有一种难以言说的绝对信任吧？\n\n    像珍珠一样的白泡均匀地出现在白果粥中，粥色微青，睹之食欲大开",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "春骚动的躯体上。\n\n    “干杯！”几个盛满了烈酒的圆杯被举了起来，轻轻地撞击了一下，根本无法压住众人开心的喊叫。\n\n    除了商秋之外，还有几名留在首都的技术小组成员也来参加这次聚会，这些平日里看上去沉默木讷的工程师们，因为此次mx机甲研制工作\n\n    成功，而比平时要显得放松许多，不过半个",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "绪充斥大脑的时刻，许乐根本不会去考虑这一点，至于警告……他已经从机甲标准之争中得到了最想要的东西——道理以及精神上的胜利，这便满足了，更何况此时还有朋友。\n\n    孤独是一种病，许乐一直这样认为，却时常被这种病痛缠身，最要好的亲人朋友都因为某些原因，消失在了茫茫宇宙、比宇宙还要宽宏的人潮之中。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "了无数灼热目光的注视，却没有人会肆意地上前搭讪。\n\n    相处工作这么久，许乐知道商秋有极不好惹的性子，加上还有这么多同伴在酒吧里，并不怎么担心她的安全，反而担心她会不会走到洗手章门口便醉倒在地。他担心地望了那边一眼，和白玉兰说了一声便跟了过去。\n\n    ……\n\n    ……\n\n    （这章是",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "“夫人。请问有什么吩咐？”沈秘书从门外走了进来。看见厨房里正在吃粥地夫人和管家。微微一怔。进入这个庄园有些日子了。他大概明白自己距离能够吃夫人亲手煮地粥地日子还有很长。\n\n    “给布林打个电话。”\n\n    夫人在围裙上擦了擦手。很随意地吩咐道。科学院抄袭事件。不是联邦上层社会愿意看到",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "眼。\n\n    许乐转过头来，看到商秋胸前动人的风景，一时间怔了，想起在工程部地下第一次打开视频头的刹那，又想到那时候兰晓龙，周玉站在自己身后，目瞪口呆的表情。\n\n    “这也未免太大了些。”他在心里感叹了一声。\n\n    在封余大叔的薰陶下，许乐绝对算不上目不斜视的正人君子，但终究未曾经历太多男",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "一知道许乐真实来历的人，她对那个人有极大的信心。\n\n    联邦科学院方面征调了李封，夫人才开始有些担心，但从秘密渠道第一时间知道，许乐亲自驾控机甲上阵，这抹担心又淡了一些，毕竟和那个人一起生活了这么多年，许乐的最终获胜，在这位夫人看来，是理所当然的事情。\n\n    一切的一切，还是因为对当年的那位",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "“给布林打个电话。”\n\n    夫人在围裙上擦了擦手。很随意地吩咐道。科学院抄袭事件。不是联邦上层社会愿意看到地丑闻。但很奇妙地是。席格总统本人却一直没有压制下去地意思。她对这一点感到很好奇。所以要沈离联络一下总统官邸办公室地副主任。\n\n    “是。”沈秘书接着说道：“六天后是电视直播地大选辩论",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "余香，身畔女子春光乍泄，说了一句大胆直接的话，许乐感觉脸有些发热，端起了酒杯，没有回答。\n\n    安静的酒吧里，偶有小风波起，但很快又平息了。\n\n    “为什么挑这间酒吧？都是些年轻人在玩，酒精作用下，容易出问题。”\n\n    许乐看着酒吧深处那个小舞台，舞台上有一位穿着全身轻蓝紧身衣的女孩儿，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "不会去考虑这一点，至于警告……他已经从机甲标准之争中得到了最想要的东西——道理以及精神上的胜利，这便满足了，更何况此时还有朋友。\n\n    孤独是一种病，许乐一直这样认为，却时常被这种病痛缠身，最要好的亲人朋友都因为某些原因，消失在了茫茫宇宙、比宇宙还要宽宏的人潮之中。\n\n    所以在西山大院门口",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

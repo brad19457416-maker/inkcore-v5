@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 472,
+  "chapter_title": "第二百七十六章 那些被遗忘的名字",
+  "filename": "ch_0472_第二百七十六章 那些被遗忘的名字.txt",
+  "char_count": 4528,
+  "timestamp": "2026-04-10T12:11:21.747653",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "请。\n　　陛下替林光远翻案，厚赐重赏，恩荫三代，为的就是这一点。\n　　皇城前的人们看着黑伞下的宁缺，心想应该就这样结束了。\n　　……\n　　……\n　　从听到林光远三字开始，宁缺便低下了头，专注地看着脚下的厚雪，侧着脸，专注地听着旨意上那一个又一个的名字。\n　　他听过那些名字，所以他今天听的很认真，但脸",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，已经渐要被积雪掩埋，他的头发现在有些乱，看上去有些狼狈，但脸上的神情却异常漠然。\n　　曾静没有理会众人的反应，双手握着圣旨，声音微颤继续念道：“前宣威将军林光远谋逆叛国一案，因证据不足，现予撤销……”\n　　圣旨上那些名字，经由大学士微颤的声音，被一个一个接着报出，回荡在风雪中，撞击在朱墙上。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "……\n　　皇城前的街巷里隐藏着很多辆马车，还有很多人没有到现场，在各自的府邸里情思各异地等待着最终的结果。\n　　“二先生出现在雪桥之上，便等若是表示了书院的态度，书院同意宁缺挑战夏侯，那么大唐军方也无法阻止这件事情。”\n　　来自清河郡的三供奉，把目光从公主府露台前方飘落的雪花里收回，看着那两名",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "意思。”\n　　许世微微眯眼，说道：“所以你拦在雪桥之上。”\n　　二师兄盘膝坐在雪中，身姿挺拔，衣袍在风中无一丝颤抖，若雪峰中的崖松，似极了当年书院那个了不起的人物。\n　　他看着雪桥下方的许世以及羽林军的铁骑，面无表情说道：“我尊敬小师弟，所以我不会插手，但我要他得到公平。”\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "样的污言秽语，就像漫天飘舞的雪花般，向着四处播散。\n　　国师李青山离开书院，以最快的速度进了长安城，来到那家刚刚修葺一新的小道观。因为雪势太大的缘故，街坊们的庆祝活动已经草草结束，叶苏听到皇城处的事情后笑了笑，便消失在风雪中。\n　　皇城外的街巷里，驶来了很多辆马车，收到消息的各方势力，都派出人马来打",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "后声音微涩说道：“大唐毅亲王李沛言，因天启元年旧事，自请除王爵。”\n　　满场俱静，皇城前的人们，难以压抑心头的震惊，望向亲王殿下。\n　　李沛言那顶尊贵的王冠，现在还在宁缺和夏侯之间的雪地上，已经渐要被积雪掩埋，他的头发现在有些乱，看上去有些狼狈，但脸上的神情却异常漠然。\n　　曾静没有理会众人的反应，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "士，并不知道盘膝坐在雪中的高冠男子是谁。\n　　听着此人居然敢对许世将军如此不敬，如此嚣张，羽林军顿时愤怒到了极点，须发贲张，直似要刺破身上的盔甲，拔刀提枪便欲冲上雪桥，将那厮当场斩杀。\n　　许世面无表情举起右臂，身后的骚动与杀意顿时平息。他看着盘膝坐在雪中的那人，神情渐凛，说道：“书院莫非真要出尔反",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的态度让他们无奈，他们来不及做更多的事情。\n　　就在这个时辰快要结束的时候，朝廷终于找到了方法，宫门骤然大开，大唐国师李青山和文渊阁大学士曾静，在数十名太监的护送下，脚步匆忙来到了场间，开始宣读陛下的旨意。\n　　亲王殿下李沛言，沉默走在人群最后方。\n　　文渊阁大学士曾静，在大唐内阁中排名最末，但他是",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "当场斩杀。\n　　许世面无表情举起右臂，身后的骚动与杀意顿时平息。他看着盘膝坐在雪中的那人，神情渐凛，说道：“书院莫非真要出尔反尔？”\n　　二师兄看着桥下的他，说道：“书院不反对夏侯归老，也不反对小师弟挑战他，因为没有办法去反对。”\n　　许世蹙眉道：“你知道我是去反对这件事。”\n　　二师兄说道：“我反",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "巷里隐藏着很多辆马车，还有很多人没有到现场，在各自的府邸里情思各异地等待着最终的结果。\n　　“二先生出现在雪桥之上，便等若是表示了书院的态度，书院同意宁缺挑战夏侯，那么大唐军方也无法阻止这件事情。”\n　　来自清河郡的三供奉，把目光从公主府露台前方飘落的雪花里收回，看着那两名身份尊贵的皇家姐弟，微笑说",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "收回，看着那两名身份尊贵的皇家姐弟，微笑说道：“恭喜殿下。”\n　　李渔的神情很平静，眼眸深处却隐藏着忧虑的神情。\n　　夏侯是皇后娘娘最强大的助力，他解甲归老对她和李珲圆来说，已是极好的事情，宁缺挑战夏侯则是更好的事情，无论谁胜谁负，即便书院会对此事保持沉默，也会对皇后一方生出憎恶的情绪。\n　　然而她",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "缺一个交代。\n　　宣旨开始时，夏侯从椅中站起，陛下的旨意里没有牵涉到他，他的眉头却渐渐蹙了起来，然后缓缓重新坐下。\n　　那些名字还在风雪中飘着。\n　　夏侯知道那些名字，见过那些名字所代表的人。\n　　十几年前，他曾经亲眼看着那些人死在自己的面前，见过那些堆成小山的头颅，有闭上眼睛的，有睁着眼睛的，眼睛",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

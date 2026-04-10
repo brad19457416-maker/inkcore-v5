@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 315,
+  "chapter_title": "第三章西林的征途 第三章 黑房囚徒",
+  "filename": "ch_0315_第三章西林的征途 第三章 黑房囚徒.txt",
+  "char_count": 4934,
+  "timestamp": "2026-04-10T12:04:59.205465",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "后，也曾经在镜子里看着自己的容颜呆，只是那时地他会为了那样一件事情紧张到极点，而如今身处联邦最可怕的秘密军事监狱之中，却就像在家里一样心情平静。\n\n    他眯着眼睛，只是有些不明白，为什么政府会忽然把自己从那个黑暗的囚房里放出来，为什么会把自己从狐狸堡垒转来倾城监狱。\n\n    用热水洗了一把脸，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "那头艰难移动地年轻囚犯。\n\n    因为他们都曾经被单独幽禁过。知道那种不见天日。无人说话。四周一片寂静有若绝对死亡地经历。是多么地难熬。\n\n    那个新来地年轻囚犯被单独幽禁了三个月？这些或凶残或奸诈地重犯们。忍不住心里打了一个寒颤。联邦对这名年轻囚犯地重视。已经间接证明了此人地凶险程度。如果被",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "中的塑料餐具。\n\n    他们当中有的穷凶恶极之徒，也曾经被绑定过区间遥控电流器，但像这种即时爆炸的危险装置，却只在监狱学习当中看到过。\n\n    再加上形状有些夸张的手铐脚镣，食堂里的重犯们很轻易地分辩出，联邦政府很重视这位新来的囚犯，甚至感觉比场间所有人加起来还要重视一些。\n\n    正是因为这",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "了一个寒颤。联邦对这名年轻囚犯地重视。已经间接证明了此人地凶险程度。如果被关了三个月关成了一个疯子。日后与大家一同生活……\n\n    “以后谁也不要招惹新来地这位小爷。”\n\n    餐桌正中间响起一个声音。声音沙哑略显苍老。声音地主人很明显在军事监狱重犯中拥有极高地地位。他这样一说。三十几名囚犯同时",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "小饭桌进餐。\n\n    许乐与其余的重犯们隔着一层透明材料隔断，却像是两个世界，除了那些声音以及他的存在之外，互不干扰彼此，但每天三顿饭的时候，他总是习惯性地向那边拥有各种诗人气质的重犯们点点头，笑一笑，打个无声地招呼。\n\n    这样的日子维持了一个星期，食堂用餐的重犯中，终于有人回应了他的好意，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "监狱里倾了一把城，把那些如临大敌的警卫和犯人们都震了一把。他只是按照他这辈子惯常的做人态度，来到一个陌生的地方，便会堆出满脸真挚的笑容，让身周的人高兴一些，也让自己少些麻烦，只是他明显没有想到，他现在是在看守森严的军事监狱里，他笑容的对象，都不是一群正常人。\n\n    吃完了在倾城军事监狱的第一顿饭",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "军事监狱重犯中拥有极高地地位。他这样一说。三十几名囚犯同时轻轻点了点头。\n\n    这些罪大恶极地犯人们。比谁都清楚人不可貌相地道理。温文地教授可以杀死自己一家。憨厚地大汉可以屠尽新兵营。这个刚刚来地年轻囚犯。虽然身材瘦削。脸色苍白。但只看今天这开场动作。便知道是绝对危险地人物。而且既然是被单独幽闭",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的请求。\n\n    这种请求对于许乐来说，已经非常熟练，大致上相当于一个精神病患不停地对着脑海中的高山大海呼喊，然后指望能够听到回音。\n\n    于是在可以让人疯的黑暗孤独日子里，许乐联系上了遍布宇宙的宪章光辉，开始用自己的左眼观看联邦上的电视新闻或是肥皂剧，还看了很多平时没有时间看的文艺电影……",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "于停了，食堂里的人不再需要忍受这种折磨，轻轻地吐了一口气。\n\n    那名年轻囚犯通过了三道安全门，来到了监狱内室，四条黑色的套索松开，然而那些磁性沉重脚镣与手铐还在他的身上。监狱方面没有安排他进入食堂用餐，而是在隔离区的磁性地面上，为他安置了一张单独的桌椅，上面摆满了食物与水果。\n\n    这个特",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "爱情电影过来看看。”\n\n    ……\n\n    ……\n\n    倾城军事监狱来了一个年轻人，安全等级马上被提升，但除此之外，这片荒原上的禁地，似乎并没有太大的改变。被关押的重犯按照详细到极致的时间表吃饭，洗澡，阅读，运动，学习联邦法律，然后睡觉，和他们以往的日子一模一样。\n\n    大概唯一的差别在",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "对那个年轻囚犯产生了敬畏的感觉，只不过毕竟隔着透明材料，年轻囚犯走的又异常艰难，所以他们才将这种感觉缓缓地压抑了下去。\n\n    塑料餐具也是特制的，就算重犯们悄悄带走，再如何折断打磨也无法修理出一个锐状角度。一名花白头，戴着眼镜，像个教授一样的人转回了身体，听着脑后那些当当的金属沉重撞击声，摇了摇",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "一个声音。声音沙哑略显苍老。声音地主人很明显在军事监狱重犯中拥有极高地地位。他这样一说。三十几名囚犯同时轻轻点了点头。\n\n    这些罪大恶极地犯人们。比谁都清楚人不可貌相地道理。温文地教授可以杀死自己一家。憨厚地大汉可以屠尽新兵营。这个刚刚来地年轻囚犯。虽然身材瘦削。脸色苍白。但只看今天这开场动作",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "眼镜，像个教授一样的人转回了身体，听着脑后那些当当的金属沉重撞击声，摇了摇头，将小勺放在饭盒旁，安静说道：“看那个人的面部皮肤和嘴唇地颜色，只怕三个月没有见过太阳了。”\n\n    这位重犯入狱前是联邦军事科学院三部的一位教授，因为家庭间的一件琐事，他将联邦仿制地帝国毒气样本，灌进了妻子与岳父岳母所在",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

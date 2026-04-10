@@ -1,0 +1,128 @@
+{
+  "novel": "间客",
+  "chapter_number": 139,
+  "chapter_title": "第七十八章 你嘛帮帮忙",
+  "filename": "ch_0139_第七十八章 你嘛帮帮忙.txt",
+  "char_count": 2846,
+  "timestamp": "2026-04-10T11:53:35.153620",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "丢了，身上一分钱都没有……邰之源那小子，就是算死了我这点。”\n\n    简水儿可爱地吃吃而笑，这是她第一次听到有人称呼邰家少爷为那小子。\n\n    许乐其实也没有完全说真话，那张封余大叔留给他的三林联合银行卡并没有丢，只是随同那件钟夫人送给他的军风衣一起，被那些暗杀武装分子打出了好些洞，被迫废弃 Ｗ",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "落中，冷静地注视着那里发生的一切。\n\n    然而今天地沉默并没有维持太久，两名保镖当中的一人。轻声说道：“知道我们这次保护的目标是什么样的人吗？”\n\n    另一人目光直视前方，唇角微翘说道：“少爷的朋友。”\n\n    “是个很牛逼的家伙，在体育馆地地下停车场，这个学生，一个人干了六个军人。”第一",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "下停车场，这个学生，一个人干了六个军人。”第一个开口的保镖轻声说道。\n\n    “临海警备区特种连的战斗力……也不过如此。”\n\n    “可是你做不到……听说他以前曾经当过兵。”那名保镖说道：“不过我最佩服他的就是……居然连简水儿也来探望他，这家伙到底是什么人？”朋友也是孤儿，他陷入了大麻烦。而我还",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "“我要出院，而且我需要一张飞机票……和一点儿钱。”\n\n    许乐摸了摸被自己垫在轮椅下的那件军风衣，有些不好意思地挠了挠脑袋：“我的银行卡弄丢了，身上一分钱都没有……邰之源那小子，就是算死了我这点。”\n\n    简水儿可爱地吃吃而笑，这是她第一次听到有人称呼邰家少爷为那小子。\n\n    许乐其",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "”简水儿听见许乐不停地重复着救命之恩，低垂的脸颊上闪过微微红晕，说道：“不过我想邰之源的考虑肯定是有道理的，在我看来，关键是如果你赶回去之后。能不能真的帮到你那位有麻烦的好朋友……如果只是一时热血冲动，回去之后，却像无头苍蝇一样乱串，那就很没有必要了。”\n\n    必须说，简水儿随意的话语，便点出了",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "是什么样的待遇？大概联邦议员住院，也不过如此了。\n\n    许乐的心情有些低沉，知道这些肉墙的出现是为什么，当他在林间远望住院部的大门时，便知道至少在行动完全恢复之前，自己不可能离开这座医院。这种现状，令他的情绪有些低沉，他试着给那个陌生号码发过几条短信，却没有回音，尤其是当他发现连张小萌的电话也打",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "人，她其实已经渐渐忘记了许乐这个人，毕竟两个人之间不可能有太多的交集。\n\n    今天她之所以会再次来到京州，来到第一军区总医院，是因为一件烦心的事情。家中的长辈让她来第一军区吃饭，谁知道席上竟有旁的年轻男子，聪慧如她，当然明白了这顿饭地意思，很自然地生出了离开地想法。\n\n    汽车行走在第一军区",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "怎样挥拳。都得不到明确的反应，他快要喘不过气来。\n\n    就在这个时候，医院里来了一位访客。但微感紧张与喜悦地许乐。只能说得出这句话来。\n\n    简水儿嫣然一笑，明亮若镜的大大眼眸里闪过一丝可爱的笑意。用清脆可人的声音回答道：“你可是我这辈子救的第一个人，当然要来看看你伤好的怎么样。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "是简水儿出门时必备的事物，此时简水儿屈尊替他推轮椅，这些事物自然就放在了他的手中。许乐的手指从墨镜上缓缓滑过，最后落在了手腕上，轻轻抚摸着光滑的金属手镯。\n\n    许乐下定了决心，平静说道：“不论我那位朋友陷入什么样的麻烦，但我想，如果我能和他见面，我一定能帮他摆脱这种麻烦。”\n\n    简水儿微",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

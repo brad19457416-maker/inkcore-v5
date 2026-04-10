@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1003,
+  "chapter_title": "第十二章 光的琉璃，黑的疆域，谁在看着你？",
+  "filename": "ch_1003_第十二章 光的琉璃，黑的疆域，谁在看着你？.txt",
+  "char_count": 2331,
+  "timestamp": "2026-04-10T12:11:34.903996",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "书院大师兄，面对这样的一个人，也必须表示出足够的重视。\n　　横木立人展露出来极为强大的境界，而且就在瞬间里又有变化，那些如玉浆般燃烧的昊天神辉，以肉眼无法看清的速度回到他的身体里，收敛进他的肌肤下与刀身中，他的身躯与刀并没有变黑，而是变成了琉璃般的事物，晶莹剔透，神圣的昊天神辉就在里面不停折射，无数",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，但不是苍白，所以他忽然警惕起来，因为他不明白对方为何不警惕？\n　　他现在是道门的重要人物，知道很多秘密，所以他确信大先生不敢出手，才会对柳亦青说那声抱歉，现在就算大先生不得不出手，时间已经晚了，这不是道门预先布好的局，而是巧合而成的机缘，即便天算都算不出来，他如何躲开？\n　　没有人算到那一刻是哪一",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "内不停折射，变得越来越浓郁，渐渐逼近最终的极限，有几丝溢泄而出，瞬间照亮夜色下的皇城废墟。\n　　与此同时，夜色里飘来的那缕酒香，如这些圣洁的光线一样，变得越来越浓郁，没有风能够吹散，直至稠不可化。\n　　望向横木的人，被神辉刺的痛苦地捂住双眼，闻到酒香的人骤然迷醉，仿佛进入神国，如此，便与真实的世界暂",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "光辉夺目的横木立人相比，渐渐隐入夜色里的隆庆，就像是不起眼的一点小污痕，但在大师兄看来，隆庆其实更加危险，当然，他也不会无视站在身前的横木，书院习惯与昊天为敌，不代表会轻视昊天。\n　　穿着青衣的少年是那场春雨化成的繁花里的最美丽的那瓣，是昊天留在人间的礼物，被信徒们视为传说中的选民或者说传承者，即便",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "后的十二柄细刀，也早已变成冰的模样，纯白的炽烈光线在他的身躯与刀内不停折射，变得越来越浓郁，渐渐逼近最终的极限，有几丝溢泄而出，瞬间照亮夜色下的皇城废墟。\n　　与此同时，夜色里飘来的那缕酒香，如这些圣洁的光线一样，变得越来越浓郁，没有风能够吹散，直至稠不可化。\n　　望向横木的人，被神辉刺的痛苦地捂住",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "亮夜色下的皇城废墟。\n　　与此同时，夜色里飘来的那缕酒香，如这些圣洁的光线一样，变得越来越浓郁，没有风能够吹散，直至稠不可化。\n　　望向横木的人，被神辉刺的痛苦地捂住双眼，闻到酒香的人骤然迷醉，仿佛进入神国，如此，便与真实的世界暂时脱离。\n　　大师兄在真实的世界里，在圣洁的光线与醉人的酒味之间，神情",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "也不知去了何处。\n　　横木立人看着身前的隆庆，感受着那道黑雾里传来的寂灭意味还有那抹恐怖的气息，震撼愤怒到了难以遏止的程度。\n　　自己酝酿已久的光明一击，配合夜色里那位传奇，眼看着便能把书院大先生焚为灰烬，结果却被此人用难以想象的手段破坏了！他震撼于隆庆展现出来的恐怖境界，更愤怒于对方的行为，他究竟",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "镇上自己曾经养过鱼，有天晚霞满天，鱼池里的水也是这般光辉万丈，和现在眼前的这名少年很像。\n　　他有些感慨，向右前方踏出一步。\n　　横木立人眼前的世界，已经变成光明的世界，他眼中的书生的脸变得很白，但不是苍白，所以他忽然警惕起来，因为他不明白对方为何不警惕？\n　　他现在是道门的重要人物，知道很多秘密，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "人确实超乎想象的强。\n　　光明的、灿烂的、夺目的、逼人的横木立人，就在眼前，大师兄微微眯眼，依然没有紧张，就像是看着顽劣学童的乡村教师。\n　　他想起很多年前，在小镇上自己曾经养过鱼，有天晚霞满天，鱼池里的水也是这般光辉万丈，和现在眼前的这名少年很像。\n　　他有些感慨，向右前方踏出一步。\n　　横木立人",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "都没有照亮。\n　　皇城废墟前，骤然恢复宁静，夜穹里的月光与星光重新散落地面。\n　　那道满是尘埃的旧风缓缓停止，酒香也不知去了何处。\n　　横木立人看着身前的隆庆，感受着那道黑雾里传来的寂灭意味还有那抹恐怖的气息，震撼愤怒到了难以遏止的程度。\n　　自己酝酿已久的光明一击，配合夜色里那位传奇，眼看着便能把",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "与刀身中，他的身躯与刀并没有变黑，而是变成了琉璃般的事物，晶莹剔透，神圣的昊天神辉就在里面不停折射，无数光线不停叠加，变得越来越明亮，渐要变成最纯粹的白，当那些光线骤然迸射出琉璃的那一刻，会拥有怎样恐怖的能量？\n　　大师兄的右手离腰带里插着的木棍还有半尺的距离，他清晰地感知到横木立人即将施展的境界有",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "有风能够吹散，直至稠不可化。\n　　望向横木的人，被神辉刺的痛苦地捂住双眼，闻到酒香的人骤然迷醉，仿佛进入神国，如此，便与真实的世界暂时脱离。\n　　大师兄在真实的世界里，在圣洁的光线与醉人的酒味之间，神情恬淡温和，谁也不知道接下来他会怎样做。\n　　在那缕酒香飘出夜色之前，他便已经提前知道，因为在过去的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "来仿佛受了不轻的伤。\n　　他疲惫地低着头，喘息了很长时间，抬起头来望向大师兄，盯着他的眼睛，声音微哑问道：“宁缺……他一直看着这里吧？”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

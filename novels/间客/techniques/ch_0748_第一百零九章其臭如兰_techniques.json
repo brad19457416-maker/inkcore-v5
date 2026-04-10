@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 748,
+  "chapter_title": "第一百零九章其臭如兰",
+  "filename": "ch_0748_第一百零九章其臭如兰.txt",
+  "char_count": 3564,
+  "timestamp": "2026-04-10T12:05:17.616028",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "拉住，那位母亲不好意思望着许乐笑了笑，许乐忍不住也笑了笑，表示理解。\n\n    好不容易摆脱了记者，众人抢进了电梯，却没有想到，有位长相比较象征主义的男性记者居然悄无声息地埋伏在了电梯里，话筒悄无声息地送到了许乐的下颌。\n\n    “许乐上校，我是港都金融时报的记者。”那名记者兴奋的直抹汗水，望着他",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "敢说任何东西。\n\n    挥手阻止了黑鹰安全人员的殴打。郜郁目光微垂，没有一丝情绪望着脚下那名记者，说道：“你应该认的我，所以不要乱说话，不然我会向警察局报告，有位记者先生试图非礼我。”\n\n    来自港都金融时报的记者身体骤僵，恐惧地望着走出电梯门的那位漂亮红衣女人，半晌爬不起来，媒体记者最擅长的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "着话筒恼火说道；“现在这局面。就算总统先生特赦我，你以为我还能回十七师？你以为我还能主持针对古钟号的秘密调查？”\n\n    “部之源，不论法庭最后怎么判，我就是一个通辑犯，一个逃犯。一个叛再贼的学生，谁也没有办法扭转这一点。”\n\n    他看着脚边的枪械，沉默片刻后说道：“我已经臭了，臭大街了。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "”\n\n    “许乐上校，你真的是东林人吗？”\n\n    “看这边！看这边！许乐上校！”\n\n    紧张亢奋的记者们像潮水一样扑打着黑鹰保安公司的安全人员。许乐快向楼内走去，被挤在人群后邻居家的小姑娘看到他，兴奋地抬起招呼，却被她身旁的母亲拉住，那位母亲不好意思望着许乐笑了笑，许乐忍不住也笑了笑，表",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，你现在在做的事情就在让人们记起这件事情。\n\n    电话那头邸之源的声音显得格外冷厉尖锐：“这是很危险的事情。就算是联邦总统，也不可能和整个联邦做对”看看你现在的处境吧。你网试图接触这件事情，就有无数站在阴暗角落里的影子伸出手来。把你整成这副狼狈模样。”\n\n    “他们现在是要搞臭你，而且你已经",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的眉眼渐渐蹙了起来。\n\n    碰碰啪啪嘀嘀嗒嗒唉哟哎哟，人类脆弱的身躯与坚硬的电梯四壁不停碰撞，拳风呼啸中伴随着记者痛苦的呼喊声，比如什么妨害新闻自由之类的陈辞滥调。然而痛殴始终没有结束。直到那名记者像受伤少女般鼻青脸肿抱头缩于墙角哭泣，再也不敢说任何东西。\n\n    挥手阻止了黑鹰安全人员的殴打",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "组装，对于机械类活计有着过人天赋的他。又接受过白玉兰的特训，并没有花多长时间，便让一整套冰冷的枪械，出现在厨房的地板上。\n\n    这些枪械是几年前为了暗杀麦德林而准备的，只不过那时候的白秘书从白水里偷的弹药太多，所以在二人的住宅里都藏了一些。被搁在水池边的话筒响了起来，许乐夹到耳边，问道：“又怎么",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "先生的性格，他都会特赦。\n\n    一直沉默的许乐转过身来，背靠着淡青色的窗帘，浓浓的眉毛微微蹙起。自嘲说道：“不管法庭怎么判，不管总统会不会特赦我总之旭泛通缉犯，是叛国贼的学么“一潜在里。我也就公叩比叛国。我不是学心理学的，但这个我懂。”\n\n    青年公寓一片死寂般的沉默。\n\n    “包括小西",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "然我会向警察局报告，有位记者先生试图非礼我。”\n\n    来自港都金融时报的记者身体骤僵，恐惧地望着走出电梯门的那位漂亮红衣女人，半晌爬不起来，媒体记者最擅长的就是嗅别风向，然后跟随社会意志去痛打落水狗，所以他才敢如此嚣张地近距离采访许乐，然而他很害怕非礼国防部长千金会落个什么下场。\n\n    窗帘",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "“案件本身不是问题。”徐松子平静看着案卷说道：“公民编号开头许乐没有生物标记留下，所以我们不用担心检方提出生物标记对比。”\n\n    许乐沉默站在窗边，掀起窗帘一角看着楼下狂欢般的新闻媒体。不知道为什么，心情反而变得异常平静。从徐松子的话中他可以明确地感受到，人们其实都已经确定他就是那个东林孤",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "体骤僵，恐惧地望着走出电梯门的那位漂亮红衣女人，半晌爬不起来，媒体记者最擅长的就是嗅别风向，然后跟随社会意志去痛打落水狗，所以他才敢如此嚣张地近距离采访许乐，然而他很害怕非礼国防部长千金会落个什么下场。\n\n    窗帘紧闭的公宫内，进行着激烈紧张的讨论，关于许乐所受到的指控。众人的看法并不一致，但有",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "很长时间后，望着许乐说道：“别说你只是个通辑犯，就算是谋杀犯。依照你为联邦立下的功劳。按照总统先生的性格，他都会特赦。\n\n    一直沉默的许乐转过身来，背靠着淡青色的窗帘，浓浓的眉毛微微蹙起。自嘲说道：“不管法庭怎么判，不管总统会不会特赦我总之旭泛通缉犯，是叛国贼的学么“一潜在里。我也就公叩比叛国",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "关系，您有没有什么需要解释的？对于叛国贼余逢这个人，你有没有什么评价？叛国贼余逢\n\n    电梯里很安静，只有那名记者看似寻常实际上却异常恶毒的提问，许乐脸上没有任何表情，专心致志看着楼层灯的显示，听着机械簧绳的轻微摩擦声，部郁却忍不住摘下墨镜，漂亮迷人的眉眼渐渐蹙了起来。\n\n    碰碰啪啪嘀嘀嗒",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "许乐脸上没有一丝表情，同样冷漠的部郁透过深褐色的镜片，看着那些被记者们踩烂的绿地，想起当年在公寓里的幸福孕妇生活，忍不住在心中骂了一句脏话。\n\n    “许乐上校！许乐上校！关于联邦调查局的指控，你有没有什么需要解释的？”\n\n    “许乐上校，你真的是东林人吗？”\n\n    “看这边！看这边！许乐",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

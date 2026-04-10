@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 411,
+  "chapter_title": "第七十一章 上路",
+  "filename": "ch_0411_第七十一章 上路.txt",
+  "char_count": 3504,
+  "timestamp": "2026-04-10T12:04:59.211411",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "林长路漫漫，长夜也当漫漫……只要能破了这门亲事，我感谢你一辈子。”\n\n    许乐的眉尖皱愈发厉害，心想何其莫名其妙，自己只是一个保镖……摇头应道：“不明白你想说什么。难不成你指望我抢走你大哥的心上人？美男计我是没办法使的，对着你大哥这种俊朗成功男士，施清海出手或许还有些可能性。”\n\n    “这世",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "所以第二天晨在茶几上看到被啤酒瓶压着的那张纸条时，他恼怒的无以复加，生出将啤酒瓶扔出窗外的冲动，但最终因为不愿意砸到公寓楼下的小朋友或花花草草而黯然住手。\n\n    ……\n\n    ……\n\n    “你给他资助。你让他结识百慕大走私商人……你有没有想过。他是我地朋友？你至少应该先经过我地同意！”",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "得把一惯阴寒冷幽扮梅花地七少爷揍成满天飞舞地红梅碎片。\n\n    李维无声息地离开首都。踏上前往百慕大地未知旅程。是因为利七少爷提供了赞助。就连那几位百慕大地走私商人是因为木谷庄园里地午餐会。而让李维觅到了攀附地机会。\n\n    “他要走地急。我也不知你不知道这件事情。昨天半夜。我也不方便给你打电话",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "。然而看了一眼冷冰冰站在七少爷身后，依旧像一把布缚住的铁枪的曾哥，最终只是叹了一口气。\n\n    按道理来说，许乐联邦逃犯的身份已经被那位老爷子强行压下，邰夫人应该不会再对李维动手，因为这不符合利益。然而万一那位老爷子死了呢？莫愁后山再次出手，李维便是许乐身份的一个缺口，这次邰家会再让西林钟家横伸一",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "铁之上擦肩而过，也没有任何瓜葛。\n\n    最关键的是，许乐认为自己有谁都想不到的后路，即便这个联邦将来无情地抛弃他，收拾他，他还有宪章光辉里的那个老东西可以帮助自己——即便那个老东西都忽然翻脸，他还有左手的手镯——不拘遭逢如何郁郁，处境如何艰难，他自信自己都能硬生生杀出一条满是血污的道路。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "少应该先经过我地同意！”\n\n    在首都特区南郊高速公口地一片空地中。许乐踩着几片粉碎地秋叶。表情愤怒盯着车前地利孝通。恨不得把一惯阴寒冷幽扮梅花地七少爷揍成满天飞舞地红梅碎片。\n\n    李维无声息地离开首都。踏上前往百慕大地未知旅程。是因为利七少爷提供了赞助。就连那几位百慕大地走私商人是因为木",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "都被自己感动的一塌糊涂。\n\n    “别掉尿。”李维拿过啤酒瓶灌了一口，唏嘘道。\n\n    许乐低头说道：“我是很难被煽情的人。”\n\n    虽然感动，许乐却不可能答应让李维就此离开，远赴百慕大去打那片可能永远无法打下来的大大黑道江山。如今西林前线紧张，他不可能要求钟家那位夫人再帮助自己做什么，在百",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "水儿，并没有坐在自己的汽车中，而是单独落寞地坐在许乐的身后，望着那个一年多不见的小眼睛男生，问道：“为什么坚持让我坐这辆车？”\n\n    “因为这辆车很强。”听到身后女孩儿的声音，许乐略感紧张，强自镇定回答道。\n\n    “就像你一样强？”简水儿隔着墨镜，神情复杂地看着前方，说道：“要保护我这个灾星",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的一个缺口，这次邰家会再让西林钟家横伸一手，把事情揽过去吗？\n\n    有了去年的那一次经历，如果再出现这种最恶劣的情况，许乐心知肚明，以李维的江湖子弟悍气，只怕不会再让这种情况发生，如果他发现自己不能保住自己，那么在落入对方手中之前，这位孤儿首领应该便会异常冷漠强悍地了结自己的生命。\n\n    朋",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "惊。\n\n    他们这是在前往军方太空基地的路上。消失在联邦公众面前已经长达一年半的简水儿，并没有被人们遗忘，这次复出演唱会选择在西林劳军，得到了军方上下的一致赞赏和大力支持，国防部竟是不惜财力物力，为这位国民少女的演出队伍，安排了一艘专用飞船。\n\n    按道理来说，身为七组的安全主管，许乐这时候",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。\n\n    许乐低头说道：“我是很难被煽情的人。”\n\n    虽然感动，许乐却不可能答应让李维就此离开，远赴百慕大去打那片可能永远无法打下来的大大黑道江山。如今西林前线紧张，他不可能要求钟家那位夫人再帮助自己做什么，在百慕大星域中，他根本找不出来任何资源，那位百慕大的地下皇帝林半山与他只是在高铁之",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "动，许乐却不可能答应让李维就此离开，远赴百慕大去打那片可能永远无法打下来的大大黑道江山。如今西林前线紧张，他不可能要求钟家那位夫人再帮助自己做什么，在百慕大星域中，他根本找不出来任何资源，那位百慕大的地下皇帝林半山与他只是在高铁之上擦肩而过，也没有任何瓜葛。\n\n    最关键的是，许乐认为自己有谁都",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "望着外于寒风间瑟瑟发抖，一晃即过变成白线的野棉花，许乐暗想如果自己真的有事，这些人肯定会马上回到自己身边，人生于世，能够有这样几位既能吃肉喝酒，谈人生谈理想不谈价钱不谈生死的朋友，实在应该满足。\n\n    ……\n\n    ……\n\n    二十七辆各色车辆组的车队驶出了秋鸣山别墅群。车队中",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "的后路而去冒险，这是他绝对不能接受的事情，虽说那是李维自幼的梦想。\n\n    拒绝李维离开，许乐不怎担心，他认为李维在首都星圈只认识自己一个人，没钱没门路，绝无可能一个人偷偷跨越星河，偷渡去遥远的百慕大星域。\n\n    所以第二天晨在茶几上看到被啤酒瓶压着的那张纸条时，他恼怒的无以复加，生出将啤酒瓶",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "朗成功男士，施清海出手或许还有些可能性。”\n\n    “这世道，花样美男已经不行了，最流行沉默阳光的性格小生。”利孝通望着他笑了笑，转身挥手告别，带着曾哥钻进了豪华汽车。\n\n    在高速路口速的秋风中，许乐望着远去的那辆汽车，有些惘然地摊开双手，发现自己的西林之行似乎隐藏着什么很奇妙的因素，问题在",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "领竖了起来，挡住了秋风的灌入，似笑非笑阴沉说道：“我并不担心你能不能从西林前线活着回来，只是希望你能满足我一个卑微的念头。”\n\n    “嗯？”许乐皱着眉头望着他，不知道自己\n\n    水儿前往西林，和他又有什么关系。\n\n    “你想你应该知道，我那位大哥正在追求那位国民偶像少女，虽然还没有完全成",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

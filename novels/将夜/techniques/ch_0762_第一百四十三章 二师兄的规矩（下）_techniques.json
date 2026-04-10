@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 762,
+  "chapter_title": "第一百四十三章 二师兄的规矩（下）",
+  "filename": "ch_0762_第一百四十三章 二师兄的规矩（下）.txt",
+  "char_count": 2461,
+  "timestamp": "2026-04-10T12:11:27.127605",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "用再说，像君陌和叶苏这样层次的人，说话只是闲聊或者说只是局限在话语本身，无关心理上的什么攻势，那没有意义。\n　　一人站在青峡之前，一人稻田之中，各自沉默。\n　　在原野上观战的数十万人，紧张地看着青峡方向，不知道这场战斗会怎样开始，不知道他们会何时出手，谁会先出手。\n　　就在不知何时的那个时刻，叶苏出",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "抬头，看着那片白云，眼眸深处隐隐现出一道极复杂的情绪，然后这些情绪尽数归为脸颊上的漠然。\n　　当年她追杀隆庆过燕北边塞，在那片细蓝如腰的海子畔，曾经见过这片云，所以这片云对她的意义，与对西陵神殿里别的人的意义都不同。\n　　柳白看着青峡处的白云，没有说话。\n　　……\n　　……\n　　青峡处的云是白的，但",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "这样手段的修行者，对天地气息本源以及规律的了解，那该到了怎样恐怖的一种程度？\n　　“这才是真正的五境巅峰，叶苏果然不愧是道门的奇才。”\n　　四师兄看着稻田里飞来的那柄木剑，失神说道：“二师兄铁剑砍人，用的是天地之力，叶苏此时用的也是天地之力，双方境界仿佛……”\n　　七师姐木柚担心说道：“谁更强些？”",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "只看着远处稻田里的叶苏。\n　　他举起手中的铁剑，持平，齐眉，施古礼。\n　　一平剑，迎面吹来的秋风顿时为之一肃，自敛没无声。\n　　……\n　　……\n　　雷电终于落了下来。\n　　青峡前响起无数声恐怖的轰隆巨响。无数道闪电挟着令人心惊胆颤的威力，几乎瞬间便尽数落在了地面上。\n　　黑云绞动不安，闪电像蛇",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "雷电终于落了下来。\n　　青峡前响起无数声恐怖的轰隆巨响。无数道闪电挟着令人心惊胆颤的威力，几乎瞬间便尽数落在了地面上。\n　　黑云绞动不安，闪电像蛇般钻进青山，山石垮塌。\n　　二师兄平剑，秋风骤肃，便是身前的空间，都仿佛被这道宽直的铁剑，画出了无数个方块，然后变成方框，最后变成细条。\n　　无数道",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "师兄服了数剂煎药，精神微振，然而此时看着空中那片云层，感受着其间蕴藏的天地气息，他举着沙盘的双臂再次颤抖起来。\n　　他很震惊，能够施出这样手段的修行者，对天地气息本源以及规律的了解，那该到了怎样恐怖的一种程度？\n　　“这才是真正的五境巅峰，叶苏果然不愧是道门的奇才。”\n　　四师兄看着稻田里飞来的那柄",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "修行者，对天地气息本源以及规律的了解，那该到了怎样恐怖的一种程度？\n　　“这才是真正的五境巅峰，叶苏果然不愧是道门的奇才。”\n　　四师兄看着稻田里飞来的那柄木剑，失神说道：“二师兄铁剑砍人，用的是天地之力，叶苏此时用的也是天地之力，双方境界仿佛……”\n　　七师姐木柚担心说道：“谁更强些？”\n　　四师",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "起伏向前。\n　　无数道目光盯着那柄木剑，有些惊讶，有些不解，甚至有些失望。\n　　然而下一刻，青峡前便出现了一幕令人感到震撼的画面。\n　　随着木剑的飞行，青峡前忽然生出一道云层。\n　　那片云层厚约数丈，晦暗至极，里面隐约可见雷电渐蕴，距离地面极低，只有十余丈，从远方望去，竟似要与地面接触。\n　　青峡出",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "叶苏身前向青峡处而去，淡然平静沉默，剑前的稻浪随势而分，就像是湖水渐分，湖里一道柳枝起伏向前。\n　　无数道目光盯着那柄木剑，有些惊讶，有些不解，甚至有些失望。\n　　然而下一刻，青峡前便出现了一幕令人感到震撼的画面。\n　　随着木剑的飞行，青峡前忽然生出一道云层。\n　　那片云层厚约数丈，晦暗至极，里面隐",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "什么攻势，那没有意义。\n　　一人站在青峡之前，一人稻田之中，各自沉默。\n　　在原野上观战的数十万人，紧张地看着青峡方向，不知道这场战斗会怎样开始，不知道他们会何时出手，谁会先出手。\n　　就在不知何时的那个时刻，叶苏出手了。\n　　道门天才对书院天才的出手，与所有人的想象都不一样，没有天崩地裂，没有山石",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "说道：“二师兄铁剑砍人，用的是天地之力，叶苏此时用的也是天地之力，双方境界仿佛……”\n　　七师姐木柚担心说道：“谁更强些？”\n　　四师兄说道：“不知道，此间大概只有柳白能看出来。”\n　　……\n　　……\n　　青峡被白云覆盖。\n　　西陵神殿联军阵中，有很多神官和修行者以及护教骑兵，曾经参与过春天在荒原上",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "仿佛被这道宽直的铁剑，画出了无数个方块，然后变成方框，最后变成细条。\n　　无数道雷电向他的身体落下，进入那些空间，本应曲折的闪电，陡然间变成了一道笔直的明亮的线条！\n　　电闪雷鸣还在持续。\n　　焦黑的盔甲表面反射着闪电，渐热渐亮，无比明亮。\n　　在南方原野间观战的联军官兵，觉得自已仿佛看到了一轮太阳",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "人最强大的战士唐，被这片云层弄的非常狼狈，所以看着这幕画面，他们震惊而兴奋起来。\n　　神辇里，叶红鱼缓缓抬头，看着那片白云，眼眸深处隐隐现出一道极复杂的情绪，然后这些情绪尽数归为脸颊上的漠然。\n　　当年她追杀隆庆过燕北边塞，在那片细蓝如腰的海子畔，曾经见过这片云，所以这片云对她的意义，与对西陵神殿里",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "规矩，这是书院的规矩，说起来有些霸道不讲道理，但其实在这之前，有道理两个字。\n　　叶苏没有动怒，平静说道：“道理与武力无关，就算君陌你能胜过我，也不能让我同意你的看法。真理来自于昊天，道理来自于对现实的评价，来自于贤者的教诲，大先生可以教我，但你不行。”\n　　既然说不通，那便不用再说，像君陌和叶苏这",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

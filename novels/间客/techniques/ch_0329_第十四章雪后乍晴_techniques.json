@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 329,
+  "chapter_title": "第十四章雪后乍晴",
+  "filename": "ch_0329_第十四章雪后乍晴.txt",
+  "char_count": 3300,
+  "timestamp": "2026-04-10T12:04:59.229059",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的缓过经过了四严格的扫描验程序之后。许乐走出倾城军事监狱。\n\n    他仰头。眯着眼。了一眼阴灰暗的天空。然后回头向着狱长诸人。便在两名军官的陪伴下上了军车。\n\n    军事监狱|负着双手。看着那辆军车在灰色的公路上变成一个小黑点。住轻轻叹了。\n\n    作为狱长的他。很清楚倾城军事狱的传统与故事。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "只能说这是一块蠢石。而许乐并不愚蠢。\n\n    颈后的身份芯片被换了。被安排进梨花大学。芯的权限可以进入h1,从而认识家的太子爷。由此为发端。小犯一头雾水的撞进了联邦最上层的圈子。\n\n    若不是许乐看着路上平坦处。总有去踹两脚的强烈渴望。若不是他看见巷子里黑暗角。便觉有些郁闷。想点一把火。就按着",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "走的时候这里在下雪。回来的时|。却已经是浓化不开的深春。雪后乍晴。真是乍。一百多个日子。其实只是瞬间。\n\n    睁眼闭眼间。这天便晴了。\n\n    一辆黑色的公务车滑行到了他的身前。车中走下来几名穿着黑色开正装的特勤局特工。其中一人冷冷的望着许乐说道：“我们给你安排了的方洗澡用餐。时间不多。下",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "为那位不知生死的大叔一手造成。\n\n    就算是一块真的石头。经历了这么多事情。如果还不能将这几年的逃亡生涯做出一个合理的分析结论。那只能说这是一块蠢石。而许乐并不愚蠢。\n\n    颈后的身份芯片被换了。被安排进梨花大学。芯的权限可以进入h1,从而认识家的太子爷。由此为发端。小犯一头雾水的撞进了联邦",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "顶峰。所有人集体起立。向那位为了联邦和解奋斗终生。勇于抵抗帝国侵略的民族斗士。后半生恪守非暴力主张。最终却死于青龙山狂热民族主义恐分子手中的老人。表达自己衷习的敬仰与哀。\n\n    这种情绪一直持续到星云奖员主席提高音调。请帕布尔总统上台致词时。才稍微发生了一些变化。刚刚坐下来的宾们。再次全体起立。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。一切都显的那般安祥和平。\n\n    他今天穿了一身没有肩章的军装。有任何行李。时忽然孤身一人。站在人群之中。竟觉的有些茫然无助。时不时有人从他身边走过。有很多人在他身旁不远处借着议会大厦为背景照像留念。没有一个人注意到他。更没有人会想到。这个似乎在等人的年轻军人。就是让联邦闹腾了半年之久的那名恐怖",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "邦政府在最短的时间内公布了调查结果。安拂了一部分人。而帕布尔总统阁下。则是亲前往临海州大学城。与那些激动的学生们进行对话。据说当时对话场。帕布尔总统语气沉稳。态度强硬。但人人都知道。帕布尔总统从来没有停止对乔治卡林学说的赞扬。甚至星云奖的颁奖仪式。也是他的安排下。才在乔治卡林基金会文化艺术中心举行…",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "？说不定这故事后面的发展。也全部在他的推断之中。许乐有些默然的想到这一,。不禁心生微之意。费城李家这究竟是个什么的方。这一对处于光明黑暗中的兄弟二人。怎么都厉害到如此程度他们的智慧。他-|的气度。他们那恐怖到了极点的实力。究竟是从哪里学来的？除了李疯子和自己。好像没有发现联邦里有别的人会在夏日里浑身",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "他。很清楚倾城军事狱的传统与故事。进来这座监狱的人。基本上都很难再出去。但只要从这座监狱里去的囚犯。将来必将成为联邦里万众瞩目的大人物今天离开的这个小眼睛男人。大概也不会例外吧。\n\n    ……\n\n    ……\n\n    经过了三个小时的途飞行。军机降落在首都郊区的军用机场。从飞机上下来。许乐坐上了",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "刚坐下来的宾们。再次全体起立。欢迎联邦总统阁|的到来。\n\n    在这年的联邦上,社会中。能够有资格出现在乔治卡林中心的宾客们。对于这位脸色黝黑。出身社会底层矿工家庭的政治家。总会有些不屑或冷淡。但是帕布尔先生如今了联邦的总统。他们必须把这种情绪掩盖的极好。尤其是最近这半年。帕布尔总统率领着政府内阁",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "李疯子和自己。好像没有发现联邦里有别的人会在夏日里浑身发抖。变身成为某种怪物……\n\n    便在纷乱思绪。浅浅睡眠中。一夜无话而尽。迎着凌晨时分天边的鱼肚白在倾城军事狱军官们的押解与狱长先生的亲自相送下。许乐走出了囚室。走过幽长的通道。\n\n    隔着透明材料。看着在食堂里吃早餐那些重犯许乐习惯性的",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "级技主管。与家关系亲密。与费城李家勾勾搭搭。真可谓是前程似锦……\n\n    不过封余又怎么会知道乐的性格？说不定这故事后面的发展。也全部在他的推断之中。许乐有些默然的想到这一,。不禁心生微之意。费城李家这究竟是个什么的方。这一对处于光明黑暗中的兄弟二人。怎么都厉害到如此程度他们的智慧。他-|的气度。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "冤屈与黑暗但毕竟隔栏相望了二十多天再联想到自并不无辜却又有些冷的遭遇。他想最后打个招呼。\n\n    沉重的金属大门悄无声息的缓过经过了四严格的扫描验程序之后。许乐走出倾城军事监狱。\n\n    他仰头。眯着眼。了一眼阴灰暗的天空。然后回头向着狱长诸人。便在两名军官的陪伴下上了军车。\n\n    军事监狱",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "发端。小犯一头雾水的撞进了联邦最上层的圈子。\n\n    若不是许乐看着路上平坦处。总有去踹两脚的强烈渴望。若不是他看见巷子里黑暗角。便觉有些郁闷。想点一把火。就按着封余安排的道路走下去。只怕他如今早就已经成为联邦最年轻的中校军官之一。果壳公司的一级技主管。与家关系亲密。与费城李家勾勾搭搭。真可谓是前",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "发生了一些变化。刚刚坐下来的宾们。再次全体起立。欢迎联邦总统阁|的到来。\n\n    在这年的联邦上,社会中。能够有资格出现在乔治卡林中心的宾客们。对于这位脸色黝黑。出身社会底层矿工家庭的政治家。总会有些不屑或冷淡。但是帕布尔先生如今了联邦的总统。他们必须把这种情绪掩盖的极好。尤其是最近这半年。帕布尔",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "一辆黑色的公务车滑行到了他的身前。车中走下来几名穿着黑色开正装的特勤局特工。其中一人冷冷的望着许乐说道：“我们给你安排了的方洗澡用餐。时间不多。下午总统先生还有行程安排。中午的时候。他会在官邸等你。”\n\n    许乐下意识里点了,头。\n\n    ……\n\n    ……\n\n    都南区。乔治卡林基文",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

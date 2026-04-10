@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 317,
+  "chapter_title": "第三章西林的征途 第五章 帝国种子",
+  "filename": "ch_0317_第三章西林的征途 第五章 帝国种子.txt",
+  "char_count": 4733,
+  "timestamp": "2026-04-10T12:04:59.208818",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "前知道了麦德林的秘些人今天才是第一次知道，所以他们的心头难掩震惊，脸上的表情极为难看，放在桌上的双手紧张地搓动着。\n\n    “我们相信，通过生物标记的对照结果，以及帝国方面刻意留下的某些印证，帝国可以很轻松地说服他，他是他们的人。”\n\n    “从一位联邦的民族战士，变成帝国埋藏最深的一名间谍，麦",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "统的位置，帝国所谋果然极大，居然是针对宪章局做手脚，如果一旦让他能够影响或知晓联邦电子监控网络的运行秘密，帝国再次入侵，便将少了最让他们恐惧的那层光辉！\n\n    上方光幕中，联邦副总统拜伦脸上的表情异常凝重，按照联邦政府相关条例，他与帕布尔总统极少会出现在同一个地方，今天这场重要的会议，他也是通过",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "合下，对联邦地各大机构进行了梳理。依照中央数据库的存档数据，我们\n\n    三千六百七十一名嫌对象，最终我们确认了有七名，有可能是帝国方面，这些年来不断向联邦渗入的种子。”\n\n    “我把他们叫做种子，因为一旦被帝国浇水施肥后，他们会在联邦的土地里，开出带毒的花朵。”\n\n    宪章局局长缓缓地说",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "章西林的征途 第五章 帝国种子 \n\n    战指挥部里有极少数人已经提前知道了麦德林的秘些人今天才是第一次知道，所以他们的心头难掩震惊，脸上的表情极为难看，放在桌上的双手紧张地搓动着。\n\n    “我们相信，通过生物标记的对照结果，以及帝国方面刻意留下的某些印证，帝国可以很轻松地说服他，他是他们的人",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "但他毕竟是副总统候选人，宪章局的调查阻碍不少，而且我也必须承认，宪章局被政治这种东西束缚住了手脚，一心想要拿到铁一般的证据，而没有对他采取断然的措施。”\n\n    “这是宪章局犯下的最大的错误，太过求稳，却没有想到麦德林已经准备抛下联邦的一切，断然离开。”老局长用一种幽冷的声音说道：“幸好在他走之前",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "步步进入了联邦核心区域。”\n\n    崔聚冬向着帕布尔总统认真说道：“现在看来。这一是对于联邦来说最危险地一步。”\n\n    这十年里地麦德林议员来往于s1s2间。身周除了那些一直跟随他地狂热分子之外。与联邦上层地那些大人物们。也有许多说不清道不明地关系。此人一直是在以帝国间谍地身份暗中窥峙。谁也不",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的时候，联邦距离覆灭的危险，不过是仅仅几个小时的时间。”\n\n    邰局长抬起头来，冷冷地看着场间的众人，缓缓地深吸了一口气，说道：“宪章局对他的怀其实并没有什么理由，全部归功于中央电脑的自主研判提示，但他毕竟是副总统候选人，宪章局的调查阻碍不少，而且我也必须承认，宪章局被政治这种东西束缚住了手脚，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "只是一直失败。”\n\n    “据事后分析，在这种情况下，他确认无法完成自己的使命，所以选择了进入青龙山，从军方面着手。”\n\n    “必须承认，他做的很出色，他用了十五年的时间，成为了军中央委员会的重要人物，在青龙山内部拥有了足够的地位。紧接着，他便提出了非暴力不合作主张，绕了一个圆圈，依然想要进入",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "一动。\n\n    麦德林，这粒帝国的种子，在联邦的土里开出了带毒的花，却在它开始播种之前，被两个不讲道理的农夫，直接连根铲了。\n\n    ……\n\n    ……\n\n    晚上还有一章，呃，大家伙多投我几张月票奖赏一下？写的不多，确实不多，嘿嘿，态度端正嘛，所以向大家要下月票小-说-t-xt-天.堂",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "回了s2。这应该是他开始尝试着完成帝国交给他的任务。在之后的四年里，他一直在尝试通过联邦的选举途径，进入联邦的政治体系，只是一直失败。”\n\n    “据事后分析，在这种情况下，他确认无法完成自己的使命，所以选择了进入青龙山，从军方面着手。”\n\n    “必须承认，他做的很出色，他用了十五年的时间，成",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "国的奸细，但事实上对联邦却是造成了极大的危险。\n\n    听到邰局长的这句话，指挥部里的高官将领们都同时感到了一丝寒意，政府军方三百多人同时被隔离审查判刑，毫无问是这个宪历当中最大的一次清洗行动。\n\n    但这些大人物们没有一个人敢提出质，因为不做出冷酷的清洗，麦德林这个最可怕的帝国隐藏，在联邦内",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "方面便开始有这种计划，他们的隐忍与耐心，异常可怕，而且令人心生敬意与惧意。”\n\n    宪章局邰局长缓缓地睁开了双眼，开口说道：“帝国这个计划很好很强大，花了几十年的时间布局，就连他们布下的棋子一开始都不知道自己的身份，麦德林当年获得紫星勋章时，想必真是一个痛恨帝国人到了极点的联邦战士，只不过后来他",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "地影响力，以及他所鼓吹的非暴力主张，一步步进入了联邦核心区域。”\n\n    崔聚冬向着帕布尔总统认真说道：“现在看来。这一是对于联邦来说最危险地一步。”\n\n    这十年里地麦德林议员来往于s1s2间。身周除了那些一直跟随他地狂热分子之外。与联邦上层地那些大人物们。也有许多说不清道不明地关系。此人一",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

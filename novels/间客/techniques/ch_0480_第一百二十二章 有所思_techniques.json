@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 480,
+  "chapter_title": "第一百二十二章 有所思",
+  "filename": "ch_0480_第一百二十二章 有所思.txt",
+  "char_count": 3530,
+  "timestamp": "2026-04-10T12:04:59.239544",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "令。\n\n    而这些战报与嘉奖令上出现最多的名字，便是联邦第三军区第七机械师。\n\n    战争猛然爆发，联邦宣传机器展开了同步的密集攻势，只不过短短数天时间，本已被联邦公众渐渐遗忘，虽十年军演不败却只在军方内部享有大名的“铁七师”以一种摧枯拉朽的气势，出现在整个宇宙面前。\n\n    必须承认，铁七",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "狂乱而凌厉的追击。\n\n    这一场惨烈的追击战从深夜打到清晨，从清晨打到黄昏，不知有多少鲜血喷涂上天空，让晚霞红的无比妖艳……\n\n    是夜，红霞如血时，铁七师取得了最终的胜利，然而他们也付出了极为惨重的代价。\n\n    ………………\n\n    ………………\n\n    帝国远征军坚守了数十年的坚",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "将军远离故土的一次戾狠甚至有些绝望的恐怖决断，而全部砸了出去。\n\n    帝国远征军所有的重型武器，秘密陆基导弹基地，电控微型飞机库，军力布署乃至最真实的部队实力，都全部暴露在联邦军队的面前。\n\n    以铁七师的惨烈胜利为发端，联邦开始由南至北的快速反击，无论是指挥部，还是西林军区，抑或是远在首都",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "千金。\n\n    被他强壮身体压着的南相美身上穿着一件深绿色的高领仿毛衣，紧闭着双眼，黑色的睫毛微微颤抖，似是醒的，却不肯睁眼，似乎在期待什么，脸颊上满是羞涩的红晕，温婉之中带着一抹不忍侵犯的纯洁。\n\n    偏在这纯洁之前，他却生出了些许暴戾的兴奋意味，抓住深蓝色毛衣的下摆，猛地向上掀起，让南相美",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "帝国远征军坚守了数十年的坚守待援战略，忽然间冰消雪融，就像是这颗行星三千年一次的流凌那般。枫林联队存在了许多年的家底，为了皇帝陛下的一次乱命，安布里老将军远离故土的一次戾狠甚至有些绝望的恐怖决断，而全部砸了出去。\n\n    帝国远征军所有的重型武器，秘密陆基导弹基地，电控微型飞机库，军力布署乃至最",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。政丨府有关部门绝对不会愚蠢到让各大电视台用黑字在荧幕不停刊登阵亡将士的姓名，相反，新闻上充斥着不断出现的胜利战报与嘉奖令。\n\n    而这些战报与嘉奖令上出现最多的名字，便是联邦第三军区第七机械师。\n\n    战争猛然爆发，联邦宣传机器展开了同步的密集攻势，只不过短短数天时间，本已被联邦公众渐渐遗",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "冰雪般严寒，疏杂的眉毛混着冰渣的安布里老将军，站在冰雪覆盖的基地顶层，老手拍不断钢铁的栏杆，心生无限感慨与震惊，联邦为什么就能猜到皇帝陛下的乱命？还是说联邦的间谍已经宁忍难以置信地渗入了帝国的核心地带？\n\n    与5460行星胜利的烟花不停绽放景象不同，国防部其余三分之二的计划，进行的并不如何顺利",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "谋的战果。\n\n    联邦总数近三千四百台的m52机甲，在这颗行星的南北分界线上便扔了三百多台，就像无数冰冷的铁棱石，混夹在自动化的机械部队之中，向着北方前进。\n\n    还有几十台黑色的妖异的mx新式机甲在山野间时隐时现。\n\n    帝国枫林联队的决然如潮水，联邦军队追击的狂烈如林火，漫卷而去，直",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "艺术品一样研究那道白嫩深影线条的弧度，然后下意识里张开双手十指，化为某种浩劫前神话动物的爪子，犹疑而紧张兴奋的轻轻抓了下去。指间陷入不知底的绵软之中，很舒服，却也很慌张，他愕然扭头，不想自己去看商秋如射线一般的眼睛，因为他总觉得在商秋的眼光中，自己就像是一台机甲，被解剖的一干二净。\n\n    然而回",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "嘉奖令。\n\n    而这些战报与嘉奖令上出现最多的名字，便是联邦第三军区第七机械师。\n\n    战争猛然爆发，联邦宣传机器展开了同步的密集攻势，只不过短短数天时间，本已被联邦公众渐渐遗忘，虽十年军演不败却只在军方内部享有大名的“铁七师”以一种摧枯拉朽的气势，出现在整个宇宙面前。\n\n    必须承认，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "是他们的死亡……\n\n    ……\n\n    ……\n\n    新闻上，议会刚刚通过了对铁七师的嘉奖令，同时拿两支延误军机的整编师师长被就地去职，押回首都星圈军事法庭受审，许了眯了眯眼睛，然后关上了电视，开始闭目思考某些问题。\n\n    那两个师都是西林军区的直属部队。\n\n    鉄七师不停上新闻，不停",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "的南相美身上穿着一件深绿色的高领仿毛衣，紧闭着双眼，黑色的睫毛微微颤抖，似是醒的，却不肯睁眼，似乎在期待什么，脸颊上满是羞涩的红晕，温婉之中带着一抹不忍侵犯的纯洁。\n\n    偏在这纯洁之前，他却生出了些许暴戾的兴奋意味，抓住深蓝色毛衣的下摆，猛地向上掀起，让南相美如白玉般的**上半身暴露在眼前与空",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "诱饵，引爆一场局部战争，然后以局部战争诱发一场行星战争，再以这场行星战争诱使帝国远征军唯一的那支舰队离开荒芜星域……\n\n    将那支帝国舰队诱离，那么国防部暗中准备已久的——对另外两颗沦陷星球的大登陆作战，便可以获得高贵的安全外太空环境。\n\n    这个计划本身并没有什么问题，出来联邦没有想到安布",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "则是裙下那双与她身高比列不如何相符，从而（更显得）修长紧绷光滑的有些夸张的腿……\n\n    少女没有回答，但梦中的许乐知道她是谁，因为她有一头紫色的短发。许乐觉得自己在亵渎一幅艺术家的油画，恋恋不舍却又心慌意乱地转回头来，却见身下的商秋已经变成了那位容颜秀丽的南相家千金。\n\n    被他强壮身体压着",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

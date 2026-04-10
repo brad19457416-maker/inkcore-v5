@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 21,
+  "chapter_title": "第二十一章 问道无矩",
+  "filename": "ch_0021_第二十一章 问道无矩.txt",
+  "char_count": 2562,
+  "timestamp": "2026-04-10T12:11:03.407682",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "扶膝，沉默很长时间后抬起头来，看着老人认真回答道：“知道那些人世间的最强者，对于现在的我来说没有任何意义，他们是高飞在天的雄鹰，我只是在地上艰难爬行的蚂蚁，他们眼中不会有我，所以我的眼中也不必有他们。”\n　　“那你……问这些修行基础的原因是？”老人神情异样看着他。\n　　宁缺认真回答道：“那些大修行者",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "我意料的选择。”吕清臣老人微笑说道：“要知道这些东西虽然世俗普通人确实不是很清楚，但终究也算不上什么秘密。”\n　　“算不上秘密还是秘密。”宁缺笑着回答道：“我会替您守住。”\n　　“好吧。”吕清臣老人笑出声来，略一沉吟后问道：“你知道昊天道吗？”\n　　宁缺看着这位昊天道的南门行走，点了点头。\n　　“我",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "二十一章 问道无矩\n　　吕清臣老人微笑问道：“那你想知道哪些事情？”\n　　宁缺认真思考了很长时间后，说道：“我想知道……什么是修行。”\n　　吕清臣笑道：“你真的很贪心。”\n　　宁缺脸上全无尴尬之色，说道：“那么……您能告诉我修行分多少境界，不同境界有怎样不同的能力吗？”\n　　“依然是出乎我意料的选择",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "些相对普通的修行者，比如像那位青衫书生般的大剑师，我自己不能修行，就越要弄明白什么是修行，知道他们的战斗方式……”\n　　“你的目的是？”老人的花眉缓缓挑了起来，似乎对他的答案极感兴趣。\n　　宁缺低头微笑，然后抬头平静应道：“如果将来某日，我被迫要和修行者做战，今天您教给我的这些事情，对我战胜他们提供",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "想到你会问这些。”\n　　宁缺双手扶膝，沉默很长时间后抬起头来，看着老人认真回答道：“知道那些人世间的最强者，对于现在的我来说没有任何意义，他们是高飞在天的雄鹰，我只是在地上艰难爬行的蚂蚁，他们眼中不会有我，所以我的眼中也不必有他们。”\n　　“那你……问这些修行基础的原因是？”老人神情异样看着他。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "师，我自己不能修行，就越要弄明白什么是修行，知道他们的战斗方式……”\n　　“你的目的是？”老人的花眉缓缓挑了起来，似乎对他的答案极感兴趣。\n　　宁缺低头微笑，然后抬头平静应道：“如果将来某日，我被迫要和修行者做战，今天您教给我的这些事情，对我战胜他们提供很大帮助。”\n　　“一个普通人与能调动天地元气",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "调动天地元气的修行者做战？而且你要战胜他们？”\n　　老人盯着宁缺的眼睛，喃喃重复问着，忽然间他的眉毛颤抖了起来，枯瘦的身躯里暴发出一阵极欢愉的大笑声：“哈哈哈哈哈！”\n　　大笑声渐渐停歇，老人看着渐露尴尬之色的宁缺，微笑说道：“很豪迈，我喜欢。”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "的是？”老人的花眉缓缓挑了起来，似乎对他的答案极感兴趣。\n　　宁缺低头微笑，然后抬头平静应道：“如果将来某日，我被迫要和修行者做战，今天您教给我的这些事情，对我战胜他们提供很大帮助。”\n　　“一个普通人与能调动天地元气的修行者做战？而且你要战胜他们？”\n　　老人盯着宁缺的眼睛，喃喃重复问着，忽然间他",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "吕清臣沉吟很长时间，抬起头来望着他，缓声说道：“传说中知命之上还有诸多玄妙境界，而真正在典籍上出现过的只有两种，一者为天启，一者为无距。”\n　　“所谓天启，是指修行者能够直接聆听昊天启示，以虔诚奉拜祭道门神术，于空无之境中暂借昊天威势光明，昊天普照世间，纵是威势光明中之一缕，寄于一修行者之身，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "点。\n　　“关于无距……也许书院里面的记载会更多翔尽一些。”\n　　吕清臣老人看着少年出神的稚嫩面容，感慨说道：“能入这两等境界的大修行者想必都是圣人，古谚虽云千年圣人降，但人世间已经不知多少年没有出现过圣人，所以这些……只不过是神话传说，听听便罢了，苦想多无益。”\n　　宁缺俯身再拜表示受教。\n　　老",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "而这条道路被我们分成五个段落，也就是你所说的五个境界。”\n　　“初境称作初识。是指修行者之意念自气海雪山外放，明悟天地之息的存在。”\n　　“第二个境界称为感知。这一阶段修行者能够触碰到天地间流转飘浮着的元气，并且能够与之和谐相处，甚至进行一些感觉上的交流接触。”\n　　“第三个境界称为不惑。指修行者此",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "过这样的境界，却没有具体描写，只有廖廖一句形容：从心所欲而无距。”\n　　吕清臣老人微微蹙眉，面容却是一片安然宁静，悠悠说道：“以我之猜测，所谓无距境界，那些圣人意念所至便能抵万里之外……这该是何等壮阔。”\n　　从心所欲而无距……宁缺被这七字所深深撼动，然而究竟是无距还是无矩？\n　　隐约间他仿佛捕捉到",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "明白天地间元气流动的规律并且加以利用，世人口中所谓剑师符师便范指此类。”\n　　“第四个境界称为洞玄。进入这个境界的修行者已经能够把自己的意识与天地元气融为一体，对于念者而言，意味着他可以通过自己的意识直接攻击敌人，在这个境界里浸淫日久，或者能够做出一些格外玄妙的手段。”\n　　“少年，你不用这般看着我",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

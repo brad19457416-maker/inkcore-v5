@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 116,
+  "chapter_title": "第一百一十六章 温暖至滚烫的湿毛巾",
+  "filename": "ch_0116_第一百一十六章 温暖至滚烫的湿毛巾.txt",
+  "char_count": 3385,
+  "timestamp": "2026-04-10T12:11:11.988378",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "皮皮这个西陵的小神棍。\n　　在大街上昏迷的那段时间，他知道肯定有些事情发生，不然无法解释身上那些伤口为什么会愈合，也无法解释胸口处那道无形长矛所带来的痛苦，只是他确实不知道当时究竟发生了什么，而陈皮皮又对自己做了什么。\n　　思虑凝滞，体伤神损，酷暑夏日被捂出一身汗，他觉得身上的皮肤一片粘腻有些厌烦，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "顿好的吧。”\n　　桑桑被他这句话说的鼻头一酸，心想我只是个小侍女，难道还敢天天苛扣你不成，还不是想着日后少爷你要娶少奶奶，总得替你攒些银钱。\n　　“我给了车夫十两银子……”\n　　她低着脑袋轻声说道：“先前少爷你昏睡的时候，我去隔壁古董店寻他家老板娘要了碗泡萝卜，已经倒进锅里和鸭子一起炖了，再过会儿便",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "看在少爷我受了这么重的伤差点儿死掉的份上，咱今晚掏钱吃顿好的吧。”\n　　桑桑被他这句话说的鼻头一酸，心想我只是个小侍女，难道还敢天天苛扣你不成，还不是想着日后少爷你要娶少奶奶，总得替你攒些银钱。\n　　“我给了车夫十两银子……”\n　　她低着脑袋轻声说道：“先前少爷你昏睡的时候，我去隔壁古董店寻他家老板",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "肯回答这个问题，左右扭动着肥胖的身躯，就像个受了委屈伤了自尊的死孩子。\n　　宁缺笑了起来，看着他叹息说道：“想来除了在路上无心踩死过几只蚂蚁，你这双白白嫩嫩的手连点血星都没沾过……那就不要学别人用生死这种东西威胁人，没有什么力度反而徒惹发笑，我倒要提醒你，关于我的事情你可别四处说去。”\n　　听完这番",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "缺杀人归来，又有表情严肃的衙役四处询问，听着长街之上匆匆的羽林军马蹄之声，桑桑便知道出了问题，她强行压抑住尽头的不安，在老笔斋里沉默等待，但当马车回来宁缺却依然没有回来，她终于等不下去了。\n　　询问车夫，确认宁缺晨间坐着马车去了书院，桑桑略一思忖，直接拿出了十两银子，请求车夫把自己载到书院，然后就一",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "生了什么，而陈皮皮又对自己做了什么。\n　　思虑凝滞，体伤神损，酷暑夏日被捂出一身汗，他觉得身上的皮肤一片粘腻有些厌烦，便想擦拭一下，然而他的手在快要触到湿毛巾的时候却僵住了。\n　　因为他忽然发现自己的手指与湿毛巾之间好像多出了浅浅一层阻碍。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "这家伙一条命，以后合适的时间合适的地点……提醒我想办法还给他。”\n　　桑桑这时候正在向桶里倒滚烫的开水，准备替他擦拭身子，没有想到他醒了过来，闻言一怔，坐到他身边疑惑问道：“怎么还？”\n　　“虽然不知道那家伙是怎么做的，但我这条命应该是他救回来的。我对你说过很多遍，这个世界上就没有比你我的命更重要的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "约有一段是女教授答应替他请假，所以他决定回临四十七巷家中休息。\n　　以大黑伞为杖，重伤之后的少年缓慢走出了旧书楼，像个晨练的老人那般微佝着身子，迎着晨光自湿地边缘散步而去，穿过清幽侧巷，走到了书院的正门外。\n　　书院简朴石门外是一大片像毡子般的美丽青色草甸，草甸中间隐着十余条石板砌成的车道，车道边缘",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，疲惫不在话下，只见右手轻挥马鞭在空中挽了个花儿，发出啪的一声轻响，左手轻提缰绳，马蹄踏地声中，车厢缓缓开始移动。\n　　车厢中宁缺声音微哑说道：“很累，回家再说，刀在下面，呆会儿记得拿走。”\n　　……\n　　……\n　　马车驶抵临四十七巷，疲惫伤重的宁缺仿佛睡死过去一般，一直没有睁开眼睛。桑桑取出那把朴",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "第一百一十六章 温暖至滚烫的湿毛巾\n　　听到这段分析，陈皮皮先是一惊，然后勃然而怒，觉得伤自尊了，脸色一沉盯着宁缺，也不承认什么，压低声音冷厉斥道：“休得瞎说什么，不然休怪我一掌拍死你，似你这等小角色，不要把把自己那",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

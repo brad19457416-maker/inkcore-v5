@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 1022,
+  "chapter_title": "第三百三十九章一群男人.",
+  "filename": "ch_1022_第三百三十九章一群男人..txt",
+  "char_count": 3644,
+  "timestamp": "2026-04-10T12:05:26.931450",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "狰狞的白牙，在每条街道上苦苦支撑，依然不可避免地被对方逼入了绝境，浑身浴血。\n\n    这场按照百慕大地下律条举办的拳赛，是双方都撑不下去之后的妥协产物，在这种局面下能支撑到此时，李维本应觉得骄傲，但他很清楚这只是暂时的胜利，随着拳赛的结束，极有可能变成一片泡影。\n\n    他在百慕大终究根基尚浅，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "来表示一下歉意，并且退钱。”\n\n    ……\n\n    ……\n\n    包厢门紧紧关闭，气氛压得格外压抑紧张，年轻孤儿们脸上的表情非常难看，请来的拳师居然临战脱逃，还如此嚣张，实在是让人觉得很羞辱。\n\n    一名身材魁梧的年轻人缓慢解开衣领上扣子，憨实说道：“下一场我上，维哥儿受了枪伤，我最能打。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的洁白餐巾纸，李维缓慢擦掉紫色衬衫里渗出的血水，望着会场下方被抬出去的昏迷拳手，眉眼间浮起淡淡忧虑，瞬间便回复平静。\n\n    这场黑道战争持续了整整一个月，这个月他的孤儿帮过着浴血披火的日子，面对百慕大最强大的几股势力联手攻击，纵然他和兄弟们张开嗜血的嘴唇，露出狰狞的白牙，在每条街道上苦苦支撑，依",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "最强者，他参加过数次无限制拳赛，有相当的经验，刚才注意到拳台对面那名精瘦的拳师，像李维一样嗅到了极度危险的味道。\n\n    然而他并不畏惧——就算要输要死，包括对方那名来自联邦军队的强者，包括顶层包厢里那些敌方的大人物，整个会场的人替自己赔葬。\n\n    胡狮黯然想到，只可惜维哥儿为了不引起对方怀疑",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "第三百三十九章一群男人.\n\n    林半山挟着强横决心和最强横的下属去了联邦，却把基业留在了百慕大，他甚至没有带走这些年最宠爱的女人李飞绒，还有自己没有多少人知道的独生子。\n\n    能走的如此潇洒，是因为在他眼中，身后的百慕大虽然凶险，但与联邦比较起来依",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "沮丧都找不到一丝。\n\n    他拍了拍憨实大汉的肩头，说道：“好好去打，打输了我们都去地下陪你，反正大家都是一个人。”\n\n    “现在包厢里有五个人，我们都会去陪你，不过我觉得这个会场几百号人全部一起死，应该会热闹一些。”\n\n    李维眯眼望着热闹的会场，看着那些飞舞的赌签，声音骤然寒冷说道：“",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "衣襟带霜，胸襟拓荡，若在邰氏旧皇朝，当是国士一般人物。\n\n    他答应这件事情的时候，对林半山直接说道：“如果我死了，那就没有办法保住你的这些东西，不要怪我。”\n\n    林半山笑了笑，眼眸里满是欣赏之意。\n\n    这句话的意思很清楚，很硬，要表达的就是，只要我不死，这些你的东西我就一定替你守住",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "没有思考更多时间，他答应了林半山的请求。\n\n    他清楚如果事后自己能活着，孤儿帮依然存在，林半山还能活着从联邦回到百慕大，自然能够获得极大的回报，但让他默然接受这片或许风光但注定无比凶险血腥未来的原因，要更简单一些。\n\n    三年前孤儿帮眼看着便要沦入覆灭的深渊，是林半山轻描淡写的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "些极致，那便值得寄予厚望。\n\n    刚刚得知此事时，李维吃惊的无法言语，他不明白对面这位百慕大君王为什么要把如此重要的任务交给自己，但他知道这件事情很困难。\n\n    没有思考更多时间，他答应了林半山的请求。\n\n    他清楚如果事后自己能活着，孤儿帮依然存在，林半山还能活着从联邦回到百慕大，自然",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "只看到一面墙。\n\n    “下一场我上。”那人沉声说道。\n\n    胡狮震惊抬头。\n\n    这是他第一次看到比自己更魁梧更强壮的男人，那个男人就像是尊钢铁雕像，浑身肌肉强劲的无比夸张www.xiaoshuotxt.,com\n\n\n\n第四卷星光流年",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "算是林半山在百慕大，对这些流传无数年的规矩都要表示一定程度的尊重。\n\n    这间议事会场不允许带枪进入，就是规矩，所以季火这个以冷血闻名的军火走私贩子，都不敢带一把枪。\n\n    愿赌服输也是规矩，所以会议巨头们才会同意与孤儿帮进行这场拳赛，所以忠心下属都对李维提出了质疑。\n\n    “人都要死了",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "人递来的洁白餐巾纸，李维缓慢擦掉紫色衬衫里渗出的血水，望着会场下方被抬出去的昏迷拳手，眉眼间浮起淡淡忧虑，瞬间便回复平静。\n\n    这场黑道战争持续了整整一个月，这个月他的孤儿帮过着浴血披火的日子，面对百慕大最强大的几股势力联手攻击，纵然他和兄弟们张开嗜血的嘴唇，露出狰狞的白牙，在每条街道上苦苦支",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "场炸了。”\n\n    “维哥儿，这不合规矩。”有下属震惊说道。\n\n    百慕大的所谓的地下世界便是社会，法律基本等同于空文，这里最重要的便是规矩，那些规矩流传了无数个年头，伴着血与泪早已深入百慕大人的身体血脉之中，没有任何人怀疑，更没有人敢挑战。\n\n    就算是林半山在百慕大，对这些流传无数年的",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "那名干瘦汉子，说道：“你要退赛？”\n\n    干瘦汉子点了点头。\n\n    李维将手中染了血的餐巾纸缓缓放在桌上，皱眉问道：“黎明星合气馆的高手，也会害怕？”\n\n    “我看的出那些人是军人，是很厉害的特种军人。”\n\n    干瘦汉子回答道：“我学习的是技击，参加过很多拳赛，也在台上杀过人，但他们",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

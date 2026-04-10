@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1075,
+  "chapter_title": "第八十四章 下阳州（上）",
+  "filename": "ch_1075_第八十四章 下阳州（上）.txt",
+  "char_count": 4208,
+  "timestamp": "2026-04-10T12:11:34.920574",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "及给五位师兄请安，迎面便扑来了一阵凄惨的哭声。\n　　北宫未央用颤抖的手指着他，唇角同样不停颤抖，悲痛愤怒地大哭说道：“你怎么才来！你怎么才来！”\n　　哭要失声才痛――把话说的如此清楚，脸上一点泪水都没有，自然是假哭，宁缺没好气道：“我都快把屁股颠成两瓣了，还嫌不够快？”\n　　北宫未央被他戳穿，也根本",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，师姐果然还是受了伤……如果她和你一道前来，我绝对没有任何异议，该攻阳州就攻，但现在不行。”\n　　“为什么不行？总是要南下的。”\n　　见宁缺没有改变主意的想法，北宫未央拍掌而笑，说道：“我就说小师弟不会同意，终究还是要解决怎么杀横木的问题。”\n　　宁缺说道：“我从来没有反对过这一点。”\n　　宋谦说道",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "事。\n　　第二日清晨，唐军南出青峡，来到清河郡北那片肥沃的原野间。\n　　这是自清河郡诸阀叛乱后，唐军第一次真正踏上这片土地，其时晨光清美，晨风怡人，军旗在风里舞动，在光里鲜活。\n　　金帐王庭覆灭的消息，经由宁缺告诉诸将领，再加上刻意的行为，很快地便在军里传播开来，盘北方多年的强敌，一朝变成了幻影，唐",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "宁缺从王持手里接过参精汤一饮而尽，顿时觉得精力恢复了很多，又从许家伦手里接过滚烫的毛巾擦了把脸，望向众人问道：“先前王景略说要杀他，现在师兄们也说要杀他，杀他自然是要杀的，只是何至于如此念念不忘？而且杀便杀罢，又说他极不好杀，你们到底想要说啥？”\n　　北宫未央赞道：“虽然押韵押的极无趣，但终究是在押",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "押韵押的极无趣，但终究是在押韵。”\n　　宁缺不理他，把毛巾扔回给许家伦，说道：“长他人志气，灭自家威风，你们到底想做些什么，直接说可不可以？”\n　　宋谦在屋内排行最高，众人齐齐望向他。\n　　他肃然说道：“说这些，是想你谨慎些，横木太强，或者我们应该先守一阵……青峡天然好守，加上我们的阵法和施毒，应该",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，闻言面不改色，说道：“横木本来就厉害，我们的安排那也是相当不赖。”\n　　北宫未央见场间气氛有些低沉压抑，再次开口赞道：“这押韵也极准。”\n　　宁缺未作思考，直接说道：“我不同意。”\n　　宋谦等师兄弟对视一眼，叹道：“就是担心你不同意，所以才会上演这出戏，你怎么就不明白我们的心意。”\n　　北宫未央正",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "境。”\n　　宋谦想着那天阵里破天而落的那道磅礴的力量，神情变得愈发严峻，看着宁缺说道：“我知道你擅长战斗，但境界之间的差距，怎么弥补？”\n　　“观主已入清静，千年以降，只有老师和师叔比他强，但大师兄和三师姐联手便能与他战，我能用长安城把他砍的人事不省。”\n　　“莲生在五境那道门槛来回，境界高妙难测，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "力量，无论宋谦等人和唐军将领们如何想，终究还是要按照他的命令去做事。\n　　第二日清晨，唐军南出青峡，来到清河郡北那片肥沃的原野间。\n　　这是自清河郡诸阀叛乱后，唐军第一次真正踏上这片土地，其时晨光清美，晨风怡人，军旗在风里舞动，在光里鲜活。\n　　金帐王庭覆灭的消息，经由宁缺告诉诸将领，再加上刻意的行",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第八十四章 下阳州（上）\n　　王景略说道：“他虽然强大，但我可以帮你确定他的方位……就像以前我们说过的那样，到时候你就射，如果一箭射不死，多射几箭。”\n　　宁缺摇头说道：“你会死的。”\n　　“我不怕死……当年在长安城里，颜瑟大师写出那道",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "？当然就是把他杀死。”\n　　这句话听着是废话，仔细想还是废话，但世间往往就是这种双重废话才能代表绝对真理，比如怎样去爱一个人？当然就是去爱她……\n　　“他已经逾过五境。”\n　　宋谦想着那天阵里破天而落的那道磅礴的力量，神情变得愈发严峻，看着宁缺说道：“我知道你擅长战斗，但境界之间的差距，怎么弥补？”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "扎营，一时间到处都是夯土的声音。\n　　一名唐兵正在砸木桩，听着远处传来的声音，抬头望去，只见阳州城门缓缓开启，黑压压的骑兵像潮水一般涌了出来。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "这押韵也极准。”\n　　宁缺未作思考，直接说道：“我不同意。”\n　　宋谦等师兄弟对视一眼，叹道：“就是担心你不同意，所以才会上演这出戏，你怎么就不明白我们的心意。”\n　　北宫未央正准备说话，宁缺瞪了他一眼，说道：“我不管押不押韵，不同意就是不同意，我不同意守，也不同意用你们的命去换横木的命。”\n　　他",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "宫未央拍掌而笑，说道：“我就说小师弟不会同意，终究还是要解决怎么杀横木的问题。”\n　　宁缺说道：“我从来没有反对过这一点。”\n　　宋谦说道：“关键是怎么去杀……现在看来，最有成算也最安全的方法，自然是动用元十三箭，让王景略去做诱饵。”\n　　王景略向前站了一步，面带微笑。\n　　宋谦在王持的搀扶下起身，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

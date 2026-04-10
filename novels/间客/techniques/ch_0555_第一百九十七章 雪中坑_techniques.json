@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 555,
+  "chapter_title": "第一百九十七章 雪中坑",
+  "filename": "ch_0555_第一百九十七章 雪中坑.txt",
+  "char_count": 3317,
+  "timestamp": "2026-04-10T12:05:08.527125",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "位，再加上狂暴的风雪侵身，整支部队竟是……，迷路了。\n\n    地域标准时间下午三点，已经开始变暗的天空和早已沉下的没有温度的假太阳，让这支十七师的部队停下了脚步，穿着防寒单兵套服的战士们从装甲车上跳了下来，开始准备临时营地，在这种鬼天气下的鬼地方，如果临时营地的隔温措施不能做好，一夜过去，明日便会",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "指令。\n\n    看上去洁白肃穆的冰川世界，因为咆哮着的暴风雪而显得狰狞起来，对这支联邦部队来说，更危险的是不知道藏在何方的帝国远征军，在撤退的路上，他们已经遇到过几次小规模的追袭，有一辆军车被炸毁，四名十七师战士阵亡。\n\n    联邦重新铺设的宪章网络，总有空缺的地方，尤其是在北极冰扑地域，残存下",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "冲距离再拉长一半。”\n\n    “那我必须跪下去二”许乐回答道：“这样才能保证缓冲行程，可问题是，你为什么总坚持跳下来？”\n\n    ，我不喜欢你设计的机甲艘梯，一，没有美感，二，司距太大，女生跨下来时姿式很难看。另外，果壳人事部心理咨询师，建议我要多参加一此户外的拓展壬练。”商秋很理所当然地回答道",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "回程之中，他们遇到了帝国小股部队的偷袭，但更可怕的是，从昨天夜里起，他们遇到了端。星球并不常见的地磁爆发！\n\n    因为地磁暴发的缘故，他们极难与师部联系上，无法无法即时联系宪章网络，无法进行准确实时定位，再加上狂暴的风雪侵身，整支部队竟是……，迷路了。\n\n    地域标准时间下午三点，已经开始变",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "问题，座舱维生系统被限制在极低的水平值上，空气略显有些阴冷，转为行进模式的机甲被牵引车在冰雪中拖动，颤抖的有些厉害。\n\n    许乐此时的声音也有些微微颤抖和阴冷，这几年间，他与商秋保持着高密度的联络、虽然哪件中基本上都是在枯燥地进行设计沟通，但就在这些往复的符号公式结构图中，两个人已经变得极为亲近",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "继碰锋活蔫死的联邦机师，真的很难体会古典物理的简洁之美二”\n\n    他们身处的这台白色机甲动力系猛出现了很大的问题，座舱维生系统被限制在极低的水平值上，空气略显有些阴冷，转为行进模式的机甲被牵引车在冰雪中拖动，颤抖的有些厉害。\n\n    许乐此时的声音也有些微微颤抖和阴冷，这几年间，他与商秋保持着",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "甲座舱里爬了下来，然后对着上方伸出双手，然后所有人都看到了一幕令他们感到震惊的画面。\n\n    商秋走出座舱，竟是想也没有想，没有任何犹豫的感觉，双腿一蹬，身子保持着坐姿，就瑚匕了下来！\n\n    行进状态下的机甲，座舱高度依然足以摔死一头牛，可她就这么跳了，在短暂的时旬之后，啪的一声轻响，许乐接住",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "她。\n\n    商秋抬起头来，很认真地说道：“动力总不成不稳定，可以通过调校来解决，但Ｔ比真正突破的瞬间超频状态下，除了你和李封中校之外，没有人能够承受这种负荷，就算有人能够承受，也没有办法拥有如此迅速的神经反应速度。”\n\n    “我设计机甲的目的，不是为了打造你们这两个超级战士，而是要对整个）联",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "脚底下忽然一空。\n\n    白玉兰几名军官正准备过来进行例行汇报，他们清楚地听着这种乏味的对白，不由同时如兰晓龙那样无辜地耸了耸肩膀。在他们看来，能够在工作台前一坐便是三十几十小时，对着无数符号公式图纸不吃不喝的许乐，在某种方面已经是一个怪胎，可是和商秋这名果壳天才工程师相比，却要更加正常一些。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "话，听到对帝国人所挖冰坑的赞美，依然有些难以接受。\n\n    商秋并没有注意到他的情绪变化，继续平静说道：“不过你的应对措施也很强大。在加装了那套系统之后，即便暂时还是不能解决机甲踩坑的问题，但至少可以提前做出预判。只要能够精确地判断冰雪覆盖下的雪坑，联邦的机甲总不至于愚蠢到自己踏进去。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "联邦目前还没有一名女性机师。另外，这种拓展“练永远只能“练我的臂部肌肉，至于你克服恐惧的心理方面，我从来不认为你的脑子里有恐惧这种概念。”\n\n    “那你可以理解为我想让你抱一下。”商秋的眼睛忽然眨了眨。\n\n    许乐的脸有些发烫，然后就在这时，忽然感觉脚底下忽然一空。\n\n    白玉兰几名军官",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "计思路也很有简洁之美。我一直很想把你的脑袋撬开，看看里面究竟藏了些什么。”\n\n    头盖骨下面藏着无数块坚硬的小石头和不合时宜，再加上联邦中央电脑储存的海量概念结构图纸，或许还要加上很多部色情电影，许乐在心里这样回答道。\n\n    “一般的军事机修工程师，很难想到会用这种简单的民用技术，因为我们本",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

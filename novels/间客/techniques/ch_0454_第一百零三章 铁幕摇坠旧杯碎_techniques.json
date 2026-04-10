@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 454,
+  "chapter_title": "第一百零三章 铁幕摇坠旧杯碎",
+  "filename": "ch_0454_第一百零三章 铁幕摇坠旧杯碎.txt",
+  "char_count": 3534,
+  "timestamp": "2026-04-10T12:04:59.200891",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "一百零三章 铁幕摇坠旧杯碎 \n\n    集阵平射矩炮群，喷涌出艳丽的光芒，每秒钟内有:弹，呼啸着划破天空，向着帝国铁流轰去——整个大地都在颤动，如此密集的弹药施放量，在这片宇宙中大概已经有十年没有出现过了，今夜在行星腹部骤然盛放，令人无比战栗难安。\n\n    冲在前列的重型装甲车被连续命中十几炮，轰",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "流。溢值太过严重。快要进入能量不稳阶段。甚至已经有几处阵地地密集阵开始报警……\n\n    联地军官们愤怒而不可思议地看着光屏不要命地帝国铁流。震惊之余。更是无穷惑。为什么帝方会如此不惜代价地进攻。在联邦立体防御系统地打击下。他们每进一步。便要付出无比惨烈地代价……\n\n    可他们依然在进攻！不停进",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "但仅凭目测。前线指挥官就确认。在先前那幕恐怖地连续进攻中。帝国枫林联队至少有六分之一地战力。就这样在瞬间失去。\n\n    以联邦强大的深境防御体系，和先进的火力布置，按照枫林联队如今的减员速度，就算让他们一路逆天打到指挥部基地下，他们又还能活下来几个人？\n\n    ……\n\n    ……\n\n    帝",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "帝国枫林联队的目标，就是联邦行星战区指挥部。\n\n    高呼着陛下万岁，向着死亡冷漠冲刺，最终不停倒下，葬身在这片远离故土不知多少光年的遥远异乡。帝国的军人不会将愚蠢当成壮烈，但为了完成陛下的任务，为了实践司令部的战略企图，从最基层的班到那些穿行于战场间，令无数人瞩目的重型月狼机甲，没有任",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "阵开始报警……\n\n    联地军官们愤怒而不可思议地看着光屏不要命地帝国铁流。震惊之余。更是无穷惑。为什么帝方会如此不惜代价地进攻。在联邦立体防御系统地打击下。他们每进一步。便要付出无比惨烈地代价……\n\n    可他们依然在进攻！不停进攻！\n\n    这种疯狂地进攻。必然会带来严重地战损。虽然联邦中",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "划破天空，向着帝国铁流轰去——整个大地都在颤动，如此密集的弹药施放量，在这片宇宙中大概已经有十年没有出现过了，今夜在行星腹部骤然盛放，令人无比战栗难安。\n\n    冲在前列的重型装甲车被连续命中十几炮，轰然一声爆炸开来。\n\n    避在战车后方的帝国机甲，就像是鬼魅般壮烈扑前，然而四面八方的空气里充",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "炮因为使用过度。而宣告报废连耗资巨大地密集阵矩炮平射群。也因为要不停抵挡帝国铁流。溢值太过严重。快要进入能量不稳阶段。甚至已经有几处阵地地密集阵开始报警……\n\n    联地军官们愤怒而不可思议地看着光屏不要命地帝国铁流。震惊之余。更是无穷惑。为什么帝方会如此不惜代价地进攻。在联邦立体防御系统地打击下",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，最血腥的方式，强行将这个局变成了一个乱局。\n\n    联邦军方早有筹划，却依然在开战之初遭受到无比沉重的打击，正是因为他们根本无法掌握这支联队最高指挥官……甚至是这一支孤守异乡的远征军共有的沧桑厉狠心境。\n\n    陛下有乱命，远征军便狂乱一战，疯狂恐怖地让南半球的联邦军队竟是如遭雷击，东走西顾，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "听到南半球那些年轻人死亡时的凄厉喊声。\n\n    “如坚玉肯碎，却再不愿躲在冰川里。”老将军望着南方轻声喃喃道：“我无法带着你们活着回到家乡，那就带着你们的灵魂和联邦人的失败一起回去。”\n\n    ……\n\n    ……\n\n    全域高速战机低空掠过，密集的机炮弹痕，让原野被犁出一道深刻见碎石的恐怖",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "吸了一口气，微显疲惫的脸泛起一丝带着血腥味道的鲜红。\n\n    做的事情都已经做了，剩下的……就交给命运。老将军微佝着身子，挥手拒绝了勤务军官的跟随默地走出指挥大厅，乘坐电梯到环形基地的最高处，迎着北半球凄冷的风着森林那头南半球的微光。\n\n    方的联邦人肯定想不到自己会这样疯狂，你们想钓鱼却要将",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "会将愚蠢当成壮烈，但为了完成陛下的任务，为了实践司令部的战略企图，从最基层的班到那些穿行于战场间，令无数人瞩目的重型月狼机甲，没有任何人退一步，甚至是……多想一秒钟。\n\n    如果说联邦军方花了很多年建成的四层立体防御体系，就像是一张南半球从黑色的草原到辽阔的天空，无所不包容的巨大钢铁幕布……那帝",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

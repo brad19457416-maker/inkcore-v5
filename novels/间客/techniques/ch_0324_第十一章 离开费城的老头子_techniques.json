@@ -1,0 +1,24 @@
+{
+  "novel": "间客",
+  "chapter_number": 324,
+  "chapter_title": "第十一章 离开费城的老头子",
+  "filename": "ch_0324_第十一章 离开费城的老头子.txt",
+  "char_count": 22,
+  "timestamp": "2026-04-10T12:04:59.221625",
+  "techniques_count": 1,
+  "techniques": [
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第十一章 离开费城的老头子 \n\n    间客",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

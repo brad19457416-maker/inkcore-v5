@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 659,
+  "chapter_title": "第二十二章 入宫",
+  "filename": "ch_0659_第二十二章 入宫.txt",
+  "char_count": 2391,
+  "timestamp": "2026-04-10T12:05:08.548145",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "就像一个马上便要被吸血而死的昆虫。\n\n    一路行来，帝国人没有用设备控制许乐的视听，他也终于能够第一次看一眼这座向来只存在于联邦人想像中的城市一一帝国天京星都城。\n\n    城郊浩翰如海的枫林，宽阔出奇的高公路，带着别样风味的建筑，都给他带来了极大的震撼，要知道联邦虽然在付出无数代价之后成功地获",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "，然而所有询烂的光线，落在那个中年人的背影上，都变得黯淡了起来。\n\n    因为他是帝国皇帝，宇宙中权力最大的男人。\n\n    联邦没有人见过帝国皇帝的真实模样，只知道他叫怀夫差，帝国白槿王朝第七十九代皇帝，整个左天星域的无上君主。事实上就连帝国普通贵族平民，都不知道他们的皇帝陛下长的什么样子，自从",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "上神秘两个宇。\n\n    但做为一名联邦军人，能够亲眼看到帝国皇帝，如此近距离地楼触对方，怎么可能不激动？\n\n    离满屏金黄向日葵越来越近，那个穿着袍子的背影也越来越清晰，许乐心情越来越紧张，自逃离东林后，他见过很多气势非凡的大人物，更是总统官邸私人晚宴的常客，然而不知道为什么，他总觉得那个袍子",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "而死的昆虫。\n\n    一路行来，帝国人没有用设备控制许乐的视听，他也终于能够第一次看一眼这座向来只存在于联邦人想像中的城市一一帝国天京星都城。\n\n    城郊浩翰如海的枫林，宽阔出奇的高公路，带着别样风味的建筑，都给他带来了极大的震撼，要知道联邦虽然在付出无数代价之后成功地获取过这座巨大城池的图像",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "许乐心情越来越紧张，自逃离东林后，他见过很多气势非凡的大人物，更是总统官邸私人晚宴的常客，然而不知道为什么，他总觉得那个袍子下的帝国皇帝，给他一种特别强烈的压迫感。\n\n    是权力的味道还是死亡的味道，是皇帝这个身份还是这个人本身？许乐分辩不清楚，但可以确定有生以来，大概只有在倾城军事监狱第一次看",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "够有机会看看帝国的都城，感受一下联邦人一生都难以感受的气氛，按照他固有的性情，眼眸里应该散放出贪婪而感慨的光芒。\n\n    然而今天这双并不大的眼睛里只有平静，纵使看到这片巍峨雄壮，号称宇宙间最壮观人类建筑物的皇宫，内心震动不已，脸部表情却控制的极好。\n\n    推着束缚床向皇宫深处走去的帝**人，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "民面前刻意保持自己的神秘感，以方便维护皇室快要摇摇欲坠的统治。\n\n    在很多相对猎奇性的讨论中，人们甚至把这位皇帝陛下和青龙山反*政*府军中那位情报领并称为宇宙中最神秘的两个人。\n\n    许乐并不这样认为，在他看来，那位满口烂牙的大叔才真正配得上神秘两个宇。\n\n    但做为一名联邦军人，能够",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "在于联邦人想像中的城市一一帝国天京星都城。\n\n    城郊浩翰如海的枫林，宽阔出奇的高公路，带着别样风味的建筑，都给他带来了极大的震撼，要知道联邦虽然在付出无数代价之后成功地获取过这座巨大城池的图像，却很少有人能够亲眼看到它。\n\n    但凡见过天京星都城的联邦人应该都死了吧？\n\n    许乐很清楚",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "早就被联邦能源管理委员会强制命令淘汰的磁悬浮电梯，并没有用多长时间，便从满是花树与监控设备的皇宫地面来到了天上。\n\n    真的是天上。\n\n    远处的太阳向着地平线缓慢移动，云朵刚刚有了一丝晚霞的气息，金光蒸腾，红艳照人，却似乎就在楼外飘浮着，给人一种触手可及的感觉。\n\n    日夜生活在此间的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "怎么可能不激动？\n\n    离满屏金黄向日葵越来越近，那个穿着袍子的背影也越来越清晰，许乐心情越来越紧张，自逃离东林后，他见过很多气势非凡的大人物，更是总统官邸私人晚宴的常客，然而不知道为什么，他总觉得那个袍子下的帝国皇帝，给他一种特别强烈的压迫感。\n\n    是权力的味道还是死亡的味道，是皇帝这个",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "带像蛛丝一般，把移动式病床上那个身形消瘦，虚弱至极，全身瘫痪的年轻异国人死死绑住，让他看上去就像一个马上便要被吸血而死的昆虫。\n\n    一路行来，帝国人没有用设备控制许乐的视听，他也终于能够第一次看一眼这座向来只存在于联邦人想像中的城市一一帝国天京星都城。\n\n    城郊浩翰如海的枫林，宽阔出奇的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "正半躬着身体，在轻声地述说什么。\n\n    袍中的皇帝缓缓举起右臂，这个简单的动作却足以命令百万大军同时停住脚步，宫外飘来的淡淡霞雾似乎都停顿了片刻，那位贵族的述说戛然而止。\n\n    帝国皇帝的声音有些低沉，就像是一本厚书被风拂起。\n\n    “是你杀了德林亲王？”\n\n    “是。”许乐没有去看",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“是你杀了德林亲王？”\n\n    “是。”许乐没有去看屏风后的怀草诗，眯眼盯着帝国皇帝的背影，平静回答道，就像在回答一个做菜程序的小问题。\n\n    “是你在332o上激活了宪章？”\n\n    “是。”\n\n    “是你杀死了卡顿郡王？”\n\n    “是”\n\n    帝国皇帝没有回头，目光应该落在",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "左天星域的无上君主。事实上就连帝国普通贵族平民，都不知道他们的皇帝陛下长的什么样子，自从他登基以来，从来没有出现在任何帝国媒体中，也没有任何图像资料流落在外，\n\n    联邦方面的研究认为，这位皇帝陛下是在臣民面前刻意保持自己的神秘感，以方便维护皇室快要摇摇欲坠的统治。\n\n    在很多相对猎奇性的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "沿着四通八达蛛网一般的宽敞高等级公路，向着城市中心进，于午后时分抵达了目的地，威严却又冰冷的皇宫侧门缓缓打开，从里面出走一群穿着皇室军装的护卫，沉默地从车队里接过一台移动式自束缚床，向着幽深的皇宫里面进。\n\n    白色的束缚带像蛛丝一般，把移动式病床上那个身形消瘦，虚弱至极，全身瘫痪的年轻异国人死",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

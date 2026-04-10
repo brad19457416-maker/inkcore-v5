@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 505,
+  "chapter_title": "第十二章 小药丸",
+  "filename": "ch_0505_第十二章 小药丸.txt",
+  "char_count": 3349,
+  "timestamp": "2026-04-10T12:11:26.519048",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "极珍贵的药丸，你就算不以身相许，至少也要拿命来报，然而他却始终没有告诉宁缺，那是什么药丸。\n　　“你为什么一定要知道这个？”\n　　陈皮皮看着他恼火说道：“那等宝贝你已经吃过一颗，难道还想再吃！”\n　　宁缺诚实回答道：“如果还有，为啥不吃？”\n　　这些日子，宁缺和桑桑为了养病一直住在书院后山，整日里听",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "浊息瞬间被全部净化，身体变得轻了很多，双脚渐渐离开地面，似乎变成了一根轻若无质的洁白羽毛，只要徐徐清风轻拂，便要乘风而去，融入进高远的苍穹。\n　　不知道过了多长时间，他睁开了眼睛，怔怔看着自己手中握着的小瓷瓶，双手再次颤抖起来――只是闻了闻药香，便已经生出羽化的精神幻象，如果自己把小瓷瓶里的药丸吃进",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的有些厉害，很困难才拿起那个小瓷瓶。距离稍近了些，小瓷瓶渗出的极淡药香，传进他的鼻端，令他难以自主地缓缓闭上眼睛，脸上露出陶醉的神情。\n　　闻着药香，隆庆觉得自己身体里的污秽与浊息瞬间被全部净化，身体变得轻了很多，双脚渐渐离开地面，似乎变成了一根轻若无质的洁白羽毛，只要徐徐清风轻拂，便要乘风而去，融",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "吃进腹中，又会产生怎样的效果？\n　　他猜到小瓷瓶里的药丸是什么，兴奋到了极点，却又恐惧到了极点，贪婪狂喜和挣扎犹豫的情绪在他的眼眸里不停转换。\n　　多年前，他自天谕院毕业，入裁决司为二司座。大概因为无论是他还是叶红鱼都还青涩，根本无法威胁到墨玉神座上的裁决大神官，所以那时裁决神殿里的气氛并不像这些年",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "此恐怖功效，可以想像通天丸对修行者的无上诱惑力，只不过如今世间的修行者，根本没有几个人知道有通天丸的存在。\n　　隆庆知道通天丸，而且他确认小瓷瓶里就是通天丸。\n　　他曾经是境界精深的西陵神子，却在即将逾过知命境的那一瞬间，被宁缺一箭射破胸膛，毁了雪山气海，变成了不能修行的废物。他曾经自暴自弃，在成京",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "第十二章 小药丸\n　　隆庆走上前去。\n　　因为紧张，他的动作有些笨拙，尤其是双手颤抖的有些厉害，很困难才拿起那个小瓷瓶。距离稍近了些，小瓷瓶渗出的极淡药香，传进他的鼻端，令他难以自主地缓缓闭上眼睛，脸上露出陶醉的神情。\n　　闻着药香，隆庆觉得自己",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "的保命丸子。”\n　　宁缺可怜兮兮说道：“师兄，师弟知道自己没有那个福份，只是你能不能把那颗赏给我，我担心路上桑桑再犯病。”\n　　听着这话，陈皮皮沉默，然后抬起头来说道：“好吧。”\n　　宁缺此时已经大概猜到那颗药丸的珍贵程度，本已经决定放弃，却没有想到陈皮皮居然答应了下来，不由怔住了。\n　　他忽然想起",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "旧书楼的便是余帘和陈皮皮，那时候还不是三师姐的余帘只给了他一碗清水两个馒头，自然没有办法治好伤，所以最终的怀疑对象便指向了陈皮皮。\n　　陈皮皮不是一个做好事不留名的家伙，很快便承认是自己救的，还心疼地表示自己喂宁缺吃了一颗极珍贵的药丸，你就算不以身相许，至少也要拿命来报，然而他却始终没有告诉宁缺，那",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "伤竟神奇般的好了，更神奇的是体内的雪山气海完成了一次重筑。\n　　对于这件事情，宁缺一直无法忘怀。当时出现在旧书楼的便是余帘和陈皮皮，那时候还不是三师姐的余帘只给了他一碗清水两个馒头，自然没有办法治好伤，所以最终的怀疑对象便指向了陈皮皮。\n　　陈皮皮不是一个做好事不留名的家伙，很快便承认是自己救的，还",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "知守观渐被夜色笼罩，星辰现形。\n　　中年道人站在湖畔看着水面上繁星的倒影，想着隆庆先前的表现，感慨说道：“观主眼光果然不凡，此子必将不凡。”\n　　……\n　　……\n　　书院后山也有湖，平静如镜的镜湖。\n　　时已入夏，空气闷热，书院后山则依然清凉如春，尤其是镜湖四周，更是气候宜人，于是平日里只爱在",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "其是镜湖四周，更是气候宜人，于是平日里只爱在山林里下棋奏曲赏花的师兄们，就像贪水的野鸭子般，纷纷出林来到此间。\n　　湖畔林中，不时响起清音雅正的曲声，又响起输棋后的争执对骂声，还有十一师兄王持手拈青叶感伤花落果成的呤哦声，好生嘈杂。\n　　七师姐柚木爱嗑瓜子爱闲唠也爱热闹，但最爱在这片清静的湖上绣花，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "鼻端，令他难以自主地缓缓闭上眼睛，脸上露出陶醉的神情。\n　　闻着药香，隆庆觉得自己身体里的污秽与浊息瞬间被全部净化，身体变得轻了很多，双脚渐渐离开地面，似乎变成了一根轻若无质的洁白羽毛，只要徐徐清风轻拂，便要乘风而去，融入进高远的苍穹。\n　　不知道过了多长时间，他睁开了眼睛，怔怔看着自己手中握着的小",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "知守观渐被夜色笼罩，星辰现形。\n　　中年道人站在湖畔看着水面上繁星的倒影，想着隆庆先前的表现，感慨说道：“观主眼光果然不凡，此子必将不凡。”\n　　……\n　　……\n　　书院后山也有湖，平静如镜的镜湖。\n　　时已入夏，空气闷热，书院后山则依然清凉如春，尤其是镜湖四周，更是气候宜人，于是平日里只爱在山林",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "如春，尤其是镜湖四周，更是气候宜人，于是平日里只爱在山林里下棋奏曲赏花的师兄们，就像贪水的野鸭子般，纷纷出林来到此间。\n　　湖畔林中，不时响起清音雅正的曲声，又响起输棋后的争执对骂声，还有十一师兄王持手拈青叶感伤花落果成的呤哦声，好生嘈杂。\n　　七师姐柚木爱嗑瓜子爱闲唠也爱热闹，但最爱在这片清静的湖",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

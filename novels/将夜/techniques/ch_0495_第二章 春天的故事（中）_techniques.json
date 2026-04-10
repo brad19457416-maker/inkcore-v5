@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 495,
+  "chapter_title": "第二章 春天的故事（中）",
+  "filename": "ch_0495_第二章 春天的故事（中）.txt",
+  "char_count": 3502,
+  "timestamp": "2026-04-10T12:11:21.792903",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "这座满是石窟的山崖很高，给人的感觉很雄伟，隆庆站在山脚下，就像是只渺小的蚂蚁，而如果有人从极高远的天空俯瞰大地，大概会觉得这座山崖只不过是不起眼的土丘，是堆覆着青苔的蚁穴。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "门功法，也不是魔宗功法，而是很多年前，知守观某位大能在杀死魔宗某位修行饕餮大法的长老后，思及战斗里的危险，沉思三夜之后，以如海般的学识智慧，以无上道法对饕餮大法进行改造后的产物。\n　　这门功法的根基是饕餮大法，本质上还是夺取别的修行者念力意识而强大自身，只不过经过道法改造后，不再需要吞食血肉，直接进",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "隆庆如今已经知道青衣道人无比尊贵的身份，自然能够想到，他口中所说的破观，便是传说中的知守观，不由狂喜难抑，连连叩首。\n　　青衣道人说道：“观中现在还有六卷天书，什么时候你把这六卷天书看通了，那么你或许可以算得上强大，不过看书终究是一件很痛苦的事情……当年叶苏需自刺一剑，才能把自己的目光从书页上移",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "时的心意，但观里住着一些脾气很暴燥的老人，便是我也不想理他们，你到时莫要恐惧。”\n　　隆庆吃惊无言，心想知守观观主乃是何等样人物，难道世间除了书院那位夫子，还有别的能令他感到麻烦的人？\n　　……\n　　……\n　　夜色中的知守观，偶尔会响起几声虫鸣。\n　　隆庆的脸色越来越苍白，黄豆大小的汗珠从额头上不断",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "师叔的那段话，如果命运要选择谁，那么便会有很多事情需要去做。\n　　隆庆挑着扁担，背着箱包，走出道观，来到一片山崖前。\n　　在知守观的这些日子，他没有任何怨言，哪怕是难以承受的痛苦，他也甘之若饴，然而看着这片山崖，他的眼睛里却满是恐惧和想要逃避的神情。\n　　这片山崖下是茂密的青林，崖壁上则是爬满了约手",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "对光与暗的执着。”\n　　滚烫的木板，让隆庆觉得自己的膝盖仿佛快要被烧焦，但他不敢有任何动作，声音微颤说道：“弟子曾经尝试过不再执着，在荒原上向着北面的黑夜进发，然而即便是那样，依然没有看到黑夜里的光明。”\n　　青衣道人负手于后，站在舟头看着大海说道：“你想要寻找到什么，于是你做出了选择，而做选择本身",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "三夜之后，以如海般的学识智慧，以无上道法对饕餮大法进行改造后的产物。\n　　这门功法的根基是饕餮大法，本质上还是夺取别的修行者念力意识而强大自身，只不过经过道法改造后，不再需要吞食血肉，直接进行意识夺取，看上去似乎不像以前那般血腥，显得中正平和很多，实际上邪恶残忍如旧。\n　　如果他还是以前那个骄傲而有",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "暴燥的老人，便是我也不想理他们，你到时莫要恐惧。”\n　　隆庆吃惊无言，心想知守观观主乃是何等样人物，难道世间除了书院那位夫子，还有别的能令他感到麻烦的人？\n　　……\n　　……\n　　夜色中的知守观，偶尔会响起几声虫鸣。\n　　隆庆的脸色越来越苍白，黄豆大小的汗珠从额头上不断滚落，眼神变得越来越焕散，显得",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "其间窗外已然晨光初现，他惊恐地查看自己，发现自己的身上没有任何伤口，道心依然稳定如昨，似乎昨夜天书上出现的那千万记无形剑意都是假的一般。\n　　他有些浑浑噩噩地走出草屋，在湖畔掬了捧手洗了洗脸，稍微变得清醒了些，便去自己的房屋简单洗漱，开始打水烧火做饭，待服侍完侍奉天书的三位师叔用完早饭，他挑着两担清",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第二章 春天的故事（中）\n　　知守观在星光下显得愈发静寂，仿佛无数年来都没有人探访过，金丝般的茅草在檐畔垂落，仿佛星光变成了实质。隆庆皇子坐在窗畔书桌前，阅读着身前的书卷，对道观四周非人间般的缥渺美景完全无视，眼眸里只有对新知的渴望，显得那般平静专注，便如窗前那",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。”\n　　听到这段话，隆庆觉得仿佛荒原上的风雪从头上洒了下来，顿时洗去烈日的酷烈之意，变得清爽无比，瞬间想明白了很多事情。\n　　他向前拜倒，用额头紧贴着滚烫的甲板，微微颤抖的声音里充满了渴望和勇气，大声说道：“弟子想要变得强大起来。”\n　　青衣道人说道：“前日我把你抛进火泉之中，以昊天赐予的无尽温暖",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "。隆庆皇子坐在窗畔书桌前，阅读着身前的书卷，对道观四周非人间般的缥渺美景完全无视，眼眸里只有对新知的渴望，显得那般平静专注，便如窗前那方静湖。\n　　那日他翻开天书日字卷，看到道痴书痴和宁缺这三人的名字，难以抑止地生出嫉妒仇恨不甘怨毒的情绪，因为他本来是西陵神子，至少应该和这三个人站在相同的高度上，然",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "尤其是在进入书院之后，基本上过的也是如此艰苦而充实的日子，不知道这是不是应了书院小师叔的那段话，如果命运要选择谁，那么便会有很多事情需要去做。\n　　隆庆挑着扁担，背着箱包，走出道观，来到一片山崖前。\n　　在知守观的这些日子，他没有任何怨言，哪怕是难以承受的痛苦，他也甘之若饴，然而看着这片山崖，他的眼",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "不犹豫说道：“弟子愿为道门做任何事情。”\n　　青衣道人说道：“我能感受到你此时的心意，但观里住着一些脾气很暴燥的老人，便是我也不想理他们，你到时莫要恐惧。”\n　　隆庆吃惊无言，心想知守观观主乃是何等样人物，难道世间除了书院那位夫子，还有别的能令他感到麻烦的人？\n　　……\n　　……\n　　夜色中的知守观",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "开始修行。\n　　星晖如水，照的道观庭院清凉一片，草屋内相对幽暗，隆庆看着天书沙字卷，意识随着这门功法缓缓移动，脸色变得越来越苍白。\n　　……\n　　……\n　　多日前的南海上，一艘小舟在浪间时起时伏，海面上的太阳异常炽烈，鱼早已潜进了深海，海鸥自然也消失无踪。隆庆跪在青衣道人身后，承受着烈日的曝晒，脸色",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，大声说道：“弟子想要变得强大起来。”\n　　青衣道人说道：“前日我把你抛进火泉之中，以昊天赐予的无尽温暖慈悲，在你体内重筑雪山气海，你如今已经可以修行，如果你要尽快便得强大起来，那么稍后你登岸之后，便去西陵进那座破观吧。”\n　　隆庆如今已经知道青衣道人无比尊贵的身份，自然能够想到，他口中所说的破观，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 732,
+  "chapter_title": "第一百一十三章 杨二喜和他的同伴们",
+  "filename": "ch_0732_第一百一十三章 杨二喜和他的同伴们.txt",
+  "char_count": 2398,
+  "timestamp": "2026-04-10T12:11:27.036386",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "下，所以我们也不能指望他。”\n　　刘思有些郁闷，他随朝小树带着骁骑营八百精骑，出长安来东疆，一路艰辛危险，也与草原骑兵打了好几场，却无法从根本上改变局面。\n　　因为他们的人数太少，甚至于根本不敢和隆庆的主力骑兵相遇。\n　　朝小树说道：“不要想太多，虽然只能骚扰追袭，但至少可以让那些蛮骑不敢太过放肆，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "？”\n　　杨二喜笑骂了一句，扛着草叉，跟着同伴向山林里走去。\n　　那名骑兵轻夹马腹，顺另外一条道路，来到一处山坡上，来到统领大人座骑旁，低声禀报刚刚得到的那些军情。\n　　骁骑营统领刘思，神情肃然点点头，举手示意这名游骑离开，然后望向身边的中年男人，说道：“隆庆加快了速度，刚好和我们错过。”\n　　那名",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "刘思说道：“州郡厢军用来步战还可以，对上这些年久经沙场的草原骑兵，确实没办法，他们打的很惨，也尽了全力。”\n　　朝小树说道：“我没有任何责怪的意思。州郡厢兵，其实还是要数固山郡有些真实战力，华山岳这个三州镇军总管做的不差，只是他的兵大部分都抽调到北大营抵御金帐王庭南下，所以我们也不能指望他。”",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "中带回家乡的刀或弓箭，前往遥远的东疆。\n　　那时朝廷的征兵令还没有抵达他们的家乡，他们便提前动身，按道理这种做法并不理智，因为他们没有组织，连战场在哪里都不知道。\n　　但这场战争不同，这是关系到大唐存亡的战争。所以外敌入侵的消息便是军令，便是征兵令，在道路上和山林里遇见一个人，看到他腰间的旧刀或是老",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "”\n　　“别忘了，我可是天启二年的边军，你这什么态度？”\n　　杨二喜笑骂了一句，扛着草叉，跟着同伴向山林里走去。\n　　那名骑兵轻夹马腹，顺另外一条道路，来到一处山坡上，来到统领大人座骑旁，低声禀报刚刚得到的那些军情。\n　　骁骑营统领刘思，神情肃然点点头，举手示意这名游骑离开，然后望向身边的中年男人，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "角淌下一道透亮的口水。\n　　杨二喜顺着她的目光望去，才发现她一直盯着草叉上挂着的腊猪蹄。\n　　小女童渴望的眼光随着腊猪蹄的摆动不停移动着，可爱又可怜。\n　　想了想，他取下腊猪蹄，塞到小女童的怀里。\n　　小女童高兴地笑了起来，擦掉嘴边的口水，对着他鞠躬行礼表示感谢，然后蹦蹦跳跳向奶奶跑了过去，一边跑一",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "二喜，你或者把这个可怜的猪蹄炖来吃了，或者扔了，成天挂在草叉上做什么？”\n　　杨二喜才不会听他们的，说道：“媳妇儿给的，慢点儿吃，腌的时候，放了不少盐，薰的时候用的松柏枝，不怕坏。”\n　　同伴们大笑起来，绝对没有人对那根可怜的腊猪蹄有任何兴趣。\n　　杨二喜觉得身边有动静，转身望去，只见一只小手正在轻",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "停，仔细一看，才发现是离家时带的腊猪腿，被吃的只剩了个猪蹄。\n　　同伴们看了好些天，终于看不下去了，纷纷取笑道：“我说二喜，你或者把这个可怜的猪蹄炖来吃了，或者扔了，成天挂在草叉上做什么？”\n　　杨二喜才不会听他们的，说道：“媳妇儿给的，慢点儿吃，腌的时候，放了不少盐，薰的时候用的松柏枝，不怕坏。”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，然后望向身边的中年男人，说道：“隆庆加快了速度，刚好和我们错过。”\n　　那名中年男人一身青衣，神情宁静，在充满着肃杀气息的骁骑营数百铁骑中，显得格外醒目，正是朝小树。\n　　朝小树说道：“隆庆显得太着急了些，州郡的防御也太无力了些。”\n　　刘思说道：“州郡厢军用来步战还可以，对上这些年久经沙场的草原",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

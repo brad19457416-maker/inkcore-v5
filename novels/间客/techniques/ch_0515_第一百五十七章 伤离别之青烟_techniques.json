@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 515,
+  "chapter_title": "第一百五十七章 伤离别之青烟",
+  "filename": "ch_0515_第一百五十七章 伤离别之青烟.txt",
+  "char_count": 3712,
+  "timestamp": "2026-04-10T12:05:08.538988",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "要早一些，但在最后帝国人疯狂的散击中，仍然付出了惨重的伤亡。\n\n    令他有些震惊的是，在这些执行危险任务的战斗小组中，还夹杂着很多衣衫褴缕的战士，这些战士明显在帝国控制区冒险工作了很久，却依然保持着昂然的精神状态，只是他们的枪械和装备明显有些落后。\n\n    目光落在这些战士破旧军装的标记和令人",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "满是机油味道的机舱内，望向下方的山川草原。\n\n    越往西方的联邦基地去，地面上集结的队伍越多，从天空中俯瞰，无数道钢铁洪流，占据了视野里的所有空间，正缓慢却又坚决地向着\n\n    帝国人的控制区域碾压过去，场面极其壮观。\n\n    直升飞机在距离菱形基地约十几公里外便停了下来，马上重新起飞，加入",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "名七组队员，一直守在营房外面守了整夜，此时看到。\n\n    许乐从军车上走了下来，脸上流出一行震惊与狂喜，尖叫了声，便冲进了营房。\n\n    “头儿回来了！”\n\n    “真的”\n\n    七组的营房内传来一阵惊呼与脚步声，几十名队员同时冲出了营房，除了重伤正在接受治疗的队员，竟是全部都冲了出来迎接",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "答了这个问题。\n\n    许乐摘下燃烧的烟卷——这个不经意的动作粘掉了一片唇皮，痛的他眉尖紧皱，恼火说道：“去死。”\n\n    山岩间银光清丽，夜风微凉，他一个人坐在岩间，像一个观众般看着这场波澜壮阔的战争，心中很难生出自己引发了这一切的骄傲感，\n\n    反而觉得有些孤单，还好有一个乏味但渐渐有味",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "医师官侯显东摇头上前，给达文西打了一针镇静剂，作为七组的老兵，他们都曾经历过这些新兵蛋子初遇生死离别时的情绪，此时看着\n\n    怀中渐渐放松沉睡的达文西，心中一样郁郁。\n\n    军营禁酒不禁烟，面前着生死大关口，战士们都需要香烟的刺激，在军营的传奇故事中，自然也有这方面的内容，那就是",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "压过去，场面极其壮观。\n\n    直升飞机在距离菱形基地约十几公里外便停了下来，马上重新起飞，加入了紧张的战斗，而简易机场上，早有军车在等待着许乐。\n\n    剧烈抖动的军车，沿着速凝水泥军道，向基地驶去。\n\n    一路上，许乐看到有很多小型部队，正像自己一样在逆着大部队进军的洪流，在向基地收拢。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "默与三七牌香烟的辛辣味道中。\n\n    达文西抽的最凶，他一言不发地蹲在营房檐下，想起同房居住的那个大家伙，那个农夫的儿子，想到河滩上那具喷满了血水的头盔，想\n\n    到以后再也闻不到那个家伙的脚臭，他的眼睛早就红了，腥红色里透着一股很难品砸清楚的狠劲儿。就在这个时候，国防部金星纪录片厂的摄像组悄",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "惘\n\n    然的感觉，相反很轻松地听懂了这句回答。\n\n    沉默片刻后，他嘲讽说道：“化身万千，难道不会精神分裂？\n\n    ……\n\n    ……\n\n    激烈的战斗占据了这颗行星东面的每一寸土地，每一秒钟都有士兵倒下死亡，化为无知无觉的血肉或飞灰。战况太过惨烈胶着，许乐在\n\n    落矾岩峰",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "切的骄傲感，\n\n    反而觉得有些孤单，还好有一个乏味但渐渐有味的程序在陪他聊天。\n\n    一丝自嘲的微涩笑容浮上面容，他在心中叹息了一声：“如果今天你找不到我，我就死定了，我一直很好奇，你应该是在宪丨章局大楼的\n\n    地底深处，就算信息穿过微型扭率空洞极速联络，也需要两三分钟吧，你怎么能这",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "条鲜活的汉子\n\n    本来还应该好好地在营房内打屁聊天，像自己一样抽烟。\n\n    许乐知道自己的性格弱点，如果不能替这些本不该死的战友出气，他胸中那把火永远难以熄灭，只能燃烧的越来越旺，烧的越来越痛。\n\n    然而对方是神秘冷漠的宪丨章局，在他还没有来得及向国防部写报告打官司之前，宪丨章局已经",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "帝国人的控制区域碾压过去，场面极其壮观。\n\n    直升飞机在距离菱形基地约十几公里外便停了下来，马上重新起飞，加入了紧张的战斗，而简易机场上，早有军车在等待着许乐。\n\n    剧烈抖动的军车，沿着速凝水泥军道，向基地驶去。\n\n    一路上，许乐看到有很多小型部队，正像自己一样在逆着大部队进军的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "兵们缓缓举起（原文取起）右手，向三大保安公司的雇佣军们，向青龙山的反政丨府军们行以军\n\n    礼，同时投来了信任与感激的目光。\n\n    军车携着烟尘快速开到营房前面，许乐拉着那把2126长狙，一瘸一拐艰难走下军车，笑着和开车的战士说了几句什么，拍了拍对方的肩\n\n    膀。\n\n    昨天凌晨率",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "营房檐下，想起同房居住的那个大家伙，那个农夫的儿子，想到河滩上那具喷满了血水的头盔，想\n\n    到以后再也闻不到那个家伙的脚臭，他的眼睛早就红了，腥红色里透着一股很难品砸清楚的狠劲儿。就在这个时候，国防部金星纪录片厂的摄像组悄无声息地出现在营房中，嗡嗡的设备运转声，惊醒了沉浸在悲伤气氛中的队员们。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "战友，政丨府军中的很多人，一时很难适应这种转变。\n\n    不知道从何处传来一声喝，主力部队的官兵们缓缓举起（原文取起）右手，向三大保安公司的雇佣军们，向青龙山的反政丨府军们行以军\n\n    礼，同时投来了信任与感激的目光。\n\n    军车携着烟尘快速开到营房前面，许乐拉着那把2126长狙，一瘸一拐",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

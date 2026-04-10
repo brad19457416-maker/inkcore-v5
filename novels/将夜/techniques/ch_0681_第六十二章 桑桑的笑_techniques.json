@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 681,
+  "chapter_title": "第六十二章 桑桑的笑",
+  "filename": "ch_0681_第六十二章 桑桑的笑.txt",
+  "char_count": 2267,
+  "timestamp": "2026-04-10T12:11:26.909993",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，平静喜悦，终于脱离了死亡与分离，车厢里的人们，放松下来，然后便有了埋怨，学生对老师的埋怨。\n　　“为什么这些年你一直不肯出手？真是因为这些事情太无聊？如果您出手，大师兄不会累成那样，死的人想必也会少很多。”\n　　夫子端着茶杯，嗅了嗅茶香，看了一眼桑桑，说道：“会死多少人我并不在意，只是不清楚，怎样",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "其实与人斗……也是件很有意思的事情。”\n　　夫子看了他一眼，说道：“真没出息。”\n　　宁缺笑了起来，心想自已不是老师您有资格与天斗，这些年为了活着，不停地与人斗，早就习惯了其间的乐与怒。\n　　春风入车，平静喜悦，终于脱离了死亡与分离，车厢里的人们，放松下来，然后便有了埋怨，学生对老师的埋怨。\n　　“",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "威武。”\n　　想着夫子言语里说难得勇敢，他微怔问道：“您不是说与天斗其乐无穷？难得勇敢？难道今天是您第一次出手。”\n　　“如果说出手是指打架……不错，今天是我对昊天第一次出手。”\n　　夫子放下茶杯，说道：“战斗有很多种方式，不是说只有打架才是战斗，我和昊天斗了一千多年，用尽了各种方式，只有你小师叔这",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "出手。”\n　　“如果说出手是指打架……不错，今天是我对昊天第一次出手。”\n　　夫子放下茶杯，说道：“战斗有很多种方式，不是说只有打架才是战斗，我和昊天斗了一千多年，用尽了各种方式，只有你小师叔这种痴人，才会总想着和昊天打架，他也不想想，万一打输了可怎么办。”\n　　这句话的尾音拖的有些长，有些萧索和遗",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "是这么多年之后，还是选择出手与昊天做对？”\n　　夫子靠在榻上，透过天窗看着青天白云，说道：“因为……最终我还是发现，自已很不喜欢、甚至有些厌恶昊天？”\n　　宁缺心想，人世间大概也只有您才有资格对昊天做这种情感层面的评价。\n　　夫子收回目光望向宁缺，说道：“当然，你是我的学生，在这件事情里陷的太深，这",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "光明威压，震撼的无法言语，心想老师你究竟想给自已多少震惊？\n　　然后他确认，夫子说的是对的，今日荒原天空上出现的黄金巨龙和光明神将，足以秒杀人间绝大多数修行者，但如果是跑的最快的大师兄，或者是那名金刚不坏的讲经首座，说不定还真的可以战胜对方，至少不会败的太快。\n　　马车奔驶在荒原上，青草碎折野花散，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，接下来怎么办？桑桑的病没问题了吗？”\n　　夫子再弹指，车厢里那条活灵活现、仿佛有真实生命的光明金龙瞬间离散消失，变成茶滴落在地板上，譬如朝露。\n　　“光明是有，黑暗是无，以有化无，如闻道于盲。所以不能指望昊天神辉能压制她体内的冥王烙印，佛法讲究的是自悟，依旧是个盲便无视、聋便无悟的自欺欺人法子，依",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "方，至少不会败的太快。\n　　马车奔驶在荒原上，青草碎折野花散，春风温暖入窗来，桑桑轻咳一声，宁缺微显忧虑问道：“老师，接下来怎么办？桑桑的病没问题了吗？”\n　　夫子再弹指，车厢里那条活灵活现、仿佛有真实生命的光明金龙瞬间离散消失，变成茶滴落在地板上，譬如朝露。\n　　“光明是有，黑暗是无，以有化无，如",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第六十二章 桑桑的笑\n　　宁缺说道：“其实与人斗……也是件很有意思的事情。”\n　　夫子看了他一眼，说道：“真没出息。”\n　　宁缺笑了起来，心想自已不是老师您有资格与天斗，这些年为了活着，不停地与人斗，早就习惯了其间的乐与怒。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "活着，不停地与人斗，早就习惯了其间的乐与怒。\n　　春风入车，平静喜悦，终于脱离了死亡与分离，车厢里的人们，放松下来，然后便有了埋怨，学生对老师的埋怨。\n　　“为什么这些年你一直不肯出手？真是因为这些事情太无聊？如果您出手，大师兄不会累成那样，死的人想必也会少很多。”\n　　夫子端着茶杯，嗅了嗅茶香，看",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "的讲经首座，说不定还真的可以战胜对方，至少不会败的太快。\n　　马车奔驶在荒原上，青草碎折野花散，春风温暖入窗来，桑桑轻咳一声，宁缺微显忧虑问道：“老师，接下来怎么办？桑桑的病没问题了吗？”\n　　夫子再弹指，车厢里那条活灵活现、仿佛有真实生命的光明金龙瞬间离散消失，变成茶滴落在地板上，譬如朝露。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

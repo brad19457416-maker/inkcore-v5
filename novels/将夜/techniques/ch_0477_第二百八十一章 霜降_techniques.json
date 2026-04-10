@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 477,
+  "chapter_title": "第二百八十一章 霜降",
+  "filename": "ch_0477_第二百八十一章 霜降.txt",
+  "char_count": 3439,
+  "timestamp": "2026-04-10T12:11:21.756098",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "过雨廊来到正厅之前。\n　　雪先前有过短暂的停止，紧接着便愈发暴烈地飞舞。\n　　厚云遮住了满天的繁星，风雪黯淡了长安城里的灯火，雁鸣湖畔一片漆黑，伸手不见五指，但夏侯把一切都看的清清楚楚。\n　　石阶下种着几株寒梅，不知因为什么原因，梅枝散乱，积雪下能够看到新鲜的断茬口，似乎被什么好风雅的畜牲啃食过。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的土砾，重重地砸到他的身上。\n　　就如同无数颗冰雹自天而降，击打在皇宫的屋檐上。\n　　他身上那件外袍瞬间千疮百孔。\n　　他的脸上却没有任何表情。\n　　……\n　　……\n　　他低头。\n　　断成两截的乌黑横梁重重砸到他的背上。\n　　然后断成更多截。\n　　沉重的横梁，可以砸死十几个人。\n　　却不能让他的身体",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "他的身体微微颤抖一下。\n　　……\n　　……\n　　面对着宁缺的三道符，夏侯只出了一拳。\n　　这就是武道巅峰，尤其是他本来就是位魔宗强者，那么只要闭上眼睛，便可以无视任何知命境以下层级的攻击。\n　　疾射如石砾的黄土，没有在他脸上留下任何痕迹，断成无数截的横梁，无力地在他脚下滚动呻吟，他没有受到任何伤害。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "几分。\n　　夏侯脸上冷漠的神情没有丝毫撼动，铁眉微挑，反而显得愈发暴戾，脚步稳定地踩过门槛，踏过雨廊来到正厅之前。\n　　雪先前有过短暂的停止，紧接着便愈发暴烈地飞舞。\n　　厚云遮住了满天的繁星，风雪黯淡了长安城里的灯火，雁鸣湖畔一片漆黑，伸手不见五指，但夏侯把一切都看的清清楚楚。\n　　石阶下种着几株",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "晚里一般苍白，很是担心，却微笑说道：“是啊，少爷一定会胜的。”\n　　宁缺闭上眼睛，握着伞柄，眉梢有些颤抖，右手有些颤抖，脸色苍白，识海里的念力顺着黑伞散向满是雪花的空中。\n　　念力是正道修行者的根基，修行者却只能利用念力去操控天地元气，然后施展出各种手段，即便念师能够直接以念力攻击敌人，也被局限在很",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的灯火，雁鸣湖畔一片漆黑，伸手不见五指，但夏侯把一切都看的清清楚楚。\n　　石阶下种着几株寒梅，不知因为什么原因，梅枝散乱，积雪下能够看到新鲜的断茬口，似乎被什么好风雅的畜牲啃食过。\n　　屋内有一盆绿株，纵是在寒冷的冬天，那植物依然蓬勃地生长着，枝叶肥嫩，青翠欲滴，衬得盆中的黄土愈发无趣。\n　　屋顶那",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "嫩，青翠欲滴，衬得盆中的黄土愈发无趣。\n　　屋顶那根粗直的黑漆大梁微微变形，应该曾经遭受过某种撞击，出现了两道极细小的裂缝，想来不影响安全，但看着总令人有些心悸。\n　　造型别致的陈物架侧方，搁着一盏油灯，那油灯以青瓷为肚，灯绳洁白，没有点燃的时候，也是件极美的工艺品。\n　　雁鸣湖畔这片宅院，让宁缺花",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "是东岸的雪林，都一片安静，没有任何声音传出，更没有人听到了蝉鸣。\n　　城墙上，大师兄与叶苏的目光穿过无数重雪，落在那片林中，神情微异，似乎同时感觉到那里正在发生什么。\n　　只是他们现在没有多余的精神去关注那片雪林里发生的故事，因为他们看到血旗飘扬在雁鸣湖宅院前，夏侯推门而入。\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "中，花盆顿时崩裂，里面的黄土炸将开来，弥漫在屋内空间里，那些似微粒般的黄土尘埃，不知何故，竟是无比的沉重，每一颗土砾，都像是石头，射向夏侯的身躯。\n　　紧接着，那根乌黑的横梁上的黄纸也平空消失，只听得喀喇一声巨响，沉重的横梁毫无征兆从中断裂，砸向夏侯的头顶。\n　　夏侯眯起了眼睛，如铁铸成的双眉，没有",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "传出，更没有人听到了蝉鸣。\n　　城墙上，大师兄与叶苏的目光穿过无数重雪，落在那片林中，神情微异，似乎同时感觉到那里正在发生什么。\n　　只是他们现在没有多余的精神去关注那片雪林里发生的故事，因为他们看到血旗飘扬在雁鸣湖宅院前，夏侯推门而入。\n　　……\n　　……\n　　院门有些新，似乎是前不久重新修过。夏",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "不是文章，只是符。\n　　夜雪中崖畔，桑桑仰起小脸望向宁缺，看着他的脸色如过去那些夜晚里一般苍白，很是担心，却微笑说道：“是啊，少爷一定会胜的。”\n　　宁缺闭上眼睛，握着伞柄，眉梢有些颤抖，右手有些颤抖，脸色苍白，识海里的念力顺着黑伞散向满是雪花的空中。\n　　念力是正道修行者的根基，修行者却只能利用念",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "是非凡，与清河郡那些名园比较起来，只怕也不稍逊，便是不起眼的事物也都值得品玩一番。\n　　夏侯是武将，从来不会伤春悲秋，自然也没有这方面的兴致，然而大战当前，他看着梅丛黑梁盆景油灯的目光却是那般专注。\n　　其实他并没有看梅丛、黑梁、盆景、油灯。\n　　他正在看梅枝积雪里露出的黄纸，黑梁裂缝里夹着的黄纸，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第二百八十一章 霜降\n　　雁鸣湖畔，无论南岸的山峰，还是东岸的雪林，都一片安静，没有任何声音传出，更没有人听到了蝉鸣。\n　　城墙上，大师兄与叶苏的目光穿过无数重雪，落在那片林中，神情微异，似乎同时感觉到那里正在发生什么。\n　　只是他们现在没有多余的精神去关注那片雪林里发生的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "是符。\n　　夜雪中崖畔，桑桑仰起小脸望向宁缺，看着他的脸色如过去那些夜晚里一般苍白，很是担心，却微笑说道：“是啊，少爷一定会胜的。”\n　　宁缺闭上眼睛，握着伞柄，眉梢有些颤抖，右手有些颤抖，脸色苍白，识海里的念力顺着黑伞散向满是雪花的空中。\n　　念力是正道修行者的根基，修行者却只能利用念力去操控天地",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

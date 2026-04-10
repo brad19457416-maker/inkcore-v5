@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 920,
+  "chapter_title": "第九十三章 我不在众生之中",
+  "filename": "ch_0920_第九十三章 我不在众生之中.txt",
+  "char_count": 3509,
+  "timestamp": "2026-04-10T12:11:27.492760",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "禀报。\n　　“西陵神殿骑兵已至山下镇前。”\n　　那名僧人的脸色有些苍白，他根本不知道发生了什么事情，为什么西陵神殿的骑兵会忽然出现在烂柯寺前？道门究竟想做什么？\n　　观海僧猜到西陵神殿的骑兵与宁缺二人有关，但他想错了其中的因果，神情也变得有些凝重紧张。\n　　宁缺说道：“不用担心，他们不会进寺。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "观海僧说道：“后寺残破，有些不好行走。”\n　　宁缺说道：“又开始说笑话了。”\n　　观海僧笑了起来，心想自己这话确实很没道理，世间哪有什么艰难险阻，能够拦住宁缺，更何况昊天就在他的身边。\n　　大黑伞像黑色的莲花，盛放于微雨之中。\n　　大黑马没有伞，被雨水淋的有些狼狈，自然心生怨气。\n　　宁缺哪里会在",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "截残躯，隐约可以看到袈裟的流云痕迹，绝大部分都已经被君陌的剑斩成了顽石。\n　　桑桑背着双手，静静看着天空。\n　　那里曾经有佛祖慈悲平静的面容，但现在什么都没有，只有雨丝。\n　　但她依然静静看着那处，仿佛看着佛祖的脸，不知道在想些什么。\n　　宁缺有些不安，问道：“在看什么呢？”\n　　桑桑看着雨空里虚无",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "究竟想做什么？\n　　观海僧猜到西陵神殿的骑兵与宁缺二人有关，但他想错了其中的因果，神情也变得有些凝重紧张。\n　　宁缺说道：“不用担心，他们不会进寺。”\n　　话是这般说，观海僧哪里能真的放心，烂柯寺被骑兵围困，怎么看都是寺毁僧亡的前兆，对方肯定要己方交人。\n　　“他们不是来抓逃犯的。”\n　　宁缺有些不",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "过是有些费解，但对一个三岁多的小丫头来说，听不明白之余，自然觉得很可怕。\n　　宁缺看着雨空里那座并不存在的佛像，忽然也害怕起来。\n　　……\n　　……\n　　这场春雨出乎意料地变大了，山道上积水，变得湿滑难行，宁缺带着桑桑走进后山那座洞庐，暂作歇息。\n　　“这场雨来的正是时候。”\n　　宁缺收起大黑伞，坐",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "带着桑桑在这里治病，在这里学习佛法，桑桑被揭露身世，变成了举世皆欲杀的冥王之女。\n　　他们从这里开始逃亡，通过佛祖棋盘，逃至悬空寺，逃到月轮，再逃到东荒，遇见夫子，乘舟出海，到今天再次回到这里。\n　　在这些年里，发生了太多事情，宁缺看着残破的殿宇，回忆着当时在这里做的事情，情绪变得非常复杂。\n　　曾",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "青苔的坟墓前静静站了会儿，对墓里那位彻底改变修行界格局的舞女说了声好久不见。\n　　接下来他穿过雨廊，来到曾经住的禅房看了看，又去到偏殿，对着那几尊石尊者像沉思，然后向后寺那些残破的殿宇走去。\n　　烂柯后寺的大殿，早已完全垮塌，崖石上已经生出了青苔，石间偶尔能够看到破损的佛像，沧桑的感觉油然而升。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "续。”\n　　宁缺说道：“在南海畔，你有所感慨，那令我很紧张，因为我无法想象，如果你对整个人类失望以至愤怒，这局面该如何收拾。”\n　　桑桑说道：“人类需要我的时候，奉我如神，不需要我的时候，弃我如草，如果站在我的位置，你会有怎样的情绪反应？”\n　　“不知道，因为我毕竟不是昊天，我没有承受过人间无数亿年",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "已至山下镇前。”\n　　那名僧人的脸色有些苍白，他根本不知道发生了什么事情，为什么西陵神殿的骑兵会忽然出现在烂柯寺前？道门究竟想做什么？\n　　观海僧猜到西陵神殿的骑兵与宁缺二人有关，但他想错了其中的因果，神情也变得有些凝重紧张。\n　　宁缺说道：“不用担心，他们不会进寺。”\n　　话是这般说，观海僧哪里能",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "他已经死去，但还活着。”\n　　宁缺觉得这话说的太深奥了。\n　　桑桑收回目光，看着他说道：“或者说，他同时活着，并且死去。”\n　　宁缺望向残缺的佛祖石像，看着雨空里什么都没有的那处。\n　　大黑伞因为他的动作向后倾斜，雨丝落在他的脸上，有些微湿微凉，他仿佛看到佛祖正在雨中微笑，慈悲的面容上满是泪水。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "到西陵神殿的骑兵与宁缺二人有关，但他想错了其中的因果，神情也变得有些凝重紧张。\n　　宁缺说道：“不用担心，他们不会进寺。”\n　　话是这般说，观海僧哪里能真的放心，烂柯寺被骑兵围困，怎么看都是寺毁僧亡的前兆，对方肯定要己方交人。\n　　“他们不是来抓逃犯的。”\n　　宁缺有些不好意思，说道：“你把这些骑兵",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "观海僧猜到西陵神殿的骑兵与宁缺二人有关，但他想错了其中的因果，神情也变得有些凝重紧张。\n　　宁缺说道：“不用担心，他们不会进寺。”\n　　话是这般说，观海僧哪里能真的放心，烂柯寺被骑兵围困，怎么看都是寺毁僧亡的前兆，对方肯定要己方交人。\n　　“他们不是来抓逃犯的。”\n　　宁缺有些不好意思，说道：“",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "直没有说过话，无论是在墓前，还是在殿前，还是在此时如墓般的大殿前。\n　　烂柯寺，改变了轲浩然和莲生的命运，也改变了宁缺和桑桑的命运。\n　　数年前的那个秋天，他带着桑桑在这里治病，在这里学习佛法，桑桑被揭露身世，变成了举世皆欲杀的冥王之女。\n　　他们从这里开始逃亡，通过佛祖棋盘，逃至悬空寺，逃到月轮，",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "问道：“在看什么呢？”\n　　桑桑看着雨空里虚无的佛祖面容，说道：“我见过他。”\n　　宁缺心想，佛祖是无数轮回里的至强者之一，你既是昊天，自然对他会留下相对深刻的印象，就像你曾经见过老师那样。\n　　桑桑知道他在想些什么，说道：“不，我见过他。”\n　　宁缺有些不解，说道：“佛祖在世时，你自然见过他。”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

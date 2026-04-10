@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 268,
+  "chapter_title": "第七十四章 莲生三十二（上）",
+  "filename": "ch_0268_第七十四章 莲生三十二（上）.txt",
+  "char_count": 3321,
+  "timestamp": "2026-04-10T12:11:21.707938",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "他缓缓抬头望天，穿过腹部的铁链被带动，发出清脆的响声，让痛楚重新回到他干瘦如鬼的脸上。\n　　老僧望着天空的深陷眼眸内目光依旧温暖，骨手结成的白莲花瓣瓣绽放。\n　　“当年我想灭了魔宗，我想让轲浩然死，只是没有想到，我耗尽半生心血才把整个魔宗化为一场滔天风雨向他拍了过去，结果他居然还是没有死。”\n　　“",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "自西陵，便再也没有人怀疑。”\n　　老僧静静看着他说道：“但轲浩然不信。”\n　　宁缺不解问道：“小师叔为什么不信？”\n　　老僧说道：“轲疯子这种人，又哪里是这么好骗的。”\n　　宁缺怔了怔，摇头说道：“这个理由等于没有。”\n　　老僧感慨说道：“当年我曾经向他问过同样的问题。”\n　　宁缺认真听着。\n　　老",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "腹前的那两双骨手，感受着那道气息，震撼无语――老僧所展露出来的实力境界太过高妙莫测，竟是他这一生所见最强大。\n　　莫山山倚墙而坐，看着老僧那双枯瘦骨手结成的如白莲花般的手印，忽然间想起小时候听老师提到过的一句话，不由面露惊疑之色。\n　　“西方有莲翩然坠落世间，自生三十二瓣，瓣瓣不同，各为世界。”",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "的手段没能骗过轲疯子，他自然便向魔宗山门而去。当时的魔宗宗主自视甚高，魔宗强者辈出，也没有太过恐惧，心想你若来了便把你杀了，轲疯子自然不愿意被他们杀，于是便把他们都杀了。”\n　　不愿意被他们杀，于是便把他们都杀了。\n　　很简单的叙说，很简单的故事，却是一段湮灭在历史尘埃里的惊天过往，说的越简单却越令",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "洗烂柯寺前坪，却将这椿祸事嫁于神殿裁决司，这便是故事的开头。”\n　　老僧枯瘦如鬼，当年那段血雨腥风事缓缓道来时，语气神情却是和若春风，只言片语间便略去了那些往事里的残酷画面。\n　　宁缺扶着莫山山靠着墙壁坐下，看着白骨山的老僧，想着对方所讲述的这个久远故事，沉默片刻后说道：“嫁祸这种手段向来归入粗劣笨",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "也不是曲妮玛娣那等老不修的货色，宁缺收弓于身后，却没有踏前，隔着十余丈的距离看着枯瘦的老僧，神情恭谨说道：“晚辈确实是书院学生，魔宗山门因应天时而开，却不知前辈为何要说这满地骸骨都是您的罪孽？”\n　　那老僧干涩虚弱笑了两声，说道：“这自然是一个比较繁复的故事。”\n　　每有山谷奇遇时遇着一奇人，总会听",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "真实的目标是那些来自唐国只知跳舞的可怜女子。”\n　　听到这句话，宁缺心情骤然一紧，他从二师兄处知晓简大家与小师叔有旧，此时自然联想到这些舞女难道来自当年的红袖招？然而简大家现在还活的好好的，偶尔遇着自己便会提着自己耳朵中气十足教训一番，当年究竟谁死了？\n　　当年魔宗既然不惜如此大的代价，编织如此阴谋",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "…\n　　“莲生神座？”\n　　房间后方忽然响起一道不可置信的声音。\n　　衣衫褴褛的道痴叶红鱼，不知何时来到了此间，她看着骨山间那位枯瘦如鬼的僧人双手结成的手印，脸上满是不可思议和狂热喜悦的神情。\n　　莫山山几乎同时惊喊出声：“莲生大师？”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "要挑动轲疯子的疯意，所以他们真实的目标是那些来自唐国只知跳舞的可怜女子。”\n　　听到这句话，宁缺心情骤然一紧，他从二师兄处知晓简大家与小师叔有旧，此时自然联想到这些舞女难道来自当年的红袖招？然而简大家现在还活的好好的，偶尔遇着自己便会提着自己耳朵中气十足教训一番，当年究竟谁死了？\n　　当年魔宗既然不",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "间，她看着骨山间那位枯瘦如鬼的僧人双手结成的手印，脸上满是不可思议和狂热喜悦的神情。\n　　莫山山几乎同时惊喊出声：“莲生大师？”",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，十根手指肌肤之下骨节恐怖可见，宛如自冥界探出的一双骨手，然而骨手所结的手印淡淡释放着令人心境恬静的温暖气息，慈悲有若昊天降下的两朵白莲花。\n　　骨手白莲手印间的气息异常强大纯凝却没有丝毫的杀伤力，随着气息渐释，老僧身周的白骨尸骸表面忽然生出一层极温莹的光泽，竟仿佛要活过来一般。\n　　宁缺盯着老僧腹",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "的苦楚不堪，便琢磨出来了一个法子，想要借着书院与神殿之间的隔阂，布一局挑动双方之间的战争。”\n　　“某年烂柯寺盂兰节大会，中原诸国修行者齐会于其间，又有韶舞翩翩，魔宗便于此时血洗烂柯寺前坪，却将这椿祸事嫁于神殿裁决司，这便是故事的开头。”\n　　老僧枯瘦如鬼，当年那段血雨腥风事缓缓道来时，语气神情却是",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "十二瓣，瓣瓣不同，各为世界。”\n　　……\n　　……\n　　“赎罪，自然是因为这罪是我的。”\n　　“因为从来就没有什么魔宗的阴谋，这个阴谋也是我的。”\n　　“裁决司司座是魔宗的人，很多年前我就知道了，我也知道他们想做什么，我什么都没有做，我坐在黑色而寒冷的座椅上，撑着下颌，静静看着他们做完这件事情，然后",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

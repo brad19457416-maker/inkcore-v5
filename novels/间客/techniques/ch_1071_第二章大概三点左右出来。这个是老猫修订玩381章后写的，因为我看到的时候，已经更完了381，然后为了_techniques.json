@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 1071,
+  "chapter_title": "第二章大概三点左右出来。这个是老猫修订玩381章后写的，因为我看到的时候，已经更完了381，然后为了避免你们又催更下章，所以干脆就不打出来，我自己知道他什么时候...",
+  "filename": "ch_1071_第二章大概三点左右出来。这个是老猫修订玩381章后写的，因为我看到的时候，已经更完了381，然后为了避免你们又催更下章，所以干脆就不打出来，我自己知道他什么时候....txt",
+  "char_count": 3784,
+  "timestamp": "2026-04-10T12:05:26.934480",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "有法律正义这些东西。”\n\n    “总统先生，其实你从来没有真正的了解过我。少年时的我哪怕被迫从东林逃亡到首都星圈，我依然信奉法律。\n\n    直到后来我发现执行法律的人出了问题，我才开始自己的战斗。”\n\n    微温的金属手镯在袖中，贴着他的手腕，那两行与星空道德有关的小字仿佛印入他的身体肌肤极深",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "因为这阵廖乱纷乱qiāng声，酒馆外举qiāng对峙的七组队员和铁七师尖刀连间，气氛骤然变得更加紧张。\n\n    许乐抬头向酒馆外望去，比普通人敏锐不知道多少倍的目光，穿透酒馆极具百慕大特sè的huā纹玻璃窗，未被飘扬雪huā隔阻，落在约**百米之外校园内某处水塔上，发现了瞄准镜的反光。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的那颗红sè触发按钮。\n\n    迸！迸！迸！几道春雷般沉闷而响亮的qiāng声，瞬间划破深冬飘雪的天空，高速旋转的比acw狙击步qiāng子弹不知从何处，仿佛自天外来，无比准确地轰中校园里的水塔和宿舍楼某处！\n\n    水泥块飞溅，铁质栏杆扭曲崩断，水塔上端被轰出一道恐怖的创口，带着薄薄的冰块向下",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "微振动触发藏在袖间的那颗红sè触发按钮。\n\n    迸！迸！迸！几道春雷般沉闷而响亮的qiāng声，瞬间划破深冬飘雪的天空，高速旋转的比acw狙击步qiāng子弹不知从何处，仿佛自天外来，无比准确地轰中校园里的水塔和宿舍楼某处！\n\n    水泥块飞溅，铁质栏杆扭曲崩断，水塔上端被轰出一道恐怖的创口，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "“你的选择最后收获了我的尊敬。”许乐回答道。\n\n    ……\n\n    ……\n\n    “真相无法永远掩盖：错误手段换来的正确结果，最终还是会变成错误：zhèngfǔ依靠……嗯，这些话谁都懂，甚至能背颂各种版本，然而可惜的是，能懂能背不代表能做到。”\n\n    总统官邰橱圆办公厅内，帕布尔",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "许乐回答道。\n\n    ……\n\n    ……\n\n    “真相无法永远掩盖：错误手段换来的正确结果，最终还是会变成错误：zhèngfǔ依靠……嗯，这些话谁都懂，甚至能背颂各种版本，然而可惜的是，能懂能背不代表能做到。”\n\n    总统官邰橱圆办公厅内，帕布尔总统端着一杯红酒，望着窗外淡雪清旷景致，搂",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "去的那些人满意，那么我将毫不犹豫地举起qiāng来。”\n\n    许乐盯着帕布尔总统的眼睛，一字一句说道：“我会一qiāng打死你，或者两qiāng打死你，或者乱qiāng打死你。”\n\n    话音甫落，远处响起一阵并不密集、显得格外纷乱的qiāng声，qiāng声距离此地有些距离，深在两旁的校园之",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "和李在道的做法是错误的。”\n\n    他抬起手来，指向小酒桌对面的邰之源，说道：“错了就要认错，如果将来这个家伙当了总统变成第二个你，我一样不会放过他。”\n\n    帕布尔总统微微皱眉，说道：“其实我一直有些看不懂你，一般人如果像你这般，生命中不断遇到离奇的变故纠结磨难，或者早就已经崩溃，至少很难再",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "梦想，全国人民都被驱赶着点燃自己的房屋，制造大面积的上升气流……”（注）\n\n    有些荒诞的梦境，出现在弹劾前夜、某个强悍计划实施前夜的帕布尔总统脑中，可以说明很多隐藏在他精神世界深处的情绪。\n\n    电话那头的李在道明白帕布尔想要说什么，表达了怎样的态度，所以他的声音变得冷冽起来：“总统先生，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "变故纠结磨难，或者早就已经崩溃，至少很难再如此笃信某些东西。”\n\n    他望着许乐那张平凡的面容，感慨说道：“然而你是如此的奇妙，时间和遭逢对你来说似乎没有任何作用，你还是像当年那样肯定坚持而执着，似乎没有任何变化。”\n\n    “首都星圈的人把我们东林人叫做东林石头，那就是因为我们又臭又硬，对于",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "一言，正是因为一开始他就注意到许乐鼻梁上的眼镜，知道许乐所做的威胁无比真切：\n\n    当想要妥协的人们杀死他之前，他只要依然睁着那双并不大的明亮眼睛，便可以一qiāng两qiāng乱qiāng打死任何他想打死的人。\n\n    比如帕布尔总统。\n\n    ……\n\n    ……\n\n    短暂匆忙严厉",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "改变这个世界，但也不能让这个狗rì的世界改变我。”\n\n    听到这句话，帕布尔总统那双同样直的眉毛缓缓皱起，黝黑的脸颊上情绪复杂微惘，他看着许乐，仿佛看着自己，喃喃轻问又仿佛是在自言自语：“难道我真的已经被这个世界改变了？”\n\n    昏暗灯光下，小方酒桌旁，死寂般的沉默维系了很长时间，帕布尔总统",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "李在道没有回答，沉默片割后他直接挂断了电话。\n\n    帕布尔若有所思，将杯中红酒缓缓饮尽，对忧虑望着自己的妻子微笑劝慰几句，表示自己没有事。\n\n    椭圆办公厅的沉重大门推开。\n\n    帕布尔先生牵着妻子的手向门外走去。\n\n    门外，杜少卿等联邦军人，熊临泉等七组队员，邰之源和林半山",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "。”\n\n    “我没有想到，你到如今还相信联邦有法律正义这些东西。”\n\n    “总统先生，其实你从来没有真正的了解过我。少年时的我哪怕被迫从东林逃亡到首都星圈，我依然信奉法律。\n\n    直到后来我发现执行法律的人出了问题，我才开始自己的战斗。”\n\n    微温的金属手镯在袖中，贴着他的手腕，那",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "yoú翱翔，既浪漫又开心，降落之后，却有无数暴民咆哮而来。我问身边军官发生了什么事，军官告诉我，为了满足我在任何地方都能zìyoú飞翔的梦想，全国人民都被驱赶着点燃自己的房屋，制造大面积的上升气流……”（注）\n\n    有些荒诞的梦境，出现在弹劾前夜、某个强悍计划实施前夜的帕布尔总统脑中，可以说明很",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

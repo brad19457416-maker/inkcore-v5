@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 157,
+  "chapter_title": "第九十六章 莫嚣张，嚣张遭车撞",
+  "filename": "ch_0157_第九十六章 莫嚣张，嚣张遭车撞.txt",
+  "char_count": 3755,
+  "timestamp": "2026-04-10T12:04:45.668868",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "联邦大概已经没有多少人是他的对手，就算那些联邦的特种兵也一样。\n\n    他一脚踩下油门。身下的汽车猛然提速，在轮胎与地面高速磨擦所带来的尖锐鸣叫声中，向着前方冲了过去。\n\n    邹郁面色一白，看着车前那些人和名贵的跑车，尖声叫道：“你要做什么？”\n\n    话音刚落，黑色的汽车已经无比顺滑地擦过",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "人要敏锐许多，一定注意不到那微微地伏起。\n\n    “怀孕了……为什么还要飙车，这样太危险了。”许乐说道。\n\n    邹郁的脸上已无妆粉，清纯美丽，听到怀孕二字。骤然浮起一丝凄冷之色，就如同很久以前那个清晨，她离开某个陌生公寓时，像破罐子一样不顾形容的放声大哭。\n\n    “我的事情不用你管……如果",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "了她的小腹上。如果不是他的目光比一般人要敏锐许多，一定注意不到那微微地伏起。\n\n    “怀孕了……为什么还要飙车，这样太危险了。”许乐说道。\n\n    邹郁的脸上已无妆粉，清纯美丽，听到怀孕二字。骤然浮起一丝凄冷之色，就如同很久以前那个清晨，她离开某个陌生公寓时，像破罐子一样不顾形容的放声大哭。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "邹郁的脸上已无妆粉，清纯美丽，听到怀孕二字。骤然浮起一丝凄冷之色，就如同很久以前那个清晨，她离开某个陌生公寓时，像破罐子一样不顾形容的放声大哭。\n\n    “我的事情不用你管……如果没有记错，我们并不熟，而且一直都是敌对的关系。”邹郁说道。\n\n    许乐没有兴趣与她争执什么，他只知道自己已经猜对了",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "他的目光比一般人要敏锐许多，一定注意不到那微微地伏起。\n\n    “怀孕了……为什么还要飙车，这样太危险了。”许乐说道。\n\n    邹郁的脸上已无妆粉，清纯美丽，听到怀孕二字。骤然浮起一丝凄冷之色，就如同很久以前那个清晨，她离开某个陌生公寓时，像破罐子一样不顾形容的放声大哭。\n\n    “我的事情不",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "邹郁听到了邰之源的近况后。沉默了下来，红润中带着一抹苍白的双唇微微张合。似乎还想继续问什么，结果最终只是沉默。\n\n    看到那些同伴向着汽车走来，她准备下车，却被许乐唤住了。\n\n    “不要去飙车了，对人对己都太危险。”许乐双眼看着窗外不远处那辆浑身幽蓝的名贵跑车，对她轻声说道。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "“你怎么知道的？”阴冷无比的表情并没有维持多久，马上崩溃成为一脸苍白与微微惊慌，邹郁看着许乐，颤抖着声音问道。\n\n    许乐的目光低垂，落到了她的小腹上。如果不是他的目光比一般人要敏锐许多，一定注意不到那微微地伏起。\n\n    “怀孕了……为什么还要飙车，这样太危险了。”许乐说道。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "震惊之余，忘了下车。\n\n    那几名衣着不凡的年轻人本来在商量夜奔的事情，然而看到邹郁上了那辆突然来到地黑色汽车，他们便已经沉默了，在心里猜测着这辆黑色汽车主人地身份。\n\n    这些人的家庭在首都特区里都有相当地地位，只是他们父辈的公司必须要与国防部那位主管后勤的邹副部长搞好关系，他们自然不愿意",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "许乐的那句问话。这句问话很自然，就像是在咖啡店里一位**掩嘴偷笑，问身旁的女性友人，又像是一位母亲正紧张而喜悦地问着自己的女儿。\n\n    那件事情谁都不知道，为了隐瞒这件事情，已经和家里闹翻的邹郁干脆搬了出来。已经这么多天，她没有向任何人说过这件事情，这件事情压在她的心里，让她无比痛苦和烦恼。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "不论是在夜店，还是里，许乐见惯了这些联邦特权阶层的嘴脸，所以也并不惊讶于对方地粗暴反应，他更不会担心对方的脚会不会被震痛。\n\n    车窗玻璃升了起来，将外面的骂声隔绝开来，他转过头望着邹郁说道：“你何必给我惹麻烦。”\n\n    “以你的身份，既然来招惹我，麻烦就自然会陪伴着你。”\n\n    邹",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "是一年的，比自己还要小一些，是个真正的少女，只不过青春少女应有的朝气与单纯，在过往的时候。都被冷酷地性格与艳丽的妆容所掩盖了。\n\n    邹郁听到了邰之源的近况后。沉默了下来，红润中带着一抹苍白的双唇微微张合。似乎还想继续问什么，结果最终只是沉默。\n\n    看到那些同伴向着汽车走来，她准备下车，却",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "如果不能在夜奔里赢回来，就得把赌约赔了。”不知道为什么，邹郁居然平静地解释了一下。\n\n    车外的人们似乎等的有些不耐烦了，尤其是当那辆幽蓝色的银灵跑车闪了两下灯之后，一名年轻公子哥走到车窗外，轻轻地敲了敲。笑着说道：“邹姐，今儿晚上还奔不奔？那边在催。”\n\n    虽然他们并不愿意得罪邹郁，但他",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "窗玻璃缓缓降了下来，许乐说道：“她今天不跑了，酒……也不会喝的。”\n\n    许乐想到先前在望都市区街道上的那些惊险场景，对那辆蓝色银灵跑车里的家伙，便没有丝毫好感，包括开红莲花的邹郁也是如此。他本不应该卷起这场麻烦里面，可是此时既然已经知道邹郁微微伏起的腹部。可能是那个惫懒家伙的后代，他肯定不会让",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "这些联邦的权贵后代们肯定不会赌钱这般无聊，可是只是喝一瓶酒。未免也有些出人意料。\n\n    车窗玻璃缓缓降了下来，许乐说道：“她今天不跑了，酒……也不会喝的。”\n\n    许乐想到先前在望都市区街道上的那些惊险场景，对那辆蓝色银灵跑车里的家伙，便没有丝毫好感，包括开红莲花的邹郁也是如此。他本不应该卷",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

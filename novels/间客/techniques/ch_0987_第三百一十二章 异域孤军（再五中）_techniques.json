@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 987,
+  "chapter_title": "第三百一十二章 异域孤军（再五中）",
+  "filename": "ch_0987_第三百一十二章 异域孤军（再五中）.txt",
+  "char_count": 3681,
+  "timestamp": "2026-04-10T12:05:26.944166",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "球尤其是西南矿区，在这个季节从来不会如此出现大，持续如此长的雾霾天气。\n\n    就在队伍气氛被浓雾压抑至极点时，四周的环境忽然发生了急剧的改变，雾气以一种肉眼可见的速度迅速消失，更准确来说，是在被某种奇异的力量吸附，然后蒸发无形！\n\n    崎岖山道尽头的天空骤然清亮，一方静湖出现在人们眼前。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。\n\n    山峰这边的地势明显平缓很多，虽然两点间距变得相对遥远了些，但至少不像先前攀援时那般艰难危险。队伍从五千多米的海拔重新进入厚重的铅云之中，并没有花太长时间。\n\n    夜穹里的清光再次被云雾吞噬，四周一片黑暗，只有头盔上的近距探射光和最前方猴子上悬着的荧光棒照亮脚下的路，在一处稀疏的高山",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的给养箱，大步赶了上去。\n\n    无名峰依旧属于平梁山脉，他们越过垭口之后，便等于翻越了整座山脉，来到了南方。\n\n    山峰这边的地势明显平缓很多，虽然两点间距变得相对遥远了些，但至少不像先前攀援时那般艰难危险。队伍从五千多米的海拔重新进入厚重的铅云之中，并没有花太长时间。\n\n    夜穹里的清",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "数千公里之外，有两艘三翼舰正在试图寻找什么。\n\n    黑sè飞船深处的中控室内，一根纤细的合金探头愤怒的高速颤动，菲利浦通过精确的对地通讯道，向着西南黑暗中某处无名峰顶尖声吼叫道：\n\n    “那片陨石带又不是我在百慕大的家，哪能永远藏下去？为了找到你这个无组织无纪律好人精神泛滥的家伙，怎么可能不",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "要求一个机械脑袋掌握哲学这种人类的无聊魔游戏？”\n\n    “废话少说。”许乐低头开始收拾行军背囊，说道：“赶紧派艘飞船下来接我们，一共十四个人，方位你自己计算。\n\n    在他看来，既然双方联系上了，想要把山峰间这支孤军接去安全区域，以菲利浦的能力是非常简单的事情，所以他才有心情，看着崖外的寒冷月",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "来说，是在被某种奇异的力量吸附，然后蒸发无形！\n\n    崎岖山道尽头的天空骤然清亮，一方静湖出现在人们眼前。\n\n    然而雾气消散并不是天空的恩赐，而是人类战争的影响，山道上的队员们看着湖畔那些密密麻麻的机甲装甲车，看着那些在天空中飞舞的弹线，感受着那些足以蒸发浓雾的炽烈炮火，被震惊的说不出任何",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "眼可见的速度迅速消失，更准确来说，是在被某种奇异的力量吸附，然后蒸发无形！\n\n    崎岖山道尽头的天空骤然清亮，一方静湖出现在人们眼前。\n\n    然而雾气消散并不是天空的恩赐，而是人类战争的影响，山道上的队员们看着湖畔那些密密麻麻的机甲装甲车，看着那些在天空中飞舞的弹线，感受着那些足以蒸发浓雾的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "：“我们会在秋叶原边上拐个弯。根据参谋部的命令，所有联邦部队严禁进入秋叶原东面区域。”\n\n    “为什么？”\n\n    “听说科学院专家支援组发现秋叶原东边的石墨矿变异，辐射特别严重，人类的身体根本无抵抗这种辐射。”\n\n    “绕行路程会拉长，而且遇到敌人的可能xìng更大。”许乐看着电子地图上",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "一层不祥的预兆。\n\n    根据联邦部队军事手册记载，墨花星球尤其是西南矿区，在这个季节从来不会如此出现大，持续如此长的雾霾天气。\n\n    就在队伍气氛被浓雾压抑至极点时，四周的环境忽然发生了急剧的改变，雾气以一种肉眼可见的速度迅速消失，更准确来说，是在被某种奇异的力量吸附，然后蒸发无形！",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "洒了无数信号中继站，那些东西捕捉身份芯片脉冲很有一套。”\n\n    说到这里，他下意识里摸了摸后颈，自嘲地笑了起来：“活了快四十岁，没有几次会想起自己颈子里埋着块芯片，现在才发现原来这玩意儿真的很要命。\n\n    “头儿，你脖子后面那块芯片还在吗？帝国那边有没有办取出来？”\n\n    “帝国如果有这",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "见的速度迅速消失，更准确来说，是在被某种奇异的力量吸附，然后蒸发无形！\n\n    崎岖山道尽头的天空骤然清亮，一方静湖出现在人们眼前。\n\n    然而雾气消散并不是天空的恩赐，而是人类战争的影响，山道上的队员们看着湖畔那些密密麻麻的机甲装甲车，看着那些在天空中飞舞的弹线，感受着那些足以蒸发浓雾的炽烈",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "自己留下的烬痕。\n\n    对于这种在三年时间内经常上演的场面，清丽的少女没有任何参与的兴趣。她虽然担心许乐的安全，却更清楚菲利浦说的是实话，在这几十个小时时间内，联邦舰队忽然加大了对黑暗半球面的巡逻力度，这艘看似无所不能的飞船，有几次险些被数般巨舰包围。\n\n    不知道许乐在通话系统里说了句什么",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "靠？会不会有什么问题。”\n\n    “地下抵抗组织一直有情报过来，那片高原下方有丰富的石墨矿，但帝国从来没有进行过开采，可以做为一种证明。”\n\n    许乐沉默片刻后认同这个判断，他和熊临泉都没有注意到，坐在二人身后的东方玉在听到这段话后，眉头皱了起来。\n\n    “我还是担心天上，刚才在云层外行走",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

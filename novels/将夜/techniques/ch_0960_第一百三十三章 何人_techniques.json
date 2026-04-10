@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 960,
+  "chapter_title": "第一百三十三章 何人",
+  "filename": "ch_0960_第一百三十三章 何人.txt",
+  "char_count": 3315,
+  "timestamp": "2026-04-10T12:11:27.602168",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "心什么？”\n　　“既然这件事情与道门有关，必然是父亲做的安排，无论佛祖棋盘能不能困住昊天和宁缺，只怕最终昊天都会回到神国。”\n　　陈皮皮说道：“到那时，人间的战争再次打响，书院还能撑得住吗？每每想起此事，我吃饭便如同嚼蜡，哪里有胃口，今天晚上只能吃五碗了。”\n　　……\n　　……\n　　宋国某城，叶苏站",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "刻间，便挤进来了数百人，一时间场面变得极为混乱，很多人被挤倒在地，根本无法站起。到处都在踩踏，拥挤的人群里不时响起骨折的声音和惨呼。\n　　叶苏已经被打的浑身是血，但他始终站在原地，没有躲避，直到此时，他终于弯下腰身，蹲到了地面上。\n　　最前面的那几名汉子根本不理会四周的拥挤，也不理会那些惨叫，凭着蛮",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "西陵神殿极大的压力，尤其是最近这段时间。\n　　宁缺和桑桑被佛祖困进了棋盘，对于普通人来说，这自然是个秘密，但对于能够与书院保持联系的他来说，不是秘密。\n　　因为这个突然的变故，书院最初拟定的计划不得不做出相应的调整，道门、尤其是他的父亲怎么可能错过这种机会。\n　　“我自幼修行道法，从无障碍，被观里的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "棒打的极惨，头破血流，苦苦哀求才得以被放出道观。\n　　现在道观里便只剩下叶苏一个人。\n　　他看着这些愤怒的民众，眼神里没有怨恨，也没有失望，也没有佛宗高僧常见的悲悯，神情平静，甚至还带着微笑。\n　　他的反应让民众们愈发愤怒，有些男人举起棍子便砸了过去。\n　　小道观外围了很多人，黑压压的一片，听着墙里",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "有找到，那妇人脸色苍白，哭的上气不接下气，一屁股坐到地上，再也爬不起来。\n　　道观里的人们面面相觑，心想先前那般混乱，就连那些壮实的男人，都被踩成了重伤，那两个小孩莫不是被踩死了？\n　　想是这般想的，却没人敢当着那妇人的面说，一时间，场间变得极为安静，有人愤怒地想着，如果不是那个人，大家怎么会都跑到",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "。”\n　　他想要帮书院做些事情，所以才会渴望力量。\n　　唐小棠走到他身旁，握住他的手，说道：“不要太担心。”\n　　“没有办法不担心。”\n　　陈皮皮最敬爱的两位师兄――君陌和叶苏，现在都在做着最艰难的事情，每每想到这些，他便觉得焦虑不安。\n　　唐小棠说道：“四师叔来信，说书院里正在想办法开棋盘，但一直",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，糊里糊涂就进了知命境，修行对于我来说，从来都不是难事。”\n　　陈皮皮站在窗前，看着长安城的方向继续说道：“或者是因为这个缘故，也可能是因为不想与师兄争道统，我对修行其实很不用心，对力量这种事情更是不感兴趣，然而现在，我变成了废人，再也无法修行，再也无法拥有以前那样、甚至是更强的力量，我却忽然开始渴",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "这个道门势力最强大、民众对昊天的信仰最虔诚的国度进行传道。\n　　他身上的淡色布衫，被海上吹来的微湿清风拂的微动，上面的污迹很明显，隐隐散发着恶臭，应该是被很多臭鸡蛋砸过。\n　　在宋国传道，自然要比在临康城传道艰难无数倍，他选择这里，便已经做好了心理准备，只是没有想到民众的敌意来的如此直接。\n　　几块",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。\n　　离开临康城后，他便在世间洗走，希望能够把新教的教义传播的更广，能够觉醒更多的贫苦信徒，最终他来到了宋国，这个道门势力最强大、民众对昊天的信仰最虔诚的国度进行传道。\n　　他身上的淡色布衫，被海上吹来的微湿清风拂的微动，上面的污迹很明显，隐隐散发着恶臭，应该是被很多臭鸡蛋砸过。\n　　在宋国传道，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "进了棋盘，对于普通人来说，这自然是个秘密，但对于能够与书院保持联系的他来说，不是秘密。\n　　因为这个突然的变故，书院最初拟定的计划不得不做出相应的调整，道门、尤其是他的父亲怎么可能错过这种机会。\n　　“我自幼修行道法，从无障碍，被观里的人们称赞为道门千年难遇的天才，其后入书院考了个六科甲上，被老师直",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "孩不知道怎么回答，道观里也没有人知道应该怎么回答，安静一片。\n　　那名老汉的神情有些惘然，手里的拐杖缓缓落下。\n　　此人究竟是何人？\n　　片刻后，他醒过神来，伸手在那两个小孩的脑袋上重重地拍了两下，训道：“糊涂蛋玩意儿！谁都能打哩？”\n　　那妇人冲了过来，把两个小孩搂进怀里，对叶苏连连道谢。\n　　老",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "院考了个六科甲上，被老师直接召进二层楼，成为书院后山的一分子，糊里糊涂就进了知命境，修行对于我来说，从来都不是难事。”\n　　陈皮皮站在窗前，看着长安城的方向继续说道：“或者是因为这个缘故，也可能是因为不想与师兄争道统，我对修行其实很不用心，对力量这种事情更是不感兴趣，然而现在，我变成了废人，再也无法",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

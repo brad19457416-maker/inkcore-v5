@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 703,
+  "chapter_title": "第六十六章 曾经的七组",
+  "filename": "ch_0703_第六十六章 曾经的七组.txt",
+  "char_count": 3552,
+  "timestamp": "2026-04-10T12:05:17.537528",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "对铁七师的愤怒，哪怕葬身那片水泥废墟中的有两人曾经是七组的队员。\n\n    对手如今的联邦而言，曾经风光无限的果壳七组似乎根本就没有存在过。\n\n    在这近一年的时间里，联邦军方和官方的媒体中再也没有提到过果壳七组，隐隐中似乎有一只看不到的手，在悄无声息地把这个名词往历史的故纸堆里推，在刻意地无视",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "丝畏怯之色，反而充满了某种冷酷的喜悦，终于能够把许乐留在军队里的班底清扫干净，他非常满足，至于此刻的危险……，他根本不相信白玉兰敢杀自己，此时正缓缓离开颈动脉向上移动的冰冷刀锋便是明证。\n\n    忽然间，这位战功赫赫的联邦军官凄厉地惨嚎起来！\n\n    一脸专注神情的白玉兰，手指微动，那把秀气的军",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "往历史的故纸堆里推，在刻意地无视曾经有过的英雄集体。\n\n    七组被打散入编入各野战部队后，队员们来到了全新的战斗岗位，然而很少被启用承担艰苦而光荣的任务，一方面是联邦不希望塑造出来的英雄集体最后全体变成棺材里的骸骨，除此之外还有更深层次的考虑。\n\n    白玉兰很清楚这是为什么。\n\n    天上",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "第六十六章 曾经的七组 \n\n    熊临泉的愤怒其实不是因为铁七师的人提到了许乐，更大程度是那些死在法伽尔市南区街道上的同伴，然而牺牲在战场上太过常见，甚至无法做为愤怒的引子。做为一名联邦军人，他不能用同伴的死亡去表达对铁七师的愤怒，哪怕葬身那",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "破了沉默，缓缓抬起头来，那张细眉细眼柔顺至极的面容上透着丝诡异的气息，他望着身前的铁七师官兵们，轻声说道：“像今天这种事情，不可能有证据说是你们的阴谋，而且我也不相信堂堂铁七师会做出这种事情来。”\n\n    “但这总是你们的错，我有五个人死了，而且其中有两个是七组的老队员……”他望着那位冷漠的东方团",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "废墟中的有两人曾经是七组的队员。\n\n    对手如今的联邦而言，曾经风光无限的果壳七组似乎根本就没有存在过。\n\n    在这近一年的时间里，联邦军方和官方的媒体中再也没有提到过果壳七组，隐隐中似乎有一只看不到的手，在悄无声息地把这个名词往历史的故纸堆里推，在刻意地无视曾经有过的英雄集体。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "塑造出来的英雄集体最后全体变成棺材里的骸骨，除此之外还有更深层次的考虑。\n\n    白玉兰很清楚这是为什么。\n\n    天上只能有一轻太阳，不然就会像上个月三十二装甲旅打下的那颗帝国矿星般热的要死。\n\n    在这些年隐隐存在的某种继承竞争中，那个拥有开朗笑容的家伙死了，联邦理所当然会选择杜少卿和他",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "师兵员已经超过四万，在进攻帝国本土的战争中连战连捷，风光无双，铁七师攻克某地的壮烈画面，以恐怖的频率出现在联邦新闻频道上，出现在亿万联邦民众的眼中。\n\n    少卿师长和他的铁七师，从军演不败到西林血战再到进攻帝国，用铁一般的战功，成为了媒体的宠儿，民众的偶像，总统先生和议会山的爱将，甚至是军方的未",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "事实上自从那个小老板令人愤怒地坐着飞船穿越空间通道之后，他甚至有些厌倦了军旅生涯，生出了打报告退伍的念头。\n\n    之所以把退役报告收了回来，跟随大部队进入帝国星域，是因为他内心深处想看到一些奇迹的发生，如果奇迹真的发生，他想看着七组的老伙计们，把这些家伙完好无损地交还给那个家伙，为了这个目的，所",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "让老伙计们以后在战场上得到更多的尊重和安全。\n\n    白玉兰舔了舔嘴唇，拍了拍凌乱短发上的灰尘，于众人漠视之中，望着对方微笑说道：\n\n    “东方，我丅操丅你妈。”\n\n    我丅操丅你妈从古至今都是直指本心最有效用的一句脏话，曾经的七组从上到下都最喜欢用这个武器，但无论是能够将这句话说的像白开",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "此轻言细语宛若情人在耳边呢喃令人感到无尽的羞辱……\n\n    场间所有的人脸色剧变，铁七师官兵的眼中瞬间燃烧出冷酷的火来，白玉兰却像是没有任何感觉，微偏着头极有趣味地打量着面前的东方团长，右手的食指已经悄无声息轻轻触到了腿侧那把秀气军刀秀气的木柄——不飙则已，既然要飙总要飙个彻底，不能短了七组当年的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "总不会针对我们这些小人物，或许只是某些卑劣的家伙自以为是在做些什么。”\n\n    白玉兰打破了沉默，缓缓抬起头来，那张细眉细眼柔顺至极的面容上透着丝诡异的气息，他望着身前的铁七师官兵们，轻声说道：“像今天这种事情，不可能有证据说是你们的阴谋，而且我也不相信堂堂铁七师会做出这种事情来。”\n\n    “",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "朗笑容的家伙死了，联邦理所当然会选择杜少卿和他的铁七师，所以七组的历史使命已经结束。\n\n    联邦社会里的战斗热情早就被那部纪录片调动的***起来，那么像七组这样一支拥有过于鲜明烙印，并且和铁七师有旧怨有新仇有冲击的战斗小队，自然没有继续存在下去的必要。\n\n    七组散了，但七组的队员还在，因为",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "会，某个能够痛快发飙的机会。\n\n    反正那个家伙已经死了，这个宇宙里没有什么奇迹，总得让老伙计们以后在战场上得到更多的尊重和安全。\n\n    白玉兰舔了舔嘴唇，拍了拍凌乱短发上的灰尘，于众人漠视之中，望着对方微笑说道：\n\n    “东方，我丅操丅你妈。”\n\n    我丅操丅你妈从古至今都是直指本",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "团长眼睛里没有一丝畏怯之色，反而充满了某种冷酷的喜悦，终于能够把许乐留在军队里的班底清扫干净，他非常满足，至于此刻的危险……，他根本不相信白玉兰敢杀自己，此时正缓缓离开颈动脉向上移动的冰冷刀锋便是明证。\n\n    忽然间，这位战功赫赫的联邦军官凄厉地惨嚎起来！\n\n    一脸专注神情的白玉兰，手指微",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

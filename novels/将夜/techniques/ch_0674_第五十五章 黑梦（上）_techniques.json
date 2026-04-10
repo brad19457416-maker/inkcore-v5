@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 674,
+  "chapter_title": "第五十五章 黑梦（上）",
+  "filename": "ch_0674_第五十五章 黑梦（上）.txt",
+  "char_count": 3415,
+  "timestamp": "2026-04-10T12:11:26.901014",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第五十五章 黑梦（上）\n　　无穷无尽的黑与寒从大黑伞注入天空，把荒原北方的天空染的漆黑一片，有如黑夜到来。无穷无尽的光与热从神杖顶端注入天空，把荒原南方的天空染的光明无比，有如神国降临人间。\n　　血色神辇内，叶红鱼看着被切割成截然不同两半的天穹，美丽的脸容",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "桑。\n　　桑桑是冥王的女儿，任何事情在她身上发生都可以想像，叶红鱼虽然震撼却没有投注更多的精神，目光最终还是落到东方数里外的西陵神殿掌教的身上。\n　　她的眉尖微微蹙起，因为她无法看清楚那道圣洁的光柱，究竟是从掌教大人身体里喷出，落到天穹之上，还是从天而降落到他的身上。\n　　……\n　　……\n　　荒原南",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "起她的手。\n　　他的手正在淌着血，血珠落地，发出啪啪的脆响。\n　　他这时候什么都不能做，做什么都没有意义，所以只能静静看着她。\n　　忽然，他觉得此时看到的一切有些眼熟。\n　　他望向南方，发现荒原战场上到处都是尸体。他望向天空，那片一片光明，似有一轮烈阳。而黑夜正席卷而去。\n　　宁缺确认自已曾经看到过",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "……\n　　夜幕渐广，缓缓向南方侵袭而去，光明的天空边缘出现了无数道细密的裂痕，就像是蛛网一般，然后瞬间被夜色灌注进去，变成黑色。\n　　夜色与光明相遇时，没有发出任何声音，但荒原地面上的所有人，都觉得自已的心脏瞬间跳动的快了起来，然后产生一种极为剧烈的痛苦。\n　　人们看着光明的天空被黑夜一寸一寸侵蚀",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "指的左手，落在钟面时，不时轻击，以钟声助经声传播的更远。\n　　看着遥远东方的天空，看着那处光明与黑暗对峙的画面，他脸上的神情显得有些焦虑，往日里的坚毅平静，早不知去了何处。\n　　佛祖预言的末法时代，终于要到来了，然而佛祖留下的法器，已经损失了太多，净铃毁坏，棋盘失踪，那么悬空寺还能躲开冥王的目光吗？",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "够被所有人看见，所以人世间所有人都看到了被光明与黑暗切割开的天穹，只不过因为视角的关系，越往南边去，人们视线里的光明便愈多，黑暗天空便越小，到了极南处，荒原上的黑暗天穹更是变成了地面远处的一抹黑色，看上去就像是一条被压扁了的幽暗通道。\n　　如果那条幽暗通道联通着冥界与人间，那么下一刻会有什么从那条通",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，然而同样是因为佛祖传下佛法里的精要，当冥王之女没有被杀死，冥界入侵无法挽回，永夜即将到来，人间将要进入末法时代的时候，佛宗僧人们不再尝试做任何事情，而是开始躲避和隐藏。\n　　极西荒原深处，那片巨大幽深的天坑里，云雾缭绕不散，无论是圣洁的光线还是幽暗的夜影，都无法穿透进云，落在人们的身上。\n　　无数",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "。\n　　夜色里响起凄厉的鸦鸣，如墨般的黑夜开始翻滚卷动，似乎那里有某种意识存在感到了被亵渎，于是开始愤怒狂暴。\n　　桑桑脚下的冰雪莲花已经盛放。\n　　她闭着眼睛，紧紧握着手里的大黑伞，阴寒气息不停从她的身体里喷涌而出，卷动着荒原间的天地气息，化作幽暗的黑色，向着黑夜里不停灌注。\n　　宁缺站在她身旁不",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "最终还是落到东方数里外的西陵神殿掌教的身上。\n　　她的眉尖微微蹙起，因为她无法看清楚那道圣洁的光柱，究竟是从掌教大人身体里喷出，落到天穹之上，还是从天而降落到他的身上。\n　　……\n　　……\n　　荒原南方数十里外的草甸间，有数十骑正在注视着北方的天空。\n　　银色面具上反映着诡异而令人心悸的天空，光明与",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "光明与黑暗，神情显得极为疲惫。\n　　……\n　　……\n　　夜幕渐广，缓缓向南方侵袭而去，光明的天空边缘出现了无数道细密的裂痕，就像是蛛网一般，然后瞬间被夜色灌注进去，变成黑色。\n　　夜色与光明相遇时，没有发出任何声音，但荒原地面上的所有人，都觉得自已的心脏瞬间跳动的快了起来，然后产生一种极为剧烈的痛苦",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "望天，因为崖洞顶端的开口太小，纵然抬头望云，也只能看见一片光明。\n　　一柄古意盈然的大剑，从潭水底部缓缓升起，和这柄剑相比，草屋架上搁着的那把柳白常用的剑，就像是稻草一般破败。\n　　没有人知道剑圣柳白藏身剑阁山腹，在潭畔静思悟道多年，除了因为心头那抹恐惧不敢现世，他一直在炼养一把真正的剑。\n　　那必",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "样是因为佛祖传下佛法里的精要，当冥王之女没有被杀死，冥界入侵无法挽回，永夜即将到来，人间将要进入末法时代的时候，佛宗僧人们不再尝试做任何事情，而是开始躲避和隐藏。\n　　极西荒原深处，那片巨大幽深的天坑里，云雾缭绕不散，无论是圣洁的光线还是幽暗的夜影，都无法穿透进云，落在人们的身上。\n　　无数万名肤色",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "向北方被黑暗与光明切割开的天空，雄伟的长安城笼罩在金色的光泽里。\n　　“我们现在应该在那里。”二师兄说道。\n　　大师兄说道：“就算在那里，我们也什么都做不了。”\n　　二师兄说道：“但至少我们是在那里。”\n　　大师兄说道：“老师不同意我们在那里，我们便只能在这里看着。”\n　　……\n　　……\n　　南晋剑",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

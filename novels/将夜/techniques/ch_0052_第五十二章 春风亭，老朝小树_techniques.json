@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 52,
+  "chapter_title": "第五十二章 春风亭，老朝小树",
+  "filename": "ch_0052_第五十二章 春风亭，老朝小树.txt",
+  "char_count": 3474,
+  "timestamp": "2026-04-10T12:11:11.951549",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "张底牌就能掀开来，到时候你就会知道，我真的是一根很粗的大腿，很值得你抱上一抱。”\n　　“既然今夜这么危险，为什么你不把底牌先打出来？”\n　　“因为底牌不是一张牌，是一个人。我无法命令他，相反他能命令我，他需要我赢了今夜这场战斗，因为他想看看对手的手里有没有藏着牌。”\n　　“好吧，我对这种风格的对话实",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，我从来没有承认过自己是鱼龙帮的帮主，我只是集合了一群兄弟，做些朝廷不方便做的事情罢了。”\n　　宁缺最终确认了他的身份，微笑拍了拍他的肩膀，说道：“长安第一大帮的帮主还这么谦虚，小树啊，你这就显得太虚伪了。”\n　　……\n　　……\n　　从柴堆里抽出那把样式普通的刀，从箱子里找出那把黄杨硬木弓和箭筒，从",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第五十二章 春风亭，老朝小树\n　　宁缺仰脸看向他，问道：“想杀人就去杀吧，杵在我铺子门口做什么？”\n　　中年男子应道：“我在等雨停，也在等几个人。”\n　　“等雨停的时候往往雨不会停，等人来的时候往往人不会来。”宁缺",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "雨不会停，等人来的时候往往人不会来。”宁缺好心劝道。\n　　“人不来肯定是有不来的道理。”中年男子微笑说道：“不过能不能让我和你聊两句比较严肃认真的话，而不是像那些苦行僧一般试来探去？”\n　　“这个态度就对了，我也不喜欢尽在云山里转来转去。”宁缺笑着回答道：“不过我不喜欢蹲在地上和站着的人说话，因为高",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "要你不触犯唐律，为非作歹，这座长安城甚至整个大唐帝国都不会有人再敢来找你麻烦。”\n　　听着这话，宁缺心想谁说长安第一大帮身后没有背景，然而他并没有摘下口罩去光明磊落杀人的想法，清稚的声音隔着黑色口罩透了出来：“我习惯低调。”\n　　春风亭老朝笑了笑，不再劝他什么。\n　　春夜的幽静早被淅沥的雨声打扰，此",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "“等雨停的时候往往雨不会停，等人来的时候往往人不会来。”宁缺好心劝道。\n　　“人不来肯定是有不来的道理。”中年男子微笑说道：“不过能不能让我和你聊两句比较严肃认真的话，而不是像那些苦行僧一般试来探去？”\n　　“这个态度就对了，我也不喜欢尽在云山里转来转去。”宁缺笑着回答道：“不过我不喜欢蹲在地上和",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "笑着回答道：“不过我不喜欢蹲在地上和站着的人说话，因为高度有差距。”\n　　“你可以站起来。”\n　　“为什么不是你蹲下来。”\n　　中年男子笑一笑，没有半点犹豫直接蹲了下来，湿漉漉的青衫下摆遮住了老笔斋的门槛。然后他看着宁缺犹带青涩的脸认真地说道：“我现在很吃力。”\n　　宁缺低头吃面，等着下文。\n　　“",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "微怔，然后明白了一些，温和解释道：“能挣些银子总是好的，而且我看那家伙应该很有背景，给对方一个人情，将来我也用得上。”\n　　啪的一声，桑桑将抹布重重摔到灶沿上，端着沉重的铁锅自去倒脏水，小丫头腰身一扭，竟是当做没看见他这人，没听到他的解释。\n　　宁缺揉揉蹙起的眉心，沉默片刻后说道：“小黑子那个白痴随",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "中风雨依旧，不知春风亭那处如何。\n　　……\n　　……\n　　（注：温瑞安《说英雄谁是英雄》王小石白愁飞初遇苏梦枕。）",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。”\n　　春风亭老朝笑了笑，不再劝他什么。\n　　春夜的幽静早被淅沥的雨声打扰，此时又多了脚步声，宁缺走出门槛，朝小树撑开看似破不禁风的油纸伞，二人同时抬动脚步向夜色与雨中走去。\n　　桑桑冲了出来。她站在门槛内，双手抱着那口沉重的大铁锅，看着桌上那碗还剩了很多的面，看着风雨小巷里那个背影焦虑喊道：“少",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "那家伙应该很有背景，给对方一个人情，将来我也用得上。”\n　　啪的一声，桑桑将抹布重重摔到灶沿上，端着沉重的铁锅自去倒脏水，小丫头腰身一扭，竟是当做没看见他这人，没听到他的解释。\n　　宁缺揉揉蹙起的眉心，沉默片刻后说道：“小黑子那个白痴随随便便丢了一句话就嗝屁，我就算想推托也没办法跑到冥界去找他，那么",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "春夜的幽静早被淅沥的雨声打扰，此时又多了脚步声，宁缺走出门槛，朝小树撑开看似破不禁风的油纸伞，二人同时抬动脚步向夜色与雨中走去。\n　　桑桑冲了出来。她站在门槛内，双手抱着那口沉重的大铁锅，看着桌上那碗还剩了很多的面，看着风雨小巷里那个背影焦虑喊道：“少爷，你面还没吃完！”\n　　宁缺回头笑着望着她，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "”\n　　“朝小树比较好听一些……我说小树啊，你就是鱼龙帮的帮主？”\n　　“你可以叫我老朝……另外，我从来没有承认过自己是鱼龙帮的帮主，我只是集合了一群兄弟，做些朝廷不方便做的事情罢了。”\n　　宁缺最终确认了他的身份，微笑拍了拍他的肩膀，说道：“长安第一大帮的帮主还这么谦虚，小树啊，你这就显得太虚伪了",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "松开，说道：“我姓宁，安宁的宁。宁缺。”\n　　“我姓朝，大唐朝的朝，朝小树。”\n　　“好嚣张的姓，好温柔的名。”\n　　“长安人都叫我春风亭老朝，你可以叫我朝哥。”\n　　“朝小树比较好听一些……我说小树啊，你就是鱼龙帮的帮主？”\n　　“你可以叫我老朝……另外，我从来没有承认过自己是鱼龙帮的帮主，我只是",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

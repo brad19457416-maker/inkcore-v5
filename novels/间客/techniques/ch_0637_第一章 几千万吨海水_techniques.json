@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 637,
+  "chapter_title": "第一章 几千万吨海水",
+  "filename": "ch_0637_第一章 几千万吨海水.txt",
+  "char_count": 3294,
+  "timestamp": "2026-04-10T12:05:08.600927",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "时间无法呼吸的情况卜应该早就已经写息身亡，但那个男人却坚持了更久的时间。但他毕竟只定人，不定押，所以最终那些不甘绝望的挣扎。还是渐渐平息了下来，被死死系住的双腿无力地蹬动一下，脚掌泛着一丝惨不忍睹的白，最终停止。\n\n    就像一只临死前翻身以肚皮朝皮妄图看一眼大光的到怜死鱼凸\n\n    轻微的电机",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "得有些令人触目惊心。\n\n    这里是红蔷薇号，帝国皇帝陛下御用的顶级太空飞船。\n\n    却不知道为什么它会出现在远离天京呈的边境呈域之中。\n\n    在海的最深处，在几千万吨海水的压力最集中处，一片死寂安静，与水面上方的清丽美景不同，这里的安静充满着令人室息的死亡与息\n\n    水底铺就的那层细",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "航程。让他们没有多余的兴致与精神去打量透明穹顶外那片星空，冉美好的东西也禁不起时间和一成不变的搓磨，初遇时如初恋的少女美丽到惊心动魄，看久后却渐如老妻般面目乏味\n\n    比较之下，这艘豪奢至极的飞船内部纹施，还能让断近通过审核加入工作团队的人们感到震惊。尤其是那面碧监一斤的人造湖，更芳令他们感到了",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "甲栓栓摇楼。树旧有吊床，有大绿叶片植成的阳伞，隐隐还能听到马儿鸣叫的户。\n\n    云此美景，出现在寂静宇雷中的一艘太空飞船内部，则显得有些令人触目惊心。\n\n    这里是红蔷薇号，帝国皇帝陛下御用的顶级太空飞船。\n\n    却不知道为什么它会出现在远离天京呈的边境呈域之中。\n\n    在海的最深处",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "渐如老妻般面目乏味\n\n    比较之下，这艘豪奢至极的飞船内部纹施，还能让断近通过审核加入工作团队的人们感到震惊。尤其是那面碧监一斤的人造湖，更芳令他们感到了不可思议。\n\n    帝国的太空飞船从来都是以性能最优，材料最省的目的出进行工程设计，在亲眼看到这面湖前。谁能想像到，克然有飞船居然会如此奢侈",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "特殊材料造出来的？审问进行了这么多天，居然一点儿有用的情报都没有问出来。”\n\n    两名帝目专家完感慨后。互视一眼，同时摇头叹甩眉，“还是缺乏专业设备。”\n\n    红蔷薇号是帝国皇帝陛下的御用飞船，太空火力和舰身装甲自然强悍无比，却没有装备足够先进的探测设备和开讯工具，毕音皇帝陛下再如何变态冷血",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "沙粒最为匀称细腻，人类的脚底皮肤踩上去触感非常美妙。\n\n    人造沙滩之上，有数百棵热带植物在对流风甲栓栓摇楼。树旧有吊床，有大绿叶片植成的阳伞，隐隐还能听到马儿鸣叫的户。\n\n    云此美景，出现在寂静宇雷中的一艘太空飞船内部，则显得有些令人触目惊心。\n\n    这里是红蔷薇号，帝国皇帝陛下御用",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "电机声的嗡鸣再次响起。黑色的线索提赶台上的男子和他脚上系着的沉重金属块，横移出玻璃隔到湖面上，然后骤然放开，激起一团浪花，又是一次沉沦。\n\n    越来越深，他缓缓睁开了眼，眼角的皮肤,经被咸水浸泡的有些溃烂，但那双眸子却依然明亮干着越来真暗的水失，看着越来越近的水底细沙，听着耳膜里的微微水声，感",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "沉重金属块，横移出玻璃隔到湖面上，然后骤然放开，激起一团浪花，又是一次沉沦。\n\n    越来越深，他缓缓睁开了眼，眼角的皮肤,经被咸水浸泡的有些溃烂，但那双眸子却依然明亮干着越来真暗的水失，看着越来越近的水底细沙，听着耳膜里的微微水声，感受着耳膜处传来的压力刺痛感。到时候了。\n\n    他在心里默默",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "审问进行了这么多天，居然一点儿有用的情报都没有问出来。”\n\n    两名帝目专家完感慨后。互视一眼，同时摇头叹甩眉，“还是缺乏专业设备。”\n\n    红蔷薇号是帝国皇帝陛下的御用飞船，太空火力和舰身装甲自然强悍无比，却没有装备足够先进的探测设备和开讯工具，毕音皇帝陛下再如何变态冷血，想必也没有在自己",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "一名穿着白色工作服的帝的专家，看着工作台上全牙**的男人，取出毛巾胡乱擦拭了下此人的肩膀，不解说道：难道真的有所谓濒死，体验？他在临死之前，看到了…不息看到的画面？一，\n\n    “这个你耍等他醒过来后问他才另一名年长此的专家微笑着说道：“我相信这位联邦英雄应该不介意与你分卓，如果他不愿意，或",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "团队的人们感到震惊。尤其是那面碧监一斤的人造湖，更芳令他们感到了不可思议。\n\n    帝国的太空飞船从来都是以性能最优，材料最省的目的出进行工程设计，在亲眼看到这面湖前。谁能想像到，克然有飞船居然会如此奢侈甚至有些疯狂地容纳了一片人工湖？\n\n    幽淡的星光从玻璃穹顶洒下。伴着飞船内部光线。穿过空",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "轻微的电机鸣叫声从水面上响起，黑色的线索快向上拉动。牵动着沉重的金属块和那个不知是生是死的赤保男人离开水底细沙，带着几道细卷水沙，向着水面前进。\n\n    巨湖对岸的沙滩上有人正在钓鱼，哗的一户轻响，一尾红色的锦鲤被细线扯出水面，拼命挣扎甩脱尾部，却怎拜都尤法摆税致命的鱼钩。\n\n    **男人被",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

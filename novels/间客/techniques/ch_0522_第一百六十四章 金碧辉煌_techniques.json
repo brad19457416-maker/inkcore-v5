@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 522,
+  "chapter_title": "第一百六十四章 金碧辉煌",
+  "filename": "ch_0522_第一百六十四章 金碧辉煌.txt",
+  "char_count": 3887,
+  "timestamp": "2026-04-10T12:05:08.551104",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "浑身火气得不到发泄的大兵。\n\n    回过身来，望向一手打理了数年的夜总会，经理的唇角浮起一丝苦笑，心想不知道里面那支部队究竟是什么来历，足以容纳五百名客人同时聚会的金碧辉煌，竟被他们几十个人就毫不客气地包了下来。\n\n    要论起背景，七组毫无疑问是最不能被招惹的队伍，这支队伍里充斥着议长后代、州",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "州的**，疗养中心向来保持着沉默不予干涉的态度，总不能让英勇的战士们在前绒流血流泪，回到后方却找不到风流快活的途径，那样会显得太没有爱。\n\n    一旦没有爱，随之而来的便是恨，便是西林性犯罪发生率的急剧增高。\n\n    正所谓睁一只眼，闭一只眼，让大家都好过一点。\n\n    ……\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "五百名客人同时聚会的金碧辉煌，竟被他们几十个人就毫不客气地包了下来。\n\n    要论起背景，七组毫无疑问是最不能被招惹的队伍，这支队伍里充斥着议长后代、州长公子，巨富子弟，要同时硬抗这些公子哥身后的势力，除了强势而执着的帕布尔总绕，大抵也只有忤乐这种性情的家伙才能做到。\n\n    这样一群从不在意钞",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "然而今天夜里，这家夜总会却惹来了很多麻烦，大门口处，不时有军官脸色阻（阴）沉地离开。最后的人群中，一名少校冷冷地盯着经理，听着对方温和的解释，心情异常不爽。\n\n    他们是来自第二军区的轮战军官，今天晚上要招待刚从前线退下来的几名战友。这几名战友隶属于三军区一支威名赫赫的部队，一般的场合",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "掷飞镖，有的已经喝茫了，在做他们以前在首都星圈绝不会做的事情——那就是拿着话筒，用沙哑的声音玩命一般拼命大唱军队的热血战歌。\n\n    有几名在五分钟内濯了一瓶烈酒的队员，早已经醉的眼神大乱，不知为何悲从心中起，抱着身边的人埋首痛哭，然后起身执杯再灌，复而夸张大笑。\n\n    所谓战场创伤应激症，或",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "名战友。这几名战友隶属于三军区一支威名赫赫的部队，一般的场合明显不够层次，但令他们感到极为难堪的是，来到大门口处，竟然被夜总会拒绝入内！\n\n    虽然愤怒，但军官们并没有做出过激的反应。金碧辉煌敢开在军人横行的落日州首府，如此高调的一开数十年，身后自然有极深的后台，只好恼火地扔下几句话，悻悻然转身",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "般的场合明显不够层次，但令他们感到极为难堪的是，来到大门口处，竟然被夜总会拒绝入内！\n\n    虽然愤怒，但军官们并没有做出过激的反应。金碧辉煌敢开在军人横行的落日州首府，如此高调的一开数十年，身后自然有极深的后台，只好恼火地扔下几句话，悻悻然转身离去。\n\n    夜总会经理看着离开的军官背影，挺直",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的去处。\n\n    “没什么事，一般人不敢招惹这家夜总会。”白玉兰从大门处走了回来，对略感担忧的忤乐说道“，这家夜总会的老极很有些门路，听说能够自如进出纬二区三十六号。\n\n    许乐听着这个名字有些耳熟，问道：“是什么地方？”\n\n    “西林钟家的老宅。”白玉兰回答道。\n\n    许乐点了点头，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "就在此时，包厢里早已忍耐不住的队员们开始点人，公子哥里地位最高的锡朋，早已习惯了自己做为许乐亲兵般的存在，叨着一狠粗烟草，极为熟捻地安排着人，当然首先要将最好的姑娘安排在许乐的身旁。\n\n    谁也没有想到，此时那位穿着黑色小礼服的小姐，却是轻轻握着双拳，紧张不安地自行走了过来，走到了许乐的身前。低",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "大气层外，如鸟群一般的转运舰穿越城市的上空，繁华街道上行走的人们脸上带着早已习惯的平静面容，只是经常出现的深色军装身影，显露出此地早已变成一座无比壮观的军营。\n\n    西林主星落日州以银滩碧海闻名于世，是联邦中首屈一指的旅游观光目的地，在那时此地的服务产业便极为发达。低调有爱的。几十年的战备戒丨严",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "好的姑娘安排在许乐的身旁。\n\n    谁也没有想到，此时那位穿着黑色小礼服的小姐，却是轻轻握着双拳，紧张不安地自行走了过来，走到了许乐的身前。低调有爱的。\n\n    这绝对不符规矩，锡朋的眉毛皱了皱，带队进房的女经理表情微慌，不知道会不会得罪这些来历不明、却明显不好惹的人物。\n\n    就在此时，许",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "第一百六十四章 金碧辉煌 \n\n    上个宪历末期，联邦与帝国骤然相遇，然后开始了连绵数十年的战争。地处前绒的西林大区，常年驻有大批部队，尤其是战争时期，来自联邦各个星系的军员和战备物资汇聚于此，战舰无声巡游于大气层外，如鸟群一般的转运舰穿越城市的上空，繁华街道",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "打理了数年的夜总会，经理的唇角浮起一丝苦笑，心想不知道里面那支部队究竟是什么来历，足以容纳五百名客人同时聚会的金碧辉煌，竟被他们几十个人就毫不客气地包了下来。\n\n    要论起背景，七组毫无疑问是最不能被招惹的队伍，这支队伍里充斥着议长后代、州长公子，巨富子弟，要同时硬抗这些公子哥身后的势力，除了强",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "何方人物。此时一声令下，女孩儿们带着猜忖之意鱼贯而入，分两排陈列于大房前方，或做低头微羞状，或做平静温柔状，或眼眸里流露沧桑故事，不一而足，风格多样。\n\n    许乐此时正放下酒杯，下意识抬头望去，忽然看到一名穿着黑色小礼服的小姐正微张着嘴唇愕然看着自己，他的心中也闪过一丝愕然，总觉得这位女孩儿有些",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

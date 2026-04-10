@@ -1,0 +1,128 @@
+{
+  "novel": "间客",
+  "chapter_number": 996,
+  "chapter_title": "第三百一十九章 突如其来的强震",
+  "filename": "ch_0996_第三百一十九章 突如其来的强震.txt",
+  "char_count": 2632,
+  "timestamp": "2026-04-10T12:05:26.957836",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "然响起尖锐的警报声。\n\n    许乐眉头紧锁，不明白警报声由何而来，难道在绝境之前，还有更绝望的未知危险？\n\n    恐怖的剧烈震动骤然降临比基高原！\n\n    破烂的拼装机甲僵硬在当场，然后重重向前倾倒！\n\n    粗壮机械腿旁的队员们面sè苍白的向空中弹起！\n\n    烟尘笼罩四野，遮蔽世界。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "成启动组式动作指令。\n\n    嘀嘀数声电子自栓轻响，clk值cls值两个云值不停上升跳跃下坠回复，最终回复成一条平滑的线条，虽然承荷能力和战损综合评估依然非常不乐观，但……至少没有断开。\n\n    许乐唇角微翘，笑了起来。\n\n    ……\n\n    ……\n\n    三天之后的比基高原，一场激烈的战",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "硬的合金护甲上，发出沉闷而恐怖的嘭嘭声响。\n\n    四架联邦近空灰鹞战机，像凶禽般高速纵翔在芽蓝的天空之中，肆意地施以炮火，将孤军某处临时坑道营地全部掀翻，看上去是如此的不可一世，然而仔细观察，却能发现这四架近空鹞式战机的攻击实际上显得非常小心翼翼，尽可能地拉开与地面的距离。\n\n    因为这种小",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "趋避，在满天烟尘与弹啸中，始终没有损伤。\n\n    直到此时此刻，包括熊临泉在内的绝大多数人才明白，为什么当他们认为这台笨重拼装垃圾没有任何战斗力时，许乐依然坚持带着它，甚至不惜拖慢队伍的前进速度。\n\n    那是因为当面临空中火力袭击时，再没有任何机甲甚至是最先进的完好mx机甲，比这台破烂金属怪物",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "军锁死无法逃离，眼下基地方面的强攻部队马上就要到来，听到顾惜风传话的队员们，本来已经极为寒冷的身体，骤然变得更加紧张，甚至就连听不懂联邦语的几名帝国士兵，也仿佛感觉到干冽天地间的死意。\n\n    顾惜风用充满期盼的目光盯着身旁许乐的脸。\n\n    许乐脸上没有什么表情，内心却无法平静，先前和菲利浦的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，孤军终究只能一步步走入死亡，哪怕脑海中仿佛可以看见那四名联邦飞行员颓丧而焦虑的脸，在地面拼命战争的人们依然觉得身体寒冷。\n\n    “南方二十公里，旋臂运兵战机，四台，大概有一个整连，我猜是小眼睛的人！”\n\n    昏暗的座舱中，顾惜风瞪着眼睛，看着刚刚被自己圆胖手指修复完牛的全域监控系统，看着那",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "着刚刚被自己圆胖手指修复完牛的全域监控系统，看着那些清晰的光点，像个马上面临强奸的娘们一样，无助而又愤怒地尖声咆哮道。\n\n    被宪章光辉跟住目标无法隐匿，被联邦空军锁死无法逃离，眼下基地方面的强攻部队马上就要到来，听到顾惜风传话的队员们，本来已经极为寒冷的身体，骤然变得更加紧张，甚至就连听不懂联",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "声，叮当清脆的金属撞击声，刺耳尖锐的金属摩擦声，一旦响起便久久不曾停歇。\n\n    珠儿山炮几名队员紧张地注视着机甲上忙碌的身影，时不时依照他的吩咐传递各式各样的零件。\n\n    随着修理的进程，幸运开始一层一层地笼罩所有的逃亡者，三台机甲就像是三个重度残疾的伤员，没胳膊的有腿，脑袋受了伤的还有健康",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "像被风月侵蚀多年的石雕，两台军用mx机甲和一台工程摇【？这个字看不清楚】进机甲，就这样安静而悲伤地瘫倒在高原上。\n\n    机甲身后的辅助飞翼完全脱落，不见影踪；左机械腿外侧的合金板式履带齿状断裂；41区块隐藏门内的火控固件明显被合金刀锋切成了两截；辅助平衡仪失效；红外辅助捕捉系统就像",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

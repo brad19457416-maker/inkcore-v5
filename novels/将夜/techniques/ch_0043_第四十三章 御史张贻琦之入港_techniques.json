@@ -1,0 +1,89 @@
+{
+  "novel": "将夜",
+  "chapter_number": 43,
+  "chapter_title": "第四十三章 御史张贻琦之入港",
+  "filename": "ch_0043_第四十三章 御史张贻琦之入港.txt",
+  "char_count": 2190,
+  "timestamp": "2026-04-10T12:11:03.431028",
+  "techniques_count": 6,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "世享受之上，硬生生顶着家中的悍妻连娶数房妾侍，隔一段日子便会去长安城里著名的青楼流连一番。\n　　只是风花雪月醉生梦死依然需要金钱和官位的支持，张贻琦可不想被人抓住丝毫把柄――御史嫖妓这种事情可大可小，但如果这种事情是发生在他身上，想必宫中那位皇帝陛下绝对会毫不留情地把自己贬落凡尘，再狠狠踩上三脚。基",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "第四十三章 御史张贻琦之入港\n　　想明白了这一点，张贻琦心丧若死，就此放弃了在官场上钻营攀爬的念头，一门心思扑到了俗世享受之上，硬生生顶着家中的悍妻连娶数房妾侍，隔一段日子便会去长安城里著名的青楼流连一番。\n　　只是风花雪月醉生梦死依然需要金钱和官位的支持，张贻琦可不想被人抓住丝毫把柄――御史",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "里极少发生命案，至于红袖招这座楼子，更没有人敢来惹事。\n　　谁都知道这楼子东家有长安府的背景，那位简大家的后台更是正站在峰顶看天下的皇后娘娘，虽说四公主已经从草原归来，但除了她还有谁敢来惹简大家？\n　　这位简大家可真是了不得，被先帝强行从南晋讨了过来，硬是就此奠定了红袖招天下第一歌舞行的名声，这些年",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "张贻琦停止了咒骂，闭上眼睛等着享受，当微烫毛巾敷到背上时，他忍不住痛快地呻吟了一声。\n　　然而马上他便再也不能呻吟了。\n　　因为另外一条滚烫的毛巾直接塞进了他的嘴里，紧接着他的手脚一紧一痛，被紧紧地捆在了短床之上。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "全是独立分隔的小院，极为私密，而且他每次来前都会预约，也不虞有撞车这种尴尬事。\n　　至于安全他更不会担心。长安城的治安向来极好，除了那些割袖割手玩决斗的莽夫，北南西三城里极少发生命案，至于红袖招这座楼子，更没有人敢来惹事。\n　　谁都知道这楼子东家有长安府的背景，那位简大家的后台更是正站在峰顶看天下的",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "车走进门内，向身后挥挥手，几名随从侍卫早已跟熟，自去巷内寻间饭铺等侯。\n　　张贻琦进门后示意引路小厮离开，顺着院墙青竹掩映下的一条石径向溪畔某处院子走去，进得此间，铁肩御史正式变身成为老嫖客，他脸上的忧国忧民之色终于消失不见，换做了难得的舒爽惬意。\n　　早就走熟了，自然不需要有人带路，他也怕被谁看到",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 51,
+  "chapter_title": "第五十一章 朋友",
+  "filename": "ch_0051_第五十一章 朋友.txt",
+  "char_count": 3257,
+  "timestamp": "2026-04-10T11:53:35.107525",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "这个小门房生出了强烈的兴趣，觉得对方身上有一种很妙的感觉，和自己极为相像，似乎彼此心里都保存着一个大秘密。施清海不愿意自己的秘密让任何人知道，所以他也不想去探究任何人的秘密，反正对方和自己也没有什么关系。\n\n    “现在进修身馆的人已经不多了，你年纪应该还小，没想到喜欢这些东西。”施清海看着许乐，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "会培养出完全不一样的目光。\n\n    “不要乱扔烟头。”许乐心头微慌，声音却是一丝不颤，对施清海认真说道。\n\n    施清海笑了起来，拣起了烟头，对这个小门房生出了强烈的兴趣，觉得对方身上有一种很妙的感觉，和自己极为相像，似乎彼此心里都保存着一个大秘密。施清海不愿意自己的秘密让任何人知道，所以他也不",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "看自己一眼。很可惜，戴着黑框眼镜的张小萌似乎有些心事重重，低着头抱着书本出了校门，根本没有注意到他的存在。\n\n    ……\n\n    ……\n\n    夜渐渐深了，联邦调查局临海州外勤办事处大楼依然***通明，忙碌的工作人员穿行于楼层之中。临海州是首都星圈s1行政区的一处大州，尤其是在大学城区域划归临",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "东林大区离开后，他一直提醒自己，应该低调一些，不起眼一些，可毕竟没有受过专业训练，总会在不合适的地方出现一些问题。好在有伪装芯片的帮助，他不需要太过担心自己在联邦社会里的安全，通过航空机场的扫描后，他的信心便已经十足，知道只要不被人发现自己与老板大叔的关系，谁也不会怀疑自己什么。\n\n    可是今天",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "走一面在心里抱怨那位教授对旁听生的歧视，每次构件课结束之后，总要自己负责归还课件。\n\n    距离他来到梨花大学已经过去了三个月，在缴纳了一笔赞助费后，他终于获得了学校的旁听生证。学校并不介意这个似乎还有点儿积蓄的退伍士兵成为课堂里的一员。联邦实行五小时工作制，许乐懒得再去临海里找房子，便干脆继续从",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "清海看着不远处走来的那个女子身影，向着许乐微微点头，左手夹着熄灭的烟蒂，离开了校门。\n\n    关上沉重的车门，施清海坐到了行军床上，盯着光屏上那个正在通过校门的女学生，用食指指着因为像素原因而有些模糊的脸，开口说道：“盯死她，我不管这个叫张小萌的女人为什么回来，也不在乎她究竟想从梨花大学里获得什么",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "起眼一些，可毕竟没有受过专业训练，总会在不合适的地方出现一些问题。好在有伪装芯片的帮助，他不需要太过担心自己在联邦社会里的安全，通过航空机场的扫描后，他的信心便已经十足，知道只要不被人发现自己与老板大叔的关系，谁也不会怀疑自己什么。\n\n    可是今天只不过是大学开学的第一天，便被一个路人发现了自己",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "竟没有受过专业训练，总会在不合适的地方出现一些问题。好在有伪装芯片的帮助，他不需要太过担心自己在联邦社会里的安全，通过航空机场的扫描后，他的信心便已经十足，知道只要不被人发现自己与老板大叔的关系，谁也不会怀疑自己什么。\n\n    可是今天只不过是大学开学的第一天，便被一个路人发现了自己的古怪，许乐羞",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "狱里探访朋友。”\n\n    “看样子我是被关在牢里的那个。”\n\n    “为什么不是我呢？我先走了，以后有机会再来找你聊天。”施清海看着不远处走来的那个女子身影，向着许乐微微点头，左手夹着熄灭的烟蒂，离开了校门。\n\n    关上沉重的车门，施清海坐到了行军床上，盯着光屏上那个正在通过校门的女学生，用",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的个人，除非由相关部门发出申请，这些属于公民的个人，严禁被任何方面知晓。\n\n    第一宪章精神在这无数年里，早已深入人心，施清海也没觉得奇怪。他也没有继续调查许乐周边的关系，那张漂亮而委顿的脸上忽然露出一丝哀愁，沉默片刻后，他将所查到的关于许乐的资料全部扔进了文件处理机中，相信在很长一段时间内，再",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

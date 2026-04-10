@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 422,
+  "chapter_title": "第八十章 白色礼车",
+  "filename": "ch_0422_第八十章 白色礼车.txt",
+  "char_count": 3533,
+  "timestamp": "2026-04-10T12:04:59.227657",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "少光怪陆离的事情。\n\n    许乐的眼睛眯了起来看了一眼旁边行车道上那辆古怪的汽车，通过车载系统轻声说道：“行程已经暴露，现在并队。”\n\n    出基地的专用公路是单向三车道。随着许乐一声命令，长蛇一般的车队渐渐脱节，七组控制的几辆军车移到了旁边的车道黑色的汽车让进了车队中段，同时三辆军车则是迅速后",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "每小时，一方面是因为车队中专业型车辆太多，更重要的原因，则是因为夹杂在车队里那辆沉重的多轴重型卡车的存在，车队混着这个庞然大物一起前行，速度根本无法提起来。\n\n    尤其是当许乐从黑车里向七组成员们去有车高速靠近的警告之后，整个车队在那七辆墨绿色军车的带领下，非但没有加速驶离，反而将速度压的更慢了",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "简水儿干脆至极地回答了一声，然后继续低头看报纸，似乎十分信任许乐处理这种杂事的水准，虽然这是她第一次离开都星圈，但短短的十九年人生中，已经不知遇见过多少光怪陆离的事情。\n\n    许乐的眼睛眯了起来看了一眼旁边行车道上那辆古怪的汽车，通过车载系统轻声说道：“行程已经暴露，现在并队。”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "玉兰的一句话便吓退？\n\n    年人听着前方军车里传出的警告声，无所谓地用力挥了挥手，白色的加长礼车瞬间加速，只用了两秒钟不到的时间，便准备从三十公里每小时的速度狂飙提升，夹进车队之中。\n\n    墨绿色军车中的刘头看了白玉兰一眼，说道：“好像是那家的车。”\n\n    白玉兰目视前方，轻声细语道：“",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "了白玉兰一眼，说道：“好像是那家的车。”\n\n    白玉兰目视前方，轻声细语道：“我们是在执行任务，难道还要我教你怎么做？”\n\n    刘佼心头一紧，骂了两句脏话，然后猛地一踩刹车，方向盘狠狠地向后一打，辅助平衡系统瞬间进位，墨绿色的军车，在他的绝妙操控下，就像是一个忽然散架的战舰般，瞬间失速，横摆",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第八十章 白色礼车 \n\n    是一条由长风军事基地通往州府的专用高速公路，无数吨量的军用设备，都要通过这条专用公路进行运输调配，所以道路设计的载重量大的惊人。\n\n    而全部刷黑的平整路面，没有自动加热构造的偏硬水泥设计，和道路两侧全封闭",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "始终没有超过八十公里每小时，一方面是因为车队中专业型车辆太多，更重要的原因，则是因为夹杂在车队里那辆沉重的多轴重型卡车的存在，车队混着这个庞然大物一起前行，速度根本无法提起来。\n\n    尤其是当许乐从黑车里向七组成员们去有车高速靠近的警告之后，整个车队在那七辆墨绿色军车的带领下，非但没有加速驶离，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "的车辆，专用公路上并没有别的车辆，不然一定会对这慢若蜗牛的车队心生极大不满。\n\n    就在出警报的同时，车载雷达警报的那辆车，也已经追到了车队的后尾。\n\n    这是一辆加长杜伦牌白色礼车，且不说这种款式的杜伦代表着怎样的财富意味，只是那些改装的外装饰便已经是极尽奢华之能事，在上午的黑色高速公路上",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "上面写些不伦不类地话。\n\n    白色加长礼车上写着：“你是地玫瑰。你是我地花。你是我地爱人。是我地牵挂……”\n\n    在这一段**裸地表白话语之下。是这辆车主人地落款：“子期敬上。望今日与简水儿小姐千里一晤。彼此尽兴。”\n\n    简水儿睁着大眼睛奇地看着这一幕。待看清楚上面写地什么之后。眉尖忍",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第八十章 白色礼车 \n\n    是一条由长风军事基地通往州府的专用高速公路，无数吨量的军用设备，都要通过这条专用公路进行运输调配，所以道路设计的载重量大的惊人。\n\n    而全部刷黑的平整路面，没有自动加热构造的偏硬水泥设计，和道路两侧全封闭的半车高弹性防撞墙身，让这条高速公",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "简水儿干脆至极地回答了一声，然后继续低头看报纸，似乎十分信任许乐处理这种杂事的水准，虽然这是她第一次离开都星圈，但短短的十九年人生中，已经不知遇见过多少光怪陆离的事情。\n\n    许乐的眼睛眯了起来看了一眼旁边行车道上那辆古怪的汽车，通过车载系统轻声说道：“行程已经暴露，现在并队。”\n\n    出基",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

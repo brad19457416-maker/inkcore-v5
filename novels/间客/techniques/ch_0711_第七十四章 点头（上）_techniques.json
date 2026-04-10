@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 711,
+  "chapter_title": "第七十四章 点头（上）",
+  "filename": "ch_0711_第七十四章 点头（上）.txt",
+  "char_count": 3579,
+  "timestamp": "2026-04-10T12:05:17.553936",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "情绪，眼睛渐渐眯了起来，内心深处感到一阵恐惧。\n\n    他真的很怕，因为战场上太容易死人了。在帝国逃亡的时候，他的心里就有这种隐隐的慌乱，如果自己真的能够幸运地逃回去，还能不能看到那些家伙的面容？熟悉的军营如果少了那些熟悉的脸，熟悉的脚臭味，那还是从前的军营吗？\n\n    更可怕的是，这些人离开的",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，而就在这个时候，赫雷椎开面前的人，凑到他的耳边低声将生的事情讲述了一遍。\n\n    长时间的沉默，人群从内到尾一片沉默。\n\n    清楚到底生了什么之后，许乐面部的表情并没有太大的变化，反而那双清亮的小眼睛眯的越来越厉害。他没有做出任何激烈的反应，只是紧紧地抿着薄薄的唇，眯眼看着前方暮色中的基地，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "“白玉兰，熊临泉，他们是我的兵。”\n\n    易长天司令员的表情非常严肃，甚至隐隐带着丝愤怒的铁青色，他盯着许乐的眼睛，缓慢而有极为冷淡问道：“你是要拿手里的情报威胁部队？”\n\n    许乐沉默不语。\n\n    “不要忘了，你是名军人！”易司令重重一拍身前的长桌，指着他的鼻子怒声刮斥道。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "敌司令易长天上将哈哈大笑，用力拍了拍许乐的肩膀，毫不遮掩脸上浓郁的赞赏意味，当勤务兵端过茶来后，温和说道：“冶进攻计划暂停，部队正在休整，明后天应该有宪章局和内务处的官员听你的汇报…………当然，你不要介意，这是例行程序，早些去休息吧，没必要来我这里立正稍息。”\n\n    “身为军人，自然要以军务为先",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "新式狼牙机甲所获得的高机动牲，却在地表战场上给联邦机甲部队带来了很沉重的打击。\n\n    老将军强行压抑下心中的激动，看着许乐的脸沉声说道：“前指部队要为你请功！”\n\n    然而就在这个时候，许乐却没有继续这个话题，眯着眼睛说了一句完全不相干，显得有些突兀的话。\n\n    “白玉兰，熊临泉，他们是",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "望着他，同样没有出任何声音。那场白玉兰引的军纪事件，最近在军营里闹的沸沸扬扬，虽说军事法庭已经做出了最终裁决，但基地里所有人自从确定许乐上校活着归来后，都知道或者说期盼什么事情的生。\n\n    除了新十七师和铁七师官兵之外，绝大多数参战部队官兵对此事都保持着中立立场，他们更感兴趣的是，当许乐再次遇见",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "般情绪难以言表。\n\n    冷静下来的七组队员们，此时才现，他们心中遇山劈山的头儿，一旦面对军队赖以存在的森严军纪和军事法庭的裁决时，原来羊不能端起卡林旋转机炮一通横扫了事。\n\n    “凭头儿立下的功劳，去向总统先生要一张特赦令，问题应该不大。”顾惜风用粗胖的手指端着酒碗，皱眉分析道：“关键是铁七",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "口问道：“如果你的兵依照军纪被枪毙，你就敢把这些所谓的狗日私人情报藏着不妾出来？哪怕你明知道说出来，日后我们的战士在战场上会少死很多？”\n\n    许乐盯着面前深色的木桌，内心深处做着自我询问，长时间的沉默，他有些疲惫地回答道：“不会。”\n\n    “我知道你不会，因为你是许乐。”易司令安慰晚辈一般",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "便是这等并不浓郁却格外悲凉的遭逢。\n\n    四周安静的环境促使许乐不断往最坏的方向想去，脑海里开始出现白玉兰和熊临泉等人战死时的壮烈画面，而就在这个时候，赫雷椎开面前的人，凑到他的耳边低声将生的事情讲述了一遍。\n\n    长时间的沉默，人群从内到尾一片沉默。\n\n    清楚到底生了什么之后，许乐面",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "。\n\n    很长时间之后，将军抬起头来，揉了揉有些闷的眉心，望着许乐那张没有任何骄傲得意情绪的脸，感慨说道：“没想到你不仅髅活着回来，还带回来如此重要的一份文件，你这个家伙，看来又要拿一枚紫勋了。”\n\n    “什么叫自作主张？放心吧，联邦没有任何人敢在这种无聊程序上做文章口至于合作协议的细节，自",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "旋转机炮一通横扫了事。\n\n    “凭头儿立下的功劳，去向总统先生要一张特赦令，问题应该不大。”顾惜风用粗胖的手指端着酒碗，皱眉分析道：“关键是铁七师和少卿师长的态度，少卿师长深得总统和议会山信任，威信极高，如果他不肯点头……”\n\n    许乐将手中的酒碗轻轻放到桌上，沉默片刻后说道：“我让他点。小",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "样刺激的画面？\n\n    联邦全体官兵都知道许乐上校石头般沉默坚毅的性情，看着场中间沉默的他，相信他马上就会从沉默中暴。\n\n    然而出乎所有人的意料，也出乎……瞪大了眼睛等许乐一声令下便要去启动机甲闯军事监狱劫囚的七组队员们的意料，许乐没有任何表示，只是微低着头望着脚下的黑色土地轻声说了一句：“",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "在各支战斗部队中的前七组成员来说，他们自然没有看戏的心思，既欢欣鼓舞激动流泪于头儿之神奇归来，又深深忧虑于老白之枪决绝路前景，诸般情绪难以言表。\n\n    冷静下来的七组队员们，此时才现，他们心中遇山劈山的头儿，一旦面对军队赖以存在的森严军纪和军事法庭的裁决时，原来羊不能端起卡林旋转机炮一通横扫了事",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "的肩膀，略一停顿后说道：石，熊临泉马上就可以放出来，但……白玉兰不能，军事法庭做出的裁决，你我都没有权力去违抗。”\n\n    “感谢您那天暂停枪决，我希望您能再多给我几天时间，毕竟是我的兵，我要想些办法。”许乐认真回答道。\n\n    “许乐，我必须警告你。”\n\n    易司令做为军方大佬之一，非常清",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "所以基地里的官兵们迎来了又一段等待战斗的枯燥日子。但对于很多人来说，这一段战斗间歇期肯定不会枯燥，因为人们断定，肯定有出大戏将要上演。对于分布在各支战斗部队中的前七组成员来说，他们自然没有看戏的心思，既欢欣鼓舞激动流泪于头儿之神奇归来，又深深忧虑于老白之枪决绝路前景，诸般情绪难以言表。\n\n    冷",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "容？熟悉的军营如果少了那些熟悉的脸，熟悉的脚臭味，那还是从前的军营吗？\n\n    更可怕的是，这些人离开的时候他并不在，他并不知道这些人是怎样离开，这些人便永远的离开了……文学作品里经常说物是人非，大抵便是这等并不浓郁却格外悲凉的遭逢。\n\n    四周安静的环境促使许乐不断往最坏的方向想去，脑海里开",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第七十四章 点头（上） \n\n    四周一片安静，许乐隐约猜测到了一些不好的事情，略显苍白憔悴的脸上闪过一抹复杂的情绪，眼睛渐渐眯了起来，内心深处感到一阵恐惧。\n\n    他真的很怕，因为战场上太容易死人了。在帝国逃亡的时候，他的心里就有这种隐",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

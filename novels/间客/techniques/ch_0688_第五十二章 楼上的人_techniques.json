@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 688,
+  "chapter_title": "第五十二章 楼上的人",
+  "filename": "ch_0688_第五十二章 楼上的人.txt",
+  "char_count": 3538,
+  "timestamp": "2026-04-10T12:05:08.598687",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "辱的感觉从未忘记，这么多年过去了，被人用枪指住的经历太多，多到他快要有些麻木，平静的心脏生不出太多的紧张情绪。\n\n    一个身高过两米，脸上生满茂密褐色胡须的大汉将手中的枪械扔到同伴手中，咧开嘴露出天真而残忍的笑容，向着许乐走了过去，他搓动着双手，上半身的关节里出令人心悸的熔嗒声，紧绷突起的肌肉群",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "了皱眉头，点燃一根香烟，说道：“我叫木恩，这里都是我的兄弟，我们对联邦人没有丝毫好感，不过……我们生存在弱肉强食的世界，你刚才的表现应该有资格赢取我们的尊敬。\n\n    “木恩先生，你好。”许乐说道：“我还是很想见你上面的人。”\n\n    楼上有人，楼上一直有人，二楼的阴影中出现了一张模糊不清的面容",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，这种感觉非常不好，让他非常不愉快。\n\n    能够勉强抬起来的左臂，就在那小桌似的手掌呼啸而至前一瞬间，轻描淡写地抬了起来，左手的拇指与食指，闪电般扣住那名魁梧大汉的手腕，指尖深深地陷进那两道软骨之间。\n\n    就是这样简单的一扣，魁梧大汉充满蛮力的一击骤然静止于空中，他粗壮的右臂僵硬在半空，没",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "联邦人就没有丝毫好感，此刻更是忍不住站了起来，大声地咒骂着，端起手中沉重的枪械对准了许乐的脑袋，似乎愤怒的子弹下一刻便会射。\n\n    穿着裘皮大衣的黑道领脸上的笑容也渐渐敛去，戴着三枚奇大钻石戒指的右手掌缓缓伸入衣领，在轻软顺滑的毛皮和胸膛肌肤间轻轻揉动，然后摇了摇头。\n\n    他没有阻止这些忠",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "么叫敬畏之心便好。\n\n    之所以会做出这样的决断，是因为他心中也有极浓重的好奇，自己最尊重的老人为什么如此重视面前这个联邦逃犯，而这个五年以来在自己再前显得最平静的异乡人，究竟有怎样的底气。\n\n    很多年前在东林星上，许乐曾经被人用冰冷的枪管顶住自己的额头，那生痛冰冷屈辱的感觉从未忘记，这么",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "协调的感觉。\n\n    宇宙两边的世界都有黑暗的地下世界，东林孤儿出身的许乐对这个世界的行事规则并不陌生，清楚这些看似处于最底端的地下世界里经常会黄染出一些厉害至极的人物，林半山便是其中最著名的代表。在有宪章光辉照拂的联邦，都没有谁敢完全无视地下世界，更何况这是在帝国天京星，在最混乱也是最没有秩序的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "一点，谁也没有想到，蛮力相抗只是表象，他那只空着的左手伸到腰后，握住了合金军刺的把手。\n\n    更危险的是，他腰间骤然力，准备抬起那根比小孩腰身还要粗的大腿，即便许乐能够挡住军刺的阴险一击，想必也没有办法再拦住这暴怒向着小腹去的一踹！\n\n    许乐的骨头断了，小腹也曾经受过重伤，他非常愤怒于这些",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "许乐缓缓收回左脚，没有去看地上那名魁梧汉子正像腐烂蛋糕般快胀胀的脚背，收回目光，安静地看着场间众人的领，那个自称帝国黑帮皇帝的男人。\n\n    楼内死寂一片，沉默很长时间后，裸身穿着裘皮大衣的男人皱了皱眉头，点燃一根香烟，说道：“我叫木恩，这里都是我的兄弟，我们对联邦人没有丝毫好感，不过……我",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "对这个世界的行事规则并不陌生，清楚这些看似处于最底端的地下世界里经常会黄染出一些厉害至极的人物，林半山便是其中最著名的代表。在有宪章光辉照拂的联邦，都没有谁敢完全无视地下世界，更何况这是在帝国天京星，在最混乱也是最没有秩序的贫民区。\n\n    按道理，他应该对这个男人客气或者说客套些，只是他非常想见",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "帝的男人。\n\n    楼内死寂一片，沉默很长时间后，裸身穿着裘皮大衣的男人皱了皱眉头，点燃一根香烟，说道：“我叫木恩，这里都是我的兄弟，我们对联邦人没有丝毫好感，不过……我们生存在弱肉强食的世界，你刚才的表现应该有资格赢取我们的尊敬。\n\n    “木恩先生，你好。”许乐说道：“我还是很想见你上面的人",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "子弹下一刻便会射。\n\n    穿着裘皮大衣的黑道领脸上的笑容也渐渐敛去，戴着三枚奇大钻石戒指的右手掌缓缓伸入衣领，在轻软顺滑的毛皮和胸膛肌肤间轻轻揉动，然后摇了摇头。\n\n    他没有阻止这些忠诚而嗜血的下属殴打联邦人的冲动，只是提醒他们不要动用枪械，用些简单的暴力让对方知道一下什么叫敬畏之心便好。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "嗒声，紧绷突起的肌肉群里不知道蕴藏着怎样恐怖的力量口\n\n    客厅里的持枪匪汉们看到这一幕，忍不住同时耸了耸肩，猜想着这个瘦弱的苍白联邦人，大概能顶住几秒钟，事后会有几根骨头被打断。\n\n    许乐微微偏头，眯眼看着越来越近的魁梧大汉，然后皱了皱再头，看出对方不把自己的骨头打断几根，定然是不会满足",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "丝润滑的毛皮与满是刺青的肌肤摩娑，眉眼间自然流露的那抹冷冽与隐在深处的残忍气息，非常成功地没有让那些温柔而有礼貌的言语与他的身份产生不协调的感觉。\n\n    宇宙两边的世界都有黑暗的地下世界，东林孤儿出身的许乐对这个世界的行事规则并不陌生，清楚这些看似处于最底端的地下世界里经常会黄染出一些厉害至极的",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "“我叫沃斯，现在领导着地下抵抗组织。”\n\n    “我从生下来的那一天起，我的人生使命，就是带领被压迫被欺凌的贱民和平民，使用一切方法来反抗帝国皇帝的血腥统治，推翻这个由好战狂人和无耻贵族凝结成的落后政体，为左天星域四十七个星系八百七十四亿民众寻找一个更加自由更加和平更加富庶的未来。”",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

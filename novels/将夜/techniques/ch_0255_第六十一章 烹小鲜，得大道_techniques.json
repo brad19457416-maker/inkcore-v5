@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 255,
+  "chapter_title": "第六十一章 烹小鲜，得大道",
+  "filename": "ch_0255_第六十一章 烹小鲜，得大道.txt",
+  "char_count": 3897,
+  "timestamp": "2026-04-10T12:11:21.675872",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "方的山峰间风雪骤停，他抬头向上望去，只见厚沉的铅云不知何时消失，露出后方的湛湛晴空。\n　　碧蓝宁静的天空是客观真实的存在，然而映照在他道心之上，出现在他识海里的天空却是另一番模样，半边是澄静的黑，另一半则是繁星似锦灿烂夺目。\n　　再一次站在光明与黑暗之间，他略一沉默后笑着摇了摇头，踩着雪崖上临近青翠",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "停，他抬头向上望去，只见厚沉的铅云不知何时消失，露出后方的湛湛晴空。\n　　碧蓝宁静的天空是客观真实的存在，然而映照在他道心之上，出现在他识海里的天空却是另一番模样，半边是澄静的黑，另一半则是繁星似锦灿烂夺目。\n　　再一次站在光明与黑暗之间，他略一沉默后笑着摇了摇头，踩着雪崖上临近青翠山谷的那边继续行",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "界，到处都是符。”\n　　莫山山手里拿着那根树枝，看着锅中煎着的鱼，漂亮的小脸上满是紧张神情，她不知道究竟什么时候才能动，随着糊味渐生，锅中湖鱼半透明的腹部忽然炸开，那根鱼钩叮的一声弹飞出去，落在湖水中瞬间消失。\n　　听着宁缺痴痴的话语，她看着锅中乱糟糟的鱼，低声羞愧说道：“鱼破了。”\n　　宁缺转过身",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "不停甩动着尾巴，水花四溅，然而奇异的是，无论它怎样弹动挣扎，鱼唇却紧紧咬着杨柳枝不肯放过。\n　　宁缺心想，这鱼还真够蠢的。\n　　……\n　　……\n　　茫茫北岷山便是天弃山，方圆不知几千里地，浩翰如同夜晚时的星空，那片青翠山谷只是天弃山脉里极不起眼的一处小地方，还有更多奇崛雪峰和乱崖。\n　　两座极乎笔直",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "是衍生出某个更重要的外盘，间接影响到两名真正强大的天下行走。\n　　他的神态行为甚至看不出来有任何焦虑紧张，仿佛根本没有受到这场破境之约的影响，从湖畔取下那条蠢鱼，然后挥手示意山山让开，从行李里找出能找到的所有调料和兽油，准备好生来剪条鱼吃。\n　　大明湖里的鱼细腻肥嫩无鳞，尤其是腹部仿佛是透明一般，被",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "扰。\n　　若他是在西陵桃山逾知命门槛，裁决大神官应该会亲自替他护法，然而此时深在荒原雪山之中，所有的危险与可能出现的障碍都必须由他自己撑过去。\n　　便在这时，衣袂振风之声响起。\n　　一身红衣的道痴叶红鱼出现在雪崖上，乌黑的道髻有些微微凌乱，美丽的容颜略显疲惫，应该是在与唐小棠的追逐战中消耗了不少精力",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的铅云不知何时消失，露出后方的湛湛晴空。\n　　碧蓝宁静的天空是客观真实的存在，然而映照在他道心之上，出现在他识海里的天空却是另一番模样，半边是澄静的黑，另一半则是繁星似锦灿烂夺目。\n　　再一次站在光明与黑暗之间，他略一沉默后笑着摇了摇头，踩着雪崖上临近青翠山谷的那边继续行走，每一步落下，靴旁便会生出",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "究竟什么时候才能动，随着糊味渐生，锅中湖鱼半透明的腹部忽然炸开，那根鱼钩叮的一声弹飞出去，落在湖水中瞬间消失。\n　　听着宁缺痴痴的话语，她看着锅中乱糟糟的鱼，低声羞愧说道：“鱼破了。”\n　　宁缺转过身来，看着她认真说道：“我也破了。”\n　　……\n　　……\n　　（设计了很长时间，终于找到了我自己最喜欢",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "旁不远处坐了下来，冷漠注视着四周。\n　　隆庆皇子向她点头致意表示感激，然后坐到那根发出嫩芽的木柴旁，缓缓闭上双眼沉默等待着花开的时刻，平静喜乐地迎接知命境界的到来。\n　　……\n　　……\n　　青翠山谷深处，大明湖畔，宁缺在石上微垂着头，似乎已经睡着，手里握着的那根杨柳枝随着他身体的上下起伏，而在湖水里",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "离，声音却是那般清晰，仿佛响在所有人的耳边。\n　　“十四年不见，你还是那个像石头一样的唐。”\n　　唐说道：“骄傲的叶苏却似乎不再那么骄傲了。”\n　　叶苏平静说道：“你守了我三天三夜，难道打算一直守下去。”\n　　唐说道：“这里是我们的地方。”\n　　叶苏摇头说道：“但天书是我们的天书。”\n　　唐摇了摇头",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "然凋零，其余支流均已消声匿迹，你那位老师久不现于人间，只怕早已灰飞烟灭，只剩你兄妹二人，又如何挡得住命运洪流？”\n　　唐说道：“中流之间有砥柱。”\n　　叶苏静静看着他，忽然说道：“你不出手，是因为你有不出手的原因。”\n　　唐冷漠看着他，说道：“你不出手，自然也有你的原因。”\n　　叶苏沉默片刻后，说道",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "一朵美丽的花。\n　　隆庆皇子静静看着柴木顶端那片嫩绿的青芽，脸上虽然没有什么表情，内心深处却已然温润一片极为感动，所谓知天命便是了解世界的本原，掌握天地元气的规律甚至是生命的规律，只有这样的修行者才能算做是真正得道，此时的他距离知命境界只有一线之差，而且再也没有什么道心上的障碍能阻止他。\n　　只待青",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "所展现出来的精神，有了书院登山那次的经验，所以这一次他没有丝毫犹豫，转身向青翠山谷里走去。\n　　靴底离开残雪，便是一抬足那刹，雪崖之上以及后方的山峰间风雪骤停，他抬头向上望去，只见厚沉的铅云不知何时消失，露出后方的湛湛晴空。\n　　碧蓝宁静的天空是客观真实的存在，然而映照在他道心之上，出现在他识海里的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "了很长时间，终于找到了我自己最喜欢的破境设计，我喜欢这一章，吃货的人生，总是要比苦逼修道者的人生来的幸福一些。）",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

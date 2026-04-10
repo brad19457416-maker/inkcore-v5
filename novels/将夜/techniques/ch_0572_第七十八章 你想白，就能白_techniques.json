@@ -1,0 +1,89 @@
+{
+  "novel": "将夜",
+  "chapter_number": 572,
+  "chapter_title": "第七十八章 你想白，就能白",
+  "filename": "ch_0572_第七十八章 你想白，就能白.txt",
+  "char_count": 2269,
+  "timestamp": "2026-04-10T12:11:26.659917",
+  "techniques_count": 6,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "想着说不定我的名字还能因为这徒儿而记载在佛经之上，流传千世，我这颗早已不为外物所扰的禅心，竟然都有些激动。”\n　　宁缺心情极好，说道：“观海被抢了关门弟子的位置，或者更激动恼火。”\n　　歧山大师笑着说道：“真不知道夫子怎么收了你这般顽皮的一个学生。”\n　　宁缺笑道：“老师经常被我气的乱吹胡子，也拿我",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "言听计出，不敢有丝毫质疑。\n　　歧山大师先把桑桑体内的阴寒气息说的那般恐怖，就在他快要绝望之时，忽然说道要桑桑去修佛，真的很像道观佛庙里那些劝老太太们捐钱的道士和尚。\n　　大师这是要从书院和神殿挖人啊？宁缺神情微凛，却又觉得自己似乎想的太多了些，大师怎么看都不像是这种人，而且桑桑身体要紧，大师代表着",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "佛修的不过是自己，寻求自身肉体与精神的解脱。”\n　　宁缺说道：“我在书院后山里也读过两本佛经，修佛的道理大概知道一些，大师不用讲的这般详细，我只想知道，这和桑桑的病有什么关系。”\n　　歧山大师说道：“桑桑是大千世界，光明自然不能驱逐或消灭掉她体内的阴寒气息，而佛法不同，佛法寻求的不是镇压而是解脱，不",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "宁缺的脸上除了有些惊讶，并没有太大的反应，但实际上他的心里已经掀起了很多波澜。\n　　让桑桑去修佛？那将来病好了还得在佛堂里念一辈子经吃一辈子素？我家桑桑虽说头发又黄又蔫，没资格说是什么三千青丝，但全剪了也不合适吧？\n　　宁缺很自然地生出这些想法，然后他想起二师兄曾经对世间宗教做出的评价，愈发觉得歧山",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，望向桑桑平静说道：“若她能一朝成佛，自然便能得到大解脱。”\n　　宁缺微涩说道：“大师你这是在说笑，无数年来，也就佛祖一人坐地成佛，桑桑就算真与佛有缘，又怎么可能修到那种境界？”\n　　歧山大师微笑说道：“当她是奄奄一息的女婴时，你可曾想过有朝一日，她会成为西陵神殿的光明之女？那么你凭什么确定她成不了",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第七十八章 你想白，就能白\n　　听到歧山大师要桑桑随他参佛，宁缺的脸上除了有些惊讶，并没有太大的反应，但实际上他的心里已经掀起了很多波澜。\n　　让桑桑去修佛？那将来病好了还得在佛堂里念一辈子经吃一辈子素？我家桑桑虽说头发又黄又蔫，没资格说",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

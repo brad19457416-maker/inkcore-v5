@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 818,
+  "chapter_title": "第一百九十九章 请进",
+  "filename": "ch_0818_第一百九十九章 请进.txt",
+  "char_count": 2233,
+  "timestamp": "2026-04-10T12:11:27.251582",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，说明酒徒和屠夫有对付昊天的手段。用夫子的话来说，修行就是比谁活的时间更长，那么这两个人的境界，毫无疑问已经到了人类难以想象的程度。\n　　依然还是用夫子的话来说，这两个人大概已经不能算是人了。\n　　在宁缺知道的人里，除了夫子没有人见过酒徒和屠夫，大概也只有夫子能够找到他们，他们只要活着，便是人间的传",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "在他的梦里。\n　　他曾经做过一个梦，他在那个梦里来到荒原之上，原野间所有人都抬头看着光明与黑暗分野的天空，他看到了老师高大的身影，也看到了一个酒鬼还有一个屠夫。后来他又做了一个梦，那一次夫子从酒鬼手中抢过酒囊喝了口，又从那个屠夫背上抢了根猪后腿啃了口。\n　　夫子曾经在书院后山里的一场谈话中提到，有两",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "进\n　　城门缓缓开启，现出宁缺的身影。\n　　他背着铁刀，手里握着铁杵，站在城门洞里看着城外。\n　　他说道：“师兄，既然是来找我的，我与他谈。”\n　　君陌沉思片刻，双眉如被柳荫遮蔽的湖面，趋向平静。\n　　宽直的铁剑缓缓自行收回鞘中。\n　　他对着车厢畔那个男人再次行礼，然后走回自已的马车。\n　　马车驶入",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "穹飘去。\n　　酒徒看着雄伟的长安城墙，说道：“为何要进？”\n　　宁缺说道：“既然为客，哪有过门不入的道理。”\n　　酒徒说道：“做恶客，便要有不进家宅的自觉。”\n　　宁缺说道：“恶客善客都是客，客随主便。”\n　　酒徒觉得他很有趣，微笑说道：“那我便不是客。”\n　　宁缺也笑了起来，真实的心情却并非如此。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "兄，才敢说这个男人是懦夫吧。”\n　　宁缺默默想道，因为他知道这个仿佛无视时间的男人是谁，这个男人曾经出现在老师的谈话中，更曾出现在他的梦里。\n　　他曾经做过一个梦，他在那个梦里来到荒原之上，原野间所有人都抬头看着光明与黑暗分野的天空，他看到了老师高大的身影，也看到了一个酒鬼还有一个屠夫。后来他又做了",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的男人是谁，这个男人曾经出现在老师的谈话中，更曾出现在他的梦里。\n　　他曾经做过一个梦，他在那个梦里来到荒原之上，原野间所有人都抬头看着光明与黑暗分野的天空，他看到了老师高大的身影，也看到了一个酒鬼还有一个屠夫。后来他又做了一个梦，那一次夫子从酒鬼手中抢过酒囊喝了口，又从那个屠夫背上抢了根猪后腿啃了",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "必再想。”\n　　然后他望向酒徒，说道：“先生请进。”\n　　南城门前安静无比，随着他的这句话，仿佛一股紧张的气氛，从城墙根的最深处涌出，然后向着高远的天穹飘去。\n　　酒徒看着雄伟的长安城墙，说道：“为何要进？”\n　　宁缺说道：“既然为客，哪有过门不入的道理。”\n　　酒徒说道：“做恶客，便要有不进家宅的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第一百九十九章 请进\n　　城门缓缓开启，现出宁缺的身影。\n　　他背着铁刀，手里握着铁杵，站在城门洞里看着城外。\n　　他说道：“师兄，既然是来找我的，我与他谈。”\n　　君陌沉思片刻，双眉如被柳荫遮蔽的湖面，趋向平静。\n　　宽直的铁剑",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "他没有回答。夫子不在人间，那么只要他不想回答，便没有谁能让他开口说话。\n　　春风拂着宁缺的脸颊，毫无温暖的意思，寒冷的厉害，又或者只是他自已的身心俱寒，所以才让缭绕身周的春风降了温度。\n　　在泗水畔，他看着夫子带着桑桑一道登天，然后昊天神国的入口爆炸与满天的流星，他确定桑桑死了，或者说回到了昊天神国",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

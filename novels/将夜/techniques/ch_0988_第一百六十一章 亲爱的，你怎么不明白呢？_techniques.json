@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 988,
+  "chapter_title": "第一百六十一章 亲爱的，你怎么不明白呢？",
+  "filename": "ch_0988_第一百六十一章 亲爱的，你怎么不明白呢？.txt",
+  "char_count": 3453,
+  "timestamp": "2026-04-10T12:11:27.638760",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百六十一章 亲爱的，你怎么不明白呢？\n　　没有人知道这道声音是从哪里来的，为什么会在天空里响起，但下一刻，所有人都知道，这声音便是昊天的声音。\n　　只有昊天的声音才会如此威严，才会在这些虔诚的昊天信徒的意识里，映出如此鲜明的画面，触动最深处的灵魂。\n　　桃山数道崖坪和前坪上的所有人都",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第一百六十一章 亲爱的，你怎么不明白呢？\n　　没有人知道这道声音是从哪里来的，为什么会在天空里响起，但下一刻，所有人都知道，这声音便是昊天的声音。\n　　只有昊天的声音才会如此威严，才会在这些虔诚的昊天信徒的意识里，映出如此鲜明的画面，触动最深处的灵魂。\n　　桃山数道崖坪和前坪上",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "到。\n　　无数人被这道来自天空的声音惊醒。\n　　有老人扶着围墙看着灰色的天空，浑浊的眼睛里满是困惑，心想今年究竟是怎么了，难道又要开始打春雷，这道雷怎么好像有人在说话？\n　　有孩童涌到书塾窗边，指着天空兴奋地议论着，叽叽喳喳听上去就像是一群小鸟，正在犯春困的先生被吵醒，拿起戒尺准备去教训这些调皮的学",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "道理，他已经死了。”\n　　宁缺说道：“虽然说道门没有做什么，但很明显，他事先就知道佛祖棋盘会给你带来危险，他什么都没说，这是什么道理？”\n　　桑桑忽然说道：“你有没有想过，是我自己想进佛祖棋盘？他所做的事情，只不过是在执行我的意志，那他有什么罪？”\n　　城墙上的春风忽然变得非常寒冷，宁缺转身过，想避",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "们异口同声说天说话了，结果却被多打了几记。\n　　宋国与燕国交境处的那座小镇，也听到了天空传来的声音，人们涌到镇上唯一那条长街上，满脸不安看着天空，不知道发生了什么事情。\n　　肉铺里，屠夫举着那把宽厚的油刀，遮着头脸，藏在案板下面，案板上积着的蹄膀不停落下，每落一根，他的身体便会颤一下。\n　　比屠夫更",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "用来相比也是一种亵渎。\n　　崖坪偏僻处的石屋前，观主离开轮椅，双膝跪倒，用瘦弱的双臂支撑着身体，不停颤抖，神情却是那样的平静而骄傲。\n　　那名中年道人的双手终于离开了轮椅，跪到了观主的身后，隆庆跪在更后方的位置，脸色苍白如雪，眼神里满是惊恐。\n　　他很清楚观主做的事情，对昊天来说意味着怎样的不敬，如",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "进行对话，甚至辩论，并不让观主觉得恐惧，因为他是这个世界上最了解昊天的人。\n　　昊天是必然要与人类讲道理的，因为她本来就是道理。\n　　……\n　　……\n　　长安城墙上，桑桑想着宁缺描述过的那个世界，确认陈某说的有道理，而且正如他所说，这本来就是她的意志。\n　　“有理？有个屁的道理！”\n　　宁缺说道：“",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "有变红，苍白的很是可怕。\n　　屠夫没有参与观主对昊天的布局，他却是亲自参与了的，他一路看着昊天和宁缺进入悬空寺，还曾经阻止书院破开棋盘。\n　　如今昊天归来，问人间可否知罪，他有罪，如何能够不惧？除了把自己灌醉，还有什么方法能够让他不心神俱丧？\n　　朝小树站在茶铺门口，看着灰暗的天空不解问道：“发生什",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "在棋盘里共度漫漫时光，让你中贪嗔痴三毒的那个人……是我，最后拿起雕刀把你修成佛，帮你去除贪嗔痴三毒，同时去除红尘意的那个人……是我，是我是我，还是我。”\n　　宁缺看着她微笑说道：“棋盘里的一千年，便是我的感情。你利用我，便是欺骗我的感情。我说亲爱的，你怎么不明白呢？”\n　　他的笑容很淡，淡的像水，他",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "朝小树站在茶铺门口，看着灰暗的天空不解问道：“发生什么事了？”\n　　酒徒终于放下了酒壶，声音微颤说道：“这是你所不能理解的事情，你最好离我远些，不然天威难测，你随时可能会死。”\n　　朝小树转身看着他，神情有些复杂。\n　　酒徒继续饮酒，想把自己灌醉到人事不省，含糊不清说道：“我们都是为了她好，但如",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

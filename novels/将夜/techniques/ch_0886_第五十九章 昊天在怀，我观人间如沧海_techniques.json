@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 886,
+  "chapter_title": "第五十九章 昊天在怀，我观人间如沧海",
+  "filename": "ch_0886_第五十九章 昊天在怀，我观人间如沧海.txt",
+  "char_count": 2311,
+  "timestamp": "2026-04-10T12:11:27.393199",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "境，更何况是他射箭的那一刹那，不是谁都会像隆庆那般倒霉。\n　　场间的诸位强者虽然不是很清楚元十三箭的秘密，但通过这些年诸方势力与宁缺战斗时的经验，也隐约推断出了一些原理，所以看着他挽弓如满月，身心俱寒、紧张万分之余，更想知道他想射谁。\n　　他的铁箭将射向何方？\n　　宁缺举着铁弓，静静看着北方。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "宁缺的识海里亮的就像个太阳。\n　　以宁缺现在的修为境界，如果想要瞄准极远处的目标，至少需要对方是知命巅峰，而且正在完全释放自己的境界，如果能在破境时刻，那是最好不过。\n　　谁会在他挽弓的时候，刚好释放自己的全部境界？目标凭什么要配合他的瞄准？谁会在宁缺射箭的时候刚好破境？修行界不是每天都会有人破境，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "位置，他的衣袂骤然虚化，仿佛下一刻随时可能消失。\n　　他不知道此时宁缺正在桃山前瞄准他，但他感觉到了危险。\n　　大师兄说道：“你太快，所以你不会是他的目标。”\n　　酒徒想着先前的对话，神情渐凛说道：“你刚才说过……屠夫很慢。”",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "凭什么要配合他的瞄准？谁会在宁缺射箭的时候刚好破境？修行界不是每天都会有人破境，更何况是他射箭的那一刹那，不是谁都会像隆庆那般倒霉。\n　　场间的诸位强者虽然不是很清楚元十三箭的秘密，但通过这些年诸方势力与宁缺战斗时的经验，也隐约推断出了一些原理，所以看着他挽弓如满月，身心俱寒、紧张万分之余，更想知道",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的身躯？”\n　　大师兄说道：“我家小师弟，不能以常理论。”\n　　酒徒的双眉忽然挑起，腰间系着的酒壶无风而动，甚至飘到了与地面平行的位置，他的衣袂骤然虚化，仿佛下一刻随时可能消失。\n　　他不知道此时宁缺正在桃山前瞄准他，但他感觉到了危险。\n　　大师兄说道：“你太快，所以你不会是他的目标。”\n　　酒徒想",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "屠夫。\n　　所有的至强者，都在他的眼中。\n　　他这时候仿佛变成了天书日字卷的高端版本。\n　　这很没有道理，因为他不是天书，他是人。\n　　人间没有道理成为他意识里的这片海洋。\n　　在很多年前，从渭城回长安的旅途上，宁缺修行的领路人吕清臣，曾经与他有过一番对话，在那番对话里，宁缺说自己在梦里冥想的时候，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "说法，所以并不需要在意距离，甚至离目标越远越好。\n　　任何事情都是相对的，这个世界不可能有完美的武器出现，元十三箭也有缺陷，或者说那个缺陷在于执弓的宁缺。\n　　距离越远，元十三箭威力越大，但问题是，如果距离太远，超出人类视力的极限之后，他没有办法瞄准想要射的目标。\n　　夏侯那般魁梧高大的身躯，在数千",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "出还有谁能够硬接，至少桃山前的这些人不行。\n　　看着宁缺手里的铁弓，看着那根黝黑的铁箭，桃山前坪上的人们身心俱寒，有些人甚至觉得腿都有些发软，他们无法想象，如果这一箭瞄准的是自己，甚至真的射向自己，那么自己该怎么办。\n　　人们从来没有想过，会在如此近的距离内，面对这道恐怖铁箭的威胁，但事实上这也是一",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的缘故。\n　　他在梦中冥想时，都抱着桑桑。\n　　昊天在怀，能够感觉到整个人间，又算什么？\n　　今日他来到桃山，承受天启，昊天神力进入他的身躯，他与桑桑重新建立起了联系，便等于再次把她抱进怀中。\n　　那么他凭什么感觉不到人间这片海？\n　　难道他要射的，便是这片海里的那些光点？\n　　悬空寺讲经首座，还是",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "密，但通过这些年诸方势力与宁缺战斗时的经验，也隐约推断出了一些原理，所以看着他挽弓如满月，身心俱寒、紧张万分之余，更想知道他想射谁。\n　　他的铁箭将射向何方？\n　　宁缺举着铁弓，静静看着北方。\n　　他没有用眼睛看，而是用识海里的念力在看，他在用念力感知世界，世界的投影在他的意识里变成了一片海洋。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "得腿都有些发软，他们无法想象，如果这一箭瞄准的是自己，甚至真的射向自己，那么自己该怎么办。\n　　人们从来没有想过，会在如此近的距离内，面对这道恐怖铁箭的威胁，但事实上这也是一种幸运，因为元十三箭的真正威力有很大一部分来自于它的悄无声息、无法防范，因为能够借符意破空而飞，根本没有什么射程的说法，所以并",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "能看到一片海？\n　　但他这时候站在桃山之下，真的看到了一片海。\n　　“我想我是海。”\n　　宁缺对自己说道。\n　　在能够修行后的这些年里，他曾经很多次回忆起与吕清臣老人的那番对话，直到今年他才明白，这都是因为桑桑的缘故。\n　　他在梦中冥想时，都抱着桑桑。\n　　昊天在怀，能够感觉到整个人间，又算什么？",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

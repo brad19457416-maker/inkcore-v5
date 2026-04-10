@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 723,
+  "chapter_title": "第一百零四章 上官扬羽",
+  "filename": "ch_0723_第一百零四章 上官扬羽.txt",
+  "char_count": 3395,
+  "timestamp": "2026-04-10T12:11:27.025429",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "就没有人敢来府里闹事，有胆子杀进咱家的人，早就杀到皇宫里去了。”\n　　曾静听着老太爷这话，不由微凛，心想老人当年必然是从战场上退下来的，待旁边有人行礼，他才发现原来堂内还有别人。\n　　朝老太爷看着常思威厉声斥道：“宫里那对姐弟是白痴，难道你也是白痴？羽林军北上抗蛮你不去，那你就得把长安城给我护住了！",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "情慈祥地从怀中取出厚厚一叠纸，说道：“鱼龙帮是长安城的地头蛇，找到这些地方很容易，把这些妇孺老弱请到秘密的地方也很容易。”\n　　齐四爷接过那些地址，片刻后才醒过神来，感觉身体有些寒冷，看着大人慈爱的容颜，颤声说道：“这……太狠了。”\n　　上官扬羽感慨说道：“其实我也不想的，但做人嘛，最重要的就是一个",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "情，便被朝老太爷挥手止住。\n　　这位平日里只喜欢听戏逗孙的老爷子，看着满脸担忧紧张的霖子，极为不耐烦说道：“儿媳呀，你就不要担心了，只要你男人没死，就没有人敢来府里闹事，有胆子杀进咱家的人，早就杀到皇宫里去了。”\n　　曾静听着老太爷这话，不由微凛，心想老人当年必然是从战场上退下来的，待旁边有人行礼，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "后调查，当夜长安城的混乱，与这些人的推波助澜脱不开干系。\n　　……\n　　……\n　　曾静全家被接到了春风亭横二街的朝宅，下人自有安排，受伤的也有鱼龙帮里的医师负责处理，曾静带着夫人前去拜见朝老太爷。\n　　朝宅正堂里灯火通明。\n　　曾静还没有来得及诚挚表示感激之情，便被朝老太爷挥手止住。\n　　这位平日里",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "也能应付自如，他的帮中兄弟今夜没有受到什么损失，唯独在曾府门口，被修行者杀死了几人。\n　　齐四爷很是愤怒，却不敢在朝老太爷面前表现出来，问道：“二掰，那帮里兄弟做什么？帮里兄弟总得做点什么吧？”\n　　朝老太爷轻捋胡须，还没有来得及指点，便听着堂外传来管事的禀报声，说是长安府尹上官大人来拜见老太爷，不",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "里当官？还能做到京城府尹的位置？”\n　　上官扬羽感慨说道：“若大唐真的亡了？我还能到哪里贪钱去？这个道理并不复杂，所以我懂，但奇怪的是，有很多人却偏偏不懂。”\n　　……\n　　……\n　　李渔缓步走进殿内。\n　　她的神情很疲惫，她的脚步也很疲惫，清河郡叛乱自立的消息，给她的感觉，就像是下了十余日暴雨后，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "有来得及诚挚表示感激之情，便被朝老太爷挥手止住。\n　　这位平日里只喜欢听戏逗孙的老爷子，看着满脸担忧紧张的霖子，极为不耐烦说道：“儿媳呀，你就不要担心了，只要你男人没死，就没有人敢来府里闹事，有胆子杀进咱家的人，早就杀到皇宫里去了。”\n　　曾静听着老太爷这话，不由微凛，心想老人当年必然是从战场上退下",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "。\n　　这位平日里只喜欢听戏逗孙的老爷子，看着满脸担忧紧张的霖子，极为不耐烦说道：“儿媳呀，你就不要担心了，只要你男人没死，就没有人敢来府里闹事，有胆子杀进咱家的人，早就杀到皇宫里去了。”\n　　曾静听着老太爷这话，不由微凛，心想老人当年必然是从战场上退下来的，待旁边有人行礼，他才发现原来堂内还有别人",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "官员和军人，也被混乱弄的极为狼狈，竟是没有注意到，有好些清河郡诸阀的子弟，趁乱逃了出去。\n　　这些人离开会馆之后，很快便与清河郡诸阀暗中扶植的官员会合，据事后调查，当夜长安城的混乱，与这些人的推波助澜脱不开干系。\n　　……\n　　……\n　　曾静全家被接到了春风亭横二街的朝宅，下人自有安排，受伤的也有鱼",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "温和，顿时松了口气，笑着说道：“不错，那些乱臣贼子想杀朕，朕便把他们全杀干净。”\n　　李渔坐在榻畔，安静片刻后说道：“许世将军也想要杀你？”\n　　李珲圆脸上的笑容顿时变得有些僵，说道：“皇姐在说什么？”\n　　李渔轻声说道：“昨天王景略已经进了长安城，他去军部查到消息之后，今夜才进宫见的我，所以我才会",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

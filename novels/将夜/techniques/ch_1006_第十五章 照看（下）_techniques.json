@@ -1,0 +1,89 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1006,
+  "chapter_title": "第十五章 照看（下）",
+  "filename": "ch_1006_第十五章 照看（下）.txt",
+  "char_count": 2185,
+  "timestamp": "2026-04-10T12:11:34.907938",
+  "techniques_count": 6,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "生，今夜要开酒吗？”\n　　“嗯。”\n　　宁缺这些天一直生活在城墙上，饮食起居皆如此，早已习惯在瑟瑟秋风里吃饭，也唯有火锅与美酒，能让他添些暖意。\n　　极肥美的牛羊肉浸入白稠却不腻的骨汤汁里，以肉眼可见的速度熟起来，香气刚要溢出，便被紧接着下锅的青菜叶子压了下去。\n　　宁缺坐到桌旁开始吃饭，没有陪客，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "家里交待。\n　　红袖招里的热闹与松鹤楼的热闹又不相同，那些并不知道自己的孩子偷偷溜出府玩耍的官员和商人们，坐在栏畔的酒桌旁，神态自矜，气氛热烈却没有人闹，曼妙的曲声和旋转的裙摆里，热闹二字只取了前一半。\n　　和民间相比，朝廷的气氛自然要严肃很多，尤其是草甸里那些灯火通明的小楼，看情形大概会一直亮到凌",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "战争的脚步，战火虽然没有正式点燃，也暂时还没有烧到大唐的边境线，但大唐军部已经进入了战争状态，充满了紧张肃然的气氛，桌上搁着的热茶已经换了不知多少道水，旁边的糕点却没有人吃。\n　　最重要的那些决定，军部也不能单独决定，需要经过皇宫，将军们不能睡觉，自然皇宫里也有很多人不能睡觉，从羽林军到侍卫处，从掌",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "圆，却很明亮。\n　　明月照人间。\n　　照就是看，就是照看。\n　　宁缺斟满杯中酒，遥对夜空里那轮明月，说道：“老师，请继续看着我们，我们会代替你继续看着这个人间。”\n　　……\n　　……\n　　遥远的南方，临康城里一片混乱，到处都是火光，唯独已经变成废墟的皇城某门之前，没有任何声音，安静的令人心悸。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "西陵神殿已经开始战争的脚步，战火虽然没有正式点燃，也暂时还没有烧到大唐的边境线，但大唐军部已经进入了战争状态，充满了紧张肃然的气氛，桌上搁着的热茶已经换了不知多少道水，旁边的糕点却没有人吃。\n　　最重要的那些决定，军部也不能单独决定，需要经过皇宫，将军们不能睡觉，自然皇宫里也有很多人不能睡觉，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "究少了些岁月才能积累出来的烟火气，显得有些清冷。\n　　晚饭的时辰已过，朱雀大道两旁的诸坊市，此时也很安静，但和正街上的清冷相比，那些宅院并不冷清，到处都能听到棋子落在木盘上的声音、瓷碗摔在灶沿上的声音、妇人打骂孩子的声音，热闹的厉害。\n　　秋夜的长安城，真正热闹的所在自然不是这些民宅，松鹤楼的露台上",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

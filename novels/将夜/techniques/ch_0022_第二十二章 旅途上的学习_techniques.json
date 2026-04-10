@@ -1,0 +1,115 @@
+{
+  "novel": "将夜",
+  "chapter_number": 22,
+  "chapter_title": "第二十二章 旅途上的学习",
+  "filename": "ch_0022_第二十二章 旅途上的学习.txt",
+  "char_count": 2198,
+  "timestamp": "2026-04-10T12:11:03.408636",
+  "techniques_count": 8,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "着杯清茶，靠着车窗极为享受慢悠悠说着。\n　　“喂喂喂，您这不是在说笑话吗？那如果把天地元气封在马桶里战斗该叫什么师？马师还是桶师？”\n　　聊天聊的久了老少二人自然也熟了起来，宁缺逐渐展现出自己惫懒无礼的那一面，咬着一根蘸着墨汁的毛笔，挥舞着右臂，表示自己的强烈质疑。\n　　老人放下茶杯，瞪了少年一眼训",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "“我总觉得你将来会成为一个了不起的修行者。”\n　　明知道宁缺气窍不通，绝无可能修行，可是老人没有道理、没有原因，就是觉得这个少年能够踏上他现在正艰难行走着的这条道路，而且他祈望这个少年能比他走的更踏实，走的更远。\n　　老人望着窗外渐小渐模糊的少年背影，喃喃自语道：“老死临身夜将至，才开始胡乱放肆",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "然的感应干扰，又无法在上面刻符，附着元气消散太快……当然如果有人能够解决元气消散的问题，这种羽箭毫无疑问是很可怕的远程攻击手段。”\n　　宁缺若有所思。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "不上是什么不传之秘，照门规确实不能让普通人知道，可他还是说了只因为他相信一件事情：\n　　“我总觉得你将来会成为一个了不起的修行者。”\n　　明知道宁缺气窍不通，绝无可能修行，可是老人没有道理、没有原因，就是觉得这个少年能够踏上他现在正艰难行走着的这条道路，而且他祈望这个少年能比他走的更踏实，走的更远。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "“好吧。”宁缺在几千几万年所代表的时间厚度面前惨败而归，在摇晃不停的车厢里悬腕静神，稠黑的笔尖在雪般的宣纸上快移缓钩，做着笔记。\n　　“关于修行者战斗的手段，剑师用的叫剑术，符师用的叫符术，我这种念师用的当然就是念术，进入知命境界的大修行者，则很难具体这般区分，我曾经听闻过前代师门长辈中有人习的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "知了。”\n　　“这些名字……不够大气啊。”宁缺脸上的表情有些僵硬，咬着毛笔杆的尾巴，望着老人含混不清说道：“感觉完全可以通称为法师，他们用的都叫法术。”\n　　老人的花白眉毛蹙的极紧，严厉看着他说道：“问题是法之一字何解？”\n　　宁缺再次败退，摊开双手表示无辜。\n　　“除了上述各类修行者外，其实世间最",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "做着笔记。\n　　“关于修行者战斗的手段，剑师用的叫剑术，符师用的叫符术，我这种念师用的当然就是念术，进入知命境界的大修行者，则很难具体这般区分，我曾经听闻过前代师门长辈中有人习的是神术，具体如何那就不得而知了。”\n　　“这些名字……不够大气啊。”宁缺脸上的表情有些僵硬，咬着毛笔杆的尾巴，望着老人含混",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "子。”\n　　“如果把元气附在箭上……对武者的杀伤力如何？”宁缺忽然抬头认真问道。\n　　老人沉思片刻后缓缓摇头：“极少有修行者尝试把天地元气附在箭上，因为箭与飞剑不同，为了保证速度质量必须很轻，于是很容易受到自然的感应干扰，又无法在上面刻符，附着元气消散太快……当然如果有人能够解决元气消散的问题，这种",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 202,
+  "chapter_title": "第八章 腰牌与调令",
+  "filename": "ch_0202_第八章 腰牌与调令.txt",
+  "char_count": 3524,
+  "timestamp": "2026-04-10T12:11:11.966211",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "修行境界依然普通，但他已经能够称得上高手，尤其是面对普通修行者的时候。\n　　如果再让他陪朝小树血战春风亭，面对南晋剑客和月轮国僧人时一定会轻松很多，让他单独去杀长安城湖畔小筑里那位剑师，也不会再受那么重的伤。\n　　当然，如果现在他遇上那些知命境界的大修行者，或者隆庆皇子、王景略这样的强者，无论他的反",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "院后山集体智慧的元十三箭，都将是他用来保命的手段。\n　　对自己的实力有冷静而客观的判断，对于进荒原的危险性便有了一个相对准确的评估，他清楚自己要在各方高手之间强行抢夺那卷天书，根本没有可能，但偷偷旁观或是偶尔使些坏做些手脚，给夏侯添些麻烦，问题应该不大。\n　　隐藏身份潜入荒原，便当是观光也好，若事态",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，好奇问道：“打赢那个臭和尚，钟师兄没有用任何修行手段，甚至都没有感觉到他身上有念力波动，师姐，那他究竟是不是修行者啊？”\n　　酌之华怔了怔，说道：“听说书院这届没有什么天资惊人人物，术科六人中最强的谢三公子也才入不惑境界，这位钟师兄既然没有进术科，想来是不能修行吧？”\n　　这句话说的有些犹豫，因为",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "制敌为目的修行都是吃多了撑的”的原则要求自己，并且在日常的修行生活及战斗实践中不断地尝试学习，从某种意义上来说，虽然修行境界依然普通，但他已经能够称得上高手，尤其是面对普通修行者的时候。\n　　如果再让他陪朝小树血战春风亭，面对南晋剑客和月轮国僧人时一定会轻松很多，让他单独去杀长安城湖畔小筑里那位剑师",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "认真说道：“不要试图用这种方法来阻止我，我从来不怕死人，更何况是自己找死的人。”\n　　校尉万念俱灰，心想遇着这么一个铁石心肠的上司，实在是人生之大不幸。\n　　宁缺看着他握刀的姿式，说道：“你右手执刀，如果想自刎而死，是不是应该把刀锋横翻，搁在你颈子右边才对？”\n　　校尉这才发现自己握刀的姿式有问题，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "卫由皇宫直属，但彼此之间却没有任何关联，所以校尉根本不清楚他要进荒原的目的。\n　　宁缺不怎么在乎校尉紧张的态度，更在意自己应该怎么进荒原，既要安全还要方便撤离，最好的方法莫过于带着几千名大唐精锐骑兵直闯王庭，逾呼兰海直奔荒人部落，然而数千精骑挟尘而奔怎么去找天书？又怎么瞒住夏侯大将军？\n　　单骑闯荒",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，那他究竟是不是修行者啊？”\n　　酌之华怔了怔，说道：“听说书院这届没有什么天资惊人人物，术科六人中最强的谢三公子也才入不惑境界，这位钟师兄既然没有进术科，想来是不能修行吧？”\n　　这句话说的有些犹豫，因为她自己都不怎么相信，一个不会修行的普通书院学生，靠着手中刀箭便能如此轻松击败白塔寺的僧人。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "令\n　　宁缺走后，山溪黄色布围里，大河国少女们还在兴奋地议论先前，天猫女把小脚泡在微烫的温泉中，开心说道：“钟大哥原来果然是书院弟子，难怪这么厉害。”\n　　酌之华微笑看了她一眼，说道：“第一次相遇时便已经猜到了，不然山主为何要我们待他如此客气，若换成别人，早就逐出数里地去。”\n　　接着她叹息说道：“",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的温泉中，开心说道：“钟大哥原来果然是书院弟子，难怪这么厉害。”\n　　酌之华微笑看了她一眼，说道：“第一次相遇时便已经猜到了，不然山主为何要我们待他如此客气，若换成别人，早就逐出数里地去。”\n　　接着她叹息说道：“幸亏有这位书院师兄出面，想来月轮国和燕营里那些人会老实些，不至于还派人过来强抢。”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "要找我们撒气，非如此，如何能显现她的气焰？”\n　　山溪畔的大河国少女们想着漫长路途上可能遇到的危险，忧虑无比，齐齐望向黄色布围深处那方小桌旁的黑发少女。\n　　“山主，事到如今，您必须站出来说话了。”",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "该没有问题，只是大人……”\n　　宁缺摆摆手，不听他的进谏，认真说道：“不要试图用这种方法来阻止我，我从来不怕死人，更何况是自己找死的人。”\n　　校尉万念俱灰，心想遇着这么一个铁石心肠的上司，实在是人生之大不幸。\n　　宁缺看着他握刀的姿式，说道：“你右手执刀，如果想自刎而死，是不是应该把刀锋横翻，搁在",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "楚，一骑绝尘太容易变成最明显的靶子――单人背箭骑黑马直奔王庭，明摆着告诉神殿裁决司撒在原野里的谍探和无数各方势力眼线，这厮很牛逼很自信很自恋。\n　　只有不灭的太阳才有资格如此牛逼如此自信如此自恋，若宁缺就这样像轮日头般升起在草原上，会在最短的时间内吸引所有人的目光，然后不出意外被查出身份。各方势力知",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "执笔缓书，随着笔尖的移动，秀发在肩头缓慢倾泻而下。\n　　而后，一封来自燕营的书信，打破了山溪畔的愉悦宁静。\n　　……\n　　……\n　　如今的宁缺走上了一条与普通修行者截然不同的道路，他时刻以“不以制敌为目的修行都是吃多了撑的”的原则要求自己，并且在日常的修行生活及战斗实践中不断地尝试学习，从某种意义上",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

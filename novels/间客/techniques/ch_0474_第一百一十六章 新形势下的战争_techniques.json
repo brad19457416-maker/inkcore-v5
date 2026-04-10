@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 474,
+  "chapter_title": "第一百一十六章 新形势下的战争",
+  "filename": "ch_0474_第一百一十六章 新形势下的战争.txt",
+  "char_count": 3560,
+  "timestamp": "2026-04-10T12:04:59.229852",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "燃烧了一半的香烟，粘在他枯裂渗血的唇上，随着他的话语一颤一颤，就像在钓鱼。\n\n    机甲座舱内沉闷压抑，通讯系统里一片沉默，许乐大致能够想到，山谷里的铁七师应该已经开始准备迎接马上便要到来的第二场血战，只是他和这台黑色mx已经消耗到了极致，有心杀敌，却无力回身，只有用手指推着操作杆，让黑色mx缓慢",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "眼前的画面告诉他，这是事实。\n\n    现在应该怎么办？坐在指挥装甲车中的他缓缓的闭上了双眼，片刻后骤然睁开，眼眸中闪过一丝狰狠的神情。\n\n    自己的强攻大队本来实力就在联邦师之上，加上对方虽然将月狼机甲大队全部消灭，肯定也付出了极为惨烈的代价，自己很有机会\n\n    将那个联邦师全部吃掉，然后",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "错误，他留下了机甲营和重装步丘（兵）分队，试图用机步协同作战和肩发式电磁束炸弹，来对付联邦师机动性能最强的机甲部队。\n\n    从标准的军事计划上讲，这个安排并没有错误，帝国大队未开一枪便要决然撤退，便必须撤退的干干净净。在他看来，只要能够把联邦部队最高速的机甲部队掐死，在后方连绵两百公里的原野上，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "了一个苍老的声音。\n\n    “撤退吧。”\n\n    帝**队等级纪律森严明确，虽然休斯少将失望甚至愤怒，但这既然是司令部，是安布里老将军的命令，他必须接受，而且在最短的时间内，向整个强攻大队发出了撤退的命令。\n\n    然而就在此刻，休斯少将犯下了一个致命的错误，他留下了机甲营和重装步丘（兵）分队",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "”\n\n    就在此时，许乐左眼的视界中闪出一道白色的光点字符。他早已取下了专用头盔，这些字自然不是出现在近瞳光屏上，而是出现在他的脑海之中，能够做出如此神秘景象的，当然只有那个老东西。\n\n    这台经过商秋和果壳工程部小组用心调修改造的黑色mx机甲，将许乐的操作能力发挥到了极致，却没有设计自动驾",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "一刻，黑色机甲真的很像是一个黑色的幽灵。\n\n    发动力（机？）低沉有力的轰鸣，震碎了黑夜的安静，无数台沉重的帝国装甲车和混在前锋部队里十四台三代月狼机甲，无情地碾碎了行星便面的沃土，使用氢燃料的发动机并没有什么难闻的味道，然而这样一支大部队的高速突进，却依然在天地间留下了无数难闻的机油气息。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "他的话语一颤一颤，就像在钓鱼。\n\n    机甲座舱内沉闷压抑，通讯系统里一片沉默，许乐大致能够想到，山谷里的铁七师应该已经开始准备迎接马上便要到来的第二场血战，只是他和这台黑色mx已经消耗到了极致，有心杀敌，却无力回身，只有用手指推着操作杆，让黑色mx缓慢地行走在前往洛丘空港的军用公路上。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "编机甲大队全部吃掉，然而眼前的画面告诉他，这是事实。\n\n    现在应该怎么办？坐在指挥装甲车中的他缓缓的闭上了双眼，片刻后骤然睁开，眼眸中闪过一丝狰狠的神情。\n\n    自己的强攻大队本来实力就在联邦师之上，加上对方虽然将月狼机甲大队全部消灭，肯定也付出了极为惨烈的代价，自己很有机会\n\n    将",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "敌方准备撤退。”山谷出口处，西门瑾取下耳机，对身旁的杜少卿说道。\n\n    三分钟全歼月狼机甲大队的同时，铁七师的三个装甲团暗中撤出山区战地，借着黑夜的排斥，向着北方挺进，于原野林间布下了伏击圈。只是在双方尚未接触的时候，帝国人便先撤了。\n\n    这并不能令杜少卿感到震惊，因为任何可能的战局变化，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "未遭受到任何损失的帝国大队。\n\n    “敌方准备撤退。”山谷出口处，西门瑾取下耳机，对身旁的杜少卿说道。\n\n    三分钟全歼月狼机甲大队的同时，铁七师的三个装甲团暗中撤出山区战地，借着黑夜的排斥，向着北方挺进，于原野林间布下了伏击圈。只是在双方尚未接触的时候，帝国人便先撤了。\n\n    这并不能",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "他和这台黑色mx已经消耗到了极致，有心杀敌，却无力回身，只有用手指推着操作杆，让黑色mx缓慢地行走在前往洛丘空港的军用公路上。\n\n    “表现不错啊。”\n\n    就在此时，许乐左眼的视界中闪出一道白色的光点字符。他早已取下了专用头盔，这些字自然不是出现在近瞳光屏上，而是出现在他的脑海之中，能够做",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 58,
+  "chapter_title": "第五十八章 风雨夜色皆能进",
+  "filename": "ch_0058_第五十八章 风雨夜色皆能进.txt",
+  "char_count": 2361,
+  "timestamp": "2026-04-10T12:11:11.963248",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第五十八章 风雨夜色皆能进\n　　五枚剑片在雨夜里高速飞行，发出时而低沉时而尖锐的鸣啸，像是某种诡异的乐器，各自占据着朝小树宁缺身旁一处空间，然后不停轮换方位，五道流光前后相联，把把雨水拍打的青枝和积水的青石板间的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "嗡鸣的声音交错响起，仿佛没有间断，苦行僧身周一片如蒲公英般的金光小花，不时绽开不时被凉风吹散。\n　　刹那间，苦行僧那身旧僧袍上便多了无数道口子，佛宗苦修不像一般修行者那样习惯穿软甲护体，鲜血从那些口子里不停渗出，把他变成了一个浑身浴血的血人。\n　　朝小树静静看着听雨楼内，悬在袖外的双手没有任何动作，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "是不想被磅礴的雨水迷了眼，又像是有些羞愧，无法正视朝小树冷冽而逼人的目光。\n　　但凡有修行强者参与的战斗，那么整个战斗必然是由修行者控制，宁缺和那群唐军精锐这样的普通人只能从旁协助支援，并不能左右战斗的进程。修行者在战斗中精神体力以及最重要的念力损耗极其迅速，在无法一击制敌的时候，他们往往会选择暂时",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "地飞了出来！\n　　南晋剑客瞪着眼睛，看着雨中的朝小树，捂着喷血的咽喉重重向后仰去，直到死的这刻，他才最终确认，对手的回复速度果然远远超过了自己。\n　　主人已死，失去念力控制的碧光短剑颓然堕入雨水之中，弹动两下便静止不动。先前那刻正与碧光短剑缠斗的两枚剑片厉啸一声，和另外三枚剑片合在一处，高速向苦行僧",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "命境界，莫非这就是大唐帝国的实力和底蕴？然则，你应该很清楚，杀你是你们大唐贵人的想法，你赢不了的，贵人们说了，只要你肯降就会饶你不死。”\n　　朝小树抬起左手，摘下湿透衣襟上不知何时落下的一片青叶，然后抬起头望向长衫剑客平静说道：“你杀了我兄弟，那么不管你降不降，你都必须死。”\n　　长衫剑客沉默无言。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "客瞪着眼睛，看着雨中的朝小树，捂着喷血的咽喉重重向后仰去，直到死的这刻，他才最终确认，对手的回复速度果然远远超过了自己。\n　　主人已死，失去念力控制的碧光短剑颓然堕入雨水之中，弹动两下便静止不动。先前那刻正与碧光短剑缠斗的两枚剑片厉啸一声，和另外三枚剑片合在一处，高速向苦行僧身体袭去，只是五粒极黯淡",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，避开楼中二人的感知，顺着木柱滑下，然后在半人高的位置骤然加速，如热刀入雪般穿透极粗的木柱，下一刻便出现在南晋剑客的脑后！\n　　南晋剑客感应到脑后的那抹寒意，心中生出极大恐惧，悬在袖外的双手一阵狂招，空中那抹碧光短剑陡然一顿，却已经无法救主。\n　　噗的一声轻微闷响，那抹剑片刺进他的后脑，然后戳破他的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "般直直刺向着那只铜钵！\n　　就在此时，另一面围墙外被瓢泼大雨洗至幽静无人的街口，两辆马车中的一辆终于缓缓动了起来，驶向朝府的大门，蹄声车轮声被风雨掩盖的无迹无痕。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "极其迅速，在无法一击制敌的时候，他们往往会选择暂时退避进行调息，而先前那刻，唐军使用了神侯弩，朝小树担心宁缺无法应对，冒险召回剑片，于是才有了此时雨夜里的简单对话。\n　　“让这件事情结束。”\n　　朝小树平静说出这句话，然后抬起右臂指向听雨楼的方向，他的实力境界在月轮国苦行僧和南晋剑客之上，所以他有实",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "调息，铜钵念珠及碧光短剑安静地悬浮在他们身周。\n　　来自南晋的长衫剑客一脸震骇看着雨中的朝小树，苦涩说道：“想不到长安城一个帮派头子……都是位洞玄上品的大剑师，甚至……只差一步就能踏进知命境界，莫非这就是大唐帝国的实力和底蕴？然则，你应该很清楚，杀你是你们大唐贵人的想法，你赢不了的，贵人们说了，只要",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，绕着他的身体高速旋转。\n　　南晋剑客闷哼一声，脸色苍白如雪，嘴唇却是鲜艳如血，念力透过气海雪山诸窍进入听雨楼内外的天地之息里，控制那柄碧光短剑闪电般飞起。\n　　“不对！”\n　　苦行僧眼瞳猛地紧缩。那些灰淡的剑影在磅礴春雨的遮掩下隐约似有若无，直到啸鸣飞抵听雨楼时，他才看清楚只有四枚，而不是五枚！",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，代表着死亡，无论是坚硬的青石板，被雨水打湿的墙壁还是地上躺着的唐军尸体，都无法让那些线条缓慢一分，温柔一分。\n　　风能进雨能进夜色能进，人不能进。\n　　没有人敢踏进这道占据方圆三丈范围的无形大网，即便是最勇敢的唐军精锐，也不会明知走进去就是死亡还要强行踏入，至于听雨楼间的苦行僧和长衫剑客，这时候正",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

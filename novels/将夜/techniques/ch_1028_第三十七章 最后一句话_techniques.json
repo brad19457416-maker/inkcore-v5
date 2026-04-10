@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1028,
+  "chapter_title": "第三十七章 最后一句话",
+  "filename": "ch_1028_第三十七章 最后一句话.txt",
+  "char_count": 2314,
+  "timestamp": "2026-04-10T12:11:34.942640",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "几句话响彻整座西陵神殿。\n　　这几句话是莽汉在撕弱女子的衣服，他撕掉蒙在信仰身上的神圣血袍，让赤裸的真相袒露在炙热的昊天神辉之下。\n　　这几句话是点题，他把这道题目直接点出重点，甚至顺便做出了解答，于是神殿里这数千人便是想装看不见，也已经无法做到。\n　　接下来便是道门的选择――无论叶红鱼叛或不叛，无",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "在一起的铁索，想起铁索下的那个吊篮，想起当时篮内篮外的那几个年轻人。\n　　她微微眯眼，望向殿外远处的天空。\n　　那片天空下是宋国，唐小棠这时候应该就在那里，就在兄长的身旁，隆庆消失了这么多天，应该也已经到了那里。\n　　她执掌裁决神殿，虽然没有办法控制隆庆、横木等人，却能查到对方的行踪，只是两地相隔太",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "心动魄。\n　　“我一直以为，宁缺那个家伙是书院的耻辱。”\n　　叶红鱼终于开口，打破了令整座神殿都感到压抑痛苦的安静，而她说的内容，很明显出乎了所有人的意料。\n　　“因为他的格局太小，他总喜欢针对每个具体的人和具体的事下手段，当然他的手段确实不错，如果换成别的人，被他推到这个位置，大概也只能顺水推舟地",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "红鱼叛或不叛，无论她何时叛，道门都必须当作她已经叛教。\n　　掌教站在万丈光幕之后，高大的身影没有一丝颤抖，光幕却忽然颤抖起来，荡起一圈圈光纹。\n　　看着那道摇晃的光幕，由贤的心神也摇晃起来，他和陈七做出这个决定，便不再怕死，但知道自己死定了的感觉并不好。\n　　所有人都看着叶红鱼，等待着她做出决定，等",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "其实这些很多人都清楚，叶红鱼自己最清楚，只不过道门所有人都不去想，仿佛不看，太阳上的那道裂痕便不存在。\n　　便在这时，宁缺说了这样几句话，很粗鲁的几句话，而陈七和由贤完美地领会到他的意图，以死亡为代价，用更粗鲁的方式，让他的这几句话响彻整座西陵神殿。\n　　这几句话是莽汉在撕弱女子的衣服，他撕掉蒙",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "怕死，但知道自己死定了的感觉并不好。\n　　所有人都看着叶红鱼，等待着她做出决定，等待着西陵神殿历史上第一次有裁决神座叛变，等待着道门的决裂。\n　　人们的情绪很复杂，有些解脱，有极大不安与恐惧，有好奇。\n　　――明明群情哗然，却没有喧哗的声音，明明万众瞩目，她却仿佛感受不到那些目光，依然静静站在原地。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "第三十七章 最后一句话\n　　“他说破罐子就要破摔！犹豫不符合你的性格！”\n　　“他问你为何还不叛？你究竟打算何时叛？”\n　　“他说不管你什么时候叛，他会一直在长安城等你！”\n　　……\n　　……\n　　“他说……青春作伴好还乡。”\n　　“他说……漫卷诗书喜欲狂。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "人都看着叶红鱼，等待着她做出决定，等待着西陵神殿历史上第一次有裁决神座叛变，等待着道门的决裂。\n　　人们的情绪很复杂，有些解脱，有极大不安与恐惧，有好奇。\n　　――明明群情哗然，却没有喧哗的声音，明明万众瞩目，她却仿佛感受不到那些目光，依然静静站在原地。\n　　叶红鱼此时在想什么？\n　　青春作伴好还乡",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "欲狂。”\n　　“他说……我想见你，已经想的快发狂了。”\n　　……\n　　……\n　　道殿里一片静寂，仿佛来到万物俱灭的深冬――是的，殿外的世界本就是深冬，但这冬意怎么入得殿来？――只有陈七的声音在飘来荡去，前面那三句话还在飘着，后面三句又至，如后浪推着前浪，撕破静宁的空间，撞到刻满宗教壁画的石墙上，摔个",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "“我一直以为，宁缺那个家伙是书院的耻辱。”\n　　叶红鱼终于开口，打破了令整座神殿都感到压抑痛苦的安静，而她说的内容，很明显出乎了所有人的意料。\n　　“因为他的格局太小，他总喜欢针对每个具体的人和具体的事下手段，当然他的手段确实不错，如果换成别的人，被他推到这个位置，大概也只能顺水推舟地叛了。”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "别的人，被他推到这个位置，大概也只能顺水推舟地叛了。”\n　　殿内安静无比。\n　　她笑意渐敛，面带寒霜说道：“但我不是别的人，我是叶红鱼。”\n　　“他指望用这几句话便能破我心防？我平生最憎厌那些痴呆文妇，听着这几句话便觉得恶心，又如何听得进去？”\n　　“青山不来就我，我就青山？不，我从来不是这样的人，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

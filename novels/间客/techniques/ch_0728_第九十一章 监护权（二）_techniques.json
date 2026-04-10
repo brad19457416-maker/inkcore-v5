@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 728,
+  "chapter_title": "第九十一章 监护权（二）",
+  "filename": "ch_0728_第九十一章 监护权（二）.txt",
+  "char_count": 3504,
+  "timestamp": "2026-04-10T12:05:17.584996",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "略显单薄，脸色依然还是那种不健康的苍白，冒雨而至的他头湿漉一片，纠结成几络有些狼狈的黑丝，青色细驼毛风衣上面的水珠正骨碌碌向下滚着，砸在毛毯上轻柔无声。\n\n    利孝通第一时间反应过来，带着一丝难得的拘谨认真躬身，双手抚在腹部，按照某种有年头的礼仪尊敬说道：“我是利孝通，非常感谢您前来敝室。”何大",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“确实是一团糟。”许乐想到联邦最高法院马上将要开始的聆讯，想到那些正不停从西林赶过来的钟家老人们，眉头皱的极紧。\n\n    “不过你不需要担心什么，该安排的事情，我都已经安排好了。”邰之源缓缓抿了一口红酒，然后从上衣口袋里摸出几粒药片吞了下去。\n\n    “还在吃药？红酒下药对身体不好。”许",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "目无余子的利孝通还有那位初相识，但洒脱磊落习性扑面来的何大律师，对邰之源的到来表现出如此认真的反应，骤然间令他想到了邰之源的真实身份。\n\n    他好奇地抬头，看着正在脱风衣的邰之源，默然想着，即便邰家是前皇族之后，可是时间已经过去了不知道多少年，在晶矿资源日渐匿乏的当下，邰家对联邦的影响力应该远不",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "马上将要开始的聆讯，想到那些正不停从西林赶过来的钟家老人们，眉头皱的极紧。\n\n    “不过你不需要担心什么，该安排的事情，我都已经安排好了。”邰之源缓缓抿了一口红酒，然后从上衣口袋里摸出几粒药片吞了下去。\n\n    “还在吃药？红酒下药对身体不好。”许乐耸肩说道：“既然你要回去当自己的太子爷，这边",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "族之后，可是时间已经过去了不知道多少年，在晶矿资源日渐匿乏的当下，邰家对联邦的影响力应该远不如当年，为什么七大家里其余的家族，对莫愁后山那位夫人，包括自己这位瘦弱的太子友人，依然显得如此尊敬，这种带着浓郁不平等感觉的尊敬，甚至……更像是某种畏惧。\n\n    相识多年，大概只有他自己，还有施公子这等人",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "份，这位联邦席**官的儿子，都星圈最出名的何大律师，连续几句话里所透露的忧虑，让房间里的气氛顿时变得紧张沉默起来。\n\n    雨伞滴滴答答滴着水，将地面名贵的毛毯染污成深色，许乐放下手中的筷子，怔怔地望着地面渐湿的毛毯，他并不擅长法律类的事务，却清楚如果西林钟家的那些老家伙们，真用出监护权争夺这类下",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "族的压力下，在联邦政府似有若无的隐示中，没有任何一家律师事务所，敢接手此案，而当萧文静接到代理委托合同时，也不禁有些怀疑自己的双眼。\n\n    那位美丽的新婚妻子徐松子忧虑地与他深谈了一夜，却没有办法推翻他的决定。\n\n    萧文静的老师同学遍布整个司法系统，纵使没有人愿意站在台前帮助他，却依然有无",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "利孝通第一时间反应过来，带着一丝难得的拘谨认真躬身，双手抚在腹部，按照某种有年头的礼仪尊敬说道：“我是利孝通，非常感谢您前来敝室。”何大律师的反应也非常迅，第一时间让开道路，拉开那把据说可以换三辆最新式汽车的垂金丝木座椅，低眉顺眼说道：“太子爷，这边请。”\n\n    许乐依旧蹙着眉头，烦恼",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "在忙。”都之源眯着眼睛望着他，”如今你活着回来，想必会更忙，忙养参见记者招待会，忙着去费城见老爷子，以后还要忙着照顾那个小女孩儿，我的事情不需要你管，你管好自己的这些破事儿就好。”\n\n    “刚才何大律师说过现在面临的大问题，这件破事儿真不好管，最怕的就是我们管这事儿的资格，根据联邦法律看起来，都",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "经有了安排？”\n\n    “虽然我这短短的青春岁月，并不像你许乐一样光彩夺目，但任何接触过我的人，都从来不敢否认我的优秀。”邰之源微笑望着他，”只有你，似乎从来没有想过这一点，而是习惯性地把我当成一个被保护的对象…你知不知道，这种感受对一个男人来说，等同于羞辱？”\n\n    许乐一怔，细细回想数年来",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "为什么原因，退出了这场震惊联邦的家产世纪官司，而那位联邦最出色的何大律师，又因为众所周知的原因，被迫离开了钟家老宅的律师团。\n\n    在那些大家族的压力下，在联邦政府似有若无的隐示中，没有任何一家律师事务所，敢接手此案，而当萧文静接到代理委托合同时，也不禁有些怀疑自己的双眼。\n\n    那位美丽的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "家老人们，眉头皱的极紧。\n\n    “不过你不需要担心什么，该安排的事情，我都已经安排好了。”邰之源缓缓抿了一口红酒，然后从上衣口袋里摸出几粒药片吞了下去。\n\n    “还在吃药？红酒下药对身体不好。”许乐耸肩说道：“既然你要回去当自己的太子爷，这边的事儿你就不要再参与的好。”\n\n    “不相信我",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

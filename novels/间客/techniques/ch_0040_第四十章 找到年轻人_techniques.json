@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 40,
+  "chapter_title": "第四十章 找到年轻人",
+  "filename": "ch_0040_第四十章 找到年轻人.txt",
+  "char_count": 3270,
+  "timestamp": "2026-04-10T11:53:11.041799",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "船长的命令有丝毫怀疑，只是强抑着兴奋与不安地互视一眼，便走出了舱门，开始准备搜寻工作。\n\n    “为什么要配枪？”秘书走到船长的身边，压低声音问道。他清楚船长先生一定是发现了什么很重要的事情，不然不会紧张成眼前这副模样。\n\n    船长的目光低垂，盯着地板上那些机甲的碎片和有些怪异的组件，开口说道",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "……\n\n    ……\n\n    当天花板上的管道密封板被重新盖上的半分钟后，一阵嘈杂而慌乱的脚步声来到了飞船后方的38区，开启舱门的声音依次响起，最终存放着破旧机甲和更多废弃金属构件的存贮舱被打开，十几名穿着淡褐色士官制服的年轻人匆忙地走了进来，一眼便发现了刚才那声巨响便是出自此处，也发现了这个房",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "什么要配枪？”秘书走到船长的身边，压低声音问道。他清楚船长先生一定是发现了什么很重要的事情，不然不会紧张成眼前这副模样。\n\n    船长的目光低垂，盯着地板上那些机甲的碎片和有些怪异的组件，开口说道：“这台破烂的机甲放了多少年，我都忘了。那个人竟然能够尝试修复它……矿星行走车，自行基炮，居然还有**",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "个人竟然能够尝试修复它……矿星行走车，自行基炮，居然还有***自动行走清扫机……”船长的语气里饱含着愤怒与嘲讽，然而更多的则是荒谬的感觉，“居然想用这些东西修好一台机甲？这个人敢有这样的念头，那他不是个天才就是个疯子。”\n\n    “也许那个人的骨子里是个疯子，但是这台机甲明显移动然后散体，虽然他失",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "样子。\n\n    许乐的埋怨明显没有埋怨对地方，直到此时，他也并不清楚，是他操作机甲的方法造成了这个危险的后果。那道从他腰部生出，传至四肢的古怪颤抖，经由传感器放大到机甲的传动系统，依样放大，让老旧的机甲本体无法承受这样强幅度的震动，而且少年这些天的修复工作，对机甲机体的联结强度造成了二次破坏，这才",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "道密封板被重新盖上的半分钟后，一阵嘈杂而慌乱的脚步声来到了飞船后方的38区，开启舱门的声音依次响起，最终存放着破旧机甲和更多废弃金属构件的存贮舱被打开，十几名穿着淡褐色士官制服的年轻人匆忙地走了进来，一眼便发现了刚才那声巨响便是出自此处，也发现了这个房间的蹊跷。\n\n    表情阴沉的船长先生和他的专",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "了刚才那声巨响便是出自此处，也发现了这个房间的蹊跷。\n\n    表情阴沉的船长先生和他的专属秘书分开人群走了进来，船长走到了满地的机甲残片之中，背着双手扫了几眼，然后走到了人群的另一边，有些困难地低下身来，拣起了地面上那个脏兮兮的洋娃娃。\n\n    “小姐刚才就在这里。”船长的表情比刚才更加阴沉了一",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "种信息便返馈了回来，一旦确认了目标，拥有浓厚西林军方背景的古钟号反应之迅速，实在是颇具野战部队铁军的风采。\n\n    那个时候，许乐和小西瓜刚刚在房间里洗了澡，他正在用雪白的毛巾包住了小姑娘摇晃不停的脑袋，准备替她将头发擦干，忽然发现房间门无声无息地被人打开。\n\n    十几只黑洞洞、无比冰冷的枪口",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "小西瓜也被吓傻了，睁着大大的眼睛，看着此时已经空无一物的空间，就像先前在她面前忽然坍塌的机甲依然存在，嘴巴也是张的大大的，表情可爱到了极点，那只脏兮兮的洋娃娃也从她的手中掉落到了地板上。\n\n    许乐将小女生抱在怀里，哄了哄，才把她哄过神来。许乐回头看了一眼地面上那些其实有不少锐利金属切面的机",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "那台他亲手修复的m02只迈出了历史性的第一步便散体，他可能再也无法进入那个废弃物品存贮舱，可他终于第一次亲近了机甲，甚至亲手修复了机甲，哪怕并不成功——少年并没有成为机甲战士的打算，对于他来说，这台破旧的机甲，只是一个异常难得的实验材料，所以他只是叹息了一声，承认自己在如此简陋的环境，用那些东拼西",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "一声，承认自己在如此简陋的环境，用那些东拼西凑的材料，便想异想天外地修好一台精密机甲，确实是很愚蠢的念头。\n\n    封余在这四年里的言传身教一直在许乐不清楚的地方发挥着作用，机修师对于小男生们崇拜的机甲向来不屑一顾，认为在现代的战争中，机甲这种高耗低能的近战武器，实在是没有什么用处，随便来了集团火",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "先生和他的专属秘书分开人群走了进来，船长走到了满地的机甲残片之中，背着双手扫了几眼，然后走到了人群的另一边，有些困难地低下身来，拣起了地面上那个脏兮兮的洋娃娃。\n\n    “小姐刚才就在这里。”船长的表情比刚才更加阴沉了一些。秘书看了他一眼，低下了头，没有在此时不合适宜地指责上司，没有重视刚才央控电",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "才把她哄过神来。许乐回头看了一眼地面上那些其实有不少锐利金属切面的机甲残片，心头余悸再生，沙哑着声音说道：“娘的咧，这也太不结实了。”\n\n    一台主要构件全部由抗疲劳的合金组成的机甲，虽然已经熬过了六十年的岁月，又受到过致命的破坏，可是也不应该脆弱成这个样子。\n\n    许乐的埋怨明显没有埋怨对",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。\n\n    一张通过监控头拍下来的图片被放大后送到了船长的手中。图片上一个穿着白色睡衣的小姑娘，正安静地站在一个年轻人的身边，安静地看着大舷窗外的曼妙星幕美景。\n\n    “这是离开东林大区前一天，也是小姐失踪的那一天。”船长的表情稍微缓和了一些，因为在录像上，工作人员并没有找到小姐被胁持的迹像，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

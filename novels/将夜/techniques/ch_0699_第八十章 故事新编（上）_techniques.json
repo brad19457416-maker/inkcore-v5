@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 699,
+  "chapter_title": "第八十章 故事新编（上）",
+  "filename": "ch_0699_第八十章 故事新编（上）.txt",
+  "char_count": 3389,
+  "timestamp": "2026-04-10T12:11:26.935085",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "唐的主人？”\n　　李青山漠然说道：“如果不是她，陛下又怎么会英年早逝？”\n　　何明池抬头看了他一眼，心想朝堂街巷里的官员和百姓，都以为皇后娘娘与国师关系亲近，谁能想到真实的情况？\n　　“这些年，长安城里办了太多场丧事，三朝元老，沙场老将，纷纷辞世而去，如今陛下也死了，甚至就连夫子也死了，这不是天意又",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "屈与不甘。\n　　“为什么会是这样！”\n　　她的声音比先前大了些，但依然无法传出道殿，无法穿透殿外的夜雨，被人们听见，甚至还不如她牙齿撞击的声音更响。\n　　李青山说道：“这是陛下御驾亲征之前才写的，既然留下遗诏，说明他也隐约察觉到了天意的指向，不过你也应该看出来了，他很久以前便定了心意。”\n　　李渔沉",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "要陷进黄色的布帛里，颤抖从小臂传到肩头，她整个人都颤抖起来。\n　　她感到了极度的失望与悲伤，然后开始愤怒，不止因为遗诏上写的内容，更因为遗诏上父皇的笔迹是那样的稳定。\n　　“为什么会是这样？”\n　　她低声说道。\n　　然后她又重复了一遍，声音里满是委屈与不甘。\n　　“为什么会是这样！”\n　　她的声音比",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "那名大臣才想起来，夫子已经辞世。\n　　有大臣去了南门观，事后朝堂之上的人们才知道，陛下的遗诏便是保存在这里，所以他们想要询问一下国师李青山。\n　　南门观的门开了，走出来的是何明池，他的腰间系着根白色的布带。\n　　国师李青山病逝。\n　　从现在开始，他便是新的南门观观主，也就是昊天道南门门主。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第八十章 故事新编（上）\n　　“请您帮助我。”\n　　“我为什么要帮助殿下？”\n　　“因为我是唐人。”\n　　“六皇子也是唐人。”\n　　“但他母亲不是唐人。”\n　　“我大唐开明包容，向来不在乎这些事情。”\n　　“请您相信我。”\n　　“我为什么要相信殿下？”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "天这么多年，目的自然是想找到阵眼杵，可惜的是，你在符道方面没有天赋，所以颜瑟师兄不能收你为徒，阵眼杵最终交给了宁缺，如今阵眼杵在书院，你更没有办法，所以这些天你只好经常去皇宫里那幢小楼，想要试试看有没有别的方法能够破阵。”\n　　何明池这才知道，这些年这些天自已做的事情，原来根本都没有能够瞒过老师的眼",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "甘。\n　　“为什么会是这样！”\n　　她的声音比先前大了些，但依然无法传出道殿，无法穿透殿外的夜雨，被人们听见，甚至还不如她牙齿撞击的声音更响。\n　　李青山说道：“这是陛下御驾亲征之前才写的，既然留下遗诏，说明他也隐约察觉到了天意的指向，不过你也应该看出来了，他很久以前便定了心意。”\n　　李渔沉默了很",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "？”\n　　……\n　　……\n　　李渔离开了南门观。\n　　相信不久之后，那个令人震惊的消息便会穿过暴雨，进入长安城各座王公大臣的府邸，明日本不是大朝会之期，但必然会有一场大朝会。\n　　雨中的南门依旧寂清，仿佛什么事情都没有发生过，油灯如豆，只能照亮道殿角落，却照不到更多的地方。\n　　何明池跪在油灯前，半",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "容，感怀的老泪涟涟。\n　　皇后一派的大臣和将军，随同僚一道下跪行礼，沉默无言，各自恭谨，心情却是十分沉重，甚至对遗诏产生了怀疑。\n　　然而遗诏无法伪造，他们的怀疑没有证据。\n　　他们只能等着皇后娘娘带着另一位皇子，陪着先帝的灵柩回到长安。\n　　在此之前，他们只能寄希望于两处地方，能够改变这一切。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "说道：“看来我没有猜错，你果然是掌教大人的人，难怪你对惊神阵那么感兴趣。”\n　　何明池觉得自已的身体骤然间变得很冷，身体前倾，双手扶在乌黑色木板地面，微微颤抖，不知此时该说些什么。\n　　“掌教大人，这辈子最想做的事情，便是率领护教骑兵杀入长安城，把大唐重新纳回西陵神殿的光辉之内，所以他比谁都想破掉惊",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，不止因为遗诏上写的内容，更因为遗诏上父皇的笔迹是那样的稳定。\n　　“为什么会是这样？”\n　　她低声说道。\n　　然后她又重复了一遍，声音里满是委屈与不甘。\n　　“为什么会是这样！”\n　　她的声音比先前大了些，但依然无法传出道殿，无法穿透殿外的夜雨，被人们听见，甚至还不如她牙齿撞击的声音更响。\n　　李",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "在油灯前，半个身体都在阴影里。\n　　李青山躺在病榻上，静静看着头顶，仿佛能够看到落在道殿上的雨，眉头缓缓蹙起，感慨叹道：“我今日改了遗诏，违背了唐律，也违背了陛下的遗愿，不知死后史书上会怎样写，陛下他又会怎样看我。”\n　　何明池沉默不语，在这种时候，他说什么都不妥。\n　　“但我不会后悔，因为殿下说的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

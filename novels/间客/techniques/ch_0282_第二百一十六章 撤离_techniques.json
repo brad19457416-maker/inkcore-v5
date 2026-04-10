@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 282,
+  "chapter_title": "第二百一十六章 撤离",
+  "filename": "ch_0282_第二百一十六章 撤离.txt",
+  "char_count": 3652,
+  "timestamp": "2026-04-10T12:04:51.190665",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "悉了，重新审看了一遍路线，确认没有任何问题，将纸塞进嘴里快速地吞掉。\n\n    这是一件女式带帽短缕风衣，她将帽子掀了过来，挡住了冰冷的雨点，也再次遮住自己容颜。顺着宾馆后园的石径行走，不多时她便觉得这样不对，此时后园冷清，没有几个人会有冒雨散步的行致，显得她的身影格外醒目。\n\n    迎面走过来了",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "用干爽地毛巾擦拭了一下湿漉漉的头，张小萌看着这个被自己视作父亲地人物，快速问道：“联邦军队为什么忽然要动手？”\n\n    “不知道。”军情报领袖，那个神秘到了极点的中年大叔摇了摇头，“情报传过来时已经很晚了，应该是联邦政府地突然决定，组织在政府里的人也来不及做出反应。”\n\n    中年大叔",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "缓。顺着后门旁地一条小道斜插了过去。消失在了雨丝之中。\n\n    一分半钟之后。她赶在联邦布置之前。来到了另一个出口。只是这个出口外面没有组织里地人接应。最关键地是。这道出口有联邦电子监控网络地扫描程序！\n\n    帽中女孩儿地脸微微苍白。眼瞳里却是格外明亮。她下定决定就要从这里闯过去。虽然肯定会触",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "下来，迅束地出示权限，接管了后门处的防御，其余的士兵则是进入了后园。\n\n    就在军车进入视线地一瞬间。张小萌便明白生了什么。她地脚步没有丝毫迟缓。顺着后门旁地一条小道斜插了过去。消失在了雨丝之中。\n\n    一分半钟之后。她赶在联邦布置之前。来到了另一个出口。只是这个出口外面没有组织里地人接应。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "也来不及做出反应。”\n\n    中年大叔身为军的重要人物，却像是不知道自己的重要性一般，始终活跃在最危险的都特区。他今天的装扮不像许乐曾经见过的那般猥琐，也不像平时那般寻常，戴着一幅眼镜，看上去就像是都大学里常见的中年讲师。\n\n    张小萌从短缕风衣里取出那个小工具，放到了桌上，这是一个经过巧妙设",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "都推到组织身上。”\n\n    中年大叔沉默很久后说道：“就算这样，你也不能再回去，我承认你地判断很有道理，但组织不会为了做成功一件事情，便让任何一个同志去承担不必要的风险。”\n\n    “我不回去，麦德林还会活的好好的。”张小萌压低声音，倔强地说道。\n\n    “你没办法回去了，只要你离开了宾馆的范",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "管他们是不是故意放出情报，但只要我离开了宾馆，那些人就达到了中止听证会的目的。”张小萌看着中年大叔，第一次对上级的判断做出置疑，“房间里没有监控，但走廊里有，宾馆后园也有，他们手里拿着录像，反而可以推托责任，说我是自己离开的，把所有的问题都推到组织身上。”\n\n    中年大叔沉默很久后说道：“就算这",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "地推断。司法部部长召开了记布会，拿出了录像证明张小萌是自己离开了宾馆。而且在新闻布会上，部长先生神情沉重地说明，现在他们有足够的理由怀疑，军方面刻意制造了假象，用来欺骗联邦的司法系统，司法部正在调查此事，那位女证人大概是察觉了什么，所以才会畏罪潜逃。\n\n    在一家私营电视台的政治新闻节目中，有位",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "插手了，按照第三号方案撤出Ｓ１。”中年大叔沉默片刻后说道：“确认安全的情况下，通知许乐一声，免得他太担心。”\n\n    最后他望着新闻上面的司法部长，眯着眼睛说道：“宁肯下台也要把我们咬死，究竟是谁能施加这么大的压力？我有些好奇，也想送些礼物给他们。”\n\n    张小萌失踪事件，让整个联邦再次震惊，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "新闻，心情就像光屏画面一样有些不真实。\n\n    新闻画面中，联邦电视台的突新闻记，正一脸焦急地快速说道：“麦德林专案中的重要证人，来自军的重要证人张小萌，于今天下午忽然失踪，目前还没有任何可靠的消息说明究竟生了什么情况。”\n\n    张小萌静静地看着新闻，忽然开口问道：“您的情报来源真实吗？”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "小萌失踪事件，让整个联邦再次震惊，只是最近值得震惊的事情太多，就像坐过山车一般，刺激的太久，终究让民众人有些麻木。只是总要有人该为这件事情负责，麦德林专案也应该会继续下去，只是第二天司法部长便因为这件事情黯然辞职，这代表着某些不怎么好的征兆。(未完待续，如欲知后事如何章节更多，支持！ www/xia",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "”中年大叔冷地说道：“我只是不明白，他们为什么要这样做。”\n\n    房间里陷入死一般的沉默，张小萌缓缓说道：“应该是两边达成了某种协议，麦德林接受了对方开出的条件退出大选，我们起的作用已经起到了，再也没有什么用了。而且那边肯定答应了麦德林，要平息指控，我们自然不能再进入议会大厦。”\n\n    一个",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

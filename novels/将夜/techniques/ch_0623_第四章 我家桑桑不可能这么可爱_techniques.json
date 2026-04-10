@@ -1,0 +1,115 @@
+{
+  "novel": "将夜",
+  "chapter_number": 623,
+  "chapter_title": "第四章 我家桑桑不可能这么可爱",
+  "filename": "ch_0623_第四章 我家桑桑不可能这么可爱.txt",
+  "char_count": 2244,
+  "timestamp": "2026-04-10T12:11:26.781028",
+  "techniques_count": 8,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "“小心些。”\n　　宁缺应了声，推门进入小院，此时暮色已至，落日在西方缓缓沉下，红色的光线照进朝阳城与天空厚厚云层之间，泛着妖异的红。\n　　他抬头看着头顶如同燃烧火海般的厚云，摇了摇头，然后离开。\n　　桑桑披好裘衣，爬出被褥，走到窗前，熟练地开始准备遮蔽光线，忽然看到天空里那些燃烧的云，正在拉帘的小手",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "么这就叫酷，而且都是杀人，为什么还要讲究帅不帅？”\n　　“冷酷狂霸拽这种词你没有听说过，自然不懂此中道理，别说杀人这种事情，哪怕是洗澡上茅房，只要愿意都能帅到一塌糊涂。”\n　　宁缺笑着说道。他起身去屋外倒掉洗脚水。走回屋里，忽然想起一件事，在行李里摸了半天，掏出一个木盒，盒中有两副用墨水晶制成的眼镜",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "道：“二师兄那张死人脸你没有见过？”\n　　桑桑若有所悟，说道：“二先生确实挺帅的……不过我还是不明白为什么这就叫酷，而且都是杀人，为什么还要讲究帅不帅？”\n　　“冷酷狂霸拽这种词你没有听说过，自然不懂此中道理，别说杀人这种事情，哪怕是洗澡上茅房，只要愿意都能帅到一塌糊涂。”\n　　宁缺笑着说道。他起身",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "她微凉的小脸，和声说道：“我出去看看，你先睡吧。”\n　　桑桑说道：“小心些。”\n　　宁缺应了声，推门进入小院，此时暮色已至，落日在西方缓缓沉下，红色的光线照进朝阳城与天空厚厚云层之间，泛着妖异的红。\n　　他抬头看着头顶如同燃烧火海般的厚云，摇了摇头，然后离开。\n　　桑桑披好裘衣，爬出被褥，走到窗前，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "而如今似乎真要面临这种情况，他才明白这哪里是这般简单的事情。\n　　桑桑在用热水烫脚，听着这句话，微怔说道：“真有英雄气概。”\n　　宁缺坐在盆前的小板凳上，低头替她搓脚，笑着说道：“外敌入侵，邪道猖狂，你拿一把剑向千万人冲去，无论你怎么杀，那都是英雄，是英雄才能称作英雄气概，可我们现在是反角，是传说中",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "便是想着在烂柯寺可能会遇见山山姑娘，所以准备见面的时候给她。”\n　　最近这些天，桑桑偶尔会吃醋，发小脾气，以宁缺以前的性情，只怕早就忍不住了，不过现在无论桑桑怎样嗔怒，他都只是笑。\n　　因为他觉得这样的桑桑很可爱。\n　　桑桑的短发很清爽可爱，两颗白白的门牙很憨拙可爱，假嗔时的小模样很娇媚可爱，睡觉的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "到了要离开的日子。\n　　宁缺没有出城，虽然他很想确认大黑马和车厢是否安全。\n　　他直接去了皇宫后方的一片园林，顺着白塔寺的壁墙，走到皇宫侧门处，把身体隐藏在夜色里，沉默地观察倾听了很长时间，为自已的计划做最后的补充。\n　　然后他在朝阳城的大街小巷里逛了一圈，手里握着用旧布紧紧裹住的残破大黑伞，以确定",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "看，你先睡吧。”\n　　桑桑说道：“小心些。”\n　　宁缺应了声，推门进入小院，此时暮色已至，落日在西方缓缓沉下，红色的光线照进朝阳城与天空厚厚云层之间，泛着妖异的红。\n　　他抬头看着头顶如同燃烧火海般的厚云，摇了摇头，然后离开。\n　　桑桑披好裘衣，爬出被褥，走到窗前，熟练地开始准备遮蔽光线，忽然看到天",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

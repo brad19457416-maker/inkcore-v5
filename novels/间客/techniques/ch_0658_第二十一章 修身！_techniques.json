@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 658,
+  "chapter_title": "第二十一章 修身！",
+  "filename": "ch_0658_第二十一章 修身！.txt",
+  "char_count": 3357,
+  "timestamp": "2026-04-10T12:05:08.546774",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "站立成为向贵族解释的标靶，那么他自然会被杀死。\n\n    帝国贵族们再富，也不会养一个废人，一个没有价值的敌方俘虏。\n\n    就在很寻常的某一天，病房的门被打开，一队全副武装的帝国精英持种兵鱼贯而入，沉默肃然地将整个病房控制起来。\n\n    时间到了吗？\n\n    许乐眯眼看着眼前这一幕，深深地吸",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "做为一名从小接受唯物教育，理想是成为机修官的工程师军官而言，这确实是很大的问题。\n\n    在桑树海逃亡的旅程中，怀草诗为了保证这个联邦机修天才能够保持活动能力，跟上自己的节奏与步伐，曾经认真地警告过他不要试图冲破自己指尖植下的真气禁制。\n\n    事实证明这个警告是真实的，然而许乐没有任何选择，第",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "双墨眉深深皱起，就像一个思考哲学问题的痴呆儿那般。\n\n    黄豆粒般的汗珠汇聚成河，哗啦啦地淌下，瞬间打湿衣物和床单。\n\n    不知道过了多长时旬，许乐终于睁开了双眼，往常在联邦时诚恳可亲明亮照人的眼眸，已经变得无尽疲惫，甚至带着一丝在他身上难得一见的惧怕与后悔。\n\n    这种痛苦太可怕了，不",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第二十一章 修身！ \n\n    窗外的枫树在动，村梢间的流风在动，晨光从窗外透了进来，照耀在病床上。\n\n    身体内的神经系统完好，那些复杂的难以抚摸的周游于神经束周边的力量通道却碎了，不知该怎样形容的伤势，成功地干扰了神经束的信息传递，于是病床上多了一个",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "动了起来，抬膝、伸臀、扭腰、沉臀、折肘……那十个烙在脑海里的古怪姿式，缓缓地逐一展示，那股熟悉的灼热颤抖感觉，终于再一次出现，虽然只走出现在脑海中，可依然让他感到极度的宽慰。\n\n    被怀草诗以奇异手法打进体内的障碍，因为他用生命为赌注的冒死，一搏而碎裂，那些被堰塞多日的灼热力量，就像是骤然获得自",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "不知道自己还要禁受多少次这种痛苦，才能达到自己的目的。\n\n    他甚至都不知道这么做的原因是什么，为什么意念能够收拢溃散的力量，还是说这些只是痛苦之下自己的幻觉？做为一名从小接受唯物教育，理想是成为机修官的工程师军官而言，这确实是很大的问题。\n\n    在桑树海逃亡的旅程中，怀草诗为了保证这个联邦",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "、扭腰、沉臀、折肘……那十个烙在脑海里的古怪姿式，缓缓地逐一展示，那股熟悉的灼热颤抖感觉，终于再一次出现，虽然只走出现在脑海中，可依然让他感到极度的宽慰。\n\n    被怀草诗以奇异手法打进体内的障碍，因为他用生命为赌注的冒死，一搏而碎裂，那些被堰塞多日的灼热力量，就像是骤然获得自由的洪水，凶猛地轰了",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "和机甲战舰之类的金属存在比较起来，人体的三大系统显得更加繁复甚至难以捉摸，但他是许乐，是连封余都暗中感慨的机修天才。\n\n    如同修理一台机甲，他开始修理自己的身体，只不过修理臂变成了脑海里的意念。\n\n    以往大概从来没有人想到过这种解决问题的方法，李匹夫没有，封余没有，帝国的强者没有，谁都没",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "联邦宪章电脑的问题，自己的问题，总归是一些越想越糊涂，越想越不可思议的玄幻问题。\n\n    依照他的性格，想不明白的事情一般不愿意花太多时间去想，只是现在瘫痪在床，时间太多，痛楚太多，不想无以度日。\n\n    帝国方面的医疗小组没有察觉到他身体内微妙的变化，只是现这个联邦俘虏的电解质平衡经常出问题，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "与现实相联却又完全相隔的空间里动了起来，抬膝、伸臀、扭腰、沉臀、折肘……那十个烙在脑海里的古怪姿式，缓缓地逐一展示，那股熟悉的灼热颤抖感觉，终于再一次出现，虽然只走出现在脑海中，可依然让他感到极度的宽慰。\n\n    被怀草诗以奇异手法打进体内的障碍，因为他用生命为赌注的冒死，一搏而碎裂，那些被堰塞多",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "低声分析他的身体状态，身体内的痛苦还在不停地侵噬催毁他的意志，如果不强迫自己分神去回忆一下往事，他真担心自己会痛晕过去。\n\n    除了回忆往事，暗中修理身体，大部分时间他都用来思考，思考联邦宪章电脑的问题，自己的问题，总归是一些越想越糊涂，越想越不可思议的玄幻问题。\n\n    依照他的性格，想不明",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "此时，几名穿着华贵服装的帝国贵族官员走了进来，其中一位约四十岁年龄左右的官员，面无表情望着病床上的他说道：“虽然一个废人应该没办法掌握相关的礼仪，但我还是希望你能够学会一些东西，否则你一定会知道，全身瘫痪并不是人世间最痛苦的事情。”\n\n    此人说的联邦语无比生涩拗口，许乐沙哑回答道：“我听得懂帝",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "通道，能够以精确到极点的数值差异来描绘力量运行时的图景，他能像解构mx机甲那样，在脑海中准确地绘画出无数张三维立体结构图。\n\n    或许和机甲战舰之类的金属存在比较起来，人体的三大系统显得更加繁复甚至难以捉摸，但他是许乐，是连封余都暗中感慨的机修天才。\n\n    如同修理一台机甲，他开始修理自己的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "、折肘……那十个烙在脑海里的古怪姿式，缓缓地逐一展示，那股熟悉的灼热颤抖感觉，终于再一次出现，虽然只走出现在脑海中，可依然让他感到极度的宽慰。\n\n    被怀草诗以奇异手法打进体内的障碍，因为他用生命为赌注的冒死，一搏而碎裂，那些被堰塞多日的灼热力量，就像是骤然获得自由的洪水，凶猛地轰了出来，拍溃大",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

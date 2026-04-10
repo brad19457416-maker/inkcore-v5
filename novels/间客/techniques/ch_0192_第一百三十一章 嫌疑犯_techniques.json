@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 192,
+  "chapter_title": "第一百三十一章 嫌疑犯",
+  "filename": "ch_0192_第一百三十一章 嫌疑犯.txt",
+  "char_count": 3376,
+  "timestamp": "2026-04-10T12:04:45.716361",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "大队提供的人证物证之后，心情里的不悦更是到达了顶点。能够半夜让国防部主动提供法律支授的嫌疑军官，毫无疑问极有背景，在她的眼中，这名叫做许乐的年轻少尉，只是遍布联邦里的无数纨绔之一，只是这个纨绔尤其愚蠢，不知道基于怎样荒唐的理由，居然在果壳机动公司研究所里大砸大闹，这些人真不知道死字是怎么写的……",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "公寓里的法律文件还在不在。”许乐忽然开口说道。\n\n    徐松子的动作微微一滞，生起一股不悦的情绪，心想如果不在，那你先前的那些信心从何而来？\n\n    许乐低着头，并不知道利家那边会不会进入自己的公寓毁灭沈老教授的遗嘱，虽然按道理讲，那些大人物应该不会用这种无聊的小手段，但为了稳妥起见，他宁肯当那",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "信心从何而来？\n\n    许乐低着头，并不知道利家那边会不会进入自己的公寓毁灭沈老教授的遗嘱，虽然按道理讲，那些大人物应该不会用这种无聊的小手段，但为了稳妥起见，他宁肯当那份复制件已经不在。\n\n    他抬起头来，说道：“法律文件的原件在……我一位朋友手中，你可以直接去向她要。”\n\n    “朋友？",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "原件在……我一位朋友手中，你可以直接去向她要。”\n\n    “朋友？住哪里？”\n\n    “国防部西山大院三号，她姓邹。”\n\n    徐松子听到这个地址，微微一怔，旋即深深地吸了一口气，马上明白了为什么顶头上司会在深夜里给自己电话，把自己派到监狱里来，原来这个年轻少尉的靠山，竟是自己顶头上司的顶头上",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，静静地看着长桌对面的许乐，说道：“我没有听错什么吧？”\n\n    她从第一军事学院毕业之后，便直接进入了国防部内务处，表现极为优异。深得长官赏识。然而限于研究区域，她并不清楚果壳机动公司研究所的权限归属，她只知道那间掌握了联邦相当部分尖端科技的研究所是属于联邦，属于军方地，结果这个人居然说……那间",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "司只有按照协议支付报酬，获取使用权的资格，而没有处置的资格。”\n\n    徐松子听着这番话。表情渐渐凝重平静下来，她发现自己对于果壳研究所确实了解的不多，对方似乎说的极有条理，不像是在撒谎，而且已经被逮捕入狱，这时候对着自己撒谎，没有丝毫益处。\n\n    “沈老教授去世前，通过公证遗嘱。将实验室的处",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "法律署表现非常优异，从来没有遇到令她退却的案子。然而今天深夜时分，她被顶头上司的电话叫了起来，命令她马上赶到军事监狱，为一位当事人提供法律支援。忽然接到这样一个莫名其妙的命令，被打搅了睡眠，自然心情不会太好。\n\n    当她看了由果壳研究所和宪兵大队提供的人证物证之后，心情里的不悦更是到达了顶点。能",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "到的理由。\n\n    “实验室是你的？”徐松子怔了怔，旋即微讽着笑了起来，静静地看着长桌对面的许乐，说道：“我没有听错什么吧？”\n\n    她从第一军事学院毕业之后，便直接进入了国防部内务处，表现极为优异。深得长官赏识。然而限于研究区域，她并不清楚果壳机动公司研究所的权限归属，她只知道那间掌握了联邦",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的年轻少尉。``.``\n\n    她从第一军事学院法律系毕业两年，在国防部内务处法律署表现非常优异，从来没有遇到令她退却的案子。然而今天深夜时分，她被顶头上司的电话叫了起来，命令她马上赶到军事监狱，为一位当事人提供法律支援。忽然接到这样一个莫名其妙的命令，被打搅了睡眠，自然心情不会太好。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "部主动提供法律支授的嫌疑军官，毫无疑问极有背景，在她的眼中，这名叫做许乐的年轻少尉，只是遍布联邦里的无数纨绔之一，只是这个纨绔尤其愚蠢，不知道基于怎样荒唐的理由，居然在果壳机动公司研究所里大砸大闹，这些人真不知道死字是怎么写的……\n\n    成见在前，她对许乐自然没有什么好的态度，只是基于专业素养，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

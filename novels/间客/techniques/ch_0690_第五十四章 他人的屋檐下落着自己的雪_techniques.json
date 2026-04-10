@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 690,
+  "chapter_title": "第五十四章 他人的屋檐下落着自己的雪",
+  "filename": "ch_0690_第五十四章 他人的屋檐下落着自己的雪.txt",
+  "char_count": 3447,
+  "timestamp": "2026-04-10T12:05:08.602227",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "远的存在，不论是直膜空间里的六年半，还是穿越空间通道，都让两边的交流变得非常困难，所以先前才有那样的疑问，直到听到沃斯领袖的这句话，他才想起来，自己英勇的战友们已经打了过来，转瞬间，一股莫名的激动与渴望涌入他的身躯，有些迫不及待想要回到那些家伙的身边，回到那片危险的战场上。\n\n    “最好把你唇角",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "已经打了过来，转瞬间，一股莫名的激动与渴望涌入他的身躯，有些迫不及待想要回到那些家伙的身边，回到那片危险的战场上。\n\n    “最好把你唇角的笑容控制一下。”沃斯冷漠说道：“侵略者的笑容很是刺眼。”\n\n    老人用颤抖的手指轻点文件当中某个页面，继续说道：“另外，我希望你们的部队不要进入这片星域，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "“卡顿就是他最大的一把屠刀，上千万的起义者与无辜的平民死在他的血腥镇丅压之下，变成他升爵风光的筹码……\n\n    “这几年夫差皇帝冷落他，也是不想与这个屠夫手中鲜血牵扯太多关系的缘故。”\n\n    “卡顿死在了你的手中，千万颗不甘闭眼的头颅和他们芶延残喘的亲人，都会感谢你替他们报了仇。比",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "有那样的疑问，直到听到沃斯领袖的这句话，他才想起来，自己英勇的战友们已经打了过来，转瞬间，一股莫名的激动与渴望涌入他的身躯，有些迫不及待想要回到那些家伙的身边，回到那片危险的战场上。\n\n    “最好把你唇角的笑容控制一下。”沃斯冷漠说道：“侵略者的笑容很是刺眼。”\n\n    老人用颤抖的手指轻点文",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "送弹药武器并不是什么难事。”\n\n    在许乐的概念或者说印象中，联邦和帝国是相隔无数光年极为遥远的存在，不论是直膜空间里的六年半，还是穿越空间通道，都让两边的交流变得非常困难，所以先前才有那样的疑问，直到听到沃斯领袖的这句话，他才想起来，自己英勇的战友们已经打了过来，转瞬间，一股莫名的激动与渴望涌",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "勒索，无恶不作，能够享有富裕而放纵的生活，他们为什么会跟随你，冒着死亡的危险去反抗皇帝？而且难道你不担心抵抗组织里充斥着这种野心家和屠夫，会是件很危险的事情？”\n\n    “要在帝国这样一个危险的独裁社会里寻觅光明，我们必须团结一切可以团结的力量。木恩虽然从事着很多不正当事业，是被很多人畏惧或敬佩的",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "担心抵抗组织里充斥着这种野心家和屠夫，会是件很危险的事情？”\n\n    “要在帝国这样一个危险的独裁社会里寻觅光明，我们必须团结一切可以团结的力量。木恩虽然从事着很多不正当事业，是被很多人畏惧或敬佩的黑道领袖，但却是组织的高级干部，他和他的帮派，是抵抗组织最可靠的武装力量之一乙”\n\n    “木恩和",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "问题……”许乐抬起头蹙眉问道。\n\n    “你逃亡一年的时间，看来对当前宇宙的局势不是很清楚。”老人说道：“你们的军队已经打到了西南星系，整个空间通道已经被你们完全控制，输送弹药武器并不是什么难事。”\n\n    在许乐的概念或者说印象中，联邦和帝国是相隔无数光年极为遥远的存在，不论是直膜空间里的六年",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "水染红的星球。”\n\n    老人的眸子里跳跃着冰冷的火苗：“天京星是帝国的脸面，皇帝陛下自然不会允许出现太过血腥的屏杀事件，而在那些贱民们敢于反抗的星球上，皇帝陛下的屠刀从来没有入过鞘。”\n\n    “卡顿就是他最大的一把屠刀，上千万的起义者与无辜的平民死在他的血腥镇丅压之下，变成他升爵风光的筹码…",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，于风雪天里认真劳作。\n\n    许乐坐在修理厂二楼阳台上，望着天京星都城黑压压的贫民区建筑群，有所感慨～小  说t  xt 天,堂",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“可他终究还是死在你手上。”沃斯老人微笑说道“，所以与你达成某种协议，比较容易说服组织内部的年轻人们。”\n\n    “好吧，我承认你是一位优秀的说服者，这个协议我个人表示赞同。”许乐说道：“可是我一直在思考一个问题，按照你们的政治理念及纲领，如果……联邦部队一直深入，如果帝国白槿王朝真的覆灭，那",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "困难，所以先前才有那样的疑问，直到听到沃斯领袖的这句话，他才想起来，自己英勇的战友们已经打了过来，转瞬间，一股莫名的激动与渴望涌入他的身躯，有些迫不及待想要回到那些家伙的身边，回到那片危险的战场上。\n\n    “最好把你唇角的笑容控制一下。”沃斯冷漠说道：“侵略者的笑容很是刺眼。”\n\n    老人用",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "感，对敌国内部的政治斗争更没有丝毫兴趣。\n\n    在天京星都城贫民区里呆了近一年的时间，尤其是那座温暖小院里的苏珊大妈和保罗，渐渐改变了他的心态。在内心深处，他清楚帝国下层贫苦而少自由的民众反抗皇族的统治有天然正确性，在情感立场，他同情那些受压迫的人们，只是他依然不会主动做些什么。\n\n    因为",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "队一直深入，如果帝国白槿王朝真的覆灭，那么你我双方肯定会再次生激烈的战争。”\n\n    “但那是很久以后的事情了。”沃斯老人并没有在许乐面前隐藏什么，简单明了地说道：“你们这些侵略者是摆在我们面前的第二座大山，我们总得先掀翻一座山再说。至于你们的政丅府官员，拿到这份协议后，肯定也会有类似的看法。”",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "量之一乙”\n\n    “木恩和我们一样，都出身贱民，他的仓家大小都死在帝国皇贼们的屠刀之下，所以我们从来不会怀疑他的忠诚程度，因为我们拥有一样惨痛的经历和改变这个世界的决心。”\n\n    “就如同你一样，你是联邦人，你想要回到联邦的决心自然也不用怀疑。”\n\n    老人望着他的目光忽然变得柔和了起来",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "很是刺眼。”\n\n    老人用颤抖的手指轻点文件当中某个页面，继续说道：“另外，我希望你们的部队不要进入这片星域，我和我的组织绝对不会允许你们真的把我们的星球收割干净。”\n\n    “这个，我真没办法承诺。”许乐很直接地说道。\n\n    沃斯老人没有继续这个话题，沉默片刻后说道：“那我要求你们的部队",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "是你最狂热的支持者，同样如此。”\n\n    “你低估了我们的力量，并且严重缺乏行政管理的经验。”老人缓缓抬起头来，望着他说道：ｂ，要维护被占领星球的治安，要恐吓那些热血的游击队的父母妻儿，要从黑夜里搜取你们需要的情报…………再没有任何人，比这些黑道分子更加适合。”\n\n    许乐默然，现对方说的话虽",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

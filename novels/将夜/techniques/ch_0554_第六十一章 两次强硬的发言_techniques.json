@@ -1,0 +1,245 @@
+{
+  "novel": "将夜",
+  "chapter_number": 554,
+  "chapter_title": "第六十一章 两次强硬的发言",
+  "filename": "ch_0554_第六十一章 两次强硬的发言.txt",
+  "char_count": 7586,
+  "timestamp": "2026-04-10T12:11:26.638614",
+  "techniques_count": 18,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "选择她，而不故书痴伤心失望，于是所有人都开始替书痴不值，替她愤愤不平。\n　　然而随着时间的流逝，很多秘密不再成为秘密，修行界终于知道，原来那个小侍女桑桑竟是前任光明大神官在世间唯一的传人，尤其是当西陵神殿数月前正式传出光明之女的封号后，情况顿时得到了改变。\n　　至少在人们的眼中，小侍女桑桑终于拥有了",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "李道人拜见十三先生。”\n　　“晚生林若羽见过书院前辈。”\n　　“在下华隐代家师向宁大家请安。”\n　　众人恭谨地向宁缺行礼请安，或神态拘谨，或兴奋难抑，有的人声音微颤，有的人声音甚至兴奋的都有些变调，能感觉到所有人都很激动。\n　　……\n　　……\n　　这是昊天的世间，道门自然在修行界里拥有绝对至高无上的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "也基本上无法有机会见到书院后山的弟子。\n　　今天他们终于见到了，而且并不是远远看着那些世外高人御剑自天空飞过，而是如此近距离的接触，甚至能够与对方说几句话，他们怎么能不激动兴奋？\n　　且不论这等机缘会不会给他们的漫漫修道路带来什么好处，但至少将来年老体衰将要回归昊天光辉之前，他们可以对自己的后辈弟子",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "何强自压抑，依然无法控制住自己的反应。\n　　看着涧旁二人的身影，南晋太子脸色铁青，露在袖外的双手因为愤怒和嫉妒而颤抖起来，即便他再如何想保持风度，依然无法控制自己的情绪。\n　　片刻沉默后，终于有人忍不住向着涧畔走了过去，有人领头，自然便有更多的人跟随，极短的时间内，大青树便变得空无一人。\n　　先前还",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "不足够。\n　　因为此行的目的是要替桑桑治病，他不想多生事端，所以无论是昨日清晨在烂柯寺里相遇时的言语冲突，还是先前这位太子殿下的嘲笑与指责，他都无动于衷，完全不符往日性情的低调沉默。\n　　然而终究还是会不爽的。\n　　黑色马车驶过南晋太子身边时，忽然停了下来。\n　　宁缺看着脸色难看的南晋太子，感叹说道",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "些得意。”\n　　“那便是真得意了。”\n　　莫山山点点头，然后说道：“其实我知道这件事情。”\n　　宁缺心想既然你知道，自己还眉飞色舞说了一遍，真的是很尴尬。\n　　莫山山看着他的眼睛，似笑非笑说道：“帮我赶走一个我的追求者，我是不是应该感谢你？还是说你只是得意于让我苦苦念着你一人而孤老终生？”\n　　宁缺",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "哗的响起，然而树冠里的枝叶，因为太过浓密，没有被风拂开任何缝隙，树下那名南晋贵公子的衣襟也被风掀起了瞬间，明黄色的腰带骤现骤隐。\n　　“我知道他是南晋太子。”宁缺说道。\n　　莫山山微感诧异。\n　　宁缺笑着说道：“昨天在烂柯寺里遇见过，有些小争执，不过你知道的，我现在性情比较温和，所以就算他问我算什么",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "一黑，险些昏了过去。\n　　……\n　　……\n　　宁缺掀开车帘看了一眼，发现桑桑的气色确实不错，便不怎么担心，只是看着她和山山相对而坐沉默无言，却又是担心到了极底。\n　　还是先上山找着歧山大师再说，他这样安慰自己，轻踢大黑马的翘臀，示意它快一些，然而黑色马车还没有上桥，便被拦在了虎跃涧前。\n　　拦住马车",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "摇头。\n　　不知为何，确认她不是随那名南晋贵公子一道来的烂柯寺，宁缺心中的不悦情绪顿时烟消云散，笑着说道：“但他肯定是跟着你来的。”\n　　莫山山不知道他为什么会这样说。\n　　有微寒的秋风自涧底生起，顺着石坪吹拂，大青树里发出哗哗的响起，然而树冠里的枝叶，因为太过浓密，没有被风拂开任何缝隙，树下那名南",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "多少人接触过，虽然这些年他清晰地察觉到，世人对待自己的态度渐有不同，但依然没有怎么在意，因为他依然生存在世间并没有去世外隐居。\n　　这与他是书院入世之人有关，更是因为他本人的经历性情。真要出世便要世间断离关系，然而在复仇成功之前，他根本无法撕扯开自己与俗世千丝万缕的联系，即便杀死夏侯，似乎这种局面也",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "大海，始知莫山山这姑娘并不是普通的女子，今日进入瓦山后，为了不让她觉得自己是在纠缠而心生不喜，始终在压抑自己亲近她的渴望，扮演出风轻云淡的模样，就是想让她能够对自己留下一个好印象。\n　　正在这位贵公子轻摇折肩，矜持而温和地与那些修行者闲谈，有些紧张地猜测莫山山会不会在一旁静静看着自己，眼中流露出欣赏",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "对方说几句话，他们怎么能不激动兴奋？\n　　且不论这等机缘会不会给他们的漫漫修道路带来什么好处，但至少将来年老体衰将要回归昊天光辉之前，他们可以对自己的后辈弟子们回忆某一年在瓦山烂柯寺的故事，骄傲而满足地说道当时的书院十三先生是如何的平易近人。\n　　……\n　　……\n　　宁缺从来都没有世外高人的自觉，在",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "行界里的地位，只是过往入世之时，他打交道的对象不是疯子便是强的恐怖的前辈变态，所以直至此时此刻，他才第一次真正感受到师门的强大，感受到修行者对书院的尊重或者说敬畏。\n　　无论是尊重还是敬畏，都是很美好的感觉。\n　　……\n　　……\n　　虽然是昊天的世界，修道者居多，但毕竟大唐乃是世间第一强国，自然也有",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "公子阴沉的脸色，更是没能逃过他的眼睛，他不由微微皱眉。\n　　想到某些事情，他也必须承认，如果不去理会性格品德之类的东西，单从身份家世上来论，那名南晋贵公子大概是世上最适合书痴的对象，如果要说性格品德，他自己也没有那些东西，一念及此，竟生出些莫名的不悦。\n　　宁缺看着青树下那名南晋贵公子，问道：“你是",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "人都很激动。\n　　……\n　　……\n　　这是昊天的世间，道门自然在修行界里拥有绝对至高无上的地位，今日来到烂柯寺后瓦山的修行者，大多数也是修道之人。\n　　只不过道门与书院的隐隐对抗，都是发生的黑暗的历史阴影之中，发生在那些呼风唤雨的真正强者之间，与这些普通修行者没有任何关系。\n　　他们只知道书院后山是",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "宁缺挤下山涧，而是极有分寸，甚至可以说带着某种天然敬畏地，在距离涧边还有数丈距离的时候，便极有默契地同时停下。\n　　“宋国李道人拜见十三先生。”\n　　“晚生林若羽见过书院前辈。”\n　　“在下华隐代家师向宁大家请安。”\n　　众人恭谨地向宁缺行礼请安，或神态拘谨，或兴奋难抑，有的人声音微颤，有的人声音甚",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "并不如此，二女同乘马车什么都不代表，但他自然不会辩解什么，走到车前轻拍大黑马示意出发。\n　　黑色马车缓缓启动。\n　　宁缺坐在车前的软垫上，看着不远处南晋太子那张阴沉而难看的脸，忽然生出一丝快意，只不过那份快意依然不足够。\n　　因为此行的目的是要替桑桑治病，他不想多生事端，所以无论是昨日清晨在烂柯寺里",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "至少将来年老体衰将要回归昊天光辉之前，他们可以对自己的后辈弟子们回忆某一年在瓦山烂柯寺的故事，骄傲而满足地说道当时的书院十三先生是如何的平易近人。\n　　……\n　　……\n　　宁缺从来都没有世外高人的自觉，在他终于成功登顶进入书院二层楼后，他依然会去红袖招喝酒，和临四十七巷的邻居寒喧聊天，带着前院学生北",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

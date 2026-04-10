@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 990,
+  "chapter_title": "第三百一十四章 同生或者共死（上）",
+  "filename": "ch_0990_第三百一十四章 同生或者共死（上）.txt",
+  "char_count": 2355,
+  "timestamp": "2026-04-10T12:05:26.947733",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "地跑回了草地，来到顾惜风和达文西的身边。\n\n    看着痛哭中的顾惜风，看着草丛上令人触目惊人的血，众人脸上的表情逐渐僵硬www.xiaoshuotxt。com",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "顾惜风转过身，开始拼命地回头狂奔。\n\n    达文西瞪圆了眼睛，盯着跑回自己身前的顾惜风，愤怒地咆哮道：“为什么不跑了！”\n\n    顾惜风看着他那双被炸的稀烂的腿，脸上的表情极为难看，似乎想哭却又没哭出来，颤声解释道：“跑不动了。”\n\n    达文西像看裸女一样神情莫名望着他，狠狠地咬住",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "转过身，开始拼命地回头狂奔。\n\n    达文西瞪圆了眼睛，盯着跑回自己身前的顾惜风，愤怒地咆哮道：“为什么不跑了！”\n\n    顾惜风看着他那双被炸的稀烂的腿，脸上的表情极为难看，似乎想哭却又没哭出来，颤声解释道：“跑不动了。”\n\n    达文西像看裸女一样神情莫名望着他，狠狠地咬住牙齿，不肯让身上",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "顾惜风来说，却像自己的一生那么漫长。事后他甚至坚持认为，他看到了自己从出生到死亡的所有重要片段，包括第一次在战场上开枪，第８次**。\n\n    为什么这次中弹没有前几次那么痛？还是说人死了之后就感受不到痛？怀中抱着达文西身体的顾惜风，在自以为漫长的时光片段之后犹豫着睁开双眼，然后看到一幕怎么也想不到",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "投降然后寻找机会再开冷枪的准备。\n\n    达文西的这声跑，仿佛如同田径赛场上的发令枪声震痛耳膜，他瞬间回到从前的战场，身上染着血的战友们在炮火中拼命地挥舞手臂，让自己快些离开。\n\n    于是在大脑还没有来得及想清楚之前，他的身体已经本能做出反应，嗖的一声像个肥兔子般贴着草地跑了出去。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "在队伍最后的一枚平射榴弹，成功击毁那台山地装甲车后，这场突如其来的遭遇战就此结束。\n\n    战斗结束的太快，树梢几只惊鸟甚至还没有来得及飞走，山林草地间迅速回复安静，只有那些血淋淋的尸体和满地焦黄色的碎裂树皮，证明短暂的十几秒钟内究竟发生过什么。\n\n    队员们对山林外围的清理中，抓获了四",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "文西的这声跑，仿佛如同田径赛场上的发令枪声震痛耳膜，他瞬间回到从前的战场，身上染着血的战友们在炮火中拼命地挥舞手臂，让自己快些离开。\n\n    于是在大脑还没有来得及想清楚之前，他的身体已经本能做出反应，嗖的一声像个肥兔子般贴着草地跑了出去。\n\n    他瞪着眼睛拼命向前方奔跑，拼命摆动着手臂，圆手",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第三百一十四章 同生或者共死（上） \n\n    顾惜风重重摔倒在草地上，感觉脑后多了些热乎手的东西，他揉着昏沉的脑袋向后望去，只见身后不远处多了一个恐怖的弹坑，达文西痛苦地趴在弹坑边缘，下半身全部是血    达文西看着顾文西脸上惘然失措的神情，用尽全身",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "队员们对山林外围的清理中，抓获了四名受伤的俘虏，然而这时候没有人这些家伙，所有人都焦急地跑回了草地，来到顾惜风和达文西的身边。\n\n    看着痛哭中的顾惜风，看着草丛上令人触目惊人的血，众人脸上的表情逐渐僵硬www.xiaoshuotxt。com",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "怜地呻吟，听着身后越来越清晰的枪声，看着林间那些小眼睛特战部队精锐的快速身影，胸窝处一片冰亮，喘息着说道：“那现在怎么办？”\n\n    说完这句话，他喉动微动，鲜血噗的一声吐了出来，脸色更加惨白。\n\n    顾惜风半跪在他身前的草丛里，抹着额头上的汗珠，颤声说道：“一起死呗。”\n\n    “一起死个",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "来的遭遇战就此结束。\n\n    战斗结束的太快，树梢几只惊鸟甚至还没有来得及飞走，山林草地间迅速回复安静，只有那些血淋淋的尸体和满地焦黄色的碎裂树皮，证明短暂的十几秒钟内究竟发生过什么。\n\n    队员们对山林外围的清理中，抓获了四名受伤的俘虏，然而这时候没有人这些家伙，所有人都焦急地跑回了草地，来",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

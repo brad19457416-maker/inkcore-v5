@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 576,
+  "chapter_title": "第二百一十四章 战场上的烟与爷",
+  "filename": "ch_0576_第二百一十四章 战场上的烟与爷.txt",
+  "char_count": 3208,
+  "timestamp": "2026-04-10T12:05:08.561556",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "上磁暴与暴风雪似平约定好了一般。同时消失夭踪。眺么讣极北端的冰川，将自己壮丽庄穆的真实容颜，展露在人们的面前。几处星星点点的孤寒黑岩峰侧面。点缀着亿万年沉积的冰雪世界，在蓝到令人心动的天穹背景中，十分美丽。\n\n    爆炸声隐隐从远处传来。这片高地上的战斗已经结束，藏匿于冰雪之中的帝国残兵顽抗到底",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第二百一十四章 战场上的烟与爷\n\n    上磁暴与暴风雪似平约定好了一般。同时消失夭踪。眺么讣极北端的冰川，将自己壮丽庄穆的真实容颜，展露在人们的面前。几处星星点点的孤寒黑岩峰侧面。点缀着亿万年沉积的冰雪世界，在蓝到令人心动的天穹背景中，十分美丽。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，因为看上去，站在高大机甲中的那名机师似乎是想要自杀。当然。没有人相信这名名机师会自杀，所以很好奇他究竟想做些什么。\n\n    许乐很自然地叼着烟卷，向面前的空气里漆了过去，那里是一根粗壮而恐怖的枪管。\n\n    机械臂前端的特制分离态达林机炮，刚刚停止射击旋转。看上去平静如常，泛射着淡淡的金属光泽",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的一声轻响，烟卷与枪管处的金属冈一接触，便燃了起来。\n\n    许乐眯着眼睛深深地吸了一口，感觉非常愉快。\n\n    用巨大的机甲武器点烟。给人的感觉就像是用战舰主炮炸鱼。四面八方的联邦士兵看着这一幕，心里涌起复杂而又敬畏的情绪，这幕看似玄意扮酷的画面，需要这名机师拥有怎样精确的微操作能力？如果他操",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。\n\n    呼啸声中，，沉重的机械臂凛冽破空而下，似小山压顶一般，向施清海”穴顶压了下安。那片阴影瞬间放大。然后不再变 小\n\n    恐怖巨大的枪管，在施清海面前几厘米前戛然而止\n\n    施清海表情有些僵硬，叼着烟卷的嘴唇抖了抖。即便是生猛如他，也被这一幕震的有些心神微动。片刻后，他低下头点燃了",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "沉积的冰雪世界，在蓝到令人心动的天穹背景中，十分美丽。\n\n    爆炸声隐隐从远处传来。这片高地上的战斗已经结束，藏匿于冰雪之中的帝国残兵顽抗到底，终究也只变成了无数冰冷的尸体，两台白色，机甲嗡鸣着从战斗模式中退出，巨大的金属身躯缓缓沉降。安静地看着自己的部队沉默打扫战场。\n\n    联邦出动了两个",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "。当时你们几个有些不以为然，觉得老板是在说笑话\n\n    雪地火堆之旁，白玉兰轻声细语地身边的战友们说道：“当秘书的那个人，是在替七大家中某个家族主持具体事务，能够随意出入总统府的角色。而这位施公子就是其中坐牢的那个”现在你们总该相信了，他被特赦的那天，大熊你也在宪章广场上\n\n    “嗯。”熊临泉",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "水领袖共同挑选的联络官，青龙山部队的军事长官也极为重视他的意见。混编在一起的双方部队，因为这两个人的存在，渐渐习惯了一起战斗的感觉，在过去数十年间势不两立，染着彼此鲜血的政府军和反*政*府军，竟然配合的越来越熟练，而起始的那些敌意与冷漠，也在不知不觉中减少了很多。\n\n    “去年在基地里，有人提到",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "一对很久未见的生死兄弟，终于有机会长时间的并肩作战。那种与生俱来，阳光中隔铁门递烟而开端的默契，再次出现。\n\n    接受了联邦正规军校教育和青龙山特工培的施公子，向联邦军官们展示他优秀而骄傲的一面。无论是繁复的战术推演，还是具体的作战计划安排，他都能够轻而易举地通过小小的笔记本和电子地图上的专业再",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "个”现在你们总该相信了，他被特赦的那天，大熊你也在宪章广场上\n\n    “嗯。”熊临泉抱着枪械，摇头感慨说道：“够资格进入三一协会的家伙，果然了不得。他应该是和头儿一起被关进军事监狱的。有些小道消息说，当年麦德林议员在被刺杀，就是他和头儿一起干的”说实话，我现在最疑惑的是。他究竟从哪里搞到的这把旺",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "帝国残兵顽抗到底，终究也只变成了无数冰冷的尸体，两台白色，机甲嗡鸣着从战斗模式中退出，巨大的金属身躯缓缓沉降。安静地看着自己的部队沉默打扫战场。\n\n    联邦出动了两个全机械化的王牌整编师，还有更多的兵团，在这样的攻势之下，帝国远征军残存的力量，即便想用悲壮的自杀式反击来向皇帝陛下证明自己的忠诚，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "第二百一十四章 战场上的烟与爷\n\n    上磁暴与暴风雪似平约定好了一般。同时消失夭踪。眺么讣极北端的冰川，将自己壮丽庄穆的真实容颜，展露在人们的面前。几处星星点点的孤寒黑岩峰侧面。点缀着亿万年沉积的冰雪世界，在蓝到令人心动的天穹背景中，十分美丽。\n\n    爆炸声隐隐从远",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "信了，他被特赦的那天，大熊你也在宪章广场上\n\n    “嗯。”熊临泉抱着枪械，摇头感慨说道：“够资格进入三一协会的家伙，果然了不得。他应该是和头儿一起被关进军事监狱的。有些小道消息说，当年麦德林议员在被刺杀，就是他和头儿一起干的”说实话，我现在最疑惑的是。他究竟从哪里搞到的这把旺\n\n    “你就没",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

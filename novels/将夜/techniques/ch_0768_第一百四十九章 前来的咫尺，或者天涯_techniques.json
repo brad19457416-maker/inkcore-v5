@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 768,
+  "chapter_title": "第一百四十九章 前来的咫尺，或者天涯",
+  "filename": "ch_0768_第一百四十九章 前来的咫尺，或者天涯.txt",
+  "char_count": 2531,
+  "timestamp": "2026-04-10T12:11:27.134927",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "是天涯。\n　　闲事莫提，待我先砍了他丫。\n　　……\n　　……\n　　（最后我本来还写了一句：人这一生，最终求的，不过刹那芳华，发现太鸡巴酸了，所以没放进去，至于最后那个丫字，我想了半天，还是放进去了，北京朋友说，丫字正确来说只能用在你后面，但管他丫的！）",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "在弹动，然后骤然弹起。\n　　两百余柄剑，瞬间化作两百余道剑光，破空而起，在青峡之前的原野上，在秋日的天空里，狂舞而起，如闪电般降落。\n　　直刺柳白！\n　　柳白眉头微蹙，再次横剑。\n　　……\n　　……\n　　剑能飞舞，依靠的是念力操控天地元气，然后驭剑，想要驭使的剑数量越多，对念力境界的要求成倍数增加。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，还是那些被他夺来的废剑。\n　　柳白身前像柴堆般散开的剑，还在弹动，然后骤然弹起。\n　　两百余柄剑，瞬间化作两百余道剑光，破空而起，在青峡之前的原野上，在秋日的天空里，狂舞而起，如闪电般降落。\n　　直刺柳白！\n　　柳白眉头微蹙，再次横剑。\n　　……\n　　……\n　　剑能飞舞，依靠的是念力操控天地元气，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "南方原野间观战的西陵神殿联军，看着剑光纵横的天地，震撼的无法言语，尤其是那些剑师更是脸色苍白，心想这还是人吗？\n　　……\n　　……\n　　柳白的剑势更强。\n　　他可以像君陌昨日对付那些修行者一样，用雄浑的念力强行夺取那些飞剑的控制权，就算不能全部成功，也至少可以收服大多数飞剑。\n　　但他不愿意为",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "即便到了他们这种境界层次，分神驭剑，已经不再是剑道大忌，但柳白相信君陌不会不明白简单与强大之间的道理。\n　　一切不合常理，必然都有合理的原因。\n　　叶红鱼昨日万剑齐发，是因为她要布下一座樊笼阵。\n　　君陌想做什么？还是说他什么都不想做，只是想用这种手段，让柳白进行更长时间的思考，甚至希望柳白能够",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "无法进入他的身前一尺。\n　　与别的人不同，柳白并没有被这幕炫丽的画面撼动心神，相反他有些不理解，君陌为什么要用这么多剑。\n　　就像君陌昨日不明白叶红鱼为什么要用这么多剑。\n　　即便到了他们这种境界层次，分神驭剑，已经不再是剑道大忌，但柳白相信君陌不会不明白简单与强大之间的道理。\n　　一切不合常理，必",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "难程度方面。\n　　当年春风亭雨夜一战，朝小树以洞玄境驭五剑杀敌，事后在修行界里引发了很长时间的议论，众人赞叹其天赋之余，也不免有些疑惑。\n　　现在朝小树已然入知命境久矣，能够驭使的飞剑数量，早已超过了五数，但正因为分神是剑道大忌，所以他很少使用这种手段。\n　　君陌今日却偏这样做了。\n　　群剑在青峡之",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "一剑便胜却万剑。\n　　他横剑于身前，毫不在意重复自已的招数。\n　　在天空与地面之间飞舞的群剑，便无法进入他的身前一尺。\n　　与别的人不同，柳白并没有被这幕炫丽的画面撼动心神，相反他有些不理解，君陌为什么要用这么多剑。\n　　就像君陌昨日不明白叶红鱼为什么要用这么多剑。\n　　即便到了他们这种境界层次，分",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "柳白横剑于身前，神色宁静。\n　　谁也不知道他手中的剑到底动过没有。看上去这把锈剑一直横于身前，安静不动。也有可能已经动了无数次。\n　　此时他身前的空中，密密麻麻悬浮着两百余柄剑，因为剑的数量太多，遮住天光，显得格外森然，甚至显得有些拥挤。\n　　这个画面真的很令人震撼。\n　　柳白收剑。\n　　空中",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "想要驭使的剑数量越多，对念力境界的要求成倍数增加。\n　　本命物是很困难的事情，修行界很少有修行者，会同时培养几个本命物，即便是洞玄境的大剑师，也只会驭使自已的本命剑。\n　　如果要强行分出心神，控制更多的飞剑，那是非常不智的选择，这种不智，更多是在于困难程度方面。\n　　当年春风亭雨夜一战，朝小树以洞玄",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

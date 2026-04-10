@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 118,
+  "chapter_title": "第一百一十八章 大黑伞的故事",
+  "filename": "ch_0118_第一百一十八章 大黑伞的故事.txt",
+  "char_count": 2143,
+  "timestamp": "2026-04-10T12:11:11.991715",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "们的目光，无论含着何种情绪，都隐藏着某种微妙的敌意。\n　　黑色逐渐侵袭至荒原上空，纯净的夜遮蔽了半边天空，就在这时，荒原之上传来一记轰隆雷鸣，瞬间传遍整个世界。\n　　荒原上很多人被轰鸣的雷声击倒在地，痛苦呻吟。还能站立的人们脸上的表情忽然间敛去，似没有生命的雕像般重新抬头来看天，去看那道雷声响起的地",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "信这一点，只是自己暂时还没有能力去发现，需要慢慢去摸索。\n　　昨天清晨那场战斗，如同这十年间那几场最危险的战场一样，在生死存亡的最后关头，他近乎本能般把自己的生命完全交给了身后的大黑伞，事实证明大黑伞没有令他失望，而他也同时发现了大黑伞的另一个秘密。\n　　能够让那柄来去无踪纵横掠行的飞剑失去所有威力",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "本能般把自己的生命完全交给了身后的大黑伞，事实证明大黑伞没有令他失望，而他也同时发现了大黑伞的另一个秘密。\n　　能够让那柄来去无踪纵横掠行的飞剑失去所有威力，能够令一位剑师凝聚毕生修为也无法突破，这已经超出了大黑伞原先展现出来的物理防御特质，而进入了另一种更奇妙的境界，宁缺甚至隐隐感觉到，大黑伞极有",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "桑搂进了怀里。\n　　啪的一声轻响，蒲扇落到了地面上。\n　　……\n　　……\n　　一轮光线黯淡的太阳悬在寂静的荒原上方，环境昏暗如夜晚将要来临，四周的温度很低，一片最纯洁最极致的黑色从远处蔓延而来，眼看着便要占据整个世界。\n　　荒原寂静不代表没有人，这里有很多人，各式各样的人。这些人没有抬头望天，而是看",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "那些大海之梦，是旅途中那个可怕梦境的延续，虽然清楚自己身在梦中，但他依然觉得浑身寒冷，仿佛荒原上这些人们的目光，无论含着何种情绪，都隐藏着某种微妙的敌意。\n　　黑色逐渐侵袭至荒原上空，纯净的夜遮蔽了半边天空，就在这时，荒原之上传来一记轰隆雷鸣，瞬间传遍整个世界。\n　　荒原上很多人被轰鸣的雷声击倒在地",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "在宁缺眼中，被紧紧束住的油腻伞面却开始渐渐释放出一种叫做神秘的气息，那股气息有些寒冷，待仔细看去却又瞬间消失不见。\n　　面对神秘的事物，人类本能里都会感到恐惧，然而这毕竟是一个充斥着天地元气，有着诸多神奇传说的修行世界，宁缺自身又是最神秘事件的当事人，再加上自幼和这把大黑伞相伴，用它遮风挡雨，用它作",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的光辉瞬间照亮整个夜空。\n　　高远的苍穹之上，在圣洁光辉最中心最明亮的位置，有一扇无比巨大的金色大门缓缓开启，隐隐能够看到一位巨大的黄金龙漠然探出龙首。\n　　雷声，即是开门声。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "死存亡的最后关头，他近乎本能般把自己的生命完全交给了身后的大黑伞，事实证明大黑伞没有令他失望，而他也同时发现了大黑伞的另一个秘密。\n　　能够让那柄来去无踪纵横掠行的飞剑失去所有威力，能够令一位剑师凝聚毕生修为也无法突破，这已经超出了大黑伞原先展现出来的物理防御特质，而进入了另一种更奇妙的境界，宁缺甚",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "失去所有威力，能够令一位剑师凝聚毕生修为也无法突破，这已经超出了大黑伞原先展现出来的物理防御特质，而进入了另一种更奇妙的境界，宁缺甚至隐隐感觉到，大黑伞极有可能克制修行者的能力！\n　　能够刀枪不如，能够水火不侵，还可以解释为黑伞的伞布是用某些珍稀材料制成，然而如果他的推断是正确的，那该用什么样的理由",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "一部分，哪里又能产生什么惧意。\n　　“你……究竟是个什么东西呢？”\n　　重伤未愈又遇着足以眩晕的惊喜幸福，再加了几杯酒水，宁缺困竟早起，看着大黑伞便入了梦乡，下意识里隔着薄薄的被单把桑桑搂进了怀里。\n　　啪的一声轻响，蒲扇落到了地面上。\n　　……\n　　……\n　　一轮光线黯淡的太阳悬在寂静的荒原上方，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

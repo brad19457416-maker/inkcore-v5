@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 231,
+  "chapter_title": "第一百七十章 静穆或疯狂的机甲（上）",
+  "filename": "ch_0231_第一百七十章 静穆或疯狂的机甲（上）.txt",
+  "char_count": 3446,
+  "timestamp": "2026-04-10T12:04:51.194431",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "战，既然如此，他怎么卖命？更令他有些吃惊的是，许乐此时操控机甲地表\n\n    他从来没有想像过，一个第一次真正接触军用机甲的人，竟然能够在如此短的时间内，将机甲操控到如此程度。\n\n    他知道许乐是个怪胎，是个机修方面的天才，在梨花大学里也接触过原型机，可他依然无法理解许乐如何做到的这一点。机战室",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "觉到一股巨大地推动力从身后臀下地附着垫上直接穿透进他地身躯。就像是从地面乘坐太空转接舱往太空里去那一刹那地感觉。只是这种推动力来地更为凶猛。震动更是大到一般人难以承受。\n\n    许乐对这种感觉并不陌生。在梨花大学区里。他曾经操控着原型机甲做了很多次机甲六级地测试。还和邰之源做过很多次对战。所以隔了",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "那是一间很普通的快餐店，许乐将工作台里藏着的那个附件，传到了沈秘书的随身电脑中，皱了皱眉头，说道：“以前我和邰之源有个约定，他答应我，会尽最大的努力不让那个人当选联邦副总统，但那小子却无声无息不知道跑到了哪里。”\n\n    “不用说些什么，我不会问你的，只是他既然不负责任地跑了，我总要做些事",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的保镖。沈离如今是邰夫人地大秘书，站在前台负责处理邰家与外部世界的沟通交流，邰之源远赴而沉寂，从某种意义上来说。沈秘书便等若是邰家在联邦中地代言人，他的安全，对于邰家来说，然是重中之重。\n\n    听到沈离的解释，许乐笑了笑，开始专心致志地消灭面前盘子里的四个酸盐大面包。没有带人的习惯。一方面是说明",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "了几道数据指令。在密闭地操作舱中。他没有听到机甲腰后部引擎所传来地强劲轰鸣声。但很清晰地感觉到一股巨大地推动力从身后臀下地附着垫上直接穿透进他地身躯。就像是从地面乘坐太空转接舱往太空里去那一刹那地感觉。只是这种推动力来地更为凶猛。震动更是大到一般人难以承受。\n\n    许乐对这种感觉并不陌生。在梨花",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "头盔里忽然传出了一个极为暴怒地声音，往常那个声音的主人。总是习惯轻声细语地说话，然后此刻。竟是如此地愤怒。许乐微微一怔，清醒了过来。却已经无法阻止机甲在猛地一挫身之后，右机械腿猛地上踢，沉重的机身顿时向着上方掠去，画出了一道漂亮地线条。\n\n    白玉兰端着一杯清茶，沉默地观看着机战室里的动静，内心",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "师的身上。\n\n    光滑坚硬的地板上被沉重的机甲刹车，了一长道火花青烟，白玉兰眼瞳微缩，不明白许乐为什么要突然做这个动作，紧接着他却发现黑色机甲在重挫之后，机身微微下沉，右机械腿却是抬了起来。\n\n    机甲格斗技！杀式跃起攻击！\n\n    白玉兰猛地站起，对着通话器吼道：“你疯了！ www.dx",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "很满意甚至有些吃惊那台的初次表现，他端着茶杯想到，许乐这个怪物现在所欠缺的只是与机甲之间的熟悉，和在无数次真实对战之中所培养出来的经验。\n\n    当然经验这种东西，也正是最关键的东西，就像开车一样，新手上路也能把汽车开动，像许乐这种神经粗的新手，甚至能把汽车开到二百码，但却无法像真正的赛车手那样，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "静地摆脱，变成一片幽静的青色油画，渐渐黯淡，快要看不清楚。许乐从白玉兰的手中拿了一把车钥匙，带着那个沉重的黑色皮箱，抓紧时间离开了白水公司，迳直去往了与沈秘书约好的地点。\n\n    那是一间很普通的快餐店，许乐将工作台里藏着的那个附件，传到了沈秘书的随身电脑中，皱了皱眉头，说道：“以前我和邰之源有个",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "不会也有对镜梳妆一般的宁静秀美然。\n\n    随着夕阳的不断下沉，院墙那边的联邦农场也开始从火海之中安静地摆脱，变成一片幽静的青色油画，渐渐黯淡，快要看不清楚。许乐从白玉兰的手中拿了一把车钥匙，带着那个沉重的黑色皮箱，抓紧时间离开了白水公司，迳直去往了与沈秘书约好的地点。\n\n    那是一间很普通的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "是划过大气层的暴烈流星，随时可以将这湛蓝的青天烧出一片焦糊的伤疤。他心头一动，再也难以控制心头的那份渴望，将脑海中那些联邦军方标准动作全部抛开。左手猛地一转操作杆，右手在触屏上一扫，在一秒钟内连续输入了四条数据指令。机甲腰后的引擎猛然倒车……\n\n    “你疯了！不要做这种动作！”\n\n    头盔里",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "愿意和许乐正面近身作战，既然如此，他怎么卖命？更令他有些吃惊的是，许乐此时操控机甲地表\n\n    他从来没有想像过，一个第一次真正接触军用机甲的人，竟然能够在如此短的时间内，将机甲操控到如此程度。\n\n    他知道许乐是个怪胎，是个机修方面的天才，在梨花大学里也接触过原型机，可他依然无法理解许乐如何",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "青色油画，渐渐黯淡，快要看不清楚。许乐从白玉兰的手中拿了一把车钥匙，带着那个沉重的黑色皮箱，抓紧时间离开了白水公司，迳直去往了与沈秘书约好的地点。\n\n    那是一间很普通的快餐店，许乐将工作台里藏着的那个附件，传到了沈秘书的随身电脑中，皱了皱眉头，说道：“以前我和邰之源有个约定，他答应我，会尽最大",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

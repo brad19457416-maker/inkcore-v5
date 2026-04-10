@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 484,
+  "chapter_title": "第二百八十八章 暗剑",
+  "filename": "ch_0484_第二百八十八章 暗剑.txt",
+  "char_count": 5255,
+  "timestamp": "2026-04-10T12:11:21.770306",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "道：“你知道我指的是什么。”\n　　大师兄说道：“书院不会承认。”\n　　叶苏寒声说道：“不承认不代表不存在。”\n　　大师兄缓声说道：“没有证据，那么只会徒惹烦恼。”\n　　叶苏深深地吸了口气，忽然说了句无头无尾的话：“夫子总有一天是会离开的。”\n　　大师兄未假思索，说出了一句话。\n　　这句话和当初宁缺回",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "向来不两立。\n　　西陵神殿的神术，毫无疑问便是魔宗功法的克星之一，是以叶红鱼悟神术之后，便被视为司责追杀魔宗余孽的裁决司理所当然的继承人。\n　　魔宗强者，最恐惧的便是圣洁的昊天神辉，是以书院小师叔囚禁莲生大师这等人物，也是用神辉拟出樊笼阵法。\n　　神术是昊天赐予道门的礼物，便是对魔宗的责罚，那些金色",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "一蓬金砂般的事物，狠狠地击打到夏侯的脸上！\n　　千年以降，道魔向来不两立。\n　　西陵神殿的神术，毫无疑问便是魔宗功法的克星之一，是以叶红鱼悟神术之后，便被视为司责追杀魔宗余孽的裁决司理所当然的继承人。\n　　魔宗强者，最恐惧的便是圣洁的昊天神辉，是以书院小师叔囚禁莲生大师这等人物，也是用神辉拟出樊笼阵",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "小山般拍向宁缺的头顶，神情漠然说道：“死吧！”\n　　……\n　　……\n　　今夜的夏侯身受重伤，实力不及巅峰时十之二三，但毕竟是武道巅峰强者，只有这些残存实力的他，竟然强大无比。\n　　以宁缺如今的实力能够硬扛夏侯的明枪，已然是极其令人震惊的画面，他的全副心神与所有的浩然气都灌注在朴刀之上，根本没有余力来",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的情绪变得有些异样。\n　　宁缺此时已经横掠数十丈，来到了雪湖之上。\n　　便在这时，夏侯微微蹙眉，在寒风中虚握着的右掌猛的一紧，崖上那柄铁枪猛地向后一缩，仿佛被大黑伞弹回到了空中。\n　　黝黑的铁枪刺破湖上飘着的残雪，刺破最细微的寒风，带着尖锐的鸣啸声，闪电般直刺宁缺的后背。\n　　尖锐的鸣啸是破风声，是",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "放光明，无数的金色光线从暗沉的刀身上喷溅而出，如暮色中长安城墙反耀的金光，又像是一轮突兀出现的太阳，瞬间把漆黑一片的雁鸣湖照耀的有若白昼！\n　　金色而圣洁的光辉，离开朴刀后，穿越寒冷的空气，化为一蓬金砂般的事物，狠狠地击打到夏侯的脸上！\n　　千年以降，道魔向来不两立。\n　　西陵神殿的神术，毫无疑问便",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "！\n　　一声极其明亮的脆响，伴着强劲的气流喷溅，从刀锋与枪尖之间向四周波散而去，震的冬湖上的积雪不停颤抖。\n　　宁缺手腕一阵剧痛，险些握不住手中的朴刀，但他以极其坚毅的心神，稳定住自己的身形，借着刀锋传回的反震之力，在夜风里转着圈，呼啸着再次向夏侯扑去，速度竟是比先前更快了几分。\n　　那柄铁枪在夜空",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "来，不差毫厘地砍中了枪尖，然后他的身体借势倒掠，却并不是被枪尖挑了出去。\n　　夏侯眯起眼睛，看着宁缺说道：“春天你在书院后山崖洞里闭关，果然不是符武双修，而是你……已经入魔。”\n　　宁缺向身前的雪地里吐了一口带血的唾沫，没有接话。\n　　先前夏侯便想明白了一半的答案，那个答案便是宁缺已然入魔，不然如果",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "请再接我一枪。”\n　　寒冷的声音渐行渐远，夏侯魁梧的身躯仿佛变成了一座真正的山，脚下坚实的湖冰骤然间出现一道极深的裂痕，隐隐可以看见湖水。\n　　雪湖终于开始荡漾起来，湖面上两个人的距离急剧缩小，夏侯手握铁枪，端直一刺，宁缺手腕一抖，一刀斩落。\n　　铁枪与朴刀再次相逢。\n　　感受着刀柄上传来的沛然莫御",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "知道夏侯最后的手段居然是道门的功法，更没有想到夏侯会有自己的本命物，但他的识海深处有莲生大师度过来的无数意识碎片。\n　　那些意识碎片便是精神烙印。\n　　夏侯一身魔宗功夫，尽数传承自莲生，莲生比谁都了解自己的这名弟子，虽然他不可能知道夏侯修行明枪时的情况，但他知道夏侯的性情喜好习惯甚至是双脚站立的方位",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "能杀死崖上的小侍女，连续两次不可思议的失手，让夏侯的情绪变得有些异样。\n　　宁缺此时已经横掠数十丈，来到了雪湖之上。\n　　便在这时，夏侯微微蹙眉，在寒风中虚握着的右掌猛的一紧，崖上那柄铁枪猛地向后一缩，仿佛被大黑伞弹回到了空中。\n　　黝黑的铁枪刺破湖上飘着的残雪，刺破最细微的寒风，带着尖锐的鸣啸声，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "玄上境的修为实力，根本没有办法提前预知夏侯明枪的运行轨迹，更没有办法应对这种恐怖的速度。\n　　但宁缺从来不是一个讲道理的人，他的人生遭遇和修行过程，仔细去思考，也着实没有什么道理可讲。\n　　就在铁枪距离他的后背还有三丈的时候，在尖啸声还没有传进他耳朵的时候，他再一次提前做了反应，浩然气灌注全身，于夜",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

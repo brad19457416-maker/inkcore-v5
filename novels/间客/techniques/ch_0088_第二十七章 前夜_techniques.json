@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 88,
+  "chapter_title": "第二十七章 前夜",
+  "filename": "ch_0088_第二十七章 前夜.txt",
+  "char_count": 3457,
+  "timestamp": "2026-04-10T11:53:35.150251",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "今天夜里邰之源没有来区，许乐等了很久也没有等到通话器里那个声音的响起。或许是对方不知道怎么回答自己的疑问？许乐皱着眉头。有些无奈地笑了起来，他确实很好奇对方的身份，但其实更多地还是担心他总以为自己与邹氏兄妹的无聊冲突，将孱弱的邰之源拖了进来，不知道对方的家族会不会出现什么麻烦。\n\n    沉默地思考",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "琪琪，到总经理室来一趟。”\n\n    通讯器里传出了一个温和的声音，好像是老板的，休息室里的姑娘们都紧张起来，看了白琪一眼。白琪苦笑了一声，也不知道出了什么事情，直接去了三楼。\n\n    三楼专属于老板的房间，白琪只是在签约的时候来过一次，今天晚上进来后，她却一眼看见一个满头花白的老人。平日里冷峻无",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "买一套房子，供自己和张小萌两个人住，但现在看来那个房间的女主人异常奇怪地突然改变了主意，所以他沉默而愤怒地订购了这套系统。\n\n    他不是那些女性。将手里地钱花干净。并不能让他低沉情绪好过一些。将像皮肤一样柔软、却比摔角选手还要沉重的拟真系统放到一旁，他拉开了双肩背包。取出了准备了好几个月的电子元",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "为什么，白琪紧张地回答了问题。\n\n    “我看过你的体检报告，是个很仔细地姑娘。”靳管家微微一笑，说道：“不要紧张，我只是来看看你。你还记不记得今天早晨的那位年轻人？”\n\n    “记得。”白琪愈发地紧张起来。\n\n    “那是我家少爷。”靳管家从礼服口袋里摸出一个信封。吩咐道：“所以从今天起。你",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "一眼看见一个满头花白的老人。平日里冷峻无比的老板，这时候却无比谦恭地在为那位老人倒茶。白琪微微一怔，心想不会是让自己报侍这个年纪老的大人物吧？\n\n    靳管家听到脚步声转过头来，像打量一件艺术品一样认真地将白琪从头到脚看了一遍。不知道什么时候，会所老板悄悄地离开，这个房间里就只剩下了白琪和靳管家两",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "着眉头。有些无奈地笑了起来，他确实很好奇对方的身份，但其实更多地还是担心他总以为自己与邹氏兄妹的无聊冲突，将孱弱的邰之源拖了进来，不知道对方的家族会不会出现什么麻烦。\n\n    沉默地思考了许久之后。许乐放弃了关于颈后芯片和区的思考，开始想起了这一年在梨花大学碰到地这些……朋友。\n\n    不知道为",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "不错。\n\n    不得不说。从小在偏僻而荒败的东林区长大的许乐，骨子里还是有一些隐隐的自卑，尤其当他来到首都星圈之后。那些建筑，那些实验室里的设备，那些人或那些事，都在提醒他，他其实还只是那个乡巴佬，哪怕他地机修实践课比那些正式的学生还要好，哪怕他那少的可怜地朋友，似乎都有一些很了不起的背景。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "第二十七章 前夜 \n\n    虽然有些担心那个年少温柔多金……坏透了的少年客人，白琪却不知道赵老板究竟有没有放过对方，因为当她们知道会所门口的枪击案时，警察已经到了。枪击案后，星辰会所只是停业了三个小时便又重新营业，不得不说，这间会所幕后的东家在临海",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "地意思。怔怔地望着老人。\n\n    靳管家停顿片刻后笑着说道：“希望你不要误会什么。我们不想操控你地人生。你可以自由地恋爱。那样地话。请你将这把钥匙退回来……如果你愿意在那个房子里等待少爷地到来。请你住进那间房子。”\n\n    靳管家地眉头微微一皱。说道：“不过我希望你地选择能够慎重而且长久一些。如",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "乐知道组装已经成功，脑子里却想着这句话。这一百万是大叔留给他的三林联合银行卡里的钞票，他本来准备留着将来买一套房子，供自己和张小萌两个人住，但现在看来那个房间的女主人异常奇怪地突然改变了主意，所以他沉默而愤怒地订购了这套系统。\n\n    他不是那些女性。将手里地钱花干净。并不能让他低沉情绪好过一些。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "但其实更多地还是担心他总以为自己与邹氏兄妹的无聊冲突，将孱弱的邰之源拖了进来，不知道对方的家族会不会出现什么麻烦。\n\n    沉默地思考了许久之后。许乐放弃了关于颈后芯片和区的思考，开始想起了这一年在梨花大学碰到地这些……朋友。\n\n    不知道为什么，他总有一种令自己心情低落的想法，就像以前和张小",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "里的钞票，他本来准备留着将来买一套房子，供自己和张小萌两个人住，但现在看来那个房间的女主人异常奇怪地突然改变了主意，所以他沉默而愤怒地订购了这套系统。\n\n    他不是那些女性。将手里地钱花干净。并不能让他低沉情绪好过一些。将像皮肤一样柔软、却比摔角选手还要沉重的拟真系统放到一旁，他拉开了双肩背包。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "第二十七章 前夜 \n\n    虽然有些担心那个年少温柔多金……坏透了的少年客人，白琪却不知道赵老板究竟有没有放过对方，因为当她们知道会所门口的枪击案时，警察已经到了。枪击案后，星辰会所只是停业了三个小时便又重新营业，不得不说，这间会所幕后",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "，又将自己折腾的如少女般无措的男生，想到对方最后在自己怀里甜甜睡去的脸，心情有些不安。但她只是一个在社会底层谋生的女子，除了四处打听一下之外，也不可能生出去帮助对方的心意。\n\n    她不习惯在专属于自己的休息间呆着，虽然那是她们这些高级妓女的专有待遇，可她总觉得那里太冷清了一些。正是许乐打了一中午",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "起来，看了白琪一眼。白琪苦笑了一声，也不知道出了什么事情，直接去了三楼。\n\n    三楼专属于老板的房间，白琪只是在签约的时候来过一次，今天晚上进来后，她却一眼看见一个满头花白的老人。平日里冷峻无比的老板，这时候却无比谦恭地在为那位老人倒茶。白琪微微一怔，心想不会是让自己报侍这个年纪老的大人物吧？",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "习惯成自然，他似乎又回到了东林区矿坑下的操作间里，低头沉默专注地修复着他能够修复的一切，在那个微观而安静，没有人打扰的世界里平伏自己的心情。\n\n    时间就在他专注的工作过程中渐渐消逝，他不知道外面的天快亮了，也不知道与区一墙之隔的梨花大学综合馆里，已经开始准备第二天的机甲表演，来自联邦第一军事学",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

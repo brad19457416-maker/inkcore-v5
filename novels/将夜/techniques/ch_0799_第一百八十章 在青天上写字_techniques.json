@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 799,
+  "chapter_title": "第一百八十章 在青天上写字",
+  "filename": "ch_0799_第一百八十章 在青天上写字.txt",
+  "char_count": 3401,
+  "timestamp": "2026-04-10T12:11:27.170289",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "高速飞翔，只用了极短的时间，便来到北方。\n　　朱雀飞到了皇宫之上。\n　　皇后娘娘牵着小皇帝的手，看着天空微微躬身。\n　　皇城角楼里，余帘挑了挑眉。\n　　朱雀飞越皇宫，降低高度，顺着朱雀大道，向南方扑去。\n　　这条世间最笔直宽阔的道路，是它的道路。\n　　朱雀在这条道路上，飞的无比迅疾，十余丈的火红羽翼",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "没有任何生气。\n　　朱雀绘像是惊神阵的杀符，拥有某种难以想象的灵性，当它自行运转时，都能拥有近乎知命巅峰强者最强一击的威力。\n　　千年之前，它被夫子亲手雕刻在朱雀大道的南方，镇守着这座伟大的都城，无数妖邪阴祟，在漆黑的深夜里被它悄然焚成灰烬。\n　　观主进入长安城，朱雀绘像有所感应，将要显形战斗之时，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "街面，腾空而起！\n　　朱雀千年未鸣。\n　　今日一鸣，能惊神否？\n　　朱雀展开十余丈的羽翼，破空而飞，瞬间来到长安南门。\n　　城墙高耸入云，青砖苍老。\n　　朱雀便飞翔在这片城墙之间。\n　　它挥动殷红的双翼，仿佛拖着两道火焰，紧紧依着城墙，高速飞翔，只用了极短的时间，便来到北方。\n　　朱雀飞到了皇宫之上",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "间流逝的速度，开始变慢。\n　　然后他的识海里响起观主的声音。\n　　“你的笔画写错了。”\n　　宁缺并不担心。\n　　因为除了佛祖之外，没有谁能够真正地操控时间规则。\n　　观主也不能，他纵使用大神通让时间变慢，但他也在变慢的时间之中，这也就意味着，无论铁刀落的再慢，总有到达的那一刻。\n　　他对观主说道：“",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "都城，无数妖邪阴祟，在漆黑的深夜里被它悄然焚成灰烬。\n　　观主进入长安城，朱雀绘像有所感应，将要显形战斗之时，却被观主一脚踩在了它的翅膀上，只是简单的一脚，它便不敢动弹。\n　　因为朱雀感知到了境界之间的差距，它感到了恐惧，所以它畏惧地低下曾经高傲的头，把自已埋在了寒雪之中，无颜见人。\n　　直到此时，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "烟。\n　　雪街上根本没有人能够反应过来。\n　　他们只听得一声清鸣，紧接着，便看到一片火影来到。\n　　人们来不及思考，即便是观主也来不及做出任何反应。\n　　待他看清楚飞临长街的是朱雀，不由露出嘲弄的神情。\n　　观主很少露出普通人的情绪，唯有对这只传说中的朱雀，他却从来无法压抑自已的嘲弄和轻蔑，即便是他",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，腾空而起！\n　　朱雀千年未鸣。\n　　今日一鸣，能惊神否？\n　　朱雀展开十余丈的羽翼，破空而飞，瞬间来到长安南门。\n　　城墙高耸入云，青砖苍老。\n　　朱雀便飞翔在这片城墙之间。\n　　它挥动殷红的双翼，仿佛拖着两道火焰，紧紧依着城墙，高速飞翔，只用了极短的时间，便来到北方。\n　　朱雀飞到了皇宫之上。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "主说道：“笔画写错了，不代表字也是错的。”\n　　观主的声音消失了片刻，然后再次响起。\n　　他的声音很感慨，情绪很复杂。\n　　“好字。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "街的是朱雀，不由露出嘲弄的神情。\n　　观主很少露出普通人的情绪，唯有对这只传说中的朱雀，他却从来无法压抑自已的嘲弄和轻蔑，即便是他自已都想不明白原因。\n　　大概是因为，这只朱雀是夫子留在人间唯一的东西。\n　　朱雀飞临雪街，双翼招展，炽热的火焰把空气都烧的噼啪作响。\n　　整个世界仿佛都变成了火红的颜色",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "的很想做成这件事。\n　　因为这是长安城里所有人的渴望，他想要完成这种渴望，所以他很认真地说出那句话，同时发出自已的召唤或者说请求。\n　　仿佛听到了他的召唤，长街南方忽然响起一声极为清亮的鸣啸。\n　　……\n　　……\n　　朱雀大道上风雪已消，积雪犹在。\n　　当年在春雨里曾经让宁缺和桑桑噤若寒蝉的朱雀绘像",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "楚飞临长街的是朱雀，不由露出嘲弄的神情。\n　　观主很少露出普通人的情绪，唯有对这只传说中的朱雀，他却从来无法压抑自已的嘲弄和轻蔑，即便是他自已都想不明白原因。\n　　大概是因为，这只朱雀是夫子留在人间唯一的东西。\n　　朱雀飞临雪街，双翼招展，炽热的火焰把空气都烧的噼啪作响。\n　　整个世界仿佛都变成了火",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "在湛蓝的青天上写字。\n　　大师兄也在看天。\n　　没有雪落下，他的眼睛却有些微湿。\n　　他看着天空默默说道：“老师，小师弟终于把那个字写出来了。”\n　　然后他深吸了一口气。\n　　雪街上没有任何变化。\n　　呼吸之间，就连落在积雪上的枯叶都没有颤动一丝。\n　　他的眼睛渐渐明亮。\n　　他身上的棉袄继续渗血。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

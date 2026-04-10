@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 947,
+  "chapter_title": "第一百二十章 痴",
+  "filename": "ch_0947_第一百二十章 痴.txt",
+  "char_count": 2224,
+  "timestamp": "2026-04-10T12:11:27.527865",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "其中。\n　　小院内，桑桑醒来。\n　　枝头那只黑鸦，怪叫一声，振翅而飞。\n　　她的目光随着黑鸦，落到了天空上。\n　　她觉得天空有些眼熟，很是好看。\n　　她看了很长时间，神情渐痴。\n　　痴，起于情。\n　　情爱里无智者。\n　　情不知所以。\n　　痴，便是愚。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "第一百二十章 痴\n　　愤怒来自不同，立场不同，姓名不同，生命本质的不同，豆花咸或者甜，粽子荤或者素，以及生或者死。\n　　“因为选择不同，便要起念杀人？你知道我很冷血，你杀唐人，会让我愤怒和心痛，但并不会让我改变主意。”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "了坛泡菜，里面塞满了浆豆嫩姜和青红两色的朝天椒，启盖时谁都会流口水。桑桑对他做的泡菜很满意，但不知道为什么，她还是最喜欢吃最简单的醋泡青菜头。\n　　他们经常出院散步，看湖上的落日，听寺里的钟声，把朝阳城逛了个遍，仿佛就像这座慵懒的城市般，也变得懒散起来。\n　　春雨如烟时，他们踏遍了传说中的七十二座寺",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "里，也正是那天，在柴房里，另一个管家拿着柴刀向你逼去，我的生死险些被人决定，你的生死也险些被人决定，最终你夺过了那把柴刀，而我活下来后，也不想再被别人决定自己的生死。”\n　　宁缺沉默片刻，说道：“是的，生死只能由自己决定。”\n　　桑桑说道：“我活着，便不想死去。”\n　　宁缺心里的愤怒渐渐变成惘然，他",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "第一百二十章 痴\n　　愤怒来自不同，立场不同，姓名不同，生命本质的不同，豆花咸或者甜，粽子荤或者素，以及生或者死。\n　　“因为选择不同，便要起念杀人？你知道我很冷血，你杀唐人，会让我愤怒和心痛，但并不会让我改变主意。”\n　　宁缺看着已成血海的菜场，看着菜摊周遭",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "主意。”\n　　宁缺看着已成血海的菜场，看着菜摊周遭的断肢残臂，说道：“你是人类选择的，没有人类你不会出现，你不能这样对待他们。”\n　　桑桑皱眉说道：“我醒来确实是人类的选择，难道就因为这样，我就要被人类决定生死？难道父母就能决定子女的生死？”\n　　宁缺说道：“没有人想你死。”\n　　她平静而坚定说道：",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "变成惘然，他不知道该怎样劝说她平静下来，她微微颤抖的双手能够杀人，她动念也能杀人。\n　　他走过血海，来到她身前，伸手握住她的手，把她轻轻拉进自己怀里然后紧紧抱住，在她耳畔难过说道：“我也不想你死。”\n　　桑桑的身体有些僵，然后渐渐变得柔软，有些笨拙地靠在他的肩头，因为体量差不多高的缘故，看着有些不协",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "站在岸边看着湖塔沉默不语，那种感觉始终挥之不散。\n　　便在这时，寺里响起晚课的钟声。\n　　这道钟声，同时在他的心里响起。\n　　佛钟可以清心，可以助信徒禅定，宁缺的识海深处有莲生的意识碎片，自然感应更为清晰，下意识里向禅寺深处走去。\n　　循着钟声，他来到白塔寺正殿前，只见槛内有数百名僧人正在虔诚颂经，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "吗？\n　　他笑着摇了摇头，轻拍怀里的桑桑让她醒来，然后牵着她的手，向菜场外走去，手里没有提米菜，却不担心回到小院里没有吃的。\n　　只要有情，饮水也饱。\n　　……\n　　……\n　　桑桑没有离开，她和宁缺继续在朝阳城里过着寻常的日子，躲着外间的风雨，在小院与菜场之间行走，在溪畔散步。\n　　宁缺负责做饭，桑",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“我宁愿自己死，也不想你死。”\n　　二人站在血海与残破的尸身间紧紧相拥，神情平静甚至有些神圣，无数极淡的光点像星辉般从他们身上飞舞而出，向四面飘去。\n　　光点落下，菜场地面上有些粘稠的血污渐渐变淡，直至淡至不可见，血水里的尸身也消失不见，仿佛得到了神圣的净化。\n　　菜场里再也闻不到刺鼻的血腥味",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "看着湖面和湖对岸的白塔，总觉得这里少了些什么。\n　　黑压压的信徒与游客渐渐散去，暮色渐浓，白塔寺渐趋安静，他站在岸边看着湖塔沉默不语，那种感觉始终挥之不散。\n　　便在这时，寺里响起晚课的钟声。\n　　这道钟声，同时在他的心里响起。\n　　佛钟可以清心，可以助信徒禅定，宁缺的识海深处有莲生的意识碎片，自然",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "人，会让我愤怒和心痛，但并不会让我改变主意。”\n　　宁缺看着已成血海的菜场，看着菜摊周遭的断肢残臂，说道：“你是人类选择的，没有人类你不会出现，你不能这样对待他们。”\n　　桑桑皱眉说道：“我醒来确实是人类的选择，难道就因为这样，我就要被人类决定生死？难道父母就能决定子女的生死？”\n　　宁缺说道：“没",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

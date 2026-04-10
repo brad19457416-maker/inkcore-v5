@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 989,
+  "chapter_title": "第一百六十二章 春风化雨，慈航普渡",
+  "filename": "ch_0989_第一百六十二章 春风化雨，慈航普渡.txt",
+  "char_count": 4359,
+  "timestamp": "2026-04-10T12:11:27.639975",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第一百六十二章 春风化雨，慈航普渡\n　　是的，这就是所有的真相。\n　　桑桑无法摆脱身体里的红尘意，于是她寻找佛祖，来到棋盘里的世界，在那个世界里与宁缺情根深种，便有贪嗔痴三毒深种。\n　　宁缺要救她，便要去她体内的贪嗔痴三毒，贪嗔痴就是情感，就是红尘意，修佛便",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "宁缺说道：“你的彼岸在哪里？”\n　　桑桑说道：“我出于神国，彼岸自然便在神国。”\n　　宁缺望向灰暗的天空，没有说话。\n　　桑桑向着南方某处伸手。\n　　城南数十里外是书院。\n　　被桑桑带出棋盘的青狮正在溪畔里与大白鹅对峙，鬓毛如剑竖起，不停低哮恐吓却不敢轻举妄动，不时望向远处的草甸。\n　　大白鹅就让它",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "春风化雨，慈航普渡\n　　是的，这就是所有的真相。\n　　桑桑无法摆脱身体里的红尘意，于是她寻找佛祖，来到棋盘里的世界，在那个世界里与宁缺情根深种，便有贪嗔痴三毒深种。\n　　宁缺要救她，便要去她体内的贪嗔痴三毒，贪嗔痴就是情感，就是红尘意，修佛便是毒，便是斩断她与人间的羁绊。\n　　书院没能算到这点，佛",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "它眯着眼睛看着春雨深处，忽然生出一些不舍。\n　　相似的画面，在人间各个地方发生。\n　　有修行者在雨中狂喜痛哭，苦修数十年都未能进入洞玄境的他，今天终于跨过了那道门槛，甚至有隐居深山的道门修行者一夕知命。\n　　重病的人得到救赎，悠悠醒来，将死的人得到救赎，不再痛苦，平静地回到神国，信昊天的，必有福报，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "忽然间，一道无形的力量破云门阵落到崖坪上，抓住青狮消失无踪，大白鹅昂首向天，发现再也看不到那个可恶的新来者，有些无趣地摇摇头，下溪洗澡去了。\n　　青狮出现在城墙上，出现在桑桑的手中，颈间的鬃毛被揪的生痛，它很担心会不会真的变成秃驴，却不敢有任何反抗的意思。\n　　桑桑对着城墙外挥了挥衣袖，便有清风降临",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。\n　　桑桑向着南方某处伸手。\n　　城南数十里外是书院。\n　　被桑桑带出棋盘的青狮正在溪畔里与大白鹅对峙，鬓毛如剑竖起，不停低哮恐吓却不敢轻举妄动，不时望向远处的草甸。\n　　大白鹅就让它觉得有些棘手，而草甸上还有只老黄牛在打盹，它很清楚，如果老黄牛睁开眼，那它就惨了。\n　　青狮非常不理解，为什么一出",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "有地方，各国里的数万座道观，无数道人都开始诵读这段人人耳熟能详的教典。\n　　春风缭绕山林，轻拂垂云，最终化雨，向着人间淅淅沥沥落下，那些雨水泛着金色的光泽，落到地面却是无比清澈。\n　　春雨落在桃山，湿了树林，深了桃花的颜色，落在天谕院偏僻处，堆在墙角里的一堆干柴也被打湿了。\n　　一名瘦弱的小道僮正在",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "生命气息，那是对人间的仁慈，所以惊神阵没有做出什么反应。\n　　小草在红袖招里睡了整整一天一夜时间，简大家把宫里的御医都请了过来，也没有瞧明白她究竟得了什么病――春雨落下时，她醒了过来，走到窗边倚栏而立，看着檐上落下的水珠，在心里默默说了声谢谢。\n　　曾静夫妇也在春雨的嘀答声中醒来，夫妻二人携手走到园",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的小道僮正在避雨，他是神殿里最不起眼的杂役，即便是如此重要的祭祀仪式，也没有人通知他，他是被人遗忘的存在。\n　　看着柴堆被雨水打湿，小道僮有些着急，以袖遮脸跑了出去，想要把那堆木柴搬进灶房里，哪里顾得上自己被雨淋湿。\n　　清澈的雨水落在他身上，变成了无数斑驳的金色光点，然后渗过脏肮的道袍，开始缓慢地",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "她的面说过，不会接受昊天的馈赠，但她想做些什么，他不想接受也不行。\n　　坑外荒原上，大黑马低着头拖着沉重的车厢，在残乱的胡杨林里行走着，忽然一阵春雨落下，打湿它的身体，所有的疲惫与孤单尽数消失。\n　　它眯着眼睛看着春雨深处，忽然生出一些不舍。\n　　相似的画面，在人间各个地方发生。\n　　有修行者在雨中",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的清风更加清净，更加柔和，拥有更多的生命气息。\n　　清风首先来到西陵神殿，山坳间盛开的桃花迎风招展，瞬间变得更加美艳，跪倒在崖坪和前坪上的信徒们，被清风拂面，顿时精神一振。\n　　不安、惶恐、悲伤、绝望等所有负面情绪尽数被净化一空，盲者觉得眼前的世界渐渐亮起来，聋者隐约听到了一些声音。\n　　那声音起于",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "老的容颜在雨水的冲洗下，以肉眼可见的速度变得年轻起来，那些大祭司的身体也被淡淡的金光包裹。\n　　国师缓缓闭上眼睛，跪在雨中，静静体会着雨水里的生命气息和那道深不可测的神威，内心恬静而充满敬畏。\n　　悬空寺也在落雨，君陌看着被雨水打湿的铁剑，微微挑眉。\n　　铁剑被雨水浸湿，变得更加黝黑，又镀上了一层光",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "有些无趣地摇摇头，下溪洗澡去了。\n　　青狮出现在城墙上，出现在桑桑的手中，颈间的鬃毛被揪的生痛，它很担心会不会真的变成秃驴，却不敢有任何反抗的意思。\n　　桑桑对着城墙外挥了挥衣袖，便有清风降临人间。\n　　那年光明祭时，人间也曾经迎来这样一道清风，只是与当年相比，今日的清风更加清净，更加柔和，拥有更多",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "书院的局，于不可能里见可能，这便是昊天的大智慧，也是宁缺的大沉痛。\n　　宁缺站在城上望春风，神情淡漠说道：“在朝阳城的小院里……看着我每天那么开心地买菜做饭，你是不是觉得很开心？我这辈子骂过很多人是白痴，我觉得他们真的很白痴，如今想来，我才是最蠢的那个白痴。”\n　　桑桑走到他身边，背着双手看着春风里",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "风降临人间。\n　　那年光明祭时，人间也曾经迎来这样一道清风，只是与当年相比，今日的清风更加清净，更加柔和，拥有更多的生命气息。\n　　清风首先来到西陵神殿，山坳间盛开的桃花迎风招展，瞬间变得更加美艳，跪倒在崖坪和前坪上的信徒们，被清风拂面，顿时精神一振。\n　　不安、惶恐、悲伤、绝望等所有负面情绪尽数被",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

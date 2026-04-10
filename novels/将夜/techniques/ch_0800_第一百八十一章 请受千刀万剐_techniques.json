@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 800,
+  "chapter_title": "第一百八十一章 请受千刀万剐",
+  "filename": "ch_0800_第一百八十一章 请受千刀万剐.txt",
+  "char_count": 3440,
+  "timestamp": "2026-04-10T12:11:27.171325",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "然后跌落尘埃。\n　　宁缺的刀，也终于到了。\n　　这把铁刀很黝黑，朱雀图案殷红无比。\n　　朱雀是知命巅峰全力一击的威力。\n　　而此时长安城里无数天地元气，经由阵眼杵进入宁缺的身体，再输送到铁刀之上，这一刀的威力，早已越过了五境！\n　　雪街之上飓风骤起。\n　　都是刀风。\n　　街上所有的杂物，都被这阵刀",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "合在一起，便是彩虹。\n　　长安城里出现了一道彩虹。\n　　彩虹的一端在雪街之上，拔地而起，直通极高远的天空，然后画了一道浑圆的弧线，落在城外不知何处。\n　　这道彩虹蕴藏着难以想象的威力，街面震动不安，青石板寸寸碎裂，站着的人们纷纷跌坐于地，残雪污水都被震成了粉末。\n　　观主的身影从雪街上消失，御风而飞",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "渺，竟就这样消失不见。\n　　只能听到风声，撞击声。\n　　无数锋利的刀锋破空声。\n　　天地元气生出无数危险的湍流，有些地方甚至发生了大尺度的扭曲。\n　　每一处扭曲，都像是一面镜子。\n　　有的镜子里能够看见刀。\n　　有的镜子里能够看见一道极淡的身影。\n　　有的镜子里能够看到一袭青色道衣。\n　　一片青衣碎",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "圆的弧线，落在城外不知何处。\n　　这道彩虹蕴藏着难以想象的威力，街面震动不安，青石板寸寸碎裂，站着的人们纷纷跌坐于地，残雪污水都被震成了粉末。\n　　观主的身影从雪街上消失，御风而飞，顺着这道彩虹来到天空里。\n　　天空很大，宁缺用朱雀刀写出来的那个字虽然也很大，却没有办法占据全部，给那道彩虹留下了足够",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "站着的人们纷纷跌坐于地，残雪污水都被震成了粉末。\n　　观主的身影从雪街上消失，御风而飞，顺着这道彩虹来到天空里。\n　　天空很大，宁缺用朱雀刀写出来的那个字虽然也很大，却没有办法占据全部，给那道彩虹留下了足够多的空间。\n　　他的刀还没有斩落，在青天上写的那个字还没有收笔。\n　　他的刀承载着千万人的渴望",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "那只手很干净，指甲剪的也很干净，没有血，没有泥垢。那只手很稳定，很坚定，就像弹琴时那样，没有丝毫颤抖。\n　　大师兄的手。\n　　在荒原上，桑桑被昊天神国召引，渐渐飘向天空，宁缺抱着她的腰，随她离开人间的时候，夫子站在地面，伸手握住了他的脚。\n　　伸手相握，是因为不想你离开。\n　　大师兄也不想观主离",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第一百八十一章 请受千刀万剐\n　　“我一直不明白为什么夫子会收你做关门弟子。虽然你连逢奇遇，很早便进了知命境，对于世间普通修行者来说，确实不凡，但莫要说李慢慢和君陌、林雾这三人，你连我儿皮皮都不如，有什么资格成为夫子在人间留下的最后痕迹？”\n　　观",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "正常。\n　　观主的手指在寒风中微微颤动，左手被余帘用蝉翼斩落了三根手指，此时张开双臂抱天，便只有七指出现在天穹之下。\n　　便是七道天启。\n　　磅礴的力量与宁静的清光落在雪街上，落在观主的身上，更准确的说是落在他的手指上，七道清澈的光线。\n　　清光落指，陡然发生变化，落在观主右手拇指上的清光变成了红色",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。\n　　他的刀还没有斩落，在青天上写的那个字还没有收笔。\n　　他的刀承载着千万人的渴望，这种渴望极为沉重。\n　　或许正是因为这种沉重，所以有些慢。\n　　而观主便要踏虹而去，去千里之外。\n　　此乃大神通。\n　　……\n　　……\n　　天空很大，真的很大。再了不起的禽鸟，也不可能飞越整片天空，再远的眼光，也",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "街上所有的杂物，都被这阵刀风卷起，向着观主砍了过去。\n　　街上的视线变得一片昏暗。\n　　观主的身影骤然淡渺，竟就这样消失不见。\n　　只能听到风声，撞击声。\n　　无数锋利的刀锋破空声。\n　　天地元气生出无数危险的湍流，有些地方甚至发生了大尺度的扭曲。\n　　每一处扭曲，都像是一面镜子。\n　　有的镜子里",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "夫子会收你做关门弟子。虽然你连逢奇遇，很早便进了知命境，对于世间普通修行者来说，确实不凡，但莫要说李慢慢和君陌、林雾这三人，你连我儿皮皮都不如，有什么资格成为夫子在人间留下的最后痕迹？”\n　　观主说道：“直到你此时写出了这个字，我才明白夫子终究就是夫子，除了与昊天为敌，他就没有做过错误的选择。”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "，陡然发生变化，落在观主右手拇指上的清光变成了红色，食指上的清光则变成了橙色，其余几根手指上的清光也同时变幻了颜色。\n　　红橙黄绿青蓝紫。\n　　七色的天光合在一起，便是彩虹。\n　　长安城里出现了一道彩虹。\n　　彩虹的一端在雪街之上，拔地而起，直通极高远的天空，然后画了一道浑圆的弧线，落在城外不知何处",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "留下了足够多的空间。\n　　他的刀还没有斩落，在青天上写的那个字还没有收笔。\n　　他的刀承载着千万人的渴望，这种渴望极为沉重。\n　　或许正是因为这种沉重，所以有些慢。\n　　而观主便要踏虹而去，去千里之外。\n　　此乃大神通。\n　　……\n　　……\n　　天空很大，真的很大。再了不起的禽鸟，也不可能飞越整片天",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "说李慢慢和君陌、林雾这三人，你连我儿皮皮都不如，有什么资格成为夫子在人间留下的最后痕迹？”\n　　观主说道：“直到你此时写出了这个字，我才明白夫子终究就是夫子，除了与昊天为敌，他就没有做过错误的选择。”\n　　此时街上雪屑如牵铅球，缓慢飘拂，时间依然行走的非常缓慢，宁缺听着识海里的声音，自然想起了如今依",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

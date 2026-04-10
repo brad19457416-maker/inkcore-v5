@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1027,
+  "chapter_title": "第三十六章 他和她的谈话（下）",
+  "filename": "ch_1027_第三十六章 他和她的谈话（下）.txt",
+  "char_count": 2203,
+  "timestamp": "2026-04-10T12:11:34.941514",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，她曾在长安城里雁鸣湖畔住过很长一段时间，那便是同生，也曾在魔宗山门里浴血，那便是共死。\n　　在神殿众人看来，裁决神座就算嫁给宁缺，也算不得什么出奇的事，至于这会如何惊世骇俗，想必不在这两个人的考虑范围之内，因为他们本就是惊世骇俗的人，做的是惊世骇俗的事。\n　　更令道门感到不安的是，如今神殿誓要消灭",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "感觉到稍微轻松了些，呼吸到了新鲜的空气。\n　　一道仿佛要毁天灭地的气息，从神殿深处生起，如海洋上的飓风一般，来到由贤和陈七身前，真正地扑面而至。\n　　就在此时，叶红鱼起身，站在了这道气息之间。\n　　神殿里的气氛随之一抑，变得异常紧张。\n　　数百名身着黑衣的裁决司执事，从人海里显身，如黑色的泡沫，拦在",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "都随着那些水消失不见。\n　　“他说破罐子就要破摔！犹豫不符合你的性格！”\n　　“他问你为何还不叛？你究竟打算何时叛？”\n　　“他说不管你什么时候叛，他一直在长安城等你！”\n　　到了此时，先前或者还有些恍惚，觉得自己听错了的神官执事，终于完全确认了宁缺那些话的用意。\n　　在桃山峰顶最神圣的道殿里，当着",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，一句寒喧。\n　　殿内的人们再次望向陈七，想知道他准备说些什么。\n　　被数千道冷漠的目光看着，陈七很紧张，却不仅仅是因为这数千道目光，而是因为接下来他所说的话，将有可能成为自己的墓志铭。\n　　“宁缺他说……”\n　　说到此处，陈七微微停顿，由贤恨不得自己昏将过去。\n　　陈七深深吸了口气，望着叶红鱼方向",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "如今的裁决神座，在还是道痴的时候，便和宁缺相识，这二人曾经誓不两立，但终究没能生死不两立，这二人曾经战斗过，也曾经并肩战斗过，她曾在长安城里雁鸣湖畔住过很长一段时间，那便是同生，也曾在魔宗山门里浴血，那便是共死。\n　　在神殿众人看来，裁决神座就算嫁给宁缺，也算不得什么出奇的事，至于这会如何惊世骇俗，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "缺做的事情，只是揭开了那层皮，但……他揭的如此狠厉，以至于殿内所有人都感到了一阵生痛！\n　　痛会带来愤怒，神殿里的人海拂起微波，神官执事们愤怒地逼向陈七和由贤，如黑潮红浪，滔天而至！\n　　数千名神官执事的意念，集结在一处，拥有难以想象的恐怖威力，陈七噗的一声吐血，脸色变得很是苍白。\n　　这时，叶红鱼",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "无数双目光落在陈七的身上，目光里充满了震惊不解。\n　　说完这句话，陈七只觉咽喉干的有些生痛，似乎瞬间失去了所有水分，然而事前所有的畏怯都随着那些水消失不见。\n　　“他说破罐子就要破摔！犹豫不符合你的性格！”\n　　“他问你为何还不叛？你究竟打算何时叛？”\n　　“他说不管你什么时候叛，他一直在长安城",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "音响彻殿内：“叛教者死。”\n　　这道来自掌教大人的声音，平静而充满无可阻挡的神威。\n　　叶红鱼平静，说道：“既然已经开始说了，何妨说完？听故事听到一半总是最痛苦的事情，听听何妨？”\n　　殿内数千名神官执事面面相觑，不知该如何办，难道今日道门真的会分裂，就因为宁缺在千里之外说了那几句话？\n　　掌教大人",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "间失去了所有水分，然而事前所有的畏怯都随着那些水消失不见。\n　　“他说破罐子就要破摔！犹豫不符合你的性格！”\n　　“他问你为何还不叛？你究竟打算何时叛？”\n　　“他说不管你什么时候叛，他一直在长安城等你！”\n　　到了此时，先前或者还有些恍惚，觉得自己听错了的神官执事，终于完全确认了宁缺那些话的用意。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "微轻松了些，呼吸到了新鲜的空气。\n　　一道仿佛要毁天灭地的气息，从神殿深处生起，如海洋上的飓风一般，来到由贤和陈七身前，真正地扑面而至。\n　　就在此时，叶红鱼起身，站在了这道气息之间。\n　　神殿里的气氛随之一抑，变得异常紧张。\n　　数百名身着黑衣的裁决司执事，从人海里显身，如黑色的泡沫，拦在了那些愤",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "等你做什么？虽然可以嫁，但自然不是等你来嫁，那便是等你来降，或者等你来归。\n　　庄严神圣的道殿本就极安静，此时更是变得死寂一片，只有那句话还在金色的光线里飘荡，飘进每个人的耳中。\n　　这是……在劝裁决神座背叛道门？宁缺真的敢这样想，这些唐人居然真的敢在神殿里这样说？他们都疯了吗？\n　　无数双目光落在",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

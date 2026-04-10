@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 81,
+  "chapter_title": "第二十章 天生总统",
+  "filename": "ch_0081_第二十章 天生总统.txt",
+  "char_count": 3430,
+  "timestamp": "2026-04-10T11:53:35.142209",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "叔，结果人生的轨迹已经被强行扭曲成了他从来不敢想像的模样。他颈后安装着联邦里唯一的伪造芯片，如果这个秘密被人发现了，他一定会知道生不如死这四个字是怎么写的。他所承载的压力其实也很大，只是他坚韧而乐观地面对着这一切，也这样开解对方。\n\n    邰之源微微一怔，自然不可能因为对方的几句话，便能让自己变得",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "么事儿，就给我打电话。”\n\n    邰之源的笑声停止，安静地看着走到房间门口收拾一地狼籍的许乐背影，心想这个电话大概自己永远也不会打。\n\n    “我已经和帕布尔议员见过面了，没有辜负你对他的欣赏，他和他的那个寒酸的幕僚班子确实拿出了一套很吸引人并且很有操作性的政治纲领和改革计划。”\n\n    小别",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "姓氏，许乐却总觉得像是在哪本书上看见过一样，他想了想，没想起来，便丢到了脑后，看着邰之源微白的脸认真说道：“既然身体不好，你还天天熬夜做什么？如果是失眠，那就更不能喝咖啡了。”\n\n    此时邰之源身体已经基本恢复了正常，他本不想和许乐接触，正准备离开的时候，却听到了这样诚恳的一句话，让他不禁微微一",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "“活着谁没压力呢？我刚才就觉得你年纪比我小，这时候知道你才十八岁，何必活的这么辛苦？压力这种东西，保存在心里就好，平日里该怎样过就怎样过。”\n\n    许乐这是在感慨自己的遭遇，他只是个想过正常日子的普通联邦少年，然而因为认识了大叔，结果人生的轨迹已经被强行扭曲成了他从来不敢想像的模样。他颈后安装着",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，一睁开眼却这是这样气势凌人，真是见了鬼了。\n\n    既然对方的身体没有什么问题，他也不像刚才那样紧张，一夜未眠的疲惫，梅园下的枯守辛苦全部涌进了他的身体，他忍不住轻轻吐了口气，瘫坐在了椅子上。微眯着眼睛看着对方，说道：“不想说话就不要说了，歇一会儿再出去。”\n\n    隔了很长的时间，邰之源似乎",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "这个姓邰的小子和张小萌一样，好像都有自虐的潜质，望着他很认真地说道：“总觉得这话不对，再如何了不起的将来，也不值得牺牲自己的健康，难不成你还想去当总统不成？”\n\n    邰之源微微一怔之后，用一种极可玩味的眼光盯着他，然后大声笑了起来，笑声的最后变成了咳嗽，一直咳个不停。\n\n    “疯子。”许乐在",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "己欠了许乐一个人情，而且他从对方的眼眸里很轻易地看出了真的……真诚，所以他微笑着坐在沙发上，不再急着离去。而许乐也极为敏感地发现这个瘦弱少年平静眼光似乎变得更温和了一些。只是这种温和依然是居高临下，从容不迫地那一种，有种拒人于千里之外的感觉，许乐并不怎么习惯。他皱着眉头说道：“既然不想去医院，要不要",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "酸的幕僚班子确实拿出了一套很吸引人并且很有操作性的政治纲领和改革计划。”\n\n    小别墅的光屏上，出现了一个妇人，这名妇人大约四十余岁，从背影上看风韵犹存，此时正穿着件居家服在阳台上晾晒被单。做着很寻常家务活的妇人，却像聊家常一样聊到了她与联邦政治新星，出自东林大区的帕布尔议员间的会面。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，邰之源的眉头微微一皱，不明白为什么自己好像潜意识里就很信任对方，看着许乐那张老实的脸，便说出了自己一向隐藏在内心深处的话语。\n\n    许乐没有什么震惊的表示，他只是耸了耸肩，早就猜到对方家世不凡，当然不会吃惊，只是他此刻怎么也想不到邰之源所说要继承的家业，是笔庞大到无比恐怖的家业。他只是安慰地说",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的政治纲领和改革计划。”\n\n    小别墅的光屏上，出现了一个妇人，这名妇人大约四十余岁，从背影上看风韵犹存，此时正穿着件居家服在阳台上晾晒被单。做着很寻常家务活的妇人，却像聊家常一样聊到了她与联邦政治新星，出自东林大区的帕布尔议员间的会面。\n\n    邰之源平静地看着光屏上的母亲，没有开口询问，因",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。许乐能分析出，自己能够进入。肯定是老板留给自己的伪装芯片有些问题，那对方呢？\n\n    邰之源没有马上回答他的问题，而是颇有趣味地打量着他，似乎想要看出许乐到底是一个什么样的人。\n\n    不值钱地宵夜不是问题，但是只吃了自己几块饼干。喝了一杯咖啡，便下定决心要做补偿，而且不厌其烦地坚持这么多天，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "天，你吃了我这么多东西，也算是朋友了，以后有什么事儿，就给我打电话。”\n\n    邰之源的笑声停止，安静地看着走到房间门口收拾一地狼籍的许乐背影，心想这个电话大概自己永远也不会打。\n\n    “我已经和帕布尔议员见过面了，没有辜负你对他的欣赏，他和他的那个寒酸的幕僚班子确实拿出了一套很吸引人并且很有",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

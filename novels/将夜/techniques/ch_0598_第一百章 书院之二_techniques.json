@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 598,
+  "chapter_title": "第一百章 书院之二",
+  "filename": "ch_0598_第一百章 书院之二.txt",
+  "char_count": 4349,
+  "timestamp": "2026-04-10T12:11:26.690870",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，把一个小纸团弹向空中。\n　　叶苏以为那是一张符，神情不变。\n　　然而当那个小纸团与他的剑意相触时，瞬间化为一道青烟，然后便是一道极为凛然的剑意，从里面迸发而出！\n　　那个小纸团不是宁缺写的符，是叶红鱼写给宁缺的信，纸上是她画的一柄剑。\n　　叶苏察觉到那股充满不甘的剑意，神情再变。\n　　两道剑意，在",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "无比！\n　　歧山大师吐血再喝：“去念！”\n　　宁缺再结一手印。\n　　此时，佛法大阵已破，被压抑多时的天空，终于回到了自然的状态中，秋雨自云中缓缓飘落，落在残破的古寺庭院之间。\n　　秋雨中，佛殿正对着的藏书楼，轰然垮塌。\n　　……\n　　……\n　　七念的脸上流露出极决然的神情，竟是毫不理会宁缺威力恐怖的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "手印！\n　　面对佛宗最浩翰力量的碾压，宁缺根本来不及射出第二箭，他也清楚就算射出元十三箭，也没有任何意义，因为七念这时候根本杀不死。\n　　便在这时，歧山大师大喝道：“无畏！”\n　　大师的断喝令宁缺瞬间醒来，想起在佛殿里参悟真言手印的漫漫长夜，本能里双手在身前合什，屈指结了道无畏真言手印，向着空中迎了",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "这样修行界顶峰的强者，想要杀死宁缺，也只需要很短的时间。\n　　这时候，就看宁缺能不能抵挡住对方必然是最强大的攻击，把这段时间撑过去。\n　　无论怎么看，这似乎都是无法完成的任务。\n　　此时七念的僧衣已然飘起，他的身体四周向空中扩展出了一道光圈，完全依循于他本人的身体形状，看上去就像是一个更大的七念。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "碎裂，他颀长的身影落在寺门上，寺门碎裂，当他的目光落在门后的石壁上，石壁碎裂。\n　　正如先前穿山越岭来到这座古寺，他依然选择走最直的路，最正的路，因为那就是最近的路，所以闯寺便真的变成了真闯。\n　　入古寺后，君陌没有走平缓却歪斜的石阶，没有绕过回复曲折的雨廊，他直接向着后寺走去，无论身前是寺门是石壁",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "袄，想要看到师兄那张温和的面容――佛光大阵既然破了，大师兄在毁掉十七座钟后，应该马上便会来救自己，可为什么他没有来？\n　　看着那道挟着无尽杀意的烟尘，正向着后寺而来，宁缺知道下一刻，便可能与二师兄相见，然而他却知道，这时候不能再犹豫，因为七念和叶苏，绝对不会犹豫，绝对不会让他和二师兄真的相逢。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "能马上来到自己身边，那么自己马上便要面临七念甚至还有叶苏的毁灭性攻击。\n　　他无比希望大师兄此时能够出现在黑色马车前，他非常想要看到那件旧旧的棉袄，想要看到师兄那张温和的面容――佛光大阵既然破了，大师兄在毁掉十七座钟后，应该马上便会来救自己，可为什么他没有来？\n　　看着那道挟着无尽杀意的烟尘，正向着",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "多，没能抓住。\n　　场间局势千变万化，就在所有人都警惕着破寺而入的书院大先生及二先生时，哪里想到，被众人忽视的宁缺却陡然发难，而且如此强悍！\n　　时间似乎过去了很久，但实际上从佛光大阵被破，到此时最多不过两息时间，最早落下的秋雨，都还没有落到地面上。\n　　黑色马车即将消失在清静佛光里。\n　　就在这时",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，同样强大无比！\n　　歧山大师吐血再喝：“去念！”\n　　宁缺再结一手印。\n　　此时，佛法大阵已破，被压抑多时的天空，终于回到了自然的状态中，秋雨自云中缓缓飘落，落在残破的古寺庭院之间。\n　　秋雨中，佛殿正对着的藏书楼，轰然垮塌。\n　　……\n　　……\n　　七念的脸上流露出极决然的神情，竟是毫不理会宁缺",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "宁缺再结一手印。\n　　此时，佛法大阵已破，被压抑多时的天空，终于回到了自然的状态中，秋雨自云中缓缓飘落，落在残破的古寺庭院之间。\n　　秋雨中，佛殿正对着的藏书楼，轰然垮塌。\n　　……\n　　……\n　　七念的脸上流露出极决然的神情，竟是毫不理会宁缺威力恐怖的佛门真言手印，带着不动明王法身，向着黑色",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 528,
+  "chapter_title": "第三十五章 霜叶红，黑骑至",
+  "filename": "ch_0528_第三十五章 霜叶红，黑骑至.txt",
+  "char_count": 3376,
+  "timestamp": "2026-04-10T12:11:26.547719",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "理会他，自抬头嗅枫树上的清香，骄傲想着，自己虽是憨货，也是书院的憨货，不说不食人间烟火，也要追求个餐风饮露的境界。\n　　桑桑的病有些重，体内的阴寒气息十分恼人，但不知道是神术修行有成，还是连日烈酒泡的缘故，即便发病，也不像长安城里那次一般可怕，只是病恹恹的看着没有什么精神，而且极容易感到疲惫。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "里做饭砍柴的不是她，而是他。\n　　感受到她的目光，宁缺回头望向室内，看着她微黑小脸上的疲惫神情，认真说道：“我不知道夫子为什么治不好你的病，但我相信他老人家的说法，烂柯寺里的长老一定可以，所以你不要担心。”\n　　桑桑轻轻嗯了一声。\n　　宁缺沉默片刻后，神情凝重说道：“如果在烂柯寺里有什么事情发生，你",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "体好。”\n　　桑桑低头沉默，过了很长时间也没有发出轻轻的一嗯。\n　　宁缺知道这个要求对她来说没有任何意义，如果自己真遇到什么危险，她哪里还会顾得上自己的身体，不由摇头无言。\n　　如过往十六年来那般，他永远无法战胜自己小侍女，无论在任何方面。\n　　歇息片刻后，桑桑的精神稍微好了些，透过门看着寺庙院内那",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，大概还有四天，便能到烂柯寺。”\n　　备着夜里生火取暖，宁缺抱来两大根粗柴，坐在门槛上，低着头劈着，心想黑色马车虽然舒服，终究还是免不了有些颠簸，后几日如果路上遇着好些的客栈，还是应该让桑桑多躺会儿。\n　　桑桑躺在僧床上，棉被盖着下半身，她看着忙碌的宁缺，忽然想到了很多年前的那些日子，那时候家里做饭",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "默，过了很长时间也没有发出轻轻的一嗯。\n　　宁缺知道这个要求对她来说没有任何意义，如果自己真遇到什么危险，她哪里还会顾得上自己的身体，不由摇头无言。\n　　如过往十六年来那般，他永远无法战胜自己小侍女，无论在任何方面。\n　　歇息片刻后，桑桑的精神稍微好了些，透过门看着寺庙院内那几株美丽的枫树，眼中流露",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "乎有些不敢相信自己的感知，说道：“全部是洞玄境……”\n　　然后她补充说道：“五个洞玄上境，有一个已至巅峰。”\n　　宁缺面色微沉，眼神依然平静，只是有些疑惑不解。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，正顺着三条山道高速前行。\n　　黝黑的骏马上的人们穿着黑色的道袍，通体的黝黑，仿佛是夜色在白昼里提前来到这个世界，充满了肃杀阴沉的味道。\n　　这些黑骑的速度快若闪电。\n　　马蹄踏碎道上的泥块，道袍撞碎细细的雨丝。\n　　宁缺隔窗而看，沉默不语，确认来不及离去。\n　　大黑马嘶鸣不安，烦躁地踢着地面上积着",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "而是他。\n　　感受到她的目光，宁缺回头望向室内，看着她微黑小脸上的疲惫神情，认真说道：“我不知道夫子为什么治不好你的病，但我相信他老人家的说法，烂柯寺里的长老一定可以，所以你不要担心。”\n　　桑桑轻轻嗯了一声。\n　　宁缺沉默片刻后，神情凝重说道：“如果在烂柯寺里有什么事情发生，你不要理会，尤其是神术",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，草色霜黄，被雨水秋风折磨的纷纷偃倒，本来就极佳的视野，变得愈发清楚。\n　　秋雨凄而不密，也无法遮挡人们的视线。\n　　只见十余黑骑，正顺着三条山道高速前行。\n　　黝黑的骏马上的人们穿着黑色的道袍，通体的黝黑，仿佛是夜色在白昼里提前来到这个世界，充满了肃杀阴沉的味道。\n　　这些黑骑的速度快若闪电。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的说法，烂柯寺里的长老一定可以，所以你不要担心。”\n　　桑桑轻轻嗯了一声。\n　　宁缺沉默片刻后，神情凝重说道：“如果在烂柯寺里有什么事情发生，你不要理会，尤其是神术，不能再用，你只要管着自己身体好。”\n　　桑桑低头沉默，过了很长时间也没有发出轻轻的一嗯。\n　　宁缺知道这个要求对她来说没有任何意义，如",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "秋雨凄而不密，也无法遮挡人们的视线。\n　　只见十余黑骑，正顺着三条山道高速前行。\n　　黝黑的骏马上的人们穿着黑色的道袍，通体的黝黑，仿佛是夜色在白昼里提前来到这个世界，充满了肃杀阴沉的味道。\n　　这些黑骑的速度快若闪电。\n　　马蹄踏碎道上的泥块，道袍撞碎细细的雨丝。\n　　宁缺隔窗而看，沉默不语",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "真说道：“我不知道夫子为什么治不好你的病，但我相信他老人家的说法，烂柯寺里的长老一定可以，所以你不要担心。”\n　　桑桑轻轻嗯了一声。\n　　宁缺沉默片刻后，神情凝重说道：“如果在烂柯寺里有什么事情发生，你不要理会，尤其是神术，不能再用，你只要管着自己身体好。”\n　　桑桑低头沉默，过了很长时间也没有发出",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "处刺张着。\n　　它这时候的情绪很暴躁。\n　　因为它确认了先前在雨中闻到的极淡的味道是血腥味。\n　　它从来没有闻过这般浓郁却又极为寒冷的血腥味，即便是在战场上都没有。\n　　……\n　　……\n　　秋雨中传来急促的马蹄声，应该还在山陵下方，相隔极为遥远，按道理没有办法听到，只是宁缺桑桑和大黑马能听的非常清楚",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

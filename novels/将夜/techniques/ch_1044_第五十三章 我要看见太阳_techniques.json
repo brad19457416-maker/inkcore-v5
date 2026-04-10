@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1044,
+  "chapter_title": "第五十三章 我要看见太阳",
+  "filename": "ch_1044_第五十三章 我要看见太阳.txt",
+  "char_count": 2211,
+  "timestamp": "2026-04-10T12:11:34.968300",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "说道：“真实是客观，不依心意而变。”\n　　叶苏指向身后地平线上那轮红色的朝阳，说道：“太阳每天都挂在天空里，落下之后又会再升起来，它可是客观的？”\n　　隆庆说道：“太阳自然是客观的。”\n　　叶苏微笑问道：“那你可曾看过它？”\n　　隆庆正准备应答，忽然皱眉不言，细细想来，他才明白这个问题的真义，生活在",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的那一天，太阳熄灭后，才会真正被人类看到吧。\n　　隆庆明白了叶苏这句话的意思，却不明白这段预言有什么意义，他眯着眼睛，看着天边的朝阳，沉默了会儿，然后摇了摇头。\n　　没有意义的事情不需要想太多，他现在要做的事情，是杀死叶苏，至于那段话是圣人的预言还是疯子的胡言乱语，同样没有意义。\n　　“你马上就会死",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "呢？昊天呢？是的，其实都是一样的道理，太过明亮，太过刺眼，便无法直视，看不到细节，便看不到全部，没有真相――如叶苏所言，只有永夜到来的那一天，太阳熄灭后，才会真正被人类看到吧。\n　　隆庆明白了叶苏这句话的意思，却不明白这段预言有什么意义，他眯着眼睛，看着天边的朝阳，沉默了会儿，然后摇了摇头。\n　　没",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，被骑兵们握在了手中，雪般的刀面，反映着新教信徒们惶恐不安的面容。\n　　隆庆举起右手，随着他的动作，人群外围的那些骑兵们举起长刀，寒刀如田野里的长草，杂乱却可怕，将要撕裂所有遇着的血肉。\n　　蹄声再起，沉重的战马，直接将前方的人群冲散，沉闷的撞击声里，不知多少新教信徒，骨断肉裂，广场上到处都是惨呼。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "皮皮扶着他，脸色苍白至极。\n　　十余名剑阁弟子，已经被冲散，汇入人群之中，与人数远超己方的敌人艰苦地战斗着，就像是与洪流抵抗的礁石，虽然坚强，却哪里能够挽狂澜？\n　　隆庆站在台下，只要向前再走十步，便能来到叶苏身前，但他什么都没有做，只是沉默地看着叶苏，让叶苏沉默地看着这些画面。\n　　今天或者不是新",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "陷入了沉思，这话有很多信息，这话莫名地令人沉迷。\n　　叶苏说的这句话，前面是预言，最后却是喜不自胜地感慨，他提到了传说中的永夜，对永夜做出了某种带着希冀的评说，这很令人不解。\n　　永夜是什么？在修行界古老的传说里，那是冥王入侵所带来的大灾难，随着桑桑降世，宁缺背着她逃难，夫子在荒原一剑斩金龙，传说早",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "群外围的那些骑兵们举起长刀，寒刀如田野里的长草，杂乱却可怕，将要撕裂所有遇着的血肉。\n　　蹄声再起，沉重的战马，直接将前方的人群冲散，沉闷的撞击声里，不知多少新教信徒，骨断肉裂，广场上到处都是惨呼。\n　　鲜血就像洪水一般四处横流，死亡就像随处可见的积雪，信徒们惊恐地四处逃散，那些来到广场的普通民众，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "多，他现在要做的事情，是杀死叶苏，至于那段话是圣人的预言还是疯子的胡言乱语，同样没有意义。\n　　“你马上就会死去，就算有那一天，你也看不到太阳究竟长什么模样，同样，听到你这句话的人，也会在随后的日子里死去，他们也很难看到。”\n　　隆庆看着叶苏面无表情说道，随着他的声音一道响起的，还有如雷雨般暴烈的密",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "新教从本质上来说，是要与昊天争夺信仰，是在毁灭昊天存在的根源，是道门的掘墓者，那么叶苏为什么会期待永夜的到来？\n　　“你……的永夜，究竟是什么？”隆庆看着叶苏问道。\n　　叶苏静静看着他，说道：“永夜就是永夜。”\n　　隆庆说道：“永夜就是黑暗。”\n　　叶苏说道：“也只有在永夜里，人们才能真正地睁",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "为什么会期待永夜的到来？\n　　“你……的永夜，究竟是什么？”隆庆看着叶苏问道。\n　　叶苏静静看着他，说道：“永夜就是永夜。”\n　　隆庆说道：“永夜就是黑暗。”\n　　叶苏说道：“也只有在永夜里，人们才能真正地睁开双眼，看到昊天一直不让他们看到的画面，那些是真实，我自然为之而喜悦。”\n　　隆庆想了想，说",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "到过的那些画面，那些画面里有叶红鱼，有叶苏，也有光明。当他跟随光明横扫人间，甚至连叶红鱼和叶苏都杀死以后，整个世界里便只剩下光明。\n　　就像那轮朝阳一样。\n　　绝对的光明就是绝对的黑暗，当年在幻境里，他便意识到了这一点，所以其后在荒原上，他才把最后的勇气放在北方的黑暗世界里。\n　　那么太阳呢？昊天呢",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "场上到处都是惨呼。\n　　鲜血就像洪水一般四处横流，死亡就像随处可见的积雪，信徒们惊恐地四处逃散，那些来到广场的普通民众，也不幸地被拖入这场悲剧。\n　　没有人能阻止惨剧的发生。\n　　叶苏看着这幕画面，举起手臂，想要让人们让开，却没有人能够看到，他张开嘴，想要说些什么，却发不出声音，就算能，也没有人能够",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第五十三章 我要看见太阳\n　　一片安静，此时此刻，无论昊天会不会发笑，广场上听到这句话的人都陷入了沉思，这话有很多信息，这话莫名地令人沉迷。\n　　叶苏说的这句话，前面是预言，最后却是喜不自胜地感慨，他提到了传说中的永夜，对永夜做出了某",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

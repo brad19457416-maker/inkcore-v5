@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 940,
+  "chapter_title": "第二百七十三章 天堂小院（中）",
+  "filename": "ch_0940_第二百七十三章 天堂小院（中）.txt",
+  "char_count": 3491,
+  "timestamp": "2026-04-10T12:05:26.943080",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "用毛巾擦拭汗水的大妈，心情激荡喊了声：“大妈，我回来了    苏珊大妈听到身后响起的声音，有些疑惑，心想真的是年纪大了，不然怎么会听到小时候才有机会听到皇族发音，她自嘲地笑了笑，将手里已经泛黄的毛巾扔到机井边的木盆中，下意识回头望了一眼，身体便僵硬在原地，宽大的手掌扶在粗壮的腰身上，忘了拿掉。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "马上离开，不然说不定我呆会儿就去报警。”\n\n    许乐太了解这位善良的大妈，毫不在意地笑了笑，耸肩说道：“大妈，我当然不是联邦人，呃，这是我妹妹。”\n\n    他把身后仍然处于半呆滞状态的钟烟花拉了出来。\n\n    苏珊大妈打量着这个漂亮可爱的少女，不知道基于什么理由，满意地点了点头，然后用力一拍",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "孩子？”\n\n    许乐这时候正倚在门边，四处打量着曾经无比熟悉的厨房，胸腹间全是温暖与放松的情绪，骤然间听着这个问题，紧张地站直身体，解释道：“您别误会，她真是我妹妹。”\n\n    “我又不是瞎子。”苏珊大妈没好气地瞪了他一眼，说道：“你怎么可能有这么好看的亲妹妹。”\n\n    许乐无言以对，心想",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "麻烦的事情，也是件很让我骄傲的事情，现在薪酬不错，只是这孩子把每个月津贴的三分之二都寄了回来，我有些担心他在前线吃不饱饭。”\n\n    那个善良热血的帝国年轻人，真如自己当年惧怕的那样，走上了充满死亡杀戮的战场，许乐的心情不禁有些黯淡，强行堆出笑容，对苏珊大妈说道：“部队花销极少，这些问题不用担心。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "因为这次亲吻，苏珊大妈似乎想起了一些什么，脸上的表情顿时变得极为紧张，扭动着臃肿的身躯如一阵飓风般冲到门口，像护犊子的母狮子一样，警惕地看了两眼院门外的小巷，注意到没有人经过。\n\n    紧紧关上门，插好铁棒，她才真正放松下来，像擂鼓一般重重地拍打着胸脯，回头看着许乐的脸，搓着粗糙的手指，粗声",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的剩菜盘里，只有一双筷子，疑惑问道：“保罗呢？他应该前年就从第二大学毕业了，现在在哪个部门工作，平时难道不回来陪您？”\n\n    苏珊大妈从柜子里取出一盘果仁，和善地推到钟烟花面前，回头看着许乐解释道：“保罗上前线了，说起来这还真是件很麻烦的事情，也是件很让我骄傲的事情，现在薪酬不错，只是这孩子把每",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "（抱歉，我高估了自己的恢复能力，有些累和糊涂，三章完不成了，今天就两章，明天两章保底，呃，说声谢谢大家体谅，真诚的。　小＿说t-x-t＿天/堂",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "狠地在她额头上亲了一口。\n\n    因为这次亲吻，苏珊大妈似乎想起了一些什么，脸上的表情顿时变得极为紧张，扭动着臃肿的身躯如一阵飓风般冲到门口，像护犊子的母狮子一样，警惕地看了两眼院门外的小巷，注意到没有人经过。\n\n    紧紧关上门，插好铁棒，她才真正放松下来，像擂鼓一般重重地拍打着胸脯，回头看着",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "许乐的后脑勺，说道：“那还愣着干什么，带小丫头进来喝茶。”\n\n    两杯淡茶，热气蒸腾，房间里十分温暖，苏珊大妈自然关心这些年他去了哪里，做了些什么事，许乐却发现自己根本无法回答这个问题，不禁有些惭愧。\n\n    因为惭愧，所以目光有些飘移，他的余光意到，小桌上用纱伞笼住的剩菜盘里，只有一双筷子，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "乐捂着辣痛的额头，愁苦说道：“这是真话。”\n\n    “公主殿下虽然是好人，但她是高高在上的贵人，你以后可别拿她开玩笑。”\n\n    苏珊大妈严肃认真说道：“她来过小院后，治安署的家伙再也不敢收我的钱，而且她还一直不允许保罗参军上前线，直到去年，保罗去军部闹了好多次，才趁着殿下不在天京星的空子，偷偷",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "顿了顿后，苏珊大妈尽可能让自己的表情显得凶恶一些，右手扶腰，低声恐吓道：“如果你是联邦人，就马上离开，不然说不定我呆会儿就去报警。”\n\n    许乐太了解这位善良的大妈，毫不在意地笑了笑，耸肩说道：“大妈，我当然不是联邦人，呃，这是我妹妹。”\n\n    他把身后仍然处于半呆滞状态的钟烟花拉了出来",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第二百七十三章 天堂小院（中） \n\n    贫民区这间小一院最与众不同的地方，不是难得的安静，而是罕见的干净，同样简朴的院门上斑驳一片，却没有这片街区常见的泥点和脚印，许乐快速伸出一只手掌，挡在正准备关闭的院门上，望着院里那位正在用毛巾擦拭汗水的大妈，心情激荡喊了声：“大妈，我回来了",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

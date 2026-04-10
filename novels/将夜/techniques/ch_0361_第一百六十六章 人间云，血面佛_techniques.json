@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 361,
+  "chapter_title": "第一百六十六章 人间云，血面佛",
+  "filename": "ch_0361_第一百六十六章 人间云，血面佛.txt",
+  "char_count": 3417,
+  "timestamp": "2026-04-10T12:11:21.727189",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "天地间却响起了一道佛偈，单音节的两个字，含义未明，却雄浑苍远。\n　　满天石砾落下，暴烈如雨，砸向大地。\n　　宁缺抬头看天，看着土石皆来，不知该如何应对。\n　　满天石砾如雨，落在他的身上，落在他的脸上。\n　　真实的身体的痛苦，清晰地传入他的识海，让他意识到自己的身体每一处，体内的脏腑，都在承受着天",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "异国僧人，也没有人注意到书院后山有两位先生出现在人世间，甚至没有人发现街畔此时正在展开一场沉默而惨烈危险的决斗，街畔嘈杂热闹依旧，所以平静喜乐。\n　　这已经不是身在红尘中，意在三界外。\n　　而是以禅动念，在苍生之前修了道铁门槛。\n　　陈皮皮没有想到这名来自白塔寺的无名中年苦行僧，居然禅念的境界强大到",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "溪神指，便要依着书院不器意袭向中年僧人。\n　　然而这时候发生了一件事情。\n　　那件事情让陈皮皮愣了一瞬间。\n　　而精神世界战斗的胜负，往往只需要一瞬间。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "解决近身威胁，并不违反决斗的规矩。\n　　陈皮皮不知道宁缺对修行世界规矩的了解程度近似于白痴，他并没有愤怒于白塔寺两名僧人对宁缺一人，他蹙眉的原因和那名干瘦武僧的出手无关，而是因为街畔那些神色如常的行人和市景。\n　　孩子还在开心地撕着被大肉包子热气薰软的湿纸。\n　　包子铺里的男人还在那里很居高临下冷漠",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "佛宗弟子会使用这种大违佛门慈悲意的手段。\n　　中年僧人挖血涂脸之时，陈皮皮马上便反应了过来，无比震惊心想此人与小师弟究竟有何仇怨，竟是要置他于死地！\n　　值此危险时刻，身为书院弟子，哪里还管得了什么规矩。\n　　他身上那件宽大的院服无风而飘，振荡若旗。\n　　食指微屈，那记天下溪神指，便要依着书院不器意",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "地元气对修行者肉身发起的直接攻击，居然这样都无法伤到对方！\n　　如此恐怖的肉身强度，而且明显不是武道巅峰强者护体真气所形成的防御，那么只有一种理由，那个理由便是中年僧人震惊和杀念的来源。\n　　中年僧人双掌本来合什，此时渐渐分开。\n　　他左手食指向下一抠，从右掌心里生生挖出一个血洞。\n　　然后他面无表",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "刀斩碎，而是被如山般的刀生生碾碎！\n　　……\n　　……\n　　包子铺里热腾腾的蒸汽，被端着包子挤出来的人群和微风鼓荡着来到街上。\n　　那些白色的蒸汽，笼罩着中年僧人和宁缺的身体。\n　　仿佛云端，骤然不在人间。\n　　宁缺松开右手，柴刀自手中滑落，落在地面上，发出一声轻响。\n　　他闭着眼睛站在人间的云海里",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "醉便不再去。\n　　合什的双掌缓慢而坚定地靠拢在了一起。\n　　街上的蒸汽流云渐宁。\n　　中年僧人终于也缓缓站稳了身体，没有倒下。\n　　……\n　　……\n　　孤坟被宁缺一刀碾压成无数石砾，漫天飞舞。\n　　石雨之后的空中浮现出一尊数十丈高的巨大石佛。\n　　石佛面容慈祥，神态慈悲，睁着的双目间却似乎有雷电正在",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "种大违佛门慈悲意的手段。\n　　中年僧人挖血涂脸之时，陈皮皮马上便反应了过来，无比震惊心想此人与小师弟究竟有何仇怨，竟是要置他于死地！\n　　值此危险时刻，身为书院弟子，哪里还管得了什么规矩。\n　　他身上那件宽大的院服无风而飘，振荡若旗。\n　　食指微屈，那记天下溪神指，便要依着书院不器意袭向中年僧人。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "便戛然而止，变成了热闹的哄抢。\n　　没有人注意到街畔的两名异国僧人，也没有人注意到书院后山有两位先生出现在人世间，甚至没有人发现街畔此时正在展开一场沉默而惨烈危险的决斗，街畔嘈杂热闹依旧，所以平静喜乐。\n　　这已经不是身在红尘中，意在三界外。\n　　而是以禅动念，在苍生之前修了道铁门槛。\n　　陈皮皮没",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "对身前之人的悲悯与愤怒。\n　　悲悯与愤怒似乎是无法相容的两种情绪。\n　　却在这尊石佛脸小得到了完美的同时展现。\n　　悯其不幸也，怒其不争也。\n　　石佛的嘴唇紧紧抿着，像是一道线，一道用刻刀雕出来的浅浅的线，似乎数千数万年都不曾张嘴说过话。\n　　宁缺看着这道线，想起了白衣少女那双薄若红线的好看的唇。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "铁门槛。\n　　陈皮皮没有想到这名来自白塔寺的无名中年苦行僧，居然禅念的境界强大到了这种程度，不由开始担心起宁缺来。\n　　……\n　　……\n　　宁缺向后飘退数步。\n　　千里之外的那座孤坟，在他眼中反而变得愈发清晰。\n　　坟体是由普通青石粘土修砌而成，看不出有什么特异之处，但先前被他一刀狠狠斩下，上面竟是",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "深，最深处却有一抹灼热的光辉开始凝聚燃烧，那抹灼热的光辉是震惊是愤怒是杀念。\n　　他没有想到书院宁缺从来不以念力著称，却拥有如此雄浑的念力，在自己用念力攻击对方诲识海时，竟能如此轻易地化解掉千里孤坟的寂清意。\n　　然而更令他感到震惊的是，精神世界里的满天石雨，是他用念力控制的天地元气对修行者肉身发起",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "山般的刀生生碾碎！\n　　……\n　　……\n　　包子铺里热腾腾的蒸汽，被端着包子挤出来的人群和微风鼓荡着来到街上。\n　　那些白色的蒸汽，笼罩着中年僧人和宁缺的身体。\n　　仿佛云端，骤然不在人间。\n　　宁缺松开右手，柴刀自手中滑落，落在地面上，发出一声轻响。\n　　他闭着眼睛站在人间的云海里，站在人间沉默不",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

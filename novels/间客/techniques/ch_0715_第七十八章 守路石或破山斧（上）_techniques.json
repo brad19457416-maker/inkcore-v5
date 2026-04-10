@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 715,
+  "chapter_title": "第七十八章 守路石或破山斧（上）",
+  "filename": "ch_0715_第七十八章 守路石或破山斧（上）.txt",
+  "char_count": 3511,
+  "timestamp": "2026-04-10T12:05:17.562810",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "老父，心想许乐的归来居然惊动了他，心情难，免觉得有些异样。\n\n    坐在黑色圈椅中的干瘪老头，毫无疑问是真正意义上的联邦寡头。\n\n    故旧传说中只有君王才能称寡。因为天下无双。和那些经常出现在新闻媒体上的所谓金融大势比起来。执掌铁算利家数十年，暗中把控联邦金融秩序、只有连续数任总统才有资格做对",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "以含笑闭上了眼睛。”\n\n    “今天，我在这里代表特特区日报全体同仁欢迎许乐上校的归来，并不是要用喧嚣的喝彩声去欢迎一段传奇，一位英雄，只是想真诚地欢迎一位值得联邦信赖的人回到我们的中间。”\n\n    “联邦，欢迎守路石的归来。”\n\n    “宪历七十一年冬，鲍勃写于某场沉默的新闻布会之后。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "民众果然不出所料地遗忘了很多刚刚过去不久的事情。在这种时候。许乐上校的归来，至少对我个人而言有更多的意义。”\n\n    “这是一个普通的小眼睛男人。但他又太不普通，我不知道他拥有怎样的童年经历，竟是从来不曾被大局的名义压迫着向黑暗低头，从来不曾被胜利的理由欺骗的内心摇晃，我更疑惑的是，为什么他的字典",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "中曾经出现过的那些人物一样，来自普通的民众，像块普通的毫不起眼的石头，却因为心中坚定的理念而紧紧附着大地，平日就在道路旁边安静的注视来来往往的人样，而若有人想从道路旁边穿过去，试图将他踢走，便会被他这块石头狠狠地砸伤脚趾。”\n\n    “正因为如此，联邦的mx机甲上刻下了沈裕林教授的名字；正因为如此",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "晃，我更疑惑的是，为什么他的字典里没有妥协、平衡、利益交换这些词汇？”\n\n    妥协，平衡，在这个社会里似乎成为了某种美德，但是谁能告诉我。究竟是谁在向谁进行妥协？我们为什么要妥协？这个在光幕上不怎么爱说话的普通男人，用他的行动提醒我们，面对着帝国的侵略者，面对着联邦内的食腐者，联邦民众已经妥协了",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "归来，他居然能做出这样一篇文章，直指当前问题的核心。”\n\n    利修竹望着难得前来总部视察的老父，心想许乐的归来居然惊动了他，心情难，免觉得有些异样。\n\n    坐在黑色圈椅中的干瘪老头，毫无疑问是真正意义上的联邦寡头。\n\n    故旧传说中只有君王才能称寡。因为天下无双。和那些经常出现在新闻媒体",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "“欣赏一个人其实就是欣赏某种态度，我欣赏许乐上校，就是欣赏这种不妥协的态度，他就如同历史长河中曾经出现过的那些人物一样，来自普通的民众，像块普通的毫不起眼的石头，却因为心中坚定的理念而紧紧附着大地，平日就在道路旁边安静的注视来来往往的人样，而若有人想从道路旁边穿过去，试图将他踢走，便会被他这块石头",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "现出一丝笑容。\n\n    “做为总统先生最信任的媒体喉舌，鲍勃在麦德林专案时就挥过极重要的作用，我也一向很欣赏此人敢言敢恨，与那些报纸鹤鸩完全不同的作风，但真没有想到，就许乐的归来，他居然能做出这样一篇文章，直指当前问题的核心。”\n\n    利修竹望着难得前来总部视察的老父，心想许乐的归来居然惊动了",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "说句话，整个联邦经济会因此倒退数百年……\n\n    然而如果军队的强硬派，某一天真的了疯，试图清洗七大家的话。那些沉重冰冷的机甲和骁勇的士兵，想必已经红了双眼，不会顾虑到这些数字方面的问题。\n\n    “军方……就算那些强硬派疯，但他们背后的人总是清醒的。”利修竹声音微颤说道：“更何况，我们……还有",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "么忽然转到了自己竞争家主的最大对手身上，惊疑不定地看着那张苍老的脸，强忍着没有问。\n\n    “不用担心，自从遇到许乐之后。你终于学会了接受失败，这几年表现的相当不错，暂时还领先于你的弟弟。”老人温和说道：“我欣赏孝通，是因为他比我更早现了许乐的价值，我建议你在任何孝通与许乐交往的项目上，给予全方位",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "”\n\n    “我很担心许乐的能力。”利修竹眼眸里的明亮渐渐消失，神情凝重说道：“他太年轻，没有办法进入军方高层，而且最关键的是，费城方面一直没有对他表示出坚定的支持。”\n\n    听到费城两个宇，圈椅中的干瘪老头脸上闪过一抹复杂怪异的神情。似乎有些害怕，似乎有些悲伤，又似乎有些解脱ＷＷＷ.xiＡo",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "一样，来自普通的民众，像块普通的毫不起眼的石头，却因为心中坚定的理念而紧紧附着大地，平日就在道路旁边安静的注视来来往往的人样，而若有人想从道路旁边穿过去，试图将他踢走，便会被他这块石头狠狠地砸伤脚趾。”\n\n    “正因为如此，联邦的mx机甲上刻下了沈裕林教授的名字；正因为如此，那位满头白的议员才不",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "用来杀人的，用死亡来终结一切**，谁能抵抗？”\n\n    利修竹觉得自透明穹顶射下的冬日暖阳根本无法温暖自己的身体。感到寒冷阵阵地袭来，从帝国离队星走私而来的昂贵丝质内衣，被冰粒般的汗水浸泡。\n\n    身为三林联合银行总裁，他非常清楚家族植根于联邦社会之中的庞杂根系，甚至有时候会忍不住生出无限赞叹",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "小老头，不称寡头还能称什么？“都特区日报头版字体临时调整，就为了放鲍勃这一篇政论。”利修竹思考片刻后说道：“鲍勃这篇文章写的有些散，和他以前犀利的政论比起来，差的有些多。”\n\n    “错。”利缘宫老人用沙哑晦沉的声音说道：“这篇文章明显没有总统官邸的授意，鲍勃自己只知道联邦有问题，却根本不知道问题",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

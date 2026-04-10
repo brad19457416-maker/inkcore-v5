@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 1040,
+  "chapter_title": "第三百五十四章 飞越疯人院（上）",
+  "filename": "ch_1040_第三百五十四章 飞越疯人院（上）.txt",
+  "char_count": 4797,
+  "timestamp": "2026-04-10T12:05:26.962223",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "直播画面的市民们纷纷走上丵街头，挤在道路两侧挥舞着手臂，高声呼喊着她的姓名，那些始终怀缅钟司令的中年人们甚至激动的流下了眼泪。\n\n    骑着自行车的学生们和顽皮的孩童，跟着车队一路向前奔跑，有胆子大的高声喊道：“小公主我爱你！”\n\n    钟烟花放下车窗，向欢迎自己的民众们挥手示意，挥舞手臂的动作",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "悲情如此，那么无论是调西林部队前往左天星域前线，还是任何正常政策，只要出自联邦政丵府，民众都会愤怒的认为这肯定是阴谋，是对西林的打压。\n\n    悲情无转换成力量，失去主心骨的西林民众们也只能在酒后发发牢骚，对着夜空中首都星圈的方向骂几声脏话，却无做任何事情……直到今天。\n\n    他们的小公",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "大机身笨拙前倾行礼，欢迎公主的归来。\n\n    钟烟花看着草原上的钢铁部队，看着擅抖的摄像机镜头微笑说道：“我回来了，这些年辛苦大家了。”\n\n    离开三年的钟烟花回到西林，所享受的待遇和那位兄长完全不同，她不需要像许乐那样如老鼠般偷偷摸摸单身穿行原野，小心翼翼联络自己的属下。\n\n    她是钟家",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "拼命鸣笛表示最热情的欢迎。\n\n    在一路几乎没有停歇的尖锐鸣笛声中，钟烟花乘坐的车辆在重兵保护下进入落日州州府，进入城丵市之后，气氛变得更加热烈。\n\n    看到新闻直播画面的市民们纷纷走上丵街头，挤在道路两侧挥舞着手臂，高声呼喊着她的姓名，那些始终怀缅钟司令的中年人们甚至激动的流下了眼泪。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "堪，但他的脸上甚至整个身躯都仿佛蒙着一层光辉。\n\n    “今天不讲莫比乌斯带，因为教授我从来不明白为什么这个简单的单面结构要用如此复杂的前缀来命名，而且那太务虚，我们今天要讲的是环网拓朴结构。”\n\n    粉笔头在黑板上滑动，画出一个个复杂无比的拓朴环状结构，看着那些复杂却出奇显得清晰简洁的线条，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "声势无比惊人。\n\n    由落日州南方草原向州府行进，部队经过高速公路，公路上所有车辆极为自觉地避向紧急停车道，把中间宽敞的路面让给这个浩荡拖行十几公里的队伍。\n\n    当队伍最中间那辆黑色的防弹轿车经过他们的车辆时时，驾驶座上的民众们拼命鸣笛表示最热情的欢迎。\n\n    在一路几乎没有停歇的尖锐",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "荡拖行十几公里的队伍。\n\n    当队伍最中间那辆黑色的防弹轿车经过他们的车辆时时，驾驶座上的民众们拼命鸣笛表示最热情的欢迎。\n\n    在一路几乎没有停歇的尖锐鸣笛声中，钟烟花乘坐的车辆在重兵保护下进入落日州州府，进入城丵市之后，气氛变得更加热烈。\n\n    看到新闻直播画面的市民们纷纷走上丵街头",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "动对方，沉默在幽深的疯人院通道里前进，只需要注意避开那些医生护士。\n\n    疯人院里弥漫着刺鼻的药水味道，白色的墙壁上隐隐还可以见到尿清，大概是某位失控病人留下的杰作。\n\n    缓缓推开病房，却发现床上空无一人，许乐的眼睛眯了起来，然后注意到面北的阳窗上，写满了各式各样的数学符号和复杂公式，即便",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "件事情过去太长时间的缘故，联邦军方对那个人的关注程度严重下降，甚至都有可能遗忘了那个人和那个步兵班的存在。\n\n    所以他并不担心会惊动对方，沉默在幽深的疯人院通道里前进，只需要注意避开那些医生护士。\n\n    疯人院里弥漫着刺鼻的药水味道，白色的墙壁上隐隐还可以见到尿清，大概是某位失控病人留下的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，只不过对拐骗小姐离家出走三年的许乐仍然满腹怨念，不管那个家伙是帝国太子还是联邦英雄，如果许乐现在敢出现在他面前，绝对会被揍到生活不能自理。\n\n    车队行驶进纬二区，顺着红油饭馆门前那条直道，准备进入老宅区域之前，被一群联邦官员拦了下来。更准确的形容应该是，这群面色苍白的联邦官员，被忠于西林钟家",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "刻，他走出病房继续寻找目标。\n\n    行走在幽静的疯人院里，没有尖叫声惨嚎声疯癫的呓语声，只是一片寂静，给人一种惴惴不安的感觉。\n\n    通道尽头传来声音，许乐走了过去，发现那里是一间会议室，而当他看到会议室里的画面时，脸上表情变得非常怪异。\n\n    因为他从来没有想过有人能在疯人院里上课。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "瘦削的颓废男人，愤怒地摔掉粉笔头，愤怒地吼叫道：“迟到的人要敲门！懂不懂尊敬教……”\n\n    声音骤然停止，他望着许乐的脸皱了皱眉，又挠了挠头，再揉了揉眼，想要确认自己昨天是不是被人偷偷灌了药，所以这时候才会产生幻觉。\n\n    “是我。”许乐望着他说道：“我是来带你走的”\n\n    男人盯着他忽",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "白裙的少女。\n\n    看到那位白裙少女的第一时间，钢铁洪流安静了下来，四周那数十辆高大威猛的ｗ机甲缓缓蹲下右机械腿，庞大机身笨拙前倾行礼，欢迎公主的归来。\n\n    钟烟花看着草原上的钢铁部队，看着擅抖的摄像机镜头微笑说道：“我回来了，这些年辛苦大家了。”\n\n    离开三年的钟烟花回到西林，所享",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，听着耳边不时传来的军情回报，虽然沿途建筑物上都备有狙击手控制，可看到小姐摇下窗子挥手示意，他依然很担心，三年没有回来，如果出事怎么办？”田叔，这是必须做的事情，电视台在直播。”\n\n    钟烟花对着窗外微笑挥手示意，因为笑的时间太长，双颊的肌肉都有些僵硬，她没有回头轻声解释道：\n\n    “三年没",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "定的轮战策略，西林为联邦付出了无数鲜血，却始终没有得到相应的经济和政治资源支持。\n\n    所以西林社会与首都星圈向来若即若离，甚至可以说全体西林人对联邦一直胸怀怨意，尤其是开始流传，甚至是某些新闻媒体开始指责，古钟号爆炸是联邦政丵府的阴谋之后，这种怨意早已变成仇恨。\n\n    在西林民众看来，联邦",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "走了过去，发现那里是一间会议室，而当他看到会议室里的画面时，脸上表情变得非常怪异。\n\n    因为他从来没有想过有人能在疯人院里上课。\n\n    会议室最前方摆着一块黑扳，黑板前面有个脸色苍白无比瘦削的中年男人，正挥舞着手臂讲解着什么。\n\n    那个男人眼窝深陷，捏着粉笔的手指枯瘦有如树枝在不停地",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

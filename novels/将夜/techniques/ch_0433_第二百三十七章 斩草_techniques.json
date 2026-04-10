@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 433,
+  "chapter_title": "第二百三十七章 斩草",
+  "filename": "ch_0433_第二百三十七章 斩草.txt",
+  "char_count": 3529,
+  "timestamp": "2026-04-10T12:11:21.780638",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "魔宗前代强者夏侯向空中飞去。\n　　两个人的在草原上空相遇。\n　　一朝相遇，便是晴天霹雳。\n　　晴朗的天空里，骤然响起一道闷雷。\n　　一股强烈的冲击波，从空中开始向四面八方传去。\n　　远方正在低首吃草的羊群被惊的假死，仆于地面。\n　　那名牧羊的草原少女被惊的跌落骏马。\n　　正在执行军法的唐军士兵捂耳痛",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "道极凛厉的气息，从他身体间喷薄而出。\n　　皮靴深深踩进松软的草原沃泥间。\n　　下一刻，这些松软的泥土瞬间变得坚硬无比。\n　　以靴底为中心，草原间出现无数道如蛛网般的痕迹。\n　　夏侯站在裂如蛛网的草原中央。\n　　凭借着脚下传来的巨大反震力，他向空中飞去。\n　　战衣振振，疾如飞鸟，煌若天神。\n　　……",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "惕之余也生出些许敬佩之意。\n　　不作俘虏，不丢下一名同伴，这也是大唐军队的铁律，大唐军人们终于明白，为什么千年之前荒人被称为天生的战士，为什么先祖们会耗费那么多的气力，才能把这些荒人赶出荒原。\n　　同样都是最优秀的战士，唐军对荒人部族产生敬佩不足为奇，然后他们想寻找机会与强大的荒人们正面战上一场。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "庭骑兵的引导帮助下，与南迁的荒人部族展开了连场大战，连绵近百日的残酷战争，让双方都死了很多人，但荒人最终还是强行守住了最后一道防线，保住了最重要也是最肥活的几片草场。\n　　西陵神殿颁下诏令，诸国的粮草辎重源源不断地运至燕国，又有修行强者助阵，最后却没能达到把荒人赶回寒域的战略目标，之所以如此是因为荒",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "场上的表现，警惕之余也生出些许敬佩之意。\n　　不作俘虏，不丢下一名同伴，这也是大唐军队的铁律，大唐军人们终于明白，为什么千年之前荒人被称为天生的战士，为什么先祖们会耗费那么多的气力，才能把这些荒人赶出荒原。\n　　同样都是最优秀的战士，唐军对荒人部族产生敬佩不足为奇，然后他们想寻找机会与强大的荒人们正",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "之声连绵不绝。\n　　血腥味中，夏侯想着长安事，杀意渐起。\n　　就在这个时候，湛蓝无云的草原空中，忽然出现了一个人影。\n　　那个人从空中跳了下来，呼啸破风，带着无比霸道的杀意，直冲夏侯。\n　　夏侯抬头。\n　　空中除了那个人影，还有炽烈的阳光。\n　　所以他眯了眯眼。\n　　对这幕画面，他已经很熟悉。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "拢，夹的石墙里的他艰于呼吸，无论向哪边靠去似乎都是一个死字。\n　　他曾经想过靠向两边的石墙，忠于大唐同时替西陵效命，过去这些年里他确实也是这样做的，只不过两个忠于终究无法和谐相处，所以最终他只能忠于自己，以暴戾冷酷来维系自己的强大，抵着石墙不要靠拢。\n　　很遗憾的是，人力终究有时穷，他现在依旧很强大",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的味道，微焦微臭，不远处岷山依势下缓的斜斜草甸上，堆着数百堆石头，石堆上挂着各式各样的布条，随着春风缓缓舞动，这些石堆就是草原骑兵们的坟墓。\n　　草原上很少能够看到荒人战士的尸首，因为无论战况如何激烈，荒人都会不惜一切代价，把死亡的同伴带回部落。\n　　连续近百日的战争，中原联军没有俘虏一名荒人。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "都要结束了。”\n　　夏侯看着春风里的草原，想着马上就要到来的盛夏，冷酷如铁的面容上，渐渐浮出很罕见的温柔神情。\n　　他的妹妹是大唐皇后，他的妹妹叫夏天。\n　　温柔的春风拂上大将军温柔的脸，风中传来极浓郁的血腥味道，然后响起一片擦擦的除草之声。\n　　就在夏侯身后不远处的草甸上，一百多名草原骑兵和燕军双",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

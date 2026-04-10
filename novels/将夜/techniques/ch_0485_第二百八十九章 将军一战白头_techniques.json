@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 485,
+  "chapter_title": "第二百八十九章 将军一战白头",
+  "filename": "ch_0485_第二百八十九章 将军一战白头.txt",
+  "char_count": 3374,
+  "timestamp": "2026-04-10T12:11:21.772363",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "是世所罕见的现象。\n　　“书院……老师……轲浩然……颜瑟……现在又多了一个柳白，你究竟身上还藏着多少秘密，还藏着多少人的杀意？”\n　　夏侯疯癫一般厉声狂笑起来：“难道所有的人都想我死？”\n　　宁缺看着远处的他说道：“所有人都想你死，那就说明你该死。”\n　　“白痴才会这样认为！”\n　　夏侯笑声骤敛，脸",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "再在夜云和山崖间飞舞，而是紧紧握在铁手中，在或许是人生最后一场战斗里，夏侯这位背叛魔宗数十年的强者，最终还是回到了最初的世界，力量源源不绝，展现出了正宗魔宗强者的风范。\n　　此时的夏侯，就如同一座从天而降的山峰。\n　　而宁缺就像山峰下一颗石砾，只能被碾压成粉末。\n　　夏侯暴喝一声，脚踢夜云，举枪再打",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第二百八十九章 将军一战白头\n　　凛冬之湖这场战斗，始于符的风暴，紧接着箭啸爆鸣雪湖尽碎，然后便是明枪与暗剑的对决，明枪易躲，只有宁缺能躲，暗剑难防，夏侯终究是没能防住。\n　　夏侯捂着腹部，鲜血从指间汩汩流出，他感受着腹部的痛楚和那道依然在不停侵伐的恐怖剑意，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "冷的世界相比，雪湖之上仿佛便是昊天的花园。\n　　逃命般的奔跑中，宁缺想起那位提前回到昊天怀抱的朋友，心想小黑子你的情报果然不能全部相信，夏侯根本不怕水，说来也对，即便他不会游泳，但一位武道巅峰强者，又怎么可能被水淹死？\n　　便在此时，他身后响起一道巨响，湖面厚实的冰层被直接掀起，寒冷的湖水漫上湖面，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "伤口以肉眼可见的速度快速合拢，仿佛有股无形的力量，强行镇压住所有的伤。\n　　一道极为鲜活的生命气息，瞬间填满夏侯渐涸的真气池塘，将已然千疮百孔的经脉晶壁修复的完好如初，经脉甚至比先前还要更粗，随着他的呼吸轻轻扩张收缩，仿佛拥有了自己的生命。\n　　自古名将如美人，不许人间见白头，今夜夏侯在一呼一吸之间",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第二百八十九章 将军一战白头\n　　凛冬之湖这场战斗，始于符的风暴，紧接着箭啸爆鸣雪湖尽碎，然后便是明枪与暗剑的对决，明枪易躲，只有宁缺能躲，暗剑难防，夏侯终究是没能防住。\n　　夏侯捂着腹部，鲜血从指间汩汩流出，他感受着腹部的痛楚和那道依然在不停侵",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "向着地面砸了过去！\n　　寒风呼啸，湖面上的雪簌簌滚动，破开的洞里的湖水惊骇翻滚。\n　　宁缺重重地一踏颤抖的冰面，身体骤然一震，双手执刀，跃至头顶的夜色里，向着那个天神般的男人砍了过去！\n　　夏侯面无表情，脚踩雪花，铁枪一横便砸了下来。\n　　这道铁枪上蕴着他以燃烧生命为代价换来的无穷力量，宁缺哪里能够",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "里的他，瞬间以更快的速度向雪湖上跌落！\n　　铁枪不再在夜云和山崖间飞舞，而是紧紧握在铁手中，在或许是人生最后一场战斗里，夏侯这位背叛魔宗数十年的强者，最终还是回到了最初的世界，力量源源不绝，展现出了正宗魔宗强者的风范。\n　　此时的夏侯，就如同一座从天而降的山峰。\n　　而宁缺就像山峰下一颗石砾，只能被",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "迅速重新敛入肌肤之下，湖上的积雪仿佛感应到了这股气息的恐怖，畏怯地向四周散开。\n　　数道雪线层层叠叠出现湖面上，就如同是冻凝的浪花。\n　　黑色的长发离开了淌血的肩头，在夜风中飘拂，夹在其间的数茎白发，随风一摇，顿时把周边的黑发尽数染上霜色。\n　　紧接着，夏侯的脸颊微微下陷，急速瘦了下去，而他身上流露",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "语，二人身前墙头上的积雪不知何时已经散落至城墙下的民宅里。\n　　整座长安城都沉默了。\n　　这座城里的人们，知道夏侯和宁缺这时候在雪湖冰面之下，在寒冷的水中进行着追逐或者是厮杀，然而没有一个人能知道那里正在发生什么。\n　　不知道过了多长时间，雪湖上响起一道声音。\n　　这道声音像是一扇陈旧的木门被缓缓打",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "么。\n　　不知道过了多长时间，雪湖上响起一道声音。\n　　这道声音像是一扇陈旧的木门被缓缓打开，又像是沉重的石桌被人在地面上拖动，很轻柔的一声吱呀，却是打破了整座长安城的沉默。\n　　雪湖上出现了一道隆起。\n　　紧接着吱呀之声变成喀喇的巨响。\n　　雁鸣湖的冰面不时拱起，然后落下，似乎有只无形的巨手在不停",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "浪花。\n　　一道暴风袭过，夏侯毫不犹豫，手握铁枪落进了湖水里。\n　　……\n　　……\n　　四处乱飞的雪缓缓落下，夜色下的雁鸣湖回复了安静，再也没有雷鸣般的刀枪撞击声，湖面上也看不到那两个舍生忘死搏命的身影，莲田里那些洞中传来湖水轻荡的声音，仿佛变得比先前还要更加寒冷。\n　　湖南岸山崖上的桑桑，艰难地从",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "气息的恐怖，畏怯地向四周散开。\n　　数道雪线层层叠叠出现湖面上，就如同是冻凝的浪花。\n　　黑色的长发离开了淌血的肩头，在夜风中飘拂，夹在其间的数茎白发，随风一摇，顿时把周边的黑发尽数染上霜色。\n　　紧接着，夏侯的脸颊微微下陷，急速瘦了下去，而他身上流露出来的气息却没有丝毫减弱，反而显得愈发强大。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "藏着多少人的杀意？”\n　　夏侯疯癫一般厉声狂笑起来：“难道所有的人都想我死？”\n　　宁缺看着远处的他说道：“所有人都想你死，那就说明你该死。”\n　　“白痴才会这样认为！”\n　　夏侯笑声骤敛，脸上毫无情绪波动，漠然说道：“没有任何人有资格判断我该不该死，你不能，那些家伙也不能，哪怕所有人都说我该死，只",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

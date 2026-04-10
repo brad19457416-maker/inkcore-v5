@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 701,
+  "chapter_title": "第六十四章 他们和她们（上）",
+  "filename": "ch_0701_第六十四章 他们和她们（上）.txt",
+  "char_count": 3605,
+  "timestamp": "2026-04-10T12:05:17.533972",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "郁揉了揉有些生痛的肩膀、皱眉望了他一眼．说道：“吃饭当然没有问题．但你不要期望别的。”\n\n    秋风起，黄叶动，小楼外长时间的沉默．李封紧握着拳头．带着少年时不可能有的苦涩问道：“为什么？他都已经死了一年了。”\n\n    邹郁没有解释什么．只是笑了笑，然后她踮起脚来．抬高手臂轻轻拍了拍李封的肩膀，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "么有组织的抵抗，愤怒悲伤而恐惧的帝国民众．颤抖着身体蜷缩在自己的家里．偶有胆大的男孩儿会冒着被射击的危险，向街道当中的联邦部队吐几口唾沫。\n\n    七台高大的黑色似机甲缓慢地行走在街道两侧，冰冷的阴影直接盖到了街道的尽头．轰鸣的重型多轴运输车谨慎地行驶在这些阴影之中。\n\n    满身灰尘的白玉兰坐",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "夫人没有料到这辈子都没有违逆过自己意愿的儿子，居然在此时此刻第一次表现出了强硬的一面、表情青白一阵后愤怒地擒着名贵小包走出了餐厅。\n\n    这个变故让商秋干净的眼眸里闪过了一丝意外，她看着面前这个喘喘不安，甚至有些羞涩的家伙．心想总栽先生介绍的所谓青年才俊．看起来人品倒不是太差。\n\n    “我来",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "直停留等候的军车内，施清海看着这幕画面．幽幽地眨了下漂亮的眼睛．他身旁那个小男孩儿眼珠骨碌骨碌转着．心想这个讨厌的家伙为什么会经常来看自已？\n\n    ……\n\n    ……\n\n    港都最奢华的文华大酒店顶层被老套地设计为旋转餐厅．这处足够体面的场所自然也成为了富家子弟们交际的最佳选择地点，同样．",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "程师之一．竟然会拥有如此好看的外表。\n\n    但对于男士身边那位贵夫人来说．她包下了整座旋转餐厅．压抑脾气等待了这么长的时间．却看到相亲对象穿了这么一身衣物．明显感觉到了不受尊重，于是当商秋还来不及解释什么的时候．这位夫人便开始用那种冷漠而隐含嘲讽的语气说起话来。\n\n    如果不是想到这场相亲是",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "果结婚、我不会承担妻子的义务。”\n\n    商秋的眼睛微微眯了起来．望着窗外穿行于港都街巷中的秋风，骤然间想到遥远西林星球上的冬雪．还有那双温暖**却又胆怯的大手。\n\n    年轻人不解地望着她，有些木讷又有些不安地问道：“请原谅我的冒失，可如果是这样．你为什么想结婚呢？”\n\n    “你知道我在果",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "不能活过明天？人这辈子能活七十岁还有什么不满足的？非要像总医院里那些老色鬼将军牙齿落光了只能喝饭还要拼命抓着小护士的手活下去？恶心。”\n\n    “所以不要问值不值得，因为这肯定值得。很好”\n\n    上面这些话带着李疯子特有的简单直按暴力逻辑．说起来铿锵有力，落在满是黄叶的地上．能砸的那些枯叶分崩",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "上这件显得有些阔大的短袖和胡乱搭配的深蓝色工装裤，还有上面那些醒目的机油痕迹．让她看上去就是一个刚刚进入修理厂的女学徒工．非常可爱。\n\n    餐桌对面那位二十余岁的男士明显就是这般认为的。稍显木纳的脸上闪过意外之色，目光在商秋傲人的胸部一掠而过．马上被震惊到尴尬低下头来．大概他怎样也没有想到，联邦",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "商秋的眼睛微微眯了起来．望着窗外穿行于港都街巷中的秋风，骤然间想到遥远西林星球上的冬雪．还有那双温暖**却又胆怯的大手。\n\n    年轻人不解地望着她，有些木讷又有些不安地问道：“请原谅我的冒失，可如果是这样．你为什么想结婚呢？”\n\n    “你知道我在果壳工程部上班．天天对着机器和那帮子比女人",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "满是黄叶的地上．能砸的那些枯叶分崩离析四溅。\n\n    忽然间．他展颜微羞一笑，轻轻一拍邹郁的肩膀．说道：“我明天回费城．后天回部队．今天晚上……要不要一起吃饭？”\n\n    邹郁揉了揉有些生痛的肩膀、皱眉望了他一眼．说道：“吃饭当然没有问题．但你不要期望别的。”\n\n    秋风起，黄叶动，小楼外长",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "。”\n\n    秋风起，黄叶动，小楼外长时间的沉默．李封紧握着拳头．带着少年时不可能有的苦涩问道：“为什么？他都已经死了一年了。”\n\n    邹郁没有解释什么．只是笑了笑，然后她踮起脚来．抬高手臂轻轻拍了拍李封的肩膀，这个动作很温柔．温柔到她鬓角的小红花都没有颤一下，但李封却觉得比自己的手劲还要更大",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "商秋放松了下来，奔拉着疲惫的双肩，靠在了椅子上．身体曲线显得更为明显。\n\n    对于席技术主管，将来有可能成为技术**董事的商秋，果壳公司从董事会到后勤部门，都投予了足够多的重视和关怀，而隐约猜到她和许乐之间小情愫的总栽先生．更是不遗余力地推进商秋结婚计划。\n\n    “我明白”餐桌对面的年轻人",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "亲留给二人一些独处的时间。\n\n    贵夫人没有料到这辈子都没有违逆过自己意愿的儿子，居然在此时此刻第一次表现出了强硬的一面、表情青白一阵后愤怒地擒着名贵小包走出了餐厅。\n\n    这个变故让商秋干净的眼眸里闪过了一丝意外，她看着面前这个喘喘不安，甚至有些羞涩的家伙．心想总栽先生介绍的所谓青年才俊．",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "之一．竟然会拥有如此好看的外表。\n\n    但对于男士身边那位贵夫人来说．她包下了整座旋转餐厅．压抑脾气等待了这么长的时间．却看到相亲对象穿了这么一身衣物．明显感觉到了不受尊重，于是当商秋还来不及解释什么的时候．这位夫人便开始用那种冷漠而隐含嘲讽的语气说起话来。\n\n    如果不是想到这场相亲是由绝",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "牙闪了下，下意识里回答道：“我淮备用试管。”\n\n    ……\n\n    ……\n\n    深夜的议会山一片安静．只有一楼靠着园林的那间办公室还亮着．夜色中的灯光微弱却又坚定．似乎将要永远的亮下去。\n\n    尊贵的议员先生们这时候正在流风坡会所参加晚宴．今晚的晚宴是为了庆祝黄厄星大捷而举行．在距离铁七",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "壳总栽先生一手安排．或许这位贵夫人早就已经拂袖离开。\n\n    餐桌对面那位夫人嘲弄刻薄的话语，商秋安静地听着．心情却非常平静，对于她来说，像相亲这样的活动实在是有些莫名其妙．莫名其妙到她的耳朵似乎被堵了很多消音棉。对于她来说，现在最大的遗憾是面对着依次端上来的美味食物和诱人的红酒．渴饿整夜的她，为",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

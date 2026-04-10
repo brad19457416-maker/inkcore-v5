@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 386,
+  "chapter_title": "第五十三章 于无声处",
+  "filename": "ch_0386_第五十三章 于无声处.txt",
+  "char_count": 3553,
+  "timestamp": "2026-04-10T12:04:59.235320",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "久不见的时好友终于重逢，而且似乎联邦里也没有什么危险在身旁环峙应该呼三喝四或相拥而涕的场面，却不知道为什么变得如此怪异。\n\n    沉默很久之后李维端酒杯吞了下去，辣的狠狠地抿着嘴，问道：“出狱之后，我去香兰大道看过，那间修理铺被改成了蛋白肉配送站我本来以为你死了，结果去年被那些人从百慕大带回来才知",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "年月，吃惯了山珍海味的有钱人们，总是喜欢来街头品尝一下不一样的滋味，中年老板并不觉得稀奇，更不会觉得紧张。即便那两名年轻的客人没有点他最得意珍惜，也是最昂贵的黑市羊肉串，他也没有暗中腹诽有钱人小气，因为他看得出来，这两个年轻人是那种真正的朋友。\n\n    “我可不觉得自己有多牛逼，大概……只是运气比",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "也在考虑某个话题的开端，同样微显沉重。\n\n    很久不见的时好友终于重逢，而且似乎联邦里也没有什么危险在身旁环峙应该呼三喝四或相拥而涕的场面，却不知道为什么变得如此怪异。\n\n    沉默很久之后李维端酒杯吞了下去，辣的狠狠地抿着嘴，问道：“出狱之后，我去香兰大道看过，那间修理铺被改成了蛋白肉配送站",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "子有些不通畅。\n\n    他对拓荡。内心冷漠。最后生死离别之际却感动地自己眼泪哗哗地大叔……本存着极大地信心竟大叔是联邦头号通缉犯。化身三千地星际浪客里是这么好死地。但是三年过去了叔竟是一点儿消息都没有。再加上他曾经亲眼目睹那一记战舰主炮地白丽光柱只能在内心深处渐渐承认某人已经永远离去。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "。说出了同样地一句话。两个人互视一眼。怔了怔之后。终究还是许乐先开了口。他望着李维地脸。认真而歉疚地说道：“因为那根电击棍地关系。你坐了一年牢。然后又被人绑架去了百慕大……”\n\n    这句话没有说完。因为李维正用一种怪异地目光瞪着他。挠了挠头。然后难以自抑地苦笑了起来。\n\n    “怎么了？”许乐",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "了，我现在在军队做事，不过档案应该还是挂在果壳那边。”许乐低头啃着辣乎乎的年糕，轻声解释了几句，他的人生太过光怪陆离，有很多事情无法向李维解释，而且这三年的故事太长，即便要讲，也不知道从何讲起。\n\n    “来瓶酒吧？”许乐征询李维的意见，三年时光似乎需要烈酒入喉才能将那些少年们本不应有的愁全部钓出",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，任凭钟夫人微笑着诉说当年古钟号上的事情，小女孩儿依然一脸淡漠，淡淡骄傲，只肯把餐桌上的许乐当成一个陌生的客人。\n\n    毕竟只是个孩子，怎么可能像大人一样牢记当年那段旅程？他自我安慰了一句，但心里总还是觉得有些隐隐失落许乐哥哥与小西瓜的重逢，怎能如此无声？\n\n    ……\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，会通缉你，都是我的错。”\n\n    “出狱之后那一百万是你给我打过来的，对吧？”李维看着许乐的脸，感慨万千说道：“我被那些大人物绑架去了百慕大，终究还是你把我救回来的，对吧？”\n\n    “我一直觉得我对不起你。”许乐喃喃说道。\n\n    李维喃喃应道：“我也是这样认为的。”\n\n    重逢后的沉",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "牌照有多么生猛，但也能猜到这两名年轻的客人想必有些来头。\n\n    如今这年月，吃惯了山珍海味的有钱人们，总是喜欢来街头品尝一下不一样的滋味，中年老板并不觉得稀奇，更不会觉得紧张。即便那两名年轻的客人没有点他最得意珍惜，也是最昂贵的黑市羊肉串，他也没有暗中腹诽有钱人小气，因为他看得出来，这两个年轻人",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "竟是一点儿消息都没有。再加上他曾经亲眼目睹那一记战舰主炮地白丽光柱只能在内心深处渐渐承认某人已经永远离去。\n\n    李维地神情显得更加沉了几分。他和许乐不同。一直无奈地生活在社会底气。从来没有机会看一眼上层社会地风光。品味一下大人物们地世界。所以虽然有几分江湖智慧与毅力。但终究还没有学会喜怒不形于",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "接话，好在钟夫人一声断喝：“死胖子！少做出这副模样恶心人，烟花下来了。”\n\n    田胖子浑身一颤，马上挺胸抬头，一脸肃穆，竟生生摆出了杜少卿那种人的风范出来。\n\n    许乐来不及欣赏这位生猛人物的变脸本事，抬起头来向着楼梯处望去，一眼便看见了那个蹦蹦跳跳下来的小女孩。\n\n    小女孩穿着一件白",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第五十三章 于无声处 \n\n    风吹着街上的落叶缓缓滚动，此时夜已经深了，望都常安静，微显寒冷。年糕摊子用蓄电池维系的微弱灯光，在这样的氛围中显得格外温暖。摊子老板低头将电动摆摊车下方的肉串藏在了塑料纸下，警惕地望了望四周，希望Ｔd局在这么冷且静的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "分江湖智慧与毅力。但终究还没有学会喜怒不形于色。\n\n    “我有件事情想对你说。”\n\n    几乎同时。许乐和李维放下酒杯。说出了同样地一句话。两个人互视一眼。怔了怔之后。终究还是许乐先开了口。他望着李维地脸。认真而歉疚地说道：“因为那根电击棍地关系。你坐了一年牢。然后又被人绑架去了百慕大……”",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "可能与对方如何亲密。\n\n    然而如今因为那位老子的关系，因为他与宪章光辉之间的古怪关系乐不再需要担心联邦逃犯的身份。至于大叔的死，在与李维的一夜醉谈之后知不觉间也变得淡然了很多。所以他将李维的安全交给了七组的那帮汉子，自己却悄无声息摆脱了他们到了栖霞。\n\n    这是间郊区的大房子，古钟公司做为",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "深处渐渐承认某人已经永远离去。\n\n    李维地神情显得更加沉了几分。他和许乐不同。一直无奈地生活在社会底气。从来没有机会看一眼上层社会地风光。品味一下大人物们地世界。所以虽然有几分江湖智慧与毅力。但终究还没有学会喜怒不形于色。\n\n    “我有件事情想对你说。”\n\n    几乎同时。许乐和李维放下",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "认某人已经永远离去。\n\n    李维地神情显得更加沉了几分。他和许乐不同。一直无奈地生活在社会底气。从来没有机会看一眼上层社会地风光。品味一下大人物们地世界。所以虽然有几分江湖智慧与毅力。但终究还没有学会喜怒不形于色。\n\n    “我有件事情想对你说。”\n\n    几乎同时。许乐和李维放下酒杯。说出",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "缓滚动，此时夜已经深了，望都常安静，微显寒冷。年糕摊子用蓄电池维系的微弱灯光，在这样的氛围中显得格外温暖。摊子老板低头将电动摆摊车下方的肉串藏在了塑料纸下，警惕地望了望四周，希望Ｔd局在这么冷且静的深夜里，不要来找自己麻烦。\n\n    人行道上摆着三张桌子，却只有两个客人，不远处还有两辆墨绿色的军车",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

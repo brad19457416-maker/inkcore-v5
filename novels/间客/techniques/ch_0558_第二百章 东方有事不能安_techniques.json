@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 558,
+  "chapter_title": "第二百章 东方有事不能安",
+  "filename": "ch_0558_第二百章 东方有事不能安.txt",
+  "char_count": 3674,
+  "timestamp": "2026-04-10T12:05:08.532514",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，通过联邦中央电脑的帮助，他确定了自己这支部队所处的方位，有些庆幸地发现，自己这些人，并没有迷路进最危险的区域，如果昨天暴风雪中，在往西面移动三十公里，此时的他们，便极有可能，已经陷入帝国远征军的包围之中。\n\n    他转头对营地的家伙们大声喊了几句，将电子地图传到了顾惜风的手中，紧接着快步走到昨天",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "西方最高的那座雄奇冰川，正在朝阳下泛射着白金一般的瑰丽光芒，它的后方是一片如圆镜般的碧蓝天空，相映澄清绝美，如梦如幻如想像中的离世天堂。\n\n    如斯美景在前，许乐唇角的微笑却迅即敛去，在心里恼火地骂了一句脏话。看来昨天夜里暴风雪就停了，厚重的云层已经远离西方的碧蓝，即便地磁暴还在继续",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "乐被这个沉重的数字压的胸口有些沉闷，沉默地爬回地面，走进营地，看着正在忙碌的队员们，他拍了拍胸口，想压抑一下情绪，却发现手掌拍到一个硬硬的东西，才想起来口袋里一直放着那本帝官亚瑟写的日记。\n\n    暴风雪停了，不知何时卷寒重来，地磁暴暂时弱化，不知何时重新狂暴，所以营地里的人们无比快速的进行着工作",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "工程师，又不是迷信的百慕大人，怎么可能相信宇宙有什么造物主，而且，所有宗教的造物主都应该是在天上，你为什么要跳进地里？\n\n    ……\n\n    ……\n\n    死于帝国人的屠杀，被冰葬在地下空间里的联邦平民人数，大概在九千至一万一千人，这是联邦中央电脑通过许乐的双速扫过后给出的答案，因为所有的尸骸",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "”许乐提醒到。\n\n    “木事。”商秋像接受医生检查一般张着嘴，望着极远处的天边冰川峰顶，含糊不清说道：“呃看阿边好漂亮。”\n\n    女人都喜欢漂亮，所以漂亮两个字的发音此时还是如此准确，许乐笑了笑，站起身来，顺着商秋的视线望去，看见一片难得一见的美景。\n\n    西方最高的那座雄奇冰川，正在朝",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "“我在与万能的造物主联系。”许乐笑了笑，然后顺着滑索跳进了地洞中。\n\n    商秋怔怔的看着这一幕，心想你是一名天才的工程师，又不是迷信的百慕大人，怎么可能相信宇宙有什么造物主，而且，所有宗教的造物主都应该是在天上，你为什么要跳进地里？\n\n    ……\n\n    ……\n\n    死于帝国人的屠杀，被",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "闭上了双眼，眉头挤在了一处。\n\n    这好像是某种哲学家用力思考问题时的表情，又或者是纯洁的小男生拼命回忆少年时光的模样，许乐闭着眼睛这般安慰自己。\n\n    “你这样子很像便秘。”\n\n    刚刚穿好衣服的商秋，呵着雾气、缩着肩膀走了过来，蹲在了他的身边。\n\n    许乐没有回答她的话，直到嘴里",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "阅电子记录，汇报道：“是测滤b段频道。”\n\n    一支联邦部队正在受到一个整编帝国大队的疯狂进攻？众人的表现有点凝重，谁也想不到仗打到这个时候，苟延残喘的帝国远征军，居然还有魄力集结一个大队的兵力，顶着如此恶劣的天气，发起了疯狂的反扑。\n\n    如今的战争形式下，战地指挥系统受损，基本上可以宣告",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。商秋接过他递过来的清洁剂，开始进行同样的漱口程序，姑娘清爽的直眉被刺激地弯了三道弯，就像是女初中生第一次喝白酒的模样，忍不住张着嘴巴，不停地吸着无比寒冷的凉气。\n\n    “当心把肺冻僵了。”许乐提醒到。\n\n    “木事。”商秋像接受医生检查一般张着嘴，望着极远处的天边冰川峰顶，含糊不清说道：“",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "联邦中央电脑的无聊推测和看似冷静机械实则荒唐啰嗦的分析陈述，脸上浮现出一丝快乐的笑容。\n\n    他马上解开袖口处的锁扣，从腕表上调出军用的电子地图，马上开始进行远程定位，三秒钟后，通过联邦中央电脑的帮助，他确定了自己这支部队所处的方位，有些庆幸地发现，自己这些人，并没有迷路进最危险的区域，如果昨天",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "知道是睡袋里太热还是什么别的原因，汗水打湿了他的身体，将内衣粘在了一处，很有些不舒服。\n\n    他慢慢抽出手来，安静地看着身边熟睡中的商秋，没有戴眼镜，紧闭着双眼的她，有些讶然地发现了她与平日里冷静智慧潦草不拘小节男孩气不同的另一面——睡梦中的姑娘脸蛋微鼓，像含了两个馒头一般，时不时叭嗒一下嘴唇，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "左眼瞳里快速地浮现出一行白色的字符：“感谢你的呼唤，早上好，许乐中校，看来你昨晚过的很愉快，男女清晨同时起床，并且一起打理个人卫生，这应该是发生性行为后的情侣行为，虽然这里是条件特殊的战场，可我依然想恭喜你。”\n\n    许乐难得地没有阻止联邦中央电脑的无聊推测和看似冷静机械实则荒唐啰嗦的分析陈述，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "鼓，像含了两个馒头一般，时不时叭嗒一下嘴唇，十分可爱。\n\n    有些不舍地爬出睡袋，整理好防寒服，走出营房，踢开积雪，蹲在了机甲下面，眯着眼睛望了一眼雄伟冰川那头开始反射的第一道光，他开始漱口。\n\n    往嘴里喷了速效综合清洁剂，牙龈处顿时传来一阵剧烈的麻痒感觉，这种非常不愉快的体验，让他用力地",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "经搞定，我们现在回基地没有任何危险，安全。”\n\n    许乐点了点头，想到了不久前的暴风雪，感到非常满足，忽然想到一件事情问道：“其余的部队呢？”\n\n    “地磁风暴前，大部份的部队都撤了回去，不过东边可能有部队受困。那边依然处于高强度暴风雪区，云层太厚，而且地磁密度没有任何弱化的趋势，宪章网络无",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

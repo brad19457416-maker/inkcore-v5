@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 464,
+  "chapter_title": "第二百六十八章 传道",
+  "filename": "ch_0464_第二百六十八章 传道.txt",
+  "char_count": 3241,
+  "timestamp": "2026-04-10T12:11:21.731605",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "在在这个世界上，无论你们知道了些什么，也只能装作不知道，就像我这时候一直在做的事情，因为谁都无法承担真相被揭穿的后果。”\n　　然后他微笑继续说道：“不过你不要指望世界的现状，能够诱惑我承认什么，既然夫子不死，西陵神殿便拿我没办法，我就更没必要惹来一身腥膻。”\n　　叶红鱼说道：“但我已经知道了这件事情",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "在听到入魔二字后，他的身体已经僵硬的像块木头，心脏仿佛要停下来。\n　　叶红鱼把桌上那卷书关上，不让秋风来扰书中夹着的那把纸剑，静静看着坐在树下的他，说道：“你若去演戏，也能挣钱。”\n　　宁缺觉得她很无聊，挥挥手不准备理她。\n　　叶红鱼拿起书卷，起身走到树前，看着他说道：“在湖畔宅院里，你我交手这么多",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "什么符武双修？还是说你以为我是个白痴？”\n　　道痴自然不是白痴，事情到了现在这一步，再装不懂没有任何意义。\n　　宁缺想着夫子曾经对自己说过，小师叔入魔以后未曾让敌人的兵器沾惹自己衣袂，不由自嘲想道自己的境界果然还差太多。\n　　他抬起头来，看着叶红鱼说道：“就算你猜到了一些什么，你也应该清楚，我什么都",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "赂罢了。”\n　　叶红鱼微嘲说道：“贿赂我不要把你入魔的事实告诉西陵？”\n　　宁缺正色说道：“何必把人心想的这般丑陋？就算你猜到什么，告诉西陵，没有证据，能奈我何？”\n　　叶红鱼看着他肃然神情，不由微怔，说道：“那你为何贿赂我。”\n　　宁缺问道：“符师以武道修行者为近侍，即便是在挑战中也不算违规？”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "不死，西陵神殿便拿我没办法，我就更没必要惹来一身腥膻。”\n　　叶红鱼说道：“但我已经知道了这件事情，将来夫子死后，我会在第一时间里，向世人证明你已入魔，然后杀死你。”\n　　“从荒原初识开始，你一直在说要杀我，结果一直没有杀死我，反而你现在需要我的帮助，所以以后不要再说这种话，直接来做便是。”\n　　宁",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "他，说道：“昊天赐于人间一切，这便是对我们的恩赏，所以我们才会信奉昊天，这不是天经地义的事情？你这么激动做什么？如果一点好处都没有，谁来信教？”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "苏开始了自己的工作，他对西陵教典的讲述非常清晰，也非常无趣，诸如昊天、平等、仁慈、得福之类的词语不时出现。\n　　然而街坊们来的很少，走的很快。\n　　午后的秋日，小道观门前冷清至极，几只麻雀在石阶下踱着步，低着头专注地寻找着食物，想要熬过接下来那个注定熬不过去的寒冬，它们根本没有注意到，石阶上站着人，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "：“这些人有什么资格让我费神？”\n　　瘦道人正色说道：“世间万姓都是昊天的子民，他们都应该领受昊天的温暖，千万年前，我道门先祖在荒野僻乡之中传教，不知经历了多少艰难困苦，难道他们传教之时，也要看对方有没有资格？”\n　　叶苏看着这个其貌不扬的道人，忽然觉得此人的脸上流露出比西陵神官们更坚定的神情，不由",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "脏仿佛要停下来。\n　　叶红鱼把桌上那卷书关上，不让秋风来扰书中夹着的那把纸剑，静静看着坐在树下的他，说道：“你若去演戏，也能挣钱。”\n　　宁缺觉得她很无聊，挥挥手不准备理她。\n　　叶红鱼拿起书卷，起身走到树前，看着他说道：“在湖畔宅院里，你我交手这么多次，难道你以为分不清楚武道强者凝于体表的天地气息",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "了此间则会温柔，在别处低贱自卑的在此间能够自信起来，在别处骄傲自矜的在此间往往会变得恬静平和。\n　　离开桃山的光明大神官，在这座城某间铺中做了半年的长工，知守观传人叶苏，则开始在某间小道观里做起了宣教道人。\n　　小道观里，没有人知道叶苏的身份，主持道观的瘦道人还在记恨着那天宣教失败的画面，根本不想收",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

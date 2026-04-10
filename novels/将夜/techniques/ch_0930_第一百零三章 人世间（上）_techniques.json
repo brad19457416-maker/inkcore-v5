@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 930,
+  "chapter_title": "第一百零三章 人世间（上）",
+  "filename": "ch_0930_第一百零三章 人世间（上）.txt",
+  "char_count": 3277,
+  "timestamp": "2026-04-10T12:11:27.505145",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "神情渐渐变得冷峻起来。\n　　如果以修行的时间来论，佛祖要比他和屠夫更晚，然而如果以在人间开创的基业和最终抵达的境界来论，却是远胜于他。\n　　正如观主所言，酒徒和屠夫修的是欲望，他们已经修到了人类的极致，而佛祖修的是自身，最终涅时已经超越了人类的范畴。\n　　佛祖在世传道时，酒徒从来没有来过悬空寺。佛祖",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "帘，来到草甸花树之间。\n　　书院里很多学生都跑了出来，用好奇和困惑的眼光打量着草甸上的这辆黑色马车，心想来客是谁？竟然惊动了整座书院。\n　　前院的这些普通学生是今年新招的，宁缺一个都不认识，也没有人认识他，他对四师兄说道：“希望他们能够活的更长久些。”\n　　在前年那场天下伐唐的战争里，书院历届学生中",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。\n　　黑色马车驶过笔直宽敞的官道，驶过颜瑟与卫光明的墓地，驶过那些在春天里像麦苗一般青绿的旱芦苇，来到青青草甸之间。\n　　青色的草甸后面有座高耸入云的大山，山前有别致清雅的建筑，建筑之前有新近修好的石牌坊，朗朗的读书声从牌坊里传出。\n　　“想回书院看看吗？”\n　　宁缺看着熟悉的屋舍景物，对身边的桑",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "这话，赶紧说道：“先吃饭，他们还要接着上路哩。”\n　　就像在南晋临康城陋巷里一样，有过书院生活经验的人们，永远会认为吃饭是一件大过天的事情，哪怕那个天是昊天。\n　　有趣的是，桑桑似乎也还保留着当初在书院后山生活的习惯，虽沉默不言，但接受了木柚的说法，走到花布旁坐下。\n　　西门未央擦掉脸上的泪水，坐到",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "再直行向西。\n　　桑桑说去西边，没有说怎么去，宁缺便自行选择先行北上，因为这条路线的沿途有很多熟悉的风景事物，在他想来对她应该有所触动才是。\n　　一路向北，黑色马车经河北郡，直入岷山，路过当年他拣到她的那条道路，经过老猎户当年生活的山林，她的神情却始终没有任何变化。\n　　宁缺没有失望，他相信总有一天",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "感伤，有些不解。\n　　城南无数里外的桃山崖坪上，观主坐着轮椅，看着石窗外的青天，发出一声感慨的叹息，说道：“看来昊天真的需要我们的帮助。”\n　　隆庆问道：“我们需要做些什么？”\n　　观主说道：“其实应该做些什么，昊天她自己非常清楚，我们要做的事情，便是让她的将来做好准备，迎接她的到来。”\n　　长安城",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "方向去？”\n　　走进车厢，他看着疲惫的桑桑问道。\n　　桑桑说道：“西。”\n　　宁缺沉默片刻后说道：“为什么所有人都要往西去？”\n　　桑桑说道：“君陌已经去了吗？”\n　　宁缺说道：“二师兄是要去修佛法，你去悬空寺做什么？”\n　　桑桑没有解释。\n　　宁缺想着先前远望长安城里的感慨，隐约间觉得冥冥之中，可",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "们需要做些什么？”\n　　观主说道：“其实应该做些什么，昊天她自己非常清楚，我们要做的事情，便是让她的将来做好准备，迎接她的到来。”\n　　长安城城门紧闭，四野空旷无人，看上去异常冷清，却没有人知道，此时此刻正有无数双眼光正看着城南的那间离亭。\n　　桑桑知道有很多人正在看着自己，等待自己做出的决定，但她",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "做出的决定，但她并不在意，她是昊天，无论做什么事情，都不需要向人类进行解释。\n　　大黑马自觉地拉上了沉重的黑色车厢。\n　　走进车厢，宁缺发现书院已经把自己需要的东西全部准备好了，从暗格里取出一样事物，嵌进车壁符线的交汇处，随着一道极淡的清光浮现，车厢壁上的符阵瞬间启动，钢铁铸成的车厢变成了尘埃上的一",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "东西全部准备好了，从暗格里取出一样事物，嵌进车壁符线的交汇处，随着一道极淡的清光浮现，车厢壁上的符阵瞬间启动，钢铁铸成的车厢变成了尘埃上的一根书评毛。\n　　桑桑走进车厢的时候，他正在整理行李――黑色的箭匣，黑色的铁刀，黑色的伞，还有黑色的车厢，真的很像一个夜的世界。\n　　黑色马车驶过笔直宽敞的官道，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "他们已经修到了人类的极致，而佛祖修的是自身，最终涅时已经超越了人类的范畴。\n　　佛祖在世传道时，酒徒从来没有来过悬空寺。佛祖涅后，他曾经来看过两次，但从来没有进去过，就像他从来没有进过西陵神殿。\n　　他一直有些隐隐不安。\n　　此时看着峰间的黄色寺庙与佛殿，他心里的那份不安变得越来越沉重，他隐隐觉得观",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "看着远处的雄城，默默想着：世间安得双全法，不负长安不负卿？\n　　城南数十里外一个村庄的打谷场上，酒徒缓缓放下手里的酒壶，看着某处，脸上流露出非常复杂的情绪，有些感伤，有些不解。\n　　城南无数里外的桃山崖坪上，观主坐着轮椅，看着石窗外的青天，发出一声感慨的叹息，说道：“看来昊天真的需要我们的帮助。”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

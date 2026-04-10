@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 552,
+  "chapter_title": "第五十九章 竹下见故人",
+  "filename": "ch_0552_第五十九章 竹下见故人.txt",
+  "char_count": 2646,
+  "timestamp": "2026-04-10T12:11:26.635406",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "的道面上隐隐可以看到一些马车车轮留下的痕迹。\n　　宁缺坐在窗边，看着山道上的道道痕迹，眉头微微皱起，心想盂兰大会还有数日才会在烂柯寺前举行，即便各国使团或修行界想要提前讨论荒人南下或冥界入侵的传闻，也应该是在烂柯寺中，为什么今日会有这么多辆马车进入瓦山？\n　　他很自然地想起昨日清晨在烂柯寺遇到的那位",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "看自己有没有运气成为大师眼中的有缘人。\n　　宁缺这才知道烂柯寺长老这五字，对于世间诸人来说还有这样的意义，正准备说些什么时候，忽然听着山前烂柯寺内响起了悠扬的钟声。\n　　晨钟暮鼓，在佛寺里乃是常寺，不过今日清晨召集早课的钟声早已敲响，不知为何此时会再次响起，他不由微感诧异。\n　　观海僧本就是寺中僧人",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "日才会在烂柯寺前举行，即便各国使团或修行界想要提前讨论荒人南下或冥界入侵的传闻，也应该是在烂柯寺中，为什么今日会有这么多辆马车进入瓦山？\n　　他很自然地想起昨日清晨在烂柯寺遇到的那位南晋贵公子，当时他便已经猜到对方身份，能够让一名剑阁知命境强者随侍在旁，除了南晋皇帝便只能是那位太子殿下，只是这些南晋",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "”\n　　宁缺笑着说道：“你和我有缘就够了，和活了一百岁的老和尚要有什么缘份？至于其余那些人，你更不用担心。”\n　　桑桑推开马车前门，看着他的侧脸，说道：“我就是担心又要像小时候，又或是进书院二层楼那样，少爷你要和很多人抢。”\n　　“我们身份在这里，谁敢和我们抢？就算有不怕死的疯子真把我们抢赢了，那老",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，宁缺既然猜到他的身份，当然不会对这幕画面感到吃惊，只是想着世间那些大道无望的普通修行者，苦修半生，最终还是要把一身本事卖于帝王家，不由有些感慨。\n　　而看到离大青树数十丈远外，一排翠绿青竹下的那个熟悉的少女身影时，他的感慨无法阻止地从这些修行者的身上回到了自己的身上。\n　　很明显看出，有很多修行者",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "离也变得稍微长了些，晨雾散尽，秋日浮出林梢时，黑色马车才驶抵虎跃涧前。\n　　虎跃涧是当年瓦山很出名的风景，只不过这些年来，随着越来越多的老僧选择在此隐居，烂柯寺里的僧人对瓦山的进出管理的严格了很多，每年只会择机开放一段时间，最近这些天自然是封闭的，所以涧旁没有游客。\n　　没有游客，不代表没有访客。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "子殿下，只是这些南晋人入瓦山想做什么？\n　　观海僧人，再次出现在大槐树下，对着马车单掌合什行礼，微笑说道：“小僧本以为十三师兄会到的更早些。”\n　　宁缺下车回礼，似随意说道：“难道已经有很多人已经到了？”\n　　观海说道：“正是如此。”\n　　宁缺问道：“我不明白这是什么意思。”\n　　观海微微一怔，这才",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "境强者随侍在旁，除了南晋皇帝便只能是那位太子殿下，只是这些南晋人入瓦山想做什么？\n　　观海僧人，再次出现在大槐树下，对着马车单掌合什行礼，微笑说道：“小僧本以为十三师兄会到的更早些。”\n　　宁缺下车回礼，似随意说道：“难道已经有很多人已经到了？”\n　　观海说道：“正是如此。”\n　　宁缺问道：“我不明",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的青树，青树下有个小石桌。\n　　大青树下已经汇集了数十人，那些人或站或立，或低声交谈，或沉默不语，从人群的缝隙中，隐约能够看到一位身着黄色僧衣的老僧，正在与人对弈。\n　　黑色马车离大青树还有很远便停下，宁缺远远看了一眼，感知到那些人身上或浓或淡的气息，确认都是些修行者，想必来自很多不同的修行宗派。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "宁缺说道：“那你赶紧去吧。”\n　　观海僧大为感激，向宁缺诚恳致歉，又隔着车窗对桑桑行了一礼，匆匆离去。\n　　看着在山道上飘然而去的年轻僧人背影，宁缺眉头微挑，没有说什么，坐到车前的软垫上，轻踢大黑马的翘臀，说道：“走。”\n　　大黑马昨夜在寺里捉秋蚂蚱玩的晚了，今日有些犯困，被宁缺踢了一脚才醒过神",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "飘荡在槐树和别和秋树的枝叶间，久久盘桓不去。\n　　……\n　　……\n　　山势平缓，马车行驶在山道上非常轻松，只不过两地之间的距离也变得稍微长了些，晨雾散尽，秋日浮出林梢时，黑色马车才驶抵虎跃涧前。\n　　虎跃涧是当年瓦山很出名的风景，只不过这些年来，随着越来越多的老僧选择在此隐居，烂柯寺里的僧人对瓦山的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

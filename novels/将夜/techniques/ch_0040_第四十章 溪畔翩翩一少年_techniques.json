@@ -1,0 +1,115 @@
+{
+  "novel": "将夜",
+  "chapter_number": 40,
+  "chapter_title": "第四十章 溪畔翩翩一少年",
+  "filename": "ch_0040_第四十章 溪畔翩翩一少年.txt",
+  "char_count": 2362,
+  "timestamp": "2026-04-10T12:11:03.426457",
+  "techniques_count": 8,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "是忍不住掩嘴而笑。姑娘们在楼内见过不知道多少奇怪故事，但简大家命人带着一少年逛楼子还真是头一遭遇见，众人好奇兴奋之余竟把宁缺团团围住不肯放他离开。\n　　小婢女被挤在一群莺莺燕燕外面，恼火地看着里面，心里充满一种独属自己的玩具被大姐姐们抢走的挫败感，气愤地叉着腰把简大家搬了出来，做小母虎状怒吼道：“别",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "人代出，他和你非亲非故，你怎么就下得了那手。”\n　　听到男孩儿男人这句话，宁缺不自禁地想起在渭城小院第一次见到李渔时的场景，当时的李渔不是公主只是个小婢女，今夜又有一个小婢女谈到这些事情。那个画面没过去多少日子，怎么感觉好像已经是数年之前的事情？\n　　那个婢女已经回到了深宫，无数官员百姓为了她的归来",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "好像已经是数年之前的事情？\n　　那个婢女已经回到了深宫，无数官员百姓为了她的归来而兴奋忙碌，而自己也来到了长安，然后极莫名其妙地开始逛青楼，并且抢先听到了那些为了欢迎她回来而特意编排的曲子，想到这节，他忍不住笑了起来。\n　　“有什么好笑的？”小婢女蹙着眉尖斥道。\n　　宁缺摊开双手表示自己没有任何意见",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "在溪畔走不过几步路，那位小婢女便眉开眼笑，兴奋地开始与宁缺交换各自行业里的八卦趣事，宁缺明白了歌舞团为什么还要做风月活儿，知道了后院里的漂亮姑娘们谁最红，谁被包了，而又谁独家侍侯的老爷在朝里官最大。\n　　漂亮姑娘越多的地方越容易靠着漂亮去挣钱，因为这种方法很轻松，而且投入产出比实在很是惊人，要知道红",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "宫中庆典的舞伎。\n　　那位贴身婢女被训斥后心情本就不好，这时看着宁缺背着双手四处打望，居然真像个游览风景名胜的游客，脸上更是寒霜渐盛，嘲讽说道：“也不知道简大家今儿是怎么了，居然对你这个穷酸如此好。你明明是个读书人，居然也不知道婉拒婉拒，也对，穷酸成这样还要逛楼子，某人的脸皮想必是极厚的。”\n　　既",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "包了，而又谁独家侍侯的老爷在朝里官最大。\n　　漂亮姑娘越多的地方越容易靠着漂亮去挣钱，因为这种方法很轻松，而且投入产出比实在很是惊人，要知道红袖招里出去的花魁，成为各国高官妾侍的比例真的极高，这一生银钱挣够了，最后还有个好归宿，谁不愿意？\n　　简大家当年创办红袖招时，何尝不想做个干净的歌舞行，只是要",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "数遮了下去，根本感觉不到丝毫臃肿甚或妩媚丰腴，极奇妙地透着股清秀碧玉味道。\n　　看见这女子，宁缺眼睛骤然一亮，在心中默默喊了声：就是她！",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "斥后心情本就不好，这时看着宁缺背着双手四处打望，居然真像个游览风景名胜的游客，脸上更是寒霜渐盛，嘲讽说道：“也不知道简大家今儿是怎么了，居然对你这个穷酸如此好。你明明是个读书人，居然也不知道婉拒婉拒，也对，穷酸成这样还要逛楼子，某人的脸皮想必是极厚的。”\n　　既然被人说脸皮极厚，宁缺当然要表现出脸皮",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

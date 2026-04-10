@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 148,
+  "chapter_title": "第八十七章 星辰海洋",
+  "filename": "ch_0148_第八十七章 星辰海洋.txt",
+  "char_count": 7022,
+  "timestamp": "2026-04-10T11:53:35.165470",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "看着逐渐往海平面落下去的夕阳，听到这句话后，心里忽然颤动了一丝，明明知道邰之源不可能知道自己身体里的秘密，可是他却依然想到了脑海中的那些结构图，颈后的那块假芯片，后背有些僵硬。\n\n    “黑鹰保安公司的主管薛乃印……”邰之源回头看了一眼沙滩后的树林，那些树林在暮色的照耀下，如同正在燃烧一般艳丽，“",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "”\n\n    邰之源微微皱眉看着他，说道：“一个人生活在这个世界上，便要有自己的目标，找寻自己存在的意义。而要达到那些目标，则必须获取更多的资源，能够更最快的进入某个阶层。对于你来说。毫无疑问是一个更好的选择。”\n\n    “问题是，我根本不知道我的人生目标在哪里。”许乐自嘲的笑了笑。说道：“而且你",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "方伸展，一直漫到天边。沙滩上的海水，像情人的手轻柔的抚弄着白色的沙砾，一荡一荡。看着这一幕美丽景色的人们，或许心中都应该生出一些海阔天空、风轻云淡的感触。\n\n    遮阳伞下有两张白色的躺椅，沙滩后方的树林中，有不少黑鹰保安公司的保镖，正警惕的注视着四周的一切动静，年岁已经大了的靳管家，平静的站在沙",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "水，像情人的手轻柔的抚弄着白色的沙砾，一荡一荡。看着这一幕美丽景色的人们，或许心中都应该生出一些海阔天空、风轻云淡的感触。\n\n    遮阳伞下有两张白色的躺椅，沙滩后方的树林中，有不少黑鹰保安公司的保镖，正警惕的注视着四周的一切动静，年岁已经大了的靳管家，平静的站在沙滩水台屋檐下，躲避着暮时依然强烈",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "“如果跟随你的脚步，或许我能在这个社会中很快的成为人上人，但你应该清楚，我自幼的生活并不怎么愉快。我对你所说的那个阶层，甚至对这个联邦，都没有太大的好感。”\n\n    “这些话在我面前说说就算了。”邰之源沉默了很久之后说道：“我必须提醒你，不要被施清海和张小萌的死所影响，变成那种狂热分子。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "如果将来注定要成为你的下属，就不可能有这样的谈话了。”\n\n    “如果跟随你的脚步，或许我能在这个社会中很快的成为人上人，但你应该清楚，我自幼的生活并不怎么愉快。我对你所说的那个阶层，甚至对这个联邦，都没有太大的好感。”\n\n    “这些话在我面前说说就算了。”邰之源沉默了很久之后说道：“我必须提",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "一眼沙滩后的树林，那些树林在暮色的照耀下，如同正在燃烧一般艳丽，“一直对你念念不忘，虽然的下停车场的战斗没有任何录像。可是这位前军方特种兵，坚持认为，你的过去一定非常不简单。”\n\n    “还有那位国民少女偶像，如果你真是一个很平凡的家伙，她怎么可能去看了你两次？”邰之源微笑着说道：“更早一些，想想",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "成为你的下属，就不可能有这样的谈话了。”\n\n    “如果跟随你的脚步，或许我能在这个社会中很快的成为人上人，但你应该清楚，我自幼的生活并不怎么愉快。我对你所说的那个阶层，甚至对这个联邦，都没有太大的好感。”\n\n    “这些话在我面前说说就算了。”邰之源沉默了很久之后说道：“我必须提醒你，不要被施",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "个世界上，便要有自己的目标，找寻自己存在的意义。而要达到那些目标，则必须获取更多的资源，能够更最快的进入某个阶层。对于你来说。毫无疑问是一个更好的选择。”\n\n    “问题是，我根本不知道我的人生目标在哪里。”许乐自嘲的笑了笑。说道：“而且你最让我不喜欢的，就是时不时会流露出来一种可以决定他人人生的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的底线。”\n\n    “我也有我的底线，只不过我是小人物，你是大人物，小人物的底线被人击穿之后，只能愤怒，却无法做些什么。”许乐低着头说道：“我知道你总记的，还欠我一条命……如果可以的话，希望你尽最大的努力，不要让那位议员成功当选，这样的话，我们之间就清了。”\n\n    邰之源静静的看着许乐，这个他",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "此事是麦德林议员所为？\n\n    “我知道的事情，可能比你所以为的要多一些。”许乐看着脚趾里的细沙，说道：“所以我知道这件事情是谁做的。”\n\n    “联邦法律讲究证据，而那些政治家……从来不会留下任何可能受到指控的直接指据。”邰之源看着许乐，沉默了很久之后，才用认真的语气说道：“查武装分子那条线索",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "的机会，将自己扮演成遭受七大家阴谋陷害的清白政治人物，麦德林议员一定很乐意。”\n\n    “我在想，将来你会不会也变成这种政治家。”许乐这时候抬起头来，认真的看了邰之源一眼。\n\n    这双目光很平静，很实在，很透彻。邰之源的表情变的慎重起来，半晌后很认真的说道：“必要的手段或是妥协，都是需要的，但",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "所能影响的事务官员们，早已经开始了对其余线索的调查。\n\n    当对真相的调查渐渐靠近事实时。便随之出现了消灭证据与中间环节的手段，张小萌的死，毫无疑问属于一次冷酷的割裂灭口。\n\n    京州下午的阳光仍然有些炽烈，邰之源惯常略显苍白的脸上，出现了两抹红晕。应该是温度太高的缘故，而和健康无关。他像身",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "对于你来说。毫无疑问是一个更好的选择。”\n\n    “问题是，我根本不知道我的人生目标在哪里。”许乐自嘲的笑了笑。说道：“而且你最让我不喜欢的，就是时不时会流露出来一种可以决定他人人生的态度。”\n\n    邰之源摸了摸鼻子，脸色有些不好看，不仅仅是因为许乐此时说的话，更是因为他发现许乐拒绝自己的态度",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "手脚的线索，zf的调查结果只能判断为失事，只是死亡乘客名单上有张小萌的名字，像邰之源这样的人物，自然马上就明白了这件事情的幕后原因。\n\n    zf各个部门调查临海州体育馆暗杀事件的方向不同，绝大多数官员都将眼睛盯在已经自杀的国防部杨劲松副部长身上，又很奇妙的查到了临海局局长。又查到了施清海，莫名其",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "我实现理想的前提。”\n\n    邰之源抬头看天，看着天上繁星点点。脸上忽然闪现出一抹极为向往的神情。缓缓说道：“联邦将来究竟应该往哪里去？在某些特定能源逐渐匮乏的今天，整个联邦似乎已经死气沉沉很多年了……为什么我们的理想。我们的眼光，总是停留在权力，财富那些东西上“那是因为绝大多数人都没有权力和财富",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "唇角泛起一丝嘲讽，“还有联邦里的这些政客，家族，商人……就算他们的**是个无底洞，可是宇宙之大，足以满足他们的野心。”\n\n    “这是个美好的想法，自然也是很异想天开的想法。”许乐沉默片刻后说道：“要抵达别的星系，要穿过黑暗天幕，凭现在的续航能力，其实早就可以做到，问题是没有星图和自生空间门标记，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

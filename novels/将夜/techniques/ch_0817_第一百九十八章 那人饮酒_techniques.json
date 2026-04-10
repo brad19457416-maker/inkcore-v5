@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 817,
+  "chapter_title": "第一百九十八章 那人饮酒",
+  "filename": "ch_0817_第一百九十八章 那人饮酒.txt",
+  "char_count": 3294,
+  "timestamp": "2026-04-10T12:11:27.250627",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "你为何要带他二人回长安？”\n　　君陌想了想，说道：“家访？”\n　　……\n　　……\n　　车厢里的气氛很压抑，因为君陌始终没有说话。\n　　张念祖和李光地偷偷交换眼光，隐约猜到长安城应该是发生了什么大事，心情变得紧张起来，哪里敢交谈，紧紧闭着嘴，看着窗外的风景。\n　　道路旁的树丫里只有星点绿意，在窗外高速",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "看到官道坚硬的石制道面，被碾压出两道极深的痕迹，一直拖向非常远的地方，根本看不到尽头。\n　　这辆马车究竟有多重？竟把道面毁坏成这样？\n　　比马车更吸引人目光的，是车厢旁站着的那个人――既然没有马，如此沉重的车厢，难道说是被他徒手拉了这么远的道路？\n　　那人穿着身普通布衫，眉眼普通，眼角有几丝皱纹，皮",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "算你全盛之时，也不是他的对手。”\n　　“我的剑从来不求全。”\n　　君陌说道：“所以有很多强于我的人，最终还是输给了我，即便是柳白，也没有占到我的便宜。”\n　　提到柳白，女教授不再言语，满脸皱纹渐深。\n　　“出来吧。”君陌说道。\n　　随着这句话，张念祖和李光地从云雾里走了出来，第一次单独走出云门阵，他",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "偷交换眼光，隐约猜到长安城应该是发生了什么大事，心情变得紧张起来，哪里敢交谈，紧紧闭着嘴，看着窗外的风景。\n　　道路旁的树丫里只有星点绿意，在窗外高速向后掠去，两名少年的眼光顺着这些整齐的树望向远方，看到了长安城的城墙。\n　　正值午时，平时长安城南门应该非常热闹，巡城司的士兵应该在仔细地检查进出的民",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "再言语，满脸皱纹渐深。\n　　“出来吧。”君陌说道。\n　　随着这句话，张念祖和李光地从云雾里走了出来，第一次单独走出云门阵，他们有些兴奋，只是被潭水冷的有些厉害，脸色青白相加，看着极为狼狈。\n　　君陌望向轮椅里的大师兄和余帘说道：“不用再争，我要带他二人回长安城，所以去见那人是顺路，我有理由，所以我去",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "“你们都这样了，自然是我去。”\n　　她多年不问世事，举世伐唐之时，囿于出身只能沉默旁观，然而今天那人来到长安城，便是她也无法再安坐教舍之中。\n　　便在此时，君陌又从山雾里走出来，说说：“不用再争，师兄和师妹伤势未愈，您也老了，自然应该是我去。”\n　　女教授说道：“这话何其无礼。”\n　　此时场间四人，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "：“既然如此，那我找的就不是你。”\n　　君陌说道：“既然是小师弟的车，我自然能够做主。”\n　　那男人缓缓摇头，自腰间取下酒壶饮了口，回头看着斑驳古旧的城墙，说道：“不能，因为这座城，你做不了主。”\n　　君陌看着他，不再说话。\n　　他只有一只手，握着剑鞘，便无法再握住剑柄。\n　　铁剑自行从鞘中抽出，随",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "渐缓，又有一辆马车来到了城门前。\n　　张念祖挤到李光地身旁，两名少年隔窗看着那个男人，身体难以遏止地颤抖起来，脸色苍白至极，因为他们仿佛看到了那天街上的青衣道人。\n　　君陌掀起车厢前帘，下车。\n　　他走到那个男人身前，缓步停下。\n　　春风拂着他右臂下方空荡荡的袖管，姿态温柔却气息寒冷。\n　　铁剑在他",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "因为此生别无所嗜，就是喜欢酒，然而如果往最深处望去，却能看到他的眼神是那样的冷漠沧桑，因为他在漫长的人生里早已看透所有，对这个人间早已厌烦，故而无情。\n　　蹄声渐缓，又有一辆马车来到了城门前。\n　　张念祖挤到李光地身旁，两名少年隔窗看着那个男人，身体难以遏止地颤抖起来，脸色苍白至极，因为他们仿佛看到",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "擦，直让所有人的灵魂都悸动起来。\n　　张念祖和李光地没有下车，听着这道声音后，脸色变得更加苍白，身体骤然间寒冷的有若冰块，仿佛从少年忽然来到了暮年将死之时。\n　　城墙里面发出无数声痛苦的闷哼，用弩箭瞄准那个男人的唐军们，都被这道声音震的痛苦万分，即便是蒙着青苔的城墙青砖，都有些隐隐松动的迹象，城墙承",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "。\n　　女教授走到大师兄和余帘身前，放下手中的扫帚，伸手在青大褂上拍了拍灰，脸上的皱纹里写满了淡然，说道：“你们都这样了，自然是我去。”\n　　她多年不问世事，举世伐唐之时，囿于出身只能沉默旁观，然而今天那人来到长安城，便是她也无法再安坐教舍之中。\n　　便在此时，君陌又从山雾里走出来，说说：“不用再争",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "君陌沉默不语。\n　　女教授盯着他的眼睛说道：“就算你全盛之时，也不是他的对手。”\n　　“我的剑从来不求全。”\n　　君陌说道：“所以有很多强于我的人，最终还是输给了我，即便是柳白，也没有占到我的便宜。”\n　　提到柳白，女教授不再言语，满脸皱纹渐深。\n　　“出来吧。”君陌说道。\n　　随着这句话，张",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "为豪迈，有若鲸吸海水，很长时间都没有放下，那只酒壶却始终不曾见底，永远有酒水不停倒出。\n　　城墙间，无数弩箭正对准着这个饮酒的男人，只不过没有人敢射。\n　　因为那个男人根本毫不在意自已正被威力强大的守城弩瞄准，他自顾自地饮着酒，在春风里孤独寂寞，仿佛根本不在这个世界里。\n　　那个男人放下酒壶，擦了擦",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "陌掀起车厢前帘，下车。\n　　他走到那个男人身前，缓步停下。\n　　春风拂着他右臂下方空荡荡的袖管，姿态温柔却气息寒冷。\n　　铁剑在他腰畔的鞘中，没有拔出。\n　　君陌看着黑色车厢旁那个男人，目光落在他腰间的酒壶上，沉默很长时间后，低头致意，说道：“见过前辈。”\n　　那男人有些满意，说道：“不用多礼。”",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

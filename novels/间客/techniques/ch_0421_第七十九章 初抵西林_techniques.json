@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 421,
+  "chapter_title": "第七十九章 初抵西林",
+  "filename": "ch_0421_第七十九章 初抵西林.txt",
+  "char_count": 3375,
+  "timestamp": "2026-04-10T12:04:59.226120",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "在战舰表面上，闪烁出如同钻石屑一般的耀眼光芒。表面晶莹，冷光四射的庞大战舰身躯，像远古的神一般挤破了天空中的层层厚云，缓缓向下方的军事基地降落。\n\n    伴随着沉闷的嗡鸣声，西林长风军事基地一号巨大起落平台上，忽然生出一股高达十二级的巨风，本来早已被清理干净的地面，骤然卷起无数细微的灰尘。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "几天后你们将要抵达的前线，保护好简水儿小姐，它在你身边，把握更大一些。”\n\n    许乐苦笑了一声，心想联邦绝密的mx机甲，就这样\n\n    个演唱会的安全主管，这个事实说给谁听，大概谁都国防部倒真的无比信任自己。\n\n    签完字后，许乐不再去看被装在箱子里的mx机甲，向叶小桐舰长问道：“你们接下",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "许乐站在巨大地战舰之下。眯着眼睛仰头望去。看着联邦最恐怖地巨型武器禁心中生出复杂地情绪。这是他第一次来到西林大区。这个传说中联邦与帝国犬牙交错。硝烟漫天。血战到底流成河地前线大区……\n\n    然而在西林地微拂晨风中。他眯着眼睛深呼吸着清爽地空气。目光透过战舰地下方向远处。\n\n    朝阳之下。长风",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "皱眉望着身后正在向重型连轴卡车平台进行吊运的战舰出货口，盯着那个将将要落在平台上的箱子，震惊问道：“为什么这个要给我？”\n\n    这个箱子体积极大，甚至让人感觉到夸张无比，至少可以放几辆装甲车进去，箱子表面上漆着墨绿色的军用漆，却不知道里面究竟是什么。\n\n    “这是国防部的命令，你不要问我。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "平息。许乐站在巨大地战舰之下。眯着眼睛仰头望去。看着联邦最恐怖地巨型武器禁心中生出复杂地情绪。这是他第一次来到西林大区。这个传说中联邦与帝国犬牙交错。硝烟漫天。血战到底流成河地前线大区……\n\n    然而在西林地微拂晨风中。他眯着眼睛深呼吸着清爽地空气。目光透过战舰地下方向远处。\n\n    朝阳之下",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "嗡鸣声，西林长风军事基地一号巨大起落平台上，忽然生出一股高达十二级的巨风，本来早已被清理干净的地面，骤然卷起无数细微的灰尘。\n\n    四十一个喷射稳定起落架，平稳而缓慢地落在了地面上，却依然让整个地面似乎都颤动了一丝。\n\n    巨大的阴影顿时笼罩了四周，承载着胜利演唱会工作团队的太空战舰，经过了",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "……\n\n    ……\n\n    西林大区行政主星只有五个行政州。胜利演唱会并不是在这里召开，而是在更危险的真正前线星球，国防部拟定的行程中，简水儿一行将在此地调整三天，适应一下与都星圈有些细微差别的环境，然后才会前往４６０。\n\n    国防部安排他们住在国防部驻林办，名字很普通，但却是西林大区最昂贵",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "以看上去就像是十几个小黑点。而且也听不到那些战舰晶态多引擎地强劲轰鸣声。然而可以想到那边起落平台处军人们地忙碌紧张。\n\n    看着这幕只争朝夕，紧张肃然的画面，许乐心中淡淡生出一股压迫心脏的战争感觉。\n\n    “签署一下这份文件，然后我们就要告别了。”叶小桐舰长微笑着走到许乐的身边，递过了一份电",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "像是十几个小黑点。而且也听不到那些战舰晶态多引擎地强劲轰鸣声。然而可以想到那边起落平台处军人们地忙碌紧张。\n\n    看着这幕只争朝夕，紧张肃然的画面，许乐心中淡淡生出一股压迫心脏的战争感觉。\n\n    “签署一下这份文件，然后我们就要告别了。”叶小桐舰长微笑着走到许乐的身边，递过了一份电子文件，让",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "出如同钻石屑一般的耀眼光芒。表面晶莹，冷光四射的庞大战舰身躯，像远古的神一般挤破了天空中的层层厚云，缓缓向下方的军事基地降落。\n\n    伴随着沉闷的嗡鸣声，西林长风军事基地一号巨大起落平台上，忽然生出一股高达十二级的巨风，本来早已被清理干净的地面，骤然卷起无数细微的灰尘。\n\n    四十一个喷射稳",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "停地说自己是个灾星。\n\n    他摇了摇头，自嘲一笑，将这种无稽的说法抛诸脑后，然而几乎就在他摇头的同时，方向盘旁边的车载雷达忽然尖锐地出报警声。\n\n    坐在后排的简水儿正在轻揉自己的眉心，忽然听到这个声音，不由一怔，问道：“怎么了？”\n\n    “没事儿，音响系统出了点儿小问题，本来准备给你放",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "视光屏，关切地问道。\n\n    坐在后排的简儿轻轻掀起颊畔的紫色丝，虽然眉头依然微蹙，却不想让太多人担心，轻轻地嗯了一声。\n\n    人类在宙里的运气一直不错，直到碰到帝国之前，他们在星辰间开出来的殖民星球，总是令造物主都嫉妒的适合人类居住。尤其是都星圈的三颗行政主星，自然环境基本上都是一模一样，哲",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "这是国防部的命令，你不要问我。”叶小桐舰长虽然长着一张扑克脸，但实际上是一个很温和的女军官，她微笑着说道：“不过我想，国防部肯定认为操控它，肯定你最有经验，要在西林大区……尤其是几天后你们将要抵达的前线，保护好简水儿小姐，它在你身边，把握更大一些。”\n\n    许乐苦笑了一声，心想联邦绝密的mx机甲",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "到那边起落平台处军人们地忙碌紧张。\n\n    看着这幕只争朝夕，紧张肃然的画面，许乐心中淡淡生出一股压迫心脏的战争感觉。\n\n    “签署一下这份文件，然后我们就要告别了。”叶小桐舰长微笑着走到许乐的身边，递过了一份电子文件，让他签名。\n\n    许乐疑惑地接了过来，看着电子文件上所列的绝密目录，身",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

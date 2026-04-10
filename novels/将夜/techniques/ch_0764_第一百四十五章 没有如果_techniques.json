@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 764,
+  "chapter_title": "第一百四十五章 没有如果",
+  "filename": "ch_0764_第一百四十五章 没有如果.txt",
+  "char_count": 3620,
+  "timestamp": "2026-04-10T12:11:27.129735",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "。\n　　因为一剑就够了。\n　　秋风大作，青峡前的天地气息，仿佛受到了木剑的招引，自四面八方奔涌而来，天空里洒落的阳光，被折射成怪异的形状，有若万马奔腾。\n　　受此震慑，无数金黄色的稻谷随风而偃，向北而去，原野间生出一片金色的波浪，木剑行于稻浪之间，如疾舟前驱。\n　　叶苏不再停留原地，衣袂微飘，随木剑",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "两名修行界的绝世天才，在这场惊心动魄的战斗里，竟是不约而同，选择了对方最擅长的手段，却不知谁会获得最终的胜利。\n　　……\n　　……\n　　当剑柄没进焦黑色的盔甲后。\n　　整个原野间，都响起了一道撕裂的声音。\n　　仿佛是天空被谁撕开了。\n　　君陌的盔甲没有什么变化，上面残留着一些极细的木屑。\n　　他的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "少在短时间内，他无法破开叶苏的鞘。\n　　就像解题一样，那么他便不再破。\n　　他松开剑柄，在修行生涯里第一次做出了让步。\n　　但他的左脚，却在满天光明中，向前踏了一步。\n　　他的右手紧握成拳，于秋风中握住无限光明，砸向叶苏。\n　　……\n　　……\n　　一往无前的君陌，第一次让步。\n　　以退为进的叶苏，绝",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "剑，把那株小树斩成了五万三千三百三十三片。\n　　其后他周游诸国，境界再增，手中的木剑变得越来越慢，由瞬间万剑变成千剑、百剑，直至最后变成一剑。\n　　因为一剑就够了。\n　　秋风大作，青峡前的天地气息，仿佛受到了木剑的招引，自四面八方奔涌而来，天空里洒落的阳光，被折射成怪异的形状，有若万马奔腾。\n　　受",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，他们是因为骄傲而强大，还是因为强大而骄傲。\n　　两年前曾经有一场秋雨，他们曾经在烂柯寺里相遇，然后战斗，各自骄傲的转身，不看秋雨不看剑，因为佛宗的缘故，未曾尽兴。\n　　今天两人再次相遇，各出一剑，平分了青峡前的秋色。\n　　即将到来的是第三剑。\n　　第三剑而已，看上去这场战斗刚刚开始，但无论是对战的",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "生死可以无观，天意不可逃避。\n　　君陌记得老师重复了很多遍的那句话。\n　　没有无所不知，无所不能的存在，除了昊天。\n　　他知道自已无法避开叶苏的这一剑，所以他没有避。\n　　他看都没有看一眼刺向自已胸口的木剑，举起铁剑砍了下去。\n　　砍是一个很简单的动作。\n　　他做的也很简单，就这样砍了下去。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "不知道过了多长时间。\n　　叶苏忽然咳了起来，素色的衣衫上出现了无数道细密的血口。\n　　他看着君陌，感慨说道：“如果你没有这身盔甲，我不见得输。”\n　　“世间没有如果。”\n　　君陌的脸上没有任何得胜的喜悦，淡然说道：“如果你要说如果，那么如果我无甲你无鞘，我赢。如果你无剑我无剑，我赢。”\n　　“如果",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "木剑的招引，自四面八方奔涌而来，天空里洒落的阳光，被折射成怪异的形状，有若万马奔腾。\n　　受此震慑，无数金黄色的稻谷随风而偃，向北而去，原野间生出一片金色的波浪，木剑行于稻浪之间，如疾舟前驱。\n　　叶苏不再停留原地，衣袂微飘，随木剑而去。\n　　稻海金浪推动着如舟的木剑，在磅礴天地元气的作用下，越来越",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "舟载着他。\n　　而不是他在推动舟。\n　　稻海里一阵狂风。\n　　叶苏消失无踪。\n　　下一刻，他便来到了君陌的身前。\n　　他的手握住了木剑的柄。\n　　屈膝，沉腰，直肘，不翻腕。\n　　木剑刺向君陌的左胸。\n　　无比明亮的圣洁神辉，在剑身上亮起。\n　　青峡上空的太阳，在他出剑之时，仿佛都黯淡了一分。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "凛冬雪湖，狂风如刀。\n　　……\n　　……\n　　青峡前，安静无声。\n　　无数双目光重新落在那处，紧张不安地看着那两个对面而站的人。\n　　不知道过了多长时间。\n　　叶苏忽然咳了起来，素色的衣衫上出现了无数道细密的血口。\n　　他看着君陌，感慨说道：“如果你没有这身盔甲，我不见得输。”\n　　“世间没有",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "里的剑洞！\n　　只是剑意溢出，便有如此惊人的威力。\n　　当面承受全部剑意的君陌，又该如何？\n　　几乎同时。\n　　君陌的拳头，也落到了叶苏的身上。\n　　他的拳头里握着无限光明，那都是青峡前的天地元气。\n　　而这些天地元气里，充斥着难以想象数量的剑意。\n　　铁剑的剑意，甚至有叶苏自已的剑意。\n　　君陌松",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "知道过了多长时间。\n　　叶苏忽然咳了起来，素色的衣衫上出现了无数道细密的血口。\n　　他看着君陌，感慨说道：“如果你没有这身盔甲，我不见得输。”\n　　“世间没有如果。”\n　　君陌的脸上没有任何得胜的喜悦，淡然说道：“如果你要说如果，那么如果我无甲你无鞘，我赢。如果你无剑我无剑，我赢。”\n　　“如果是十",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "柳，细叶落水。\n　　朝阳初生，湖泛金光。\n　　凛冬雪湖，狂风如刀。\n　　……\n　　……\n　　青峡前，安静无声。\n　　无数双目光重新落在那处，紧张不安地看着那两个对面而站的人。\n　　不知道过了多长时间。\n　　叶苏忽然咳了起来，素色的衣衫上出现了无数道细密的血口。\n　　他看着君陌，感慨说道：“如果你没有",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

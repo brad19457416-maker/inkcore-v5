@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1034,
+  "chapter_title": "第四十三章 希望在人间（下）",
+  "filename": "ch_1034_第四十三章 希望在人间（下）.txt",
+  "char_count": 2219,
+  "timestamp": "2026-04-10T12:11:34.952751",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "自己竟然无言以对。\n　　“所以，现在人间是在看观主的选择。”\n　　大师兄最后说道。\n　　临康城的东方天空上覆着层暗云，便在小楼里话音方落时，便有雪花从那层云里挤落下来，挥挥洒洒，瞬间变得极大。\n　　越过飞舞的雪花，酒徒的目光落在遥远的桃山处，沉默了很长时间，说道：“或者，宁缺真的成功了。”\n　　大师",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "数年前，桑桑来到小镇，在肉铺里与他和屠夫说了一番话，做了承诺，如果她都死了，那些承诺，又还有什么意义？\n　　“前辈不需要接受。”\n　　大师兄说道：“小师弟说过，您和屠夫前辈必须接受……如果他能说服观主，那么接下来人间首先要做的事情，便是杀死你们。”\n　　酒徒觉得今日的酒有些烈，不然为何会觉得有些",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "不活叶苏这个棋眼，那么他必然会毫不犹豫地把叶苏抛弃，然后试图从中获得最大的利益。\n　　酒徒沉默思考，心想如果自己处于宁缺的位置，大概也会如此选择。\n　　局势很复杂，宋国那处的局势却很简单，道门和书院的强者数量，哪怕是小孩子扳手指都能算清楚，如果道门真的不惜一切代价要杀死叶苏，书院怎么都没有办法阻止，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "新教传播，昊天变弱，神国终有一天会覆灭，会被人间所代替，那么他和屠夫到哪里去永恒？\n　　数年前，桑桑来到小镇，在肉铺里与他和屠夫说了一番话，做了承诺，如果她都死了，那些承诺，又还有什么意义？\n　　“前辈不需要接受。”\n　　大师兄说道：“小师弟说过，您和屠夫前辈必须接受……如果他能说服观主，那么接下来",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "他就是人间，你们也不是小师叔，虽千万人亦要独往，你们会让开那条道路，你们会藏身在道树的后方，看看人间究竟会如何选择，这，其实就是接受。”\n　　这是直指本心的判定，出自从不撒谎的大师兄之口，更显得极有力量，就像是一把很粗的刀很粗野地砍到酒徒的头上。\n　　酒徒不知道自己有没有痛，只知道自己竟然无言以对。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "任何爱憎，宁缺不是我和屠夫，没有经历过漫长的时光和无数的生死，他怎么可能对人间无所爱憎？如果他不能让人们相信这一点，如何能够威胁到观主？”\n　　大师兄沉默不语，想起很多年前，在书院后山，他站在老师的身后，看着长安城里那个生而知之的男童，想起老师的判词。\n　　“小师弟……是客人，异乡为客数十载，或者会",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "事，没有人知道宁缺说了些什么话，没有人知道观主会怎么选择，从荒寒的北方到温热的南海，所有人都在沉默而紧张地等待。\n　　未知，终究还是有希望的。\n　　一切落到实处，希望，或者也就会变成绝望。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "道。\n　　临康城的东方天空上覆着层暗云，便在小楼里话音方落时，便有雪花从那层云里挤落下来，挥挥洒洒，瞬间变得极大。\n　　越过飞舞的雪花，酒徒的目光落在遥远的桃山处，沉默了很长时间，说道：“或者，宁缺真的成功了。”\n　　大师兄望向南方，微笑现于脸上。\n　　酒香随雪风而淡，转瞬即逝。\n　　酒徒从小楼里消",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "对话的资格，让桃山上那些人必须耐心听着，但这里面有个问题。”\n　　酒徒抬臂，用青袖擦拭掉唇畔的酒水，说道：“我能把你留在此处，逼得唐国不敢轻举妄动，那是因为我见过太多生死，对人间无任何爱憎，宁缺不是我和屠夫，没有经历过漫长的时光和无数的生死，他怎么可能对人间无所爱憎？如果他不能让人们相信这一点，如何",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 833,
+  "chapter_title": "第六章 父子",
+  "filename": "ch_0833_第六章 父子.txt",
+  "char_count": 3251,
+  "timestamp": "2026-04-10T12:11:27.271833",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "事情，那女人都有些佩服自已。”\n　　桑桑知道大黑马在想些什么，看着街头那对夫妇说道。大黑马轻摆马尾，心想这难道不是很美好的事情吗？\n　　她继续说道：“人类总是贪心的，总有欲求不满的时候，总想向这个世界索取更多，认为自已应该得到更多，总有一天，那女人会嫌弃自已的男人矮而无趣，于是便开始冷嘲热讽，那男人",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "当年的海誓山盟，平静时光，只想着用尽一切法子把那卖烧饼的矮子杀死，好与自已的情郎去快活厮混。”\n　　风雪已停，民宅檐上的积雪开始融化，随着日头西移，温度降低，檐角滴下的水又被冻成寒冷的冰棱。\n　　她这时候说的话，就像是这些冰棱，看似透明没有任何情绪，实际上却寒冷至极，撕破了生活美丽的外衣，露出虚伪下",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "种境界，自然难言什么虔诚的信仰，而这正是陈皮皮想不明白的地方。\n　　陈某说道：“选择和信仰无关，只与道理有关。夫子和轲浩然以为人与昊天是对立的关系，但在道门看来，人类与昊天是相生的关系。”\n　　陈皮皮说道：“封闭的世界，难道不会觉得无趣吗？”\n　　陈某说道：“道门认为肃穆与衡定是一种永恒的美，佛宗认",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "落在板车上，也落在他的碗里，他看着空中洒落的雪花，忽然有了说话的念头。\n　　“你明知道老师是正确的，为什么还要坚持走这条道路？”\n　　陈某听见他终于开口说话，微笑说道：“我走的又是哪条道路？”\n　　陈皮皮用筷子敲了敲碗沿，说道：“你是有大智慧的人，应该很清楚人类和昊天终将势不两立，无论是永夜还是别的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "到街上，砸着一俊俏多金的公子哥，那公子哥看见她裙下的肉，便开始心痒，那女人也开始痒，便痒到了一处，待日后被撞破奸情，那女人又愧又惧又羞，自有恶意上心头，哪还记得当年的海誓山盟，平静时光，只想着用尽一切法子把那卖烧饼的矮子杀死，好与自已的情郎去快活厮混。”\n　　风雪已停，民宅檐上的积雪开始融化，随着日",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "一个重伤将死的老人，但他眼眸里的神情依然是那样的平静，脸上没有任何表情。\n　　在长安城惊世一战中，他最终不敌宁缺写出来的那个字，身中万刀，最恐怖的是，那些刀意里夹杂着的人间气息，如同污秽的墨汁一般，混进他的伤口，无论怎样清洗都洗不干净，即便是西陵神术都没有办法净化。陈皮皮把最后一颗通天丸让他服下，也",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "细碎的光线生出，然后毁灭。\n　　就像是风雪里出现了无数把刀。\n　　……\n　　……\n　　风雪如刀，落在人们的脸上，便会留下极深刻的痕迹。陈皮皮用一块旧布蒙着脸，低着头在风雪里艰难前行，不时回头看一眼身后的板车，确认躺在车厢里的父亲可还安好，盖在他身上的那床棉被有没有被风掀开。\n　　离开长安城已经有几天",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "警惕，而君陌和陈皮皮在看过桑桑捧灰之后，便成为了她最坚定的支持者。\n　　人间有桑桑，夫子才会在泗水畔离去。\n　　要说君陌和他的心中没有一丝悔意，自然不可能。\n　　“虽然犯过的错，往往都无法弥补，可能也没有能力弥补，但人生在世，总要尝试一次，如此方能心安。”\n　　陈皮皮看着她认真说道，微胖的脸上露出令",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "方向某处，丰白若月的脸上没有任何情绪，眼眸深处却有无数道细碎的光线生出，然后毁灭。\n　　就像是风雪里出现了无数把刀。\n　　……\n　　……\n　　风雪如刀，落在人们的脸上，便会留下极深刻的痕迹。陈皮皮用一块旧布蒙着脸，低着头在风雪里艰难前行，不时回头看一眼身后的板车，确认躺在车厢里的父亲可还安好，盖在他",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "过某户宅院时，忽然被唤住。那个卖烧饼的矮汉，手里拿着一个布包的事物，看着她嗫嗫嚅嚅，想要说些什么，却紧张的半天说不出话来。\n　　桑桑面无表情看了他一眼，准备离开。\n　　美貌妇人从门槛里挤出来，劈手拿过矮汉手里的布包，看着她开朗笑着说道：“姑娘莫要害怕，我们不是歹人，只是我家相公先前看着你赤足在雪里走",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "上露出令人心折的微笑。\n　　他把筷子搁到粥碗上，遥遥一指点出。\n　　以书院不器意驭天下溪神指，山林间骤然叶落，有积雪卷起成一道雪线，自不可测之处而来，捉摸不定而去，刺向她的脸。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "不离不弃，夜里想到这些事情，那女人都有些佩服自已。”\n　　桑桑知道大黑马在想些什么，看着街头那对夫妇说道。大黑马轻摆马尾，心想这难道不是很美好的事情吗？\n　　她继续说道：“人类总是贪心的，总有欲求不满的时候，总想向这个世界索取更多，认为自已应该得到更多，总有一天，那女人会嫌弃自已的男人矮而无趣，于是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的信仰，而这正是陈皮皮想不明白的地方。\n　　陈某说道：“选择和信仰无关，只与道理有关。夫子和轲浩然以为人与昊天是对立的关系，但在道门看来，人类与昊天是相生的关系。”\n　　陈皮皮说道：“封闭的世界，难道不会觉得无趣吗？”\n　　陈某说道：“道门认为肃穆与衡定是一种永恒的美，佛宗认为循环与轮回是一种因果，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "公子容颜俊朗，神采不凡，尤其是一双眼睛，仿佛会说话，最令人心喜的是性情可亲，便是与这姑婆说话也是极为温柔。\n　　桑桑不会理会这些市井间的故事，向都城外走去。\n　　那公子与那姑婆搭了几句话，便准备去饮碗热茶，不料当他走上石阶的时候，檐上垂着的数根冰棱，忽然间断了，向着地面落下，只听得噗噗几声响，他的胸",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

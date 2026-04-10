@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 683,
+  "chapter_title": "第四十七章 门他妈的就开了",
+  "filename": "ch_0683_第四十七章 门他妈的就开了.txt",
+  "char_count": 2520,
+  "timestamp": "2026-04-10T12:05:08.590724",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "“干枯的树，烂了一半眼窝中空恶臭的每，花枝变成黑色的索，甲虫只剩下空壳，万里无云也没雨，大地一片干涸，就连风都没有，小溪早就干了。”\n\n    “这是什么？这是死亡！”\n\n    “只有认识到死亡的恐怖，才能真正体会到生命的可贵！这片浩翰的宇宙，什么都是假的，只有生命是真的，战争是最愚蠢",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "不耻的神情，事实上他自己的表情也很怪异。\n\n    “看来你舅舅是真的疯了。”他向那面墙下的女人沙哑说道！“如果你的下属再拿不出什么解决办法，我真的很担心下一刻他会往房间内灌毒气。”\n\n    “大师范府这时候应该已经被包围，我这个疯子舅舅承受的压力太大，快要崩溃，不然不可能表现的这么兴奋。”怀草诗",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "黑色的沼泽，枯干的树干，燃烧的幽冥，宝石般的眼球堆，如森林般的白骨原……这些都太诗意，任何色彩形容的存在，对于死亡都是一种美化。”\n\n    “当然，我想人类社会的前贤，不可能比你我思考死亡的层次要低，只是他们基于人类一员的集体意识自觉性，不愿意引领需要麻醉的生命进入最深沉悲伤的那部分……这种做法对",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "那个疯子的性格，绝对不可能在这种时刻忽然收声住嘴，肯定生了什么，问题在于，他们怎样思考也不能猜到生的真相，怀草诗不认为父皇敢违逆那道血全誓命令军队攻进来，许乐不认为这个世界上有谁能够悄无声息地控制住那个以爱与和平为标题实际上疯狂可怕的大师范，更关键的问题在于，就算制住了……也不可能如此无声无息。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，你居然能够像哲学家一样地思考问题，而不是那种只会坐在大石头上抽粗烟草的臭大兵……这样很好，对于你们最终接受我的伟大计划很有帮助。”\n\n    黑暗囚室内，许乐和怀草诗隔着阴暗的空气对视一眼，极有默契地都没有开口，这两位年轻强者或许将敌对厮杀很多年，或许在下一刻又将像野兽般血腥厮咬，但在对待囚室外那",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "全部寄托在许乐和怀草诗的生理亲密之上。\n\n    房间内真的很黑，但许乐似乎还是看到了怀草诗脸上惊愕愤怒不耻的神情，事实上他自己的表情也很怪异。\n\n    “看来你舅舅是真的疯了。”他向那面墙下的女人沙哑说道！“如果你的下属再拿不出什么解决办法，我真的很担心下一刻他会往房间内灌毒气。”\n\n    “",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "囚房内外重新陷入了死一般的安静之中。\n\n    不知道过去了多长时间，许乐睁开了双眼，疑惑地看了一眼沉重墙壁外向，又看了一眼对面。\n\n    彼时，怀草诗同样蹙起了眉头，因为这异死寂来的太过突然。\n\n    囚室内的两个人都很清楚，按照外面那个疯子的性格，绝对不可能在这种时刻忽然收声住嘴，肯定生了什",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "地看了一眼沉重墙壁外向，又看了一眼对面。\n\n    彼时，怀草诗同样蹙起了眉头，因为这异死寂来的太过突然。\n\n    囚室内的两个人都很清楚，按照外面那个疯子的性格，绝对不可能在这种时刻忽然收声住嘴，肯定生了什么，问题在于，他们怎样思考也不能猜到生的真相，怀草诗不认为父皇敢违逆那道血全誓命令军队攻进",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "“看来你舅舅是真的疯了。”他向那面墙下的女人沙哑说道！“如果你的下属再拿不出什么解决办法，我真的很担心下一刻他会往房间内灌毒气。”\n\n    “大师范府这时候应该已经被包围，我这个疯子舅舅承受的压力太大，快要崩溃，不然不可能表现的这么兴奋。”怀草诗冷冷回答道，虽然她和许乐听不到白色院落外面的声音，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "处讲的非常清楚，那就是自我意识的终结，对于有自我意识的生命体而言，这种终结是绝对不能接受的，就像人类社会绝对不能容忍自我存续的终结，本会制造出来像爱情婚姻家庭母爱这些附属的玩意儿。”\n\n    “无论是帝国还是联邦的文学作品，在描绘讲解死亡这方面，都有极大的缺陷或者说空白，黑色的沼泽，枯干的树干，燃",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "草诗同样蹙起了眉头，因为这异死寂来的太过突然。\n\n    囚室内的两个人都很清楚，按照外面那个疯子的性格，绝对不可能在这种时刻忽然收声住嘴，肯定生了什么，问题在于，他们怎样思考也不能猜到生的真相，怀草诗不认为父皇敢违逆那道血全誓命令军队攻进来，许乐不认为这个世界上有谁能够悄无声息地控制住那个以爱与和",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“干枯的树，烂了一半眼窝中空恶臭的每，花枝变成黑色的索，甲虫只剩下空壳，万里无云也没雨，大地一片干涸，就连风都没有，小溪早就干了。”\n\n    “这是什么？这是死亡！”\n\n    “只有认识到死亡的恐怖，才能真正体会到生命的可贵！这片浩翰的宇宙，什么都是假的，只有生命是真的，战争是最愚蠢的决",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "前贤，不可能比你我思考死亡的层次要低，只是他们基于人类一员的集体意识自觉性，不愿意引领需要麻醉的生命进入最深沉悲伤的那部分……这种做法对于人类社会来说，确实有很大的好处。”\n\n    大师范的声音就像他每次谈及文学和平爱这些词汇时那样妾得慷慨激昂起来，变得有些尖锐，尖锐里又透着股疯癫的沙哑。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "是忽然间，没有任何预兆，没有任何前提，囚房外那个唠唠叨叨的说话声嘎然而止，囚房内外重新陷入了死一般的安静之中。\n\n    不知道过去了多长时间，许乐睁开了双眼，疑惑地看了一眼沉重墙壁外向，又看了一眼对面。\n\n    彼时，怀草诗同样蹙起了眉头，因为这异死寂来的太过突然。\n\n    囚室内的两个人都很",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1111,
+  "chapter_title": "第一百二十章 明月当空（上）",
+  "filename": "ch_1111_第一百二十章 明月当空（上）.txt",
+  "char_count": 4450,
+  "timestamp": "2026-04-10T12:11:34.929325",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，心里有波澜难定。\n　　……\n　　……\n　　小镇上空那片绞动不安的云，像极了人类痛苦的脸。这张脸看着大地，看着人间的每一处，于是能够看到它的人，都看到了。\n　　贺兰城外的山崖间，观主与大师兄相隔数百丈而立，青衣已然残破，棉袄上更是有很多血迹，两天一夜的时间，足够发生很多事情。\n　　在这片山崖里发生的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "意相通，竟也分辩不清。\n　　因为这件事情太复杂。\n　　“我忽然有些想隆庆。”宁缺又说道。\n　　从某种意义上来说，在他的这个故事里，隆庆才是真正的男二号，但和那些故事不同，他对隆庆没有什么样情感投射，自然也不会惺惺相惜，他只是想到怒河畔隆庆死前自己领悟到的那些东西，与那个大字相通的一些东西。\n　　把重",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "起前蹄，好让他看的更清楚一些。\n　　看着竹篮里那两个正在香甜睡觉的婴儿，宁缺很长时间才醒过神，不知道为什么，觉得胸腹间一片温暖，觉得好生快活。\n　　酒徒死了，朝二哥还活着，桑桑给自己生了两个孩子，生死之间也许没有什么命中注定的轮回，有大恐怖，原来也有大欢愉。\n　　……\n　　……\n　　确认朝小树生命无",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "色苍白看着他，艰难地挤出一丝微笑，不准备在生命的最后时刻还要辛苦地留什么遗言，只要唐国和书院能够获得最终的胜利，他相信自己那些放心不下的人和事，都会得到最好的照看，那么他还有什么放心不下的？\n　　这个时候，桑桑接着说了一句话。\n　　“但我现在会治。”\n　　宁缺有些茫然，不明白她这句话是什么意思。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "？红袖招今天确实来了两位尊贵的客人，只是那两位客人很明显不是来寻欢作乐的。\n　　顶楼清静的房间里，简大家和小草一人抱着一个婴儿，情绪很是复杂――把刚生一天的孩子扔到一旁不管――这样的父母实在是世间罕见。\n　　宁缺和桑桑这时候在雁鸣湖畔的宅院前，准确地说是在湖堤上，站在那些没有枝叶的柳条前，对着被雪覆",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，青衣已然残破，棉袄上更是有很多血迹，两天一夜的时间，足够发生很多事情。\n　　在这片山崖里发生的这场战斗，没有旁观者，也没有记录者，不然，一定能够排进历史里的前五，无论是层次还是程度。\n　　观主看着南方那片云，沉默了很长时间，说道：“酒徒居然真的死了。”\n　　即便是他，对这个仿佛永远也不可能发生的事",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的期望。\n　　“就算以前的我，都很难治。”\n　　桑桑走到断裂的石阶前，看着浑身是血的朝小树，面无表情说道，这是句实话，因为柳白的那一剑，实在是太过锋利，他伤的太重。\n　　宁缺沉默，握着朝小树的手，眼眸里流露出悲伤的神色。朝小树脸色苍白看着他，艰难地挤出一丝微笑，不准备在生命的最后时刻还要辛苦地留什么",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "枝叶的柳条前，对着被雪覆盖的湖水沉默不语。\n　　很久之后的重逢，重回旧居，他们没有追忆过往，也不是在感慨当年，而是在思考一些更重要的事情。\n　　宁缺的手里握着惊神阵的阵眼杵，桑桑站在他身旁，像在人间这些年很习惯的那样，把双手背在身后，看着很像一位长者。\n　　“那个字……我还是写不出来。”他说道。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "需要问世间，观主和大师兄就是最高，所以最后战场选择在这里，真的非常合适。\n　　观主的剑映着满天星光，来到大师兄的面前，夜穹里的繁星是那样的美丽，令人眼神迷离，这把剑也同样如此，根本看不出是怎么来的。\n　　大师兄也看不出来，所以他没有看，握着木棍，就这样简单地向前刺出，只听得嗖的一声，棍头便已经来到了",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "来的少年皇帝走到小楼前，看到了一根被折断的羽箭，隐约猜到发生了什么事情，因为这场战争一直紧绷着的心，瞬间便放松了很多。\n　　宁缺回来了。\n　　……\n　　……\n　　深夜的红袖招，惯常正是最热闹的时候，但现在由于正是战争时期，歌舞行的姑娘们随军部慰问团正在战场上替士兵鼓劲，而且在上官扬羽严厉寒冷的目光注",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。\n　　观主道髻上的乌木叉应意而折。\n　　黑发披散在肩上，随雪风而舞。\n　　他看着大师兄赞叹道：“李慢慢，今后谁还敢说你慢？”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "……\n　　……\n　　看着针线在朝小树的胸腹间来回穿行，宁缺忽然想到，多年前离开渭城的时候，桑桑曾经担心过自己的女红在长安城里无法与那些娘子相提并论，却不知道，昨夜在那座道殿里，桑桑也想起过相同的场景。\n　　朝小树的脸色依然苍白，呼吸却平稳了很多，开始昏睡――他放下心来，再也无法承受身体与心理的极度",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "写出来，遥远的西荒与东南海畔，更远的寒域雪海，都太远了。\n　　都说人类的思想有多远，便能走多远，可是从来没有人想过，思想这种事物本身就极缥渺，想要让它去到遥远的地方，是多么困难的事情。\n　　宁缺想到很多年前做过的那个梦。\n　　那个初识时的梦。\n　　在那个梦里，他看见了一片沧海。\n　　做那个梦的时候，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "楚一些。\n　　看着竹篮里那两个正在香甜睡觉的婴儿，宁缺很长时间才醒过神，不知道为什么，觉得胸腹间一片温暖，觉得好生快活。\n　　酒徒死了，朝二哥还活着，桑桑给自己生了两个孩子，生死之间也许没有什么命中注定的轮回，有大恐怖，原来也有大欢愉。\n　　……\n　　……\n　　确认朝小树生命无虞，宁缺没有耽搁任何时",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

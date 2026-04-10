@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 133,
+  "chapter_title": "第七十二章 临海的风雪",
+  "filename": "ch_0133_第七十二章 临海的风雪.txt",
+  "char_count": 3566,
+  "timestamp": "2026-04-10T11:53:35.146751",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第七十二章 临海的风雪 \n\n    十五分钟前的临海局局长办公室。\n\n    花白头发的局长结束了自己的录音，然后开始在电脑里进行资料销毁工作。连接几天的不安，在昨天夜里的一个电话之后，全部变成了现实。局长离开了自己的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "事学院担任心理学教授，还是后来调到了联邦部门，他一直都有这种心理准备。\n\n    局长并不知道，自己为什么会被联邦调查局盯住，而且针对自己的行动密级一定很高，因为施清海就在四科，却没有发现任何的异常……想来施清海也已经进入了监控范围。\n\n    销毁了电脑里所有的通话纪录，局长打开保险柜，有些困难地",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "局盯住，而且针对自己的行动密级一定很高，因为施清海就在四科，却没有发现任何的异常……想来施清海也已经进入了监控范围。\n\n    销毁了电脑里所有的通话纪录，局长打开保险柜，有些困难地佝下身体，从夹层里取出一叠纸，这些纸上面记载的是一些代码与代号，是他负责的整个网络的根本。在科技无比发达的当下，任何记",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "地窗抠动了扳啪啪的几声脆响，坚固防风的落地窗上出现几个浑圆的小洞，只是排列有些不够合适。局长耸耸肩。心想当初在山里受训的时候，总认为枪法不是很更重要的事情，现在看来果然错了。\n\n    他气喘吁吁地扛起沉重地转椅，向落地玻璃上砸去，转椅弹了回来，而玻璃窗上却出现了令他高兴的裂纹。\n\n    这时门外",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。\n\n    就在他离开之后不久，七八名来自首都联邦调查局的特工冲出了大楼，冲到了那个汽车之前，开始紧张地在通话器里呼唤着什么。表明你还没有暴露，或者你还没有被政府抓住。我的所有联络工具已被监控，只能用最后这个方法与你通话。”\n\n    “我曾与国防部杨劲松副部长接触，本想用当年的同事情谊，试图从他",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "射的血水浆状物，都会恶心恐惧的说不出话来。\n\n    施清海手里紧紧握着夹心面包，没有引人注意地走入人群之中，他瞪着汽车局长花白的头发，脸色迅疾变的有些发白，与身边地人们脸色倒是相差不多。\n\n    离汽车不远处地地面积雪上，是一个已经被摔成粉碎，很难在短时间内拼凑起来的手机。\n\n    雪白，血红",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "新的没有标志的黑色汽车里走了出来，他的脸色一如往常那般苍白，盯着手中的那份文件，苍白之中渐渐生出几丝愤怒的红晕。这份文件他在车上匆匆看完。结果却成功地破坏了他地冷静。邰之源恼火地将那份文件扔到了雪地中，对着身旁的靳管家说道：“什么狗屁东西！杨劲松，一个局的局长，然后是施清海……政府里那帮废物想做什么",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "碎纸丝，局长走进办公室附属的洗手间，用湿毛巾遮住烟雾温度感应器后，点燃了打火机，开始燃烧那些事关很多人生命的代码与暗号。\n\n    将灰烬冲进了水下道中，局长才长长地吐了一口气。暗自庆幸联邦调查局的官员们，大概是想获取更多的情报，才给自己留下了处理善后的时间。\n\n    走回办公室。局长粗粗的手指下",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。他平静地服了一颗药丸，又从抽屉里取出一把手枪，向着落地窗抠动了扳啪啪的几声脆响，坚固防风的落地窗上出现几个浑圆的小洞，只是排列有些不够合适。局长耸耸肩。心想当初在山里受训的时候，总认为枪法不是很更重要的事情，现在看来果然错了。\n\n    他气喘吁吁地扛起沉重地转椅，向落地玻璃上砸去，转椅弹了回来，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "手机重新握在了手中，看着满是蛛丝状裂纹的落地玻璃，一头撞了过去！\n\n    大门被特工们强行砸开，而同时，局长肥胖的身体也撞破了玻璃。开始向着很高很远地地面落下。\n\n    风声呼啸。空中的局长看见了楼下那些正在吃早餐的下属，忍不住笑了笑。\n\n    然后死去。\n\n    双汇大街与侧巷的接口处一片",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "玻璃，看着四科所在楼层地奇怪安静，那双漂亮的桃花眼渐渐眯了起来。\n\n    他对下排驾驶位的司机笑着说道：“大哥，如果包你车去上野。要多少钱？”\n\n    一行车队停在了临海州机场地停机坪上。穿着一身褐色风衣的邰之源，从一辆全新的没有标志的黑色汽车里走了出来，他的脸色一如往常那般苍白，盯着手中的那份",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "根本。在科技无比发达的当下，任何记录在智能工具里的东西，在事后都能至少被修复一部分，**军的间谍网，一向很小心谨慎地使用这种最原始的记录方法。\n\n    将纸张塞进碎纸机里，用废纸篓装好那些变成碎纸丝，局长走进办公室附属的洗手间，用湿毛巾遮住烟雾温度感应器后，点燃了打火机，开始燃烧那些事关很多人生命",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "身回去，迅速地反锁上办公室的厚门，然后走到落地玻璃旁，仔细地注视着行人渐多地双汇大街以及玻璃窗下那条安静的侧巷。\n\n    不知道他看到了什么。他平静地服了一颗药丸，又从抽屉里取出一把手枪，向着落地窗抠动了扳啪啪的几声脆响，坚固防风的落地窗上出现几个浑圆的小洞，只是排列有些不够合适。局长耸耸肩。心想",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

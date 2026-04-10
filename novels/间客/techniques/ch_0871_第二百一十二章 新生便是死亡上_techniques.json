@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 871,
+  "chapter_title": "第二百一十二章 新生便是死亡上",
+  "filename": "ch_0871_第二百一十二章 新生便是死亡上.txt",
+  "char_count": 3368,
+  "timestamp": "2026-04-10T12:05:17.593636",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的时间并不长，不过你是不是疯了？这时候居然关心这种破烂问题？”\n\n    贝得曼愣了愣后反应了过来，愤怒地挥舞着手臂，深色的咖啡洒的满身都是“我们现在应该关心的重点是，她用了这么长的时间还没有得出结论，还在挣扎冲突，说明除了冰冷的机械智慧之外，她已经拥有了感情这种东西 ！”\n\n    “我不关心感情",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "不堪，维生系统已经开始报警，走私船上的火力系统明明好几次击中了对方，但好像没有起到任何作用，最令船上众人感到惊恐的是，不知道什么时候，对方居然直 接入侵了自己的通讯系统！\n\n    “不抢哉 ！ 不抢粮！ 也不抢娘们 ！ 我也只抢飞船！”一道浑厚有力 却显得格外滑稽的声音，在走私飞船内部响起“小爷我",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "画面。那是地底宕伟空间上方悬挂二维光幕的光彩。\n\n    如同一场风暴忽然来临，像瀑布般的绿色数据流骤然高流淌，然后如同失去重力般，狂暴地向着四面八方潋射，数千条数列扭曲 着绞动在一起，无声地剧烈摩擦，然后从中片片断裂。\n\n    数据碎片渐渐褪去原有的充满生命味道的绿色，变成无数白色的光点，然而一",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "所需要的事件，所-以中央 电脑这段时佴才会变得反复无常，一时间帮助政府诱捕 许乐，马上却又帮助他对抗社会。我的问题在于，这种冲突要持续多长时间？”\n\n    “按照核心程序计算模式，在权限序列直接冲突时，她会马上进行雾态模拟，得出结论，我们经常称之为直觉。噢，现在想起来这还真是她的直觉，需要的时间并",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的几处石尖，溅起几抹浪花，然而在贝得曼的眼中，仿佛看到了一个伟大的机械智慧生命正在如同人类一样的思考冲突挣扎，强烈的精神冲击，令他坐在地上的身体剧烈颤抖起来。\n\n    世界上会出现一些很奇怪的天才人物，比如因为掌握太多联邦中央电脑后门而被开除的前宪章局员工贝得曼一一此人似乎拥有某种诡异的能力，能够",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "了光与暗的两边，肃穆被狂暴的力量碰撞撕扯所取代，形成了一个恐怖至极的黑白旋涡，漩涡极度压缩坍塌，直到最终凝为一个看 不见的点，然后爆炸，没有新的星云产生，只有一片寂静沉就。\n\n    宇宙释生，然后湮灭。\n\n    宏伟空旷的地下空间里死一般的安静，随着嘀嘀嘀嘀的自检结束，一个机械而没有千f何情绪的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "大或者恐怖的可能性，便会习惯性沉就掩饰内心的恐慌。\n\n    李在道对贝得曼的话也没有任何反应，轻声说道：“最高权限冲突？这正是我所需要的事件，所-以中央 电脑这段时佴才会变得反复无常，一时间帮助政府诱捕 许乐，马上却又帮助他对抗社会。我的问题在于，这种冲突要持续多长时间？”\n\n    “按照核心程",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "过来，如何能不激动敬畏亢奋？\n\n    他坚决认为，联邦中央电脑这种与人类碳基生命完全不同的机械智慧存在，是极致的进化，照亮了这片无聊单调宇宙钧前路。\n\n    能够见证这历史性的时刻，能够和这些绿色数据流所代表的最伟大智慧亲密接触，贝得曼觉得就算当场死去，这辈子也不会再有任何遗憾，所以他当然不会在",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "正在如同人类一样的思考冲突挣扎，强烈的精神冲击，令他坐在地上的身体剧烈颤抖起来。\n\n    世界上会出现一些很奇怪的天才人物，比如因为掌握太多联邦中央电脑后门而被开除的前宪章局员工贝得曼一一此人似乎拥有某种诡异的能力，能够凭借大脑区域中某处的对射反应以及直觉，把光幕上那些无法理解的机械语言数据流编译",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "然他的黑色眼瞳里出现了一幕极诡异的画面。那是地底宕伟空间上方悬挂二维光幕的光彩。\n\n    如同一场风暴忽然来临，像瀑布般的绿色数据流骤然高流淌，然后如同失去重力般，狂暴地向着四面八方潋射，数千条数列扭曲 着绞动在一起，无声地剧烈摩擦，然后从中片片断裂。\n\n    数据碎片渐渐褪去原有的充满生命味道",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "道浑厚有力 却显得格外滑稽的声音，在走私飞船内部响起“小爷我耐心相当不好，命令你们在十分钟之内马 上进入逃生舱离开。”\n\n    走私商人绝望而无助地盯着光幕上的那堆太空金属垃圾，痛苦地揪着头，愤怒吼叫道：“你***讲不讲道上规矩？ 我们认输货物给你五分之四，飞船怎么能给你 ！”“你们的货物除了钻石",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "至极的黑白旋涡，漩涡极度压缩坍塌，直到最终凝为一个看 不见的点，然后爆炸，没有新的星云产生，只有一片寂静沉就。\n\n    宇宙释生，然后湮灭。\n\n    宏伟空旷的地下空间里死一般的安静，随着嘀嘀嘀嘀的自检结束，一个机械而没有千f何情绪的电子合声开始响起。\n\n    “警告：现联邦上校军官许乐，原始",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "冰冷的机械智慧之外，她已经拥有了感情这种东西 ！”\n\n    “我不关心感情这种东西。”李在道将双手缓缓背在身后，沉就看着面前光幕上的绿色数据流，说道：“我只关心如果它拥有精神的世界，那么这种深层冲突会不会导致那个世界的分裂，自我否定直至灭亡。听到这段冰冷的话，想到某种可能性，贝得曼的身体感到无比寒",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

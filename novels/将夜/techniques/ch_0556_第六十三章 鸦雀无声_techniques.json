@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 556,
+  "chapter_title": "第六十三章 鸦雀无声",
+  "filename": "ch_0556_第六十三章 鸦雀无声.txt",
+  "char_count": 3270,
+  "timestamp": "2026-04-10T12:11:26.641259",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "也如宁缺一样猜测着佛辇中的人身份，居然敢用教训的语气和书院弟子说话。\n　　曲妮玛娣漠然点头，便算是与众人回礼，她本就是修行界辈份极高的数人之一，生生凭着年龄熬出了德高望重四字，自不需要与这些修行晚辈寒喧，而且她的注意力始终停留在宁缺的身上，如果说眼神怨毒便能化作飞刀，这时候的宁缺早已经被她的眼神戳的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "怨毒神情愈发浓郁，而陆晨迦则是神情漠然，仿佛根本没有看到宁缺一般。\n　　看着自山道上行来的人们，宁缺心想如果来的人只是曲妮玛娣和花痴，也不需要观海僧抛下自己的桑桑亲自前去迎接，于是他的目光落在那方佛辇上，猜测辇中僧人的身份应该非同寻常，甚至有可能来自悬空寺。\n　　修行者们，见着来人是曲妮玛娣姑姑和花",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "悬空寺。\n　　十三先生对戒律院首座。\n　　仅仅是这些名字，便足以震惊修行界，山涧旁的修行者们下意识里压抑住惊呼的冲动，紧张地注视着场间，连呼吸声都放缓了很多。\n　　不可知之地间的对抗，竟然会发生的尘世间，能够亲眼目睹这样的战斗，足以令世间普通修行者为之癫狂，怎能不兴奋紧张？\n　　山涧旁异常安静，只能",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "些散落在草地上吃草的马儿踱步的轻微蹄声。\n　　他们在等待那道浑厚的声音再次从佛辇里响起。\n　　他们在期待佛辇里的悬空寺来人会怎样面对书院的这一箭。\n　　很长时间过去，佛辇里没有传出任何声音。\n　　秋风微拂青叶，那位悬空寺高僧始终沉默。\n　　宁缺问他敢不敢接自己一箭。\n　　悬空寺僧人没有回答。\n　　那",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "地注视着场间，连呼吸声都放缓了很多。\n　　不可知之地间的对抗，竟然会发生的尘世间，能够亲眼目睹这样的战斗，足以令世间普通修行者为之癫狂，怎能不兴奋紧张？\n　　山涧旁异常安静，只能听到翠鸟在竹里带着余悸的哀切低鸣，还有那些散落在草地上吃草的马儿踱步的轻微蹄声。\n　　他们在等待那道浑厚的声音再次从佛辇里",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "僧慈悲气息的翠鸟，感应到这道强大而寒冷的气息，发出几声惊恐的鸣叫，振翅飞入翠竹之中消失不见。\n　　秋风渐作，大青树摇晃不安，那些繁密的枝叶簌簌响着，被宁缺手中铁箭气息波及，数百片青叶纷纷坠落，落在黑色马车四周。\n　　随着这道强大气息出现在宁缺身上，山枰上那些境界高的修行者顿时神情骤变，剑阁强者程子清",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "难抑震惊地想着，难道帷布后真是悬空寺的高僧？这次烂柯寺的盂兰会居然会惊动这么多世外高人？\n　　人们的激动和兴奋是很自然的事情，只不过这时候没有人像先前拜见宁缺那样，走到佛辇前行礼请安，因为佛辇这时正被一枝铁箭瞄准着。\n　　听到观海僧的话，宁缺的神情没有丝毫变化，握着铁弓的左手稳定的就像是这道千年不变",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "然冷漠无言，无论那些前来行礼请安的修行者如何恭敬，她都没有什么反应，仿佛对于她来说身周的世界根本就不存在。\n　　大概是看到宁缺依然执弓瞄准着黄衣老僧，那道浑厚而威严的声音再次从佛辇里传出，显得极为严厉：“兵者不祥，你还不速速放下！”\n　　宁缺沉默片刻，依言松开紧绷的弓弦，箭簇微移。\n　　不再被铁箭瞄",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "悬空寺，便真的只是在典籍和传闻里出现过，基本上无人能够见到。\n　　众人望向那方佛辇，难抑震惊地想着，难道帷布后真是悬空寺的高僧？这次烂柯寺的盂兰会居然会惊动这么多世外高人？\n　　人们的激动和兴奋是很自然的事情，只不过这时候没有人像先前拜见宁缺那样，走到佛辇前行礼请安，因为佛辇这时正被一枝铁箭瞄准着。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的枝叶簌簌响着，被宁缺手中铁箭气息波及，数百片青叶纷纷坠落，落在黑色马车四周。\n　　随着这道强大气息出现在宁缺身上，山枰上那些境界高的修行者顿时神情骤变，剑阁强者程子清这位知命境强者的反应最为强烈，修长的双手竟是无意识里随机而动，被这道气息激的虚握半圆，生出强烈地拔剑出鞘的冲动！\n　　曲妮玛娣的脸色",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，你还不速速放下！”\n　　宁缺沉默片刻，依言松开紧绷的弓弦，箭簇微移。\n　　不再被铁箭瞄准，黄衣老僧骤然觉得那道一直笼罩着自己的凛冽杀意消失无踪，这才发现僧衣早已汗湿，才明白先前自己的恐惧，不由微涩一笑。\n　　看到这一幕，一直还处于紧张中的修行者们顿时松了一口气。\n　　曲妮玛娣看着宁缺，用沙哑难听的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "铁箭再凝而待发，然而宁缺这一次开弓，却与先前针对黄衣老僧时截然不同，一道极为强大的气息，从他的身体里缓缓释出。\n　　那些在佛辇下雀跃欢喜，迷醉于辇中高僧慈悲气息的翠鸟，感应到这道强大而寒冷的气息，发出几声惊恐的鸣叫，振翅飞入翠竹之中消失不见。\n　　秋风渐作，大青树摇晃不安，那些繁密的枝叶簌簌响着，被",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "身份应该非同寻常，甚至有可能来自悬空寺。\n　　修行者们，见着来人是曲妮玛娣姑姑和花痴，纷纷行礼请安，同时也如宁缺一样猜测着佛辇中的人身份，居然敢用教训的语气和书院弟子说话。\n　　曲妮玛娣漠然点头，便算是与众人回礼，她本就是修行界辈份极高的数人之一，生生凭着年龄熬出了德高望重四字，自不需要与这些修行晚",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "看到这一幕，一直还处于紧张中的修行者们顿时松了一口气。\n　　曲妮玛娣看着宁缺，用沙哑难听的声音嘲笑说道：“书院原来也只会欺软……”\n　　忽然，她带着怨恨嘲弄意味的声音戛然而止。\n　　因为宁缺手中的铁箭，竟是瞄准了那方佛辇！\n　　在曲妮玛娣看来，佛辇里的高僧必然能够震慑住书院，她本想借此好好羞辱一番",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

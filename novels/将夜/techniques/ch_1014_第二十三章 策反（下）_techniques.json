@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1014,
+  "chapter_title": "第二十三章 策反（下）",
+  "filename": "ch_1014_第二十三章 策反（下）.txt",
+  "char_count": 2215,
+  "timestamp": "2026-04-10T12:11:34.919471",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "少，程立雪才会说这道算术题很简单，宁缺却有不同的想法，所以想看看那个简单的答案。\n　　程立雪看着站在雨帘前的他，说道：“大先生只留在宫中，守在唐帝身边，直到你从悬空寺回来，他才能离开长安，但依然要跟着酒徒，不得自由。”\n　　“二先生用一柄剑拖住整个佛宗，令修行界震撼敬畏，但他也没有办法在短时间里离开",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "师姐太累。”\n　　程立雪说道：“三位先生都不在，那么书院还剩下谁？陈皮皮雪山气海皆废，唐小棠随他四处逃亡，徐迟在勒布大将和数位大祭司的压力下只能苦苦支撑，就凭你和后山那几位先生怎么对抗道门源源不绝的强者？”\n　　宁缺沉默片刻后说道：“这些都不是问题。”\n　　程立雪看着他神情平静的面容，微嘲说道：“观",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "者，也不可能是书院三位先生的对手。\n　　遗憾的是，昊天在离开人间回归神国之前，替自己的信徒找到了两位最强大的庇护者，为道门套牢了两条最恐怖的看家狗。\n　　“我说过，这是一道简单的算术题，只要在塾师那里上过两天学的孩童，都能算的清楚，谁会不知道书院想杀谁呢？”\n　　程立雪说道：“问题是，这是两个杀不死",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "两个杀不死的人。”\n　　宁缺说道：“只要是人，就不可能杀不死。”\n　　程立雪说道：“那两个人，从某种意义上来说，已经不能算是人。”\n　　宁缺说道：“观主当年神威如海，亦非凡人，一样被书院重伤将死。”\n　　程立雪说道：“酒徒屠夫和观主最大的区别，便在于他们更擅长活着，他们能在昊天的眼光下存活这么多年，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "缺不再多言，说道：“杀死他们的那天，你和天谕神殿来归？”\n　　程立雪神情微凛，说道：“书院的信心……究竟来自何处？”\n　　宁缺转身，望秋雨如瀑，沉默不语。\n　　……\n　　……\n　　南晋偏南，已是深秋，临康城外山上的树叶依然不是太黄，被晨时开始落下的这场雨洗过，青意渐泛，竟似重新回到了春天。\n　　酒徒",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "关系，若与书院携手，灭道门，只是一念之间，人间想来会少流很多血。”\n　　酒徒说道：“那是以前……从她出现在我身前那刻起，我与道门便有了关系。”\n　　大师兄说道：“她已经离开了人间。”\n　　酒徒微微一笑，意味深长说道：“都说你是世间至仁至善至信之人，没想到今日却来劝我做背信之事，何解？”\n　　“信乃人",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "潜台词",
+      "category": "dialogue",
+      "example": "现在我身前那刻起，我与道门便有了关系。”\n　　大师兄说道：“她已经离开了人间。”\n　　酒徒微微一笑，意味深长说道：“都说你是世间至仁至善至信之人，没想到今日却来劝我做背信之事，何解？”\n　　“信乃人言，她不是人，故难称信……”\n　　大师兄忽然沉默。\n　　隔了很久，他指着酒徒的长衫说道：“那些都是假话",
+      "analysis": {
+        "definition": "在文本中使用潜台词技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "杀我，最想杀我，比杀屠夫更想，因为我比屠夫快，所以我对你们的威胁最大。”\n　　雨珠落在酒徒的长衫上，纷纷滚落，就像荷叶上的露珠，他的声音也像这些水珠般，再没有平时的沧桑和腐朽意味。\n　　大师兄看着他长衫前襟上那抹血，说道：“也曾经是最想携手的人。”\n　　酒徒微笑说道：“为何？”\n　　大师兄说道：“我",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。\n　　程立雪看着站在雨帘前的他，说道：“大先生只留在宫中，守在唐帝身边，直到你从悬空寺回来，他才能离开长安，但依然要跟着酒徒，不得自由。”\n　　“二先生用一柄剑拖住整个佛宗，令修行界震撼敬畏，但他也没有办法在短时间里离开西荒悬空寺，他毕竟不是夫子。”\n　　他继续说道：“三先生行踪飘渺，看似无人知晓",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "会说这道算术题很简单，宁缺却有不同的想法，所以想看看那个简单的答案。\n　　程立雪看着站在雨帘前的他，说道：“大先生只留在宫中，守在唐帝身边，直到你从悬空寺回来，他才能离开长安，但依然要跟着酒徒，不得自由。”\n　　“二先生用一柄剑拖住整个佛宗，令修行界震撼敬畏，但他也没有办法在短时间里离开西荒悬空寺，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 231,
+  "chapter_title": "第三十七章 难道我会说假话？（上）",
+  "filename": "ch_0231_第三十七章 难道我会说假话？（上）.txt",
+  "char_count": 3266,
+  "timestamp": "2026-04-10T12:11:12.019795",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "们首先要学会反省反省。”\n　　帐内的人们此时大多都已知道墨池苑弟子押送粮草前来，结果被马贼伏袭一事，心想曲姑姑这番话应该说的便是此事，不知道书痴和墨池苑弟子们该如何解释。\n　　果不其然，曲妮玛娣深陷的双眼里溢出两道鄙夷微怒的神光，寒声说道：“神殿为修好诸野，决议送粮草援助王庭，如今那批粮草尽毁，单于",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "轻一代的修行者前来听命。如今联军与王庭和议既成，诸国势力自然要齐聚一处，商议一番日后行事，召集者毫无疑问也是神殿。\n　　左帐王庭耗了大量人力物资，替神殿大人物们搭起了极为阔大的议事大帐，颇显诚意，这座大帐方圆百步，以竹木为骨绷布而起，帐内光线充足，空间清阔，即便是容纳上百余人，也不会显得拥挤。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "自然也不会起身见礼，相反少女们知道这位老妇人那日便在草甸之上，目光里难以抑止地流露出几分恨意。\n　　众人皆醉我独醒，醒者便成了异类，众人起身我静坐，坐者便成了异类，庭间众人一片问安请好之声，波浪般的躬身行礼，把静坐不起的大河国少女们突显出来，帐内的请安声渐渐平静，气氛顿时变得沉默而尴尬起来。\n　　曲",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "此时的那件事情，不由有些担心晨迦公主的心情。\n　　晨迦公主的未婚夫是隆庆皇子，那位神子般的男人此生顺风顺水，无论是烂柯寺的长老还是天谕院的院长，都无法打破他完美的内外，唯有在长安城南那座书院里败了一次，虽然没有多少人知道那次登山的具体情况，但败便是败了。\n　　今天应该是陆晨迦第一次看见那个击败自己未",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，她们自幼在莫干山里生活，哪里知晓世间竟有如此无耻之人。\n　　天猫女小脸通红冲了出来，对那名骑兵统领愤怒喊道：“陈八尺，你无耻！”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "安城南那座书院里败了一次，虽然没有多少人知道那次登山的具体情况，但败便是败了。\n　　今天应该是陆晨迦第一次看见那个击败自己未婚夫的男人吧？天谕院诸生愈担心她的心情会低落难过，愈发不敢去看她，以免她感到尴尬羞怒，只好微低着头，状作无意看着荒原地面。\n　　草甸地面上散落着七瓣蓝莲，一片狼籍难堪，陆晨迦如",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "所以神殿才做此安排。\n　　议事尚未进入正题，一位白发皱皮、穿着一件如乞丐般的百纳衣的老妇人手持拐杖，缓缓走了进来，时不时发出两声咳嗽。\n　　天谕司司座大人微躬行礼，笑着说道：“辛苦姑姑。”\n　　包括大唐帝国舒成将军在内，帐内所有人都起身，向那位老妇行礼，这位老妇身为月轮国主之姐，虽然因为出家修行而舍",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "不语，他们当中很多人已经猜到宁缺的真实身份，想起在修行世界里沸沸扬扬从春天到此时的那件事情，不由有些担心晨迦公主的心情。\n　　晨迦公主的未婚夫是隆庆皇子，那位神子般的男人此生顺风顺水，无论是烂柯寺的长老还是天谕院的院长，都无法打破他完美的内外，唯有在长安城南那座书院里败了一次，虽然没有多少人知道那次",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "乞丐般的百纳衣的老妇人手持拐杖，缓缓走了进来，时不时发出两声咳嗽。\n　　天谕司司座大人微躬行礼，笑着说道：“辛苦姑姑。”\n　　包括大唐帝国舒成将军在内，帐内所有人都起身，向那位老妇行礼，这位老妇身为月轮国主之姐，虽然因为出家修行而舍了长公主的封号，但身后隐藏着佛宗诸寺的强大力量，无论神殿还是唐国都不",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "国宗派则是遣出自家年轻一代的修行者前来听命。如今联军与王庭和议既成，诸国势力自然要齐聚一处，商议一番日后行事，召集者毫无疑问也是神殿。\n　　左帐王庭耗了大量人力物资，替神殿大人物们搭起了极为阔大的议事大帐，颇显诚意，这座大帐方圆百步，以竹木为骨绷布而起，帐内光线充足，空间清阔，即便是容纳上百余人，也",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "开口说些什么。\n　　舒成将军自长安城远道而来，而且并不关心神殿内部这些蝇营狗苟之事，只是帝国与大河国素来交好，此时见曲妮玛娣威压大河国少女，他心中稍有不悦，微微蹙眉问道：“究竟发生了何事？”\n　　天谕司司座大人是一位须发皆白，容貌却依然很年轻的男子，他略一思忖后，温和说道：“裁决司护教军统领陈八尺亲",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "多事情。\n　　春天书院二层楼开启的消息传出来后，她一直在默默关注祈祷，她希望自己的伴侣能够得偿所愿，进入后山，成为夫子的亲传弟子。然而她没有想到那样一个骄傲自信强大，似乎永远都不可能失败的男人，居然……败了。\n　　此后隆庆皇子返回西陵，二人之间虽然从未讨论过书院二层楼一事，但她能清晰感觉到，现在的隆",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

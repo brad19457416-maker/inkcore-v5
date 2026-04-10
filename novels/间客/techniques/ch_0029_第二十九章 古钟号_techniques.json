@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 29,
+  "chapter_title": "第二十九章 古钟号",
+  "filename": "ch_0029_第二十九章 古钟号.txt",
+  "char_count": 2132,
+  "timestamp": "2026-04-10T11:53:11.033851",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "军官退役后加入古钟公司，不像船长这些人，直到如今还暗中保持着第四军区的军籍，所以他不明白也不想明白，为什么第四军区的同袍们对于东林大区总有如此强烈的厌恶感，明明西林和东林分处联邦的两端，相隔极为遥远，几年也不见得会打一次交道。\n\n    船长室内回复安静，胖子船长认真地将冷了的咖啡放到身旁，开启了保",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "还没有吃饭。他趁着大爆炸的掩护，从山丘上跑了下来，借助河西州郊区的大混乱，成功地再次进入了地下水道，拼命地奔跑，终于跑到了一片人迹罕至的树林之中。\n\n    一屁股摔坐在厚厚的落叶之中，震起些许陈腐的味道，少年急促地喘息着，感觉身体异常的疲惫和饥饿，他的心也很累，因为悲伤而累，无论是谁在经历了今天这",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "神都会受到极强的冲击，更何况他还没有满十八岁。\n\n    此时已经夜深，树林上空忽然响起啪啪的响声，雨水无来由地落下，震起了地上被落叶盖住的尘土，让整个林间都弥漫着一股灰土的味道。\n\n    灰头土脸的许乐，眼神里满是忧伤。他闭上眼，用力地咬了咬嘴唇，深深地吸了一口气，看了一眼手中紧紧握着的屏蔽仪，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，从秘书的手里接过那杯犹有温度的咖啡，不知滋味地喝了几口。\n\n    “莱克上校回来之后，一定会非常愤怒。”秘书小声地提醒船长，按照一般的配置，船长身边一般是配事务官，而这个胖子却很明显没有企业的自觉，把自己当成某种官员在看待，因为事实上，他本来就是一名军官。\n\n    胖子船长面相极为温柔，但眯着",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "觉自己的心跳越来越强，身体却越来越虚弱，后颈处的刺痛由骨中来，传递到全身，无比寒冷。\n\n    新的人生，在等待着他。\n\n    ——　小＿说txt天'堂",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "公司的幕后还隐藏着西林区实力最雄厚几个家族的身影，甚至有些人隐隐猜联想到，古钟公司或许和驻守西林大区无数年，拥有超卓地位的第四军区有关系。\n\n    这次为了配合联邦的计划，古钟公司派遣了这艘太空飞船来到东林区，带来了西林区的问候和官员，展开了一系列的政府与民间的交流，从表面上看，这些活动，只是为了",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "无数年，拥有超卓地位的第四军区有关系。\n\n    这次为了配合联邦的计划，古钟公司派遣了这艘太空飞船来到东林区，带来了西林区的问候和官员，展开了一系列的政府与民间的交流，从表面上看，这些活动，只是为了掩护第四军区特种机甲小组的行动，但谁也没有料到，真正对叛国机修师发出致命一击的，反而是这艘飞船自身！",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，他本来就是一名军官。\n\n    胖子船长面相极为温柔，但眯着的眼睛偶尔闪过的寒光才能展现出他真实的性格，细声细气说道：“如果莱克能够完成这次任务，我当然不会冒这种险开启主炮。”\n\n    被肉纹占据的眉间闪过一丝阴沉之色，胖船长咬着牙痛苦说道：“一炮就打掉了公司半年的能量配额，你以为我难道不心疼？",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "恶感，明明西林和东林分处联邦的两端，相隔极为遥远，几年也不见得会打一次交道。\n\n    船长室内回复安静，胖子船长认真地将冷了的咖啡放到身旁，开启了保密线路，对着光幕上那个一动不动的头像，无比恭敬，甚至有些谄媚地低头说道：“头儿，我们成功了。”\n\n    那个头像是一个中年人，穿着一身笔挺的深色军服",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "有企业的自觉，把自己当成某种官员在看待，因为事实上，他本来就是一名军官。\n\n    胖子船长面相极为温柔，但眯着的眼睛偶尔闪过的寒光才能展现出他真实的性格，细声细气说道：“如果莱克能够完成这次任务，我当然不会冒这种险开启主炮。”\n\n    被肉纹占据的眉间闪过一丝阴沉之色，胖船长咬着牙痛苦说道：“一",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "名军官。\n\n    胖子船长面相极为温柔，但眯着的眼睛偶尔闪过的寒光才能展现出他真实的性格，细声细气说道：“如果莱克能够完成这次任务，我当然不会冒这种险开启主炮。”\n\n    被肉纹占据的眉间闪过一丝阴沉之色，胖船长咬着牙痛苦说道：“一炮就打掉了公司半年的能量配额，你以为我难道不心疼？莱克那小子真*",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

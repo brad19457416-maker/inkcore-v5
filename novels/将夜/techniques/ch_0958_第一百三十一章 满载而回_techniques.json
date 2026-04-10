@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 958,
+  "chapter_title": "第一百三十一章 满载而回",
+  "filename": "ch_0958_第一百三十一章 满载而回.txt",
+  "char_count": 2322,
+  "timestamp": "2026-04-10T12:11:27.599992",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "识渊博，无论哪个领域，都能做到最好。\n　　酒徒走到崖畔另一处，解下酒壶，开始饮酒，沉默不语看着远方的天空，他要做的事情是帮助道门把昊天送回神国，棋盘至少还有五百年才能开启，对此他一点都不着急，他最擅长做的事情，便是与时间对抗。\n　　首座说道：“五百年很长，足够人间发生很多事情，你们在梨树下等梨花开，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "是切割。\n　　只听得一阵极恐怖的摩擦声响起，石砾激飞，烟尘大作，铁剑绕着梨树，在崖坪表面强横地移动，最终破崖壁而出。\n　　崖坪地面上出现了一道缝，大师兄弯腰，把手伸进缝中。\n　　君陌再次问道：“师兄，可行？”\n　　大师兄说道：“有些辛苦，但可行，你呢？”\n　　“我……还不能走。”君陌提着铁剑，看着峰",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "何等毅力，又是何等气魄？\n　　看着梨树下的二人，首座沉默了很长时间。他没有想到，书院居然连佛宗最大的秘密也都知晓，那个看似普通的书生，果然如传闻里那样，博览群书，学识渊博，无论哪个领域，都能做到最好。\n　　酒徒走到崖畔另一处，解下酒壶，开始饮酒，沉默不语看着远方的天空，他要做的事情是帮助道门把昊天送",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "成功，我自然不会再出手。”\n　　大师兄说道：“多谢。”\n　　他知道酒徒之所以这样说，是因为通过今日的战斗，此人已经确认佛祖留下的棋盘确实没有办法凭借外力打开，但他不想说破。\n　　酒徒能猜到书院想做什么，是因为他认识夫子，他见过轲浩然，知道书院看似肃雅平和，其实里面住着的都是一群疯子。\n　　悬空寺诸僧",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "他发现这并不是完全不可能的事情，当然，就算书院能杀他，只怕也要拿书院来陪葬，甚至拿整个唐国来陪葬，从道理上来看，这种局面应该不会发生。\n　　只是如果书院真的发疯怎么办？如果这些人真要和自己拼命怎么办？\n　　酒徒说道：“道门请我来西荒，要我转述一句话，我的话一年前便已经带到了，而且我也试过把棋盘留在悬",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "摩擦声响起，石砾激飞，烟尘大作，铁剑绕着梨树，在崖坪表面强横地移动，最终破崖壁而出。\n　　崖坪地面上出现了一道缝，大师兄弯腰，把手伸进缝中。\n　　君陌再次问道：“师兄，可行？”\n　　大师兄说道：“有些辛苦，但可行，你呢？”\n　　“我……还不能走。”君陌提着铁剑，看着峰下晦暗阴冷的地底原野，说道：“那",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "了佛祖留下的梨树，甚至还带走了佛祖手掌上的一块肉。\n　　首座沉默不语，脸色苍白。\n　　酒徒喝了口酒，感慨说道：“疯子，从老的到小的，都是一群疯子。”\n　　……\n　　……\n　　大师兄把君陌送回了地底的原野，然后回到了书院。\n　　从这一天开始，书院后山多了一棵梨树。\n　　梨树下有张棋盘。\n　　很多人围着",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "疯子。\n　　悬空寺诸僧不了解书院，自然猜不到书院准备怎样做，他们看着站在梨树前的大师兄，神情渐渐变得紧张起来。\n　　首座看着君陌，看着他手里的剑，忽然神情微变。\n　　君陌没有看他，握着剑柄，一声断喝，铁剑开始在崖坪里行走。\n　　铁剑的行走，便是切割。\n　　只听得一阵极恐怖的摩擦声响起，石砾激飞，烟尘",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "我送师兄一程。”\n　　大师兄说道：“我送师弟一程。”\n　　说完这句话，他的手微微一震，崖坪间那道裂缝骤然变宽。\n　　摩擦之声大作，一块数丈大的崖坪，缓缓离开山体。\n　　那株梨树，便在崖坪上。\n　　泥沙俱下，崖坪之下，隐隐可见梨树的虬然树根。\n　　这座巨峰是佛祖的身体，山崖何其坚固。\n　　君陌的铁剑，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "回神国，棋盘至少还有五百年才能开启，对此他一点都不着急，他最擅长做的事情，便是与时间对抗。\n　　首座说道：“五百年很长，足够人间发生很多事情，你们在梨树下等梨花开，道门不会错过这个机会，书院怎么办？唐国怎么办？”\n　　不愧是悬空寺讲经首座，这一代的人间佛，很简单的一句话，便让场间变得沉默，大师兄和君",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "很简单的一句话，便让场间变得沉默，大师兄和君陌在梨树下静待五百年，谁来守长安？\n　　“这株青树，乃是无数年前佛祖亲手所植，当年的纤瘦树苗，如今已难双掌合围，五百年后你们再来时，或许青树已然参天。”\n　　首座此言颇为感伤，亦是建议。\n　　君陌说道：“梨树不在眼前，书院不得放心。”\n　　首座说道：“这梨",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "”\n　　君陌说道：“小师弟在棋盘里，书院不得不慎重，况且你们这些秃驴最是无耻善变虚伪狂热，只怕我们一离开，你们就会毁了此树。”\n　　青藤后方悬空寺诸僧，听着这话，脸色很是难看。\n　　首座的神情很平静，说道：“书院准备怎么办？寺中逾万僧众，禅心坚定，若真要来夺，你们能守住五百年？”\n　　君陌不再理他，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "”\n　　大师兄想了想，说道：“可行。”\n　　没有说任何具体的内容，他便知道君陌问的是什么意思，于是他缓缓站起身来，握着木棍，站到了梨树前方。\n　　君陌随后起身，静默调息片刻，然后把铁剑刺进崖坪，直至滑柄。\n　　崖坪坚实，铁剑入而无声。\n　　酒徒猜到书院二人要做什么，眉梢微挑，觉得有些不可思议。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

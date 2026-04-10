@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 719,
+  "chapter_title": "第八十二章 黑暗同学会",
+  "filename": "ch_0719_第八十二章 黑暗同学会.txt",
+  "char_count": 3440,
+  "timestamp": "2026-04-10T12:05:17.569820",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "回西林的前夜，在官邸吃的晚餐，那晚总统先生和他之间并没有达成完全的共识，甚至可以说生了一场有些激烈的冲突。”\n\n    “同时，如你所说，钟司令的死对于总统先生整合联邦的大战略很有好处。”许乐低声说道：“但……我相信总统先生，这么多年他用自己的实际行动证明了自己不是一个常见的政客，而是真正内心坚持着",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "烈的冲突。”\n\n    “同时，如你所说，钟司令的死对于总统先生整合联邦的大战略很有好处。”许乐低声说道：“但……我相信总统先生，这么多年他用自己的实际行动证明了自己不是一个常见的政客，而是真正内心坚持着某些东西的政治家。”\n\n    “这一点我也不曾怀疑。”都郁纤细的手指随意拨弄着筷子，说道：“总",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "“虽然我现在更好奇你和宪章局的真正关系，为什么中央电脑会赋予你如此高的权限，为什么你可以知道这么多秘密的情批……邹郁抬起头来，静静地望着他，说道：“但我知道你更感兴趣的是这三次聚会的内幕，名单你已经有了，还需要我做什么？”\n\n    “我不敢相信这份名单工”许乐盯着她的眼睛，无比认真说道：“根据中",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "区副司令……\n\n    邹郁看着电脑光幕上的那些名字，表情一如既的冷淡平静，声音却因为那抹挥之不去的紧张而变得暗哑起来：“甚至我还看到了杜少卿的名字。”\n\n    “聚会的名义是第一军事学院校友会。”许乐低声说道：“也许真的只是校友会，局面并没有我们想的那么严苛，事实上，虽然我一向不怎么喜欢杜少，可",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "好的选择。”\n\n    身为军神李匹夫的独子，李在道担任参谋朕席会议主席一职，可以得到很多军方大佬的全力支持，而此人的行事风格温和甚至可以说有些保守，在日渐充满戾气的联邦军方，又是一个极强的制衡力量。\n\n    这确实是最好的选择www.xiaoshuotＸt，coＭ",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "法向邹郁解释那台联邦中央电脑现在是自己的计算工具……但第一个具期明显有问题，因为崔聚冬的公民芯片信号出现过短暂的空白状态。”\n\n    “怎么可能空白？”都郁眼瞳微缩，不解问道。\n\n    “联邦电子监控网络，就像是恒星的光辉一下无所不在，但有些办法可以把这些光辉挡住。”\n\n    许乐比划着解释道",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "第一军事学院校友会。”许乐低声说道：“也许真的只是校友会，局面并没有我们想的那么严苛，事实上，虽然我一向不怎么喜欢杜少，可我真的很难接受他是一个阴谋分子。”\n\n    “我去查一查，看看除了都是毕业于第一军事学院之外，这些人之间还有什么内在的朕系。”都郁沉默片刻后说道。\n\n    “只查档案，不要进",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "都望成灰烬一般。\n\n    “至于联邦部队，也永远不可能是二军区或者是杜少卿的部队，他们掀不起太大的风浪。”\n\n    他只是一名享受师级待遇的联邦上校军官，没有任何成编制的军事部队可供驱遣，然而老东西帮他梳理出这份名单后，看着名单上的那些大人物和联邦军方实力派将军的名字，他也没有丝毫惧怕，除了本性",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "自己原来遗忘了一件最重要的事情，那就是费城老爷子的年龄，如同一颗冰冷的石头塞进心脏，他感到一阵寒冷，突然袭来的压力之下，又莫名其妙地想起很多别的小事情，军神已经这么老了，大叔呢？为什么当年在东林看着却是如此年轻？\n\n    “很多人在警慢着军方的激进派，只是在很多人看来，这个势力从来未曾真正成形过，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "的晚餐，那晚总统先生和他之间并没有达成完全的共识，甚至可以说生了一场有些激烈的冲突。”\n\n    “同时，如你所说，钟司令的死对于总统先生整合联邦的大战略很有好处。”许乐低声说道：“但……我相信总统先生，这么多年他用自己的实际行动证明了自己不是一个常见的政客，而是真正内心坚持着某些东西的政治家。”",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "多人在警慢着军方的激进派，只是在很多人看来，这个势力从来未曾真正成形过，只是依靠某些相近的理念和战斗渴望而暗相呼应。”\n\n    邹郁看着他的脸，继续说道：“如果他们已经形成了某种紧密的组织，事情就会变得很麻烦，现在联邦便面临着一个很关键的问题，迈尔斯将军已经决定，当前线部队攻下冶星系之后就宣布退休",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "么态度？”许乐问道。\n\n    “现在主要是看总统先生的态度，根据我得到的消息，这一次总统先生和几个大家族前所未有的取得了一致，大概是基于对那股暗流的警惕，迈尔斯将军退休后，应该会提名李在道将军接任此职。”\n\n    李在道是一个在联邦内并不如何响亮的名字，他是军神李匹夫的独子，打遍军中无敌手李封的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "道：“如果说崔聚冬所代表的那个势力从很多年前便开始构织一个阴谋，我所不能理解的是，后面这两今日期，他进入了某个会议室，却没有进行信号屏蔽。”\n\n    邹郁沉默片刻后说道：“很简单，那些人现没有必要进行信号屏蔽，反而这样做很容易引起问题，根据第一宪章和公民**条例，那些人谈过一些什么，就算是联邦中央",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

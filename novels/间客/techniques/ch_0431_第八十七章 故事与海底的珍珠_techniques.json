@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 431,
+  "chapter_title": "第八十七章 故事与海底的珍珠",
+  "filename": "ch_0431_第八十七章 故事与海底的珍珠.txt",
+  "char_count": 3486,
+  "timestamp": "2026-04-10T12:04:59.242692",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "脸震惊，细眉紧拧的美丽少女，看着她紧紧地抓着浴衣的边缘，心情难免不安。\n\n    故事如何开始？大叔为什么要抛弃自己的亲生骨肉，他能猜到些许，却不知该不该讲。难道要他说当年在东林的时候，大叔每周都会去疗养中心，而自己则负责结帐？还是说大叔偶尔心情好的时候，会带着自己坐在香兰大道的修理铺里，隔着落地玻",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“大叔……离开你有他不得已地苦衷。”乐摩娑着墨镜框。因为少女异常地沉默而感到有些伤感。想了想后说道：“他一直在被联邦通缉。所以他不可能陪着你长大。在东林地时候实他一直默默地注视着你。虽然他没有说过我知道他肯定很想你。”\n\n    简水儿坐在椅一动不动。保持着这个姿式太久少女地颈背都有些酸麻。她",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "却符合一名父亲的愤怒。\n\n    ……\n\n    ……\n\n    海风轻吹吹不走遮阳伞下地燥热与令人压抑地气氛。在许乐讲述地过程中。简水儿一直沉默而安静地听着地表情在最初地惊愕之后。便回复了少女地安宁。似乎许乐讲述地那个人与她之间没有任何关系。甚至她一直都没有问。\n\n    “大叔……离开你有他不得",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "作一名联邦头号通缉犯，这种举动明显不符合他穿行于宪章光辉间的谨慎风格……然而却符合一名父亲的愤怒。\n\n    ……\n\n    ……\n\n    海风轻吹吹不走遮阳伞下地燥热与令人压抑地气氛。在许乐讲述地过程中。简水儿一直沉默而安静地听着地表情在最初地惊愕之后。便回复了少女地安宁。似乎许乐讲述地",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "电子围墙这头，着骄傲的清脆声。\n\n    向简水儿讲述大叔的故事，也等于让许乐回味了一遍自己在东林的人生，他说的越来越自然，越来越顺，在阳光下微眯着的眼睛里也越来越亮，晶莹一片不是泪水，只是追忆与感伤。\n\n    随着追忆与讲，许乐想明白了很多事情。\n\n    表面沧桑猥琐，内在惊才艳情淡漠的封余大",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "到她的笑声，此番旅程接触的久了，梦中的偶像来到身旁，展露了生活中最真实的那面，少女乐观可爱简单干脆的性格，就像磁石般，深深地吸引了他。\n\n    向一位少女讲述她死去父亲的故事，是一个很艰难的工作，加先前简水儿充满真挚的一次拥抱，许乐感到有些热，有些累，他解开那件纪梵希的黑色夏装，坐到了椅子，从身旁",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "一起看来就是想通过你的嘴，来告诉我这些。”\n\n    联邦军神李匹夫，是宇宙里最耀眼的一颗恒星，受到无数人的敬仰与崇拜，就连帝国那边恨不得生食其肉的皇族们，提到他时，在仇恨之余，也总会带几丝敬畏。\n\n    宇宙里敢称呼他为老头子的，大概只有两个人。许乐当初在倾城监狱里脱口而出的那次并不算，唯独敢这",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "就从大叔**后面那串沉重的修理工具说起，那些看去简单无比的星字改刀等工具，就像一串骄傲的风铃，与大叔结实而骄傲的臀部不停撞击，在冷清的矿坑和电子围墙这头，着骄傲的清脆声。\n\n    向简水儿讲述大叔的故事，也等于让许乐回味了一遍自己在东林的人生，他说的越来越自然，越来越顺，在阳光下微眯着",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "简水儿为什么听了这个故事之后，还能笑的如此开心，但他喜欢听到她的笑声，此番旅程接触的久了，梦中的偶像来到身旁，展露了生活中最真实的那面，少女乐观可爱简单干脆的性格，就像磁石般，深深地吸引了他。\n\n    向一位少女讲述她死去父亲的故事，是一个很艰难的工作，加先前简水儿充满真挚的一次拥抱，许乐感到有些",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "充满真挚的一次拥抱，许乐感到有些热，有些累，他解开那件纪梵希的黑色夏装，坐到了椅子，从身旁打开一瓶水缓缓喝着，目光却一直小心谨慎地落在海滩处。\n\n    穿着深蓝色泳衣的简水儿，已经像一条灵动的鱼儿般，一头扎进了海水之中。\n\n    此时的海水就像是一块原生的矿石，表皮是丝丝金缕，表皮下却是安宁柔润",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "简水儿没有哭，只是极为好看地蹙着眉尖，撑颌看着泛起万千金丝的海水，安宁无比，脸还带着一抹温暖的笑意，就像是在思考某个很深奥、却又很有意思的哲学问题。\n\n    很久之后，她睁着大大的眼睛，眨动睫毛好奇问道：“他为什么是联邦通缉犯呢？老头儿可从来没有告诉过我这些事情，只说他早就已经死了。”",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

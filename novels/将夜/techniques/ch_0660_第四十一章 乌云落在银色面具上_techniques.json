@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 660,
+  "chapter_title": "第四十一章 乌云落在银色面具上",
+  "filename": "ch_0660_第四十一章 乌云落在银色面具上.txt",
+  "char_count": 3288,
+  "timestamp": "2026-04-10T12:11:26.882991",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "把她交给昊天”\n　　宁缺掀起车窗的窗帘，望向山崖间某处，听到笑声，却看不到隆庆的身影，不由微嘲一笑，心想这家伙竟是越来越谨慎小意了。\n　　他对着崖间说道：“不是所有人都有资格有实力，在光明与黑暗之间摇摆，能做墙头草的人很少，你如果继续这样下去，会死的很惨。”\n　　山崖间传来隆庆平静而自信的声音：“黑",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "局已经注定的战斗，无法引起他任何兴趣，那么将要死去的宁缺，曾经是世人眼中他的一生之敌。\n　　隆庆望向天空里那片乌云，开始思考抓到桑桑之后，怎样才能获得最大的利益，怎样才能避开这片乌云，想来想去，却发现自已的心境有些不宁，他不由自嘲一笑，发现原来自已依然很在意宁缺的死亡。\n　　天上的乌云落在他的脸上，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "色马车，数千左帐王庭的精锐骑兵，还有隆庆皇子与十几名洞玄巅峰境的堕落统领，双方力量悬殊太大，以至于连对峙都称不上。\n　　宁缺的声音从黑色马车里传了出来：“没想到最先来的人是你。”\n　　隆庆回应道：“我现在是这片荒原的主人，你应该能够想到。”\n　　宁缺说道：“难道到现在，你还不明白，神殿只是把当一条狗",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "安全。”\n　　宁缺不想与此人讨论玄思哲辩方面的问题，哪怕是最简单的思辩，直接说道：“既然你想要杀我，为什么还不出来？你在害怕什么？”\n　　隆庆说道：“你马上就要死了，我为什么要出来？”\n　　宁缺说道：“我死了，她也不能活。”\n　　隆庆说道：“我知道你很冷血，但没有想到对她也如此冷血。”\n　　宁缺说道",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "第四十一章 乌云落在银色面具上\n　　一辆黑色马车，数千左帐王庭的精锐骑兵，还有隆庆皇子与十几名洞玄巅峰境的堕落统领，双方力量悬殊太大，以至于连对峙都称不上。\n　　宁缺的声音从黑色马车里传了出来：“没想到最先来的人是你。”\n　　隆庆回应道：“我现在是这片荒原的主人，你应该能够想到。”\n　　宁缺说道：",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "：“没想到最先来的人是你。”\n　　隆庆回应道：“我现在是这片荒原的主人，你应该能够想到。”\n　　宁缺说道：“难道到现在，你还不明白，神殿只是把当一条狗在用？”\n　　“能够做昊天的狗，总比当冥界的鬼要强。”\n　　隆庆稍一停顿后，继续说道：“当然，如果迫不得已，要当冥王的狗，也是我可以接受的事情。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "不敢接我的箭，莫非你要试试？”\n　　隆庆平静的声音回荡在山崖间：“再如何牙尖嘴利刻薄善讽，也没有任何意义，我和你说这些话，不是想在你死前痛快一场，只是要让那成千上万枝箭确定你的位置，知道这个事实，你会不会后悔陪我说了这场话？”\n　　就在他说话的时候，贺兰山缺东面出口外的荒原上，忽然响起一阵密集的嗡鸣",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "不得已，要当冥王的狗，也是我可以接受的事情。”\n　　宁缺说道：“你的野心果然还是那么大，如此看来，你出现在这里，并不见得是要杀死我们，那么何必摆出这么大的阵势？”\n　　“当我信仰昊天，愿意把生命和灵魂都奉献给光明的时候，她是光明的女儿，当我遭逢人间最惨痛的经历，决意献祭冥王，把生命和灵魂都奉献给黑夜",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "这场话？”\n　　就在他说话的时候，贺兰山缺东面出口外的荒原上，忽然响起一阵密集的嗡鸣声，听上去就像是无数蝗虫拍打着翼翅在空中飞舞，显得极为恐怖。\n　　数千枝羽箭射向灰色的云层，然后画着弧线落下，像暴雨一般洒向峡谷里那辆黑色马车，凄厉的箭啸互相影响，竟层层叠叠响若惊雷。\n　　……\n　　……\n　　像宁缺",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "资格这般浪费。\n　　确认箭雨无法对那辆黑色马车造成损伤，他并不失望，因为数千骑兵在箭雨的遮掩下，已经来到贺兰山缺之前，开始进入冲锋前的节奏。\n　　“去吧。”他把银色面具再次戴到脸上。\n　　十余名堕落骑士统领沉声应了声，然后一提马缰，从崖坡上冲了下去，带着数千名草原骑兵，向着峡谷处的那辆黑色马车发起冲",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "没有找到敌人的踪迹。\n　　他脸上的银色面具再次变得幽暗，不是乌云落在上面，也不是石头，而是无数把锋利沉重的斧头在他头顶飞过，向峡谷里的骑兵头顶落下。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "哪怕是最简单的思辩，直接说道：“既然你想要杀我，为什么还不出来？你在害怕什么？”\n　　隆庆说道：“你马上就要死了，我为什么要出来？”\n　　宁缺说道：“我死了，她也不能活。”\n　　隆庆说道：“我知道你很冷血，但没有想到对她也如此冷血。”\n　　宁缺说道：“我只是知道如果我死了，她也不会想活。”\n　　隆庆",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

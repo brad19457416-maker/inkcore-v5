@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 749,
+  "chapter_title": "第一百一十章真的勇士敢于直面惨淡的人生",
+  "filename": "ch_0749_第一百一十章真的勇士敢于直面惨淡的人生.txt",
+  "char_count": 3526,
+  "timestamp": "2026-04-10T12:05:17.617490",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "小萌的电话。\n\n    自从流风坡会所一别之后。三人已经有很长时间没有见面，那一幕露台上关于老情人的冲突，似乎让这对青年男女对彼此的初恋都感到了释怀，但事实上谁能释怀，所以很少有联系，直至此时。\n\n    “我去过墓地，听说第二天你和施清海都去了？真可惜，我们没有碰到。”\n\n    “我知道你现在负",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "快忘了自己姓什么？”\n\n    “不错，我确实喜欢当英雄的感觉\n\n    许乐墨眉狂挑，对着电话大声说道：“小爷也就是一普通人。谁他妈愿意当逃犯不愿意当英雄？被闪光灯照着。我紧张，但其实我暗底里美滋滋的乐！上电视我不去看，其实心里一样美着，怎么？我硬着头皮做了这么些子破事儿。当个英雄都不能？”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "些疲惫，有些累，有些厌倦。有些不甘，就在这个时候，他有些意外地接到了张小萌的电话。\n\n    自从流风坡会所一别之后。三人已经有很长时间没有见面，那一幕露台上关于老情人的冲突，似乎让这对青年男女对彼此的初恋都感到了释怀，但事实上谁能释怀，所以很少有联系，直至此时。\n\n    “我去过墓地，听说第二天",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "第一百一十章真的勇士敢于直面惨淡的人生 \n\n    像摊狗屎一样臭，大街，所以你愤怒了，拿起枪准备小人了。许乐上校同志，我有必要提醒你冷静或者说清醒一些。你当联邦英雄才几年？怎么，现在忽然变成通辑犯，你就觉得很丢脸？”\n\n    部之源在电话中毫不留情面地嘲讽着他：“被人骂两句就",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "第一百一十章真的勇士敢于直面惨淡的人生 \n\n    像摊狗屎一样臭，大街，所以你愤怒了，拿起枪准备小人了。许乐上校同志，我有必要提醒你冷静或者说清醒一些。你当联邦英雄才几年？怎么，现在忽然变成通辑犯，你就觉得很丢脸？”\n\n    部之",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "色边框的眼镜。也许她轻轻捏了下抽屉里藏着的恶魔角。\n\n    “当时在学校里，我总觉得自己承载了很多秘密，很多压力，所以有足够的理由说服自己”有些事情并不是最重要的。现在才知道，原来当时你这个看上去沉默寡言但乐观开朗的旁听生，居然同样承载着如此大的压力。\n\n    “我承受着，所以可以伤害你，你承受",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "己应对的确实有问题，早就有思想准备的事情，为何还是能令自己显得如此愤怒？\n\n    想想简水儿，如果将来某天联邦新闻界忽然暴出她是叛国贼余逢的亲生女儿，而且她还有一半的帝国血统，那又该是怎样恐怖的局面？\n\n    又过了半个小时，利孝通的电话终于来了，许乐不知道在当前局面下。这位七少爷拨通自己电话需",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "并且在邮件的最后很不引人注意地提了一句如果是自己如何如何”\n\n    看完了视频，许乐忍不住蹙着眉头自嘲地笑了起来，想到这一天的纷乱失态，现自己应对的确实有问题，早就有思想准备的事情，为何还是能令自己显得如此愤怒？\n\n    想想简水儿，如果将来某天联邦新闻界忽然暴出她是叛国贼余逢的亲生女儿，而且她",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "许乐墨眉狂挑，对着电话大声说道：“小爷也就是一普通人。谁他妈愿意当逃犯不愿意当英雄？被闪光灯照着。我紧张，但其实我暗底里美滋滋的乐！上电视我不去看，其实心里一样美着，怎么？我硬着头皮做了这么些子破事儿。当个英雄都不能？”\n\n    “结果呢？结果呢？原来我屁都不是！我***还是当年那个东林街上的孤儿",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "吧，我假装自己能理解你现在的心理状态。”即便此时，郜之源依旧保持着部家太子的矜持和俯视感，“可你必须马上冷静下来。把那些枪都收起来。你必须承认，现在局面和当年不同，那时候麦德林已经在准备逃亡，但现在你的敌人明显没有逃亡的意愿，这等于说留给你做判断的时间还很多。”\n\n    许乐这个时候已经冷静了下来",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "话容易被监听的缘故，许乐不会把张小萌负责青龙山情报工作的事儿说明，皱眉说道：“青龙山日益边缘化，我很担心你们那个委员会会不会\n\n    “我看到新冉了。”\n\n    电话那头的张小萌沉默很长时间，也许她推了推黑色边框的眼镜。也许她轻轻捏了下抽屉里藏着的恶魔角。\n\n    “当时在学校里，我总觉得自己",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "得很丢脸？”\n\n    部之源在电话中毫不留情面地嘲讽着他：“被人骂两句就受不了，就觉得自己很臭，在人们印象里，你就是块软硬不吃的生冷硬石头，怎么现在却变得这备敏感？是不是被那部纪录片和那些勋章哄的你快忘了自己姓什么？”\n\n    “不错，我确实喜欢当英雄的感觉\n\n    许乐墨眉狂挑，对着电话大声",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "敌人明显没有逃亡的意愿，这等于说留给你做判断的时间还很多。”\n\n    许乐这个时候已经冷静了下来。安静地听着部之源的分析，叹了口气。说道：“我明白了。”\n\n    “很好部之源说道：“法律方面的问题你不用去管，我在思考请司法学会的那些老人出面，就通辑的追诉时限做些文章。如果这个文章能做的漂亮，那么",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "音有些清淡的伤感，有些嗡嗡的，“今天整个联邦看到这个新闻的人。都会有自己的想法”可我只看到当时最需要温暖的你，结果被我冰着了，我有点后悔。”\n\n    许乐拿着话筒沉默了很长时间。身体站的笔挺，好像就站在她的面前。忽然间展颜一笑，温和说道：“亲爱的，我们都还年轻，后悔还来的及。”\n\n    夜晚更深",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

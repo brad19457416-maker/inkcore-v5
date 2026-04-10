@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 950,
+  "chapter_title": "第一百二十三章 士不可以不弘毅",
+  "filename": "ch_0950_第一百二十三章 士不可以不弘毅.txt",
+  "char_count": 2254,
+  "timestamp": "2026-04-10T12:11:27.531548",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "上，脸色苍白至极，想要敲击自己的脑袋来止痛，却已经没有了那种可能。\n　　烟尘渐静，那道身影渐渐显露在众人眼前。\n　　他的头发很短，锋利的发茬就像书院某处的剑林，对着高远冷漠的天穹，他的右臂已断，轻摆的袖管上却没有一丝皱纹。\n　　他穿着件土黄色的僧衣，僧衣一年未洗，满是尘埃，此时又染着鲜血，很是肮脏，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "那样的冷静而有秩序。\n　　他知道自己不是这种层次力量的对手，必然落败，但身为悬空寺戒律院顶尖的强者，心想总要阻铁剑一瞬，断不能堕了佛宗威严。\n　　所以他不肯松手，死死握着铁棍。\n　　在旁观者眼里，那道铁剑只是在僧人铁棍上一触便离，烟尘里那道身影，再也没有理僧兵首领，在旁平静走过。\n　　轰轰轰轰，真正",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "不！弘！毅！”\n　　这句话很简单，只有七个字，这句话的意思很深远，足以品味七百年，这句话的威力很大，轻松地把佛言碾成碎片。\n　　贵人们想不明白，戒律院的长老们想不明白，七念也想不明白，但他想到了一件事情，他曾经听已死的七枚说过，当年在白塔寺前，书院大先生临战悟道，只用了一句话便破了讲经首座的佛言。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "一挥，便格住了僧兵首领挟无数天地元气砸落的那一棍。\n　　铁剑铁棍相格，其间有火光四溅，有春雷暴绽，有瞬间静默。\n　　僧兵首领只觉一道恐怖的力量从铁棍传来，那道力量给人的第一感觉非常狂暴，但更深的层次里，却是那样的冷静而有秩序。\n　　他知道自己不是这种层次力量的对手，必然落败，但身为悬空寺戒律院顶尖的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "僧兵便攻了过去！\n　　佛号声声，僧兵如佛降人间。\n　　断字如雷，凡人如鬼出地狱。\n　　原野被血染遍，战斗异常激烈，观战的贵人脸色苍白，哪里想到这些贱民，居然能和神山来的活佛打的如此激烈。\n　　戒律院长老们想不明白，这些罪民哪里来的勇气，居然能够抵抗百余僧兵借来的佛言之力，看着眼前的血海世界，仿佛见着",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "奴们向着残兵与曾经心中的活佛杀去，其声如雷。\n　　在佛经里，佛祖曾经这样解释天穹上的雷声，说那是云与天空的摩擦或者撞击，而在今天的战场上，雷声是铁与铁的撞击。\n　　烟尘在草甸间飘拂，一道铁剑忽然现身。\n　　这道铁剑很直，世间再也找不到更直的存在。\n　　这道铁剑很厚，厚的不像是剑，更像是块顽固的铁块。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "声是铁与铁的撞击。\n　　烟尘在草甸间飘拂，一道铁剑忽然现身。\n　　这道铁剑很直，世间再也找不到更直的存在。\n　　这道铁剑很厚，厚的不像是剑，更像是块顽固的铁块。\n　　铁剑呼啸破空斩落。\n　　一名僧兵举起铁棍相迎，只听得一声雷响，铁棍骤然粉碎，僧兵跌落于地，口吐鲜血，身发无数清脆裂响，就此身碎而死。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "经首座的佛言。\n　　当时大先生说的那句话是：“子不语怪力乱神。”\n　　此时七念很自然地想到这件往事，难道此时罪民们正在喊的这句话……也是夫子说的？就算如此，那个人的道怎么可能到了这一步？\n　　他想错了，此时回荡在原野间，为农奴们带来无数勇气与坚毅气质的话，并不是夫子说的，而是那个人说的。\n　　这句话",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "握着的铁剑不停在淌血，他浑身都是血。\n　　看容颜，他就是个普通僧人，但这般浑身染血，自血海般的战场里走出，就像是自地狱里走出的一座血佛。\n　　原野间一片死寂。\n　　七念和戒律院长老们，看着书院后山最骄傲、最恐怖的二先生，想着他这一年里在地底世界的所杀的人，叹息说道：“我佛慈悲。”\n　　他说道：“佛祖",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "七念和戒律院长老们，看着书院后山最骄傲、最恐怖的二先生，想着他这一年里在地底世界的所杀的人，叹息说道：“我佛慈悲。”\n　　他说道：“佛祖可悲。”\n　　七念合什说道：“那年在青峡前，你力敌千军，然而此地不是青峡，是佛土，你没有书院同门相助，便是战至时间尽头，也无取胜之可能。”\n　　他说道：“士者，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

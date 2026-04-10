@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1011,
+  "chapter_title": "第二十章 秋风秋雨杀闲人（下）",
+  "filename": "ch_1011_第二十章 秋风秋雨杀闲人（下）.txt",
+  "char_count": 3324,
+  "timestamp": "2026-04-10T12:11:34.915812",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "会馆，在雨中把清河郡的人全部杀光了。”\n　　他说道：“现在想来，我有些后悔。”\n　　官员们神情微和，心想书院仁善……然而紧接着宁缺说道：“当时应该留些慢慢来杀，或者能够得到更多的好处。”\n　　庭间一片死寂，只有雨声和孩子们压抑不住的哭泣声。\n　　“我知道你们觉得自己很无辜，那些清河人大概也这么觉得，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "接着宁缺说道：“当时应该留些慢慢来杀，或者能够得到更多的好处。”\n　　庭间一片死寂，只有雨声和孩子们压抑不住的哭泣声。\n　　“我知道你们觉得自己很无辜，那些清河人大概也这么觉得，甚至从唐律或者道德来看，你们有些人真的是无辜的。”\n　　宁缺看着雨中的数百人，说道：“但我不在乎。”\n　　庭间的官员和羽林",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第二十章 秋风秋雨杀闲人（下）\n　　院子里黑压压跪了一地囚犯，这些囚犯有男有女，有老有少，衣衫褴缕，脸色苍白，明显已经多年没有见过阳光，他们早已失去了继续活下去的勇气或者说渴望，死亡对于他们来说或者是种解脱，他们",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "庭间的官员和羽林军都是唐人，他们很在乎这些事情，所以脸色有些难看，然而上官扬羽不在乎，在秋雨里缓缓举起右手。\n　　他和宁缺都是非典型唐人，唐律对于他们来说只是工具，至于那些美好的道德或者说情怀，用来欣赏便好，不需要拥有。\n　　手起，便是刀落。\n　　刀落，便是头落。\n　　苍老的脸颊，年轻的脸颊，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "也没有让这场景增添多少肃然的感觉。\n　　那些来自户部的官员看着这幕画面，不免有些紧张，拿着笔的手微微颤抖，而那些在旁等候的行刑者，则显得很平静，握着刀柄的手稳定至极。\n　　“怎么杀？”\n　　上官扬羽半躬着身子站在宁缺身后，低声说道：“当年参与叛乱的修行者，除了病死和受刑死的，都在这里，是全杀了还是挑",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "者，则显得很平静，握着刀柄的手稳定至极。\n　　“怎么杀？”\n　　上官扬羽半躬着身子站在宁缺身后，低声说道：“当年参与叛乱的修行者，除了病死和受刑死的，都在这里，是全杀了还是挑着杀？”\n　　宁缺看着秋雨里那些囚犯，说道：“可能要杀几次，今天先别杀光。”\n　　上官扬羽说道：“按照什么标准挑选？对西陵神殿",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "力，所以……我不可能知道杀多少人才足够，我甚至怀疑怎么杀都是不够的。”\n　　宁缺知道上官扬羽的说法有道理，这也是他最没有把握的事情，俗世里的悲欢离合真能影响到酒徒这样的人吗？\n　　冷雨沥沥风自寒，却无法阻止刺鼻的血腥味在庭间弥漫，他看着雨水无法冲淡的稠血，说道：“秋风秋雨愁煞人。”\n　　便是此时，上",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "成几批。\n　　“这些……大部分只是家眷。”一名户部官员翻了翻手里的囚犯名册，望向上官扬羽震惊说道：“难道这些人也都要杀？”\n　　上官扬羽没有回答他的问题，望向宁缺问道：“也瞎挑着杀？”\n　　官员们的脸色有些难看。被押到庭前的数百人都是受牵连的家眷，就算当年在战争里知情不报，甚至有从犯行为，依据唐律也",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "求饶声、怨毒的叫骂声、悲凉的哭泣声，各式各样的头颅不停掉落在雨中。\n　　数百名叛国者的家眷，在秋雨里纷纷死去，刀锋切过骨肉，带来死亡，声音变得越来越闷，那是锋口卷刃的关系，直至最后，砍头的声音变成某种棒击，像是破鼓在被不停敲打，沉闷而恐怖至。\n　　刀斧手的手终于颤抖起来，户部官员们的手更是快些握不住",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "刀落。\n　　刀落，便是头落。\n　　苍老的脸颊，年轻的脸颊，犹带稚气的脸颊，因为失去血液又被秋雨洗过，瞬间变得苍白无比，再没有任何生命的气息。伴着惊恐的喊声、凄惶的求饶声、怨毒的叫骂声、悲凉的哭泣声，各式各样的头颅不停掉落在雨中。\n　　数百名叛国者的家眷，在秋雨里纷纷死去，刀锋切过骨肉，带来死亡，声音",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "这么多颗人头，终究还是件很累的事情。\n　　刑部派来的仵作和户部的相关职司人员，涌进庭前开始检查尸体，同时准备处理这些尸体，刀斧手们饮完一碗烈酒后，在旁稍事休息。\n　　还没有完，宁缺说过，今天要杀很多人，把这些尸首搬走，把庭前的地面空出来，待刀斧手们恢复体力，还要继续杀人。\n　　接着送过来的囚犯更多，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "男有女，有老有少，衣衫褴缕，脸色苍白，明显已经多年没有见过阳光，他们早已失去了继续活下去的勇气或者说渴望，死亡对于他们来说或者是种解脱，他们跪的很麻木，没有任何赎罪的意味，于是自天而降的雨水也没有让这场景增添多少肃然的感觉。\n　　那些来自户部的官员看着这幕画面，不免有些紧张，拿着笔的手微微颤抖，而那",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "的家眷，就算当年在战争里知情不报，甚至有从犯行为，依据唐律也很难判死罪，判死罪那也是刑部或者大理寺的权力，难道就要这样杀了？\n　　这数百名家眷在狱中被囚数年，精神倒还不错，因为不是修行者，也没有受到什么禁制，还能发出声音，此时听着官员的话，他们才知道今日将要发生何事，不由惊恐万分，哭着喊起冤来。",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

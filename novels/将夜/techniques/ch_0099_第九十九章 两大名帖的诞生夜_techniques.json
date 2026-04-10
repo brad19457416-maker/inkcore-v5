@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 99,
+  "chapter_title": "第九十九章 两大名帖的诞生夜",
+  "filename": "ch_0099_第九十九章 两大名帖的诞生夜.txt",
+  "char_count": 3186,
+  "timestamp": "2026-04-10T12:11:12.032322",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "了个酒嗝，味道很是难闻。\n　　闻着满室的酸腐酒气，简大家微微蹙眉，不悦瞪了他一眼，旋即淡淡自嘲一笑，心想自己这怒意毫无道理，总不能让眼前这少年替当年那家伙顶罪吧？她看着宁缺尽可能平静问道：“说说这些天在书院里学了些什么。”\n　　宁缺接过小草递过来的浓茶，急忙灌了两口平静心神，诚挚道了声谢后才毫不急迫",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "扮的水珠儿姑娘仿佛感应到什么，看着身前水盆里反映着的满天繁星怔住了，不知为何忽然非常想家，想念那个只存在于幻想中，从未出现在她生命中的温暖的家，想念从未品尝过的母亲做的鸡汤的味道，瞬间湿了眼眶。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，依言随着侍女去重新梳洗打扮。\n　　她只知道这位客人身份重要，乃是简大家亲自交待的贵宾，却不知道对方究竟是谁，做着怎样的营生，至于容貌衣着这些外在东西，向来不是她或她们关心的重点，重要的是这位道爷出来向来极其大方，而且他自称为保元神，来了两三次都只动手不肯来真的，青楼女子哪有不喜欢这种客人的道理。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "是勤勉，只是你既然书礼二科毫无基础，便应当在这两门上多花些功夫，而不是破罐子破摔干脆不去理会。要知道将来你从书院离开后，无论是入朝为官还是外放为牧，总是离不开这些案牍本事。”\n　　听着宁缺每日必进旧书楼，简大家展颜一笑，眼角的鱼尾纹皱的更深了些，继续接着问道：“既然你天天进旧书楼，想必也知道了二层楼",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "可如果你自己都认为奇迹不可能发生，那谁也帮不了你。”\n　　宁缺并不知道当年那位骑着小黑驴直闯长安城，最终在世间闯下偌大名头，最后却如风雨下的浮萍般消失不见的前辈，自然也不明白简大家为何要对自己这样一个穷小子投予如此多的关注。他知道这份关注背后肯定有些原因，但不理会那些原因是什么，面对着一位和蔼妇人的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "院开始修身养性，懂得了好知求知这四个字的重要性，哪里想到学问没涨多少，这酒胆倒了涨了不少。”\n　　简大家平静看着他，朴实和蔼的眉眼间没有什么痛心疾首之色，只是平缓直叙。但正是这种平常对谈，反而给宁缺造成了极大的压力，他讷讷不知该如何言语，强行镇定意图一笑解尴尬，却不料呃的一声打了个酒嗝，味道很是难闻",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，那谁也帮不了你。”\n　　宁缺并不知道当年那位骑着小黑驴直闯长安城，最终在世间闯下偌大名头，最后却如风雨下的浮萍般消失不见的前辈，自然也不明白简大家为何要对自己这样一个穷小子投予如此多的关注。他知道这份关注背后肯定有些原因，但不理会那些原因是什么，面对着一位和蔼妇人的殷切教诲依然真心感激。\n　　因为",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "书楼，想必也知道了二层楼的事情？”\n　　“是的。”宁缺礼貌回答道。\n　　简大家微一思忖，然后神情认真说道：“你觉得自己什么时候能进二层楼？”\n　　宁缺举袖掩嘴，强行压抑住想要打酒嗝甚至是呕吐的欲望，摇头回了句：“但凡能进那种地方的人无一不是修道天才，而我的身体根本不能进行修行，根本不敢对进入二层楼生",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "感应到什么，看着身前水盆里反映着的满天繁星怔住了，不知为何忽然非常想家，想念那个只存在于幻想中，从未出现在她生命中的温暖的家，想念从未品尝过的母亲做的鸡汤的味道，瞬间湿了眼眶。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "吐的欲望，摇头回了句：“但凡能进那种地方的人无一不是修道天才，而我的身体根本不能进行修行，根本不敢对进入二层楼生出任何痴念。”\n　　“你这孩子能不能有些出息？难得进入书院这么好的地方，就要好好珍惜学习的机会，不要说什么痴念不痴念的痴话……”\n　　简大家看着他蹙眉摇头，大有叹其不争之意。当年她亲眼看着",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。\n　　简大家微一思忖，然后神情认真说道：“你觉得自己什么时候能进二层楼？”\n　　宁缺举袖掩嘴，强行压抑住想要打酒嗝甚至是呕吐的欲望，摇头回了句：“但凡能进那种地方的人无一不是修道天才，而我的身体根本不能进行修行，根本不敢对进入二层楼生出任何痴念。”\n　　“你这孩子能不能有些出息？难得进入书院这么好",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "写的鸡汤二字差别极小，而隐隐间仿佛有道道气流，顺着瘦高道人的指尖渗透酒水，沁入了坚硬红木的深处，然后瞬间散开，变成无数细微的气旋消失无踪。\n　　正在房外梳洗打扮的水珠儿姑娘仿佛感应到什么，看着身前水盆里反映着的满天繁星怔住了，不知为何忽然非常想家，想念那个只存在于幻想中，从未出现在她生命中的温暖的家",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，来了两三次都只动手不肯来真的，青楼女子哪有不喜欢这种客人的道理。\n　　肮脏瘦高道人在桌旁自倒了杯酒缓缓饮着，正百无聊赖之际，看见酒壶旁有张被揉做一团的纸，纸上最普通的帐簿纸，隐隐透着里面的字迹，基于此生数十年修行养成的癖性，他纯属本能里拣起那个纸团，然后细细在桌上铺开。\n　　皱乱纸张上写着一行墨字",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "身前水盆里反映着的满天繁星怔住了，不知为何忽然非常想家，想念那个只存在于幻想中，从未出现在她生命中的温暖的家，想念从未品尝过的母亲做的鸡汤的味道，瞬间湿了眼眶。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

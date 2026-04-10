@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 423,
+  "chapter_title": "第二百二十八章 有阁无墙",
+  "filename": "ch_0423_第二百二十八章 有阁无墙.txt",
+  "char_count": 3293,
+  "timestamp": "2026-04-10T12:11:21.763146",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "往林子里拐了进去。\n　　宁缺掀起窗帘向外望去，隐约可见密林后方有一大片平坦的草甸，看上去就像是塞外的风光，不禁略感惊诧。\n　　大唐以武立国，南征北战，军部辖着四大边军各郡厢军还有羽林军，乃是帝国威权最重的部堂，在异国人的心中更是世间最可怕的地方。\n　　这是宁缺第一次来到军部。\n　　他没有想到朱雀大道",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "麻烦？”\n　　宁缺说道：“就算……那位老将军能猜到，他也不能把我如何。”\n　　桑桑有些不解，问道：“为什么这么着急？”\n　　以往杀御史张贻琦或陈子贤时，宁缺总要调查很长时间，然后确认朝廷没有注意到这件事情时，才于无声处响一道惊雷。\n　　城门郎黄兴和于水主是当年将军府灭门惨案里的重要角色，宁缺已经调查",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "大边军各郡厢军还有羽林军，乃是帝国威权最重的部堂，在异国人的心中更是世间最可怕的地方。\n　　这是宁缺第一次来到军部。\n　　他没有想到朱雀大道旁竟然还有这么一片草甸平林，看似简单朴素，但在地价日贵的长安城里，实际上却是豪奢到了极点。\n　　他也没有想到大唐军部竟是毫无森严气象，无高墙箭楼静衙，只是隐在青",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "话便是私下的谈话，今日却是在大唐军部，老人穿着朝服，这场谈话便不再是私下的谈话，而是一场非常严肃甚至危险的问话。\n　　宁缺走进木楼，在那些忙碌着整理卷宗和各边军情的军官吏员间走过，拾阶而上登楼，随着环境渐境，便来到了顶楼阁中。\n　　昨日落了一场雨，暮春的浮华粉腻意被一扫而空，阁间的空气异常清新，有风",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "在油纸伞下化为灰烬的黄兴，死于他的一记火符。\n　　于水主，则是死在井字符之下。\n　　井字符是颜瑟大师最强大的神符，去荒原之前，颜瑟大师便把这道符意传给了宁缺，只是因为符意艰深神妙，宁缺直至前些时日从崖洞里破关而出，才真正掌握了这道符的符意。\n　　以浩然气为引，宁缺成功施出的井字符更像是一种模拟，当然",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "世转过身来，看着他说道：“因为我大唐军人的使命是御敌于国境之外，若让敌人打进长安城里，包围了军部，那大家通通拿刀子割喉咙自杀算了，还打什么打？既然如此，军部为何还要围墙？至于这楼阁，则是要告诉所有的大唐军人，要有登楼阁怀天下小天下的气度和眼光。”\n　　宁缺说道：“原来有此深意。”\n　　许世看着他的眼",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "那两个人是谁，不需要记住，也不会忘记。\n　　大唐亲王李沛言以及镇军大将军夏侯。\n　　桑桑走到他身后，说道：“会不会有麻烦？”\n　　宁缺说道：“就算……那位老将军能猜到，他也不能把我如何。”\n　　桑桑有些不解，问道：“为什么这么着急？”\n　　以往杀御史张贻琦或陈子贤时，宁缺总要调查很长时间，然后确认朝",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。”\n　　……\n　　……\n　　第二日清晨，酸辣面片汤的摊子都还没有摆出来，便已经有几名大唐军部的官员来到了老笔斋外，叩响了铺门。\n　　宁缺早已准备好，推门而出，看着昨日在朱雀大街上见过的那名官员，说道：“将军又要请我过去谈话？”\n　　那名官员的神情比昨日要显得冷漠很多，简洁说道：“请。”\n　　昨日刚",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "人已经猜到是我做的。”\n　　宁缺把桌上那张丧乱帖递给桑桑，示意她收好，说道：“如果我今天不抢着动手，以后可能就很难有机会动手了。”\n　　桑桑接过书帖，问道：“明天如果还要去将军府，我陪你去。”\n　　宁缺摇了摇头，说道：“不用，我已经传信到书院，到时候有人陪我。”\n　　……\n　　……\n　　第二日清晨，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

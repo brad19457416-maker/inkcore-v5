@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 934,
+  "chapter_title": "第一百零七章 坐井观天",
+  "filename": "ch_0934_第一百零七章 坐井观天.txt",
+  "char_count": 3260,
+  "timestamp": "2026-04-10T12:11:27.511047",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，那道高险的崖壁就是井壁，站在井底的人，便是被井壁挡住了去路。\n　　生活在这里的人们，世世代代看到的天空都是圆的，而原野间那些田地，则是方方正正，无比规整，这就是天圆地方？\n　　宁缺看着眼前的画面，有些震撼想道。\n　　桑桑不觉震撼，对这个佛祖创造的神奇世界，只做了这样一句评价。\n　　“坐井观天。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的存在，她必须趁着自己还足够强大的时候把佛祖杀死，不然等到她登天回神国或是变成凡人的那一天，便会极为危险。\n　　既然如此，她这句话便有道理，只是他觉得很无聊，捂着额头说道：“能不能换个说法？你都说了这么多遍了，腻不腻？你能不能不要动不动就寻生觅死的？我们虽然是夫妻，但你也不能真把自己当普通女人啊。”",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，看着也确实很像瞎子在走路。\n　　听着宁缺的话，她神情漠然说道：“你就这么想我死？”\n　　宁缺明白她为什么要急着确认佛祖的生死，如果佛祖还活着，便是现在人间唯一能够威胁到她的存在，她必须趁着自己还足够强大的时候把佛祖杀死，不然等到她登天回神国或是变成凡人的那一天，便会极为危险。\n　　既然如此，她这句",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "想我死？”\n　　宁缺明白她为什么要急着确认佛祖的生死，如果佛祖还活着，便是现在人间唯一能够威胁到她的存在，她必须趁着自己还足够强大的时候把佛祖杀死，不然等到她登天回神国或是变成凡人的那一天，便会极为危险。\n　　既然如此，她这句话便有道理，只是他觉得很无聊，捂着额头说道：“能不能换个说法？你都说了这么",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "缺走到田里摘下一枝穗，用手指搓开外壳，发现里面的谷粒，比中原人常见的米要小很多，散发出来的谷香也有些陌生。他拔出一根，发现这种植物的根系相当发达，猜想，这大概是某种特殊的稻子，可以凭借对地暖的汲取来抵抗严寒，看稻叶的形状，大概对光明的需求也相对较少。\n　　这片远离人世的地底原野，光照自然不如地表那般",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "顶庙里自行看佛经，又怎么会在山下这些破庙里盘桓。”\n　　桑桑想了想，看着他说道：“白痴。”\n　　宁缺心想自己的推论如此有道理，你想不到就罢了，居然还骂我是白痴？这真是轲浩然难忍，笑姨也不能忍。\n　　“我哪白痴了？”他恼火问道。\n　　桑桑哪里会理他，背着双手继续向峰上走去。\n　　宁缺背起沉重的行李，跑",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第一百零七章 坐井观天\n　　来到悬崖前，看着眼前的天坑巨峰和峰间的寺庙，宁缺沉默不语。这是他第二次看到悬空寺的真容，但依然觉得很是震撼。\n　　崖壁十分陡峭，从荒原地表忽然下陷，看着颇为惊人心动魄，宁缺把大黑马和车厢留在了地面，跟",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "他恼火问道。\n　　桑桑哪里会理他，背着双手继续向峰上走去。\n　　宁缺背起沉重的行李，跑到她身后跟着，愤怒地不停质问自己究竟哪里白痴？明明知道你男人最喜欢骂人白痴，你怎么能无道理地骂你男人白痴？\n　　……\n　　……\n　　一路寻寻觅觅，夜寺冷冷清清。\n　　二人把山峰峰下方那数十道崖坪里的数百座黄庙全部寻",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "天坑就是个巨大的枯井，那道高险的崖壁就是井壁，站在井底的人，便是被井壁挡住了去路。\n　　生活在这里的人们，世世代代看到的天空都是圆的，而原野间那些田地，则是方方正正，无比规整，这就是天圆地方？\n　　宁缺看着眼前的画面，有些震撼想道。\n　　桑桑不觉震撼，对这个佛祖创造的神奇世界，只做了这样一句评价。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "对此他没有意见，两口子过日子嘛，总是需要有人主外有人主内，既然妻子有能力主外，自己主内又何妨？\n　　沉重的箭匣与铁刀，大黑伞和形状非常碍事儿的佛祖棋盘，被他非常细致地整理好，装进了行李里，此时正在他的背上。\n　　行李实在是太过沉重了些，峰间山道又是如此的漫长，哪怕他修行浩然气后，身体棒的不像话，力气",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，待二人走到某道崖畔时，宁缺终于一屁股坐到了石头上。\n　　“歇会儿再走。”\n　　他擦着汗水，喘着粗气说道：“我觉得这么瞎找不是个事儿。”\n　　桑桑自然不会累，只是像离开桃山后这一路上那样，觉得有些疲惫，有些倦，在峰间行走的大部分时间里，她竟都是闭着眼睛在行走，看上去就像是真的在睡觉，当然，看着也确实",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，速度亦是极快，饶是如此，二人依然走了很长时间，才走到山峰之下，其时天色已暮。\n　　暮时的世界应该是温暖的，但对于天坑里的世界来说，只有黑暗与寒冷。西沉的斜阳根本照不到这里，坑底广阔的原野和整座山峰都被阴影笼罩，只是最高处的峰顶还在暮色里，就像是一点烛火。\n　　看着夜色里的山道，宁缺默默调息，做好了",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

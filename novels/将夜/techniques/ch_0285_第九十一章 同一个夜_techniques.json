@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 285,
+  "chapter_title": "第九十一章 同一个夜",
+  "filename": "ch_0285_第九十一章 同一个夜.txt",
+  "char_count": 2519,
+  "timestamp": "2026-04-10T12:11:21.745099",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "细细的指尖熄灭，桑桑抬头望向天上的星星，认真问道：“老师，神术感知操控昊天神辉，昊天神辉就是阳光，那为什么星光也可以？”\n　　老人把手从棉袄袖筒里取出来，准备讲解数句昊天真义。\n　　桑桑没有注意到他的动作，眯着柳叶眼看着夜星，蹙着眉尖继续说道：“难道说天上的这些星星就是无数颗太阳？只不过它们离我们太",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "问道：“老师，修行是通过操控天地元气操控兵器打人，我们修神术该怎样打人呢？”\n　　老人笑着摇了摇头，心想徒儿竟是一心念念不忘用神术打人，真不知道她心里有什么事情让她如此执着，轻声说道：“昊天神辉最为澄静，为天地间所有元气之始之本，但它却又最为狂暴，因为它可以将天地间所有事物尽数净化为虚无。”\n　　一",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "神官。\n　　前些天长安城里落了几场小雪，今夜雪止云散天地清朗，黑漆漆的夜穹上缀着千万颗星辰，平静看着大地上的建筑以及建筑里的人们。\n　　神辉渐渐在细细的指尖熄灭，桑桑抬头望向天上的星星，认真问道：“老师，神术感知操控昊天神辉，昊天神辉就是阳光，那为什么星光也可以？”\n　　老人把手从棉袄袖筒里取出来，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "洁白的光焰从老人指间飘落，落在先前被桑桑自膝头拂落的冬叶上，嗤的一声轻响，冬叶上的残雪痕迹和叶片本身瞬间消失无终，连一丝青烟都没有。\n　　桑桑看着这幅画面，低头静静思考了片刻，然后抬起头来，学着老人先前的模样伸出自己的食指，圆融可爱的光焰生于指尖，光焰中蕴着恐怖的高温。\n　　老人看着她指尖上那团光焰",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "里落了几场小雪，今夜雪止云散天地清朗，黑漆漆的夜穹上缀着千万颗星辰，平静看着大地上的建筑以及建筑里的人们。\n　　神辉渐渐在细细的指尖熄灭，桑桑抬头望向天上的星星，认真问道：“老师，神术感知操控昊天神辉，昊天神辉就是阳光，那为什么星光也可以？”\n　　老人把手从棉袄袖筒里取出来，准备讲解数句昊天真义。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "袄袖筒里取出来，准备讲解数句昊天真义。\n　　桑桑没有注意到他的动作，眯着柳叶眼看着夜星，蹙着眉尖继续说道：“难道说天上的这些星星就是无数颗太阳？只不过它们离我们太远，所以看着小一些暗一些，修行神术时感受到的气息才会比白天要淡很多？”\n　　老人感慨想着自己是在修行神术三年之后才想到这点，自己新收的女徒",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "神术三年之后才想到这点，自己新收的女徒儿却如此早便发现了，不由生出喜悦骄傲失落微酸诸多复杂情绪：“从道理上讲应该是这样，但十几年前我曾经看过一眼星星的模样，觉得和自己想像的并不一样。”\n　　桑桑收回目光不再仰望星空，看着老人慈祥的面容，认真问道：“老师，修行是通过操控天地元气操控兵器打人，我们修神术",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，波浪里蕴含的力量便是它的威力所在，但你的比喻没有错，只有当神辉里的微粒开始剧烈震荡摩擦出非世间所能出现的剧烈高温时，才会展现出它独有的净化世间一切物的威力。”\n　　老人看着桑桑若有所神的小脸，停顿片刻后，神情凝重说道：“神术是一种很强大的能力，然而能力越大责任便越大。任何想要拥有这种能力的人，必须",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "高温时，才会展现出它独有的净化世间一切物的威力。”\n　　老人看着桑桑若有所神的小脸，停顿片刻后，神情凝重说道：“神术是一种很强大的能力，然而能力越大责任便越大。任何想要拥有这种能力的人，必须要有与之相配的品德，必须内心纯净透明无一丝阴秽，持光明观，如此才会不被反噬。”\n　　在他的眼中，桑桑从发丝到脚",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "停留。\n　　桑桑摇头说道：“透明没有颜色，而无论是阴秽还是光明，它们都是颜色。”\n　　老人沉默无言，缓缓品味着女徒的这句话，竟觉得很有道理，隐隐约约间，他发现这种说法才是对的，感慨想道大概只有真正透明的人才会领悟到这点吧。\n　　桑桑继续认真说道：“少爷以前教过我，力量就是力量，本身没有任何善恶之类的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "第九十一章 同一个夜\n　　当他在穿山越岭的那一边，她在长安城里安静地等待。\n　　同是寒冬，寒意的浓淡却不相同，好在黑夜还是那样公平，遮住天弃山脉时也遮住了长安城，深冬的临四十七巷里，老笔斋再次迎来了一个寻常的夜。\n　　小小庭院里，桑桑坐在小板",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "发现宝藏般逡巡临四十七巷多日，认为她就是昊天赐给自己的机缘。\n　　此时老人如此凝重述说着光明观，便是担心日后若自己离开这个世界，这个女徒会被世间黑暗遮蔽双眼，被尘埃蒙昧心灵，变得不再透明。\n　　庭院里有一口井，井旁水桶里是刚刚提起来的水，星光渗进去却无法停留。\n　　桑桑摇头说道：“透明没有颜色，而无",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "宝藏般逡巡临四十七巷多日，认为她就是昊天赐给自己的机缘。\n　　此时老人如此凝重述说着光明观，便是担心日后若自己离开这个世界，这个女徒会被世间黑暗遮蔽双眼，被尘埃蒙昧心灵，变得不再透明。\n　　庭院里有一口井，井旁水桶里是刚刚提起来的水，星光渗进去却无法停留。\n　　桑桑摇头说道：“透明没有颜色，而无论是",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "临四十七巷多日，认为她就是昊天赐给自己的机缘。\n　　此时老人如此凝重述说着光明观，便是担心日后若自己离开这个世界，这个女徒会被世间黑暗遮蔽双眼，被尘埃蒙昧心灵，变得不再透明。\n　　庭院里有一口井，井旁水桶里是刚刚提起来的水，星光渗进去却无法停留。\n　　桑桑摇头说道：“透明没有颜色，而无论是阴秽还是光",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "上那团光焰，虽说这些天已经从这个小女徒处感受到了太多震撼，苍老的眼眸里依然难以抑止地涌现出惊叹和喜悦满足的神情。\n　　看一眼便能凝结昊天神辉，再看一眼便能运用昊天神辉？\n　　老人被赞为继千年前那位传奇人物之后最出色的光明大神官，是世间距离昊天最近的那个人，然而他很清楚自己做不到这样，千年之前那人也做",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

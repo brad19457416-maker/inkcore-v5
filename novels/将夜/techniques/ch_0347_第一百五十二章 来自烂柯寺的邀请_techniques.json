@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 347,
+  "chapter_title": "第一百五十二章 来自烂柯寺的邀请",
+  "filename": "ch_0347_第一百五十二章 来自烂柯寺的邀请.txt",
+  "char_count": 3367,
+  "timestamp": "2026-04-10T12:11:21.765794",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "衣裳，美妙的理由，不外乎就是请教修行上的疑难，互相参详一下境界修为，撕掉这些所有的外在，才是赤裸裸的真相：请君一战！\n　　确认这名烂柯寺僧人发出了战斗的邀请，宁缺脸色微变，看着他那张微黑的脸颊，不由想起桑桑和卓儿的肤色，心想自己这辈子似乎和这种肤色的人杠上了。\n　　片刻后，他诚恳说道：“出家人慈悲为",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "确认这名烂柯寺僧人发出了战斗的邀请，宁缺脸色微变，看着他那张微黑的脸颊，不由想起桑桑和卓儿的肤色，心想自己这辈子似乎和这种肤色的人杠上了。\n　　片刻后，他诚恳说道：“出家人慈悲为怀，何必在意那些身外虚名？”\n　　观海僧人更加诚恳说道：“贫僧在寺中苦修多年，时常听闻长老提及当年在夫子席前求教的过往，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "修行数年，而彻底改变当今修行世界面貌的魔宗覆灭事件，起始的那件血案，也正是发端于烂柯寺前。\n　　宁缺第一次听说烂柯寺的名字，是在隆庆皇子初进长安城的时候，因为隆庆也是在烂柯寺辩难而成就盛名，此时思及此事，他不由暗想世间的修行者想要出名，是不是都要经过烂柯寺这关，要去参加一下对方组织的大专辩论会？",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "互相参详一下境界修为，撕掉这些所有的外在，才是赤裸裸的真相：请君一战！\n　　确认这名烂柯寺僧人发出了战斗的邀请，宁缺脸色微变，看着他那张微黑的脸颊，不由想起桑桑和卓儿的肤色，心想自己这辈子似乎和这种肤色的人杠上了。\n　　片刻后，他诚恳说道：“出家人慈悲为怀，何必在意那些身外虚名？”\n　　观海僧人更加",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "一百五十二章 来自烂柯寺的邀请\n　　那年轻僧人约摸二十五六岁，容颜清俊神态和善，面色微黑，单薄僧衣随风而飘，颇有出尘之意，但如今尚是寒冬，也不知他怎么就这么不怕冷。\n　　宁缺微感警惕，表情却没有流露出来，微笑问道：“这位大师认得我？”\n　　僧人微微一笑，说道：“贫僧是用猜的。”\n　　宁缺诧异问道：“",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "界里的地位非常特殊，而常年隐居在后山里的长老更是辈份极高，伞前这名年轻僧人既然是烂柯寺长老的弟子，按道理大概要比传说中的佛宗七子地位要更高一些。\n　　依照宁缺的性格，他本应与这名叫观海的年轻僧人好生亲近一番才是，然最近这些天，因为所谓书院入世之事，他一直在警惕会不会遇着别的宗派前来挑战，此时忽然看见",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "前这名年轻僧人既然是烂柯寺长老的弟子，按道理大概要比传说中的佛宗七子地位要更高一些。\n　　依照宁缺的性格，他本应与这名叫观海的年轻僧人好生亲近一番才是，然最近这些天，因为所谓书院入世之事，他一直在警惕会不会遇着别的宗派前来挑战，此时忽然看见烂柯寺的人出现在长安城，不免有些不安。\n　　“原来是烂柯寺的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "了大黑伞背在身后，一个人在微雪中向长安城南走去，半个时辰之后，他来到城南那片新浚出来的大湖，于残雪间缓缓坐下。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "上了大唐和书院两座大山，若真的跑起来，只怕有些吃力。\n　　其实他从来不害怕战斗，更不会恐惧打架，只是担心打不赢对方。\n　　观海是烂柯寺长老的关门弟子，在宁缺看来，关门弟子这种隐藏性人物向来很强大，比如书圣的关门弟子莫山山，比如夫子的关门弟子他自己……好吧，他必须承认自己是史上最弱的书院行走，于是他愈",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "么不怕冷。\n　　宁缺微感警惕，表情却没有流露出来，微笑问道：“这位大师认得我？”\n　　僧人微微一笑，说道：“贫僧是用猜的。”\n　　宁缺诧异问道：“这也能猜出来？”\n　　僧人平静说道：“因为贫僧见过书痴，所以猜到您便是十三先生。”\n　　宁缺想着最近那个愈演愈烈的传言，不由苦笑了一声。\n　　莫山山看着那",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "的内容很简单清晰，就是烂柯寺长老邀请书院派人参加明年盂兰节。\n　　经过与大师兄的那番对话后，他很清楚日后书院若有什么俗世事务，只怕都是由自己处理，那么烂柯寺盂兰节肯定也是自己去参加，好在还有一年多时间，可以好生准备，而且确定烂柯寺来人是送请柬的，不由愈发心安。\n　　他看着观海微笑说道：“师兄远自烂柯",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，总要回到自己的家，宁缺很高兴地这般想着，然而表面上却是极为热情的挽留挽留再挽留，甚至拿出了河北郡男人们特有的假怒模样。\n　　观海僧人连连婉拒，说道：“课业实在是不能再耽搁了，只是难得来一趟长安城，又能遇着十三先生本人，贫僧有些修行上的疑难，向请先生指教一二。”\n　　“完全没有问题，话说傍晚时分我在",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，知道书院乃是世间第一流之所在，对书院诸贤心向往之，早就想前来拜访却一直被课业所系不得脱身，今日难得来到长安城，还请十三先生体谅贫僧这难得的贪嗔之念，不吝指教一二。”\n　　宁缺盯着对方的眼睛，发现这年轻僧人的眼眸里除了恭谨还是恭谨，除了仰慕还是仰慕，除了坚定的战斗意志还是坚定的战斗意志。\n　　对方对",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

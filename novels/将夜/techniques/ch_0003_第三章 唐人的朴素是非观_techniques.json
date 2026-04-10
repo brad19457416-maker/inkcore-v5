@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 3,
+  "chapter_title": "第三章 唐人的朴素是非观",
+  "filename": "ch_0003_第三章 唐人的朴素是非观.txt",
+  "char_count": 2349,
+  "timestamp": "2026-04-10T12:11:03.385286",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "位宗室女，便再也没有类似的情况发生。\n　　然而当三年前草原初现不稳，蛮族最大的金帐部落在大唐敌对国家秘密挑唆支援下隐现反心时，当时正处十三四岁豆蔻年华、深受陛下宠爱的四公主，竟是跪于大明宫前叩阶泣血，不顾举国反对，宁愿舍弃长安繁华，坚持要远嫁草原，给那位金帐单于做续弦。\n　　此事一朝传出，天下震惊，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "主的决心，而草原金帐单于在知晓此事后大感荣耀，更喜公主性情，遣使者驱五千牛羊马入朝言辞谦卑恳切求亲，最终大唐皇帝只好无奈定下让女儿在天启十一年出嫁草原。\n　　公主嫁入草原不到半年，与单于夫妻相敬和谐，曾经雄心勃勃的蛮族英勇领袖，变成了一只平静的草原雄狮，静守国土，远眺异乡，却不再轻启战衅。\n　　只可",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "有人认为那场只因君王一怒而耗尽国力让黎民受苦的战争不该打。\n　　因为从开国到现在，生活在这片土地上的人们始终坚持信奉并守卫一个朴素的道理：我不欺负你，但你也别想欺负我，就算是我欺负了你，但你……依然别想欺负我！\n　　谁欺负我，我就打谁。\n　　这就是大唐帝国的立国之本。\n　　这就是大唐帝国的强国之路。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "周田地荒废，十室九空，南方赋税连翻四倍，民怨沸腾，朝中官员根本无力兼顾政事，天下陷入了动荡甚至垮塌的危险边缘。\n　　大唐帝国最奇妙的气质，便在这种最危险的时刻以及随后的无数岁月对此事评价中呈现了出来。\n　　当帝国铁骑远征荒原之时，南方的反贼义军竟是没有趁此良机加大攻势，甚至反而纷纷潜回山林湖泊之中，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第三章 唐人的朴素是非观\n　　帝国民风开放，又是深夜军帐私话，但听到白痴公主殿下这几个字，马士襄的脸色还是忍不住变得紧张难看起来。\n　　那位身份尊贵的女子进入渭城后，他是何等样的小意谨慎紧张，哪里想到宁缺居然这般大喇喇做出了如此刻薄的评",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "辱――但没有谁会拒绝和平这种上天赐予的礼物。\n　　所以他们对那位公主殿下的感觉很复杂，既有些无来由的愤怒，却也难免有些感激，种种情绪到最后，渐渐变成了内心深处不便与人言的一丝尊敬。\n　　宁缺是个普通军卒，不知道能不能理解将军的复杂情绪，就算理解想来也不会在意，因为他现在争取的事情牵涉到他个人安危，而",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "力让黎民受苦的战争不该打。\n　　因为从开国到现在，生活在这片土地上的人们始终坚持信奉并守卫一个朴素的道理：我不欺负你，但你也别想欺负我，就算是我欺负了你，但你……依然别想欺负我！\n　　谁欺负我，我就打谁。\n　　这就是大唐帝国的立国之本。\n　　这就是大唐帝国的强国之路。\n　　这也正是为什么这个世界上最",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "退避、避免帝国上层矛盾激化的行为，也是一种识大体、极贤良的行为。\n　　对于马士襄这种身经百战的大唐边将来说，他们不畏惧战争，更不会惧怕那些蛮人，公主远嫁敌人甚至让他们觉得极为屈辱――但没有谁会拒绝和平这种上天赐予的礼物。\n　　所以他们对那位公主殿下的感觉很复杂，既有些无来由的愤怒，却也难免有些感激，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "位嫁了人的公主遇袭而让帝国陷入动荡艰难，这看上去似乎是不可能发生的事情，但事实上，在大唐的历史中经常出现这种可以说意气用事，也可以说豪气干云的故事。\n　　最著名的一个例子发生在太祖晚年。\n　　其时草原某部屠了白羊道某处村镇，村民一百四十人被斩尽杀绝，帝国使者前去问罪，又被那部落骄奢单于割了耳朵赶回。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，不知道能不能理解将军的复杂情绪，就算理解想来也不会在意，因为他现在争取的事情牵涉到他个人安危，而他一向以为没有太多事情比自己的生命更重要。所以他假装没有看到将军阴沉的脸色，继续说道：“我粗略算过马车上的箭眼，那位新任单于下手很黑很绝，我估计公主的护卫队至少损了一半人命在草原上。”\n　　“据说是遇到",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "素是非观\n　　帝国民风开放，又是深夜军帐私话，但听到白痴公主殿下这几个字，马士襄的脸色还是忍不住变得紧张难看起来。\n　　那位身份尊贵的女子进入渭城后，他是何等样的小意谨慎紧张，哪里想到宁缺居然这般大喇喇做出了如此刻薄的评价，而且他认为宁缺的评价并不公道，所以脸色更加难看。\n　　世人皆知大唐四公主并不",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "平静的草原雄狮，静守国土，远眺异乡，却不再轻启战衅。\n　　只可惜谁也没有想到数月前，正值壮年的单于便突然暴毙，单于之弟强行继位，边境的局势重新变得复杂紧张起来。\n　　但从当年那个身材单薄的少女跪在大明宫前自行决定婚约开始，整整四五年的时间，唐帝国西北边境一直处于珍贵的和平之中，必须要说大部分都是那位",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "帐私话，但听到白痴公主殿下这几个字，马士襄的脸色还是忍不住变得紧张难看起来。\n　　那位身份尊贵的女子进入渭城后，他是何等样的小意谨慎紧张，哪里想到宁缺居然这般大喇喇做出了如此刻薄的评价，而且他认为宁缺的评价并不公道，所以脸色更加难看。\n　　世人皆知大唐四公主并不是白痴，而是位极贤良的殿下。\n　　以大",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "牵涉到他个人安危，而他一向以为没有太多事情比自己的生命更重要。所以他假装没有看到将军阴沉的脸色，继续说道：“我粗略算过马车上的箭眼，那位新任单于下手很黑很绝，我估计公主的护卫队至少损了一半人命在草原上。”\n　　“据说是遇到了马贼。”马士襄说话的神情有些不自然，大概连他都不相信这个说法。\n　　“就算是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

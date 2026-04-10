@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1074,
+  "chapter_title": "第八十三章 又见青峡",
+  "filename": "ch_1074_第八十三章 又见青峡.txt",
+  "char_count": 4338,
+  "timestamp": "2026-04-10T12:11:34.919135",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "宁缺抬头望向峡谷两面，笑着挥手打了打招呼。于是青峡里的欢呼声、喝彩声顿时变得更大，直似要冲破清晨的天空，把昊天的神国都要震翻。\n　　终于到了青峡出口。\n　　宁缺提缰，大黑马停下前进的蹄步。\n　　青峡在这里收束成一道数丈宽的缝，从峡内向外看，便是清河郡北方那片肥沃的原野，时值深春初夏，放眼望去，都是",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "八十三章 又见青峡\n　　横木立人的双眉挑了起来，因为想起什么，不再像先前那般宁静喜悦，容颜扭曲，格外愤怒不堪，尤其是当他低头望去时。\n　　他穿的神袍很宽大，低头便能很轻易地看到自己的胸膛。\n　　他虽然是昊天的儿子，但至少在人间还是凡人，所以胸膛上有两个乳头，但这时候却好像多了一个乳头――那是一颗黑色",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“还有我，你可不能忘了我……”西门不惑同样举起缠满纱布的手，提醒道，然后他望向五师兄和八师兄，冷笑说道：“不要忘记，青峡这儿我们可是守第二次了，论位次你们在前面，论功劳，你们可别想着跑前面去。”\n　　他这话哪有人肯听，尤其是说的太过生硬，顿时激起了师兄们的好胜心，一时间，兵所里唾沫横飞，脏话满天，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "稚下去。\n　　灯被调亮了些，这才能清楚，四人现在都躺在床上，浑身裹着纱布，到处是药味和血味，也不知道究竟受了多重的伤，但很明显，已经没有再战之力。\n　　喝完师弟配的难闻的草药，房间里变得安静了很多。不知道过了多长时间，北宫未央忽然问道：“十一，你的毒药能不能拦住横木？”\n　　又是很长时间的安静。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，如果不是他轻敌，我们四人联手借着青峡里残存的阵意阴了一道，没有人能拦住他。”\n　　房间里的气氛变得压抑了很多，先前的热闹，这些天的热闹，都来自于得意，他们很得意，像横木这样逾过五境的大修行者，也败在了自己的手里……然而，对方的伤总是会好的，接下来该怎么办？\n　　战争的形态早已经改变，横木不可能踏进",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的布置，沉默地守在青峡深处，以地势、距离为武器，将那些强大的敌人，挡在了青峡之外。\n　　连续数十日的战斗让唐军有些疲惫，那些深藏在峡谷里的兵所也变得安静了些，只有一处兵所有些特殊，明明已经是深夜，却依然很热闹。\n　　有人在吵架。\n　　“我以前就说过，论起棋艺来，我肯定是当世第一人，师弟，你怎么可能是",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "很像当年。\n　　横木立人曾经遗憾地感叹过，君陌断臂，他再也无法看到一人守青峡的画面，也错失了击败最强大的君陌的机会。\n　　现在君陌在西荒，大先生不在，余帘不在，陈皮皮不在，宁缺也不在……然而他却依然被拦在了青峡之南！\n　　在清河郡北部的田野上，西陵神殿联军与唐国镇南军已经交战了数十日，双方各有胜",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "宁缺曾经数次进出青峡，今日再至。\n　　他站在峡内，看着峡外，不知在想些什么。\n　　不知何时，王景略出现在他身旁，和他一道向南方望去，神情非常凝重，眼神里的杀意没有做任何掩饰。\n　　“一定要杀死横木。”\n　　宁缺沉默片刻，然后说道：“当然。”\n　　当年被颜瑟大师逐出长安，从军跟随许世后，王景略便瘦了",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "属于人间的力量，来到了人间，来到了他的身体里。\n　　只听得噗的一声闷响，嵌在他胸膛里的那颗黑色棋子，瞬间裂成无数粉末。\n　　他睁开眼睛，望向青峡的方向，眼眸里没有任何情绪，只有杀意。\n　　他的伤已经好了，那么，就该那些人死了。\n　　……\n　　……\n　　自清河郡叛乱后，青峡对于唐国和书院来说，便是真正",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "将那些强大的敌人，挡在了青峡之外。\n　　连续数十日的战斗让唐军有些疲惫，那些深藏在峡谷里的兵所也变得安静了些，只有一处兵所有些特殊，明明已经是深夜，却依然很热闹。\n　　有人在吵架。\n　　“我以前就说过，论起棋艺来，我肯定是当世第一人，师弟，你怎么可能是我的对手？可你偏偏不肯认输，拖着我下了这么多年，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "央忽然问道：“十一，你的毒药能不能拦住横木？”\n　　又是很长时间的安静。\n　　王持摇了摇头。\n　　“从来没有听说过逾五境的大修行者会被药毒死。”\n　　宋谦的神情有些淡，看淡生死的淡。\n　　“横木已经逾过五境，如果不是他轻敌，我们四人联手借着青峡里残存的阵意阴了一道，没有人能拦住他。”\n　　房间里的气",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的力量，来到了人间，来到了他的身体里。\n　　只听得噗的一声闷响，嵌在他胸膛里的那颗黑色棋子，瞬间裂成无数粉末。\n　　他睁开眼睛，望向青峡的方向，眼眸里没有任何情绪，只有杀意。\n　　他的伤已经好了，那么，就该那些人死了。\n　　……\n　　……\n　　自清河郡叛乱后，青峡对于唐国和书院来说，便是真正的国门，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "入胸膛。\n　　他的胸膛微微隆起，神袍猎猎作响。\n　　这一次，他没有咳嗽。\n　　一道不属于人间的力量，来到了人间，来到了他的身体里。\n　　只听得噗的一声闷响，嵌在他胸膛里的那颗黑色棋子，瞬间裂成无数粉末。\n　　他睁开眼睛，望向青峡的方向，眼眸里没有任何情绪，只有杀意。\n　　他的伤已经好了，那么，就该那",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

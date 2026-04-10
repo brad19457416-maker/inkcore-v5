@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 976,
+  "chapter_title": "第一百四十九章 在佛的世界里狂奔",
+  "filename": "ch_0976_第一百四十九章 在佛的世界里狂奔.txt",
+  "char_count": 3192,
+  "timestamp": "2026-04-10T12:11:27.622781",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的神情竟还是那般坚毅。\n　　便在这时，大地忽然震动起来，宁缺霍然回首，向震动起处望去，只见遥远东方的天空骤然间变得异常明亮，有无上佛威起于彼处。\n　　万丈佛光瞬间来到冥河畔，照亮了树林和林畔的所有生命。\n　　光线落下，把宁缺的衣裳镀上了一层金光，他感受到一股极强大的威压，也感受到桑桑正在虚弱，快速撑",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "撼无语的画面，宁缺再也没有大军渡河的感觉，觉得仿佛是大草原上，无数野牛过河时被鳄鱼吞噬的场景。\n　　为什么？这些佛为何如此沉默，如此平静地赴死？宁缺甚至看到黑色浪花间一尊佛被怨魂吞噬时，脸上的神情竟还是那般坚毅。\n　　便在这时，大地忽然震动起来，宁缺霍然回首，向震动起处望去，只见遥远东方的天空骤然间",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "佛光并不像前几次的佛光那样，对他和桑桑造成伤害，反而让他们感觉有些舒服。\n　　感觉虽然舒服，心情并不轻松，宁缺和桑桑这些天说话越来越少，奔跑的过程里长时间都保持着沉默，他是因为想着马上便要见到佛祖，要开始赌命，所以心情沉重，桑桑则是在思考某件事情。\n　　欲修佛必先见佛，佛便会从涅境中醒来，或者生或者",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "缺霍然回首，向震动起处望去，只见遥远东方的天空骤然间变得异常明亮，有无上佛威起于彼处。\n　　万丈佛光瞬间来到冥河畔，照亮了树林和林畔的所有生命。\n　　光线落下，把宁缺的衣裳镀上了一层金光，他感受到一股极强大的威压，也感受到桑桑正在虚弱，快速撑开大黑伞。\n　　佛光同样落在冥河里，黑暗的河水没有变清，却",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "奔。\n　　一路狂奔，一奔便是百日。\n　　宁缺自己都算不清楚，这一百天里，他背着桑桑跑了多远，他只知道拼命地奔跑，把后面那些佛与菩萨甩的越远越好。\n　　奔跑的旅程里，有高原草甸，有陆地内海，有陡峭山峰，他不知道自己跑到了哪里，只知道朝着遥远的东方而去。\n　　从第四天开始，他便再听不到身后响起的颂经声，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "下，很是无奈。\n　　桑桑说道：“正因为如此，我为何要爱惜。”\n　　宁缺恼火说道：“不要命才能赢，这个道理难道我不懂？我只是要你说些好听的话，都已经合为一体了，怎么连亲热话都不会说？”\n　　他这句话里的合为一体，自然是别的意思。\n　　桑桑说道：“便是把你的身体打烂了，又能怎样。”\n　　宁缺大怒，把她的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "原这方面，谁还能比他更强？\n　　宁缺站起身来，正准备背着桑桑离开，忽然看到对岸的红杉残林里，隐隐约约出现很多道佛光，然后有经声响起。\n　　每道金色的光团便是一位佛，而且是曾经与他们朝过面，被他们打伤的佛，红杉残林里佛的数量，自然要远远超过他所看到的。\n　　宁缺想着这些佛无法过河，自然并不着急，笑着望",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "丧心病狂的程度，越过了地藏菩萨这道坎，这些天积累的压力自然很狂野地释放了出来。\n　　河西的原野里还有无数佛在寻找他和桑桑，想要杀死他和桑桑，但他相信那些佛没有办法过河――河水里有无数万怨魂骷髅。\n　　那些东西智商不高，本事不小，没有地藏菩萨的指挥，敌我不分，哪里会放过那些佛，须知佛光能镇压鬼魂，也是",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "现在他也不知道这佛是什么佛。\n　　黑穹渐明，河岸渐亮，佛光渐盛，经声渐肃，一时间，不知有多少万尊佛，来到了冥河岸边，沉默看着对岸。\n　　宁缺的神情变得凝重起来，以他的眼力，竟然都数不清楚究竟有多少佛，更令他感到震惊的是，那些佛居然开始向冥河里走去。\n　　数千数万甚至更多的佛，绕过倒塌的红杉树，走过湿",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，那些佛是属乌龟的。\n　　世界很辽阔，他狂奔百日，也没有看到尽头，幸运的是他不需要辩别方向，也不需要担心会跑回原地，因为佛祖就在前面。\n　　那道佛光越来越清楚，便意味着佛祖越来越近，有些奇妙的是，那些佛光并不像前几次的佛光那样，对他和桑桑造成伤害，反而让他们感觉有些舒服。\n　　感觉虽然舒服，心情并不",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，至于识海里的念力更混乱的一塌糊涂。\n　　他艰难转身，靠着棵红杉树坐下，辛苦地喘息，把桑桑抱在怀里，说道：“刚才我就觉得有些不靠谱，你打架的时候也太猛了些。”\n　　桑桑在他心里说道：“如何？”\n　　“这是我的身体，你怎么也该爱惜些才是。”\n　　宁缺想着先前她与地藏菩萨那场血战，想着地藏菩萨那柄法力无",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

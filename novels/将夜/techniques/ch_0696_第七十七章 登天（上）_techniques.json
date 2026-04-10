@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 696,
+  "chapter_title": "第七十七章 登天（上）",
+  "filename": "ch_0696_第七十七章 登天（上）.txt",
+  "char_count": 3392,
+  "timestamp": "2026-04-10T12:11:26.930745",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的光明从桑桑的身体里喷涌而出，平静的泗水水面像镜子一般，把那些光线凝成一道光柱，然后反射到高远的碧蓝天空之上。\n　　河畔也开始光明大作，无数光丝从夫子的身体里钻出，与桑桑喷涌出的光线系在一起，他的一部分在桑桑的体内，于是他便无法离开。\n　　夫子望向自已身体里渗出的光丝，觉得很有趣，甚至还伸手去摸了摸",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "着她的脚睡觉，很熟悉她的身体，熟悉她的双脚，熟悉她的一切，此时看着这具黑白分明的完美身躯，却觉得无比陌生。\n　　小时候在河北道死尸堆里挖出那名小女婴时，他就像通议大夫府里的人们一样觉得奇怪，只不过后来抱着养了这么多年，于是见怪不怪，直到此时看到这幕画面，听到夫子的话，才终于明白了其中的道理。\n　　桑",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的南海某处。\n　　青衣道人沉默看着陆地的方向，脸上的神情显得异常凝重。\n　　他没有说那句话，因为他很紧张。\n　　他看到一道大幕正在缓缓落下。\n　　为了这一刻，他已经等待了太长时间，不到最后，他无法放心。\n　　……\n　　……\n　　没有恭请夫子显圣的还有很多人。\n　　真正的普通人，并不知道发生了什么，更",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "其中的道理。\n　　桑桑是黑的，也是白的，就像她在烂柯寺最后一局棋落下的那颗黑子一般，随着时间的流逝，最终在荒原马车里变成了一颗白色的棋子。\n　　至此宁缺再没有任何侥幸的希望。\n　　这个世界没有冥王，昊天便是冥王。\n　　这个世界没有冥界，当昊天让末日来到时，人间便是冥界。\n　　……\n　　……\n　　无数",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "……\n　　……\n　　“恭请夫子显圣！”\n　　西陵神国桃山最高处，庄严肃穆的神殿外，石坪上跪着黑压压的人群，往常骄横的红衣神官和神殿执事们，就像最虔诚的信徒，以额触地。\n　　西陵神殿掌教大人，也跪在白色神殿最深处的纱幔之后，在纱幔外，还跪着天谕大神官和裁决大神官。\n　　……\n　　……\n　　“恭请夫子显",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "宁缺再没有任何侥幸的希望。\n　　这个世界没有冥王，昊天便是冥王。\n　　这个世界没有冥界，当昊天让末日来到时，人间便是冥界。\n　　……\n　　……\n　　无数的光明从桑桑的身体里喷涌而出，平静的泗水水面像镜子一般，把那些光线凝成一道光柱，然后反射到高远的碧蓝天空之上。\n　　河畔也开始光明大作，无数光丝从夫",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "怪，只不过后来抱着养了这么多年，于是见怪不怪，直到此时看到这幕画面，听到夫子的话，才终于明白了其中的道理。\n　　桑桑是黑的，也是白的，就像她在烂柯寺最后一局棋落下的那颗黑子一般，随着时间的流逝，最终在荒原马车里变成了一颗白色的棋子。\n　　至此宁缺再没有任何侥幸的希望。\n　　这个世界没有冥王，昊天便是",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "他知道分离的时刻到了。\n　　一个是自已最敬爱的老师，一个是相依为命多年、生命早已合为一体的女人，毫无疑问，这是一个人所能想像到的最痛苦的抉择时刻，幸运或者不幸的是，他此时没有能力做选择，或者说可能不需要做选择。\n　　宁缺不能动，只能坐在泗水畔的草地上，看着被无数万道光丝联系在一起的两个人，望向桑桑的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "很满意。\n　　夫子走进前院的教舍，和黄鹤说了几句话，又对那名女教授说，青布大褂穿的太久便脱不下来，你将来怎么嫁人？\n　　然后他离开前院，穿过巷道，走过湿地，走过旧书楼，看了一眼不远处的剑林。\n　　余帘，正像平日那样，在旧书楼东窗畔写簪花小楷。\n　　忽然间，一滴墨从笔尖落下，污了金花纸。\n　　她沉默片",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "蝼蚁成了亲，并且感受到了其中的美好，你感受到了充分的人间的美好，那么你会不会有那么一丝想要留在人间的念头？这些年来，你想尽一切办法要找到我，邀我上天一战，但你有没有想过，其实我也很想邀你来人间做客？”\n　　无限光明里，隐约可以看到神情若冰的桑桑，细而精致的眉头微微蹙了蹙，似乎夫子的这番话，对她确实构",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "消失，他看着飘在泗水之上，浑身大放光明的桑桑，忽然说道：“在荒原马车里，我就知道是你，而在你找到我的同时，我也找到了你，你有没有想过，这些天我一直在做什么？”\n　　桑桑面无表情，像是没有听到这个问题，身上的光丝越来越繁密，渐要成流。\n　　“我带你吃人间最好吃的烤羊腿，带你吃宋国最考究精致的十八碟，我",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "我不想再管了，你看，事实上人间的这些人也不想我管。”\n　　夫子把飘到眼前的一根光丝挥手赶走，看着宁缺说道。\n　　宁缺没办法动，只能看，只能哭，所以他大哭起来，泪水在脸上纵横，然后他又开始笑，莫名其妙的笑，神经质般地笑。\n　　夫子有些讷闷说道：“当时在荒原上，昊天终于找到我，所以它很高兴，才会又哭又笑",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "海上，苔原镜湖，还让你和宁缺成亲洞房。”\n　　“我带你吃遍人间美食，带你赏遍人间美景，我让你体会到做为人最大的快乐，我甚至还顺手让你体会了一下更深的情感。”\n　　夫子看着桑桑说道：“在你眼里，人类都是蝼蚁，如今你却与蝼蚁成了亲，并且感受到了其中的美好，你感受到了充分的人间的美好，那么你会不会有那么一",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "看着陆地的方向，脸上的神情显得异常凝重。\n　　他没有说那句话，因为他很紧张。\n　　他看到一道大幕正在缓缓落下。\n　　为了这一刻，他已经等待了太长时间，不到最后，他无法放心。\n　　……\n　　……\n　　没有恭请夫子显圣的还有很多人。\n　　真正的普通人，并不知道发生了什么，更不会知道泗水畔发生的这件事情，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

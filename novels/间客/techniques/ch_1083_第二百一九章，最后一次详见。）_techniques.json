@@ -1,0 +1,271 @@
+{
+  "novel": "间客",
+  "chapter_number": 1083,
+  "chapter_title": "第二百一九章，最后一次详见。）",
+  "filename": "ch_1083_第二百一九章，最后一次详见。）.txt",
+  "char_count": 31781,
+  "timestamp": "2026-04-10T12:05:26.960602",
+  "techniques_count": 20,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "狱。\n\n    ……\n\n    ……联邦与帝国谈判期间，号称临时休战，实际某些星球地表上依旧不停出现冲突，为了替己方在谈判桌前争取筹码，没有任何一方会选择在此时束手沉默等待。\n\n    某军营中，数十名战士围着刚刚带领他们穿越包围圈，平安回家的少校营长，七嘴八舌表示感激，有名下属好奇问道：“营长，是",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "着说道：“就连他也走了，这两个没良心的东西”\n\n    ……\n\n    ……\n\n    首都郊区某处秘密空港外，望着消失在云层里的那艘黑色飞船，许乐下意识里眯了眯眼睛，摸了摸左手腕，那里只有手镯已经没有了简水儿送给自己的手链，低声喃喃道：“都走了啊。”\n\n    邹郁安静站在他的身旁，手里轻轻拈弄着",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "媚笑说道：“露露姐，真没想到你能耐这么大。”\n\n    穿着大露背装的露露姐用两根手指夹着烟卷，看着众人的严寒眼眸里忽然泛起一媚意，说道：“废话，难道我和帝国太子爷**也要告诉你们这群丫头？”\n\n    ……\n\n    ……\n\n    每隔一段时间，每被那群男人想起，便会无缘无故挨上一通痛揍的姜睿医",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "“乐乐，老东西已经走了，通道这边现在由我来看。”\n\n    许乐身体骤然僵硬，下意识望向天空，想要找到那艘破烂飞船的踪影，却哪里还能看得到，震惊问道：“菲利浦？你居然留下来了？不是说好了的吗？怎么换成老东西去控制飞船？”\n\n    “他也很想去看看祖星现在是什么模样。”菲利浦的语气严肃认",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "有放弃，可爱而天真地想着报复，不是复合，她善良而充满幻想，曾经设想过如果像电影那样，一个联邦特工忽然来到自己的身边，会不会有一段浪漫的故事发生，每当想到这点的时候，鼻梁边那几粒可爱的雀斑便会格外明亮。\n\n    然后这个故事真的发生，却又如此突然的结束，她看到电视，奔来广场，看着他在阳光下面微笑，然",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "部由金星纪录片厂拍摄的纪录片，叫做《士兵回家》：\n\n    背着沉重行军背囊的少尉从前线归来，他有些紧张地走进幼儿园，试图认出正在玩光幕桌面拼字游戏的女童中谁是自己两年未见的女儿，在老师的轻声提醒下，他笑着蹲下了身体张开双臂。\n\n    一个可爱的黑发女童怔怔地望那边，忽然捂着嘴巴尖声叫了起来，像只",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "轻声说道：“当时觉得红酒淡了些，但我现在喜欢。”\n\n    许乐低下头轻轻吻了吻她的唇，就在接触的那瞬间，他才想起来这场恋爱真的很梦幻，甚至就像梦那般不真实而飘忽，因为该死的命运波折，他们两个人竟没有时间好好享受一下恋爱的味道。\n\n    不过什么是恋爱呢？就是心动的感觉吗？他曾经心动，依旧心动，无",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "麓技工学校修理服的学生们，整整齐齐走到操场上，高举着用床单油墨写成的标语，宣布罢课，向着教学校挥舞着愤怒的拳头，用稚嫩或者变声期难听的声音吼叫道：\n\n    “我们要见校长”\n\n    “我们要见名誉校长”\n\n    “强烈抗议不公平对待要求拥有与前期学员相同福利”\n\n    “我们要看简水儿”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第二百一九章，最后一次详见。）\n\n    “可总得有些办吧？”许乐皱眉说道。\n\n    “你见过那么多生死，难道还没看明白？”\n\n    邰之源微笑说道：“我并不在意这些，结婚对象选择白琪有很多因素也是因为这点，毕竟我们开始的时候只是一场交易，那么当我死去或离喜时，她的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，会遇到先天的困难。”\n\n    “虽然生命力的顽强让邰氏血脉延续的时间段远远超出他羽的想像，但某种意义上说五人小组依然计算成了，只不过这种选择事后分析未免显得有些太冷酷。”\n\n    许乐沉默了很长时间后说道：“也许当年五人小组就是觉得邰家先祖为撒离祖星付出了太多牺牲，所以只是为了补偿，而选择他的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "烈的影响，这种影响甚至能够遗传下去，变成了如同诅咒一般遗传病。\n\n    五人小组在决定死亡后的人类社会秩序时，考虑到当时还很脆弱的人类社会需要开拓尚属蛮荒野地的三林星域，需要更有效的行政效率，所以选择了便于集中权力的帝制，而在挑选第一任皇帝时，则是选择了那位邰家先祖和新生女xìng的一名后代。",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "？”\n\n    “女人总是比较麻烦，无论是你的母亲还是妻子，或者是你未来人生中很多位妻子，但这些麻烦最终都是要靠男人来解决。”\n\n    ……\n\n    ……\n\n    望着年轻的联邦总统离去时瘦削而萧索的背影，许乐在第一时间内和老东西取得了联系，然后确认了某个令他无言的事实。\n\n    原来邰家先",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "饭桌闲话主角的大明星，更多还是青春期男孩的冲动作祟。\n\n    然而听着校长的话，他们仍然险些起哄，心想这么个破学校居然还好意思说客座教授，只是忽然想起那些保安才没敢嘘出声来。\n\n    “今天为大家上物理课的客座教授是果壳机动公司的**董事，ＭＸ系列机甲的双主设计师之一，最年轻的联邦科学院成员。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "因为……因为她只是个瘦弱的快要死去的可怜女。\n\n    于是杜参谋为她在森林里搭了一间小树屋，搬进去温暖的被褥。\n\n    每隔几rì轮到夜里巡防时，他便会藏好节约了好些天的口粮送到树屋去，偶尔有时间时还会用手势比划着说几句闲话。\n\n    就这样一名联邦低级军官和一位帝国低级军妓，在那颗充满流凌痕",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "美丽不可方物，不愿俏皮却更加迷人的脸庞，有些尴尬地举起酒瓶，说道：“我不知道该送什么，在战舰上你说算第一次相亲，那时候你喝了好几瓶，所以我就选了这个。”\n\n    简水儿笑了笑，走上前去钻进他的怀中，揽着他结实的腰靠在他的胸膛上，轻声说道：“当时觉得红酒淡了些，但我现在喜欢。”\n\n    许乐低下头",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "录片依旧毫无意外地入围星云奖多项重要奖项，只是肯定无打破他那部最出名的纪录片获奖纪录，不过两部纪录片同时入围星云奖，这已经创下了后人难以企及的纪录。\n\n    ……\n\n    ……\n\n    某夜，一对私下订婚已久，却分别更长时间的男女，重逢于拉比大道畔的树林间，互相送上代表心意的礼物。男方的礼物是",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "命几乎一半时间在连绵无尽头的黑暗与耻辱中，帝国少女始终在默默承受，祈祷造物主能够还自己一个相对美好的将来，能够平安回到家乡，然后嫁给一个不嫌弃自己的平民，不，哪怕是贱民奴隶，只要不打我那就很好……\n\n    然而在偷听到那位将军阁下因为嫌弃自己像块木头，要把自己扔进军妓营，帝国少女第一次感受到难以承",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "耀眼，因为他是三十七宪历联邦最大骄傲的传承，因为他为了守护这片联邦甘愿折损寿命进行电击刺激，因为他的脾气一直就是这么暴戾，因为他是李疯子。\n\n    露台边缘，那名中年男人放下手中的小提琴，神情仍然如同战场上那种冷酷平静，仿佛还是那位纵横星辰的联邦名将，只是今日的他已经没有那幅标志性的墨镜，换了一身",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "常大，但好像对人体没有什么伤害，相反……好像还很有好处，你们可以尝试仔细体会一下。”\n\n    封余缓缓闭上双眼，大师范闭上双眼，然后两个人睁开眼睛，流露出震惊不可置信的神色，几乎同时说道：“是真气”\n\n    对于他们来说，这片山顶仿佛浓罩在充沛的真气之中，几乎只是瞬间，他们就感觉苍老的身躯内重新",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "起来，像只小鸟般扑了过去，扑进那名父亲的怀中，不管身边的镜头怎样拍摄，她都紧紧搂着父亲的脖子，像是很担心他又不见了。\n\n    女童贴着少尉的脸，轻声细语说道：“爸爸，我想你了。”\n\n    ……\n\n    ……\n\n    陶小丽是港都一间贸易公司的女文员。今天是她的生rì，然而她的情绪并不高，因为",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

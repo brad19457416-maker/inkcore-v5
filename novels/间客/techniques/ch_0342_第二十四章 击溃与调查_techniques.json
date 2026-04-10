@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 342,
+  "chapter_title": "第二十四章 击溃与调查",
+  "filename": "ch_0342_第二十四章 击溃与调查.txt",
+  "char_count": 5736,
+  "timestamp": "2026-04-10T12:04:59.252185",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "场间一片死寂般的沉默，虎口仍在流血的熊临泉，不可思议地看着许乐，心中感到一股前所未有的寒意，心想老白说地话不仅是对的，而且好像还把许主管的实力说的差了些。\n\n    许乐收回拳头，低头看了一眼，将指尖上的丝丝血迹擦在了军服之上，向着人群外的常一走了过去，常二此时倒在他地脚下，大腿至少已经骨裂",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "七个人不包括在内，还有很多军官向基地调查组作证，这件事情许教官并没有丝毫过错，他只是被对方强行拖入了危险之中，才迫不得已施以重手自保。\n\n    军官们一直以来都许乐都有很大的意见和轻蔑，然而此时轻蔑早已随着许乐表现出来的能力消失无踪，他们是联邦最优秀的军官，自然不愿意为了整治许乐而违反军队纪律，而",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "许乐的横摆拳，击打在对方竖挡着的手臂之上。\n\n    常一的身体猛地一震，在地上蹭蹭蹭地连退七步，却最终无法抵下这股巨大的洪流力量，惨不忍睹地倒向地面，变成了一个滚地葫芦，骨碌骨碌地向后滚去，一直滚出了瞠目结舌围观的人群，滚出了二十几米，才停了下来！\n\n    他的四肢绵软无力地一瘫，躺在地面，就此",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "巨大的洪流力量，惨不忍睹地倒向地面，变成了一个滚地葫芦，骨碌骨碌地向后滚去，一直滚出了瞠目结舌围观的人群，滚出了二十几米，才停了下来！\n\n    他的四肢绵软无力地一瘫，躺在地面，就此昏了过去。\n\n    ……\n\n    ……\n\n    一拳将人打出二十几米，这需要多大地力量？\n\n    场间一片死",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "会？\n\n    手掌一翻，他的拇指与食指就像是两根铁钳一般，抠住了常一左上臂的大关节，指尖力量一凝，猛然透出，嗤的一声，撕碎了结实地军服，狠狠地抓进对方肩关节要害。\n\n    一阵剧痛与酸麻同时涌入常一的脑海，狠辣轰向许乐眼角的那一拳尚在半空，便像被冻死的毒蛇般，绵软无力地瘫软了下来。\n\n    既",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，只要完成了国防部的全才计划，在果壳公司里锻炼一年时间之后，肯定会回到铁七师就职。\n\n    从某种意义上来说，许乐当年在虎山道口一刀斩杀的朴志镐，本来就是铁七师的重点培养对象。\n\n    邹郁在电话中警告了许乐，今后最好和铁七师保持一个安全距离，因为这个第三军区地王牌师，是出了名的护短强悍。许乐有",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "吃着。\n\n    便在这个时候，兰晓龙端着两盘菜，拿着两个酒杯走了过来，笑着说道：“那边如此热闹，你为什么要在这里冒充孤独？”\n\n    许乐笑了笑说道：“我喜欢热闹，但好像热闹从来不喜欢我。”\n\n    兰晓龙若有所思，开口问道：“你在想什么？”\n\n    “我在想那个铁七师。”许乐沉默了片刻后说",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "这两名铁七师军官激出了火气，此时还不肯罢手，想将对方生生打死。\n\n    兰晓龙与周玉互视一眼，强行压抑下心头那抹震惊的情绪，走到许乐地身边，轻声说了几句什么。\n\n    许乐摇了摇头，走到常一的身边，看着这个昏迷过去地军官，说道：“叫医疗队过来。”\n\n    昏迷于操场的常一，左手两根手指骨头尽碎",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "官拉到了拼酒的队伍之中，用军官们的话来说，你们这些家伙虽然糙了些，但打仗真是个好手，同学时间短些，但将来你们要到老子的部队里，老子肯定举双手欢迎。\n\n    没有人理会坐在最深角落里的许乐，许乐也并不在意，对他来说，作训基地的两个多月生活，只是他对帕布尔总统及国防部的承诺或说是工作。他一个人端着饭盒",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，躺在地面，就此昏了过去。\n\n    ……\n\n    ……\n\n    一拳将人打出二十几米，这需要多大地力量？\n\n    场间一片死寂般的沉默，虎口仍在流血的熊临泉，不可思议地看着许乐，心中感到一股前所未有的寒意，心想老白说地话不仅是对的，而且好像还把许主管的实力说的差了些。\n\n    许乐收回拳头",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "棍上却留不下一点痕迹。\n\n    许乐说话的语气很寻常，他的力气确实很大。跟随封余大叔练了这么多年，来到都星圈之后，除了李疯子，还根本没有遇到能够正面对抗自己的人物。\n\n    狠辣的反关节技完全失效，两名铁七师的军官眼中惊恐之色一闪即隐，常一脸色苍白，眼眸里闪过一丝绝望和搏命的念头，双手放弃了压制",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "走到许乐地身边，轻声说了几句什么。\n\n    许乐摇了摇头，走到常一的身边，看着这个昏迷过去地军官，说道：“叫医疗队过来。”\n\n    昏迷于操场的常一，左手两根手指骨头尽碎，此时摆在身旁，看上去就像黑市上的山鸡爪一般难看。\n\n    更恐怖的是，他先前护住自己面门的上臂已经骨折，而许乐那一拳中所挟",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "力量一凝，猛然透出，嗤的一声，撕碎了结实地军服，狠狠地抓进对方肩关节要害。\n\n    一阵剧痛与酸麻同时涌入常一的脑海，狠辣轰向许乐眼角的那一拳尚在半空，便像被冻死的毒蛇般，绵软无力地瘫软了下来。\n\n    既然已经出手，当然不会再停手。许乐面无表情地向前踏了一步，嘭嘭两声闷响，一膝顶在常一的膝盖内",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，基地方面的调查自然不会去理会许教官与花小司的交手，而把调查重点放在了后一场上。\n\n    许乐并不担心调查的结果，因为是军官们主动提出的挑战，而且他严格地恪守了教官的本分，一直都没有想过重手还击，哪怕对方不顾军阶之分，师生之别以二对一，占了上风之后还试图重伤自己。\n\n    整个交手的过程中，直到",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "道：“那边如此热闹，你为什么要在这里冒充孤独？”\n\n    许乐笑了笑说道：“我喜欢热闹，但好像热闹从来不喜欢我。”\n\n    兰晓龙若有所思，开口问道：“你在想什么？”\n\n    “我在想那个铁七师。”许乐沉默了片刻后说道：“这次把这个师得罪惨了，以后可得躲远点儿。”\n\n    兰晓龙给他倒了一杯",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

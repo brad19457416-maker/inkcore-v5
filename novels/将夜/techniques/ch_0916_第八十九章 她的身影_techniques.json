@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 916,
+  "chapter_title": "第八十九章 她的身影",
+  "filename": "ch_0916_第八十九章 她的身影.txt",
+  "char_count": 3418,
+  "timestamp": "2026-04-10T12:11:27.488159",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "”\n　　宁缺想了想，说道：“如此处理，倒也可行。”\n　　一国之君的位置，在俗世里不知会引来多少血腥的冲突，但对桑桑和宁缺来说，则像是召之则来，挥之则去的玩具，宁缺说对于桑桑而言，人间的事情都是小事，从这个角度上看，确实没有不对的地方。\n　　漫步出宫，花树渐远，皇城墙角落里那株孤伶伶的花树，便显得有些",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "代表她真的就很迟钝，只要她愿意把心思落在这些事情上，只需要稍一推论，便能从宁缺的言语里找到那个可恶的真相。\n　　宁缺当然很清楚这一点，不待她反应过来，接着说道：“你让我当大河国君，这件事情就更可笑了。”\n　　桑桑说道：“此事哪里可笑？”\n　　宁缺说道：“不切实际，便是可笑，就算大河国在西陵神殿的压力",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "外我说过，他集的云有些脏。”\n　　“你集的云就能确保干净？”\n　　“我的云都来自万里之外的宋国海畔，风暴海的正中央，没有人类的痕迹，也没有尘埃的污染，自然绝对干净。”\n　　“感觉不怎么低碳环保啊。”\n　　“不要说你那个世界的名词。”\n　　“为什么？”\n　　“因为我不喜欢。”\n　　闲谈中，便出了大河皇",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "桑身前，轻提白裙，缓缓跪倒。\n　　墨池苑诸弟子见此画面，与先前心头的猜测印证，哪还有不知道桑桑身份的道理，纷纷走上前去，沉默无言对她行跪拜之礼。\n　　桑桑在看山庐梁间悬着的那些毛笔，觉得不如去年在燕北山村那些农宅梁上悬着的腊肉好看，待墨池苑弟子们跪下，才醒过神来。\n　　“起来。”她说道。\n　　莫山山",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "只是不想看着那树被割断。”\n　　宁缺知道她是在解释，先前为何要在战斗里帮助自己，破除王书圣的大泼墨，心想就算变成昊天，还是这样倔强脸薄，不由笑了笑。\n　　他不想深入讨论这个问题，非要逼着桑桑说出关心自己，并不见得有什么好结果，反而可能会让她老羞成怒，于是他很自然地转了话题。\n　　“在路上见你把一朵云",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "活地轻嘶起来。\n　　自从书圣准备把山主嫁给国君后，墨池苑诸弟子便一直有些担心，很多人都期望着宁缺能够出现，这时候他真的出现，她们自然惊喜难当。\n　　天猫女更是如此，心想宁缺果然有良心，不枉当年我在细蓝腰子海畔，给你吃了那么多点心，带银铃般的笑声，便向他扑了过去。\n　　忽然间，她的手臂被酌之华抓住了。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "剑的女子们看见是他，脸上露出惊喜的神情，纷纷喊出声来。\n　　“宁缺！”\n　　“十三先生！”\n　　“宁大家！”\n　　喊宁缺的不止执剑的三名女子，庐里至少有十余名墨池苑弟子，都认出了他，惊喜地喊着，因为习惯的缘故，称呼各有不同。\n　　当年在荒原上一路同行，遇马贼，斗月轮，宁缺和墨池苑的女弟子们非常熟悉，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "“不要说你那个世界的名词。”\n　　“为什么？”\n　　“因为我不喜欢。”\n　　闲谈中，便出了大河皇宫，来到铺满红叶的御道上，大黑马低头嗅着枫叶里极淡的味道，宁缺望着远处，忽然不知道应该去哪里。\n　　“接下来去哪儿？”他看着桑桑问道。\n　　桑桑说道：“莫干山。”\n　　宁缺沉默片刻，问道：“为什么？”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "这样背着双手站在那里，却像是天那般高。\n　　酌之华确认自己没有见过她，但她猜到了她是谁，于是她的心神瞬间被恐惧所占据，紧紧攥着天猫女的手里全部是汗水。\n　　大黑马也忽然间醒过神来，哪里还敢快活地轻嘶，向莫山山抛了个媚眼表示歉意，急忙退到桑桑的身后，谦顺地很是自然。\n　　桑桑背着双手，打量着墨池苑的山",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "皮儿，露出大白牙，朝着她便快活地轻嘶起来。\n　　自从书圣准备把山主嫁给国君后，墨池苑诸弟子便一直有些担心，很多人都期望着宁缺能够出现，这时候他真的出现，她们自然惊喜难当。\n　　天猫女更是如此，心想宁缺果然有良心，不枉当年我在细蓝腰子海畔，给你吃了那么多点心，带银铃般的笑声，便向他扑了过去。\n　　忽然",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "需要稍一推论，便能从宁缺的言语里找到那个可恶的真相。\n　　宁缺当然很清楚这一点，不待她反应过来，接着说道：“你让我当大河国君，这件事情就更可笑了。”\n　　桑桑说道：“此事哪里可笑？”\n　　宁缺说道：“不切实际，便是可笑，就算大河国在西陵神殿的压力下不敢反对你的意志，但我们总是要回长安城的。”\n　　桑",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "时间的宁缺，到此时终于忍不住了，无奈说道：“我说这事儿是不是得先征求一下我的意见？”\n　　“你的意见从来都不重要。”\n　　桑桑面无表情说道，背着双手向山庐外走去。\n　　暮色中的墨池，仿佛要燃烧起来，稚嫩的青莲像是火中的精灵，看上去非常美丽，她在湖畔坐下，静静看着湖中的天地。\n　　前一刻，她仿佛有天那",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的眼瞳里流过一丝喜悦，而在看到桑桑之后，那丝喜悦便变成了苦涩与惘然。\n　　她走到桑桑身前，轻提白裙，缓缓跪倒。\n　　墨池苑诸弟子见此画面，与先前心头的猜测印证，哪还有不知道桑桑身份的道理，纷纷走上前去，沉默无言对她行跪拜之礼。\n　　桑桑在看山庐梁间悬着的那些毛笔，觉得不如去年在燕北山村那些农宅梁上悬",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

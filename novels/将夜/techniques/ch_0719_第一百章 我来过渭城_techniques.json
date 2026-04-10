@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 719,
+  "chapter_title": "第一百章 我来过渭城",
+  "filename": "ch_0719_第一百章 我来过渭城.txt",
+  "char_count": 4480,
+  "timestamp": "2026-04-10T12:11:27.019354",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "说道：“七城寨肯定破了，金帐的骑兵甚至已经过了平陵关，直逼河北郡。”\n　　他扔掉手上的树皮，抬头看着众人说道：“镇北军三分之一的骑兵，都在贺兰城里，北大营有没有足够的军力抵挡？长安城如果从固山郡甚至是土阳城调兵，东境怎么办？隆庆肯定不会错过这个机会。”\n　　他的推测与实际情况发生的顺序稍有变化，但得",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "唐军，终于开始了南归的旅程。只不过来时，他们的国家还是世上最强大的国度，回归之时，他们的国家已然处于风雨飘摇之中，就像汪洋里的一艘破船，随时可能覆灭。\n　　于是回归的旅途，显得有些沉默压抑，还有些紧张。\n　　宁缺脸上的神情看不出来任何异样，握着马缰的手，却时不时地毫无来由地握紧，紧的指节发白。暴露出",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "那些话题。\n　　宁缺在松棺旁站在片刻，然后望向黄杨大师和几位将领，说道：“现在到底是个什么情况？你们为什么会留在贺兰城中？”\n　　“院长和陛下先后辞世，天降大雨，镇北军被迫滞留贺兰城，其后音讯断绝，我们也不知道南方究竟正在发生什么事情，不过可以猜到一些……”\n　　黄杨大师缓声说道，然后把这些日子的情",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "样有效。”\n　　皇后说道：“我并不怀疑这一点。”\n　　宁缺问道：“为什么？”\n　　皇后说道：“因为你最终还是娶了桑桑。”\n　　宁缺看着她温婉美丽的容颜，记起先前在城下草原上，她转身望向自己时，黑发在脸上飞掠画面，那画面很美丽，有一种惊心动魄的美丽。\n　　他发现，皇后娘娘很懂自己。\n　　于是他忽然明白",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "要人还在，大唐还在，贺兰城就算丢了，将来总有一天能夺回来。”\n　　时间急迫，商议结束之后，将领们匆匆离去，安排大军南撤的各项事宜，黄杨大师去静修疗伤，皇后去看望受了些惊吓的六皇子。\n　　此时的静室内，除了那口灰色的松棺，便只有宁缺和汗青两个人。\n　　“你和冥王之女坐着黑色马车过关的时候，我就在城头看",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "们的国家已然处于风雨飘摇之中，就像汪洋里的一艘破船，随时可能覆灭。\n　　于是回归的旅途，显得有些沉默压抑，还有些紧张。\n　　宁缺脸上的神情看不出来任何异样，握着马缰的手，却时不时地毫无来由地握紧，紧的指节发白。暴露出他的心情比谁都紧张，比谁都压抑。\n　　经过艰难地跋涉，南归的唐军大部队，终于抵达了岷",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "原上炸响，那几名骑兵身下的座骑闻声而惊，人立而起。\n　　渭城里一道残破的酒幡轻轻摇晃。\n　　听到宁缺愤怒的吼声，人们终于明白渭城里面发生了什么。\n　　再没有人试图进去看一眼。\n　　宁缺向自己的座骑走去。\n　　每走一步，他的头便低一分，身子便佝一分。\n　　“走的时候，我就对你说过，不要老，不要死，等我",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "。”\n　　汗青看着向荒原西方奔去的数十骑，蹙眉说道：“他这时候去看一眼，除了让自己徒增痛苦，没有任何意义。”\n　　皇后娘娘说道：“很多事情，总是要亲眼看到，才能真正死心。宁缺他虽然不是普通人，但在这方面和普通人也没有什么区别。”\n　　……\n　　……\n　　渭城就在眼前。\n　　荒芜的原野间，座落着安静的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "道不要贺兰城了？”\n　　宁缺正准备说些什么的时候，皇后说道：“只要人还在，大唐还在，贺兰城就算丢了，将来总有一天能夺回来。”\n　　时间急迫，商议结束之后，将领们匆匆离去，安排大军南撤的各项事宜，黄杨大师去静修疗伤，皇后去看望受了些惊吓的六皇子。\n　　此时的静室内，除了那口灰色的松棺，便只有宁缺和汗青",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，但终于进入了战区。金帐王庭骑兵在边塞造成的恐怖破坏，还有那些变成废墟的唐人聚居城镇，连接在人们眼前出现。\n　　这是支疲惫之师，却被沿途所见的血与火，废墟与断墙，死难的族人，激起了近乎疯狂的战意，只需要经过一段时间的休整和粮草补充，便会变成恐怖的军事力量，甚至就连现在，很多将士都红着眼睛想要与金帐骑",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "女坐着黑色马车过关的时候，我就在城头看着你。”\n　　汗青看着他说道。\n　　宁缺说道：“现在没有时间去感慨，将军想说什么请直接讲。”\n　　汗青看了一眼灰色的松棺，说道：“陛下当年对你宠爱有加，他的遗命你如今也已经知道，那么你是怎么想的？”\n　　宁缺说道：“你继续说。”\n　　汗青继续说道：“所有人都知道",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的主力部队，在顺手剿灭了数十草原游骑之后，便近了北大营。\n　　南归的唐军与大将军府重新获得了联系，因为人马众多，自然不便同时进入北大营，大将军府派出了精锐的一部骑兵前来接应，送来粮草补给，同时奉命将皇后娘娘与皇子，还有最重要的皇帝陛下的灵柩先接回北大营中。\n　　经过一番临时的商议，南归唐军没有对大将",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "顺序稍有变化，但得出的结论，与实际没有什么本质上的差异，和皇后娘娘的看法也完全一致。\n　　“我们必须马上离开。”\n　　皇后说道：“以最快的速度南撤。”\n　　汗青说道：“路途遥远，粮草怎么办？”\n　　一名镇北军将领说道：“一路打柴，多抢几个金帐部落便够了。”\n　　宁缺摇头说道：“金帐王庭肯定早有安排，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "痛之色。\n　　没有多少人注意到，宁缺坐在马车里，坐在松棺旁。\n　　数匹战马拉动着沉重的灰棺，在街道上缓缓驶过，车轮碾压着坚硬的石质地面，发出单调而令人心悸的声音。\n　　街道旁忽然响起数声厉喝。\n　　“杀死妖后！”\n　　“替陛下洗去耻辱！”\n　　杀声震天，一名唐将带着数百名骑兵，从街头冲锋而至，朴刀雪",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "便撤出了贺兰城。一名镇北军将领请示要不要烧掉城内的守城弩与建筑，以免落于王庭蛮人之手，皇后娘娘和宁缺同时做出了否决的意见，在他们看来大唐将来总是要回来的，这些都是唐国的财富。\n　　被暴雨和敌人围困在荒原深处的唐军，终于开始了南归的旅程。只不过来时，他们的国家还是世上最强大的国度，回归之时，他们的国家",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "里那个人的身份地位比起来。\n　　宁缺沉默了很长时间，然后走到松棺旁跪下，拜倒相见。\n　　皇后娘娘平静说道：“在宫里见他的时候，你一向都不喜欢磕头，现在他已经死了，你磕再多个头，他也看不见。”\n　　宁缺站起身来，伸手轻轻抚摩着松树粗糙的树皮，没有说什么。\n　　皇后本来以为他会像以前那样，笑着说死者为大",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

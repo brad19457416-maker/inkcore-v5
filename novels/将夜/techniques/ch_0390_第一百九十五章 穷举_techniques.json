@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 390,
+  "chapter_title": "第一百九十五章 穷举",
+  "filename": "ch_0390_第一百九十五章 穷举.txt",
+  "char_count": 3364,
+  "timestamp": "2026-04-10T12:11:21.788270",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "息，究竟是凭什么发现自己体内流淌的还是浩然气，而不是清风流云间的天地元气？\n　　晨光从绝壁对面的湛蓝天空里透进崖洞。\n　　宁缺被光线刺的微微眯眼。\n　　忽然间他想到一件事情。\n　　世间没有完全无色的光，甚至没有完全单色的光。至少在他现在身处的这个世界是这样的。\n　　就算肉眼无法看见，但那些不可见的波",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的思索之中。\n　　明明在书院不器意的伪装下，自己体内的浩然气已经改变了模样，变成了天地气息中的一种，为什么还是引发了崖洞的禁制？\n　　夫子留下的那道简单气息，究竟是凭什么发现自己体内流淌的还是浩然气，而不是清风流云间的天地元气？\n　　晨光从绝壁对面的湛蓝天空里透进崖洞。\n　　宁缺被光线刺的微微眯眼。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "会被夫子的气息发现，能够轻松出入才对。\n　　只听得嗤的一声轻响。\n　　那团微弱的小火球飘到崖洞口处，骤然熄灭。\n　　崖洞处的禁制骤现骤隐。\n　　宁缺沉默看着那处，脸色变得有些苍白。\n　　原来夫子留下的这道禁制，不仅仅不允许浩然气通过，甚至不允许有任何非自然的天地气息通过，换句话说，只要是修行者，哪怕",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "暴力破解便是穷举。\n　　所谓穷举便是完全归纳，一个一个的试答案，那么只要拥有足够长的时间和耐心，最终总会撞到唯一正确的那个密码。\n　　宁缺试图暴力破解崖洞禁制，和对解除密码还有一些小的区别，因为他需要找到无数种天地元气的特征，并且把体内的浩然气模似成对方，这便等若是他需要找到无数个密码，然后把这",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "尝试后，他发现这个方法连第一步都不可能走通，无数次惨痛的失败，让他终于确信，没有谁能与时间这般伟大的存在为敌。\n　　在沉思数夜后，他忽然想到，夫子给自己的两本书并不见得分别针对两种方法，而应该是相互联系起来。\n　　于是他开始尝试用书院不器意，把浩然气模拟成自然界的天地元气，就如同陈皮皮曾经说过的那样",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "尝试着。\n　　因为他只给了自己三个月的时间。\n　　如果不在这三个月的时间里，付出自己最大的努力，那么将来临死时想起当年被自己亲手废掉的浩然气时，一定会有很多遗憾。\n　　……\n　　……\n　　崖洞里的宁缺变得越来越沉默，没有时间梳理的头发散在身后，显得有些潦倒，他的脸色越来越憔悴，但眼睛里的光泽却是越来",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "制的不可思议之处。\n　　他忽然想到一件事情，把桑桑喊进洞来。\n　　他盯着进出自如的小侍女，觉得自己的思绪更加混乱。\n　　如果说夫子这道禁制，针对的是非自然的念力或者符力以及魔宗修行者的真气，那么桑桑跟随光明神座修行，体内至少也会留下一些道门气息，为什么那道禁制却对她没有任何反应？\n　　宁缺不再想这件",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "如果按照以前的想法，这团微弱的小火球里所蕴藏的是天地元气，那么便应该不会被夫子的气息发现，能够轻松出入才对。\n　　只听得嗤的一声轻响。\n　　那团微弱的小火球飘到崖洞口处，骤然熄灭。\n　　崖洞处的禁制骤现骤隐。\n　　宁缺沉默看着那处，脸色变得有些苍白。\n　　原来夫子留下的这道禁制，不仅仅不允许浩",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "意，对其进行了长时间的认真观察，仔细地揣摩分析这道气息的特征和最细微处的差别，然后记在笔记上。\n　　同时他没有忘记修炼书院不器意。\n　　到他确认自己完全掌握了那道水符凝出天地气息的全部特征和味道，并且已经掌握了书院不器意的精髓，能够随心所欲时，便正式开始了改造。\n　　暮色笼山时，他盘膝坐在蒲团上，缓",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“如果给你一把青菜，你能不能烧出一碗火烧肉？”\n　　宁缺看着身前的桑桑问道。\n　　桑桑想了会儿，说道：“当然不能，不过昨天大先生提了几斤新鲜猪肉过来，少爷你如果想吃红烧肉，我呆会儿给你做。”\n　　……\n　　……\n　　宁缺没有沮丧太多时间，马上又投入到学习和破题之中。\n　　夫子留下的这道题目，实在",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "甲上。\n　　宁缺很擅长学习，或者说擅长考试，而像数科这种考试，很多时候就是投机取巧的才华展现，所以他一向有些瞧不起那些不知道运用公式和答题技巧，只会老老实实进行计算的同伴。\n　　而现在他没有现成的公式，也找不到任何技巧，于是只能重新拣起曾经被自己瞧不起的笨办法，开始试图暴力破解。\n　　暴力破解便是穷",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "今自然界里的色彩，便能伪装成天地气息。\n　　然而真正开始尝试后，他发现这个方法连第一步都不可能走通，无数次惨痛的失败，让他终于确信，没有谁能与时间这般伟大的存在为敌。\n　　在沉思数夜后，他忽然想到，夫子给自己的两本书并不见得分别针对两种方法，而应该是相互联系起来。\n　　于是他开始尝试用书院不器意，把",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "且已经掌握了书院不器意的精髓，能够随心所欲时，便正式开始了改造。\n　　暮色笼山时，他盘膝坐在蒲团上，缓缓闭上了眼睛。\n　　朝雾入洞时，他缓缓睁开眼睛，从蒲团上站起。\n　　念力入体缓慢流淌，宁缺自视腹内气漩，沉默感知着那些浩然气，当他终于确信体内的浩然气在不器意的伪装下，已经全部变成了带着水符特征的天",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

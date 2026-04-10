@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 831,
+  "chapter_title": "第四章 我爱世人（上）",
+  "filename": "ch_0831_第四章 我爱世人（上）.txt",
+  "char_count": 3213,
+  "timestamp": "2026-04-10T12:11:27.269347",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "？\n　　她微微蹙眉，大概也没有想到自已会说出这样一句话，更想不明白为什么自已的意识里还记得那些很没有意义的事情，而且还说了出来。\n　　随着这两句话，她身体里发出的充满神圣意味的自然之音，渐渐变得寻常，依然空灵清幽，却不再那般复杂难明。\n　　酒徒问了她三个问题，那是他漫长生命里始终没有想明白的三个问题",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "题，却没有留意到，自已牵着黑马，已经来到了一家面摊的前面。\n　　此时已是深冬，县城的街道上覆着薄薄的雪，然后被行人践踏成黑泥，她从断峰里出来后，一直没有穿鞋，赤裸如莲的双足，在黑水里格外醒目。\n　　面摊后搁着两个炉子，锅里的水已经开了，正散发着面食煮熟后令人愉悦的淡淡味道，面摊上的香菜末味道则是更加",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "价。\n　　路经宋国某个县城时，她忽然觉得有些饿，想要吃碗面。\n　　对于她的身体来说，饥饿这种感觉并不陌生，但对她来说，这种感觉依然不熟悉，而且充满了一种低贱的生物性，这让她觉得很厌憎。\n　　更重要的是，按照不可能出错的天算，她现在的身躯就算胖一些，需要补充更多的物质，但在荒原上喝了十几袋马奶酒，在小",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "美线条，变幻出无数的光影。\n　　酒徒和屠夫双膝渐曲，跪倒在她的身前。\n　　他们躲避了昊天数万年时间，最终还是被昊天找到，他们看到了昊天赐予他们的神国，并且确信那是真实的存在，那他们还要求什么？\n　　……\n　　……\n　　桑桑走出肉铺，酒徒和屠夫谦卑地跟在她的身后。她挥了挥手，大黑马颈间系着的缰绳就像花",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，让她稍微分些心神，以方便他能够再次逃走。\n　　然而就像后来他在长安城前默自喟叹的那般，既然昊天已经来到人间，那么他和屠夫又如何能够不被她找到？\n　　事实上她根本就没有想过酒徒为什么会问那三个问题，她早就已经找到了那三个问题的答案，或者说那三个问题对以前的她来说没有任何意义，只是在此时却有了意义，所",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "烟火气的话，怎么可能从此人嘴里听到？\n　　她微微蹙眉，大概也没有想到自已会说出这样一句话，更想不明白为什么自已的意识里还记得那些很没有意义的事情，而且还说了出来。\n　　随着这两句话，她身体里发出的充满神圣意味的自然之音，渐渐变得寻常，依然空灵清幽，却不再那般复杂难明。\n　　酒徒问了她三个问题，那是他",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "他们震撼的是，他们在那个神国里看到了自我意识的存在，随着自我意识的波动，由规则构成的完美线条，变幻出无数的光影。\n　　酒徒和屠夫双膝渐曲，跪倒在她的身前。\n　　他们躲避了昊天数万年时间，最终还是被昊天找到，他们看到了昊天赐予他们的神国，并且确信那是真实的存在，那他们还要求什么？\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "想象自已真的与昊天进行了一番对话。\n　　不知道过了多长时间，酒徒和屠夫才从震惊中醒过来。屠夫看着那辆沉重的车厢，说道：“此去长安路途遥远，这车太重，昊天又不允我助你，便要辛苦你了。”\n　　酒徒说道：“没有反抗也没有躲避，所以便没有惩罚，我虽然不敢反抗却试过逃避，这便是惩罚，惩罚我曾经最引以为傲的无距",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "“腊肉，要用松烟薰足一个月才好吃。”\n　　她望着屠夫说出在人间的第二句话。随着这句话，肉铺里变得更加安静，酒徒和屠夫脸上的神情很复杂，有些震惊有些惘然――先赞好酒再道腊肉，在他们的想象里，这种充满了人间烟火气的话，怎么可能从此人嘴里听到？\n　　她微微蹙眉，大概也没有想到自已会说出这样一句话，更想不明",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "却有了意义，所以她才会负手望远方若有所思。\n　　最后她做出了决定，看着酒徒和屠夫，没有任何情绪波动，说道：“如果第一个问题指的是关系之间的代称，你们可以叫我桑桑。”\n　　她叫桑桑，她就是桑桑，只不过她在做出用这个名字的决定之后，忽然生出极大厌憎，就像厌憎先前说出与酒肉相关的两句话。\n　　听到这个名字",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

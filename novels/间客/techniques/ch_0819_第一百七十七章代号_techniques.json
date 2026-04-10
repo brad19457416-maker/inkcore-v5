@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 819,
+  "chapter_title": "第一百七十七章代号",
+  "filename": "ch_0819_第一百七十七章代号.txt",
+  "char_count": 3614,
+  "timestamp": "2026-04-10T12:05:17.591527",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "馆第三高手的他，相信自己有能力完成所有任务，然而这两天看到的一切，让拥有罪犯敏感嗅觉的他，捕捉到了极危险的味道。\n\n    那名联邦政府高官微笑着说道：“你们的小组被正式命名为小眼睛，你们的任务就是，逮捕或者杀死一个很出名的小眼睛男人\n\n    在接下来的时间里小组成员们唠唠叨叨述说着对这个组织名称",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "剧挤压后产生的呜鸣，高车厢在离他不远的地方高驶过，吹得动衣衫却吹不动他沉默前进的身体，只有那顶帽子被风吹离了头顶，滚的极远极远。\n\n    地铁驶远，他在黑暗的地道里推开一扇维修通道门，提起沉重的机械压地阀，跳了下去，回到了属于自己的地下世界都特区地底四通八达的地下水道网络。\n\n    略有湿漉感觉",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "快有些喘不过气。\n\n    但小眼睛里有些成员并没有唠叨埋怨个不停，他们沉默无比，有的人是直接被任务真相击垮了神经，而还有些人则是强悍地保有着信心与决心。“根据这两天我们看到的所有资料，我们可以确定，因为许乐上校的第一序列权限，依靠宪章局对他进行芯片定位，已经从根本上失去可能性，那么我们现在最重要的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "教授说道。\n\n    “下面进行目标人物杀伤力评估。”\n\n    一个鬓角略显花白，戴着眼镜的研究者紧张地走上台，他叫陈一江，来自联邦十九研究院，擅长军用兵器鉴定分析。\n\n    宪历六十五年他从学校毕业，到今天为止已经在研究院库房里工作了整整七年，七年枯燥的研究岁月除了头提前白之外，没有改变他任何",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "去制造一咋小大型计算合成器来过滤这些冗余信息？”\n\n    “计算依然由中央电脑进行，这一点你们不用担心。”一直沉默坐在台旁的宪章局官员抬起头来，望着调查小组成员们说道：“联邦中央电脑的工作分为很多个域，彼此之间互不影响，它会回应所有数据计算请求。”\n\n    “就算如此，我还是认为这不可行。”那人",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "地下水道系统，很明显，潜入地下，是他逃亡时的惯用手法。”\n\n    他微笑望着同事们，说道：“习惯是最强大的力量，压力和恐惧越大，人类越是会选择最习惯最熟悉的方法来面对，面对整个联邦追特的压力，我相信许乐上校现在正躲藏在我们脚底深处的地下水道系统中。”\n\n    “综上所述，他现在的方位是都特区的地",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "明显，他对于东林的地下矿道没有任何心理阴影，相反他的童年少年生活，和这些坑道密切相关，宪历六十五年的第一次逃亡，他明显就是利用这些坑道逃脱了联邦的追捕。”\n\n    罪案调查专家用手指快翻滚着光幕。指着其中两份被标注为绝密的情报说道：“依据许乐上校从帝国归来后自己的陈述报告，他之所以能够在天京星上摆",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "与家人联络，要保持绝对的机密。”\n\n    一名联邦政府高官站在最前方，望着看上去没有什么特殊之处的人群，冷漠说道：“如果你们同意这项协议，那么请在相关权限放弃声明证书上签字。并且对宪章进行宣誓\n\n    “现在可以告诉我们，这个见鬼的终极任务是什么了吧？”\n\n    一名刚刚从狐狸堡太空监狱释放的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "经过几条安静幽深的小小巷，穿过那些戴黑色口罩的人潮人海。他低着头加快脚步，顺着长长倾斜的通道进入地铁站，趁着无人注意打开站台后方的房间，爬过窗台，跳下黑暗的轨道。\n\n    远处有地铁高驶来，他眯着眼睛迎着灯光前进，身体准确地踏着那条经过老东西精确计算找到的唯一安全地带，根本没有理会扑面而来",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "危险，派遣数十万士兵下去，那么我们只能盯着所有地下水道的出口。耐心地观看他会从哪里出来，从哪里进入，慢慢地寻找规律，直到有把握猜到他下次会从哪里出来。”\n\n    “如果他事先储备了大量给养，就藏在里面不出来怎么办？”\n\n    “如果不回到地面，那他就不会留在都特区，为什么不回东林或者去西林甚至更",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "自联邦调查局的专家，指着光幕上轮转的画面，向同事们解释道：“我们现在已经启用环绕的三十六颗军用卫星，同时启用了旧月基地和新月基地上的五介。高精度对地电子望远镜，同时联邦调查局已经把二级监控网络的权限授予我们，这也就意味着，我们可以通过这颗星球遍布每个角落的六十亿个探头，看到生的所有画面。”",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，要保持绝对的机密。”\n\n    一名联邦政府高官站在最前方，望着看上去没有什么特殊之处的人群，冷漠说道：“如果你们同意这项协议，那么请在相关权限放弃声明证书上签字。并且对宪章进行宣誓\n\n    “现在可以告诉我们，这个见鬼的终极任务是什么了吧？”\n\n    一名刚刚从狐狸堡太空监狱释放的刑事重犯咕",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "处的地下水道系统中。”\n\n    “综上所述，他现在的方位是都特区的地下水道系统，我们既然不可能冒着社会哗然的危险，派遣数十万士兵下去，那么我们只能盯着所有地下水道的出口。耐心地观看他会从哪里出来，从哪里进入，慢慢地寻找规律，直到有把握猜到他下次会从哪里出来。”\n\n    “如果他事先储备了大量给养",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "毕业，到今天为止已经在研究院库房里工作了整整七年，七年枯燥的研究岁月除了头提前白之外，没有改变他任何性格，他无法适应这种场合，更对同事某些看起来很危险的人物感到害怕。\n\n    “前期调查已经现望都青年公寓里一整箱枪械，型号和火力构造各不相同，现在公寓四周有狙击手长期待命，但他没有回去取过。呃，调查",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

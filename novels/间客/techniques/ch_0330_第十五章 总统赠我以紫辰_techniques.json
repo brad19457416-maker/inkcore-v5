@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 330,
+  "chapter_title": "第十五章 总统赠我以紫辰",
+  "filename": "ch_0330_第十五章 总统赠我以紫辰.txt",
+  "char_count": 3765,
+  "timestamp": "2026-04-10T12:04:59.230424",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "以及先期的信息转递谈判工作，都是施清海促成的。”\n\n    许乐为了把施清海救出来，只得抛出了这个小秘密，虽然施公子曾经大喊，这是他们的……总统，但身为联邦总统，谁会真的在意这些过往的小细节？\n\n    “你坚持？”帕布尔总统表情沉重地望着他问道。\n\n    “我坚持。”许乐抬起头来，很认真地回答道",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "章藏起来，你这个英雄人物估计很多年都不能见光。”\n\n    见到总统本人，许乐自嘲地现原来自己还是会紧张，此刻现自己被授予了紫辰勋章，更是不禁眼瞳微缩，垂在袖口外的双手下意识里紧紧握了起来。\n\n    杀死麦德林这名隐藏最深地帝国间谍，自然是替联邦立下了大功，但他自认自己是误打误撞，怎么也没有想到，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "准备好的文件，签下了自己的名字，做了数据保存和权限确认，这才抬起头来，看着站在桌前的年轻人微微一笑，说道：“很高兴见到你，许乐。”\n\n    ……\n\n    ……\n\n    “这是我的荣幸。”许乐嗓子有些干，笔直地站立着，望着面前的联邦总统回答道。\n\n    为了mx机甲新标准之事，他曾经来过总统官",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "不是不可触碰的铁幕，当然，作为如今的联邦领袖，他也不会愚蠢到全然不讲妥协平衡，便要在宇宙间吹起一股烈风。\n\n    他所做的改变是缓慢而小心翼翼的，比如星云奖得主在总统官邸的例行舞会被取消，取而代之的是总统亲自出席颁奖仪式，表一篇热情洋溢的讲话。\n\n    敬畏是因为总统所代表的权威与力量，敬畏的是",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "们看着台上的帕布尔总统，并不妨碍他们心中的小疑惑越来越浓，为什么总统先生要对星云奖颁奖程序做这样一个突然而暂时的变更。\n\n    帕布尔总统演讲的内容昭示了真实的原因：\n\n    演讲前半部分非常常见，热情赞扬了为了联邦进步而做出卓越贡献的科学家与艺术家们，然而演讲的后半段，却开始变得沉重起来与意有",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "但那些隐晦却又直接的意思，谁都能够听明白。台下拿着和平奖座的京州州长罗斯先生脸上的表情变得极为沉重与愤怒。\n\n    逝已逝，帕布尔总统难道不知道这样犯了大忌？\n\n    “人死并不如灯灭。灯有光明。照不见地地方是黑暗。做错了事情。就必须付出代价。”\n\n    帕布尔总统望着台下面面相觑地宾客们。沉",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "先前的严苛检查与唯一知道内情的特勤局局长冷峻的眼神，让许乐更深切地体会到与总统先生见面，有什么样的意义。逃犯，罪犯，再到总统亲自接见，纵使他性情平稳坚毅，也不免心生惴然。\n\n    他望着面色黝黑的帕布尔总统，想到总统先生值得尊敬的过往经历，再联想到这两年来自己与总统大选之间的诸多微妙关系，而且正",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "：“出去之前，记得把勋章藏起来，你这个英雄人物估计很多年都不能见光。”\n\n    见到总统本人，许乐自嘲地现原来自己还是会紧张，此刻现自己被授予了紫辰勋章，更是不禁眼瞳微缩，垂在袖口外的双手下意识里紧紧握了起来。\n\n    杀死麦德林这名隐藏最深地帝国间谍，自然是替联邦立下了大功，但他自认自己是误打",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "但场间有这么多宾客。演讲地内容肯定会流传出去。至于会不会让刚刚安静地联邦。再生什么动荡。这是现在地人们无法预判地。\n\n    表情凝重地宾客与官员们走出了乔治卡林中心。第一件事情便是收集了最近一个星期地都特区日报。联邦似乎要对死去地麦德林做些什么。帕布尔总统提到了都特区日报地调查。人们这时候才想起",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "于会不会让刚刚安静地联邦。再生什么动荡。这是现在地人们无法预判地。\n\n    表情凝重地宾客与官员们走出了乔治卡林中心。第一件事情便是收集了最近一个星期地都特区日报。联邦似乎要对死去地麦德林做些什么。帕布尔总统提到了都特区日报地调查。人们这时候才想起来。鲍勃总编和刚刚出院不久地伍德记。好像已经回到了",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "到了这家以揭露真相著名地报社……\n\n    ……\n\n    ……\n\n    警车开道，黑色的总统车队缓缓地驶入了官邸，帕布尔总统一出车门，便开始不停地向跟在自己身边的几位机要秘书进行口头指示，他地话语低沉，但格外清晰有力，就像他这个人一样，充满了一种沉稳的活力与可信地魅力。\n\n    就职半年时间，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "为了mx机甲新标准之事，他曾经来过总统官邸，但那时只是在休息室里枯等了一夜，此时此刻却是站在联邦最有权力的男人面前，相距不过三步。\n\n    先前的严苛检查与唯一知道内情的特勤局局长冷峻的眼神，让许乐更深切地体会到与总统先生见面，有什么样的意义。逃犯，罪犯，再到总统亲自接见，纵使他性情平稳坚毅，也不",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "许乐曾经在东林当过矿道维护兵，自然难免有些亲近，微笑问道：“军事法庭判了你七百一十三年有期徒刑，但我从来没有认为你做的事情是错地。联邦无法在阳光下给予你荣誉，我想你也不会要求联邦为这一百多天的牢狱生活对你做出赔偿……你有什么想法，这时候可以说一说。”\n\n    迈尔斯上将站在旁边望着许乐，不知道年轻",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

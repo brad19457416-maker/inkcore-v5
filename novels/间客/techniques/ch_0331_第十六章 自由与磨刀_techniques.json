@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 331,
+  "chapter_title": "第十六章 自由与磨刀",
+  "filename": "ch_0331_第十六章 自由与磨刀.txt",
+  "char_count": 3519,
+  "timestamp": "2026-04-10T12:04:59.233074",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "不能让许乐狮子大开口。特赦不是一件况特赦对象是军的情报人员，总统先生必须要考虑这件事情可能带来的政治风险。\n\n    在总统官邸另一间办公室里，许乐低头不停地签着法律文书，联邦法律允许总统进行特赦，但相关的法律程序异常繁复，虽然有国防部内务处全权替他代理这些法律程序，可是最后的签字认证，也是不小的工",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "沉声说道。\n\n    在总统官邸的门口，迈尔斯上将先行离开，他竟是专程为了许乐的事情，从第一军区驻地来到都特区。\n\n    许乐一个人站在总统官邸门口地草地旁，抬头望着天上的阳光，嗅着新剪草枝的淡淡青香，有些不明所以。\n\n    片刻后，他摘下自己胸口处的勋章放进口袋，向官邸外面走去，四周穿着黑色正",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "假期，然后到国防部报到，至于找谁报道，你自己清楚。”迈尔斯上将放下了手中的烟草，说道：“我不知道师长为什么会这么欣赏你，不过我本来也就不愿意看着你这小子死掉，把文件签了，然后赶紧走人。”\n\n    “施清海地事情？”许乐依然抓着这个问题不放。认真说道：“就算签了文件。我也可能不履行职责。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "……\n\n    ……\n\n    在楼道拐角处，许乐摸出了一把钥匙，打开了望都公寓的门。这是邰之源第一次来到这间公寓，他就像个主人一样径直走到沙上坐下，认真地打量着房间的大小和布置。\n\n    公寓的空气流通系统一直运转良好，虽然半年多没有住人，依然没有什么灰尘和污垢。许乐给邰之源倒了一杯茶，然后",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“你有一个月地假期，然后到国防部报到，至于找谁报道，你自己清楚。”迈尔斯上将放下了手中的烟草，说道：“我不知道师长为什么会这么欣赏你，不过我本来也就不愿意看着你这小子死掉，把文件签了，然后赶紧走人。”\n\n    “施清海地事情？”许乐依然抓着这个问题不放。认真说道：“就算签了文件。我也可能不履",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "地任务。由不得他不谨慎。\n\n    “小子。你自由了。也再也没自由了。”\n\n    国防部军官们表情凝重地拿着文件走出了办公室，迈尔斯上将门外走去，沉声说道。\n\n    在总统官邸的门口，迈尔斯上将先行离开，他竟是专程为了许乐的事情，从第一军区驻地来到都特区。\n\n    许乐一个人站在总统官邸门口地",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "落笔。\n\n    签完了类似卖身契地薄薄文书之后。很明显无论是迈尔斯上将。还是那几名国防部地军官。都同时松了一口气。\n\n    作为联邦军方头号人物。无论是给许乐授勋。还是特赦。还是此时签署文书。迈尔斯上将根本就不应该出现。只是这是他老师长在电话里亲自交待地任务。由不得他不谨慎。\n\n    “小子。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "从邰之源的军装和稍有改变的气质及面部肤色中，许乐早就猜到这一年多的时间，这家伙藏在了哪里。许乐从来没有在意过邰之源的身份，被联邦里绝大多数人奉若玉石的太子爷，只是他的朋友，还是朋友关系中比较弱势的那一个，因为这位太子爷的身体不怎么好，以往曾经昏倒在他的怀中。\n\n    “居然这么快就升了少校，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "李，他的身上没有钥匙，没有钱包，没有银行卡，他什么都没有，只有一枚勋章。他站在总统官邸的门口，来往地人们都不认识他，他不知道自己将要到哪里去，因为连坐地铁的钱都没有。\n\n    许乐抬头看天，眯着眼睛想了一会儿，是想办法先联系邰之源还是邹郁，问题是难道自己还要走进官邸，去向总统先生借个电话？",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，问题是难道自己还要走进官邸，去向总统先生借个电话？\n\n    便在这个时候，一辆没有标志地黑色汽车缓缓驶了过来，车窗上面贴着的通行证，让官邸四周地安控人员没有任何情绪反应。\n\n    车窗缓缓摇下，露出邰之源那张微白瘦削的脸，他笑着说道：“迷路了？”\n\n    “嗯，有点儿。”许乐开心地笑了起来，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

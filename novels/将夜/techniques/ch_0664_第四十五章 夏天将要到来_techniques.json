@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 664,
+  "chapter_title": "第四十五章 夏天将要到来",
+  "filename": "ch_0664_第四十五章 夏天将要到来.txt",
+  "char_count": 3273,
+  "timestamp": "2026-04-10T12:11:26.888732",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第四十五章 夏天将要到来\n　　黄杨问道：“可我还是不明白，陛下为什么要御驾亲征。”\n　　“在世人眼中，在朝臣眼中，在你与青山眼中，朕此番御驾亲征，必然隐藏着很多想法，很多人都在猜，然而其实只是因为很简单的一个原因。”\n　　皇帝大笑说道：“朕当了十几年的皇帝，便在",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "永夜自北方袭来，那必然是千万年来最壮观的画面，朕自然不愿意错过。”\n　　黄杨闻言失笑，然后无奈一叹，心想陛下倒确实是这等人物，便在他正准备继续问些事情的时候，听着身后传来脚步声。\n　　皇后娘娘牵着位小男孩从楼台里走了出来，不时轻声说着什么，目光落在小男孩身上时，显得那般温柔怜爱满足。\n　　皇帝陛下迎",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "朕此番御驾亲征，必然隐藏着很多想法，很多人都在猜，然而其实只是因为很简单的一个原因。”\n　　皇帝大笑说道：“朕当了十几年的皇帝，便在长安城里住了十几年，错过了人世间太多风景，若冥界真的入侵，永夜自北方袭来，那必然是千万年来最壮观的画面，朕自然不愿意错过。”\n　　黄杨闻言失笑，然后无奈一叹，心想陛下倒",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，早逝也是正常的事情。”\n　　何明池微露戚容，却不知该说些什么。\n　　皇帝陛下御驾亲征，深入荒原，按道理，李青山身为大唐国师当然要在御前随行，只是因为重病，所以他留在了长安，替代他的是御弟黄杨大师。\n　　“我不担心自已的生死，黄杨和尚在陛下身边，还有那么多军中强者，所以我也不担心陛下的安危，我担心的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "都不过如此，直到如今我才明白，天意不可测，那两位的智慧远在我之上，比我看的清楚多了，我强行以棋盘推演将来，咯血渐密，身体渐虚，昊天神眷渐褪，早逝也是正常的事情。”\n　　何明池微露戚容，却不知该说些什么。\n　　皇帝陛下御驾亲征，深入荒原，按道理，李青山身为大唐国师当然要在御前随行，只是因为重病，所以他",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "简单的一个原因。”\n　　皇帝大笑说道：“朕当了十几年的皇帝，便在长安城里住了十几年，错过了人世间太多风景，若冥界真的入侵，永夜自北方袭来，那必然是千万年来最壮观的画面，朕自然不愿意错过。”\n　　黄杨闻言失笑，然后无奈一叹，心想陛下倒确实是这等人物，便在他正准备继续问些事情的时候，听着身后传来脚步声。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "昊天，自不愿魔宗圣女的儿子成为大唐皇帝。”\n　　李珲圆闻言神情骤松，眼中流露出喜悦兴奋的神情，又有些紧张地搓了搓手，有些烦恼无奈说道：“为什么国师始终不揭穿妖女的真实身份？”\n　　“因为陛下不会同意。”\n　　何明池看着他平静说道：“殿下，请您一定要记住，再强大的武器也只有在适当的时刻才能发挥出作用，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "何明池闻言身体微僵，低声问道：“师傅，您究竟在担心什么？”\n　　李青山看着窗外茂密浓肥的青叶，想着马上就要到来的夏天，缓声说道：“我担心这是一场空欢喜，而空欢喜之后往往很容易出问题。”\n　　这时道殿外传来声音，何明池起身前去，片刻后带着皇子李珲圆走入道殿，和声说道：“师傅，皇子来看你。”\n　　李青",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "山身为大唐国师当然要在御前随行，只是因为重病，所以他留在了长安，替代他的是御弟黄杨大师。\n　　“我不担心自已的生死，黄杨和尚在陛下身边，还有那么多军中强者，所以我也不担心陛下的安危，我担心的是别的事情。”\n　　李青山脸上的笑容渐渐敛去，神情显得有些疲惫，说道：“陛下此番御驾亲征，竟是把皇后娘娘和小六",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "脚步声。\n　　皇后娘娘牵着位小男孩从楼台里走了出来，不时轻声说着什么，目光落在小男孩身上时，显得那般温柔怜爱满足。\n　　皇帝陛下迎了过去。\n　　那名小男孩穿着明黄色的衣衫，继承了父母的优点，模样清俊，只不过神情显得有些微怯，这不是继承了父母的性情，而是被父母性情所影响，不过看他脸上清稚的笑容，可以看",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "告诉任何人，包括公主殿下在内。”\n　　李珲圆微微皱眉，想要说些什么，但此时皇城已至。\n　　何明池随他进入皇宫，先去拜见李渔，不知说了几句什么，出殿后便自行向宫中某处走去，这些年他时常随国师进宫，可以随意出入，而且那些太监宫女知道这名南门观道官很受公主殿下和皇子的尊敬，哪里会有人阻止他。\n　　片刻后，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "院保管，无论是国师还是他，都没有什么办法。\n　　何明池站在空旷无垠的地面上，想像着阵法启动后的画面，缓缓闭上眼睛，张开双臂，仿佛自已正站在夜空下，拥抱着整个人间。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

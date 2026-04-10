@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 416,
+  "chapter_title": "第二百二十一章 小楼传说（上）",
+  "filename": "ch_0416_第二百二十一章 小楼传说（上）.txt",
+  "char_count": 3356,
+  "timestamp": "2026-04-10T12:11:21.749927",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，对书院有敌意乃是自然之事，至于为何如此警惕你，朕着实不知，或许这件事情需要去问他本人。”\n　　宁缺心想虽说自己现在是书院二层楼的学生，但要去当面质问大唐军方第一人，依然是件很找抽的行为。\n　　皇帝没有让他在这种情绪中停留太长时间，自榻旁长身而起，剑眉渐挑，看着他清声说道：“那东西你带来了吧？”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "先生当初那般处理，是朕的意思，你也应该明白朕的意思。”\n　　“我没有任何怨怼之心，我只是困惑不解于，为什么帝国军方的那些大人物始终不肯放过我，我不明白军方对我的敌意从何而来。”\n　　宁缺说道：“首先是夏侯大将军想要在荒原上杀死我，我可以理解为，天书明字卷的诱惑冲昏了他的头脑，那许世老将军呢？老将军身",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "嗓子，仔仔细细把自己当年在道旁尸堆里拣到桑桑，以及随后这些年的遭遇讲了一遍。\n　　皇帝沉默稍许，感慨说道：“如此身世真是离奇难言，她与你的情份亦是世间少见，你要珍惜才是。”\n　　宁缺点了点头。\n　　皇帝看着他问道：“今日她为何没有随你入宫来见朕？”\n　　宁缺说道：“她去公主府玩耍去了，殿下一直与她感",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的神符师能不能做到？\n　　皇帝注意到了他的神情，抬头向上方的石壁望去，沉默片刻后感慨说道：“当年父皇第一次带我来这里，我也如你一般震撼难言，我只能隐约感觉到这些符文的强大，却也不愿意经常来这里。”\n　　“这些符文的激发条件是什么？”\n　　宁缺不愧是颜瑟大师的传人，提出了最关键的一个问题，即便千年前刻",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "上遇着的太监宫女，敬畏沉默退避道侧，然后看着渐远的二人身影，脸上流露出惊讶疑惑的神情。\n　　皇宫里的人们都是最精明的人物，当然知道皇帝陛下身旁穿着黑衣的年轻人，便是传说中的宁缺宁大家，只是他们不明白，陛下此时要带着宁缺去哪里，为什么身边一个使唤的人都没有留。\n　　御花园深处，有一幢二层小木楼，朱漆涂",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "与陛下一起肆无忌惮骂朝小树为白痴，他很兴奋也很激动，唾沫星子四处飞溅。\n　　白痴二字在幽静的宫殿里如雨纷飞，惹得皇后娘娘和一应太监宫女讶异又是好笑，紧紧掩着嘴，不让自己发出笑声，只是这等场面毕竟有些尴尬，皇后对身旁的女官使了个眼色，带着宫女太监们悄悄离开宫殿。\n　　不知道过了多长时间，宫殿里的君臣二",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "他人为白痴，从里到外透着股小家子气，所以今天能在皇宫里与陛下一起肆无忌惮骂朝小树为白痴，他很兴奋也很激动，唾沫星子四处飞溅。\n　　白痴二字在幽静的宫殿里如雨纷飞，惹得皇后娘娘和一应太监宫女讶异又是好笑，紧紧掩着嘴，不让自己发出笑声，只是这等场面毕竟有些尴尬，皇后对身旁的女官使了个眼色，带着宫女太监们",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "文很强大，但似乎都有些残缺，如今石壁上的这些线条只是原始符线的片段。\n　　他看着石壁上的线条，推算着存在的时间，默默震撼想着，千年前刻下这些符线的前贤，究竟达了什么样的境界，竟能把符力保持这么长的时间，像师傅那样的神符师能不能做到？\n　　皇帝注意到了他的神情，抬头向上方的石壁望去，沉默片刻后感慨说道",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "一幢二层小木楼，朱漆涂彩，很是精致，但与远处的巍峨宫殿相比，还是显出了些寒酸气息。\n　　皇帝带着宁缺来到小木楼前，说道：“就是这里。”\n　　小楼外青树繁杂，野花盛开，明显很长时间都没有修剪，宁缺看着脚下石砖间生出的青草，心想大概甚至很少有人会来这里。\n　　接着他抬头向四周望去，视线与皇城墙一触而回，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "事情交待清楚，你们究竟如何商议的？”\n　　皇帝轻敲案几，示意宁缺自己饮茶。\n　　宁缺端起茶碗，却没有马上饮，回答道：“现在暂定的是三年之后再说，如果到时桑桑想去西陵，便去。”\n　　皇帝问道：“与朕讲讲你那小侍女的故事，怎么忽然成了曾静府上的小姐？怎么又忽然又成了光明大神官？”\n　　宁缺喝了口茶，润了",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "王子隔些天没看见她，便有些想。”\n　　皇帝听着他的解释，眉头微微蹙起，隐有忧色。\n　　宁缺明白陛下的忧虑从何而来，沉默片刻后说道：“陛下，这些事情虽说是天下事，但终究是家事。”\n　　皇帝沉默片刻后问道：“夫子可有什么说法？”\n　　宁缺摇了摇头。\n　　皇帝叹息说道：“说来也是，以老师那性情，哪里会在意",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "军做出严苛的处罚。\n　　宁缺表明上能够接受这种决定，但他要让皇帝陛下知道，自己对于来自大唐军方隐隐的压迫不能接受，他要一个说法。\n　　皇帝沉默片刻后，说道：“许世老将军这一世战场不败，但在小师叔面前却永远抬不起头，对书院有敌意乃是自然之事，至于为何如此警惕你，朕着实不知，或许这件事情需要去问他本人。",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "宁缺摇了摇头。\n　　皇帝叹息说道：“说来也是，以老师那性情，哪里会在意这等烦心事。”\n　　殿内一片安静。\n　　不知道过了多长时间，皇帝看着宁缺的眼睛，忽然问道：“朕想知道，你和夏侯大将军之间究竟有什么仇怨？”\n　　宁缺未加思索，摇头说道：“去荒原之前并无仇怨。”\n　　“也就是说去荒原之后便有了。”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

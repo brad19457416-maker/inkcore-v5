@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 445,
+  "chapter_title": "第九十六章 医院、公墓及林梢后的机甲",
+  "filename": "ch_0445_第九十六章 医院、公墓及林梢后的机甲.txt",
+  "char_count": 3601,
+  "timestamp": "2026-04-10T12:04:59.261660",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "林梢后的机甲 \n\n    来泽丘军用空港，参加小型欢迎仪式的军官并不多，墨镜，站在台下看着那些军人，心想与在西林行政主星造的声势比较起来，这颗行星的军官似乎对胜利演唱会并不如何看重，前线指挥司令部居然只来一位少将……\n\n    驻守在４６０南半球的联邦军队大部分是西林军区的直属部队，从都星圈前来参加",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "指挥部派出地导引车和宪兵部队离了泽丘空港。向着北方驶去。\n\n    越往北去。越觉灼热。黑车外地澄净天空似乎随时可能燃烧起来。简水儿坐在后排。睁着大大地眼睛。看着道路两旁时常可见地战机残骸焚烧成一团黑土地装甲战车。澄静地眼眸没有燃烧。却浮起了淡淡地悲伤情绪。\n\n    在接下来的行程中，简水儿在军方",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "地眼眸没有燃烧。却浮起了淡淡地悲伤情绪。\n\n    在接下来的行程中，简水儿在军方文宣官员的陪伴下，来到了行星第三医院，看望正在接受治疗的受伤战士。在战场受到重伤的战士会被战舰运送回西林主星接受治疗，但由于运输能力有限，还有一大部分的伤员就地接受治疗，等到伤情稳定之后进行转运。\n\n    在二层无菌",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "新闻的余波始终无法平息，此地虽然是绝对边陲和绝对前线，但军人们依然通过电视和网络，知道了许乐的存在。列队的官兵们一边听着主席台毫无新意的欢迎辞，兴奋地看着台那位国民少女，也将很多好奇的目光投向了许乐。\n\n    这个看去没有一丝异样的年轻人，就是传说中的那家伙？\n\n    ……\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "么？”\n\n    许乐笑了笑露出满口健康的白色牙齿，说道：“我在想，不管演唱会可能生什么，不管国防部究竟想要我做什么。\n\n    但那些帝国人如果真的敢到南边来，小爷我肯定得让他们有些后悔。”\n\n    车队进入驻地，那台一直被严密看管的x机甲，转运进了看守森严的库房。演唱会定在两天之后天晚便要开始",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "打牌声，许乐觉得微微一怔，觉得自己好像是回到了作训基地，此地阳光如此灿烂，真的感受不到大战即将来临的紧张。\n\n    转过营房，场有无数战士正在烈日下进行近身格斗的训练，喊杀声震天而起虽然在战场武装步兵极少会有与帝国人白刃相见的机会，但联邦的军人们从来不曾忘记近身格斗锤打能够带给自己的血性。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "林口音的打牌声，许乐觉得微微一怔，觉得自己好像是回到了作训基地，此地阳光如此灿烂，真的感受不到大战即将来临的紧张。\n\n    转过营房，场有无数战士正在烈日下进行近身格斗的训练，喊杀声震天而起虽然在战场武装步兵极少会有与帝国人白刃相见的机会，但联邦的军人们从来不曾忘记近身格斗锤打能够带给自己的血性。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "低沉甚至有些绝望的气氛因为她的到来，而改变了很多。\n\n    简水儿轻声为他们唱着歌好意思地偏头可爱说道：“我真没用。”\n\n    这句话说出口，就连那位烧伤面积达到百分之七十的少尉军官笑了起来，只是他受伤严重的脸，还没有来得及接受植皮生肌手术，看去显得异常恐怖可怕，尤其是这一笑，竟是能看到左腮处的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "某位伟大存在进行直接的交流。\n\n    他的左眼眸里泛起淡淡线，老东西现在似乎不大喜欢用老管家的面目出现在他脑中，而是直接用那些光符与他进行联系。\n\n    “我觉得事有些大条，但不知道国防部什么时候把任务的真实情况说出来。”许乐在脑中想着，“我是执行军方的任务，如果……演唱会真的会生什么变故，你可",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "将军们大概正在为某件大事忙碌。\n\n    新闻的余波始终无法平息，此地虽然是绝对边陲和绝对前线，但军人们依然通过电视和网络，知道了许乐的存在。列队的官兵们一边听着主席台毫无新意的欢迎辞，兴奋地看着台那位国民少女，也将很多好奇的目光投向了许乐。\n\n    这个看去没有一丝异样的年轻人，就是传说中的那家",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "只是谁也没有注意到，在演唱会现场侧方，那台大功率的信号中继站，先前的脉冲平衡系统，有一个瞬间的失调，似乎有某种外来的信号正在侵入。\n\n    ……\n\n    ……\n\n    “可惜不能去亲眼看一下演唱会的盛况，今天晚的彩排，按道理也应该给我们舰队一些信号才对。”行星大气层外的联邦舰队主舰",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，新闻记拍摄完毕简水儿向英雄公墓献花的画面之后，便被\n\n    请了出去。青青草原间，许乐陪着简水儿缓缓行走的眼睛已然湿润。\n\n    数十年来，为了抵抗帝国的侵略，有无数年轻的热血青年长眠于此地。这片公墓只埋葬了其中近四千名战士，然而放眼望过去，只见平缓青色草原间，全部是黑色的墓碑，不似树木茂密，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "下进行近身格斗的训练，喊杀声震天而起虽然在战场武装步兵极少会有与帝国人白刃相见的机会，但联邦的军人们从来不曾忘记近身格斗锤打能够带给自己的血性。\n\n    迷彩军装早已被土石磨的起了，战士们的身体重重地摔打在坚硬的地面，然后他们坚强地爬起。喊杀声与整齐的落地声冲天而起，刺激的车队里的人口干舌燥。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "伤员开始说话。\n\n    国民少女来到身边清脆里透着阳光气息的声音，为这些遭重沉重打击的战士来带来极温暖的慰籍。病房里低沉甚至有些绝望的气氛因为她的到来，而改变了很多。\n\n    简水儿轻声为他们唱着歌好意思地偏头可爱说道：“我真没用。”\n\n    这句话说出口，就连那位烧伤面积达到百分之七十的少尉",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

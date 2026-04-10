@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 389,
+  "chapter_title": "第五十五章 一个人",
+  "filename": "ch_0389_第五十五章 一个人.txt",
+  "char_count": 3577,
+  "timestamp": "2026-04-10T12:04:59.238593",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "出租车内，许乐平静而温和，内心却早已是惊出了无数汹涌波涛，他痛苦地揉了揉头，尽可能平缓地对着小女孩说道：“你是从哪里看出我会带着你离家出走？还认为我喊这辆出租车是专门配合你？”\n\n    钟烟花抱着洋娃娃，看着他爱地皱了皱眉尖，说道：“电视里不都是这样演？”\n\n    许乐看嫩嫩脸蛋儿上和学生制服",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "己的女儿失踪不见，还没有来得及开始焦虑，便接到了许乐打来的电话，心中放松下来之后，不禁觉得有些好笑，为什么那个平日里乖巧安静的小女孩，每次看见许乐之后，便会给予如此大的信任？\n\n    许乐一边与别墅通着电话，一边用余光注视着小女孩的动静。钟烟花先前愤怒不甘地泄完毕之后，便再也没有开口说话，侧头望着",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "喊道：“停车！回去。”\n\n    听到这句话，小西瓜睁着大而无辜的双眼，惑无比地看着自己的许乐哥哥，心想刚才你执意不坐家里的汽车，让那辆出租车停在楼下等着，难道不就是为了让我从楼上翻下来好逃走吗？在小女孩的思维中，自己并不是一个人离家出走，而是和许乐哥哥进行了一次完美的配合。\n\n    等小女孩现许",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "有些旧了的洋娃娃，尖声喊道：“不要！”\n\n    嘎吱尖锐的声音响起，出租车在栖霞州平坦的高速公路上猛然停住。\n\n    ……\n\n    ……\n\n    拿了一笔丰厚小费的出租车司机，站在公路旁边的树林里叨着烟卷，看着头顶忙碌准备过冬食物的松鼠，间或吹一声口哨。虽然他不明白车内的年轻军官和那个小女孩",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "个人 \n\n    乐异常艰难地眨了眨眼睛，以确认后排那个穿着蓝_女孩是一个真人，而不是自己幻想出来的存在。当他在第一时间内反应过来后，大声对旁边的司机喊道：“停车！回去。”\n\n    听到这句话，小西瓜睁着大而无辜的双眼，惑无比地看着自己的许乐哥哥，心想刚才你执意不坐家里的汽车，让那辆出租车停在楼下",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "就此告终。\n\n    联邦七大家中，邰家和西林钟家这一代都只有一个人，孤单是一回事，他们所将要面临的危险，却又是另一回事。许乐很明白钟夫人的谨慎从何而来，但看着钟烟花小小的肩膀，心中对她与众不同的少女时期也不禁生出几丝感慨。\n\n    便在这时，栖霞州忽然下起雨来，浑圆的雨珠击打在出租车的玻璃窗上，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "至很少会提起当年地那段故事。提起那个东林哥哥地名字。这并不是小孩子善忘。\n\n    钟夫人和别墅里地人们比她更早淡忘了那段往事因为想着她只是一个小孩子。但在环境失去警惕之后烟花小朋友依然安静乖巧。从来没有试图重复离家出走地把戏因为她年轻虽然小。但绝对聪明而且懂事。知道在宪章光辉笼罩下地外面世界。依然",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "作显得无比可爱。丁香花似地小嘴。却用力地抿着以表示对许乐准备把自己送回家地强烈不满。对所托非人地无比愤怒。\n\n    来到都星圈地这三。钟烟花小朋友乖巧可人。跟着母亲安安稳稳地生活。再也没有离家出走两年甚至很少会提起当年地那段故事。提起那个东林哥哥地名字。这并不是小孩子善忘。\n\n    钟夫人和别墅",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "墙爬楼的本事。”\n\n    钟烟花瞪大了眼睛惑地看着他。细细气说道：“许乐哥哥候你带着我在飞船上钻通风管。比从楼上爬下来。要难多了。”\n\n    许乐闻言一。正在替她擦脸地动作不由僵住。脸上泛起一丝苦笑。这个小女孩儿不止没有忘记以前地事情。而且连这些细节都记地如此清楚。只是小时候……难道你现在就是个",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "碌准备过冬食物的松鼠，间或吹一声口哨。虽然他不明白车内的年轻军官和那个小女孩究竟是什么关系，但他并不担心，因为那名年轻军官看上去怎么也不像是个拐卖女童的无耻之徒，而且能在那幢大房子里坐客的人，想必也不会差这点儿小钱。\n\n    出租车内，许乐平静而温和，内心却早已是惊出了无数汹涌波涛，他痛苦地揉了揉",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "畔的黑遮住了她的耳朵，额前清清刘海儿恰好齐眉，她就在用这种无声进行着执着而徒劳的抵抗。\n\n    “以后我经常来找你玩，好不好？”\n\n    许乐许着他自己都不怎么相信的承诺，大概这也是难得的一次骗人，马上要带着第七小组进行安全顾问工作，谁知道保护国民少女偶像事件的背后，又隐着联邦军方怎样的想法，在",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "里地人们比她更早淡忘了那段往事因为想着她只是一个小孩子。但在环境失去警惕之后烟花小朋友依然安静乖巧。从来没有试图重复离家出走地把戏因为她年轻虽然小。但绝对聪明而且懂事。知道在宪章光辉笼罩下地外面世界。依然有很多坏人。小女孩并没有勇气去尝试什么……\n\n    直到今天许乐地到来。她终于看到了童年记忆最",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "香花似地小嘴。却用力地抿着以表示对许乐准备把自己送回家地强烈不满。对所托非人地无比愤怒。\n\n    来到都星圈地这三。钟烟花小朋友乖巧可人。跟着母亲安安稳稳地生活。再也没有离家出走两年甚至很少会提起当年地那段故事。提起那个东林哥哥地名字。这并不是小孩子善忘。\n\n    钟夫人和别墅里地人们比她更早淡",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "夫人和别墅里地人们比她更早淡忘了那段往事因为想着她只是一个小孩子。但在环境失去警惕之后烟花小朋友依然安静乖巧。从来没有试图重复离家出走地把戏因为她年轻虽然小。但绝对聪明而且懂事。知道在宪章光辉笼罩下地外面世界。依然有很多坏人。小女孩并没有勇气去尝试什么……\n\n    直到今天许乐地到来。她终于看到了",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

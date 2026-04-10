@@ -1,0 +1,115 @@
+{
+  "novel": "将夜",
+  "chapter_number": 467,
+  "chapter_title": "第二百七十一章 冬至也",
+  "filename": "ch_0467_第二百七十一章 冬至也.txt",
+  "char_count": 3301,
+  "timestamp": "2026-04-10T12:11:21.736044",
+  "techniques_count": 8,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "城外而去。\n　　叶红鱼不是大黑马。\n　　她站在园门树下看着穿戴一新的主仆二人，忽然伸手指向庭院上方的天空，平静说道：“今天会落大雪，你们还要出去？”\n　　黯淡的天空里飘着黯淡的云，云色沉凝如山，似乎随时可能飘下雪来。\n　　宁缺抬头看了眼天，说道：“雨能留人，雪不能留人。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "出些什么？”\n　　桑桑现在虽然已经正式开始修行，但依然完全无法理解，那些知命境的大修行者的思维方式，心想少爷说的对，真是一群疯子。\n　　当羊杂汤渐冷，肉食渐尽，碟中料酱渐残之时，叶红鱼终于回到了雁鸣湖畔，桑桑去收拾衣物，屋内便只剩下了宁缺一人。\n　　宁缺看着她走进门来，说道：“怎么这么晚才回来？对了",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "来困惑地看着他，她去过书院后山那间小院，想着那方清幽的小院居然变成了废墟，不免觉得有些可惜，问道：“为什么？”\n　　宁缺摇头说道：“像二师兄和叶苏这样境界的家伙，谁知道他们是怎么想的？我经常以为，修行到他们的境界，基本上都会变成疯子，小道观垮了，叶苏似乎明白了一些什么，二师兄砸自己小院，大概也是想悟",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "那哪里有让道痴替自己洗碗端水来的快活？光明神座在我家铺子里做过工，你可以学习一下西陵神殿的光荣传统，将来这事儿要传将出去，必然是我老宁家的一段佳话。”\n　　叶红鱼的眉尖蹙的越发厉害，一言不发坐了下来。\n　　宁缺看着她的神情，猜到她此时心情不佳，却没有任何收敛，继续说道：“话说回来，我本以为你哥至少会",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "厨房里还藏着一些，就为了孝敬你。”\n　　叶红鱼没有笑，看着他说道：“我不信不代表神殿不相信……我哥他出现在长安城，为的是关注夏侯归老一事，但我相信他其实也是来看你的。”\n　　宁缺摇头说道：“我打听到了一些事情，桑桑从卫光明那里也知道了一些当年的秘辛，既然当初西陵神殿强行停止了这件事情，并且把卫光明囚",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "凳上站起，转身替他整理院服，摘掉他肩头的线头，说道：“今天是咱们的大日子，再怎样认真都应该。”\n　　走出卧室，宁缺打了个响指，把在园角无聊啃了一夜腊梅的大黑马召了过来，轻轻打了马臀一记，说道：“自己回书院去。”\n　　大黑马微仰头颅，感到有些疑惑，不过毕竟不是人，即便有疑惑也没办法说出来，只得遵命跑出",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "二师兄站在瀑布之前，听着入耳如雷的水声，看着四溅如星的水雾，脸上没有丝毫表情，不知沉默了多久后，说道：“听说他楼垮了。”\n　　大师兄站在他身旁，叹息说道：“他来长安，便是机缘，这等事情，莫要羡。”\n　　二师兄微微挑眉，说道：“师兄，我何须羡他？”\n　　……\n　　……\n　　长安城，雁鸣湖畔。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。\n　　……\n　　……\n　　时日渐逝，秋气渐退。\n　　长安城里垮了一座小道观，热心的街坊们帮助观里的人们重修屋宅，然后他们知道小道观里多了位喜欢穿素色布衫的热心人，无论街坊遇着什么事情，都会得到那人的帮助，那人似乎不知道什么叫做麻烦。\n　　书院后山也垮了一间小院，在瀑布声的陪伴下，那个男人头顶古冠坐",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

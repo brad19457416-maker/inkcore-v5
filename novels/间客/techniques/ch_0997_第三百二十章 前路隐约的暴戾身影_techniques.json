@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 997,
+  "chapter_title": "第三百二十章 前路隐约的暴戾身影",
+  "filename": "ch_0997_第三百二十章 前路隐约的暴戾身影.txt",
+  "char_count": 2344,
+  "timestamp": "2026-04-10T12:05:26.960214",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "由高原地底深处揉枯拉朽般袭上地面，只用了很短的时间，便把那些黑sè的滚烫砾石变成酥软的饼干，把苍茫的大地变成了垃圾堆。\n\n    对于军队来说，最可怕的并不是这种震动的威力，而是地震启始之初在空中与地表像风暴般肆虐的电磁干扰。\n\n    四架联邦鹞式战机系统里响起几声凄惶的尖叫，然后便再也听不到任何",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "眼眸里的侥幸与余悸。\n\n    高原上没有任何建筑物或巨型岩石，联邦的攻击部队被电磁波乱流摧毁，在最危险的时刻菲利浦发挥了作用的指引作用，但即便有这样几个条件，这支百战余生、人丁零落的孤军，能够毫发无伤走出震区，来到这片山谷，除了奇迹没有什么别的词语可以形容。\n\n    用毫发无伤肯定不准确，所有队",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "极认真甚至有些怪异的目光，盯着许乐那张普通，甚至因为在这种情况下依然显得普通从而非常不普通的脸，哑声说道：“头儿，难道造物主真的特别宠幸你？”\n\n    “不要用宠幸这种词。”许乐皱眉批评道。\n\n    他的咽喉非常疼痛，每说一个字仿佛都能感觉到声带摩擦时蹭出来的血，不知道是因为呼吸了太多烟尘，还是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "敌数量的斑驳金星早已填满斩喜两支强壮的机械腿，车帝国公主怀草诗齐名的不世强者。\n\n    是的，他们最强大的头儿曾经击败过对方，至少实力绝对不会比那个疯子弱，然而难道要指望头儿开着那台破烂组装兼容机去对抗李疯子操控的最先进mxt？\n\n    地震是上天赋予的幸运是一场神话，如果熊临泉寄望于这种状态下",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "利浦发挥了作用的指引作用，但即便有这样几个条件，这支百战余生、人丁零落的孤军，能够毫发无伤走出震区，来到这片山谷，除了奇迹没有什么别的词语可以形容。\n\n    用毫发无伤肯定不准确，所有队员身上脸上都带着各式各样的伤痕，刚刚醒来不久的达文西再次陷入昏迷，而且开始发烧，东方玉则是在紧急关头挣扎着爬下担",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "怪异的目光，盯着许乐那张普通，甚至因为在这种情况下依然显得普通从而非常不普通的脸，哑声说道：“头儿，难道造物主真的特别宠幸你？”\n\n    “不要用宠幸这种词。”许乐皱眉批评道。\n\n    他的咽喉非常疼痛，每说一个字仿佛都能感觉到声带摩擦时蹭出来的血，不知道是因为呼吸了太多烟尘，还是灰云蔽rì的地",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "种恐怖的威力，他们只能惊恐不安地在烟尘裂地间寻找安全的位置，徒劳的厉声呼喊着同伴。\n\n    等同于无数万吨当量**同时引爆的震动，由高原地底深处揉枯拉朽般袭上地面，只用了很短的时间，便把那些黑sè的滚烫砾石变成酥软的饼干，把苍茫的大地变成了垃圾堆。\n\n    对于军队来说，最可怕的并不是这种震动的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "“因为那边近？”熊临泉蹙眉问道。\n\n    “除此之外，还因为那边强。”许乐忽然神情变得极为轻松，望着他微笑说道：“是李疯子的近卫机甲营。”\n\n    听到李疯子三个字，熊临泉愣了愣后，恼怒地将嘴中的苦涩烟渣吐到地上，看了许乐一眼，忍不住摇了摇头。\n\n    做为联邦最优秀的军官之一，熊临泉",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "们只能惊恐不安地在烟尘裂地间寻找安全的位置，徒劳的厉声呼喊着同伴。\n\n    等同于无数万吨当量**同时引爆的震动，由高原地底深处揉枯拉朽般袭上地面，只用了很短的时间，便把那些黑sè的滚烫砾石变成酥软的饼干，把苍茫的大地变成了垃圾堆。\n\n    对于军队来说，最可怕的并不是这种震动的威力，而是地震启",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "高地远离联邦主战区，只要我们时间计算的足够精确，可以在基地反应过来之前上船。”\n\n    想到熊临泉忧虑提到的危险，他缓缓眯起双眼，轻声说道：“有件事情你应该先知道，根据计算的结果，如果基地方面明天查到了我们的行踪，那么他们肯定会派海峡战区那边正在后撤的机甲部队过来，试图一举狙杀我们。”",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，只要我们时间计算的足够精确，可以在基地反应过来之前上船。”\n\n    想到熊临泉忧虑提到的危险，他缓缓眯起双眼，轻声说道：“有件事情你应该先知道，根据计算的结果，如果基地方面明天查到了我们的行踪，那么他们肯定会派海峡战区那边正在后撤的机甲部队过来，试图一举狙杀我们。”\n\n    “因为那边近？”熊",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

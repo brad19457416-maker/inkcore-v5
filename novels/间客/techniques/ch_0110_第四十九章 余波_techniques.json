@@ -1,0 +1,245 @@
+{
+  "novel": "间客",
+  "chapter_number": 110,
+  "chapter_title": "第四十九章 余波",
+  "filename": "ch_0110_第四十九章 余波.txt",
+  "char_count": 4492,
+  "timestamp": "2026-04-10T11:53:35.116602",
+  "techniques_count": 18,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "有比自己身份更神秘的家伙？\n\n    深秋过后是寒冬，丰厚的雪堆积在临海大学城的大街小巷上，凛冽的寒风让大部分学生都选择了远程教学，而不愿意离开公寓楼去听那些教授的课程。许乐却依然穿行于梨园之中，穿着那件钟夫人送给自己的绿色军风衣，顶着风雪，沉默地学习，沉默地过着日子。\n\n    双月节舞会的余波已",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "候，公寓里的通话器响起。施清海拿了起来，注意到红色的光芒从通话器上响起，这代表着是一个来自未知线路地秘密电话，并且已经穿越了调查局对下属职员地法定监听。他沉默了片刻后，接通了电话，然后听到了一个陌生的声音：“初步设想达成，我们需要更细节地东西。”\n\n    就这样一句话之后，电话戛然而断，施清海的脸",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "”\n\n    施清海薄唇上的伤口，验证了舞会后花园里那一幕地香艳与激烈，薄雪草地上的年轻男女似乎同一瞬间想到了那一幕，眼眸里都生出了些许怪异的情绪，几乎是同时做出了同作，狠狠地吻在了一起。\n\n    许乐站在树林边缘，怔怔地看着河堤畔的这幕景象，怎么也不明白故事竟然会发展成了香艳的戏码，心想施公子这",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "许乐站在树林边缘，怔怔地看着河堤畔的这幕景象，怎么也不明白故事竟然会发展成了香艳的戏码，心想施公子这个流氓果然是流氓，而邹郁这个变态女人果然很变态，生出无限敬佩之意。\n\n    没有他的事情了，他又不知道该往哪里去了，有些无趣地挠了挠头，往梨园铁门处行去。州一幢公寓楼某个房间内，响起了自",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "知道我是调查局的官员，经常要执行一些见不得光的任务，所以说不定哪天我就会消失不见。”施清海在电话那头轻松地说着：“如果哪天我真的失踪了，你不要太担心，也不要试着找我。”\n\n    声音轻松，但许乐却嗅到了一丝不怎么吉利的兆头，他想开口询问，却从朋友的语气中，听出对方不可能说出真实的原因。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "道昨天夜里那个中年人与太子爷的谈判细节与结果，但这个电话表示，这次谈判似乎成功，而自己也不用马上开始逃亡。\n\n    工作开始了，施清海放下了电话，深深地吸了一口气，回头时才发现那个红衣的女孩儿早已经消失不见。\n\n    “最近我会非常忙。”\n\n    许乐安静地听着电话那头的声音，没有回答，非常认",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "8\n\n    的，大概九点左右写出来，努力补欠中。）\n\n    施清海的心情非常糟糕，从那位顶头上司来到临海的那一刻起，他的心情便没有好转过。\n\n    身为一名专业人士，他在联邦内部当了这么多年的间谍，一直小心谨慎地隐藏着自己的身份，完成了许多组织交付的任务。他确实觉得很累，但有时候想起来，也会觉",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "扑倒在地，看着这个女人冷漠地眼光，漂亮的脸蛋。对人对己都极为残忍的神情，施清海不知为何感觉到了无比的愤怒，用低沉的声音说道：“我真不知道你到底有没有脑子……不过就是一个小男生没有挑你当床伴，至于要生要死？”\n\n    被扑倒在草地上地邹郁眼眸里全是寂没之意。盯着施清海那张可恶地脸。忽然用力挣扎起来。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "女人冷漠地眼光，漂亮的脸蛋。对人对己都极为残忍的神情，施清海不知为何感觉到了无比的愤怒，用低沉的声音说道：“我真不知道你到底有没有脑子……不过就是一个小男生没有挑你当床伴，至于要生要死？”\n\n    被扑倒在草地上地邹郁眼眸里全是寂没之意。盯着施清海那张可恶地脸。忽然用力挣扎起来。像头愤怒地母狮子一",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，还有那位神秘的邰之源。\n\n    许乐在一个夜里，曾经冒险进入过一次区，却没有在休息室里发现咖啡的存在，不过他确认邰之源应该还留在学校里，只是似乎在忙碌什么事情。\n\n    有那么一瞬间，许乐对自己的生活产生了极大的不满意，难得的两三位朋友，却都显得那些神出鬼没，神秘兮兮，说消失便消失，他有些恼火",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "线路地秘密电话，并且已经穿越了调查局对下属职员地法定监听。他沉默了片刻后，接通了电话，然后听到了一个陌生的声音：“初步设想达成，我们需要更细节地东西。”\n\n    就这样一句话之后，电话戛然而断，施清海的脸色越来的凝重。此时他还不知道昨天夜里那个中年人与太子爷的谈判细节与结果，但这个电话表示，这次谈",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "残妆并不难看，反而有一种雨后红花的艳感。她下意识里将大红色地薄被向上拉了拉，遮住了自己的胸部春光，才缓缓睁开了双眼。问道：“几点了？”\n\n    “十一点。”听到邹郁有些沙哑的声音，施清海这个花花公子竟有些心神摇荡，想到了昨天晚上地疯狂。床上这个女人看似淫荡实则生涩的迎合，起始的紧涩，最后的河流。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "一幕地香艳与激烈，薄雪草地上的年轻男女似乎同一瞬间想到了那一幕，眼眸里都生出了些许怪异的情绪，几乎是同时做出了同作，狠狠地吻在了一起。\n\n    许乐站在树林边缘，怔怔地看着河堤畔的这幕景象，怎么也不明白故事竟然会发展成了香艳的戏码，心想施公子这个流氓果然是流氓，而邹郁这个变态女人果然很变态，生出无",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "的任务，所以说不定哪天我就会消失不见。”施清海在电话那头轻松地说着：“如果哪天我真的失踪了，你不要太担心，也不要试着找我。”\n\n    声音轻松，但许乐却嗅到了一丝不怎么吉利的兆头，他想开口询问，却从朋友的语气中，听出对方不可能说出真实的原因。\n\n    “现在的问题是，我的任务都是秘密任务，我失踪",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "第四十九章 余波 \n\n    晚明时代画卷，金戈铁马中的繁华尾音\n\n    相同的历史事件，全新演绎不一样的明末\n\n    特穆尔《明末十年乱》，书号1256818\n\n    的，大概九点左右写出来，努力补欠中。）\n\n    施清海的",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "。”\n\n    “我也是这样想的。”施清海平静说道。\n\n    邹郁的背影微微僵了僵，片刻后说道：“以后不要说认识我。”\n\n    “我也是这样想的。”施清海的回答依然是这样地平静而冷酷。\n\n    邹郁穿好了衣服，走到了公寓的门口，然后全无预兆地放声痛哭。泪水从她的脸上像雨水一般洗过，把那些残存着",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "让一切地一切成为了泡影。想到那位一直不吝于表示对自己喜爱地贵夫人。想到自己这些年地等待。她便觉得心中一片冰凉。似乎没有什么事情值得自己再去珍惜。\n\n    所以她离开了她地伙伴们。离开了舞会。来到了安静地玫瑰河畔。或许只是想在寒月里祭奠自己地过往。不曾想却招来了一头饿狼。\n\n    施清海是个很秀气",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "池中，他走回了卧室，开始看着床上那些犹在酣梦之中的女人发呆。\n\n    窗外已是寒冷冰雪天，窗内却是温暖如春，大床上的那个女人全身**，红色的礼服扔在了床的一角，同样是大红色的丝绸薄被，胡乱地搭着……露出了光滑如玉的后背，腰臀处那道触目惊心的**曲线。\n\n    女人面朝着窗户的方向在睡，只将自己曼",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

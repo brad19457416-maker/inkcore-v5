@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 399,
+  "chapter_title": "第六十二章 还有杀手",
+  "filename": "ch_0399_第六十二章 还有杀手.txt",
+  "char_count": 2283,
+  "timestamp": "2026-04-10T12:04:59.252704",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "纹丝不动，许乐只会感慨世家训练出来的服务人员，果然素质极高，但此人一直肃立如初，却偏偏在许乐出来的那瞬间，右肩微微一动……\n\n    这一丝动作虽然细微，却无法逃脱许乐敏锐的双眼，他用眼角余光看着胸腹以下，现对方很恭敬标准地背着手，所以无法确认对方手中有没有拿什么东西：比如枪。\n\n    许乐没有被",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "恳老实憨厚罢了。\n\n    然则就像刚生出来的小兽，总是习惯认第一个见到的人为最亲近的父母，年轻少女第一次允许自由爱慕时，见到的第一个印象不错的男子，自然也会留下极深刻的印象。\n\n    如果就此下去，那也不过是一缕春梦，年老时微笑与淡淡自嘲的回忆罢了，偏生自那以后，许乐并未消失于南相美的生活之中，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "在一侧，炽烈的秋日烈阳却在上方，空气里弥漫着一股闷热刺激的感觉。木谷庄园里正在度初秋假期的那些世家贵人们，大概谁都没有心情走在这样的阳光之下。\n\n    许乐抹了抹额头的汗，心里不期然地开始猜想南相家大概会在几号院里，眼角余光却注意到悬崖电梯旁那个穿着黑色制服的工作人员，身体微微一僵。\n\n    在",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "第六十二章 还有杀手 \n\n    情的事情其实就和量子物理一般，不可能有什么放诸、大一统的真理。**如果说喜欢不喜欢也能总结出来真正的理由，丈母娘打散鸳鸯大抵也就不需要木棒，只需要一台计算机便足够了。\n\n    那位联邦著名的破门子林半山，半途登上港高铁，潇洒一句破了林家与南相家的联姻。自",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "已经悄无声息地开始灌进自己的身躯之中——按照原定计划，自己应该是和小西瓜顺着这道电梯去山下的游乐场，难道对方想对付的是钟家，看到自己一人来到，于是事到临头放弃了出击？\n\n    “今天真热。”许乐摇头说道，向那名工作人员走去，在这样近的距离内，如果对方真是一名职业杀手，他也没有任何把握躲过对方的射击",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "如初，沉默地站在操作台边。\n\n    在这般枯燥炽热的环境中，这名工作人员如果一直纹丝不动，许乐只会感慨世家训练出来的服务人员，果然素质极高，但此人一直肃立如初，却偏偏在许乐出来的那瞬间，右肩微微一动……\n\n    这一丝动作虽然细微，却无法逃脱许乐敏锐的双眼，他用眼角余光看着胸腹以下，现对方很恭敬",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "杀手，他也没有任何把握躲过对方的射击，然而……小西瓜马上就要到了。\n\n    然而这位工作人员的行事风格极为干净利落，老辣到了一种令人心寒的地步。\n\n    当他现许乐向自己走来时，并没有像一般人意想当中那般与许乐随口敷衍几句，而是直接将手从背后拿了出来。\n\n    那只古铜色的宽大手掌里毫无意外出",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "在刻意引来地山泉里洗了一把脸。冰冷地泉水扑打在微烫地脸颊上乐才现。原来自己终究还是难以自抑地激动和微感骄傲起来个一辈子都只会玩暗恋和苦恋地苦命人。忽然成了被她人暗恋地对象而且那女孩儿还是他颇有好感、容颜秀丽地那一类。任何一个男人大概都会有此情绪反应吧？\n\n    看了一下时间愕然现已经过了和",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "——按照原定计划，自己应该是和小西瓜顺着这道电梯去山下的游乐场，难道对方想对付的是钟家，看到自己一人来到，于是事到临头放弃了出击？\n\n    “今天真热。”许乐摇头说道，向那名工作人员走去，在这样近的距离内，如果对方真是一名职业杀手，他也没有任何把握躲过对方的射击，然而……小西瓜马上就要到了。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "刻生地事情。是一场极富实验精神地话剧主要是生地太突然。两人间太陌生。太没有心理准备……\n\n    美担心他上西林战场。所以勇敢地表达了自己地心意在前面那三个太字地环境中。让许乐只感觉是于无声处响起了一道惊雷。于刀丛间觅着一小诗。却是梨花体。\n\n    （注：梨花大学文学院著名分段式诗体……呃。由我掰",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "极深刻的印象。\n\n    如果就此下去，那也不过是一缕春梦，年老时微笑与淡淡自嘲的回忆罢了，偏生自那以后，许乐并未消失于南相美的生活之中，而是以一种绝决的姿态，成为了七大家交际圈里经常提到的人物。南相美对他生出了无穷好奇，这样一个没有背景的小人物，怎么可能让利家林家南相家的很多人都念念不忘？",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "破密网间的雏鸟，骤然现自己获得了难得的自由，看到了一片蓝海与一方碧空的可能……\n\n    女孩儿秀丽宁静的容颜下，不知生起了多少波涛，那时她粉红色的心脏被开了一道口，却没有人来填补。恰在那时，许乐坐在她的身旁，给她的第一印象极好，这种好也很虚妄，只不过是诚恳老实憨厚罢了。\n\n    然则就像刚生出来",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "难道对方想对付的是钟家，看到自己一人来到，于是事到临头放弃了出击？\n\n    “今天真热。”许乐摇头说道，向那名工作人员走去，在这样近的距离内，如果对方真是一名职业杀手，他也没有任何把握躲过对方的射击，然而……小西瓜马上就要到了。\n\n    然而这位工作人员的行事风格极为干净利落，老辣到了一种令人心",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

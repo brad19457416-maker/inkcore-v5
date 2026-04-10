@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 305,
+  "chapter_title": "第二百三十四章 白云深处，牧童杀人",
+  "filename": "ch_0305_第二百三十四章 白云深处，牧童杀人.txt",
+  "char_count": 4685,
+  "timestamp": "2026-04-10T12:04:59.185267",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "墙壁歪着头，一动不动，应该就是死了。\n\n    死的无声无息，只有他头顶的那排公民编号，渐渐消散，随风而去。\n\n    许乐的眼瞳有些无助地微缩了一下，此时此景，他的心中竟是生出无助地感觉，不得不说是很奇妙的事情。\n\n    他没有对这种类似于游戏画面地不真实感\n\n    多的反应，而是凭籍着自己强",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的状况出现了极大的问题，也几乎是在同一时间内，他们再也无法忍受这种死寂之中的死亡逼近的感觉，选择了最危险，也应该是最勇敢最有效的方法。\n\n    在用部通话器短暂确认了彼此的方位后，东三区里的枪声在一瞬间爆开，密集的子弹再次横飞于空间之中，营织成了无数的火力织网，将所有的范围笼罩其内。\n\n    闷",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，便有很多奇妙的事情生在他的身上，他换了颈后的芯片，他在昏迷中进入黑梦，在梦中见到了那个伟大而恐怖的存在，那个存在并没有抹去他的存在，反而一直沉默地关注着他，并且在争夺实验室数据的关键时刻，帮了他一把\n\n    散宪章光辉的联邦中央电脑，为了唤醒昏睡中的他，曾经向他的大脑中灌入了无数复杂而先进的结构",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的角色。\n\n    许乐曾经无数次地扪心自问，像这种小说中才有的离奇遭遇，谁都不曾幻想过的故事情节，为什么会生在自己的身上？起始他惶然惊恐，担心联邦中央电脑会认出自己逃犯的身份，时刻扑杀自己，后来他开始麻木茫然，有些破罐子破摔的念头，对待身周事物及人的那种勇气与直接，大概也与这种绝对的不安全感有关。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "暖暖的色调涂染了某片区域。\n\n    东三区再次陷入了沉默与死寂，人们的呼吸声变得沉重起来，不再刻意压抑，因为他们现，就算自己再如何躲藏，似乎那个入侵都能找到自己的方位，并且将自己杀死。\n\n    就在这一片死寂之中，许乐借着烟雾的掩护，向着两个出口之一，悄无声息地摸去。\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "危险，也应该是最勇敢最有效的方法。\n\n    在用部通话器短暂确认了彼此的方位后，东三区里的枪声在一瞬间爆开，密集的子弹再次横飞于空间之中，营织成了无数的火力织网，将所有的范围笼罩其内。\n\n    闷哼声，惨呼声，急促的通话声，安静打破之后，此地便成了嘈杂而凶险的战场，他们不再顾忌会不会造成严重的误",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "人的咽喉处迸，但许乐的左眼上只看到暖暖的色调涂染了某片区域。\n\n    东三区再次陷入了沉默与死寂，人们的呼吸声变得沉重起来，不再刻意压抑，因为他们现，就算自己再如何躲藏，似乎那个入侵都能找到自己的方位，并且将自己杀死。\n\n    就在这一片死寂之中，许乐借着烟雾的掩护，向着两个出口之一，悄无声息地",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "。\n\n    想到这点。许乐浑身热。脸色苍白。眯着地眼睛里双瞳微缩。盯着面前空无一物地烟雾。身体微微颤抖起来。\n\n    在重重烟雾中。他站了起来。悄无声息地缓缓脱掉自己地鞋子。踩着满地碎屑。向着烟雾深处。行走了一步。\n\n    看穿一切障碍。看穿这天与地地。并不是他地双眼。而是他左眼里地那幅三维图",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "待身周事物及人的那种勇气与直接，大概也与这种绝对的不安全感有关。再后来这些时间段中，他已经习惯了那个出现在自己脑海中的黑梦，那个极有礼貌的老东西语调平直的话语，他隐隐捕捉到了一点什么。\n\n    不知道基于怎样的原因，联邦社会的基石，遍布宇宙的宪章光辉，似乎并不愿意自己死去，至少现在不能死，于是在他",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "他惶然惊恐，担心联邦中央电脑会认出自己逃犯的身份，时刻扑杀自己，后来他开始麻木茫然，有些破罐子破摔的念头，对待身周事物及人的那种勇气与直接，大概也与这种绝对的不安全感有关。再后来这些时间段中，他已经习惯了那个出现在自己脑海中的黑梦，那个极有礼貌的老东西语调平直的话语，他隐隐捕捉到了一点什么。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，将枪口指向了烟雾深处的另一个方位。\n\n    他再次无声地抠动扳机，烟雾深处又有一个生命悄无声息地离去。\n\n    烟雾大概还能维持两分多种的时间，东三区中还隐藏着二十几名武装分子。这些浓郁地白色烟雾，看上去就像是清丽飘于山腰的白云，遮住了秋林地梢头，遮住了林间的生灵。\n\n    这云这烟和这天，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "双瞳微缩。盯着面前空无一物地烟雾。身体微微颤抖起来。\n\n    在重重烟雾中。他站了起来。悄无声息地缓缓脱掉自己地鞋子。踩着满地碎屑。向着烟雾深处。行走了一步。\n\n    看穿一切障碍。看穿这天与地地。并不是他地双眼。而是他左眼里地那幅三维图。随着他地细微动作。左眼眸上浮现地那幅图随之做着视角上地细",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "自问，像这种小说中才有的离奇遭遇，谁都不曾幻想过的故事情节，为什么会生在自己的身上？起始他惶然惊恐，担心联邦中央电脑会认出自己逃犯的身份，时刻扑杀自己，后来他开始麻木茫然，有些破罐子破摔的念头，对待身周事物及人的那种勇气与直接，大概也与这种绝对的不安全感有关。再后来这些时间段中，他已经习惯了那个出现",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "，那个极有礼貌的老东西语调平直的话语，他隐隐捕捉到了一点什么。\n\n    不知道基于怎样的原因，联邦社会的基石，遍布宇宙的宪章光辉，似乎并不愿意自己死去，至少现在不能死，于是在他前来s2做他人生最生猛的一件大事前，他鼓起勇气开始主动联系黑梦的那头。\n\n    黑梦那头对他有反应，却没有结果，一直到他",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "像是泥牛入海，没有任何反应。眯着眼睛地许乐，却从左眼帘的光图中，清楚地看到，那个人的额头被击出了一片温暖的色彩，靠着墙壁歪着头，一动不动，应该就是死了。\n\n    死的无声无息，只有他头顶的那排公民编号，渐渐消散，随风而去。\n\n    许乐的眼瞳有些无助地微缩了一下，此时此景，他的心中竟是生出无助地",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

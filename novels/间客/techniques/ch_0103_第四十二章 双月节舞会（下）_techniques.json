@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 103,
+  "chapter_title": "第四十二章 双月节舞会（下）",
+  "filename": "ch_0103_第四十二章 双月节舞会（下）.txt",
+  "char_count": 3492,
+  "timestamp": "2026-04-10T11:53:35.109887",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "有想到，这样一个童话般的场景到了最后，那束灯光笼罩着的对象……竟然是一个男生！\n\n    受此刺激，众人大哗，那些本来觉得自己大有希望地富家小姐，更是不敢相信自己的眼睛，有一位议员的女儿甚至是伤心的昏了过去，那位孙家小姐捂着嘴，看着场地中间光束笼罩中一脸惘然的那个男学生，吃吃说道：“难道……太子爷…",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "情。\n\n    她紧紧地握着拳头。控制着自己转身离开或是在黑暗中寻找许乐地冲动。她并不知道麦德林议员为什么会如此相信自己。怎么看来。那位二楼地太子爷也不应该会选择自己吧？张小萌在心里这样安慰自己。\n\n    她们身旁那几位远道而来地女孩儿们也异常紧张。在扫动地灯光下展露着自己微羞等待地风姿。她们比场",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，带着笑意点明了今天上午那名替梨花大学争光的黑色机甲的真实身份。\n\n    许乐有些不明所以地听着，心想机甲里明明是自己，怎么却变成了邰之源？不过他也清楚，这个学校能够进入区的人大概只有自己和邰之源二人，如果对方愿意替自己隐瞒，他当然非常高兴。\n\n    这个消息，在黑暗的舞池内再次引发一次骚动，那",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "夜穹之上洒播着清光，室内的光束在缓缓地移动，只要被光束照的女孩儿都难抑面上的紧张，就在此时，校长那煞风景的声音再次响了起来，混进了美妙的小提琴曲，带着笑意点明了今天上午那名替梨花大学争光的黑色机甲的真实身份。\n\n    许乐有些不明所以地听着，心想机甲里明明是自己，怎么却变成了邰之源？不过他也清楚，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "让她觉得自己的这一生，应该只能和那个其实这两年很少见面的年轻男人在一起……然而在这关系到她一生幸福地瞬间，她紧闭的眼中，却忽然浮现出了一张可恶而无赖的漂亮脸庞，那个漂亮脸庞的主人却拥有着一颗无比恶毒的心，她的心也微微抽搐了一下。\n\n    站在邹郁身旁的张小萌。一身蓝色小礼服本来并不如何引人注目，然",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "然而只迈了三步。许乐便被一道强光照住了脸庞！\n\n    他下意识里眯了眯眼，在心里咒骂了一声。十分担心张小萌那个糊涂女人，真的为了自己不清楚的内幕，而成为了邰之源那个病秧子的舞伴。片刻之后，他地视力马上回复了正常，眯着眼睛往四周看去，却发现自己只能看见一片黑暗，只能听到一阵无比震惊的呼声。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "乐虽然没有音律方面的知识，但也听了出来，有些漠然地看着光束的移动。此时光束已经在场内礼貌地扫了一圈。来到了那一群富家子女的身前，那些女孩儿的表情变得更加紧张起来。\n\n    只有邹郁和张小萌还保持着平静，邹郁是相信场内没有谁能够和自己竞争，因为邰夫人很喜欢自己。张小萌则是心情复杂到了极点，以致于忘记",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "楼绿色植物掩映地房间里。端着咖啡杯地邰之源有些无趣地通过光屏。看着光束下那些女孩儿们地表现。忽然开口说道：“已经是三十七宪历了。联邦里居然还会有这样像选妃一般地活动。实在是很可耻地事情。”\n\n    他浑然没有身为当事人地自觉。对着眼前地一幕发表着感慨。靳管家在一旁非常不赞同地说道：“这是家族地传统",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "本不知道那位神秘的太子爷究竟是什么东西。可是她必须帮助麦德林议员与对方搭上关系。哪怕牺牲自己的爱情与人生……据最近传回来的情报，联邦军方地鹰派势力开始加快了备战的步伐。而议员在首都进行的游说活动收效也十分的不好，为了环山四州那些可亲可敬可爱的同伴与人民，她必须做些什么事情。\n\n    她紧紧地握着拳",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "引人注目，然而在这渐趋黑暗的环境里，礼服的衣料却开始泛着幽幽地光，显得十分醒目，就像是一个森林里忽然出现的纯净小精灵……不知吸引了多少人的目光。\n\n    她微微低头，自然悬在身畔的双拳下意识地可爱握紧，心情十分紧张。是的，她有自己喜欢的人，她根本不知道那位神秘的太子爷究竟是什么东西。可是她必须帮助",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "月节舞会（下） \n\n    下一章在晚上九点以前。另向大家报备一下，最近几天实在太累，而且周末时间太紧张，晚上家里要搞大扫除，猫尿猫屎都要清，还有被我打死的n多苍蝇尸体，明天下午还要去办事，最关键的是，总要陪领导进城去吃个饭，看个电影，谈个恋爱什么的……所以周末这几天每天就按老规矩两章六千字了，还欠",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "…虽然没啥理由，但后面确实追的太近了，只差两百票了，多谢多谢。）\n\n    一首明媚而忧伤的小提琴曲缓缓响起，曲终时，那两道光束的移动便会停止。\n\n    当校长说出那位神秘嘉宾姓邰的时候，许乐不敢相信自己的耳朵，嘴唇惊愕地微微张开，第一时间内猜到了二楼那个人的真实身份。邰之源这个连油饼也没有吃过的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "咳了两声，看着光幕上那些看似平静，其实从紧握的双手里早已泄露了紧张与抗拒地蓝衣女孩儿，眼眸里闪过一丝温柔而复杂的情绪，轻轻说道：“只可惜……我认识她晚了一些。”\n\n    提琴曲已经到了尾声，许乐虽然没有音律方面的知识，但也听了出来，有些漠然地看着光束的移动。此时光束已经在场内礼貌地扫了一圈。来到了",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "对着眼前地一幕发表着感慨。靳管家在一旁非常不赞同地说道：“这是家族地传统。而且少爷应该清楚。成人礼中从来没有非自愿地事情发生。”\n\n    邰之源笑了笑。想到先前从校长介绍自己时所用地爱情结晶四个字。心情便有些怪异。他在光屏上看到了邹郁地面容。心情微沉。问道：“郁子今天地心情好像有些差。是不是她知道",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 956,
+  "chapter_title": "第二百八十八章 别再玩了好不好？",
+  "filename": "ch_0956_第二百八十八章 别再玩了好不好？.txt",
+  "char_count": 3497,
+  "timestamp": "2026-04-10T12:05:26.892242",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第二百八十八章 别再玩了好不好？ \n\n    在一片漂亮的红树林前，钟烟花停下脚步，抬头看着他迟疑问道：“可是以前已经有那么多的人因为战争而死去，你却一直躲的远远的，难道你不觉得这样不公平?”\n\n    许乐伸出手揉着她的头发，轻声说道：“任何人都有远近亲疏的考量，我刚才说过寻找理由，理由往往就",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "着他脸上的笑容，微微挑眉说道：“他想杀我，我凭什么不杀他？我才恨得管那个家伙的存在，对于你来说有什么意义。这些年很多人都告诉过我，宇宙里没有什么道理，那你们这些老家伙把我逼急了，我的拳头就是道理。”\n\n    封余手指徽屈，将烟卷远远弹入红日之中，平静说道：“既然马上就要离别，说重点吧。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "还想玩什么，请原谅我有不做玩具的自觉，到时候我不知道我会做出什么事来。”\n\n    交谈至此时，封余第一次缓缓皱起了双眉，在晨光的映照下，可以清晰地看到里面夹杂着丝丝银色，随着皱眉的动作，看似千年不变的中年容颜也终于多了些苍老的感觉。\n\n    “小家伙，这是你在威胁我？”\n\n    “也许你是为我",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "终断，想来总会出面表示一下感慨或者是愤怒。\n\n    因为有这种思想准备，许乐此时的心情很平静，并不紧张，当然保有着必要的警惕，虽说感情不错，但谁知道对方会不会发什么疯。\n\n    封余从树林深处走了出来，微微一笑，满脸风霜在红叶清光轻抚中显得荼和少许，只有那满口黄黑烂牙，轻佻地自唇间露出，迎着渐趋",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "特定的时间段出现，自己杀死了齐大兵，那人在帝国深植的故事前因就此终断，想来总会出面表示一下感慨或者是愤怒。\n\n    因为有这种思想准备，许乐此时的心情很平静，并不紧张，当然保有着必要的警惕，虽说感情不错，但谁知道对方会不会发什么疯。\n\n    封余从树林深处走了出来，微微一笑，满脸风霜在红叶清光轻",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "为战争而死去，你却一直躲的远远的，难道你不觉得这样不公平?”\n\n    许乐伸出手揉着她的头发，轻声说道：“任何人都有远近亲疏的考量，我刚才说过寻找理由，理由往往就是说服自己的借口，大妈和保罗对于我来说要更亲近更重要，那么这个借口也就显得更有力量    钟烟花耸耸肩，继续说出自己心中的疑问，比如那颗",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "总会在某些特定的时间段出现，自己杀死了齐大兵，那人在帝国深植的故事前因就此终断，想来总会出面表示一下感慨或者是愤怒。\n\n    因为有这种思想准备，许乐此时的心情很平静，并不紧张，当然保有着必要的警惕，虽说感情不错，但谁知道对方会不会发什么疯。\n\n    封余从树林深处走了出来，微微一笑，满脸风霜在",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的警惕，虽说感情不错，但谁知道对方会不会发什么疯。\n\n    封余从树林深处走了出来，微微一笑，满脸风霜在红叶清光轻抚中显得荼和少许，只有那满口黄黑烂牙，轻佻地自唇间露出，迎着渐趋明亮的晨光，显出丑陋的细节。\n\n    “是不是像你这种冷血动物，真的可以活一千年？”\n\n    许乐从上衣口袋里摸出瘪",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "伙把我逼急了，我的拳头就是道理。”\n\n    封余手指徽屈，将烟卷远远弹入红日之中，平静说道：“既然马上就要离别，说重点吧。”\n\n    “以后别来烦我。”许乐说道：“如果你玩腻了，不想再折腾这些事儿了，想回东林疗养中心却找姑娘，我愿意陪你一起去，付嫖!$迳种事情我做的很顺手，但如果你还想玩什么，请",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "西州立大学图书馆看书时，我抄在本子上的句子。”\n\n    不等封金发问或是嘲笑，许乐继续说道：“一个社会的落后首先是精英的落后，而精英格落后最显著的标志是他们经常指责人民的落后。\n\n    “虽然扮演成乔治卡林的你没有这样说过，但你一直都是这样做\n\n    的，无论是面对联邦还是帝国。”",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "封余手指徽屈，将烟卷远远弹入红日之中，平静说道：“既然马上就要离别，说重点吧。”\n\n    “以后别来烦我。”许乐说道：“如果你玩腻了，不想再折腾这些事儿了，想回东林疗养中心却找姑娘，我愿意陪你一起去，付嫖!$迳种事情我做的很顺手，但如果你还想玩什么，请原谅我有不做玩具的自觉，到时候我不知道我",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "易打败我，只有这样，你才能完成这个过程。\n\n    “不，我不是想击败你或者说超越你，我不是齐大兵，从来不会信\n\n    奉什么进化论的调调，我只是想告诉你一件事情。”\n\n    许乐看着他平静说道：“唐志中他们想要我去当皇帝，我知道这件事情肯定和你有关，你想要看看我和齐大兵究竟谁能把你的想法实现，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第二百八十八章 别再玩了好不好？ \n\n    在一片漂亮的红树林前，钟烟花停下脚步，抬头看着他迟疑问道：“可是以前已经有那么多的人因为战争而死去，你却一直躲的远远的，难道你不觉得这样不公平?”\n\n    许乐伸出手揉着她的头发，轻声说道：“任何人都",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "机的手指，缓慢将手从口袋里拿出，转身平静注视着红树林的深处，那片在丽魅艳景幽暗间的地方。\n\n    离开联邦已近三年，在帝国游历已久，那个人一直没有出现过，但他知道对方总会出现，总会在某些特定的时间段出现，自己杀死了齐大兵，那人在帝国深植的故事前因就此终断，想来总会出面表示一下感慨或者是愤怒。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "尖叫发抖的贵族小姐般成为累赘，所以没有多说什么，平平常常走了过去。\n\n    看着卸下伪装后的太空船缓缓关闭沉重的舱门，许乐松开紧握扳机的手指，缓慢将手从口袋里拿出，转身平静注视着红树林的深处，那片在丽魅艳景幽暗间的地方。\n\n    离开联邦已近三年，在帝国游历已久，那个人一直没有出现过，但他知道对",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "novel": "间客",
+  "chapter_number": 109,
+  "chapter_title": "第四十八章 历史当事者",
+  "filename": "ch_0109_第四十八章 历史当事者.txt",
+  "char_count": 4228,
+  "timestamp": "2026-04-10T11:53:35.115275",
+  "techniques_count": 19,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "”\n\n    “情报，是一切力量的来源。”中年人很不符合他猥琐气质的优雅一礼，“而我的能力，则是一个秘密。”\n\n    邰之源沉默许久后，说道：“短暂地合作之后，我会在更长久的岁月里。以消灭你们地武装力量为目标。但我必须要说。在整个宇宙之中，我只佩服五个人。您就是其中之一，今天能够与您进行我**礼之",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "中拥有的影响力能。”中年人平静地说道：“如果让联邦公民们知晓。总统候选人帕布尔议员，正冒着极大的政治风险，与我们这些凶残地**军进行和平谈判……而这时联邦政府却逆势而为，强行发起对我们的军事打击，他们一定会对联邦政府发出最强有力的斥责声。”\n\n    “我承认您所说的有道理，这种利益的交换确实也很有",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "”\n\n    “我很想知道，谁是猫，谁又是老鼠。”\n\n    “民众的意志不可抵抗，七大家这种畸形的存在，即便再如何强大，终有一天，也会在历史的潮流面前变**人喊打地过街老鼠。”中年人平静说道：“这是乔治卡林先生的论点，以此与你共勉。”\n\n    “这个我从来不会否认。”邰之源说道：“但我始终认为，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "为目标。但我必须要说。在整个宇宙之中，我只佩服五个人。您就是其中之一，今天能够与您进行我**礼之后的第一次谈判，受益匪浅。”\n\n    “我很好奇是哪五个人，不知道邰公子能不能满足我这小小的虚荣心。”中年人的眼睛亮了亮，恰到好处地展露出好奇。\n\n    “除了您之外，还有湖畔的那位匹夫，不知生死的乔",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "的论点，以此与你共勉。”\n\n    “这个我从来不会否认。”邰之源说道：“但我始终认为，你们才是人类社会的硕鼠。”\n\n    “道不同。仍然可以共谋，但话不投机。则不需要进行更深入地交谈。”中年人笑着站起身来，说道：“有任何好消息，请通知那个小伙子，如果没有好消息，我会在山中。替你朋友的朋友洒一杯酒",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的自信究竟从何而来？为什么确定离开舞会之后，联邦不会捉住你……就像刚才你跟随许乐上楼时那样，确定没有危险。”\n\n    “情报，是一切力量的来源。”中年人很不符合他猥琐气质的优雅一礼，“而我的能力，则是一个秘密。”\n\n    邰之源沉默许久后，说道：“短暂地合作之后，我会在更长久的岁月里。以消灭你们",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "地**军进行和平谈判……而这时联邦政府却逆势而为，强行发起对我们的军事打击，他们一定会对联邦政府发出最强有力的斥责声。”\n\n    “我承认您所说的有道理，这种利益的交换确实也很有吸引力。”邰之源沉默片刻后说道：“但是我不能马上回答您的请求，请给我一些时间。”\n\n    “我不能在联邦核心区域停留太",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "红色，正在寒风中不停闪动，正是穿着红色礼服的邹郁。\n\n    夜河畔有孤女，许乐虽然很厌恶邹氏兄妹的为人，但见着这一幕依然止不住担心起来，向着河堤的方向安静走去，生怕惊动了对方，让对方做出一些疯狂的事情来。\n\n    然而他还没有来得及靠拢河堤，便发现一个很熟悉的身影，从河堤外的霜草从中飞奔了出来，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "现一个很熟悉的身影，从河堤外的霜草从中飞奔了出来，直接将那袭红衣扑倒在地。远处传来邹郁的挣扎，低沉而愤怒地咒骂，呜呜的哭声。\n\n    许乐怔怔地停留在原地，当然能分辩出眼前并不是一幕半夜**的戏码，只是有些不明白，施公子这个家伙为什么会出现在这里 ＷＷw.xiＡosＨuotxt.ＣＯＭ",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "源打破了沉默，提醒对方。\n\n    “帕布尔不能，但是舆论能，邰家暗中拥有的影响力能。”中年人平静地说道：“如果让联邦公民们知晓。总统候选人帕布尔议员，正冒着极大的政治风险，与我们这些凶残地**军进行和平谈判……而这时联邦政府却逆势而为，强行发起对我们的军事打击，他们一定会对联邦政府发出最强有力的斥",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "。片刻之后，他看着对方认真地说道：“您所考虑地不错。利益的交换确实是我所看重地，但我更看重的是联邦的将来……如果有机会抓住你，杀死你，我并不介意通知联邦军方。”\n\n    “现在我没有通知，是因为尊重一位谈判者的角色。”邰之源平静说道：“您一旦离开舞会现场。也许我真的会让联邦政府想尽一切办法捉住您…",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "的军力……在我的眼中，其实你们都应该算是叛国贼，宪章局不应该赋予你们法定的地位。”\n\n    中年人思忖片刻后认真说道：“你与你身后的家族是联邦政治架构的既得利益者，你的看法不见得是正确的。如果帝国真的入侵，我相信山中的战士在抵抗外敌方面，会比联邦四大军区的那些人表现的更为令人尊敬。”\n\n    “",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "靳管家说道：“准备一条秘密线路，我要与母亲进行对话。”\n\n    靳管家点头应下，他们已经为那个人的离去留下了足够的时间，如果对方真的落在了联邦军方的手中，也只能说明传奇也有失去光彩的那一日。\n\n    “他用的是施清海叔叔的身份。”靳管家向下属们发出指令之后，轻声说道：“施清海毕业于一院，是联邦调",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "礼服的里面全部是冷汗，知晓了邰之源那个令人震惊的身份，许乐的心情很复杂，先前那刻的对话让他很紧张。他很倔犟地在对方面前保持着平静，只是为了保有自己那点自尊，哪怕小人物的自尊在联邦特权人士的面前，显得有些可怜。\n\n    区暂时不敢去了，虽然所有人此时都以为黑色机甲里坐的是邰之源，许乐依然不敢",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "“我承认您所说的有道理，这种利益的交换确实也很有吸引力。”邰之源沉默片刻后说道：“但是我不能马上回答您的请求，请给我一些时间。”\n\n    “我不能在联邦核心区域停留太久，你应该很清楚。”中年人微笑着说道：“宪章局虽然不会来管我，但我对于国防部的那些猎犬和联邦调查局的蜘蛛们依然保持着尊敬，如",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，谈话中所呈现的，全部都是**裸的利益评判。\n\n    似乎猜到这位**军的二号人物在想什么，邰之源缓缓说道：“在帝国随时准备发动侵略战争的今天，**军的人，却依然为了那些虚无缥渺的道理，分化着联邦的人心，消耗着联邦的资源，牵制着联邦的军力……在我的眼中，其实你们都应该算是叛国贼，宪章局不应该赋予你",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "地上依然积着薄薄的雪，在月光下泛着清淡的光芒。穿着礼服的许乐感到了一丝寒冷，他往手上呵了呵气，却并不担心自己会被冻感冒，自从跟随大叔练习那套奇怪的动作之后，他似乎再也很难生病了。目光从头顶的双月往着东方的方向移转，看到了那幢熟悉的女生公寓楼，梅园依然在彼处，许乐的心却异常平静，他知道张小萌有秘密，但",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "很有趣的事情。”\n\n    “我很想知道，谁是猫，谁又是老鼠。”\n\n    “民众的意志不可抵抗，七大家这种畸形的存在，即便再如何强大，终有一天，也会在历史的潮流面前变**人喊打地过街老鼠。”中年人平静说道：“这是乔治卡林先生的论点，以此与你共勉。”\n\n    “这个我从来不会否认。”邰之源说道：“",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "够与您进行我**礼之后的第一次谈判，受益匪浅。”\n\n    “我很好奇是哪五个人，不知道邰公子能不能满足我这小小的虚荣心。”中年人的眼睛亮了亮，恰到好处地展露出好奇。\n\n    “除了您之外，还有湖畔的那位匹夫，不知生死的乔治卡林^^”邰之源认真说道：“我的人生，以你们五位为努力的目标。”",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

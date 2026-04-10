@@ -1,0 +1,37 @@
+{
+  "novel": "将夜",
+  "chapter_number": 589,
+  "chapter_title": "第一百零三章，新瓮，旧瓮，灰如雪……好吧，我这种行为确实很欠抽，但我真怕有的读者朋友忘记了，这几章的内容，和前面的情节印证着看真的会很好，嗯，大家干脆把将夜重看...",
+  "filename": "ch_0589_第一百零三章，新瓮，旧瓮，灰如雪……好吧，我这种行为确实很欠抽，但我真怕有的读者朋友忘记了，这几章的内容，和前面的情节印证着看真的会很好，嗯，大家干脆把将夜重看....txt",
+  "char_count": 84,
+  "timestamp": "2026-04-10T12:11:26.679439",
+  "techniques_count": 2,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "我这种行为确实很欠抽，但我真怕有的读者朋友忘记了，这几章的内容，和前面的情节印证着看真的会很好，嗯，大家干脆把将夜重看一遍？）",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百零三章，新瓮，旧瓮，灰如雪……好吧，我这种行为确实很欠抽，但我真怕有的读者朋友忘记了，这几章的内容，和前面的情节印证着看真的会很好，嗯，大家干脆把将夜重看一遍？）",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

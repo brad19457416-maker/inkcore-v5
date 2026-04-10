@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 750,
+  "chapter_title": "第一百一十四章终于回家",
+  "filename": "ch_0750_第一百一十四章终于回家.txt",
+  "char_count": 2557,
+  "timestamp": "2026-04-10T12:05:17.618780",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，许乐在西林的日子过的很轻松随意，新年快乐，新春快乐。似乎一直都在快乐，只是有时候望着头顶那片湛蓝的天空，他很难不去想那个老爷子的身体，每每想到老爷子再也没有可能再过一个新年。心情便开始黯淡起来。\n\n    费城湖畔。\n\n    像雕像一样躺在病床上的老人缓缓睁开双眼，眯着眼睛望着屋角的阴影，沉默片",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第二天清晨，杜少卿也赶到了费城，事实上第一波轮换的所有部队军事主官，都没有回家，而是直接来到了费城。\n\n    从前线撤回来的部队主要隶属于一三军区，提前两个月出进入帝国前线的第二波部队自然大部分出自二四两大军区，不知道是出于警怯青龙山**军，还是别的什么原因，被调往帝国前线的地面部分。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，压低声音说道：“谢天谢地你肯离开，如果真让你查下去，肯定又是麦德林事件的重演，作为你的投资人，我真担心血本无归。”\n\n    许乐笑了笑，想到十七师的战友们马上就要回来，而自己却没办法和他们见面，心情有些低落。\n\n    所谓避风头度假都是假的，拜伦雷总统和军方激进派，还有那些唯利是图的家族议员们",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "床上的老人缓缓睁开双眼，眯着眼睛望着屋角的阴影，沉默片刻后，伸手摁下一个按锁。房中那片透明的玻璃隔断瞬间变黑，所有监控设施全部中断。\n\n    “你终于肯回家了。”\n\n    老人的声音很虚弱疲惫，似乎极冷漠，又有淡淡伤感。\n\n    （丢脸，还是只能顶住两千字。我去躺尸去了。另：推荐一本神秘人的都",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "众所周知，帕布尔总统对少卿师长向来极为信任，更何况这是宪章光辉庇护下的都星圈，根本没有任何人会往那些危险的方向去思考。\n\n    新十七师官兵对于许乐曾经遭受的指控，有怎样的理反应，没有人知道，人们只知道以蔫坏著称的于澄海师长，像个红了眼的疯子般。用最快的度冲到了费城，冲到了他的老师长病榻之前。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "往那些危险的方向去思考。\n\n    新十七师官兵对于许乐曾经遭受的指控，有怎样的理反应，没有人知道，人们只知道以蔫坏著称的于澄海师长，像个红了眼的疯子般。用最快的度冲到了费城，冲到了他的老师长病榻之前。\n\n    第二天清晨，杜少卿也赶到了费城，事实上第一波轮换的所有部队军事主官，都没有回家，而是直",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "只有专程赶来的朋友们。\n\n    “西林看着远，军舰全航行也不过就是十来天的事情。”郜郁平静望着他，说道：“去避避风头也好，就当是度假吧。”\n\n    南相美站在郜郁的身边，微笑望着他，没有说什么。\n\n    “轮休的部队马七就要回来了，其中有杜少卿的铁七师和你们师。”利孝通给许乐点燃一根香烟，压低",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "离开，就再也没有什么可能再和老爷子见面，下次收到消息，应该就是老爷子辞世的那天，今日前往西林，从某种意义上便是和老爷子永别。\n\n    因为涉及到政府司法间的内幕交易。许乐选择了悄无声息地离开，西郊军用机场上没有任何记者，也没有官方人员，只有专程赶来的朋友们。\n\n    “西林看着远，军舰全航行也不",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "乐站在军舰下方，竖起军风衣的衣领挡着寒风，虽说这些刺骨的寒风对他强悍的身体来说没有任何影响。但不知道为什么，他总觉的身体由内而外透着股寒意。\n\n    因为他清楚这一离开，就再也没有什么可能再和老爷子见面，下次收到消息，应该就是老爷子辞世的那天，今日前往西林，从某种意义上便是和老爷子永别。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "帝国地下抵抗组织的代表还在旅途之中，总装基地的军械试验有条不紊地展开，许乐在西林的日子过的很轻松随意，新年快乐，新春快乐。似乎一直都在快乐，只是有时候望着头顶那片湛蓝的天空，他很难不去想那个老爷子的身体，每每想到老爷子再也没有可能再过一个新年。心情便开始黯淡起来。\n\n    费城湖畔。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "有可能再过一个新年。心情便开始黯淡起来。\n\n    费城湖畔。\n\n    像雕像一样躺在病床上的老人缓缓睁开双眼，眯着眼睛望着屋角的阴影，沉默片刻后，伸手摁下一个按锁。房中那片透明的玻璃隔断瞬间变黑，所有监控设施全部中断。\n\n    “你终于肯回家了。”\n\n    老人的声音很虚弱疲惫，似乎极冷漠，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "冽十足盯着他，“你瞒了我们这么多年，现在才知道原来你真是块东林的臭石头，但至少现在，你得把这臭石头的脾气收起来。”\n\n    “明白。许乐千静回答道，然后欠身与部郁南相美轻轻拥抱，和利孝通紧紧握手，部之源在准备明年的议员选举，所以没有前来。然而环顾四周。一直没有看到施清海的身影。他网有些温暖的心又生",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "紧紧握手，部之源在准备明年的议员选举，所以没有前来。然而环顾四周。一直没有看到施清海的身影。他网有些温暖的心又生出一些不安。\n\n    他转身牵起钟烟花柔软的小手，二人向舷梯上走去。\n\n    一直安静站在他身边，一个字都没有说的钟烟花，忽然开口好奇问道：“就这么回家了？”\n\n    “怎么可能？”",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

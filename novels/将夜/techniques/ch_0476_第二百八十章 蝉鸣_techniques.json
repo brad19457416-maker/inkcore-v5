@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 476,
+  "chapter_title": "第二百八十章 蝉鸣",
+  "filename": "ch_0476_第二百八十章 蝉鸣.txt",
+  "char_count": 3571,
+  "timestamp": "2026-04-10T12:11:21.754524",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "越凄厉，树丫上积着的厚雪被震的簌簌落下，然而湖畔雪林上空却似乎又有两面大而透明的无形蝉翼，遮蔽了整个天空，让此间的蝉声没有一丝溢出林外。\n　　凄厉的蝉声，比冰雪更加寒冷，比夜风更加难以捉摸，在四处鸣响，在四处归寂，又在四处复苏，最终落在那个僧人的耳中。\n　　林中的蝉声仿佛在冷漠地说：回头是岸。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "是一个所有人都想像不到的时刻。\n　　至少是清河郡三供奉无法想像的时刻。\n　　就在书院宁缺与夏侯大将军决战之前，道佛两宗天下行走皆至，风云际会于长安城之时，二十三年蝉竟然重现人间！\n　　三供奉惊恐无比，然而紧接着，他想到魔宗宗主现在与悬空寺大德对峙，自己说不定能够觅到一线生机，眼珠下意识转动了一下。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "愈发明亮暴躁。\n　　仿佛是一个人在放肆地大声嘲笑。\n　　林中风雪更疾，堕落的更疾，刚自地面震起的积雪瞬间重新铺满地面，空中飘舞的雪片嗤嗤作响射向七念的身体。\n　　七念神情不变，草鞋轻踩雪面，右小腿弹起，击打在自己的左腿膝弯处，就势坐到雪地上，坐了个半朵雪莲盘。\n　　漫天激射的雪片，就像是无数只蝉，鸣",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "长安城之时，二十三年蝉竟然重现人间！\n　　三供奉惊恐无比，然而紧接着，他想到魔宗宗主现在与悬空寺大德对峙，自己说不定能够觅到一线生机，眼珠下意识转动了一下。\n　　他眼珠微转，余光看到了自己肩头那片薄若蝉翼的雪。\n　　然后他想起自己忘记了传说中的一些事情。\n　　传说中，这位魔宗宗主杀人不多，但那是因为",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "虽然明知林中那个魔宗强者深不可测，意志坚毅如他，怎会就此却步？\n　　他是悬空寺传人七念。\n　　他开始愤怒，是为嗔。\n　　不是娇嗔，也不是怒嗔。\n　　僧人依然紧紧抿着嘴，目光坚毅，双手在木棉袈裟前幻化不定，须臾之间，便结成一道意味凛冽的手印。\n　　佛宗大手印里最为光明，威力最大的不动明王印。\n　　旧袈",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，他禅心愈发坚定，意志愈发坚毅，便是长安城里无数强者，城南那座书院大山，都不能让他心神稍移。\n　　按道理来说，没有任何声音能够阻止他的脚步。\n　　但这些蝉声不同。\n　　因为他清楚，这些蝉声代表着一个人。\n　　那是世间最神秘的一个人，甚至可以说是世间最可怕的一个人。\n　　莫说是他，即便是悬空寺讲经首座",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "色变得越来越苍白，神情越来越惊恐。\n　　他是位知命境的大修行者，在清河郡藏书楼里知晓了很多修行世界的秘密，他虽然不能确定，但已隐约猜到林中那人的身份。\n　　能在如此风雪夜里引发一场蝉鸣，能够让悬空寺大德神情如此凝重，自然只能是世间最神秘的魔宗宗主，二十三年蝉！\n　　当年魔宗山门覆灭后，这个曾经在世间",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "但不管怎样想，修行界里没有人会遗忘此人，哪怕坚信他已死去的人们，其实夜深梦回时也自惊惧不安，总觉得将来某日，这位魔宗宗主，会在所有人都想像不到的时刻，重新出现在世人面前。\n　　确实是一个所有人都想像不到的时刻。\n　　至少是清河郡三供奉无法想像的时刻。\n　　就在书院宁缺与夏侯大将军决战之前，道佛两宗",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "于夏天的生物，遇着秋风便沉默。\n　　在语境中，寒蝉便是沉默。\n　　然而今夜风寒雪骤，这片林子里却仿佛出现了无数只蝉！\n　　那些蝉藏在树枝后，躲在翘起的树皮里，悬挂在蛛网间，坐在冰雪中，看着从天而降的风雪和风雪中那名僧人，放肆地鸣叫声。\n　　蝉声阵阵。\n　　满林寒蝉。\n　　林中寒蝉鸣叫的声音越来越密集",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "风雨雨，随时可能出现，再次呼风唤雨。\n　　但不管怎样想，修行界里没有人会遗忘此人，哪怕坚信他已死去的人们，其实夜深梦回时也自惊惧不安，总觉得将来某日，这位魔宗宗主，会在所有人都想像不到的时刻，重新出现在世人面前。\n　　确实是一个所有人都想像不到的时刻。\n　　至少是清河郡三供奉无法想像的时刻。\n　　就",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的蝉声仿佛在冷漠地说：回头是岸。\n　　……\n　　……\n　　僧人听着愈来愈凄切的蝉鸣，脸上的神情越来越凝重。\n　　他叫七念。\n　　他来自不可之地悬空寺，是强大无比的佛宗天下行走。\n　　因为寺中经卷上的记载，他远来长安城，要看看那名传说中的冥王之子，他甚至已经做好准备，哪怕面对书院，也要将那人杀死。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "雪，却没有被呼啸的夜风吹走，也没有混入密雪里消失无踪，而是孤独冷傲地自天而降，无视周遭的恶风与同伴，缓缓地飘落下来，落在了三供奉的肩上。\n　　清河郡三供奉被那僧人手印所缚，盘膝坐在雪中，根本动不得分毫，眼睁睁看着那片薄雪落在自己肩上，不禁有些困惑。\n　　当薄雪飘落下来时，僧人停下了向湖畔走去的脚步，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的蝉鸣，也随之一滞。\n　　然而随后，蝉声再次响起，而且这一次愈发明亮暴躁。\n　　仿佛是一个人在放肆地大声嘲笑。\n　　林中风雪更疾，堕落的更疾，刚自地面震起的积雪瞬间重新铺满地面，空中飘舞的雪片嗤嗤作响射向七念的身体。\n　　七念神情不变，草鞋轻踩雪面，右小腿弹起，击打在自己的左腿膝弯处，就势坐到雪地上",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

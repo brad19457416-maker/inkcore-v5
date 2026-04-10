@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 952,
+  "chapter_title": "第二百八十五章 踏梅思变",
+  "filename": "ch_0952_第二百八十五章 踏梅思变.txt",
+  "char_count": 3361,
+  "timestamp": "2026-04-10T12:05:26.886608",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "牧场，根本没有花费多少时间便把大妈救了出来，整个行动没有任何人丧命。\n\n    只是苏珊大妈前夜受了风寒，今天又受到了极大的惊吓，身体变得非常虚弱，被营救出来后，直接送到了这间设施豪华的皇家医院，医生替她注射了安神药物，这时候处于睡眠状态下的她，正在缓慢接受高能营养液点滴。\n\n    许乐望着大妈潦",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "而深陷的眼窝，没有做过多的解释，轻声劝她继续去睡。\n\n    待大妈放松心神沉沉睡去，许乐走出病房，来到大楼边缘那边青青葱葱的园林之中，抬头看着天上那轮陌生的月亮，点燃一根烟，陷入某种纷杂惘然的情绪之中，沉默良久。\n\n    皇家医院临山畔水，风景极佳，尤其是这片必须有爵位才能入住的后山特护区，浅浅",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "快步走到床边，伸手握住床上那位妇人悔手，心情才终于算是平静了下来。\n\n    就在他杀死齐大兵前的那瞬间，菲利浦通过对帝国情报署资料库的检索，动用三颗近地军事卫星，对京都周边的可疑地点进行了超密度扫描，终于成找到了苏珊大妈被囚禁的地方：郊区一处偏僻的牧场。\n\n    许乐让菲利浦通知帝国情报署，情报",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "杀人。\n\n    许乐没有理他，直接转身向病房外走去，待众人离开病房后，他忽然转身看着这位郡王殿下，说道：“我不想和你罗嗦太多，我只是在办我的事情，不过为了避免麻烦，我可以告诉你在我眼里，从来没有什么郡王亲王之类的存在，如果你有我一样的想，不想惹出太多麻烦，我建议你向身边的人，或者是情报署里的职员询",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "不然不会沉默久。\n\n    如李匹夫在病榻前说过的那番话，封余当年去东林，有一部分原因是为了目睹一个社会文明在暮时衰落的悲壮美感，能够目睹历史某种大改变，本就是个体人类难以抗拒的美味诱惑。\n\n    谁不想回到时光的那头，看着席勒写出一部部精彩的著作，谁不想回到历史的从前，看着邰氏皇朝和平让权，共和",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "想到帝国最劳苦高的亲王，最血腥好杀的郡王，就是被眼前这个小眼睛男人蛮不讲理的杀死，他顿时放弃了先前的念头。\n\n    ……\n\n    ……\n\n    夜里时，苏珊大妈醒了迂来，许乐守在一旁安慰几句，看着大妈因为憔悴而深陷的眼窝，没有做过多的解释，轻声劝她继续去睡。\n\n    待大妈放松心神沉沉睡去，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "其实这段话已经足够罗嗦，只不过因为许乐不愿意和帝国官方有太多接触，更不愿意摆出自己的身份，像街头对峙的贵族少爷那般叫嚣着家族的荣光，所以宁肯提醒对方，让对方自己去查。\n\n    自少年时起，他就不怎么爱玩这种拼爹的游戏，当年他是矿工家庭的孤儿，没有资格拼爹，现在有了整个宇宙最有权力的一个爹，他却",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "状，让他迅速地清醒过来，如抵抗组织上层的那种设计，并不能改变左天星域的世界。这种自上而下的改革道路，最终依然要进入战争杀戮的旧路，没有任何人会愿意放弃已然拥有的权益，更何况皇族是整整一个阶层。\n\n    先前看到的那位晋章郡王，现在或许因为他的血统而畏惧自己，甚至没有勇气反对自己继承帝国皇位，可如果",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "时间，换个层面考虑，身为陛下亲点在怀草诗主持前线战事期间，暂领情报署事宜的他，此时已经被那种被忽视的愤怒冲昏了头脑，从而根本没有考虑到，今天为什么会有这场自己毫不知情的突然行动。\n\n    “你在署里什么职务？谁批准的行动？”\n\n    郡王居高临下，并不刻意真的是浑然天成的用百分之一的目光觑着许乐",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "和你罗嗦太多，我只是在办我的事情，不过为了避免麻烦，我可以告诉你在我眼里，从来没有什么郡王亲王之类的存在，如果你有我一样的想，不想惹出太多麻烦，我建议你向身边的人，或者是情报署里的职员询问下具体情况。”\n\n    其实这段话已经足够罗嗦，只不过因为许乐不愿意和帝国官方有太多接触，更不愿意摆出自己的身",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "主持前线战事期间，暂领情报署事宜的他，此时已经被那种被忽视的愤怒冲昏了头脑，从而根本没有考虑到，今天为什么会有这场自己毫不知情的突然行动。\n\n    “你在署里什么职务？谁批准的行动？”\n\n    郡王居高临下，并不刻意真的是浑然天成的用百分之一的目光觑着许乐的脸，沉声训斥道：“事后我自然会处罚，但",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "待大妈放松心神沉沉睡去，许乐走出病房，来到大楼边缘那边青青葱葱的园林之中，抬头看着天上那轮陌生的月亮，点燃一根烟，陷入某种纷杂惘然的情绪之中，沉默良久。\n\n    皇家医院临山畔水，风景极佳，尤其是这片必须有爵位才能入住的后山特护区，浅浅建在山坳之中，透过满山梅树迎着月出rì降，美丽的仿佛",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "鼻子里嗯了一声，眼睛瞪的极圆，大概下一刻便要杀人。\n\n    许乐没有理他，直接转身向病房外走去，待众人离开病房后，他忽然转身看着这位郡王殿下，说道：“我不想和你罗嗦太多，我只是在办我的事情，不过为了避免麻烦，我可以告诉你在我眼里，从来没有什么郡王亲王之类的存在，如果你有我一样的想，不想惹出太多麻烦",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "左天星域无数万年未有之大变局，甚至亲身参与其中，这种诱惑实在是太大了，大到连他这块东林石头都有些难以压抑那种渴望。\n\n    只是后来陡变的事态，因齐大兵而发生的冷酷现状，让他迅速地清醒过来，如抵抗组织上层的那种设计，并不能改变左天星域的世界。这种自上而下的改革道路，最终依然要进入战争杀戮的旧路，没",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "无数万年未有之大变局，甚至亲身参与其中，这种诱惑实在是太大了，大到连他这块东林石头都有些难以压抑那种渴望。\n\n    只是后来陡变的事态，因齐大兵而发生的冷酷现状，让他迅速地清醒过来，如抵抗组织上层的那种设计，并不能改变左天星域的世界。这种自上而下的改革道路，最终依然要进入战争杀戮的旧路，没有任何人",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "位郡王殿下，说道：“我不想和你罗嗦太多，我只是在办我的事情，不过为了避免麻烦，我可以告诉你在我眼里，从来没有什么郡王亲王之类的存在，如果你有我一样的想，不想惹出太多麻烦，我建议你向身边的人，或者是情报署里的职员询问下具体情况。”\n\n    其实这段话已经足够罗嗦，只不过因为许乐不愿意和帝国官方有太多",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "而那些负责病房安全的情报署官员，全部躬着身体让在一旁，根本不敢阻拦。\n\n    看来是位大人物，许乐缓缓站起身，看着越走越近的对方，忽然问道：“我这里有病人，无论你想说什么，出去再说。”\n\n    很明显这位自称晋章郡王的大人物，并没有体恤病人的闲情逸志和时间，换个层面考虑，身为陛下亲点在怀草诗主持",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

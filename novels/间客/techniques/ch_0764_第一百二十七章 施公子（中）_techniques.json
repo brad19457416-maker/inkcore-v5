@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 764,
+  "chapter_title": "第一百二十七章 施公子（中）",
+  "filename": "ch_0764_第一百二十七章 施公子（中）.txt",
+  "char_count": 3642,
+  "timestamp": "2026-04-10T12:05:17.569218",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "但所用材料却有与外表不符的昂贵，施清海一边戴着手套，一边皱着眉头打量着房间里的环境，忍不住摇了摇头，心想如果一名校级军官能够拿这么多的津贴，联邦再也不用筹征兵工作。\n\n    事情办妥后，施清海没有急着离开，而是吹着口哨，真的开始替西门谨打扫房间，他打扫的很认真，每个角落都没有放过，明着告诉房间的主",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "烤摊一眼。\n\n    他习惯一个人工作，但由于今天面对的是铁七师的高级军官，所以他在街区外面扔了一个风铃，以加强安全。那串风铃是他在青龙山的下属，二人配合多年，大概是这个世界上除了许乐之外唯一能够让他信任的家伙。\n\n    他悄无声息地推门而入，用很快的度找到了自己需要的东西，还有床头夹缝里散落着的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的街道，春意盎然的绿地上有花枝正在招展，偶尔有几【pian】孱弱的花瓣被和风拂落，在地面微微滚动着，来到街畔的咖啡馆旁，别有一番风景。\n\n    除了参谋朕席会议主席，李在道将军于上月底正式从迈尔斯上将手中，接过了第一军区司令的职位。如今的他依然像以往很多年那样，习惯在一院后门这间咖啡馆里喝下午茶，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "生姜塞入嘴里，大口用力地咀嚼着，任由那些辛辣的姜汁，通过受创严重的咽喉，进入空无一物的胃，那种痛楚感瞬间弥漫全身。\n\n    有些踉跄走出酒吧后门，施清海抬起右臂，用精致的正装袖筒擦掉额上的汗水，跌跌撞撞地贴着墙根向巷外走去。\n\n    前面似乎有两个醉鬼正在撕扯着什么，然后将施清海的身体裹胁在了一",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，要了杯酒放松地饮着，开始思考明天飞回南边海岸边，是应该找位姑娘，还是继续尝试说服邹郁带着孩子一起去秘密度假。\n\n    想到那位部长家的千金，他的眉头好看地皱了起来，自嘲地耸了耸肩，余光确认酒吧里没有人在注意自己，才取出电话拨通了许乐的号码。\n\n    因为西林大区太遥远的缘故，无法像上林三颗行政",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "轻轻搅拌着咖啡，轻声说道：“但我从来不这样认为。这是一个很危险的人物，知道他马上就要死去，我感觉非常轻松。”\n\n    李在道将军没有抬头，继续安静地阅读着报纸。\n\n    “可没有办法完全轻松，甚至想到施清海死后可能生的事情，我忽然心情变得无比沉重，许乐上校会怎么反应？他就这么直接拒绝了去帝国的任",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "记不住。”\n\n    宪章局代理局长崔聚冬轻轻搅拌着咖啡，轻声说道：“但我从来不这样认为。这是一个很危险的人物，知道他马上就要死去，我感觉非常轻松。”\n\n    李在道将军没有抬头，继续安静地阅读着报纸。\n\n    “可没有办法完全轻松，甚至想到施清海死后可能生的事情，我忽然心情变得无比沉重，许乐上",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "联邦数十个判例的深入研究，他确认自己目前收集到的证据，已经足够总统阁下和许乐，把拜伦先生还有那一帮子愤怒中年人送进监狱里，并且再也无法出来。\n\n    所以他很开心地找了一个间小酒杯，要了杯酒放松地饮着，开始思考明天飞回南边海岸边，是应该找位姑娘，还是继续尝试说服邹郁带着孩子一起去秘密度假。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "他若有所思地盯着面前透明的酒杯，轻轻舔了舔上唇，左眉中间像愁闷的山峰般拱了起来，薄唇微挑，说道：“这酒味道真差。”\n\n    能清晰感觉到舌苔变的越来越厚，能感觉到牙齿中间隐隐有微咸的味道渗出，像是上火，其实不是上火，如果任由情况展下去，牙根的出血症状会越来越厉害，味蕾会在六个小时之后完全",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "着口哨，真的开始替西门谨打扫房间，他打扫的很认真，每个角落都没有放过，明着告诉房间的主人有人来过，却将来过的痕迹完全清扫干净。\n\n    这种做派其实有些嚣张，只不过几年来的调查终于到了尾声，而且不需要自己再做什么，施清海的心情相当不错，尤其是看到西门谨的酒柜后。\n\n    十几种联邦最昂贵的名酒，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "用特殊基金，选择使用该药物，该药物目前还没有任何解毒剂生产出来。”\n\n    戴着眼镜的李在道将军，缓缓抬起头，平静看着这位忠诚的下属，淡声说道：“这些细节需要汇报给我知道吗？”\n\n    “抱歉，司令。”持战室主任惶恐立正，敬了军礼之后马上离开。\n\n    “协会里大部分人，都没有把施清海当一回事",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "想像。\n\n    就像他的那把bsp;  这些是施清海在一院，在联邦调查局，在青龙山学过的知识，但他从来没有想像过，有人居然会用这么贵的毒药来杀自己。\n\n    “大意了。”他轻轻放下酒杯，自嘲地耸耸肩，说道：“而且也太浪费了。”\n\n    拿出钞票放在桌面，他看似平稳，实际上很快地离开酒吧前堂，走",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

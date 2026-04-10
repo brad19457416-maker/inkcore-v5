@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 38,
+  "chapter_title": "第三十八章 天才与白痴",
+  "filename": "ch_0038_第三十八章 天才与白痴.txt",
+  "char_count": 3415,
+  "timestamp": "2026-04-10T11:53:11.040349",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "有了大概的外甲直观，可以帮助进行内部的修复工作，许乐惊喜之余，也对小西瓜的家庭产生了更大的疑问。如今的联邦社会，一般性能源仍然极为丰沛，用于星际航行的晶矿却已经不多了，机甲虽然使用的是静农高能电池，可是造价极为昂贵，耗能极大，整个联邦军方现在的机甲大概也不会超过四百台，小西瓜的家里究竟是做",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "前的机甲惭愧说道：“也不知道能不能动。”\n\n    许乐对于修复机甲确实是一点自信也没有，因为这是他第一次接触这种事物，而且他完全用的是老板封余教给他修理家电的方法在处理，这听上去就有些荒谬，完全匪夷所思，所以他也不敢奢望这台破烂的机甲真的能够动起来。\n\n    “哪怕就是那个三节式合金手指能动一下",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "头部护甲下方突起说道：“好像是那里。”\n\n    许乐已经很相信小西瓜的指导了，依言很顺利地将已经不存在的舱盖打开，然后按动了程序载入按钮，便开始了沉默紧张兴奋不安的等待。\n\n    不知道过了多长时间，破烂机甲的操作舱内忽然亮了起来，嘀的一记长声，自检信号表示通过，淡淡柔和的光芒笼罩了机体全身！",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "了墙壁上的电流输出口，然后认真地盯着机甲腰后的那块光屏显示仪，直到那块光屏渐渐变红，他才松了一口气，心想这第一代的静农片高能蓄电池果然不愧是传说中的完美品，过了六十几年居然还能用。\n\n    红柱上升到三分之一高度时，许乐便停止了充能，这是为了呆会儿的安全起见，毕竟这台破机甲放了这么多年，又被自己折",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "不知道过了多长时间，破烂机甲的操作舱内忽然亮了起来，嘀的一记长声，自检信号表示通过，淡淡柔和的光芒笼罩了机体全身！\n\n    许乐目瞪口呆地站在机甲胸口处的装甲上，完全不敢相信自己看到的这一幕，居然连中控系统也是好的？自己完全没有抱任何希望的修复工作，居然真的修好了这台机甲？虽然这只是修",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "以前连图片都没有看过。而小西瓜则是根本不懂电子修理方面的知识，她只是好像这短短的六岁人生中已经看到了无数的机甲，从直观上，稚声稚气地告诉许乐，这里好像是什么样子，这里应该是什么样子，这里可能是什么样子。\n\n    有了大概的外甲直观，可以帮助进行内部的修复工作，许乐惊喜之余，也对小西瓜的家庭产生了更",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "乐已经很相信小西瓜的指导了，依言很顺利地将已经不存在的舱盖打开，然后按动了程序载入按钮，便开始了沉默紧张兴奋不安的等待。\n\n    不知道过了多长时间，破烂机甲的操作舱内忽然亮了起来，嘀的一记长声，自检信号表示通过，淡淡柔和的光芒笼罩了机体全身！\n\n    许乐目瞪口呆地站在机甲胸口处的装甲上，完全",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "概的外甲直观，可以帮助进行内部的修复工作，许乐惊喜之余，也对小西瓜的家庭产生了更大的疑问。如今的联邦社会，一般性能源仍然极为丰沛，用于星际航行的晶矿却已经不多了，机甲虽然使用的是静农高能电池，可是造价极为昂贵，耗能极大，整个联邦军方现在的机甲大概也不会超过四百台，小西瓜的家里究竟是做什么的？一个六岁",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "接下来的几天里，许乐和小西瓜在吃完饭后，便会偷偷地从32清洁区钻进空气调节管道，带着满身的灰尘来到那个废弃物品存贮舱。许乐专心致志地学习说明书，准备材料，研究怎样把这个大块头儿的破机甲尽可能修复一些，而小西瓜则是抱着洋娃娃，很感兴趣地蹲在旁边，乖巧安静地注视着许乐的一举一动。\n\n    幸亏许",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "材料，研究怎样把这个大块头儿的破机甲尽可能修复一些，而小西瓜则是抱着洋娃娃，很感兴趣地蹲在旁边，乖巧安静地注视着许乐的一举一动。\n\n    幸亏许乐那间简陋的休息室内有洗浴和洗衣设备，不然这一大一小两个孩子的身上该脏成什么模样，可即便是夜夜勤于洗，小西瓜身上那件洁白的睡衣，颜色还是渐渐地变深了。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "起。\n\n    脸上灰一道黑一道的小西瓜抱着洋娃娃，靠着许乐的大腿，眯着眼睛向上看着，半天后奶声奶气说道：“好丑啊。”\n\n    确实很丑，甚至此时被许乐修复了一遍的机甲比最开始的时候还要丑陋一些。机甲身体表面的那些漆层被破坏的不堪入目，本来还比较完整的外甲更是被许乐拆成了一块一块，因为那些零件根本",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

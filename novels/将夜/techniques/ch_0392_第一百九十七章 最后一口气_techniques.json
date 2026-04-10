@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 392,
+  "chapter_title": "第一百九十七章 最后一口气",
+  "filename": "ch_0392_第一百九十七章 最后一口气.txt",
+  "char_count": 5693,
+  "timestamp": "2026-04-10T12:11:21.793943",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "他走出崖洞，轻轻地抱住了桑桑。\n　　然后他走到崖畔，看着身前的绝壁流云，万丈深渊，以及那片湛蓝的天空，双手扶着腰后，大声喊道：“去你妈的。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "墙。\n　　换句话说，他现在就差一口气，浩然气。\n　　然而他体内的浩然气雄浑一分，通过崖洞时引发禁制的危险便增一分，禁制一旦触动之后，那片天地元气海洋的狂暴便会多一分。\n　　他现在确实可以把体内的浩然气尽数化成自然间的天地元气，但这已经让他穷举三月，疲惫不堪，更何况是更多数量的浩然气，他实在是再也没有",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "应该更多考虑你怎么破关的事情，而不是这些小事。”\n　　……\n　　……\n　　笨鸟终于先飞进了树林，蠢人最终获得了福报。\n　　殚精竭虑穷举数十日，宁缺面临绝境时再一次暴发出不可思议的毅力和耐心，就如同走出岷山、登旧书楼、暴雨悟符时那样，完成了这个看似永远不可能完成的事情，成功地掌握了天地气息所有的本质特",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "桑桑正在草屋里洗碗，听着崖洞里传出摔东西的声音，赶紧擦手准备去看看，又听到这四个字，不由神情微异，心想你被关在洞里闭关，月轮国那位佛宗大德姑姑，究竟又如何得罪了你？\n　　她走到崖洞口，正准备进去，却看到洞内一片狼籍，宁缺盘膝坐在地面上，神情恬静，仿佛一尊坐在远古废墟上的神像。\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "复着这种过程，乏味并且让人心生厌烦放弃的情绪，到了此时，他终于崩溃了。\n　　“有完没完！”\n　　宁缺愤怒地大喊着，抓起身边能够抓到的一切东西，用力地向洞壁上砸去，竹椅，汤瓮，水盆，笔墨纸砚，甚至包括那两本书，似乎只有这样，才能渲泄掉心头那股极为郁结不甘的闷气。\n　　崖洞里的所有东西都被他摔碎了，桑桑",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "同走出岷山、登旧书楼、暴雨悟符时那样，完成了这个看似永远不可能完成的事情，成功地掌握了天地气息所有的本质特征。\n　　这也意味着他终于能把体内的浩然气，变化成自然界天然形成的天地气息，从而能够在走出崖洞时，不会引发夫子布下的那道禁制。\n　　他很确信自己做到这一点。\n　　也正因为这种确认，当他再一次失败",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "令他意想不到的是，就在右脚快要踏过那道线时，身体忽然撞到了一面无形却坚不可摧的墙壁上！\n　　这究竟是为什么？\n　　崖洞深处，宁缺抱着头蜷缩在双膝间，用了很长时间才压抑住心头的绝望和自暴自弃的念头，重新开始认真地思考。\n　　忽然间他想明白了，却真的绝望了。\n　　夫子在崖洞口留下的这道气息，一旦感应到浩",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "落寞地低着头，看上去极为可怜，就像是一个迷了路、再也找不到家的小孩子。\n　　忽然间，他想起了和夫子的第一次相遇。\n　　那次相遇在松鹤楼的露台上，结束于夫子很不讲道理的短棍一击。\n　　宁缺始终不明白，为什么像夫子这样的大人物，竟会像市井小贩般失态，暴跳如雷对自己的学生打闷棍。\n　　这时候他终于明白了夫",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "内，最后自己极有可能暴体而亡，就像那些被魔宗挑选为弟子、却最终惨死在第一关的人们一样。\n　　有那么一瞬间，他想要停止腹内气漩的暴走。\n　　但不知道是他无法停止，还是极度渴望重获自由的他，想用生命为赌注来承担这种突发状况的结果，总之他什么都没有坐。\n　　感受着天地元气不停涌入体内，宁缺脸色微白，身体微",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "成一场挟风带砾的狂风，穿过崖畔草屋和雨廊，直接灌进了洞中。\n　　桑桑扶着洞口的石壁，艰难地稳住身体，担心地望向里面，想要大声把宁缺喊醒，但在如此强劲的山风中，竟是完全张不开嘴。\n　　宁缺闭着眼睛静坐在洞中，心神全部在体内暴涨的浩然气上，根本不知道外面发生了什么事情，衣服飘荡如一面荒野中的战旗。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "由如此多的天地元气灌入体内，最后自己极有可能暴体而亡，就像那些被魔宗挑选为弟子、却最终惨死在第一关的人们一样。\n　　有那么一瞬间，他想要停止腹内气漩的暴走。\n　　但不知道是他无法停止，还是极度渴望重获自由的他，想用生命为赌注来承担这种突发状况的结果，总之他什么都没有坐。\n　　感受着天地元气不停涌入体",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "啥？”\n　　桑桑把锅里的红烧肉用锅铲扒到一边，只有肉汁泡进白米饭里，端着碗走到他身边蹲下，想了会儿后说道：“我也不知道，不过前天唐小棠上来玩的时候提起过一句，说最近他经常帮她解决修行上的疑难问题。”\n　　宁缺怔了怔，想起两个月前那番关于禽兽的对话，冷笑说道：“解决修行疑难？老师让他来帮我，却不是去帮",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "湛湛青天之上。\n　　“我会继续修练浩然气，我会再试一次，我不管会不会引发老师你设下的禁制，我也不理会将来可能会遇到什么。”\n　　他默默念道：“因为我不想再呆在这里，我想出去，去你妈的。”\n　　……\n　　……\n　　桑桑正在草屋里洗碗，听着崖洞里传出摔东西的声音，赶紧擦手准备去看看，又听到这四个字，不由",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "蠢人最终获得了福报。\n　　殚精竭虑穷举数十日，宁缺面临绝境时再一次暴发出不可思议的毅力和耐心，就如同走出岷山、登旧书楼、暴雨悟符时那样，完成了这个看似永远不可能完成的事情，成功地掌握了天地气息所有的本质特征。\n　　这也意味着他终于能把体内的浩然气，变化成自然界天然形成的天地气息，从而能够在走出崖洞时",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "无形却坚不可摧的墙壁上！\n　　这究竟是为什么？\n　　崖洞深处，宁缺抱着头蜷缩在双膝间，用了很长时间才压抑住心头的绝望和自暴自弃的念头，重新开始认真地思考。\n　　忽然间他想明白了，却真的绝望了。\n　　夫子在崖洞口留下的这道气息，一旦感应到浩然气或者是非自然的天地气息，便会激发禁制，简单地召来山崖绝壁间",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "蓄养过，小腹深处那个气漩平静的有如一方小池。\n　　这时候，浩然气仿佛清晰地感知到了他此时的绝然心意，缓缓流淌起来。\n　　或许正是因为寂寞了太长时间，当浩然气流淌起来后，竟是完全无视宁缺的念力，骤然开始加速，并且速度越来越快。\n　　到最后，宁缺腹内那道气漩竟是开始颤动摇晃起来，近乎疯狂一般旋转，平静的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

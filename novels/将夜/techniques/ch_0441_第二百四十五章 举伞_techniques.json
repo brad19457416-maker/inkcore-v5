@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 441,
+  "chapter_title": "第二百四十五章 举伞",
+  "filename": "ch_0441_第二百四十五章 举伞.txt",
+  "char_count": 3512,
+  "timestamp": "2026-04-10T12:11:21.796557",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "他感觉到了湖水深处那些像石头般的小铁罐。\n　　宁缺抬头望天，黑伞后倾，暴雨顿时打湿了他的身体。\n　　天空中乌云翻滚挤压，黑云之后还是黑云，无数雨水从层层黑云中倾泻而下，看上去就像无数条苍老的黑蛇在疯狂的厮咬。\n　　忽然间，一道极粗极直的闪电毫无征兆，在长安城上空自西北方横穿整个天空，瞬间撕裂了卷动不",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "里的选择。\n　　因为他想不明白，自己在河北郡荒田道畔尸堆里拣了一个小女婴，而小女婴身上却似乎藏着某些秘密，他有些隐隐恐惧。\n　　直到光明大神官逃离西陵，来到长安城，收了桑桑为徒，桑桑成了西陵神殿下一任光明大神官的不二人选，宁缺才明白，原来这就是命运烙印在桑桑身上的痕迹，这就是当年那个小女婴的机缘。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "苍老的黑蛇在疯狂的厮咬。\n　　忽然间，一道极粗极直的闪电毫无征兆，在长安城上空自西北方横穿整个天空，瞬间撕裂了卷动不安的雨云。\n　　雷声稍后即至，在雁鸣湖上空炸响。\n　　轰！\n　　不知道是雷电的威力，还是发生了别的事情，雁鸣湖水骤然波动起来，水花四处溅散，莲枝剧烈摇晃，似乎随时会折断。\n　　宁缺低头",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，有几次险些成功，却最终还是被对方逃了出去，而唐也有几次机会成功地靠近了夏侯，逼夏侯与他展开了激烈的战斗。\n　　夏侯不是一个人在战斗，他有无数骑兵作为护卫，所以在这连绵的战斗中，终究还是唐要落在绝对的下风。\n　　如今的唐已经受了重伤，根本没有魔宗强者的风范，更像是一个可怜的乞丐，然而唐没有死，唐还是",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "没有任何情绪。\n　　在过去这段日子里，大唐骑兵想尽了一切办法想要诱杀这名魔宗强者，有几次险些成功，却最终还是被对方逃了出去，而唐也有几次机会成功地靠近了夏侯，逼夏侯与他展开了激烈的战斗。\n　　夏侯不是一个人在战斗，他有无数骑兵作为护卫，所以在这连绵的战斗中，终究还是唐要落在绝对的下风。\n　　如今的唐",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，把原本被黑云压至漆黑一片的长安城，照耀的不时苍白，沉闷的雷声丝毫没有停歇之意，连绵炸响，不给城中的人们丝毫喘息之机。\n　　狂暴雷声之中，宁缺撑着黑伞，望着雁鸣湖北岸，说着些什么，只不过因为雷声太响，暴雨太狂，只有他自己能够听见。\n　　他指着北岸的院落，说道：“从院中开始。”\n　　他指向摇撼不安的湖",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "会了。”\n　　唐说道：“我说过你已经老了。”\n　　夏侯说道：“我也说过，年老体衰这种话，对你我都没有意义。”\n　　唐说道：“问题在于，你的心老了，从你决定告老的那一刻开始，你就真的老了，老就是弱，如果土阳城再远百里，你一定会死在我的手中。”\n　　夏侯沉默，发现对方说的话是对的。\n　　“但我拥有土阳城",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "臣老人曾经告诉过宁缺，修行者初悟之时，能够感觉到的天地元气范围，代表那名修行者的资质，甚至可以预兆出将来他究竟能走到修行道的那一步。\n　　有的修行者能够感觉到一片池塘，有的修行者能够感觉到一片湖泊，强大如剑圣柳白悟道之时，感觉到的是一片大河。\n　　宁缺感觉到的是一片温暖的海洋，只不过这一点，他始终没",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "选，宁缺才明白，原来这就是命运烙印在桑桑身上的痕迹，这就是当年那个小女婴的机缘。\n　　命运和秘密已经出现在眼前，那么便不再恐惧，只能承认并且接受，这半年里，宁缺不再躲避，而是开始培养训练或者说发掘桑桑在修行方面的潜质。\n　　今日雁鸣湖畔雷雨磅礴。\n　　桑桑站在峰顶崖畔，握着大黑伞，说自己感觉到了一切",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "城里只有将军府有荷塘，只有很少的人能够见过残荷，自然这座边城里不会有太多人会像诗人文士般对着残荷大发感慨。\n　　然而当土阳城里的人们，看见城外草甸间那支大唐骑兵残军时，他们不得不震惊感慨，甚至是震惊到无语。\n　　很多年来，大唐军队基本上就没有吃过什么亏，夏侯大将军统帅的东北边军，更是从来没有打过败仗",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "尸堆里拣了一个小女婴，而小女婴身上却似乎藏着某些秘密，他有些隐隐恐惧。\n　　直到光明大神官逃离西陵，来到长安城，收了桑桑为徒，桑桑成了西陵神殿下一任光明大神官的不二人选，宁缺才明白，原来这就是命运烙印在桑桑身上的痕迹，这就是当年那个小女婴的机缘。\n　　命运和秘密已经出现在眼前，那么便不再恐惧，只能承",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "离西陵，来到长安城，收了桑桑为徒，桑桑成了西陵神殿下一任光明大神官的不二人选，宁缺才明白，原来这就是命运烙印在桑桑身上的痕迹，这就是当年那个小女婴的机缘。\n　　命运和秘密已经出现在眼前，那么便不再恐惧，只能承认并且接受，这半年里，宁缺不再躲避，而是开始培养训练或者说发掘桑桑在修行方面的潜质。\n　　今",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "慨，甚至是震惊到无语。\n　　很多年来，大唐军队基本上就没有吃过什么亏，夏侯大将军统帅的东北边军，更是从来没有打过败仗，为什么城外那支骑兵却是残军？\n　　其实这只是一个并不美妙的误会。\n　　土阳城外草甸上的大唐骑兵，并没有在荒原上打败仗，只不过千里跋涉，盔甲染灰，马倦人乏，最关键的是所有人的脸上都写满",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "“你这时候试？”\n　　桑桑把大黑伞递给他。\n　　宁缺接过大黑伞，手掌与伞柄间尽是雨水。\n　　念力缓缓释出识海，经由手掌渡入大黑伞的伞柄，再悄无声息覆上大黑伞满是油污的伞面，穿过磅礴的暴雨，向着崖下的雁鸣湖弥漫而去。\n　　宁缺也感觉到了很多。\n　　他感觉到了这面被暴雨击打的跳跃不安如沸水般的湖，他",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，有的修行者能够感觉到一片湖泊，强大如剑圣柳白悟道之时，感觉到的是一片大河。\n　　宁缺感觉到的是一片温暖的海洋，只不过这一点，他始终没有对任何人说过，因为连他自己都不相信自己的修行潜质会比剑圣柳白更强，事实上，后来修行途中的种种故事都证明他的感觉似乎有些偏差。\n　　桑桑此时说感应到了一切，并不代表她",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "乎随时会折断。\n　　宁缺低头望向湖面那处涌动如喷泉的水面，看着那处渐向湖岸散去的浪花与残枝碎花，忽然说道：“可以。”\n　　桑桑擦了擦脸上的雨水，没有说话。\n　　那道恐怖的闪电过后，天穹似乎正式开始发怒，一道一道闪电接踵而至，把原本被黑云压至漆黑一片的长安城，照耀的不时苍白，沉闷的雷声丝毫没有停歇之意",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

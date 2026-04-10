@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 962,
+  "chapter_title": "第二百九十四章 枭雄",
+  "filename": "ch_0962_第二百九十四章 枭雄.txt",
+  "char_count": 3528,
+  "timestamp": "2026-04-10T12:05:26.904935",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "部队，则是提前三个小时，借着黎明前的夜sè掩护，突袭南科州黑道总部。这支特战部队发端于三年前对许乐的追杀，这些年愈发强大，成员全部来自费城修身馆，训练有素装备精良，战斗力极强，而此次突袭，他们只有一个目标：张小花。\n\n    然而他们根本没有发现张小花的身影。\n\n    一辆由南科州前往首都特区运送",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "联邦民众并不知道那天真实发生了些什么，直到他们在新闻频道上，看到这些血淋淋的画面，看着那些石头在天空中飞舞，把那些女人和老人zá的头破血流，而军警则是冷漠地在远方观望。\n\n    录像拍摄的角度很全面，时间段非常长，素材当中一部分来自新闻频道和金星纪录片厂前期的摄像，还有一部分则由自邰之源议员办",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "èngfǔ方面的强硬指控下，在无数新闻媒体连续的攻击下，联邦社会主流认为邰之源和沉默行军shìwēi人群，应该对此事件负责，网络上虽然出现了一些现场当事人愤怒的驳斥，却没有引起更多人的注意，更没有人相信    联邦民众并不知道那天真实发生了些什么，直到他们在新闻频道上，看到这些血淋淋的画面，看着那些",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "当场逮捕四千三百余名黑shè会分子，有七名黑道骨干成员，因为拒捕而被当场击毙，南科州所有看守所和监狱瞬间被那些黑道分子挤满，然而这些黑道分子的脸上，依旧带着漫不在乎的表情。\n\n    联合调查部门直辖的特战部队，则是提前三个小时，借着黎明前的夜sè掩护，突袭南科州黑道总部。这支特战部队发端于三年前对",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "当然更完整的视频录像，就在新闻频道播放的同时，已经放到了联邦民用网络之上，并且在最短的时间内，进入无数电脑之中。\n\n    作为联邦最老牌最权威同时也是受众面最广的新闻频道，令人震惊一改往rì保守甚至近些年显得有些沉闷的作风，以难以想像的勇气胆魄，突然播出这样一段揭露南科州流血事件黑幕的录像，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，联邦社会主流认为邰之源和沉默行军shìwēi人群，应该对此事件负责，网络上虽然出现了一些现场当事人愤怒的驳斥，却没有引起更多人的注意，更没有人相信    联邦民众并不知道那天真实发生了些什么，直到他们在新闻频道上，看到这些血淋淋的画面，看着那些石头在天空中飞舞，把那些女人和老人zá的头破血流，而军",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "前那些鲜血横飞的画面，相信就算电视光幕变成全黑，也依然会长井间停留在联邦民众的视网膜上，足以说明太多真相。\n\n    当然更完整的视频录像，就在新闻频道播放的同时，已经放到了联邦民用网络之上，并且在最短的时间内，进入无数电脑之中。\n\n    作为联邦最老牌最权威同时也是受众面最广的新闻频道，令人震惊",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "新闻媒体连续的攻击下，联邦社会主流认为邰之源和沉默行军shìwēi人群，应该对此事件负责，网络上虽然出现了一些现场当事人愤怒的驳斥，却没有引起更多人的注意，更没有人相信    联邦民众并不知道那天真实发生了些什么，直到他们在新闻频道上，看到这些血淋淋的画面，看着那些石头在天空中飞舞，把那些女人和老人",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "井间停留在联邦民众的视网膜上，足以说明太多真相。\n\n    当然更完整的视频录像，就在新闻频道播放的同时，已经放到了联邦民用网络之上，并且在最短的时间内，进入无数电脑之中。\n\n    作为联邦最老牌最权威同时也是受众面最广的新闻频道，令人震惊一改往rì保守甚至近些年显得有些沉闷的作风，以难以想像的勇",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "在南科州流血事件发生后，在zhèngfǔ方面的强硬指控下，在无数新闻媒体连续的攻击下，联邦社会主流认为邰之源和沉默行军shìwēi人群，应该对此事件负责，网络上虽然出现了一些现场当事人愤怒的驳斥，却没有引起更多人的注意，更没有人相信    联邦民众并不知道那天真实发生了些什么，直到他们在新",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "地方，我觉得很受羞辱，如果是你的那个局或许我还有些兴趣。”\n\n    “老崔，我和钟老虎并不熟，所以以后邰之源和李疯子会怎么收拾你我不管，但在我和总统之间，你必须保持中立，接下来我会回乡下呆些天，zhèngfǔ如果要找我，你知道应该怎么做。”\n\n    电话那头的宪章局局长不知道说了些什么，林半山耐",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，街道中间暴力事件升级，远处某位官员模样的中年人穿着风衣在打电话，脸上还挂着诡异的笑容，这些联邦民众从来没有看过的画面，就这样以一种生砺的方式，跳出电视光幕，在所有人都没有任何心理准备的情况下，狠狠zá进他们的大脑。\n\n    摄像机的镜头忽然从楼上迅速拉近地面，对准了一名在人群中冷血挥舞铁棍的中年",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "事件没有任何关系。”\n\n    “这是你们选出来的联邦总统帕布尔，对你们的承诺。”\n\n    林半山安静看着电视光幕，摇了摇头，对于电视上那位以父亲人格起誓的联邦总统，他已经懒得再作任何负面评价。\n\n    他站起身来，从秘书手中接过风衣披在肩头，沉默向林园外走去，然后在林园门口看到前来逮捕自己的联",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，仿佛是为他的建议或者说威胁做最权威的注解，林园远处的山林间响起一声袅袅然的枪声。\n\n    枪声很温柔甚至很细腻，然而堵在林园外的那辆防暴车的装甲，就像纸片一样被子弹撕裂掀开，暴起一蓬白烟！\n\n    联邦zhèngfǔ的探员们脸sè苍白，完全无法想像这个画面，虽然林半山十余年前便在联邦闯下不世凶",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "然坚定的帕布尔总统，盯着新闻频道的镜头，对镜头那边的全体联邦民众，对那些隐藏在黑暗中的敌人，沉声平静说道：\n\n    “无论选民相信或是不相信，无论这种表态是幼稚还是天真，我都愿意再次以父亲的人格发誓。”\n\n    “我以及总统官邸内直属的工作人员，在南科州流血事件发生之前，从未听说过相关情况，更与",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

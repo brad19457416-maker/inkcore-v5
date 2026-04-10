@@ -1,0 +1,245 @@
+{
+  "novel": "间客",
+  "chapter_number": 1057,
+  "chapter_title": "第三百七十一章 风雨如晦（一）",
+  "filename": "ch_1057_第三百七十一章 风雨如晦（一）.txt",
+  "char_count": 4918,
+  "timestamp": "2026-04-10T12:05:26.908969",
+  "techniques_count": 18,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第三百七十一章 风雨如晦（一） \n\n    帕布尔总统看了一眼短信，面无表情删掉，然后沉默抬头，把注意力重新放到新闻直播的议会山现场画面中。\n\n    短信里简单的那句话，揭示了太多内容，他基本明白却并不在意，在当前",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "少场生死悬于一线间的战斗。\n\n    没有任何标识的黑sè汽车高速行驶在陡啃的山路间，无论是坡道还是危险的急转弯，仿佛都不能阻延这辆黑车丝毫速度，硬质轮胎与土面发出剧烈磨擦的声音，挟着风尘狂飙突进，竟似比最高级的越野车还要强悍。\n\n    通过车载雷达光幕确认那三辆武装直升战机已经被甩离，刘佼猛地一",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的突袭之后，便再次消失无踪，任何新闻媒体上没有他们的身影，只有极少数人知道在过去的这个深夜里，联邦的秘密特种部队和他们之间发生了多少场生死悬于一线间的战斗。\n\n    没有任何标识的黑sè汽车高速行驶在陡啃的山路间，无论是坡道还是危险的急转弯，仿佛都不能阻延这辆黑车丝毫速度，硬质轮胎与土面发出剧烈磨",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "：找到杜少卿，然后杀死他。\n\n    ……\n\n    ……\n\n    （注：这两百字是抄的美国的，向大家说明一下。另：我今天状态确实特别糟糕，如果有什么写的不扎实的地方，请大家多多体谅。\n\n    但这和情节嗨不嗨无关，我说过间客最后肯定会扎实欢愉，我尤其注重后者，但嗨点各有不同，这个没办法尽情满足",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "收录在他们的讲义之中。那句话是：公正不但必须做到，为了令人信服，它还必须被人看到。”\n\n    “我第一次当选总统那年，为了向支持我的底层民众展示联邦真正的公正，不顾所有僚员包括你的反对，把港都警备区的那些纨绔子弟，那些社会名流的孩子送到西林送到前线，送到了许乐的手下。”\n\n    “当时许乐是军神",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "戏的结局，然而还有些人非常清楚所谓结局肯定不会发生在这里，比如许乐。\n\n    直接间接造成现在联邦紧张局势的七组，在完成春都市疗养院的突袭之后，便再次消失无踪，任何新闻媒体上没有他们的身影，只有极少数人知道在过去的这个深夜里，联邦的秘密特种部队和他们之间发生了多少场生死悬于一线间的战斗。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "当年那件事情，终于明白了为什么今rì的议会山显得与往常格外不同。\n\n    “总统先生，顾问们现然很担心的问题是，议会山会不会借着否决国土安全法的势头，提出弹劾案。”\n\n    他望着帕布尔总统黝黑而疲惫的脸，担忧说道。\n\n    帕布尔淡然说道：“否决法案只需要半数，弹劾案程序漫长，需要三分之二议",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "题不停纠缠的过程。\n\n    由此便可以清晰知道，议会山从提出弹劾提案到正式进入弹谧指控法庭辩论再到最终得出结果，将是一个何等样漫长而煎熬的过程。\n\n    当锡安议长宣布开始进入前序程序投票，议会山里发出哄的一声，各派议员们纷纷站起身来，大肆攻击着对方，有人试图通过这种手段拖延程序的脚步，有人则是",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "往是争辩最激烈各种程序问题不停纠缠的过程。\n\n    由此便可以清晰知道，议会山从提出弹劾提案到正式进入弹谧指控法庭辩论再到最终得出结果，将是一个何等样漫长而煎熬的过程。\n\n    当锡安议长宣布开始进入前序程序投票，议会山里发出哄的一声，各派议员们纷纷站起身来，大肆攻击着对方，有人试图通过这种手段",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "”\n\n    “请你不要滥用手中权限，浪费联邦物力！”\n\n    听到司法委员会主席的话，帕派议员们愤怒地集体站起，挥舞手中电子笔表示最大的抗议，他们狠狠盯着这位来自栖霞州的资深议员，就像盯着最可耻的叛徒。\n\n    肃静庄严的议会山里像菜市场般陷入污言秽语的攻击之中，甚至能够清晰地听到鞋底敲击桌面",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "艘古怪飞船上，对于你们的效率，我感到非常失望。”\n\n    帕布尔总统关闭通话器，望向身旁的布林主任说道：“这件事情你盯紧一些，有消息马上报告。”\n\n    布林主任点了点头，脸上满是忧虑说道：“总统先生，现在最紧要的问题还是议会山那边，总统学术基金会，国策战略研究中心还有智库里面的工作人员，已经和",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "成他最忠诚的队员，甚至在明知他是帝国人的情况下，那些队员还愿意替他出生入死。”\n\n    帕布尔总统自嘲一笑，看着布林主任说道：“很无趣的是，我居然忘记了自己亲手做的这件事情，结果让他们的父母，在最关键的时割给了zhèngfǔ一次沉重打击。”\n\n    布林主任怔了怔后想起当年那件事情，终于明白了为",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "到非常失望。”\n\n    帕布尔总统关闭通话器，望向身旁的布林主任说道：“这件事情你盯紧一些，有消息马上报告。”\n\n    布林主任点了点头，脸上满是忧虑说道：“总统先生，现在最紧要的问题还是议会山那边，总统学术基金会，国策战略研究中心还有智库里面的工作人员，已经和那几十名议员进行了沟通，但到现在为",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "虽然现在宪章光辉暂时无法威胁到七组的行动，但是这毕竟是在联邦腹地，zhèngfǔ无数强力机构同时出动，在那家便利商店与张小huā擦肩后不久，他便被盯住。\n\n    过去的整整一天一夜间，他都在与那几支生猛的特战部队周旋，如果不是有这辆黑车，如果开车的不是刘佼，也许在十几个小时之前，他已经被对",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "多追究。\n\n    会想念怀念、回忆时会有怨言吗？\n\n    也许吧，那个女子是如此的聪慧懂事，低调温柔，善解人意善解人衣善解人恺，值得偶尔想念。\n\n    然而对于拥有坚定理想并且耗尽一生心血为实践它而奋斗的总统先生来说，再温婉沁脾的女子终究只是女子，是浩荡河流畔崖缝里一朵小huā，是泼墨大画下方",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "为了向支持我的底层民众展示联邦真正的公正，不顾所有僚员包括你的反对，把港都警备区的那些纨绔子弟，那些社会名流的孩子送到西林送到前线，送到了许乐的手下。”\n\n    “当时许乐是军神亲自挑选的接班者，只有他帮助我实现这个意愿，然而即便是我也没有想到，在那么短的时间内，他真的能把那些权贵子弟变成真正的战",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "囊走下车，与刘饺重重拥抱，然后就此分离。\n\n    用了近两个小时的时间，他从最陡峭的崖壁上趟出一条从来没有人走过的道路，悄无声息掩至那片军营对面的山峰最高处。\n\n    在峰顶某块灰石后，许乐调动腰后那股灼热的力量，缓缓闭上了眼睛，回忆起当年在那艘帝国皇家飞船数千万吨水底的感受，让那丝丝真气沁进每",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "你们不要走出议会山，任何试图通过不在场造成投票人数不够的想法，今天都不可能。”\n\n    锡安副议长缓缓抬起头来，看着座位上那些面露焦虑尴尬之sè的帕派议员们，说道：“就算你们能收买警卫，但我很想知道你们怎么收买外面数万名联邦民众。”\n\n    诱人的游戏总能吸引贪玩的孩子连续熬夜不眠不睡投身其中，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

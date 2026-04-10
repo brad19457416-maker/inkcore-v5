@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 657,
+  "chapter_title": "第二十章 生命是场赌博",
+  "filename": "ch_0657_第二十章 生命是场赌博.txt",
+  "char_count": 3348,
+  "timestamp": "2026-04-10T12:05:08.545440",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "绪很电妇七地瞬间回到年前那片满是冰雪的星球上。\n\n    被俘至帝国天京星，他未曾看一眼敌方大本营的天空，只见过无尽的黑暗和病房雪白的天花板，身周的人都是敌人，空气里流满的都是异乡的味道，他比人生任何一个时刻都无比怀念过往的一切。\n\n    七组的下属兄弟，果壳工程部的小组，冰雪间沉默前行的机甲群，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "“我不能说自己期待那一天的到来，因为没有人不怕死，但既然那天必然来临，所以你说这些其实没有太多的意义。”\n\n    远离家乡星河，孤独一人处于帝国敌境深处，生死难卜或者说注定将死的许乐，在这最后的时光里。似乎找回了一些当年钟楼街孤儿佻脱的影子，他挑着眉头，用一种颇堪玩味的笑容望着怀草诗：“只不过",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "肉被无尽痛楚带动一丝抽搐。\n\n    汗水如河从他身上淌下，湿了枕头。湿了被褥，湿了一夜，直至天京星陌生的晨光从窗外渗来时，脸色苍白虚弱至极的他，才现原来自己又和那种痛苦战斗了整毒一夜。\n\n    这个世界里能够忍受这种痛苦的人有几个？\n\n    能够忍受一般人忍受不了的事情，自然不是一般人，这种人",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "俘虏你时从你身上搜到的东西，能解释一下吗？”\n\n    许乐看了一眼那个陈旧的小册子，思绪很电妇七地瞬间回到年前那片满是冰雪的星球上。\n\n    被俘至帝国天京星，他未曾看一眼敌方大本营的天空，只见过无尽的黑暗和病房雪白的天花板，身周的人都是敌人，空气里流满的都是异乡的味道，他比人生任何一个时刻都无",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "湿了被褥，湿了一夜，直至天京星陌生的晨光从窗外渗来时，脸色苍白虚弱至极的他，才现原来自己又和那种痛苦战斗了整毒一夜。\n\n    这个世界里能够忍受这种痛苦的人有几个？\n\n    能够忍受一般人忍受不了的事情，自然不是一般人，这种人大抵只要不意外横死于爬升生涯之中。最后总会成就一番大事，因为他们有太过",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "生命是场赌博 \n\n    二向话就像二颗坚硬的石头从空爷中蹦了出来，狠狠炮魁引删面，然后弹起，即便最终碎裂，也不肯有丝毫的变形，强悍执拗的难以言述。\n\n    怀草诗沉默了片刻，自信傲娇掩藏在平凡面容下的她，根本不会在意病床上的许乐呈现出的慷慨激昂。只是听着这**的三句话，却不禁生出些许警惧的意味",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "不停的从许乐根处涌出来，然后顺着眉角淌下，瞬间打湿了整个枕头，消瘦的脸颊异常苍白，紧紧抿着的薄唇不停颤抖，偏生眼眸里的笑意却还是那样的自然。\n\n    “不热。”许乐的声音越沙哑。\n\n    怀草诗终于忍不住蹙着眉摇了摇头，说道：“何必忍着？”\n\n    说完这句话，她转身离开了病房。\n\n    就",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "怀草诗双眼微眯，冷意渐弥，却没有说话。\n\n    许乐像是根本感受不到那双寒冷的目光，自顾自皱眉说道：“先前你问我的不甘心，其实我的不甘心真的很多。”\n\n    他平静地直视怀草诗的双眼。说道：“你们是宇宙间的屠夫，不能把你们完全消灭，是莫大的遗憾。\n\n    怀草诗沉默片玄后摇了摇头。微嘲说道",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "黑，还没有再次用商秋的伟大温暖自己孤单的右手，还没有回一声那个秀丽女孩儿的好意，还没有找出大叔死亡的真相。\n\n    还没有开着涡轮增压，去林半山当年的公路上和那帮议员的蠢货儿子们进行疯狂的赛车，还没有隐姓埋名去某地疯狂的歌舞欢爱一把。\n\n    还没有强迫白玉兰把他额头前飘着的那丝令人厌烦的丝剪掉",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，问道：“这是俘虏你时从你身上搜到的东西，能解释一下吗？”\n\n    许乐看了一眼那个陈旧的小册子，思绪很电妇七地瞬间回到年前那片满是冰雪的星球上。\n\n    被俘至帝国天京星，他未曾看一眼敌方大本营的天空，只见过无尽的黑暗和病房雪白的天花板，身周的人都是敌人，空气里流满的都是异乡的味道，他比人生任",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "一个白痴。\n\n    “我不知道。”许乐很老实地回答道：“不过你不要误会我这时候在扮演道德装逼犯，我一向只是按照生活习惯生活，无论是刺杀麦德林还是在西林前线和你们作战，我只是很简单地认为，这些事情该做，所以我就做了。”\n\n    “德林亲王是帝国历史上最出色的皇族成员，也是我的集叔叔。”怀草诗平静说",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "摇了摇头，说道：“何必忍着？”\n\n    说完这句话，她转身离开了病房。\n\n    就在病房门关闭的同时，许乐的精神顿时松懈，虽说已经瘫疾的全身无法显现什么，但浓密黑间涌出的汗水猛地增多，眉头皱的极紧，脸上再也没有什么笑意，嘴唇痛苦的咧开，露出满口白牙，牙根处不停渗着血水，看上去无比凄惨。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "个全身瘫痪的俘冉，如果不能为帝国提供相应的利益，帝国自然不可能白养着你。”\n\n    “我不能说自己期待那一天的到来，因为没有人不怕死，但既然那天必然来临，所以你说这些其实没有太多的意义。”\n\n    远离家乡星河，孤独一人处于帝国敌境深处，生死难卜或者说注定将死的许乐，在这最后的时光里。似乎找回了",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "少卿练出来的怪物铁七师，３３２o的高地河谷。４6o的冰”森林，风雪间迷失的道路和道路旁边的深坑，坑中无数具联邦平民的尸体，一名帝**官的随军日记及一位联邦小女孩儿灰蒙蒙无法闭上的眼睛，，\n\n    “我想你们应该已经看过这本卜册子了。”许乐回答道：“这名叫做亚瑟的军官，因为不愿意执行远征军屠杀的命令",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "沙哑。\n\n    怀草诗终于忍不住蹙着眉摇了摇头，说道：“何必忍着？”\n\n    说完这句话，她转身离开了病房。\n\n    就在病房门关闭的同时，许乐的精神顿时松懈，虽说已经瘫疾的全身无法显现什么，但浓密黑间涌出的汗水猛地增多，眉头皱的极紧，脸上再也没有什么笑意，嘴唇痛苦的咧开，露出满口白牙，牙根处",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "？部郁抱着流火会站在那幢楼下等着归人？\n\n    还没有亲手抚摸过简水儿的黑，还没有再次用商秋的伟大温暖自己孤单的右手，还没有回一声那个秀丽女孩儿的好意，还没有找出大叔死亡的真相。\n\n    还没有开着涡轮增压，去林半山当年的公路上和那帮议员的蠢货儿子们进行疯狂的赛车，还没有隐姓埋名去某地疯狂的歌舞",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

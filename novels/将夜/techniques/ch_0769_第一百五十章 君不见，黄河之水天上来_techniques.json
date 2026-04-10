@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 769,
+  "chapter_title": "第一百五十章 君不见，黄河之水天上来",
+  "filename": "ch_0769_第一百五十章 君不见，黄河之水天上来.txt",
+  "char_count": 3667,
+  "timestamp": "2026-04-10T12:11:27.135907",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "原野间观战的任何人双眼感到刺痛，反而让人们沉醉其间。\n　　人们沉醉在这幕美丽动人的画面里：如青瓷般的天空，丝般的云絮，温暖的阳光，美丽的原野，还有一条滔滔大河。\n　　这条大河起源于荒原，本是一条涓涓小溪，倔强地突破月轮国的丛山，流经土壤肥沃，雨水充沛的原始森林，承接无数雨水支流，变成了一条大河，裹挟",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "出，便见大河。\n　　柳白的剑就是大河。\n　　当他出剑，这条大河便会出现。\n　　所有看见这条大河的人，最终都会被汹涌的河水吞噬。\n　　……\n　　……\n　　一条大河波浪宽。\n　　浊黄色的河水自天而降，就成了天河。\n　　仿佛天空被刺出了一个洞口，穹顶外的无数河水如瀑布垂落。\n　　这条大河没有别的任何气息，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的威严。\n　　浊黄的河水无处不在，不见便不在。\n　　柳白手中的断剑斩空。\n　　这是大河剑自问世以来，第一次斩空。\n　　因为君不见，黄河之水天上来。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "落，便似一座青山落向柳白的头顶。\n　　柳白不再横剑，因为此时他出剑，也是在身前一尺。\n　　这是他真正意义上出的第一剑。\n　　柳白的剑，必然就是一剑。\n　　当他手中的锈剑落下时，斑驳锈痕瞬间消失不见，剑身骤然明亮，反射着高天上的流云，原野畔的青山，美丽至极。\n　　这一剑仿佛夺走了天地间的所有光采，自然",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "这是他真正意义上出的第一剑。\n　　柳白的剑，必然就是一剑。\n　　当他手中的锈剑落下时，斑驳锈痕瞬间消失不见，剑身骤然明亮，反射着高天上的流云，原野畔的青山，美丽至极。\n　　这一剑仿佛夺走了天地间的所有光采，自然里的无数造化。\n　　无比灿烂。\n　　光采可以夺目，灿烂如烈日令人不敢直视，但这一剑，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "非常细腻。\n　　细腻的有如木柚手中的绣花针。\n　　君陌开始用铁剑绣花。\n　　转瞬间，他手中的铁剑不知颤抖了多少次。\n　　大河是柳白的剑。\n　　那些风与浪，便是先前铁剑与柳白的剑数百次相遇的地方。\n　　君陌在风中刻字，在河浪里雕花。\n　　他要用最细微的工具，去雕刻最宏伟的河山，用最悄然无声的手法，去装",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "光采可以夺目，灿烂如烈日令人不敢直视，但这一剑，却没有让原野间观战的任何人双眼感到刺痛，反而让人们沉醉其间。\n　　人们沉醉在这幕美丽动人的画面里：如青瓷般的天空，丝般的云絮，温暖的阳光，美丽的原野，还有一条滔滔大河。\n　　这条大河起源于荒原，本是一条涓涓小溪，倔强地突破月轮国的丛山，流经土壤肥",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "。\n　　唰的一声轻响。\n　　二师兄的右臂齐肩而断，远远落入青山中，不知落在何处。\n　　柳白手中的剑，同时断成两截。\n　　如果能再快一瞬，那么便是柳白的剑断在先。\n　　君陌无法再快那么一瞬，所以他握着铁剑的右臂断了。\n　　他身上出现了无数道细微的剑口。\n　　这些细口全部来自柳白的剑意。\n　　他身上的书",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "空中的字尚未完笔，浪里的花还差一瓣。\n　　秋风便抿了痕迹，浪花敛了剑花。\n　　他的剑破开铁剑，来到君陌身前。\n　　唰的一声轻响。\n　　二师兄的右臂齐肩而断，远远落入青山中，不知落在何处。\n　　柳白手中的剑，同时断成两截。\n　　如果能再快一瞬，那么便是柳白的剑断在先。\n　　君陌无法再快那么一瞬，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，激起如泥浆般的千重浪，仿佛万匹骏马在其间咆哮，声威惊人。\n　　黑色崖石间，有位少年正在练剑，他神情宁静，涛声无法进耳，崖石的震动无法让他的脚步有丝毫偏移，专注而无余物。\n　　天地颤栗失色，却不知道是因为奔涌的大河，而是河畔练剑的人。\n　　柳白步入修行道，初识便见到一条滔滔大河，故而被修行界认为是绝",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "双眼感到刺痛，反而让人们沉醉其间。\n　　人们沉醉在这幕美丽动人的画面里：如青瓷般的天空，丝般的云絮，温暖的阳光，美丽的原野，还有一条滔滔大河。\n　　这条大河起源于荒原，本是一条涓涓小溪，倔强地突破月轮国的丛山，流经土壤肥沃，雨水充沛的原始森林，承接无数雨水支流，变成了一条大河，裹挟着南方的泥沙，河水",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

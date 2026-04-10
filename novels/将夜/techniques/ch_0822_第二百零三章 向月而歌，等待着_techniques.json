@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 822,
+  "chapter_title": "第二百零三章 向月而歌，等待着",
+  "filename": "ch_0822_第二百零三章 向月而歌，等待着.txt",
+  "char_count": 2705,
+  "timestamp": "2026-04-10T12:11:27.257652",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "院，却没有去找叶红鱼。\n　　清晨来临，有鸡犬之声起于街巷，包子铺开门之前，便有热雾从门缝里溢出，被晨风吹冷落在街面上，湿了青石板。\n　　新的一天来临。\n　　朝廷继续与西陵神殿使团谈判，据宫里传来的消息，神殿方面显得异常强硬，和前些天有些不一样，尤其是在割让向晚原一事上更是寸步不让。\n　　宁缺明白神殿",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "唐千年何曾受过这等羞辱？\n　　从北疆到成京，从葱岭到朱雀大街，大唐军民在这场战争里不知死了多少人，才最终扭转了局势，明明没有打输，怎么却要签这样一个丧权辱国的和约？\n　　一时间满城哗然，群情激愤。小贩没了心情，酸辣面片汤都好像少了些味道，做什么事情都没了心情，谁还能安坐在家里？不知有多少市民和学生，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，神殿方面那些带着羞辱意味的条件，渐渐被唐国民众所知晓。尤其割让向晚原和东山郡这两个条件，更是让唐人愤怒到了极点，大唐千年何曾受过这等羞辱？\n　　从北疆到成京，从葱岭到朱雀大街，大唐军民在这场战争里不知死了多少人，才最终扭转了局势，明明没有打输，怎么却要签这样一个丧权辱国的和约？\n　　一时间满城哗然",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "神官。\n　　“唐国不可能留住向晚原。神殿可以在任何方面让步，向晚原不能让，不然这场伐唐之战便没有任何意义。”\n　　她一面画眉一面说道。\n　　宁缺看着在她眉间轻描的细炭笔，说道：“活着不是为了……”\n　　没有等他说完，叶红鱼说道：“书院里的人活着是为了意思，但更多人活着是为了意义，神殿总需要给世间诸国",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "了自已最强大的武器。\n　　无论如何宁缺都不应该答应这个条件，但他清楚西陵神殿此番谈判的重点，甚至酒徒出现在长安城的真实目的，就是向晚原。\n　　夜殿安静无声，包括皇后娘娘在内，所有人都在等着他表明态度，因为在这种时候，书院的态度便等于是大唐的态度。\n　　宁缺站起身来，看着群臣说道：“先和对方谈着，我再",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "……\n　　……\n　　此时宁缺正站在皇城角楼上。\n　　他看着夜空里的明月，看着城下黑压压却安静无比的人群，仿佛听到了什么，然后想起了一些事情，笑了起来。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "事上更是寸步不让。\n　　宁缺明白神殿方面的底气从何而来，他挥手让那名天枢处官员离去，起床喝了碗清粥，来到梅园，推开房门走了进去。\n　　叶红鱼喜欢晨时洗浴，因为她喜欢清爽地过每一天。\n　　宁缺走进她房间的时候，她刚刚出浴。\n　　湿漉的黑发散落在她赤裸的双肩上，发端滴着水，恰遮在胸前。\n　　叶红鱼看了他",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "头。\n　　叶红鱼从镜中看到他摇头的动作，握着梳子的手微僵，说道：“我以为你已经做出了决定，所以有些不愉快，便要来强奸我。”\n　　宁缺说道：“虽然你生的很美。”\n　　叶红鱼说道：“即便想想，也不是什么美事。”\n　　宁缺说道：“至少我没有想过。”\n　　叶红鱼说道：“我没穿衣服，你却盯着我看，那是在想什么",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "万人聚集到一起，却是鸦雀无声，皇宫外的安静，对于宫里的人们来说，便是难以形容的压力，知道内情的官员们瞬间苍老了很多。\n　　这个夜晚很多人在等待，也有些人在做别的事情，他们不是没有那些普通唐人的愤怒，而是因为他们必须要开始思考以后的事情。\n　　书院后山，木柚背着木筐，在山腰的云雾间行走，隔一阵便从筐中",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "所有人都在等着他表明态度，因为在这种时候，书院的态度便等于是大唐的态度。\n　　宁缺站起身来，看着群臣说道：“先和对方谈着，我再想想。”\n　　事涉国祚，没有谁能够在这么短的时间内做出决定。\n　　当天夜里，宁缺回了雁鸣湖畔的宅院，却没有去找叶红鱼。\n　　清晨来临，有鸡犬之声起于街巷，包子铺开门之前，便有",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "个夜晚很多人在等待，也有些人在做别的事情，他们不是没有那些普通唐人的愤怒，而是因为他们必须要开始思考以后的事情。\n　　书院后山，木柚背着木筐，在山腰的云雾间行走，隔一阵便从筐中取出一面小旗，插在泥土里或是山石缝隙间。\n　　云门阵法是夫子传授给她的大阵，是后山的重要屏障。她在青峡时，大阵无人主持，被西",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "答应这个条件，但他清楚西陵神殿此番谈判的重点，甚至酒徒出现在长安城的真实目的，就是向晚原。\n　　夜殿安静无声，包括皇后娘娘在内，所有人都在等着他表明态度，因为在这种时候，书院的态度便等于是大唐的态度。\n　　宁缺站起身来，看着群臣说道：“先和对方谈着，我再想想。”\n　　事涉国祚，没有谁能够在这么短的时",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

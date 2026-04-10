@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 443,
+  "chapter_title": "第九十四章军部的野望",
+  "filename": "ch_0443_第九十四章军部的野望.txt",
+  "char_count": 3420,
+  "timestamp": "2026-04-10T12:04:59.258128",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "震惊。回到了军务大臣的角色。将陛下的亲口军交由下属。转发给了遥远的帝国远征军。自己则是乘着高速电梯。来到了军部最层的大厅之中。\n\n    大厅里有无数的军官正在忙碌。帝**部的电脑运算能力远远不如联邦里的老东西。整个厅里此起彼伏的响起传令声。微显嘈乱。\n\n    柏乌亲王一脸冷峻的看着眼前的一切。将",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的肩章贴身剪裁的样式却将纤细身体内随步伐而隐含力量的线条展露无遗\n\n    虽然怀草诗不清楚联邦方面为什么笃定那位国民少女能够让陛下如此动容。自然也不能确定这是一个圈套。可是沙场之上培养出来的某种军事直觉。依然让他感到强烈的不安\n\n    然而即便是诱又如何？陛下根本不会在乎。无论是孤悬西林的远征军",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "来的。站在自行履带上的怀草诗一脸冷漠的看着宫之前幽深的军部的下建筑入口。想着负责军部事宜的那位叔叔。心想如果让他去穿越空间通道。只怕他会马上让疗养院开一个精神分裂的病假单。\n\n    以怀草诗的身份。然要经过严苛的扫描检查才能走进军部的的下大楼。然而当他走过冗长的安检门后。负责检查的军马上销毁了所有",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "让卡顿郡王的舰放缓速度。穿越空间通道的试验无限期推迟。”柏乌亲王站起身来。冷冷说道：“为了给联邦一个突然的礼物。我们要保证第一次整编舰队通过空间通。便要给他们带去承受不住的损失。”\n\n    房间里的将领们逐醒过神来。情报处处长颤着声音问道：“突袭的目标。我们定在谁身上？”\n\n    “如果李匹夫会",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "随便他去。只是我必须跟着。”\n\n    柏乌亲王皇帝陛下的亲生兄弟。执掌军部已经长达十年之久作为帝国权力滔天的军务大臣。他看着桌前的年轻军。|却没有丝毫倨傲之色。甚至刻意温和解释道：\n\n    “你也知道。空间道的数据虽破解来了一部分。但毕竟还是太少。卡顿这个家伙确实鲁莽好胜。但终究领军经丰富执行这",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "都只是他的子民。联想到陛下平静面容里隐含着的真怒。怀草诗细眉微挑。确认陛下为了平息那股不知从何而来的愤怒。根本不在意远征军会为此付出多么惨重的代价。\n\n    怀草诗从来曾怀疑过陛下的能。陛下当年还是诺顿亲王的时候。就曾经不惜亲自冒。强行穿越里走廊的空间通道。只为远赴百慕大亲自唤醒那位隐在联邦内的弟",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“陛下的命令。”在帝**部最森严的房内。怀草诗递过一份电子御签望着办公桌后方的柏乌亲王沉声说道：“外陛下说如果那个只会鞭打战士出的家伙非要执行第一次穿越任务随便他去。只是我必须跟着。”\n\n    柏乌亲王皇帝陛下的亲生兄弟。执掌军部已经长达十年之久作为帝国权力滔天的军务大臣。他看着桌前的年",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "弃那只舰队。就像乌亲王先前感慨的那样。这种成果对两大势力间的战争来说。看去很美。实际上却没有任何战略意义。\n\n    然而一切的一切都因为那粒种子而产生了改变。如果掌握了联邦军方高层的绝密行程。七天。一只中型舰队。似乎可以完成一次绝对令联邦意想不到。却又影响深远的血突袭　小＿说txt天＿堂",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "队已经遵令西移。大概一个月后。便能抵达即定区域。舰队一直在追问。究竟什么候才能打开通道。”一名帝国少将来到柏乌亲王的身边。压低声音说道。\n\n    柏乌亲王眉头微皱。想到怀草诗话。忽然想到顿这家伙勇则勇矣。然而有时候却显的过于冲动野蛮血腥。让他执行这样一次重要的穿越任务。是不是有失重？\n\n    “",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "草诗递过一份电子御签望着办公桌后方的柏乌亲王沉声说道：“外陛下说如果那个只会鞭打战士出的家伙非要执行第一次穿越任务随便他去。只是我必须跟着。”\n\n    柏乌亲王皇帝陛下的亲生兄弟。执掌军部已经长达十年之久作为帝国权力滔天的军务大臣。他看着桌前的年轻军。|却没有丝毫倨傲之色。甚至刻意温和解释道：",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "随着他一天一天长大。\n\n    与别的帝国战士比较起来。怀草诗个头偏矮。身体略显瘦削。但却没有弱不禁风的感觉。他军服上没有表明军衔的肩章贴身剪裁的样式却将纤细身体内随步伐而隐含力量的线条展露无遗\n\n    虽然怀草诗不清楚联邦方面为什么笃定那位国民少女能够让陛下如此动容。自然也不能确定这是一个圈套。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "确认陛下为了平息那股不知从何而来的愤怒。根本不在意远征军会为此付出多么惨重的代价。\n\n    怀草诗从来曾怀疑过陛下的能。陛下当年还是诺顿亲王的时候。就曾经不惜亲自冒。强行穿越里走廊的空间通道。只为远赴百慕大亲自唤醒那位隐在联邦内的弟。完成大师范当年留下的庞大计划。这种事情是一般的皇族权贵能够做出来",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "下属。转发给了遥远的帝国远征军。自己则是乘着高速电梯。来到了军部最层的大厅之中。\n\n    大厅里有无数的军官正在忙碌。帝**部的电脑运算能力远远不如联邦里的老东西。整个厅里此起彼伏的响起传令声。微显嘈乱。\n\n    柏乌亲王一脸冷峻的看着眼前的一切。将陛下那个古怪的军令抛诸脑后。因为他最近这几。将",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

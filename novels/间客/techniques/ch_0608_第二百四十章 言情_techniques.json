@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 608,
+  "chapter_title": "第二百四十章 言情",
+  "filename": "ch_0608_第二百四十章 言情.txt",
+  "char_count": 4262,
+  "timestamp": "2026-04-10T12:05:08.544987",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "小萌结婚时”怎么没有犹豫？”\n\n    部郁继续着自己的嘲讽，做为亲密闺友般的关系，她知道许乐太多的秘密，也正是基于这种友情，她对于那位青龙山之叶，向来没有一丝正面情绪。很妙的是，施清海似乎也是如此。\n\n    许乐情绪低沉，一言不地喝着水。\n\n    部郁看了他一阵，忽然平静说道：“你谁都喜欢，但",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "旅途有变的缘故，她非常遗憾甚至有些悲伤地没有看到那场让七组名扬宇宙的颁奖礼。紧接着便是那场生在海畔的冲突。联邦权力顶端的各大势力紧张万分，可对于这位七大家的嫡系小姐而言。她的心中没有这些繁杂的事情，只有简单的喜悦，因为知道他回来了，而且还在,\n\n    请家中某位在联邦调查局任要职的远房叔父帮忙，南",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "再次流露出那种不把我当朋友，只把我当成朋友女人的态度。”\n\n    部郁嫣然一笑，冷冽之意化作阳春暖风，说道：“这件事情到此为止，你不要再多事。我自己会考虑。”\n\n    许乐笑了笑，唤来侍者签单，然后陪着她向林园外走去。此时忽然间阴云笼罩天穹。深春的阳光全部被遮掩，无由一阵风起，携着微雨如丝，气温",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "何一个机会嘲讽打击某位正在议会山忙于工作的女生：“另一方面则是因为那是你的初恋，件么都不懂的雄性动物第一次情的时候，可不会在意自己会不会粉身碎骨。”\n\n    听着这段话，许乐尴尬不已，难得反击嘲讽说道：“从这些话中，就可以看出来。你和施清海骨子里就是一类人。”\n\n    “我并不完全否认这点，但一",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "迎上对方的目光，艰难挤出甜美的笑容。勇敢地向着那边走了过去，却没现凝着晶莹水珠的丝正在随自己身体轻轻颤抖。\n\n    本想提前言情预警。但因为还有些废话想说，所以只有留在了后面。\n\n    初恋的看法这一段。与张无忌和朱九真有关，昨天中午去建材市场采购之前，与大庆两位因书相识的好友吃饭聊天，聊到此节",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "“你是一个没有安全感的家伙，具体的原因你一直不肯说，我也懒得去猜。但我想，你一直无法确定自己的人生将会变成什么形状，所以一直没有足够的勇气去展开一段正式的恋情。”\n\n    “之所以最开始和张小萌那段，你能产生这种勇气，一方面是因为那个女人可能手段不错。”\n\n    部郁不放弃任何一个机会嘲讽",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": ",\n\n    请家中某位在联邦调查局任要职的远房叔父帮忙，南相美知道许乐今日要来林园，纯粹是下意识里来到了此间，然而就当她在餐厅门口可爱地替自己加油打气时，却看到了许乐送郜郁出来的一幕。\n\n    餐厅门口这对青年男女间的默契，她看的非常清楚，骤然间她才想到，他似乎有位传闻中的未婚妻，应该就是这位郜",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "穿着淡淡天青色裙装的秀丽女孩儿站在那处，女孩儿微卷的黑被雨丝染湿，别添一丝宁静之美，只是神情却是无比紧张，羞涩里带着一丝尴尬，似乎想要迅逃离此地。\n\n    南相美几天前刚刚回到因为旅途有变的缘故，她非常遗憾甚至有些悲伤地没有看到那场让七组名扬宇宙的颁奖礼。紧接着便是那场生在海畔的冲突。联邦权力顶端",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "加油打气时，却看到了许乐送郜郁出来的一幕。\n\n    餐厅门口这对青年男女间的默契，她看的非常清楚，骤然间她才想到，他似乎有位传闻中的未婚妻，应该就是这位郜部长的千金，他和那位所有人都喜欢的国民少女有绯闻，还有那位青龙山的美丽女官员 ，\n\n    这不是恶俗的桥段。自然不会因为误会而让两个彼此相爱的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "写到近四千字，难得啊”\n\n    政论与言情结束。某场大戏卑将开场，我有些紧张，像南相美一样浑身抖，担心自己不能全情投入去写，明天极可能只有两千字，如果我没有把状态提升到能够写出这场大戏的话小.说。t/x/t天.堂",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "言情 \n\n    什么疑问”许乐疑惑问 “我总感觉，你很急着把我嫁出去。”部郁似笑非笑地看着他，嘲弄说道：“可问题在于，你并不是我的父亲，虽然说你确实有些老气泛滥的倾向。”\n\n    这个漂亮媚丽的女子每当似笑非笑时，眉尖便会像剑尖一般挑起，直刺对方的心脏。\n\n    “更大的问题在于，我们同居过半",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "缘故，她非常遗憾甚至有些悲伤地没有看到那场让七组名扬宇宙的颁奖礼。紧接着便是那场生在海畔的冲突。联邦权力顶端的各大势力紧张万分，可对于这位七大家的嫡系小姐而言。她的心中没有这些繁杂的事情，只有简单的喜悦，因为知道他回来了，而且还在,\n\n    请家中某位在联邦调查局任要职的远房叔父帮忙，南相美知道许",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "场让七组名扬宇宙的颁奖礼。紧接着便是那场生在海畔的冲突。联邦权力顶端的各大势力紧张万分，可对于这位七大家的嫡系小姐而言。她的心中没有这些繁杂的事情，只有简单的喜悦，因为知道他回来了，而且还在,\n\n    请家中某位在联邦调查局任要职的远房叔父帮忙，南相美知道许乐今日要来林园，纯粹是下意识里来到了此间",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，或许我总以为这好像是里的童话结局一样圆满。”\n\n    “问题是我并不了解施清海这个人。”部郁神情宁静说道：“当初怀着流火的时候，你天天给我讲这个流氓公子的故事，必须承认，那时候你嘴里说的施清海确实有些魅力，潜伏在政治内部的青龙山间谍，为了替老师报仇在黑夜里行走，只要是女生，大概都会被这种黑暗英雄",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "契，两个没有任何男女方面情绪牵伴的异性朋友微微一怔，然后相对一笑。女孩儿手中捏着的那朵艳丽的红花分外温柔。\n\n    一辆墨绿色的军枣停在了林园内餐厅门口，勤务官下车跑了过来，匆忙将伞打开。准备扶小姐上车。\n\n    “黑车我开过来了，我送你回吧。”许乐说道。\n\n    部郁却摇了摇头，平静而带着一",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

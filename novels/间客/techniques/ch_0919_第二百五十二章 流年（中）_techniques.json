@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 919,
+  "chapter_title": "第二百五十二章 流年（中）",
+  "filename": "ch_0919_第二百五十二章 流年（中）.txt",
+  "char_count": 3499,
+  "timestamp": "2026-04-10T12:05:26.904757",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "刚才新闻画面上的那一幕，正是宇宙两边最强大的两个强者之间的一次正面冲撞，然而在墨花星球上，这已经不是第一次了。“这是第几次了？”\n\n    “算上这次，已经有三十七次，甚至那位公主殿下都亲自尝试了三次，看起来，为了解墨花星困局，帝国方面真是不惜一切代价，也要杀死少卿师长。”\n\n    “如果我是帝国",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "帝国狼牙机甲群最前端三台机甲骤然加速，尤其是最中间那台横样有些怪异，像挂了很多破烂金属盒的青色机甲，瞬间在山丘上划出一道残影，攻向联邦车队中的某辆样式普通的军车。一把枪出现在青色机甲手中。\n\n    这是一把只会在电影里出现的合金复层锻枪，枪长近五米，透着股淡淡灰色金属光泽，绝灭生机。长枪在手，青色",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，打进l星系了，那样的话，你就可以大摇大摆地过去接受矿产，哪里还用在这里着急？”那位丝绸走私商人笑着说道：“刚才说到联邦局不稳，其实我一直在想，少卿师长在墨花星上打的这么狠，是不是和这也有关系？做为总统先生的坚定支持者，他在前线的每一场胜仗，都能把总统先生的民意支持率再往上提几个百分点。”四周的商人",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "更加精确更加不可捉摸的指挥，让杜少卿直接指挥的超过一百个整编机械师，变成了一个庞大沉就却又坚不可摧的战斗机器。\n\n    机甲混编作战，空地联合协调，战地信息系统搭桥，联邦部队在墨花星球上的每一步推进都显得那么完美，没有给帝国方面留下任何漏洞，令人忍不住怀疑，这位联邦名将的大脑宄竟是在怎样运转，才能",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "第一强者李封上校后来给自己的n灯机甲取了个非常怪异的名字叫斩喜，刚才新闻画面上的那一幕，正是宇宙两边最强大的两个强者之间的一次正面冲撞，然而在墨花星球上，这已经不是第一次了。“这是第几次了？”\n\n    “算上这次，已经有三十七次，甚至那位公主殿下都亲自尝试了三次，看起来，为了解墨花星困局，帝国方面",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“那那是桃瘴：”一名年轻些的商人颢着声音问道：“那拦住她的机甲就是斩喜？没有人回答他的问题，人们依旧沉浸在日睹强者战后的余震中。\n\n    现在整个宇宙都知道，帝国无敌公主殿下的机甲名为桃瘴，联邦第一强者李封上校后来给自己的n灯机甲取了个非常怪异的名字叫斩喜，刚才新闻画面上的那一幕，正是宇宙",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "十台帝国狼牙机甲像生刺的食人藤般，向着山丘公路上的联邦车队发起猛烈的进攻，高速机动性和悍不畏死的作战风格，让它们强行突破联邦军营的三道防御线，冲上山丘，却被更多台联邦nx机甲拦截了下来。\n\n    在迳场帝国机甲突袭看似要粪丁成笑话的时候，帝国狼牙机甲群最前端三台机甲骤然加速，尤其是最中间那台横样有",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "他只问敌方伤亡数字，只要求胜利，一场又一场的胜利！\n\n    空间站咖啡馆短暂的沉就之后，有商人掐头感慨道：“说到墨花星球，帝国方面把l星系的后备部队都砸了进去，那位恐怖的公主殿下连续六次亲临前线督战，居然硬是拿少卿师长没有任何办法，只能转入被动防御，眼睁睁地看着联邦部队一步一步向南方逼近。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "面进攻，钛七师和新十七师做为先锋，接连在黄厄星系，木鸟星区以及x富矿星系的战役中，给帝母-本土部队以沉重打全，而杀伤力最为可怕的，表现最为强势的，还是杜少卿的铁七师。\n\n    宪历七十二年春，铁七师等王牌部队奉命回调首都星图休整「帝国前线部队迎来短暂的喘息局面，然而当杜少卿率领铁七师再次踏进战场时",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "那位商人正说着，忽然被光幕上播放的突发矫闻吸引住了目光，咖啡馆里的商人和那几桌沉就的军官，同时抬起头来，看着新闻画面下意识里握紧了拳头。\n\n    战地新闻播放的是两天前刚刚发生在墨花星球上的一场机甲突袭战，画面上可以清晰地看到，数十台帝国狼牙机甲像生刺的食人藤般，向着山丘公路上的联邦车队",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "带来的震撼情绪之中，无论是百慕大的走私商人还是那些沉就的军官，都不曾一次观看过军用机甲的战斗，但他们从来没有见过今天这种等级的战斗，无论是明显领先于整个宇宙技术水平的两台机甲，还是机甲里强大不可思议的机师，都是那样的令人不可思议。\n\n    “那那是桃瘴：”一名年轻些的商人颢着声音问道：“那拦住她的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "个极为陌生的名字。\n\n    那时候的杜少卿在联邦内部已经是十年军演不败的名将，但这个名将的称谓更多走出现在纸面，出现在电子沙盘之中，没有什么真正的震慑力。即便他在西林反击战中率领铁七师，打响了围歼帝国远征军的第一枪，并且在随后的战争中，展现过自己超级强悍的指挥能力，连战连捷，但因为西林战区距离天京",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "”“问题是像这样厉害的人物，到哪儿去找去？”\n\n    咖啡馆里的气氛忽然因为这句话而变得怪异起来，安静很长时间后，有人轻声感慨道：“以前倒还真有一个. www/xiaoshuotxt.co m\n\n\n\n第四卷星光流年",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

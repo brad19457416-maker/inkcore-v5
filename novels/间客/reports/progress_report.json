@@ -1,0 +1,422 @@
+{
+  "novel": "间客",
+  "timestamp": "2026-04-10T12:05:26.982818",
+  "progress": {
+    "total": 50,
+    "processed": 50,
+    "failed": 0
+  },
+  "statistics": {
+    "categories": {
+      "plot": 41,
+      "scene": 24,
+      "character": 9,
+      "pacing": 5,
+      "dialogue": 3,
+      "theme": 2,
+      "emotion": 2
+    },
+    "top_techniques": [
+      [
+        "悬念设置",
+        21
+      ],
+      [
+        "环境描写",
+        19
+      ],
+      [
+        "危机开场",
+        16
+      ],
+      [
+        "群像描写",
+        6
+      ],
+      [
+        "快节奏",
+        5
+      ],
+      [
+        "高潮爆发",
+        4
+      ],
+      [
+        "内心独白",
+        3
+      ],
+      [
+        "对话推进",
+        3
+      ],
+      [
+        "氛围营造",
+        3
+      ],
+      [
+        "哲学思辨",
+        2
+      ],
+      [
+        "空间转换",
+        2
+      ],
+      [
+        "情绪爆发",
+        2
+      ]
+    ]
+  },
+  "recent_results": [
+    {
+      "chapter": "第1041章 第三百五十五章 飞越疯人院（下）",
+      "file": "ch_1041_第三百五十五章 飞越疯人院（下）.txt",
+      "status": "success",
+      "techniques_count": 6,
+      "techniques": [
+        {
+          "name": "危机开场",
+          "category": "plot",
+          "example": "联邦的一位著名精神分析学专家发表过自己的观点，在他的论文中讲到：“天才的发生是由于自己和环境之间激烈冲突的结果，在这一点上与神经症和精神病相似，但天才解决上述冲突的方式不同，其症状及后果是对社会有益的，并受到社会尊重。研究表明，天才人物较常人更不易发生精神病、体质虚弱和畸形等情况。”\n\n    事实",
+          "analysis": {
+            "definition": "在文本中使用危机开场技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.85,
+          "match_count": 1
+        },
+        {
+          "name": "空间转换",
+          "category": "scene",
+          "example": "帝国人，被迫背井理想，远走帝国。\n\n    三年前，一个男人因为某个东西活了过来，而被冰冷的针管注射进入的氯丙嗪侥幸每变成白痴，但身体却变成了如今的摸样。\n\n    三年后，那个远走他乡的男人带着他幸存的弟兄们回到了联邦，不是为了证明自己是联邦英雄还是异国太子。只是为了往死沙场的兄弟，为了复仇。所以",
+          "analysis": {
+            "definition": "在文本中使用空间转换技法",
+            "scenario": "适用于scene类场景",
+            "effect": "增强scene表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.8,
+          "match_count": 2
+        }
+      ],
+      "timestamp": "2026-04-10T12:05:26.965921"
+    },
+    {
+      "chapter": "第1042章 第三百五十六章 好久不见",
+      "file": "ch_1042_第三百五十六章 好久不见.txt",
+      "status": "success",
+      "techniques_count": 17,
+      "techniques": [
+        {
+          "name": "危机开场",
+          "category": "plot",
+          "example": "特区口那些七组的无耻匪兵，可能在更早之前已经和那名帝国皇子会合。”\n\n    “诸位，联邦现在正处于危险之中，如果我们迟迟不能发现他们的险恶用心，他们的目标，我们将注定被钉上历史的罪恶柱，永远也别想下来！”\n\n    联邦【zheηgfu】对七组退伍兵们的监管，或许曾经散漫放松过，但随着墨花星球那幕",
+          "analysis": {
+            "definition": "在文本中使用危机开场技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 4
+        },
+        {
+          "name": "悬念设置",
+          "category": "plot",
+          "example": "，只有宪章电脑自身，还有藏在小行星带里的某艘破烂飞船残余，以及飞船上那位逃离疯人院的天才，清楚所有的真相。\n\n    这是一场无声无息却又无比凶险的战斗，这场战斗发生在寂静的太空里，无数数据流间，发生在两个好久不见的伟大机械生命之间。\n\n    深冬一月，前进脚步停缓很长时间的游丵行队伍，终于浩浩荡",
+          "analysis": {
+            "definition": "在文本中使用悬念设置技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 4
+        }
+      ],
+      "timestamp": "2026-04-10T12:05:26.968471"
+    },
+    {
+      "chapter": "第1043章 第三百五十七章 联邦棋盘上的危险落子",
+      "file": "ch_1043_第三百五十七章 联邦棋盘上的危险落子.txt",
+      "status": "success",
+      "techniques_count": 14,
+      "techniques": [
+        {
+          "name": "环境描写",
+          "category": "scene",
+          "example": "联邦军方总装基地。\n\n    17分钟后，一艘空地转载飞船从基地深处腾空而起，底部喷射的焰流，在灰沉天空间划出一道深刻线条。\n\n    根据联网数据，这艘飞船执行的是国防部例行对月物资输送工作，没有引起任何方面注意。\n\n    54分钟后，本应向新月基地前进的深色飞船，不知道因为什么原因发生了严重故",
+          "analysis": {
+            "definition": "在文本中使用环境描写技法",
+            "scenario": "适用于scene类场景",
+            "effect": "增强scene表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 5
+        },
+        {
+          "name": "情绪爆发",
+          "category": "emotion",
+          "example": "点反应都没有，这说明什么？说明他给任何带着我美妙体息的数据回流都有自动过滤加码！”\n\n    菲利浦愤怒的吼叫道，那根隐藏很长时间的纤细机械臂也跑了出来，不停地摇晃着探头。\n\n    “那坨没胆子的废铁担心我给它灌点毒进去，所以选择了这么个愚蠢的笨办法，全方面隔断！宁肯不来计算我的计划，也不想和我有",
+          "analysis": {
+            "definition": "在文本中使用情绪爆发技法",
+            "scenario": "适用于emotion类场景",
+            "effect": "增强emotion表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 3
+        }
+      ],
+      "timestamp": "2026-04-10T12:05:26.970329"
+    },
+    {
+      "chapter": "第1044章 第三百五十八章 断楼",
+      "file": "ch_1044_第三百五十八章 断楼.txt",
+      "status": "success",
+      "techniques_count": 14,
+      "techniques": [
+        {
+          "name": "环境描写",
+          "category": "scene",
+          "example": "的地下通道系统，在黑暗遮掩下，谁都不知道那些开始响起轻微脚步声的通道通向何方。\n\n    许乐和顾惜风留了下来，身为七组电控水准最优秀的成员，他们要负责组装控制中心。\n\n    各式各样复杂的数据线和电缆在两个人或粗圆或细直却同样灵巧的手指下，渐渐变成铺满地面看似混乱却非常精密的网络，然后与城丵市民",
+          "analysis": {
+            "definition": "在文本中使用环境描写技法",
+            "scenario": "适用于scene类场景",
+            "effect": "增强scene表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 5
+        },
+        {
+          "name": "危机开场",
+          "category": "plot",
+          "example": "魔幻色彩倒下，是非常困难的事情，胡宗华和他的徒弟江锦可能需要在管道里爬更久，卖出去更多炸丵药，冒更多危险。\n\n    然而疗养院大楼刚刚经过加固，合金混编夹层，就像是无数道坚韧的针线，把有些酥脆的整面墙缝成一个结实的整体，于是一倒便是一面，壮观不已。\n\n    疗养院大楼整整一面墙垮了，还是面临河堤",
+          "analysis": {
+            "definition": "在文本中使用危机开场技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.9,
+          "match_count": 2
+        }
+      ],
+      "timestamp": "2026-04-10T12:05:26.972047"
+    },
+    {
+      "chapter": "第1045章 第三百五十九章 梅山间的枪与歌",
+      "file": "ch_1045_第三百五十九章 梅山间的枪与歌.txt",
+      "status": "success",
+      "techniques_count": 10,
+      "techniques": [
+        {
+          "name": "危机开场",
+          "category": "plot",
+          "example": "弱，此时看上去狼狈无比，不堪一击的第四旅还有那些小眼睛特战精锐，在近战中肯定会给队员们带来很多麻烦和危险。\n\n    目光落下，河对岸残垣断树间，悄无声息出现了许乐的身影，熊临泉眼瞳微缩，想着计划中那个不可思议的环节，即便是身经百战的他都感到难以压抑的兴奋。\n\n    “头儿已经到位。”",
+          "analysis": {
+            "definition": "在文本中使用危机开场技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 3
+        },
+        {
+          "name": "环境描写",
+          "category": "scene",
+          "example": "，大吼一声抠动扳机，粗壮的双臂肌肉暴起！\n\n    六根黑洞洞的枪管高速嗡鸣旋转，倾泄而出的子弹像狂风暴雨一般射击疗养院大楼临河面！\n\n    有效射程绝对没有这么远的达林机炮，在熊临泉强悍的控制和非人般的射击精度下，变成了恐怖的远程暴射火力，更恐怖的是，喷射出的子弹被强行限定在极小的范围之中，杀伤",
+          "analysis": {
+            "definition": "在文本中使用环境描写技法",
+            "scenario": "适用于scene类场景",
+            "effect": "增强scene表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 5
+        }
+      ],
+      "timestamp": "2026-04-10T12:05:26.973707"
+    },
+    {
+      "chapter": "第1046章 第三百六十章 事来如春风拂面，事去如碧水无波",
+      "file": "ch_1046_第三百六十章 事来如春风拂面，事去如碧水无波.txt",
+      "status": "success",
+      "techniques_count": 15,
+      "techniques": [
+        {
+          "name": "环境描写",
+          "category": "scene",
+          "example": "上奔跑根本没有一刻停顿，军靴踏破壁，身动如风，最轻微的反震力，便能让他的身体高速弹起再次***，仿佛天空红色晚云中有一双无形的巨手，抓着他的双肩不停向上提。\n\n    疗养院大楼很高，残破的墙面很难行，与地面垂直的着脚面很恐怖，然而在身法鬼魅的许乐面前，这些都不是障碍，从他出现在河畔颓垣断树间，到此",
+          "analysis": {
+            "definition": "在文本中使用环境描写技法",
+            "scenario": "适用于scene类场景",
+            "effect": "增强scene表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 6
+        },
+        {
+          "name": "快节奏",
+          "category": "pacing",
+          "example": "骤然响起噗噗噗三声闷响！\n\n    三颗来自河对岸的子弹，撕裂空气，精确无比在他身躯上开出三个血洞，瞬间狙毙此人。\n\n    另一名小眼睛特战军人闷哼一声，右脚在地面重重一蹬，奇快无比闪入角落，借助金属文件柜挡住身体。\n\n    子弹射中金属文件柜，发出恐怖的啪啪脆响，柜体不停颤动，却没有被击穿，这",
+          "analysis": {
+            "definition": "在文本中使用快节奏技法",
+            "scenario": "适用于pacing类场景",
+            "effect": "增强pacing表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 4
+        }
+      ],
+      "timestamp": "2026-04-10T12:05:26.976403"
+    },
+    {
+      "chapter": "第1047章 第三百六十一章 最强的集体",
+      "file": "ch_1047_第三百六十一章 最强的集体.txt",
+      "status": "success",
+      "techniques_count": 16,
+      "techniques": [
+        {
+          "name": "悬念设置",
+          "category": "plot",
+          "example": "“我永远不会承认。”邰之源笑容渐敛，拿起白色丝绢轻拭唇角，说道：“这是我欠你的人情。”\n\n    “为什么你不肯欠他的人情？”邹郁问道。\n\n    邰之源平静回答道：“因为未来的联邦总统永远不能欠未来的帝国皇帝人情。”\n\n    邹郁没有再说什么，直接走出门外。城市里灌满了寒冷的空气，身后传来越来越",
+          "analysis": {
+            "definition": "在文本中使用悬念设置技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 4
+        },
+        {
+          "name": "环境描写",
+          "category": "scene",
+          "example": "轮椅上的达文西表情庄严，举起右手满是死难战友身份牌的行军背囊，伸出左手对准铅灰一片的高远天空。\n\n    雪花再次开始飘落，有一朵最晶莹的落在他的指尖。\n\n    “为了天上的光辉，为了那些死去的以及活着的，他们去了另一个地方，去做他们应该做的事情，去夺回那些原本就应该属于他们的光荣。”",
+          "analysis": {
+            "definition": "在文本中使用环境描写技法",
+            "scenario": "适用于scene类场景",
+            "effect": "增强scene表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 5
+        }
+      ],
+      "timestamp": "2026-04-10T12:05:26.978136"
+    },
+    {
+      "chapter": "第1048章 第三百六十二章 刺着青花的男人",
+      "file": "ch_1048_第三百六十二章 刺着青花的男人.txt",
+      "status": "success",
+      "techniques_count": 16,
+      "techniques": [
+        {
+          "name": "环境描写",
+          "category": "scene",
+          "example": "集会台上那位满脸通红的女性演讲者，用夸张而专业的肢体语言和声撕力竭却不失诚恳的声音，大声向着绍灰色的天空做着控诉，台下数万名愤怒的集会民众挥舞着拳头，做着响亮的回应。\n\n    游丵行集会向来是一种极为漫长的娱乐活动，因为过于漫长，民众的热情很容易被严寒天气和枯躁重复逐渐消耗，然而沉默行军指挥部近乎",
+          "analysis": {
+            "definition": "在文本中使用环境描写技法",
+            "scenario": "适用于scene类场景",
+            "effect": "增强scene表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 6
+        },
+        {
+          "name": "危机开场",
+          "category": "plot",
+          "example": "战斗需要不一样的武器．因为参加战斗的人们所擅长的事情总是不一样。\n\n    有人会端着枪丵械大喊冲向危险的敌营，比如七组；有人会皱着眉头执笔在纸上不停抄写，比如鲍勃与伍德；有人在指挥部中看似沉默平静丵坐著，实际上却是不惜身体竭尽思虑安排好所有的策略．比如邰之源。更多的普通人选择用自己的双脚投出选票，",
+          "analysis": {
+            "definition": "在文本中使用危机开场技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.9,
+          "match_count": 2
+        }
+      ],
+      "timestamp": "2026-04-10T12:05:26.979522"
+    },
+    {
+      "chapter": "第1049章 第三百六十三章 藏身于意想不到的别处",
+      "file": "ch_1049_第三百六十三章 藏身于意想不到的别处.txt",
+      "status": "success",
+      "techniques_count": 13,
+      "techniques": [
+        {
+          "name": "环境描写",
+          "category": "scene",
+          "example": "投下，刺着青huā的男子沉默行走在夜sè与雪huā间，随着他稳定而的脚步，两旁的建筑物高度渐渐降低，风景变得杂乱而环境音开始嘈杂起来。\n\n    一辆夜班出租车停在修理铺外，里面的司机正盖着毯子眯着眼，似乎正在睡觉，没有人注意到，当张小huā毫无情绪目光掠过时，司机微微领首示意。\n\n    前面的烧",
+          "analysis": {
+            "definition": "在文本中使用环境描写技法",
+            "scenario": "适用于scene类场景",
+            "effect": "增强scene表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 7
+        },
+        {
+          "name": "悬念设置",
+          "category": "plot",
+          "example": "山之叶与联邦英雄之间的青涩初恋故事，虽然不如男xìng当事人与那位国民偶像少女订婚广为人知，但也不是秘密，至少这片深海里所有的鱼，都清楚他们的年轻女领导有不可触碰的某些区域。\n\n    然而出乎他的意料，张小萌脸上的表情没有任何异样，只是轻轻嗯了一声。\n\n    房门关闭，她走进卫生间，望着轮椅上那",
+          "analysis": {
+            "definition": "在文本中使用悬念设置技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.9,
+          "match_count": 3
+        }
+      ],
+      "timestamp": "2026-04-10T12:05:26.980669"
+    },
+    {
+      "chapter": "第1050章 第三百六十四章 从开始到现在的怜爱",
+      "file": "ch_1050_第三百六十四章 从开始到现在的怜爱.txt",
+      "status": "success",
+      "techniques_count": 14,
+      "techniques": [
+        {
+          "name": "悬念设置",
+          "category": "plot",
+          "example": "剧里的某位孤女小保姓，但从那天开始，怜爱开始。\n\n    那个让联邦无数人感到艰于呼吸、让无数人遭受秘密审讯与刑讯的爱国者案，被他用苍老的声音宣布即时废除，或者真的就只是因为这么一个简单的原因？\n\n    ……\n\n    …ＷＷＷ.xiＡosＨuoＴＸＴ.com\n\n\n\n第四卷星光流年",
+          "analysis": {
+            "definition": "在文本中使用悬念设置技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.9,
+          "match_count": 3
+        },
+        {
+          "name": "环境描写",
+          "category": "scene",
+          "example": "。”邰之源转身看着她清丽动人的容颜，低声说道：“谢谢你。”\n\n    简水儿的眉梢挑的更高了些，像被风吹到惘然的柳叶，没有什么慑人意味，反而有些迷糊的可爱：“所以你让我来见何官？可你为什么确定我能起到作用？”\n\n    “还记不记得你小时候那场轰动联邦的官司？”\n\n    “一个十几岁的小女孩儿在庭",
+          "analysis": {
+            "definition": "在文本中使用环境描写技法",
+            "scenario": "适用于scene类场景",
+            "effect": "增强scene表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.9,
+          "match_count": 4
+        }
+      ],
+      "timestamp": "2026-04-10T12:05:26.981943"
+    }
+  ]
+}

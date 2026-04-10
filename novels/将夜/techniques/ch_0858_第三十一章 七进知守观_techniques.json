@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 858,
+  "chapter_title": "第三十一章 七进知守观",
+  "filename": "ch_0858_第三十一章 七进知守观.txt",
+  "char_count": 3253,
+  "timestamp": "2026-04-10T12:11:27.359483",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "书院不派人参加光明祭，是很多人都能理解的事情，但人们无法理解，就连佛宗不可知之地悬空寺都派出了代表，为什么始终没有听到知守观的动静？要知道那座神秘的道观可是道门的不可知之地。\n　　……\n　　……\n　　很多人来到了西陵神殿，有人在西陵神殿里等待，也有人选择了离开，因为这里没有他想要的东西，那个人便是隆",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "看上去就像是一座多年无人打理的旧坟墓。\n　　隆庆看着这座青丘，留意到最上面很平，给人感觉就像是巨人从天空伸出一只脚，直接把原先的青山踩成了现在这副模样。\n　　青山里那些蚁穴般的洞窟早已不见，曾经生活在那些洞窟里的道门绝世强者们，也尽数变成了大墓里的灰烬。\n　　回忆着曾经在那些洞窟里受的折磨，感受过的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "表金帐王庭对西陵神殿的尊重，对光明祭的重视，最令神殿方面感到震撼的是，金帐国师和勒布竟是直接通过唐境来到的西陵，而没有绕行月轮。\n　　宁缺在荒原上见过金帐王庭的国师，知道这个看上去很寻常的布衫老人境界是多么深不可测，他甚至不敢向这名老人多看两眼。\n　　燕国的使团也到了，年初才继位的崇明皇帝，竟是扔下",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "宁缺感到警惕的是，遥远西荒上的悬空寺竟也派出了代表，正是佛宗天下行走七念！\n　　人世间最尊贵的皇族，最强大的修行者，都来到了西陵神国，准备参加光明祭盛会，场面之浩大，规制之宏伟，远远超过了当年烂柯寺的盂兰节祭，只有唐国没有派出正式使团，红袖招聊为意思，书院也没有来人。\n　　战争刚歇，唐国和书院不派人",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，便再也没有人能够进出，道观便会变成一座囚牢，以天为盖以地为铺，任何人都休想逃离。\n　　知守观在人间出现之后，除了夫子便再也没有人能够潇洒破门而入，去年秋天书院大师兄和观主无距相战时，曾经来到这里，然后瞬间离开，没有被知守观里的大阵囚禁，但那并不代表大师兄的境界已经能够无视这座大阵，而是因为有个非常",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "表是柳亦青，宁缺站在山崖间，看着被莫离神官接进天谕院的盲剑客，想起当年在书院侧门外的那一战，不免有些感慨。\n　　柳亦青的修行生涯前半段一直籍籍无名，直到被召回剑阁才声名渐盛，很多人都非常看好此人在剑道方面的天赋，二师兄甚至说过，此人如果能不误契机，便有可能走到他兄长剑圣柳白的程度。\n　　柳白也非常看",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "袖招聊为意思，书院也没有来人。\n　　战争刚歇，唐国和书院不派人参加光明祭，是很多人都能理解的事情，但人们无法理解，就连佛宗不可知之地悬空寺都派出了代表，为什么始终没有听到知守观的动静？要知道那座神秘的道观可是道门的不可知之地。\n　　……\n　　……\n　　很多人来到了西陵神殿，有人在西陵神殿里等待，也有",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "现之后，除了夫子便再也没有人能够潇洒破门而入，去年秋天书院大师兄和观主无距相战时，曾经来到这里，然后瞬间离开，没有被知守观里的大阵囚禁，但那并不代表大师兄的境界已经能够无视这座大阵，而是因为有个非常了解阵法的人提前便在观中做了手脚。\n　　那个人便是自幼生活在知守观里的陈皮皮。隆庆知道这件事情，所以他",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "自信何其可笑？\n　　回到知守观前，隆庆盘膝而坐，用了很长时间才消除心头的震撼，让有些颓然的心重新回复宁静，开始继续思考陈皮皮的那句话。\n　　七进十三出，究竟是什么意思？他苦苦思考了一夜时间，待晨光降临才重新睁开眼睛，布满青苔的石阶重新映入他的眼帘。\n　　他忽然注意到，观前的石阶一共是六级。\n　　十三",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "……\n　　走进知守观，顺着熟悉的湖行走，来到熟悉的屋前，还未叩门，门便开了，一名中年道人看着隆庆说道：“你比我想的来的更快些。”\n　　隆庆对着中年道人行礼，说道：“见过师叔。”\n　　中年道人摆摆手，说道：“你进吧。”\n　　隆庆依言走进屋内，便闻到一股若有若无的腥臭味道，这股难闻的味道正是来自榻上",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

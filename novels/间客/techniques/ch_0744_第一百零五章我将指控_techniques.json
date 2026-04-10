@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 744,
+  "chapter_title": "第一百零五章我将指控",
+  "filename": "ch_0744_第一百零五章我将指控.txt",
+  "char_count": 2361,
+  "timestamp": "2026-04-10T12:05:17.609915",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "听到这句话，莱克上校想到了一些什么，身体微抖，霍然回头望着徐松子手里拿着的电子法律文书，脸色瞬间苍白起来。\n\n    “莱克上校，你被指控于宪历六十九年非法窃取宪章局秘密数据。”\n\n    “你被指控非法窃取并且泄漏联邦重要数据。”\n\n    “你被指控破坏联邦一级飞行器。”\n\n    “你",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "而是您刚才所提到的事情，现在生了一些变化。”\n\n    说到此处，郜部长的声音骤然变得冷淡起来，继续说道：“指证许乐上校的，莱克上校，因为牵涉到一起严重的刑事案件，马上面临司法部辩的指控，他的相关证词证言的效力。非常值得人怀疑。”\n\n    与许乐关系良好的西林军区内部，居然会有位高级军官主动指证他",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "里拿着的电子法律文书，脸色瞬间苍白起来。\n\n    “莱克上校，你被指控于宪历六十九年非法窃取宪章局秘密数据。”\n\n    “你被指控非法窃取并且泄漏联邦重要数据。”\n\n    “你被指控破坏联邦一级飞行器。”\n\n    “你被指控以危险方法危害公共安全。”\n\n    “你被指控触犯联邦军事数据条例",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "非法窃取并且泄漏联邦重要数据。”\n\n    “你被指控破坏联邦一级飞行器。”\n\n    “你被指控以危险方法危害公共安全。”\n\n    “你被指控触犯联邦军事数据条例。”\n\n    “莱克上技\n\n    徐松子军法官合上电子文件，面无表情盯着被紧紧镑住的莱克上校，缓缓说道：\n\n    “我将指控你意",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "尔总统黝翼的脸颊闪过经讶异和震惊叮鱼部部长在耳边说了些什么，只见总统先生的眉尖越来越皱，隐隐可以看到愤怒的征兆。\n\n    看到这一幕，会议室里的联邦高官们心情顿时为之一紧，犹疑不定地望着那边，不知道生了什么事情，紧张的气氛中，根本没有人注意到一脸骄容等着看军方丢脸的梅斯议员。\n\n    梅斯议员脸",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的感觉驱除，向总统阁下和迈尔斯上将分别行了军礼，轻身走出。\n\n    帕布尔总统站起身来，静静地看了众人一眼，没有说一句话。就这样离开了会议室，而这种沉默。代表的意味却是无比深远。\n\n    进行临时交通管制的大道无比清旷，几辆墨绿色的国防部军车安静地停在路畔，最后方有一辆名贵的汽车敞开着车门，田胖",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "着的黑色墨镜，深深地吸了一口气，将脑海中那些怪异的感觉驱除，向总统阁下和迈尔斯上将分别行了军礼，轻身走出。\n\n    帕布尔总统站起身来，静静地看了众人一眼，没有说一句话。就这样离开了会议室，而这种沉默。代表的意味却是无比深远。\n\n    进行临时交通管制的大道无比清旷，几辆墨绿色的国防部军车安静地",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "看到这一幕，会议室里的联邦高官们心情顿时为之一紧，犹疑不定地望着那边，不知道生了什么事情，紧张的气氛中，根本没有人注意到一脸骄容等着看军方丢脸的梅斯议员。\n\n    梅斯议员脸色极为难看，恼怒地抗议道：“郜部长，请你尊重一下我好不好？”部应星微微一怔，在椅上坐直身体，将金属细边眼镜小心地戴",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "例。”\n\n    “莱克上技\n\n    徐松子军法官合上电子文件，面无表情盯着被紧紧镑住的莱克上校，缓缓说道：\n\n    “我将指控你意图颠覆联邦。”\n\n    “我将指控你，”通微”\n\n    “我将指控你，”卖国。”\n\n    “我将指控你，于宪历七十年，谋杀联邦西林军区司令钟瘦虎夫妻以及全舰一",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "着钟烟花，异常艰难地说道：“对不起，小姐。”\n\n    钟烟花稚嫩清美的小脸上没有任何情绪，圆睁着清水般的双眼，盯着面前这个看似很熟悉的长辈，倔犟地抿着嘴唇，一句话都没有说。（未完待续）\n\n    更新 最快　小说t-xt天堂",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

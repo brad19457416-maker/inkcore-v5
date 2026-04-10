@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 841,
+  "chapter_title": "第十四章 难以入眠",
+  "filename": "ch_0841_第十四章 难以入眠.txt",
+  "char_count": 2190,
+  "timestamp": "2026-04-10T12:11:27.281829",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "来到了大泽上。\n　　这是一艘很普通的客船，和在大泽上四周巡游的南晋水师船舰相比小到可怜，甚至稍大些的风浪，便会让船荡的非常厉害。\n　　这种客船的速度很慢，要横穿大泽需要两天的时间，坐这种船的人，自然都是没有钱的普通百姓。看似茫茫无垠的大泽、迅速枯燥起来的湖景，加上气味难闻却无处躲避的船舱，让这些本就",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "。\n　　“钟家就这么一个成材的子弟，死的这么惨，反应强烈一些是自然之事，你的处置很得当，不能让他们的愤怒，破坏了清河难得的安宁。”\n　　崔老太爷把手伸进铜盆，缓慢地搓揉着被滚水泡烫的毛巾，有些疲惫的声音也渐渐被烫的舒展开来，说道：“但那两名僧人的身份一定要查出来。”\n　　清河郡诸阀对今夜的血案反应如",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "富春江畔的那些名园，因为钟大俊的离奇死亡，也变得紧张起来，尤其是随着后续的线索被查到，气氛更显压抑。\n　　“半个时辰前，那两名僧人上了南晋的官船，这时候应该已经到了湖上，就算用快艇去追，只怕也要到对岸才能追上。”\n　　崔看着老父亲脸上的皱纹，沉默片刻后说道：“钟家的反应很强烈，要求马上派人登船",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "始在阳州城里四处搜查，诸阀的武装显示出很强的控制能力，在很短的时间里，便查到了一些线索，然后举着火把来到城外的这座破庙。\n　　在破庙里，他们看到了满地鲜血和血泊中惨不忍睹的钟大俊，确认这位贵人已经没有呼吸后，所有人的脸上都写满了紧张和不安。\n　　富春江畔的那些名园，因为钟大俊的离奇死亡，也变得紧张起",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "追，只怕也要到对岸才能追上。”\n　　崔看着老父亲脸上的皱纹，沉默片刻后说道：“钟家的反应很强烈，要求马上派人登船去追，暂时被我压了下来。”\n　　这位崔阀的阀主，看上去就是一名普通的富翁，然而和他的父亲――清河郡真正的主宰者相比，依然显得还是不够沉稳。\n　　老太爷曾经做过一任大唐宰相，在清河郡拥有无上",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "书房里安静无声，老太爷颤颤巍巍走到案旁，端起温度正好的茶杯，搁至唇边浅浅饮着，满脸的皱纹里写满了忧虑。\n　　手里的茶杯在轻轻颤抖，澄黄的茶水漾成波浪，便如他此时的真实心情。知道钟大俊死讯后，他像过去的那些年里一样，表现的极为平静，然而谁能知道，他已经开始恐惧，开始不安。\n　　从在族学启蒙开始，他",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第十四章 难以入眠\n　　城守府里的人们，没有用多长时间便发现钟大俊被人掳走，开始在阳州城里四处搜查，诸阀的武装显示出很强的控制能力，在很短的时间里，便查到了一些线索，然后举着火把来到城外的这座破庙。\n　　在破庙里，他们看到了满地鲜血和",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "老太爷把滚烫的毛巾覆到脸上，沉默了很长时间。他觉得钟大俊的死应该另有隐情，却没有任何办法。\n　　“安静些，再安静些。”他苍老的声音穿过湿毛巾，混着热雾在安静的书房里不停回荡，“在这种时候，清河必须安静。”\n　　崔清楚父亲的担忧或者说恐惧来自何处，只是西陵神殿一日不能把唐国灭了，清河便要恐惧一日，再",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "应该已经到了湖上，就算用快艇去追，只怕也要到对岸才能追上。”\n　　崔看着老父亲脸上的皱纹，沉默片刻后说道：“钟家的反应很强烈，要求马上派人登船去追，暂时被我压了下来。”\n　　这位崔阀的阀主，看上去就是一名普通的富翁，然而和他的父亲――清河郡真正的主宰者相比，依然显得还是不够沉稳。\n　　老太爷曾经做过",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

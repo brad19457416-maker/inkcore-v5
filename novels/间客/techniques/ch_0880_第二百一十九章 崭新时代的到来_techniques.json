@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 880,
+  "chapter_title": "第二百一十九章 崭新时代的到来",
+  "filename": "ch_0880_第二百一十九章 崭新时代的到来.txt",
+  "char_count": 3613,
+  "timestamp": "2026-04-10T12:05:17.608708",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "力的钢琴重音从电视里传了出来，随着钢琴曲的进行，铿锵的旋律变得越来越凝重，仿佛黑色的云层笼罩了城市的天空，将要飘下被硝烟涂成铅色的 雪花，一股极深沉的危机盛油然而生，就在这种令人压抑的气氛中，低沉严肃带着浓郁悲悯味道的画外音响起。\n\n    “这是三十六宪历的最后几年，凶残的帝国皇族，再次启动极不人",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "锵的旋律变得越来越凝重，仿佛黑色的云层笼罩了城市的天空，将要飘下被硝烟涂成铅色的 雪花，一股极深沉的危机盛油然而生，就在这种令人压抑的气氛中，低沉严肃带着浓郁悲悯味道的画外音响起。\n\n    “这是三十六宪历的最后几年，凶残的帝国皇族，再次启动极不人道的强行穿越通道计划，凶猛的空间湍流，他们无法掌握",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "者们，还有没有资格站在舞台后方欣赏或者冷眼旁观聚光灯下的演出。\n\n    深秋的议会山，正在召开闭门秘密听证会，除了管理委员会的数百名议员外，哪怕是他们最亲密的下属，也被强制要求离开。\n\n    这场秘密听证会与那部纪录片无关，与已经被抛进深测的麦德林无关，只与一名叫做许乐的联邦上校有关。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "黑色的云层笼罩了城市的天空，将要飘下被硝烟涂成铅色的 雪花，一股极深沉的危机盛油然而生，就在这种令人压抑的气氛中，低沉严肃带着浓郁悲悯味道的画外音响起。\n\n    “这是三十六宪历的最后几年，凶残的帝国皇族，再次启动极不人道的强行穿越通道计划，凶猛的空间湍流，他们无法掌握的扭率数据监控，让穿越空间通",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "层层相迭的林木随着起伏的湖水，泛成不似人间的绝 美画面。\n\n    沈大秘书站在那把高背椅后方，轻声说道：“利缘宫先生刚刚来了电话，他不明白政府为什么会选在这个时间段，宣传这件事情，想询问您有什么看法。”\n\n    “那个喜欢戴滑稽圆帽的老头子，可不是没文化的滑稽戏演员，看来真是装老糊涂装成了习惯。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "的目光。\n\n    在沉就数年之后，联邦政府开始解密帝国种子计划，向联邦民众正面前述麦德林事件，虽然社会中早有这方面的隐约传闻，但绝大多数普通民众依然被纪录片所描述的故事震惊的难以言语。\n\n    已经快要被很多人连忘的苍老白议员，重新回到众人的记忆中时，竟然已经不再是一名毕生致力于联邦大和解，反对",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "。至于邰老局长所说的一个时代结束，自然指的不是许乐。\n\n    那个时代指的是当年那位真正心怀联邦，最终病逝在任上的前总统，军神李匹夫，邰夫人和她的丈夫，老局长，或者还包括那个流浪在星辰间的男人，由这些人构成的联邦过往。\n\n    随着帕布尔政府的强势崛起，随着钟瘦虎的死亡，随着许乐马上将要到来的死",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "通民众依然被纪录片所描述的故事震惊的难以言语。\n\n    已经快要被很多人连忘的苍老白议员，重新回到众人的记忆中时，竟然已经不再是一名毕生致力于联邦大和解，反对暴力的慈祥和平主义战士，而是变成了帝国人可怕阴谋的险恶执行者 ！\n\n    根据纪录片的描述，在前任总统、帕布尔总统、宪章局及光荣的联邦军队",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "碎，想到自己来日无多，能够不在脸上流露出失望情绪已经不易，哪里还有心情理会旁的事情。\n\n    正在愤怒指责政府和总统，嘲讽怒斥国家安全顾问的议员先生们并不欣赏许乐上校，甚至无比厌恶或者说恐惧，今天议会山上有好几个空荡荡的座位，不时提醒众人，这些座位的主人就是死在许乐和他同伴的枪下。\n\n    但如",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "要什么，只能被动的去吃，直到最后被喂成白痴。”\n\n    沈离沉就地站在 夫人身后，回忆着书籍上曾经出现过的类似的论点，只是觉得这种话出自夫人的口，感觉实在有些怪异，沉就片刻后说道：“现在看起来，所有问题都集中到一点上，许乐上校究竟是不是帝国的种子。”\n\n    邰夫人没有回答这个问题，沉就望着深秋",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "件，至 于议会山和连续多场暗杀，更是需要被彻底忘记。”\n\n    “当然，以帕布尔隐藏在身体里的真实性格，如今既然成功连任，想来非常愿意撕掉麦德林最后的外衣，将那个死人踢倒在地再踩上两脚，元论怎么看，麦德林都是他从政以来遇到的最麻烦的对手。“纪录片 里莽没有提到许乐上校，如果他真的是帝国种子……",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "辰间的男人，由这些人构成的联邦过往。\n\n    随着帕布尔政府的强势崛起，随着钟瘦虎的死亡，随着许乐马上将要到来的死亡，一个全新的时代，让人完全看不清楚前景，不知是好是坏的时代就此掀开了帷幕。\n\n    邰夫人起身离开露台，她的背影看上去依然年轻，只是不知道在这个新时代里，她和那些大家族的统治者们，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "重要数据带回帝国前，联邦政府英明地识破了他的险恶用心，将其击毙于环山四州和平基金会大楼。\n\n    同时，因为还有很多帝国种子险恶地潜伏在联邦内部，为了防止惊动他们及邪恶的帝国方面，所以政府进行了严密的情报封锁，没有将这个信息通知联邦民众，直到最近联邦已经确认清洗完全成功，该行动才正式解密。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "做《帝国的种子》，由著名导演白泽明执导，今天正式开始在联邦新闻频道上播出。\n\n    随着低沉画外音忧虑的描述，电视光幕上 出 现天真婴儿在联邦某处民房内玩耍的场景，包括最开始时帝国飞船强行突破空间通道，这些画面前是由导演凭借想像完成，但这并不影响这部纪录片所要达到的效果，仅仅是一个开头，便成功地捕",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "接受事物需要一个过程，不然很容易产 生质疑甚至是反动。一旦他们彻底接受麦德林是帝国人的事实，那么 当日后现那位联邦英雄也是帝国人，再接受起来会简单很多。”\n\n    “帕布尔，或者是别的能够影响或者控制舆论的人，其实都是在做同样的事情。用足够美味又没有什么危险性的信息去喂食民众，就像百慕大那边的农场",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "死亡，一个全新的时代，让人完全看不清楚前景，不知是好是坏的时代就此掀开了帷幕。\n\n    邰夫人起身离开露台，她的背影看上去依然年轻，只是不知道在这个新时代里，她和那些大家族的统治者们，还有没有资格站在舞台后方欣赏或者冷眼旁观聚光灯下的演出。\n\n    深秋的议会山，正在召开闭门秘密听证会，除了管理",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

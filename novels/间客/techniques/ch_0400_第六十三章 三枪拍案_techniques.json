@@ -1,0 +1,63 @@
+{
+  "novel": "间客",
+  "chapter_number": 400,
+  "chapter_title": "第六十三章 三枪拍案",
+  "filename": "ch_0400_第六十三章 三枪拍案.txt",
+  "char_count": 628,
+  "timestamp": "2026-04-10T12:04:59.253994",
+  "techniques_count": 4,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。\n\n    许乐没有被枪手拔枪时的神姿震慑，因为他根本都没有看到当枪手的右肩初动时，他的左腿上肌肉瞬间丝般纠缠，爆出极大的力量，震的自己的身体向右一斜，猛地冲向对方的身体。\n\n    山崖，古松，照壁，小眼睛男人如灰色矫龙，挟烈日暑风突击，身形微颤，眨眼间已连冲三米！\n\n    只要让许乐靠近身体",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "枪手举枪的动作很自然流畅，甚至很美，就像是重的修艺一般，令看到这一幕的人们，甚至完全会忽视他手里拿的究竟是什么。\n\n    清脆中略带糙意的枪声，在午后炽热的半山崖古松下响起，黑洞洞枪管里喷出的高速子弹，冷酷地射向许乐的胸膛。\n\n    许乐没有被枪手拔枪时的神姿震慑，因为他根本都没有看到当枪手的右",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "十三章 三枪拍案 \n\n    枪手举枪的动作很自然流畅，甚至很美，就像是重的修艺一般，令看到这一幕的人们，甚至完全会忽视他手里拿的究竟是什么。\n\n    清脆中略带糙意的枪声，在午后炽热的半山崖古松下响起，黑洞洞枪管里喷出的高速子弹，冷酷地射向许乐的胸膛。\n\n    许乐没有被枪手拔枪时的神姿震慑，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "自己的身体向右一斜，猛地冲向对方的身体。\n\n    山崖，古松，照壁，小眼睛男人如灰色矫龙，挟烈日暑风突击，身形微颤，眨眼间已连冲三米！\n\n    只要让许乐靠近身体，这个宇宙里并没有太多人能够做出有效的反制，这是无数铁血事实早已证明了的事情。很明显，这位伪装成林家工作人员的杀手也很清楚这一点……",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

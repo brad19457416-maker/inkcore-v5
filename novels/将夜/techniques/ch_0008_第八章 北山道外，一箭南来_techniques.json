@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 8,
+  "chapter_title": "第八章 北山道外，一箭南来",
+  "filename": "ch_0008_第八章 北山道外，一箭南来.txt",
+  "char_count": 2265,
+  "timestamp": "2026-04-10T12:11:03.392128",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "一片冰寒。\n　　她本是准备来找桑桑聊天，没想到却看到主仆二人收拾行李的这幕画面，很轻易便猜到他们想要离去。\n　　“你们想做什么。”她冷漠盯着宁缺的脸，说道：“在这种时刻，你的这种举动很难不令人怀疑。”\n　　宁缺沉默片刻后笑了起来，准备解释几句，忽然间他的耳廓微颤，脸颊上的酒窝消失不见，变成一路未见的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的高树，树叶尚未完全青绿招展，仍留着去年秋冬蕴积下来的肃杀之意。\n　　随着天地间的气温微降，一股紧张压抑的气氛也随之笼罩住了整个车队，所有人都清楚，长安城内那位胆敢谋害公主殿下的大人物，如果想要阻止公主殿下平安返回都城，那么在边塞与州郡之间的岷山，是他最后的机会。\n　　在紧张的警惕与搜寻中，车队行走",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "林深处，仔细倾听着那些呜鸣声里的细节，忽然大声吼道：“敌袭！”\n　　林风低鸣里的那丝杂音终于显现出了真相，一枝羽箭闪电般自林间袭来，呜呜凄啸，射向车阵中那辆华贵的马车！",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "廷出动大批军队接应，但那位使者却拥有足够多的时间去联络忠于她的部属。\n　　十天前接到固山郡方面传回的紧急回执后，她毫不犹豫决定直入北山道，是因为她相信固山郡那位年轻的都尉华山岳，应该已经率领他的亲兵营快要抵达北山道的南麓出口。\n　　离开大唐不过一年，她坚信那些忠于自己的部属依然忠于自己，就算有些人被",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "山道口外，没有密林遮蔽，沐浴在最后的暮光之中，暖洋洋地极为舒服，但此刻却像是染上了一层血红。\n　　有风穿行于刚刚在春天苏醒的林间，呼啸低鸣，像是有幽魂在哭泣，宁缺蹙着眉头望着密林深处，仔细倾听着那些呜鸣声里的细节，忽然大声吼道：“敌袭！”\n　　林风低鸣里的那丝杂音终于显现出了真相，一枝羽箭闪电般自林",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "决定，宁肯把接应地点放在某条大道上，也不会放在松果岭。”\n　　宁缺看着手绘地图上刚刚标注的醒目墨点，说道：“他们选择从北山道走，却不想想那里虽然是条单路，但有七里长的路途两旁全部都是密林，极易设伏。”\n　　说完这句话，他沉默了片刻，把手绘地图放入衣内，摇头自嘲说道：“看来所谓向导，除了把他们带进北山",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "果我们两个把小命放在这群白痴手里，就没有任何可能了。”\n　　……\n　　……\n　　愈往南气候愈温暖，按道理来说车窗外的景色也应该越鲜活青葱，但因为队伍进入茫茫岷山地势渐高的缘故，车队四周的青草渐隐，变成了夹道相迎的高树，树叶尚未完全青绿招展，仍留着去年秋冬蕴积下来的肃杀之意。\n　　随着天地间的气温微降",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "有七里长的路途两旁全部都是密林，极易设伏。”\n　　说完这句话，他沉默了片刻，把手绘地图放入衣内，摇头自嘲说道：“看来所谓向导，除了把他们带进北山道之外，更多的只不过是想迷惑敌人。那位白痴公主根本就没有相信过马将军，自然也不会相信我。”\n　　“一个白痴带着一群白痴。”想到可能在北山道里遇见的伏袭，想着",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "知道当夜色降临的那瞬间，就是和宁缺一起投奔茫茫岷山的时刻。她并不害怕，因为小时候她在宁缺的背上，曾经无数次穿行于这样的黑夜山林之中。\n　　就在这时，宁缺握着刀鞘的手微微一僵。\n　　简陋帐蓬的门帘被一只手掀开，那名婢女走了进来，清秀面容上的笑意顿时化作了一片冰寒。\n　　她本是准备来找桑桑聊天，没想到却",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "身后。\n　　桑桑也没有再多问什么，开始默默收拾行李，用小手测试每根羽箭的平直度，她知道当夜色降临的那瞬间，就是和宁缺一起投奔茫茫岷山的时刻。她并不害怕，因为小时候她在宁缺的背上，曾经无数次穿行于这样的黑夜山林之中。\n　　就在这时，宁缺握着刀鞘的手微微一僵。\n　　简陋帐蓬的门帘被一只手掀开，那名婢女走",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "东西，如果我们两个把小命放在这群白痴手里，就没有任何可能了。”\n　　……\n　　……\n　　愈往南气候愈温暖，按道理来说车窗外的景色也应该越鲜活青葱，但因为队伍进入茫茫岷山地势渐高的缘故，车队四周的青草渐隐，变成了夹道相迎的高树，树叶尚未完全青绿招展，仍留着去年秋冬蕴积下来的肃杀之意。\n　　随着天地间的",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

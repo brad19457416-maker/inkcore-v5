@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 82,
+  "chapter_title": "第二十一章 成人礼（上）",
+  "filename": "ch_0082_第二十一章 成人礼（上）.txt",
+  "char_count": 3282,
+  "timestamp": "2026-04-10T11:53:35.143292",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "次双月节舞会，恰好就是邰之源的**礼，只是整个联邦也没有几个人知道，或许有些有力的人物隐约嗅到了某种风声，却也永远不会查清楚真实的细节。\n\n    邰家的**礼，比其余大家族地**礼要早两年，选择在年轻人十八岁那一年的任何一天任何一场舞会上举办。而且很特别的是。邰家的**礼，是一次关于爱情和男女的试",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "离他太远了，他不明白为什么下属们总还把自己当什么太子看待，在他看来，一个民主的社会里，根本就不应该还存在这种思考模式。\n\n    今天邰夫人的话，让邰之源对自己的身份和早已计划好的光辉未来有了更明确的认知。那股自幼伴随着他的压力，似乎变成了实质，溢满了整个房间，让他有些呼吸困难。他闭着眼睛沉默了很久",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "年校园生活的女伴。在邰之源看来，这种做法无疑像极了一句俗话，脱了裤子放屁。\n\n    邰之源在联邦的社会里生活长大，阅读的书籍，看的电视全部是这个时代的内容，虽然自幼生长的环境富且贵到了极致，所受的教育和一般的同龄人完全不同，有远超出年龄的成熟冷静，也有一颗勇于承担家**责任的心，但终究还是无法适应",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，与当年和父亲的关系完全不同，但他心里清楚，母亲一切都是在为他考虑，他是个孝顺的儿子，不愿意让邰夫人担心自己的身体。\n\n    距离双月节舞会还有两天，邰之源在正午的秋日阳光中陷入了沉默。他不在乎那个舞会，郁子跑到梨花大学为了什么，他很清楚，他有些厌烦以某种既定的面目出现在那些认识自己的人面前，因为",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "结果。\n\n    而更多的人却是在这个过程中无味的发现，原来那些在青春萌动的少男眼中不可接触地冰山美人们，在邰家恐怖的权势面前，都会变成令他们伤感的顺伏绵羊，在这个过程中。他们才明白，所谓爱情，原来并不是自己想像中的那般圣洁。\n\n    邰家先祖定下这个古怪的规矩，本来就是想让他的雄性子孙们知道，爱",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，但总不可能真的嫁给一个癞蛤蟆。\n\n    正午的秋日阳光透过玻璃落在许乐的身上，发呆的他感到了一丝温暖，然后他的手机响了，弹出的薄屏上没有显示号码或是地区。他疑惑地接通，然后听到了那个最近经常听到的声音，接着他陷入了难以言表的惊愕情绪。\n\n    要找妓院做什么？许乐不知道那个姓邰的小子是不是脑子",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "再过两天就是双月节的舞会了。”光屏里的妇人明显没有因为独生子微微嘲讽的语气而动怒，微笑说道：“我和你父亲就是在那个舞会上遇到的，我希望你也有你父亲那样的好运气。孩子，好好享受吧，寒假的时候见。”\n\n    邰之源笑着回答道：“我可不认为父亲的运气不错。”这是身为儿子可以开的玩笑，他在心",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "静，也有一颗勇于承担家**责任的心，但终究还是无法适应很多细节。\\远古皇族的光芒离他太远了，他不明白为什么下属们总还把自己当什么太子看待，在他看来，一个民主的社会里，根本就不应该还存在这种思考模式。\n\n    今天邰夫人的话，让邰之源对自己的身份和早已计划好的光辉未来有了更明确的认知。那股自幼伴随着",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "会能够拒绝邰家后人地邀请，哪怕有些人根本不知道他是谁，不知道他代表着联邦最古老最尊贵家族的历史，但在日后无限财富与权力所营造的梦幻环境中。=她们都会沉沦进去。\n\n    爱情在这个故事里从来不是主角，或者说爱情本身就是可以被计划出来的，就像代表着联邦精神与民众权力的总统一样。\n\n    很奇妙地是，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "日阳光中陷入了沉默。他不在乎那个舞会，郁子跑到梨花大学为了什么，他很清楚，他有些厌烦以某种既定的面目出现在那些认识自己的人面前，因为他不喜欢被那些人围绕在最中心的位置。\n\n    按照双月节舞会的惯例，自己应该在二楼，俯视着楼下那些翩然起舞的男男女女。他会在舞会中的异性里挑选一个自己最喜欢地，然后温",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "所谓爱情，原来并不是自己想像中的那般圣洁。\n\n    邰家先祖定下这个古怪的规矩，本来就是想让他的雄性子孙们知道，爱情是一种可以用金钱和权势购买的物品，从而才能让他们不会在以后的人生中，因为男女的事情犯下不可挽回地错误。\n\n    邰之源是幸运地，因为七代单传的原因，又或许是因为他地父亲母亲是难得的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "了很久，然后拿起了专属自己的手机，拔通了一个号码。\n\n    这个号码那个家伙只说了一次，邰之源便很轻松地记住了，他本以为自己这一辈子都不会拔这个号码，没想到刚刚过去半天，却已经改变了主意。\n\n    “今天晚上不要带宵夜，带一身衣服。另外，你知不知道临海州里有什么安静一点儿的……妓院？”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "他会在舞会中的异性里挑选一个自己最喜欢地，然后温柔地发出邀请，希望她能成为自己某一个时间段内的密友。同时结束维系了十八年的处男生涯。\n\n    是的，按照邰家传承了无数年的惯例，这一次双月节舞会，恰好就是邰之源的**礼，只是整个联邦也没有几个人知道，或许有些有力的人物隐约嗅到了某种风声，却也永远不会",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "半天，却已经改变了主意。\n\n    “今天晚上不要带宵夜，带一身衣服。另外，你知不知道临海州里有什么安静一点儿的……妓院？”\n\n    “不用。”\n\n    “谢谢。”\n\n    挂断了电话，邰之源闭目养神，等着夜晚和明天的到来。他是一个自律而有责任感的世家后代，虽然对身周的氛围和母亲的安排偶有排斥",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

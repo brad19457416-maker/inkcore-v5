@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 343,
+  "chapter_title": "第二十五章 铁七师的故事（上）",
+  "filename": "ch_0343_第二十五章 铁七师的故事（上）.txt",
+  "char_count": 3769,
+  "timestamp": "2026-04-10T12:04:59.253607",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "居然还有五名铁七师的军官。\n\n    联邦专门组织了一次反恐大演习，精挑细选出了三十几名军官参加这次秘密的封闭集训，就是希望这些人在将来地战争中，能够**地撑起一方战局，然而仅仅一个铁七师，便占据了其中七个名额！\n\n    联邦军方有多少个师？铁七师一个师便占据了其中五分之一的份额。许乐心中生出无穷",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "生的许乐，不由赞叹了一声：“酒不醉人人自醉……师生之谊，师生之义，你教出了这么多联邦未来的中流砥柱，日后沙场之上，这又该是多么雄厚的资本？”\n\n    不知道是怎样的情绪，让许乐觉得食堂里充满了一种庄严而又热烈的\n\n    他喝了近两斤烈酒，醉意早已入脑，眯眼看着不远处人生巅峰的军官们，想着或许再过",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "洽。然而周玉此举，却似乎要将某种界线打破。\n\n    周玉微笑着低下身体，与许乐面前的小酒杯碰了碰，说道：“这两个多月，你悉心教导，他们其实心中也自感激，只是放不下面子过来。”\n\n    许乐不再去想铁七师地事情，自嘲一笑说道：“只是工作而已。”\n\n    周玉曾经在果壳工程部里全程跟踪mx机甲的研",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，眯眼看着不远处人生巅峰的军官们，想着或许再过些日子，他们便将随着各自的部队开往前线，在与帝国侵略的战斗当中，泼洒自己的热血，换取联邦民众的安宁，这些或胖或瘦，或美或丑的面容，也许以后再也无法得见……\n\n    一念及此，热血涌入他的胸膛。\n\n    如果换成别的人，或许此时会拍案而起，召集军官来自",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "许乐觉得食堂里充满了一种庄严而又热烈的\n\n    他喝了近两斤烈酒，醉意早已入脑，眯眼看着不远处人生巅峰的军官们，想着或许再过些日子，他们便将随着各自的部队开往前线，在与帝国侵略的战斗当中，泼洒自己的热血，换取联邦民众的安宁，这些或胖或瘦，或美或丑的面容，也许以后再也无法得见……\n\n    一念及此",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "晓龙询问一下铁七师的底细时，正在闹酒的军官们却安静了下来，因为周玉此时端了一杯酒，向着角落这桌行来，众人安静地注视着这一幕。\n\n    众人欢笑饮酒，许乐独坐一角，这算不上是刻意地排挤，只是教官与学员之间的天然界线，而且这几个月双方相处的并不是太融洽。然而周玉此举，却似乎要将某种界线打破。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "耀宇宙，直到军神李匹夫横空出师，第一军区十七装甲师才完全压倒该师，奠定了联邦第一师的地位。而曾经无限风光的铁七师由于某些方面的原因，却逐渐的消失于联邦民众的记忆之中。\n\n    “这是为什么呢？”许乐紧紧握着酒瓶，认真地听着兰晓龙的讲述，心情随着这些铁血历史波动，对铁七师这个名字的警惕抵触，渐渐化为",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "一部记录铁七师狙击实况的惨烈录影。在联邦内部引了轩然大波，当时已经初显威力的老兵协会，组织了一场名为愤怒的大游行，直接将议会山和总统官邸包围了起来。\n\n    在这种压力下，联邦军方不得已撤回了取消第七师番号的命令，转而大肆宣扬，开始重建，无论是装备还是人员都按照绝对王牌的地位拨划，并且授予该机械师",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，让许乐觉得食堂里充满了一种庄严而又热烈的\n\n    他喝了近两斤烈酒，醉意早已入脑，眯眼看着不远处人生巅峰的军官们，想着或许再过些日子，他们便将随着各自的部队开往前线，在与帝国侵略的战斗当中，泼洒自己的热血，换取联邦民众的安宁，这些或胖或瘦，或美或丑的面容，也许以后再也无法得见……\n\n    一念",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "第二十五章 铁七师的故事（上） \n\n    长杜少卿。\n\n    许乐对这个名字陌生却又熟悉。在这些天之前，他根本不知道第三军区有一个打不烂的铁七师，更不知道铁七师的师长叫杜少卿。但经过邹郁在电话中的警告，他对这个名字已经生出一股天然的警惕感。\n\n    杜少卿，这三个字写起来瘦",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "多月，你悉心教导，他们其实心中也自感激，只是放不下面子过来。”\n\n    许乐不再去想铁七师地事情，自嘲一笑说道：“只是工作而已。”\n\n    周玉曾经在果壳工程部里全程跟踪mx机甲的研制工作，自然清楚许乐这两个月真的是倾尽所有，将自己对mx机甲的全部认识，都教给了这些军官。\n\n    联邦军方本来",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "令许乐震惊的并不是这种怪异的气氛，而是兰晓龙地提醒。\n\n    他本以为铁七师只是送了两名军官来到基地受训，此时都已经被自己打到了陆军总医院，却没有想到基地里居然还有五名铁七师的军官。\n\n    联邦专门组织了一次反恐大演习，精挑细选出了三十几名军官参加这次秘密的封闭集训，就是希望这些人在将来",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "地规矩。所以不理解今天对方为什么要打破这个规矩。\n\n    周玉似乎猜到他在想什么。温润一笑说道：“马上就要毕业。不用再管什么。旁人如何不论。我总要谢谢你。”\n\n    “你是最不用谢我地人。以你对mx地了解。就算没有这些课程。你也能马上掌握。”许乐一口喝尽杯中酒。胸口微感辛辣。吐了口酒气。抿唇笑着",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "了两眉弯弯的月儿，双方目光彼此相投，说不出的默契。\n\n    兰晓龙一直微笑着在旁边替许乐斟酒，酒杯从来就没有空过，一轮敬酒下来，他提过来的两瓶烈酒早已喝完。\n\n    桌旁人群渐散，兰晓龙看着醉意渐生的许乐，不由赞叹了一声：“酒不醉人人自醉……师生之谊，师生之义，你教出了这么多联邦未来的中流砥柱，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，可……那只是一位师长而已。\n\n    就在他准备向兰晓龙询问一下铁七师的底细时，正在闹酒的军官们却安静了下来，因为周玉此时端了一杯酒，向着角落这桌行来，众人安静地注视着这一幕。\n\n    众人欢笑饮酒，许乐独坐一角，这算不上是刻意地排挤，只是教官与学员之间的天然界线，而且这几个月双方相处的并不是太",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

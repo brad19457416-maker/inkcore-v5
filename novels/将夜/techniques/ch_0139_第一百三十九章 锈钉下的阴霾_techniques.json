@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 139,
+  "chapter_title": "第一百三十九章 锈钉下的阴霾",
+  "filename": "ch_0139_第一百三十九章 锈钉下的阴霾.txt",
+  "char_count": 3265,
+  "timestamp": "2026-04-10T12:11:12.029823",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "背起来。\n　　既不能用军部和夏侯大将军的名义，事后若有不协还要去背这黑锅，林零脸上浮现出苦涩的笑容，心想这长安城里的官员，无论是前些日子打交道的书笔吏，还是今日纡尊降贵亲自前来的府尹大人，怎么都是这般滑不留手？\n　　如果换作别等情况，林零断然不肯背这黑锅，没有军部和大将军两面旗帜护在身上，纵使他是位",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "围在棺木旁的官员衙役们齐齐屏住了呼吸，上官扬羽的眉头蹙的愈发厉害，随着仵作手中尖嘴铁钳的动作，众人的身体越来越紧张僵硬。\n　　如同从骨中抽出一把锈刀，喀吱刺耳恐怖的声音从棺内响起，仵作额头上满是大汗，一手隔布按着尸骸头颅防止被自己扯掉，一手缓慢用力，终于拔出了那根隐藏在御史遗骸头颅里的硬物。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的官员衙役们齐齐屏住了呼吸，上官扬羽的眉头蹙的愈发厉害，随着仵作手中尖嘴铁钳的动作，众人的身体越来越紧张僵硬。\n　　如同从骨中抽出一把锈刀，喀吱刺耳恐怖的声音从棺内响起，仵作额头上满是大汗，一手隔布按着尸骸头颅防止被自己扯掉，一手缓慢用力，终于拔出了那根隐藏在御史遗骸头颅里的硬物。\n　　那是一根极长",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "下的阴霾\n　　因为蹙着眉头的缘故，上官扬羽大人的两只三角眼显得更加难看。他轻捋颌下疏须，看着林零厌憎说道：“虽说你从军部那里拿来了回京令文，天枢处也证明了你的身份，本府自然不会治你私离军营之罪，但你应该清楚，此案早已了结多日，为了你那些莫须有的言辞便要开棺重验，这又是何种说法？”\n　　听这言语便知道",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "只是发现了一些疑点，所以才会告知长安府，我想大人既然愿意来墓园，自然便也是有几分意思，只是不知道大人究竟有何事情需要卑职注意小心，还请大人直言。”\n　　上官扬羽面色稍霁，轻捋疏须沉忖片刻后，面无表情说道：“任何案情有疑点，无论是御史还是普通民姓，本府代陛下管辖长安城官民之事，自然都要认真研判，只是你",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "是书院二层楼开启之日，也正是他决意凛然一搏之时。\n　　这一天春和景明，书院诸生为了替谢承运等术科六人进入二层楼壮行助威，前往某清贵食居饮宴，其中便有被司徒依兰强行拉来的他。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "况，林零断然不肯背这黑锅，没有军部和大将军两面旗帜护在身上，纵使他是位洞玄境的大念师，面对着御史宅的愤怒也会有些麻烦，然而大将军严命在前，他又非常确定墓中遗骸确实有问题，所以沉默思考片刻后，看着上官扬羽大人重重一点头，说道：“如大人所愿。”\n　　“很好。”上官扬羽表情平静，内心深处却开始感觉到焦虑情",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，冷笑一声提醒说道：“墓中葬的是御史，即便案情有变，也是都城治安的问题，本府若不发话，即便是军部也没道理横插一手，莫非是要本府去御前和你家大将军打官司？”\n　　林零想着临行前军师的叮嘱，看着这位长安府尹，忽然想明白了一些事情，微笑说道：“大人，卑职只是发现了一些疑点，所以才会告知长安府，我想大人既然",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "毛皮和下方似稀泥般的头皮，然后用清水泼在微微黄白的头盖骨，拿布片擦拭了数下。\n　　一个很细微的小创口出现在头盖骨顶端，上面积着不知道是污血还是凝着的腐肉，随着布片擦拭和清水的冲洗，变得越来越清晰，直至能够看到创口里的东西。\n　　围在棺木旁的官员衙役们齐齐屏住了呼吸，上官扬羽的眉头蹙的愈发厉害，随着仵",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "后无论开棺结果如何，在没有找到值得怀疑的真凶之前，都只能暗中调查，尤其是不可以让御史府中那位夫人听到风声。”\n　　一位属官听着这话，在旁为难说道：“大人，若要开棺验尸，总要通知御史府一声才行，不然若日后打起官司来，咱们很难占着道理。”\n　　上官扬羽听着下属的劝告也不接话，只是依旧静静看着林零，这份作",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "到风声。”\n　　一位属官听着这话，在旁为难说道：“大人，若要开棺验尸，总要通知御史府一声才行，不然若日后打起官司来，咱们很难占着道理。”\n　　上官扬羽听着下属的劝告也不接话，只是依旧静静看着林零，这份作派表达的意思很清楚，不问苦主而开棺这面黑锅，也得由你们那边背起来。\n　　既不能用军部和夏侯大将军的",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "史的指挥下，将昨日才被家人打理干净的墓堆，变成了一片嘈乱的工地。\n　　坟墓被从后部打开，微湿的墓穴间安静躺着一具乌黑的棺木，工人们架木于墓上，系上七道绳索，喊着口子，用了很长时间才把沉重的棺木吊了起来。\n　　随着棺木被启开，上官扬羽动作奇快用手绢捂住了鼻子，片刻后才发现，并没有闻到什么扑鼻的恶臭，他",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

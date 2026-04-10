@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 731,
+  "chapter_title": "第一百一十二章 农夫的反击",
+  "filename": "ch_0731_第一百一十二章 农夫的反击.txt",
+  "char_count": 3419,
+  "timestamp": "2026-04-10T12:11:27.034703",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "将迎来一场屠杀。\n　　隆庆轻提马缰，向山坡下走去。\n　　农田里的麦穗，沉甸甸地挂着，金色的海洋，随秋风起舞。\n　　景色非常美丽。\n　　农田畔的农舍，已经被火点燃，黑烟渐起，隐隐能够听到唐人的惨叫声。\n　　隆庆想起了多年前，自已登书院二层楼失败后，悄然离开长安城的那天。\n　　那天他看到了唐国美丽的田园",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "进了山坳里的一处小村庄。\n　　这个小村庄远离官道，侥幸地避开了联军的大部队，周遭近处的难民，也走小道来到此地藏匿，如今竟是挤了百余人。\n　　这些难民绝大多数都是老弱妇孺，至于家中的男人，在他们的村子覆灭之时，已经全部死在与草原骑兵的战斗之中。\n　　草原骑兵把所有人集中，开始搜刮房间里的财物，只不过这",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "……\n　　杨二喜把身体藏在树后，紧握着手中的黄杨硬木弓，肩膀抵着树干，右脚脚掌轻轻踩着地面，显得有些紧张。\n　　和离开家的时候相比，他瘦了很多，也黑了很多，脸上乱糟糟长满了胡子，干枯的嘴唇上有几道血口，看上去很狼狈。\n　　蹄声渐至，那些草原骑兵向山林这边围来，他闪身出树，拉弓骤射，羽箭离弦而出，射中",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。\n　　这些难民绝大多数都是老弱妇孺，至于家中的男人，在他们的村子覆灭之时，已经全部死在与草原骑兵的战斗之中。\n　　草原骑兵把所有人集中，开始搜刮房间里的财物，只不过这个村子实在是有些偏僻，相对贫穷，所以他们的收获并不多。\n　　草原骑兵很是不满，恼怒地痛骂着什么。\n　　被集中在村子中央的老弱妇孺们，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "深处冲出，如狼似虎般杀向着草原骑兵！\n　　还活着的草原骑兵发出震惊愤怒的呼喊，脸上流露出恐惧的神情，拼命地拉动疆绳，想要掉转马头逃跑。\n　　如果能够听懂蛮话，就知道这些草原骑兵大喊的那个词是埋伏。\n　　他们以为自已中了唐军的埋伏。\n　　一百多人从山林里冲了出来，有的人穿着普通的棉衣，有人穿着绸衫，大",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "烧掉的，自已的爹爹就是被这些身上有难闻味道的坏人杀死的，所以她的目光充满了仇恨。\n　　一名草原骑兵正愤怒于今天的收获极少，忽然看着那个女童仇恨的眼光，顿时怒从心起，握着弯刀向人群走了过去。\n　　他举起手中的弯刀。\n　　人群里几名老人怒骂着站起身来，想要阻止他。\n　　但弯刀已经落下。\n　　那名女童没有",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "是昊天赐予我们的机会，如果不把握住，是会遭天谴的。”\n　　一名将领说道：“就算攻到长安城下……也没有意义，谁都知道，长安城是不可能被攻破的，到时候我们又该怎么办？”\n　　“这个世界上就没有无法攻破的雄城。”\n　　隆庆没有做更多的解释，当今世间，只有包括他在内的寥寥数人，知道西陵神殿的真实计划，金帐王",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "仇恨。\n　　一名草原骑兵正愤怒于今天的收获极少，忽然看着那个女童仇恨的眼光，顿时怒从心起，握着弯刀向人群走了过去。\n　　他举起手中的弯刀。\n　　人群里几名老人怒骂着站起身来，想要阻止他。\n　　但弯刀已经落下。\n　　那名女童没有被砍死。\n　　因为弯刀落在了地上，发出一声清脆的撞击声。\n　　那名草原骑兵",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "是农夫。\n　　但当大唐需要他们的时候，他们就是唐军。\n　　……\n　　……\n　　杨二喜把一名草原骑兵从马上砸到地面，然后健步上前，双手一翻，沉重的草叉在空中画了一道弧线，狠狠地戳进对方的胸膛。\n　　然后他走上前去，伸出右脚踩住那名草原骑兵的身体，双手用力向外一拔，只听得噗的一声响，那名骑兵的胸口上便多",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "长安城里那对姐弟连接犯错，当然就算他们一点错都不犯，也不可能坚持下去，因为这是天要灭唐。”\n　　隆庆说道：“如今唐国四面受敌，我们的身前没有任何唐军，长安城空虚无防，正是昊天赐予我们的机会，如果不把握住，是会遭天谴的。”\n　　一名将领说道：“就算攻到长安城下……也没有意义，谁都知道，长安城是不可能被",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "有些不同看法。\n　　唐国千年不败的威名，在这些将领心中留下了无法抹灭的恐惧，此时虽然战事顺利，但他们从来没有奢望过能够真地攻破长安城，包括那些草原骑兵也是如此。他们认为在唐国的土地上抢掠快活一番，便应该撤走，以防止唐人的反击和报复。\n　　“如今的唐国不是曾经的唐国，长安城里那对姐弟连接犯错，当然就算",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "登书院二层楼失败后，悄然离开长安城的那天。\n　　那天他看到了唐国美丽的田园风光，漆成诸色的农舍，平静幸福生活的唐人。当时他就发誓，总有一天会杀回唐国，把所有这一切烧干净。\n　　他让将领去整肃军纪，不是对唐人心生怜悯，只是行军的需要。事实上，他认为被焚烧被屠杀的画面才是真正美丽的风景。\n　　隆庆露在银",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

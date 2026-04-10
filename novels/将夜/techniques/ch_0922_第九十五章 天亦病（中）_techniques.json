@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 922,
+  "chapter_title": "第九十五章 天亦病（中）",
+  "filename": "ch_0922_第九十五章 天亦病（中）.txt",
+  "char_count": 3641,
+  "timestamp": "2026-04-10T12:11:27.495616",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，但他们怎么也想不到，接下来会发生什么事情。\n　　那道昊天神辉，直接落到了红衣神官自己的身上！\n　　众人惊愕，不知道发生了什么事情，有的愚痴之辈还以为这是神官最新领悟的神术，直到他们发现火焰里大人显得极为痛苦！\n　　红衣神官在火焰里拼命地挣扎，想要逃离，想要躺到地上扑熄身上的火，然而除了可笑的挣扎，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "。\n　　他看着中年神官和宁缺，还有那辆看似普通的马车，神情漠然地缓缓举起双臂，掌心对着不停落雨的灰色天空。\n　　“我不管你们是谁，但这里是昊天的神殿！就让本座以昊天的名义，用最圣洁的神辉，把你们送至幽冥的最深处吧！”\n　　话音落处，一道神辉从红衣神官的掌间缓缓生出。\n　　宁缺发现这道昊天神辉非常精纯",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "外人眼中很难理解，对于道门来说，更是无法忍受的背叛。\n　　西陵神殿震怒，尤其是掌教等大人物，对此更是愤怒到了极点，于是一场血腥的清洗惩处，便在道门内部悄无声息开始，短短数月时间里，不知道死了多少人，更恐怖的是外界竟是一点风声都不知道。\n　　陈村死后，齐国道殿转到掌教宠信的某位红衣神官手中，忠于老神官",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "话音落处，一道神辉从红衣神官的掌间缓缓生出。\n　　宁缺发现这道昊天神辉非常精纯，不由有些意外，心想熊初墨清洗光明神殿，选择的人还真是有些能耐。\n　　看着那道圣洁的神辉，道殿里的数百名神官执事还有骑兵，脸上都流露出敬畏的神情，就连那几名捂着嘴巴浑身是血的家伙，都开始变得兴奋起来，但他们怎么也想不",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "章 天亦病（中）\n　　两年前在朝阳城，陈村等三位红衣神官，以神术自爆，助宁缺和桑桑逃出生天，在其后的逃亡旅途里，光明神殿的神官们，也一直在暗中帮助他们。当时的桑桑是冥王之女，这些人的行为，在外人眼中很难理解，对于道门来说，更是无法忍受的背叛。\n　　西陵神殿震怒，尤其是掌教等大人物，对此更是愤怒到了极",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "佛下一刻便会昏厥过去。\n　　但此时此刻，他怎能昏迷？中年神官咬破舌尖，强行用痛楚让自己清醒过来，然后拼命地把道殿的正门推开。\n　　道殿的正门很厚很沉重，他仿佛用上了全部的力量，牙齿格格作响，关节喀喀作响，脸上的神情似哭似笑，近乎癫狂。\n　　此时负责道门齐国事务的，是掌教宠信的那位红衣神官，负责殿门安",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "兵统领双膝跪下，雨水四溅。他对着桑桑的背影，以额重触湿漉的地面，根本不敢抬起。\n　　宁缺看着这名统领说道：“解决干净，不要太吵。”\n　　“是。”统领毫不犹豫应下，起身抽出鞘中的佩刀。\n　　在雨中待命的数百名西陵神殿骑兵，悄无声息涌入殿内。\n　　跪在雨中的人们，终于绝望了。\n　　……\n　　……\n　　（",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "以前的地位，比普通执事都不如，甚至就连看门的护卫都敢把他训斥的像条狗一样。\n　　中年神官本以为自己的人生就这样了，但他宁愿承受无尽的羞辱，也依然不肯离开道殿，因为他想替陈村继续看着这里，他想等待光明神殿的复苏，最重要的是，他在等待那年曾经来求药的那对年轻夫妻。\n　　信仰昊天的，必有福报，这是西陵神殿",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "起桑桑冷漠的声音：“进去。”\n　　去年春天，桃山上的光明神殿发生了变化，道门里有很多人都已经隐约猜到真相，中年神官身为光明神殿一系，更是如此。他在新任红衣神官的威压和那些执事的嘲笑中苦撑了又一年时间，便是因为他有希望。\n　　他知道宁缺和昊天之间的关系，听到车厢里响起的声音，脸色顿时变得极为苍白，身体",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，下意识里，用颤抖的手握着筷子，伸进汤里，想把那块已经半熟的舌头捞出来。\n　　这时，一道笔直的血线，出现在他的手腕上。\n　　他拿着筷子的右手，齐腕而断，落入沸腾的火锅汤里，溅起无数汤水。\n　　滚烫的汤水落在身上，他完全没有任何反应，因为他已经傻了。\n　　桌旁的那些执事护卫则被烫的哇哇乱叫，只不过他们",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的仿佛要散架，哪里能够站得起来？\n　　道殿外的风雨里忽然响起如雷般的蹄声。\n　　一名西陵神殿骑兵统领来到场间，浑身已然湿透。\n　　看着此人的盔甲，跪在雨水里的人们认出了他的身份，精神微振，眼中流露出希冀的神情，心想神殿骑兵必然是追击强敌而至。\n　　那名女子再如何强大，又如何能是神殿骑兵的对手？雨中的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "昏迷？中年神官咬破舌尖，强行用痛楚让自己清醒过来，然后拼命地把道殿的正门推开。\n　　道殿的正门很厚很沉重，他仿佛用上了全部的力量，牙齿格格作响，关节喀喀作响，脸上的神情似哭似笑，近乎癫狂。\n　　此时负责道门齐国事务的，是掌教宠信的那位红衣神官，负责殿门安全的执事亲卫，自然都是他的亲信，此时正在殿门后",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "上的火，然而除了可笑的挣扎，他什么动作都做不出来。\n　　圣洁的火焰在他的身上猛烈地燃烧，他身上的神袍瞬间便被烧成灰心，皮肤被烧裂，露出血色的肉，看着异常凄惨！\n　　昊天神辉的威能无比恐怖，只须瞬间，便可以把铜铁烧成汁液，更何况是人类的身躯，然而不知为何，那名红衣神官并没有瞬间死去……\n　　这更加恐怖",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "仇的火焰在熊熊燃烧。\n　　道殿里警钟大作，到处可以听到盔甲与兵器相撞的声音。\n　　行至道殿深处，马车缓缓停下，只见数百名神官执事还有全副武装的骑兵，从道殿四处涌了过来，形成了严密的包围。\n　　一名神态骄然的红衣神官，从人群里走了出来。\n　　他看着中年神官和宁缺，还有那辆看似普通的马车，神情漠然地缓缓",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "下的春雨，冲破了齐国都城高空上的那层雨云，然后落入都城的大街小巷，无数人家。\n　　齐国都城，数十万人同时听到春雨里传来了一声惨嚎！\n　　这声惨嚎饱含着无限的痛苦与后悔，无比清晰深刻，以至于听到惨嚎的人都觉得自己身上带着无数的罪孽，纷纷跪倒在地。\n　　道殿里的数百名神官执事和骑兵，更是如此。\n　　他们",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

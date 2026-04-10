@@ -1,0 +1,232 @@
+{
+  "novel": "将夜",
+  "chapter_number": 69,
+  "chapter_title": "第六十九章 花开彼岸天（下）",
+  "filename": "ch_0069_第六十九章 花开彼岸天（下）.txt",
+  "char_count": 3924,
+  "timestamp": "2026-04-10T12:11:11.981505",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "的眉头猛然挑起，手指极为无礼地在娘娘丰腴手腕上挠了一道，怔然转头向身后望去。\n　　皇后娘娘微微蹙眉，心想国师大人向来宁静温和，为何会如此失态。\n　　那道士怔怔看着那处，忽然间捶胸顿足干嚎道：“我错了，我真的错了，当年我就该劝陛下早些放小树离开，或者干脆就让他进书院……”\n　　“以夫子的能耐，以小树的",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "朝小树当然是重要角色，我喜欢，所以他肯定会回来或者说出现，另外提前剧透一个，皇帝是个好人，他不是传统意义上的强人，我也喜欢他。）",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "暗值日房的窗花，说道：“还能再问一个问题吗？”\n　　徐崇山干脆利落回答道：“能答的我就答。”\n　　“为什么是我？”宁缺问道。\n　　徐崇山回答道：“老朝很欣赏你，他认为如果你的运气再好些，将来成就甚至会在他之上，另外因为昨天夜里的事情，常三陈七他们也很看重你……按照侍卫处的规矩，无论是明处的人手还是暗",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "越快，仿佛马上便要崩断自己的肋骨跳将出来，而随着心脏跳动加速，视线中那些遥远的檐兽变得越来越清晰，被风雨吹洗了不知几百年的瓦石线条越来越灵动，似乎下一刻便会变成活物。\n　　他闷哼一声，捂住自己的胸口，不自禁想起那个雨天和桑桑初见长安朱雀像时的感觉，坚狠望着那些皇宫里的檐兽，脸色变得越来越苍白，却不肯",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的。”\n　　……\n　　……\n　　某处宫中，一位约摸四十岁左右的道士正在替皇后娘娘把脉，忽然间他的眉头猛然挑起，手指极为无礼地在娘娘丰腴手腕上挠了一道，怔然转头向身后望去。\n　　皇后娘娘微微蹙眉，心想国师大人向来宁静温和，为何会如此失态。\n　　那道士怔怔看着那处，忽然间捶胸顿足干嚎道：“我错了，我真的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "宁缺从震惊苦恼情绪中摆脱出来的速度极快，他挠了挠头，目光越过徐崇山厚实的肩头，穿过幽暗值日房的窗花，说道：“还能再问一个问题吗？”\n　　徐崇山干脆利落回答道：“能答的我就答。”\n　　“为什么是我？”宁缺问道。\n　　徐崇山回答道：“老朝很欣赏你，他认为如果你的运气再好些，将来成就甚至会在他之上，另外因",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "石线条越来越灵动，似乎下一刻便会变成活物。\n　　他闷哼一声，捂住自己的胸口，不自禁想起那个雨天和桑桑初见长安朱雀像时的感觉，坚狠望着那些皇宫里的檐兽，脸色变得越来越苍白，却不肯挪离目光。\n　　……\n　　……\n　　稍早时间的御书房内，暴发了一场极为激烈的争吵，侍卫副统领大人徐崇山和大内副总管林公公就像",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "御书房里受了笔墨毒品诱惑以及惊吓，但基于安全角度考虑，他最终还是紧紧闭上了嘴，老老实实跟着小太监穿过寂静无人的湖柳花径石门，坐上那辆逼仄马车，穿过洗衣局向宫外驶去。\n　　就在马上要穿过洗衣局那片宫巷建筑时，宁缺忽然偶有所感，胸口一阵发闷，顾不得身旁小太监表示警告的严厉眼色，掀起车窗帘帷一角，蹙眉向外",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "满恼怒，微微皱眉解释道：“大唐是个有规矩的地方，就算是宫里贵人知晓你的身份，也没有谁敢冒着陛下震怒的危险揭穿你。至于常三他们几个人……早已证明了自己的忠诚可靠。”\n　　宁缺放下手臂，摇头说道：“只有时间才是检验真理的唯一标准。”（注）\n　　“他们已经用十几年的时间证明了这一切。”徐崇山面无表情说道：",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "答。”\n　　“为什么是我？”宁缺问道。\n　　徐崇山回答道：“老朝很欣赏你，他认为如果你的运气再好些，将来成就甚至会在他之上，另外因为昨天夜里的事情，常三陈七他们也很看重你……按照侍卫处的规矩，无论是明处的人手还是暗侍卫，前辈的意见相对来说更重要一些。”\n　　“大人……”宁缺捂额说道：“如果这么多人知",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "虽然很想质问对方交待事情不清楚让自己在御书房里受了笔墨毒品诱惑以及惊吓，但基于安全角度考虑，他最终还是紧紧闭上了嘴，老老实实跟着小太监穿过寂静无人的湖柳花径石门，坐上那辆逼仄马车，穿过洗衣局向宫外驶去。\n　　就在马上要穿过洗衣局那片宫巷建筑时，宁缺忽然偶有所感，胸口一阵发闷，顾不得身旁小太监表",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "架的角落里，有人偷偷替他续了句“花开彼岸天”。\n　　忽然间他抬起头来，隔着窗户望向御花园的方向，眉头缓缓蹙起然后缓缓舒展开来，最终化为一片平静和解脱，淡淡自嘲说道：“也许你真是对的。”\n　　……\n　　……\n　　某处宫中，一位约摸四十岁左右的道士正在替皇后娘娘把脉，忽然间他的眉头猛然挑起，手指极为无礼",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "是给了朝小树天大的面子，谈完事情后，自然毫不犹豫地把对方赶走，然后赶紧跑回议政殿旁伺候着。\n　　宁缺走出空无一人的侍卫值日房，正忧愁自己该怎样出宫，呆会儿会不会像误入御书房那样，误入某处春柳宫院，遇着某宫怨冷妇，发生某些很操蛋的事情，或者会不会撞见某位被他定义为白痴但偶尔还是会想起的公主殿下……然后",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "声音，脸上都不敢流露出丝毫表情，因为这二位大人物内心深处此时都坐着个孙子，害怕恐惧疑惑震惊到了极点，同时觉得御书房里那位实在是太他妈有种了。\n　　大唐天启已有十三年，谁也没有见过皇帝陛下如此震怒，即便昨夜发生春风亭事件后，陛下也只是重重拍了几下桌子，骂了三十几句白痴，可今天御书房内的皇帝陛下不知摔碎",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "皇帝陛下摔碎了自己最珍爱的那方黄州沉泥砚，守在门外的徐崇山和林公公再也无法保持沉默，尤其是徐崇山十分担心陛下震怒之余会做出一些事后肯定会后悔的决定，抢前两步便准备叩门苦谏。\n　　就在这时御书房的门被吱呀一声推开，一袭青衫的朝小树平静跨过门槛走出，待身后房门重新关闭后，回身一掀长襟，双膝跪倒在地，极为",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "“按您先前所说，应该不会有人主动联络我，那么我有情况怎么向您汇报？我想以后见面应该不会是在宫里吧？我从来没有想像过，这种事情可以放在如此光明正大的地方进行。”\n　　“为什么不行？”徐崇山傲然说道：“全天下没有比我大唐皇宫更最安全的地方。”\n　　宁缺叹息一声，无奈地接受了事实，然后抬起头来，仰着脸满怀",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "开彼岸天”。\n　　忽然间他抬起头来，隔着窗户望向御花园的方向，眉头缓缓蹙起然后缓缓舒展开来，最终化为一片平静和解脱，淡淡自嘲说道：“也许你真是对的。”\n　　……\n　　……\n　　某处宫中，一位约摸四十岁左右的道士正在替皇后娘娘把脉，忽然间他的眉头猛然挑起，手指极为无礼地在娘娘丰腴手腕上挠了一道，怔然转",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

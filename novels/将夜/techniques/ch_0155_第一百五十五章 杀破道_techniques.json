@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 155,
+  "chapter_title": "第一百五十五章 杀破道",
+  "filename": "ch_0155_第一百五十五章 杀破道.txt",
+  "char_count": 6909,
+  "timestamp": "2026-04-10T12:11:11.974089",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "向北，他茫然随着旅人行走，在被那些好奇的大唐百姓询问过两次之后，他发现了这种危险，于一个深夜悄悄离开人群。\n　　在野外他没有遇到野兽，他可以拾起果子，他可以果腹，虽然饥饿永远陪伴着他，而当他面黄饥瘦从山林里穿出来时，已经快要抵达河北道境内，那时他再也不用担心被人识破自己的身份，因为道路两旁漫山遍野都",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "里，他被一群骨瘦如柴的饥民包围了，看服饰，这些饥民应该是来自燕北，燕国皇室无力救济，这些饥民很自然地来到了唐帝国境内。\n　　“可惜是个小孩子，身上没有几斤肉。”\n　　饥民看着浑身泥垢的小男孩儿，首领眼睛里泛着绿光，很像宁缺日后非常熟悉的狼，只是这匹狼自己也很瘦，而且皮毛溃烂的相当厉害。\n　　“我们没",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "！”\n　　屋外传来老猎户充满戾气怨恨的叫骂声，谁也不知道他的戾气怨恨来自于何处。\n　　桑桑抬起头来，紧张看着宁缺。\n　　宁缺正在偷吃老猎户忘了藏起来的肉，沉默片刻后点了点头。\n　　……\n　　……\n　　茫茫岷山内外是两个世界。\n　　山外的世界已经来到大唐帝国天启五年，而对于生活在山里的人们来说，日子不",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "…\n　　离开长安城，一路向北，他茫然随着旅人行走，在被那些好奇的大唐百姓询问过两次之后，他发现了这种危险，于一个深夜悄悄离开人群。\n　　在野外他没有遇到野兽，他可以拾起果子，他可以果腹，虽然饥饿永远陪伴着他，而当他面黄饥瘦从山林里穿出来时，已经快要抵达河北道境内，那时他再也不用担心被人识破自己的身份",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "石阶上，沉默了很长时间之后，双手缓缓举起。\n　　他的手掌握拳中空，仿佛握着一把无形的刀。\n　　山道夜风呼啸而起。\n　　他身体微斜，一刀猛地砍了下去，砍破了夜色与山道。\n　　一刀落下，石阶又上一级。\n　　山顶浓雾间一片沉默。\n　　一道充满怜悯的声音响起：“不知道宁缺这辈子究竟遇到过怎样的苦难，在旧书楼",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "这些年来一直深藏在他内心深处的恐惧回忆，随着这些熟悉的马蹄声骤然复苏，然后不可抑止的泛滥开来，瞬间占据了他的全部身躯，令他的身体变得无比僵硬。\n　　他狠狠一咬舌尖，用极为强大的意志力挣脱恐惧，强行扭转身躯回头望去。\n　　本应处于浓浓暮色中的山道消失不见，那些云雾也不知去了何处，回首时只见一座煌",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "先杀了我拖不回来，再说我下手很注意，剥整皮应该没问题。”\n　　“拖不回来你还有什么用！”\n　　老猎户愤怒抽打着他，咆哮道：“你只知道皮子，忘了血也是能卖钱的！混帐玩意儿！”\n　　“混帐玩意儿！”\n　　老猎户气鼓鼓地走出猎屋。\n　　宁缺看了低着头抱着粥碗的桑桑，抹掉脸上的血水，看着她笑着说道：“这才乖",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "饥民首领像哭一般笑了起来，伸出枯枝般的手指，颤巍巍点着小男孩儿的脸，说道：“如果你还有力气，那你为什么不赶紧逃走？”\n　　宁缺没有再说什么，从腰后取出那把带了整整一路的柴刀，用尽一路上用果子野草还有好心人省出的那几小捧米积累出的全部力气，跳了起来，挥动柴刀狠狠砍向饥民首领的鼻子。\n　　他年纪太小",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "咕噜的声音。\n　　无声无息，大雨又降落了下来。\n　　宁缺看了一眼远处的岷山，低头看着脸色苍白的婴儿，心想如果再让你淋会儿雨，只怕你以后再也没办法哭了。他想找个东西遮雨，然后他看到道旁有一把黑伞。\n　　那把黑伞很大很旧，而且很脏。\n　　……\n　　……\n　　山道之上雾气依然。\n　　宁缺微微低头，站在陡峭",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "变得少了很多。\n　　这一天，久期不至的雨水从天而降，乡村地窖里爬出了一些村民，他们哭泣着跪在雨水中，拼命磕头感谢昊天的垂怜，而更多的人则已经饿到没有力气露出任何表情。\n　　大雨中，宁缺坐在山旁一棵小树下，神情惘然看着四周，不知道自己应该往哪里去。\n　　这些日子里，已经有很多灾民冒险进入了茫茫岷山，虽",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "给我拖回来再宰！谁让你在外面就宰了的！”\n　　宁缺的脸上满是血痕，但他不避不躲，因为知道躲避没有任何意义，低着头解释道：“那头岩羊太重，不先杀了我拖不回来，再说我下手很注意，剥整皮应该没问题。”\n　　“拖不回来你还有什么用！”\n　　老猎户愤怒抽打着他，咆哮道：“你只知道皮子，忘了血也是能卖钱的！混帐",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "“可惜是个小孩子，身上没有几斤肉。”\n　　饥民看着浑身泥垢的小男孩儿，首领眼睛里泛着绿光，很像宁缺日后非常熟悉的狼，只是这匹狼自己也很瘦，而且皮毛溃烂的相当厉害。\n　　“我们没有力气了，你自己乖乖把衣服脱了，然后跳进那个锅里吧。”\n　　饥民首领用手指伸进嘴里，似乎想要扒拉出几根肉丝国。他看着小男孩",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "荒原大旱，河北道大旱，大唐帝国在天启元年迎来了罕见的天灾，那位新君王刚刚登基，便迎来了自己执政的第一次大考验。由大泽赶回长安城的皇帝陛下，紧急着手安排赈灾事宜，而荒原上的流民已经进入了河北道，河北道的灾民正在向南，幸运的先行一步的灾民，得到了朝廷的救济，那些还停留在河北道境内，茫茫岷山四周的灾民",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "以果腹，虽然饥饿永远陪伴着他，而当他面黄饥瘦从山林里穿出来时，已经快要抵达河北道境内，那时他再也不用担心被人识破自己的身份，因为道路两旁漫山遍野都是像他一样面黄饥瘦的孩子。\n　　荒原大旱，河北道大旱，大唐帝国在天启元年迎来了罕见的天灾，那位新君王刚刚登基，便迎来了自己执政的第一次大考验。由大泽赶回长",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "然后跳进那个锅里吧。”\n　　饥民首领用手指伸进嘴里，似乎想要扒拉出几根肉丝国。他看着小男孩儿有气无力说道：“跳进去的时候小心一些，不要把水溅出来太多，这年头，谁也没有多余的力气砍柴烧水。”\n　　围着小男孩儿的七八名饥民缓慢地点头，像是一具具能够勉强行动的尸体。\n　　宁缺看着他们，问道：“你们没有力气",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "夜色已至，书院后山的浓雾之中像牛奶一般融滑稠细。\n　　宁缺低着头站在石阶上，沉默了很长时间之后，双手缓缓举起。\n　　他的手掌握拳中空，仿佛握着一把无形的刀。\n　　山道夜风呼啸而起。\n　　他身体微斜，一刀猛地砍了下去，砍破了夜色与山道。\n　　一刀落下，石阶又上一级。\n　　山顶浓雾间一片沉默。\n　　一道",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

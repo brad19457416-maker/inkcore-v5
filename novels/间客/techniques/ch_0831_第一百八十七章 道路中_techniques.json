@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 831,
+  "chapter_title": "第一百八十七章 道路中",
+  "filename": "ch_0831_第一百八十七章 道路中.txt",
+  "char_count": 3330,
+  "timestamp": "2026-04-10T12:05:17.609809",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "着广场上廖廖可数的几个行人和远比行人更多的军警。\n\n    青烟自指间袅袅生出，然后升起融化在初秋的天空里，他低头将芯片插入军用手表中，仔细地将芯片中的资料认真看了一遍，心中生出无限感慨。邹郁离开后只过了这么短的时间，莫愁后山那位夫人便做了决断，并且这些机密资料送到了他面前，千世邰家的魄力和恐怖执行",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "什么，他想要做些什么。\n\n    大叔封余用他剽悍的一生证明 了自己的永远正确，今天看起来，他那句最危险的地方就是最安全地方的废话遗言，原来也是这样正确。\n\n    几年前，面对着邰夫人最致命的威胁，他强抑着愤怒走出流风坡会所，来到宪章广场挣扎思考很长时间，然后做出杀灭，麦德林的决定。\n\n    几",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "话遗言，原来也是这样正确。\n\n    几年前，面对着邰夫人最致命的威胁，他强抑着愤怒走出流风坡会所，来到宪章广场挣扎思考很长时间，然后做出杀灭，麦德林的决定。\n\n    几年后，他。霖一次走出流风披会所，来到宪章广场，还是那个冰冷的长椅，那个世界，那些人，确实有些令人厌烦。\n\n    但有些事情已经",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的机密档案，里面没有军事法庭的内容，却很有趣地可以通过排期，推算出 军 事法庭几天后那场被安排好了的秘密审判，会安排在哪幢建筑之中。\n\n    许乐现在最需要的就是这个，芯片档案里还附着一份很细致有力的作战计划，但他并不准备采纳，虽然他从这份作战计划里那些熟悉的味道中嗅出，如今在 国防部战策研 究室",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "日子他一直在战斗，在和整个联邦进行战斗，无时无刻，每处每地，没有一秒钟的安宁轻松，有的只是生死相伴的紧张。\n\n    邹郁看 着明显瘦削不少的他，忽然觉得很悲伤，抬手掩着艳红的唇，掩着内心的情绪，将自己桌前迈刹了一大半牛排的瓷盘推到他的面前。\n\n    邹郁离开后，许乐继续低头认真地咀嚼她剩下来的牛",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "晚上只有一盘香椿炒高仿蛋，可正是这种简单平静，里面却蕴藏了太多的坚忍强悍，以至于她往日里的凛冽竟在这瞬间化做了淡淡惘然。\n\n    “我从小在部队大院里长大，身边充斥着雄性激素逼出皮肤在空气里溢散的军人，但我还是没有办法完全了解男人们的脑子里究竟在想什么。\n\n    邹郁唇角微翘有些无助地笑了笑，看",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "气向来不错，但这一次和运气无关。”许乐没有向津郁隐瞒前景凶险，平静说道：“要完成目标「我这次真的需要拼命。”\n\n    拼命指的是拿自己的生命去拼一个灿烂血腥的前景，邹郁握着皮包的手指微微用力，苍白渐显，她看着他身前空着的酒杯，感慨道：“既然是壮行，你今天本应该喝些酒。”许乐回答道：“8从他死后，我",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "方就是最安全地方的废话遗言，原来也是这样正确。\n\n    几年前，面对着邰夫人最致命的威胁，他强抑着愤怒走出流风坡会所，来到宪章广场挣扎思考很长时间，然后做出杀灭，麦德林的决定。\n\n    几年后，他。霖一次走出流风披会所，来到宪章广场，还是那个冰冷的长椅，那个世界，那些人，确实有些令人厌烦。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "是没有办法完全了解男人们的脑子里究竟在想什么。\n\n    邹郁唇角微翘有些无助地笑了笑，看着许乐轻声说道：“如果只是为了 给施清海报仇，有必要把自己的命也填进去吗？”\n\n    “除了替流氓报仇，还有很多别的原因。我刚刚查清楚，黄厄星七组遇袭，还有前段日子前线部队的溃败……实际上是都星 图里那些大人",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "多根烟，把烟蒂在脚旁的雪中插成了一朵梅花，而今天他只抽了两根烟，没有什么挣扎思考。\n\n    有很多道理是想不明白的，比如那天晚上在官邸中和总统先生的对话困扰了他很长时间，到最后他有些愤怒地明白沈老教授早就告诉他的那个道理，这个宇宙里根本没有什么道理。\n\n    都日报社大楼被烧了，前线的士兵死了，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "是拿自己的生命去拼一个灿烂血腥的前景，邹郁握着皮包的手指微微用力，苍白渐显，她看着他身前空着的酒杯，感慨道：“既然是壮行，你今天本应该喝些酒。”许乐回答道：“8从他死后，我再也没有喝过别人提供的酒水。\n\n    邹郁沉就片刻，微笑着说道：“如此说来，上次在地边摊你肯喝我带去的酒，说明你很信任我。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“我从小在部队大院里长大，身边充斥着雄性激素逼出皮肤在空气里溢散的军人，但我还是没有办法完全了解男人们的脑子里究竟在想什么。\n\n    邹郁唇角微翘有些无助地笑了笑，看着许乐轻声说道：“如果只是为了 给施清海报仇，有必要把自己的命也填进去吗？”\n\n    “除了替流氓报仇，还有很多别的原因。我刚刚",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "很不高兴。\n\n    联邦谚语常说二十岁的英雄往往是三十岁的庸人，他想在庸碌之前再英雄一把，再自私地满足自己一把，至于之后？如果死的干净利落，哪里还用再思考什么道理？\n\n    太阳渐渐向西边转移撤退，许乐揉了揉被风吹的有些麻的脸，站起身看了一眼天尽头刚刚露出模糊身影的新月，想着 自 己似乎-快要忘",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

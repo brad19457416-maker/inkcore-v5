@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 497,
+  "chapter_title": "第四章 又一个梦",
+  "filename": "ch_0497_第四章 又一个梦.txt",
+  "char_count": 3578,
+  "timestamp": "2026-04-10T12:11:21.796620",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "屋顶糊着的那些字纸，过了很长时间，才终于确认自己已经离开梦境，回到了老笔斋。\n　　这些梦境是他最大的秘密，他没有对陈皮皮说过，也没有对夫子和别的师兄师姐们提过，虽然这些梦境里充满了他想要探知的真相，但他不敢对任何人说，因为他总觉得这些梦隐藏着一些很可怕的东西。\n　　十六年前的西陵神殿和现在的佛宗，都",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "晋的弩兵，草原上的蛮子，看到把荒原染红的无数具尸体，看到了荒原前方有三道黑色的烟尘，看到黑夜逐渐占据天空，人们恐惧地看着黑夜来临的方向，一个高大男子在他身旁说天要黑了……\n　　杀死茶师颜肃卿后，宁缺在朱雀大道上逃亡，身上的血液和大黑伞，惊动了那道神符，在那个清晨，他诸窍不通的雪山重筑，终于正式地踏上",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "恐惧地看着黑夜来临的方向，一个高大男子在他身旁说天要黑了……\n　　杀死茶师颜肃卿后，宁缺在朱雀大道上逃亡，身上的血液和大黑伞，惊动了那道神符，在那个清晨，他诸窍不通的雪山重筑，终于正式地踏上了修行路，也就是在那次，他又做了一个梦。\n　　在那个梦里，他回到寒冷黑暗的荒原之上，黑夜还在侵噬天空，所以他抬",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "上忽然响起一道雷鸣，有道光门缓缓开启，光明重新降临世间，一条巨大的黄金龙漠然探出龙首，俯视着地面上的人群。\n　　在进入书院二层楼的考试中，在峰顶攀登那块岩石的过程里，宁缺再次进入到那个真实与虚幻无法分清的梦境之中。\n　　黑夜依然在向荒原这边侵袭，光明隐藏在云层之后，却已经变得越来越亮，原野上的人们依",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "脸色，顿时知道确实是出了大事，宁缺此时的心情极糟，随时可能真的杀了自己，赶紧蹬动四蹄，拖着沉重的马车来到老笔斋前。\n　　宁缺跳上了马车，喘息着说道：“去书院。”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，他的身体也随之沉到海底，进入那层像血一般浓稠的海水里，那些血水令他艰于呼吸，不，是不能呼吸，他开始拼命地挣扎，想要游离，却发现自己的手和脚都已经无法动弹，挣扎只能让自己陷的更深。\n　　……\n　　……\n　　宁缺睁开眼睛，醒了过来，急促地喘息着，身上全是冷汗，眼眸里全是惊恐的神情，如同一个死人。他看着",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "开眼睛，显得格外虚弱，一股刺骨的寒意从衣衫里透了出来，竟是让宁缺忍不住打了一个寒噤。\n　　桑桑痛苦地颤抖着，紧紧地攥着宁缺的衣服，想要说些什么，却说不出话。\n　　宁缺哪怕还敢耽搁，爬起身来，吹了一声极响亮的口哨，扯过一床厚被褥裹住她的身子，横抱在双臂间，就这样冲了出去。\n　　他一脚踹开老笔斋的木门，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "宁缺铁青的脸色，顿时知道确实是出了大事，宁缺此时的心情极糟，随时可能真的杀了自己，赶紧蹬动四蹄，拖着沉重的马车来到老笔斋前。\n　　宁缺跳上了马车，喘息着说道：“去书院。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "至黎明，最是黑暗。\n　　宁缺望着巷口暴怒喝道：“你猪啊！动作这么慢！”\n　　睡梦中的大黑马被那声口哨骤然惊醒，正想要表达不满，便看着宁缺铁青的脸色，顿时知道确实是出了大事，宁缺此时的心情极糟，随时可能真的杀了自己，赶紧蹬动四蹄，拖着沉重的马车来到老笔斋前。\n　　宁缺跳上了马车，喘息着说道：“去书院。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "学士府书房里，宁缺和曾静大学士的对话是这样展开的。当时曾静喝了半盏茶，又沉默了半盏茶的时间，忽然开口说道：“听桑桑说，再过些天你们就准备出门了。”\n　　宁缺点点头，说道：“盂兰节在秋天，烂柯寺有些远，如果要去，便是最近这段时间便要动身，不然会误了时间。”\n　　去年春天的时候，烂柯寺便把盂兰节的请柬送",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "空，而身旁有无数人没有看天，只是冷漠警惕悲伤地看着他，而就在这个时候，天上忽然响起一道雷鸣，有道光门缓缓开启，光明重新降临世间，一条巨大的黄金龙漠然探出龙首，俯视着地面上的人群。\n　　在进入书院二层楼的考试中，在峰顶攀登那块岩石的过程里，宁缺再次进入到那个真实与虚幻无法分清的梦境之中。\n　　黑夜依然",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "太上感应录，回到渭城小院后，他便开始按照书上写的法子修行，尝试冥想，也就是在那天夜里，他做了了一个很温暖的梦，梦见了一片海洋。\n　　其后他陆陆续续开始做梦，往往是在冥想之后做温暖的梦，不过那些梦并没有什么具体的内容，也没有栩栩如生的画面。直到三年前的那个春天，他随公主李渔的车队离开渭城前往长安，在旅",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

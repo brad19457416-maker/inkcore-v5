@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 74,
+  "chapter_title": "第七十四章 那年春，我把桃花切一斤（三）",
+  "filename": "ch_0074_第七十四章 那年春，我把桃花切一斤（三）.txt",
+  "char_count": 3256,
+  "timestamp": "2026-04-10T12:11:11.989668",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "正确，先前在场间我注意过，这个叫宁缺的考生答的最快，可以列入甲等。”\n　　“甲等无异议，只是我有一个疑问，那考生为什么要答二壶酒却不是两壶酒？”\n　　“或者这是他的个人习惯？还是说这个二字有什么讲究？真是令人不解。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "……\n　　远处道畔离亭里，那道人看着棋枰上的黑白子，右手伸在空中不停弹拔，像是在弹琴又像是在玩耍春风，忽然间他的食指微微一顿，随着这个动作，棋枰旁的棋瓮内跳出一颗哑光黑子，啪的一声落入棋枰，恰在纵横线相交之处。\n　　做为昊天道南门领袖，大唐帝国的国师，李青山轻松潇洒玩出这样一手自然不足为奇，奇怪的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "那年春，我把桃花切一斤（三）\n　　因为自幼过着很苦的日子，所以宁缺很擅长控制情绪，或者说擅长可怜地压抑内心情绪，把黑夜化为阳光现于脸上，很少会伤春悲秋闪现那个遥远尘世的画面，然而今日入了书院进了考场，看着窗外桃杏，听着身边响起的诸如综合数科之类的话语，他难以自抑地想着那段寒暑不辍文理双修的苦逼生涯",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "大唐皇帝行不测之事？更何况今日陛下是去书院，难道还有人敢在书院闹事不成？”\n　　黄杨微微一笑，看着他说道：“我不知道。”\n　　李青山怅然道：“朝小树的事情你应该听说了吧？实在可惜，若他十余年前便能进阶知命境界，何至于我们两个家伙还得天天跟着陛下当保镖。”\n　　黄杨摇头应道：“若无这些年江湖历练，又在",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "不过也正是幸有那些苦逼生涯，墨卷上这道题对于他来说没有任何难度，心中快速闪现答案后，他忍不住低声感慨了声：“这题也太他妈二了吧？”\n　　确实挺二的，因为答案就是二。\n　　宁缺运腕磨墨蘸笔，非常仔细在纸上写下自己的答案：“夫子饮了二壶酒，斩尽满山桃花。”\n　　……\n　　……\n　　远处道畔离亭里，那",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "之人打交道。\n　　黄杨和尚安静看着棋枰上的棋子，眼睫缓缓一眨，一颗白色棋子缓慢地从棋瓮中升起，缓慢地来到棋枰之上，再缓慢地落下，没有发出半点声音，柔和至极。白子落下封死某处气眼，也没见他如何动作，只是目光轻移便有一粒被吃掉的黑棋子挪到了棋枰之外，那处已有七八子。\n　　大唐国师与御弟下棋，自然无人敢上",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "试，数科结束之后紧接着便是书科和礼科，先前还自沾沾自喜隐有得意之感的宁缺顿时傻了眼――桑桑忧虑的极有道理，一个成天忙着吃酸辣面片煎蛋面、去红袖招陪姑娘闲聊天、顶着雨去春风亭杀四方，忧愁今天挣了几两银明天能抱几条腿的可怜少年，确实没有时间把那几套入院试真题墨卷背下来，而且就算背下来也没用，长年生活在深",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "奉行苦修，平日里枯坐万雁塔内诵经译册，极少与寺外之人打交道。\n　　黄杨和尚安静看着棋枰上的棋子，眼睫缓缓一眨，一颗白色棋子缓慢地从棋瓮中升起，缓慢地来到棋枰之上，再缓慢地落下，没有发出半点声音，柔和至极。白子落下封死某处气眼，也没见他如何动作，只是目光轻移便有一粒被吃掉的黑棋子挪到了棋枰之外，那处已",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "上午文试，数科结束之后紧接着便是书科和礼科，先前还自沾沾自喜隐有得意之感的宁缺顿时傻了眼――桑桑忧虑的极有道理，一个成天忙着吃酸辣面片煎蛋面、去红袖招陪姑娘闲聊天、顶着雨去春风亭杀四方，忧愁今天挣了几两银明天能抱几条腿的可怜少年，确实没有时间把那几套入院试真题墨卷背下来，而且就算背下来也没用，长",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "游哉，不时落墨评分不时抬头与同侪闲聊，有教习点评今日试卷难度说道：\n　　“今年入院试是大师兄出的，他性子温和自然不会太难，若还像上期那般是二师兄出题，谁知道今日考场里会不会又哭厥过去一大片人？”\n　　“礼科书科倒还罢了，数科这道题纯是送分，谁都知道夫子他老人家嗜酒，一壶之半再半续半化为一滴，难道夫子",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，眼睫缓缓一眨，一颗白色棋子缓慢地从棋瓮中升起，缓慢地来到棋枰之上，再缓慢地落下，没有发出半点声音，柔和至极。白子落下封死某处气眼，也没见他如何动作，只是目光轻移便有一粒被吃掉的黑棋子挪到了棋枰之外，那处已有七八子。\n　　大唐国师与御弟下棋，自然无人敢上前打扰，那些小僧小道均自离道畔极远，没有机会看",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

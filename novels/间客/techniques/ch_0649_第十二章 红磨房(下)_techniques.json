@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 649,
+  "chapter_title": "第十二章 红磨房(下)",
+  "filename": "ch_0649_第十二章 红磨房(下).txt",
+  "char_count": 3394,
+  "timestamp": "2026-04-10T12:05:08.619794",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "房(下) \n\n    没有看法。”许乐低声回答道：“这是你们帝国人的内部事务，而我是联邦人。如果是指逃亡的方法，我相信你看过我的档案，我的战术推演水平向来不高。”\n\n    红磨房里这两个人的性情，都极为冷厉坚狠，因为不同的原因而习惯沉默，但不知道为什么，许乐在此人的面前话却变得比平时更多一些。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "不可一世，但至少可以让它输出百分之三十的功率，重新跑起来。“\n\n    听到军神二字时，怀草诗的眼光骤然犀利，却有些相信许乐的说法，不过她相信，这个联邦人此时主动展露自己的实力，肯定有所想法。”你想要什么？“她直接问道。”我要自由。“\n\n    许乐回答道”不可能。“\n\n    怀草诗的回答极为简洁",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "过了机甲六级，我有一位骄傲的朋友，以你为他努力的目标……通过这些天的逃亡，我确认你确实是宇宙内最天才最强大的机师，所以我不明白，为什么遇袭之初，你没有选择突围而出，而是进入了这片桑树海”\n\n    他话中那位骄傲的朋友便是邰之源，这位联邦阴影里的太子爷，曾经说过，整个宇宙只有五个人是他的奋斗目标。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "有想到这个联邦人居然会一下看到事情最致命的部分。\n\n    许乐停顿了片刻，看着面前这名帝**官继续说道：“公主殿下，那些人连你都敢刺杀，自然会先杀死你的父亲。”\n\n    ………\n\n    ………\n\n    听到公主殿下这四个字，怀草诗的眼睛微眯，瞳子里闪过一抹亮光。沉默片刻后，她终究还是没有就此",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，说道：“背叛者们最多只需要三个小时，便能看破我最后布下的伪装，找到这座红磨房，我希望你能地宫一些有意义的建议。”\n\n    许乐低头痛苦地咳嗽了两声，眯眼看了对方一眼，忍不住摇了摇头，为什么这位公主殿下要求自己这个联邦人帮忙，居然能说得如此理所当然。\n\n    “我想帝国的卫星也应该有微摄定位系统",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "平向来不高。”\n\n    红磨房里这两个人的性情，都极为冷厉坚狠，因为不同的原因而习惯沉默，但不知道为什么，许乐在此人的面前话却变得比平时更多一些。\n\n    有那么一秒钟的时间，他想到了自己的童年，那时候自己和父亲妹妹住在一起，好像有很多话，哪怕是孤儿的少年时期，说话也挺多，大概是因为后来遇到了唠",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "居然能说得如此理所当然。\n\n    “我想帝国的卫星也应该有微摄定位系统。”他抬头望了一眼窗外血红的天空，说道：”叛军一直没能围住你，就说明他们没办法利用卫星定位系统。所以很简单，卫星定位系统的权限在谁手里，那个人就是你的人。”\n\n    怀草诗说道：“卫星定位系统的权限在总督柯保宁手中。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "逃亡，我确认你确实是宇宙内最天才最强大的机师，所以我不明白，为什么遇袭之初，你没有选择突围而出，而是进入了这片桑树海”\n\n    他话中那位骄傲的朋友便是邰之源，这位联邦阴影里的太子爷，曾经说过，整个宇宙只有五个人是他的奋斗目标。\n\n    “我不知道外面的局势，桑树海适合游击作战和逃亡。”怀草诗面",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "许乐的眼睛眯了起来，知道只是这位公主殿下的底线，如果对方愿意遵守承诺的话，那么他至少不用担心帝国会用羞辱自己的方式，去打击联邦军民的士气，让那些他关心爱护的朋友们再次悲伤难过。\n\n    他轻轻的眨了一下眼睛，声音单调说道：“我要桃瘴的权限指令，我要看内部结构图，我要你全部开放给我。”",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "，然后是导弹攻击，最后是内奸，再最后则是撕破伪装，直接动用重装甲部队起正面进攻，许乐不清楚帝国内部的权力倾轧局势，但在他看来，这个刺杀计划安排的非常合理，如果不是自己对ac的启动曲线太熟悉，说不定身前这位帝国的骄傲——强大的公主殿下已经死在了那把恐怖的大枪之下。\n\n    然而这种刺杀安排也透漏出了",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "“我坚持。”许乐说道。\n\n    怀草诗眼睛微眯，声音显得有些怪异：“想拿桃瘴的结构图，准备日后逃回联邦？你很自信，甚至有些自大。只要你脖子后面有那块像狗链疑似的芯片，你就没办法出去。”\n\n    许乐看着她的眼睛，说道：“能不能逃出去，那是我的事。”\n\n    “我会擦亮眼睛，看你怎么逃。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "怀草诗的回答极为简洁有力，就想一根长枪冷冷划破金属片，坚狠地令人心悸。\n\n    红色的磨房内，一片沉寂，他们两个人彼此都知道追兵越来越近，死亡的脚步声越来越清晰，却没有人愿意率先让步，只是平静地盯着对方的眼睛，进行着精神意志上的对抗。\n\n    就想在狭窄航道内面对面高飞行的两艘战舰，眼看着死",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

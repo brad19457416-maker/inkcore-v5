@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 670,
+  "chapter_title": "第五十一章 歌以送箭",
+  "filename": "ch_0670_第五十一章 歌以送箭.txt",
+  "char_count": 3471,
+  "timestamp": "2026-04-10T12:11:26.895492",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "歌声已经没有节奏――反而被赋予了某种节奏，一种平静稳定显得非常漠然的节奏。\n　　云层覆盖着原野北方的天空，一辆黑色的马车在云下缓缓驶来。\n　　荒人看着那辆马车，相互搀扶着艰难站起，无论头发花白的老战士，还是面容青涩的少年战士，无论是断腿重伤的壮年男子，还是浑身是血的妇女，看着那辆黑色马车，神情变得敬",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的诸国军队变得有些混乱，那些境界可怕的强者各自沉默。\n　　两年前秋天烂柯寺佛光大作开始，整个人间都在追杀那辆黑色马车，包括这些天荒原上惨烈到了极点的战争，都是由那辆黑色马车而起，然而今天这辆黑色马车终于出现在人们的眼前，人们却觉得有些无措。\n　　没有谁发号施令，巨辇上的高大身影自仰首沉默，西陵神殿联",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "战斗的能力，族人们看着荒原战场中央单膝跪地的唐，知道灭族的时刻，终于将要到来，千年来的艰辛挣扎与梦想最终都将化为泡影。\n　　荒原间一片死寂，然后不知是谁领头唱起歌来，悲伤的歌谣在风中飘荡，粗犷的歌声在荒原上回响。\n　　……\n　　……\n　　“天亦凉，地亦凉，苍鹰不敢望北荒。”\n　　“热海落，热海涨，热",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "起最后一次攻击。\n　　数万名荒人战士死伤惨重，因为强韧的身体与意志，重伤居多，已经没有战斗的能力，族人们看着荒原战场中央单膝跪地的唐，知道灭族的时刻，终于将要到来，千年来的艰辛挣扎与梦想最终都将化为泡影。\n　　荒原间一片死寂，然后不知是谁领头唱起歌来，悲伤的歌谣在风中飘荡，粗犷的歌声在荒原上回响。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "箭。\n　　他知道今天留给自已的机会并不多，自已必须把握而且充分地利用这个机会，这也就意味着，他必须在第一次箭袭里，完成足够多的目标。\n　　……\n　　……\n　　第一箭最突然，最难以防范，成功的机会最大，选择的目标，当然是最重要的那个人，对战局最有可能造成根本性变化的那个人。\n　　这个目标很好选择，就如",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "色马车和冥王之女震撼到无法言语，情绪复杂，她这时候只是觉得很疑惑：宁缺在哪里？\n　　忽然间，她的眼睛骤然明亮，如瀑布般的黑发锋锐至极的向后飘起，她毫不犹豫腰身一折，随着狂舞的黑发，像被砍断的树一般重重倒下。\n　　……\n　　……\n　　宁缺不在桑桑的身边，也没有在黑色马车的车厢里。\n　　不知道什么时候，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "里。\n　　那道高大身影微微前倾，向荒原北方望去，似乎没有受到伤害，反而是觉得很有趣，想要看看发箭那人究竟生的什么模样。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "桑桑的身边，也没有在黑色马车的车厢里。\n　　不知道什么时候，他已经悄悄离开马车，借着荒人歌声的掩护，来到荒人战线的最前方，来到那些虔诚敬畏跪倒在地的荒人中间。\n　　当全世界的目光都被桑桑吸引住的时候，他单膝跪在地面上，右手扳弦，铁弓骤弯，瞄准南方数里外的西陵神殿联军方向，弓弦骤松。\n　　元十三箭凝结",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "赋予了某种节奏，一种平静稳定显得非常漠然的节奏。\n　　云层覆盖着原野北方的天空，一辆黑色的马车在云下缓缓驶来。\n　　荒人看着那辆马车，相互搀扶着艰难站起，无论头发花白的老战士，还是面容青涩的少年战士，无论是断腿重伤的壮年男子，还是浑身是血的妇女，看着那辆黑色马车，神情变得敬畏恐惧，然后出现最后的希望",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的眼睫毛上挂着雪霜，从车窗处透进来的幽暗天光，被这些雪霜折射成七彩的光线，他听着窗外飘来的荒人歌声，说道：“我先去，你再来。”\n　　桑桑嗯了一声，把脸贴在他的胸膛上，说道：“我先死，你再来。”\n　　宁缺摇头说道：“我先死，你再来，或者一起死。”\n　　……\n　　……\n　　当看到黑色马车出现在荒原上，西",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

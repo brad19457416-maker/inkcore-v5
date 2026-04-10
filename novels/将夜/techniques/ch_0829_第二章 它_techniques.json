@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 829,
+  "chapter_title": "第二章 它",
+  "filename": "ch_0829_第二章 它.txt",
+  "char_count": 3298,
+  "timestamp": "2026-04-10T12:11:27.266063",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "看着向自已走来的青衣少女，金帐骑兵们的情绪很复杂，有些不解有些震惊有些警惕，因为他们想不明白，为什么她不怕自已手中锋利的弯刀，为什么她能如此平静，就像是什么都没有看见。\n　　一名骑兵大声叫了两声，然后高高举起手中的弯刀，然而看着她神情漠然的容颜，却怎么都无法把刀砍下去，因为他很恐惧。\n　　除了",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，所以她依然像是什么都没有看见，继续前进。\n　　一名穿着普通草原衣饰的老人坐在马车里，看着窗外的草原风景，沉默不语。他是金帐王庭最受尊崇的国师大人，离开贺兰城后，便一直在草原深处缓慢巡游，除了要思考一些事情，更主要的原因是因为他不想随雄心壮志的单于去南方，在他看来这场伐唐的战争金帐根本就不应该插手，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "已经快要承受不住这种重量。\n　　第五天凌晨，天边光透过暴雨响起一小抹，大黑马昂起首来，对着青天和泗水愤怒地嘶鸣数声，拖着沉重的车厢开始了自已的旅程。\n　　它不打算回长安，也不准备回书院，因为那些家伙都没回来，而且它已经隐隐察觉到，那些家伙大概是真的回不来了。\n　　大黑马决定去荒原，它还记得那时候过泥",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "它的眼神却是极为明亮精神。\n　　夹杂着断草清香味道的风，拂过它的鼻，它深深地嗅了一口，神情好生陶醉，心想难道这就是所谓自由的味道？\n　　忽然间，它回头看着沉重的黑色车厢，觉得自已真的是头憨货，既然是要去投奔自由当二大爷，为什么自已要拖着这个该死的重东西走这几千里路？\n　　万一宁缺还活着，将来找自已要",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "有血腥残酷的画面，甚至就连撞击的声音都没有，就像是斩在了浩翰的大海里，然后刀身上骤然现出无数道光线，瞬间融化成空无！\n　　她身上青衣间绣着的繁花开始招展，重重花瓣里有无数道最纯净的光明释出，瞬间扩散开来，把帐篷四周的草甸全部笼罩。\n　　片刻后，她从光明里走了出来，继续向南方去。\n　　草原上的光线渐渐",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "名少女，脸上的皱纹忽然深了几分，眼窝更加深陷几分，他的脸上渐渐露出震惊的神情，就像是看到不属于人间的存在。\n　　骑兵们不明白，为什么看到少女那张普通寻常的脸，自已便会莫名生出极大恐惧，那是因为他们是普通人，国师不是普通人。\n　　她的脸确实很普通，平凡到了极点，随意走进人群里，便休想再有人能把她找出来",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "不知要吃多少苦头。\n　　只要能够找到那位前辈，你就是荒原的二大爷了――在艰难的旅程中，大黑马用美好的将来来安慰自已、激励自已，它咬着牙，低着头，在暴风雨中拼了命地不停走着，居然真的让它从泗水走到了荒原！\n　　大雨终于停了，大黑马浑身泥土，瘦了一大圈，看上去很是憔悴，但看着眼前肥美的草原，它的眼神却是",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "踪，腐尸上的烂肉尽数被融蚀，只剩下森然而干净的白骨，这便是净化。\n　　第二天，她又遇到了人类。这一次出现在草原上的人数比较多，由数辆马车和数百骑组成，蹄声密集如雷。但在她的眼中，这些人类和脚畔的青草没有什么区别，所以她依然像是什么都没有看见，继续前进。\n　　一名穿着普通草原衣饰的老人坐在马车里，看着",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "名生出极大恐惧，那是因为他们是普通人，国师不是普通人。\n　　她的脸确实很普通，平凡到了极点，随意走进人群里，便休想再有人能把她找出来，甚至没有人还能再记住她究竟长什么模样。\n　　她的眉便是千万人的眉里最常见的眉，她的眼是千万人里最常见的眼，她的鼻便是千万里人最常见的鼻，她的唇便是随处可见的唇。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "片沼泽去，事实上它就是这样想的。\n　　投奔自由的旅程，结束在一个平常无奇的秋日。\n　　那天，草原深处走出来一名少女。少女的容颜寻常无奇，没有任何特点，穿着一身青色的衣服，衣服上绣着繁美的花朵。\n　　大黑马想说服自已不认识她，她哪儿有这么胖这么高，胸哪有这么软这么大？但它知道她就是她，所以它凄啸两声，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "重量。\n　　第五天凌晨，天边光透过暴雨响起一小抹，大黑马昂起首来，对着青天和泗水愤怒地嘶鸣数声，拖着沉重的车厢开始了自已的旅程。\n　　它不打算回长安，也不准备回书院，因为那些家伙都没回来，而且它已经隐隐察觉到，那些家伙大概是真的回不来了。\n　　大黑马决定去荒原，它还记得那时候过泥塘的时候，曾经在那里",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "好多湿泥，然后低着头打了两个有气无力的响鼻。\n　　大黑马没有离开，在泗水畔等着，它要等到宁缺回来，它担心如果自已走了，宁缺再找不到自已，那他该会多着急啊。\n　　当然更最重要的原因是它想到，宁缺如果不回来，这辆精钢打铸的车厢实在是太重，它不可愿意拖回长安城去。好吧，如果宁缺真的回来了，就算辛苦些，它也",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "何处，她是谁。\n　　国师在秋草间跪倒，他以额触地，平摊双手掌心向上，显得敬畏虔诚无比，老泪纵流，颤声说道：“长生天啊……”\n　　……\n　　……\n　　夫子登天，是在泗水之畔。\n　　他先把宁缺扔到了遥远的北方荒原，然后随光明直上青天，其后天降万道流火，然后人间下了好大一场雨。\n　　雨落下的时候，泗水畔已",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "胖这么高，胸哪有这么软这么大？但它知道她就是她，所以它凄啸两声，甩掉车厢转身便逃。\n　　大黑马这一生从来没有跑的这样快过，就算是当年在荒原大会上追那头雪白母马的时候，都跑的没有这样快，跑的比宁缺的箭还要快！\n　　风声呼啸而过，大黑马恐惧异常。\n　　然后它重重地摔倒在秋草里，尘土四溅。\n　　她不知什么",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的身躯上，是那样的醒目，想看不见多都很困难。\n　　一声警哨，骑兵迅速列队准备冲锋或者防守，虽然草甸间缓缓走来的只是一名少女，但正因为如此，这个画面便透着份诡异。\n　　就像昨天死去的那些骑兵一样，所有看到她那张普通寻常容颜的人，都莫名生出极大的恐惧，握着刀柄的手都开始颤抖起来。\n　　他们是金帐最精锐的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 346,
+  "chapter_title": "第二十八章 毕业日（上）",
+  "filename": "ch_0346_第二十八章 毕业日（上）.txt",
+  "char_count": 3755,
+  "timestamp": "2026-04-10T12:04:59.259878",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "一下。如此风华绝代人物。却像一头被关在实验室里地老虎般。无法入山林呼啸奔跑。长久郁积之下。只怕会更加危险。\n\n    此时兰晓龙也看到了台上地杜少卿。额角青筋一现即隐。用冷淡地语气说道：“知道这位军事天才为什么不愿意升职去三军区。也不愿意去国防部吗？那是因为他想当着师长。带着铁七师去西林。甚至是去帝",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "……\n\n    ……\n\n    用余光扫了一眼主席台上地杜少卿。许乐地眼睛快速地眨动了一下。如此风华绝代人物。却像一头被关在实验室里地老虎般。无法入山林呼啸奔跑。长久郁积之下。只怕会更加危险。\n\n    此时兰晓龙也看到了台上地杜少卿。额角青筋一现即隐。用冷淡地语气说道：“知道这位军事天才为什么",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "次综合培训，无论是指挥还是率部攻击时的战术魄力都没有任何问题，但一想到他们地对手是铁七师，许乐便有些担心，毕竟他也是教官之一，很希望他们能交出一份漂亮的答卷出来。\n\n    然而军演地势态却并不像他所希望的那般展。许乐不是职业军官，没有接受过相关的教育，但从光幕上所反馈回来的数据，以及联邦将军们冷凝",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "但他现在还是只能顶着军事天才的帽子，披着名将的外衣，略显落寞和愤怒地留在都星圈，参加这些没太大意义的军事演习，毕业典礼。那一身笔挺军装与亮军靴所散出来地寒意，大概也是这位师长内心情绪的真实写照吧？\n\n    ……\n\n    ……\n\n    用余光扫了一眼主席台上地杜少卿。许乐地眼睛快速地眨动了",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "。\n\n    此时兰晓龙也看到了台上地杜少卿。额角青筋一现即隐。用冷淡地语气说道：“知道这位军事天才为什么不愿意升职去三军区。也不愿意去国防部吗？那是因为他想当着师长。带着铁七师去西林。甚至是去帝国。打下让人无话可说地战功出来。不然人人都拍他马屁。说他是一代名将。他自己脸皮都会烧。”\n\n    “将",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。一看到我们师。就像是吃了春药一样。沉着张脸。像厉鬼一样死追着我们……”\n\n    “最后呢？”许乐第一次知道这件往事，转过头诧异地问道。\n\n    “我们师输了。”兰晓龙微微低头，用沉重的语气说道：“十七机械师一直都是联邦第一师，是老爷子亲手打造出来的不败雄师，就算在帝国疆土内，也未尝败过，更何况",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "七师总有一天是要上前线的。\n\n    但他现在还是只能顶着军事天才的帽子，披着名将的外衣，略显落寞和愤怒地留在都星圈，参加这些没太大意义的军事演习，毕业典礼。那一身笔挺军装与亮军靴所散出来地寒意，大概也是这位师长内心情绪的真实写照吧？\n\n    ……\n\n    ……\n\n    用余光扫了一眼主席台上",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "郁积之下。只怕会更加危险。\n\n    此时兰晓龙也看到了台上地杜少卿。额角青筋一现即隐。用冷淡地语气说道：“知道这位军事天才为什么不愿意升职去三军区。也不愿意去国防部吗？那是因为他想当着师长。带着铁七师去西林。甚至是去帝国。打下让人无话可说地战功出来。不然人人都拍他马屁。说他是一代名将。他自己脸皮都",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "真，今日一看，才现自己的水平还差的远啊。”\n\n    看着杜少卿这位职业军官的典范，许乐不禁生出无限感慨，却又毫无来由，毫无道理的生出了一丝不舒服的感觉，却不知道这种感觉来自何处。\n\n    便在此时主席台上传来了一阵急剧的议论声。\n\n    光幕之上军演双方已经在东线生了接触，战斗一触即，那些代表",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "高中同学聚会，我不知道会喝多少，如果喝的还算好，我回来就还认真工作一下，如果喝多了，大概便不会写了，大家不用理我便是。(未完待续，如欲知后事如何，。章节更多，！　小＿说txt天'堂\n\n\n\n第三卷西林的征途",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的训练与战术推演要做到何等样疯狂细致的地步？\n\n    便在此时，许乐注意到有一名军官走上了主席台，来到杜少卿的身后轻声说了几句什么，杜少卿一脸冷漠地微微颌。那名中校军官微微一笑，取出一副墨镜恭敬地递了过去。\n\n    看着杜少卿在阳光下戴上墨镜，更是平添一份冷酷之意，许乐的眉头皱的极紧，难道那名中",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "“最后呢？”许乐第一次知道这件往事，转过头诧异地问道。\n\n    “我们师输了。”兰晓龙微微低头，用沉重的语气说道：“十七机械师一直都是联邦第一师，是老爷子亲手打造出来的不败雄师，就算在帝国疆土内，也未尝败过，更何况是区区军演。然而……就在撤销番号前的最后一次军演中，我们却败了，败给了三军区的铁七师",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "位老爷子。”他眯着眼睛往台上望去，看着杜少卿挺拔的身姿，在心里默然想道。\n\n    就在二人悄悄议论同时，代号为“毕业日”的军演也进入了火热的阶段，巨型光幕上那些代表着不同部队的色块，以一种渐进的方式逐渐蔓延在荒山之中，这次军演的模拟环境是西林边陲某被占据的小型行政星球，而扮演帝队的……则是远自第三",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "漠地看着光幕，并没有出任何指令。\n\n    他下意识里望向主席台，台上将领们脸色沉默冷淡，与之相比，从来都是一脸冰霜的杜少卿师长反而显得神情有些寻常。\n\n    师长不在，铁七师还能展现出如此惊人的战斗力，这平日里的训练与战术推演要做到何等样疯狂细致的地步？\n\n    便在此时，许乐注意到有一名军官",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "“将军最好地归宿。应该是在解体燃烧地战舰上。”许乐望着台上那个如雪松般地少将。若有所思。缓缓说了一句联邦谚语：“他有这种执着地想法。倒也不稀奇。”\n\n    “那是因为军神当年是从咱们师地师长打出来地。这位杜师长从军伊始。每一步都似乎踏着老师长地步伐在走。亦步亦趋。将那种模样学了个十足。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

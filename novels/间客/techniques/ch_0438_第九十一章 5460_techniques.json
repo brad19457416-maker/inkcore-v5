@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 438,
+  "chapter_title": "第九十一章 5460",
+  "filename": "ch_0438_第九十一章 5460.txt",
+  "char_count": 3579,
+  "timestamp": "2026-04-10T12:04:59.251107",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "着幽暗的天穹高速飞去，用肉眼根本看不到它将要飞抵的目标，似乎这枚以液氢燃料为动力的导弹，只能将行星的天空射穿一个大洞，然后无力地挣脱行引力，在安宁阴森的宇宙中永远飘离。\n\n    “命中目标。”一名穿着陈旧灰色大衣，戴着貂皮军帽的军人，看着总控系统上的显示，剧烈地咳嗽了两声，有些麻木地报告道：“敌方",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "“刺蛇二型异弹密集阵发射。”熊临泉怔怔地望着那些光芒意识里说道。\n\n    无论是不是第一次来到真正前线的人，此刻都感到了一股庄严铁血的味道从面前那颗不起眼的行星上弥漫开来。\n\n    因为这颗行星是５４６０，是战场。\n\n    ……\n\n    ……\n\n    行星北半球冰川与森林的分界线中",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "震惊的问。\n\n    白玉兰回答道：“这里是荒凉的宇宙边陲，是联邦殖民开发的最外围区域，并没有太大的价值，最关键的是，没有军方的贴身保护，记者根本无法进入前线。”\n\n    “我大概能明白，如果新闻界鼓动的太厉害，军方准备不足的情况下被民意绑架发动反攻，极有可能破坏整个大计划……但感觉总有些怪异。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "间都不再以老头子称呼那位军神大人。\n\n    军神李匹夫地健康状况。绝对是联邦里头等大事是最高等级地秘密。他们虽然是那位老爷子地亲人晚辈也无法完全确定。\n\n    一百九十七个联邦标准时之后。轻型战舰驶离了西林大区地核心星域一支联邦舰队地保护下。悄无声息地进入了回明走廊在太空里飞行了一段时间。便能看",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "中，南相美失落忧伤，张小萌复杂难言，利修绣平静面容之下已经快要抓狂。\n\n    西林钟家二少爷钟子斯愤怒地砸了电视，在临海州继续学业的邹郁，一边抱着儿子邹流火看窗外大雪，一边却是冷笑想着许乐这家伙真是走了狗屎运。\n\n    许乐和简水儿的反应与所有人都不同，因为他们知道这件事情是假的，便会往事件的起",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "地事情？\n\n    “在道大哥说元帅身体挺好。也不知道是不是真地。”简水儿挂断了电话。眉尖微蹙。忧虑说道。她和许乐担忧地事情都是一样地。是以说话间都不再以老头子称呼那位军神大人。\n\n    军神李匹夫地健康状况。绝对是联邦里头等大事是最高等级地秘密。他们虽然是那位老爷子地亲人晚辈也无法完全确定。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "一个联邦所有军人都牢记于心的时间，“帝国远征军离开本土抵达西林边需要六年九个月时间。”\n\n    “第一次宇宙战争后的数年中国几任皇帝先后派遣了七百三十万名军人入侵西林，这相当于同时期内，联邦征兵总数的三分之二。”\n\n    “面对这样强的入侵者，联邦和宪章光辉让他们付出了惨重的代价在还能存活下来的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。变轨卫星那么贵，他们明知道我们肯定会打下来，可还是天天放我们头顶放。”\n\n    看着指挥室里气氛压抑的同僚下属们，老将军放下茶杯，揉了揉有些发涩的眼睛，笑着说道：“但伟大的皇帝陛下曾经说过，战争，永远是人的战争。”(未完待续，如欲知后事如何，请登陆idiancomm，章节更多，支持作者，支持正版",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "在准备与帝国宇宙大战的时刻，联邦需要出现一位英雄人物，用来凝聚联邦公民的意志，调动整个社会全力团结战斗，这是他们所能想到的原因。\n\n    许乐现在当然可能拥有这种影响力，他甚至连前线都没有去过，但无论是研制mx机甲，个人战斗实力，颇具几分传奇色彩的人生，都已经具备了某种基础或者说雏形，所谓万事具",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "在准备与帝国宇宙大战的时刻，联邦需要出现一位英雄人物，用来凝聚联邦公民的意志，调动整个社会全力团结战斗，这是他们所能想到的原因。\n\n    许乐现在当然可能拥有这种影响力，他甚至连前线都没有去过，但无论是研制mx机甲，个人战斗实力，颇具几分传奇色彩的人生，都已经具备了某种基础或者说雏形，所",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第九十一章 5460 \n\n    于这条新闻，联邦的人们反应各自不同。普通民众奇，好奇之后祝福。\n\n    但与当事者许乐简水儿相关的那些人中，南相美失落忧伤，张小萌复杂难言，利修绣平静面容之下已经快要抓狂。\n\n    西林钟家二少爷钟子斯愤怒地砸了电",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "杀四方时候便会再次开动宣传机器，在他的军装之上涂抹一层不可逼视的金光。\n\n    当。这必须要看许乐将来在战场上地表现。军神李匹夫就是联邦集体意志在很多年前打造出来地一位英雄。可如果不是这位传奇人物。真地写就无数难以复制地传奇故事。联邦地宣传机器又有什么用？\n\n    只是联已经有了军神李匹夫什么现",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "时间。”\n\n    “第一次宇宙战争后的数年中国几任皇帝先后派遣了七百三十万名军人入侵西林，这相当于同时期内，联邦征兵总数的三分之二。”\n\n    “面对这样强的入侵者，联邦和宪章光辉让他们付出了惨重的代价在还能存活下来的，顶多还剩七十万人，还分布在三个星系之中。”\n\n    “说到宪章光辉……任何",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "之后地事情？\n\n    “在道大哥说元帅身体挺好。也不知道是不是真地。”简水儿挂断了电话。眉尖微蹙。忧虑说道。她和许乐担忧地事情都是一样地。是以说话间都不再以老头子称呼那位军神大人。\n\n    军神李匹夫地健康状况。绝对是联邦里头等大事是最高等级地秘密。他们虽然是那位老爷子地亲人晚辈也无法完全确定。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "。\n\n    在准备与帝国宇宙大战的时刻，联邦需要出现一位英雄人物，用来凝聚联邦公民的意志，调动整个社会全力团结战斗，这是他们所能想到的原因。\n\n    许乐现在当然可能拥有这种影响力，他甚至连前线都没有去过，但无论是研制mx机甲，个人战斗实力，颇具几分传奇色彩的人生，都已经具备了某种基础或者说雏形",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "道联邦军队战无不胜，帝国人一败涂地。以为这些野兽早就已经被赶到了难以生存的矿星上。为什么这些事情联邦从来没有提到过？”\n\n    白玉兰轻声解释道：“这是宣传的需要，军方一天没有下决心拿回被帝国人占领的三个行政星球，便会刻意淡化这个事实。当年帝国远征军打过来的时候，大部分居民都已经撤离，而且包括５４",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "方准备不足的情况下被民意绑架发动反攻，极有可能破坏整个大计划……但感觉总有些怪异。”\n\n    许乐缓缓低头，看着越来越近的白绿蓝三色行星，说道：“帝国人为了绕过加里走廊和晚蝎星云，不惜花费七年进行远程太空航行，也要发动波澜壮阔的远征。可这里是联邦，我们拥有宪章的光辉，为什么他们还能生存？”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

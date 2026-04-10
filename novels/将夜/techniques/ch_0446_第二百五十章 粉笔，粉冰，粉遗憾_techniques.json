@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 446,
+  "chapter_title": "第二百五十章 粉笔，粉冰，粉遗憾",
+  "filename": "ch_0446_第二百五十章 粉笔，粉冰，粉遗憾.txt",
+  "char_count": 3476,
+  "timestamp": "2026-04-10T12:11:21.803777",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "女教授忽然停下脚步，放下一直伸在空中的手，把粉笔头很细心地用纸包好，然后塞进袖子里。\n　　她看着宁缺说道：“来了？”\n　　宁缺赶紧行礼，说道：“见过教授。”\n　　女教授整理了一下身上那件蓝布大褂，似乎很随意地说道：“亦青眼睛已经瞎了，就放回去吧。”\n　　宁缺知道女教授与南晋剑阁之间有些关系，听着这话",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "桑桑的肩头，带着她跟在那位女教授身后向休息室走去，竟是忘了自己来书院的正事。\n　　当年礼科副教授曹知风为了去长安城看隆庆皇子，当时用的借口是天地元气有变化，不宜上课，当时宁缺就觉得书院的教习们实在是荒唐到了极点，今天这位拿着粉笔头不停前行的女教授，更是令他瞠止结舌。\n　　这样偷懒也行？\n　　走到清幽",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "。”\n　　桑桑轻轻嗯了一声，小心翼翼把冰砂里的草莓碎块挑出来吃了。\n　　夫子这时候似乎才想起来宁缺的存在，问道：“你刚才说什么？”\n　　宁缺恭敬说道：“道痴来了长安城，现在正在我家里，不知道西陵神殿发生了什么事情，竟逼得她离了桃山。”\n　　二师兄神情漠然说道：“光明神座都能离开西陵，叶红鱼这小姑娘被",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "宁缺看着她说道：“如果你拒绝，我能理解。”\n　　叶红鱼停止了梳头的动作，看着他微嘲说道：“我能理解你为什么希望我拒绝，如果我进了书院二层楼，哪里还有你得意的可能？”\n　　宁缺说道：“随便你怎么想。”\n　　叶红鱼说道：“能够成为夫子的学生，是每个修行者最大的梦想，是最大的诱惑，对于我，也不例外。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "她现在就住在我家里。”\n　　二师兄冷冷看了他一眼，不悦说道：“没看见老师正在做要紧事情？”\n　　宁缺心想对着满桌残羹剩菜，能有什么要紧事情，不外乎就是夫子又要吹嘘一下自己的厨艺，你和大师兄要在旁边拍马屁而已。\n　　夫子对着庐外挥了挥手，说道：“草莓冰沙刚好将融未融，最是好吃的时候，你运气不错，也进来",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "搁着的却不是古琴，而是狼籍的餐桌。\n　　大师兄和二师兄规规矩矩坐在夫子身旁。\n　　道痴离开西陵神殿，来到长安城的消息，根本无法让草庐内的三个人有丝毫吃惊的神情，更何况是震惊。\n　　宁缺苦恼想着，看这作派倒确实能够解决麻烦，只是你们觉得这只是件小事，对我来说却是很头痛的大事。\n　　他咳了两声，再次大声",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "老师的意思，他这个做学生的根本没有资格提出任何意见。\n　　忽然间他想到先前夫子说到桑桑身体里的寒气，骤然一凛，才想起来自己这些年一直治不好桑桑的旧疾，竟是忘了书院后山里有这样一位神仙。\n　　“老师，桑桑身体里的旧疾能治好吗？”\n　　夫子看着正在专心致志挑草莓吃的桑桑，叹息说道：“这丫头身上的寒气乃是",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "蠢的家伙，以后不要说是我的学生！昊天神辉乃是世间至明至暖的事物，这丫头既然随卫光明学了神术，哪里还用担心体内的寒气？哪里还需要我出手！”\n　　宁缺心情骤然放松，又有些羞恼，说道：“那您直说不就结了？还非得说这么多废话来调戏我，调戏人会死人的！”\n　　夫子气的胡须乱飘，说道：“居然还敢反驳！我活了几十",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "缺想来想去，除了退学，自己找不到任何办法逼迫对方。\n　　夫子听着这话更是大怒，痛骂道：“愚蠢的家伙，以后不要说是我的学生！昊天神辉乃是世间至明至暖的事物，这丫头既然随卫光明学了神术，哪里还用担心体内的寒气？哪里还需要我出手！”\n　　宁缺心情骤然放松，又有些羞恼，说道：“那您直说不就结了？还非得说这么",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，就算书院再如何嚣张，也没有道理继续囚禁此人，如果真地要把柳白的亲弟弟软禁到老，还真当那位剑圣大人没脾气咩？\n　　女教授看着他问道：“有问题？”\n　　“没问题。”宁缺恭敬说道：“我稍后便进后山请示老师。”\n　　女教授说道：“夫子要我问你的意见，所以你有没有问题？”\n　　宁缺愣了愣，说道：“我……没问",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "入到书院后山，绕镜湖眺瀑布，走到四面透风的草庐外，宁缺躬身说道：“叶红鱼来了长安。”\n　　回应他的是一片沉默，以及山谷里向草庐里吹去的风。\n　　庐内有人，只是没有人愿意理他。\n　　夫子坐在庐内，任四面来风而身形不动，须发微飘，神情陶醉，仿似神仙中人，身前搁着的却不是古琴，而是狼籍的餐桌。\n　　大师兄",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "桑桑有些不好意思地笑了笑，然后拿起竹制的调羹，挖了一勺冰砂送进唇里，细细品尝片刻，微黑的小脸上露出幸福的笑容。\n　　宁缺好奇问道：“真的这么好吃？”\n　　桑桑一手端着盘子，一手拿着调羹，认真地点了点头。\n　　宁缺压低声音说道：“喂我口。”\n　　桑桑看了眼夫子，低着头说道：“这是给我的。”\n　　宁缺",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

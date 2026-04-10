@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 848,
+  "chapter_title": "第二十一章 相看两厌（上）",
+  "filename": "ch_0848_第二十一章 相看两厌（上）.txt",
+  "char_count": 3320,
+  "timestamp": "2026-04-10T12:11:27.290227",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的人想要留下，却不知是否想要相见。\n　　她在光明神殿后的露台上站了很长时间，直到明月消失，群山东面的天空泛起鱼肚白，晨光洒在身上，依然没有离开。\n　　朝云泛着异彩，被不知何处来的风吹散，露出红暖的太阳，她沐浴在阳光里，缓缓眯起眼睛，神情宁静而美好。\n　　她是这个世界的规则，也是这个世界的主宰，落入人",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "国里自己的虚弱，那人曾经说过，月有阴晴圆缺，人有旦夕祸福，那么她有什么？\n　　从落进极北那座雪峰里的瞬间开始，她就想要离开人间，回到自己的国度，因为她感觉到了危险。无论是神国里的她还是在人间的她，都很危险。然而那天神国的门便已经毁了，她如何回去？\n　　今夜桃山上，不同的人看着相同的月亮，想着不同的心",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "法言语，她们来到桃山后，便没有看见过圣女离开光明神殿，西陵神殿里的人们，也从来没有见过圣女的真面门，为什么她忽然要离开，她要去哪里？\n　　第二日清晨，一辆极为普通的马车，停在了光明神殿前。\n　　大黑马从殿里探出头，望向车前那两匹西陵的战马，眼神里释放出无数杀意，想要让那两匹战马知其难而退，从而让自己",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "打算出去走走。”\n　　她看着夜空里那轮明月说道。\n　　两名白衣女童跪在她的身后，震惊的无法言语，她们来到桃山后，便没有看见过圣女离开光明神殿，西陵神殿里的人们，也从来没有见过圣女的真面门，为什么她忽然要离开，她要去哪里？\n　　第二日清晨，一辆极为普通的马车，停在了光明神殿前。\n　　大黑马从殿里探出头",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "那么她有什么？\n　　从落进极北那座雪峰里的瞬间开始，她就想要离开人间，回到自己的国度，因为她感觉到了危险。无论是神国里的她还是在人间的她，都很危险。然而那天神国的门便已经毁了，她如何回去？\n　　今夜桃山上，不同的人看着相同的月亮，想着不同的心事，有的想要离开，有的人想要留下，却不知是否想要相见。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "还有那件事情。\n　　桃花深处隐约有路，不知通向何处，宁缺向那处走去，忽觉山风骤然寒冷，花瓣在枝头不停颤抖，仿佛瞬间来到了寒冬。\n　　万树桃花里隐藏着极了不起的阵法，难怪当年老师登山时会对这些桃花下辣手，宁缺想明白了这件事情，决定立刻退出。\n　　以他现在的境界和符道上的造诣，此时入阵不深，想退出应该不",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "去。\n　　越普通的马车，在庄严肃穆的神殿里越显眼，然而神奇的是，仿佛没有任何神官和执事看到这辆马车的存在，也没有任何人听到蹄声以及白衣女童挥鞭的声音，马车就像鬼魅一般悄无声息下了桃山。\n　　马车没有在山脚下停留，而是继续前行，行过十余里山道，碾过小河上的石桥上，来到一座小镇上，然后停在小镇道殿对面的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "宗修行者来说，然而看崖畔的地面和对面绝壁上的青苔，大概从来没有人来过这里，也从来没有人在对面的绝壁上出现过，两道绝壁从未相通。\n　　两道绝壁就这般沉默相看无数万年，不知可曾相厌。\n　　有阴风自绝壁下方拂来，云雾微散，对面那道绝壁上隐隐出现了一些什么，宁缺的眼力极好，看到仿佛是数排石窗。他有些不确定，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "片桃花对他来说是开放的。\n　　如果换成别的人，肯定会因为这种突然的变化而震撼惘然，继而生出暂时退避的念头，但他却没有，因为他很快便想明白了其中的原因。\n　　满山桃花因为她而盛放，又怎会拦他？\n　　衣袂与桃花相擦，落英阵阵，粉香片片，不需要寻找方向，也不用理会桃花里强大的阵法，只是凭借桃花传与他的感受",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "两名白衣女童跪在她的身后，震惊的无法言语，她们来到桃山后，便没有看见过圣女离开光明神殿，西陵神殿里的人们，也从来没有见过圣女的真面门，为什么她忽然要离开，她要去哪里？\n　　第二日清晨，一辆极为普通的马车，停在了光明神殿前。\n　　大黑马从殿里探出头，望向车前那两匹西陵的战马，眼神里释放出无数杀意，想要",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "光洒在身上，依然没有离开。\n　　朝云泛着异彩，被不知何处来的风吹散，露出红暖的太阳，她沐浴在阳光里，缓缓眯起眼睛，神情宁静而美好。\n　　她是这个世界的规则，也是这个世界的主宰，落入人间渐为凡人，也不需要修行，只需要晒晒太阳便好。虽说那轮红日不知真假，但那些光线与热量却是真实的，是她的力量来源，至于那",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "女童跪在她的身后，震惊的无法言语，她们来到桃山后，便没有看见过圣女离开光明神殿，西陵神殿里的人们，也从来没有见过圣女的真面门，为什么她忽然要离开，她要去哪里？\n　　第二日清晨，一辆极为普通的马车，停在了光明神殿前。\n　　大黑马从殿里探出头，望向车前那两匹西陵的战马，眼神里释放出无数杀意，想要让那两匹",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "法改变，那些坛子里的烈酒已经被她喝完了这个事实。\n　　“我打算出去走走。”\n　　她看着夜空里那轮明月说道。\n　　两名白衣女童跪在她的身后，震惊的无法言语，她们来到桃山后，便没有看见过圣女离开光明神殿，西陵神殿里的人们，也从来没有见过圣女的真面门，为什么她忽然要离开，她要去哪里？\n　　第二日清晨，一辆",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

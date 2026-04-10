@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1087,
+  "chapter_title": "第九十六章 雨中小镇",
+  "filename": "ch_1087_第九十六章 雨中小镇.txt",
+  "char_count": 3342,
+  "timestamp": "2026-04-10T12:11:34.941587",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，就像屠夫说的话一样臭不可闻。\n　　“他人为猪羊，你却是条狗，我一直没有想明白，像你和酒徒这样的人，为什么就这么愿意做狗呢？这件事情，难道真的这么有意思？”\n　　余帘稚嫩的小脸上满是探询的神情，因为认真，所以显得很可爱，黄裙被雨水打湿，却不狼狈，还是可爱，黑黑的马尾辫，自然最可爱。\n　　她就是这么可",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "是那个强字。”\n　　屠夫说道：“你想说继承了轲浩然衣钵的那个宁缺？他确实还可以，可惜阳州城里起了千里风，现在的他……差口气。”\n　　话音方落，他的眉再次挑起。\n　　秋雨里再次响起脚步声，那脚步声很稳定，在屠夫这样层级的强者里，自然能听出那人的身体重心有些问题，却依然如此稳定，那便意味着可怕。\n　　来",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，酒徒已然出手数次，便让书院压力骤增，无法轻动，屠夫却一直没有出手。\n　　他自然很强，甚至应该是世间最强，和已经随般若巨峰陪葬的讲经首座不同，他的人强，刀则更强，因为他很擅长杀人。\n　　无数年来，他杀猪杀羊杀牛也杀人，他的强就在于杀字，这些年隐居不出，杀的人少了很多，不是心境改变，而是夫子的要求……",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "不见得是对的。”\n　　屠夫说道：“听说你是这一代的魔宗宗主？魔宗讲究纳天地元气于体内，和我当年自悟的道理有几分相似，如此算起来，我应该是你们这一门的老祖宗……不过看你连夫子的话也不在意，想来也不会在意这点。”\n　　余帘背着手，踮起脚尖向肉铺里望去，就像那些学大人作派的小姑娘，看着很是可爱，随口说道：",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "缓缓提离地面。\n　　随着她的动作，铁刀的重量传到她的脚下，只听得啪嗒两声脆响，肉铺门槛外的青石地板上出现两团蛛网般的裂痕。\n　　在这个过程里，她始终蹙着眉尖，神情很凝重。\n　　然后她把铁刀放下。\n　　“很好，你有资格和我说话。”\n　　屠夫看着她冷漠说道：“虽然有些吃力，但你毕竟提了起来。”\n　　余帘",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "啪嗒两声脆响，肉铺门槛外的青石地板上出现两团蛛网般的裂痕。\n　　在这个过程里，她始终蹙着眉尖，神情很凝重。\n　　然后她把铁刀放下。\n　　“很好，你有资格和我说话。”\n　　屠夫看着她冷漠说道：“虽然有些吃力，但你毕竟提了起来。”\n　　余帘摇摇头，用手帕认真地擦拭着手指，说道：“你们这些老人家总喜欢自说",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "里只有一家肉铺。\n　　人间只有一位屠夫。\n　　中年道人站在门槛外，看着那名浑身油腻却没有汗水的屠夫，说道：“前辈既然来了，总要做些事情才是。”\n　　屠夫正在分猪肉，听着这句话，望向他沉默了很长时间，声音微哑问道：“你师兄真的准备做那件大逆不道的事情？”\n　　中年道人平静说道：“何谓大逆不道？首先我们",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "院诸人，前辈能杀之，自然最好。”\n　　屠夫和酒徒，是人间活的最久的两名大修行者，要比佛院和夫子更久，从来隐居不出，直到夫子登天，昊天降世，才被迫显露行踪，在这数年里，酒徒已然出手数次，便让书院压力骤增，无法轻动，屠夫却一直没有出手。\n　　他自然很强，甚至应该是世间最强，和已经随般若巨峰陪葬的讲经首座",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "中年道人平静说道：“何谓大逆不道？首先我们要确定道的概念……前辈和酒徒前辈在昊天的眼光下躲藏了无数万年，何尝不是违背了她的道？”\n　　屠夫如墨般的粗眉缓缓挑起，说道：“你们好大的胆子。”\n　　中年道人说道：“帮助师兄，对你们也有好处。”\n　　屠夫说道：“要帮助你师兄，我只需要留在小镇，不来此地",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "她就是这么可爱又可怕的小姑娘。\n　　在荒原与金帐国师那场大战受的伤已经全部养好，她未作停歇，万里南下来到西陵神国，桃山外围的数万名西陵神殿骑兵，又怎么可能拦得住她？\n　　直至她来到小镇肉铺门外，西陵神殿才注意到她的到来，尖锐的示警声划破雨丝响起，蹄声乱作，无数人来到小镇，却不敢踏上长街一步。\n　　屠",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的概念……前辈和酒徒前辈在昊天的眼光下躲藏了无数万年，何尝不是违背了她的道？”\n　　屠夫如墨般的粗眉缓缓挑起，说道：“你们好大的胆子。”\n　　中年道人说道：“帮助师兄，对你们也有好处。”\n　　屠夫说道：“要帮助你师兄，我只需要留在小镇，不来此地便是……因为你我都清楚，帮助你师兄和帮助道门是两回事。”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

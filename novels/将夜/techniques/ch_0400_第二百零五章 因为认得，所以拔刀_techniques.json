@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 400,
+  "chapter_title": "第二百零五章 因为认得，所以拔刀",
+  "filename": "ch_0400_第二百零五章 因为认得，所以拔刀.txt",
+  "char_count": 3416,
+  "timestamp": "2026-04-10T12:11:21.807109",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "亭。\n　　……\n　　……\n　　宁缺看着那把剑，沉默片刻后说道：“我今天不用箭，我用刀。”\n　　不知因为什么原因，他没有问柳亦青这把剑的来历。\n　　同样不知道因为什么原因，柳亦青主动提起了这把剑。\n　　“你认得这把剑？”\n　　宁缺点头说道：“这是春风亭老朝的佩剑。”\n　　柳亦青看着他平静说道：“你难道",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "余自然生出警惕，但神态言语上却是没有丝毫展现，笑着说道：“我比较习惯用扫帚。”\n　　柳亦青微嘲一笑，心想果然又要开始先斗一番嘴吗？看来宁缺果然如传言中那样，从来不会错过任何扰乱对方心绪的机会。\n　　然而就在他准备回话的时候，宁缺忽然敛了脸上的笑容，左手轻掸院服前襟，右手摆在身前空中，看着平静专注说道",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "起左手，满是泥垢的修长手掌间握着一把样式普通的青钢剑。\n　　他举剑望向宁缺，毫无情绪说道：“我知道你最强大的武器是箭，我还是用剑。”\n　　桑桑站在场边青树下，听着这句话，解下了身后沉重的行囊，把大黑伞放到一边，找出黝黑的铁箭匣，准备宁缺说话，便把箭匣送过去。\n　　宁缺没有说话。\n　　他看着柳亦青握在",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "因为这两句话和五百两银票以及小黑子的嘱托，宁缺跟着中年男子走进了雨夜，走进了还没有翻修、破烂不堪的春风亭街巷里，然后他们开始杀人，并肩杀人，直到把所有人都杀干净，他们走回了老笔斋，吃了碗煎蛋面。\n　　那个中年男子有一个非常嚣张的姓，有一个非常温柔的名。\n　　他姓朝，大唐朝的朝。\n　　他叫朝小树。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "里的孤单，来到剑阁后所受到的冷眼，在书院门前静坐三月的所思所得，包括那些唐人嘲讽轻蔑的目光，那些令他愤怒却隐而不发的议论声，以及内心最深处的骄傲，全都融化在这一剑里。\n　　如此简单的一剑，倾注了柳亦青毕生的境界修为，剑锋之前的空气骤然坍缩，向四周避开，出现一道绝对的真空。\n　　空中飘舞的几片青叶，根",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "佩服。”\n　　宁缺没有想到对方竟然没有动怒，诧异之余自然生出警惕，但神态言语上却是没有丝毫展现，笑着说道：“我比较习惯用扫帚。”\n　　柳亦青微嘲一笑，心想果然又要开始先斗一番嘴吗？看来宁缺果然如传言中那样，从来不会错过任何扰乱对方心绪的机会。\n　　然而就在他准备回话的时候，宁缺忽然敛了脸上的笑容，左",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。\n　　趁着无人注意到自己，桑桑从侧门里走了出来。\n　　大概是因为唐小棠的魔宗身份，陈皮皮和她并没有出现。\n　　……\n　　……\n　　柳亦青举起左手，满是泥垢的修长手掌间握着一把样式普通的青钢剑。\n　　他举剑望向宁缺，毫无情绪说道：“我知道你最强大的武器是箭，我还是用剑。”\n　　桑桑站在场边青树下，听",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "情绪说道：“我知道你最强大的武器是箭，我还是用剑。”\n　　桑桑站在场边青树下，听着这句话，解下了身后沉重的行囊，把大黑伞放到一边，找出黝黑的铁箭匣，准备宁缺说话，便把箭匣送过去。\n　　宁缺没有说话。\n　　他看着柳亦青握在左手里的那把普通青钢剑，眉头缓缓挑了起来。\n　　因为他认得这把剑。\n　　两年前从",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "心最深处的骄傲，全都融化在这一剑里。\n　　如此简单的一剑，倾注了柳亦青毕生的境界修为，剑锋之前的空气骤然坍缩，向四周避开，出现一道绝对的真空。\n　　空中飘舞的几片青叶，根本无法落到洁净无尘的青砖地面上，便化为粉末。\n　　书院侧门外的天地元气剧烈地震荡，向着他手中的剑身凝聚灌注，然后再自剑锋渗出，隐然",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "准备宁缺说话，便把箭匣送过去。\n　　宁缺没有说话。\n　　他看着柳亦青握在左手里的那把普通青钢剑，眉头缓缓挑了起来。\n　　因为他认得这把剑。\n　　两年前从渭城来到长安城，他和桑桑在临四十七巷租了个铺面，开起了老笔斋，当时老笔斋的生意很冷清，所以他清楚地记得，老笔斋的第一个客人是谁。\n　　那天长安城在下",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "“我比较习惯用扫帚。”\n　　柳亦青微嘲一笑，心想果然又要开始先斗一番嘴吗？看来宁缺果然如传言中那样，从来不会错过任何扰乱对方心绪的机会。\n　　然而就在他准备回话的时候，宁缺忽然敛了脸上的笑容，左手轻掸院服前襟，右手摆在身前空中，看着平静专注说道：“请。”\n　　他摆出的这个姿式很有气势，而且脸上的平静",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "他摆出的这个姿式很有气势，而且脸上的平静专注神情，配上那个简洁到了极致的请字，顿时惹来围观民众的一片喝彩。\n　　陡峰而至的气氛变化，让柳亦青微微眯起了眼睛。\n　　按照修行界对书院十三先生宁缺的形容，这是一个心性狠辣、对敌决然，但却习惯用废话以及孩子般的斗嘴的人。\n　　西陵神殿裁决司曾经得出过这样",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "他看着柳亦青握在左手里的那把普通青钢剑，眉头缓缓挑了起来。\n　　因为他认得这把剑。\n　　两年前从渭城来到长安城，他和桑桑在临四十七巷租了个铺面，开起了老笔斋，当时老笔斋的生意很冷清，所以他清楚地记得，老笔斋的第一个客人是谁。\n　　那天长安城在下雨。\n　　老笔斋外的檐下，有个中年男子在避雨，那个男子穿",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "到把所有人都杀干净，他们走回了老笔斋，吃了碗煎蛋面。\n　　那个中年男子有一个非常嚣张的姓，有一个非常温柔的名。\n　　他姓朝，大唐朝的朝。\n　　他叫朝小树。\n　　……\n　　……\n　　宁缺和朝小树见面的次数并不多。\n　　但他记得朝小树这个人，而且想来一辈子都不会忘记。\n　　他也认得朝小树身上那把看似普通",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

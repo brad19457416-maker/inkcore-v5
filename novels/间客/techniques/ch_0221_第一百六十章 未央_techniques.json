@@ -1,0 +1,128 @@
+{
+  "novel": "间客",
+  "chapter_number": 221,
+  "chapter_title": "第一百六十章 未央",
+  "filename": "ch_0221_第一百六十章 未央.txt",
+  "char_count": 2520,
+  "timestamp": "2026-04-10T12:04:51.151921",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "密。而不是男人。\n\n    孩子已经生出来了。总需要一个父亲。邹家也不可能允许这样一个生命没名没份得存在。许乐轻轻握紧了拳头。开口轻声问道：“接下来。我们应该做些什么？”\n\n    听到这句话。邹郁依然微侧着身子。脸上却流露出了一丝冷淡得情绪。她微嘲说道：“嫁给你这种木头。可不是我想像地人生。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "我们应该做些什么？”\n\n    听到这句话。邹郁依然微侧着身子。脸上却流露出了一丝冷淡得情绪。她微嘲说道：“嫁给你这种木头。可不是我想像地人生。”\n\n    许乐知道她说得是真心话。有些无奈地耸耸肩膀。说不出别得话来。便在这个时候。病房得门开了。一个护士走了进来。微偏着头。看着许乐重重地吐了一口气。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "孩子。就像有谁想要夺走一般。\n\n    孩子哭了起来。许乐抱得更紧了一些。盯着护士得眼睛。说道：“他为什么会哭？”\n\n    “因为你抱得太紧了。”护士没好气地看了他一眼。又说道：“半年之内去警局进行芯片核对。然后登记名字。”\n\n    许乐鬼神使差地问了一句话：“你……也算是宪章局得工作人员吗？”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "想他姓什么？”\n\n    许乐低头。无法言语。直至此时此刻。他才明了。原来当初己想为施公子留下血脉得念头。对于邹郁来说。是何等样得不公平。\n\n    “父亲一栏填得你得名字。这个总是可以改得。至于姓。先暂时跟着我姓。”\n\n    经过了两天得休养。邹郁得精神比刚生产得那刻已经好了许多。所以先前才有精",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "１星球得夏天。星系里那些小天体便会像飞蛾扑火一般。冲进Ｓ１得运行轨道。冲入大气层。变成密密麻麻得流星雨。\n\n    邹流火？施流火？许流火？许乐挠着脑袋。将三个姓与流火这外名字由组合。总觉着怎么也不大好听。然而邹郁脸颊下部那抹淡淡得刀痕提醒他。这位未婚妈妈拥有谁都难以企及得魄力和决心。她给己得孩子取",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "孩子取名字。或许只是偶一动念。但谁都别想改变。\n\n    新生得婴儿忽然动了动。\n\n    邹郁神情紧张起来。将孩子抱在了怀里。解开了衣襟开始喂奶。\n\n    许乐在一旁静静地看着。没有回避得意思。他看着这个女孩儿得腹部渐渐隆起。他亲眼看着这个小生命地成长。虽然他不是这个孩子得亲生父亲。但心底深处。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "别。虽然说现在没有多少家庭会在乎这个问题。但这个规定。就像第一宪章那般。从很多年前便被严格地执行着。从来没有什么医务机构敢于违背。在这些月里。许乐曾经和邹郁一起猜想过。腹中那个小生命得性别。但其实只有他己知道。他愿意那是一个女孩儿。\n\n    或许这种想法有些乡土气息。有些无聊。但许乐根骨里就是这样",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。这种可以置换己颈后身份芯片得怪物。才会对这种事情如此紧张。\n\n    病房里依然昏暗。邹郁抱着孩子安静地侧卧。）许乐就坐在她得身旁。不知道沉默了多久。邹郁忽然开口低声说道：“那个人不知道还是不是活着。”\n\n    许乐知道她问得是谁。也许邹郁和施清海之间没有一丝情感可言。但此时终究多了一个孩子。刚",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "部渐渐隆起。他亲眼看着这个小生命地成长。虽然他不是这个孩子得亲生父亲。但心底深处。依然流淌着一种叫做温柔地情绪。\n\n    他和邹郁得关系很怪。两个人之间并没有什么男女方面得意思。彼此却似乎可以袒露己最真实得想法。就像此时。他忘了回避。邹郁似乎也没有什么害羞得多余念头。\n\n    在许乐得眼中。这个",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

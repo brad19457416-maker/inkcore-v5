@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 159,
+  "chapter_title": "第九十八章 关于血脉的谈判",
+  "filename": "ch_0159_第九十八章 关于血脉的谈判.txt",
+  "char_count": 3386,
+  "timestamp": "2026-04-10T12:04:45.671343",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "。”\n\n    想到邰之源某天的话语，许乐忍不住转过头，下意识里瞄了一下邹郁有着美妙曲线的腰臀一眼，心想这等绝妙的身材，在那位夫人眼里，最关键的居然是好生养。\n\n    不得不说，那位夫人的眼光确实很独到，施清海与身旁这位红衣少女，不过是春风一度，结果女方便珠胎暗结，一方面说明施清海能力了得，另一方",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "却是真正地将这件事情摊了开来，红衣少女地心房像是被玫瑰河畔的雪碴子抹了一下，有些酸，有些痛。故而有些愤怒。\n\n    最近这几个月，她的心情一直十分低落，低落的原因却很复杂。被她期盼了很久的双月节舞会，最后以许乐与张小萌的相见为闹剧收场，她感到了羞辱与深深地难过，可是事后，她才发现难过失望之余，竟也",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "得到你说话。”\n\n    许乐顿了顿，微微低头说道：“这件事情对你确实不公平，但是施清海现在的境况太危险，在他不知情的情况下，如果你选择不要这个孩子……对他也未免太不公平。”\n\n    “很抱歉，我毕竟是他的兄弟。现在眼下有两条路给你选，一条路是把这个孩子打掉，然后把这件事情永远地隐瞒下来，但是……",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "……她一时间根本无法接受这个事实。\n\n    邰夫人依然偶尔会请她一起喝下午茶。父亲与兄长依然坚信她将来一定会成为邰之源地伴侣。长年来被耳薰目染。潜移默化。邹郁一直将自己看成邰之源地妻子。此时竟怀了别地男人地孩子。她竟生出了一些古怪地羞愧和慌张感觉。就像是偷情地女孩子。被抓到了最实在地证据。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "键的居然是好生养。\n\n    不得不说，那位夫人的眼光确实很独到，施清海与身旁这位红衣少女，不过是春风一度，结果女方便珠胎暗结，一方面说明施清海能力了得，另一方面也必须承认邹家大小姐确实……\n\n    邹郁想到了小时候遇着的那次事故，面色微变，紧接着，她又想到了自己此时所面临的绝大困境，脸色渐渐苍白",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "他能看出对方的漠然是伪装出来的。\n\n    他发现邹郁犹豫了许久之后，依然没有问出那个人的名字，开口说道：“施清海现在是联邦调查局秘密追捕的嫌犯，不过人应该没事，至于他现在在哪里，我真的不知道。”\n\n    听到施清海这三个字，知道身旁的男人猜到了自己的想法，邹郁微白的脸颊上闪过一丝恼怒的红晕，漂亮",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "是看着车前方，缓声说道：“我不知道你在外面的名声怎么样，就算有，也应该是最近的事情。邰夫人，邰之源的存在，以及你的家庭，都保证了，你不可能是一个随便与人发生关系的女生。”\n\n    “我是施清海的兄弟，我知道那家伙确实很流氓，但能够抵挡得住他魅力的女人，实在是太少，而且我很凑巧地知道，你们曾经在一起",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "逃不过他的双眼。人的身体当然与机器不同，而机械师大胆猜测，小心验证的职业特性，让他成功地猜到了邹郁的秘密。\n\n    黑色汽车在望都安静的街道上行驶着，两个人却一时间沉默下来，毕竟不是什么相熟的人，甚至在过往时候是彼此厌憎的人，寻找话题，比在临海州的冬雪中寻找梨花更为困难。\n\n    沉默了片刻之后",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "从知道怀孕地那一刻。她就知道孩子地父亲是谁。那张漂亮而挂着刻薄笑容地脸蛋。那对桃花眼。偶尔也会出现在她地想像中。梦境中。可是当她知道那个曾经打过自己耳光。并且和自己有过一夜情地流氓官员。让自己珠胎暗结时……她一时间根本无法接受这个事实。\n\n    邰夫人依然偶尔会请她一起喝下午茶。父亲与兄长依",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "九十八章 关于血脉的谈判 \n\n    看得出来，你骨子里其实还是一个蹲坑兵，所以对于联邦里拥有财富与权力的阶层，有一种可怜的天然仇视感。”\n\n    邹郁轻轻地抚摩着小腹，那里的突起不止不明显，实际上根本看不出来什么，所以她不知道许乐是怎么看出来自己怀了孕，此时的说话，更大的程度上是用刻薄来掩饰她的",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，他也只能选择用这种无耻的办法，来威胁一个天然处于弱势的少女。这不是一个善良的处理方法，并不符合他的性格，但却绝对符合一个东林孤儿的逻辑，在他们这些孤儿看来，有很多东西是最重要的事情。\n\n    比如后代，比如血脉小.说。t/x/t天.堂",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "在家人发现自己怀孕之前。她与父亲兄长大吵了一架。借机会搬了出来。开始与联邦上层那个里地同龄人们打混嬉游。看似疯狂。实则内心极为惊恐不安。她开最快地车。喝最烈地酒。日趋疯狂。就是因为她不知道怎样面对自己即将隆起地小腹……要扼杀腹中地小生命。她实在是不忍心。而且有时候她也会怔怔出神想起那个有一",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "器不同，而机械师大胆猜测，小心验证的职业特性，让他成功地猜到了邹郁的秘密。\n\n    黑色汽车在望都安静的街道上行驶着，两个人却一时间沉默下来，毕竟不是什么相熟的人，甚至在过往时候是彼此厌憎的人，寻找话题，比在临海州的冬雪中寻找梨花更为困难。\n\n    沉默了片刻之后，邹郁漠然地问到了邰之源的现况。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

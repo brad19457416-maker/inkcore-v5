@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 714,
+  "chapter_title": "第九十五章 唐不乱",
+  "filename": "ch_0714_第九十五章 唐不乱.txt",
+  "char_count": 4363,
+  "timestamp": "2026-04-10T12:11:27.012448",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "如今李渔监国，有此手书，而且骁骑营统领是自家兄弟，所以他有信心，能够带着骁骑营离开长安。\n　　回到春风亭横二街后，朝宅开始大摆宴席，又请了戏班来热闹。\n　　值此大唐风雨飘摇之际，此等作派，实在是有些刺眼。\n　　但无论是参加酒席的宾客、抱着孩子默默哭泣的霖子，还是手持拐杖神情宁静的朝老太爷，都没有人提",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "着御书房紧闭的大门，略带忧虑说道：“若有镇国大将军坐镇长安，无论军心还是民心都会得到进一步的稳固。臣担心的还是清河郡，诸阀虽说臣服多年……”\n　　“不用担心。诸阀耗费了如此多的资源，才把珲圆和我推到这个位置，即便他们有别的想法，也不可能在如此短的时间内，强行改变方向，不然那种强大的撕扯力，会让诸阀内",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "李渔沉默，忽然拿起案上的一块镇纸摔到地上。\n　　啪的一声，镇纸碎成无数块。\n　　她无法压抑心中的愤怒，身体微颤道：“书院依旧封门不见客……我大唐养书院千年，现在帝国危殆，难道他们还不肯出手？”\n　　便在这个时候，有太监在御书房外轻声说了句话。\n　　李渔怒意未消，寒声喝退。\n　　那名太监声音微颤，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，还是坦白一些为好。如果我所料不差，父皇去世的消息传到南诏后，许世将军就已经踏上了归程。”\n　　李渔说道：“现在不是追究这些事情的时候，我要让你转告老将军，如今的长安城，如今的帝国正是最需要他的时候，西陵神殿诏令天下伐我大唐，定然会对他不利，请老将军务必小心。”\n　　那名将领没有想到公主殿下非但不怪",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "神情冷漠说道：“而且诸阀后人，包括崔老太爷的二公子和几名亲孙都在长安，他们岂能生出异心？”\n　　莫晗思忖片刻，觉得殿下的安排，确实没有什么漏洞，但他脸上忧虑的神情依然没有完全消除，说道：“书院还是没有什么动静？”\n　　李渔沉默，忽然拿起案上的一块镇纸摔到地上。\n　　啪的一声，镇纸碎成无数块。\n　　她",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "动静？”\n　　李渔沉默，忽然拿起案上的一块镇纸摔到地上。\n　　啪的一声，镇纸碎成无数块。\n　　她无法压抑心中的愤怒，身体微颤道：“书院依旧封门不见客……我大唐养书院千年，现在帝国危殆，难道他们还不肯出手？”\n　　便在这个时候，有太监在御书房外轻声说了句话。\n　　李渔怒意未消，寒声喝退。\n　　那名太监",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "朝小树说道：“厢军行动迟缓，无法跟上草原骑兵的速度。”\n　　李渔说道：“那些东荒的草原骑兵，没有什么危险，即便放他们进入国境，也无法影响到整体的战局。”\n　　“但大唐东部的子民，会被杀害，会被掳掠，会被活活烧死。”\n　　朝小树静静看着他，说道：“我知道你在想什么。放纵那些草原骑兵入侵，只要他们抢劫的",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "河郡十万州军还有诸阀合计三万庄军，定会与水师诸部配合，拼死也要把神殿来敌和南晋军队挡在大泽以南，即便最终不敌，也一定会为帝国争取到足够的时间。”\n　　“很好。”李渔静静看着他说道。\n　　当宋御史离开之后，英华殿大学士莫晗从书架后走了出来。他看着御书房紧闭的大门，略带忧虑说道：“若有镇国大将军坐镇长安",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "挡住他们，便只能依赖大泽上的水师和清河郡诸阀。”\n　　李渔说的这些事情，都是朝堂上过了明路的安排，不存在泄密的问题，她静静看着宋御史说道：“本宫不会忘记承诺清河郡诸阀的事情，也希望诸阀在此时有所表现，对于诸阀在西陵神殿里的安排，本宫非常期待。”\n　　宋御史毫不犹豫双膝跪倒，大礼相拜，诚声说道：“请殿",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "块。\n　　她无法压抑心中的愤怒，身体微颤道：“书院依旧封门不见客……我大唐养书院千年，现在帝国危殆，难道他们还不肯出手？”\n　　便在这个时候，有太监在御书房外轻声说了句话。\n　　李渔怒意未消，寒声喝退。\n　　那名太监声音微颤，却没有依言退下，仍然继续说道，有人要见殿下。\n　　听到那个人的名字，李渔怔",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "位置，即便他们有别的想法，也不可能在如此短的时间内，强行改变方向，不然那种强大的撕扯力，会让诸阀内部出现极大的问题。”\n　　李渔不等他说完，神情冷漠说道：“而且诸阀后人，包括崔老太爷的二公子和几名亲孙都在长安，他们岂能生出异心？”\n　　莫晗思忖片刻，觉得殿下的安排，确实没有什么漏洞，但他脸上忧虑的神",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "说道：“哪怕你明知道，骁骑营根本无法改变东面的局势？”\n　　朝小树说道：“至少，我们要让那片土地上的人们知道，大唐没有忘记他们。”\n　　李渔沉默了很长时间，然后说道：“第一道旨意我不会给你。”\n　　朝小树说道：“多谢殿下。”\n　　……\n　　……\n　　李渔在御书房里召见诸人的时候，她的弟弟李珲圆，也在",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "军行动迟缓，无法跟上草原骑兵的速度。”\n　　李渔说道：“那些东荒的草原骑兵，没有什么危险，即便放他们进入国境，也无法影响到整体的战局。”\n　　“但大唐东部的子民，会被杀害，会被掳掠，会被活活烧死。”\n　　朝小树静静看着他，说道：“我知道你在想什么。放纵那些草原骑兵入侵，只要他们抢劫的越厉害，杀烧的越",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "本来以为不过是隆庆带着草原骑兵扰边，哪里想到，最终竟变成了举世相伐！朕要保住大唐，便要保住大将军，你马上去办！”\n　　……\n　　……\n　　朝小树离开了皇宫。\n　　他没有拿圣旨，拿的是李渔的手书。\n　　如今李渔监国，有此手书，而且骁骑营统领是自家兄弟，所以他有信心，能够带着骁骑营离开长安。\n　　回到春",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "备在路上对他进行伏击。”\n　　何明池闻言微惊，说道：“陛下……难道你想让这件事情曝光？”\n　　李珲圆缓缓抬起头来，狠狠盯着他，咬牙寒声说道：“就算让军方知道朕曾经试图与敌人联手，诛杀镇国大将军，朕也要把这件事情挽回来！”\n　　“朕本来以为不过是隆庆带着草原骑兵扰边，哪里想到，最终竟变成了举世相伐！朕",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

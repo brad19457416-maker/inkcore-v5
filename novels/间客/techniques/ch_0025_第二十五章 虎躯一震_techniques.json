@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 25,
+  "chapter_title": "第二十五章 虎躯一震",
+  "filename": "ch_0025_第二十五章 虎躯一震.txt",
+  "char_count": 2397,
+  "timestamp": "2026-04-10T11:53:11.031342",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "张，夸张到空气里似乎都开始嗡嗡作响。\n\n    机修师的双腿颤抖若弓弦！双手颤抖若受力而屈，时刻准备爆发的箭！空气中嗡嗡的声响，越来越密，终于变成了一记闷雷般的空爆声！\n\n    封余身上那块石头不知何时到了他的手中，然后变作了一颗炮弹，直接砸向了密林深处，喀喇一声，发出一声金属破损的异响。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "里钻了出来，扶着腰大口的喘息，这才发现原来自己真的老了。他看了看四周安静的环境，眼瞳里闪过一丝嘲讽，心想联邦方面还真是很看的起自己。\n\n    突进阵形？看样子和那年一样，这些军人接受的命令依然是格杀勿论……封余坐在了一块大石头上，从上衣口袋里取出烟卷，点燃后深深地吸了一口，脸上流露出畅美的神情。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "被电子监控定位，但是他不亲眼看着老板的身影，他总是不放心。\n\n    就在他的脚尖踏上大树顶端的那一刹那，他看到了他想看到的，更看到了他不想看到的，视线落在此地与矿坑间的某处山林间，久久无法挪开。他的脸色苍白，嘴唇发抖，眼瞳里充满了绝望的情绪。\n\n    “老板你说你会一直活着，原来你还是在骗我……",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，右手奋力一探，抓住了水泥壁上一处突起的锈蚀把手，将半个身子悬在污水之中，略喘息片刻，体内那股熟悉的颤抖感觉再次出现，传递到手臂上，骤然一热，身体却是感觉骤然一轻……\n\n    如一只狸猫般，许乐瘦削的身躯在空中一个漂亮至极的转折，人已经从渐缓的水势中爬了出来。他趴在水泥地上，不停地喘息着，身上的汗",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，点燃后深深地吸了一口，脸上流露出畅美的神情。\n\n    封余不知道此次带队的军官是谁，也不知道对方为什么如此小心，没用m52射速恐怖的链式钢弹直接将自己所处的树林扫射成满地残渣，而是选择了一步步缩小包围圈。\n\n    那些开启了迷彩功能的机甲，和那些大树混在一起还真是容易骗过人的眼睛。只是那些趴在",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "探，抓住了水泥壁上一处突起的锈蚀把手，将半个身子悬在污水之中，略喘息片刻，体内那股熟悉的颤抖感觉再次出现，传递到手臂上，骤然一热，身体却是感觉骤然一轻……\n\n    如一只狸猫般，许乐瘦削的身躯在空中一个漂亮至极的转折，人已经从渐缓的水势中爬了出来。他趴在水泥地上，不停地喘息着，身上的汗水血水污水混",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的森林覆盖率下，想用肉眼发现对方的踪迹，实在是一件极为困难的事情。\n\n    许乐不甘心，他继续向着山丘上的大树顶端爬去，虽然他知道如果自己再呆久一些，只怕会被电子监控定位，但是他不亲眼看着老板的身影，他总是不放心。\n\n    就在他的脚尖踏上大树顶端的那一刹那，他看到了他想看到的，更看到了他不想看",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "2左腿关节暴露在外的液压管，就被这**的一拳砸断！机油像爆布喷射中，庞大的金属机甲忽然间失却了平衡，缓缓倒下　小＿说txt天'堂",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "毫无踪影，暮色下的山林，充满了一种怪异的氛围。\n\n    在城市中注视此次行动的东林警备区军官，心中纷纷闪过猜疑，对于那位莱克上校的指挥生出诸多想法。就算目标1是联邦史上最穷凶极恶的叛国贼，但毕竟此时对方只是一个人，又怎么可能是这么多精锐部队的对手？\n\n    更关键的是，联邦方面出动了十一台m52",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "时浮时沉，腥臭的水流将许乐打沉水底，又拎着他的身体翻出浪来，不知道漂流了多久，吃了多少口水，终于来到了一处水势渐趋平缓的地段。许乐抓住这难得的机会，右手奋力一探，抓住了水泥壁上一处突起的锈蚀把手，将半个身子悬在污水之中，略喘息片刻，体内那股熟悉的颤抖感觉再次出现，传递到手臂上，骤然一热，身体却是",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 889,
+  "chapter_title": "第六十二章 理还乱",
+  "filename": "ch_0889_第六十二章 理还乱.txt",
+  "char_count": 3420,
+  "timestamp": "2026-04-10T12:11:27.396706",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "什么会这样？”\n　　“因为她是小师弟的本命。”\n　　唐很是震惊，不知该说些什么。\n　　余帘望向高远的天空，感慨说道：“老师当年收小师弟为关门弟子，如今想来，原来竟是落在此处。”\n　　唐皱眉说道：“但她应该也能算到这一点。”\n　　“即便是天算，也不能算自己的本命。”\n　　余帘其实并不清楚，她之所以不能",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，像双无形的手，把地面上的那堆灰捧起，慢慢地向神殿外行去。\n　　桑桑随着风中的灰而行，离开露台，缓步来到神殿外的崖坪上，目光随着空中缓缓洒落如雪的灰，落向山下。\n　　此时的桃山前坪一片混乱，光明祭的祭品已经消失无影，数十道神符在清光阵上显得那般清晰，宁缺已经做了很多事。\n　　她看着祭坛前那个身影，再",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "怎样算都算不过她，那么便让她自己去算，反正无论她怎样算，都只能让局面变成小师弟想要的那种。”\n　　“为什么会这样？”\n　　“因为她是小师弟的本命。”\n　　唐很是震惊，不知该说些什么。\n　　余帘望向高远的天空，感慨说道：“老师当年收小师弟为关门弟子，如今想来，原来竟是落在此处。”\n　　唐皱眉说道：“但",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "在和肩头坐辇里的老师继续着先前那场未完的谈话。\n　　“柳白的剑就算能让她多愁善感，但多愁善感又有什么意义？”\n　　“她若多愁善感，小师弟便有机会。”\n　　余帘坐在辇内，就像坐在小山上。她看着南方缓缓挑起细眉，因为有清风疾来，其间蕴藏着很多信息。\n　　唐也感知到了那些信息，忽然觉得吹着胸膛的风有些寒冷",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "般清晰，宁缺已经做了很多事。\n　　她看着祭坛前那个身影，再难控制自己的怒意，于是山间的清风骤然变得狂暴起来，从神殿向人间的四面八方呼啸而去。\n　　……\n　　……\n　　南晋都城临康的秋天，并不如何天高云淡，反而颇受秋老虎之苦，尤其是东城那些贫民居住的街巷，因为秋雨而显得更加污烂。漫过碎砖的污水散发着难",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "昊天，别的事情都在她的算中。去年在书院后山放走熊初墨，对南海来人的漠视，都是她的谋算里的一部分，至于最终会结出怎样的果实，她现在还不清楚，但她非常肯定，道门必然会进一步走向衰落。\n　　道门的衰弱，便意味着书院的强大。\n　　唐忽然说道：“其实有时候我一直在想，如果没有当年那个故事，莲生大师活到现在，那",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "力进入了他的身体，这并不意味着胜利，但他已经能够确认那道联系已经重新建立，所以他很平静。\n　　她则很愤怒。\n　　昊天神国的门被毁，她遗落人间，无路可回，从醒来的第一刻开始，她最先做的事情，便是完全隔绝与宁缺之间的联系。\n　　这便是为什么宁缺在长安城里感受不到她的存在。然而她没有想到，今天的桃山就像是",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "入冬后的改造维修做安排。他于清风里回首望向西陵神国的方向，有所感应。\n　　他看着在街巷间盈绕的清风，感慨说道：“你真的看到了。”\n　　这句话是对离开人间的那位故人说的。在柳白离开临康之前，叶苏曾经祝柳白能够得见大道，柳白看到了，所以他很欣慰。\n　　……\n　　……\n　　富春江的秋是那般的迷人，岸旁的秋",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "阵上显得那般清晰，宁缺已经做了很多事。\n　　她看着祭坛前那个身影，再难控制自己的怒意，于是山间的清风骤然变得狂暴起来，从神殿向人间的四面八方呼啸而去。\n　　……\n　　……\n　　南晋都城临康的秋天，并不如何天高云淡，反而颇受秋老虎之苦，尤其是东城那些贫民居住的街巷，因为秋雨而显得更加污烂。漫过碎砖的污",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "捧起，慢慢地向神殿外行去。\n　　桑桑随着风中的灰而行，离开露台，缓步来到神殿外的崖坪上，目光随着空中缓缓洒落如雪的灰，落向山下。\n　　此时的桃山前坪一片混乱，光明祭的祭品已经消失无影，数十道神符在清光阵上显得那般清晰，宁缺已经做了很多事。\n　　她看着祭坛前那个身影，再难控制自己的怒意，于是山间的清风",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "了……她果然无敌，我们去桃山没有任何意义，除了宁缺，谁也没有办法对付她。”\n　　唐说道：“我只是有些担心。”\n　　余帘说道：“唐小棠、皮皮还有宁缺，此时都在桃山，神殿还把红袖招喊去了桃山，你知道这意味着什么？”\n　　“不知道。”\n　　“红袖招里有个叫小草的姑娘，是她以前在长安城最好的朋友，唐小棠是她",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "第六十二章 理还乱\n　　光明神殿里起了一阵风，风很温柔，像双无形的手，把地面上的那堆灰捧起，慢慢地向神殿外行去。\n　　桑桑随着风中的灰而行，离开露台，缓步来到神殿外的崖坪上，目光随着空中缓缓洒落如雪的灰，落向山下。\n　　此时的桃山前坪一片混乱，光明祭",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "后的改造维修做安排。他于清风里回首望向西陵神国的方向，有所感应。\n　　他看着在街巷间盈绕的清风，感慨说道：“你真的看到了。”\n　　这句话是对离开人间的那位故人说的。在柳白离开临康之前，叶苏曾经祝柳白能够得见大道，柳白看到了，所以他很欣慰。\n　　……\n　　……\n　　富春江的秋是那般的迷人，岸旁的秋树变",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "宁缺曾经对她说过一段话。\n　　“我和你提过那个叫陈皮皮的书院学生……你帮我记一下，我欠这家伙一条命，以后合适的时间合适的地点……提醒我想办法还给他。”\n　　原来她一直都记得这段话，所以她想要杀死陈皮皮、先斩一束尘缘，但无论她怎么算，算到最后的结果，依然是陈皮皮会活着。\n　　原来无论怎样隔绝与宁缺之间",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "皮会活着。\n　　原来无论怎样隔绝与宁缺之间的联系，那个联系其实一直都在，她始终都是他的本命，这个事实从来没有改变过。\n　　她要斩尘缘，却斩不断，反而越来越乱。\n　　她如何能够不愤怒？\n　　……\n　　……\n　　（斩尘缘，斩不断，理还乱，前后没连着的三章，便是这段戏的主线，讲清楚了就好。）",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "而行，离开露台，缓步来到神殿外的崖坪上，目光随着空中缓缓洒落如雪的灰，落向山下。\n　　此时的桃山前坪一片混乱，光明祭的祭品已经消失无影，数十道神符在清光阵上显得那般清晰，宁缺已经做了很多事。\n　　她看着祭坛前那个身影，再难控制自己的怒意，于是山间的清风骤然变得狂暴起来，从神殿向人间的四面八方呼啸而去",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

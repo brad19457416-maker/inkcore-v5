@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1116,
+  "chapter_title": "第一百二十五章 开天（上）",
+  "filename": "ch_1116_第一百二十五章 开天（上）.txt",
+  "char_count": 2502,
+  "timestamp": "2026-04-10T12:11:34.937724",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "余帘继续奔掠，脚上的绣花鞋早就散成了布缕，赤裸而洁净如白玉的双足，踏着残雪与污浊的泥水，震动着整片大地。\n　　黄裙像黄叶一般不停飘拂，却始终不肯坠下枝头，因为那不是秋天将落的枯叶，而是春深时，有些提前成熟、依然生意盎然的叶片。\n　　西陵神国的田野里，南晋临康城外的丘陵间，满野的芦苇中，黄裙不停闪现",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "他在湖畔静静站了很长时间，体会了很长时间。\n　　他没有进过书院后山。\n　　这个地方，对他来说很有意义。\n　　然后他离开，去寻找那卷天书。\n　　书院里有个地方藏书最多，那是个崖洞。\n　　观主来到崖洞前，才发现，原来书院后山还有人。\n　　那是一个读书人。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "。\n　　或者是因为那七卷天书？\n　　“离开桃山之前，我便想明白了一件事情，道门与书院其实是同道中人，为什么？因为人是所有社会关系的集合，那么世界便是所有人意识的集合，人是怎样想的，世界便是怎样构成的，昊天也便是如此产生的。”\n　　观主看着他继续说道：“只不过书院认为自己代表了绝大多数人的广大利益，而",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "下走去，下一刻便会消失在虚空里。\n　　大师兄看着他的背影，说道：“我还活着。”\n　　这场没有旁观者的战斗，已然分出胜负，然而却似乎将不会分出生死，为什么？\n　　观主笑了笑，没有说什么。\n　　大师兄懂了。\n　　追求永恒者怕寂寞。\n　　最不会杀天下第二的人，是天下第一。\n　　活着，无论永恒还是漫长，最重",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，他世间第二，第二打不过第一，这是理所当然的事情，书院讲究的就是理所当然，那么便不需要后悔，更不需要愤怒。\n　　“昊天回了长安，书院上了西陵……你曾经说过一句话，得道者多助……现在看来，终究还是我们得了真正的道。”\n　　大师兄看着观主说道：“用君陌的话来说，道是什么？道就是道理，我们占着道理，那么凭",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的丘陵间，满野的芦苇中，黄裙不停闪现，没有用多长时间，她便来到了数百里之外，然后继续向北。\n　　黄裙出现在微寒的大泽上，破开寒风，破开迷雾，破开她人生的这场雾，她的赤足踏在微漾的湖水上，踩出一道道抹不掉的痕迹。\n　　一路向北，余帘要越过千万里，去看看他究竟怎么样了。\n　　……\n　　……\n　　“真快。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "过千万里，去看看他究竟怎么样了。\n　　……\n　　……\n　　“真快。”\n　　观主看着南方遥远某处，淡淡感慨道，然后转身，望向断崖深处，说道：“但你知道，她不可能比我们更快。”\n　　余帘一步便是数里，人世间没有谁比她更快，然而酒徒死后，还有观主还有大师兄，掌握了无距境的大修行者，已经超出快这个字的意思。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "叶片。\n　　西陵神国的田野里，南晋临康城外的丘陵间，满野的芦苇中，黄裙不停闪现，没有用多长时间，她便来到了数百里之外，然后继续向北。\n　　黄裙出现在微寒的大泽上，破开寒风，破开迷雾，破开她人生的这场雾，她的赤足踏在微漾的湖水上，踩出一道道抹不掉的痕迹。\n　　一路向北，余帘要越过千万里，去看看他究竟怎",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "该很静清楚，这不代表我的道理就无法成立。”\n　　前段时间他与大师兄说过类似的话，当时大师兄的神情极为凝重，因为这意味着长安城能保护宁缺，却不见得能保护桑桑。\n　　或者是因为那七卷天书？\n　　“离开桃山之前，我便想明白了一件事情，道门与书院其实是同道中人，为什么？因为人是所有社会关系的集合，那么世界便",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "七卷天书？\n　　“离开桃山之前，我便想明白了一件事情，道门与书院其实是同道中人，为什么？因为人是所有社会关系的集合，那么世界便是所有人意识的集合，人是怎样想的，世界便是怎样构成的，昊天也便是如此产生的。”\n　　观主看着他继续说道：“只不过书院认为自己代表了绝大多数人的广大利益，而我认为自己代表了绝大",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "者是因为那七卷天书？\n　　“离开桃山之前，我便想明白了一件事情，道门与书院其实是同道中人，为什么？因为人是所有社会关系的集合，那么世界便是所有人意识的集合，人是怎样想的，世界便是怎样构成的，昊天也便是如此产生的。”\n　　观主看着他继续说道：“只不过书院认为自己代表了绝大多数人的广大利益，而我认为自己",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "多数人的广大利益，而我认为自己代表了绝大多数的广大利益。”\n　　大师兄说道：“这种事情，难道不应该由人们自己决定？”\n　　观主说道：“不然，人类根本不清楚自己要什么？”\n　　大师兄不同意，说道：“所以你可以把自己的意志强加于他们身上？”\n　　观主说道：“父母对孩子是怎样管教的？”\n　　大师兄说道：“",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "观主认为自己的理念是正确的，那么，他总要证明给人看。\n　　给谁看？谁有资格看。\n　　自然，只有李慢慢有这个资格。\n　　“其实你应该很清楚，你我这场战斗最主要的目的，是为了明字卷。”\n　　杀死桑桑，对观主来说是件很重要的事情，但要夺取桑桑的神格，很明显，收集七卷天书才是最重要的事情。\n　　道门保管",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "……\n　　……\n　　“真快。”\n　　观主看着南方遥远某处，淡淡感慨道，然后转身，望向断崖深处，说道：“但你知道，她不可能比我们更快。”\n　　余帘一步便是数里，人世间没有谁比她更快，然而酒徒死后，还有观主还有大师兄，掌握了无距境的大修行者，已经超出快这个字的意思。\n　　大师兄坐在崖石堆里，胸前尽",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

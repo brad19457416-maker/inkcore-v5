@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 561,
+  "chapter_title": "第六十八章 不起眼的叶子有很多种颜色",
+  "filename": "ch_0561_第六十八章 不起眼的叶子有很多种颜色.txt",
+  "char_count": 2261,
+  "timestamp": "2026-04-10T12:11:26.647689",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "黑色马车行驶在瓦山山道间，一片红叶从枝头飘落，落在车顶，然后被震到道畔的草地里，没有被碾压成泥，但最终依然会化成泥。\n　　秋风拂面，桑桑脸上的笑容渐渐不见。\n　　想着先前那片红叶，她认真说道：“等我死之后吧。”",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "易讨人喜欢，无论渭城的马将军，还是简姨、夫子都是这样。”\n　　然后她继续说道：“我和他在一起的时候，人们都只会看他，不过这样其实也挺好，我习惯了站在他身后，反正我也不喜欢被别人盯着看。”\n　　莫山山看着平静自然述说这些陈年往事的小姑娘，发现自己却无法平静下来，也不知道该说些什么，只好沉默不语。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "子有很多种颜色\n　　一辆黑色马车在瓦山深处缓缓行驶。\n　　青石铺成的山道很平缓，但青石间的道泥被多年风雨冲洗而走，渐渐形成了约数指宽的石缝，马车虽然轻若羽毛，精钢铸成的车轮从这些石缝上碾压而过，难免还是会有些颠簸，车厢里的人自然很难入睡。\n　　桑桑斜倚在车窗旁的棉褥上，睫毛轻轻覆着，明明病中虚弱，微",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "长的睫毛微微眨动，眼睛明亮，显得有些好奇，而且还隐隐带着佩服的意味。\n　　桑桑被她盯的有些紧张，轻声说道：“能不能不要这么看着我。”\n　　莫山山醒过神来，平静说道：“先前棋局终了，在虎跃涧旁，不知有多少人想要看看你，他们的目光可比我要炽热的多，只不过这辆马车厢壁太厚，不然只怕会被那些目光烧出洞来，而",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "抿的越来越紧，她有些莫名的紧张，然而她是淑静却真诚的书痴，尤其不想在桑桑面前隐瞒什么，隐瞒本身也没有意义，于是她轻轻嗯了一声。\n　　桑桑听到了身后的声音。\n　　但她没有回头，只是对着秋山笑了笑，又露出了两颗洁白的门牙。\n　　过去这些年里，桑桑觉得自己生的不好看，牙齿虽说整齐，但两颗门牙实在是有些显眼",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "是低头微羞着笑，或是像骗了陈皮皮银票时那般憨憨地笑，又或是小脚被宁缺暖的舒服后傻傻的笑。但最近不知道为什么，她经常展颜而笑，两颗洁白的门牙，让她就像小兔子一般可爱。\n　　她看着道畔一株满是红叶，如同燃烧的树，说道：“但现在不行了。”\n　　莫山山静静看着她瘦弱的背影，片刻后微笑说道：“嗯。”\n　　黑色",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，是从来没有过。”\n　　桑桑低声说道，然后不知道想起了什么，向车窗外望去，秋风拂起青帘，让瓦山的风景进入车内，带来几分清旷和无措。\n　　“打小我就长的不好看，宁缺说拣到我后头两年，不管是喝肉汤还是米汤，我总是长不大，被他抱在怀里就像个小老鼠一样。”\n　　她看着车窗外的山景，怔怔说道：“后来虽然被他养",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "着她，疏而长的睫毛微微眨动，眼睛明亮，显得有些好奇，而且还隐隐带着佩服的意味。\n　　桑桑被她盯的有些紧张，轻声说道：“能不能不要这么看着我。”\n　　莫山山醒过神来，平静说道：“先前棋局终了，在虎跃涧旁，不知有多少人想要看看你，他们的目光可比我要炽热的多，只不过这辆马车厢壁太厚，不然只怕会被那些目光烧",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "想要看看你，他们的目光可比我要炽热的多，只不过这辆马车厢壁太厚，不然只怕会被那些目光烧出洞来，而且你以后总要习惯这种眼光。”\n　　桑桑睁开眼睛，看着她好奇问道：“刚才真有很多人这么……看我？”\n　　莫山山点点头。\n　　“很少有人用这种眼光看我，嗯，是从来没有过。”\n　　桑桑低声说道，然后不知道想起了",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "好奇问道：“刚才真有很多人这么……看我？”\n　　莫山山点点头。\n　　“很少有人用这种眼光看我，嗯，是从来没有过。”\n　　桑桑低声说道，然后不知道想起了什么，向车窗外望去，秋风拂起青帘，让瓦山的风景进入车内，带来几分清旷和无措。\n　　“打小我就长的不好看，宁缺说拣到我后头两年，不管是喝肉汤还是米汤，我",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第六十八章 不起眼的叶子有很多种颜色\n　　一辆黑色马车在瓦山深处缓缓行驶。\n　　青石铺成的山道很平缓，但青石间的道泥被多年风雨冲洗而走，渐渐形成了约数指宽的石缝，马车虽然轻若羽毛，精钢铸成的车轮从这些石缝上碾压而过，难免还是会有些颠簸，车厢里的人自然很难入睡。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

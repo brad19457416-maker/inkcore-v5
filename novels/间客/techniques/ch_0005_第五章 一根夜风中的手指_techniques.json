@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 5,
+  "chapter_title": "第五章 一根夜风中的手指",
+  "filename": "ch_0005_第五章 一根夜风中的手指.txt",
+  "char_count": 2603,
+  "timestamp": "2026-04-10T11:53:11.017669",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "颇有几分得意。小家伙畏怯地看了他一眼，犹豫了一会儿，还是忍不住问道：“这两年乐哥都很少回钟楼街了，他究竟在干啥？”\n\n    “谁知道呢？不过这小子打小就喜欢玩手艺，谁会想到会这么狠，还记不记得那年咱俩看见的那件事情？”李维将啤酒一口灌下，啧啧赞叹。\n\n    “我那时候才五岁，早忘记了。”小家伙儿",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "影拉的长长的，覆在了远处的垃圾堆上，一只黑猫在阴影里走过，散开的黄色瞳孔不安地发现，今天又没有老鼠的出现，一切都显得是这样的孤单与死寂。\n\n    ……\n\n    ……\n\n    十年前那场矿难，造成三百多名矿工葬身地底，最可怕的是矿场的坍塌波及到了临时公寓区，不少前去探亲的家属也不幸身亡，不知多少",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "少家庭因之破裂。\n\n    这次事件震惊了整个联邦人类社会，在科技发达的当下，如此惨重的死亡悲剧，让无数官员落马。首都国土安全委员会的直属部门官员，河西州州长，在媒体的压力下纷纷引咎辞职。有三位官员被判处刑罚，甚至连东林大区负责安全事宜的副事务卿也被判处了四年监禁。\n\n    联邦政府和司法系统的反",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第五章 一根夜风中的手指 \n\n    许乐愿意见你，是因为矿难后，你妈养了他两年，他感恩着……但你自己要清楚，他是个最不喜欢惹麻烦的人，有些话就要烂在肚子里。”已经回到钟楼街公寓楼下的李维瞪了小强一眼，心里也有些担",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "谓不迅疾剧烈，然而终究无法挽回那些生命，此次矿难事件，给东林大区本已处于停滞边缘的采矿业带来了最后的沉重一击，晶矿联合公司就此倒闭，交由联邦政府托管。\n\n    此次事件的影响颇为深远，却很少有人想到对那些孤儿们来说，这一生的影响才是无比巨大的。\n\n    ……\n\n    ……\n\n    白天在钟楼",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "亲自出马，对一个无害的瘦弱少年进行临检？”\n\n    那根一直指着黑暗中电子监控设备的手在安静的夜里缓缓摇着，许乐低头诚恳说道：“我是一个好人，相信我，我所说的这一切，都是在为您考虑。”\n\n    鲍龙涛忽然觉得这个不知身份的少年冷静或者说诚恳的有些可怕，眼睛里的疑色也是越来越浓，握着警棍的手越来越",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "是个最不喜欢惹麻烦的人，有些话就要烂在肚子里。”已经回到钟楼街公寓楼下的李维瞪了小强一眼，心里也有些担心，毕竟这小家伙只是个十来岁的小孩儿，万一说漏了嘴总是不好。\n\n    小家伙瘪了瘪嘴，似乎是要被李维凶狠的眼神吓哭了，虽然李维的双眼永远是那样的清亮明圆可爱，但是在钟楼街混的孤儿们都清楚，十六岁的",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "住了手中的警棍。\n\n    少年许乐伸出一根细长而稳定的手指。\n\n    他指了指街灯后方的黑暗处，说道：“这里一共有五个电子监控器，你隶属警察系统，不是法官，更不是管理委员会的人，你没办法洗去录像，所以我劝你不要试图对我动手……有什么想说的，请去先办证明，我会配合调查的。”\n\n    鲍副局长眼睛",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "时公寓区，不少前去探亲的家属也不幸身亡，不知多少家庭因之破裂。\n\n    这次事件震惊了整个联邦人类社会，在科技发达的当下，如此惨重的死亡悲剧，让无数官员落马。首都国土安全委员会的直属部门官员，河西州州长，在媒体的压力下纷纷引咎辞职。有三位官员被判处刑罚，甚至连东林大区负责安全事宜的副事务卿也被判处",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "死了很多人，孤儿们又回到了自己的地方，三名死去孤儿的仇也报了。却没有人知道，在那个冰冷的雨夜里，一向木讷却又乐天的许乐，在垃圾场外，用一根废弃的机甲肘尖液压管，戮死了那个帮派最后逃出来的首领。\n\n    除了趴在废弃工厂食堂夹层石板里瑟瑟发抖的李维和小家伙，那一年，李维十一岁，小家伙五岁，许乐刚",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "对许乐发自内心的尊重。\n\n    五年前，因为政府一次偶然性起的打击，隐藏在阴影之中的一个黑帮，被迫进入孤儿们占据的钟楼街后方街巷，并且用他们的冷血与强悍，成功地夺取了这个废弃已久的街区，短短两个小时时间，便有三名年龄最大，最有勇气抵抗的孤儿死于这场清洗之中。\n\n    平日里看上去很嚣张的孤儿们，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

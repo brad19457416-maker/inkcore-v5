@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1066,
+  "chapter_title": "第七十五章 重回渭城当年道",
+  "filename": "ch_1066_第七十五章 重回渭城当年道.txt",
+  "char_count": 3541,
+  "timestamp": "2026-04-10T12:11:34.906572",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "因为他有这方面的想法，有绝对的意志――仔细想来，从他开始修行以来，他对修行法门和武器所做的任何改变，最终都能用在战场上，都能用来进行最大范围的杀伤，在这方面就连叶红鱼都远不如他。\n　　大概这是因为，现在修行界最巅峰的那些强者，只有他是从最普通的士兵开始做起，只有他最了解战场，那么理所应当是他来改变战",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "被欺凌着，随时可能死去。\n　　改变这一切的，只因为那场春风化作的轻雨。\n　　宁缺下意识里抬头向碧蓝的天空看了一眼，然后他摇了摇头。\n　　按照以往的性情，他本没有与这个叫阿打的少年强者说话的兴趣，就像叶红鱼曾经说过的那样，既然要打架，还说那么多废话做什么？\n　　最终还不是要看谁死，谁活。\n　　但因为想",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第七十五章 重回渭城当年道\n　　唐国与金帐之间最后的战斗，在春天的某天清晨开始。自始至终，徐迟的中军帐只是付出了数万枝弩箭的代价，再不需要做别的事情，便有千余名最精锐的朵儿骑骑兵，死在一个人的手里，死在那个人的箭下。\n　　单于骑在马背上，向身后的渭城方",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "原深处撤去。\n　　金帐王庭还有很多骑兵，似乎还有再战之力，但朵儿骑的气势已经被严重挫败，永远再也无法进入那种节奏，那么便是必败之局。\n　　单于拟定的那个赌局或者说搏命的想法，还没有来得及实施，便被碾碎的不留残渣――未战便败，这让他感到真正的绝望。\n　　弩营并不可怕，徐迟就算用弩营封住渭城城门，也没有",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "会他的脸色，说道：“让开道路，看在她的份上，我会留你全尸。”\n　　阿打不知道他说的她是谁，只是觉得很愤怒，因为很明显，这名书院十三先生并没有把自己当成真正的对手，为什么？\n　　他一直觉得自己对书院很尊敬――是的，他一直想要杀到长安去，然后把书院后山那些奇怪的人全部杀死，但他以为这就代表了自己的尊敬。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的不留残渣――未战便败，这让他感到真正的绝望。\n　　弩营并不可怕，徐迟就算用弩营封住渭城城门，也没有意义，甚至他是刻意留给唐人这个机会，他相信自己的骑兵能够顶住那些恐怖的弩雨，用伤痛和死亡化作长生天赐予的勇气，从而变得强大无比。\n　　他没有想到，能够抵挡弩雨的朵儿骑，能够无视死亡的朵儿骑，最终却没能",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "年有些好奇。\n　　“你的名字是谁取的？”宁缺问道。\n　　阿打说道：“我自己取的。”\n　　宁缺问道：“为什么要取这个名字？”\n　　“用你们中原人的话来说，阿打……就是很能打的意思。”\n　　宁缺笑了笑，说道：“我在这里呆了很多年，我的草原蛮话或者说的比你更好，我知道阿是贱的意思，打是骨头，你……是个贱骨",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "行界曾经不成文的那些规矩，都被一笔抹除，其后柳亦青单剑入宫，杀死了南晋皇帝，代表着新的人间、新的律条出现，而随着那场春风化雨，战争的形态，更开始发生难以想象的剧烈变化。\n　　那些寥寥无几的强者或者不能决定人间如何走，但已经开始有资格决定一场战争的胜负，比如像今天渭城发生的这场战争。\n　　以往被用来形",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "能看清楚你的动作，所以你更不可能用铁箭射死我，换个方式吧。”\n　　宁缺的肩上除了铁弓，还有刀――那把沉重、黝黑、锋利的铁刀，但很明显，他没有拔刀的意思，只是静静地看着那名少年。\n　　他知道这少年是阿打。\n　　当今金帐王庭最强大的近战强者，早已取代了勒布大将的位置，据说是国师收的关门弟子，真正的战斗力",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "深深呼吸，胸膛像崛起于草原的山峦一般隆起。\n　　只是呼吸间，渭城街道上一半的空气，便被他吸入了体内，同时，仿佛有无穷无尽的天地气息，灌进了他的身躯。\n　　他被那场春风化雨完全改变了体质，对草原上的天地气息异常亲近，能够以别的修行者想象不到的速度吞吐天地元气。\n　　这意味着什么？\n　　这意味着他拥有取",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "些朵儿骑的不幸。\n　　“我拦不住那道铁箭，但那道铁箭也不见得能杀死我。”\n　　草原少年看着宁缺，平静说道：“而现在你离我太近，我能看清楚你的动作，所以你更不可能用铁箭射死我，换个方式吧。”\n　　宁缺的肩上除了铁弓，还有刀――那把沉重、黝黑、锋利的铁刀，但很明显，他没有拔刀的意思，只是静静地看着那名少",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "他看着宁缺，就像看着一个死人。\n　　他要做到单于和国师根本不期望他能做到的事情，他要挽救王庭的命运，他要成为草原上新的不落的太阳，继而照耀整个人间。\n　　所以在这场战争里，他一直保持着沉默，静静看着所有的事情发生，直到此时，他才走到街道上，拦住了宁缺的去路，然后准备杀死对方。\n　　渭城内外的所",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "铁箭后，他依然觉得自己可以尝试着硬接。\n　　由此可以想象他强大的信心。\n　　随着阿打的呼吸，天地气息一片大乱。\n　　渭城里起了一阵狂风。\n　　他看着宁缺，就像看着一个死人。\n　　他要做到单于和国师根本不期望他能做到的事情，他要挽救王庭的命运，他要成为草原上新的不落的太阳，继而照耀整个人间。\n　　所以",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "女的赤足踩在葡萄酒桶里的感觉。\n　　走出血水般的道路南段，离金帐大帐的旗帜更近了些，他正要举步，忽然缓缓收回向前的右脚，重新落在原地，然后望向道旁。\n　　他一个人，吓退了整座金帐王庭。\n　　放眼历史，这样的事情很少出现过。\n　　千年之前，夫子一人吓退了整座西陵神殿，自然更为嚣张强大，但宁缺做到的事情",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

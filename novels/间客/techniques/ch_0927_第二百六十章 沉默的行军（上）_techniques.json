@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 927,
+  "chapter_title": "第二百六十章 沉默的行军（上）",
+  "filename": "ch_0927_第二百六十章 沉默的行军（上）.txt",
+  "char_count": 2600,
+  "timestamp": "2026-04-10T12:05:26.920862",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "兴奋的扭动着身体，挥舞着手臂，如同蔓延的野草海洋一般包围着就镇。在酒精和激素味道的共同作用下，狂欢的人群近乎疯狂，甚至有人试图推倒草原深处的电子围墙，引来警笛阵阵。\n\n    有些简陋的中央舞台上，几个深sè黑夜妆的瘦削男子，抱着各式乐器，疯狂到极致地摇动头颅，摆脱腰臀，从干瘪的身躯内逼出尖啸的声音",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "ni嘛这三个字逼出灰白双唇后便没有任何后续，只有死寂和僵持，不知道是两秒钟还是三秒钟，台下十余万观众爆发出强烈的回应，如山在啸，如海在啸，如精神病院七层楼所有的病人一起在尖笑。\n\n    “帕布尔！”\n\n    二手丅枪炮乐队男主唱神经兮兮收回话筒，咧开嘴，露出满口被毒品侵蚀的极为难看的牙齿，忽然再",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "许乐沉默思考片刻后，抬头望着怀草诗，问出了自己的忧虑：“但只要政丅府告诉民众他是谁，这些支持想来也会瞬间崩塌。”\n\n    怀草诗平静看着他，说道：“事实上，邰之源早就已经承认了他是谁，至于民众方面，他用来安抚或者说收买民众的方法，就连陛下，都觉得是历史上前所未有之大手笔。”\n\n    许乐疑惑看着",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的矿工子弟，成长为如今权势滔天的联邦总统，除了就酒馆里那群三一协会的天才外，最重要的原因，正在于他在进入政坛之前，已经获得了三大工会及老兵协会的全力支援，在联邦底层民众中拥有极为广泛的民意基础。\n\n    许乐离开联邦不到三年的时间，他无法想像，邰之源能够凭籍什么，把帕布尔最坚定的支持者握在了自己的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "持者握在了自己的手中。更麻烦的问题在于，邰之源是莫愁后山的太子爷，他的身世身份注定与那些穷苦的工人、愤怒的老兵天然相隔遥远甚至势不两立。\n\n    “我了解我的朋友。既然他宣称拥有三大工会和老兵协会的支持，那么肯定是真话，虽然我不理解他是如何做到的这一点。”\n\n    许乐沉默思考片刻后，抬头望着怀",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "收买民众的方法，就连陛下，都觉得是历史上前所未有之大手笔。”\n\n    许乐疑惑看着她，想不出邰之源究竟整出了怎样的大手笔，居然能够在帕布尔最擅长的领域内节节胜利，甚至惊动了帝国的皇帝。\n\n    ……\n\n    ……\n\n    联邦首都星圈s2南方平原上，有一个叫做伍斯托德的就镇，因为远离青龙山，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "话，虽然我不理解他是如何做到的这一点。”\n\n    许乐沉默思考片刻后，抬头望着怀草诗，问出了自己的忧虑：“但只要政丅府告诉民众他是谁，这些支持想来也会瞬间崩塌。”\n\n    怀草诗平静看着他，说道：“事实上，邰之源早就已经承认了他是谁，至于民众方面，他用来安抚或者说收买民众的方法，就连陛下，都觉得",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "自己的忧虑：“但只要政丅府告诉民众他是谁，这些支持想来也会瞬间崩塌。”\n\n    怀草诗平静看着他，说道：“事实上，邰之源早就已经承认了他是谁，至于民众方面，他用来安抚或者说收买民众的方法，就连陛下，都觉得是历史上前所未有之大手笔。”\n\n    许乐疑惑看着她，想不出邰之源究竟整出了怎样的大手笔，居",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "，建筑依旧保持着清净老旧的模样。\n\n    随着退休工人和失业青年越来越多，就镇的规模越扩越大，靠着社会福利无聊度ri的人们，将【草】控重型机械的精力，释放在别的地方，比如澎澎作响像炸丅弹般的铁桶，比如嘶哑如同呐喊的廉价乐器，渐渐的，这间就镇竟成了s2地下音乐的集结地。\n\n    现在是夏天，就镇内",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "法想像，邰之源能够凭籍什么，把帕布尔最坚定的支持者握在了自己的手中。更麻烦的问题在于，邰之源是莫愁后山的太子爷，他的身世身份注定与那些穷苦的工人、愤怒的老兵天然相隔遥远甚至势不两立。\n\n    “我了解我的朋友。既然他宣称拥有三大工会和老兵协会的支持，那么肯定是真话，虽然我不理解他是如何做到的这一点",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

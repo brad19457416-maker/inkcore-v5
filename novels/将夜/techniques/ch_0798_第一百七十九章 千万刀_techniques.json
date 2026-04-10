@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 798,
+  "chapter_title": "第一百七十九章 千万刀",
+  "filename": "ch_0798_第一百七十九章 千万刀.txt",
+  "char_count": 3367,
+  "timestamp": "2026-04-10T12:11:27.169278",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "势陡变，最先感觉到宁缺和长安城变化的，不是观主，也不是大师兄，更不是雪街上的人们，而是众人头顶的那片天空。\n　　巷口井底的水早已结冰，忽然间多出了两道刀痕，被雪覆盖的钟上出现了两道刀痕，雁鸣湖上也出现了两道刀痕。\n　　井水重新开始荡漾，钟声开始荡漾，雁鸣湖畔的柳枝也开始在寒风里荡漾，潭拓寺里的松树上",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "宁缺在长安城里走了很多地方，斩了与桑桑相关的很多过往，抹掉了昊天在惊神阵里留下的很多痕迹。\n　　虽然最终他没有完全修复惊神阵，但他留下了足够多道神符――那些神符由两道刀痕组成，看上去就像是一个V字。\n　　这些神符让观主有些狼狈，让观主无法直入皇宫毁掉惊神阵的阵眼，让观主必须走进朱雀大道的风雪中，必须",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "大道的风雪中，必须选择先杀死宁缺。\n　　宁缺被七道天下溪神指重伤，他没有再继续写V字符，因为已经没有意义，但他写下的那数百道V字符并没有就此消散，而是在惊神阵的支持下，继续飘拂在长安城的大街小巷里，渐渐隐入风雪中。\n　　随着他拔刀的动作，数百道V字符重新现出痕迹。\n　　在街头，在巷尾。\n　　在井上，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。\n　　如果是普通人，哪怕是知命巅峰的修道者，在如此短的时间里，接纳了如此多数量的天地元气，也只有被瞬间崩死这一个下场。\n　　但宁缺修行的是浩然气，身体强逾钢铁，世间除了道佛魔三宗兼修的观主，还有本身是魔宗宗主的三师姐余帘，再没有谁比他更强。\n　　他的身体就像是精钢打铸的容器，并且是打造元十三箭的那",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "夫子离开人间，观主便是天下第一。\n　　天空最先感觉到这种变化，他第二个感觉到。\n　　他感觉到了危险。\n　　他的眼眸忽然变淡，比灰色更淡，直至淡到透明，仿佛水晶，里面有无数的光影在高速掠动，就像是有很多故事正在幕布上发生。\n　　他看到了一些片段，一些令他无法相信的片段。\n　　在长安城里，观主无法",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "之间。\n　　情势陡变，最先感觉到宁缺和长安城变化的，不是观主，也不是大师兄，更不是雪街上的人们，而是众人头顶的那片天空。\n　　巷口井底的水早已结冰，忽然间多出了两道刀痕，被雪覆盖的钟上出现了两道刀痕，雁鸣湖上也出现了两道刀痕。\n　　井水重新开始荡漾，钟声开始荡漾，雁鸣湖畔的柳枝也开始在寒风里荡漾，潭",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，潭拓寺里的松树上厚雪簌簌落下，一只肥硕的松鼠把过冬的粮食坐在屁股下，不停地搓着前肢，不明白先前自已为什么被冻僵了。\n　　那道笼罩湖山塔寺的寂灭气息，随着数百道V字符的重现与变形，瞬间消失不见，即便是飘落的风雪也骤然停止，冰封的长安活了过来。\n　　那道不知来自何处的气息，随着宁缺的动作，继续向四周扩",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "……\n　　清晨，长安城落雪如幕，观主挥袖破块垒，飘然入城，连败书院大师兄和三师姐，然后有很多道神符出现在他的眼前，告诉他此路不通。\n　　从那一刻开始，直到在朱雀大道的风雪中看见观主，宁缺在长安城里走了很多地方，斩了与桑桑相关的很多过往，抹掉了昊天在惊神阵里留下的很多痕迹。\n　　虽然最终他没有完全修",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，不停灌进他的身体里。\n　　天地元气没有实体，没有质量，比最清的水还要清，比最轻的空气还要轻，但此时进入他体内的数量实在太多，自然带来难以承受的负荷。\n　　如果是普通人，哪怕是知命巅峰的修道者，在如此短的时间里，接纳了如此多数量的天地元气，也只有被瞬间崩死这一个下场。\n　　但宁缺修行的是浩然气，身体",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，他看上去就像燃烧的火人，又像是极寒冷的冰人。\n　　他继续抽刀。\n　　锋利的刀锋从朱雀大街的青石缝中缓缓上升，带出黑色的泥屑，眼看着便要离开雪面，长安城里随之发生了很多事情。\n　　……\n　　……\n　　清晨，长安城落雪如幕，观主挥袖破块垒，飘然入城，连败书院大师兄和三师姐，然后有很多道神符出现在他的眼",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "一撇缓缓向右升起，仿佛要飘离那一捺。\n　　这一撇就像是一枝羽箭，无形的弓弦在向后拉，离弓身越来越远，同时也积蓄着越来越强的力量。\n　　又像是一把刀，正在离开地面，将要展露锋芒。\n　　……\n　　……\n　　拔刀是一个很简单的动作，宁缺这辈子不知道重复过多少次，他做的很熟练，所以在很短的时间内便完成了。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "却是基于一种莫名的警惕。\n　　这份警惕是那般的强烈，甚至让他的道心有些微摇。\n　　他要杀死宁缺，这种渴望甚至快要变成本能。\n　　但他感知到，自已与宁缺之间的空气里，隐藏着一些什么。\n　　他不能晋入无距，便不能在最短的时间里杀死宁缺。\n　　那么他至少不能让宁缺举起那把刀。\n　　观主看着宁缺说道：“凡信",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "。\n　　他看到了一些片段，一些令他无法相信的片段。\n　　在长安城里，观主无法看清楚未来的事情，正如他从来没有看清楚过此后的书院会变成怎样，但他曾经看到过一些他坚信不疑的画面。\n　　但那些画面改变了。\n　　就在宁缺抽出刀的那一刻。\n　　……\n　　……\n　　雪停，风息。\n　　朱雀大道很是安静。\n　　观主",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "不能晋入无距，便不能在最短的时间里杀死宁缺。\n　　那么他至少不能让宁缺举起那把刀。\n　　观主看着宁缺说道：“凡信奉……”\n　　宁缺不知道他为什么这时候要说话。\n　　青峡前的书院弟子，听到这三个字，则一定能够联想起，天谕大神官颂读的那段西陵教典，那种与悬空寺讲经首座言出法随齐名的道门神术。\n　　宁缺没",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

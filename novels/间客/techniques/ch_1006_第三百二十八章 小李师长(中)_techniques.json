@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 1006,
+  "chapter_title": "第三百二十八章 小李师长(中)",
+  "filename": "ch_1006_第三百二十八章 小李师长(中).txt",
+  "char_count": 3750,
+  "timestamp": "2026-04-10T12:05:26.904917",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "链中将愤怒地咆哮道：“几十辆军车？你不要以为参谋部里有你的故交就可以瞒过司令部的眼睛！宪章局刚刚发出紧急报告，光辉监控到十七师的机甲已经启动，正在路上，你究竟想干什么，你脑子是不是出了问题！”\n\n    李疯子清秀双眉缓缓蹙起，他确实没有想到墨花星球残破的宪章网络，居然能这么快注意到自己的部署，沉默",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "谋军官紧张回答道：“已经过了预定降落时间，飞船还没有抵达基地……之前十七师师部曾经和联邦舰队有过一次秘密通讯，不知道和这有没有关系。”\n\n    胡链中将双手扶着桌面，双肩微微颤抖，沉默很长时间后，他用疲惫的声音命令道：“暂停基地防御，撤回y3区所有地面部队，联邦调查部门那边，通知他们一声就行。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "追杀一支帝国舰队！”\n\n    “要成为十七师真正一员……”\n\n    李疯子环视房内的军官们，目光最终还是落在赫雷的脸上，厉声说道：“要做十七师师长，就要比所有人更狠！”\n\n    赫雷脸上的表情很复杂，做为前任代理师长，刚刚结束禁闭，便被现任代理师长一通毫不留情面的刻削，而且对方军衔和自己一样年",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "沉默片刻后他们约束各自的部队进入奇怪的沉默期。\n\n    基地里的联邦司令部不可能沉默，胡链中将强抑愤怒的冷厉声音在车载系统里低沉响起：“小封你刚刚上任就想来一场兵变？真他mā的胡闹！马上给我回去！”\n\n    李疯子望着地平线远处的基地轮郭，面无表情的答道：“司令，如果十七师真的要闹兵变，这里不会",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "气背景，把房间里这些本来骄傲强势的军官骂成狗屎。\n\n    林爱坐在角落里，他安静听着这位代理师长的第一次训话，总觉得对方的字里行间有些不一样的味道，似乎是在刻意挑弄众人的某种青绪，让房间里的味道开始暴躁起来。\n\n    “这个……小李师长。”\n\n    他摘下军帽，摸着发青的光头，望着李封认真问道",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "在角落里，他安静听着这位代理师长的第一次训话，总觉得对方的字里行间有些不一样的味道，似乎是在刻意挑弄众人的某种青绪，让房间里的味道开始暴躁起来。\n\n    “这个……小李师长。”\n\n    他摘下军帽，摸着发青的光头，望着李封认真问道：“我想请教，在当前情况下十七师应该怎么做才算做狠？”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "身来，啪的一声笔直立正，向桌后的代理师长敬了军礼，虽然依旧沉默，但态度已经表露无遗。\n\n    刚刚进入十七师军营不足半小时的代理师长李封，带领着下属乘坐着数十辆防弹军车，呼啸挟尘离开军营，车队的目标是联邦军方司令部所在的基地。\n\n    ……\n\n    ……黑sè的防爆轮胎高速旋转，时不时发出刺耳",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "到十七师的机甲已经启动，正在路上，你究竟想干什么，你脑子是不是出了问题！”\n\n    李疯子清秀双眉缓缓蹙起，他确实没有想到墨花星球残破的宪章网络，居然能这么快注意到自己的部署，沉默片刻后他平静回答道：“司令，做为新十七师代理师长，我将率领我师内务部门前进基地调查某些涉嫌通敌罪名的军官，为了防止遇到",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "孙终于浓墨登场。\n\n    “十七师的师长不是这么好当的。”\n\n    李疯子面无表情看着赫雷，沉声说道：“我祖父可以，于老师长也可以，许乐如果不是帝国人也可以，我也可以，但你不可以，知道为什么吗？”\n\n    “因为做不到像我祖父那样开着一台破烂机甲奔袭千里，就把帝国皇帝杀了，你也做不到像于老师长",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "……\n\n    ……\n\n    基地大门敞开迎客，隐藏在角落里的各项重型武器沉默安静的有如夜总会学生风情周里的姑娘，面对着呼啸而入的数十辆新十七师军车，矜持羞涩无比，没有做出任何主动的反应。\n\n    新十七师车队呼啸驶入基地，然后伴随着尖锐的刹车鸣啸，围住了联合调查部门所在的y3区，一百余名全副武",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "没有？”\n\n    “贝里主任和联邦调查部门的官员还没有来得及登舰。”\n\n    将军身后的参谋军官紧张回答道：“已经过了预定降落时间，飞船还没有抵达基地……之前十七师师部曾经和联邦舰队有过一次秘密通讯，不知道和这有没有关系。”\n\n    胡链中将双手扶着桌面，双肩微微颤抖，沉默很长时间后，他用疲惫",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "想要做些什么，但当那些战功昭著的将领们确认车队来自新十七师驻地，而最头前那辆军车里坐着李疯子时，他们马上明白了新十七师想要做什么，在沉默片刻后他们约束各自的部队进入奇怪的沉默期。\n\n    基地里的联邦司令部不可能沉默，胡链中将强抑愤怒的冷厉声音在车载系统里低沉响起：“小封你刚刚上任就想来一场兵变？",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "，时不时发出刺耳的挫鸣声，原野间的石子被碾压的四处溅飞，松软的泥土更是被抛的到处都是，数十辆联邦军车同时呼啸前行，拖出无数道黑黄sè的尾龙，看上去显得异常壮观，声势惊人。\n\n    大本营战区三年前就被联邦完全控制，方圆数千平方公里的区域内，驻扎着十七支联邦地面部队，兵员人数超过了二十万人，虽然深处",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

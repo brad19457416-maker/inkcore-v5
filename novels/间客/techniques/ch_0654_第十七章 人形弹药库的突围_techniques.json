@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 654,
+  "chapter_title": "第十七章 人形弹药库的突围",
+  "filename": "ch_0654_第十七章 人形弹药库的突围.txt",
+  "char_count": 2298,
+  "timestamp": "2026-04-10T12:05:08.539968",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "这是帝国皇家情报署最大的耻辱，也是最大的恐惧，如果殿下真的在这场叛乱中遭受到伤害，陛下的悲痛与民众的愤怒，只怕会让数千名情报署官员丢职甚至死去。\n\n    “责任以后追查，接下来的安排是什么？”怀草诗并没有在这种紧张时玄对下属给予任何温言劝慰和激励，十分冷漠地说道：“天京星有没有消息传来？”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "只敢低头恭谨领路过了围墙，抵达一处昏暗偏僻的小房间，他才敢抬手抹了一把额头上的汗，然后回身下跪，颤声说道：“殿下，我等工作不力，让殿下身处险境多日，实在是罪该万死。”\n\n    怀草诗并不认识这位商人，她接手皇家情报署的时间并不长，连各郡星的主事官员都没有全部见过，更何况这名商人只是离除星很不起眼的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "下意识里咕哝了一句，声音马上被震耳欲聋的枪声掩盖，在联邦部队和曾经与他交过手的帝**人们看来，他毫无疑问是个怪物，可是如今他才现，这位公主殿下要比自己更加怪物，那么瘦削的身躯里，怎么可能蕴藏着如此恐怖的力量？\n\n    帝国的特林重机枪与联邦的达林机炮齐名，十分沉重，再加上连续射所需要的海量弹药，谁",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "道：“既然是二级据点，那你马上准备好枪械。”\n\n    商人和许乐同时怔住，望着这个脸颊消瘦的人物，心想你真准备拿着把枪就往那个重步兵营里有\n\n    “我要很多枪，大枪。”怀草诗加了一有\n\n    一个人身上背的枪再多，也不可能像树林一般森密，但如果她身上扛着的是三把特林机枪，那么喷射出来子弹，真",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "让数千名情报署官员丢职甚至死去。\n\n    “责任以后追查，接下来的安排是什么？”怀草诗并没有在这种紧张时玄对下属给予任何温言劝慰和激励，十分冷漠地说道：“天京星有没有消息传来？”\n\n    “信息通道应该已经打通了。”商人又抹了一把额头的冷汗，说道：“不过属下级别序列太低。无法接触到情报。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "上背的枪再多，也不可能像树林一般森密，但如果她身上扛着的是三把特林机枪，那么喷射出来子弹，真的会比暴雨更加密集狂烈。\n\n    高锋利的子弹从特林机枪粗扩的枪管中喷射而集，伴随着刺鼻的焦糊味道和骤冷系统怪异的药剂味道，撕裂草坡上方的空气，集成无数道恐怖的射线，将道路前方远处的那座军营轰出了无数碎片烟",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "许乐下意识里咕哝了一句，声音马上被震耳欲聋的枪声掩盖，在联邦部队和曾经与他交过手的帝**人们看来，他毫无疑问是个怪物，可是如今他才现，这位公主殿下要比自己更加怪物，那么瘦削的身躯里，怎么可能蕴藏着如此恐怖的力量？\n\n    帝国的特林重机枪与联邦的达林机炮齐名，十分沉重，再加上连续射所需",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "案。\n\n    商人继续恭谨说道：“离除分理署在桑树海四周拟了十七条撤退通道，外面已经做好了接应殿下离开的所有准备，现在的问题是怎样从这些通道里撤走。”\n\n    “叛军不是已经被调开了吗？”怀草诗皱眉问道。\n\n    “桑海内的所有工厂都处于叛军的控制之中，尤其是行商道路和空中航线的管制非常森严，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，这里是二级据点。”\n\n    “很好。\n\n    怀草诗眉梢微扬，清声说道：“既然是二级据点，那你马上准备好枪械。”\n\n    商人和许乐同时怔住，望着这个脸颊消瘦的人物，心想你真准备拿着把枪就往那个重步兵营里有\n\n    “我要很多枪，大枪。”怀草诗加了一有\n\n    一个人身上背的枪再多，也不",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "怀草诗眉梢微扬，清声说道：“既然是二级据点，那你马上准备好枪械。”\n\n    商人和许乐同时怔住，望着这个脸颊消瘦的人物，心想你真准备拿着把枪就往那个重步兵营里有\n\n    “我要很多枪，大枪。”怀草诗加了一有\n\n    一个人身上背的枪再多，也不可能像树林一般森密，但如果她身上扛着的是",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "场叛乱中遭受到伤害，陛下的悲痛与民众的愤怒，只怕会让数千名情报署官员丢职甚至死去。\n\n    “责任以后追查，接下来的安排是什么？”怀草诗并没有在这种紧张时玄对下属给予任何温言劝慰和激励，十分冷漠地说道：“天京星有没有消息传来？”\n\n    “信息通道应该已经打通了。”商人又抹了一把额头的冷汗，说道",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

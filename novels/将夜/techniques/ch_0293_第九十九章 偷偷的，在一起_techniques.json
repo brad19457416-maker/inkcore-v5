@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 293,
+  "chapter_title": "第九十九章 偷偷的，在一起",
+  "filename": "ch_0293_第九十九章 偷偷的，在一起.txt",
+  "char_count": 3259,
+  "timestamp": "2026-04-10T12:11:21.760557",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "盘，浓如蚕儿的眉毛挑了起来，脸上满是沮丧和羞愧的神情，竟是忘了此时自己正身处在一种极恐怖的环境之中，心想这小侍女只看了一眼便能记住所有棋子的位置，自己还有什么资格在她面前骄傲于自己的脑袋，还有什么脸说天才？\n　　卫光明老人看着颜瑟大师微笑说道：“我这女徒很优秀的。”\n　　颜瑟大师看着消失在后院的瘦小",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "面，说道：“你怎么就这么迂呢？冥界只是一个传说，从来没有出现过！当年你矫掌教之令在长安城里搞出满天腥风血雨，最终也没有找到什么冥王之子，怎么到了今天你还如此荒唐！”\n　　老人说道：“事实上当年无论观主还是掌教都已经相信我眼睛所看到的。”\n　　颜瑟大师盯着他的眼睛，寒声说道：“但结果却是你被关进了幽阁",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，就不在黑暗里走，必要得着生命的光，质疑我的，将在黑暗里走，不得解脱。”\n　　颜瑟大师见他油盐不进，愤怒地挥舞道袖，厉声喝斥道：“那你告诉我你看到的黑夜影子究竟在哪里！冥王之子究竟在哪里！你来长安究竟想杀谁！”\n　　老人轻声说道：“我也不知道。”\n　　听到这个答案，颜瑟大师怔住，面容上浮现出苦涩笑意",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "大师怔住，面容上浮现出苦涩笑意，看着他声音微颤悲凉说道：“就为了一个连你自己都不知道是谁，是不是真的存在的冥王之子，当年那个透明如琉璃，诚挚光辉如明灯的光明大神官，居然不惜变成一个双手染血的大魔头，甘愿被囚在幽阁十四年，令无数人感到痛心，你难道一点都不后悔吗？”\n　　老人沉默了很长时间，苍老的脸颊上",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "走，不得解脱。”\n　　颜瑟大师见他油盐不进，愤怒地挥舞道袖，厉声喝斥道：“那你告诉我你看到的黑夜影子究竟在哪里！冥王之子究竟在哪里！你来长安究竟想杀谁！”\n　　老人轻声说道：“我也不知道。”\n　　听到这个答案，颜瑟大师怔住，面容上浮现出苦涩笑意，看着他声音微颤悲凉说道：“就为了一个连你自己都不知道是",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "可是透明代表什么呢？能反映世界原初的模样？如果世界是黑的，你们便也是黑的？所以才会有那么多的光明神座最终走入歧途？”\n　　老人摇头微笑说道：“透明便是无颜色，黑色却是无颜色还要无光辉，而你我身处在这充满光辉的昊天世界中，透明便是光明，便是黑暗的敌人。”\n　　听到黑暗的敌人这五个字，颜瑟大师陷入了长时",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的位置，自己还有什么资格在她面前骄傲于自己的脑袋，还有什么脸说天才？\n　　卫光明老人看着颜瑟大师微笑说道：“我这女徒很优秀的。”\n　　颜瑟大师看着消失在后院的瘦小身影，感慨说道：“确实很了不起。”\n　　两位老人说的优秀和了不起与桑桑令陈皮皮震惊的头脑没有太多关系，而是说的只有他们这种境界的老人才能体",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的子息。”\n　　颜瑟大师极为恼火地重重一拍桌面，说道：“你怎么就这么迂呢？冥界只是一个传说，从来没有出现过！当年你矫掌教之令在长安城里搞出满天腥风血雨，最终也没有找到什么冥王之子，怎么到了今天你还如此荒唐！”\n　　老人说道：“事实上当年无论观主还是掌教都已经相信我眼睛所看到的。”\n　　颜瑟大师盯着他",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "个透明如琉璃，诚挚光辉如明灯的光明大神官，居然不惜变成一个双手染血的大魔头，甘愿被囚在幽阁十四年，令无数人感到痛心，你难道一点都不后悔吗？”\n　　老人沉默了很长时间，苍老的脸颊上偶尔闪过一丝自省后的困惑，然后那些困惑极迅速地转化为平静的坚定：“可问题在于我知道他存在啊。”\n　　颜瑟大师皱着眉头看着他",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，比如当年天谕院院长的胡子是如今掌教大人烧的，而不是自己用神术烧的，再比如去知守观的路上自己不是因为紧张而腹泻，而是被颜瑟偷偷施了一道寒符。\n　　当年那些调皮的小道童已然变成如今世间的大人物，曾经胡闹烧天谕院院长胡须的那人已经成了不怒自威的神殿掌教，某人成了颜瑟大师，某人成了光明神座，然而只要曾经有",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "是光明，便是黑暗的敌人。”\n　　听到黑暗的敌人这五个字，颜瑟大师陷入了长时间的沉默，过了很长时间后他缓缓抬起头来，神情严肃看着对方说道：“你还记得莲生吗？”\n　　老人微微一怔，皱眉说道：“怎能不记得？”\n　　颜瑟大师问道：“他是光明还是黑暗？”\n　　老人摇了摇头，说道：“当年他在裁决神座之上，我在光",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "子是冥君的子息。”\n　　颜瑟大师极为恼火地重重一拍桌面，说道：“你怎么就这么迂呢？冥界只是一个传说，从来没有出现过！当年你矫掌教之令在长安城里搞出满天腥风血雨，最终也没有找到什么冥王之子，怎么到了今天你还如此荒唐！”\n　　老人说道：“事实上当年无论观主还是掌教都已经相信我眼睛所看到的。”\n　　颜瑟大",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "来了，走吧。”\n　　陈皮皮抹掉今日额头上似乎永远不会停止的汗水，极恭谨地向二位老人长揖行礼，然后推门走出了老笔斋。\n　　……\n　　……\n　　后院薰腊肉的松枝还在冒着烟，因为有段时间忘记过来看顾，所以烟变得有些大，大概是因为这个原因，桑桑的眼睛被薰的有些微微发红。\n　　她安安静静洗了脸和脚，爬上北炕钻",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "成了颜瑟大师，某人成了光明神座，然而只要曾经有过那些时光，谁能忍得住不偶尔回忆片刻？\n　　这些回忆很温馨，带着一股暮时独有的黄昏怀旧味道。\n　　光明大神官望着老笔斋外的暖融暮光，这才发现不知不觉间，时间随着这些回忆流逝的竟如此之快，已经到了真正的黄昏。\n　　黄昏的老笔斋外一片安静，临四十七巷里听不到",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1013,
+  "chapter_title": "第二十二章 策反（上）",
+  "filename": "ch_1013_第二十二章 策反（上）.txt",
+  "char_count": 2261,
+  "timestamp": "2026-04-10T12:11:34.917871",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "志，很可贵的某种意志，比如虔诚，比如坚定，比如……信仰。”\n　　宁缺摇了摇头，指着雨水上方那片灰暗的天空，说道：“如果你对昊天的信仰真的足够虔诚，她就应该选你继位。”\n　　西陵神殿三大神座的继承方式各不相同，裁决神座靠的是力量与杀戮，光明神座是指定继承，天谕神座领受昊天的意志，直接由昊天决定。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "觉得他这种说法未免太过可笑，只是他此时心情有些沉重，笑不出声来。\n　　宁缺问道：“忽然变得这么沉默，为什么？”\n　　程立雪想了想，打破沉默解释道：“沉默代表着意志，很可贵的某种意志，比如虔诚，比如坚定，比如……信仰。”\n　　宁缺摇了摇头，指着雨水上方那片灰暗的天空，说道：“如果你对昊天的信仰真的足够",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "“谁？”\n　　“观主……哪怕如今是个废人的观主。”\n　　宁缺说道：“以她现在的境界实力，想要和观主战斗没有丝毫胜算，她的谋划在观主的眼里连破鞋都不如，所以她必须赶紧逃。”\n　　程立雪并不赞同他的看法，说道：“难道你认为裁决神座这种人会低估自己的对手，而且还是观主这样层级的对手？”\n　　“我知道她不",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "领受昊天的意志，直接由昊天决定。\n　　“当年在荒原上第一次见到你的时候，舒成将军就说你已经晋入洞玄境巅峰，距离知命只有一步之遥，与隆庆差相仿佛，如今这么多年过去，隆庆早已晋入知命，甚至有可能已经到了知命巅峰，而你呢？你还停留在原来的位置，看着相同的风景，哪怕今年春天那场雨水，也没有给你带来任何变化。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "片刻后说道：“书院终究不是道门的对手，唐国必然会覆灭，就算裁决神座离开桃山，与你联手，这种挣扎又有何意义？”\n　　“觉得是徒死的挣扎，所以你和天谕神殿的旧人不愿意加入？”宁缺说道：“我不明白的是，为什么所有人都认为道门必然会获得最后的胜利。”\n　　“从柳亦青一剑杀了南晋皇帝的那一刻开始，这个世界便已",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "座靠的是力量与杀戮，光明神座是指定继承，天谕神座领受昊天的意志，直接由昊天决定。\n　　“当年在荒原上第一次见到你的时候，舒成将军就说你已经晋入洞玄境巅峰，距离知命只有一步之遥，与隆庆差相仿佛，如今这么多年过去，隆庆早已晋入知命，甚至有可能已经到了知命巅峰，而你呢？你还停留在原来的位置，看着相同的风景",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "直想不明白她究竟想做什么。”\n　　宁缺站起身来，看着阶下被雨水冲刷到渐渐淡去的血迹，想着当年冒着风雨来到雁鸣湖畔的她，说道：“如果你不愿意回桃山，那么至少请帮我带封口信给她。”\n　　程立雪问道：“什么口信？”\n　　“让她赶紧逃。”\n　　宁缺说道：“不管她留在桃山是想帮叶苏，还是想做别的什么事情，不要",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "人。”\n　　程立雪哑然失笑，他知道宁缺说的人是谁，只是觉得他这种说法未免太过可笑，只是他此时心情有些沉重，笑不出声来。\n　　宁缺问道：“忽然变得这么沉默，为什么？”\n　　程立雪想了想，打破沉默解释道：“沉默代表着意志，很可贵的某种意志，比如虔诚，比如坚定，比如……信仰。”\n　　宁缺摇了摇头，指着雨水",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，我知道她肯定有她的想法，她的计划，她的沉默必然代表着某种事情即将发生，我知道她不会高估自己，但我很担心她会低估一个人。”\n　　“谁？”\n　　“观主……哪怕如今是个废人的观主。”\n　　宁缺说道：“以她现在的境界实力，想要和观主战斗没有丝毫胜算，她的谋划在观主的眼里连破鞋都不如，所以她必须赶紧逃。”",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "程立雪只说了一句话：“观主一直住在桃山上。”\n　　宁缺知道他想表达什么，看着庭间越来越大的雨水，说道：“赵南海想做天谕，你还没有死，这就说明了问题。”\n　　程立雪沉默不语。\n　　宁缺转过身来，继续说道：“天谕神殿里，你的话还是有份量的，不然你早就死了，桃山上那些人何必把你送到长安城来让我杀？我来",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "程立雪沉默半晌后说道：“你或者……有些低估裁决神座。”\n　　宁缺说道：“从认识她的第一天开始，我就从来没有低估过她，我知道她肯定有她的想法，她的计划，她的沉默必然代表着某种事情即将发生，我知道她不会高估自己，但我很担心她会低估一个人。”\n　　“谁？”\n　　“观主……哪怕如今是个废人的观主。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

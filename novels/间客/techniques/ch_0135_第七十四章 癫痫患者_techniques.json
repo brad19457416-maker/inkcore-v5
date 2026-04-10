@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 135,
+  "chapter_title": "第七十四章 癫痫患者",
+  "filename": "ch_0135_第七十四章 癫痫患者.txt",
+  "char_count": 3645,
+  "timestamp": "2026-04-10T11:53:35.149027",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "一声，有些痴了。\n\n    这是幻觉还是别的什么？难道自己昏迷的时候，被医院发现了自己体内那个奇怪的秘密，所以他们拿自己当人体实验小白鼠。在视网膜上放了个微型显示光屏？\n\n    各式各样稀奇古怪地想法涌入了许乐的脑海，因为他此时面对的就是一个最古怪的事实。\n\n    本来就失血严重他，此时脸颊愈发",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "冷汗。却依然无法明白先前发生了什么。\n\n    许乐地脸色稍微好了一些。他沉默地躺在病床上。看着那片雪白地天花板。心里不知道在想些什么。电视上面地新闻依然在不停播放。他地心却早已经乱了。不知道过了多久。他理清了自己地思想。确认了自己地身体状态。咬了咬牙。眯起了那双眼睛。就像一个勇敢而坚毅地战士一样。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "年底的总统大选了。”\n\n    “只有一年的时间，他来得及吗？”邰之源马上明白了事情的真相，皱着眉头说道。\n\n    “如今整个联邦，都因为帕布尔议员带回地新年礼物而欢欣雀跃，如果现在就进行大选，帕布尔议员可以直接当选了。”靳管家轻声分析道：“原有地几位总统候选人，因为他们一直阐述的对环山四州地强硬",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "起来。靳管家推开门看了看后，回头轻声说道：“好像是许乐那边有什么问题。”\n\n    邰之源微微一怔，心想自己刚进医院时，院长便给自己打了保票，许乐已经没有什么大碍，只是受伤过重。需要很多时间来恢复，怎么这才过去了几个小时，又出问题了？他的心头微感紧张，披了一件睡衣，便朝着许乐地房间走去。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "。都会感到手足无措，虽然许乐的体内拥有很奇怪的力量，可是那终究还是能隐约捕捉到的东西，哪像此时，他真担心自己是不是变成了什么机器怪物。\n\n    很奇妙地是。不知道是因为他不再想那张结构图地关系。还是闭眼闭了太久地关系。那幅一直出现在他眼膜中。哪怕闭眼黑暗中依然呈现地结构图。竟然……消失不见了！",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "怪的结构图再次出现在他地眼前。第二次的出现，让他确信这不是什么幻觉，而是真实发生的事情。于是他按响了紧急呼叫铃，虽然他知道自己的体内也有一些不能见光的秘密。但是面对着如此古怪的情形。他还是愿意相信医生。只是他很谨慎地没有说出自己看到的是一幅结构图，而说成是一些很规律、又很复杂的线条。\n\n    “这",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "二的病人，在长期昏迷之后，都会出现这种症状。”\n\n    第二天清晨，各项仪器的检查数据，便汇拢成了最终的诊断结果。一位专家神情严肃地走了病房，对着脸色苍白的许乐说道：“小伙子，有心理准备吗？”\n\n    许乐一晚上都没再去看那张试题，强迫自己在麻醉泵的作用下睡了一觉，直到此时，看着医生勉强地笑了笑",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "说。”\n\n    “形成幻视的原因有很多种，但昨天您入睡之后，我们进行的医学观察发现，您大脑某个区域存在着异常放电现象。现在看来，正是这种放电现象，导致了幻视。准确地说，您在眼中所看到地那些线条，并不是真地出现在您的眼睛上，而是大脑中相关地区域里有电波异常活动……”\n\n    许乐怔怔地听着，没有去",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "那张距离无比之近，占据了他视界约五分之一面积的结构图！\n\n    图纸上的线路很清晰，并不像是在空中出现的灵异现象，更怪异的是，许乐看了半晌之后，已经确认，这张结构图上的某些设计，恰好可以帮助自己解答简水儿留下的那道题目。虽然给许乐一些参考资料或书籍，他相信自己也能在十几分钟内，找出原先题目中结构设",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "并且拥有一定资历与知名度的家伙。”靳管家继续说道：“京州州长罗斯，毫无疑问是最好的对象。这位州长阁下一向很小心谨慎，从来没有表达过任何过激的言论……现在看来，他从很久以前。就对总统那个位置很感兴趣了。”\n\n    “关键还是麦德林……”邰之源静静地看着光屏上那个花白头发的老头子，轻声说道：“如果对方",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "不计算首都特区那些大人物的前提下。\n\n    更令邰之源警惕的是，他很清楚，罗斯州长的合作伙伴，是七大家里那几个家族。这样一个人为什么会忽然站到了前台，并且和麦德林议一唱一和，这个州长，或者说，他身后的那些家族究竟想做什么？\n\n    “这是在借势。”一直站在他身边的靳管家，微带忧虑叹息道：“看来罗",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "药力逐渐退去，许乐终于不再感觉到昏沉与似醉后般的困意，他死死地盯着那张白纸，脸上的表情异常慎重与紧张。不知道过了多久，他已经能够清晰地感觉到大腿处传来的剧痛，却依然没有摆脱眼前的“幻影”那张距离无比之近，占据了他视界约五分之一面积的结构图！\n\n    图纸上的线路很清晰，并不像是在空中出现的灵异",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "：“看来罗斯州长下定决心要参加年底的总统大选了。”\n\n    “只有一年的时间，他来得及吗？”邰之源马上明白了事情的真相，皱着眉头说道。\n\n    “如今整个联邦，都因为帕布尔议员带回地新年礼物而欢欣雀跃，如果现在就进行大选，帕布尔议员可以直接当选了。”靳管家轻声分析道：“原有地几位总统候选人，因为",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "规律、又很复杂的线条。\n\n    “这个现象出现几次了？”\n\n    “两次。”\n\n    一名专家走出病房。看见了披着睡衣的邰之源，不等对方开口询问，说道：“依初步判断，应该是出现了幻视。”\n\n    “严重吗？”邰之源微感忧虑说道，如果说许乐为了救自己而留下什么终生地后遗症，他的心里会非常不好受",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "的医护人员们都紧张了起来。\n\n    “除了线条之外，还看见了别的什么东西没有？”病房里传来一位专家温暖的声音。“没有。”回答他的是许乐微显疲惫与惘然的声音。\n\n    当许乐再次盯着那道试题看时，那幅古怪的结构图再次出现在他地眼前。第二次的出现，让他确信这不是什么幻觉，而是真实发生的事情。于是他按",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 100,
+  "chapter_title": "第三十九章 舞会前的冲突",
+  "filename": "ch_0100_第三十九章 舞会前的冲突.txt",
+  "char_count": 3557,
+  "timestamp": "2026-04-10T11:53:35.166146",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "调，因为她认为今天晚上必将是她人生里最重要的那个日子，但她怎么也没有想到，台阶上那个流氓官员居然当着众人的面，说出了她最感到屈辱地那件事情。她的脸色顿时变得极为冷漠。盯着施清海说道：“施清海……今天有舞会。我不想让你现在就死。”\n\n    舞会入口处的人们，本来震惊于先前学生痛殴联邦议员公子的一幕。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "进的道路上。”下午店里用轻蔑口吻要求许乐让出衣服的那个男人，冷冷地看着台阶上的三人，用一种嘲讽地语气说道。\n\n    许乐地眼睛里根本没有他。只是盯着对面这群人里地张小萌。有些艰难地开口说道：“你来了？”\n\n    这时候中年人和施清海轻声说了几句什么。等若是台阶上地三个人都像是没有看到那个骄傲地男",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "会前的冲突 \n\n    此次梨花大学的例行双月节舞会，因为某位世家子弟的存在，而多了些极为重要的象征意义。[]\n\n    没有人知道前皇族继承者的成人礼早已经被一个叫做许乐的家伙安排结束，那些通过各种渠道知晓内情的政客名商们，纷纷派出了自己的下一代，前来参加舞会，为的便是希望能够与那位邰家的太子爷拉",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，那些真正的大人物，肯定不会自降身份前来主动示好或表示联姻的企图，他们顶多会前来观礼，这时候舞会中间究竟有没有那些低调的七大家第二代，谁也不知道。\n\n    此时下了名贵汽车，气势逼人缓缓向着入口走来的那一群人，虽然不是七大家的人，但家中的背景也非常深厚，在联邦一般民众看来，当然算是特权阶层。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "绝对不会想到，离开首都来到临海州，居然有人敢像打沙包一样地打自己。许乐听到那个女生的话后皱了皱眉头，心想我当然不知道你们是谁，我只知道你这个哥哥很欠打。\n\n    “保安，保安呢？”今天舞会当然不方便带保镖进来。那群富家男女们愤怒地看着台阶上的许乐，大声喊道。\n\n    这个时候施清海已经结束了与那",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第三十九章 舞会前的冲突 \n\n    此次梨花大学的例行双月节舞会，因为某位世家子弟的存在，而多了些极为重要的象征意义。[]\n\n    没有人知道前皇族继承者的成人礼早已经被一个叫做许乐的家伙安排结束，那些通过各种渠道知",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "们是谁？居然敢打我哥！”\n\n    联邦管理委员会能源委议员孙成村的这对儿女，绝对不会想到，离开首都来到临海州，居然有人敢像打沙包一样地打自己。许乐听到那个女生的话后皱了皱眉头，心想我当然不知道你们是谁，我只知道你这个哥哥很欠打。\n\n    “保安，保安呢？”今天舞会当然不方便带保镖进来。那群富家男",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "月节舞会，必定有所想法……邹家大小姐不想自己在临海吃瘪的事情被这些人知道，所以她决定强行压抑下心头的愤怒，目不斜视。当做不认识台阶上的那两个人。\n\n    富家男女们向着台阶上走去，台阶上地那三个人却似乎没有让路的想法。许乐是因为双眼只看到了议员公子身边的张小萌，心情复杂以致忘了让开，他身边的中年人",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "到这一幕。是不是感到心很痛？下午地嚣张到哪里去了？对了……张小姐不是你这种人能够接近地。醒醒吧。不过将来……如果我有机会能够亲近她地芳泽。一定会把心得体会转述给你。要知道我还没有玩过从环山四州回来地女孩儿……”\n\n    这个人说话地声音极轻。除了许乐和他身边地施清海外。没有人听到他到底说了些什么。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "。醒醒吧。不过将来……如果我有机会能够亲近她地芳泽。一定会把心得体会转述给你。要知道我还没有玩过从环山四州回来地女孩儿……”\n\n    这个人说话地声音极轻。除了许乐和他身边地施清海外。没有人听到他到底说了些什么。\n\n    许乐从一开始看见张小萌小鸟依人随着议员公子走进来后，心情便已经跌到了谷底，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "加梨花大学双月节舞会，必定有所想法……邹家大小姐不想自己在临海吃瘪的事情被这些人知道，所以她决定强行压抑下心头的愤怒，目不斜视。当做不认识台阶上的那两个人。\n\n    富家男女们向着台阶上走去，台阶上地那三个人却似乎没有让路的想法。许乐是因为双眼只看到了议员公子身边的张小萌，心情复杂以致忘了让开，他",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "舞会。我不想让你现在就死。”\n\n    舞会入口处的人们，本来震惊于先前学生痛殴联邦议员公子的一幕。马上被这番对话吸引了注意力。他们不可置信地听着，才知道原来不知道什么时候，邹家小姐也在这两个年轻人的手上吃了大亏。\n\n    这些年，邹家兄妹在那个圈子里无比嚣张，谁能让她吃亏？众人看着许乐和施清海的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "穿着黑色正装的漂亮流氓，她的眼神顿时变得寒冷火热，寒冷是因为心情，火热是因为她的怒意。她长这么大，还从来没有被人打过，自从认识太子之后，连她父母兄长对她都无比客气，除了这个叫施清海的联邦调查局小官……谁敢扇自己耳光？\n\n    她带着身边的伙伴们向台阶上走去。忽然感觉到脸上一阵火辣。\n\n    只是",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，这时候舞会中间究竟有没有那些低调的七大家第二代，谁也不知道。\n\n    此时下了名贵汽车，气势逼人缓缓向着入口走来的那一群人，虽然不是七大家的人，但家中的背景也非常深厚，在联邦一般民众看来，当然算是特权阶层。\n\n    走在人群最前面的邹郁今天穿着一件红色的无肩晚礼服，裸露的双肩恰到好处地展现了些",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

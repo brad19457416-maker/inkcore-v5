@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 502,
+  "chapter_title": "第一百四十四章 夜色(上)",
+  "filename": "ch_0502_第一百四十四章 夜色(上).txt",
+  "char_count": 3512,
+  "timestamp": "2026-04-10T12:05:08.516361",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的地方。\n\n    …………\n\n    …………\n\n    部队里很多人都知道钟老虎压制杜少卿的不明真相传言，与帝国开战不久，便有两名西林军方的将领因为驰援铁七师不及时，而被国防部严办，更增加了这种传言的真实感。\n\n    联邦进攻三颗沦陷星的大部分主力部队都来自西林军区“臼行星菱形基地里的官兵更有",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "进来，手里拿着一枚通红的西林蛇果，果皮上面水滴清亮。\n\n    他将蛇果递给床上的许乐，低头轻声细语说道：“最后那枚狼舌爆炸的时候，幸亏你的神经反应速度比别人快，把大熊和达林丢出老远，自己也跳了起来……不过还是受伤了，防弹靴底全毁了，小腿肌肉也有撕裂情况发生。”\n\n    许乐接过蛇果咬了一口，说道",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "执行一些必死的任务，而这……正是他所能够理解，却难以达到的心态。\n\n    安静了很久的基地里，忽然爆发出了一片响亮的喝彩声，许乐用疑惑的眼神看了白玉兰一眼。\n\n    白玉兰不知从哪里又摸出一枚红通通的蛇果，用雪白的手帕细细擦拭着，轻声解释道：“刚才整个基地里的人，都在看联邦新闻频道的即时战情转播",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "是机甲，随便一颗流弹都会要了你的命，今天你能活下来，只能说明你运气好。”\n\n    许乐又挠了挠头，心想席勒大师早期戏剧里那位超级英雄人物，明明不是人类，自己哪有如此生猛。\n\n    白玉兰紧接着说道：“而且既然你临时把指挥权限给了我，你就必须听从我的命令。在我没有明确指示之前，你就蹦了出去……这种",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "套猛塞的——一许乐中校，终于醒了过来。\n\n    微沉的夜色营房，孤单的病床，他睁开双眼，初一惘然，瞬间清醒后便明亮如昨，低头望了一眼下方，发现自己的身体并没有因为最后的那次爆炸而缺少零件，石头心中的石头咯噔一声落了地。\n\n    因此，他庆幸欢愉露齿一笑，整齐的牙齿和明朗的笑容依然澄净洁白，没有一",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "着几丝秋日燥意。\n\n    他有些不明所以，也懒得去想，有些疲惫地闭上双眼，开始回顾这一场突如其来的战斗过程，想到草甸上方七组老队员们展现出来的冷静与默契配合，想到熊临泉的枪劈一线，顾惜风精确到恐怖的电控手段，不禁感慨说道：“经过个天才明白，你带出来的七组果然很生猛，难怪政丨府当年有什么见不得光的私",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "你也必须把我当成普通的一名士兵般指挥。”\n\n    白玉兰摇了摇头，用不容置疑的语气说道：“不行。你将来是要当师长当将军甚至是当元帅的人，你必须学会，并且敢于在战场上指挥。”\n\n    许乐不知道该说些什么，沉默地将蛇果放到了床边桌上。战场上的指挥或许是一门艺术，但在很多具体的战斗局面下，指挥是杀人",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "一场突如其来的战斗过程，想到草甸上方七组老队员们展现出来的冷静与默契配合，想到熊临泉的枪劈一线，顾惜风精确到恐怖的电控手段，不禁感慨说道：“经过个天才明白，你带出来的七组果然很生猛，难怪政丨府当年有什么见不得光的私活儿，都让你们做。”\n\n    白玉兰沉默，再沉默，终于打破沉默，以一种极为认真的语气",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "自然没有什么好感。但毕竟都是联邦军人，看着有史以来第一次军事行动现场直播，看着那些令人心血澎湃，莫名激动的战场画面，看着自己的同胞一寸寸碾碎帝国人设置在冰川险恶地形里的防线，他们依然发自内心为对方喝彩。\n\n    光屏渐渐黑暗，联邦战士们兴奋地议论着，然后回到自己的营房，开始准备明天清晨或许是稍后的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，可以将一切美好的电视购物用词加诸其上。\n\n    然而就像联邦军方只研制了三把的acw所印证的那个道理，过于完美的东西，自然也会过于昂贵。\n\n    “居然用了这么多？”\n\n    许乐忍不住挠了挠头，猜测联邦军方时伤病员的大方究竟到了什么程度，同时伴着些微心疼，然后恍惚间记起，回营后在手术台上由",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "之八十以上都是西林本土人。他们对杜少卿和他的铁七师自然没有什么好感。但毕竟都是联邦军人，看着有史以来第一次军事行动现场直播，看着那些令人心血澎湃，莫名激动的战场画面，看着自己的同胞一寸寸碾碎帝国人设置在冰川险恶地形里的防线，他们依然发自内心为对方喝彩。\n\n    光屏渐渐黑暗，联邦战士们兴奋地议论着",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "恚色，反而都像颜丙燕一样呵呵傻笑起来，因为被打就表明今天他们勇敢地拖到了最后。\n\n    熊临泉站到众人之前，忽然神情一肃，认真说道：“今天你们没有先撤，胆量勇气不错，但以后要听军令，毕竟你们是新兵蛋子，留在那里不见得有用。”\n\n    “战场上就是老的带新的，死的带活的，等你们磨炼出来了，有的是拼",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "五个整编机械师开始进攻北半球冰冉要塞，看这喝采声，大概是取得了决定性的突破。”\n\n    紧接着他用凝重的语气加了一句：“先锋主力，是杜少卿的铁七师。”\n\n    许乐微张双唇，不可思议感慨道：“连军事行动都敢直播？国防部那帮大佬对杜少卿的信心，未免也太强了些，难道就真以为此人永远不败？”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "“居然用了这么多？”\n\n    许乐忍不住挠了挠头，猜测联邦军方时伤病员的大方究竟到了什么程度，同时伴着些微心疼，然后恍惚间记起，回营后在手术台上由清晰的痛楚转入药物惘然之前，似乎有位医疗官让自己在什么单子上签过字……难道是病危通知书？自己的伤情比自己感觉到的要严重很多？\n\n    “你的伤没有",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "发胀的眉心，许乐看了一眼手表，确认了下时间，开始打量四周的环境，只见自己身处一间杂乱的医疗室内，一片安静，无人前来。\n\n    病床旁边白色用药单上的药剂针数，落入他的眼眸，让他不由微微一怔。\n\n    蓝草麻药是宪历六十一年，由联邦科学院十一所研发出来的新型麻药，效果季好，安全可靠，可以将一切美好",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

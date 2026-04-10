@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 582,
+  "chapter_title": "第八十六章 一个花痴",
+  "filename": "ch_0582_第八十六章 一个花痴.txt",
+  "char_count": 3469,
+  "timestamp": "2026-04-10T12:11:26.672215",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "无数道重叠在一起的镜面。\n　　从茶水里溅射而出的茉莉花瓣，落在那些镜面之上，两道气息的碰撞，让殿内狂风大作，砖缝里的积尘都被刮了出来，烟尘大作。\n　　花瓣落在镜面上，颤抖着向里面钻去，然而却只能穿透两三层，便变得颓然无力，凄哀扭曲，碾落成泥，挥散开来。\n　　坐在角落里的花痴陆晨迦，眼神极为震惊，如花",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "脚，向着对面走去。\n　　曲妮玛娣倚墙而坐，身上尽是血污，看着行来的宁缺，苍老的面容上满是惊惧与痛苦，愤怒地尖啸道：“你还不出手！”\n　　殿内诸人并不知道这位老姑姑是在寻求谁的帮助。\n　　宝树大师轻叹一声，双手在身前结了一道手印。\n　　这道手印很奇怪，右手食指微屈，就像顽童弹石头的姿式。\n　　一道慈悲",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "不能接受，但我勉强可以理解，你因为自己未婚夫的遭遇，一直很想要杀死我，但是这件事情和桑桑没有关系，你为什么要这样做？”\n　　宁缺看着陆晨迦问道。\n　　陆晨迦抬起手臂，擦掉唇角的血水，苍白而美丽的脸上露出一丝有些痴癫的笑容，说道：“我很确认杀死现在的自己，只能让自己解脱，而不能让自己痛苦，那么既然我是",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "脸上深刻的皱纹被神辉照耀的非常清楚，仿佛夹着无数道金线，又像是被烧融的岩浆，随时可能崩塌。\n　　只是瞬间，老妇人紧握拐杖两端的双手便剧颤地颤抖起来，脸色显得特别痛苦，伴着一声闷哼，倒掠而后撞到了墙壁之上，喷出一口鲜血。\n　　宁缺刀势已尽，抬起右脚，向着对面走去。\n　　曲妮玛娣倚墙而坐，身上尽是血污，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "一声簌然轻响，佛殿坚硬的石砖地面微微下陷。\n　　一络青丝，在陆晨迦的脸畔断裂落下。\n　　一道血口，出现在她的脸上。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "宁缺摇了摇头，说道：“我只是想揭了你的皮，让你更痛苦一些。”\n　　平实质朴诚恳的言语，落在殿内众人的耳中，却是那般的寒冷。\n　　谁都没有想到，正在讨论冥界入侵之事时，花痴陆晨迦却忽然出手暗杀桑桑，没有人知道这时候应该如何处理，且不说桑桑在西陵神殿里的尊贵身份，便是宁缺肯定也不可能就此罢休，他会",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的原因变得极度疯癫狂热，比如丧子比如丧夫。\n　　宁缺很感谢隆庆在红莲寺前的秋雨里，给了自己近乎致命的沉重打击，这让他重新寻找回来了当年在岷山里的谨慎与冷静，在瓦山禅院里和陆晨迦几句对话，尤其是看到她的眼神，他便一直警惕这个女人会像隆庆一样发疯，所以才会把那个锦囊放在桑桑的身边。\n　　那个锦囊里，藏着",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "宁缺缓缓站起身来，看着陆晨迦，脸上没有任何情绪。\n　　此行烂柯寺，在遇到那方佛辇之前，他从来没有担心过自己和桑桑的安全，正如曾经对冼植朗说的那样，如今这个世界上，比他强大的人会因为他的师门背景而不敢来招惹他，那些没有见识敢来惹他的人却惹不起他。\n　　然而这并不是一个绝对理性的世界，依然有像隆庆这",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "宁缺看着陆晨迦问道。\n　　陆晨迦抬起手臂，擦掉唇角的血水，苍白而美丽的脸上露出一丝有些痴癫的笑容，说道：“我很确认杀死现在的自己，只能让自己解脱，而不能让自己痛苦，那么既然我是想要你痛苦，为什么要杀死你？”\n　　她怨恨盯着宁缺的眼睛，颤声说道：“你曾经杀死过对我最重要的人，你知道那是什么感受吗？那",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "微湿。\n　　宁缺缓缓站起身来，看着陆晨迦，脸上没有任何情绪。\n　　此行烂柯寺，在遇到那方佛辇之前，他从来没有担心过自己和桑桑的安全，正如曾经对冼植朗说的那样，如今这个世界上，比他强大的人会因为他的师门背景而不敢来招惹他，那些没有见识敢来惹他的人却惹不起他。\n　　然而这并不是一个绝对理性的世界，依然有",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "就不想活了，所以她在等死。\n　　但有人不可能眼睁睁看着她去死。\n　　曲妮玛娣厉啸一声，自蒲团上弹起，来到陆晨迦身前，手中拐杖一横，一道老辣纯厚的佛家气息，由势而生。\n　　宁缺刀势，横穿佛殿，重重落到那根拐杖上。\n　　昊天神辉与杖上浓厚的佛家气息相冲，向着四处溅散，就似熊熊燃烧的火焰。\n　　曲妮玛娣紧",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "而敛，消失无踪。茉莉花瓣的粉末混着被撕扯成最细微水滴的茶水，轻柔扑打在她的脸上，有些微湿。\n　　宁缺缓缓站起身来，看着陆晨迦，脸上没有任何情绪。\n　　此行烂柯寺，在遇到那方佛辇之前，他从来没有担心过自己和桑桑的安全，正如曾经对冼植朗说的那样，如今这个世界上，比他强大的人会因为他的师门背景而不敢来招惹",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

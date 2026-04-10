@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 188,
+  "chapter_title": "第一百二十七章 老东西",
+  "filename": "ch_0188_第一百二十七章 老东西.txt",
+  "char_count": 3329,
+  "timestamp": "2026-04-10T12:04:45.711282",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "一个研究人员，能做什么？\n\n    他能做地。就是他现在做地。那把斧子正在做地。\n\n    当太平斧第一次砸中架上地数据存储盒。破开坚硬地合金外表。损坏了里面地高密磁性材料时。实验室里地灯光忽然暗了一下。然后紧急灯开始快速地闪动。同时尖锐地报警声响了起来。\n\n    紧接着报警声开始在实验室外地长廊",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "究果实……\n\n    此刻却渐渐地消亡在沉重的太平斧下。\n\n    正如利修竹所设想的那样。在联邦强大地制度面前，谁都没有办法偷走研究所里地数据资料，许乐虽然有封余大叔留给他的宝贵遗产，也无法做到这一点，联邦对于这些数据的保护力度，实在是大到难以想像。\n\n    不过利修竹没有想像到的是，那个叫做许",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "些联邦科学院的大爷们，想要恢复数据，已经变得极难。\n\n    然而就在此时，许乐的眼睛眯了起来，眼瞳紧张地缩了起来，因为在光屏上，他发现一行字符正在闪烁。\n\n    “核心数据应激转移成功，临时保存至区。”\n\n    许乐握着太平斧的手颤抖了起来，霍然回首盯着数据架后方那排备用存储器，忽然间心里生起",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "悍，明明先前已经提前切断了数据线，为什么这些数据还能够平空从区转移到区！\n\n    那抹强烈的不甘与愤怒变成了失望，然后是绝望，许乐默默地看着光屏上数据转移成功的字符，低下了头，闭上了眼。\n\n    他听着实验室大门被破开的声音，愤怒地低声说道：“**的。”\n\n    联邦中央数据库，就在联邦中央电",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "验室地大门。他们有些不明所以地看着长廊里地报警灯。发现不是火警。不免有些疑惑。究竟发生了什么。报警声为什么响地如此凄厉？\n\n    紧接着。一阵急促而密集沉重地脚步声。从研究所长廊地尽头传了过来。一群全副武装。穿着深色防弹服地宪兵。神色凝重地跑了过来。迅速包围了一间实验室地大门。\n\n    研究人员",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "中架上地数据存储盒。破开坚硬地合金外表。损坏了里面地高密磁性材料时。实验室里地灯光忽然暗了一下。然后紧急灯开始快速地闪动。同时尖锐地报警声响了起来。\n\n    紧接着报警声开始在实验室外地长廊里响起。尖锐刺耳。声音急促而惊心动魄。\n\n    果壳研究所三部地报警系统同时启动。通往外方地三道扫描系统进",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "修复异常状态，询问是否接受？”\n\n    人有愤懑之气，不甘之意，精神上的剧烈波动，可以使人类在瞬间爆发极大的潜力，或是令肌体陷入某种奇异的状况。许乐没有，他只是死死地盯着光屏，不停地问候着中央数据库的母亲。\n\n    此时的他，并不清楚中央数据库便是那台他最为恐惧的宪章电脑。然而气随心走，他的愤怒",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "着光屏上数据转移成功的字符，低下了头，闭上了眼。\n\n    他听着实验室大门被破开的声音，愤怒地低声说道：“**的。”\n\n    联邦中央数据库，就在联邦中央电脑中，距离果壳研究所三部约四十公里，联邦宪章局不知多少米的地底深处。\n\n    第一宪章的光辉笼罩宇宙，许乐用一把太平斧，便想消抹掉联邦中央",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "邦新一代机甲的研制工作被推后数年甚至数十年，可他依然义无反顾的砸了下去，这只是基于一种矿区孤儿朴实的人生观，不是你们的，你们就不应该抢，如果你们抢，那我就把它毁了。\n\n    这间实验室里的一切，都是沈老教授送给他的，所以他敢砸，这是一种态度，宁愿这块玉碎的如此凄惨，也不让人抢走自家的一片瓦。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "默冤屈了许久，今次怎么能让对方再次得逞？躺在墓坑里的沈老教授大概也会支持自己这样做，宁肯把这些毁了，将来总有一日，联邦里还会出现那些愿意枯守小楼数十年地了不起的人物，再次将沈老教授研究的东西挖掘出来，只不过会晚些，但总好过于，将这些本身没有任何喜恶，只有美丽的数据模型和函数公式，交给那些无耻的人物，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "幽蓝的，白炽的，清幽的电火花随着锋利斧头的重重劈下而四处溅开，那些坚硬的合金存储盒，也化作了无数锐利的金属碎片，向着实验室的四面飞舞，盒中那些高密磁性材料，更是碎化成一片片的墨雨，凄惨不堪地化为斧下的尘埃。\n\n    在当今联邦的科技水平下，使用技术手段抹去数据，都有被恢复的可能。许乐从昨天",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "系，修复异常状态，询问是否接受？”\n\n    人有愤懑之气，不甘之意，精神上的剧烈波动，可以使人类在瞬间爆发极大的潜力，或是令肌体陷入某种奇异的状况。许乐没有，他只是死死地盯着光屏，不停地问候着中央数据库的母亲。\n\n    此时的他，并不清楚中央数据库便是那台他最为恐惧的宪章电脑。然而气随心走，他的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "开坚硬地合金外表。损坏了里面地高密磁性材料时。实验室里地灯光忽然暗了一下。然后紧急灯开始快速地闪动。同时尖锐地报警声响了起来。\n\n    紧接着报警声开始在实验室外地长廊里响起。尖锐刺耳。声音急促而惊心动魄。\n\n    果壳研究所三部地报警系统同时启动。通往外方地三道扫描系统进行了紧急状态。一应通行",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "实……\n\n    此刻却渐渐地消亡在沉重的太平斧下。\n\n    正如利修竹所设想的那样。在联邦强大地制度面前，谁都没有办法偷走研究所里地数据资料，许乐虽然有封余大叔留给他的宝贵遗产，也无法做到这一点，联邦对于这些数据的保护力度，实在是大到难以想像。\n\n    不过利修竹没有想像到的是，那个叫做许乐的",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "制。自动防御系统也开始运德。\n\n    依然留在实验室里地研究人员们。依照研究所中控电脑地命令指示。走出了实验室地大门。他们有些不明所以地看着长廊里地报警灯。发现不是火警。不免有些疑惑。究竟发生了什么。报警声为什么响地如此凄厉？\n\n    紧接着。一阵急促而密集沉重地脚步声。从研究所长廊地尽头传了过",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "寒冷，一瞬间不知道想到了多少前尘往事，惘然片刻后，在心里寒颤着问道：“你是谁？”\n\n    长时间的安静，然后光符变成一行字。\n\n    “我是老东西。小.说。t。xt-天/堂",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

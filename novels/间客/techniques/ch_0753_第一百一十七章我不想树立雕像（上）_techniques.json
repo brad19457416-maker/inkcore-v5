@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 753,
+  "chapter_title": "第一百一十七章我不想树立雕像（上）",
+  "filename": "ch_0753_第一百一十七章我不想树立雕像（上）.txt",
+  "char_count": 3502,
+  "timestamp": "2026-04-10T12:05:17.551139",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "联邦标准历宪历七十二年二月初，本应该是深冬隆寒。但这终究只是针对引而言，戴着墨镜的许乐享受着头顶湛蓝天空洒下的阳光，享受着墨绿色军装上清晰传来的温暖味道，舒服的快要睡着。\n\n    正三角浮翼设计的联邦新式太空战舰。从停机坪远方滑了过来。被强烈日光耀的有些变形的空气中。隐隐能够看到上面清晰的联邦军旗",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "其实不仅仅是他和他身后代表团成员们紧张，停机坪上的联邦军民都很紧张，因为谁都很清楚今天这场会面的历史意义。\n\n    多年前，帝国像敢死队一样沉默的使团曾经到访过联邦，那之后很多年，晚蝎星云两边的人类再也没有进行过直接接触，直到今天，又有一批勇敢或者傻逼的帝国人，没有带着弹药而是带着谈判条件，来到了",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "年前，那个，说话声音很大，很喜欢说色*情笑话，和宣传手册里英雄形象完全不一样的师长。\n\n    师长第一次看到她时，毫不留情嘲笑她眼睛红的像个兔子。兔子。白兔子，一对白兔子，是的。师长当时就是这样说的，当时就是这样的。\n\n    洪予良拧开热水开关，任由集曲汪今镜片，蔫住镜中那张集悴伤感的脸，和那双",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "军乐奏鸣。被布置一新的舷梯红毯漂亮的捧花女孩儿，忽然间醒过来的许乐眯着眼睛，透过墨镜打量着这些画面，心想西林方面做了如此多的准备，前来谈判的异乡人就算依然警怯。但想必也会比较高兴才是。\n\n    联邦战舰舱门开启，一个穿着黑色皮衣的中年男子缓缓走了出来，站在舷梯的最高端。对停机坪上黑压压的欢迎人群挥",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "舷梯的最高端。对停机坪上黑压压的欢迎人群挥手致意，从他挥动手臂的频率和僵硬姿态来看，他的心情明显非常紧张。\n\n    其实不仅仅是他和他身后代表团成员们紧张，停机坪上的联邦军民都很紧张，因为谁都很清楚今天这场会面的历史意义。\n\n    多年前，帝国像敢死队一样沉默的使团曾经到访过联邦，那之后很多年，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "杯咖啡，听着靳管家关于前往费城私人飞机已经备妥的回报，望着如画的雪后江山。脸上毫不遮掩地流淌着悲伤和思念。\n\n    她和李匹夫相识多年，她和他的家族有密不可分的友谊，最关键的是。李匹夫是她真正尊敬的人，所以整个宇雷大概只有他的离去，才能令她这般不遮掩地表示内心最深处的伤感。\n\n    晚蝎星云的那",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "站在人群中间的政府翻译听到这段话后非常紧张，不知道应该用怎样的词汇，既能准确地表达帝国革命友人颇具战斗气息的友谊表达，又不让许乐上校听出脏话来。\n\n    许乐阻止翻泽的努力，摘下墨镜。与对方笑着拥抱，说道：“木恩。欢迎来到我的家乡。”\n\n    （这章前面写的很好，嘀嗒嘀嗒，时间紧张，下章两点半",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的人类再也没有进行过直接接触，直到今天，又有一批勇敢或者傻逼的帝国人，没有带着弹药而是带着谈判条件，来到了联邦的土地上。\n\n    傻逼这个极富侮辱性的词汇。自然不是我这个有良心的年轻历史学家所做的评价。\n\n    “傻逼。”西林军区第二快反应旅旅长站在许乐身旁，他看着舷梯上方那个。动作僵硬的帝国人",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "心中最高的那座山到了。\n\n    “小姑三个卜时后才能到。”\n\n    李封上校以头抵地，痛苦的浑身颤抖，没有人看见眼睛和鼻涕在他的脸上难以控制的喷，他颤着声音说道：“我也回来晚了。”\n\n    李在道将军缓缓站了起来，认真的整理军装仪容，静静望着床上，举起手敬了一个军礼。\n\n    玻璃幕墙后方的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "国防部内务处逮捕此人，田大棒子明言不会让他死的很痛快，现在大选在即，一切要从稳定出，此人暂时被收押在秘密军事监狱中，可问题是，…居然真的没有自杀。\n\n    杀死自己总是一件简单的事情。尤其对于莱克上校这种练有素的特种军人来说，于是他没有自杀，对于许乐而言，便意味着非常不简单的事情。\n\n    那边",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "只有沉稳与强大的眉眼间忽然间闪过一丝令人心恸的惘然和无助。\n\n    一秒钟后，这种惘然与无助的神情瞬间消失，他深深地呼吸，缓慢地抬步，走到了病床之前，然后啪的一声跪下，将坚硬的头颅狠狠地叩到这该死的地板上，像一座山般倒了下来。\n\n    对于他来说，爷爷的离去，就像是心中最高的那座山到了。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "门，年轻和年幼的男生们呼喝着白色的雾气，踢打着缚着细草的木偶，就如当年的他。\n\n    檐上的水还在缓缓淌下。\n\n    滴嗒嘀嗒，是时针永远平静让人觉得窒息的枯燥摆动，是拿着红色糖果串望着初生红日的小男孩儿在贪婪地流着口水。是硝烟战场上右机械腿惨烈断裂露出手臂般粗的金属线机甲舱内令人安慰的电子自检",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "第一百一十七章我不想树立雕像（上） \n\n    夕天的费城温度从来都不会大其在山脚湖畔，屋小作渊浅浅一层幕雪，清晨鲜活的日头照耀在薄薄的雪上，让它们宛若要燃烧起来。并且真的开始自我温暖融化成细微的水流，淅淅顺着古意盎然的檐角落下，嘀嘀嗒嗒落在湿漉的地面上。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "联邦战舰舱门开启，一个穿着黑色皮衣的中年男子缓缓走了出来，站在舷梯的最高端。对停机坪上黑压压的欢迎人群挥手致意，从他挥动手臂的频率和僵硬姿态来看，他的心情明显非常紧张。\n\n    其实不仅仅是他和他身后代表团成员们紧张，停机坪上的联邦军民都很紧张，因为谁都很清楚今天这场会面的历史意义。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "脚湖畔，屋小作渊浅浅一层幕雪，清晨鲜活的日头照耀在薄薄的雪上，让它们宛若要燃烧起来。并且真的开始自我温暖融化成细微的水流，淅淅顺着古意盎然的檐角落下，嘀嘀嗒嗒落在湿漉的地面上。\n\n    这些细微的雨水砸了很多年，却还没有来得及把坚硬的地面砸出清晰的痕迹，就像屋里那个双眼深陷瘦削平静的老人，在联邦里",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "李封上校以头抵地，痛苦的浑身颤抖，没有人看见眼睛和鼻涕在他的脸上难以控制的喷，他颤着声音说道：“我也回来晚了。”\n\n    李在道将军缓缓站了起来，认真的整理军装仪容，静静望着床上，举起手敬了一个军礼。\n\n    玻璃幕墙后方的将军和陆军总医院的专家门，缓缓举起右手，向床上那位干瘦的老人",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

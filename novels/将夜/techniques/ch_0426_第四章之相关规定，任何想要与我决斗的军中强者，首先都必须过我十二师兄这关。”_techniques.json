@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 426,
+  "chapter_title": "第四章之相关规定，任何想要与我决斗的军中强者，首先都必须过我十二师兄这关。”",
+  "filename": "ch_0426_第四章之相关规定，任何想要与我决斗的军中强者，首先都必须过我十二师兄这关。”.txt",
+  "char_count": 1792,
+  "timestamp": "2026-04-10T12:11:21.766592",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "间最强大的人物之一，先前在楼阁中，如果他愿意，像你我这样的角色，他一抬手便可以杀一条街。”\n　　宁缺心想，自己怎么没觉出来？\n　　“最可怕的是他镇国大将军的身份，他手中握有大唐军权，麾下强者无数，铁骑数万，可以横扫万里。”\n　　陈皮皮说道：“你要我和这样的大人物打擂台，我凭什么不怕？”\n　　宁缺嘲讽",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "关规定，任何想要与我决斗的军中强者，首先都必须过我十二师兄这关。”\n　　“如果您不想王景略天天吐血，最终变成人渣而死，那么最好不要尝试。”\n　　王景略的脸色愈发难看。\n　　陈皮皮走到许世身前，再次恭谨一礼，说道：“二师兄托我给您带句话，书院严禁干涉朝事，那么朝廷最好也不要干涉书院的事。”\n　　自从陈",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "上那些小黑点般的大雁，说道：“如果此时有数万道利箭，像大雁般向你飞了过来，你怎么办？用书院不器意改变风势？还是用浩然正气硬抗？你怎么抗都是死路一条。”\n　　宁缺说道：“我这等修为自然是不行的，你呢？”\n　　陈皮皮感慨说道：“如果我一个人能战胜大唐铁骑，那我干脆改名叫夫子好了。”\n　　宁缺说道：“当初",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "陈皮皮问道：“你在想什么？”\n　　宁缺说道：“我在想你和二师兄有没有触犯过唐律。”\n　　陈皮皮有些紧张，问道：“你想这个做甚？”\n　　宁缺说道：“如果你和二师兄违反过唐律，我就报官让许世来对付你们。”\n　　陈皮皮说道：“我倒罢了，二师兄可不见得会害怕。”\n　　宁缺说道：“许世说就算是二师兄这样的人",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "：“就算是世间最善最正义的大好人，如果对我不好，那就是坏人。”\n　　陈皮皮思忖片刻后说道：“似乎也有道理。”\n　　宁缺忽然抽了抽鼻子，疑惑望向他问道：“你为什么流了这么多汗？”\n　　陈皮皮后背上的衣服早已被汗水打湿。\n　　他解释说道：“胖子怕热。”\n　　宁缺摇了摇头，不接受这个解释。\n　　陈皮皮羞恼",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "坏人。”\n　　陈皮皮思忖片刻后说道：“似乎也有道理。”\n　　宁缺忽然抽了抽鼻子，疑惑望向他问道：“你为什么流了这么多汗？”\n　　陈皮皮后背上的衣服早已被汗水打湿。\n　　他解释说道：“胖子怕热。”\n　　宁缺摇了摇头，不接受这个解释。\n　　陈皮皮羞恼说道：“你身上的汗水都干成盐花了，还好意思说我。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，说道：“二师兄托我给您带句话，书院严禁干涉朝事，那么朝廷最好也不要干涉书院的事。”\n　　自从陈皮皮出现之后，许世一直沉默。\n　　身为大唐军方第一人，他自然不会在乎陈皮皮，但他要对书院后山中的某些人保持一定程度的尊敬，比如那位很二的师兄。\n　　“帮我带句话给二先生。”\n　　许世说道：“如果书院里的人",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "成人渣而死，那么最好不要尝试。”\n　　王景略的脸色愈发难看。\n　　陈皮皮走到许世身前，再次恭谨一礼，说道：“二师兄托我给您带句话，书院严禁干涉朝事，那么朝廷最好也不要干涉书院的事。”\n　　自从陈皮皮出现之后，许世一直沉默。\n　　身为大唐军方第一人，他自然不会在乎陈皮皮，但他要对书院后山中的某些人保持",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "宁缺心想，自己怎么没觉出来？\n　　“最可怕的是他镇国大将军的身份，他手中握有大唐军权，麾下强者无数，铁骑数万，可以横扫万里。”\n　　陈皮皮说道：“你要我和这样的大人物打擂台，我凭什么不怕？”\n　　宁缺嘲讽说道：“那我为什么不怕？”\n　　“因为你是个白痴。”\n　　陈皮皮毫不客气地训斥道：“和整个",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

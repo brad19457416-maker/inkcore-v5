@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 896,
+  "chapter_title": "第六十九章 辗转反侧",
+  "filename": "ch_0896_第六十九章 辗转反侧.txt",
+  "char_count": 3436,
+  "timestamp": "2026-04-10T12:11:27.405175",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "此时的自己比普通人都不如，根本没有可能越狱逃走，于是他不再去看那道看似单薄的木栅栏，看着石窗外的狭小天空长时间沉默。\n　　他这时候很疲惫，心神处于崩溃的边缘，最需要的便是休息，但他却没有办法入睡，因为身体虽然看上去是完好的，但在光明神殿里遭受过的那些凌迟的痛苦，却依然清晰地停留在他的身体里。\n　　他",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "息着，直到过了很长时间，才终于适应了这种痛苦，变得稍平静了些，胸膛却还在不停地起伏，因为恐惧，也因为愤怒。\n　　自己的身体，不用解开裤腰带，也能清楚发生了什么变化，他低头看着双腿间。\n　　有些惘然说道：“能重新长出来吧？”\n　　稍一停顿后，他加重语气说道：“必须重新长出来。”\n　　覆水难收，断发难续",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "意识里构建了一番，确认自己的二字符和V字符的威力都有所增强，眼眸微微明亮，唇角微扬，露出满意的笑容，心想受苦受难也不是全无好处。\n　　他艰难地坐起身来，扶着石床站起，只是这么一个简单的动作，都觉得身上的肉仿佛要再次裂开，痛的腿都有些打晃。\n　　他走到石桌前，沉默地开始吃饭，他不知道这场战争要持续多长",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，就这样怔怔站了很久后，挪着艰难地步伐，退回到石床边，缓缓坐下。\n　　当他的臀与冰冷的石床接触的那一瞬间，他的脸骤然变得有些扭曲，双腿间涌出的极端痛楚，甚至让他险些昏厥过去。\n　　他痛苦地喘息着，直到过了很长时间，才终于适应了这种痛苦，变得稍平静了些，胸膛却还在不停地起伏，因为恐惧，也因为愤怒。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。\n　　这些夜雾所带来的伤害是其次，关键是这时他正在静思符道，如果错过这次机会，谁也不知道下次契机会出现在何时。\n　　他当然清楚，这必然是她感知到幽阁里的变化，然后施出的手段，不然那些夜雾也没有可能进入到囚室里。\n　　“你已经把我整成这样了，你还要哪样！”\n　　宁缺看着峰顶光明神殿的方向，愤怒地大声",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "间。\n　　他没有解开裤腰带小解，他什么都没有做，就这样怔怔站了很久后，挪着艰难地步伐，退回到石床边，缓缓坐下。\n　　当他的臀与冰冷的石床接触的那一瞬间，他的脸骤然变得有些扭曲，双腿间涌出的极端痛楚，甚至让他险些昏厥过去。\n　　他痛苦地喘息着，直到过了很长时间，才终于适应了这种痛苦，变得稍平静了些，胸",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "明神殿的方向，愤怒地大声喊道：“你要再敢动我一根手指头，我就死给你看！我拖着你一起死！”\n　　怒喝的同时，他对着峰顶比出了一根中指。\n　　他知道桑桑明白这根中指代表什么。\n　　他现在也只剩下中指了。\n　　但他忘了，桑桑对他的了解并不局限于此，她更明白，不到最后关头，他是绝然不会去死的，至少一根手指头",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "因为愤怒。\n　　自己的身体，不用解开裤腰带，也能清楚发生了什么变化，他低头看着双腿间。\n　　有些惘然说道：“能重新长出来吧？”\n　　稍一停顿后，他加重语气说道：“必须重新长出来。”\n　　覆水难收，断发难续，破镜难圆，终究只是难，不是不可能，只是现在决定这件事情的不是他，而是光明神殿里的她。\n　　他沉",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "就在此时，石窗处忽然有雾涌入。\n　　宁缺眼瞳微缩。他曾经夜探幽阁，知道绝壁间的云雾里有西陵神殿无数年来无数强者不甘的冤念，即便是全盛时期的他也无法抵抗，必须依靠月光，更何况此时他的雪山气海被锁，已经变成了废人。\n　　这些夜雾所带来的伤害是其次，关键是这时他正在静思符道，如果错过这次机会，谁也不",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "无法进行完全地控制。\n　　好在书院也没有失败，宁缺只要还活着，便有绝路里求胜利的机会，这场天人之战争进入了战略相持期，便要看谁能先找到破局的方法。\n　　宁缺不知道自己昏迷了多长时间，在这段时间里外界发生了什么事情，确定没有人会来审问自己后，他闭上眼睛，开始回忆在光明神殿那漫长一夜里发生的故事，那些血",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

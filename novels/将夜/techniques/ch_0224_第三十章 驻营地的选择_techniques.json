@@ -1,0 +1,102 @@
+{
+  "novel": "将夜",
+  "chapter_number": 224,
+  "chapter_title": "第三十章 驻营地的选择",
+  "filename": "ch_0224_第三十章 驻营地的选择.txt",
+  "char_count": 2215,
+  "timestamp": "2026-04-10T12:11:12.006272",
+  "techniques_count": 7,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "场，我们可以任意挑选地方居住。”\n　　听到这句话，帐蓬外的墨池苑弟子都明白了他的意思，纷纷笑了起来，心想另择宿营地也不错，既然神殿如此对待自己，那又何必与他们靠的太近。\n　　酌之华微笑看着宁缺，心想同门之中没有成熟男子，面对很多问题和选择时，确实少了些魄力，这种情况便是山主也没有办法改变。\n　　“我",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "两道战线上，至少聚集了数十万人，但眼下深入荒原进行和谈，诸国自然不可能把所有人都拉过来，只不过护卫贵人们的骑兵汇聚在一起，至少也有千骑之众。\n　　夕阳下的草场上帐蓬处处，旌旗招展，西边一片草场上帐蓬数量不多，排列的却极有秩序，而那些在寒风中猎猎飘舞的旗帜，也显得格外有精神，至于隐约可见的骑兵队列，更",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "万分想着，这些草比蛮人头上的头发都要少，哪里能让自己吃饱？\n　　大黑马性情暴烈，但若被驯服之后，毫无疑问是世间罕见的骏骑，如果让别人发现它的真正实力，一定会当宝贝般贡起来，哪里会像宁缺这样当成自家随意养的一只狗，家里没饭吃了，便一脚踹出门让它去街边拣邻居剩的骨头？\n　　但偏偏它只服气宁缺的管教，见宁",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "。\n　　他走到帐外，向远方望去。\n　　背着沉重行囊的大黑马踱到他的身前，用马首轻轻拱了拱他，发出像拉风箱一般的难听喘息声，显得极为吃力辛苦。\n　　宁缺摸了摸它颈上的鬃毛，笑骂道：“不要总是在我面前叫苦卖乖，这么点东西哪里至于让你辛苦成这个模样，稍后就要离开，别急着把行李卸下来，如果饿了你自己去找些草",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "很习惯，并不怎么在乎，只是觉得这处宿营地的位置似乎有些不妥。\n　　他走到帐外，向远方望去。\n　　背着沉重行囊的大黑马踱到他的身前，用马首轻轻拱了拱他，发出像拉风箱一般的难听喘息声，显得极为吃力辛苦。\n　　宁缺摸了摸它颈上的鬃毛，笑骂道：“不要总是在我面前叫苦卖乖，这么点东西哪里至于让你辛苦成这个模样",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "渐变得昏红起来。\n　　缓坡后方袭来一阵寒风，宁缺不知从何处拿了一条棉围巾，塞进领口处，对身旁的酌之华说道：“这里是风口，夜里会冷。”\n　　酌之华在墨池苑弟子中年龄最大，性情温婉平和，听着宁缺提醒，知道先前那名神殿主事，把自己这些人带到这里驻营，竟还存着这样无聊的刻薄小意思，即便是她也觉得有些恼怒，却",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "了摸它颈上的鬃毛，笑骂道：“不要总是在我面前叫苦卖乖，这么点东西哪里至于让你辛苦成这个模样，稍后就要离开，别急着把行李卸下来，如果饿了你自己去找些草吃。”\n　　大黑马瞪着大大的眼睛，看着冬风间那些隐隐若现的青草，痛苦万分想着，这些草比蛮人头上的头发都要少，哪里能让自己吃饱？\n　　大黑马性情暴烈，但若",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

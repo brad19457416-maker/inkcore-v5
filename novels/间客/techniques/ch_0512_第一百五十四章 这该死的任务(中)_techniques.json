@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 512,
+  "chapter_title": "第一百五十四章 这该死的任务(中)",
+  "filename": "ch_0512_第一百五十四章 这该死的任务(中).txt",
+  "char_count": 3620,
+  "timestamp": "2026-04-10T12:05:08.534204",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "着没有硝烟味道的空气与没有子弹四飞的环境，但即便疲惫紧张之后的瘫软休整，队员们依然没有放松警慢，对着天空舒展身躯，却用身旁的岩块隔绝了对面山峰或下方可能存在的帝国人侦查目光。\n\n    几乎每名七组队员身上都带着或重或轻的伤，尤其是刘佼几个基本上已经丧失了行动能力，如果不是七组队员素质强悍，作风强悍",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "许乐很想完成联邦的这项重要任务，但七组今天的损失太惨重了，萧十三楼一干战友的遗体还浸泡在河水之中，逃亡的山路上又有几名队员没有了呼吸……\n\n    他今年才二十二岁，曾经是一个有品德、有能力、有担当的三有青年，后来被联邦的残酷现实琢磨成了一个略显沉默、依然开朗、难以再以倾情相信法律，更相信自己内心",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "时间很紧张，你们必须马上启程。”\n\n    许乐深深地吸了一口气，被黑灰掩盖的脸颊上能看到一丝被强行压抑住的愤怒，在暮色中明亮的眼眸像是原野上的火般在燃烧。\n\n    做为一名军人，一名果壳工程师，一名与联邦中央电脑最亲密的人类，他比任何人都清楚，在这颗沦陷星上重启宪丨章网络，对于联邦有怎样重大的意",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "乱的包扎。\n\n    更远山脉里的夜已经快要全部来临，他眼眸里的火苗也已熄灭，对卫星那头的大人物沉声说道：“如果你相信我，我可以自己去试一下，但我的人还困在山上，帝国人派出了太多散兵在山地里，你们必须马上派直升机来接我的人离开。”\n\n    电话那头是联邦胜利军事行动的最高指挥官。他只是一个手底下有",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "一名与联邦中央电脑最亲密的人类，他比任何人都清楚，在这颗沦陷星上重启宪丨章网络，对于联邦有怎样重大的意义。事实上凌晨时，他毫不犹豫接受那名卷发宪丨章局官员发布的命令，也是基于这种认知。\n\n    许乐很想完成联邦的这项重要任务，但七组今天的损失太惨重了，萧十三楼一干战友的遗体还浸泡在河水之中，逃亡的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "上，无滋无味地欣赏着落日，实际上距离联邦军队总攻发起时间还有一段距离。\n\n    就在这个时候，许乐第一次与那头著名的西林老虎通上了话。\n\n    从宪历六十五年秋，来自西林的古钟号炮轰河西州郊外青丘，将那台黑色m52和机甲里的大叔轰成烟尘开始，再到逃离东林的飞船上遇见那个可爱的小女孩儿，他与联邦第",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "有时间低头啜吸了一口左肘水袋里的清水，听着不远处传来的声音，忍不住抬头看了一眼，眼眸里闪过一丝疑惑和愤怒。\n\n    疑惑和愤怒不是针对许乐，而是针对那些远在战舰之上遥控战场的长官和宪丨章局，如果不是宪丨章局犯了如此愚蠢的错误，本已工作一夜的七组，怎么会疲惫不堪地继续冒险？\n\n    许乐坐在一块灰",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "不错了。”\n\n    白玉兰沉默地看着他，从动作中很轻易地察觉到这个小老板准备做些什么，微笑说道：“为什么不直接派飞机去修复那个基点？”\n\n    “帝国人今天发疯了，派飞机去目标太大，万一被敌人摸到了那个重要基点，联邦承受不起这种风险。”许乐用手指快速地计算着工具数量，随口解释道。\n\n    “你",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "真继续说道：“告诉南相知……，我也喜欢她。“\n\n    “遗书不吉利。”白玉兰细细咀嚼着口里的烟草，感慨说道：“我实在没想到，石头原来也能变的如此煽情。”\n\n    “狗屁，小爷我读过很多书，满腹文藻，只是不屑让你们这些大头兵知道。”\n\n    许乐背起行军背包，拿起熊临泉递过来的2126长狙，在防",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "丨章局三处白副主任。”电话中，那名宪丨章局女官员冷漠而强势的声音再次响起，“现在时间很紧张，你们必须马上启程。”\n\n    许乐深深地吸了一口气，被黑灰掩盖的脸颊上能看到一丝被强行压抑住的愤怒，在暮色中明亮的眼眸像是原野上的火般在燃烧。\n\n    做为一名军人，一名果壳工程师，一名与联邦中央电脑最亲",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "么。\n\n    “明白。”\n\n    许乐拿着卫星电话，机械地回答道，此时左臂的伤口依然在流血，因为担心医疗胶水会影响到稍后的战斗，他拒绝了侯显东的深切治疗，只是用白色的布带进行了胡乱的包扎。\n\n    更远山脉里的夜已经快要全部来临，他眼眸里的火苗也已熄灭，对卫星那头的大人物沉声说道：“如果你相信",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "电话那头是联邦胜利军事行动的最高指挥官。他只是一个手底下有上百号人，几百条枪的小中校，军阶权力相差悬殊，然而此时此刻，他却勇敢地与对方讨价还价。\n\n    不知道电话那头说了些什么，许乐挂断电话后，直接将沉重的卫星电话放入身后的行军背包，然后摘下腕表与白玉兰的腕表进行了互换。\n\n    “",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "说什么，让利孝通转告李维一声，让他在那边注意安全。”\n\n    “记得去一趟议会山，告诉张小萌……她以后再找什么样的男人，不用经过我同意了。”\n\n    许乐的眉宇间闪过一丝很放松的笑意，忽然想到一件事情，认真继续说道：“告诉南相知……，我也喜欢她。“\n\n    “遗书不吉利。”白玉兰细细咀嚼着口里",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "要宪丨章局能及时把数据传到地面，问题应该不大。”许乐抬起头来说道：“今天的任务并不是铺网，我一个人和大家一起去差别并不大。\n\n    “问题是路上你可能碰见帝国人。”\n\n    “所以我更要一个人去，你知道我逃跑的本事。”许乐笑了，满是烟土的脸上，那口牙齿显得无比洁白。\n\n    “个人英雄主义会害",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "墨镜，也学不到杜少卿这类人万分之一的真正冷酷，更无法将战场上每个生命的流逝都当作棋盘上一颗弃子的暂时离开。\n\n    看着疲惫躺在岩块间的队员们，看着那些身上包扎着绑带，浑身满是医疗胶水味道的伤兵们，看着他们脸上的沉默不安表情，许乐舍不得，所以沉默。\n\n    白灰岩峰间的沉默，让在战舰中焦灼等待的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "日子的战地生涯中，都非常清楚自己的长官是个怎样性情的家伙，所以没有人上前愤怒地劝说，哭泣着挽留，只是安静地看着他。\n\n    顾惜风凑了过来，替许乐检查卫星电话和军用腕表，确认稍后的数据传送应该没有问题，轻声开口说道：“要修东西，至少要带着我吧？”\n\n    “我也是很**的工程师。”许乐拍了拍他的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

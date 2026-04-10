@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 49,
+  "chapter_title": "第四十九章 帝国道门两相厌",
+  "filename": "ch_0049_第四十九章 帝国道门两相厌.txt",
+  "char_count": 2323,
+  "timestamp": "2026-04-10T12:11:03.436818",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "却不怎么给面子，说来也是，就算是吕清臣老人曾经提到过的那些进入无距、天启境界的圣人，想来也没有能力呼风唤雨，更何况是位修行境界不足的老道士。\n　　宁缺微微皱眉望着道观渐渐阖拢的观门，想起了一些事情。\n　　昊天道号称世间唯一正教，在各国地位尊崇，道观占田无数从不交税，各分门神官更是身份尊贵极受崇敬，像",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "帝陛下手中，西陵完全无法插手。\n　　甚至有传闻，大唐帝国开国之初时曾经禁止昊天道在境内传道！\n　　按道理来讲，号称天下第一正教，拥有数亿信徒，实力异常强大的昊天道不可能忍受这种打压和羞辱，事实上他们确实也没有忍，所有人都相信，当年十七国伐唐的历史帷幕之后肯定有西陵神国的影子。\n　　当年号称百万的十七",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "大白天的看上去着实有些冷清。\n　　有资格在拥有独门小院的姑娘们，今日也忍不住寂寞聚到了楼前，拜见过简大家后便凑到了丝竹房内百无聊赖地嗑瓜子闲聊打发时间，直到宁缺主仆二人踏槛而入，这种情况骤然得到改变，一时间银铃般的笑声充斥楼堂。\n　　最顶层一间幽静的房间内，一名约摸四十岁左右的男子望着这一幕，看着手",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "桑桑愣了愣，把老婆饼塞进小小的嘴里，左手快速伸到他背上某个位置挠了两下。宁缺皱着眉头，接过她手里沉重的大黑伞，修正道：“不对，还是七七。”\n　　“知道了。”\n　　春雨绵延的长安城，在直街曲巷之间，在飞檐高楼之间，在打着伞穿着蓑衣的行人间，行走着一把如同黑色蒙尘莲花的大黑伞。大黑伞下桑桑一手拿着老",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "楼前，拜见过简大家后便凑到了丝竹房内百无聊赖地嗑瓜子闲聊打发时间，直到宁缺主仆二人踏槛而入，这种情况骤然得到改变，一时间银铃般的笑声充斥楼堂。\n　　最顶层一间幽静的房间内，一名约摸四十岁左右的男子望着这一幕，看着手下的姑娘们的模样，忍不住皱起了眉头，低声不悦斥道：“一个个还真把自己当没事儿干的大小姐",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "在街头表演戏法给大唐子民观赏……\n　　走在雨间，走在大黑伞下，宁缺想到先前那幕，忍不住笑着摇了摇头，说道：“说起来那老道还真可怜，不知道咱们大唐的国师大人在宫里会不会也是这个劲儿。”\n　　桑桑用右手和肩膀挟着大黑伞，左手拿着块不知道从哪间小摊上买的老婆饼在吃，口齿不清说道：“少爷，看来你挺喜欢长安啊",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "相提并论。虽然昊天道南门神官被封为大唐国师，但全天下都知道，昊天道南门与昊天道祭天主观所在的西陵关系一向若即若离，大唐各道观观主封鉴认定的权利，全部都在皇帝陛下手中，西陵完全无法插手。\n　　甚至有传闻，大唐帝国开国之初时曾经禁止昊天道在境内传道！\n　　按道理来讲，号称天下第一正教，拥有数亿信徒，实力",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "那些木剑符纸不是戏法，那么就只可能是……修行手段！用吕清臣老人教他的那些知识来看，这位老道人就算没有进入修行的第三层境界不惑，至少也在第二层境界感知里浸淫已久！\n　　整个天下除了西陵之外，大概就属长安城里的修行者最多，但他怎么也没有想到，带着桑桑随便逛逛街便能遇到一位修行者，而且这位已经快要踏入实境",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "要对那少年动粗，因为……他是我最后一位租客。”\n　　小酒桌旁，一位中年人看着他微笑说道，腰间那把佩剑安静搁在一旁，此人正是临四十七巷所有铺面的主人。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "一把如同黑色蒙尘莲花的大黑伞。大黑伞下桑桑一手拿着老婆饼，一手不停替宁缺挠痒，主仆二人的脸上全是欢愉满足神情。\n　　……\n　　……\n　　除了卖雨伞和做马车行的，这世上大概没有什么生意人会喜欢长安城每年雨水充沛绵延的春天，青楼也不例外。因为前几天发生在侧门外的那场意外事故，红袖招被强行停业一夜不说，也",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

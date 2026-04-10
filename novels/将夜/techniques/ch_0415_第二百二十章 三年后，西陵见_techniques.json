@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 415,
+  "chapter_title": "第二百二十章 三年后，西陵见",
+  "filename": "ch_0415_第二百二十章 三年后，西陵见.txt",
+  "char_count": 3633,
+  "timestamp": "2026-04-10T12:11:21.748472",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "也有些紧张，虽然宁缺昨夜解释了一遍光明大神官的继承法则，但她还是想不明白，老师既然是叛出西陵神殿的，为什么神殿还非要把自己接回去。\n　　天谕大神官平静看着主仆二人，忽然微微一笑，随着笑容绽放，他眼角如山如川的皱纹愈发深刻，微陷的沧桑眼眸骤然平静，静而不知深其许，便如一座顽石所堆砌而成的枯山里的一口老",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "殿才会着急，能尽早进入训政期那是最好不过。”\n　　宁缺忽然问道：“有假期吗？”\n　　程立雪微微一怔，心想神殿又不是普通学院，哪里会有这等安排？\n　　然而没有等他开口，天谕大神官微笑说道：“有。”\n　　宁缺看着天谕大神官，继续问道：“多长？”\n　　天谕大神官说道：“只要保证她在西陵桃山的时间超过一半。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "来，却不知道另外一位西陵大神官去年曾经在铺子里做过很长一段时间长工。\n　　羽林军在巷口调置警戒线，把人群请到了外面，神殿护卫警惕地占据了老笔斋铺口的几个要冲之地，幔纱掀起，天谕大神官缓缓走下神辇。\n　　宁缺和桑桑站在老笔斋门口相迎，态度恭敬。\n　　走进老笔斋的，只有天谕大神官和程立雪二人。\n　　宁缺",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的血滴染红。\n　　眼角深刻的皱纹也被血染红，像是一朵艳丽的桃花。\n　　更像是一片被鲜血浸透的干涸荒野大地。\n　　……\n　　……\n　　西陵使团离开长安城之前，宁缺去了一次南门观，从程立雪处得知，剑阁那边出手的幕后果然有裁决司的阴影。\n　　他愈发开始担心朝小树的安危，正在想着要不要离开长安去南晋寻人的时",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "天谕大神官平静看着主仆二人，忽然微微一笑，随着笑容绽放，他眼角如山如川的皱纹愈发深刻，微陷的沧桑眼眸骤然平静，静而不知深其许，便如一座顽石所堆砌而成的枯山里的一口老井。\n　　面对着天谕大神官的目光，宁缺忽然觉得自己身上的衣裳消失无踪，产生了一种赤裸的感觉，本能里觉得被对方看穿。\n　　不是身体被看穿，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "等虔诚信教的妇人老者在道旁跪拜不止，站着的民众也恭敬低头鞠躬，不敢直视神辇上幔纱后的老者。\n　　神辇进入临四十七巷，然后在老笔斋前停下，惹得街巷里拥挤的民众一片议论，好不羡慕那间铺子的主人，他们感慨着天谕神座的到来，却不知道另外一位西陵大神官去年曾经在铺子里做过很长一段时间长工。\n　　羽林军在巷口调",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "山山寄过来的，有些不可言诸于人的喜悦。\n　　然后他发现是朝小树寄过来的，失望之余复喜悦，喜悦之余便是愤怒。\n　　“活的好好的，也不说提前写几封信给大家，我看他真是在外面耍高兴了，高兴地连自己的亲爹都忘了！真是个白痴！”\n　　穿着明黄袍子的中年男人，愤怒地挥舞着袖子痛骂着。\n　　“估计朝二哥在哪个小山",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "看穿，而是他刻意铺陈在心灵上的那些掩饰被看穿，甚至是命运的去向被看穿，无所遁形。\n　　宁缺骤生警惕，说道：“书院宁缺，拜见神座大人。”\n　　天谕大神官说道：“免了。”\n　　宁缺便在大神官对面的椅上坐了下来。\n　　老笔斋里一片安静，宁缺明白，自己现在是主人，应该自己先开口，只是这件事情他不知道该如何开",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "人。”\n　　“唐律是说十六嫁人，不代表成人。”\n　　宁缺说道：“根据我的看法，只有到十八岁才有足够的人生阅历和智慧来安排自己的人生，所以我坚持三年之后再去西陵。”\n　　“三年啊。”\n　　天谕大神官轻轻叹息一声，看着宁缺身后的桑桑。\n　　随着这一眼，他脸上的皱纹愈发深刻，仿佛天降一场暴雨，把干涸的黄土",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "了他尊贵的身份。\n　　宁缺见过很多大人物，但和像天谕大神官这般尊贵的大人物谈判，却是头一遭，不免有些紧张，不知该如何开口。\n　　桑桑也有些紧张，虽然宁缺昨夜解释了一遍光明大神官的继承法则，但她还是想不明白，老师既然是叛出西陵神殿的，为什么神殿还非要把自己接回去。\n　　天谕大神官平静看着主仆二人，忽然",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "巷口调置警戒线，把人群请到了外面，神殿护卫警惕地占据了老笔斋铺口的几个要冲之地，幔纱掀起，天谕大神官缓缓走下神辇。\n　　宁缺和桑桑站在老笔斋门口相迎，态度恭敬。\n　　走进老笔斋的，只有天谕大神官和程立雪二人。\n　　宁缺恭敬请大神官坐下后，便想叫桑桑去泡茶，忽又想着程立雪说过这是对西陵和道门的大不敬，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "安城之前，宁缺去了一次南门观，从程立雪处得知，剑阁那边出手的幕后果然有裁决司的阴影。\n　　他愈发开始担心朝小树的安危，正在想着要不要离开长安去南晋寻人的时候，忽然收到了一封来自大河国的书信。\n　　他本以为是山山寄过来的，有些不可言诸于人的喜悦。\n　　然后他发现是朝小树寄过来的，失望之余复喜悦，喜悦之",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "裸的感觉，本能里觉得被对方看穿。\n　　不是身体被看穿，而是他刻意铺陈在心灵上的那些掩饰被看穿，甚至是命运的去向被看穿，无所遁形。\n　　宁缺骤生警惕，说道：“书院宁缺，拜见神座大人。”\n　　天谕大神官说道：“免了。”\n　　宁缺便在大神官对面的椅上坐了下来。\n　　老笔斋里一片安静，宁缺明白，自己现在是主",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "：“昨天夜里我和她商量了很长时间，她现在毕竟才十五岁，还是个小孩子，我确实不放心她离开自己身边，成年以后再去怎么样？”\n　　天谕大神官微笑说道：“明年？”\n　　宁缺摇了摇头，说道：“三年后。”\n　　天谕大神官说道：“依唐律，女子十六成人。”\n　　“唐律是说十六嫁人，不代表成人。”\n　　宁缺说道：“根",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "下，低声说道：“弟子不明白，难道真这样回西陵？桑桑师妹那里，连句承诺都没有。”\n　　“言语上的承诺，从来都没有任何力量。”\n　　天谕大神官从袖中取出一方洁白的丝巾，轻轻擦拭了一下眼角，随着如雪的丝巾落处，眼角的皱纹像花般时开时散。\n　　程立雪低着头困惑说道：“但我们既然来了，为什么要如此匆忙的离开？",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

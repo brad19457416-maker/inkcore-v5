@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 256,
+  "chapter_title": "第六十二章 毁灭人生的一箭",
+  "filename": "ch_0256_第六十二章 毁灭人生的一箭.txt",
+  "char_count": 4935,
+  "timestamp": "2026-04-10T12:11:21.678695",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "第六十二章 毁灭人生的一箭\n　　万涓成水，然后汇流成河，艰辛千万里峡谷丘陵平原滩涂，最终浪奔浪流摧沙狂肆喷涌出海，好不快意，恰如宁缺此时的心情。\n　　他本是长安城里一顽童，却陡遭变故，见惯世间最丑陋，经历过世间最险恶，正年少时节却要带着桑桑四处流浪，最终被生活煎熬成了边城里的砍柴少年",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "被谷外寒意所侵，才显得有些衰败枯凋。\n　　宁缺和莫山山站在霜草之间，举目向远处那道雪崖方向望去，今日天空湛蓝纤净无尘，视野极好，然而空中总有无数肉眼看不到的微小颗粒，隔着十几里的距离，根本没有办法看清楚那道雪崖上的画面，甚至连雪崖都看不到。\n　　眼看不到雪崖不等于真的完全看不到，宁缺刚入洞玄，正是精",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "莫山山轻轻摇头，说道：“破境之时道心通明，你我能感觉到他，他的感知也是极端的敏锐，你先前破境的瞬间，他应该就已经知道了。”\n　　宁缺看着那道看不见的雪崖，沉默片刻后问道：“那他还在等什么？”\n　　……\n　　……\n　　隆庆皇子在等花开。\n　　他身旁那根柴木上的那抹绿意早已勃发，十几片青绿肥嫩的叶",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，还有那些云中真实或虚妄的雪峰，感动地体悟着洞玄境带给自己的细微感受，此时的他，对于晋入洞玄境的真切意义并没有太直观的认知，但他至少很明显地感受到自己对符道的理解加深了不少。\n　　晴天冬湖青翠山谷，天地间的一切痕迹原来都是符的线条。\n　　因为这种崭新的认知，让他产生了极强烈的渴望，想在湖畔置案铺纸磨",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "来，一路同行入荒原，她清楚宁缺很重视自己这些沉重的行李，今天才知道原来行李里是这些古怪的东西，却不知究竟有何用处。\n　　宁缺取出匣中的金属物体，手指从上面微显粗糙的表面缓缓摩过，紧接着他加快了动作，随着金属构件的扣合声，一把浑体黝黑的金属弓迅速成形。\n　　然后他开始上弦，又从深色箭筒里抽出一根微黑的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，震惊地下意识里抬手掩唇。\n　　由世间独一无二书院打造出来的独一无二的元十三箭。\n　　在茫茫天弃山间第一次出现在世人眼前。\n　　……\n　　……\n　　定下破境之约那日，宁缺曾经问过莫山山如果在破境最关键的时刻，破境者忽然受到外界袭击会出现怎样的情况，当时莫山山应道破境者会遭受剧烈的反噬，甚至有可能此生",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "少些痛苦，若他真的晋入知命境界再自废，我觉着这未免也太残忍了些。”\n　　莫山山情绪复杂地看了他一眼，心想隆庆此时距离修行者梦寐以求的知命境界只差一步，马上便会成为大修行者，值此时刻难道他还真的会履行赌约，舍弃自己一身修为和神殿身份？宁缺你平日里的表现不像这般天真无邪的呀？\n　　“现在的问题是怎么告诉",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "花已然盛开，最后那瓣便要绽出最后的那一丝颤动。\n　　修行道路越往上走越艰辛，破境愈艰难，破境之时也愈危险，然而双方相隔如此之远，他根本不相信对方能有怎样的手段能干扰到自己。\n　　隔着十余里距离遥遥伤人，如果不是剑圣柳白的剑，那就只能是传说中进入无距境界的圣人，但世间真有这种人物存在吗？\n　　更何况他",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "想来想去，也想不出来比这段更好的发箭描写了，所以直接搬来用，就算把这字数抠掉，这章字数也是饱足的，向大家报告一下，这章是真用心了，请细看。）",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "前一刻，黝黑细长的元十三箭消失在宁缺的弓弦上，消失在乳白色的元气湍流中。\n　　下一刻，元十三箭便来到了隆庆皇子的身前。\n　　这道符箭的飞行似乎不需要时间，可以无视距离。\n　　坚硬的符箭直接刺穿隆庆皇子的胸腹，带出一朵极夸张的血花，撕扯乱他体内的气海雪山，然后如道黑色闪电继续疾飞，直至射入雪崖后方",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的叶儿上方有一朵粉粉的桃花，桃花正在以肉眼可见的速度瓣瓣绽放，一瓣两瓣缓缓伸展，娇嫩的花瓣在风中微微颤抖，上面竟隐隐可以看到露珠几滴。\n　　桃花已经开了四瓣，第五瓣正在缓慢而坚定地向空中展开。\n　　若最后的花瓣也完全展开，那便是盛开，那便是怒放。\n　　那便是知命。\n　　青翠山谷深处传来的气息波动，清",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“洞玄境……有这么强大？居然能感知到这么远距离的画面？”\n　　莫山山望着十几里外的雪崖方向，若有所思说道：“不是洞玄境能感知如此远的天地气息，而是因为隆庆皇子此时已经到了破境的关键时刻，他要破的乃是知命境，动静自然不小，此时他正要跨过那一步，数十年修行所得的道意及念力尽数渲泄至体外，对天地元气的干扰",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "逼迫对方履行那个破境之约。\n　　“赌坊规矩就一句话，输了要认帐。”\n　　宁缺把行李放到地上，取出一个沉重的桐木匣子，说道：“如果有敢耍赖的人，或者出老千被人抓住的人，都要被砍掉自己身上最有用的那个部分。”\n　　桐木匣子里搁着形状奇特的金属物体，这些金属物件表面黝黑，由无数根极细的金属丝编织绞弄而成，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "晴天冬湖青翠山谷，天地间的一切痕迹原来都是符的线条。\n　　因为这种崭新的认知，让他产生了极强烈的渴望，想在湖畔置案铺纸磨墨运笔，将眼中识海中看到的天地痕迹全部写下来。\n　　但他没有这样做，因为还有更重要的事情等着他去处理。\n　　……\n　　……\n　　大明湖南岸，靠近青翠山谷陡崖处有一道缓坡，随着阵",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "抹绿意早已勃发，十几片青绿肥嫩的叶儿上方有一朵粉粉的桃花，桃花正在以肉眼可见的速度瓣瓣绽放，一瓣两瓣缓缓伸展，娇嫩的花瓣在风中微微颤抖，上面竟隐隐可以看到露珠几滴。\n　　桃花已经开了四瓣，第五瓣正在缓慢而坚定地向空中展开。\n　　若最后的花瓣也完全展开，那便是盛开，那便是怒放。\n　　那便是知命。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

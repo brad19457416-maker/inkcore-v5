@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 738,
+  "chapter_title": "第一百一十九章 七天",
+  "filename": "ch_0738_第一百一十九章 七天.txt",
+  "char_count": 3345,
+  "timestamp": "2026-04-10T12:11:27.043541",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "娘的强硬手腕和朝廷官员的全力配合下，秩序已然恢复正常，那段历史再也不会重演，城中的百姓沉默等待着最后决战的到来。\n　　余帘很满意街道的安静，满意于商铺已经开启，或者她满意的是，让这座城市尽快走回正常轨道的那个女子。\n　　她去陈锦记买了一匣脂粉，又买了些酸酸甜甜的吃食，提着大大小小的袋子，就像走亲戚一",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "余帘安静片刻，微笑说道：“那天晚上，我下了碗青菜面给老师吃。”\n　　……\n　　……\n　　宁缺向春风亭横二街朝宅走去。\n　　毕竟李珲圆是被他一刀杀死的，无论站在朝堂之上，还是学娘娘坐在珠帘之后，都会显得有些不妥，所以他现在与宫里通过朝宅联系。\n　　先前有鱼龙帮众，传来宫中最新的消息，朝廷已经命令正",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "神阵也出了些问题，皇宫里的檐兽虽然有所反应，却只能眼睁睁看着那个娇小的少女提着一大堆东西，经过御花园来到宫殿群中。\n　　皇后娘娘没有在御书房，也没有在正殿，而是在自已的寝宫里处理政务国事，她的神情有些疲惫，但眉宇间的神情还是那般坚毅。\n　　正是凭借着这种气质，她才能在如此乱局里，在朝堂上大多数官员仍",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "完成。”\n　　这件事情自然指的是修复惊神阵，重要的事情又是什么？\n　　宁缺觉得肩头有些沉重，问道：“为什么是七天？”\n　　余帘说道：“因为大师兄只能把观主拖住七天。”\n　　宁缺问道：“那这七天时间，师姐要去何处？做什么？”\n　　余帘说道：“我去逛街，好多年没有逛过街了。”\n　　看着顺着石阶向城墙下走",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "已经交到你的手中，你要尽快把和长安城这座大阵重新回复原状。”\n　　宁缺听出师姐有离去之意，不由微惊，心想长安城现在可不能离开师姐这样一位真正强者坐镇，除非她是要去……\n　　“师姐，你要去南方？”他问道。\n　　余帘说道：“君陌他们在那边，我还去作甚？”\n　　宁缺心想自清河郡北上的西陵神殿大军何等样恐怖",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "沉声说道：“谁在藏头漏尾？”\n　　在旁侍奉的太监宫女面面相觑，心想根本没有听到脚步声，娘娘是不是太过紧张疲累，从而产生了错觉？\n　　便在这时，殿外传来一道清稚而威严的声音。\n　　清稚的声音，一般很难严，但这个声音做到了这一点。\n　　“看来嫁给那个家伙之后，你过的不错，竟是不肯再修行一天，如果你稍微刻",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "娘已经知道了书院出手的消息，朝廷开始做相关的配合，他也觉得这么安排是妥当的。\n　　如今大唐面临的最大危险，分别来自于三处。\n　　自荒原南下的金帐王庭，由西陵和南晋北上的神殿联军，以及在夫子离开之后，可以称得上人间最强者的知守观观主。\n　　北方的金帐王庭虽然强大，但有宁缺和皇后从贺兰城带回的唐军补充，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "我若显露境界，就算不被灭，也要与朱雀斗个你死我活。”\n　　宁缺想着朱雀大街上的石制绘像，才明白是这个道理，自已当初和夏侯雪湖一战，那么多的强者进入长安，原来是被允许才能进入。\n　　余帘看了眼他手中的阵眼杵，说道：“如今阵眼杵已经交到你的手中，你要尽快把和长安城这座大阵重新回复原状。”\n　　宁缺听出师",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "唐小棠惊叫一声，说道：“老师，你怎么了？”\n　　皇后娘娘微笑说道：“难怪宁缺进长安城后，小棠姑娘便出现，一直陪在我们身边，原来都是老师您的安排。”\n　　余帘说道：“你们师姐妹今日正式相见，行个礼吧。”\n　　唐小棠上前行礼，皇后还了半礼。\n　　皇后娘娘沉默了很长时间，终究没能忍住心头的疑惑，主要是太",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "心想自清河郡北上的西陵神殿大军何等样恐怖，哪里是二师兄便能挡住，又想起二师兄宁折不弯的骄傲性情，愈发担心。\n　　余帘说道：“担心也没有用，我必须留在长安城，因为有件很重要的事情等着要做，所以你必须在七天内把这件事情完成。”\n　　这件事情自然指的是修复惊神阵，重要的事情又是什么？\n　　宁缺觉得肩头有些",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第一百一十九章 七天\n　　余帘说道：“道门虽然废柴，但还是有些手段，而且准备了整整千年时间，虽无法破掉老师留下的这座大阵，却亦不可等闲视之。”\n　　“掌教进书院，便是想抢阵眼杵，前期应该是何明池借着昊天道南门门主的名义在城中做了手",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "手，我也可以请夫子说话。”\n　　“当年陛下娶我，最终得到书院同意，是不是您帮着说了话？”\n　　“书院从来不管嫁娶之事，我不用说话，也不会反对你们的婚事。”\n　　久别重逢的师徒说着话，皇后娘娘极为谦恭地在旁侍候着茶水与瓜果，只是余帘此时看上去就是个少女，画面显得有些怪异。\n　　所以当唐小棠带着六皇子走",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，秩序已然恢复正常，那段历史再也不会重演，城中的百姓沉默等待着最后决战的到来。\n　　余帘很满意街道的安静，满意于商铺已经开启，或者她满意的是，让这座城市尽快走回正常轨道的那个女子。\n　　她去陈锦记买了一匣脂粉，又买了些酸酸甜甜的吃食，提着大大小小的袋子，就像走亲戚一样，很随便地走进了皇宫。\n　　皇宫",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

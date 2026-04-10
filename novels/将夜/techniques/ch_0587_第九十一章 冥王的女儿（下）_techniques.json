@@ -1,0 +1,102 @@
+{
+  "novel": "将夜",
+  "chapter_number": 587,
+  "chapter_title": "第九十一章 冥王的女儿（下）",
+  "filename": "ch_0587_第九十一章 冥王的女儿（下）.txt",
+  "char_count": 1518,
+  "timestamp": "2026-04-10T12:11:26.677629",
+  "techniques_count": 7,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "便一直坐在佛殿角落里，此时听到提到自己，宣了一声佛号，便自沉默不语，看来便是他也早就知道了桑桑身世的真相。\n　　歧山大师的目光离开桑桑的脸，看着宁缺说道：“你亲自参与了第三局棋，虽然去的晚些，但你也应该知道曾经发生过什么事情。”\n　　“棋盘内外的世界规则虽然有种种差别，实际上都还是在昊天的规则范围里",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "样纯净，能够传导甚至放大持伞者的念力甚至是昊天神辉，在修行界的典籍传说中，从来没有这种全能防御性武器出现过，甚至比宝树手中的盂兰铃还要神奇。\n　　在北山道口，在杀剑师颜肃卿的那个夜晚，在凛冬之湖战夏侯的过程中，以及更早在岷山在梳碧湖的岁月里，没有这把大黑伞，他不知道要死多少次。\n　　此时宁缺当然明白",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，我曾说过你最有趣的地方，就是你想便能做到，你不想，便能让自己都想不到……这不是什么禅锋，而是真实的感慨，你与桑桑自幼一起生活，若真去想又怎么会想不明白呢？”\n　　宁缺没有说话。\n　　歧山大师指着佛光里那把大黑伞，说道：“这把黑伞能隔绝一切，能传导一切，包括光明，本就不是人间应该有的东西，不知多少年",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "角落里，此时听到提到自己，宣了一声佛号，便自沉默不语，看来便是他也早就知道了桑桑身世的真相。\n　　歧山大师的目光离开桑桑的脸，看着宁缺说道：“你亲自参与了第三局棋，虽然去的晚些，但你也应该知道曾经发生过什么事情。”\n　　“棋盘内外的世界规则虽然有种种差别，实际上都还是在昊天的规则范围里，桑桑却打破了",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "进，刀枪不破，却又像桑桑一样纯净，能够传导甚至放大持伞者的念力甚至是昊天神辉，在修行界的典籍传说中，从来没有这种全能防御性武器出现过，甚至比宝树手中的盂兰铃还要神奇。\n　　在北山道口，在杀剑师颜肃卿的那个夜晚，在凛冬之湖战夏侯的过程中，以及更早在岷山在梳碧湖的岁月里，没有这把大黑伞，他不知道要死多少",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "听到提到自己，宣了一声佛号，便自沉默不语，看来便是他也早就知道了桑桑身世的真相。\n　　歧山大师的目光离开桑桑的脸，看着宁缺说道：“你亲自参与了第三局棋，虽然去的晚些，但你也应该知道曾经发生过什么事情。”\n　　“棋盘内外的世界规则虽然有种种差别，实际上都还是在昊天的规则范围里，桑桑却打破了时间之上的永",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "佛号，便自沉默不语，看来便是他也早就知道了桑桑身世的真相。\n　　歧山大师的目光离开桑桑的脸，看着宁缺说道：“你亲自参与了第三局棋，虽然去的晚些，但你也应该知道曾经发生过什么事情。”\n　　“棋盘内外的世界规则虽然有种种差别，实际上都还是在昊天的规则范围里，桑桑却打破了时间之上的永恒规则――死亡。而你要",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

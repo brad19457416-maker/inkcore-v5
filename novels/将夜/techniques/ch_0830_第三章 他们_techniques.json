@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 830,
+  "chapter_title": "第三章 他们",
+  "filename": "ch_0830_第三章 他们.txt",
+  "char_count": 3233,
+  "timestamp": "2026-04-10T12:11:27.267239",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "年冬天薰好的腊排骨，准备呆会煮了下酒。\n　　听见脚步声，他抬头望去，看着走进肉铺的青衣少女微微一怔，心想这个胖丫头是哪家娶的新妇，以前怎么没有见过。\n　　然后他继续低头斫肉，锋利而沉重的肉刀，随着每一次斫下，刀面上的油腻便会溅飞起很多星沫，厚实无比的砧板不停摇晃着。\n　　她走到屠夫的身前静静看着，似",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "听到这道声音的人，都会产生敬畏的情绪，境界越高越能体会声音里蕴藏的神圣，越想要臣服膜拜如此伟大的存在。\n　　即便是酒徒和屠夫，他们也同样如此。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "野中，那十几名唐军才醒过神来，眼眸里流露出惘然和震惊的情绪，他们清楚地记得先前发生了什么事情，不明白为什么自已这些人会老老实实地把城门打开，到底发生了什么事？\n　　……\n　　……\n　　黑色马车经过东荒，穿过边寨，进入燕国，然后继续向南。一路走的都是荒山野岭，人烟罕见，她依然没有开口说话。\n　　某日黑",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "无论领悟的再深，依然在规则之内，那么如何能够远离她？\n　　“好酒。”她看着酒徒说道。\n　　这她在人间第一次说话，声音没有任何波动，自然也很难表达情绪，但听上去却并不机械而异常空灵清幽，透明而且空无。\n　　她明明说的是两个字，却像是同时发出了无数的音节，复杂的就像是一首最华美的乐章，更像是大自然的所有",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "山，依然沉默不语，大黑马便知道自已应该怎么做，四蹄踏草便准备前进。\n　　汗水从黝黑油滑的肌肤里渗出，瞬间打湿脏脏的鬃毛，它恼火地低嘶，已经使出了浑身的力量，却依然无法把车厢拉动一步。\n　　她伸出右手落在车厢壁上，也不知做了些什么，只见极淡的清光闪现，车厢壁上的符阵瞬间启动，车轮碾着秋草开始向前。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "堤，然后他去了烂柯寺，紧接着他去了大泽中间一个水匪的巢穴，他甚至去了长安城，在书院前停留了一段时间，最终他还是选择去南海深处的某个小岛，因为他相信陈某不会犯错。\n　　在那个弥漫着热雾的小岛上，他只停留了很短一段时间，便在那刹那辰光里，却有潮起潮落，日降月升，如此重复三次。\n　　三天的时间，在酒徒一念",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，只是自顾自地斫着。\n　　然后他的呼吸渐渐变得急促起来，就像是生了重病的老人，壮实的胸膛里不停响起拉风箱的声音，握着刀柄的手微微颤抖。\n　　他眼中的恐惧越来越浓，斫肉的速度越来越慢，落刀越来越沉重，然后开始流汗，额头上溢出黄豆大小的汗珠，却根本不敢去擦，只好任由那些汗珠落入腊排骨堆里，再被肉刀斫成无",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "后他的呼吸渐渐变得急促起来，就像是生了重病的老人，壮实的胸膛里不停响起拉风箱的声音，握着刀柄的手微微颤抖。\n　　他眼中的恐惧越来越浓，斫肉的速度越来越慢，落刀越来越沉重，然后开始流汗，额头上溢出黄豆大小的汗珠，却根本不敢去擦，只好任由那些汗珠落入腊排骨堆里，再被肉刀斫成无数瓣，再难分开。\n　　屠夫的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "边寨，进入燕国，然后继续向南。一路走的都是荒山野岭，人烟罕见，她依然没有开口说话。\n　　某日黑色马车来到燕国与宋国交界处的一座小镇，小镇很小很普通，只有一条窄街，街畔的民宅老旧而简陋。集市里弥漫着烂菜叶和鸡屎的味道，如果仔细闻去，还能闻到咸鱼特有的臭味。\n　　此地偏僻，没有被战火波及，生活难免还是受",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的青衣少女微微一怔，心想这个胖丫头是哪家娶的新妇，以前怎么没有见过。\n　　然后他继续低头斫肉，锋利而沉重的肉刀，随着每一次斫下，刀面上的油腻便会溅飞起很多星沫，厚实无比的砧板不停摇晃着。\n　　她走到屠夫的身前静静看着，似乎对他斫肉很感兴趣。\n　　屠夫最开始没有什么反应，只是自顾自地斫着。\n　　然后他",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，沉默片刻后走了进去，在车厢角落里看到了那把破旧的大黑伞，还有那个铁匣。\n　　她坐到铁匣旁，伸出手指缓缓抚摩匣面，把那些被颠的有些散的积灰重新抹平，她的手指很稳定，灰尘被抹的非常均匀。\n　　然后她望向东南方向隐隐可见的天弃山，依然沉默不语，大黑马便知道自已应该怎么做，四蹄踏草便准备前进。\n　　汗水从",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "自然也很难表达情绪，但听上去却并不机械而异常空灵清幽，透明而且空无。\n　　她明明说的是两个字，却像是同时发出了无数的音节，复杂的就像是一首最华美的乐章，更像是大自然的所有声音。\n　　听到这道声音的人，都会产生敬畏的情绪，境界越高越能体会声音里蕴藏的神圣，越想要臣服膜拜如此伟大的存在。\n　　即便是酒徒",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "她就是规则，酒徒和屠夫无论领悟的再深，依然在规则之内，那么如何能够远离她？\n　　“好酒。”她看着酒徒说道。\n　　这她在人间第一次说话，声音没有任何波动，自然也很难表达情绪，但听上去却并不机械而异常空灵清幽，透明而且空无。\n　　她明明说的是两个字，却像是同时发出了无数的音节，复杂的就像是一首最华美的乐",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "然后开始流汗，额头上溢出黄豆大小的汗珠，却根本不敢去擦，只好任由那些汗珠落入腊排骨堆里，再被肉刀斫成无数瓣，再难分开。\n　　屠夫的手颤抖的更加厉害，终于偏了偏，砍到了自已的手指上。\n　　一声闷响，砧板下方溅出无数阵年的油脂和木渣。喀喇一声，近半人高的砧板上出现一道裂缝，被生生砍开。\n　　刀势去而无尽",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

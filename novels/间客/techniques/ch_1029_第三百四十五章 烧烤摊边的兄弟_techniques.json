@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 1029,
+  "chapter_title": "第三百四十五章 烧烤摊边的兄弟",
+  "filename": "ch_1029_第三百四十五章 烧烤摊边的兄弟.txt",
+  "char_count": 3531,
+  "timestamp": "2026-04-10T12:05:26.941762",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "三百四十五章 烧烤摊边的兄弟 \n\n    李维也笑了起来，手指摩挲着油腻腻的酒杯，脸上满是怀念，感慨说道：“是啊，这就是我最初的理想。”\n\n    “我喜欢百慕大，除了这里比联邦简单、凭拳头讲道理的规矩比较符合我的冒口，还有一个原因就是这里的饮食比较符合我的冒口。”\n\n    “你喜欢吃肉，我也喜欢",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "是在吃饭还是在嫖娼或者手丵淫，几十名隐藏在城市里的帝国皇家特种兵，不分昼夜无时无刻不惜生死无休无止的追杀你，这样持续了整整三年，谁都得死许乐端着酒杯的手指微微一僵，想着那些过往年间血腥而充满狠厉绝决味道的追杀画面，不禁有些发寒。\n\n    “这样的故事在老时候还发生了几椿，每个故事的结局都一样，帝国",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "“六十几年前，有名百慕大会议前成员，在一笔巨额交易后试图赖帐，他有很多忠心下属和大火力枪械，心想你帝国舰队反正也过不来，哪里需要怕你？”\n\n    “后来呢？”许乐皱眉问道。”后来这名前会议巨头不断遭到暗杀，最后死了。”就这么简单。”“简单？”\n\n    李维想着那个百慕大著名故事，摇头叹息",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "念，感慨说道：“是啊，这就是我最初的理想。”\n\n    “我喜欢百慕大，除了这里比联邦简单、凭拳头讲道理的规矩比较符合我的冒口，还有一个原因就是这里的饮食比较符合我的冒口。”\n\n    “你喜欢吃肉，我也喜欢吃肉，实际上我发现只要是人哪里有不爱吃肉的？当然我是说那种真正的肉。”\n\n    李维喝了一",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "真问道：“你逃离联邦之后，我本来以为你会来百慕大找我。以前我就对你说过，我会在百慕大给你备好后路，你为什么不来找我？”\n\n    许乐沉就片刻后，笑着回答道：“确实不方便，我可不是骗你，兄弟我现在可是正经帝国太子爷。”\n\n    “我丵操。”李维自我嘲讽道：“就知道是这个原因，我以为你去当帝国皇帝，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "敬，然后一饮而尽，他一直没有问过当年那些事情的细节，做为兄弟本来也不需要问。\n\n    “上次在联邦第一次见面时，你请我在望都吃了一顿烧烤，味道不错，就是可惜没有什么真正的肉。”\n\n    李维皱鼻用力嗅着身后传来的烧烤味儿，说道：“我一直没有忘记这家烧烤摊的味道，尤其是烤羊腿，那时候被关着时，每天",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "房子，笑着说道：“当时我就在那里，天天闻着这边传过去的烧烤味。”\n\n    当年为了威胁许乐，莫愁后山那位夫人把李维从东林绑到了百慕大，对于当时没有真正经历过凶险，在偏僻东林的李维来说，可以想像那是怎样惊心动魄的经历，怎样惨痛的回忆。\n\n    许乐举起酒杯相敬，然后一饮而尽，他一直没有问过当年那些",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "会议巨头里，就有帝国人。”\n\n    “如果你这时候表明身份，在街上大喊一声我是帝国太子许乐，说不定马上就有人跑出来，全家跪在你的面前，双手捧上攒了几十年的财产枪械，向你效忠。”\n\n    许乐苦笑着把杯中的酒倒满。\n\n    “六十几年前，有名百慕大会议前成员，在一笔巨额交易后试图赖帐，他有很多忠",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "传来烤羊腿的香味，还有清晰无比的滴油滋滋声，二人相视一笑。\n\n    李维擦了擦嘴巴，大声说道：“所以后来我再来百慕大，我做的第一件事情，就是在这家烧烤摊上连吃了一个月烤羊腿！\n\n    直到最后吃吐了！”\n\n    烧烤摊老板听着半截话，刻意埋怨道：“维爷，瞧您这话说的，我家烤羊腿号称全宇宙第一，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "好嫌烦。”\n\n    烤羊腿好了，李维接过身后递过来的餐盘，抽出小刀给许乐切了块，然后往自己嘴里送了一片，皱着眉头忍着恶心冲动咀嚼，灌了口酒送了下去，含糊说道：“正经一些，我想说的就是我的人生理想已经完成了，我知道你丫打小就没什么人生理想，但现在你混到了这个份上，这次出现肯定有很多事情要做。”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "火海里跳，但跳了七十来年，总有不少运气好的活了下来，没被扭率空洞绞碎，又躲过了宪章光辉，最后这些人都来到了百慕大。”\n\n    许乐记得当年七组最主要的战斗任务，就是用非官方身份，在百慕大区域的矿星上与那些偷渡的帝国特种兵做战，而李疯子最开始的战场也在这些地方。\n\n    “帝目-皇家精锐，不知道有",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，昨天你插了一手我已经看到了成功……刚才在车上就说过，迳座城市现在是我的。\n\n    许乐的浓密墨眉缓缓皱了起来，放下手中筷子，看着李维想要说些什么，却终究没有说出口。\n\n    李维恼火看着他骂道：“老子没贩毒，也没逼良为娼，也没滥杀无辜！我丵操「你丵他妈的从三岁就像个老头样叨叨，现在我们都三卡与",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "没遵憾懂不懂？这就代表我什么都不在乎。\n\n    很糙很淡的话，但绝不操蛋。\n\n    小方桌上气氛温暖，许乐望着正低头吐唾沫的李维，抑住心头的感动，微笑问道：“也不在乎我是帝国人？你可是正经联邦人。”\n\n    “你以前是联邦英雄，我是黑道小流氓，你在乎过？”\n\n    李维抬头望向他，认真问道：",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

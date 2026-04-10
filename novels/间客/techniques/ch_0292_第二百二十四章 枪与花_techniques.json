@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 292,
+  "chapter_title": "第二百二十四章 枪与花",
+  "filename": "ch_0292_第二百二十四章 枪与花.txt",
+  "char_count": 5708,
+  "timestamp": "2026-04-10T12:04:51.221640",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "打算问什么，因为许乐这个小老板给了他两千万，而他这个秘书却似乎始终没有展现出来什么作用，无论是面对着危险，还是mx新式机甲的测试，最终都是许乐自己解决了问题。白玉兰要对得起自己拿的两千万，所以他尽心尽力地教着许乐，沉默地注视着许乐，只希望自己的金主不要犯糊涂才是。\n\n    ……\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "大叔某次酒后的妄语，他轻轻叹息了一声，双手扶在露台的栏杆上，看着远方，手腕上泛着金属光泽地手镯反射着天空的光彩，却掩住了那些细微地字句。\n\n    ……\n\n    ……\n\n    联邦的纪年一直以都星圈s1１大区为标准，所以s2北半球地环山四州虽然既不是夏，也不是秋，却也只能随着联邦的中心开始度过新",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "以杀人，小到一只笔，一把秀气的裁山崩地裂，海枯石烂，但总有些东西属于专业范畴，效率更高一些，枪械毫无疑问就是其中最有历史渊源，最为人们熟悉的那一种\n\n    战舰的主炮威力最大，但这玩意儿太贵重，意思就是昂贵到了极点，质量也大到了极点。白玉兰曾经在军营里见过有牛人直接端着达林旋转机炮扫射四野，却也没",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "知的初学，变成了现在这副模样，联想到自己十五岁在新兵营里的痛苦折磨，竟是忍不住生出了淡淡的沧桑感觉，心想原来自己的小老板才是天生适合做军人的家伙。\n\n    只是这份感慨一直被那张柔顺安静的外表掩藏地极好，他隔着护目镜看着许乐手中喷吐着火舌的枪械，说道：“手腕再放松一些。”\n\n    军械库的地下射",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "脸庞。\n\n    远在百慕大的李维已经被西林军区的人找到了，并且处于保护之中，这个消息让许乐这些天来第一次感到了放松，他很诚恳地说道：“钟夫人，谢谢你。”\n\n    “不用客气，当年烟花也多亏你照顾了一路。”钟夫人在电话那头笑着说道，笑声十分清朗。\n\n    大概当初夫人决定把李维送往百慕大三角星域",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "望自己的金主不要犯糊涂才是。\n\n    ……\n\n    ……\n\n    就在白水公司地下军械库枯燥而压抑的训练之中，时间一天一天的过去，宪历六十七年来到了最后一天。\n\n    联邦的民众大多是善忘的，此时大多数人已经将注意力转移到了一月将要举行的总统就职大典上，而浑然忘记了前不久才生的那么多风波。就",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "给了他两千万，而他这个秘书却似乎始终没有展现出来什么作用，无论是面对着危险，还是mx新式机甲的测试，最终都是许乐自己解决了问题。白玉兰要对得起自己拿的两千万，所以他尽心尽力地教着许乐，沉默地注视着许乐，只希望自己的金主不要犯糊涂才是。\n\n    ……\n\n    ……\n\n    就在白水公司地下军械库",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "裁山崩地裂，海枯石烂，但总有些东西属于专业范畴，效率更高一些，枪械毫无疑问就是其中最有历史渊源，最为人们熟悉的那一种\n\n    战舰的主炮威力最大，但这玩意儿太贵重，意思就是昂贵到了极点，质量也大到了极点。白玉兰曾经在军营里见过有牛人直接端着达林旋转机炮扫射四野，却也没见过谁敢打战舰主炮的主意。达林",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "……\n\n    就在白水公司地下军械库枯燥而压抑的训练之中，时间一天一天的过去，宪历六十七年来到了最后一天。\n\n    联邦的民众大多是善忘的，此时大多数人已经将注意力转移到了一月将要举行的总统就职大典上，而浑然忘记了前不久才生的那么多风波。就在这个月地一天中，联邦选举委员会最终确认了帕布尔",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "钟家才有足够的底气，在家的眼皮子下来，做出这样的举动。\n\n    “烟花和她父亲在说话，不是很方便，以后有机会，让她与你说话。”钟夫人加了一句。\n\n    许乐愣了愣，用了两秒钟的时间，才明白钟夫人说的是那位小女孩儿，只不过在他的记忆中，那个文静乖巧可亲的小女孩儿永远叫小西瓜，而不是钟烟花。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的裁山崩地裂，海枯石烂，但总有些东西属于专业范畴，效率更高一些，枪械毫无疑问就是其中最有历史渊源，最为人们熟悉的那一种\n\n    战舰的主炮威力最大，但这玩意儿太贵重，意思就是昂贵到了极点，质量也大到了极点。白玉兰曾经在军营里见过有牛人直接端着达林旋转机炮扫射四野，却也没见过谁敢打战舰主炮的主意。达",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "密的渠道传往上级情报中转站。\n\n    宪历六十八年的第一天，**军中央委员会将要改除麦德林委员，而同时负责情报工作的他，也遭受到了前所未有的指责和压力，一共有三百多名情报人员，此时正在努力地与潜伏于s1１的间谍进行联系，他们需要一个很重要的情报。\n\n    在所有情报汇合的地方，在山间一处营帐之中",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "。\n\n    离开书房后，许乐在邹郁的卧室内坐了会儿，那位年轻美丽的姑娘没有对他说什么，只是带着一丝忧虑静静地看着他，让他万事小心，做事不要太冲动。\n\n    毕竟是在同一个屋檐下共同生活很久地朋友，邹郁能够从这段时间许乐的平静里瞧出一些什么，虽然不知道许乐地最终目的为何，但她心里那根弦忽然间颤了颤",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "只是这份感慨一直被那张柔顺安静的外表掩藏地极好，他隔着护目镜看着许乐手中喷吐着火舌的枪械，说道：“手腕再放松一些。”\n\n    军械库的地下射击室内，枪声大作，两个人的谈话只能通过耳朵来进行。枪声平息之后，光屏上显示出这一轮射击的成绩。白玉兰摘下护目镜看了一眼弹着点，满意地点了点头。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "潜台词",
+      "category": "dialogue",
+      "example": "似乎也很自然，只是如果不是邹部长打电话要求他去，他是断然不会去的。\n\n    晚宴上，邹夫人依然低声暗示着婚礼应该尽量举行，晚宴后，邹部长与他在书房里进行了一番谈话，邹部长并不清楚流风坡会所里生了什么，但能感觉到一些，所以进行了一番警告示的劝勉。\n\n    离开书房后，许乐在邹郁的卧室内坐了会儿，那",
+      "analysis": {
+        "definition": "在文本中使用潜台词技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "这一连串令人眼花缭乱的风波中，并没有呈现出它所应有的能力，相反，青龙山的**军们，反而变成了联邦上层社会分割利益，彼此妥协的牺牲品以及笑话。\n\n    紧急从s1１撤离回来的张小萌，如今领导着一个节点情报小组，直至今日，她仍然认为当时自己不应该离开，虽然可能会更危险一些，但自己离开之后，联邦便有理由",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "淡淡的沧桑感觉，心想原来自己的小老板才是天生适合做军人的家伙。\n\n    只是这份感慨一直被那张柔顺安静的外表掩藏地极好，他隔着护目镜看着许乐手中喷吐着火舌的枪械，说道：“手腕再放松一些。”\n\n    军械库的地下射击室内，枪声大作，两个人的谈话只能通过耳朵来进行。枪声平息之后，光屏上显示出这一轮射",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

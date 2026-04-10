@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 796,
+  "chapter_title": "第一百七十七章 如果天不能容我",
+  "filename": "ch_0796_第一百七十七章 如果天不能容我.txt",
+  "char_count": 3385,
+  "timestamp": "2026-04-10T12:11:27.167198",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "默，楚老太君沉默，受伤的沉默，死去的人无法再说话，即便是朝二掰的嘴唇翕动片刻，也没有说出话来。\n　　最终，有一道声音打破人间的沉默。\n　　这道声音很沙哑，很干涩，应该是很长时间没有喝水，而体内的血水又流失太多的缘故，让人听着觉得有些刺耳。\n　　这道声音显得很疲惫，甚至有些虚弱，但却透着股极坚定的意味",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "之星辉，还有几分怜惜敬佩。\n　　“天要亡你书院，你能如何？”\n　　她看着君陌说道。\n　　君陌抬头望向天空，此时雨已经停了，云没有完全散开，只有几处青天可见，就像是碎瓷一般。\n　　而且就算雨消云散，天空完全放晴，现在是白天，也没有办法看到那轮明月，他在战死前的那刻，只是看一眼老师。\n　　他没有直接回答",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "声音，更像是打破镜面的声音。\n　　那道声音说的是：“那便灭了它。”\n　　……\n　　……\n　　观主望向人群后方，看到了宁缺满是血污的脸。\n　　然后他看到了宁缺的眼睛。\n　　他们的目光第一次如此真切地对视。\n　　宁缺看着他说道：“人心所向，天必从之，天若不从，那便灭了他，我想这是一个很简单的道理。”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "看着君陌依然毫无表情的脸，看着他身后那些浑身浴血的书院弟子，回想着这七日来青峡之前惊心动魄的连番战斗，想着就是这样几个人便把浩浩荡荡的神殿联军挡在了唐国的南方无法北进……\n　　像君陌这样的人，苦战将死，即便是她也不禁有些动容，眼眸最深处最了神之星辉，还有几分怜惜敬佩。\n　　“天要亡你书院，你能如",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "对方如此的近，能够拥有如此真实的感受。\n　　他感觉到自已的渺小，却不像面对昊天时，会因为自已的渺小而愤怒，只会因为自已的渺小而心生敬畏向往。\n　　因为再渺小的他，也是这道力量里的一部分。\n　　这道力量再伟大，也来自于无数个渺小的他。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "此真切地对视。\n　　宁缺看着他说道：“人心所向，天必从之，天若不从，那便灭了他，我想这是一个很简单的道理。”\n　　观主看着他眼睛里流露出来的坚定与信心，缓缓挑眉。\n　　……\n　　……\n　　天下溪神指，让宁缺身受重伤，信心遭受极大的挫败，但那时，他的精神世界依然坚定，而后来，他却渐渐开始变得有些恍惚。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "小树是个极不错的人，如果当年没有意外，他本来应该是我的师弟。”\n　　叶红鱼知道朝小树是谁，只是不明白为什么君陌会在此时提到他。\n　　君陌看着天空，寻找着那轮明月在前七个夜晚留下的痕迹，继续说道：“只是他喜欢跟着先帝，所以才没有进书院。”\n　　“当年先帝决意清肃朝堂，于是有了春风亭一夜。”\n　　叶红鱼",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "……\n　　观主望向人群后方，看到了宁缺满是血污的脸。\n　　然后他看到了宁缺的眼睛。\n　　他们的目光第一次如此真切地对视。\n　　宁缺看着他说道：“人心所向，天必从之，天若不从，那便灭了他，我想这是一个很简单的道理。”\n　　观主看着他眼睛里流露出来的坚定与信心，缓缓挑眉。\n　　……\n　　……\n　　天下",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "样的人。\n　　那些人在战斗，在行军，在拼命，在赴死，在坚持，或者只是等待，但那种等待也充满了一种令人感慨的韧度。\n　　他看到了很多人，都是很了不起的人。\n　　接下来又有很多画面，在他的眼前快速掠过。\n　　他看到了柴房里染血的柴刀、河北郡龟裂的田地，像鬼一样的饥民，看到了莽莽的岷山，看到了老猎户，看到",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "从之，天若不从，那便灭了他，我想这是一个很简单的道理。”\n　　观主看着他眼睛里流露出来的坚定与信心，缓缓挑眉。\n　　……\n　　……\n　　天下溪神指，让宁缺身受重伤，信心遭受极大的挫败，但那时，他的精神世界依然坚定，而后来，他却渐渐开始变得有些恍惚。\n　　他看着那两名少年一边哭喊着，一边去做人间最难以",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "比雪地里那些污秽的事物更脏。\n　　观主微微挑眉，然后继续前行，向宁缺走去，稍后便是皇宫。\n　　大师兄说道：“这样是不对的。”\n　　观主说道：“唐国虽强，天要亡唐，你能奈何？”\n　　……\n　　……\n　　青峡前。\n　　叶红鱼看着对面的君陌，鲜血顺着她的衣袖，不停地淌到地面，与这些天来积凝渐臭的血污混在了",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "生死边缘走了一遭，并没有因为他的无视而心生惘然困惑，从而开始怀疑，以至恐惧。\n　　没打到就是没打到，以后有机会再打便是，没死就是没死，没死总比死了好，哪里需要产生什么自我怀疑？朝老太爷拄着拐杖，骂骂咧咧向街边走去，骂的话很脏，甚至比雪地里那些污秽的事物更脏。\n　　观主微微挑眉，然后继续前行，向宁缺走",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "主的问题。\n　　在绝对强大的实力面前，勇气值得赞赏，却没有力量，在天穹冷漠的眼光里，人类的意愿，似乎从来都不是什么重要的东西。\n　　瘦道人沉默，楚老太君沉默，受伤的沉默，死去的人无法再说话，即便是朝二掰的嘴唇翕动片刻，也没有说出话来。\n　　最终，有一道声音打破人间的沉默。\n　　这道声音很沙哑，很干涩",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "有了春风亭一夜。”\n　　叶红鱼知道著名的春风亭一夜，朝小树和宁缺这两个名字，都是在那个雨夜之后中，才进入西陵神殿的视野。\n　　君陌收回目光，望向她说道：“在那夜之前，朝小树在红袖招与对方谈判，曾经说过两句话，事后在长安城流传甚广。”\n　　“当时他那两句话是这样说的。”\n　　君陌说道：“天若能容，我便",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

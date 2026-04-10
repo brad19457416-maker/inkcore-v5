@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 757,
+  "chapter_title": "第一百三十八章 一夜不眠（下）",
+  "filename": "ch_0757_第一百三十八章 一夜不眠（下）.txt",
+  "char_count": 2408,
+  "timestamp": "2026-04-10T12:11:27.121796",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "说道：“看来他的口比较重。”\n　　这是一个不好笑的笑话。\n　　但他从来不说笑话，所以便显得特别好笑，众人笑出声来。\n　　然后便是安静。\n　　二师兄开始讲笑话了，大家觉得有些不安。\n　　……\n　　……\n　　叶苏问道：“什么事情这么好笑？”\n　　二师兄说道：“只有你出现，自然是你比较可笑。”\n　　叶苏说",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "日久，太过骄傲，不食人间烟火，所以清心寡欲。\n　　他们都是高人。\n　　甚至是圣人。\n　　但不是能获得最终胜利的人。\n　　生死立见的战场上，容不得骄傲，不需要风度。\n　　此时此刻，她再次想起宁缺。\n　　不知道多年以后，如果彼此都还活着，谁会成为那个胜利的人。\n　　……\n　　……\n　　宁缺并不知道叶红鱼",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "是高人。\n　　甚至是圣人。\n　　但不是能获得最终胜利的人。\n　　生死立见的战场上，容不得骄傲，不需要风度。\n　　此时此刻，她再次想起宁缺。\n　　不知道多年以后，如果彼此都还活着，谁会成为那个胜利的人。\n　　……\n　　……\n　　宁缺并不知道叶红鱼这位当代裁决大神官对自已有如此高的评价或者说期许，他这时",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "同时，他看到了天地气息十余处堵塞。\n　　在所有唐人重新收获信心与勇气的时候。\n　　他看到了长安城的危机。\n　　他焦虑不安。\n　　他彻夜难眠。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "声，书院诸人面露警惕之色，甚至有些紧张。\n　　“在饼上多放些盐巴。”\n　　二师兄对正在灶旁烙饼的木柚说道：“看来他的口比较重。”\n　　这是一个不好笑的笑话。\n　　但他从来不说笑话，所以便显得特别好笑，众人笑出声来。\n　　然后便是安静。\n　　二师兄开始讲笑话了，大家觉得有些不安。\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "家觉得有些不安。\n　　……\n　　……\n　　叶苏问道：“什么事情这么好笑？”\n　　二师兄说道：“只有你出现，自然是你比较可笑。”\n　　叶苏说道：“看来对于我的出现，你并不感到意外。”\n　　二师兄说道：“昨日观主已经来过，群蝇飞舞，何须在意多一只。”\n　　叶苏说道：“在长安城里，我便想与你一战。”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "上就算朝廷从来没有进行过维护，也不应该出现这种情况。\n　　宁缺起身走进光雾凝成的长安城，跨过雁鸣山，来到不及膝高的皇城前，躬身握住插在地面进而的半截阵眼杵，拔了出来。\n　　随着这个动作，花岗石地面上的长安城渐渐变成一片浓郁的光雾，然后向下凝成如水般的光液，顺着地面上的那些刻痕缓缓渗了下去。\n　　他手",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。\n　　他一夜未睡，眉眼间疲惫之色掩之不住。\n　　听着雾中传来的偈声，书院诸人面露警惕之色，甚至有些紧张。\n　　“在饼上多放些盐巴。”\n　　二师兄对正在灶旁烙饼的木柚说道：“看来他的口比较重。”\n　　这是一个不好笑的笑话。\n　　但他从来不说笑话，所以便显得特别好笑，众人笑出声来。\n　　然后便是安静。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "百三十八章 一夜不眠（下）\n　　“哑巴开口说话，饼上放些盐巴。”\n　　薄雾里响起偈声。\n　　一道身影缓缓从雾中走了出来。\n　　那是一个穿着素色俗衣，却梳着一个道髻的男子。\n　　一柄薄薄的木剑，悬浮在他头顶的空中，悄无声息破雾而行。\n　　正是道门天下行走叶苏，以及他的剑。\n　　二师兄缓缓起身。\n　　他",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "惫，眼睛有些发涩。\n　　他闭上眼睛，开始感受这座城。\n　　他仿佛看到了唐人们平静而坚定的内心。\n　　同时，他看到了天地气息十余处堵塞。\n　　在所有唐人重新收获信心与勇气的时候。\n　　他看到了长安城的危机。\n　　他焦虑不安。\n　　他彻夜难眠。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "人。\n　　生死立见的战场上，容不得骄傲，不需要风度。\n　　此时此刻，她再次想起宁缺。\n　　不知道多年以后，如果彼此都还活着，谁会成为那个胜利的人。\n　　……\n　　……\n　　宁缺并不知道叶红鱼这位当代裁决大神官对自已有如此高的评价或者说期许，他这时候所有的心神都放在身前的地面上。\n　　宽阔的花岗石地面",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "”\n　　二师兄对正在灶旁烙饼的木柚说道：“看来他的口比较重。”\n　　这是一个不好笑的笑话。\n　　但他从来不说笑话，所以便显得特别好笑，众人笑出声来。\n　　然后便是安静。\n　　二师兄开始讲笑话了，大家觉得有些不安。\n　　……\n　　……\n　　叶苏问道：“什么事情这么好笑？”\n　　二师兄说道：“只有你出现",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

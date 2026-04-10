@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 73,
+  "chapter_title": "第十二章 你竟能如此美丽",
+  "filename": "ch_0073_第十二章 你竟能如此美丽.txt",
+  "char_count": 3496,
+  "timestamp": "2026-04-10T11:53:35.132164",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的财阀和家族。\n\n    世界上有太多的不公平，接触那个施加于世界不公平地邰家，只是一种手段。纯净的天空里飘荡着张小萌纯净的心，她愿意在麦德林议员地领导下，为消除这个世界的不公平而牺牲自己的一切，包括……那段根本还没有来得及萌发的爱情。\n\n    不过在那段未曾来得及开始的爱情化成灰烬前。她应该还有",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "知道这艰难而长久的七厘米下降过程，此时张小萌的手已经似触未触地牵着许乐的小臂，她的眼里闪过一丝笑意，心想许乐还真是个老实的家伙。\n\n    “肚子饿了，我们去吃饭吧。”又沿着玫瑰河畔的石径走了半小时，许乐忽然很认真地说了一句话。然后右手很理所当然地握住了张小萌柔软微凉的手，拉着她向着街边一家餐厅走去",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "脸。张小萌自嘲地笑了笑，许乐那个家伙太老实了。\n\n    布鲁斯学者，是乔治卡林学说的坚定支持者以及社会公认最佳的解读者，他认为这个世界上的爱就像拳头一样，也是要分大小的。男女之爱，家庭之爱很美好，但是这些都比不上对整个人类。对联邦那种最深沉最长久的爱，是为大爱。\n\n    为了对人世间地大爱便要牺",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "实……我一直还在想念的那些时间，其实我一直都还是乔治卡林的信徒。”\n\n    许乐微感惊讶，心想那你为什么要回来？张小萌没有继续说这个问题，只是看着许乐在心底有些微酸地想道，如果没有那些事情，和面前这个老实可爱地男孩子自然发展下去，或许还真地是一件很美妙的事情。\n\n    张小萌习惯性地望向了窗外，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "带裙的女生。有些不敢相信自己的眼睛。他地吃惊不是在于张小萌居然在这么冷地天气里居然会穿这么少，而是他第一次发现。原来张小萌……竟能如此美丽。\n\n    不论是机场的大巴上，还是后来地食堂餐桌上，还是运动场的跑道上，许乐看到的张小萌鼻梁上永远戴着一副黑框眼镜，别的学生大抵也是如此，似乎谁也不知道张小萌",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "能如此美丽 \n\n    大学城位于首都星的北方，除了冬日的严寒之外，每年大部分时间里天亮的太早，也让人们感到难以适应。清晨六点，张小萌从睡梦中醒来，摸索着戴上那个从不离身的黑色镜框眼镜，伸了个懒腰，注视着窗外那条美丽的玫瑰河，那些在秋天里显得格外清澈的河水和微黄的树林，陷入了沉思。\n\n    她人虽",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "情与往常不一样。[]但这种不一样是他所喜爱地。为了掩饰先前沉默地尴尬。他咳了两声。走上前去。很诚恳地说道：“很漂亮。”\n\n    说地是很漂亮。许乐地手却像是不听指挥一样接过了张小萌肘弯里地那件短风衣。机械地披到了她地身上。说道：“天冷。多穿点儿。”这和冷热无关。纯粹是少年地心性在作祟。虽然许乐和张",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "种精神上的支持，犹豫着说道：“理论或许是好的，可是用来指导行为，或许……嗯，实话说吧，我认为他说的有道理。”\n\n    张小萌欣慰地笑了笑，看着他说道：“虽然我回到了大学，但其实……我一直还在想念的那些时间，其实我一直都还是乔治卡林的信徒。”\n\n    许乐微感惊讶，心想那你为什么要回来？张小萌没有",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "是不一样的，或许更真实，或许更虚假，张小萌似乎看到了那些在山区里坚持着与联邦对抗，只为谋求一个更公平将来的战友们，她似乎看到了那些在社会底层不停挣扎。一生虚度的公民，她也看到了那些掌握着大部分权力，无耻地操纵着选举的政客。以及那些政客背后的财阀和家族。\n\n    世界上有太多的不公平，接触那个施加于",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "冷，关于那名太子的情报并不细致，但是其中最重要的侧重点，却已经给她指明了方向，一个能够容忍邹家大小姐脾气的年轻男人，一个自幼被管教极严的年轻男人，一定有叛逆的冲动，对于爱情那种东西格外好奇。\n\n    爱情吗？那我的爱情呢？张小萌只是一个未满二十岁地年轻少女。她也曾经无数次地幻想过自己的未来，属于自",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

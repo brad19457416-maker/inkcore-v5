@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 65,
+  "chapter_title": "第四章 靳教授以及图书馆H区",
+  "filename": "ch_0065_第四章 靳教授以及图书馆H区.txt",
+  "char_count": 3282,
+  "timestamp": "2026-04-10T11:53:35.122418",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的时候，营地旁边有个链式炮兵营，我偷偷去摸过几次。”许乐在脑海里重复了一遍这个身份的履历和资料，低头说道。\n\n    “那你真***是个天才。”周教授拿起茶缸灌了两口，忽然皱着眉头认真说道：“不过这不能代表什么，这些只是最基础的东西，而且将来在实际的工作中也不见得能起作用，这种开放课程，最看重的还是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "生不多，却也不少，他们只是沉默地调取着中控电脑里的资料，然后进入专属自己的操作间或是模拟室，并没有对新来的许乐打招呼。\n\n    许乐松了一口气，看来这并不是什么很特殊的地方。花了一个下午的时间，他才将终端上面能够看到的资料大致浏览了一遍，当然只来得及把信息树最上面几层稍微扫了一眼，根本来不及看到更",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "着周教授的另一句话。国防部机修士官考试……许乐的唇角泛起一丝苦涩，想起了那些年在偏远东林矿坑里对未来人生的憧憬。不过自己此时已经身处最繁华先进的联邦首都星球，而且眼看着一步步踏上了实现第二个理想的旅程，还有什么不满意的呢？许乐深吸一口气，驱散心头的那一抹阴影，却深深清楚，自己不满意的地方还有很多。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "把信息树最上面几层稍微扫了一眼，根本来不及看到更细致的东西，可即便这样，也足够令他吃惊，也终于明白了为什么一直有种说法，梨花大学是整个联邦里除了三大军事学院和西林军校之外，在战舰三大系统及机甲方面最优秀的学校。\n\n    他甚至在电脑里查到了Ｍ３７系列以前所有军用机甲的图纸！\n\n    光屏不停地翻",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "才。”周教授拿起茶缸灌了两口，忽然皱着眉头认真说道：“不过这不能代表什么，这些只是最基础的东西，而且将来在实际的工作中也不见得能起作用，这种开放课程，最看重的还是你的设计思路，毕竟我们是个大学，不是培养机修兵的地方。就算是单论速度，你也不算最快的。每次国防部征调考核里，那些装配基地里的变态兵有的是比",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "没有？”\n\n    “明白。”许乐大声地回答道，心里对于教授的看法却有些不同意，他承袭的是老板大叔的风格，以更快更流畅更精确为目标，以更节省更方便更能就地取材为目标，换句话说，这死孩子还是下意识里准备把战舰和机甲当家用电器来修啊。不过周教授后面说的话，许乐倒真的是很喜欢听，知道自己不算是太出格的机修",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "己旁听的成绩足够优秀，又有周教授这样的人做担保，说不定还真的可以转成正式学生。能够拿到文凭，对于将来进入果壳机动公司那可是大有帮助，他啪的一下立正，大声说道：“谢谢教授。”\n\n    “对了，这是图馆Ｈ区的通行卡，那里的材料和工具比较齐全，有些国防部解密后的图纸和资料也存放在那里的电脑中，我想比较适",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "算。这样吧，你好好学，我找机会和学生处的商量一下，看能不能把你转成正式学生，至于学费什么的你就不要太担心了，联邦每年下发的奖学金和补助金指标还有很多用不完的。et”\n\n    许乐知道周教授说的是真话，每年联邦都会投入大笔的教育经费，而审核奖学金和补助金的程序却十分严格，如果自己旁听的成绩足够优秀，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "察，老靳既然这么说，自然是相信那孩子绝对不会拆开那封信偷看。”校长笑眯眯地说道：“关于老靳的眼光，我从来没有怀疑过。”\n\n    “让老靳瞧得上眼的学生，你居然还让他当门房？”周教授搞不懂这些人的想法，挠着头准备离开，就在开门之前，他忽然回头问道：“双月节的舞会我可不可以不参加？我可不会跳舞。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "我日！你***怎么能做到这么快，以前是不是学过？老实交待！”\n\n    连着几天的实践课程，许乐都在众人震惊的目光中表现出了极为强大的操作能力，这种事情但手熟尔，便是想隐藏其实也没有办法隐藏的太完美。周教授知道这个旁听生还在学校门房里兼职，也知道这小子是个刚退伍大半年的小兵，好奇地瞪着他，似乎想不明",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

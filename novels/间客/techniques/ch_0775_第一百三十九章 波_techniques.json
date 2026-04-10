@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 775,
+  "chapter_title": "第一百三十九章 波",
+  "filename": "ch_0775_第一百三十九章 波.txt",
+  "char_count": 2383,
+  "timestamp": "2026-04-10T12:05:17.586812",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "有很多年没有生过如此血腥的事件。\n\n    联邦管理委员会议员们从各地赶回带着弹痕焦烟的议会山大厦，愤怒的议员们只用了三分钟便通过了紧急提案，沉痛哀悼事件当中受伤害的人们，并且在提案中附加了一份告全联邦公民书，在告公民书中写到，无论面对怎样险恶的打击和淋漓的鲜血，公民们选出的议员代表，将永远忠于自己",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "解开，凌乱的头中全部是汗水的痕迹，他的手指着斜上方广丅场某处的方向，近乎咆哮一般吼道：\n\n    “为什么宪章局的反应会如此之慢？罪犯在议会山里开【呛】之后，特勤局就已经了定位申请给你们，按照规定流程，应该在十二秒之内，你们就可以定位罪犯的具体方位，然后提供给前线的执法机构。结果呢？直到杜师长和他的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "表，将永远忠于自己的职守，站在议会山的石阶上，哪怕那上面满是同伴的鲜血。\n\n    联邦各机构进入高紧张运转状态之中。【君方】和特丅警局联合控制了宪章广丅场周边区域，官邸和议会山相关部门开始进行舆论疏导，遭受弹雨洗礼的议会山建筑进行临时加固，卫生署官员赶往都大学附属医院紧盯救治过程，联邦调查局成立了",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "宣布三月二十二日为联邦哀悼日。\n\n    在第二天凌晨提前出版的电子报刊和通宵直播的电视节目中，联邦社会各界对议会山遇袭，副总统和议员们的不幸去世，表达了最悲恸的心情，同时对那名丧心病狂的恐怖分子，进行了最愤怒的指责。\n\n    凌晨四点四十分，青龙山驻都特区官员张小萌，在议会山侧厅紧急约见联邦各大",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "联邦管理委员会议员们从各地赶回带着弹痕焦烟的议会山大厦，愤怒的议员们只用了三分钟便通过了紧急提案，沉痛哀悼事件当中受伤害的人们，并且在提案中附加了一份告全联邦公民书，在告公民书中写到，无论面对怎样险恶的打击和淋漓的鲜血，公民们选出的议员代表，将永远忠于自己的职守，站在议会山的石阶上，哪怕",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "态之中。【君方】和特丅警局联合控制了宪章广丅场周边区域，官邸和议会山相关部门开始进行舆论疏导，遭受弹雨洗礼的议会山建筑进行临时加固，卫生署官员赶往都大学附属医院紧盯救治过程，联邦调查局成立了以局长为负责人的案件调查小组，地检署全程提前进入。\n\n    正在s2参加联邦和丅平重建纪念大会的帕布尔总统，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "议员代表，将永远忠于自己的职守，站在议会山的石阶上，哪怕那上面满是同伴的鲜血。\n\n    联邦各机构进入高紧张运转状态之中。【君方】和特丅警局联合控制了宪章广丅场周边区域，官邸和议会山相关部门开始进行舆论疏导，遭受弹雨洗礼的议会山建筑进行临时加固，卫生署官员赶往都大学附属医院紧盯救治过程，联邦调查局",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "政治伙伴，却因为施清海这样一出简单粗暴甚至是粗糙的袭击，就此长眠于地底，再也无法看到那场真正的胜利，人生啊，怎么会有如此多的错过。\n\n    将那抹黯淡的伤感咽碎于喉间，准备乘车离开的时候，忽然下属军官表情怪异地走上前来，低声说了几句什么。\n\n    宪历七十二年的春雨淅沥沥下个不停，并不枉暴却缠绵",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "次是第二和第三军区司令，中间是还在回程中的帕布尔总统，因为与帝国战争的关系，舰队司令洪予良上将并没有出现在此次紧急会议中，而钟瘦虎遇袭身亡之后，西林军区司令一职始终还没有定下来。\n\n    肤色黝黑的帕布尔总统此刻神情凝重地看着会议室里正在言的那位白老人，白老人是本届【zheηgfu】的国家安全顾问",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "各地赶回带着弹痕焦烟的议会山大厦，愤怒的议员们只用了三分钟便通过了紧急提案，沉痛哀悼事件当中受伤害的人们，并且在提案中附加了一份告全联邦公民书，在告公民书中写到，无论面对怎样险恶的打击和淋漓的鲜血，公民们选出的议员代表，将永远忠于自己的职守，站在议会山的石阶上，哪怕那上面满是同伴的鲜血。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "回都特区，在飞船上，总统阁下满脸沉痛向全联邦民众表了电视讲话，表述自己痛失伙伴友人的悲痛心情和愤怒，同时宣布三月二十二日为联邦哀悼日。\n\n    在第二天凌晨提前出版的电子报刊和通宵直播的电视节目中，联邦社会各界对议会山遇袭，副总统和议员们的不幸去世，表达了最悲恸的心情，同时对那名丧心病狂的恐怖分子",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "有些问题，而且一直在拉肚子，怪了，不知道为什么，慢慢恢复中，明天两章，不好意思这两天，让大家久等，我以后好好规划一下，尽量少出这种非战的问题。ＷＷＷ.xiＡosＨuoＴＸＴ.com",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，绝对不会被任何情绪影响到理智。”\n\n    （还是有些问题，而且一直在拉肚子，怪了，不知道为什么，慢慢恢复中，明天两章，不好意思这两天，让大家久等，我以后好好规划一下，尽量少出这种非战的问题。ＷＷＷ.xiＡosＨuoＴＸＴ.com",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "天都塌了下来。\n\n    此刻能够说话的，只有崔聚冬这位宪章局的代理局长，他沉默【pian】刻后平静说道：“罪犯有方法暂时屏蔽芯【pian】定位，这是宪章局不能解决的问题。”\n\n    国家安全顾问先生盯着他，似乎想说些什么，但顾忌着宪章局的特殊地位，终究是什么也没有说。\n\n    “那就解决它。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

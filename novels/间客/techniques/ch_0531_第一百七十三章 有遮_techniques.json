@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 531,
+  "chapter_title": "第一百七十三章 有遮",
+  "filename": "ch_0531_第一百七十三章 有遮.txt",
+  "char_count": 3185,
+  "timestamp": "2026-04-10T12:05:08.568596",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "这一夜许乐基本上都在与酒后的痛苦作战他伏在露露**的大腿上抱着她弹软的腰肢吐的肝肠寸断淅淅沥沥狂风暴雨涕泪直下\n\n    灯光再次关调许乐的额上覆着一条冰凉舒服的湿毛巾模糊的目光从房间内的月光树影转移到身边的女孩儿脸上右手轻轻抚摸着她的大腿内侧直觉一片冰润沙哑说道：不好意思\n\n    洗去了眼影",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "四楼的那个房间与情感无关只与男人二三事有关他有些疑惑地举起右臂做了个用力的动作看着军装下鼓起的肌肉块心想自己那方面的能力好像与肌肉确实不成正比啊有标点排版请去就在此时街对面的青青大树间忽然亮起一片闪光灯若无数道闪电划破了安静的街区照耀在他的身上将他这个有些滑稽的动作定格为永远\n\n    自数月前那将",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "床上片刻才开始阅读那些光符\n\n    联部中央电脑通知他公寓楼外有针对他的目标出现对方无杀伤性武器无危险\n\n    许乐沉就地坐在床边思考了片刻后开始起身洗枚穿衣在途中给白玉兰打了一个电话让他赶来公密梭接自己\n\n    不知道是水声还是身旁的温度缺失让忙破一夜备感疲惫的露露醒了过来她怔怔地望着门口那",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "及去看这些白色光符是什么身体猛地一僵想到另一棒事情一昨夜床上的纠缠画面岂不是全部让那个老东西看了去？将来如果和女伴亲热岂不是身边直有一双眼睛在偷窥？\n\n    虽然偷窥的对象只是一台中央电脑但他总觉得对方是一个老而不修的流氓一念及此如同一桶冰水淋上脑袋他不舍地将手臂从露露颈下抽了出来抱着脑袋坐在床上",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "的话语心中充满了些许不舍和万分不甘的情绪\n\n    好不容易他才在酒精和**的双重鼓励下做了决定不料最终自己的身体却发生了内讧酒精催生了**却又击垮了实现**所需要的某些机能此等遭逢何等样地令人郁郁不能结站在公寓楼下侧门处他眯着眼睛看着前方安静的大街和街对面的参天青树没有发现什么危险还是小心地戴上了",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "闪电划破了安静的街区照耀在他的身上将他这个有些滑稽的动作定格为永远\n\n    自数月前那将让整个联邦激动的国民少女绯闻事件之后许乐早已经习惯了自己是名人的事实应付记者的经验也极多然而此时依然被这一片闪光灯灼的有些眼花有些心慌\n\n    联邦科技进步了无数年相机越来越小为什么闪光灯还是这么大？",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "求索女孩儿身体的美妙粗励的手掌与纤敏的突起不时摩擦正将**时他忽然又停止了动作含糊不清带着丝怅悔惘然说道：\n\n    我还想吐\n\n    晚旬七组聚餐喝了酒在夜总会喝了酒去夜市喝啤酒大聚会时更是不知道喝了多少金碧辉煌将周边的三号全部调光才将将满足了这灶军官借酒以压制或挑动某些情绪的要求而许乐一个人至",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的参天青树没有发现什么危险还是小心地戴上了墨镜\n\n    他暗想既然已经判定跟着自己的人无武器无危险为什么联邦中央电脑还要提前示警自己？\n\n    远处那辆黑色汽车正在驶来\n\n    许乐走出公寓楼小区站在人行道上等待心思不期然地又飘到了四楼的那个房间与情感无关只与男人二三事有关他有些疑惑地举起右臂",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "下抽了出来抱着脑袋坐在床上片刻才开始阅读那些光符\n\n    联部中央电脑通知他公寓楼外有针对他的目标出现对方无杀伤性武器无危险\n\n    许乐沉就地坐在床边思考了片刻后开始起身洗枚穿衣在途中给白玉兰打了一个电话让他赶来公密梭接自己\n\n    不知道是水声还是身旁的温度缺失让忙破一夜备感疲惫的露露醒了",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "抓着许乐的手轻轻放了上去然后轻轻摆动腰肢隔着衣料做着**的摩娑\n\n    上一次经历男女之事仿佛已是无数万年前的事情了那是一次严重打击自信心的失败遭遇虽然美好但只关乎精神在身体感观方面是一塌糊涂石头在火里烤了这般多天蕴了这般多火忽然遇见一个职业而动情的女子马上开始熊熊燃烧二手中盈指的柔境触感身上传来",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "军官连夜不归营房是不是已经触犯了军事条例？\n\n    许乐沉就站在街边根本不理会这些记者的问题当黑车来到自己身前的时候打开车门钻了进去\n\n    记者们摇头站在街边对着手里的录音笔快速地做着记录正当他们以为黑车会挟尘而去时车窗玻璃却落了下来\n\n    戴着墨镜的许乐望着记者们说道：不要忘记第一宪章对",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的露露感受着清晰的诱人触感听着女孩儿翘鼻里时不时响起的轻鼾忍不住咧嘴一笑旋即吞了口口水有些认真又有些紧张地低下头去准备印上那对饱满红润的唇瓣儿\n\n    就在此时他的左眼里忽然闪过一排白色的光符这些光符不以他的意志为转移坚定而极煞风簧地一直停留\n\n    联邦中央电脑有事情通知他但许乐来不及去看这些",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "好但只关乎精神在身体感观方面是一塌糊涂石头在火里烤了这般多天蕴了这般多火忽然遇见一个职业而动情的女子马上开始熊熊燃烧二手中盈指的柔境触感身上传来的醉人肉感许乐神思恍惚看着天花板上的月光树影更加恍惚竟觉得那些斑驳的影子在露露洁白的身子上开始迅速飘移起来旋转的越来越快\n\n    我想吐\n\n    露露愣",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "露露愣了愣掩嘴一笑翻身下床端来一个大盆搁在床边扶着他的身体向下仰着然后轻轻拍着他的背就像真是一个温柔亲贴的姐姐般\n\n    吐完了救了口房间里灯光亮起许乐觉得光线有些刺眼下意识里眯起了眼睛又抱住了她沉就片刻后再次翻身上床上下求索女孩儿身体的美妙粗励的手掌与纤敏的突起不时摩擦正将**时他忽然又停止",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "却又击垮了实现**所需要的某些机能此等遭逢何等样地令人郁郁不能结站在公寓楼下侧门处他眯着眼睛看着前方安静的大街和街对面的参天青树没有发现什么危险还是小心地戴上了墨镜\n\n    他暗想既然已经判定跟着自己的人无武器无危险为什么联邦中央电脑还要提前示警自己？\n\n    远处那辆黑色汽车正在驶来",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

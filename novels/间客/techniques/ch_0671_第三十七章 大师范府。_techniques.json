@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 671,
+  "chapter_title": "第三十七章 大师范府。",
+  "filename": "ch_0671_第三十七章 大师范府。.txt",
+  "char_count": 3570,
+  "timestamp": "2026-04-10T12:05:08.571645",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "知道为什么要这么隔。\n\n    他的时间不多，先快浏览了一下书架上的纸质书籍，现里面应该有很多帝国的秘密，只是对他没有任何用处，连续翻了四个黑布围成的格子，依然如此。\n\n    有些放松的他再次随手掀开一道黑布，却有一道亮光闪入眼眸！\n\n    许乐眼瞳微缩，知道自己来不及放下黑布，右手闪电般掏出手",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，即便有人走过他的身边也很难现他的存在。\n\n    他就像个影子一样在院落里行走着，小心翼翼避过一切危险，向着目标前行，大师范府比外面看上去要大很多，要走到他判断出的档案室，需要过很多地方。\n\n    在前进的道路上，房间里不时传出电视新闻声，争论声，敲击膜式键盘特有的嗡嗡声，这些声音让他的感觉有些",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "*方的精锐部队留着是干什么用的？\n\n    他眯着眼晴望着管道室窗外深沉而安宁的夜色和夜色中那些随春风轻摇的高大乔树，总觉得哪里有问题，却不知道问题在哪里，总觉得安宁的院落中藏着异样，又不知道异样在何处。\n\n    轻轻无声地吐了一口气，他中蹲下身体打开了学生的工具箱，开始进行自己的工作，既然已经进",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "想到那位满意头白的管家根本看都没有看卡片一眼，皱着眉头挥挥手，便将他领了进去。\n\n    进院关门的瞬间，许乐下意识用余光看了一眼大师范府外的黑暗树影，观察了几十天，他很清楚那些黑暗中有多少帝**方的精锐力量在负责安保工作。如果大师范府现自己的问题，不知道有多少颗子弹会射穿自己。\n\n    可偏偏就",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "冷漠地加了这一句。\n\n    …………\n\n    一路走过，尽是墙角花树掩映下的下跑，没有看到太多有价值的东西，直到进入偏僻角落里的管线中控室，他被单独留下。\n\n    工具箱轻轻地放在地上，许乐看着面前繁复的管道线路，眉头深深地蹙了起来，足足有十几秒钟没有任何动作。\n\n    他不是被面前这些复杂",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "微僵停住了脚步，那面石墙上刻着几排潦草的字。”内心纯洁的人前途无量。“\n\n    他的眼晴眯了起来。心想当年开创大师范府的家伙肯定是个文艺青年，得治病，联邦人对帝国大人物的腹诽连连，于是他没有注意到在那排帝国文字的下方，有一排更小的字。\n\n    …………\n\n    房间里没有一丝灯光，没有一丝声音",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，连他自己都承认，这路选的未免太陡峭了些，这事儿未免也太疯狂了些。\n\n    基于这种心理预期，当他来到大师范府三号侧门，依照窃听所得的信息回答了几个简单的问题，便没有任何任何阻拦走了进去时，不免生出很多荒谬而无法言说的的味道。\n\n    “你是干嘛嘀？”大师范府里那名满头白的管家面无表情问道。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "中有一根管道的历史污水排放值最小，而且里面的絮状物偏多，许乐眉尖微微一挑，等着分析高位碳棒采样的结果出现在光屏上，确实（这个应该是认吧？老猫也打错字。）这根管道里排放的污水，果然含有最多的k2因子。\n\n    事前他已经查阅过，k2是帝国高等级图书馆最常使用的清洁剂，问题是为什么有这么多的絮状物，难",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "白老管家明显不怎么在意这个满意头褐的维修工人，冷漠地交待着注意事项。\n\n    不要咳嗽，府里的人们年纪都大了，他们喜欢咳嗽，所以不喜欢听别人咳嗽。\n\n    不要到处乱跑，府里没有机关，也没有养狗，但这府里哪怕一个清洁工人，手里都有杀人执照，万一你跑的时候动静太大，让他的心情变的不好…………”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "缓缓用力将门推开一道缝隙。闪身而入！\n\n    他比以往任何时刻都要感谢大叔教给自己的那些锁具知识，同时再次确认，只要自己愿意随时可以成为宇宙中最了不起的盗贼。\n\n    些许骄傲自得涌入脑海，然而马上被面前的画面凝结。\n\n    放眼望去，房间里到处都是一幅一幅的黑布，这些石的棉质黑布遮光率大概能",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，不免生出很多荒谬而无法言说的的味道。\n\n    “你是干嘛嘀？”大师范府里那名满头白的管家面无表情问道。\n\n    “我是来修供暖管线的。”许乐吞了口唾沫润了润有些干的嗓子，递过去一张花了一夜时间伪造的粗滥假卡片，有些不自然地解释道：“去年冬天偏居的热水管线爆过两次，署里让我们赶紧来修，免得入冬后",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "用工具将几个触式警报系统解除，蹲在黑暗的大门处，花了三分钟的时间，将那扇严密的门锁打开，许乐缓缓用力将门推开一道缝隙。闪身而入！\n\n    他比以往任何时刻都要感谢大叔教给自己的那些锁具知识，同时再次确认，只要自己愿意随时可以成为宇宙中最了不起的盗贼。\n\n    些许骄傲自得涌入脑海，然而马",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

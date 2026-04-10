@@ -1,0 +1,258 @@
+{
+  "novel": "间客",
+  "chapter_number": 891,
+  "chapter_title": "第二百二十七章 回家",
+  "filename": "ch_0891_第二百二十七章 回家.txt",
+  "char_count": 11272,
+  "timestamp": "2026-04-10T12:05:17.628592",
+  "techniques_count": 19,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "行踪，不知是不及隐匿，还是不屑隐匿，似一道明亮格惊雷，直接砸向李疯子 ！\n\n    面对着前所未有的危机盛，看着那个震雪而至如天神般的人，李疯子头皮一阵麻，清晰地嗅到死亡的味道，他并不恐惧，反而战意狂飙，疯狂暴戾的狂吼一声，身上军装全部崩碎，身躯内所有的力量集体爆，狠狠地迎了上去 ！\n\n    狂暴",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "留下任何痕迹。\n\n    雪地上的足迹形成的圆一围圈向里面缩小，两人手中枪械的子俾早已喷吐完毕，随着最终在圆心撞击在一处，双手同时闪电般向对方袭出，同是承自费城李家的强悍近身技！\n\n    蓬的一声爆响，雪地上劲气狂喷，急剧压缩之后炸开，震的漫天雪花骤然飘离，头顶的枯林更是不知道瞬间断了多少根。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "台电脑和线缆连接在一起。“又被现了。”\n\n    穿着清洁工制服的男人连憾地感慨了声，缓缓停止先前像风一般敲击 光幕虞似键盘的手指。\n\n    其实他也已经是个老人，只不过因为某些原因，又或 者是他的执念，面容上看不到大多苍老的痕迹，还可以很方便的伪装成清洁工修理工之类的角色。\n\n    “但我可不",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "长神情古怪地看着光幕，垂在腿畔的双手难以控制地微微颢抖，此时不止表情阴沉，就连肩章上的少将金星似乎也瞬间变得黯淡无关。自己的战舰向联邦政府所在星球射主炮，是想谋反吗？\n\n    舰长很清楚，谁都承担不起这种责任，自己的军旅生涯必然到少将便戛然而止，他真正恐惧的事情是，自 己合不会被以反人类罪的罪名，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "用暴力伤害这个宝贝儿。“要完好无损地打开它，看来只有一个办法。”走私商人望着那艘安静的破烂飞船，感慨说道：“只有等飞船里的人自己打开。\n\n    武装头目扶住额头，无力说道：“这都多少天了，飞船失去动力源，维生系统停摆，里面的人肯定死的透的不能再透，早就变成一具具丰尸，怎么可能自己打开？”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "”\n\n    走私商人和武装头目张大了唱，手指胡乱瞎点着对方，焦虑地想要替对方想出一个名字，但在如此紧张混乱的精神状态下，哪里能够办到。“我……是小飞：\\}”\n\n    忽然，那艘破烂金属飞船出的声音有些犹豫不定地说道，紧接着，声音变得越来越清晰，越来越肯 定，越来越高兴。“是的，我是小飞。”“飞利",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "耐着性子慢慢切，总能切下来。”切切切！你这个玩枪弄刀的家默默知道切！”\n\n    这名百慕大走私商人愤怒地挥舞着手臂，指着窗外静静停泊在太空船坞里的那艘奇怪破烂飞船，尖声叫嚷道：“这是艺术品 ！最完美的艺术品 ！ 这艘船包含多少科技含量和美学意义你明白吗？只知道切，上次切了那一小块船体材料，已经让我",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "坞里的那艘奇怪破烂飞船，尖声叫嚷道：“这是艺术品 ！最完美的艺术品 ！ 这艘船包含多少科技含量和美学意义你明白吗？只知道切，上次切了那一小块船体材料，已经让我心疼的像是**被切掉，你还要七o ！\n\n    武装头目低声咕哝道：“一堆合金垃圾胡乱凑起来的飞般，除了坚挺点儿，又有什么稀奇的，艺术品个屁…",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，脸色阴沉看着表情难堪的下属，严厉训斥道：“轨道巡航居然偏移了这么多 ！你们这些废物是吃什么长大的？为什么朝霞号居然跑到胡林州上空来了 ！”\n\n    整艘战舰两千多名联邦官兵，没有一个人能够回答舰长的严厉质问，因为无论是轨道计算还是引擎偏离态误差，都无法说明如此先进的战舰，会莫名其妙地来到离原定目",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "豫转身，抬腿向树林外狂奔。怀草诗反应极快，冷漠看了李疯子一眼，霍然转身向西方狂奔。这时帝国皇室的姐弟第一次正式见面，不过刹那，便再次分道相逆而行。\n\n    李疯子 身体缏僵站在雪地中，那两个人无论是谁逃走，都是联邦蒙受不起的损失，他应该去追谁？一声悲愤郁结的暴吼，他向东边追了过去。\n\n    没有",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "一个看上去很不起眼的工作台电脑和线缆连接在一起。“又被现了。”\n\n    穿着清洁工制服的男人连憾地感慨了声，缓缓停止先前像风一般敲击 光幕虞似键盘的手指。\n\n    其实他也已经是个老人，只不过因为某些原因，又或 者是他的执念，面容上看不到大多苍老的痕迹，还可以很方便的伪装成清洁工修理工之类的角色",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "金属飞船忽然间由高空俯冲而下，瞬间再至般坞，完成了一个完全违背人类飞行器设计理念的动作，沉就地悬浮在人们的头顶。\n\n    飞船的声音再次响起，但不知道为什么，机械冰冷的电子合成声渐渐变成某种很人性化的声音，甚至能够听出声音主人的惶恐与惘然。“我是谁？我是谁？我是谁？”\n\n    声音连续重复了三遍",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "能够回答舰长的严厉质问，因为无论是轨道计算还是引擎偏离态误差，都无法说明如此先进的战舰，会莫名其妙地来到离原定目标七万公里之外的大气层边缘。\n\n    朝霞号战舰某个偏僻的清洁间内，坚硬的舱壁已经被强行打开，比少女 手腕还要粗的线缆被人用小刀简单地破开，一条任何电脑市 场都可以买到的nidh数据线，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "很不起眼的工作台电脑和线缆连接在一起。“又被现了。”\n\n    穿着清洁工制服的男人连憾地感慨了声，缓缓停止先前像风一般敲击 光幕虞似键盘的手指。\n\n    其实他也已经是个老人，只不过因为某些原因，又或 者是他的执念，面容上看不到大多苍老的痕迹，还可以很方便的伪装成清洁工修理工之类的角色。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "璃上扎了几十次，骡如狂雨，快如闪电 ！\n\n    坚硬的钢化玻璃上 出现一道针尖密集扎出的完美圆形，同时有三道线从圆母处向中心汇聚，就像一个大写的人字。\n\n    许乐的拳头狠狠向人字的中心砸了下去，当拳头触碰到坚硬的玻璃表面时，他脑中难以控制地浮现起当年的某个画面，在环山四川基金会大楼，破开那道安",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "生红日的照耀下，泛成一堵透明的墙。“石头永远不会自杀。”\n\n    许乐笑了笑，整齐洁白的牙齿反射着温暖的阳光，然后直接从礁石上跳了下去。\n\n    那个身影一头撞碎那堵看似坚硬的透明水墙，投身冰冷愤怒的大海，然后奋力向下游动，越游越深，仿佛要游到最深的海底，在那个只属于自己的家里，变成一条真正 自",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "突破联邦 中央电脑外部的91层防御，直接入侵核心程序？虽然对方的入侵尝试失败，老东西开始反击，但人类社会里哪个电脑高手能达到如此恐怖的程度？\n\n    令人震惊的事情接着生，联邦中央电脑冰冷机械的电子合成音在停顿片刻后，再次响了起来，甚至语都做了加调整。\n\n    “警报，生异常状况第七十三号。“严",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "美丽。\n\n    窗后的走私商人颤抖着抹掉额头的汗水，对身旁面色如土的武装头子沙哑说道：“如果……他以后回来找被割掉的 那部分，我不得不坦诚，那都是你干的。\n\n    那道美丽的纯白光柱穿透大气层，瞬间消融无数雪花，悄无声息地落入倾城军事监狱，没有爆炸没有火光，只有恐怖毁灭舱量形成的高温，刹那间给这",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "板，建议道：“这艘破飞船既然打不开，还不如f脆暴力切开，虽然合金材料特硬，但就像上次切那块一样，耐着性子慢慢切，总能切下来。”切切切！你这个玩枪弄刀的家默默知道切！”\n\n    这名百慕大走私商人愤怒地挥舞着手臂，指着窗外静静停泊在太空船坞里的那艘奇怪破烂飞船，尖声叫嚷道：“这是艺术品 ！最完美的艺",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

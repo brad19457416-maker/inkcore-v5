@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 621,
+  "chapter_title": "第二百五十三章征途或者末路",
+  "filename": "ch_0621_第二百五十三章征途或者末路.txt",
+  "char_count": 3419,
+  "timestamp": "2026-04-10T12:05:08.572391",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "眉头紧皱，不悦地看着终于醒过神来，开始快进行警报分析的下属。\n\n    舰长抹着额头的冷汗跑了过来，紧张汇报道：“不明飞行物体积极因为正处在恒星强光背景中，还无法确认形状，只是形状明显不规则，应该是颗小陨您放心。战舰已经开始调姿，而且相关面的加固护板已经覆盖完毕。”\n\n    似乎是想嘲笑战舰中这些",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "有些沉溺其中，渐渐戴的无比喜悦开心。浑然忘了残暴是陛下赐予的面具还是自己的本性。\n\n    很多年前第一次离开天京星，乘坐军舰前往偏远的星域镇压暴动开始，他就逐渐喜欢上了这种感觉。\n\n    他喜欢看那些不知满足的贱民拿着粗劣的自制武器在帝国装甲铁流面前浑身颤抖脸色苍白屎尿横流化为一堆畜牲四处散去。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "里的肌肉纤维和骨骼关节，伴随着大叔教授的神秘功法和他无比勤奋的苦练，变得无比强悍坚韧，竟是生生抗住了瞬间负荷三十倍化的恐怖刹那时光。\n\n    乔治卡林大叔曾经说过：人类的身体是第一机器，那么如今许乐的身躯毫无疑问越来越在向变成强悍金属机器路上走。\n\n    有些耳鸣的他。没有时间去感慨联邦中央电脑",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "师误触了什么元器件？\n\n    然而仅仅十几秒钟之后，短促尖锐的警报声再次响起，这一次战舰系统标明了危险的来源，冰冷的机械声音回荡在房间中：“不明目标正高袭来，距离2322公里，方位偏扭角83度”\n\n    卡顿郡王的脸色微沉，眉头紧皱，不悦地看着终于醒过神来，开始快进行警报分析的下属。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "是臀部被捏的青肿交杂的女文官失声呼痛，而是战舰中控系统自动出了警报。\n\n    战舰中控室内的帝**人们惊讶地互视几眼，负责电子监控的军官有些惘然地摇了摇头，明明有警报响起，舰载监控系统的数据自过滤程序，却没有标注警报来源。\n\n    因为这个原因，卡顿郡王和绝大多数下属一样，没有提升足够的警怯。除",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。在四周火树银花杀人天气的壮烈气氛中，一闪身掠了进去！\n\n    “我会杀死他。”\n\n    黑，高进入帝国战舰的同时，许乐对着通话系统极为认真说道。\n\n    纯黑的左眼瞳中，不时闪过联邦中央电脑的数据与标注事项，按照这些数据和标注事项，许乐操控机甲高前进，找到一处毫不起眼的联结总成覆盖板。破开后",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "逐渐喜欢上了这种感觉。\n\n    他喜欢看那些不知满足的贱民拿着粗劣的自制武器在帝国装甲铁流面前浑身颤抖脸色苍白屎尿横流化为一堆畜牲四处散去。在类似的美好回忆中。还有那一年，那些联邦俘虏，那些在异国人伤口上不停蠕动的肥蛆，异国人痛苦惨嚎直至低声呻吟，最后像垃圾一样无声死去的画面，\n\n    不过从今",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "般狠狠砸中了帝国战舰的上部舰身，虽然最后一千公里凭借喷气推射装置强行减了很多，可是这样的剧烈撞击，按道理依然会无情夺去机师的性命。\n\n    然而许乐身躯里的肌肉纤维和骨骼关节，伴随着大叔教授的神秘功法和他无比勤奋的苦练，变得无比强悍坚韧，竟是生生抗住了瞬间负荷三十倍化的恐怖刹那时光。\n\n    乔",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "十倍化的恐怖刹那时光。\n\n    乔治卡林大叔曾经说过：人类的身体是第一机器，那么如今许乐的身躯毫无疑问越来越在向变成强悍金属机器路上走。\n\n    有些耳鸣的他。没有时间去感慨联邦中央电脑的轨道计算能力，也没有去理会机甲座舱外那些即便在恒星炽烈光芒照耀下、依然无比寒冷的真空，只是以最快的度输入了一",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "器，那么如今许乐的身躯毫无疑问越来越在向变成强悍金属机器路上走。\n\n    有些耳鸣的他。没有时间去感慨联邦中央电脑的轨道计算能力，也没有去理会机甲座舱外那些即便在恒星炽烈光芒照耀下、依然无比寒冷的真空，只是以最快的度输入了一道操作指令。\n\n    商秋和果壳工程部专门为了调配特制，机甲，依然保留了",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，而且它拥有帝国人艳羡而胆寒的强计算能力，所以哪怕这支帝国幽灵舰队中的战舰，全部为了抵抗空间通道内的风暴和猎杀古钟号的计划而做了特殊改装，可他依然能够准确地猜中帝国科学院的设计思路，从而为许乐提供具体翔尽的数据和建议突袭方向。\n\n    在联邦中央电脑的级井算指引下，许乐的机修天赋，也得到了尽情地惊",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "花杀人天气的壮烈气氛中，一闪身掠了进去！\n\n    “我会杀死他。”\n\n    黑，高进入帝国战舰的同时，许乐对着通话系统极为认真说道。\n\n    纯黑的左眼瞳中，不时闪过联邦中央电脑的数据与标注事项，按照这些数据和标注事项，许乐操控机甲高前进，找到一处毫不起眼的联结总成覆盖板。破开后截断了帝国战舰",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "伤口上不停蠕动的肥蛆，异国人痛苦惨嚎直至低声呻吟，最后像垃圾一样无声死去的画面，\n\n    不过从今以后，恐怕再也找不到什么能比几天前古钟号爆炸解体时的画面，更能令他亢奋颤抖，享受精神上的无上**。\n\n    不求载入帝国史册，只希望在陛下心中的地位更坚固一些，辖下的军队能分配的资源更多一些就好，卡",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "和显赫身份，实际上却极为轻蔑他。然而此人依靠自己的残暴替陛下扫荡一次又一次庶民的造反，又以憨直暴戾的脾气得到了陛下的信任，谁也不敢把这种情绪流露于表面。\n\n    卡顿郡王他自己也很清楚整个帝国上层的看法，知道无数人厌憎自己脸上这张丑陋邪恶的面具”虽然这张面具并不是他自己想戴的，然而他并不介意这一点",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "“为了庆祝陛下的伟大胜利，庆祝仪式后我是不是应该多找几个小处*女？”他灌了一口血浆般的红酒，满足地计划着此后的行程。\n\n    怀中的女人身材迷人，金荡漾，可惜眼瞳的颜色太浅了些，作为帝国血统纯正的皇室成员，他骄傲得意于自己黝黑却极为难看的眼眸，自然不悦于此。\n\n    这位郡王以往每次率领",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "掠了进去！\n\n    “我会杀死他。”\n\n    黑，高进入帝国战舰的同时，许乐对着通话系统极为认真说道。\n\n    纯黑的左眼瞳中，不时闪过联邦中央电脑的数据与标注事项，按照这些数据和标注事项，许乐操控机甲高前进，找到一处毫不起眼的联结总成覆盖板。破开后截断了帝国战舰相关区域的初级监控感应。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 903,
+  "chapter_title": "第七十六章 颤栗（上）",
+  "filename": "ch_0903_第七十六章 颤栗（上）.txt",
+  "char_count": 3420,
+  "timestamp": "2026-04-10T12:11:27.471548",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "能。\n　　桑桑看着风雪中的人间，柳叶眼变得越来越明亮，左眼中生出无限回忆与情思，右眼里生出无限厌憎与愤怒。\n　　这两种截然不同的情绪，互为因果。\n　　宁缺问她怎么还，那么怎么还呢？\n　　“我准备宽恕你的大不敬，赐你永生。”她看着宁缺，面无情绪说道：“但你不接受，那么只好永世沉沦。”\n　　悬崖外的风雪",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "近在咫尺。\n　　在梦里，这样的画面发生了很多次，在梦里，他们曾经无数次亲密，但在真实的世界中，这却是第一次。\n　　宁缺觉得怀里女子的身子很胖，很软，有些陌生，因为他的桑桑很瘦，但又有些熟悉，因为女子身上的味道他已经闻了很多年。\n　　他的右手本能般落在她高耸的胸脯上，手指深陷青衣不见，他觉得自己躺在一",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第七十六章 颤栗（上）\n　　露台外风雪里的画面，都是她在人间的画面，所有的画面里都有他。\n　　她是昊天，在人间的故事是事先算好的，唯有他不请自来，然后便再也没有离开过，无论有没有那根绳子，他们始终都在一起。\n　　她可以对人间完全冷漠无",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "感觉很美妙。\n　　桑桑的脸上没有任何表情，眼睛异常明亮，盯着他一言不发。\n　　宁缺的欲望很强烈，生命最强大的本能开始肆虐，但却无处释放。\n　　光明神殿里一片静寂。\n　　他轻轻吻上她的唇瓣。\n　　在梦里，他曾经吻过她。\n　　在真实里，他也要吻她。\n　　昊天，被一个男人亲吻。\n　　于是，整个人间都开始颤",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "他把她扑倒在了榻上。\n　　他的血流到了她的身上。\n　　他伸开双臂，将她紧紧地抱住，既然你放开世界让我来到你的身边，那么便再也不要想着从我的身边逃走。\n　　宁缺与桑桑对视，近在咫尺。\n　　在梦里，这样的画面发生了很多次，在梦里，他们曾经无数次亲密，但在真实的世界中，这却是第一次。\n　　宁缺觉得怀里女子",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "风消雪散，他终于把扫净了露台，月色洒遍人间，他听到了桑桑的那句话。\n　　昊天不会对人间的任何事情发表感慨，因为她不在意人间，她今夜会对月唏嘘，也与夫子无关，而是因为他说今夜的月光亮的像十万两白银，她真正在意的是银子，那种在意是如此的强烈，甚至强烈到她忘记了自己是昊天。\n　　如此在意银子，那她当然便是",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "情绪说道：“但你不接受，那么只好永世沉沦。”\n　　悬崖外的风雪骤然加疾，那些风雪里的人间画面被撕碎成无数雪片，被寒风裹着呼啸吹向露台，有很多雪花落进她的双眼。\n　　桑桑眼底的温度迅速降低，无论回忆情思还是厌憎愤怒，尽数被冻成晶莹透亮的冰块，就此消失，再也找不到任何踪迹。\n　　宁缺看着这幕画面，觉得心",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "紊乱起来。\n　　宁缺盯着她的眼睛，声音微哑说道：“我想操你。”\n　　之所以声音有些嘶哑，那是因为他很紧张，而且很兴奋。\n　　桑桑面无表情眨了眨眼，把眼眸最深处的那抹惘然碾碎。\n　　宁缺的咽喉上多了道血痕，以肉眼可见的速度拓宽，并且不停向喉管里深入，已经触着声带，他再也无法说话。\n　　鲜血从他的颈间淌",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的大不敬，赐你永生。”她看着宁缺，面无情绪说道：“但你不接受，那么只好永世沉沦。”\n　　悬崖外的风雪骤然加疾，那些风雪里的人间画面被撕碎成无数雪片，被寒风裹着呼啸吹向露台，有很多雪花落进她的双眼。\n　　桑桑眼底的温度迅速降低，无论回忆情思还是厌憎愤怒，尽数被冻成晶莹透亮的冰块，就此消失，再也找不到任",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "就是桑桑，也有些激动，因为他已经看到了胜利的希望，但还有些焦虑，因为看到希望后，便会生出强烈地冲动与渴望，他想要把希望落到实处。\n　　因为这些复杂的心情，今夜他替桑桑洗脚洗了很长时间，直到铜盆里的温水变得冰冷，他依然还在不停地洗着。\n　　水有些寒冷，桑桑的脚也有些寒冷，他用手不停地搓揉，也没能让水和",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "不停地扫，总是能扫干净的，因为雪不可能一直下。”\n　　他看着桑桑继续说道：“永世沉沦我也不怕，因为我从来不相信永远，只要你在人间，便不可能一直赢。”\n　　桑桑没有说话，夜色下的露台幽静而且漆黑。\n　　忽然间有淡光拂落，光明神殿的露台以至于整座桃山，都变得生动起来，虽然依旧清冷，却多了几分美感。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "是美丽。\n　　夜深时，雪终于停了，宁缺继续挥舞着竹扫帚，把雪全部扫落到绝壁下，直到露台上片雪不留，才缓缓停止动作。\n　　他现在只是个普通人，扫了整整一天雪，早已腰酸背痛，一个简单的直身动作，便让他痛的眉头紧紧皱了起来。\n　　“你看，只要不停地扫，总是能扫干净的，因为雪不可能一直下。”\n　　他看着桑桑",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "。\n　　宁缺问她怎么还，那么怎么还呢？\n　　“我准备宽恕你的大不敬，赐你永生。”她看着宁缺，面无情绪说道：“但你不接受，那么只好永世沉沦。”\n　　悬崖外的风雪骤然加疾，那些风雪里的人间画面被撕碎成无数雪片，被寒风裹着呼啸吹向露台，有很多雪花落进她的双眼。\n　　桑桑眼底的温度迅速降低，无论回忆情思还是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

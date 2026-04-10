@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 478,
+  "chapter_title": "第一百二十章 小黑花",
+  "filename": "ch_0478_第一百二十章 小黑花.txt",
+  "char_count": 3715,
+  "timestamp": "2026-04-10T12:04:59.236329",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "此刻看着那几名机修师们狂热崇拜的目光，不知为何，她的心中竟也生出淡淡的骄傲情思。\n\n    昨天千里逃亡，返山突袭，许乐给这位国民少女留下了无比深刻的印象，但很奇妙，偏是此刻许乐穿着紧身的军用背心，大汗淋漓，像端大枪一般端着修理臂的画面，真真让她心中生出了些莫名的情绪。\n\n    “身材倒是挺好的。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "心保持纤净透亮的理想状态，也很难做到。\n\n    此时此刻，她需要和亲近的可信任的人讨论一下心中那抹沉重幽深的疑惑，而在这颗星球，毫无疑问只有那个小眼睛的男人。\n\n    经过繁复的权限检查，她被女军官带到空港地下基地深处某个大型库房外，国民少女看着眼前的画面，吃惊地掩住了微张的嘴。\n\n    地下",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "晕的机械构造，看去就像是医学院里的人体骨架标本，只是泛着淡淡的金属光泽，而且由于过于巨大，对库房里的人们生出了一股压强烈的压迫感。\n\n    黑色x左前方，悬空于五米高度的简略型自动配装流水线，正哐当哐当地运进许多零件。\n\n    在流水线的下方，有六名军官正在表情凝重而认真地记录着什么，手中机修记",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "见那一头紫发。\n\n    简水儿微笑望着他，空旷的库房内，似乎还能听到某些金属碰撞的清脆声音，就像是风铃一样。\n\n    “你说过父亲当年就喜欢带很多工具在身后，是不是像你现在这样？”\n\n    “差不多。”\n\n    许乐笑着说道，下意识里挠了挠头，手的黑色高细密度机甲油全部混在了脸，把他的脸涂成",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "些系统脆弱不堪的下场。许乐认为国防部接下来会给自己\n\n    新的艰险任务，所以浅睡两个小时之后，便来到库房之中，想争取在最短时间内，将这台黑色x修好。\n\n    拉了一条很长的数据线，他眯着眼睛站在黑色机甲的下方，手指轻巧地触碰终端面的操控器，将x机甲的外甲卸开，并不怎么在意身后这六名机修士官的注",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "邦机修士官。\n\n    一名军官抹了抹额的汗水，望着黑色机甲的那个像只猿猴般沉默攀爬跳跃的家伙，震惊说道：“我一直以为我的机修水平已经不错，已经不错了”\n\n    许乐站在高高的机甲。\n\n    一夜战火，千里奔波，即便是联邦最新一代x机甲，在帝国月狼机甲大队不要命的疯狂追击之下，依然是落了个某侧千",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "部的她。另一部分的她并不愿意用在一院和费城家中熏染出来的那些聪慧本事去揣摩人世间的险恶繁复，只是如今疑问挥之不去，就像是永远笼罩在夜空里的云霾，挡住了宇宙间洒下来的万千星辉，让她想让自己一颗心保持纤净透亮的理想状态，也很难做到。\n\n    此时此刻，她需要和亲近的可信任的人讨论一下心中那抹沉重幽深的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "神的机修操作，早已经看傻了，竟是完全没注意到门外间水儿的到来，如果放在往常，这些军人看到国名少女忽然出现在身边，只怕会兴奋地晕厥过去，然而此时\n\n    此刻，他们早已全神贯注于许乐所展现出来的机修操作之中，浑然忘怀身外诸事。\n\n    简水儿披着一件军装，双手环抱在胸前，倚靠在门，饶有兴致地观看着",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "话，在此刻竟似乎要慢慢变成现实。\n\n    所以那名机修士官被震撼的智慧\n\n    翻来覆去重复某句感慨，身边的机修士官也自默然同感。\n\n    有一人瞪着双眼，抿着嘴唇，看着掏出小刀正在割开某条封闭线路的许乐，震惊说道：“这种并行串线可以用三股重迭线代替吗？教材里面可没有这种说法。”\n\n    “",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "是医学院里的人体骨架标本，只是泛着淡淡的金属光泽，而且由于过于巨大，对库房里的人们生出了一股压强烈的压迫感。\n\n    黑色x左前方，悬空于五米高度的简略型自动配装流水线，正哐当哐当地运进许多零件。\n\n    在流水线的下方，有六名军官正在表情凝重而认真地记录着什么，手中机修记录电子本，不停地快速闪",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "射。\n\n    他所做的每一次操作，要求的每一个零件，都会让下方那六名联邦机修士官心头猛震，因为他们从来没有见过有人进行这种模式的机修。\n\n    黑色机甲那位青年军官所做的每一个微操作，都是那样的精细与妥帖，任谁也想象不出来，一个人扛着一个沉重的修复臂，居然能够迅速的做出如此多的修复工作，而且没有",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，不，是超过联邦军方绝大多数机修师的水平太多，往常不可想象的一个人修复一台机甲的神话，在此刻竟似乎要慢慢变成现实。\n\n    所以那名机修士官被震撼的智慧\n\n    翻来覆去重复某句感慨，身边的机修士官也自默然同感。\n\n    有一人瞪着双眼，抿着嘴唇，看着掏出小刀正在割开某条封闭线路的许乐，震惊说",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

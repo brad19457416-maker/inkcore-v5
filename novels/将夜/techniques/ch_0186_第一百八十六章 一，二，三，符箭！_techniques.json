@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 186,
+  "chapter_title": "第一百八十六章 一，二，三，符箭！",
+  "filename": "ch_0186_第一百八十六章 一，二，三，符箭！.txt",
+  "char_count": 4584,
+  "timestamp": "2026-04-10T12:11:12.038383",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "极细微的木屑，仿佛刚从哪个伐木场库房爬出来一般。\n　　宁缺看着七师姐如此狼狈的模样，忍不住大笑起来，心想师姐真像傻姑啊。\n　　六师兄常年铸兵刻符，性情憨厚却是目光犀利，早已瞧见七师妹身畔紧握着的右手因为愤怒而不停颤抖，掌心里握着一枝金属打造的寒冷箭簇，顿时身体微僵，心头微寒，二话不说掉头就走，进了自",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "何处。\n　　平静如镜的湖面上没有羽箭飞过的痕迹。\n　　湖对面的山林里没有羽箭飞过的痕迹。\n　　湛蓝的天空下，找不到一丝羽箭飞过的痕迹。\n　　凡走过爬过飞过都必有痕迹，那么这枝刻着风符的箭瞬间消失去了哪里？\n　　宁缺怔怔放下硬木弓，回头向六师兄投以询问的眼光。\n　　六师兄摊开双手，憨厚的脸上满是惘然神",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "种理念我很欣赏，但我不是很理解为什么你要求这道风符必须这么小，你准备用在何处？”\n　　宁缺沉默片刻后说道：“我准备把这道符刻在箭枝上，所以必须小。”\n　　四师兄回头静静看着他，说道：“好想法。”\n　　宁缺笑了起来，然后笑容还未全展，便又听着四师兄下一句话。\n　　“……可惜还是痴心妄想。”\n　　他吃惊",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。\n　　湛蓝的天空下，找不到一丝羽箭飞过的痕迹。\n　　凡走过爬过飞过都必有痕迹，那么这枝刻着风符的箭瞬间消失去了哪里？\n　　宁缺怔怔放下硬木弓，回头向六师兄投以询问的眼光。\n　　六师兄摊开双手，憨厚的脸上满是惘然神情。\n　　就在这时，七师姐从镜湖中心那方亭榭里走了出来，只见她柳眉倒竖，怒不可遏，头上",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "想师姐真像傻姑啊。\n　　六师兄常年铸兵刻符，性情憨厚却是目光犀利，早已瞧见七师妹身畔紧握着的右手因为愤怒而不停颤抖，掌心里握着一枝金属打造的寒冷箭簇，顿时身体微僵，心头微寒，二话不说掉头就走，进了自己的打铁房紧紧关上了房门。\n　　宁缺还不知道发生了什么事情，疑惑回头看了一眼紧闭的打铁房，然后回过头来",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "实不行。”\n　　六师兄从箭筒里取出最后一根符箭，问道：“还要试吗？”\n　　陈皮皮摇头说道：“没有任何意义，如果宁缺能把符箭研制成功，那他完全可以去开宗立派，哪里还用得着学什么符道真义。”\n　　“我听出来你这是在骂我。”宁缺耸肩说道：“但我还想试一试。”\n　　看着陈皮皮和七师姐再次紧张抬起锅和锅盖，他",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "淡然问道：“小师弟你愿意把符道所学用在实际事物之中，而不是玄谈虚为，这种理念我很欣赏，但我不是很理解为什么你要求这道风符必须这么小，你准备用在何处？”\n　　宁缺沉默片刻后说道：“我准备把这道符刻在箭枝上，所以必须小。”\n　　四师兄回头静静看着他，说道：“好想法。”\n　　宁缺笑了起来，然后笑容还未全展",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "眼紧闭的打铁房，然后回过头来，冲着亭子里的七师姐喊道：“师姐，你有没有看到一枝箭？”\n　　七师姐强行压抑着怒火，强行微笑说道：“什么箭？”\n　　“就是一枝……箭杆花里胡哨的箭。”\n　　七师姐笑了笑，伸出右手紧握着的那根箭簇，问道：“是不是这个？”\n　　宁缺吃惊说道：“就是这个……噫，怎么只剩了个箭簇",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "当思考分析怎样与修行强者做战时，他很自然会联想到弓箭方面。如果符道能够作用于羽箭，那么在与修行强者的战斗中，可以保证安全距离与攻击的突然性。\n　　去年旅途中，吕清臣老人在听到他这个想法时，便当场表示可不行――羽箭太轻，无法在上面刻符，附着元气消散太快，除非能解决这两个棘手的问题，羽箭便不可能成为修行",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "边在外，模样看上去极为滑稽可笑。\n　　七师姐比他速度更快，在他喊出三字时，已经用双手把锅盖举了起来，拼命地护住了自己的如花容颜。\n　　即便是宁缺，在射出这枝符箭之后，也在第一时间蹿到六师兄身后，用师兄强壮如山的身躯，挡住任何可能发生的意外。\n　　前面三次符箭试射，造成了极为惨烈的后果，湖面那些泛着白",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "绕着细长箭杆不停缠绕旋转。\n　　宁缺盯着箭杆，用念力仔细感知那些风息流动的方向和规律。\n　　忽然间，众人肉眼可见，那根细长的箭杆上的符线不知为何深深向箭杆里陷了下去，构成箭杆的木材瞬间紧绷，然后撕裂，裂成一根根极细的木纤维！\n　　噗的一声，湖畔烟尘大作，木屑漫天飞舞。\n　　引来咳声一片。\n　　……",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "悬浮在半空中的桑桑蹙着眉尖说道：“少爷，我也不认识刘谦是谁。”\n　　……\n　　……\n　　第二日来到书院后山，宁缺取出那张细长形的符纸，极为郑重递给了六师兄，说道：“师兄，这事儿成不成，就看你的手艺了。”\n　　六师兄接过符纸疑惑看了半晌，然后从屋角拾起一根宁缺前些日子扔在这里的羽箭，把符纸拢成圆",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "出来的符便是锁，只有自己的念力才能激发符文的力量。\n　　嗡的一声，紧绷的黄杨硬木弓弦弹回。\n　　几乎同时，念力激发了箭杆上的符文。\n　　硬弓之间一阵清风生出然后迅疾四散，而那只箭……却不知飞去了何处。\n　　平静如镜的湖面上没有羽箭飞过的痕迹。\n　　湖对面的山林里没有羽箭飞过的痕迹。\n　　湛蓝的天空下",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "针针入肉。\n　　亭榭中，七师姐轻拈绣架，冷笑说道：“刀剑针，现在居然轮到箭了！不给你些教训，真不知道日后你会不会把火器也拿来瞎整！”\n　　……\n　　……\n　　小小插曲之后，研制符箭的创新工作依然要继续，而且因为湖畔的这番闹腾，又多了两个看热闹的围观群众，陈皮皮刚刚给松下棋痴送完饭，暂时没有什么事情做",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "种惨烈的直接证据。\n　　六师兄没有遮脸，认真地在天空中找寻着那枝符箭的踪迹，身为武器研发制造人员，他从来不缺少这种冒险精神，看了片刻后他摇头说道：“好了。”\n　　七师姐从锅盖后小心翼翼探出小半张脸，问道：“师兄，箭在哪儿？”\n　　六师兄指着湖对岸远处的那方密林，说道：“好像是去了那边。”\n　　陈皮皮",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "在前上的风符缩到最小。\n　　……\n　　……\n　　深夜时分，灯火微摇。\n　　全身裹着白布的桑桑，从床上缓缓飘了起来。\n　　白布上密密麻麻贴着些细长的纸条。\n　　纸上隐约能够见到一些古怪的线条。\n　　紧闭的窗户传来一阵低沉的呜咽。\n　　脸色苍白的宁缺站在床边，目光幽幽看着她。\n　　画面看上去显得异常诡异",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

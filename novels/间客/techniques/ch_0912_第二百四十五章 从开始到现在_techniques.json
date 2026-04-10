@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 912,
+  "chapter_title": "第二百四十五章 从开始到现在",
+  "filename": "ch_0912_第二百四十五章 从开始到现在.txt",
+  "char_count": 3381,
+  "timestamp": "2026-04-10T12:05:26.891443",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，瘩露一直微笑在旁看着，两个人偶尔交谈一句，便又回复安静，显得格外有一种家的感觉。\n\n    艰难的逃亡战斗让许乐的肠胃早已饥饿不堪，土豆泥烩合成脂与青豆沙味道其实只是一般，此时却来不及在味蕾上打个转便天然透出香甜的滋味。\n\n    露露姑娘是类江人，长的很好看，还很年青，但进入某个行业已经有很多今",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "许乐最关键的时刻栖动了扳机。枪声隔了数年再次响起，还是当年。\n\n    温暖的小楼餐厅，浅蓝色的近海风格餐桌，穿着淡蓝礼服的漂亮姑娘，营造出一种温暖而惬意的感觉，就在这种温暖中，许乐低着头快速吃掉一盘又一盘食物，瘩露一直微笑在旁看着，两个人偶尔交谈一句，便又回复安静，显得格外有一种家的感觉。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "他就已经察觉，所以并不意外打开门后会看到他们，只是没有想到领队的居菇是那位年轻的上校。白玉兰看着李封说道：“抓我这种小事，居然会惊动你，有些意外。\n\n    李封漠然说道：“除非我亲自出手，还真没有信心一定能抓住声名在外的七组老白，事实上，如果你牵涉进的这件事情是第一序列事件，宪章局进行了追溯定位，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "擦了两下，走到客厅里打开大门，看到外面荷枪实弹硌军警，表情没有一丝变化    当这支联邦战斗部队刚刚进入街区，开始对公寓楼展开包围时，他就已经察觉，所以并不意外打开门后会看到他们，只是没有想到领队的居菇是那位年轻的上校。白玉兰看着李封说道：“抓我这种小事，居然会惊动你，有些意外。\n\n    李封漠然",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "了。\n\n    许乐明白发生了什么，看样子今夜等不到属于自己的船了，对于利孝通的出卖，他并不失望更不愤怒，只是有些疲惫，望着露露微涩说道：“我真的是帝国人。“我是**，但从开始到现在，你都没有瞧不起我，所以不要觉得亏欠我什么。”\n\n    露露勉强地挤出一丝笑容，取下衣架上的外套走到他的面前「替他穿",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "到他时，他已经不再是曾经的穷学生，当年的战斗英雄，而是正在被联邦追杀的帝国间谍。“我本来以为你早就嫁人生子，没想到还能见到你。”许乐抬起头来，看着她微笑说道：“看来请利孝通帮忙照顾你，是个错误。”\n\n    露露眼波流转，静静地望着他，轻声说道：“像我这种人澈读过什么书，做这一行做习惯了，真不知道还",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "应该没有任何问题，而所有人都清楚那个帝国人非常看重旧情谊，所以我不理解，只是让你拖住他两分钟的时间，为什么你就做不到。”\n\n    露露的双手紧紧攥着礼服下摆，目光却不知道看着昝外的何处，沉就很长时间后说道：“我不想演，而且您大概不理解，我也是个非常看重旧情谊的人。”利家大秘书指着她的脸，厉声羞辱道",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "条已经烧了，但上面那些字已经留在他的内心深处，他知道许乐是个说到做到的人，所以正如纸条所说，如果不想出现大过疯狂的末日景象，自己必须保护好露瘩的安全，直到确认许乐死亡或者备己死亡。首都南城某处僻静的街区。\n\n    一条斜斜向上的石径伸向某家百货商店的门口，许乐沉就看着那处，压低帽槠走了上去，心情早",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "承人的你，可以把迳看做一场基金对赌，建议你押我能活下去。”\n\n    利孝通看着纸条微微皱眉，片刻后自嘲地笑了起来，取出打火机把这个纸条烧成灰烬，然后对瘩露平静说道：“收拾一下，跟我走。”\n\n    纸条已经烧了，但上面那些字已经留在他的内心深处，他知道许乐是个说到做到的人，所以正如纸条所说，如果不",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "很漂亮。”\n\n    白玉兰看着楼道间紧握枪械的联邦士兵，缓缓解掉腰间的围裙，平静回答道：“不用这么紧张，我从来没有想过要逃跑。”\n\n    李封微微皱眉，不解地看着他，然后余光掠过他的肩膀，看到一位孕妇扶墙走出卧室，大腹便便，十分辛苦的模样。\n\n    白玉兰听到身后的脚步声，眉梢做一抽搐，放围裙",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "模样。\n\n    白玉兰听到身后的脚步声，眉梢做一抽搐，放围裙的手臂变得有些僵硬，直视李封脸颊的眼眸骤然明亮。\n\n    李封沉就片刻，望向那位满脸疑惑的孕妇，面无表情说道：“政府特别任务，需要征召优秀军官重新入役，你丈夫要去接受一段时间的特别培训。”墨绿色的防弹军车内。”几个月了？”李封问道。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "位，那么谁也发现不了那几枪是你开的「你做的很漂亮。”\n\n    白玉兰看着楼道间紧握枪械的联邦士兵，缓缓解掉腰间的围裙，平静回答道：“不用这么紧张，我从来没有想过要逃跑。”\n\n    李封微微皱眉，不解地看着他，然后余光掠过他的肩膀，看到一位孕妇扶墙走出卧室，大腹便便，十分辛苦的模样。\n\n    白",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "”\n\n    白玉兰看着楼道间紧握枪械的联邦士兵，缓缓解掉腰间的围裙，平静回答道：“不用这么紧张，我从来没有想过要逃跑。”\n\n    李封微微皱眉，不解地看着他，然后余光掠过他的肩膀，看到一位孕妇扶墙走出卧室，大腹便便，十分辛苦的模样。\n\n    白玉兰听到身后的脚步声，眉梢做一抽搐，放围裙的手臂变",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "的岁月，妻子怀孕将产，却又在许乐最关键的时刻栖动了扳机。枪声隔了数年再次响起，还是当年。\n\n    温暖的小楼餐厅，浅蓝色的近海风格餐桌，穿着淡蓝礼服的漂亮姑娘，营造出一种温暖而惬意的感觉，就在这种温暖中，许乐低着头快速吃掉一盘又一盘食物，瘩露一直微笑在旁看着，两个人偶尔交谈一句，便又回复安静，显得",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

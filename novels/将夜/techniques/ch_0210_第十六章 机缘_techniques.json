@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 210,
+  "chapter_title": "第十六章 机缘",
+  "filename": "ch_0210_第十六章 机缘.txt",
+  "char_count": 3318,
+  "timestamp": "2026-04-10T12:11:11.979365",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "一边切肉，一边问道：“老师，难道您也看不到未来？”\n　　听着这个问题，夫子大怒，指着头顶灰蒙蒙的冬日天空喝斥道：“我连这道天都看不明白，哪里能看得到什么未来！”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "：“找到他……你会做什么？”\n　　老人说道：“杀死他。”\n　　桑桑问道：“如果你是一个很了不起的人，为什么当年你没能杀死他？”\n　　“因为我们之间的机缘没有绝对相厚……不是谁都能轻易进这座城来杀人的，尤其是我，所以当年只能由这座城里的人来做，更关键的原因在于，整个世界对我眼睛所看到的画面都将信将疑，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，神情严肃说道：“我不是想找老婆生孩子，我是想找一个徒弟继承我的衣钵。”\n　　这下轮到桑桑恍惚了，她心想找徒弟这种事情和我能有什么关系？我的骨骼并不清奇，身世也绝不离奇，而且虽然您身上的棉袄确实挺脏，但这些天似乎也未曾乞讨过，怎么看也不像是小时候听宁缺讲过的那些故事里的世外高人模样。\n　　“你想收我",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第十六章 机缘\n　　过了会儿，桑桑看着老人认真说道：“如果你只喜欢本国女子，不喜欢燕女，我也认识一些青楼姑娘，但想要她们替你生孩子，花费估计是个大数目。”\n　　老人又是一阵恍惚，沉默很长时间才艰难地清醒过来，神情严肃说道：“我不是想找老婆生孩子，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "污渍的桌腿，沉默不语。\n　　老人没有离开老笔斋，而是沉默地跟着桑桑，看桑桑。他看桑桑擦拭桌椅，打扫不存在的浮尘，重新修理早就修好了的铺门，看桑桑关铺门，看桑桑汲井水，看桑桑淘米择菜煮饭切蒜，看桑桑坐到桌旁开始一个人吃饭。\n　　桑桑没有请他一起吃饭的意思，很奇妙的是，也没有请他离开的意思。\n　　隔着窗",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，昊天的安排永远不可能是我们这样的凡人所能忖度的，但我始终坚信一点，他是与我有大机缘的人，我以为自己来到长安，便是要了解这段机缘，直到……遇见了你。”\n　　老人看着桑桑微黑的脸颊，明亮的柳叶眼，沉默了很长时间，默然想到，那么多忠诚于自己的部属牺牲、令整座桃山和唐国感到不安、冥冥之中吸引自己前来长安城",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "光芒。\n　　“昊天神辉，就是阳光。”\n　　话音落处，老人探出脏肮棉袄袖口的右手最前端、也就是中指尖处骤然变得明亮一片，不知从何处来的莹光汇聚于此，由内而外缓缓释放绽发，便似一朵光明之花，掩去指腹上的所有纹路，圣洁乳白，令人心生敬意。\n　　老人看着身前的小姑娘，平静说道：“要感知昊天神辉，便是用上十年",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "身材高大的夫子端着早已调好料的碗筷，眼巴巴地站在汤锅旁等着，不时发出一声恼火焦虑的叹息。\n　　“要说命运机缘这种事情……谁都不知道自己会看到什么，遇到什么，谁也不知道看到遇到的对于自己又意味着什么。想法和现实常常是相反的两个世界，比如前些天我们在渭城里看到的将军和那位大婶，也许他们会永生不老，也许明",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "冬雪飘时你同样见过，无时无刻你不曾见过。”\n　　桑桑微微蹙眉，问道：“那是什么？”\n　　长安城的深夜一片幽静，天穹之上繁星似锦，但终究不及白昼清明，老人站在逼仄的庭院之间，缓缓摊开双臂，似要承受世间所有的光芒。\n　　“昊天神辉，就是阳光。”\n　　话音落处，老人探出脏肮棉袄袖口的右手最前端、也就是中指",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "是什么？”\n　　长安城的深夜一片幽静，天穹之上繁星似锦，但终究不及白昼清明，老人站在逼仄的庭院之间，缓缓摊开双臂，似要承受世间所有的光芒。\n　　“昊天神辉，就是阳光。”\n　　话音落处，老人探出脏肮棉袄袖口的右手最前端、也就是中指尖处骤然变得明亮一片，不知从何处来的莹光汇聚于此，由内而外缓缓释放绽发，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

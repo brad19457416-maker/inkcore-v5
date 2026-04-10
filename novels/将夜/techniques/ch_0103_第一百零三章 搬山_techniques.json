@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 103,
+  "chapter_title": "第一百零三章 搬山",
+  "filename": "ch_0103_第一百零三章 搬山.txt",
+  "char_count": 3333,
+  "timestamp": "2026-04-10T12:11:11.967924",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "话很提神很生猛，而且隐隐间符合了夫子斩桃花饮酒那道题的真义，所谓无穷尽也，然而愚公却不知道一个残酷的真相，那就是：山有时候也会长高。\n　　后几日，笔墨如剑，直刺心胸。\n　　用永字八法拆解的浩然剑笔意，就像无数把锋利的剑芒，在宁缺的身体内横刺竖插，戳出了无数个无形的洞孔，然而那些洞孔迅速坍塌，根本没有",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“这是请柬还是……谢三公子难道是想请我吃饭。”\n　　谢承运看了一眼身旁的钟大俊，然后正色望向宁缺平静说道：“不是请柬，而是战书。一月之后的书院期考，我想与你做一场君子之争，看看究竟谁能拔得头筹，既然是君子之争我也不会占你便宜，限于入院试时你曾经拿过甲上的三门。”\n　　书院入院试时，宁缺总分并不如何醒",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "那是一个有大毅力的家伙。然而如果要没有现代工程知识的他，去把那座大山挖出无数条横亘两侧的隧道来，只怕最终也只会变成泥鳅钻豆腐，无奈地挖出个不停前进不停垮塌的豆腐渣工程，即便是金刚不坏之身，挖上个千万年也只是徒劳。\n　　人定胜天是非常美好的愿望，在精神层面上很多时候能够激励人类不断向前，但往在具体的事",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "少双草鞋，挖坏了多少根锄头，那是一个有大毅力的家伙。然而如果要没有现代工程知识的他，去把那座大山挖出无数条横亘两侧的隧道来，只怕最终也只会变成泥鳅钻豆腐，无奈地挖出个不停前进不停垮塌的豆腐渣工程，即便是金刚不坏之身，挖上个千万年也只是徒劳。\n　　人定胜天是非常美好的愿望，在精神层面上很多时候能够激励",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "宁缺一直平静看着门口处，他本以为对方的目标可能是金无彩或是前排某位长安贵女，接下来可能有一场关于风花雪月的事情，却没有想到对方竟是迳直向书舍后方走了过来，目标原来是自己。\n　　略一思忖，他站起身来看着对方微微一笑，看着对方手指间那封牛皮纸书信，问道：“这是请柬还是……谢三公子难道是想请我吃饭。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "来可能有一场关于风花雪月的事情，却没有想到对方竟是迳直向书舍后方走了过来，目标原来是自己。\n　　略一思忖，他站起身来看着对方微微一笑，看着对方手指间那封牛皮纸书信，问道：“这是请柬还是……谢三公子难道是想请我吃饭。”\n　　谢承运看了一眼身旁的钟大俊，然后正色望向宁缺平静说道：“不是请柬，而是战书。一",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "运也不得不承认，在和这个看似寻常的边城军卒比较起来，自己似乎一直在输。而他承载着家族甚至是南晋的荣光来到大唐帝国，不能允许自己一直输下去，又有钟大俊等同伴一直在旁挑唆，于是他决定要寻找一个机会，把那些曾经属于自己的风采全部夺将回来。\n　　书院期考自然是最好的一次机会。\n　　宁缺微微一怔，完全没有想到",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "遇到过敢在学习方面向自己发起挑战的同窗。\n　　更关键的是，这一世的他习惯的挑战在刀尖之上在生死之间，骤然发现这些年轻的同窗们居然还停留在这种程度上，不免觉得有些幼稚好笑，想到此节，他忍不住笑了起来，望着谢承运想要说些什么，却发现和这种世家子说不明白。\n　　短暂的沉默，温和的笑容，落在不同的人眼中有不",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "很多年没有接触过了，更准确来说，自从小学一年级被母亲大人用拖把狠狠教育一番后，永远都是满分成绩的他，从来没有遇到过敢在学习方面向自己发起挑战的同窗。\n　　更关键的是，这一世的他习惯的挑战在刀尖之上在生死之间，骤然发现这些年轻的同窗们居然还停留在这种程度上，不免觉得有些幼稚好笑，想到此节，他忍不住笑了",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

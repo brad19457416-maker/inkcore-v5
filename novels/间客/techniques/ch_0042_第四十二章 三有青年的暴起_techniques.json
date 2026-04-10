@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 42,
+  "chapter_title": "第四十二章 三有青年的暴起",
+  "filename": "ch_0042_第四十二章 三有青年的暴起.txt",
+  "char_count": 3485,
+  "timestamp": "2026-04-10T11:53:11.044444",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "伍小兵能掌握的技能。”\n\n    秘书下意识里替许乐说话：“不是失败了吗？而且……每个人也许都有他的秘密。”\n\n    “我不想知道那个年轻人的秘密，但我……很欣赏他。”胖子船长举了举手中的咖啡杯，呵呵笑着说道：“品德优良，往往只是小朋友们才适合套用的形容词，但我忽然发现这个小子也配得上这四个字。我",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第四十二章 三有青年的暴起 \n\n    太空飞船的飞行基本上由中控电脑自动负责，除非要进行危险的空间跳跃，一般情况下商务船长或是战舰舰长都是整个飞船里最空闲的人。胖子船长接过秘书递过来的咖啡，斜靠在38区一扇舱门上美美地喝了一口，脸上露出了无尽满足的神情，他最欣赏自己这个秘书的一点，便是无",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "里很干净，或许这件事情确实就是个误会。”\n\n    胖子船长喝了一口咖啡，回头看了一眼不远处的舱门，心想里面那个年轻人不知道怎么样了，阴阴笑着说道：“我当然知道这是个误会，小姐虽然年纪小，可也不会轻易被人骗的。如果不是相信那个小子真是个傻乎乎的正义青年，你以为这时候他还能活着？”\n\n    “那为什",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "青年，我就不敢打你！”\n\n    军校士官王猛对上了许乐没有什么情绪的目光，心头不知怎的便生出强烈的愤怒，或许是因为先前自己那一肘没有丝毫作用，让他觉得在同学们的面前失了脸面，又或许是因为他们一直拿枪口对着这个年轻人，就希望他能够表现出一些害怕来平衡自己的心理，结果却完全失效。\n\n    所以现在，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。\n\n    他狠狠一低头，直接撞到了对方的鼻梁上！\n\n    鲜血从英俊士官的鼻孔里喷了出来，同一瞬间，许乐从床边弹起，上半身往下一压，从对方的腋下穿过，右臂却如钢铁一般砸向后方，狠狠地击中对方的脖子。\n\n    一声闷响，西林军校最优秀的士官之一，就这样被许乐重重地击摔在地，再也无法坐起来。许乐",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "了四年的那套动作纯熟无比地施展开来，轻而易举地躲过了迎面而来的拳头。反手抠住对方手腕软骨，用力一拗，同时右肘疾如闪电般擦着对方的肩头，击中了对方的太阳穴!\n\n    王猛魁梧的身体就这样昏了过去，摔在地上，发出重重的一响。\n\n    看似简单的三连击，实际上却是迅速到了极点，消耗极大，许乐喘息了几声",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "？”\n\n    “那为什么还要把他关在房间里？还让那些军校的士官看守。”秘书推了推眼镜，眼中闪过一丝忧虑。先前送小姐回房的路上，他小心翼翼地打听了一下那个年轻人，对于这些天里年青人的表现反而有些欣赏，“难道还真准备用绑架儿童罪的罪名把他送到警察局？”\n\n    “你什么时候开始戴金边眼镜了？”船长盯",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "胖子船长喝了一口咖啡，回头看了一眼不远处的舱门，心想里面那个年轻人不知道怎么样了，阴阴笑着说道：“我当然知道这是个误会，小姐虽然年纪小，可也不会轻易被人骗的。如果不是相信那个小子真是个傻乎乎的正义青年，你以为这时候他还能活着？”\n\n    “那为什么还要把他关在房间里？还让那些军校的士官看",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "*要死多少人？”\n\n    “那我更不明白了。”秘书很老实地继续表达疑惑，“确认了身份，确认了无害，日后还要观察，还要建立联系，那还把他关着做什么？”\n\n    ……\n\n    ……\n\n    “看什么看？不要以为你是个正义青年，我就不敢打你！”\n\n    军校士官王猛对上了许乐没有什么情绪的目光，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "便是无论何时何地，对方都能准确地递过一杯咖啡，不拘冷热。\n\n    小姐终于找到了，安全健康……就是脾气似乎变得更大了些，不过这又算什么呢？胖子船上摸了摸脸上的血痕，苦笑了一声。手中有咖啡在，心头巨石落地，这么多天的煎熬终于结束，哪里还有不满意的？只可惜38区是清洁区，空气里的味道不太干净，胖子船长",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "抗击打能力莫名其妙变得强大许多，只怕这时候早就躺下了。疼痛和轻蔑的羞辱让他联想到一个月前在河西州被军人们逮捕时的惨状，尤其是听到对方无比轻蔑的话语后，心里有一团火开始升腾。\n\n    周瑾走到许乐的面前，伸手将王猛的枪管缓缓拨开，看着床边的年轻人冰冷说道：“听说你是东林警备区的兵？怎么一点儿规矩都不",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "不是相信那个小子真是个傻乎乎的正义青年，你以为这时候他还能活着？”\n\n    “那为什么还要把他关在房间里？还让那些军校的士官看守。”秘书推了推眼镜，眼中闪过一丝忧虑。先前送小姐回房的路上，他小心翼翼地打听了一下那个年轻人，对于这些天里年青人的表现反而有些欣赏，“难道还真准备用绑架儿童罪的罪名把他送",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "其是听到对方无比轻蔑的话语后，心里有一团火开始升腾。\n\n    周瑾走到许乐的面前，伸手将王猛的枪管缓缓拨开，看着床边的年轻人冰冷说道：“听说你是东林警备区的兵？怎么一点儿规矩都不懂？从军衔上算，我们都应该算是你的长官，说话老实点儿！”\n\n    许乐没有理会这个英俊的年轻士官，只是眯着眼睛想到，如",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "飞船里最空闲的人。胖子船长接过秘书递过来的咖啡，斜靠在38区一扇舱门上美美地喝了一口，脸上露出了无尽满足的神情，他最欣赏自己这个秘书的一点，便是无论何时何地，对方都能准确地递过一杯咖啡，不拘冷热。\n\n    小姐终于找到了，安全健康……就是脾气似乎变得更大了些，不过这又算什么呢？胖子船上摸了摸脸上的",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

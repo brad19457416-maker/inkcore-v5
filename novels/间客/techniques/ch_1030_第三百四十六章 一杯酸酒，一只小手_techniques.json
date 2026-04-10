@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 1030,
+  "chapter_title": "第三百四十六章 一杯酸酒，一只小手",
+  "filename": "ch_1030_第三百四十六章 一杯酸酒，一只小手.txt",
+  "char_count": 3863,
+  "timestamp": "2026-04-10T12:05:26.943279",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "也未老，只是过去的那些时光忽然间变得极为遥远，如果不努力回忆便恐惧将要忘记。\n\n    河西州的青丘为什么那么美?为什么郧片贫瘠的红土上能生出如此葱葱的灌木丛？矿坑深处的石头为什么那么臭？以至于东林石头成了又臭又硬的代名词？\n\n    这都是东林孤儿们常年累月不停撒尿的功劳。\n\n    喝多了的两个",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "八箭的俗气模样，被女子戴在手指展示骄傲而不复原石里的倔犟奇崛模样。\n\n    这片宇宙里哪里会有永远存在的石头？\n\n    烧烤摊小方桌，久别重逢的兄弟不再重复那些看似坚定有力，实际上却因为过于复杂而没滋味的谈话，他们正式开始喝酒，开始拼酒，待酒意蕻醺上头，便开始像老人一样回忆童年的点点滴滴。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "啁南相守他们那种仰望敬畏，而是对于自己无法拥有的某种气度的淡淡向往。\n\n    当年在首港高铁车厢中第一次看见那名双肩若山的男人时，他是果壳公司普通的技术主管，而对方已经是破门而出十余年，单手打出一片天下的传奇人物。\n\n    其后数年间偶有几次来往，他从技术主管变成联邦重犯再变成军神接班人，林半山",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "别的法子，我可没有信心和联邦军队抗衙。\n\n    李维脸上浮现出忧虑的神色。\n\n    许乐承认他的担心是有道理的，联邦宪章明确规定政府不得干涉百慕大内政，但笛卡尔的到来，还有当年果壳下属那些像七组一样的雇佣军，说明这些限制只不过是一层薄薄的纤维纸，并没有真正的约束力。\n\n    “我过来就是为了这",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，在那场谈话中，愤怒失望的公主殿下，严厉反对许乐回到联邦替那些异乡人打生打死的愚蠢决定，并且试母■用最强悍的武力手段将这种反对变成事实。\n\n    许乐没有反抗，只是在怀草诗拳头快要砸到自己脑袋上时，说出和上面那段话极类似的一番话，他说的很诚恳，诚恳到自己都觉得自己是块不会死的石头。\n\n    但东",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "但他不得不承认，那个男人身上的气魄仿佛天然生成，站在那里便像名川大山般，只需远观便能见其风采，是舍己这种矿坑石头怎样都学不来的。\n\n    此时听到李维转述的百慕大传闻，他不禁想起邰之源曾经讲过的某个联邦传闻：宪章局前任邰老局长退休之前，最看中的候选人并不是当了多年助理的崔聚冬，而是在外",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "墨花星土与保罗感动拥抱告别后，许乐和他的姐姐怀草诗曾经进行了一番没有人知道的对话，在那场谈话中，愤怒失望的公主殿下，严厉反对许乐回到联邦替那些异乡人打生打死的愚蠢决定，并且试母■用最强悍的武力手段将这种反对变成事实。\n\n    许乐没有反抗，只是在怀草诗拳头快要砸到自己脑袋上时，说出和上面那段话",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "百慕大这种异乡挥袖风雨，林半山真的很不简单。”\n\n    “自然不简单。”\n\n    李维望着他认真说道：“就像你再如何强大，甚至变成帝国太子，我也能把你当成兄弟，但像半山大兄那种人物，就算他想把我当兄弟，我都不敢。”\n\n    “他妈像天生不可能居于人下，比如一个会场，就算他安安静静坐",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "“你对他的评::}很高而且很文艺。”许乐笑着说道。\n\n    李维耸耸肩，把面前的酒一饮而尽，感慨说道：“因为那个人本来就很文艺，百慕大经常形容他的目光是专门在宇宙里赏美，你说这话酸。巴?\n\n    “但这还真贴切，所有百慕大人包括昨天你看到的那些会议巨头们，如果让他们说实话，他们绝对相信林半",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第三百四十六章 一杯酸酒，一只小手 \n\n    许乐很欣赏林半山，这种欣赏并不是七大家二代子弟林吖啁南相守他们那种仰望敬畏，而是对于自己无法拥有的某种气度的淡淡向往。\n\n    当年在首港高铁车厢中第一次看见那名双肩若山的男人时，他是果壳公司普通的技术主管，而对方已经是破门而出十余",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "许乐笑了笑，继续说道：“{旦我现在还活着，我坐着船离开帝国，穿过加里走廊，避亓宪章光辉，来到你的地盘，就这么活生生地坐在你面前，陪你吃烧烤喝酒。”\n\n    他拍拍李维肩头，认真说道：“像你我这种臭不可闻硬不可捕的东林矿坑石头，真的是想死都很难。”\n\n    墨花星土与保罗感动拥抱告别后",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "肃，实际上很无耻，许乐瞪上了他一眼。\n\n    李维无所谓地耸耸肩，然后真正严肃望着他问道：“在这么紧张的时候，你出现在百慕大，不可能就是为了给我撑腰，事实上你来之前应侯都不知道我面临的危局，你究竟想做什么？”\n\n    “这次来有四件事情，除了西林那边……\n\n    许乐眉头微皱，沉默片刻后说道：",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "乐根本没有看清少年的衣着，这小子敢对李维不客气，他的眉梢已经缓缓挑起，而当他注意到下一个画面时，浓眉骤然平缓，眼睛却眯了起来。\n\n    因为他看到面前这个小子牵着一只洁白细嫩的小手。\n\n    钟烟花的小手。\n\n    没什么争风吃醋，虽然我写的酸，但不可能掐那种事情，咳咳，三章完了，你们可以把我",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "不简单可以形容。\n\n    醉眼迷离的许乐根本没有看清少年的衣着，这小子敢对李维不客气，他的眉梢已经缓缓挑起，而当他注意到下一个画面时，浓眉骤然平缓，眼睛却眯了起来。\n\n    因为他看到面前这个小子牵着一只洁白细嫩的小手。\n\n    钟烟花的小手。\n\n    没什么争风吃醋，虽然我写的酸，但不可能",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "是给你留后路，现在既然你用不上，让你那些兄弟用上，也算没有浪费。”\n\n    接着他兴奋补了一句：“以后带着一帮七组老爷们在街面上晃荡，谁还敢惹我？这事儿想着就真给劝儿。”\n\n    “德性。”许乐笑着说道：“第四个原因，就是我要来看看你，\n\n    看看这个最老的朋友是不是还是这个德性。”",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "李维喝吐了，但他却坚持不肯承认，认为那是烤羊腿味道太过腥膻的缘故。\n\n    许乐也喝吐了，他从来没有想过周体内真气能不能化解酒精「即便能他也不舍得，因为今天喝的不止是酒，当然也不是什么见鬼的寂寞，喝的是过往。\n\n    很酸的词汇，但当时烧烤摊小方桌旁两个像小男孩儿一样的男人，就是这样想的。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

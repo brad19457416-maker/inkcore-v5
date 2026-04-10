@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 672,
+  "chapter_title": "第五十三章 南方天空的光明",
+  "filename": "ch_0672_第五十三章 南方天空的光明.txt",
+  "char_count": 3331,
+  "timestamp": "2026-04-10T12:11:26.898792",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "一道笔直的无形气浪，掀起带着血腥味的泥土和无数草屑石砾，向着北方那辆黑色马车袭去。\n　　一道身影从荒人群里掠出，用最快的速度来到桑桑身前，正是宁缺。他从身后取出大黑伞，想要撑开替她挡住这道如雷般的音浪。\n　　音浪太强，狂风呼啸，雷声轰隆，大黑伞还没有来得及完全撑开，宁缺便被刮到了十余丈后的地面上，身",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第五十三章 南方天空的光明\n　　有很多事情看上去很复杂，做起来也很复杂，只有很少人有能力在复杂如麻的事物里看到简单的核心，然后做出简洁而正确的应对。\n　　西陵神殿掌教自然有这个能力。他知道想在莽莽荒原上找出宁缺，不是",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "原地面上，对着光明的天空叩拜不停，膜拜着只在神话教典里出现过的画面。\n　　人们脸上的神情震撼而敬畏、激动而恐惧，然后尽数变成绝对的虔诚与狂热。先前因为冥王之女出现以及宁缺五箭而变得有惊恐不安黯然慌乱的他们，再次坚定了自已的信仰，获得了无数的勇气。\n　　与之相对应，当碧空白云被尽数化为光明之后，荒人部",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "可能眼睁睁看着自已的女儿死去？\n　　民众恐惧桑桑，是因为桑桑体内的阴寒气息会让人间毁灭，那么西陵神殿为什么要排出这么大的阵势？因为他们恐惧？他们为什么恐惧？\n　　佛道两宗的强者们，应该很清楚桑桑自身的实力很普通，尤其是病重之后，更是变得非常脆弱，很容易被杀死，他们恐惧只能说明，苏醒之后的桑桑，拥有令",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "下。\n　　帘后那道高大的身影也开始燃烧，无数的光与热，顺着那道身影的边缘向四周散发，辇畔残存的青草，瞬间变得焦黄一片，然后化为黑灰。\n　　巨辇旁的数十名红衣神官和神卫，拖着几名神官和罗克敌的残尸，用最快的速度离开，避开那些恐怖的光与热，然后对着巨辇跪下。\n　　光是圣洁的光辉，热是绝对的热度。\n　　无",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "不过他没有去利用这一点，而是想尽一切办法要治好桑桑的病，想要消灭或者镇压净化她体内的阴寒气息，哪怕再危险的时刻，他都不想她展现出那种未知的能力。\n　　正如桑桑曾经说过的那样，桑桑一旦真正苏醒，她就将变成冥王的女儿，那时的桑桑还是现在的桑桑吗？还是桑桑吗？\n　　……\n　　……\n　　“果然是冥王的女儿。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "出来的阴寒气息，向南方拂去。\n　　无数道寒冷的劲风，从黑鸦翅底产生，就像无数根细绳，纠结编织在一起，最终变成一根极为强韧的粗绳。\n　　雷音与寒风在桑桑身前数丈之地相遇。\n　　黑色乌鸦的嘎嘎叫声变得愈发凄厉，不时有黑色的羽毛脱落，飘下，然后粘在桑桑身体四周的冰雪面上，看着就像是白纸上多了些墨点。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "单的方法，便是让宁缺自已现身。所以他对着北方那辆孤单的黑色马车说了一句话。\n　　“冥王的女儿，你终于出现了。”\n　　掌教大人的声音很明亮，像是涂着黄金的颜色，又像天地一般宽阔，从巨辇楼阁间传出来后，却骤然凝结，变成如同实质般的雷声。\n　　雷声过处，万重纱帘无风而舞，辇畔的黄金栏杆闪闪发亮，数名神官喷",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "带着血腥味的泥土和无数草屑石砾，向着北方那辆黑色马车袭去。\n　　一道身影从荒人群里掠出，用最快的速度来到桑桑身前，正是宁缺。他从身后取出大黑伞，想要撑开替她挡住这道如雷般的音浪。\n　　音浪太强，狂风呼啸，雷声轰隆，大黑伞还没有来得及完全撑开，宁缺便被刮到了十余丈后的地面上，身上的黑色院服多了无数道极",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "着光柱下端的巨辇，看着辇中那道高大的身影，问道。\n　　“不是，当年老师的天启不是这样的。”\n　　桑桑说道，然后痛苦地咳嗽起来。\n　　南方天空投向荒原的光线，有很多落在了荒人部落附近，自然也落在了她的身上。\n　　几道极淡的白色烟气，从她身上的黑色裘衣里冒了出来，看上去就像是她的身体里在燃烧，但闻不到任",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "洁而正确的应对。\n　　西陵神殿掌教自然有这个能力。他知道想在莽莽荒原上找出宁缺，不是一件容易的事，因为人类不像苍鹰能够飞上天空俯瞰人间，更不像昊天一样可以顺九霄云上平静而慈爱地看到人间的所有细节。\n　　既然找到宁缺不容易，那么最简单的方法，便是让宁缺自已现身。所以他对着北方那辆孤单的黑色马车说了一句",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "桑的身子剧烈颤抖，显得十分痛苦，瑟缩着向宁缺的怀里躲去，就像以前的那些年一样，想要在那里寻找到安全和温暖。\n　　然而光明无处不在，她无处可躲，阴寒气息在她的体内，她躲无可躲，她只能在炽热与酷寒之间，继续承受着折磨。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 825,
+  "chapter_title": "第一百八十一章 向冷兵器时代狂奔四",
+  "filename": "ch_0825_第一百八十一章 向冷兵器时代狂奔四.txt",
+  "char_count": 3747,
+  "timestamp": "2026-04-10T12:05:17.599917",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的是，许乐一直是这些人当中的一员。\n\n    在电光火石间，在沉闷狙击枪声中，他像金鱼般弹起，像被被风卷起的树叶般收回四肢，再像铁板上的米浆片般向左倾斜滚去，最后变成了一颗弹性惊人的玻璃球，脚尖在道路中间的隔离墩上一点，整个收缩的身体嗖的一声向街道那边弹了出去。\n\n    五颗恐怖的狙击子弹擦着他的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "取出衣中的枪械，而是闭着眼睛，狠狠的一拳砸向了墙面。\n\n    自幼被大叔逼迫着修练那股神秘的力量，进入帝国后经脉尽碎，却反而得到了突破，如今的他的身体内一直流淌着最强大的力量，混着这服力量的拳头，直接将墙角墙垮一部分，话下一大堆乱七八糟的坚硬建筑水泥块。\n\n    烟雾升腾，对面那个战斗小组的射击",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的西林士兵承担责任。\n\n    习惯了胜利的联邦民众，看着新闻画面上那些惨烈的战场画面，或流泪悲伤或愤怒，但更圣的是第一次看到失败后的深处恐惧，民众们这才明白，战争是多么可怕的事情，稍有不慎，联邦便会陷入恐怖的未来。\n\n    焦头烂额的联邦政府，还没有来得及做出任何反应，前线紧接着迎来了又一次惨痛",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "头深陷入地似雪，许乐的人却没有受一点伤。\n\n    避开了经过精准弹道计算调校的第一波射击，他的心情轻松很多，结实的大腿颢抖着，震动身体如玻璃弹珠向街对面俾去，知道后续的射击已经无法再威胁到自己。\n\n    远处楼宇中的狙击手不停开火，坚硬的树木，树脂隔离墩，不时被轰出一个个恐怖的空洞，各种材质的碎",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "要这么麻烦的身体动作。\n\n    当时 的情况可以这样形容，当楼顶那些狙击手找到他，并且想要杀死他的瞬间，许乐就知道了这一切，然后开始躲避。\n\n    灼热的感受催促肌肉双纤维剧烈的挤压，倒向地面的身体剧烈颤抖，就像被电流击中的金鱼，猛地弹了起来，避开了紧接看到来的第二枪，第三枪，一直到第五枪。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，准备赶在政府后续武装人员之前，回到属于自 己的地下世界。迎接他的是密集的枪火。\n\n    一个军方战斗小组占据了地下通道的那头，没有经过任何喊话，便开始向这边射击，枪火喷射的声音，响彻整个通道，时不时有水泥碎片从头上掉落，空气里充满焚烧的味道。\n\n    把身体藏在箱子后面的许乐皱着眉头沉就片刻，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "自幼被大叔逼迫着修练那股神秘的力量，进入帝国后经脉尽碎，却反而得到了突破，如今的他的身体内一直流淌着最强大的力量，混着这服力量的拳头，直接将墙角墙垮一部分，话下一大堆乱七八糟的坚硬建筑水泥块。\n\n    烟雾升腾，对面那个战斗小组的射击声稍微缓了一些，似乎正在猜测许乐身边生了 什么事情。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "淡地损失了大量部队。虽然在军事专家看来，那个来自第四军区的营与团，对于整场战争来说根本不具有什么实际意义上的影响，但不知道因为什么，联邦新闻媒体对运场失败进行了很罕见的密集报道。\n\n    各新闻媒体直接将这次战 事失败的责任归到联邦政府，认为在这样关键的时刻，政府盲目要求没有受到足够战场培训的四军",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "在军事专家看来，那个来自第四军区的营与团，对于整场战争来说根本不具有什么实际意义上的影响，但不知道因为什么，联邦新闻媒体对运场失败进行了很罕见的密集报道。\n\n    各新闻媒体直接将这次战 事失败的责任归到联邦政府，认为在这样关键的时刻，政府盲目要求没有受到足够战场培训的四军区部队离开西林，前往帝国",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "邦新闻频道，这时候正在播放一个特别节日。\n\n    上个月，在与帝国战争中节节胜利的联邦，终于迎来了第一次沉重硌打击，在墨花星球的\n\n    战事中，联邦部队因为某些原因，异常惨淡地损失了大量部队。虽然在军事专家看来，那个来自第四军区的营与团，对于整场战争来说根本不具有什么实际意义上的影响，但不知道",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "时间极短，那么……\n\n    新闻频 道女主播打断了专家的喋喋不休，擂着耳机听着导播的吩咐，有些匆忙说道：“根据刚刚收到的画面，似乎总统先生并不满意官邸主管的安排，他自己还有一些话要说。”\n\n    画面转到了总统官邸新闻布窒，脸色黝黑的帕布尔总统望着镜头说道：“在当前这种时刻，许乐上校，如果你真是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "第一百八十一章 向冷兵器时代狂奔四 \n\n    倒下了，当然得爬起来，除非是你生命中最后一次倒下。\n\n    从倒下到爬起中间，可能需要一整个不停做梦的晚上，又或许只是几句带着难闻唾沫的咒骂，总之你的腰肢腿部的肌肉需要收缩或",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "般爆裂，露出那个号称费城修身第三强者的中年人苍白恐惧的脸，还有额头上那抹清楚的鲜血，然后他在许乐面前缓缓跪下，双眼一闭昏迷不醒。\n\n    这次小眼睛战斗部队和小眼睛男人的第一次正面战斗，以前者全军尽覆而结 束，这些联邦最精锐的特种士兵，就像他们那个刚刚从狐狸堡回来的特殊指挥官一样，可怜地躺在冰冷的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

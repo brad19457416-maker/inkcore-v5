@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 26,
+  "chapter_title": "第二十六章 霸王卸甲",
+  "filename": "ch_0026_第二十六章 霸王卸甲.txt",
+  "char_count": 2525,
+  "timestamp": "2026-04-10T11:53:11.031939",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "看到了那个一头花白头发的机修师疲惫的面孔和大腿上的伤口，他的心里松了一口气，一个赤手空拳的前任军人，危险性应该大不如前。\n\n    可不知道为什么，莱克上校依然没有发布攻击的命令，因为他总有一种很怪异的感觉，如果在这个距离上发动攻击……目标说不定真的可以趁乱逃走，虽然说这从逻辑上是说不通的事情，可是",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "第二十六章 霸王卸甲 \n\n    一幅画面落在不同人的眼中，代表着完全不同的意义。\n\n    山谷包围圈一处高大乔木的后方，一辆被漆成哑光的Ｍ52就像一头打盹的老虎一样，悄无声息，以难看却实用的姿式侧蹲着。这是联邦军方装甲最厚，火力最猛的单兵机甲，两根合金机械腿被军人们戏称为",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "和大腿上的伤口，他的心里松了一口气，一个赤手空拳的前任军人，危险性应该大不如前。\n\n    可不知道为什么，莱克上校依然没有发布攻击的命令，因为他总有一种很怪异的感觉，如果在这个距离上发动攻击……目标说不定真的可以趁乱逃走，虽然说这从逻辑上是说不通的事情，可是十几年前，山谷里那个满脸惘然的机修师似乎",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "下，依然能够保持准确。\n\n    中程武器系统早已在追击的过程中充能完毕，在收到目标1具体方位的那一瞬间，全体追击队形锋头一转，直接将那道小小的山谷封闭了起来。然而莱克上校并没有发起火力覆盖的命令，虽然说在十一台Ｍ52的链式覆盖攻击下，应该没有任何碳基生命还能存活下来，可是在没有看到目标之前，莱克上",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "样，悄无声息，以难看却实用的姿式侧蹲着。这是联邦军方装甲最厚，火力最猛的单兵机甲，两根合金机械腿被军人们戏称为青蛙腿。就在青蛙腿的上方，莱克上校坐在操作舱内，警惕地注视着前方。\n\n    以一点四公里为基准距离，第四军区远道而来的特种机甲小组队员分散在这片山谷四周。莱克上校是他们的头儿，自然有信心自",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，不从山坡上摔落。而大树后直面封余攻击的机甲，则已经是向后倒了下去，看上去凄惨不堪。\n\n    向着天空喷射而出的机甲，被暮色照耀成了令人心悸的血水，就在血水幕帘的那一方，在巨大的机甲面前，显得无比渺小的那个身影，却显得格外强大。\n\n    这一刻，山谷里的特种机甲队员和东林警备区特种兵们，全部都怔",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "能力格外自信的莱克上校心头生出一丝寒意，越发地不自信起来。\n\n    尤其是当他发现机修师开始猥琐地颤抖起来，一股强烈的不安占据了他的全身，让他再也不想再等，直接对小组里的十名队员发出了远程攻击的命令！\n\n    然而……光幕上的机修师似乎能够准确地计算到联邦特种机甲小组的心态，就在远程攻击命令还没",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "年与帝国的战争之中，第四军区强悍的战斗力量得到了整个联邦的尊敬和信任。然而今天面对着突如其来的变故，一向冷漠坚毅的莱克上校依然感到了一阵心神摇荡，因为他发现此次行动的目标所展现出来的实力，是在战场上没有见过的，也是在第二军事学院没有学过的。\n\n    然而联邦军人强硬的神经，让山谷里的整个队形依然只",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "了过去，整个包围圈没有任何漏洞，他在心中替自己的队员担心。\n\n    然而下一刻，他的眼瞳微缩，心情沉重而决然地按下了身旁的按钮。从此刻起，敌我识辩系统职消，无限制攻击开始，那台被轰断液压管的机甲，也成了无数火力的攻击目标！\n\n    因为他发现，机修师如鬼魅一样的身影，已经爬到了那台跛了的机甲腹部",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "着五台Ｍ52顺着山谷的道路，最快的速度向着那边扑了过去，整个包围圈没有任何漏洞，他在心中替自己的队员担心。\n\n    然而下一刻，他的眼瞳微缩，心情沉重而决然地按下了身旁的按钮。从此刻起，敌我识辩系统职消，无限制攻击开始，那台被轰断液压管的机甲，也成了无数火力的攻击目标！\n\n    因为他发现，机修",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 682,
+  "chapter_title": "第四十六章 疯狗、死亡、大自私",
+  "filename": "ch_0682_第四十六章 疯狗、死亡、大自私.txt",
+  "char_count": 3487,
+  "timestamp": "2026-04-10T12:05:08.589455",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "“只有黑暗和安静。”\n\n    “不，连黑暗和安静都没有。”\n\n    “我不知道自己曾经存在过，做过些什么事情，没有什么痕迹证明我曾经出现过，我消失了或许有人在乎，可我感受不到他们的在乎。”\n\n    “因为死亡里连…我……都没有。”\n\n    “这个很可怕。”\n\n    “太可怕了。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "至滚烫。\n\n    贫民区里那座温暖的小院，那对以人世间最大善意对待自己的母子，此刻正陷于前所未有的危机之中，如果苏珊母子真的出了意外，他不能接受。\n\n    “不是也许，是一定。”\n\n    “如果大妈母子出了任何问题，这次又让我逃了出去，我将用整整后半生的时间，不惜一切代价杀死我能找到的帝国贵族",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "“怎样的欢愉？”他像玩世不恭的下属们那样耸了耸肩膀，带动伤口，蹙了蹙眉，又迅散开，笑着说道：“人类社会的教育规条太过强大，已经深入了我们的意识之中，敬老爱幼，忠诚正直，这些道德观点就像是一个鞭子，如果碰触它，心便会被抽一记，有些人能忍，以换取金钱权势之类的东西，我却想不明白为什么要忍，我就按照这些",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "“我怕死，这个世界上没有不怕死的人，我四岁的时候躺在卧室的房间内，看着时而灰凛凛，时而红通通的天空呆，那失我生病，我很难过，现四周的景色不会变，我们却会病。当然，病了会难受，我不在乎，可问题是病重了会死，人老了也会死，人死之后连难受都不知道是什么了。\n\n    他抬起唯一能勉强抬起的左臂，抹掉",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "亮中年男人，你这次也没有办法抓住我。\n\n    “抓不住我，天京星就会不停流血。”\n\n    “因为愤怒而处死一对没有任何危险的母子，从而逼着我变成一条疯狗，对你，对你们的皇帝，对你们帝国，应该都没有任何好处。”\n\n    说完这句话，许乐停止了自己的话语，黑暗的囚室回复安静，只有两个人悠长而沉稳的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "”\n\n    许乐沉默。\n\n    怀草诗同样沉默。\n\n    “虽然我并不认为你能逃出去，但不知道为什么，我愿意答应你的要求，放你那位大妈一次。”怀草诗面无表情说道：“按照先前的说法，你要答应我一个条件，当然，这个条件与你我双方之间的战争没有任何关系。”\n\n    “好。”许乐语极快地回答道，背上",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，连黑暗和安静都没有。”\n\n    “我不知道自己曾经存在过，做过些什么事情，没有什么痕迹证明我曾经出现过，我消失了或许有人在乎，可我感受不到他们的在乎。”\n\n    “因为死亡里连…我……都没有。”\n\n    “这个很可怕。”\n\n    “太可怕了。”\n\n    许乐抬起头来，非常认真地说道：“这",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "。”\n\n    “你是在威胁我？你现在还有什么资本能够威胁到我？”怀草诗蹙着眉头，带着一丝难以捉摸的感慨气息说道。\n\n    殿下的感慨来自于许乐那番自我陈述，她没有想到，对面那个在联邦以沉稳隐忍著称的年轻男人，居然能如此平静地述说一条疯狗的诞生，而且……真的让她感到了一丝寒意。\n\n    明明这个",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "团火，看到那些不公平的事儿，恶心的事儿，我就忍不住要烧一把，烧干净那些东西，自己便觉得双眼清静，心情愉快。”\n\n    “这么活着，不见得内心强大，却足够舒服。”\n\n    “我怕死，也不是什么正义使者、四有青年，我只是一个按照自己的喜恶，道德的鞭子生存，以寻求人生快乐的家伙。”\n\n    “可如果",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "本来就是一个玩笑话，只是这种玩笑有些恶毒，直指那些道德贩子的本心。\n\n    许乐安静听着，然后如常缓缓开口回答道：“不，我当然不会自杀，但我也不是你说的那种人，关于这一点……不解释。”\n\n    他目光明亮灼人，没有任何情绪盯着对面黑暗破墙下的怀草诗，说道：“任何人试图伤害无辜的大妈，包括你在内，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "第四十六章 疯狗、死亡、大自私 \n\n    母亲和妻子同时落河，轨道两边分别站着一个无错误的小孩子和一大群顽劣的小孩儿，刑具上面捆着你挚爱的亲人，再加上怀草诗此时嘲讽轻蔑说出的这句话，是人世间最常见的问题，这些问题可能会令很多人感到挣扎，从内到外，从根到",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "那种人，关于这一点……不解释。”\n\n    他目光明亮灼人，没有任何情绪盯着对面黑暗破墙下的怀草诗，说道：“任何人试图伤害无辜的大妈，包括你在内，我所能做出的反应，只能是用尽一切方法和力量去扑杀对方，然后去救他们。”\n\n    扑杀？像一只野兽般扑杀自己还有整个帝国的钢铁机构？怀草诗双眼微眯，淡嘲笑",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "？”\n\n    “也许。”\n\n    许乐望着对面墙的目光依然明亮甚至滚烫。\n\n    贫民区里那座温暖的小院，那对以人世间最大善意对待自己的母子，此刻正陷于前所未有的危机之中，如果苏珊母子真的出了意外，他不能接受。\n\n    “不是也许，是一定。”\n\n    “如果大妈母子出了任何问题，这次又让我",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

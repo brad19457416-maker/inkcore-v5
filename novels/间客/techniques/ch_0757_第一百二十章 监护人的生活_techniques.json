@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 757,
+  "chapter_title": "第一百二十章 监护人的生活",
+  "filename": "ch_0757_第一百二十章 监护人的生活.txt",
+  "char_count": 2342,
+  "timestamp": "2026-04-10T12:05:17.556924",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "安排做这件事情，是引的大人物要把你赶的远远的，那她为什么也来了？一个军械测试可用不着你们两个技术天才同时在场吧？小说^t*xt-天.堂",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的生活 \n\n    对于军神李匹夫的辞世，西林民众的表现相对而言要比较平静些，这大概是因为与帝国惨烈战斗数十年的他们，见过了太多的生死别离，而且历史上西林向来不缺乏英雄，尤其是前两年，他们刚刚送走了自己的英雄，所以他们对老人的离去表示了哀悼，展现出最真诚的敬重，生活却快地回复了平静。\n\n    事实",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "然生出淡淡骄傲，难以控制的笑出声来。\n\n    钟司令夫妻去世，面前这个粉雕玉琢的小姑娘是自己必须尽全力照料的家人，只是他根本没有想到，小西瓜在学习方面居然拥有如此过人的天赋，十二岁不到，就已经将高中的课程全部学完。\n\n    “如果你对这些感兴趣，有一本科普读物叫量子物理史话，你可以先看看。”",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "多的生死别离，而且历史上西林向来不缺乏英雄，尤其是前两年，他们刚刚送走了自己的英雄，所以他们对老人的离去表示了哀悼，展现出最真诚的敬重，生活却快地回复了平静。\n\n    事实上无论谁生谁死，宇宙总是会按照既有的模样展下去，哪怕是都星圈的人们，依然必须把主要的精力投注于自己的工作，学习，或者在网上对那",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "和果壳机动公司技术部门负责，许乐所需要做的，只走出席几次加重友谊的酒会，安抚一下木恩先生这群异乡人的愤怒，除此之外便再也没有什么事情好做。\n\n    于是他开始沉默地做监护人，按照多年来养成的人生态度轴一做什么爱什么更要做好一一努力地扮演着男性保姓的角色。\n\n    这种生活看上去似乎有些枯燥乏味单",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "异乡人的愤怒，除此之外便再也没有什么事情好做。\n\n    于是他开始沉默地做监护人，按照多年来养成的人生态度轴一做什么爱什么更要做好一一努力地扮演着男性保姓的角色。\n\n    这种生活看上去似乎有些枯燥乏味单调，但许乐很能适应，因为这种枯燥乏味单调里有他很喜欢的平静日子四个字，和充满了血火硝烟的战场",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "火硝烟的战场、充斥着阴谋暴力的名利场比起来，他觉得现如今的生活如同在云中一般轻柔幸福。\n\n    “为什么我们一观察，电子的波涵数就开始坍缩了呢？”\n\n    穿着粉色睡裙的钟烟花，缩在沙一角，轻轻咬着电子笔的末梢，疑惑无比地问道……卜女孩儿还没有满十二岁，少女的清俊模样却已经非常清晰，而那双露在睡",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "生活却快地回复了平静。\n\n    事实上无论谁生谁死，宇宙总是会按照既有的模样展下去，哪怕是都星圈的人们，依然必须把主要的精力投注于自己的工作，学习，或者在网上对那些无耻的垄断企业出自己的声讨，这才是生活。\n\n    清晨的时候，许乐牵着小西瓜的手走进了学校，在教师和同学们敬畏的目光中微笑告别……小",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "对这些感兴趣，有一本科普读物叫量子物理史话，你可以先看看。”\n\n    钟烟花像大人那般耸耸肩，可爱说道：“那本书我已经看完了，不过我必须承认，有很多地方看不懂，哥哥，大家都说你是天才，那你应该能讲的更清楚一些。”\n\n    “理论物理向来是我的短项。”许乐也耸了耸肩，说道：“我在研究所跟着沈教授学",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "高大的书架后，只是因为阳光照射角度生了变化，所以他挑了另一边向西的窗户，默默地继续看书，偶尔拿起军用水壶喝几口清水。\n\n    铃声再次响起，他又去教学楼下面等着，又经历了一遍那位年轻女教师羞怯倾慕目光的洗礼，虽然已经被这位女教师和学校里更多的年轻女教师这般看了几个月时间，可他还是窘迫，于是又低下了",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "要的时间有些长，这时候往往钟烟花已经把自己洗的干干净净，拿着那块极大的白色毛巾，蹦蹦跳跳地跑下楼，安安静静地站到他的身前，然后低头钻进白色的毛巾里。\n\n    快简单甚至有些粗暴地替小女孩儿擦干头上的湿意，许乐嘴里叼着的烟卷经常会漏下些许烟灰，在这种时候，他经常会眯着眼睛回忆今天家长手册上的家庭作业",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "子四个字，和充满了血火硝烟的战场、充斥着阴谋暴力的名利场比起来，他觉得现如今的生活如同在云中一般轻柔幸福。\n\n    “为什么我们一观察，电子的波涵数就开始坍缩了呢？”\n\n    穿着粉色睡裙的钟烟花，缩在沙一角，轻轻咬着电子笔的末梢，疑惑无比地问道……卜女孩儿还没有满十二岁，少女的清俊模样却已经非",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

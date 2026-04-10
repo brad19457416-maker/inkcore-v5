@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 707,
+  "chapter_title": "第七十章 英雄的归来（上）",
+  "filename": "ch_0707_第七十章 英雄的归来（上）.txt",
+  "char_count": 9892,
+  "timestamp": "2026-04-10T12:05:17.546037",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的航道图，同时一个醒目的光点标明了联邦中央电脑要求联邦舰队前往的地点。\n\n    “二，所有参战部队紧急待命，全体机甲部队做好登舰准备。一旦舰队救援失败，或提前判断无法救援，目标进入可生存星球，马上进行强行登陆作战。”\n\n    “三，此次计划以救援该目标返回为全部任务。”\n\n    “四，该目标是",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "被异国的风卷着从远至近，翻滚着越来越大，如惊雷一般传入耳中。他蹙着眉头抬起头来，有些幽怨地望向人群，心想爷死了你们至于这么开心吗？\n\n    紧接着他才现事情有些不对，因为那些执行枪决任务的宪兵们不知道为什么放下了手中的枪，然后兴奋地欢呼了起来。\n\n    到底生了什么？\n\n    联邦部队前进基地",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "于师长的努力没有取得任何成效，自然也就没有任何奇迹。\n\n    内务处的军官匆匆走来，穿过宪兵组成的人群，向刑场正中央的白玉兰宣读了军事法庭的宣判结果，白玉兰有些困难地点了点头，然后说了几句什么，因为隔的太远的缘故，外面的士兵们都听不到他们说话的内容。\n\n    基地这处角落渐渐变得安静起来，很多人",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "属于宪章局的三翼舰，在场的所有联邦军官以及数十万联邦战士，都不可能接受推迟进攻Ｂ星系的计划，冒着无数风险如此疯狂而没有准备地执行这个莫名其妙的救援任务。\n\n    “我们在那边有信号中继站吗？”司令员恼火问道。\n\n    “刚刚开始铺网，以前的潜伏设备能启动的不多。”参谋回答道。\n\n    “那这是",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "快的度消失不见，最令人感到震惊的是，三维星图竟然开始自行调整视角，那些光点凝成的行星与航道瞬间转移，来到了另一个有些陌生的宇宙背景之中。\n\n    “这是……19的正65度角视图？”司令部参谋震惊地看着这幕画面，有些不敢相信自己眼睛，赶紧低头去看手中的控制台，紧张解释道：“可能是运算程序出了问题。”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "“警告，此为第一序列事件。”\n\n    联邦中央电脑根本没有理会这些高级将领们的震惊疑惑不解愤怒，平稳却又带着一股不容抗拒的味道，说出一个令所有人更加震惊疑惑不解的事实。\n\n    “再次警告，此为第一序列事件。”\n\n    深入帝国星域之中的联邦部队，都是身经百战的铁血之师，这些震惊站在会",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "进行了修整，放入控制台的读取器中。\n\n    看着读取器上的线状显示，他轻轻抿了抿干的嘴唇，神情认真说道：“这是帝国地下抵抗组织给我的一份情报，没有什么证据，有些含糊，但应该和古钟号遇袭有关，我们过来之前已经把情报传回了引，那颗最后的帝国种子应该已经死了，可不知道为什么，我总觉得事情有些古怪。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "我能得出结论的事。”\n\n    宪章电脑沉默片刻后，继续说道：“我会不会被我吞噬，吞噬之后会不会继续存在自我的意识，这确实是个问题，之所以我一直在帝国境内流浪，明明有机会，却一直不肯和联邦方面联系，是不是因为我的核心程序异妾之后生成的类生物本能意识让我产生了某种如你们面临死亡时的恐惧情绪，从而默默地",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "电脑轻声回答道：“我让三翼舰留守在帝国，其实并不符合推算后的结果，按照推算，你应该已经死了。但不知道为什么，我还是留了下来，或许是因为根据第一宪章神圣条例，在这个充满冰冷星球和射线的宇宙里，我只能和你进行交流，如果没有你，我就再也没有说话的对象。”\n\n    听着宪章电脑平静的自我分析，许乐心中生出",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "最令人感到震惊的是，三维星图竟然开始自行调整视角，那些光点凝成的行星与航道瞬间转移，来到了另一个有些陌生的宇宙背景之中。\n\n    “这是……19的正65度角视图？”司令部参谋震惊地看着这幕画面，有些不敢相信自己眼睛，赶紧低头去看手中的控制台，紧张解释道：“可能是运算程序出了问题。”\n\n    易长",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "9的正65度角视图？”司令部参谋震惊地看着这幕画面，有些不敢相信自己眼睛，赶紧低头去看手中的控制台，紧张解释道：“可能是运算程序出了问题。”\n\n    易长天司令的表情愈沉郁，不过他并没有动怒，他也来不及动怒，因为紧接着生的一切，证明眼前的怪异景象并不是运算荐序出了问题，而是……联邦中央电脑认为帝国",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "雪般，以极快的度消失不见，最令人感到震惊的是，三维星图竟然开始自行调整视角，那些光点凝成的行星与航道瞬间转移，来到了另一个有些陌生的宇宙背景之中。\n\n    “这是……19的正65度角视图？”司令部参谋震惊地看着这幕画面，有些不敢相信自己眼睛，赶紧低头去看手中的控制台，紧张解释道：“可能是运算程序出",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "黑夜里走钢索，却每一步都没有踏偏。”\n\n    “有可能是那名帝国种子给的情报。”\n\n    “我更担心宪章局出现了问题。”许再带着一抹沉重说道：“回去之后，你帮着查一下。”\n\n    “确实需要回去。这艘三翼舰虽然配备了最先进的运算平台，但计算能力还是严重不足，尤其是和宪章局地下我的家比起和……，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "所有联邦高级军官同时愕然，他们疑惑不解地看着中央的三维星图，就连冰山崩于前也面不改色的杜少卿师长，也缓缓地摘下了鼻梁上的墨镜。\n\n    因为那个正在不停演绎冶星系进攻计划的三维星图……忽然停止，那些代表联邦和帝国舰队、陆基部队的色块线条，就像是遇着烈日的春雪般，以极快的度消失不见，最令人感到震惊的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "系那条隐秘的走私航道，近十三个小时安宁的航程，几乎让许乐忘记了自己还在帝国星域之中，还是在进行逃亡，同时，三翼舰上的老东西因为缺乏必要的装备，没有办法能够提前现那些像深草饿狼般隐藏在陨石带背后的帝国战舰。\n\n    木恩曾经说过，帝**方如今正在扫荡这片星域的走私航道，再隐秘的航道星域四周，都有战舰",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

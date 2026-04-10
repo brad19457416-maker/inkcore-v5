@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 79,
+  "chapter_title": "第十八章 今夜雨夹雪",
+  "filename": "ch_0079_第十八章 今夜雨夹雪.txt",
+  "char_count": 3324,
+  "timestamp": "2026-04-10T11:53:35.138790",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "秋有些寒冷，许乐不是一个冲动的人，他已经做好了准备，穿上了保暖内衣，外面套了那件在机场得到的绿色军用风衣，正是和张小萌第一次相遇时穿的那件，一来保暖，二来可以让对方睹衣思人，这已经是初涉情场的许乐所能想到最周全的安排。\n\n    然而他错误估计了老天爷对这种桥段的厌烦程度，一场淅淅沥沥的寒冷秋雨无由",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，舞会的时候再问清楚也行。梅园七楼的窗户上出现了张小萌的脸颊，她有些落寞地看着许乐在薄雪地里的脚印，心想他大概真的对自己绝望了。\n\n    许乐没有回去洗热水澡然后睡觉，一来时间已经不多，二来他这些年锻炼的无比强悍的身体似乎也从来没有感冒方面的困扰，三来他的心里有一团火，没有明亮颜色的火，让他无比郁",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "课堂里想起男学生们地哄笑声，倒彩声，周教授却是根本不在乎。自顾自兴奋地讲了下去。\n\n    “那我为什么要花时间讲这些呢？那是因为无论是将来你们有可能接触到的机甲，或者是那些自行装甲车，自行炮，其实归根结底……它们每个都是一个小型战舰或者说微型战舰，决定它们性能和战斗力的，还是结构，控制，动力这三",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "到了某种收获.\n\n    “机甲就是一个小战舰。”许乐在心里重复着周教授的话。回想着自己在古钟号上的第一次修复，在区里翻阅的大量型机甲图纸，再联系到最近这些夜晚在区地亲手操作，他对于周教授的理论有了更深一层的认识。并且联想到了更奇怪的方向。\n\n    因为大叔当年对他说过，人体才是第一序列地机器。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "或者是那些自行装甲车，自行炮，其实归根结底……它们每个都是一个小型战舰或者说微型战舰，决定它们性能和战斗力的，还是结构，控制，动力这三大系统！”\n\n    “妈妈的，忽然想到你们将来都是要往民用方面发展地家伙……这堂课算是白上了。”\n\n    课堂上又是一阵哄笑声……只有许乐没有笑。他也没有盯着张小",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "人体所需的能量，贮存在人体内里，成为脂肪、血糖，呼吸的氧气进入血液，然后在体内开始用它们的方式燃烧，为人体提供源源不绝的能量.\n\n    许乐沉默地思考着，暗想自己的身体似乎在后两个系统方面都与一般的人不一样了，比如自己操控机甲时。大脑意识好像经由了一条全新的通道传递到了四肢。而体内那股神奇地颤抖力",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "一般的人不一样了，比如自己操控机甲时。大脑意识好像经由了一条全新的通道传递到了四肢。而体内那股神奇地颤抖力量，明显不是仅仅靠正常地方法就能暴发……自己每次尝试后都会变得那么饿。应该就是与这种能量的特质有关吧？\n\n    对于这样地推测结果，许乐感到满意，他抬起头来看到那个女孩儿的背影，又开始感到不满",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "量，终究也是要归到动力输出当中。当然，你要说陆军用的炮弹，那你当我没说。”\n\n    “三大系统不仅存在于宏观的范畴中，更是战舰上每个具体部位的细节构成，只有这三大系统能够完美地协调合作，才能……”\n\n    “当然，羽系列的战舰早就退役了，现在联邦晶石资源枯竭，估计你们也没有多少坐上战舰的机会。\\",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "周教授却是根本不在乎。自顾自兴奋地讲了下去。\n\n    “那我为什么要花时间讲这些呢？那是因为无论是将来你们有可能接触到的机甲，或者是那些自行装甲车，自行炮，其实归根结底……它们每个都是一个小型战舰或者说微型战舰，决定它们性能和战斗力的，还是结构，控制，动力这三大系统！”\n\n    “妈妈的，忽然想",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "自然是人体进食的食物通过消化吸收器官变成了人体所需的能量，贮存在人体内里，成为脂肪、血糖，呼吸的氧气进入血液，然后在体内开始用它们的方式燃烧，为人体提供源源不绝的能量.\n\n    许乐沉默地思考着，暗想自己的身体似乎在后两个系统方面都与一般的人不一样了，比如自己操控机甲时。大脑意识好像经由了一条全新",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "钻进了被窝。\n\n    电话断了，许乐却没有离开梅园，他觉得自己的心里空荡荡，如果得不到那个女孩儿的温暖或话语来填满，似乎将永远地空下去。这是他的初恋，至少……也是她的初夜，他认为两个人都应该珍惜。\n\n    所以他表现的很珍惜，很努力，所以他一直站在梅园等着。\n\n    深秋有些寒冷，许乐不是一个",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "授声音极大，以至于夹在他衬衣口袋上的微型扬声器都发出了抗议的噪声。他盯着教室里的那些男学生，不屑一顾说道：“只有喜欢看杂志的小男孩儿才会这么浅显地看待问题，认识问题。不要忘记，这三大系统才是一切构成的根基……我们就拿羽系列战舰来说，它上面的三门激光主炮由什么构成？超强合金基台和晶石转化器！传动控制校",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

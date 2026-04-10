@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 501,
+  "chapter_title": "第八章 此去拜佛好不好",
+  "filename": "ch_0501_第八章 此去拜佛好不好.txt",
+  "char_count": 3259,
+  "timestamp": "2026-04-10T12:11:26.513793",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "由你自己定义，正如人之所以为人，是因为我们相信我们是人，只有我们才能给出人的定义，而不能由昊天或别的存在来定义。”\n　　宁缺苦笑说道：“老师这话很有道理……学生不是在拍马屁，是真心觉得有道理，不过也只有您才有资格说这种话。”\n　　夫子说道：“这话不是我说的，是你小师叔当年说的。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "拗口，宁缺却听的很清楚，大概明白了老师对明字卷的态度，思忖片刻后问道：“既然佛宗的预言并不紧要，弟子为什么要去烂柯寺？”\n　　夫子反问道：“烂柯寺最出名的是什么？”\n　　“想来应该是和尚？”\n　　宁缺在心里这般想着，却知道如果说出这个答案，必然会被老师当头一顿痛骂，忽然间忆起隆庆皇子入长安前的那些传",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "真的很难想像，如今世上有人曾经看过七卷天书。\n　　所以当听到夫子理所当然的回答之后，他很是震惊无语，心想即便老师你是世上最了不起的人，但道门和书院的关系如此糟糕，知守观里的道士们怎么可能把七卷天书借给你看？\n　　夫子知道他在想些什么，说道：“我喜欢看书，当年特别想看天书上的内容，总不能说那些道士们不",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "当然。”\n　　宁缺抬起头来望向他，眼睛里全是无辜和乞怜的神情，就如同刚睁开眼睛的小猫眯，因为饥饿和对陌生世界的恐惧而无比楚楚。\n　　“每个人的生命都是独一无二的，就算世间无数生命加起来，也不过和我的生命一样独一无二，老师你可不能想不开啊。”\n　　夫子看着他严肃说道：“以一己之性命，换世间亿民之安全，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "那些不为世人所知的佚事，形成了一种很特殊的氛围，无论你再如何腼腆矜持，在书院这种氛围里处的时间长了，最终都会不知不觉骄傲起来。\n　　更何况，宁缺从来就不是一个腼腆矜持的人，他啧啧称奇，然后才想起自己先前想问的那个问题：“佛在明字卷上的留言到底是什么？”\n　　夫子说道：“我说过，你什么时候能把那本书看",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "身为唐人是值得骄傲的事情，身为书院弟子更是如此。小师叔在世间留下的威名，师兄们偶现红尘便掀起的风雨，尤其是夫子身上那些不为世人所知的佚事，形成了一种很特殊的氛围，无论你再如何腼腆矜持，在书院这种氛围里处的时间长了，最终都会不知不觉骄傲起来。\n　　更何况，宁缺从来就不是一个腼腆矜持的人，他啧啧称",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "佛两宗弄这盂兰节，只怕是想用佛光镇住冥界。”\n　　但凡说得兴起，人们才会拍大腿，夫子此时的心情也比较激动，只是他想着拍大腿的动作看上去有些不雅，与自己高山仰止的形象不合，所以他没有拍自己的大腿，而是重重地拍到了宁缺的大腿上。\n　　感受着腿上传来的辣痛，宁缺脸色骤变，张开了嘴，还没有来得及呼痛，便听着",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "但道门和书院的关系如此糟糕，知守观里的道士们怎么可能把七卷天书借给你看？\n　　夫子知道他在想些什么，说道：“我喜欢看书，当年特别想看天书上的内容，总不能说那些道士们不给看，便不看了。”\n　　宁缺听懂了老师这句话里隐藏着的意思，倒吸一口冷气，说道：“难道你闯进知守观强行看了那七卷天书？这和强盗有什么分",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "错不错，既然是人做人便好，为何一定要做什么圣人，你这家伙想的倒是透彻，在为师看来，你既然能想的正确，将来想必你也不会做什么乱七八糟的错事，我很欣慰啊，哈哈。”\n　　夜色中，过于爽朗甚至显得有些嚣张的笑声，在绝壁间不停回荡，然后渐渐消失，宁缺依然无措至极，不知该说些什么。\n　　夫子看着他微笑说道：“冥",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "么。\n　　夫子看着他微笑说道：“冥王之子需要定义，却不能由人类来定义，只能由你自己定义，正如人之所以为人，是因为我们相信我们是人，只有我们才能给出人的定义，而不能由昊天或别的存在来定义。”\n　　宁缺苦笑说道：“老师这话很有道理……学生不是在拍马屁，是真心觉得有道理，不过也只有您才有资格说这种话。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。”\n　　宁缺说道：“冥界如果真要入侵，哪里是说几句好话便能打发的？再说了，我想如果真有冥界，那里的人们也不会爱吃香烛元宝。”\n　　夫子重重一拍大腿，说道：“对啊！说好话有用还用修行干嘛？所以我一直在想，道佛两宗弄这盂兰节，只怕是想用佛光镇住冥界。”\n　　但凡说得兴起，人们才会拍大腿，夫子此时的心情",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "“法入末时，夜临，月现。”\n　　夫子看着绝壁上空的满天繁星，说道：“前一句自然指的便是佛宗所言末法时代，夜临便是冥界入侵，然而月是何物？月轮国以此得名，月必然是轮转之物，去年今夜你曾经说过几句，然而谁曾见过？”\n　　他转头看着宁缺说道：“之所以不懂，因为那本来就是预言，先前我说过，如果预言有用的话",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

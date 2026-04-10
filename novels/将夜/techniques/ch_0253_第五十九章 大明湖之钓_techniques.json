@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 253,
+  "chapter_title": "第五十九章 大明湖之钓",
+  "filename": "ch_0253_第五十九章 大明湖之钓.txt",
+  "char_count": 3333,
+  "timestamp": "2026-04-10T12:11:21.670470",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第五十九章 大明湖之钓\n　　青翠的山谷仿佛是一处与世隔绝的异域，湖水映着高处的雪峰，谷外的天弃山里风雪凛冽，温度日低，这里却还是相对比较温暖，显得非常诡异。\n　　宁缺和莫山山没有发现温泉地热之类的存在，那么只能把这种异象归为阵法的功能，想道一座大阵竟能遮天蔽地逆季节，不由感到好生震惊，也愈发确定，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "又因为与隆庆皇子的赌约，骤然间心头多了极沉重的时间压力，所以下意识里问了出来。\n　　莫山山看着他轻声说道：“这种问题只能由你自己回答。”\n　　宁缺把手伸进微凉的湖水里，惊走几条小鱼，思考片刻后说道：“我以为愿望是最重要的事情，你必须有破境的愿望，才能破境，如果你想都不想，那道门槛肯定会更高，然后是信",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "里风雪凛冽，温度日低，这里却还是相对比较温暖，显得非常诡异。\n　　宁缺和莫山山没有发现温泉地热之类的存在，那么只能把这种异象归为阵法的功能，想道一座大阵竟能遮天蔽地逆季节，不由感到好生震惊，也愈发确定，数十年不曾现世的魔宗山门便在眼前的湖水之中。\n　　依照隆庆皇子的说法，山门开启的时间还没有到，他们",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "门，二层楼自然就是书院的二层楼。”\n　　宁缺盯着她的脸，震惊完全说不出话来。\n　　过了很长时间，他才压抑住脑子里的混乱情绪，带着丝羞恼，大声喊道：“你上次告诉我那是一些俗世之外的神秘地域，很少有人能够亲眼看到这些地方，就算去过的人出来后也不会谈及，所以才会叫做不可知之地。可是书院……就在长安城南，人",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "现世的魔宗山门便在眼前的湖水之中。\n　　依照隆庆皇子的说法，山门开启的时间还没有到，他们二人也不知道究竟何时会开启，想着到时应有异象发生，于是只好安静等待，同时做自己必须要做的事情。\n　　宁缺走到湖畔一块大石上坐下，看着清澈湖水里游动的奇异无鳞小鱼，沉默片刻后，忽然问道：“怎样才能破境呢？”\n　　这",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "与世外这两个世界的悲欢离合从来都不相通，若能相通，便是圣贤。”\n　　大概是想起老师曾经流露出来的唏嘘感慨，以及修行世界里对那位的传说，她的神情微微一凛，继续说道：“若能相通便是圣贤，虽说烂柯寺长老曾经说过夫子坚绝不承认自己是圣人，但书院二层楼理所当然是圣贤之地。”\n　　她盯着他的眼睛，继续说道：“你",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "座的山峰，早有觉悟，平静等待，只是他站在洞玄境外已有数月时间却没有进展，如今又因为与隆庆皇子的赌约，骤然间心头多了极沉重的时间压力，所以下意识里问了出来。\n　　莫山山看着他轻声说道：“这种问题只能由你自己回答。”\n　　宁缺把手伸进微凉的湖水里，惊走几条小鱼，思考片刻后说道：“我以为愿望是最重要的事情",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "法，山门开启的时间还没有到，他们二人也不知道究竟何时会开启，想着到时应有异象发生，于是只好安静等待，同时做自己必须要做的事情。\n　　宁缺走到湖畔一块大石上坐下，看着清澈湖水里游动的奇异无鳞小鱼，沉默片刻后，忽然问道：“怎样才能破境呢？”\n　　这是一个很直接的问题，也是一个很愚蠢的问题，是世间所有大修",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "实应该算是在红尘之中。”\n　　莫山山看着他说道：“世间曾经流传一句话，俗世与世外这两个世界的悲欢离合从来都不相通，若能相通，便是圣贤。”\n　　大概是想起老师曾经流露出来的唏嘘感慨，以及修行世界里对那位的传说，她的神情微微一凛，继续说道：“若能相通便是圣贤，虽说烂柯寺长老曾经说过夫子坚绝不承认自己是圣",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "庆皇子的说法，山门开启的时间还没有到，他们二人也不知道究竟何时会开启，想着到时应有异象发生，于是只好安静等待，同时做自己必须要做的事情。\n　　宁缺走到湖畔一块大石上坐下，看着清澈湖水里游动的奇异无鳞小鱼，沉默片刻后，忽然问道：“怎样才能破境呢？”\n　　这是一个很直接的问题，也是一个很愚蠢的问题，是世",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "谷仿佛是一处与世隔绝的异域，湖水映着高处的雪峰，谷外的天弃山里风雪凛冽，温度日低，这里却还是相对比较温暖，显得非常诡异。\n　　宁缺和莫山山没有发现温泉地热之类的存在，那么只能把这种异象归为阵法的功能，想道一座大阵竟能遮天蔽地逆季节，不由感到好生震惊，也愈发确定，数十年不曾现世的魔宗山门便在眼前的湖水",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

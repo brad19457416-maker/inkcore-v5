@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 205,
+  "chapter_title": "第十一章 假如光明来临",
+  "filename": "ch_0205_第十一章 假如光明来临.txt",
+  "char_count": 4364,
+  "timestamp": "2026-04-10T12:11:11.971805",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "仿佛他就是空气。\n　　入荒原已有些日子，宁缺发现这少女竟是骄傲地从来不肯用正眼看自己，难免有些不爽，心想自己连大唐公主的骄傲都不在乎，又哪里会被你击败？\n　　于是他也懒得用正眼看她，靠着窗边斜乜着眼看她写字，目光没有落在纸面上，而是落在她的脸上，发现微圆的小脸上写满了专注与忘情。\n　　认真时最美丽，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "渐渐变低。\n　　尾音悠悠，尾音幽幽。\n　　……\n　　……\n　　极遥远东南方有座海岛。\n　　这片海洋的风暴比风暴海更加可怕，从来没有渔船或商船来过。\n　　这座海岛上以前从来没有出现过人类的脚印。\n　　一名瘦小的青衣道人站在高高的礁石上。\n　　恐怖的巨浪不停拍打着礁石的底部，声若雷鸣，岛岩震颤，他却像是",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "阳关的幽阁之中，而且一囚便是十四年。\n　　……\n　　……\n　　跪在木栅栏前的中年神官难以压抑住心中的激动。这些年来，世间只有他能经常见到木栅栏后的老人，但每一次他都像第一次见到老人时那般激动。\n　　如今的他是裁决大神官最信任的下属，即便叶红鱼及隆庆皇子这二位司座大人也不会小看他，然而无论地位变得再高",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，修编典籍，以七分书法遥控世间各座道观，在世俗间拥有极大的影响力。\n　　光明大神官是三神座里最特殊的存在，他没有具体的道门事务分配，却有权力触控所有的道门事务，因为但凡能成为光明大神官的人，必然是神殿内部最精通教义妙旨，信仰最坚定，对世间黑暗阴影最为繁感的大成者。\n　　回想千年之前，那位光明大神官携",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "大河国少男们在做体力活，负责搭帐蓬钉木桩，酌之华等女弟子则在堆柴生火煮饭，听着宁缺这番点评，不知道为什么竟是笑了起来。\n　　她们掩嘴而笑，望着宁缺，却不说为什么而笑。\n　　宁缺有些尴尬，为了掩饰这种尴尬，他抬头望天，发现几颗米粒般的星星出现在荒原边缘，与落日隔天相望，下意识感慨道：“还是没有月亮啊",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "木栅栏前的中年神官难以压抑住心中的激动。这些年来，世间只有他能经常见到木栅栏后的老人，但每一次他都像第一次见到老人时那般激动。\n　　如今的他是裁决大神官最信任的下属，即便叶红鱼及隆庆皇子这二位司座大人也不会小看他，然而无论地位变得再高，只要走入昏暗的幽阁，来到木栅栏前，他就觉得自己仿佛还是那个刚刚从",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "北方那个强大的帝国内做了那么多事情。\n　　然而很奇异的是，正是在那件事情，在神殿内部地位崇高的他，被瞬间打落尘埃，面对掌教大人的震怒尤其是那位青衣道人的目光，强大智慧如他，也根本做不出任何应对反抗，就此变成了桃山后麓里无人知晓的一个囚徒。\n　　中年神官颤声请示道：“这件事情应该禀报裁决神座，不，掌教",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，暮时是最暖的时候，斜斜垂在长草远方的红色落日，散发着一天中最后的光明，虽然无法融化积雪，但却能给旅人们的脸颊添了一些红润。\n　　荒原里响起箭啸声，重物坠地声。\n　　宿营地里的人们听着远处传来天猫女惊喜地呼喊：“师兄你的箭法真好！”\n　　自有人去收拾猎物，宁缺喂好大黑马，准备休息一会，路过马车时，发",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "任的下属，即便叶红鱼及隆庆皇子这二位司座大人也不会小看他，然而无论地位变得再高，只要走入昏暗的幽阁，来到木栅栏前，他就觉得自己仿佛还是那个刚刚从东海宋国道观来到桃山的少年，而栅栏后的老人还是当年那位地位崇高，深受教众爱戴的光明大神官。\n　　中年神官信奉昊天，向往光明，他愿意、也只愿意为指引自己走上光",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "密，脸上的神情极为温和，根本看不到一丝当年光明大神官智慧威严如海的气息。\n　　中年神官以额触地，轻声说道：“裁决大神官询问，所以我来看看您。”\n　　老人说道：“你不来看我，我也想看你。”\n　　中年神官一惊，声音微颤道：“神座，您看到了什么？”\n　　老人缓缓转身，从房间镶着玻璃的极小洞口向外望去，洞外",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "阴森终年不见阳关的幽阁之中，而且一囚便是十四年。\n　　……\n　　……\n　　跪在木栅栏前的中年神官难以压抑住心中的激动。这些年来，世间只有他能经常见到木栅栏后的老人，但每一次他都像第一次见到老人时那般激动。\n　　如今的他是裁决大神官最信任的下属，即便叶红鱼及隆庆皇子这二位司座大人也不会小看他，然而无论",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "说道：“你不来看我，我也想看你。”\n　　中年神官一惊，声音微颤道：“神座，您看到了什么？”\n　　老人缓缓转身，从房间镶着玻璃的极小洞口向外望去，洞外是深雾幽暗，看不到阳光，但他知道那里是北方。\n　　老人深陷眼窝里氤氲的圣洁光浑渐渐散去，黑色眼瞳奇异地放大，占据整个眼球，看上去就像颗不沾一丝尘埃的透明",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "从左边滚到右边从右边滚到左边，床显得大了很多。\n　　在床上，她想蹬腿就蹬腿，想伸胳膊就伸胳膊，再也不担心踢着谁打着谁硌着谁。\n　　一个人在长安城的生活很舒服，很不舒服。\n　　桑桑躺在床上，看着窗外那棵树，看着树叶里的繁星，心里想着怎么还是没有月亮呢？少爷说的月亮究竟是什么呢？少爷这时候又在哪里呢？",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "光明大神官。\n　　其中裁决大神官主司裁决异端、缉捕魔宗余孽，麾下强者无数，武力最盛，拥有明面上最大的权力。天谕大神官主司领悟昊天意旨，修编典籍，以七分书法遥控世间各座道观，在世俗间拥有极大的影响力。\n　　光明大神官是三神座里最特殊的存在，他没有具体的道门事务分配，却有权力触控所有的道门事务，因为但凡",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "悠，尾音幽幽。\n　　……\n　　……\n　　极遥远东南方有座海岛。\n　　这片海洋的风暴比风暴海更加可怕，从来没有渔船或商船来过。\n　　这座海岛上以前从来没有出现过人类的脚印。\n　　一名瘦小的青衣道人站在高高的礁石上。\n　　恐怖的巨浪不停拍打着礁石的底部，声若雷鸣，岛岩震颤，他却像是一无所觉。\n　　青衣道",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "着队。\n　　车厢里有位枯发深眸的老人正在闭目养神。\n　　他睁开眼睛向北方遥远的长安城望去，眼中充满了温柔而威严的光明。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

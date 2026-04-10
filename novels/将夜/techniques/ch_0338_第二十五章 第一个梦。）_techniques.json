@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 338,
+  "chapter_title": "第二十五章 第一个梦。）",
+  "filename": "ch_0338_第二十五章 第一个梦。）.txt",
+  "char_count": 3056,
+  "timestamp": "2026-04-10T12:11:21.749901",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "多补补。”\n　　桑桑看着瓮中诱人食欲的油花和汤中细嫩的乳鸽，微微一愣，心想先前好像听你说过一遍，只是为什么这遍听时感觉似乎有些不同？\n　　……\n　　……\n　　傍晚时分，曾静大学士回府。\n　　曾静夫人非常直接、甚至显得有些粗鲁无礼地将书房里那些来拜见大学士的下属官员赶走，然后走到他的身前，还没有来得及",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "你大概受了很多苦，趁着现在赶紧多补补。”\n　　桑桑看着瓮中诱人食欲的油花和汤中细嫩的乳鸽，微微一愣，心想先前好像听你说过一遍，只是为什么这遍听时感觉似乎有些不同？\n　　……\n　　……\n　　傍晚时分，曾静大学士回府。\n　　曾静夫人非常直接、甚至显得有些粗鲁无礼地将书房里那些来拜见大学士的下属官员赶走，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "微一怔，问道：“除了这个可还有别的佐证？”\n　　曾静夫人说道：“当年我在柴房旁边产下那苦命孩子后，就担心被人换了去，昏前仔细察看了一遍，身上确实没有什么胎记，但浑身黝黑像炭头，两个小脚丫却是又白又嫩，难道这还不算证据？我就不信还有谁能长成那苦命孩子这般。”\n　　曾静想起那个必然会牢记终生的日子，想着",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "能有什么意见？”\n　　曾静缓缓摇头，身为朝廷重臣，他当然对宁缺这个名字不陌生，最早是因为花开帖惹出的风波，其后便是书院登山所造成的震撼，而眼下朝中诸位大臣最关心的却是此人书院行走的身份。\n　　宁缺便是书院入世之人，那么日后大唐帝国皇位传承之时，他的意见便显得非常重要，曾静清楚此人与公主殿下的关系比较",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "去。\n　　曾静夫人没有昏倒，不过此后她一直处于某种微微晕眩的状态中。\n　　桑桑回到餐桌旁后，夫人双手颤抖抱了一瓮鸽子汤到她面前，声音微颤说道：“这些年你大概受了很多苦，趁着现在赶紧多补补。”\n　　桑桑看着瓮中诱人食欲的油花和汤中细嫩的乳鸽，微微一愣，心想先前好像听你说过一遍，只是为什么这遍听时感觉似",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "她一直处于某种微微晕眩的状态中。\n　　桑桑回到餐桌旁后，夫人双手颤抖抱了一瓮鸽子汤到她面前，声音微颤说道：“这些年你大概受了很多苦，趁着现在赶紧多补补。”\n　　桑桑看着瓮中诱人食欲的油花和汤中细嫩的乳鸽，微微一愣，心想先前好像听你说过一遍，只是为什么这遍听时感觉似乎有些不同？\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，我们多补宁缺一些金银，他还能有什么意见？”\n　　曾静缓缓摇头，身为朝廷重臣，他当然对宁缺这个名字不陌生，最早是因为花开帖惹出的风波，其后便是书院登山所造成的震撼，而眼下朝中诸位大臣最关心的却是此人书院行走的身份。\n　　宁缺便是书院入世之人，那么日后大唐帝国皇位传承之时，他的意见便显得非常重要，曾静",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "……\n　　……\n　　从进入内室开始，曾静夫人便基本上没有眨过眼睛，当桑桑解开棉裙时，她袖中的双手便紧张地握了起来，当她脱掉鞋子时，夫人的指甲快要陷进掌心里，当她看到盆中那双如小白花的娇嫩双脚时，更是险些就这样晕厥过去。\n　　曾静夫人没有昏倒，不过此后她一直处于某种微微晕眩的状态中。\n　　桑桑回到餐",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "登山所造成的震撼，而眼下朝中诸位大臣最关心的却是此人书院行走的身份。\n　　宁缺便是书院入世之人，那么日后大唐帝国皇位传承之时，他的意见便显得非常重要，曾静清楚此人与公主殿下的关系比较密切，他做为皇后一派，非常担心因为要接回失散多年的女儿，而影响到皇后的安排。\n　　只是这些话他却不便对妻子说，稍一沉默",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "着她未言先泣，不由吓了一跳。\n　　“夫人，家中出了何事？”他声音微颤问道，心想以夫人这些年养就的性情脾气，若非难以承担的惨事，断不至于如此失态。\n　　曾静夫人抹掉脸上的泪水，看着他强颜笑道：“老爷，是好事。”\n　　曾静异道：“什么好事？”\n　　曾静夫人看着他的脸，一面哭着一面笑着说道：“我找着我们的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "是长安城里随便一个无良官宦子弟，而是老爷前些时日经常提起的那人。\n　　“我想起来了，娘娘确实提到过宁大家的名字。”\n　　曾静夫人说道：“然而那又如何？就算陛下喜欢他的字，但我们接回自己的亲生女儿乃是天经地义的事情，谁会无良到来拦阻？想必陛下也会喜见此事。”\n　　曾静皱眉说道：“但你可知晓宁缺的另一个",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第二十五章 第一个梦。）\n　　……\n　　……\n　　从进入内室开始，曾静夫人便基本上没有眨过眼睛，当桑桑解开棉裙时，她袖中的双手便紧张地握了起来，当她脱掉鞋子时，夫人的指甲快要陷进掌心里，当她看到盆中那双如小白花的娇嫩双脚时，更是险些就这样晕厥过去。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "院长也要讲天理伦常吧？而且女儿现在只是个小婢女，我们多补宁缺一些金银，他还能有什么意见？”\n　　曾静缓缓摇头，身为朝廷重臣，他当然对宁缺这个名字不陌生，最早是因为花开帖惹出的风波，其后便是书院登山所造成的震撼，而眼下朝中诸位大臣最关心的却是此人书院行走的身份。\n　　宁缺便是书院入世之人，那么日后大唐",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

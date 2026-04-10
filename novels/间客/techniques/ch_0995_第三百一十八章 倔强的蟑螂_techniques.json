@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 995,
+  "chapter_title": "第三百一十八章 倔强的蟑螂",
+  "filename": "ch_0995_第三百一十八章 倔强的蟑螂.txt",
+  "char_count": 2363,
+  "timestamp": "2026-04-10T12:05:26.956699",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "里的情况，拖着疲惫的身体走了过来，当熊临泉的手掌落到许乐肩上时，他骤然睁开双眼，醒了过来，艰难一笑，说道：“希望他能顶住。”\n\n    “文西的样子有些奇怪。”熊临泉皱眉望着担架说道：“怎么感觉好像精神了些？”\n\n    在密林边缘补充的物资中有相当充分的药物，听到熊临泉的话，队员们手忙脚乱地撕开包",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "一直在安静休息的队员们注意到了这里的情况，拖着疲惫的身体走了过来，当熊临泉的手掌落到许乐肩上时，他骤然睁开双眼，醒了过来，艰难一笑，说道：“希望他能顶住。”\n\n    “文西的样子有些奇怪。”熊临泉皱眉望着担架说道：“怎么感觉好像精神了些？”\n\n    在密林边缘补充的物资中有相当充分的药物，听到",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "这种小东西都没有遗漏。\n\n    保罗和三名帝国俘虏在矿坑的另一处角落里，进入比基高原之前的最后那场战斗中，他们也损失了一人。\n\n    帝国和联邦交战多年，彼此之间的仇恨难略消除，虽然说他们和这些联邦人并肩战斗过，虽然许乐在进入高原之前曾经说过这是命运的安排，大家伙注定要一起活着或者死去，可是双方",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，一直处于半昏迷状态中的达文西，身体状况渐渐有了些神奇的变化，苍白的脸颊上忽然多了些红润，就好像快被风干的青苹果，忽然熬过了时间和空气的双重折磨，重新鲜活起来。\n\n    许乐闭着眼睛，蹙着眉头，没有发现这种变化，依然缓慢而谨慎地把身体中的神奇力量输入达文西的身体，他的脸sè变得越来越苍白，左肩开始",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "依然缓慢而谨慎地把身体中的神奇力量输入达文西的身体，他的脸sè变得越来越苍白，左肩开始不受控制的微微颤抖，十分辛苦。\n\n    一直在安静休息的队员们注意到了这里的情况，拖着疲惫的身体走了过来，当熊临泉的手掌落到许乐肩上时，他骤然睁开双眼，醒了过来，艰难一笑，说道：“希望他能顶住。”\n\n    “文",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "不因为破损程度而震惊失望，事实上在出来之前他就非常清楚，会被联邦军方扔弃的机甲，绝对不会有太多的修理价值。\n\n    当然，这里所谓的修理价值是针对正常机修的概念，却并不见得包括他这位mx机甲的主要设计者，所以他毫不犹豫向着那三堆金属垃圾走去，开始向上攀爬。\n\n    “部队不可能把军用mx留给帝国",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "圆乎乎的手指夹着细镊，蘸了些清水，细致地给他湿软抹去眼角里的干屑，难掩欣喜与余悸，颤声笑骂道：“你丫果然不愧是七组第二号蟑螂。”\n\n    蟑螂是军营传统文化中的小强符号，代表不可思议的生命力，怎样也死不了，听到这个形容，脸sè苍白的达文西疲惫的笑了笑，喉中嗬嗬作响，却说不出完整的音节。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，都没办法死透。”\n\n    做为最不怕死的石头，大概死亡也不愿意去找它的麻烦。\n\n    许乐迎着众人的目光耸耸肩，默认了这个说法，却没有力气趁着这难得的融洽气氛多说些什么，他这时候只是觉得身体无比疲惫，腹中非常饥饿，仿佛回到当年战场之上，只要将体内的真气压榨干净，自己就会变身成为一个贪食怪。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "实施后续的治疗措施。\n\n    滴达滴达，队员们睁大双眼盯着软质输液管里无声的药物滴落，表情异常严肃紧张。\n\n    所有人都知道现在非常关键，如果达文西能够禁受住腺素药物的强刺激xìng，顶住血管里的压力醒来，那么他的命就算是保住，如果他醒不过来，那么以后便真的很难再醒过来。\n\n    不知道过了",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "战多年，彼此之间的仇恨难略消除，虽然说他们和这些联邦人并肩战斗过，虽然许乐在进入高原之前曾经说过这是命运的安排，大家伙注定要一起活着或者死去，可是双方依然下意识里分成了两块，很少有什么交流。\n\n    看着那处的热闹劲儿，保罗压低声音给同伴们做了翻译，大概是觉得联邦人把蟑螂这种丑陋的家伙看的如此神圣",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "能够禁受住腺素药物的强刺激xìng，顶住血管里的压力醒来，那么他的命就算是保住，如果他醒不过来，那么以后便真的很难再醒过来。\n\n    不知道过了多久，矿坑角落里那个帝国士兵看到担架旁那根手的食指微微颤了下，惊愕的叫唤了一声，然后所有人都欣喜地发现，昏迷多rì的达文西，终于睁开双眼醒了过来。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，最早的生物库果然周全，连这种小东西都没有遗漏。\n\n    保罗和三名帝国俘虏在矿坑的另一处角落里，进入比基高原之前的最后那场战斗中，他们也损失了一人。\n\n    帝国和联邦交战多年，彼此之间的仇恨难略消除，虽然说他们和这些联邦人并肩战斗过，虽然许乐在进入高原之前曾经说过这是命运的安排，大家伙注定要",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "输入达文西的身体，他的脸sè变得越来越苍白，左肩开始不受控制的微微颤抖，十分辛苦。\n\n    一直在安静休息的队员们注意到了这里的情况，拖着疲惫的身体走了过来，当熊临泉的手掌落到许乐肩上时，他骤然睁开双眼，醒了过来，艰难一笑，说道：“希望他能顶住。”\n\n    “文西的样子有些奇怪。”熊临泉皱眉望着",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "第三百一十八章 倔强的蟑螂 \n\n    废弃矿道之中一握手，便有温暖绕壁而出，一直处于半昏迷状态中的达文西，身体状况渐渐有了些神奇的变化，苍白的脸颊上忽然多了些红润，就好像快被风干的青苹果，忽然熬过了时间和空气的双重折磨，重新鲜活起来。\n\n    许乐闭着眼睛，蹙",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

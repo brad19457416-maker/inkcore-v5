@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 925,
+  "chapter_title": "第九十八章 陋巷",
+  "filename": "ch_0925_第九十八章 陋巷.txt",
+  "char_count": 3376,
+  "timestamp": "2026-04-10T12:11:27.499140",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "紧张地站起身来，说道：“啥事儿？”\n　　桑桑背起双手，向屋外走去，说道：“随我来。”\n　　唐小棠看了众人一眼，不知道该怎么办。\n　　宁缺安慰道：“没事儿，我没见过她吃人。”\n　　“有你这么安慰人的吗？”\n　　陈皮皮手里拿着湿抹布赶了过来，看着他悲愤说道。然后他望向桑桑的背影，颤声说道：“没什么事儿就",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "：“佛陀不言，命亦是命。”\n　　破屋里一片死寂，桑桑和叶苏的声音不停响起，气氛变得越来越沉重，越来越压抑，唐小棠在灶前拿着锅铲，身后传来淡淡的焦味。\n　　做为曾经的道门行走，此时跪在昊天身前，居然敢于直指昊天之非，敢于坚持自己的看法，已成废人的叶苏，要比世间绝大多数人都要强大。\n　　桑桑问道：“世人",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "理来看，可以提高效率，节约成本。”\n　　桑桑说道：“神国的归神国，现世的归现世，那么他们信仰的昊天，究竟是我，还是他们每个人自己？”\n　　宁缺无法回答这个问题，叶苏的传道，本来就是从根本上推翻昊天道门的教义，把信仰的具体所指，分散成自我的认知。\n　　从这个角度上来说，这些信徒的信仰，并不是昊天所需要",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "坐在桌边的几个人都很担心她会忽然醒过神来，陈皮皮拼命地挤眉弄眼，想让唐小棠说些话，唐小棠瞪圆了眼睛，心想自己本就不擅长说话，这个工作难道不应该由你和宁缺来做？陈皮皮不停咳嗽，心想你难道不是她最好的朋友？\n　　唐小棠看着桌旁如同泥塑般的男人们，忽然发现好像少了些什么，问道：“大黑马呢？听说它也离开了桃",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "唐小棠见没人理自己，用锅铲不停地翻着铁锅里的糊菜，丁丁当当响个不停，模样显得委屈极了。\n　　转瞬间，屋内便从死寂一片，变得嘈杂无比，转瞬间，屋内便充满了人间的烟火气，转瞬间，一桌饭菜便做好了。\n　　桑桑有些不适应这种转变，显得有些惘然，还没等她想明白，便被宁缺牵到桌旁坐下，唐小棠把一碗白米饭塞",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "有说话，静静看着手里的白米饭和上面的那根青菜。\n　　坐在桌边的几个人都很担心她会忽然醒过神来，陈皮皮拼命地挤眉弄眼，想让唐小棠说些话，唐小棠瞪圆了眼睛，心想自己本就不擅长说话，这个工作难道不应该由你和宁缺来做？陈皮皮不停咳嗽，心想你难道不是她最好的朋友？\n　　唐小棠看着桌旁如同泥塑般的男人们，忽然发",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "！你还让不让人吃饭了？你想饿死亲夫吗！”\n　　唐小棠明知道这两人想做什么，还是觉得很委屈，挥舞着锅铲愤怒地喊道：“在部落，在后山我都没做过饭，凭什么让我做！”\n　　宁缺走到桑桑身前，问道：“你饿了没有？想吃点什么？”\n　　陈皮皮一骨碌从床上爬起，把叶苏从地上扶到床边坐好，然后望向桑桑说道：“说正经的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "一切能够成功，那么昊天又该处于什么位置？\n　　“昊天在看着你。”\n　　叶苏站在破屋前，看着信徒们平静说道：“无论你做什么，无论你在想什么，都在昊天的注视之下，所以你要时时刻刻反省自己的行为，从清晨到日暮，从醒来到沉睡，你可以违背昊天的教义，你可有行善，你可有制恶？”\n　　宁缺听到这段话，忍不住看了身",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "正在看着他。\n　　她没有说话，只是静静听着他传道，没有任何表情。\n　　“其实……他说的也不是完全没有道理。”\n　　宁缺说道：“省去西陵神殿这个中间环节，信徒把敬爱直接奉献给你，从物流的原理来看，可以提高效率，节约成本。”\n　　桑桑说道：“神国的归神国，现世的归现世，那么他们信仰的昊天，究竟是我，还是",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "你，会如何称呼？”\n　　很多年前的那天，她降生于长安城某大夫府中，宁缺拿着染血的柴刀翻过围墙，荒原上出现一道黑线，叶苏说过几句话。\n　　宁缺的神情有些复杂。\n　　叶苏沉默了很长时间，平缓而坚定地说道：“今日之我，不以昨日之我为愚，昨日之我，必不以今日之我为恶。”\n　　桑桑说道：“亵渎，如何不是恶？”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "担心――因为桑桑说这些人都应该被烧死，他知道她做得出来这件事。\n　　叶苏在临康城开始传道不久，宁缺就来到了这里，他明白这是叶苏对自我的救赎，也是他想带领世人展开自我的救赎。\n　　道门要求信徒以对昊天的信仰为根基，把欲望转变为奉献，把希望落在神国，而叶苏所说的救赎，则是求诸于己。\n　　对于昊天道门来说",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "二人谈论的时候，今天的教义讲座已经结束，数百名信徒很有秩序地先后离开，留下一群孩子开始整理场地，同时准备下午的工艺课程。\n　　叶苏以手捂唇，轻轻咳了两声，正准备把挂在窗前的黑板取下来，忽然看到人群外的宁缺和桑桑，身体不由变得有些僵硬。\n　　……\n　　……\n　　破屋的门被推开，宁缺和桑桑走了进去，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，但也像同伴们一样静静坐在泛白的蒲团上。\n　　通过观察，他发现叶苏的传道比想象的要顺利很多，于是更加担心――因为桑桑说这些人都应该被烧死，他知道她做得出来这件事。\n　　叶苏在临康城开始传道不久，宁缺就来到了这里，他明白这是叶苏对自我的救赎，也是他想带领世人展开自我的救赎。\n　　道门要求信徒以对昊天的",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "饿死亲夫吗！”\n　　唐小棠明知道这两人想做什么，还是觉得很委屈，挥舞着锅铲愤怒地喊道：“在部落，在后山我都没做过饭，凭什么让我做！”\n　　宁缺走到桑桑身前，问道：“你饿了没有？想吃点什么？”\n　　陈皮皮一骨碌从床上爬起，把叶苏从地上扶到床边坐好，然后望向桑桑说道：“说正经的，好几年没吃过你做的菜了，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "迹。\n　　听他讲道的民众有数百人，把街巷完全挤满，黑压压的一片，却没有任何人发出杂音，场间难以想象的安静。\n　　他的声音在破屋前的静巷间不停响起，不时夹杂着几声痛苦的咳嗽，讲的内容主要还是西陵教典，阐述之道与普通的神官则是大相径庭。\n　　宁缺的目光落在那些听道的民众身上，这些信徒衣着虽然简单朴素，有",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

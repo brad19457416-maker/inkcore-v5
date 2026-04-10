@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 567,
+  "chapter_title": "第七十三章 一颗青梨",
+  "filename": "ch_0567_第七十三章 一颗青梨.txt",
+  "char_count": 3232,
+  "timestamp": "2026-04-10T12:11:26.653619",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "分糟糕，当山风偶尔掀起车上的窗帘，露出莫山山清丽的面容时，他的脸色愈发难看。\n　　佛辇中的僧人，毫无疑问是场间地位最崇高的人，所以虽然一直保持着安静，除了月轮国的苦行僧众人，没有任何人敢靠近。不可知之地里的人们，忽然现身尘世，必然是因为某椿大事，却没有人能够猜到他的来意究竟为何。\n　　瓦山顶峰的地势",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "者第一次看清楚桑桑的模样。\n　　人们看着这个面容普通，头发微黄发蔫，精神委顿的小姑娘，不由大感诧异，心想如此不起眼的小姑娘，难道就是传说中的光明之女？\n　　观海僧带着宁缺和桑桑走入庐门。\n　　一位老僧站在洞外，不知已经等了多长时间。\n　　隐居在瓦山里的都是烂柯寺的前辈高僧，自然都很老。\n　　只不过这",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "已经触到了真实的天穹，看到这个画面，修行者们生出极大震撼。\n　　那名南晋棋师的眼中根本没有佛祖石像的存在，他像最老实的学生那样，乖乖跟着那辆黑色马车，眼中满是崇拜向往的神情。\n　　看着自己的下属竟有如此作派，南晋太子殿下的心情自然十分糟糕，当山风偶尔掀起车上的窗帘，露出莫山山清丽的面容时，他的脸色愈",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "发难看。\n　　佛辇中的僧人，毫无疑问是场间地位最崇高的人，所以虽然一直保持着安静，除了月轮国的苦行僧众人，没有任何人敢靠近。不可知之地里的人们，忽然现身尘世，必然是因为某椿大事，却没有人能够猜到他的来意究竟为何。\n　　瓦山顶峰的地势极为开阔平缓，如同整座山被从中切断一般，天然形成一片巨大的石坪，然而",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "神情复杂地望向宁缺，说不出来是羡慕还是嫉妒，而那些数千年来一直效忠西陵神殿的修行者，更是隐约流露出了愤怒的情绪。\n　　歧山大师听着这回答，微微点头，说道：“那就是代表书院了。”\n　　桑桑想了想说道：“好像是的。”\n　　歧山大师望向宁缺，笑着问道：“被西陵神殿的光明之女当成少爷对待，难道二先生没有说这",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "名老僧，觉得好生亲近，好生眼熟，片刻后她才想明白是怎么回事，忍不住笑了笑。\n　　那名老僧也笑了起来，说道：“莫非世间久病之人看上去都有些相似？我看你这小姑娘便觉得亲近，想来你也有同样的感觉，只可惜我这久病之人连自己的病都治不好，或者稍后你会觉得失望，但可不要与我不亲近。”\n　　老僧自然便是歧山大师。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "正是一天中最热的时候，虽然有阴影覆山，却也谈不上寒冷，所以他没有给她披罩衣。\n　　这是场间很多修行者第一次看清楚桑桑的模样。\n　　人们看着这个面容普通，头发微黄发蔫，精神委顿的小姑娘，不由大感诧异，心想如此不起眼的小姑娘，难道就是传说中的光明之女？\n　　观海僧带着宁缺和桑桑走入庐门。\n　　一位老僧站",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "马车，眼中满是崇拜向往的神情。\n　　看着自己的下属竟有如此作派，南晋太子殿下的心情自然十分糟糕，当山风偶尔掀起车上的窗帘，露出莫山山清丽的面容时，他的脸色愈发难看。\n　　佛辇中的僧人，毫无疑问是场间地位最崇高的人，所以虽然一直保持着安静，除了月轮国的苦行僧众人，没有任何人敢靠近。不可知之地里的人们，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "到庐前，却是如此温和。”\n　　宁缺脸皮极厚，理直气壮说道：“在山下晚辈着急想要见到大师，因为着急所以紧张，因为紧张所以焦虑，因为焦虑所以失态，所谓强硬不过是失态罢了，此时终于见到了大师，深悔前之失态，哪能故态重萌？”\n　　“七十年前，我曾问学于夫子他老人家，你如何能在我面前自称晚辈？”\n　　歧山大师",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "之一，然而只有真正来到佛像之前，才能真切体会到那股难以言喻的震撼之情。\n　　宁缺抬头，看着自佛像胸前缓缓飘过的几缕秋云，想起几年前带着桑桑回长安，远远望着长安城墙耸立在云中的画面，才发现这佛像竟似乎比长安城的城墙还要高些，不由下意识里生出些渺小的感觉。\n　　歧山大师隐居的洞庐不在峰顶。黑色马车绕过佛",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "如同被佛祖踩在脚下的一方瓦片。\n　　烂柯寺后的这尊佛祖石像，据说是世间最高大的佛像之一，然而只有真正来到佛像之前，才能真切体会到那股难以言喻的震撼之情。\n　　宁缺抬头，看着自佛像胸前缓缓飘过的几缕秋云，想起几年前带着桑桑回长安，远远望着长安城墙耸立在云中的画面，才发现这佛像竟似乎比长安城的城墙还要高",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

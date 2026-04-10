@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 1011,
+  "chapter_title": "第三百四十一章 今日之联邦（上）",
+  "filename": "ch_1011_第三百四十一章 今日之联邦（上）.txt",
+  "char_count": 3325,
+  "timestamp": "2026-04-10T12:05:26.912594",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "之：“菜鸟小蝶最辛苦。”\n\n    世界上或许真有能够隔绝所有狂风的墙，但绝对没有能够永远隐藏起来的秘密，至少对于掌握联邦政仧府所有秘密机构的李在道来说。\n\n    墨花星球上的冷血枪决事仧件发生不到两个小时，关于该事仧件的详细报告，便已经呈送到他身前的桌面上，报告中对于该事仧件细节进行了极为客观冷",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "冷躯蒙尘堆砌。\n\n    包括贝里主任在内，七名陷害新十师ntr部队叛变的联合调查部门官员死亡，负责追杀孤军造成八名联邦战士死亡的两名小眼睛指挥官也变成了冰冷的尸体。\n\n    李疯子望着那些或悲愤或悲伤或惊恐的三百名小眼睛部队精锐，说道：“不想今天变成一场屠杀，那就不要乱动，老老实实地登舰离开。你",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "之后，告诉你们那位最高首长……”\n\n    他继续说道：“也就是那位李在道主席，我不管他在后方搞什么风玩什么雨，但如果下次还敢把那些官员以及你们派到前线来，我看见一个就杀一个。“基地深处那间仿佛一直都是那么幽暗的房间里，联邦军方前线最高指挥官胡链中将，脸色铁青看着面前的年轻上校，愤怒地拍打着桌面，厉",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "地深处那间仿佛一直都是那么幽暗的房间里，联邦军方前线最高指挥官胡链中将，脸色铁青看着面前的年轻上校，愤怒地拍打着桌面，厉声训斥道：“未经审判，动用暴力机器直接枪决联邦高级官员，而且一杀就是九个，你哪里来的这么大的胆子！”\n\n    李封此时的表情和先前在基地y3区监督枪决对并没有什么两样，平静冷漠依",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "小眼睛指挥官也变成了冰冷的尸体。\n\n    李疯子望着那些或悲愤或悲伤或惊恐的三百名小眼睛部队精锐，说道：“不想今天变成一场屠杀，那就不要乱动，老老实实地登舰离开。你们不是真正的军人，就没有资格呆在前线，回到首都星圈之后，告诉你们那位最高首长……”\n\n    他继续说道：“也就是那位李在道主席，我不",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "并不是难事。\n\n    胡链中将盯着他平静的脸，想要确认这是他事先就想好的借口，还是此刻灵光偶现，他第一次发现在这个疯狂年轻强者的体内，竟然有如此缜密的策略能力。\n\n    骤然间，将军阁下如同已死的贝里主任那般，感到身体异常寒冷，他默然想道，如果联邦军事条例里死亡上报限制不止十个人，那今天基地会死",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "中荡漾，李在道走到窗边，望着首都清冷的衢景，看着雨后的树叶在脚下极远处摇晃，清整平静的面容上泛起一丝自嘲的笑容。\n\n    事伴报告被他压了下来，除了总统先生，首都星圈再也没有任何人知道他的亲生儿子在前线做的事情，事后或许会有流言，但那又算什么？\n\n    “因为我是你的父亲，所以你没有办法杀我替钟",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "种对候你们还要替他们说话，无法理解。“伍德把身体靠在椅上，嘲笑望着他说道：“难道批评政仧府就是替那些大家族说话？”\n\n    “可总统先生和政仧府始终是想做些好事情，他们想改变现在腐朽的联邦现状，实现真正的民仧主。”\n\n    “什么是真正的民仧主？难道就是南科州那些暴徒喊的民仧主之后杀你全家？“伍",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "兵们的心情会越来越糟，甚至有可能造成真正的哗变。”\n\n    胡链中将渐渐平静下来，蹙眉望着他，神情凝重问道：“这件事情接下来怎么处理？你当众枪决政仧府官员，无论如何是瞒不住的。““根据军事条例，死亡人数不超过十人的战役，可以不用向国防部申报，后方机构也无权询问。“李封回答道。\n\n    今天基地牡",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "李封面无表情回答道：“如果崔聚冬局长有意见，我想他应该会直接针对我，而不会向军方施压。“胡链中将骤然失语，颤着手指不知该说些什么。\n\n    “至于我为什么要杀人，您应该很清楚，像贝里主任这样的角色，只会凭着权限用那些酸污手段，像疯狗一样到处咬人，这种人在前线呆着，官兵们的心情会越来越糟，甚至有",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "现在的任务是指挥部队，准备和帝国人再次开战术。“李封说道：“而我的任务是，在您的领导下与帝国人作战，同时碾死所有从后方过来捣乱的虫子。“胡链中将知道这就是对方提出的条件，沉默思考很长时间之后，缓缓点头。\n\n    李疯子持续广而告之：“菜鸟小蝶最辛苦。”\n\n    世界上或许真有能够隔绝所有狂风的墙",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "或悲愤或悲伤或惊恐的三百名小眼睛部队精锐，说道：“不想今天变成一场屠杀，那就不要乱动，老老实实地登舰离开。你们不是真正的军人，就没有资格呆在前线，回到首都星圈之后，告诉你们那位最高首长……”\n\n    他继续说道：“也就是那位李在道主席，我不管他在后方搞什么风玩什么雨，但如果下次还敢把那些官员以及你",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "人作战，同时碾死所有从后方过来捣乱的虫子。“胡链中将知道这就是对方提出的条件，沉默思考很长时间之后，缓缓点头。\n\n    李疯子持续广而告之：“菜鸟小蝶最辛苦。”\n\n    世界上或许真有能够隔绝所有狂风的墙，但绝对没有能够永远隐藏起来的秘密，至少对于掌握联邦政仧府所有秘密机构的李在道来说。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

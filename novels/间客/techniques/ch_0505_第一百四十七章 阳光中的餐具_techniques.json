@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 505,
+  "chapter_title": "第一百四十七章 阳光中的餐具",
+  "filename": "ch_0505_第一百四十七章 阳光中的餐具.txt",
+  "char_count": 3417,
+  "timestamp": "2026-04-10T12:05:08.521230",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "片，对于很多人第一次电视时，大家都很重视，此刻很多人正在回味自己在镜头的模样，后悔谈吐里透露着傻气，人群中不时爆发出一阵哄笑声，而更远一些的地面组营房处，达文西正和萧十三楼夸张的争吵，然后变成摔跤，最后毫无疑问，州长的公子被农夫的儿子重重压在了身下，辗转痛苦不堪……\n\n    看着这一幕，许乐忍不住",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "将视角集中在前线部队的生活和一些具体细节，而七组的队员构成的复杂性，平民劣根老兵和贵公子新兵间的天然冲突，自然拥有了某种内在的戏剧张力。\n\n    《七组》系列纪录片名为试炼的第一集播出后，马获得了联邦民众的关注，在轻松赢取超高收视率的同时，也引发了首都星圈民众闷得热烈讨论。生活在和平星圈里的人们，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "多人第一次电视时，大家都很重视，此刻很多人正在回味自己在镜头的模样，后悔谈吐里透露着傻气，人群中不时爆发出一阵哄笑声，而更远一些的地面组营房处，达文西正和萧十三楼夸张的争吵，然后变成摔跤，最后毫无疑问，州长的公子被农夫的儿子重重压在了身下，辗转痛苦不堪……\n\n    看着这一幕，许乐忍不住挠着头笑了",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "食物，含糊不清显得格外滑稽。\n\n    戴着墨镜的许乐无可奈何地摇了摇头，余光看了眼不远处的摄影组，心想如果再这么下去。七组的这些兵只怕都会变成天生的喜剧演员。依照军队纪律，本来路旁敬礼的这些战士，都应该恭敬地称呼他一声长官，只是不知为何，许乐听到长官二字便浑身发寒，寒毛直竖，竖起衣领一也觉得一股冷",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "某种内在的戏剧张力。\n\n    《七组》系列纪录片名为试炼的第一集播出后，马获得了联邦民众的关注，在轻松赢取超高收视率的同时，也引发了首都星圈民众闷得热烈讨论。生活在和平星圈里的人们，第一次如此近距离的了解军营里的具体日子，那些枯燥甚至有些残酷的训练，好奇那些队伍里的社会阶级差异，会带来怎样不好的影",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "平星圈里的人们，第一次如此近距离的了解军营里的具体日子，那些枯燥甚至有些残酷的训练，好奇那些队伍里的社会阶级差异，会带来怎样不好的影响。\n\n    今天晚播放的是第二集，此时距离第七组来到163行星已经过去了两个多月，距离金星纪录片厂拍摄完毕都过去了二十几天。相信今天晚之后，整个联邦又会掀起一股讨论",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "好奇那些队伍里的社会阶级差异，会带来怎样不好的影响。\n\n    今天晚播放的是第二集，此时距离第七组来到163行星已经过去了两个多月，距离金星纪录片厂拍摄完毕都过去了二十几天。相信今天晚之后，整个联邦又会掀起一股讨论的热潮。\n\n    做为当事者，做为七组的长官，做为联邦政府意志的具体操作者，这出系",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的队员们愕然扭首望去，看到在一棵野生树下，眉清目秀的顾惜风，正和那名一头卷发，来自宪章局的技术官员在愤怒地争论什么。\n\n    顾惜风是七组最优秀的电子技师，所有的战地指挥和电控系统维护工作，全部由他一手完成。而七组在163行星执行宪章局的重构网络任务，他自然要代表七组，与那名宪章局技术官员进行配合",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "数铁军来给这一般多个人当保姆。\n\n    但不知道是不是冥冥中有什么东西在保佑着这支承载了太多任务与意义的队伍，是不是星辰间的造物主不忍心看着这支名义的雇佣军在联邦亿万民众眼皮地下成为悲壮的符号。\n\n    七组来到163行星两个半月，出了十一次宪章局任务，却奇迹般的没有死一个人。\n\n    只有六",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "不时爆发出一阵哄笑声，而更远一些的地面组营房处，达文西正和萧十三楼夸张的争吵，然后变成摔跤，最后毫无疑问，州长的公子被农夫的儿子重重压在了身下，辗转痛苦不堪……\n\n    看着这一幕，许乐忍不住挠着头笑了出来，先前看电视是的那丝恼怒随之无影无踪。\n\n    《七组》系列纪录片的播出，是总统官邸、国防",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "战士们组员们正成群聚在一起，他们像许乐等军官一样，都刚刚结束纪录片的观看，对自己的纪录片，对于很多人第一次电视时，大家都很重视，此刻很多人正在回味自己在镜头的模样，后悔谈吐里透露着傻气，人群中不时爆发出一阵哄笑声，而更远一些的地面组营房处，达文西正和萧十三楼夸张的争吵，然后变成摔跤，最后毫无疑问，州",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "始终不肯接受正面的采访。”兰晓龙耸肩说道。\n\n    许乐摇了摇头，推门走了出去，军营里的新鲜空气随风灌入，令他精神为之一爽。\n\n    军营中，七组的战士们组员们正成群聚在一起，他们像许乐等军官一样，都刚刚结束纪录片的观看，对自己的纪录片，对于很多人第一次电视时，大家都很重视，此刻很多人正在回味自",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "《七组》系列纪录片名为试炼的第一集播出后，马获得了联邦民众的关注，在轻松赢取超高收视率的同时，也引发了首都星圈民众闷得热烈讨论。生活在和平星圈里的人们，第一次如此近距离的了解军营里的具体日子，那些枯燥甚至有些残酷的训练，好奇那些队伍里的社会阶级差异，会带来怎样不好的影响。\n\n    今天",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "章 阳光中的餐具 \n\n    在缭绕的烟雾中，许乐眯着眼睛，用力抿吸着唇间的烟卷，含糊不清却格外坚狠说道：“打死我，我也不会像这些家伙一样去镜表演，这叫什么事儿？还有十三楼那个家伙，是不是脑袋出来问题？当着整个联邦面前叫嚣我要当元帅！”\n\n    微暗的房间内，电视光屏正在播放联邦最近最热火的实境纪",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "透着令人不悦的味道，可是今天看着军营里队员们兴奋的反应，他的态度有了些改变。\n\n    他站在台阶，安静看着打成一片的老兵新兵，心中感觉有些满足，几十天的战场共生死，确实能改变很多，这种将后背和姓名寄予同伴的全然信任，甚至可以改变很多人一生的态度。\n\n    ……\n\n    ……\n\n    正如第一",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "员们兴奋的反应，他的态度有了些改变。\n\n    他站在台阶，安静看着打成一片的老兵新兵，心中感觉有些满足，几十天的战场共生死，确实能改变很多，这种将后背和姓名寄予同伴的全然信任，甚至可以改变很多人一生的态度。\n\n    ……\n\n    ……\n\n    正如第一次任务结束之后，白玉兰感慨的那样——七组",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

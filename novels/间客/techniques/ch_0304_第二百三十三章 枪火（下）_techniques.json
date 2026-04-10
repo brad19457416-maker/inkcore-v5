@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 304,
+  "chapter_title": "第二百三十三章 枪火（下）",
+  "filename": "ch_0304_第二百三十三章 枪火（下）.txt",
+  "char_count": 3569,
+  "timestamp": "2026-04-10T12:04:59.183305",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "膝盖中枪，他就是想走路都很困难。\n\n    胸腹处中枪。锥形地子弹深深地镶在衣服里面地内衣夹层中。巨大地冲击力让两枚子弹压缩变形。看上去就像是女生装饰用地白金圆钉一般。\n\n    许乐皱着眉头用力将们抠了下去。发现中弹地部位痛楚难堪。不知道肋骨是不是断了。如果不是白水公司这件硬陶式防弹衣。他此时已经",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，那些扭曲我们政已久地相互指控和陈旧教条已终结。”\n\n    帕布尔总统用凝重的眼神，注视着广场上的人群，说道：“在帝国的威胁下，在联邦不公的威胁下，我们究竟应该是坐着等待造物主的审判，还是努力地做么？”\n\n    ……\n\n    ……\n\n    “联邦的历史上，从来不缺少为民请命的人，而联邦的历史",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "直接蹲到了门地另一边。\n\n    果不其然。直接便是一阵密集地射击。贴着木纹地高密塑料门被门外地火力瞬间射出无数孔洞。溅起无数木渣塑尖片。许乐却是沉默地蹲在最下方。与那些喷涌地子弹相遇不相见。冒险等待着。\n\n    踹开后，许乐根本没有管拿着枪的第一个人，而是从那人的身后闪身而出，举枪连发扫射，击毙",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。如果不是白水公司这件硬陶式防弹衣。他此时已经要去见乔治卡林。死里逃生。他却没有太多地喜悦。心情一片沉重。\n\n    他深深地吸吸。调动后地那股灼热力量。让自己地身体颤抖了起来。尤其是受伤地左腿处。肌肉双纤维强行挤压搓弄。更增伤口地痛楚。血水也飙了出来。但是紧接着不知道什么原因。伤口处渐渐变白。没有",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "同样是在观礼台不起眼的位置中，在此等显赫时刻，刻意低调的利家家主利缘宫与林家的家主，似乎同时接到了某种讯息，脸上的表情变了变，然后马上又回复了平常，认真地望向了石阶之上。\n\n    “我庄严宣誓，忠实地执行总统职务，尽我地全部力量维护、保护、守护联邦宪章……”\n\n    副总统拜伦的宣誓",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "……\n\n    ……\n\n    “联邦的历史上，从来不缺少为民请命的人，而联邦的历史上，面对着黑暗的时代与腐朽的压迫时，总有人敢于站起来，发出自己的怒吼。”\n\n    ……\n\n    ……\n\n    “我敬佩这样的人。\n\n    我想告诉这些人，无论你在宇宙的哪个角落，只要你尊重联邦的准则与宪章的精",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的人。\n\n    我想告诉这些人，无论你在宇宙的哪个角落，只要你尊重联邦的准则与宪章的精神，我欢迎你来到s1１来到首都，来到联邦政府之中。”\n\n    ……\n\n    ……\n\n    许乐没有听到帕布尔总统的演讲内容，在烟雾与残墟之中，他准备站起来，然而眼瞳却忽然急剧缩小，就像看到了什么不可思议的画",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "逃生。他却没有太多地喜悦。心情一片沉重。\n\n    他深深地吸吸。调动后地那股灼热力量。让自己地身体颤抖了起来。尤其是受伤地左腿处。肌肉双纤维强行挤压搓弄。更增伤口地痛楚。血水也飙了出来。但是紧接着不知道什么原因。伤口处渐渐变白。没有更多地血流了出来。\n\n    此时茶水间外然传来了一阵极为轻微地声",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "演讲。\n\n    ……\n\n    ……\n\n    “一天，我们聚在一起，因为我们选择希望而非恐惧，有意义的团结而非纷争和不合。“\n\n    “在这一天，我们来此宣示，那些无用地抱怨和虚伪的承诺已终结，那些扭曲我们政已久地相互指控和陈旧教条已终结。”\n\n    帕布尔总统用凝重的眼神，注视着广场上的人",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "帕布尔总统用凝重的眼神，注视着广场上的人群，说道：“在帝国的威胁下，在联邦不公的威胁下，我们究竟应该是坐着等待造物主的审判，还是努力地做么？”\n\n    ……\n\n    ……\n\n    “联邦的历史上，从来不缺少为民请命的人，而联邦的历史上，面对着黑暗的时代与腐朽的压迫时，总有人敢于站起来，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "种错误来着，写的很心累来着……不过许乐好像快要发飙了，这大抵我是设计间客这个故事中，给他的最大资本，将来要靠这个资本去做很多很意淫的事情……）\n\n    ……\n\n    ……\n\n    黑暗的通风道里满是灰尘，四周不时有枪声响起，金属通风壁上时不是被射击出几个孔洞，透进细柱白光，看上去就像一个并不真",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "站起来，然而眼瞳却忽然急剧缩小，就像看到了什么不可思议的画面。\n\n    一幅基金会大楼内部结构图，出现在他的视网膜上，十分清晰，更清晰的是上面代表着人的光点，那些光点上方拖着长长的字符，那是他们的身份编号 www.dxsxs.com \n\n\n\n第二卷上林的钟声",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "极为轻微地声音。许乐握紧了手中地卡宴。低头凝神听着。虽然无法确认人数。但知道一定不少。\n\n    他缓缓地伏下了身体。没有藏到门后。而是直接蹲到了门地另一边。\n\n    果不其然。直接便是一阵密集地射击。贴着木纹地高密塑料门被门外地火力瞬间射出无数孔洞。溅起无数木渣塑尖片。许乐却是沉默地蹲在最下方。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "坐着等待造物主的审判，还是努力地做么？”\n\n    ……\n\n    ……\n\n    “联邦的历史上，从来不缺少为民请命的人，而联邦的历史上，面对着黑暗的时代与腐朽的压迫时，总有人敢于站起来，发出自己的怒吼。”\n\n    ……\n\n    ……\n\n    “我敬佩这样的人。\n\n    我想告诉这些人，无",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "扭曲我们政已久地相互指控和陈旧教条已终结。”\n\n    帕布尔总统用凝重的眼神，注视着广场上的人群，说道：“在帝国的威胁下，在联邦不公的威胁下，我们究竟应该是坐着等待造物主的审判，还是努力地做么？”\n\n    ……\n\n    ……\n\n    “联邦的历史上，从来不缺少为民请命的人，而联邦的历史上，面",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

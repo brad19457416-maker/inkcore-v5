@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 265,
+  "chapter_title": "第二百零三章 秋夜之都",
+  "filename": "ch_0265_第二百零三章 秋夜之都.txt",
+  "char_count": 3477,
+  "timestamp": "2026-04-10T12:04:51.134745",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "合作中。她被许乐那些横溢肆行地设计理念所震惊。更被他解决地天才构想所击倒。她并不知道许乐脑海中地那些秘密。所以这个年轻人在她地心中显得越神秘而强大。\n\n    “你醒了？”许乐说了一声。\n\n    “嗯。”黑色地汽车在都安静地夜街上前行。一阵沉默之后。商秋忽然开口问道：“你有女朋友吗？”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "秋天的都，深夜的街巷，还未降雪，地面下的自动升温除雪系统自然不会启动，所以四周一片安静，有风席卷着枯黄的落叶在安静无人的人行道上吹拂着。许乐下意识里落下车窗，不想让厚重的防弹隔音玻璃，隔绝了枯叶与地面交错时的簌簌响声。\n\n    簌簌，这是秋天的声音，许乐快乐地听着，双手稳定地把握着方向盘",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "来不把自己当女人，因为这些家伙在我的眼里，根本不是男人。”\n\n    技术小组成员们苦着脸纷纷点头，心想只有长年在一起工作，大概才能知道这个女人要求有多变态，态度多严苛。\n\n    聚会散了后，许乐送商秋回酒店，开车望着前方的道路，开口解释说道：“今天请你喝酒的人，是七大家里林家的少爷。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "聚会散了后，许乐送商秋回酒店，开车望着前方的道路，开口解释说道：“今天请你喝酒的人，是七大家里林家的少爷。”\n\n    商秋微微一怔，眼波流转，似会说话一般，望着他的侧脸，摇头感叹道：“我知道你有国防部的关系，不然８３８４部队那位色狼少校也不会专门负责在港都保护你，但没想到，你居然和联邦",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "看一下事情会怎样展下去。\n\n    电视里正在播放联邦秋季文艺大赏，获得最佳剧情类女主角的那位明星，激动地抱着奖座，泣不成声，旋即幽幽一笑说道：“这真是令人心情激动的一年，总统大选还没有出结果，我这边却先合的奖了。”\n\n    台下的明星观众们大笑了起来，纷纷鼓掌示意。那位漂亮的卷女明星笑着说道：“",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "可不是我招蜂惹蝶。专业提供手机电子电子下载”商秋对同伴们恼怒地解释道t7子重新扣好，挥手说道：“我平时可不会这么穿，那天在指挥大厅里，你们都看见我穿的有多么庄重严肃。”\n\n    技术小组的工程师们赶紧点头。许乐挠了挠头，笑着说道：“可我记得你在工程部里穿的比现在还要清凉。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "久没有出现。\n\n    许乐静静地看着电视，想着那个已经快要淡忘了的联邦偶像，想到当年的痴迷，才觉得人生的进程竟是这样迅速，迅速到自己都有些反应不过来。这一年的时间，因为忙于很多事情，他已经很久没有看电视了。\n\n    就这样想着，他在沙上安静地入睡，公寓四周的简易安全监控系统，忠实地执行着使命，直",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "袭击之后，联邦电视台２３频道那部红遍宇宙的电视剧便停止了播出。简水儿也消失在了荧光幕前，已经很久没有出现。\n\n    许乐静静地看着电视，想着那个已经快要淡忘了的联邦偶像，想到当年的痴迷，才觉得人生的进程竟是这样迅速，迅速到自己都有些反应不过来。这一年的时间，因为忙于很多事情，他已经很久没有看电视了",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "乐没有什么地想法。只是静静地看着她。知道这几年里她为累成什么模样。大约也只有在这样地夜里。才能真正地轻松一下。他自幼便以成为一名联邦顶尖地机修师为目标。如今正行走在这条路上。而身旁地商秋毫无疑问是最值得他敬佩地人物。如此年轻便已经做到了很多工程师一辈子也做不到地事情。\n\n    他回过头去开车。商秋",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "寒冷地空气通过车窗吹了进来。他脸上微凉。打了一个寒颤。却反而觉得精神一振。旋即想到身旁还有一人。马上关上了车窗。用余光望去。\n\n    商秋安静地靠在椅上。脸上带着一丝疲惫与放松地神情。稀疏地眼睫毛。翘立地鼻尖。微嘟着地唇。光洁地下颌。形成一道精致地线条。安全带紧紧地系在女孩儿地身上。将她鼓囊囊",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "……\n\n    回到望都区公寓的时候，已经是凌晨两点多钟。酒后的许乐感觉有些口渴，却没有睡眠的渴望，他打开了一瓶纯净水，舒服地靠在了沙上，看着电视开始呆。\n\n    许乐清楚自己与工程部的合作已经结束，或许以后的岁月里，再也没有与那些工程师们无间合作的机会，或许以后很难再见到商秋，所以想到先前",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "地打量着许乐，现这个男孩儿在躲避着自己的\n\n    觉得越有趣了，却也不想让许乐窘迫的太过厉害，t“以后你有什么打算？”\n\n    温暖的车厢，惹火的女子，杀死眼光的酥软胸部，许乐目视前方，也能感觉到一股子暧昧的气氛正在弥漫，听到这句话，顿时松了一口气，回答道：“能有什么打算，大概还是先回白水吧，我",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "程部里穿的比现在还要清凉。”\n\n    商秋知道他是在说那次视频的事情，噗哧一笑说道：“我在工程部里从来不把自己当女人，因为这些家伙在我的眼里，根本不是男人。”\n\n    技术小组成员们苦着脸纷纷点头，心想只有长年在一起工作，大概才能知道这个女人要求有多变态，态度多严苛。\n\n    聚会散了后，许乐",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "双眼。\n\n    秋天的都，深夜的街巷，还未降雪，地面下的自动升温除雪系统自然不会启动，所以四周一片安静，有风席卷着枯黄的落叶在安静无人的人行道上吹拂着。许乐下意识里落下车窗，不想让厚重的防弹隔音玻璃，隔绝了枯叶与地面交错时的簌簌响声。\n\n    簌簌，这是秋天的声音，许乐快乐地听着，双手稳定地把握",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "着自己的\n\n    觉得越有趣了，却也不想让许乐窘迫的太过厉害，t“以后你有什么打算？”\n\n    温暖的车厢，惹火的女子，杀死眼光的酥软胸部，许乐目视前方，也能感觉到一股子暧昧的气氛正在弥漫，听到这句话，顿时松了一口气，回答道：“能有什么打算，大概还是先回白水吧，我的档案还在那边。”\n\n    “",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

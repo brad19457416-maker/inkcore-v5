@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 403,
+  "chapter_title": "第六十六章 田大棒子与军官",
+  "filename": "ch_0403_第六十六章 田大棒子与军官.txt",
+  "char_count": 3427,
+  "timestamp": "2026-04-10T12:04:59.200296",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "瓜，进梨花大学遇着邰之源，如果这一切真是大叔安排的，那厮未免也太过近妖，而且他死之前做这种安排究竟是为什么？\n\n    庄园已乱，人不能散。在幽林之畔，许乐向田胖子认真地开口问道：“你当时怎么知道那个灰衣人就是枪手？”\n\n    “你又是怎么知道的？”田胖子笑眯眯地望着许乐，反问道。\n\n    许乐",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，难道也是因为……田胖子？\n\n    “我就是田大棒子，七少爷有什么吩咐？”田胖子笑眯眯地望着利孝通说道，手里还笨拙地握着那把刚刚杀过人的枪，笑容里却充满了不知从哪里来的热情与亲切。\n\n    利孝通却无法忘记此人刚刚毙了一名厉害枪手，心头一寒，苦笑说道：“田上校不要逗我，只是向您问个安罢了。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "木谷今日有风波，不可能有时间去痛诉革命男保姆家史，只是开了个头便戛然而止。只是在说的时候，许乐不禁暗想，封余大叔给自己留下的逃离东林路线，才遇着小西瓜，进梨花大学遇着邰之源，如果这一切真是大叔安排的，那厮未免也太过近妖，而且他死之前做这种安排究竟是为什么？\n\n    庄园已乱，人不能散。在幽林之畔",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "范，绝军人或许暴烈好胜记仇，却不是丧心病狂之辈。\n\n    田胖子见他摇头，哈哈大笑了起来，笑声中却骤然间生出一丝与他身形情态完全不符的沧桑坚狠意味。\n\n    没有过多久，都警察总署和联邦调查局的探员们来到木谷庄园，痛苦而愤怒地开始了对此次事件的调查，无论是谁，想要伤害到西林钟家送到联邦来的小公主",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "“那你为什么要杀他？”许看着田胖子垂在腰侧那双软绵绵的馒头手，轻声问道。\n\n    “因为很危险。”田胖子转过身来，望着许乐说道：“虽然被你和你手下伤了，但当时的他依然危险。事实上像这种危险的高手，就算抓住他，也不可能问出幕后的主使……既然如此，我宁愿当场杀了他，震慑一下某些人。”",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "在联邦中的影响及地位而言，一名已经退伍的上校，断然不能令利孝通如此尊敬；田胖子当场毙了那名枪手，虽说众人看着是那名枪手先掏的枪，但那枪手终究是林家安全人员的身份，向来愚蠢放肆骄傲的林斗海，居然也变的如此老实，难道也是因为……田胖子？\n\n    “我就是田大棒子，七少爷有什么吩咐？”田胖子笑眯眯地望着",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "徒，然后挑了十四家……”\n\n    利孝通微涩一笑说道：“如果不是费城有李家坐镇，真不知道会闹出多大风波来。后来他从军入伍，也不知道在前线惹了多少乱子，幸亏西林那头老虎能镇得住他。”\n\n    听到修身馆三个字，许乐很自然地想到三年前在古钟号飞船上，田胖子对自己的建议。但他此刻想的更多的是，在费城那",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "间生出一丝与他身形情态完全不符的沧桑坚狠意味。\n\n    没有过多久，都警察总署和联邦调查局的探员们来到木谷庄园，痛苦而愤怒地开始了对此次事件的调查，无论是谁，想要伤害到西林钟家送到联邦来的小公主，都是政府绝对不会允许的事情。\n\n    击毙了枪手的田胖子，留下一份简单的笔录和一个联系方式，便抱起了",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "态完全不符的沧桑坚狠意味。\n\n    没有过多久，都警察总署和联邦调查局的探员们来到木谷庄园，痛苦而愤怒地开始了对此次事件的调查，无论是谁，想要伤害到西林钟家送到联邦来的小公主，都是政府绝对不会允许的事情。\n\n    击毙了枪手的田胖子，留下一份简单的笔录和一个联系方式，便抱起了钟烟花，在手下那批强",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "车队，想起小姑娘先前脆生生的告别，平凡的面容上不禁浮现出一丝真诚的笑容，马上便要结束假期了，也不知道将来还能不能再见这位小姑娘。\n\n    想到钟烟花清嫩的小脸，心头那抹阴影很自然地淡了少许，他下意识回头望去，知道联邦调查局和警察总署的不可能为难到南相家，却止不住好奇，那位秀丽的女孩儿，如果知道此间",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，却泄露了他此时真实的情绪。\n\n    这层滤光薄膜可以防止热成像系统的探视，所以他站在窗后并不怎么担心自己的真实面容被人看到，但他依然把军帽压的低低的，让阴影挡住了自己大部分的面容，就像今天死在庄园里的那名枪手一样。\n\n    “任务又失败了。”他身旁一名下属脸色沉郁说道。\n\n    (离九点四十",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "也许总能问出一些什么来。”\n\n    “问出了谁能信？哪怕帝国的崽子们一直盯着我们，来自联邦的敌意也从来没有减少过。”田胖子略带一丝嘲讽望着他，说道：“如果我说是铁七师做的，你信吗？”\n\n    许乐认真地思考了很久，然后摇了摇头，任何一个逻辑思维正常的人，都不会认可田胖子疯狂的推论，杀死西林钟家的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "和对着田胖子致意说道：“田上校，家里长辈想请你过去坐坐。”\n\n    今日木谷庄园里的第三，一直沉默安静到现在的南相家族，终于声，第一声却与庄园里隐隐流动的寒流无关而是请这位看上去太过寻常的田胖子过去一叙。\n\n    七大家之一南相家，持家甚严，与邰家的隐于历史幕后不同，属于真正的低调，甚至比远在3",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

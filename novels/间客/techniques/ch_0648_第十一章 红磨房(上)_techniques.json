@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 648,
+  "chapter_title": "第十一章 红磨房(上)",
+  "filename": "ch_0648_第十一章 红磨房(上).txt",
+  "char_count": 3308,
+  "timestamp": "2026-04-10T12:05:08.618110",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "木白，每一抹晨光穿透林稍，落在脸上，他们忽然同时睁眼，不是被天光惊醒，而是月时嗅到了桑林里传来了某种危险的气息。\n\n    许乐将手掌放到她面，专注而仔细地感受着那丝若才若无的震动，杯草诗则是来到了桃瘴机甲之下，看着机甲侧甲处的外挂声波监孔装备，缓缓皱起了眉头。\n\n    “走。怀草诗干净利落地说道",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "退天下无双，近战长松迅猛无涛，没有一台叛军机甲能在它的面前支撑过十秒钟。在常规战场上，这场机甲战毫无疑问将以桃瘴机甲的胜利而告终，因为他可以像一头鲨鱼般，冷摸地四处周游，残忍寻机攻击鱼群，然后再次远避，就这样简单的重复下去，叛军机甲群将灭亡。\n\n    然而在这片桑树海中，桃瘴机甲无法做到这一点，因",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "一直没有援军到来，桃瘴机甲孤单地在桑树海中与这些叛军周旋，纵使机甲座舱中的二人，是宇宙中最强大的机动战士，然而面对着近两百台机甲的追杀，也不可能主动选择正面对杭，更何况许乐体内力量尽毁，而怀草诗身受重伤……\n\n    情况非常危急，幸亏这颗星球上的桑树种植面积大的惊人，才给了桃瘴机甲足够",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "集的桑树，高前行。\n\n    十分钟之后。\n\n    这片恢复安静的桑树林外传采巨大的轰鸣声响，整个大地都开始颤动，初醒的林鸟与草间的昆虫惊恐万分地四处奔逃。\n\n    近二十台黑青色的帝园夜狼机甲围了过来，沉重的合金机身，将林间的草她压的狼籍一片，泥石翻滚。\n\n    确认目标巳轻再次远离，这支机",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "机甲里那人感到无比敬畏，然而他们既然一开始选择了这条大逆的道路，便再也无法回头，反而因为内心深处令人颤抖的敬畏，而变得更加疯狂起来。\n\n    桑林海中最近的几次机甲遭遇战，叛军的机甲一次比一次更疯狂，更不耍命，他们明知必败必死，却像扑火的飞蛾般源源不绝地围堵姚瘴机甲，不惜一切代价对桃瘴机甲的机身起",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "了桃瘴机甲之下，看着机甲侧甲处的外挂声波监孔装备，缓缓皱起了眉头。\n\n    “走。怀草诗干净利落地说道。\n\n    许乐没有任何犹豫，起身向机甲走去。\n\n    件随着清晰的电流声，桃瘴机甲如神诋般站立，越过桑树梢头，面向朝阳升起的地方。\n\n    两个人向机甲上攀采爬，一面攀爬一面大声地咳嗽，咳",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "耍追杀那位大人物，他的心早就无限恐怖……\n\n    在此后的十几天时间内，在离坂星桑植州的桑树海中，出现了七八支像这支机甲小队一样的队伍，这些不知属于何方势力的帝园部队，沉默而坚忍地追击着那台机甲。\n\n    一直没有援军到来，桃瘴机甲孤单地在桑树海中与这些叛军周旋，纵使机甲座舱中的二人，是宇宙中最",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，迎接他的将是什么？\n\n    在自己的星域之中，被自己的臣民杀死？\n\n    怀草诗的脸上泛起一丝自嘲的笑容，忽然觉得天边那轮红通通的落日是假的，不然为什么身体感到有些寒冷。\n\n    眯眼望着磨房下方坑道里的流水，沉默很长时间后，他忽然开口问道：“你有什么看法？”\n\n    此时红色的磨房中只有",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "线。\n\n    桃瘴机甲舱门关闭，引擎再次轰鸣，那些今许乐感到心痛奢侈的晶矿，进行了原始雾化，催动着沉重的机身，化为清晨的一只巨鸟，斜斜掠起，巧妙她饶过密集的桑树，高前行。\n\n    十分钟之后。\n\n    这片恢复安静的桑树林外传采巨大的轰鸣声响，整个大地都开始颤动，初醒的林鸟与草间的昆虫惊恐万分",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "注而仔细地感受着那丝若才若无的震动，杯草诗则是来到了桃瘴机甲之下，看着机甲侧甲处的外挂声波监孔装备，缓缓皱起了眉头。\n\n    “走。怀草诗干净利落地说道。\n\n    许乐没有任何犹豫，起身向机甲走去。\n\n    件随着清晰的电流声，桃瘴机甲如神诋般站立，越过桑树梢头，面向朝阳升起的地方。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "就伍两座雕像一样，沈默地坐在各自的桑树下。直到天边泛起柳木白，每一抹晨光穿透林稍，落在脸上，他们忽然同时睁眼，不是被天光惊醒，而是月时嗅到了桑林里传来了某种危险的气息。\n\n    许乐将手掌放到她面，专注而仔细地感受着那丝若才若无的震动，杯草诗则是来到了桃瘴机甲之下，看着机甲侧甲处的外挂声波监孔装备",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的战斗力，还才他无法理解的旺盛的战斗**，虽然此人的脸颊显得越来越消瘦，可那双并不大的眼睛里的光彩却从来没有黯淡过。\n\n    然而就如疯狂追袭的数支机甲部队期望的那般，伤重难复，疲惫入骨的杯草诗强悍地坚持了下来，而桃瘴机甲，却终究是无法承受越来越多的零件损耗和金属疲劳，在某个安静的黄昏时刻到了下来",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "分地四处奔逃。\n\n    近二十台黑青色的帝园夜狼机甲围了过来，沉重的合金机身，将林间的草她压的狼籍一片，泥石翻滚。\n\n    确认目标巳轻再次远离，这支机甲部队没有盲目地进行四处散击，而是暂时停了下来，一台机甲座舱打开，一名上校军衔的帝**官表情阴沉她走了下来，蹲在一课桑树下，认真拖拙寻着任何痕迹",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "来了某种危险的气息。\n\n    许乐将手掌放到她面，专注而仔细地感受着那丝若才若无的震动，杯草诗则是来到了桃瘴机甲之下，看着机甲侧甲处的外挂声波监孔装备，缓缓皱起了眉头。\n\n    “走。怀草诗干净利落地说道。\n\n    许乐没有任何犹豫，起身向机甲走去。\n\n    件随着清晰的电流声，桃瘴机甲如神",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

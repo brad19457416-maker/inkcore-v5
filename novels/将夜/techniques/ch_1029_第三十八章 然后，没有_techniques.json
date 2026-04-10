@@ -1,0 +1,115 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1029,
+  "chapter_title": "第三十八章 然后，没有",
+  "filename": "ch_1029_第三十八章 然后，没有.txt",
+  "char_count": 2296,
+  "timestamp": "2026-04-10T12:11:34.943682",
+  "techniques_count": 8,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "定，似乎无论身后将会掀起怎样的巨澜，都不会被吞噬。\n　　时间缓慢却不容置疑地流逝，就像殿外崖间吹来的风，虽然轻柔但却严寒，不容置疑地降低着温度。\n　　下一刻便是掌教与裁决神座之间的战争？\n　　再次出乎所有人的猜想，叶红鱼脸上的神情渐渐宁静，不再深沉，没有凝重，只是浅淡如梅树下的清溪。\n　　她没有任何",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "色各色神袍组成的海洋，可以平静可以狂暴，但在她的目光之前，都变成了四散的水流，向着低洼处淌去。\n　　寂静无声，连脚步声都没有，在极短的时间里，数千名神官执事悄无声息地退出了大殿，把这个世界留给两人。\n　　叶红鱼，以及光幕后的掌教大人。\n　　“我很好奇，书院是怎么知道的。”\n　　叶红鱼坐在椅上，面无表",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "了解你的不是朋友，而是敌人。\n　　熊初墨终于开口说话了：“从听到那句话开始，你似乎就没有怀疑过，这是为什么？”\n　　叶红鱼坐在椅中，面无表情看着殿外的冬空，说道：“我一直都知道是你，只不过没有想到，别人也知道是你。”\n　　熊初墨沉默了很长时间，问道：“你从什么时候开始知道的？”\n　　叶红鱼有些疲倦地",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "其中一道里面满是血污，似永世不能复原，看着极为肮脏邪恶，渐有幽芒在他的眼眸最深处蕴积，那是震惊，那是愤怒与畏惧。\n　　――今天他才明白，当初自己能在余帘手中逃出生天，不是因为自己够强，而是因为这是余帘布的局。\n　　用叶红鱼的话来说，在余帘眼里，他从来都没有资格成为对手，他的死活对余帘来说毫不重要，她",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "叶红鱼，以及光幕后的掌教大人。\n　　“我很好奇，书院是怎么知道的。”\n　　叶红鱼坐在椅上，面无表情说道，没有转身向那道光幕望上一眼。\n　　光幕后，掌教微微眯眼看着她的背影，不知在想些什么事。\n　　叶红鱼没有等他的回答，声音冷淡说道：“书院知道这件事情，只有一个可能，那就是余帘。”\n　　余帘是书院三",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "”\n　　叶红鱼缓缓起身，说道：“我一直想不明白她为什么要放过你，宁缺也想不明白，直到现在，答案才终于出现。”\n　　她依然没有转身，依然看着殿外的冬空。\n　　“因为她知道我一定会杀死你，所以她让你活着，给我一个叛教的理由，必然的理由，用你一个废物换来道门分裂……”\n　　她神情平静道：“果然不愧是二十三",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，叶红鱼脸上的神情渐渐宁静，不再深沉，没有凝重，只是浅淡如梅树下的清溪。\n　　她没有任何表情，就这样缓缓坐回椅中。\n　　那件血红色的裁决神袍，随着她的动作飘起，然后落下，如一朵红花般敛回枝头，再无声息。\n　　似乎什么都没有发生，似乎没有听到一个字，她静静坐在椅中，只有裁决神殿最亲近的下属和那些境界高",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "她看来，你或者根本没有资格成为她的对手，只因为她是二十三年蝉，她是魔宗宗主……人间最擅长阴谋诡计的，从来都是魔宗，她知道再多事，我都不会意外。”\n　　“就因为这个原因，你就确定她知道？”\n　　“还因为当年在书院后山，她把你伤成废物，却没有杀你。”\n　　叶红鱼缓缓起身，说道：“我一直想不明白她为什么要",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

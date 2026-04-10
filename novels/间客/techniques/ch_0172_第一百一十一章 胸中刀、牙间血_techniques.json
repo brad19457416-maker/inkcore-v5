@@ -1,0 +1,271 @@
+{
+  "novel": "间客",
+  "chapter_number": 172,
+  "chapter_title": "第一百一十一章 胸中刀、牙间血",
+  "filename": "ch_0172_第一百一十一章 胸中刀、牙间血.txt",
+  "char_count": 8991,
+  "timestamp": "2026-04-10T12:04:45.690466",
+  "techniques_count": 20,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "时刻从李疯子身上传来的那股熟悉，却又有些不一样的颤抖感觉，心情变得略微有些怪异。今天暴露了体内最大的秘密，不知道那个叫李疯子的少年军官有没有查觉，毕竟融合进体内，也才一个多\n\n    李疯子确实是他这辈子遇到的最恐怖的人物，在林园里的战争危险到了极点，那接连而至，如雷如锤的三拳，实在是令人惊心动魄，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "厚，联邦军方李姓的大人物……\n\n    他的眼瞳微微一缩，马上明白了先前自己为什么会捕捉到如此强烈的危险感觉。可惜他还没来得及确认这位少年军官的真实身份，事情好像就绕到了他的身上。\n\n    李疯子今年十六岁，十二岁入伍，联邦有史以来最年轻的校级军官，至于以他的年龄如何能够参军，自然有他身后的那个家",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "击溃了数名西林军校地优秀士官，还和那名深不可测的田姓船长对过一脚。来到首都星圈之后，他和第一军事学院最强大的王牌机师周玉战斗过。在临海州的地下停车场内，他无比狂放地踹过一辆冰冷的军用机甲，于黑暗的水花中，在极其艰难的情况下，将那些进行暗杀的军方强者一一斩杀……\n\n    许乐这些年出手地机会不多。但",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "个少尉，混的很惨，但我老李家也不是拿这种眼光看人的人，所以这也不是问题。”\n\n    许乐目光微垂，心想自己进入果壳机动，直接升为文职少尉，一般而言已极为不错，但如果和一名十六岁的联邦中校相比，自然算混的极惨。他不明白面前这个实力恐怖的少年军官为什么要说这些，他只是注意到对方十六岁的身高，竟比自己已",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "一场极为漫长凶险的搏斗，但这只是对于他们这种反应速度超乎常人的局中人而言。林园餐厅里那些表情各异的客人们，所看到的场景完全不同，他们只是看到李疯子用一种恐怖的速度，砸了那名少尉三拳，然后两个人靠近了一下，最后分开。\n\n    这一切都发生在极短的时间内。从李疯子开始动手。到最后两人分开，不过瞬息时间",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "地抬起手来，擦了擦脸。\n\n    “你配不上郁子。所以我要打死你。”李疯子说完这句话后，心情似乎变得轻松了许多。\n\n    一旁的邹郁脸色早已变得惨白，她知道这个小疯子是真敢打死人的，而看他此时的脸上露出了笑容，只怕再也阻止不了。她端起桌上的酒杯，一杯红酒泼了过去！\n\n    李疯子说要打死许乐。最",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "子或许很疯。但绝对不是白痴。十二岁入伍能够活到现在。还活地如此放肆。他地脑子要比一般人更好使。只是一瞬间。他已经注意到邹郁眼眸里地担忧之色。那抹担忧之色似乎是对着自己身边那个小男人。\n\n    “既然怀孕了，总要有个男人，郁子，我虽然没有上过几天学，但这个事情还是知道的。”\n\n    李疯子有些伤感",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "第一百一十一章 胸中刀、牙间血 \n\n    稚嫩的面容，愤怒的神情，隐藏着无穷力量的身躯，全部集中在这名少年军官的身上。他先前第一声暴喝时，称呼邹郁为郁子，接下来却换成了邹郁，许乐在桌旁分析，总觉得这个奇怪的少年军官，在邹郁面前总想扮成熟。\n\n    李疯",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，又让桌上的玻璃杯开始嗡嗡震动起来。\n\n    李疯子不再理会那几名无奈退后的军官，冷冷地看着许乐，说道：“她幸福，什么都好，所以我没理由打你……可问题在于，我认为她跟着你不会幸福。”\n\n    他那双清俊的眉毛皱了起来，说道：“因为，你不是一个男人。”一般的联邦少年在李疯子这个年纪的时候，眉头一皱",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "冷，盯着桌旁的许乐的脸。\n\n    先前他根本没有注意到这个面相平凡的年轻军官，区区一个文职少尉，按道理来讲，不可能与邹郁有任何关系，应该只是邹家派给邹郁的勤务兵之类，而且他来到这段时间，也一直没有感觉到这个普通的少尉有任何出奇的地方。\n\n    可是……这名少尉太平静了，李疯子的眼睛微微眯了起来，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "微微发力。随时准备抓实地面，暴发一击。\n\n    近两年前在东林大区，宪章局组织的那次行动之中，许乐第一次施展封余大叔教给自己的本领，在一眨眼间击昏了一名训练有素的联邦特种军人。后来在古钟号飞船上，他一人击溃了数名西林军校地优秀士官，还和那名深不可测的田姓船长对过一脚。来到首都星圈之后，他和第一军事",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "六岁地少年军官拥有怎样恐怖地实力。以及怎样暴戾地性情。李疯子此时地表情看似平静。但她清楚。这正是真正风暴地源头。\n\n    “这似乎不关你地事。”邹郁心中无比地担心。脸色微微发白。却依然语气平静地反驳道。按照许乐与她搭成地协议。如果出现迫不得已地情况。许乐只好冒充腹中孩子地父亲。但此时此刻。面对着李",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "军官，区区一个文职少尉，按道理来讲，不可能与邹郁有任何关系，应该只是邹家派给邹郁的勤务兵之类，而且他来到这段时间，也一直没有感觉到这个普通的少尉有任何出奇的地方。\n\n    可是……这名少尉太平静了，李疯子的眼睛微微眯了起来，联想到邹郁先前眼眸里流露出来的那一丝担忧，眯着的眼缝里流露出一丝寒冷至极的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "道此人是真地怒了。而自己这几个人如果不动用武器。怎么可能拦住他地怒火？\n\n    邰家与李疯子家关系一向良好。邹郁当然也清楚这个十六岁地少年军官拥有怎样恐怖地实力。以及怎样暴戾地性情。李疯子此时地表情看似平静。但她清楚。这正是真正风暴地源头。\n\n    “这似乎不关你地事。”邹郁心中无比地担心。脸色",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，郁子，我虽然没有上过几天学，但这个事情还是知道的。”\n\n    李疯子有些伤感地看了邹郁一眼，然后缓缓转过头来，眼眸里的伤感变成了霸蛮狠冷，盯着桌旁的许乐的脸。\n\n    先前他根本没有注意到这个面相平凡的年轻军官，区区一个文职少尉，按道理来讲，不可能与邹郁有任何关系，应该只是邹家派给邹郁的勤务兵",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "，李疯子也同样踏前了一步，而且就如同许乐一样，纯粹是一种战斗本能里的反应，十分自然！\n\n    两人同时踏前，就像是在做某种配合一般，显得是那样的和谐。然而和谐之中的两人，却已经到了最危险的关头。冒险调用了体内神秘力量的许乐，怎么可能放过这个机会，虽然因为李疯子如出一辙般的踏前，导致了无法伤害对方胯",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "此时地表情看似平静。但她清楚。这正是真正风暴地源头。\n\n    “这似乎不关你地事。”邹郁心中无比地担心。脸色微微发白。却依然语气平静地反驳道。按照许乐与她搭成地协议。如果出现迫不得已地情况。许乐只好冒充腹中孩子地父亲。但此时此刻。面对着李疯子隐忍待发地怒火。邹郁怎么也不可能把许乐顶到面前来。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "前这个实力恐怖的少年军官为什么要说这些，他只是注意到对方十六岁的身高，竟比自己已经高出了半个头，那种压迫感仿佛已经随着这些话语变成了真实的。\n\n    此时那几名跟着李疯子走进林园的军官上前，想要劝说几句什么，不料李疯子猛一回首，瞪着眼睛，大声吼道：“我在解释！都给我让开！”\n\n    这是他家专程",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "胳膊，向林园餐厅外走去。\n\n    李疯子像是没有看他地举动，平静地站在餐桌旁，一动不动，陷入了入伍以后难得一次的自省与沉思。\n\n    他知道自己输了，两个人最后莫名其妙的同时按照本能施展出了进身技，然后同时出手，可是最后时刻，那名少尉的拳尖低了三分。\n\n    正是这三分，让拳尖离开了自己防守能",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "的玻璃杯开始嗡嗡震动起来。\n\n    李疯子不再理会那几名无奈退后的军官，冷冷地看着许乐，说道：“她幸福，什么都好，所以我没理由打你……可问题在于，我认为她跟着你不会幸福。”\n\n    他那双清俊的眉毛皱了起来，说道：“因为，你不是一个男人。”一般的联邦少年在李疯子这个年纪的时候，眉头一皱，是在想着",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

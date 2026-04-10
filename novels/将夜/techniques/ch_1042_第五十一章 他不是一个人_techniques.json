@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1042,
+  "chapter_title": "第五十一章 他不是一个人",
+  "filename": "ch_1042_第五十一章 他不是一个人.txt",
+  "char_count": 5383,
+  "timestamp": "2026-04-10T12:11:34.965935",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "她手里的铁棍变了方向，不再击落，而是横于身前，如大江上著名的风景，那片黑色崖石前的铁栏，把滔滔江水的危险拦在人类身前。\n　　隆庆的拳头落在铁棍上。\n　　啪的一声！已经弯折的铁棍再次从中间弯折，弯的更加厉害，形成一道曲线，似乎只要再被孩童吹一口气，便会真正折断。\n　　唐小棠的胸口也出现了一道曲线。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "声闷响，那里的地面，再次被砸的微微下陷。\n　　脚步声响起，很有节奏。\n　　隆庆从坑底走了出来，出现在众人眼前。\n　　他的脸色有些苍白，唇有些青，身上有些血渍，神情却很平静。\n　　广场上一片死寂。\n　　所有人的目光都落在他的身上，无论是剑阁弟子还是新教信徒，或是西陵神殿方面的神官执事，人们的神情都很震",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "鸣声直接震死，饶是如此，也有很多人被震晕了过去。\n　　至少数万斤的石屑与泥土，被恐怖的撞击震起，抛向天空，瞬间遮住远处的朝阳，黑蒙蒙的一片，完全看不清楚场间的画面。\n　　昏暗一片里，石砾如雨般簌簌落下，打的残叶啪啪作响，碎成絮状，打的院墙里的柴堆有些凌乱，有的落入井中，像是数百只青蛙在跳水。\n　　不",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，紧紧地抿着双唇，只有这样，才能不让胸腹里积着鲜血喷出来，只有这样才能继续握着铁棍，而不被看出虚弱的真相。\n　　隆庆忽然笑了起来，齿间尽是鲜血，形容看着有些恐怖，如剑般的眉也挑了起来，衬着灰暗的眼眸，很漂亮，也很诡异。\n　　“但你再强大也没有意义。”\n　　隆庆微笑说道：“因为……我更强大，你甚至不可",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "整肃道门内部的势力，光明神殿和天谕神殿以及忠于掌教的势力里，不知多少人被关进幽阁，于是那些道门强者，最终都成为了他那双灰眸的牺牲品。\n　　魔宗创饕餮大法，其后被道门改成灰眸，前后数百年间，只有隆庆将这功法修到极致，因为只有他拥有如此机缘，拥有如此多的“食物”，现在的他境界是知命巅峰，却拥有难以想象的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，形容看着有些恐怖，如剑般的眉也挑了起来，衬着灰暗的眼眸，很漂亮，也很诡异。\n　　“但你再强大也没有意义。”\n　　隆庆微笑说道：“因为……我更强大，你甚至不可能再找到比我更强大的人，因为，亲爱的小姑娘，我早就不再是一个人。”\n　　他的声音有些微微颤抖，不是因为伤势，而显得有些兴奋，甚至有些疯癫，他觉",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "根本没有一种修行功法，能够做到这样的事情。\n　　这只能是神迹。\n　　“我明白了。”\n　　隆庆看着她，感慨说道：“这是昊天给你的礼物？”\n　　说这句话的时候，他的神情有些惘然，有些感怀，因为他的前半生一直在向昊天靠近，无论光明还是黑暗，都在追随。\n　　然而到了今日，他却发现自己离昊天越来越远，相反站在",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "终究没有倒下。\n　　唐小棠的脸色也很苍白，魔宗圣物的铁棍都已变形，她的腕骨更是被直接震碎，右臂不停地颤抖着，似乎下一刻便会握不住。\n　　喀喀声响，隆庆缓缓站了起来，道衫下摆尽碎，满身尘土。\n　　他看着唐小棠说道：“你不应该这么强大。”\n　　唐小棠没有说话，紧紧地抿着双唇，只有这样，才能不让胸腹里积着",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "院墙前，多出了一个坑。\n　　青石地面很坚硬，下方是相对松软的泥土，但更深处是更坚硬的花岗岩，此时却出现了一个坑，一个很深的坑。\n　　烟尘渐敛，坑底两个人影渐渐显现。\n　　唐小棠手里握着铁棍，铁棍有些变形。\n　　铁棍的前方，是一只手，一只泛着淡淡灰色，仿佛不是人类的手。\n　　隆庆以手握棍，脸色苍白，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，悲惨的簌簌落下。\n　　隆庆仿佛变成了一个黑洞，无数天地气息，从城市的四面八方涌来，卷起树叶与残雪，来到断墙前的坑底，进入他的身躯。\n　　不尽数量的天地气息，被他身躯里那些庞杂的灵魂吸引，带着难以想象的恐怖意志，从他的胸间迸发而出，瞬间穿过那件看似单薄的道衫。\n　　他的胸腹间本身就有个洞，宁缺射出来",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "接震死，饶是如此，也有很多人被震晕了过去。\n　　至少数万斤的石屑与泥土，被恐怖的撞击震起，抛向天空，瞬间遮住远处的朝阳，黑蒙蒙的一片，完全看不清楚场间的画面。\n　　昏暗一片里，石砾如雨般簌簌落下，打的残叶啪啪作响，碎成絮状，打的院墙里的柴堆有些凌乱，有的落入井中，像是数百只青蛙在跳水。\n　　不知过了",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "证明了，桑桑当时说的那句话并不是玩笑，而具有真实的力量。\n　　在那些连绵不断的战斗里，她受了很多伤，同时她发现自己的身体与天地元气之间仿佛建立了某种神奇的联系，失去的力量能够得到最快的补充，再重的伤势也能在极短的时间里复原，死亡总喜欢和她擦肩而过。\n　　这或者，就是永生的意思。\n　　当然，虽然神迹在",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的铁棍都已变形，她的腕骨更是被直接震碎，右臂不停地颤抖着，似乎下一刻便会握不住。\n　　喀喀声响，隆庆缓缓站了起来，道衫下摆尽碎，满身尘土。\n　　他看着唐小棠说道：“你不应该这么强大。”\n　　唐小棠没有说话，紧紧地抿着双唇，只有这样，才能不让胸腹里积着鲜血喷出来，只有这样才能继续握着铁棍，而不被看出虚",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，似乎下一刻便会握不住。\n　　喀喀声响，隆庆缓缓站了起来，道衫下摆尽碎，满身尘土。\n　　他看着唐小棠说道：“你不应该这么强大。”\n　　唐小棠没有说话，紧紧地抿着双唇，只有这样，才能不让胸腹里积着鲜血喷出来，只有这样才能继续握着铁棍，而不被看出虚弱的真相。\n　　隆庆忽然笑了起来，齿间尽是鲜血，形容看着",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

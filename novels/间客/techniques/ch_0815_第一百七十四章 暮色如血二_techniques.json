@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 815,
+  "chapter_title": "第一百七十四章 暮色如血二",
+  "filename": "ch_0815_第一百七十四章 暮色如血二.txt",
+  "char_count": 3445,
+  "timestamp": "2026-04-10T12:05:17.586057",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "上，猛烈的力量让他头顶花白的头开始不停颤抖。\n\n    “情报出了什么问题？ 运算的结果并不是这样，为什么参谋部认为的小型骚扰部队，里面却茂着几十台该死的狼牙？”\n\n    易司令迅的冷静下来，缜部的青筋一现即 隐，他冷冷地盯着参谋部里的军官和旁边的宪章届技术小组，蹙着眉头说道：“宪章电脑也许会出问",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，像受伤后的老鹰般死死盯着稍有延迟的卫星画面，确认再也收不到那个营的任何信号，他深深的吸了口气，右拳愤怒地重重捶打在控制台上，猛烈的力量让他头顶花白的头开始不停颤抖。\n\n    “情报出了什么问题？ 运算的结果并不是这样，为什么参谋部认为的小型骚扰部队，里面却茂着几十台该死的狼牙？”\n\n    易司",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "易司令迅的冷静下来，缜部的青筋一现即 隐，他冷冷地盯着参谋部里的军官和旁边的宪章届技术小组，蹙着眉头说道：“宪章电脑也许会出问题，但你们这些参谋的脑子不能出问题。”\n\n    一名宪章局官员站起身来，低声解释道：“现在还不知道是信息搜集出了问题，还是……运算程序出 了问题，我们正在进行事后调查。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "序的方法，我们一般称那些程序漏洞为后门。”“走后门这个说法难道就是这么来的？”李在道微笑着摇了摇头，感慨道：“你们宪章局果然是这个联邦最可怕的部门。”“我现在无法理解的是，如果我们是在走后门，那……许杀-他走的又是哪个门？”\n\n    崔聚冬看着露台下方的草坪，漫山遍野像中央电脑程序般平滑的草坪，在",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "争的准备，他们将要以墨花星球上的全面胜利，向整个宇宙宣告，他们不会再退一步。\n\n    上面生的惨烈战斗画面，不时在这颗星球各个区域上演，然而这片田野和山坡上的攻防战，却透着某种怪异的味道，无论是联邦司令部还是帝国方面，都因为此地相差极为悬殊的实力而感到不可理解。\n\n    战场上的即时信号快传往联",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "血。\n\n    就在这片黑血般的慕色里，处于绝对劣势下的联邦-部队绝望而勇 猛地出最疯狂的反扑，然而最终却只能变成一具具尸体，甚至只能是悲伤的碎片。这里是帝国墨花星球，一个处于1q星系和x3星系之间的普通行政\n\n    在最近的这些日子里，联邦和帝**方不约而同地对这颗行政星加大了投入，联邦是为了深",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "恐怖的火花，数十台帝国狼牙机甲已经姿式诡异地高跃起，向着联邦部队纵深攻去，机甲左机械臂喷吐着噬魂的弹雨，右机械臂前端的合金刀则是不停地刺入联邦装甲车最薄弱的侧甲，虽然不是每一刺都能成功，但仍然不时有惨烈的车毁人亡画面生。\n\n    黑色的硝烟混着干燥高温的空气，笼罩着整个战场，远处那颗恒星斜斜打过来",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "中很神秘，其实很枯燥，如果不找些业余爱好，很难长时间的做下去，更令人厌恶的是，根据宪章条例，只要宣誓进入宪章局的工作人员，就再也不被允许从事别的任何工作。\n\n    站在他身旁的崔聚冬低声回答道，他的表情显得有些疲惫，最近这些天因为那个问题，这位宪午局代理局长只要呆在宪章局这幢大楼中，就会觉得有一个",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "不担心这种画面会出现，依然回到昨 天夜昙-，那十几台机甲没有对铁七师进行 过一次致命攻击，三定律依然存在。”\n\n    “……也幸亏它依然存在，不然我真的会疯，当然，在我疯之前，这个世界已经毁灭。”崔聚冬自嘲地笑了笑，然后严肃地望着李在道问道：“关于他的权限问题，你究竟能不能解决。”\n\n    李在",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "果这时候许乐直接命令中央电脑把这幢楼炸了，我们除了去死，还是什么别的办法。”“我倒并不担心这种画面会出现，依然回到昨 天夜昙-，那十几台机甲没有对铁七师进行 过一次致命攻击，三定律依然存在。”\n\n    “……也幸亏它依然存在，不然我真的会疯，当然，在我疯之前，这个世界已经毁灭。”崔聚冬自嘲地笑了笑",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "话，沉就片刻后接着说道：“但人是活的，它无法判断人类的目的，事实上数万年来，曾经在这幢大楼里工作过的无数人类，早已寻找到了很多欺骗中央电脑逻辑程序的方法，我们一般称那些程序漏洞为后门。”“走后门这个说法难道就是这么来的？”李在道微笑着摇了摇头，感慨道：“你们宪章局果然是这个联邦最可怕的部门。”“我现",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "光中，长时间无法平息内心的情绪。\n\n    那个团来自西林，来自第四军区，刚刚抵达前线，便遭遇了如此沉重的打击，老虎死了，听说古钟号事件有问题，而就在刚才，听说都那边又生了一件大事……\n\n    西林部队被政府命令前来帝国前线轮战，这已经引起了西林很多人的猜疑愤怒，在这种时候，哪个部队都可以出事，就",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "：“我在想，如果这时候许乐直接命令中央电脑把这幢楼炸了，我们除了去死，还是什么别的办法。”“我倒并不担心这种画面会出现，依然回到昨 天夜昙-，那十几台机甲没有对铁七师进行 过一次致命攻击，三定律依然存在。”\n\n    “……也幸亏它依然存在，不然我真的会疯，当然，在我疯之前，这个世界已经毁灭。”崔聚",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

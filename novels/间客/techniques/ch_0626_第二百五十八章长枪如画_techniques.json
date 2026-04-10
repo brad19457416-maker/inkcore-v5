@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 626,
+  "chapter_title": "第二百五十八章长枪如画",
+  "filename": "ch_0626_第二百五十八章长枪如画.txt",
+  "char_count": 3795,
+  "timestamp": "2026-04-10T12:05:08.580142",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "公主殿下，帝国什么时候又出现了如此强大的人物？\n\n    他深深的吸了一口气，身体腰后灼热力量的源泉瞬间蔓延至全身，将能够清晰感知的力量感觉传送到每一对肌肉双纤维，每一个毛孔，每一片指甲之中，苍白的脸颊上出现两抹不健康却格外鲜艳的红。\n\n    用来连接卫星推射装置的辅助阀，咯嗒一声从黑，的金属腰线",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "上的帝国机甲，确认对方大概是个如李封般的天才疯子，只有这种狂热追求机战境界的人物，才会冒着战舰爆炸的危险，也要寻求一场快意的战斗。\n\n    换一个角度说。也只有在某些方面极端的人，才能在机甲操控上达到这种恐怖的程度，李疯子如此，对面不知名的帝国机师如此，他自己又何尝不是如此？\n\n    “乐",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "刀锋擦着青色机甲左机械臂的上缘，如遁于风中的幽灵般刺了下去，将对方机械臂关节外附着的金属盒轻松刺破，然后一往无前地继续前进，锋利的合金刀狠狠的刺破了对方座舱外壁！\n\n    直至此时，那台青色机甲依然冷漠沉默，没有任何趋避的动作，似乎面对着马上将要到来的死亡，不曾有半点恐惧，或者是那位机甲",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "他沉默秒杀对方，一个字都不肯多说，是因为双方间的实力差距太大，一场绝不对等的战斗，何必再去玩那些骑士风度的戏码？\n\n    对面这台帝国机甲有足够的资格让许乐因警忌而尊重，而且他也要借此调息一下仍在震荡中的精神身体，所以他替自己的机甲临时起了一个名字，乐秋二字自然说的是他和商秋，这两个联邦研机甲的最",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "现出来的那种冷静至深的漠然。\n\n    通道上方的爆炸还在持续，时不时有剧烈的轰鸣声传来，令地面不停颤抖，火光与喷涌的气流自深处来，向着洞外冰冷足以吞噬一切生命的外太空而去。\n\n    战舰随时有可能解体爆炸，环境异常恶劣凶险，偏生这台造型奇特机甲内部的帝国人，却依旧如此施施然沉稳地自报家门，平静等",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "在远处，不肯去抢先手，这代表着怎样的骄傲与信心？\n\n    除了那位传说中的公主殿下，帝国什么时候又出现了如此强大的人物？\n\n    他深深的吸了一口气，身体腰后灼热力量的源泉瞬间蔓延至全身，将能够清晰感知的力量感觉传送到每一对肌肉双纤维，每一个毛孔，每一片指甲之中，苍白的脸颊上出现两抹不健康却格外",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "青色帝国机甲似乎承受不住此时的度，同样颤抖了起来，机身关节处附加的那些金属盒出急促密集的鸣叫，就像是无数小战鼓在同时敲响！\n\n    宇雷中最先进的两台松甲毫无意外地狠狠撞在了一起，高大机甲身周的空气被同时挤开，卷着那些碎屑残漆，竟变成了一个猛然涨开的斑驳圆球！\n\n    然后剧烈沉闷的撞击声才响起",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "全功率幅度提振下，巨大的机身瞬间提至极，竟隐隐破开了通道内的空气。出一声恐怖的音爆。\n\n    几乎同时，叫做桃母的帝国机甲也动了，轰的一声冲了过来！\n\n    这台浑身挂着金属盒，看上去怪异甚至有些丑陋的机甲，比许乐操控的黑，启动稍晚，然而凭借着球状关节处的微引擎全功率输出，竟然在极短的瞬间内，把",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "长枪另一端，居高临下俯瞧着正在下跪的黑色””如一位君王般冷漠而骄傲。\n\n    长枪从黑色”，座舱中缓缓抽出，原有的金属灰色被机甲的微微黑，上面还有几大片触目惊心的鲜红，就像是一朵墨与朱砂绘成的春桃图卷轴。\n\n    （车专,了，吵架了，有事不顺，心情沉闷，丈母娘炖了绿豆汤给我喝去火，拿回之后放了一",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "此，他自己又何尝不是如此？\n\n    “乐\n\n    略显残破的黑，粗制滥造的外接扬声器里响起许乐的回答。\n\n    在546o雪原上，曾经有一名帝国王牌机师向他起挑战，当时他沉默秒杀对方，一个字都不肯多说，是因为双方间的实力差距太大，一场绝不对等的战斗，何必再去玩那些骑士风度的戏码？\n\n    对",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

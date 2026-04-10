@@ -1,0 +1,245 @@
+{
+  "novel": "间客",
+  "chapter_number": 402,
+  "chapter_title": "第六十五章 阁下贵姓(下)",
+  "filename": "ch_0402_第六十五章 阁下贵姓(下).txt",
+  "char_count": 3606,
+  "timestamp": "2026-04-10T12:04:59.198825",
+  "techniques_count": 18,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "田胖子手下那些身经百战的特种兵，都没有注意到那一方静泉所在的湿地。\n\n    枪手反应速度奇快，场间众人根本反应不过来，自然也无法生出混乱然而他却一头撞在了一堵棉花墙上。\n\n    棉花墙是胖子厚实的胸腹。\n\n    谁也不知道先前还在左:的田胖子，是怎样认出了这名枪手的身份是怎样在电光火石间的一刻",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "他击倒在地，他当时凄惶地喊出许乐应该姓李，如今一年多的时间一晃即过，费城李家站到了许乐的身后，从某种意义上证明了他的判断，他愈发的小心谨慎……甚至有些畏惧。\n\n    当田胖子施施然，悄无声息，全无征兆地从林间走出来后，孔武心中警机迸发，竟压过了对许乐和白玉兰的警惕，毫不犹豫地拉了拉林斗海的衣袖，阻",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "密条款地安全部队面前那些冰冷地卡宴轻机枪管面前。他们地火力顿时显得有些寒酸。\n\n    青龙山地士们紧张地将南明秀围在了人群之中手中地枪管微微抬起。没有与突然出现地这些武装分子对峙。他们是职业地军人只是紧惕地保持着随时端枪开火地姿式。却不愿意在敌众我寡地环境下。将场面拖入更加紧张地阶段。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "小女孩儿带离了她的父亲到了遥远的他乡。\n\n    三年前，许乐在号上碰见逃跑的小西瓜时，正是联邦现代社会中最重要的一次人质事件发展。西林钟家面对着整个联邦的意志，在这种久远的历史传统之中，也只有默然接受。\n\n    西林钟家小公主钟烟花，都星圈所扮演的角色是没有人知道的质子，当然，她的生活绝对不会有",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "青龙山地士们紧张地将南明秀围在了人群之中手中地枪管微微抬起。没有与突然出现地这些武装分子对峙。他们是职业地军人只是紧惕地保持着随时端枪开火地姿式。却不愿意在敌众我寡地环境下。将场面拖入更加紧张地阶段。\n\n    林斗海一脸阴沉。看着面这群闯进自家产业地军人。因为愤怒。而有些微地失去理智。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "然对那片近乎**的王国，近乎无人能制的“军阀头子”——这是席格总统几年前私下的评语——感到棘手头痛和愤怒。\n\n    这是历史传统，联邦政府也在遵循一个并不怎么美好的历史传统：就像无比久远之前的皇朝时代一样，西林钟家的继承人，必须留在首都星圈成长。\n\n    政府领袖们可以美其名曰为，这种安排是让西",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "子眯着眼睛走到人群之中，根本不曾在意青龙山特卫营那些战士对着地面，时刻可能抬起的枪管，他看着孔武微笑说道：“离开修身馆二十年了，没想到还能看到当年的老人。”\n\n    孔武矮壮的身躯里忽然传过一丝冷意，从田胖子的回答中，他很自然地想起了当年在费城修身馆里看到的一名学徒，那个起始被所有人认为人畜无害，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的许乐一直安静:看着这一幕，明知道那名厉害的枪手就在田胖子的身边，但他却生不出太多担心的感觉。不知道为什么，对于田胖子这名西林军区隐藏着的强者总有无穷的信心。\n\n    但为了给田子指路，他依然微微偏头了那名穿着灰色工作服，右手捂在耳机的上林家安全人员一眼。\n\n    ……\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "顿时显得有些寒酸。\n\n    青龙山地士们紧张地将南明秀围在了人群之中手中地枪管微微抬起。没有与突然出现地这些武装分子对峙。他们是职业地军人只是紧惕地保持着随时端枪开火地姿式。却不愿意在敌众我寡地环境下。将场面拖入更加紧张地阶段。\n\n    林斗海一脸阴沉。看着面这群闯进自家产业地军人。因为愤怒。而",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "白，容貌普通，泛白的嘴唇内不停地流淌着鲜血，他看着近在咫尺的那张胖胖的可亲的脸，忍不住牵动唇角，有些自嘲地笑了笑，沙声说道：\n\n    “厉害，请动手。”\n\n    ……\n\n    ……\n\n    在先前几秒钟间，这名枪手将自己所有压箱底的搏命功夫全部施展了出来，但对面这个可恶而恐怖的胖子，却只是动",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "派遣一支特战部队，合法携带重型枪械，充当这位小公主的安全部队。\n\n    此刻从木谷庄园的树花下石畔走出的持枪军人们，正是这支小型安全部队里的一个分队。而那位满脸笑容身阴冷，三分狂妄的田胖子是这支安全部长的幕后最高长官，对于他们来说，钟烟花的安危，是绝对的重中之重，无论是谁试图伤害到她，都是不能允许",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "火力顿时显得有些寒酸。\n\n    青龙山地士们紧张地将南明秀围在了人群之中手中地枪管微微抬起。没有与突然出现地这些武装分子对峙。他们是职业地军人只是紧惕地保持着随时端枪开火地姿式。却不愿意在敌众我寡地环境下。将场面拖入更加紧张地阶段。\n\n    林斗海一脸阴沉。看着面这群闯进自家产业地军人。因为愤怒",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "手腕上传来一道火辣的感觉。孔武冷漠着一张脸，硬生生将自己家少爷拖到了一旁，让开了拦在田胖子身前的路，同时用冰冷的目光看了林斗海一眼，表达了强烈的警告。\n\n    田胖子微微一即和蔼可亲地笑了笑，直走入了林家安全人员的队伍之中，一如先前出现时那般施施然，极轻松，如同回到家乡，见着许久不见的老人故人旧人",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "人群外的许乐一直安静:看着这一幕，明知道那名厉害的枪手就在田胖子的身边，但他却生不出太多担心的感觉。不知道为什么，对于田胖子这名西林军区隐藏着的强者总有无穷的信心。\n\n    但为了给田子指路，他依然微微偏头了那名穿着灰色工作服，右手捂在耳机的上林家安全人员一眼。\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "传过一丝冷意，从田胖子的回答中，他很自然地想起了当年在费城修身馆里看到的一名学徒，那个起始被所有人认为人畜无害，后来才发现是个大祸害的学徒。\n\n    证实了这个胖子和这些军人的身份，孔武再无二话，干净利落地说道：“你们查。”\n\n    林斗海脸色顿变，准备训斥孔武几句的时候，却发觉自己的手腕上传来",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "然要采取这样封建而无趣的手段，不能不说是一种深沉的悲哀。所以关于这个问题，总统官邸会议没有记录，议会山闭关讨论里没有文字，媒体和网络上没有只言片语的报道，人们只是按照历史传统，尊重并且难堪地接受了这个事实，将一个小女孩儿带离了她的父亲到了遥远的他乡。\n\n    三年前，许乐在号上碰见逃跑的小西瓜时，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "先前出现时那般施施然，极轻松，如同回到家乡，见着许久不见的老人故人旧人。\n\n    人群外的许乐一直安静:看着这一幕，明知道那名厉害的枪手就在田胖子的身边，但他却生不出太多担心的感觉。不知道为什么，对于田胖子这名西林军区隐藏着的强者总有无穷的信心。\n\n    但为了给田子指路，他依然微微偏头了那名穿",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "的手指根本来不及触摸到冰冷的扳机时，腕关处却被三根粗胖的手指轻轻拂过。\n\n    三根粗胖的手指格外温柔，却又格外可怕，枪手手腕一麻，如遭电击，再也握不住他最厉害的枪。\n\n    噗噗噗噗，场间一阵密集乱嘈的响起，就像是无数根棒子敲打在棉花墙上，然后安静。\n\n    枪手脸色苍白，容貌普通，泛白的嘴",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

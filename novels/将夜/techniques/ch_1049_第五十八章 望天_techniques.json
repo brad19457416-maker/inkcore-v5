@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1049,
+  "chapter_title": "第五十八章 望天",
+  "filename": "ch_1049_第五十八章 望天.txt",
+  "char_count": 4478,
+  "timestamp": "2026-04-10T12:11:34.975869",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第五十八章 望天\n　　整整一夜的紧张对峙，对宁缺来说，毫无疑问带来极大的压力，衣裳湿透又被寒风冻硬再被汗湿，不知道重复了多少次。\n　　观主离开了桃山，忽然出现在长安城前，自然令人震撼，但令他感到恐惧的是，对方雪山气海被废，为什么能够复原如初？\n　　是的，虽然",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "削弱，新教却不见得被压制。\n　　这是书院最大的不解，但按照简大家的方式去思考，这却是某种佐证――再往最终的结果推，道门根基被动摇，昊天……会变弱。\n　　这便是结果。\n　　不去理会因果之间的联系，不去思考起始与结局之间的过程，不用猜测观主的用意，只要把眼睛盯着结果，便能接近真实。\n　　观主希望昊天变弱",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第五十八章 望天\n　　整整一夜的紧张对峙，对宁缺来说，毫无疑问带来极大的压力，衣裳湿透又被寒风冻硬再被汗湿，不知道重复了多少次。\n　　观主离开了桃山，忽然出现在长安城前，自然令人震撼，但令他感到恐惧的是，对方雪山气海被废，为什么能够复原如初？\n　　是的，虽然铁箭未发，尚未交手，但他知道观主已",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第五十八章 望天\n　　整整一夜的紧张对峙，对宁缺来说，毫无疑问带来极大的压力，衣裳湿透又被寒风冻硬再被汗湿，不知道重复了多少次。\n　　观主离开了桃山，忽然出现在长安城前，自然令人震撼，但令他感到恐惧的是，对方雪山气海被废，为什么能够复原",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "着的那几个字，神情微变，眼睛变得微微湿润起来，似有些动情。\n　　那是轲浩然亲笔写的字。\n　　“这是我第一次进书院后山。”\n　　简大家转身，走到崖畔，背起双手，看着远处落日下的长安城，看着那些白云，说道：“我本以为自己永远不会进来。”\n　　当年的那些故事，是长辈的故事，宁缺不便询问，只好沉默。\n　　简",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "口，平静说道：“你说你想和这个世界谈谈，我刚好也想和你谈谈。”\n　　宁缺想和这个世界谈谈，其实从某种意义上来说，就是要和观主谈谈，观主想和他谈谈，却等于是要和整个世界谈谈。\n　　观主将轮椅推入崖下，飘然下了桃山，证明他的雪山气海正在复原，他将要如当年一般举世无敌，这是非常重要的时刻。\n　　值此时刻，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "宁缺沉默片刻，说道：“好。”\n　　马车离开红袖招，驶过朱雀大道，出城向南而去，没有用多长时间，便来到了书院，碾过草甸，经过那些耐寒的梅丛和凋零的桃树，进到后山。\n　　简大家在后山行走，看着温暖如春的崖坪，林中隐隐可见的小院，听着瀑布的声音，神情有些复杂，始终没有说话。\n　　绕过瀑布，穿过那道狭险",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "光，看着城墙上的宁缺说道：“叶苏死了。”\n　　叶苏死了，或者说，我把叶苏杀死了。\n　　宁缺沉默，没有愤怒，没有悲伤，没有询问细节，就在前一刻，他也感受到了东边海畔天地之间的异样变化，他隐约听到了些什么。\n　　他的沉默持续了没有太长时间，他叹息然后笑了起来，笑容有些苦涩，因为他现在的心绪有些茫然，不知",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "思索，精神体力已然疲惫至极，最后寻到唯一的长辈处，却没想到听到这样几段毫不讲理、全无干系的说话，不由感慨女人果然都是不讲道理的。\n　　说完这番话，简大家直接离开了崖坪，顺着山道向绝壁下方走去，竟是再也没有任何言语，也没有理会宁缺。\n　　宁缺无语，很难理解究竟这是怎么了。\n　　忽然，他隐约明白了些什么",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "第五十八章 望天\n　　整整一夜的紧张对峙，对宁缺来说，毫无疑问带来极大的压力，衣裳湿透又被寒风冻硬再被汗湿，不知道重复了多少次。\n　　观主离开了桃山，忽然出现在长安城前，自然令人震撼，但令他感到恐惧的是，对方雪山气海被废，为什么能够",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "正在发生些什么事情。\n　　很明显，这场和谈已经失败，难道观主他真的要杀死叶苏？那么叶红鱼呢？难道他不担心道门的分裂？他就这么有信心战胜书院？\n　　宁缺很想看到道门分裂，才会让由贤和陈七给叶红鱼带去那几句话，但他却不想看到现在的局面，因为一切都不在计算中，这很令他不安。\n　　城门紧闭，风雪连天，守城的",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。\n　　在这座青楼里，他曾写过一幅很著名的书帖，曾有过很多经历，而且这座楼里，有一位他真正的长辈，简大家。\n　　走到红袖招顶楼，他对着简大家行礼，说道：“有事请简姨指点。”\n　　简大家看着他疲惫的脸，忽然说道：“我想去书院看看。”\n　　自从那场春风化雨后，宁缺便一直枯坐长安城，再也没有离开过城门，书",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "时间，便来到了书院，碾过草甸，经过那些耐寒的梅丛和凋零的桃树，进到后山。\n　　简大家在后山行走，看着温暖如春的崖坪，林中隐隐可见的小院，听着瀑布的声音，神情有些复杂，始终没有说话。\n　　绕过瀑布，穿过那道狭险的石壁，来到后山绝壁，顺着陡峭的山道，向着上方艰难的爬行，终于来到紫藤架下，来到崖洞之前。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "一眼。\n　　宁缺用余光向东方瞥了一眼。\n　　从昨夜到此时，观主始终没有说过话，这时却忽然开了口，平静说道：“你说你想和这个世界谈谈，我刚好也想和你谈谈。”\n　　宁缺想和这个世界谈谈，其实从某种意义上来说，就是要和观主谈谈，观主想和他谈谈，却等于是要和整个世界谈谈。\n　　观主将轮椅推入崖下，飘然下了桃",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

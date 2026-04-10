@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 190,
+  "chapter_title": "第一百九十章 同步",
+  "filename": "ch_0190_第一百九十章 同步.txt",
+  "char_count": 3440,
+  "timestamp": "2026-04-10T12:11:12.046501",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的符文，那么此后根本不需要念力联系，箭枝会自然地符文凝聚的天地元气帮助下，按照即定的轨道越飞越稳，可为什么现在会失败？”\n　　面容有些憔悴的宁缺，坐在打铁房旁边小库房的门槛上，恼火地自言自语着，这些日子挠头郁闷的次数太多，所以他的头发看上去就像是一个乱七八糟的鸟巢。\n　　七师姐、六师兄还有陈皮皮或站",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "“我昊天道南门表面看着风光，实际上巅峰战力少且弱，帝国能与神殿抗衡的强者，能维系民生顺安的森严律法，最终还是要依靠书院。而如今书院二层楼里的那些小怪物，大部分怡情于小道之上，根本无能经世治国，而像最上面那两位则根本是世外之人，根本无心于此。”\n　　“好在书院现在有了宁缺。”\n　　“宁缺……又怎么了？",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "对宁制的试验流露过丝毫兴趣，看都懒得看一眼更遑论是发表意见，在他们看来四师兄甚至好像是一直在冷眼等着众人的失败。\n　　宁缺从门槛上站起身来，向四师兄诚恳行礼，然后解释说道：“这确实是问题所在，但前天我就注意到这点，然后加以改进，每次试验的时候我特别注意要让这两个步骤保持同步，那为什么还不行？”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "想法怎么样？”\n　　“箭离弦时自行画出符文最后一笔？”\n　　四师兄盯着他的眼睛，盯了很长时间。然后他压抑不住心头震惊与震撼，声音微哑说道：“小师弟，你……真他妈是个天才。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "步了。”\n　　四师兄冷冷看着他说道：“什么叫精确？什么叫同步？同步就是完全相同！差一分，差一秒，差一刹那都不是同步！前代那么多符道大家，没有谁比你更蠢更笨，为什么他们始终不能研发成功符箭？就是因为他们也做不到完全的同步。”\n　　听着这番严厉的训斥，宁缺骤然冷静。自从被颜瑟大师赞为神符师传人，然后逐渐",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "宫的亲笔书信，正兴奋议论秋天去南方实修应该不怎么冷的书院学生们，也不知道自己马上将要去往异国那片微寒陌生的荒原，宁缺更不知道自己被帝国当成了重点培养对象，马上会带着昔日同窗们同道，他的全副心神还放在背颂符文和符箭的研制上。\n　　木头箭杆已经换成了由白银、精钢及另外两种罕见金属融化锻造而成的材料，六师",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "令，更多还是警惕南归的荒人，还有那些隐藏在黑暗里的魔宗余孽。宁缺与书院诸生前去实修，遇不着什么真正的危险，本来就不是什么大事，便也没有什么你所担心的重担。”\n　　李青山看着师兄温和劝说道：“符道修行讲究内观自心外观天地，既然如此，哪怕这次他会遇着一些坎坷，对他的修行说不定也是好处。一块顽铁不经锤打哪",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "顶乱七八糟的鸟巢变成了更乱的鸡窝，才证明了昨天夜里他又挠了多少次头揪了多少次头发。\n　　他的声音微微颤抖，兴奋却又不怎么自信：“师兄你说的对，人的意念与身体根本没有办法做到同步，所以后激发的方案必须舍弃。然后我想到，意念与身体没有办法同步，那么可不可以尝试让射箭的动作自行与符文激发同步？也就是说前激",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "竟是怎么想的。因为当年娘娘那件事情，陛下身体一直有隐患，谁也不知道什么时候会发作，所以他总要考虑一下日后的朝政。”\n　　颜瑟大师冷笑说道：“大唐以武立国、以律治国，朝政这种事情有什么需要陛下担心的？难道还要像南晋那些鬼地方一样急着弄什么顾命大臣？”\n　　李青山摇头说道：“我昊天道南门表面看着风光，实",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，那么便不可能保持绝对的同步，因为人的动作太快也永远不可能比念力更快。当你想要激发符文的时候，只需要念头一转便动了，而你的手指永远会慢上数分。”\n　　宁缺认真说道：“我知道这一点，所以我放箭的时间点都打了提前量。”\n　　“多少提前量？你怎么计算的？靠感觉？你怎么知道你自己的意念没有影响你手指的动作？",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "那为什么还不行？”\n　　“无论是前激发还是后激发，只要你需要动念激发，那么便不可能保持绝对的同步，因为人的动作太快也永远不可能比念力更快。当你想要激发符文的时候，只需要念头一转便动了，而你的手指永远会慢上数分。”\n　　宁缺认真说道：“我知道这一点，所以我放箭的时间点都打了提前量。”\n　　“多少提前量",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "心的？难道还要像南晋那些鬼地方一样急着弄什么顾命大臣？”\n　　李青山摇头说道：“我昊天道南门表面看着风光，实际上巅峰战力少且弱，帝国能与神殿抗衡的强者，能维系民生顺安的森严律法，最终还是要依靠书院。而如今书院二层楼里的那些小怪物，大部分怡情于小道之上，根本无能经世治国，而像最上面那两位则根本是世外之",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "以轻松撕断修行者与箭枝之间的念力联系……\n　　“其实我总觉得这个问题不应该会出现。只要我把箭射出去的同时，便激发箭上的符文，那么此后根本不需要念力联系，箭枝会自然地符文凝聚的天地元气帮助下，按照即定的轨道越飞越稳，可为什么现在会失败？”\n　　面容有些憔悴的宁缺，坐在打铁房旁边小库房的门槛上，恼火地自",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "要考虑一下日后的朝政。”\n　　颜瑟大师冷笑说道：“大唐以武立国、以律治国，朝政这种事情有什么需要陛下担心的？难道还要像南晋那些鬼地方一样急着弄什么顾命大臣？”\n　　李青山摇头说道：“我昊天道南门表面看着风光，实际上巅峰战力少且弱，帝国能与神殿抗衡的强者，能维系民生顺安的森严律法，最终还是要依靠书院。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "毛不停上下挑动，仿佛要变成一团火焰燃烧起来，厉声喝道：“这又是怎么回事？”\n　　国师李青山微涩一笑，说道：“我当时也觉着奇怪，在出宫的路上仔细想了想，大概明白陛下究竟是怎么想的。因为当年娘娘那件事情，陛下身体一直有隐患，谁也不知道什么时候会发作，所以他总要考虑一下日后的朝政。”\n　　颜瑟大师冷笑说道",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

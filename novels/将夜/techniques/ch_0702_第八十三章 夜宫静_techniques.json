@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 702,
+  "chapter_title": "第八十三章 夜宫静",
+  "filename": "ch_0702_第八十三章 夜宫静.txt",
+  "char_count": 2201,
+  "timestamp": "2026-04-10T12:11:26.996669",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "后的寝宫。\n　　李渔觉得自已这时候有些软弱，所以来到了这里――她每次来到这座宫殿的时候，总会生出很多愤怒，而愤怒在很多时候都会变成力量。\n　　这座宫殿的主人还远在贺兰城，没有归来，所以殿里没有点亮几盏烛火，显得有些幽暗，即便如此，也能看清楚殿内华美的陈设。\n　　殿里的宫女太监，都被人驱赶了出去，所以",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "因为她一直记得母亲死的那天。\n　　那天她开心地问候了母亲，爬上床去逗弄刚刚出生不久的弟弟，然后不知道为什么，母亲痛苦地开始咳血，然后闭上了眼睛。\n　　太医不停地进进出出，母亲却还是没有睁开眼睛。\n　　父亲却不在。\n　　父亲在那个女人的身边。\n　　……\n　　……\n　　李渔静静站在地上，看着凤床，不知道",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "为自已真的忘记了。\n　　她没有想到，当时年纪还小的弟弟却一直记得那些事情，而且藏在心里藏了这么多年，最终在登基之后暴发出来，此时此刻，除了感动与淡淡的伤感，她还能有什么感触？自然无法把他再严厉地训斥一番。\n　　“除了苗可持，还有那个女人！当初如果不是她在父皇身边添油加醋，如果不是她手下那些大臣推波助",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "注也不是关键，关键在于朝廷里的文武百官和百姓究竟支持谁。”\n　　……\n　　……\n　　李渔说的那番话有道理，身为帝王，便应当有这种胸怀与气度，即便执政需要手段，也不可能依赖于那些小家子气的手段。\n　　但她这番话并没有完全说明――遗诏、钦天监确实不是关键，但远在贺兰城的那位皇后娘娘，对于李珲圆能否坐稳帝",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "在贺兰城，永远回不到长安！”\n　　听着这话，李渔骤然惊醒，反手紧紧握着他的手，盯着他的眼睛，神情极为凝重说道：“贺兰城我早有安排，你一定不要乱来，毕竟在名份上，那个女人是我们的母后，如今是太后娘娘，若要对她动手，需要合适的时机和理由，她必然是要回长安的，我们现在要做的事情，只是让她回来的时间晚一些。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "欺负我和你，苗可持死了只是开始，那个女人我也要让她留在贺兰城，永远回不到长安！”\n　　听着这话，李渔骤然惊醒，反手紧紧握着他的手，盯着他的眼睛，神情极为凝重说道：“贺兰城我早有安排，你一定不要乱来，毕竟在名份上，那个女人是我们的母后，如今是太后娘娘，若要对她动手，需要合适的时机和理由，她必然是要回长",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "……\n　　……\n　　李渔静静站在地上，看着凤床，不知道是看到了自已的母亲，还是看到了那个女人，双拳缓缓握紧，身体开始颤抖。\n　　这就是愤怒的感觉。\n　　随着愤怒导致的颤抖，那股熟悉的力量重新回到她的身体内，她的神情渐渐平静下来，转身向殿外走去。\n　　那个女人就算回到长安城，也不可能再睡在这张床上了",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "圆能否坐稳帝位来说，却是最关键的一个人物，而除此之外，最重要的便是军方和书院的态度。\n　　李渔现在最担心的便是书院和贺兰城那个女人，在这种时刻，她忽然开始想念宁缺，如果宁缺如今还在长安，想来一切事情会变得顺利很多，不过……\n　　父皇很喜欢宁缺，想来宁缺对父皇也有几分真感情，他如果知道自已篡改了父皇的",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "上的那个女人，很漂亮，也很温和，从父亲到叔叔，再到朝二叔，小时候所有人都诱劝自已叫她母亲。\n　　但她从来没有叫过。\n　　直到她渐渐长大，她反而开始叫了。\n　　她每叫一声母后，心里便会淌一滴血。\n　　十余年来，她的心上多了很多道斑驳的伤痕，从来没有真正好过。\n　　她必须承认，父皇还有那个女人，对自已并",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "太多，一时半会儿明显做不完。\n　　她有些疲惫地揉了揉眉心，吩咐太监奉上一杯浓茶喝掉，又令宫女用滚烫的水打湿毛巾，烫了烫脸，稍微恢复了些精神。\n　　当她终于批阅完所有奏折，已有晨光自殿门外透入，她揉了揉有些酸疼的手腕，不顾太监的劝说，命人去请两个人入宫叙话。\n　　这几天朝堂上所发生的事情，都在她的意料",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "进这座宫殿。\n　　这座宫殿在皇宫里的地位很特殊，是皇后的寝宫。\n　　李渔觉得自已这时候有些软弱，所以来到了这里――她每次来到这座宫殿的时候，总会生出很多愤怒，而愤怒在很多时候都会变成力量。\n　　这座宫殿的主人还远在贺兰城，没有归来，所以殿里没有点亮几盏烛火，显得有些幽暗，即便如此，也能看清楚殿内华美",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的动荡？皇姐你又怎么会被迫嫁给荒原上那些可恶的蛮子？”\n　　李珲圆的声音愈发寒冷，伸手握住李渔的手，说道：“皇姐你放心，如今我已经是大唐皇帝，再也没有人敢像当年那样欺负我和你，苗可持死了只是开始，那个女人我也要让她留在贺兰城，永远回不到长安！”\n　　听着这话，李渔骤然惊醒，反手紧紧握着他的手，盯着他",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

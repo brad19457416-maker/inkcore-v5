@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 980,
+  "chapter_title": "第一百五十三章 修佛（三）",
+  "filename": "ch_0980_第一百五十三章 修佛（三）.txt",
+  "char_count": 3310,
+  "timestamp": "2026-04-10T12:11:27.627303",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "以及自己和自己说话的声音，这时候终于听到桑桑的声音，直觉仿佛吃了一壶通天丸，浑身舒泰，轻飘飘地直欲向天空深处飘去，美妙的不行。\n　　“吃什么？嘿，你还别说，这个破地方还真有不少好吃的东西，清水煮青蛙，炸青蛙、煎青蛙、烤青蛙、生青蛙、换着花样来，不带重的！”\n　　桑桑小时候听宁缺说过，在他的世界里有一",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "说道：“做事情要细致，这种细节怎么能出错。”\n　　桑桑问道：“不穿袈裟也是佛？”\n　　宁缺说道：“佛为什么一定要穿袈裟？”\n　　桑桑问道：“那这佛要穿什么？”\n　　宁缺想着自己设计的衣裳，得意说道：“刻出来那天你就知道了，你一定喜欢。”\n　　桑桑沉默片刻后说道：“你的衣服也破了。”\n　　身为书院行走",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，沉默片刻后笑着说道：“别瞎担心，你知道我很擅长在野外生活，小时候不经常这样？”\n　　桑桑没有说话，心想小时候在岷山里，你再如何孤单，身边至少还有我，现在你依然背着我，但这三年里我并不在。\n　　宁缺依然在碎碎念着，她静静听着，渐渐眯起了眼睛，那便是笑意，然后她感觉有些暖，有些温柔，然后她在他的心头皱",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "面那些贫苦的农奴没有任何区别，与他相反，桑桑感觉好了很多，贪嗔痴三毒还在，但平静了些，应该没有毒发的危险，不再像沉睡之前那般虚弱。\n　　桑桑能够看见他，能够想象这三年里他过着怎样艰苦的日子，此时听着他兴高采烈地讲述，越发觉得他很可怜，那种情绪是那样的浓烈，以至于她觉得有些酸楚，如果能够流泪，便会流下",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "桑桑通过他的眼睛，看佛山如旧，崖坪略变了些形状，原野如旧，佛与菩萨依然在彼处颂经念佛，青狮还是那样的愤怒，一怒便是三年，也不知道它会不会累，她忽然间很想知道宁缺这三年是怎么过的。\n　　“怎么过的？扛着铁刀到处挖地，你就不知道，这座破山它怎么就这么硬，三年啊，就整出这么块地，若让南国那些老农瞧见了，指",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "不知挥了多少记铁刀，山崖里到处都是他的汗水。\n　　宁缺感觉到她的醒来，身体有些僵硬，沉默了很长时间，缓缓把铁刀插入崖壁的裂缝里，伸手拍了拍她身体的臀部，微笑说道：“醒了？”\n　　“是的。”桑桑说道。\n　　“那我休息会儿。”宁缺叹了口气，有些疲惫，有些满足，把她解下抱在怀里，走到崖边坐下，望向原野上那",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "得有些酸楚，如果能够流泪，便会流下泪来。\n　　宁缺感受心头传来的那份酸楚，沉默片刻后笑着说道：“别瞎担心，你知道我很擅长在野外生活，小时候不经常这样？”\n　　桑桑没有说话，心想小时候在岷山里，你再如何孤单，身边至少还有我，现在你依然背着我，但这三年里我并不在。\n　　宁缺依然在碎碎念着，她静静听着，渐",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "里我并不在。\n　　宁缺依然在碎碎念着，她静静听着，渐渐眯起了眼睛，那便是笑意，然后她感觉有些暖，有些温柔，然后她在他的心头皱起了眉头。\n　　桑桑沉默了很长时间，然后说道：“我有些累，想再睡会儿。”\n　　宁缺有些没想到，怔了怔后笑着说道：“好。”\n　　桑桑再次开始沉睡。\n　　这一次，她睡了整整十年时间",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，因为他来不及去感受，只是兴高采烈地讲着这三年里的生活，唾沫四溅，似要比流的汗水还要多。\n　　他自豪说道：“有，有油，当然得有油……这满野莲花，我自己榨了些莲子油，不论是用来拌野菜还是煎青蛙，都可香了。”\n　　桑桑说道：“你应该吃点素的。”\n　　宁缺眉飞色舞说道：“放心，荤素搭配这种事情我从来没有忘",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，都可香了。”\n　　桑桑说道：“你应该吃点素的。”\n　　宁缺眉飞色舞说道：“放心，荤素搭配这种事情我从来没有忘，炖莲藕，炒藕带，新剥莲子嘎崩脆，还没苦味！其实要说我最喜欢吃的，还是炸知了，无论是裹着莲叶烤还是生炸，那香的……只不过想起三师姐，有些下不了嘴。”\n　　三年后的他是那样的瘦削黝黑，看上去和",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "神殿他被桑桑囚禁然后千刀万剐，院服不在身上，其后才被桑桑扔给他，这件黑色院服陪着他在棋盘世界里度过了无数年的时光，依然没有一处腐坏破烂，这十三年时间，院服则已经破烂的不成模样。\n　　由此可见，他这些年过的多辛苦，做了多少事。\n　　现在的宁缺非常黑瘦，双手生出极厚的茧，更像一名农夫了。\n　　但他的眼睛",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

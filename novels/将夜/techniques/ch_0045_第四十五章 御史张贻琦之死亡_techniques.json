@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 45,
+  "chapter_title": "第四十五章 御史张贻琦之死亡",
+  "filename": "ch_0045_第四十五章 御史张贻琦之死亡.txt",
+  "char_count": 2381,
+  "timestamp": "2026-04-10T12:11:03.432988",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "边的盆里是毛巾焚烧后的痕迹。\n　　桑桑在床的另一头紧紧裹着棉被，好奇问道：“如果这叫伪造犯罪现场，那为什么不直接伪造成马上风？”\n　　宁缺惊讶问道：“你知道马上风是什么？”\n　　“不知道，小时候听你讲故事讲过。”\n　　“我讲过这种故事？好吧，也许我忘了。”\n　　“如果御史大人是在青楼里得了马上风，那",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "青楼门口，他们往哪儿说理去？\n　　御史张贻琦成为了大唐历史上第一个因害怕悍妻从而慌张登车于是不幸惊马最终惨死于车厢之下的官员。\n　　而当该名御史进行自己生命最后一次奔跑时，该事件幕后真凶少年宁缺正站在阴影中紧握着双拳，在心中不停替此人默默加油呐喊打气。\n　　用利刃破小脑进行狙杀会有极短的一段缓冲期，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "惊动朝廷――但更要的是，这个结论最容易让长安府逼御史府闭嘴。”\n　　桑桑安静了很长时间，然后低声羞怯说道：“很复杂，我听不太懂，少爷你想的事情可真多。”\n　　“所以你老不想事儿？”宁缺拿出简大家对付自己的作派，恨铁不成钢道：“老不想事儿会越来越笨的。”\n　　桑桑很坦然地回答道：“丫头嘛，笨点儿也应该",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "后低声羞怯说道：“很复杂，我听不太懂，少爷你想的事情可真多。”\n　　“所以你老不想事儿？”宁缺拿出简大家对付自己的作派，恨铁不成钢道：“老不想事儿会越来越笨的。”\n　　桑桑很坦然地回答道：“丫头嘛，笨点儿也应该，人不都说笨丫头笨丫头？”\n　　宁缺无语，沉默片刻后关心问道：“今儿两头送信累不累？张府那",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "痕迹。\n　　桑桑在床的另一头紧紧裹着棉被，好奇问道：“如果这叫伪造犯罪现场，那为什么不直接伪造成马上风？”\n　　宁缺惊讶问道：“你知道马上风是什么？”\n　　“不知道，小时候听你讲故事讲过。”\n　　“我讲过这种故事？好吧，也许我忘了。”\n　　“如果御史大人是在青楼里得了马上风，那位夫人怎么可能不继续闹",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "心的时候，便看见御史张贻琦踉踉跄跄地跑出了侧门，此人本来应该光溜溜的身上不知何时多了件衣裳，身体剧烈颤抖东倒西歪，眼神已经涣散，拼命张嘴想要呼喊什么却什么话也喊不出来，像极了一名醉汉，更像是一条将要渴死的鱼。\n　　侧门外马车旁的随从满脸焦虑，根本没有注意到什么异样，大声喊道：“老爷，听说夫人得了确信",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的御史大人，宁缺默默感慨了声，迅速转身离开，握着那块雪白毛巾擦了擦额头上的汗。\n　　这是他在长安城里第一次杀人，难免会有些紧张，然而此时此刻他想的更多的却是，张贻琦最后冲出来时，身上竟然套了件外衣，这等生死关头，御史大人还是不肯让人看见自己的光身子，十分顾及颜面，真可谓是道德楷模，衣冠禽兽。\n　　这",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "怕死的强大意念啊。”\n　　看着最终成功跑到马车旁，然后被一大堆破烂木布压到最下方的御史大人，宁缺默默感慨了声，迅速转身离开，握着那块雪白毛巾擦了擦额头上的汗。\n　　这是他在长安城里第一次杀人，难免会有些紧张，然而此时此刻他想的更多的却是，张贻琦最后冲出来时，身上竟然套了件外衣，这等生死关头，御史大人",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "死亡\n　　片刻后宁缺停止了下压，取下毛巾仔细察看了一下张贻琦的后脑，他用手指拨开那处的头发，发现锈钉进入头骨的创口缩的极小，极细微的血点也已经凝固，如果仵作不打着光源刻意寻找，应该极难发现。\n　　他低头看了眼手中的毛巾，发现雪白毛巾的正中间有一个铜钱大小的血污，有些发乌像是败坏的腊梅。\n　　很奇妙，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "慨了声，迅速转身离开，握着那块雪白毛巾擦了擦额头上的汗。\n　　这是他在长安城里第一次杀人，难免会有些紧张，然而此时此刻他想的更多的却是，张贻琦最后冲出来时，身上竟然套了件外衣，这等生死关头，御史大人还是不肯让人看见自己的光身子，十分顾及颜面，真可谓是道德楷模，衣冠禽兽。\n　　这时候红袖招前楼后院的管",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的毛巾，发现雪白毛巾的正中间有一个铜钱大小的血污，有些发乌像是败坏的腊梅。\n　　很奇妙，张贻琦并没有马上死，而是痛的在短床上不停挣扎抽搐，想要痛嚎声音却非常沙哑无力。他的眼珠不停向上翻着，露出大部分眼白，看上去极其恐怖。\n　　他感觉到后脑处一阵剧痛，还以为是被宁缺用棒子来了一记狠的，并不知道真实的情",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "宁缺站在离侧门不远处的一片竹影里看着那边，发现比预想的时间要晚了些，不由微微皱了皱眉。\n　　正有些担心的时候，便看见御史张贻琦踉踉跄跄地跑出了侧门，此人本来应该光溜溜的身上不知何时多了件衣裳，身体剧烈颤抖东倒西歪，眼神已经涣散，拼命张嘴想要呼喊什么却什么话也喊不出来，像极了一名醉汉，更像是一条将要",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "通意外――只有交通意外才不会惊动朝廷――但更要的是，这个结论最容易让长安府逼御史府闭嘴。”\n　　桑桑安静了很长时间，然后低声羞怯说道：“很复杂，我听不太懂，少爷你想的事情可真多。”\n　　“所以你老不想事儿？”宁缺拿出简大家对付自己的作派，恨铁不成钢道：“老不想事儿会越来越笨的。”\n　　桑桑很坦然地回",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 748,
+  "chapter_title": "第一百二十九章 平静的来源（下）",
+  "filename": "ch_0748_第一百二十九章 平静的来源（下）.txt",
+  "char_count": 3397,
+  "timestamp": "2026-04-10T12:11:27.055074",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "各宗派的修行者，如果是平时，哪怕白海昕是南晋大将军，也不会令他们噤若寒蝉，然而如今是在神殿联军之中，众人都清楚，白海昕的话代表着西陵神殿的意思。\n　　不敢说话不代表不去想。修行者们脸色十分难看，他们都知道先前那人说的是对的，西陵神殿就是要让自已这些附庸道门的小宗派去送死，用自已的死亡去消耗书院弟子的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "用担心，至于琴箫之声……天谕神殿此时正在制符，稍后便会分发到你们的手中。”\n　　“我不想再听到更多的疑问，你们现在需要做的事情就是接受。”\n　　不等那些平日里骄横无比的修行者出言反对，他面无表情继续说道：“普通将士做不到的事情，当然要由你们来执行，不然道门养你们何用？”\n　　人群后方响起一道愤怒的声",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "动，数道轻渺薄虚的气息，粘在了树枝的枝头，随着挥动之势越蓄越厚，直至最后凝为一团。\n　　柳白的树枝，最终落到了篝火堆里。\n　　那团凝结在树枝前的天地气息，遇火而散。\n　　篝火堆轰的一声暴燃起来，火焰伸至三丈高的夜空，把军营照的一片明亮。\n　　四周响起一片惊呼，片刻后渐渐敛去。\n　　柳亦青低着头，沉默",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "习的大好机会，君陌也是我很喜欢的对手，便如白日所说，我必然要等到他最强的时候才会出手。”\n　　众弟子心想二先生今日执剑守青峡，血染原野，一步未退，已然显得强大到了极点，甚至有了无敌的感觉，难道他还能变得更强？\n　　柳亦青问道：“何时才是二先生最强的时候？”\n　　“君陌是普通人，所以会有普通人的行为，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "浩浩荡荡，强者云集，临此危时，却还有心情认真地做饭，嗯，饭有些烧糊了，但咸菜的味道真不错。”\n　　夜风徐来，柳白闻着风中传来的气息，感慨说道：“这就是生活。无论战争还是杀戮，都不能影响的过程，便是生活。”\n　　“书院诸弟子为什么能这样平静？不是因为自信，而是因为他们在做自已想做的事情，在做让自已高兴",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "“想想你们的宗派，是要千秋万代，还是要如烟花般消逝，想想留在家乡的亲人与弟子们，再想想苍穹之上的伟大存在。”\n　　白海昕说完这句话，转身离开大帐。\n　　大帐里一片死寂，沉默此时代表着接受，不得不接受。\n　　与青峡处的温暖气氛相比，此间好生寒冷。\n　　……\n　　……\n　　绵延青山拦着南方大泽的温暖水气",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "情继续说道：“普通将士做不到的事情，当然要由你们来执行，不然道门养你们何用？”\n　　人群后方响起一道愤怒的声音：“这不是让我们送死？”\n　　白海昕脸色骤然寒冷，看着声音起处，说道：“是谁在说话？”\n　　没有人回答，没有人敢回答，也没有人再敢说话。\n　　此时大帐里有数百名军中强者和来自各国各宗派的修行",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "多了几分静寂的感觉。\n　　“这是神座大人的命令。”\n　　白海昕看着这些用沉默表示抵抗的人们，神情漠然说道：“不要想着自已平日里在宗派中在人间享受的荣耀与尊重，要清楚现在是在军中，我们是在奉天伐唐，我们执行的是昊天的意志。”\n　　一名洞玄境的修行强者盯着他，厉声说道：“重骑兵都没办法冲过去，我们这些人",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "执行，不然道门养你们何用？”\n　　人群后方响起一道愤怒的声音：“这不是让我们送死？”\n　　白海昕脸色骤然寒冷，看着声音起处，说道：“是谁在说话？”\n　　没有人回答，没有人敢回答，也没有人再敢说话。\n　　此时大帐里有数百名军中强者和来自各国各宗派的修行者，如果是平时，哪怕白海昕是南晋大将军，也不会令他",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "要等到天荒地老。”\n　　说完这句话，这位世间剑道第一高手，从篝火堆里，抽出一根还没有燃起来的细树枝，缓缓举至眉前一尺之处，然后随意挥下。\n　　篝火堆旁的天地气息，随树枝挥出之势而动，数道轻渺薄虚的气息，粘在了树枝的枝头，随着挥动之势越蓄越厚，直至最后凝为一团。\n　　柳白的树枝，最终落到了篝火堆里。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，我们这些人能怎么办？谁能扛得住琴箫的声音？”\n　　白海昕说道：“既然要你们弃马而战，那么座骑便不用担心，至于琴箫之声……天谕神殿此时正在制符，稍后便会分发到你们的手中。”\n　　“我不想再听到更多的疑问，你们现在需要做的事情就是接受。”\n　　不等那些平日里骄横无比的修行者出言反对，他面无表情继续说道",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "子们，再想想苍穹之上的伟大存在。”\n　　白海昕说完这句话，转身离开大帐。\n　　大帐里一片死寂，沉默此时代表着接受，不得不接受。\n　　与青峡处的温暖气氛相比，此间好生寒冷。\n　　……\n　　……\n　　绵延青山拦着南方大泽的温暖水气，清河郡向来以四季如春闻名，然而毕竟已是深秋，入夜之后，原野间的温度渐渐降",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "者必然自信，于是骄傲便是最常见的外显，我这一生见过很多骄傲的人，比如叶苏，比如死了的那位裁决老儿，但从来没有见过一个人比君陌更骄傲。”\n　　众弟子沉默不语。\n　　“而骄傲，便是他的取死之道。”柳白敛了笑容，神情漠然说道：“因为骄傲是情绪，真正的剑者，不能有任何多余的情绪。”\n　　一名弟子终于忍不住，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "要如烟花般消逝，想想留在家乡的亲人与弟子们，再想想苍穹之上的伟大存在。”\n　　白海昕说完这句话，转身离开大帐。\n　　大帐里一片死寂，沉默此时代表着接受，不得不接受。\n　　与青峡处的温暖气氛相比，此间好生寒冷。\n　　……\n　　……\n　　绵延青山拦着南方大泽的温暖水气，清河郡向来以四季如春闻名，然而毕竟",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "海昕说完这句话，转身离开大帐。\n　　大帐里一片死寂，沉默此时代表着接受，不得不接受。\n　　与青峡处的温暖气氛相比，此间好生寒冷。\n　　……\n　　……\n　　绵延青山拦着南方大泽的温暖水气，清河郡向来以四季如春闻名，然而毕竟已是深秋，入夜之后，原野间的温度渐渐降低。\n　　军营里燃起篝火。\n　　夜穹上的繁",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

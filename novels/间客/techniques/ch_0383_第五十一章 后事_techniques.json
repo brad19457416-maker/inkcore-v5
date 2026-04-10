@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 383,
+  "chapter_title": "第五十一章 后事",
+  "filename": "ch_0383_第五十一章 后事.txt",
+  "char_count": 3993,
+  "timestamp": "2026-04-10T12:04:59.231468",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "静少妇，心情也顿时平静起来。\n\n    能够影响国防部命令自己参加酒会，自然是有人想见自己，此时这个疑问不问而解，只是许乐不明白，为什么西林钟夫人会选择流风坡会所，而且做的这样隐秘。\n\n    “我知道你的问。”钟夫人回过头来，微笑望着许乐，“去年那个电话，你给我出了一道难题，在莫愁后山的眼皮子下面",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "像是在交待后事？山里面究竟出什么事了？难道那几个老不死的又开始搞清洗？但南水一直信任你么多年你都安坐风中，难道这次出了什么问题？”\n\n    “你想多了，山里早已不是多年前山里，你唯一那次进山培训，就碰见了最后一次清洗，难怪心里一直有阴影。”\n\n    才先生温和笑着解释道：“而且就算内部有些错误的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "出了问题面临生死，就算许乐在西林……我想他也会千里杀回来救她吧？”\n\n    施清海陷入了沉默，细细思忖之后，他知道这种判断非常正确——在他的眼中，如果说张小萌是个奇蠢如驴的女人许乐毫无问就是一个冷静聪慧到了极点，然而一旦冲动同样也会变成驴的骚人。\n\n    他的眼神逐渐寒冷起来望着远方已经空无一人",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "接过此物放入口袋中，看着此人瘦削的身躯知怎的，竟觉得和老师那个胖胖的身躯重叠起来，心头一阵酸楚，再也压抑不住心中的问，淡声问道：“今天你像是在交待后事？山里面究竟出什么事了？难道那几个老不死的又开始搞清洗？但南水一直信任你么多年你都安坐风中，难道这次出了什么问题？”\n\n    “你想多了，山里早已不",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "年那个电话，你给我出了一道难题，在莫愁后山的眼皮子下面抢人……并不是那么容易的事情。”\n\n    转瞬间，这位恬静少妇的脸上流露出一丝淡淡的骄傲：“当然，在百慕大和西林，我们钟家有这个能力。”\n\n    “问题是整个联邦都在邰夫人的淡淡眼光之下，在百慕大和西林我们钟家可以一手遮天，但在首都我却做不到",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "地看了施清海一眼道：“你老师是我在联邦里发展的第一批下线，没想到你这么快就成长了起来，如今我们老了，将来的事情就看你们了。”\n\n    说完这句话，他将一个冰的小工具递了过去道：“这个东西很有用，使用方法嵌在光幕里，我已经做了信息脱离，你第一次开启时，把指纹印上去就行了。”\n\n    施清海叼烟卷接",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "绪才能写的顺。\n\n    感觉顺的时候，我真的可以一个小时三千字，毫无问，甚至也曾经有过三千六百字的巅峰速度，当然，那需要修改，而且这种速度就像是故事里的**那样，永远只是刹那风华，而不是长久的幸福，我写书六年时间，有那种发飙感觉的时候不多。大多数时候我还是像今天",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "……\n\n    “你是不是在说笑话？”施清海不再嬉皮笑脸，漂亮的眉眼间多了一丝凝重与认真，说道：“她才多大年纪，进山几年，有什么资历？你以为委员会会同意你的推荐？我看那些老家伙肯定会认为你发疯了。”\n\n    “我又不是要让她进中委会。”\n\n    这位在联邦里没有任何档案，就连青龙山内部",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "完这句话，他将一个冰的小工具递了过去道：“这个东西很有用，使用方法嵌在光幕里，我已经做了信息脱离，你第一次开启时，把指纹印上去就行了。”\n\n    施清海叼烟卷接过此物放入口袋中，看着此人瘦削的身躯知怎的，竟觉得和老师那个胖胖的身躯重叠起来，心头一阵酸楚，再也压抑不住心中的问，淡声问道：“今天你像是",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "施清海从惊愕中平静下来，眉尖微皱，对这个说法表示不解。\n\n    “我想你应该很清楚你那位朋友的性格。”仲才先生笑眯眯说道：“如果张小萌真的出了问题面临生死，就算许乐在西林……我想他也会千里杀回来救她吧？”\n\n    施清海陷入了沉默，细细思忖之后，他知道这种判断非常正确——在他的眼中，如果说张",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "抽三七牌香烟，做为间谍来说，这也是一个漏洞。要做一名优秀的间谍，便不能有被任何人知道的爱好……我当年进入这个行当后，便戒了烟戒了酒，当然，同时我又能抽烟又能喝酒。”\n\n    这句话有些难懂，但像施清海这种专业人士却很容易地听明白了。\n\n    老人扭过头来，和地看了施清海一眼道：“你老师是我在联邦",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "给我安排了什么活儿？要知道我现在刚被特赦，联邦不知道有多少人在盯着我。”\n\n    “你去西林。”他缓缓说道：“山里与政府达成的协议一条条地在执行，虽然我也比较信任帕布尔总统，但他毕竟是位政客，他的背后还有那位夫人和很多权贵的影子。山里的部队调去西林抵抗帝国，联邦政府答应的装备能不能落到实处，答应我",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "漏洞。要做一名优秀的间谍，便不能有被任何人知道的爱好……我当年进入这个行当后，便戒了烟戒了酒，当然，同时我又能抽烟又能喝酒。”\n\n    这句话有些难懂，但像施清海这种专业人士却很容易地听明白了。\n\n    老人扭过头来，和地看了施清海一眼道：“你老师是我在联邦里发展的第一批下线，没想到你这么快就成",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "百字的巅峰速度，当然，那需要修改，而且这种速度就像是故事里的**那样，永远只是刹那风华，而不是长久的幸福，我写书六年时间，有那种发飙感觉的时候不多。大多数时候我还是像今天",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "中帮助他。施清海和他地那位老师。应该算是这个网络里最成功地一个分支。但即便是他。也只知道这张情报网是一片沧海。自己只是其中地一片泡沫。结果这个男人居然说要把这片生死攸关地海交给那个女人！\n\n    “没有受过专业训练。二。她很蠢。三。她是个女人！”\n\n    施清海阴沉着。根本没有想到今天与组织接头",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

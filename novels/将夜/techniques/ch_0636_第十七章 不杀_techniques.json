@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 636,
+  "chapter_title": "第十七章 不杀",
+  "filename": "ch_0636_第十七章 不杀.txt",
+  "char_count": 2183,
+  "timestamp": "2026-04-10T12:11:26.795758",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "而被震慑住？\n　　还是说因为他一直在杀人，所以人们要杀他，此时他不再杀人，所以人们也不愿意冒着生命的危险向前冲，来杀他？\n　　宁缺从血泊里走过，用余光看着那些死者和伤者的脸，然后他抬起头来，看着人群里无数民众的脸。\n　　那些脸都很普通，往朝阳城的街巷里一扔，绝对找不出来，然而这些脸都有自已的喜怒哀乐",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "名小男孩，满是血水的脸上看不到任何表情，于是愈发可怕。\n　　那名小男孩哇的一声，再次哭了出来。\n　　人群里，七枚大师看着宁缺，微有悔意，沉声说道：“十三先生，今日白塔寺之围，全是我佛宗的过错，我一力承担，还请你手下留情。”\n　　此时那名小男孩便在宁缺身旁，只要宁缺一抽刀必死无疑，七枚虽是悬空寺高僧，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，七枚大师不能理解，曲妮玛娣不能理解，如果昊天正在俯瞰着人世间，大概也无法理解。\n　　因为恐惧，所以愤怒，宁缺此时疲惫了，人们的恐惧似乎也渐少了，所以不再像先前那般愤怒？或者他已经杀了足够多的人，人群因而被震慑住？\n　　还是说因为他一直在杀人，所以人们要杀他，此时他不再杀人，所以人们也不愿意冒着生命",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "脸太过苍白的缘故，血水并不是纯然的红，显得有些发黑。\n　　她看着那名小男孩，神情有些惘然，想不明白他为什么要拿石头来砸自已，当她想明白后，神情愈发黯淡，有些难过，却没有说什么。\n　　陆晨迦清楚地看到了这幕画面，不知为何，她的心头竟然闪过一丝怜悯的意味。曲妮玛娣则是冷笑起来，毫不遮掩笑声里的快意。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "然。\n　　人群如海渐分，夹道不是为了欢迎，而是送你离开千里之外，如同荒原上的羊群，在送一头学会吃羊、最终变成恶狼的羊离开。\n　　这大概便是被全世界遗弃的感觉――宁缺把沾着血的手，在衣服上擦了擦，然后伸到肩上，轻轻拍了拍桑桑的小脸。\n　　……\n　　……\n　　那道强大的气息已经近了。\n　　宁缺加快步伐，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "第十七章 不杀\n　　桑桑额头上出现一处伤口，鲜血缓缓流下，不知道是不是因为她的小脸太过苍白的缘故，血水并不是纯然的红，显得有些发黑。\n　　她看着那名小男孩，神情有些惘然，想不明白他为什么要拿石头来砸自已，当她想明白后，神情愈发黯淡",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "靠在他的肩头，摇了摇头，疲惫说道：“不要。”\n　　宁缺握着刀柄的手微微一僵。\n　　很多年前，他们在岷山深处，合力杀死爷爷，离开猎屋之前，他在还是小女童的桑桑要求下，放走了对当时的他们来说是极珍贵食物的两只小岩羊。\n　　当年的故事，似乎在今日重现。\n　　宁缺把刀收回鞘中，用鞘尖把还在惊恐哭喊的小男孩挑",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "儿子报仇。\n　　庵堂里宁缺拍在她身上的符意已经渐渐散去，念力和修为重新回到她的体内，她一声厉喝，身形骤然前掠，一掌便向宁缺背后的桑桑拍去！",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第十七章 不杀\n　　桑桑额头上出现一处伤口，鲜血缓缓流下，不知道是不是因为她的小脸太过苍白的缘故，血水并不是纯然的红，显得有些发黑。\n　　她看着那名小男孩，神情有些惘然，想不明白他为什么要拿石头来砸自已，当她想明白后，神情愈发黯淡，有些难过，却没有",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的颤抖起来，脸上怨毒的神情愈来愈重，甚至显得有些疯狂。\n　　她和七枚大师不同，和场间这些民众不同，她从来不在乎桑桑是不是冥王的女儿，她只想让宁缺去死，替自已的男人和儿子报仇。\n　　庵堂里宁缺拍在她身上的符意已经渐渐散去，念力和修为重新回到她的体内，她一声厉喝，身形骤然前掠，一掌便向宁缺背后的桑桑拍去",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，疲惫说道：“不要。”\n　　宁缺握着刀柄的手微微一僵。\n　　很多年前，他们在岷山深处，合力杀死爷爷，离开猎屋之前，他在还是小女童的桑桑要求下，放走了对当时的他们来说是极珍贵食物的两只小岩羊。\n　　当年的故事，似乎在今日重现。\n　　宁缺把刀收回鞘中，用鞘尖把还在惊恐哭喊的小男孩挑至人群后方。\n　　……",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "能不知道，他侧身望向那名小男孩，左手握住刀鞘，开始把朴刀从鞘中缓缓抽出。\n　　曲妮玛娣冷笑一声，阴戾说道：“宁缺，你果然冷血至极！”\n　　陆晨迦神情微变，替那名小男孩求情道：“他还只是个孩子……”\n　　宁缺像是根本没有听到她们的话，朴刀已经有一半抽出刀鞘。他看着那名小男孩，满是血水的脸上看不到任何表",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

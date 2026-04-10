@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 850,
+  "chapter_title": "第一百九十九章 最深的海",
+  "filename": "ch_0850_第一百九十九章 最深的海.txt",
+  "char_count": 2562,
+  "timestamp": "2026-04-10T12:05:17.636522",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "结，根据计算留给他的时间不过五分钟。\n\n    许乐深吸了一口气，微眯的眼睛骤然明亮，帽檐下方的阴影瞬间无踪，腰后那处的灼热力量暴烈向身体四处传递。\n\n    然而就在他准备冒险动手时，床头忽然闪过两道艳丽的刀光！\n\n    第一刀切断了金求德冷酷伸在空中的上半截手掌，第二刀极其干脆，地捅进他干瘪的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "“然后？我只是想告诉你们这些不知宇宙有多辽阔的愚蠢的年轻人们，我们这些老人经历了多少血雨腥风才有了现在这么一点点地位，结果你们就想这么简单地夺走？”\n\n    烟雾弥漫在金求德脸四周，苍老的皱纹愤怒而嘲讽：“诱饵？杀我！年轻人，你知道我是谁吗？我杀过的人比你见过的还要多，难道我没有一点准备",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "两下，绝望地停止了呼吸。\n\n    许乐看着女人的背影，缓缓放下手丅枪，问道：“你随时都可以杀死他，为什么要选择现在。”\n\n    女人转过身来，脸上严肃的表情已经消失不见，回复成媚丽而怯懦的样子，用轻柔的声音解释道：“如果让联邦民众认为这又是一次组织内部的血腥权力斗争，会损害委员会和南水领袖的声誉",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "有了现在这么一点点地位，结果你们就想这么简单地夺走？”\n\n    烟雾弥漫在金求德脸四周，苍老的皱纹愤怒而嘲讽：“诱饵？杀我！年轻人，你知道我是谁吗？我杀过的人比你见过的还要多，难道我没有一点准备就带了几个士兵就敢等着你来杀我？”\n\n    “直接一点。“许乐说道。\n\n    金求德的脸上混合着阴沉",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "比你见过的还要多，难道我没有一点准备就带了几个士兵就敢等着你来杀我？”\n\n    “直接一点。“许乐说道。\n\n    金求德的脸上混合着阴沉与兴奋两种截然不同的情绪，空着的左手用力地槎揉着身旁女人丰满的臀部，浑然不顾那位忠诚而愚蠢的女下属此时吓的浑身抖。\n\n    “正常人这时候大概只会要求你离开。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的咳嗽，带着口水泡沫的血水不时飞溅出他苍白的嘴唇，老人异常艰难地转动眼瞳，死死地盯着床边的女人，仿佛第一次认识这个跟了自己很长时间，平rì里异常愚蠢俗媚的她。\n\n    金求德已经问不出声，女人看着喉咙嗬嗬作响的人严肃说道：“这是委员会最新的命令，南水领袖让我告诉你，组织只需丅要忠诚的成员。”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "得一丝便会击，他问道：“然后？”\n\n    “然后？我只是想告诉你们这些不知宇宙有多辽阔的愚蠢的年轻人们，我们这些老人经历了多少血雨腥风才有了现在这么一点点地位，结果你们就想这么简单地夺走？”\n\n    烟雾弥漫在金求德脸四周，苍老的皱纹愤怒而嘲讽：“诱饵？杀我！年轻人，你知道我是谁吗？我杀过的人比",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "他又看见了一个同样疯狂的老人，而且这个老人更加残忍和冷酷。\n\n    湿冷的汗水渐渐渗透衣背，他开始紧张，然后愈冷静，拥有宇宙里最粗神经的他拥有这种特殊的本事，眯着眼睛看着近在咫尺的老人，快计算抢在对方启动装置之前击昏对方有多大的可能xìng，用子丅弹彻底毁灭对方右手神经系统又有多大的可能xìng。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "沙哑无声地笑了笑，说道：“但我自己都觉得我不正常，我可不想今后当上了联邦政丅府的副总统，还要时时刻刻担心被你暗杀。”\n\n    “所以，我要你去死。”\n\n    ……\n\n    ……\n\n    许乐一向认为这个世界上最难对付的敌人只有一种，那就是疯子，比如帝国白sè院落里那位大师范，此时他又看见了一",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "经消失不见，回复成媚丽而怯懦的样子，用轻柔的声音解释道：“如果让联邦民众认为这又是一次组织内部的血腥权力斗争，会损害委员会和南水领袖的声誉，所以只好让你来背这个黑锅。”\n\n    许乐耸了耸肩，回答道：“我很乐意。”\n\n    在离开之前，他回头望着正准备钻进床底完成角sè扮演的女人，好奇问道：“我",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "刻担心被你暗杀。”\n\n    “所以，我要你去死。”\n\n    ……\n\n    ……\n\n    许乐一向认为这个世界上最难对付的敌人只有一种，那就是疯子，比如帝国白sè院落里那位大师范，此时他又看见了一个同样疯狂的老人，而且这个老人更加残忍和冷酷。\n\n    湿冷的汗水渐渐渗透衣背，他开始紧张，然后",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "充道：“它只需丅要轻轻一按，便能有相同的效果。”\n\n    运动衣帽檐阴影中，许乐的眼睛眯了起来，他离开时确实在门旁看到过一个银熊吊坠，当时甚至有冲动将那串钥匙揣在口袋里。\n\n    稳定而有力的食指将机械扳机压的更深了一些，只需丅要再得一丝便会击，他问道：“然后？”\n\n    “然后？我只是想告诉",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "眼眸里呈现出无比的恐惧，干瘪的身体在床上抽搐两下，绝望地停止了呼吸。\n\n    许乐看着女人的背影，缓缓放下手丅枪，问道：“你随时都可以杀死他，为什么要选择现在。”\n\n    女人转过身来，脸上严肃的表情已经消失不见，回复成媚丽而怯懦的样子，用轻柔的声音解释道：“如果让联邦民众认为这又是一次组织内部",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

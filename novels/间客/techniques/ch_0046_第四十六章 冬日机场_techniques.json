@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 46,
+  "chapter_title": "第四十六章 冬日机场",
+  "filename": "ch_0046_第四十六章 冬日机场.txt",
+  "char_count": 3706,
+  "timestamp": "2026-04-10T11:53:11.047636",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "肩包反了过来抱在怀里，勉强取些暖。他将身体转过来，避着风头，眯着眼睛看着远处的航空机场入口，有些奇怪为什么空陆转接飞船不直接飞到那些通道口处，而是停在风雪之中。\n\n    古钟号还停留在首都星外的太空中，上面搭乘的西林官员和东林回访的官员，马上便会再次踏上旅途，此时降落到首都星表面的，基本都是有公务",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "第四十六章 冬日机场 \n\n    许乐眯着眼睛看着天上落下的雪花，心想这些纷纷扬扬的冰晶倒还真的蛮漂亮，这是他第一次看到真正的雪，惊喜之余，竟似乎忘了自己身上衣服的单薄，也没有注意到身周那些同行的乘客，投过来的同情眼光。穿着件单衣，立于广场风雪之中，看上去确实可怜，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "年官员皱着眉头问着自己的同伴。\n\n    在他身后的许乐听到这句话，眼睛眯的更加厉害，不引人注意地向人群后方躲了躲，透过人群间的缝隙，看着几辆蒙着厚雪的救护车消失在航空机场的远处出口，隐约想到，那上面搭乘的一定是曾经抓住过自己的西林军人，那些军人被那道奇怪的光柱波及，一直在古钟号太空飞船养伤，看样子",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "确实容易出问题。\n\n    他此时已经隐约猜到了小西瓜的家世，当然也不认为那名**递过一张名片便转身离去有何无礼。事实上，许乐并不认为自己做的那些事情值得对方来谢谢自己，以对方的身份，能够专门等在这里和自己说句话，已经算是十分客气，更何况他清楚，这名**一定是急着去陆军医院看望自己丈夫的亲信下属。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "狱走到天堂般的喜悦和一种紧张之后的快乐释放。\n\n    ……\n\n    ……\n\n    然而他的轻松狂喜并没有维持多长时间，因为他发现在通道外接人的人都用一种奇怪的眼光注视着自己，许乐微微皱眉，心想电子监控都没有发现问题，难道自己身上有什么奇怪的地方？他下意识里摸了摸脸，继续向前走着，然后发现了为什",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "经忘记了电子监控的存在。\n\n    “看样子这小子刚才真地被冻惨了，准备件风衣给他。”一个好听的声音说道。\n\n    许乐的脚步缓慢只有片刻，片刻后他抬起头来，尽可能平静地向着无人的通道走去，只有他裤兜里的零钱才能感觉到他的紧张和颤抖，脸上却是没有一丝流露。五米的距离说长不长，说短不短。但是当许乐“",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "脚步缓慢只有片刻，片刻后他抬起头来，尽可能平静地向着无人的通道走去，只有他裤兜里的零钱才能感觉到他的紧张和颤抖，脸上却是没有一丝流露。五米的距离说长不长，说短不短。但是当许乐“平静”地走过这条通道后，腿都有些发软，有了一种从地狱走到天堂般的喜悦和一种紧张之后的快乐释放。\n\n    ……\n\n    …",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "个戴墨镜的莱克上校就在救护车上，想到这么多天，自己一直离那个上校和那些受伤的机甲战士不远，许乐的心头骤然生出一丝后怕，自己的脸，那位莱克上校可是看见过，如果在飞船上两个真的碰到，那该怎么办？严寒的天气里，许乐的后背里流下一道汗水，知道自己实在是太不小心谨慎。好在以后大概再也不会和西林那边的人产生什么",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "是随时都可能混进联邦？许乐吞了一口唾沫，脑袋微低，眼睛却看着不远处的出口，心知这里的监控力度是联邦里最强大的，如果自己能够通过这里中，那就代表着老板给自己的芯片，足以让自己用伪装的身份在整个联邦社会里生存下去，可是如果当自己走过通道，被联邦监控发现异常的话？\n\n    会不会有二十几枝电击枪从墙壁里",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "竟似乎忘了自己身上衣服的单薄，也没有注意到身周那些同行的乘客，投过来的同情眼光。穿着件单衣，立于广场风雪之中，看上去确实可怜，那些乘客都以为许乐是错误地将厚衣服放进了行李里，不禁摇头无语，不过同情归同情，大家身上带着的衣服都不多，也不会有谁会脱了自己的衣服披到许乐的身上。\n\n    寒冬的首都，风也",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "都觉得有些怪异，因为联邦公民似乎没有谁会在意这条监控通道，更多的时候，人们似乎都已经忘记了电子监控的存在。\n\n    “看样子这小子刚才真地被冻惨了，准备件风衣给他。”一个好听的声音说道。\n\n    许乐的脚步缓慢只有片刻，片刻后他抬起头来，尽可能平静地向着无人的通道走去，只有他裤兜里的零钱才能感觉",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "冬日机场 \n\n    许乐眯着眼睛看着天上落下的雪花，心想这些纷纷扬扬的冰晶倒还真的蛮漂亮，这是他第一次看到真正的雪，惊喜之余，竟似乎忘了自己身上衣服的单薄，也没有注意到身周那些同行的乘客，投过来的同情眼光。穿着件单衣，立于广场风雪之中，看上去确实可怜，那些乘客都以为许乐是错误地将厚衣服放进了行李",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "面？”\n\n    机场的工作人员只是笑着安慰了几句。许乐顺着乘客们的手指望去，只见一架银白色的飞机正缓缓停泊在远处的专用通道之前，他眯了眯眼睛，似乎看到了一个抱着洋娃娃的小女孩儿正在很多人的护卫下走下了飞船，进入了通道。笑容堆上了许乐的脸，轻声自言自语道：“小西瓜，以后可要好好地吃饭。”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "联邦里最强大的，如果自己能够通过这里中，那就代表着老板给自己的芯片，足以让自己用伪装的身份在整个联邦社会里生存下去，可是如果当自己走过通道，被联邦监控发现异常的话？\n\n    会不会有二十几枝电击枪从墙壁里伸出来，把自己烤成烧鸡？许乐难以控制地打了个寒噤，这一幕落在远处的人群里都觉得有些怪异，因为联",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "上两个真的碰到，那该怎么办？严寒的天气里，许乐的后背里流下一道汗水，知道自己实在是太不小心谨慎。好在以后大概再也不会和西林那边的人产生什么关系，一旦进入首都星后，胖子船长和秘书先生应该也不会容易找到自己，只是小西瓜……嗯，本来就不是一个层次的人，不再相见，也许更好。\n\n    就在许乐东想西想的过程",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "自言自语道：“小西瓜，以后可要好好地吃饭。”\n\n    ……\n\n    ……\n\n    摆渡电动车里温暖如春，抱怨的官员乘客们终于住了嘴，长期的太空旅行让大家都有些疲惫，车厢内陷入了沉默之中。这种沉默一直维系到经过射线检查通道，进入航空机场建筑内部才被打破。人群如鸟兽一般散开，按照彼此接下来的旅程和",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

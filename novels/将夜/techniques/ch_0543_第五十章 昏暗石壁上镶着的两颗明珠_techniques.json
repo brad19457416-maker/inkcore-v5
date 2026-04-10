@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 543,
+  "chapter_title": "第五十章 昏暗石壁上镶着的两颗明珠",
+  "filename": "ch_0543_第五十章 昏暗石壁上镶着的两颗明珠.txt",
+  "char_count": 4348,
+  "timestamp": "2026-04-10T12:11:26.566531",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "不知道这句话是说给宁缺听，还是说给自己听，或者是说给道殿外那些忠诚的下属听。\n　　宁缺想着长安城里的风景与人物，想着这一路南来所看到的田园风光，那些不停向肥沃原野浇灌心血的农夫与军人，说道：“我也同样如此。”\n　　昏淡的石廊再次陷入安静。\n　　再一次打破安静的依然是宁缺。\n　　他看着叶红鱼微笑说道：",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "说道：“我只是想知道如果真有那天，你会怎么做。”\n　　叶红鱼毫不犹豫说道：“我说过，你对道门而言是最危险的敌人，所以如果真有开战的那天，我当然会不惜一切代价先杀死你。”\n　　宁缺伸手从她手里取过茶杯，端至唇畔，若有所思说道：“有道理，像你这么危险的人物，我也应该想尽一切办法先杀死你。”\n　　说完这句",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "是赢了他。”\n　　宁缺说道：“但他没有死，我不知道自己下一次还能不能打赢他。”\n　　叶红鱼说道：“你究竟想说什么？”\n　　“你不要告诉我，西陵神殿不知道他现在拥有怎样恐怖，如果让他活下来，他会变得一天比一天强大，一天比一天疯狂，而他在这个世界上，最想杀的两个人便是我和你，所以我们应该趁着他还不够强大",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "恭喜我什么？”\n　　宁缺看她神情不似作伪，也知道她从来不会在人情世故方面扮演成熟，不由默默叹息一声，心想你果然还是那个外物难扰，道心澄静的道痴。\n　　“坐上墨玉神座，成为裁决大神官，难道不是一件值得庆贺的事情？陈皮皮说过，像你这等年纪成为大神官的，千年以来也没有几个。”\n　　叶红鱼这才知道他恭喜的是",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "什么骄傲的资格。”\n　　叶红鱼说道：“我说过很多次，我们与普通的修道者是不一样的人，知命境对我们来说意义更加重大，因为境界对我们来说，都是战斗的手段。”\n　　宁缺说道：“我总觉得你重复了无数次的这种说法，就是在告诉世界，我们两个就是一样的人，就像海底一模一样的两颗珍珠，天生一对？”\n　　“本来便是如",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "抬起看了他一眼，眼神里满是嘲弄，说道：“我们都是没有朋友的人，所以何必要冒充朋友一样感慨聊天忆过去想将来？你想要把我们的关系变得更亲密一些，只是为了将来保命，这等行迳实在有些无耻。”\n　　宁缺没有辩解，说道：“我只是想知道如果真有那天，你会怎么做。”\n　　叶红鱼毫不犹豫说道：“我说过，你对道门而言是",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的笑容苦涩至极。\n　　看着他现在的神情，想到先前用神术替桑桑治病前，宁缺毫不犹豫与自己勾手指，叶红鱼第一次觉得这个无耻的书院弟子，似乎并不是完全一无是处。\n　　一念及此，她看着宁缺神情微和说道：“既然夫子说佛宗有办法治桑桑的病，那么你们烂柯寺一行必有收获。”\n　　宁缺笑了笑，问道：“这是在安慰我？”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的两颗明珠\n　　最后一抹暮光消失，齐国都城被夜色掩盖，白色道殿那个房间里的光辉也渐渐敛没，虔诚跪拜的人们从敬畏沉醉的情境中苏醒过来，怔怔看着那个窗口，不知道在想些什么，万家灯火渐起。\n　　房门开启，叶红鱼走了出来，美丽的脸上依然是那般的冷漠，没有任何多余的情绪，眉眼间的疲惫却是怎样也掩之不住。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "气，替她把被角掖好，换了新的湿毛巾搭在她的额上，然后走了出来。\n　　他看着倚靠在石壁上的叶红鱼，诚恳说道：“辛苦了。”\n　　叶红鱼注意到他只说辛苦却没有言谢，眉梢微挑，问道：“不谢谢我？”\n　　宁缺说道：“这是拿我的命换的。”\n　　叶红鱼说道：“你的药方和道殿的药材看来起了作用，她体内的毒素化解了很",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，我还没有恭喜你。”\n　　叶红鱼微微一怔，说道：“恭喜我什么？”\n　　宁缺看她神情不似作伪，也知道她从来不会在人情世故方面扮演成熟，不由默默叹息一声，心想你果然还是那个外物难扰，道心澄静的道痴。\n　　“坐上墨玉神座，成为裁决大神官，难道不是一件值得庆贺的事情？陈皮皮说过，像你这等年纪成为大神官的，千",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "”\n　　叶红鱼这才知道他恭喜的是这件事情，平静说道：“自修道始，我便知道自己一定能成为西陵大神官，从进入裁决司的第一天起，我便知道自己有一天一定会坐上那方墨玉神座，所以这本就是自然这事，有何值得庆贺？”\n　　宁缺感慨说道：“也就是我了解你，不然让世间任何人听着你说的这段话，都会觉得你的自恋已然超过了",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "分可爱，但性情着实可憎。”\n　　齐国道殿和裁决司的神官骑士们，都被那扇紧闭的大门拦在外面，此时的道殿安静无人，石廊里的灯火自然没有点燃，临街的石窗漏进来都城里的星星灯火，并不如何明亮，但也谈不上幽暗。\n　　宁缺看着昏暗光线中道门少女的脸，看着她眉眼间的疲惫与憔悴，看着她清顺的眉，明亮的眼，弹嫩的唇瓣",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

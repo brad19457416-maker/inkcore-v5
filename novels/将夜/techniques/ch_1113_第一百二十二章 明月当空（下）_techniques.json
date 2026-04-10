@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1113,
+  "chapter_title": "第一百二十二章 明月当空（下）",
+  "filename": "ch_1113_第一百二十二章 明月当空（下）.txt",
+  "char_count": 2890,
+  "timestamp": "2026-04-10T12:11:34.933090",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "一座山斩成了两半。\n　　随着崖石一道落下的还有个人，那人的身影很娇小，从数百丈高的山崖上落下，仿佛从天空跳落，跳入雪中，瞬间便来到了屠夫的头上。\n　　屠夫刀意甫落，即便是他，也无法在这么短的时间内斩出第三刀。\n　　他低喝一声，翻腕横刀于雪中。\n　　啪的一声闷响。\n　　那个娇小的身影直接落在刀面上。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "种种迹像证明，他们联手依然很难杀死屠夫。\n　　“有些人确实很难杀死，比如你、酒徒还有首座，但今夜酒徒最终还是死了，首座也被我书院困死，对你，我们也有安排。”\n　　余帘平静说道：“先前只是试试，既然不行，那便用别的法子，你要清楚，战胜敌人不见得要杀死敌人。”\n　　这句话很有道理。\n　　君陌想着先前屠夫",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "夫说道：“你接不住。”\n　　君陌说道：“也许。”\n　　屠夫沉默片刻，问道：“你们等了十余日不上桃山，为什么？道门若覆灭，昊天她便会变得很虚弱，甚至会死。”\n　　君陌沉默片刻，说道：“或者是因为，你们眼里的昊天，在我书院诸人看来，也是那个煮饭做菜的小丫头，她能不死，最好不死。”\n　　屠夫问道：“为何今",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "下一片昏暗，只能听到声音，根本看不清楚画面。\n　　谁也不知道在如此短暂的时间里，三人之间发生了多少次战斗，铁剑屠刀与拳头之间发生了多少次撞击，只知道那代表着绝对的力量！\n　　不知道过了多久，崖前终于安静下来。\n　　“上次我就说过，你们确实很强，如果让你们拥有与我相同的岁月，甚至有可能超过我，但……现",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，雪花渐渐停了，云也散了，露出了那轮明月。\n　　君陌抬头望向那轮明月。\n　　往桃山的山道间，书院里的人们挑着担，牵着牛，扛着白鹅与家当，沉默地向前赶路，他们曾经出过青峡，如今再上西陵，山道沙沙。\n　　余帘若有所觉，抬头向夜空望去，也看到了那轮明月。\n　　“老师，我们会赢的。”\n　　陈皮皮看着月亮，微",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "道：“先前只是试试，既然不行，那便用别的法子，你要清楚，战胜敌人不见得要杀死敌人。”\n　　这句话很有道理。\n　　君陌想着先前屠夫的第一刀，想道。\n　　随着余帘的声音落下，飘着微雪的山崖间，响起一道清幽的箫声。\n　　紧随着箫声而来的，是淙淙如流水的琴声。\n　　琴箫合鸣，其声动人动情，然而在无声处，却有",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "至有可能超过我，但……现在不行，你们连杀死我都做不到。”\n　　屠夫神情漠然看着对面的山崖下方，他身上出现了很多道伤口，却看不到血，似乎狼狈，却没有真正受伤。\n　　果然不愧是最接近传说中不朽境界的那个人。\n　　君陌的左肩有道血口，余帘的黄裙上满是尘土，更重要的是，她的鞋破了，种种迹像证明，他们联手依然",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "着崖石一道落下的还有个人，那人的身影很娇小，从数百丈高的山崖上落下，仿佛从天空跳落，跳入雪中，瞬间便来到了屠夫的头上。\n　　屠夫刀意甫落，即便是他，也无法在这么短的时间内斩出第三刀。\n　　他低喝一声，翻腕横刀于雪中。\n　　啪的一声闷响。\n　　那个娇小的身影直接落在刀面上。\n　　轰的一声巨响。\n　　烟",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "随着崖石一道落下的还有个人，那人的身影很娇小，从数百丈高的山崖上落下，仿佛从天空跳落，跳入雪中，瞬间便来到了屠夫的头上。\n　　屠夫刀意甫落，即便是他，也无法在这么短的时间内斩出第三刀。\n　　他低喝一声，翻腕横刀于雪中。\n　　啪的一声闷响。\n　　那个娇小的身影直接落在刀面上。\n　　轰的一声巨响。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "简单一刀斩破！\n　　刀意去而未绝，落在那片山崖上，只听得喀喇声响，乱石碎飞入雪，松藤间裂痕渐扩，山崖缓缓滑动，无数崖石滚落，然后……山裂了。\n　　屠夫一刀，将一座山斩成了两半。\n　　随着崖石一道落下的还有个人，那人的身影很娇小，从数百丈高的山崖上落下，仿佛从天空跳落，跳入雪中，瞬间便来到了屠夫的头上",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "已经陷进了地面，深至没膝！\n　　那个娇小的身影，被屠刀震飞，在残破的山崖间轻点，如雁一般折身再至，而同时，君陌手里的剑也到了！\n　　轰隆隆！\n　　震耳欲聋的撞击声，直接摧毁了小镇边缘的数座民宅，将残山前的雪花尽数撕成粉絮，更是直上夜穹，将那片云都撕开了道口子！\n　　到处都是碰撞引发的天地气息湍流，扯",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "如你、酒徒还有首座，但今夜酒徒最终还是死了，首座也被我书院困死，对你，我们也有安排。”\n　　余帘平静说道：“先前只是试试，既然不行，那便用别的法子，你要清楚，战胜敌人不见得要杀死敌人。”\n　　这句话很有道理。\n　　君陌想着先前屠夫的第一刀，想道。\n　　随着余帘的声音落下，飘着微雪的山崖间，响起一道清",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

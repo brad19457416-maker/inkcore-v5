@@ -1,0 +1,115 @@
+{
+  "novel": "将夜",
+  "chapter_number": 402,
+  "chapter_title": "第二百零七章 凭什么不服？（上）",
+  "filename": "ch_0402_第二百零七章 凭什么不服？（上）.txt",
+  "char_count": 2207,
+  "timestamp": "2026-04-10T12:11:21.722600",
+  "techniques_count": 8,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "着天空，手里紧紧握着残余的剑柄，终于比先前那刻稍微清醒了些，脸色恐惧又有极大的不甘。\n　　他忽然再次愤怒起来，像个疯子般握着剑柄四处劈刺，厉声吼道：“我不甘心！宁缺你在哪里！快来与我再战一场！”\n　　柳亦青确实很不甘心，尤其是发现自己眼睛瞎了之后，那份不甘愈发浓郁，直接把悲伤无助变成了愤怒。\n　　他",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "只有柳亦青一声凄厉过一声的惨吼，在不停回荡。\n　　各宗派的修行者震惊无语。\n　　在他们看来，今天这场战斗，宁缺根本没有道理获得胜利，尤其是当柳亦青战前展露出强大境界之后，他们以为宁缺就算在书院后山闭关苦修有所进益，也不可能是这位南晋年轻强者的对手。\n　　谁也没有想到，这场战斗开始的如此简单，结束的如",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "过一声的惨吼，在不停回荡。\n　　各宗派的修行者震惊无语。\n　　在他们看来，今天这场战斗，宁缺根本没有道理获得胜利，尤其是当柳亦青战前展露出强大境界之后，他们以为宁缺就算在书院后山闭关苦修有所进益，也不可能是这位南晋年轻强者的对手。\n　　谁也没有想到，这场战斗开始的如此简单，结束的如此狂暴，结局时柳亦",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "想到，这场战斗开始的如此简单，结束的如此狂暴，结局时柳亦青惨飞出去的画面，就在他们眼前发生了。\n　　难道这就是这些日子传的沸沸扬扬的符武合一？\n　　难道宁缺在书院闭关真的是在符武双修，而且获得了成功？\n　　官道畔的修行者们震惊思考着。\n　　侧门外的观战民众则是根本没有想什么，他们看都看不懂先前这场修",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "今日却遇着比我更冷酷之人，败在你手中我确实不应该不服。”\n　　骄傲的南晋年轻强者，今日在失败之后终于第一次说出了服字，只不过这声服依然说的非常怨毒，充满了绝望的嘲讽。\n　　宁缺低头看着脚下青石砖上的尘埃，忽然抬起头来，看着对方说道：“首先，朝小树与我之间乃食客之交，只说煎蛋面和银子，不谈恩怨情仇。”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "战胜那个南晋来的剑客，是理所当然的事情。\n　　之所以场间一片死寂，最开始时是因为这场战斗结束的太快，人们还来不及兴奋激动，而当他们想要喝彩欢呼时，便看到了柳亦青的惨状，听到了他如疯如癫如泣如诉的凄厉喊声。\n　　唐人崇拜强者，同情弱者，他们对这名胆敢对书院发出挑战书的南晋人，没有丝毫好感，然而此时看着",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "是集体保持了沉默。\n　　……\n　　……\n　　“你怎么会神术？”\n　　柳亦青站在桃树下，无神的双眼看着天空，手里紧紧握着残余的剑柄，终于比先前那刻稍微清醒了些，脸色恐惧又有极大的不甘。\n　　他忽然再次愤怒起来，像个疯子般握着剑柄四处劈刺，厉声吼道：“我不甘心！宁缺你在哪里！快来与我再战一场！”\n　　柳",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，手中紧紧握着残余的剑柄，对着山坡方向，颤声凄喊道：“来！再战一场！”\n　　宁缺静静看着他，忽然开口说道：“你已经输了，我凭什么还要和你战。”\n　　柳亦青听着他的声音，迅速转身，用泛着恐怖白色的眼瞳望过来，却险些跌倒，厉声喝道：“因为你取巧，所以我不服！”\n　　宁缺看着他，平静说道：“我哪里取巧了？",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

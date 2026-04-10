@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 502,
+  "chapter_title": "第九章 日后夜临谁来罩？",
+  "filename": "ch_0502_第九章 日后夜临谁来罩？.txt",
+  "char_count": 3466,
+  "timestamp": "2026-04-10T12:11:26.515063",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "出神说道：“很像和尚们说的听不懂的话。”\n　　夫子说道：“以后多听和尚们说说，便能懂。”\n　　“会有危险吗？”\n　　“走路都会被马车撞死。”\n　　“老师，我就当你这句话是默认。”\n　　“我哪里有认？”\n　　宁缺收回眺望夜中长安城的目光，低头看着自己的膝头，说道：“如果连老师你都觉得那是危险，那我和桑",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的必须死去，可能必须活着替西陵神殿继续奉献，死去的人反而值得庆幸，因为活着的人将用自己的余生后悔当初为什么当年道痴失势时自己会如此愚蠢。\n　　那名神官的声音回荡在空旷的裁决神殿里，随着名字被一一点出，跪在地上的裁决司下属们变得越来越恐惧，谁也不知道会不会点到自己的名字，只有跪在最中间的数名身着黑金盔",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "第九章 日后夜临谁来罩？\n　　原来是小师叔说的话。宁缺看着远处长安城里最后最微弱的那点灯火，沉默了很长时间，问道：“老师，真的一定要去烂柯寺？”\n　　夫子说道：“由你自己决定。只是如果不去这一遭，你心头那个疑",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "事情，而是生活在这个世界上的某些人，因为各自心中的理念，哪怕是偶一动念，便开始影响周遭的环境和人群，最终影响到极远处的对方。”\n　　“直至相遇，心里的那些念头便会转换为实际的故事，然后你再往事件最开始时倒溯，往往会发现，你最终得到的正是你想的，这大概便是机缘。”\n　　夫子继续说道：“桑桑那丫头的病，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "发生的事情，而是生活在这个世界上的某些人，因为各自心中的理念，哪怕是偶一动念，便开始影响周遭的环境和人群，最终影响到极远处的对方。”\n　　“直至相遇，心里的那些念头便会转换为实际的故事，然后你再往事件最开始时倒溯，往往会发现，你最终得到的正是你想的，这大概便是机缘。”\n　　夫子继续说道：“桑桑那丫头",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "“紫墨。”\n　　“袁俊。”\n　　“刘潇。”\n　　……\n　　……\n　　听着自己的名字，神殿骑兵统领们压抑不住心头的恐惧和茫然，纷纷抬起头来，望向那方墨玉神座，然而他们发现，坐在神座上的那名少女撑着下颌、闭着双眼，仿佛已经睡着了。\n　　那名叫紫墨的骑兵统领在场间资格最深，实力最强。他看着面露惊恐之色、",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "破碎成了满地珠粉，再也无法修复，最终被杂役扫进了垃圾堆，早已不知去了何处。\n　　那面珠帘在裁决神殿里存在了很多年，替神座上那个强大的男人增添了很多神秘而恐怖的气息，人们已经习惯了那道珠帘的存在，如今他们不得不习惯没有那道珠帘，因为神座上那个强大的男人已经死去。\n　　如今坐在墨玉神座上的，是位年轻而美",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "陵神殿裁决司就是如此，里面的人们终日与恐怖的刑罚打交道，信奉强者恒强的道理，所以没有人对这种气氛感到陌生。\n　　裁决神殿也没有什么变化，还是那般空旷阴冷，凝血般的墨玉神座还在那里，只是神座前那面珠帘在前些日子的那场战斗中，破碎成了满地珠粉，再也无法修复，最终被杂役扫进了垃圾堆，早已不知去了何处。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "：“居然接的如此好。”\n　　“哪里好？”\n　　“有韵脚。”\n　　“我只觉得很无聊。”\n　　今夜还吹着风，山崖间好温柔，宁缺的心情却不轻松，神情黯然问道：“老师您是有大能耐的人，真看不到日后的画面吗？”\n　　夫子说道：“修行修的最终是时间，我虽然活的比普通人要长久一些，但很遗憾没有老到经历过上次冥界入",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，哪怕是偶一动念，便开始影响周遭的环境和人群，最终影响到极远处的对方。”\n　　“直至相遇，心里的那些念头便会转换为实际的故事，然后你再往事件最开始时倒溯，往往会发现，你最终得到的正是你想的，这大概便是机缘。”\n　　夫子继续说道：“桑桑那丫头的病，或者能够自愈，但能在烂柯寺小和尚处看看更好，你继承了你",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "缺问道：“世间还有经历过上次冥界入侵的人吗？”\n　　以往他并不相信修行者能够活上数千数万年，然而随着进入书院后山、见识增广，他开始思考世间是否真的有永生这种事情。\n　　夫子说道：“我知道有两个人曾经经历过上次的永夜。”\n　　宁缺没有想到居然真有，吃惊问道：“是什么样的人？”\n　　夫子不知想起了些什么",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "看着远处长安城里最后最微弱的那点灯火，沉默了很长时间，问道：“老师，真的一定要去烂柯寺？”\n　　夫子说道：“由你自己决定。只是如果不去这一遭，你心头那个疑惑谁也解答不了，为师也无法解答，而且我总觉得烂柯寺此行是你的机缘。”\n　　宁缺问道：“是什么样的机缘呢？”\n　　“我本是不信机缘之人。”夫子说道：",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。\n　　然而令神殿里所有人都意想不到的是，那名神官的目光最终落到了这些骑兵统领华丽的黑金盔甲上，并且缓缓念出了他们的姓名。\n　　“紫墨。”\n　　“袁俊。”\n　　“刘潇。”\n　　……\n　　……\n　　听着自己的名字，神殿骑兵统领们压抑不住心头的恐惧和茫然，纷纷抬起头来，望向那方墨玉神座，然而他们发现，坐",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "如此好。”\n　　“哪里好？”\n　　“有韵脚。”\n　　“我只觉得很无聊。”\n　　今夜还吹着风，山崖间好温柔，宁缺的心情却不轻松，神情黯然问道：“老师您是有大能耐的人，真看不到日后的画面吗？”\n　　夫子说道：“修行修的最终是时间，我虽然活的比普通人要长久一些，但很遗憾没有老到经历过上次冥界入侵，没有看到",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

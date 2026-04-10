@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1119,
+  "chapter_title": "第一百二十八章 辟地（上）",
+  "filename": "ch_1119_第一百二十八章 辟地（上）.txt",
+  "char_count": 3715,
+  "timestamp": "2026-04-10T12:11:34.942362",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "宁缺要做的事情，是感知、然后尝试引领整个人间的意志。\n　　那是怎样的意志？\n　　太阳正在熊熊燃烧，天空深处的神国逐渐清晰，天地间一片光明，这是从未有过的白昼，就连湛蓝的天空都快要变成纯白的颜色。\n　　光明令人盲，很少有人还能睁开眼睛。\n　　光明令人热，整个人间都被酷热笼罩，大泽蒸腾，南海生波，残雪",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "去死，拯救这个世界？\n　　宁缺不会干，如果他是那种道德狂人或殉他人道者，当年也不会背着病重的她满世界逃亡，手上染满了无辜者的鲜血。\n　　他记得那个世界里有一首很著名的诗。\n　　“生命诚可贵，爱情价更高，若为自由故，二者皆可抛。”\n　　如果是君陌，为了自由肯定能抛掉生命，而轲浩然已经抛了。如果是叶红鱼",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "眼睛说道。\n　　就像无数次那样，就像在岷山、在渭城、在长安、在西陵那样，无论她是什么小侍女还是昊天，最终决定一切的，还是她。\n　　她下了决心，但今天，宁缺不像以前那样听话。\n　　“你会死。”\n　　桑桑闭着眼睛，平静说道：“你陪我活了这么些年，够了。”\n　　宁缺沉默片刻，说道：“不害怕吗？”\n　　桑桑",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "万恶的旧世界，建设美好的新世界，听上去简单，实际上对于“世界”本身来说，这是最大的一件事情，而世界对人们来说，本就是最大的，于是无论是打破旧世界还是建设新世界，都成了最大的事情。\n　　最大的事情，自然最难，就像观主现在做的事情以前没有人做过一样，宁缺想做的事情以前也没有人做过，莲生当年也只有一个朴素",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "意。”\n　　天注定，便是她愿意。\n　　“我愿意。”\n　　桑桑微笑着说道，眼睛有些湿。\n　　她忘了这是来到人间后，第几次想要流泪。\n　　但好像每次都和这个男人有关。\n　　宁缺问道：“还怕吗？”\n　　桑桑说道：“还是怕，但和你一起，就可以。”\n　　……\n　　……\n　　她很虚弱，但她还是昊天，当她决定做这",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的那句话。\n　　书生最终百无一用？\n　　百无一用是书生？\n　　读书人越想越生气，越想越失落。\n　　他愤怒地伸出双手，将桌上的书推了下去。\n　　那些书离开了桌面，却没有落到地上，而是飘浮在了空中。\n　　崖洞里，无数册书也离开了书架，飘到了空中。\n　　“原来，是这么回事。”\n　　读书人明白了，苍老的面容",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "“那下辈子能遇到吗？”\n　　宁缺笑了起来，问道：“我们第一次见面是什么时候？”\n　　桑桑有些不解：“难道不是你拣到我的那天？”\n　　“不是，是在你刚生下来的那天……”\n　　宁缺说道：“那天在通议大夫府里的柴房里，我杀死管事和少爷后藏进井里，过了很久才敢爬起来。我很饿，到处找东西吃，然后……看见了你。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "让我陪你一起去死吧。”\n　　桑桑想了想，说道：“那下辈子能遇到吗？”\n　　宁缺笑了起来，问道：“我们第一次见面是什么时候？”\n　　桑桑有些不解：“难道不是你拣到我的那天？”\n　　“不是，是在你刚生下来的那天……”\n　　宁缺说道：“那天在通议大夫府里的柴房里，我杀死管事和少爷后藏进井里，过了很久才敢爬",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "睛也眯了起来。\n　　桑桑的意志，随着清风来到场间。\n　　中年道人懂了，知道她获得了新生，不由生出无限感慨。\n　　守护人间无数万年，您辛苦了。\n　　叶红鱼也明白了，蹙起细细的眉，说道：“一对白痴。”\n　　莫山山站在她身旁，脸色苍白，沉默不语。\n　　那座小镇里，屠夫放下了手中的刀，君陌却还握着铁剑。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "人们可以睁开眼睛，可依然很热。\n　　李渔和大唐少年天子在御书房里。她的衣裙已然被汗打湿，呼吸变得有些沉重，牵着弟弟的手，走到窗畔，将窗户推开。\n　　春风亭朝宅里，朝老太爷和上官扬羽相对而坐，两个人都已经脱光了上衣，露出精瘦绝不好看的身体，热的极为难受。\n　　“受不了了。”\n　　朝老太爷撑着拐杖站起来",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "，然后他做了个梦，梦见了一片海。\n　　那是宁缺的初识。\n　　只要桑桑在怀，他便能感知整个世界。\n　　同时，整个世界也感知到了他。\n　　……\n　　……\n　　西陵神殿前的崖坪上，已然是血的海洋。\n　　熊初墨死了，何明池死了。\n　　宁缺要求必须死的人，都死了。\n　　中年道人站在崖坪石屋前，身影有些孤单。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "里握着的阵眼杵，被整座长安城散向人间处处。\n　　“试试吧，也许真的能成功。”桑桑靠在他胸口，闭着眼睛说道。\n　　就像无数次那样，就像在岷山、在渭城、在长安、在西陵那样，无论她是什么小侍女还是昊天，最终决定一切的，还是她。\n　　她下了决心，但今天，宁缺不像以前那样听话。\n　　“你会死。”\n　　桑桑闭着",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "现在做的事情以前没有人做过一样，宁缺想做的事情以前也没有人做过，莲生当年也只有一个朴素而血腥的想法，从来没有走到实践那个环节，那么他就算做了再多准备，也不知道如何着手。\n　　是的，他已经准备了数年时间。对于一生来说，数年时间不短，但和打破世界这样的宏大命题相比，却短暂的有些可笑。\n　　而且他始终没有",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "些从身体里渗出的金色尘粒、那道若隐若现的残影在二人的身体间不停地挣扎，想要离开却一时无法。\n　　一道温暖的力量，进入宁缺的身体里，他的念力随之而起，经过手里握着的阵眼杵，被整座长安城散向人间处处。\n　　“试试吧，也许真的能成功。”桑桑靠在他胸口，闭着眼睛说道。\n　　就像无数次那样，就像在岷山、在渭城",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

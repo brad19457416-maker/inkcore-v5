@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 2,
+  "chapter_title": "第二章 能书能言穷酸少年",
+  "filename": "ch_0002_第二章 能书能言穷酸少年.txt",
+  "char_count": 3644,
+  "timestamp": "2026-04-10T12:11:03.384248",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "安皇宫里长大，嫁到草原上做威做福连自己男人死了都没发现的白痴公主殿下，才会愚蠢到以为这始终是个天大的秘密。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "怪异而极富力道的书法，定会对他大有助益。\n　　就算那厮始终无法开窍，单凭那手字就能让书院和道坛里的高人们另眼相看，至不济也能震一震那些文士书家。\n　　……\n　　……\n　　宁缺放下手中的书籍，摇了摇头向门外走去，脸上尤自挂着淡淡的失落与不甘。\n　　这本小时候跟运粮队去开平赶集买的太上感应篇，正如那位贵",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "破坏的太过彻底，婢女迳直推开篱笆走了进去，目光落在竹躺椅上，落在那名少年一直认真读的旧书上，淡淡嘲讽说道：“以为看的是什么圣贤大作，能让你忘记身边发生的一切动静，没想到居然只是市面上随处可买的太上感应篇，莫非像你这种人也奢望能踏进修行之道？”\n　　宁缺坐起身来，好奇地看了一眼这个衣着华贵似乎永远不应",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，莫非像你这种人也奢望能踏进修行之道？”\n　　宁缺坐起身来，好奇地看了一眼这个衣着华贵似乎永远不应该出现在渭城的小娘子，又看了眼表情尴尬的校尉，停顿片刻后解释道：“只能买到这本，所以也只好将就着看，也就是好奇，哪里有什么奢望。”\n　　婢女明显没有想到这少年竟会回答的如此自然随意，弄得自己反而不由一窒",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "头，说道：“您所说新鲜二字便是关键。我不懂书法，但看那军卒枝梢落处，竟真的隐隐能见金石之意，这等字中风骨极少见，真有些像道坛里那些符道大家的手段。”\n　　“您是说神符？”\n　　帐后贵人一怔，旋即嘲讽道：“世上亿万人众，符道大家却不过十数人而已。那些高人或隐于宫中，或静坐于观内，一生冥想苦修方能凝天地",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "早就猜到了？”\n　　“全渭城现在还有谁没猜到他们是谁？”\n　　宁缺很无奈地摊开双手，望向夜色下军营的那一边，说道：“也只有那位在长安皇宫里长大，嫁到草原上做威做福连自己男人死了都没发现的白痴公主殿下，才会愚蠢到以为这始终是个天大的秘密。”",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "不过空有笔触罢了，先前偶一观之，新鲜之余难免震撼，此时细细想来，也不过是些奇技陡笔的路数，谈何正途，日后约摸也就是都城香坊外一个卖字先生。”\n　　贵人冷淡应道。\n　　老人摇了摇头，说道：“您所说新鲜二字便是关键。我不懂书法，但看那军卒枝梢落处，竟真的隐隐能见金石之意，这等字中风骨极少见，真有些像道坛",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，他就要去书院报到了。”\n　　听到书院二字，帐后忽然沉默下来，那位贵人再也没有开口说话。\n　　马士襄离开后，那位穿着旧袍的老人缓缓睁开双眼，苍老而平静的眼眸间难得流露出一丝兴趣，他望着帷帐温和笑着说道：“在这边陲小城里，居然有士卒能考进书院，实在是令人意外，既然如此，那少年想必无论品行还是能力都是上",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "然……你就当我不是男人，是个男孩儿吧。”\n　　婢女这一生大概从未见过如此厚颜无耻赖皮之人，袖中的拳头缓缓攥紧，神色冰冷正欲发作之时，目光却落在竹躺椅旁那片泥地上，落在那些树枝画出来的字迹上，心思不由微微一动，眸中隐现异色，让她浑然忘了自己想要说些什么。\n　　……\n　　……\n　　渭城条件最好的营房内，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

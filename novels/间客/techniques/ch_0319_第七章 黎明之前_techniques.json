@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 319,
+  "chapter_title": "第七章 黎明之前",
+  "filename": "ch_0319_第七章 黎明之前.txt",
+  "char_count": 4571,
+  "timestamp": "2026-04-10T12:04:59.212528",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "事情真的很妙，我们利家第一次插手总统大选，结果就支持了一个帝国人。”\n\n    联邦里从来没有绝对的秘密，像麦德林真实身份这种绝对机密，或许永远只在几十个人地小圈子里流转，但却绝对瞒不过联邦七大家的家主们，因为他们生生世世，都是这个小圈子的成员。\n\n    利修竹就像个犯错的孩子一样，低头站在老父亲",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "服的家伙，结果就这样一个人，就这样被许乐给杀了。”利缘宫老人缓缓站起身来，向着办公室外走去，“从某种意义上来说，他是联邦的英雄，可惜现在只能永远是个恐怖分子，被钉在历史的耻辱柱上，然后死亡。”\n\n    “父亲？”\n\n    利修竹没有见过许乐几次，身为联邦金字塔上地人物，他本不应该对那个小人物投射",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "奢华的办公环境，形成了鲜明的对照。\n\n    他放下了手中的电话，脸上的皱纹没有舒展开来，反而挤成了风化石层般的线条，密密麻麻，充满了沉重。\n\n    “官邸的会议已经结束，麦德林议员已经被确认是帝国的间谍。”利缘宫拿下了头顶的小帽，自嘲地翘了翘皮肤耷拉的唇角，用缓慢的语速，沙声说道：“这件事情真的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "迈尔斯上将的眉毛，在夜灯的闪闪照耀下泛着光，隐约可以看见里面有几丝白色，他皱着眉头，偏又微笑说道：“那盘录像，军区战研室已经分析了很久，最近那些搞演习地小崽子们，也在学习研判。你看过几次？”\n\n    “一次。”邹部长安静地回答道：“事涉联邦机密，看的次数太多，保密性就会降低。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "我一写快真检查了两遍，却没找出来，真是不好意思。明天还要继续去看房，时间太少，请大家体谅，祝大家周末愉快。\n\n    ……\n\n    ……\n\n    挂着醒目军事专用车牌的车队，在深夜的都大街上，像一队幽灵般异常快速地向西方驶去。如果此时是白天，过往的行人一定会注意到这个车队所代表的身份与地位，此时",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "利家老人自嘲的那句评语一般，这样的人，既然已经误打误撞为联邦做了贡献，再活下来或放出来，就只能代表着危险。\n\n    除了一直沉默的联邦军方之外，包括政府内阁，议会山知情，以及那些大家族在内的所有人，都不想看着许乐活下来，或被放出来。他们沉默地看着联邦隐藏麦德林的故事，冷酷地等待着许乐被认定为恐怖分",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "刀将洋葱切成碎末，她的眼睛上戴着精致的护目镜，所以未曾流泪，一脸冷漠。\n\n    没有人能够理解她的愤怒，她阴冷的心情。\n\n    许乐是她一手扶持起来的小家伙，然而当她现此人就像很多年前那个男人一样不受控制时，她就像感觉到一件最钟爱的玩具，再一次试图跳出她的窗台，任由那些汽车碾压。\n\n    这种",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "地手里。为了掩藏真相。就让我们地子弟当替罪羊？”\n\n    “这个小家伙如果能在军队里好好打磨几年。将来在与帝国地战争中。必然会大放异彩。”\n\n    迈尔斯上将想到自己看过很多遍的基金会大楼监控录像，解开自己军装上的领口，感叹说道：“多少年没有出过这么生猛的家伙了？我看就算李封那个小疯子，只怕没办",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "宫拿下了头顶的小帽，自嘲地翘了翘皮肤耷拉的唇角，用缓慢的语速，沙声说道：“这件事情真的很妙，我们利家第一次插手总统大选，结果就支持了一个帝国人。”\n\n    联邦里从来没有绝对的秘密，像麦德林真实身份这种绝对机密，或许永远只在几十个人地小圈子里流转，但却绝对瞒不过联邦七大家的家主们，因为他们生生世世",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "沉重。\n\n    “官邸的会议已经结束，麦德林议员已经被确认是帝国的间谍。”利缘宫拿下了头顶的小帽，自嘲地翘了翘皮肤耷拉的唇角，用缓慢的语速，沙声说道：“这件事情真的很妙，我们利家第一次插手总统大选，结果就支持了一个帝国人。”\n\n    联邦里从来没有绝对的秘密，像麦德林真实身份这种绝对机密，或许永",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "自然是很多年前，十七装甲师师长，如今地联邦军神李匹夫大人。\n\n    “师长当然没问题。”迈尔斯上将马上推翻了自己先前的疑惑，缓缓说道：“但是将来地大战中，难道还指望师长再亲自出山？我们这些人岂不是羞愧的要死？”\n\n    邹应星一直安静地听着，没有插一句话，只是偶尔看着窗外安静地街道，眼眸里闪过几",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "师长，如今地联邦军神李匹夫大人。\n\n    “师长当然没问题。”迈尔斯上将马上推翻了自己先前的疑惑，缓缓说道：“但是将来地大战中，难道还指望师长再亲自出山？我们这些人岂不是羞愧的要死？”\n\n    邹应星一直安静地听着，没有插一句话，只是偶尔看着窗外安静地街道，眼眸里闪过几丝光泽，然后迅即消逝不见。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "正在切洋葱的邰夫人手中的尖刀停顿在菜板上，片刻后淡然说道：“这是小事，你自己处理。”\n\n    “我担心如果他回来后，可能碰到许乐。”沈秘书低声说道。\n\n    邰夫人没有回答，继续自己手上的动作，锋利的尖刀将洋葱切成碎末，她的眼睛上戴着精致的护目镜，所以未曾流泪，一脸冷漠。\n\n    没有人能够理",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "声说道：“这件事情真的很妙，我们利家第一次插手总统大选，结果就支持了一个帝国人。”\n\n    联邦里从来没有绝对的秘密，像麦德林真实身份这种绝对机密，或许永远只在几十个人地小圈子里流转，但却绝对瞒不过联邦七大家的家主们，因为他们生生世世，都是这个小圈子的成员。\n\n    利修竹就像个犯错的孩子一样，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "处显眼的错误，头痛，我一写快真检查了两遍，却没找出来，真是不好意思。明天还要继续去看房，时间太少，请大家体谅，祝大家周末愉快。\n\n    ……\n\n    ……\n\n    挂着醒目军事专用车牌的车队，在深夜的都大街上，像一队幽灵般异常快速地向西方驶去。如果此时是白天，过往的行人一定会注意到这个车队所代",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。\n\n    沈秘书听懂了夫人切洋葱的声音，知道许乐再也无法活着从军事监狱里出来，片刻沉默之后，转身离开，在心里轻轻地叹了一口气。\n\n    ……\n\n    ……\n\n    许乐并不知道自己在联邦英雄和恐怖分子这两种截然不同的身份间不停转换，他更没有生死系于一线间的自觉。在荒原的倾城军事监狱中，他经",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

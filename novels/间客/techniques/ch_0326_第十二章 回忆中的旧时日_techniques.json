@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 326,
+  "chapter_title": "第十二章 回忆中的旧时日",
+  "filename": "ch_0326_第十二章 回忆中的旧时日.txt",
+  "char_count": 3498,
+  "timestamp": "2026-04-10T12:04:59.224515",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "征之中，狙杀帝国皇帝，挽狂澜于即倒，又在随后连绵大战中，指挥联邦军队作战如神，建立不世功勋，成为毫无疑问的军方第一人，甚至是联邦第一人。/首/发\n\n    从那辆黑色的m37机甲如狂龙一般卷过沙场，于二百辆帝国皇家机甲营的包围中，突杀帝国皇帝陛下始，这个宇宙中，再也没有人敢直呼他的大名。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "头子这三个字里。最终确认了面前地年轻人和那个家伙之间地关系。\n\n    “坐吧。”老爷子示意房间里的人们都退了出去，然后请许乐坐下。\n\n    ……\n\n    ……\n\n    脚镣丁当响着，许乐坐了下来，却仍然觉得今天发生的一切有些不敢相信，他眯着眼睛看着桌子对面的军神大人，感觉有点儿像一年前在医院",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "十个壮烈精悍的近身战姿式，因这姿式而生成的体内古怪力量，这些让许乐强悍地闯入首都星圈，破开一片天空，却怎样也寻思不明白的东西，在这一刻，忽然间就找到了答案。\n\n    在这一刻，他想到大叔提到人人敬仰的军神时的不屑，想到了很多很多，也想到了在港都酒店下与林斗海的高手保镖交手时，那个叫孔武的厉害",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "杀帝国皇帝陛下始，这个宇宙中，再也没有人敢直呼他的大名。\n\n    无论他在哪里出现，迎接他的必将是激动而仰慕的炽烈目光，因为了他这样一个人，费城李家这个普通的公民家庭，竟然有了几分千世之家的味道，传承万年的七大家竟也不敢稍有怠慢。\n\n    帝国人痛恨地称呼其为野兽，联邦民众尊敬地称其为军神，连续",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "林园里与李疯子交手之后，他便一直在思考这个，今天忽然间快要得到答案，他不由嘴唇微干，片刻后沙哑着声音说道：“还成，天天也就是喝酒吃肉……开了一间电器修理铺，每周去疗养中心玩玩。”\n\n    “嗯，他很喜欢吃肉，不过我一直不明白，他究竟是喜欢吃肉的感觉，还是喜欢这种破坏联邦制度地快感。”老爷子轻轻地叹",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "看着桌子对面的军神大人，感觉有点儿像一年前在医院里醒来后瞧见阳光中的简水儿，一场梦罢了，却仍然见着按道理只能在梦里出现地人物。\n\n    在莫愁后山第一次看见邰夫人时，许乐便已经无比紧张。联邦七大家对于他来说，毕竟是一个遥远的模糊的概念，而桌子对面这位老人，却是无数联邦公民敬仰崇拜的对象，联邦电子基",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "里醒来后瞧见阳光中的简水儿，一场梦罢了，却仍然见着按道理只能在梦里出现地人物。\n\n    在莫愁后山第一次看见邰夫人时，许乐便已经无比紧张。联邦七大家对于他来说，毕竟是一个遥远的模糊的概念，而桌子对面这位老人，却是无数联邦公民敬仰崇拜的对象，联邦电子基础教材里有好几篇关于他的文章，这些年来联邦的宣传",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "一种了然于心。略带怅然地笑容。\n\n    已经有多少年没有听到这个称呼了？军神李匹夫看着这个年轻人。思绪却飘到了无数年前。他自幼便显得老相。谨守规。无论是在费城地初级军校中。还是后来和弟弟去宇宙地那头历险。在那位老师地门下学习。他一直是那样地规矩。每一步都走地谨慎小心。绝不肯犯错。\n\n    李匹夫",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "“十八岁生日那年。你便开始喊我老头子。”老爷子安静地在心中回忆着。不尽感慨。也从老头子这三个字里。最终确认了面前地年轻人和那个家伙之间地关系。\n\n    “坐吧。”老爷子示意房间里的人们都退了出去，然后请许乐坐下。\n\n    ……\n\n    ……\n\n    脚镣丁当响着，许乐坐了下来，却仍然觉得今",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "罢了，却仍然见着按道理只能在梦里出现地人物。\n\n    在莫愁后山第一次看见邰夫人时，许乐便已经无比紧张。联邦七大家对于他来说，毕竟是一个遥远的模糊的概念，而桌子对面这位老人，却是无数联邦公民敬仰崇拜的对象，联邦电子基础教材里有好几篇关于他的文章，这些年来联邦的宣传，电影，纪录片，已经让这个人的形象",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "宝贝的东西都传给了你，而且你还学会了，你自然就是他的学生。”老爷子的那双眼睛平静无波，却又摄人心魄，缓缓说道：“你怎么称呼他？”\n\n    费城李家的宝贝？许乐心头微紧，暗自想着这究竟指的是自己体内的力量还是左手腕上的手镯？军神大人会不会把他家的东西拿回去？从进入审讯室之后，他便刻意将左手上的手镯藏",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "忽然开口问了一个很突兀的问题。\n\n    此时审讯室里所有地监控设备全部已经关闭，无论军事监狱的规章制度再如何严肃，在李匹夫地面前，都不是问题，也没有人敢去窥探这一场奇异的谈话。\n\n    这个问题确实很突兀，别地人就算听着了，可能一时半会儿也弄不明白。但关于这个问题，许乐已经想了很久很久，从林园里",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "……\n\n    老爷子和老头子看上去只不过是一字之差。但所代表地意味却是天差地别。陪同军神爷孙进入监狱地国防部少将主任与那名像孙子一样地狱长。听到这三个字后。脸部表情顿时变得极为精彩。盯着门口地许乐。似乎随时可能将他拖出去枪毙了。\n\n    然而坐在桌子对面地李匹夫却没有什么反应。老人只是静静",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "里安静了许久，李匹夫望着许乐，忽然间直接简单问道：“星图在你手上？”\n\n    这个问题来的很陡，在温暖感慨的漫长回忆叙述之后，便这样如天外一笔涂了下来，顿生凛冽之感。\n\n    ……\n\n    …小.说。t!xt-天堂www.dxsxs.com\n\n\n\n第三卷西林的征途",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

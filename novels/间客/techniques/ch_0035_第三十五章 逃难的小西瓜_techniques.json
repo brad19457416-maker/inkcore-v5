@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 35,
+  "chapter_title": "第三十五章 逃难的小西瓜",
+  "filename": "ch_0035_第三十五章 逃难的小西瓜.txt",
+  "char_count": 3523,
+  "timestamp": "2026-04-10T11:53:11.038259",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "西瓜好了。”\n\n    叫做钟烟花的小姑娘睁着大大的眼睛，感到无穷疑惑，可爱地偏着脑袋问道：“叔叔，为什么叫小西瓜？”\n\n    许乐伸出食指在小姑娘额头上的发线上挑过，笑着说道：“因为你的头发像块漂亮的……西瓜皮？”\n\n    ……\n\n    ……\n\n    许乐虽然不知道这艘商务飞船属于古钟公司",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "份饭离开也没有引起旁人的注意，甚至飞船上大部分人都不知道，32清洁区的休息间里安排进了一个东林区搭顺风船的退役士兵。\n\n    ……\n\n    ……\n\n    小西瓜低头叉了一块牛肉，放进嘴里努力地咀嚼着，只是脸上的表情透露出这个小姑娘实在是很不喜欢牛肉焖饭的味道，只是她似乎不想让许乐为难，只是一味",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "许乐一面听着一面苦笑，因为小姑娘说的内容太过琐碎，根本没有他想知道的信息，而且他越听越觉得有些奇怪，心想莫不是小姑娘误会了什么，从而导致自己也误会了什么……只是他既然已经答应了小西瓜，自然便要继续下去，人总是要讲诚信的，哪怕是对一个六岁的小女孩儿，许乐决定在打探到确实消息之前，暂时让小姑娘躲在自己的",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "丢失了小孩儿，只是令他警惕的是，餐厅周围那些负责安全工作的士兵表情明显比几个小时前严肃许多，一股有些压抑的气氛围绕在四周。\n\n    难道就是因为小西瓜？许乐悄无声息地从餐厅离开，他本身就是一个极不易引人注目的角色，端着一份饭离开也没有引起旁人的注意，甚至飞船上大部分人都不知道，32清洁区的休息间里",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "害。”\n\n    叹息完后，许乐再次低头吃饭，他没有浪费粮食的习惯，嘴里塞满了牛肉，含糊不清说道：“将来有机会，哥哥杀头野牛，让你吃吃真正的牛肉。”\n\n    小姑娘额上的黑发垂直，笑眯眯地看着许乐，认真地点了点头。虽然在西林的时候，她跟着父亲大人吃过很多从帝国抢回来的野生菜肴，可是依然对许乐哥哥的",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "你的家人，你就不用害怕了。”\n\n    “叔叔，我怕。”小西瓜是个很懂事的孩子，大概也清楚自己给这个陌生的叔叔带来了很大的苦恼，当许乐牵着她的手往外走时，她并没有胡闹地挣扎，只是一手抱着洋娃娃，低着头说道：“有坏人……想把小西瓜拐走，拐到别的地方去，让小西瓜再也看不到父亲大人和母亲大人。”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "听了。”许乐的心里咕哝了一声，不知道这小姑娘的父母是做什么的，居然会取个容易产生歧义的名字，挠了挠头说道：“干脆，我叫你小西瓜好了。”\n\n    叫做钟烟花的小姑娘睁着大大的眼睛，感到无穷疑惑，可爱地偏着脑袋问道：“叔叔，为什么叫小西瓜？”\n\n    许乐伸出食指在小姑娘额头上的发线上挑过，笑着说道",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，就像是一弯西林星夜空里的弯月。\n\n    “谢谢叔叔。”\n\n    “以后叫哥哥……小西瓜。”许乐一向是个干脆利落的人，决定了某件事情便会做到底，牵着可爱小女生的手，他的心情也异常美好，那双令人信任的眼睛也眯了起来，像极了东林自然保护绿地里那一洼洼半湖。\n\n    ……\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "直追踪定位。许乐颈后的新芯片只需要进行再次联网，便能获得身份确认，这个关键在于伪装芯片的手段了。感谢大家认真看这故事，但有句话必须说在前面啊，兄弟姐妹们，我这人经常犯错的，大家也知道，汗颜，这确实是能力问题，所以这故事不是科幻，而是玄幻……分类是异世大陆，诸君明鉴啊！）\n\n    ……\n\n    …",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "洼洼半湖。\n\n    ……\n\n    ……\n\n    古钟号太空飞船还在进行最后一次的后勤能源补给，离开东林大区星域的时间大约定在了明日标准时间六点。在这段时间里，许乐一直和小西瓜呆在自己的房间里，也许因为国防部的预算实在是太过抠门，他这个名义上的退伍士兵居住的地方真是被人遗忘的角落，房间里似乎也没",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "生生的人儿，他可不敢负这个责任。\n\n    许乐的房间在32区，是整个飞船最偏僻，设施最落后，也是最安静的一个区域，除了墙后的管道时不时响起垃圾运输的噪音外，在一大一小两个人儿谈话的过程中，根本没有人来过这里。许乐牵着小姑娘的手往外面走去，一面安慰道：“小西瓜，找到你的家人，你就不用害怕了。”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

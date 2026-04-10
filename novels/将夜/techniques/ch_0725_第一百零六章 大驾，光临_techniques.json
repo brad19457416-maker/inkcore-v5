@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 725,
+  "chapter_title": "第一百零六章 大驾，光临",
+  "filename": "ch_0725_第一百零六章 大驾，光临.txt",
+  "char_count": 4635,
+  "timestamp": "2026-04-10T12:11:27.027519",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "了何明池那句话的意思……陛下你再如何无耻，只要活一天，我便要保护你一天，便不能让那个女人伤害你，处于风雨之中的大唐，还是要因为我的私心而陷入内乱，西陵神殿怎么会不高兴看到这一切？”\n　　……\n　　……\n　　天下大乱，唐国势危，是因为夫子和皇帝陛下的先后离开，没有人会认为唐国现在还能像从前那般强大不可",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "高大身影的左手已断，却依然光芒万丈。\n　　甚至要把书院的光彩都全部镇压下去。\n　　西陵神殿掌教大人，来到了书院。\n　　崤山夜雨里，他杀死了大唐镇国大将军许世，为此牺牲了数十名西陵神卫，他也付出了一只左手的惨重代价。\n　　但此时的他，还是那般的强大，甚至要比以往更强大。\n　　许世死在他的手中，这就是理",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "夫子已经离开，但书院里还有很多强者和精于谋略的大人物，令很多入侵者感到困惑不解，令所有唐人都感到失望愤怒的是，开战至今书院始终保持着沉默。\n　　在西陵神殿号召天下伐唐的诰书传遍世间之间，书院便已经封门，更准确地说，自从夫子登天那一刻开始，书院的大门便再也没有开启过。\n　　书院没有正门，只有侧门。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "此时又听到这个消息，脸色变得更加苍白，眼睛里流露出惊恐的神情。\n　　“怎么回来的这么快？”他声音微颤说道。\n　　李渔面无表情，缓缓坐下。\n　　如果是前些天，她听到这个消息后，绝对不是现在的反应。贺兰城的唐军归来，她篡改遗诏的事情肯定已经曝光，她事先为此准备了很多手段，然而随着西陵神殿号召天下伐唐，那",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "发浓郁，他先前说夫子死了，书院没用，但事实上，身为唐人尤其是身为一名皇子，他哪里会不知道书院对唐国的意义？哪里会不畏惧？\n　　“皇姐，我们必须做些事情。”\n　　他看着李渔紧张说道：“宁缺已经表明态度，书院肯定会支持那个女人，在这种时候，除了按照何明池说的去做，我们没有别的办法。”\n　　谁能够抵挡书院",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "代表大唐灭亡，道门需要有人替他们统治俗世，收集资源，灭了唐国对他们没有什么好处，相比金帐王庭的蛮人，难道不是我们更适合？”\n　　他越说越觉得有道理，兴奋地站起身来，挥舞着手臂说道：“反对我们的人，已经被何明池杀光了，明日朝会之上，全部推到南门观身上，皇姐你再让忠于你的那些大臣站出来支持我们与西陵神殿",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "子，他哪里会不知道书院对唐国的意义？哪里会不畏惧？\n　　“皇姐，我们必须做些事情。”\n　　他看着李渔紧张说道：“宁缺已经表明态度，书院肯定会支持那个女人，在这种时候，除了按照何明池说的去做，我们没有别的办法。”\n　　谁能够抵挡书院？放眼望去，世间只有昊天道门能够做到。\n　　李渔缓缓摇头，说道：“我不",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "头向二楼某处窗口望了一眼。\n　　然后巨辇继续前进，进入书院后山山腰里终年不散的云雾中。\n　　天地气息骤然大动。\n　　没有夫子主持的云集大阵，被巨辇强行突破。\n　　山清水秀疑无路。\n　　柳暗花明见崖坪。\n　　不似秋风的温暖山风，吹拂着巨辇上的幔纱。\n　　掌教看着眼前的风景，感慨无语。\n　　他筹谋一生，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "经没有意义。\n　　“这些年来，因为母后的缘故，我总觉得你太可怜，所以我宠着你，爱着你，怜着你，没想到最终把你惯成了现在这副模样。”\n　　李渔站起身来，准备离开宫殿。\n　　李珲圆依然抓着她的手，被带着跌落榻下。\n　　他看着李渔的背影，惊恐喊道：“皇姐，你要杀我吗？”\n　　李渔惨然一笑道：“你是我的亲弟",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "皇帝陛下的先后离开，没有人会认为唐国现在还能像从前那般强大不可一世，但唐国在这场大战里的表现，甚至比人们设想的更加令人失望，尤其是长安城南的那间书院。\n　　书院是唐国的根基，是唐国的守护者，就算夫子已经离开，但书院里还有很多强者和精于谋略的大人物，令很多入侵者感到困惑不解，令所有唐人都感到失望愤怒的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "第一百零六章 大驾，光临\n　　何明池的出现和离去，让李珲圆的神智受到了很大冲击，此时又听到这个消息，脸色变得更加苍白，眼睛里流露出惊恐的神情。\n　　“怎么回来的这么快？”他声音微颤说道。\n　　李渔面无表情，缓缓坐下。\n　　如果是前些天，她",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "无路。\n　　柳暗花明见崖坪。\n　　不似秋风的温暖山风，吹拂着巨辇上的幔纱。\n　　掌教看着眼前的风景，感慨无语。\n　　他筹谋一生，最想做的事情，便是灭了书院。\n　　今天，他终于来到了书院后山。\n　　……\n　　……\n　　崖前有松，松下没有童子，只有对弈的二人。\n　　掌教的目光穿过幔纱，落在那张棋盘上，说",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "没有夫子主持的云集大阵，被巨辇强行突破。\n　　山清水秀疑无路。\n　　柳暗花明见崖坪。\n　　不似秋风的温暖山风，吹拂着巨辇上的幔纱。\n　　掌教看着眼前的风景，感慨无语。\n　　他筹谋一生，最想做的事情，便是灭了书院。\n　　今天，他终于来到了书院后山。\n　　……\n　　……\n　　崖前有松，松下没有童子，只有",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "世死在他的手中，这就是理由。\n　　……\n　　……\n　　十余名西陵神卫抬着巨辇向草甸上方行去。\n　　因为人数变得少了很多，所以这些西陵神卫显得有些吃力，速度很缓慢。\n　　但越缓慢，书院石坊前的压力便越大。\n　　秋风仿佛都被挤压的开始哀鸣。\n　　书院没有门，所以巨辇没有破门而入。\n　　书院有石坊，巨辇不",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "得更加苍白，眼睛里流露出惊恐的神情。\n　　“怎么回来的这么快？”他声音微颤说道。\n　　李渔面无表情，缓缓坐下。\n　　如果是前些天，她听到这个消息后，绝对不是现在的反应。贺兰城的唐军归来，她篡改遗诏的事情肯定已经曝光，她事先为此准备了很多手段，然而随着西陵神殿号召天下伐唐，那些手段已经失去了成功的可能",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

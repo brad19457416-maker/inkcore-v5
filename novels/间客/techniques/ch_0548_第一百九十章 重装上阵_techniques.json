@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 548,
+  "chapter_title": "第一百九十章 重装上阵",
+  "filename": "ch_0548_第一百九十章 重装上阵.txt",
+  "char_count": 3479,
+  "timestamp": "2026-04-10T12:05:08.596274",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "匣，那台黑色的。x机甲也已经在后勤人员的操控下，于阴沉天气中现出肃煞的身影。\n\n    在这一片紧张压抑的气氛之中，大地的震动越来越清晰，营房外的声音也越来越大，不知道有多少部队正在向此地汇集，许乐的粗眉皱的极紧，却没有像队员们那样马上进行战斗状态，登上属于自己的黑色机甲，而是盯着紧闭的大门。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "这颗星球上的所有动静，全部处于宪章电脑的监视之下，他不相信老东西未曾示警的情况下，自己会有什么危险。\n\n    下p刻，他镇定的表情不得不发生了变化，现出警慑与浓浓的戒备之色心营房外沉重的战车碾压声，军车引擎低沉轰鸣声越来越清晰巨大，这此声音震破天宫，震的营地后方山林里的鸟都无比安静，震的大地",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "x机甲也已经在后勤人员的操控下，于阴沉天气中现出肃煞的身影。\n\n    在这一片紧张压抑的气氛之中，大地的震动越来越清晰，营房外的声音也越来越大，不知道有多少部队正在向此地汇集，许乐的粗眉皱的极紧，却没有像队员们那样马上进行战斗状态，登上属于自己的黑色机甲，而是盯着紧闭的大门。\n\n    这颗星球上",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "抵御的威势。\n\n    许乐眉梢一挑，翻上营房墙面，来到最高的狙击点，向墙外望去，那双尚能灵动的墨眉骤然为之一僵。\n\n    营墙之外，放眼望去全之密密麻麻的军队，公路与田野上近千辆的装甲战车竟是排到了十几公里之外，还有无数巨型工程机甲和蒙着绿布的军用设备，散落其间，更不要提散布四周那些沉就的高大黑",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "西林司令部参谋总长七组强员们早已经在许乐身后列队完毕、目不斜视地接受着这些军方大佬们的目光检视，心情激动兴奋里又夹杂着强烈的不安，谁也不明白，当联邦与帝国间的战争正猛烈之时，为什么联邦军方的大人物们会集体出动，前来探访七组营地。\n\n    更合队员们想不明白的是，即便这收司令将军们身份尊贵，但带着一",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "军方大佬们的目光检视，心情激动兴奋里又夹杂着强烈的不安，谁也不明白，当联邦与帝国间的战争正猛烈之时，为什么联邦军方的大人物们会集体出动，前来探访七组营地。\n\n    更合队员们想不明白的是，即便这收司令将军们身份尊贵，但带着一个整编机械师当保安部队，是不是过于夸张了些？\n\n    列队之中，只有兰晓",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "惘，他没有想到必将震动整个联邦的消息，就这样被迈尔斯土将轻松地宣读出来，猜测很久的事实，就这样迅速地出现在眼前，令他有些措不及防。\n\n    迈尔斯土将的声音，经由扩音系侥传出营房，回荡在整个旷野之中，回荡在七组队员和那些肃然等待的联邦战士耳中。\n\n    营房夕的部队跨越无数光年，从首都星圈来到西",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "是由这位主任进行安排。\n\n    但许乐并没有马上向对方致意，而是快速地走向那些表情肃然，却带着某种感慨之色的将军，在这些将军之中，有比布林主任来头更大的人物。\n\n    “国防部总装基地中喉许乐，向您报道，请指示。”\n\n    他啪的一声立正，双眼直视前方，向面前的联邦参谋联席会议主席，第一军区司",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "营墙之外，放眼望去全之密密麻麻的军队，公路与田野上近千辆的装甲战车竟是排到了十几公里之外，还有无数巨型工程机甲和蒙着绿布的军用设备，散落其间，更不要提散布四周那些沉就的高大黑色机甲！\n\n    至少之一个整编机械师，不，机甲群的数量甚至远远超过了联邦师的标准配备，而且这支部队装备的先进程度，远",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "双脸，将先前有些苍白的脸颊搓的发红起来，才深深地吸了一口气，跳下地面，走向大门。\n\n    营房大门缓缓打开，十几辆配着显赫牟牌的防弹高级军牟，缓缓驶入，然后困难地并排停在营房并不阔大的场地中。\n\n    队员们已经感觉到今天这件事情的蹊跷、老队员们眼力毒辣，新队员们家世不凡，都从这些高级军车的车牌",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "方山林里的鸟都无比安静，震的大地不停颤动，震的他脸色有些微微发白。\n\n    至少要几百辆沉重的战车同时开进，刁能营造出此等声势，这等于说，七组的营地此时是被一个整编机械师包围了！\n\n    更令许乐感到惊愕兰名的是，目光越过营房的外墙，可以清晰地看到数十台机甲萧杀冰冷的巨大身躯，那是联邦最新式的机",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "房里此起彼伏，面露警慑之色的队员们忙而不乱，用最快的速度穿戴好单兵武装系倒，扛着各式各样的沉重枪械，来到了属于自己的防卫地带，后区库房大门已经启动，低沉轰鸣的军车随时可能冲出来。营房四周七个火力点配备的重型火力，连上了弹匣，那台黑色的。x机甲也已经在后勤人员的操控下，于阴沉天气中现出肃煞的身影。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "房外漫江遍野的部队。\n\n    迈尔斯上将，布林主任，果壳总裁先生走上了讲台，其余的将军却是带着一种满足的微笑，站在了台子下方。\n\n    许乐望了一眼钟瘦虎，知道在这种公众场合，自己与联邦前线总司令间的层级相差有多大，思考片刻后，沉就地站回了七组队列之中。\n\n    迈尔斯上将神情严肃地地望着台下",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "李匹夫归隐费城湖畔之后，联邦部队的所有指挥，便归于此人之手。\n\n    迈尔斯上将负着双手，望着许乐说道，“没有什么好指示的，我们这此老家伙只是来宣布一件事情。”\n\n    工程兵小队在短短的时间内，就已经布置好了临时的平台，声音系绕也已经布好，无数大型的扩音设备被安置在营地四方，对准了营房外漫江遍",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

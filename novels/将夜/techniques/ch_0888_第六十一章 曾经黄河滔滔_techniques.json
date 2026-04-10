@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 888,
+  "chapter_title": "第六十一章 曾经黄河滔滔",
+  "filename": "ch_0888_第六十一章 曾经黄河滔滔.txt",
+  "char_count": 3268,
+  "timestamp": "2026-04-10T12:11:27.395594",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "有放弃，正如他所言，这已经是他在人间最后的趣味，他想看看自己究竟能离天多近，想看看自己有没有能力触到天空，甚至用剑在天空上划上一道只属于自己的痕迹。\n　　柳白的手伸进了桑桑的小世界里。\n　　他的手很修长，手指细长，是人间最适合握剑的一只手，每当他握住剑柄时，剑便仿佛与他的手连在了一处，再也不能分开。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "进入千家万户，自然长安方面也收到了风声国。\n　　大唐朝廷的反应极为迅速，就在当天夜里，工部在中南三郡紧急调拔的工匠以及相邻诸州的厢兵，便以最快的速度抵到青峡北方。\n　　青峡在去年秋天那场战争里埋葬了无数敌军，那条艰难开通的官道被巨石堵的极难行走，朝廷清理了大半年，也只清理出一条小道，然而随着数万工匠",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "到自己想要做到的事情。\n　　柳白于人间无敌，便来到桃山，进入光明神殿，邀天一战，他也没有想过能够取得最终的胜利，但他想证明一些什么。\n　　在临死前的这一刻，他终于触到了这片高远而冷漠的天空，他完成了自己的心愿，于是他便看到了自己的大道。\n　　桑桑看着眼前这只无力垂落的枯瘦手臂，沉默不语。\n　　柳白的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "江上的水花声也已停息，宋阀老者缓缓倒下，君陌持杖带着木柚离开，场间竟是无人敢动。\n　　王景略一直站在人群里，根本没有他出手的机会，看着那张充满历史意味的太师椅四周洒满的血肉，想着已经化作一缕怨魂的崔老太爷，才知道原来宁缺的箭是这样的，看着血泊里的宋阀老者，看着老者胸口那道飞剑，才知道原来二先生的剑是",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "是一道低层的阴云，压得清河郡的人们有些喘不过气来，人们无法理解，明明刚刚经历一场极为惨烈的卫国战争，为什么唐国竟似不需要喘息，这么快便要撕毁和约。\n　　清河郡乱象已现，而且再没有可能平静下去。\n　　王景略没有离开阳州城，因为他要在这里等宁缺，最重要的是，他要负责接应此时正从唐国不断潜入清河郡的天枢处",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，仿佛在预示着些什么。\n　　桑桑看着脚前的那堆灰和那把古剑，沉默不语。\n　　这是她在人间真正意义上的第一次出手，看似轻描淡写，便让人间最强大的修行者变成了飞灰，但她的脸有些微白，不知是受了伤，还是因为别的什么原因。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "么他必然会在那些强者的围攻之下死去，但他没有想这些。\n　　此时他已经完成了书院计划的前半段，注意力便来到光明神殿，他已经隐隐感觉到神殿里那场战斗的结局，知道有人肯定要死。\n　　就像前坪上的人们看见他射箭，便知道一定有人死去一样，既然有人进了光明神殿，那么必然也会死去，这令他的心情有些低落。\n　　这场",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "样的。\n　　直到君陌和木柚离开崔园很长时间，园内的人们才从极度的恐惧和震撼中醒过神来，到处都是哭声和愤怒的咆哮声。\n　　对于清河郡而言，诸阀便是所有，汝阳崔氏更是人们的精神之所系，崔老太爷在此间的地位就像是夫子之于书院。如今被所有人视为依靠的崔老太爷，竟是什么事情都没有做，便变成了满地血肉，如何不能",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "后的人间，仿佛在预示着些什么。\n　　桑桑看着脚前的那堆灰和那把古剑，沉默不语。\n　　这是她在人间真正意义上的第一次出手，看似轻描淡写，便让人间最强大的修行者变成了飞灰，但她的脸有些微白，不知是受了伤，还是因为别的什么原因。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "保持着先前一刻松弦后那瞬间的姿式，稳定的像座木雕。\n　　祈祷声不知何时已经停了，前坪间的数万人，神情紧张地看着他，没有一个人说话，仿佛他们也变成了木头人。\n　　没有人知道宁缺的铁箭射向了何方，但他们知道肯定有人死了――没有看到真实结局，却已经知道结局――这令人们异常恐惧。\n　　宁缺收回铁弓背到肩上，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "过的痕迹，也就是箭道。\n　　宁缺站在祭坛前，左手持弓，右手以揽虎尾之势后提，还保持着先前一刻松弦后那瞬间的姿式，稳定的像座木雕。\n　　祈祷声不知何时已经停了，前坪间的数万人，神情紧张地看着他，没有一个人说话，仿佛他们也变成了木头人。\n　　没有人知道宁缺的铁箭射向了何方，但他们知道肯定有人死了――没有",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "秋风里一握，便夺了他的本命剑，取了他的命。\n　　崔园溪畔一片死寂，富春江上的水花声也已停息，宋阀老者缓缓倒下，君陌持杖带着木柚离开，场间竟是无人敢动。\n　　王景略一直站在人群里，根本没有他出手的机会，看着那张充满历史意味的太师椅四周洒满的血肉，想着已经化作一缕怨魂的崔老太爷，才知道原来宁缺的箭是这样",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "轻点她的眉心，没有任何杀伤力，更像是在触摸。\n　　世间没有人定胜天这种事情，在能够看到的历史里，甚至从来没有发生过，但无数年来却有很多人前仆后继地为之而奋斗。他们想要胜利，想要让昊天看看人间的力量，但更多的时候，他们只是想证明给自己和人间看，只要你愿意为之而努力，那么你便可以做到自己想要做到的事情。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "覆着霜的乱草，脸上的皱纹深刻的就像临康城东城街巷里的那些青石板，他已经变成垂垂将死的老人。\n　　桑桑说道：“你输了。”\n　　柳白用苍老而疲惫的声音说道：“你输了。”\n　　桑桑微微蹙眉，不解此言何意。\n　　“我在人间还留了一道剑，希望那道剑不会令人间失望。”\n　　柳白看着她微笑说道：“但和这场战斗的输",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

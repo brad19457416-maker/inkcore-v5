@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 642,
+  "chapter_title": "第二十三章 子曰",
+  "filename": "ch_0642_第二十三章 子曰.txt",
+  "char_count": 4422,
+  "timestamp": "2026-04-10T12:11:26.804114",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "佛道两宗的修行强者，看着场间那名书生，脸上写满了震惊的神情，即便是七枚的眼中，都流露出了敬畏。\n　　众人都知道，那名书生为了对抗首座的佛言，已经受了极重的伤，然而一言出，便能令满天神佛消散，这已经足以震惊世间。\n　　书院大先生，果然就是书院大先生。\n　　大师兄抬起右臂，擦去唇角的血水，看着讲经首座，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "泽！\n　　先前俯首于地跪拜的数万信徒，此时终于听到了声音，听到了雷鸣般的佛声，下意识里抬起头来，望向天空，却没有看到任何闪电的痕迹。\n　　无数天地气息，自月轮国的八荒四野远道而来，一路挟尘起风，断树惊兽，风尘仆仆而至朝阳城，往白塔寺而去。\n　　天上的云层笼罩朝阳城已经整整一个冬天，在这个冬天里，除了",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "过承诺，非灭世之大事，不得出手，然则冥王之女降临人间，这便是灭世之事，而且自那之后，我夜夜读经不倦，最终炼就佛言，我没有出手，我只是出言。”\n　　大师兄闻言一怔，摇头说道：“君陌说的果然是对的。”\n　　讲经首座不解此言何言，双手合什，继续颂经不止。\n　　场间唯有宁缺和七枚知道那句话：和尚都该死。七枚",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "有山名般若，其重十万八千倍天弃山，能填风暴海，能镇一应妖魔。”\n　　白塔寺里先前静寂一片的天地元气，瞬间之间狂暴的卷动起来，普通人根本看不到，但修行者能够感知到，那些像厚重雨云一般的卷动，能感知到蕴藏在其间的恐怖力量，本能里产生极浓烈的警畏情绪，甚至想要避开。\n　　狂暴的天地元气以难以想像的速度骤然",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "风起于湖面，如冻浆子般的湖水开始荡起小圈的涟漪，湖畔的柳枝仿佛被根无形的线斜斜牵起，然后摆回，开始了第一次摆荡。\n　　原来是佛国的世界破了。\n　　……\n　　……\n　　讲经首座脸上的神情显得极为复杂，他没有想到大先生随口一言，便能破了自已的言出法随，将要毁掉自已的佛国世界。\n　　虽然书院大先生在修行界",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "场间唯有宁缺和七枚知道那句话：和尚都该死。七枚面色微变，却没有流露出什么怒容，自沉默不语。\n　　宁缺愤怒之余，则是无限警惧惊恐。\n　　讲经首座颂经数句，便能影响白塔寺周遭如此大范围的天地气息，以佛言在人间自行开辟一个世界，所展现出来的境界实在是太可怕了。\n　　宁缺不得不再次承认，那个盘膝扶杖而坐的老",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "是很多年前老师教给他的，他就像书院后山所有学生那样，从来没有怀疑过老师的话，所以他认为老师的话一定有道理。\n　　有理，所以当然有效，这便是书院追求的理所当然！\n　　宁缺不明白大师兄此时为何忽然要说这样一句话，七枚大师也不明白，那些向场间逼近的苦修僧和西陵神卫下意识里停下脚步。\n　　场间只有讲经首座，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，我夜夜读经不倦，最终炼就佛言，我没有出手，我只是出言。”\n　　大师兄闻言一怔，摇头说道：“君陌说的果然是对的。”\n　　讲经首座不解此言何言，双手合什，继续颂经不止。\n　　场间唯有宁缺和七枚知道那句话：和尚都该死。七枚面色微变，却没有流露出什么怒容，自沉默不语。\n　　宁缺愤怒之余，则是无限警惧惊恐。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "枚大师率领着数十名苦行僧向场间行来，十余名西陵神卫在两名红衣神官的带领下走进人群，看速度应该很快便能来到宁缺身前。\n　　宁缺手腕微挫，一把紧紧握住朴刀的朴柄，看着这些向场间围来的人们，沉默地皱起了眉头，他体内的浩然气虽然受到了讲经首座佛言的镇压静度，但他入魔后身体极为强悍，单凭肉身对战，他并不怕谁。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "？而且他是何时悟得如此的神通？\n　　随着湖风再起，柳枝再摆，湖水上的涟漪渐渐扩大，讲经首座的神情愈发凝重，他伸出右手指向大师兄，疾声道：“如是我闻：有山名般若，其重十万八千倍天弃山，能填风暴海，能镇一应妖魔。”\n　　白塔寺里先前静寂一片的天地元气，瞬间之间狂暴的卷动起来，普通人根本看不到，但修行者能",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的模样！\n　　鲜血从他的唇角渗出，在这道无上佛威之下，在满天神佛之前，他根本没有任何反抗的力量，只能缓缓跪倒，痛苦地脸色苍白，雪山气海似乎马上便要毁灭！\n　　而他背上的桑桑情况更是严重，当天光透过云层里的缝隙洒到她身上时，她的身体顿时被镀上了一层黑色，小脸虽然苍白，但却隐隐透着极为不吉的黑灰色，不断",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "却是那般的刚毅，显得很坚定。\n　　他说的这句话，是很多年前老师教给他的，他就像书院后山所有学生那样，从来没有怀疑过老师的话，所以他认为老师的话一定有道理。\n　　有理，所以当然有效，这便是书院追求的理所当然！\n　　宁缺不明白大师兄此时为何忽然要说这样一句话，七枚大师也不明白，那些向场间逼近的苦修僧和西",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "二十三章 子曰\n　　世间无风，旧棉袄无风而动，大师兄看着盘膝而坐的讲经首座，脸色苍白，带着困惑的神情说道：“老师说过，你不能出手。”\n　　讲经首座看着他平静说道：“多年之前，我确实向夫子做过承诺，非灭世之大事，不得出手，然则冥王之女降临人间，这便是灭世之事，而且自那之后，我夜夜读经不倦，最终炼就佛言",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

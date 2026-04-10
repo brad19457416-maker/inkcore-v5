@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 471,
+  "chapter_title": "第一百一十三章 反追",
+  "filename": "ch_0471_第一百一十三章 反追.txt",
+  "char_count": 3646,
+  "timestamp": "2026-04-10T12:04:59.224283",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "去像是童年的某种游戏，搭你肩上言道该你追我，便格格笑着跑开，然而这些机甲的追逐里却又隐藏着多少血腥与危险。\n\n    就这样追，一追再追，黑色mx将七台帝国机甲狼狈不堪地追进了山道，追进了山谷，追过了刚刚抵达预设阵地，却还没有来得及安放平射炮火密集阵的铁七师某营，只留下那些联邦官兵们震惊的目光与一道",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "应该也进入了损耗阶段。\n\n    行星战场上的形势正在向着有利于联邦的方向发展，直到此时，大厅里沉默压抑很久的联邦军官们，才稍微地松了一口气，将黄山岭寂寞岭方向的卫星画面，调到了主光幕上。\n\n    他们一直在沉默地关注着那边，却没有任何人主动提及这点，因为联邦军方先前抽调不出任何兵力前去支援铁七师",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "卫星信号无法进入师部，无法取得联系。”\n\n    纳尔逊中将脸色一沉，显得有些难看，铁七师在做什么？难道那些山地里的部队根本不需要指挥？他旋即想到几个小时前，那位负责带着简水儿小姐离开的许乐中校，也主动断绝了与指挥部的联系，再联想到这位隔绝了所有电子通讯的少卿师长…….\n\n    “真是两个无法无天",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "们怔怔的看着光幕，看着那台想子弹一样高速曲折往复的黑色机甲，心中生出无数震惊。\n\n    这也是他们第一次看到联邦最新一代mx出现在战场上，即便早有心理准备，却也没有想过，这种新式机甲居然会如此强悍。更强悍的，则是那位机师的操作！\n\n    在电光火石间的无数刹那时间里，黑色机甲能够做出那么多繁复的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "也没有想过，这种新式机甲居然会如此强悍。更强悍的，则是那位机师的操作！\n\n    在电光火石间的无数刹那时间里，黑色机甲能够做出那么多繁复的操作，而且没有一次失误，在帝国机甲群间若虎若狮，呼啸而出。雷霆而动，机甲动作虽不标准却格外精准，流畅风格之中夹着犀利的意味……如此生猛的机控水准，需要多快的手速",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "卫星画面，被拉到极近的视距，一个穿行于山坡之上，周游于十余台帝国机甲之间的联邦黑色mx机甲，就像一阵风波四处招摇，游刃有余地做着险之又险却又妙到毫巅的趋避动作。\n\n    指挥大厅里的军官们怔怔的看着光幕，看着那台想子弹一样高速曲折往复的黑色机甲，心中生出无数震惊。\n\n    这也是他们第一次看到联",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "攻击，看来此时帝国远征军的弹药基数已经无法继续如此疯狂的攻势，最关键的是北半球的陆基导弹阵地，应该也进入了损耗阶段。\n\n    行星战场上的形势正在向着有利于联邦的方向发展，直到此时，大厅里沉默压抑很久的联邦军官们，才稍微地松了一口气，将黄山岭寂寞岭方向的卫星画面，调到了主光幕上。\n\n    他们一",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "铁七师师部和指挥部的联邦军官们想像的那般轻松，露在头盔下方的半张脸已然苍白无比，半悬空的身体开始微微颤抖，不是大叔传授的奇怪功法，而是肌肉纤维里积累的肌酸含量已经快要接近顶峰，正在影响他的身体和神经系统。\n\n    在山谷外默然转身，依杜少卿的请求，秒杀了那台帝国四代机甲，看上去沉默冷厉，潇洒如意，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "光屏进行指令输出——哪怕操作杆上有十七个快捷按钮，这个数值已经超越了人类身体的生理极限，是一种只可能存在于幻觉中的数值。\n\n    许乐可以，因为他的机控方式是三重复合方式，除了一般机甲常见方式之外，还有紧紧束缚在他身体外的拟真系统，准确地将他身体的每一个动作捕捉放大，转换成数据流，输入机甲中控系统",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "然而许乐通过近瞳光幕，看着面前这九台黑色mx（应为黑青色机甲吧），急促呼吸之下，却有一个念头像火苗一般燃烧起来，难以抑止。\n\n    杀回山谷去？\n\n    他身旁的简水儿似乎猜到他在想些什么，大大的眼睛里闪过一丝犹疑与勇敢的亮光，少女紧紧握着拳头，轻声说道：“试一下？”\n\n    果然",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "”\n\n    许乐听到少女的提议，快速地进行了几次深呼吸，双手迅速地（在？）操作杆与触式光屏上扫过，同时半悬空的身体猛然一僵。\n\n    嗖的一声，黑色机甲向着九台帝国三代机甲冲了过去，就像是一个冷酷的狮王，准备扑倒并且咬死侵入自己领地的豺狗大军。\n\n    剧烈的沉闷金属撞击声响起，化为流光的黑色",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "及这点，因为联邦军方先前抽调不出任何兵力前去支援铁七师，让铁七师单独面对一支帝国月狼机甲大队，指挥部担心却束手无策，自然难免沉默。\n\n    然而谁能想到，铁七师不止完美地阻挡了月狼机甲大队向洛丘空港的突袭，甚至眼看着便要吃掉对方！\n\n    “看来还是低估了mx机甲的作用啊。”纳尔逊中将想到一个月",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "长，我会为他们请功。”\n\n    纳尔逊中将再次揉了揉微湿的白发，看着光幕上那片满是火光的战场，微笑说道：“请他们原地固守，只要再顶住帝国远征军最后的强攻大队两个小时……司令部便能从分界线上调来大批部队，胜利必然属于我们。”\n\n    这是很得体的话语，纳尔逊中将自己都感觉到满意。然而片刻之后，站在",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "作。\n\n    指挥大厅里的军官们怔怔的看着光幕，看着那台想子弹一样高速曲折往复的黑色机甲，心中生出无数震惊。\n\n    这也是他们第一次看到联邦最新一代mx出现在战场上，即便早有心理准备，却也没有想过，这种新式机甲居然会如此强悍。更强悍的，则是那位机师的操作！\n\n    在电光火石间的无数刹那时间",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "动，黑色机甲不动，那九台被震惊的如雕像般的帝国机甲更不敢动！一台黑色mx对上九台帝国机甲，山谷外围的宁静夜晚里，上演着荒谬绝伦的画面。\n\n    片刻后许乐听到了远方山本***轉載拾陸Κｘｓ文學網谷传来的炮火声，知道铁七师发动了猛攻，然而他并不知道铁七师里也装配了二十几台mx，所以心情有些异样。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

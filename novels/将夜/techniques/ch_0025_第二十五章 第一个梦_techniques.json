@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 25,
+  "chapter_title": "第二十五章 第一个梦",
+  "filename": "ch_0025_第二十五章 第一个梦.txt",
+  "char_count": 2351,
+  "timestamp": "2026-04-10T12:11:03.411643",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "究竟发生了什么事情，为什么天会变黑，然而无论他怎样找也没能找到那个人，只隐约看到一个极高大的背影穿过人群，向荒原外面走去。\n　　他冲着那个高大背影高声喊道：“喂！是你吗？这是怎么回事！”\n　　那个高大男子没有转身，离开人群的背影极其萧索，直至消逝不见，而宁缺的喊声却惊动了荒原上抬头看天的人们，有人埋",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "惊恐抬头看着天空，宁缺下意识里随着他们的目光望去，发现这时候还是白昼，因为天空之上挂着烈阳，但不知道为什么荒原上的温度很低，太阳的光线很黯淡，天地昏暗有如夜晚将要来临。\n　　一片黑色从天地线的那头蔓延过来，没有什么特殊处，只是绝对的黑，就像梦开始时他看见的那些白花一般，没有任何杂色，就是人类梦境最深",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "场空，应该是吕清臣老人的话起了作用，这一次他非常清楚自己是在做梦，所以他站在那片暖洋洋的海里，像一个陌生人或者说旁观者冷静地看着眼前的一切。\n　　他在梦里面笑着想起一句话：“一切都是幻觉，吓不倒我的。”\n　　可能是因为前所未有冷静的缘故，这一次宁缺非常清晰地看清楚了梦中海洋的模样，那片无边无际占据全",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "样无知无识无觉地站在红色血海旁，眼睁睁看着那些无声的残忍画面。\n　　血色的海洋变成了陆地，于是也有了天空。\n　　宁缺站在天空与地面之间，发现自己身处荒原之上，自己脚下和远方倒着无数具尸体，那些尸体有大唐帝国的骑兵，月轮国的武士，南晋的弩兵，还有很多草原蛮子的精骑，无数的血水从这些士兵的身下流淌出，把",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "起再次仆倒，他们挣扎着，无声的痛嚎着，可无论他们怎样的挣扎痛嚎，五官上的那道薄膜始终把他们禁锢在永恒寂静的血色世界之中。\n　　一抹生命最深处的恐惧缓慢而不可阻挡的占据了宁缺的身体，把他变成了一座石雕，就这样无知无识无觉地站在红色血海旁，眼睁睁看着那些无声的残忍画面。\n　　血色的海洋变成了陆地，于是也",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "上，仿佛他就代表着某种希望。\n　　被全世界目光注视的感觉很奇怪，被当成希望的感觉很怪异，宁缺觉得自己瞬间变得伟大崇高甚至神圣起来，但他只是个极普通平凡的人，而且他根本不知道这将夜的世界究竟是怎么回事，于是他很恐惧不安心悸到胸口撕烈般的痛。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "地悬浮在荒原前方，冷漠地看着这方，就像是有生命一般。\n　　“天要黑了。”\n　　“我说过，天要黑了，但从来没有人相信我。”\n　　有一个人用轻蔑的口吻在宁缺耳边说道。宁缺霍然转身，没有看见是谁说话，却看见很多人正抬头望着天空，那些人中有满脸惘然的小贩，有满脸不甘心的官员，有怯生生的小姐，有疯癫般狂笑的僧",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "面走去。\n　　他冲着那个高大背影高声喊道：“喂！是你吗？这是怎么回事！”\n　　那个高大男子没有转身，离开人群的背影极其萧索，直至消逝不见，而宁缺的喊声却惊动了荒原上抬头看天的人们，有人埋怨道：“天都要黑了，你不好好看着，非要打扰我们最后时刻的安宁，真是令人厌恶的小东西。”\n　　埋怨的人是少数，荒原上",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "在一个梦里，他心神摇晃却又异常平静地在海面上行走，在如海般的白花间行走，忽然间心头一动，整个人的身体缓缓飘离花瓣，迅速向着海面上的高空飞去。\n　　飞到极高处，他低头向下方望去，只见绿色海洋上的白花早已消失不见，隐隐能够看到海水深处有一层红色的平面，向四面八方延展而去。\n　　他破开海水，向绿色海洋深处",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“天要黑了。”\n　　“我说过，天要黑了，但从来没有人相信我。”\n　　有一个人用轻蔑的口吻在宁缺耳边说道。宁缺霍然转身，没有看见是谁说话，却看见很多人正抬头望着天空，那些人中有满脸惘然的小贩，有满脸不甘心的官员，有怯生生的小姐，有疯癫般狂笑的僧侣，不管衣着神情有怎样的差别，这些人有一个共同的特点，那",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

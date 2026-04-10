@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 492,
+  "chapter_title": "第一百三十四章 疯兰虐月光",
+  "filename": "ch_0492_第一百三十四章 疯兰虐月光.txt",
+  "char_count": 3378,
+  "timestamp": "2026-04-10T12:04:59.261595",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "感觉，却愈发觉得宁和的担心有其道理。白玉兰对许乐没有崇拜，但有一种疯子沉沦般的快感投入，这种情况相当危险。\n\n    “你知道吗？麦德林死的那一天，我就在基金会大楼外边的山上。”白玉兰细秀的眼眸里闪过一丝锋利的意味，轻声说道：“我当时有强烈的冲动，要和他一起发发疯，事实上，当时我已经准备好了疯一把。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "许乐的秘书后，我才逐渐发现，这种日子才是最愉快的。在首都和港都之间来往还复的那一年，是我这辈子过的最轻松最舒服的日子。”\n\n    白玉兰仰起头来，用细长的手指掀起眼前黑色发丝，那张柔顺宁静的面容上满是轻松的笑意。\n\n    “我本以为跟着许乐只是挣钱的买卖，然而后来他出事后，我忽然发现自己的日子过",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "享受虐待狂的精神世界。\n\n    洁白的节能灯光下，许乐闭目调动脑海里贮存的那些结构图纸，思考片刻后缓缓睁开双眼，将那封已经写完的邮件发给了远在亿万里之外的商秋。\n\n    将涡轮增压系统微型化到机甲之中，是极困难的事情。程丰实提出了一个异想天开的设计理念，更天才的商秋获取这些材料之后，马上将原有设",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "说道：“部里给七组安排的任务，本来只有三天准备时间。早晨的时候，老板往西山大院打了一个电话，在电话里愤怒地吵了一架，就把三天变成了十天。”\n\n    “部里要给他面子，我捅那一刀子，也是想让他拼了面子夺回来的十天变得更有效率一些，这些大人物家的孩子，如果真在老板手下死的太多，就算费城和部长想护着他，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "了一个异想天开的设计理念，更天才的商秋获取这些材料之后，马上将原有设计中的氢燃料基础抹去，果壳上程部全力开动，短短几十天的时间，项目便取得了很大的突破。\n\n    最近这些天，许乐与果壳上程部的同事们一直保持高密度邮件联系，主要是因为他急于在上前线前，为攻克设计中的叶片吸入干扰环节做出自己的贡献。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "玉兰又仔细而认真地吸了，口香烟，黑发遮掩下的宁静面容没有因为兰晓龙的突兀发问而发生任何变化，轻声细语说道：“部里给七组安排的任务，本来只有三天准备时间。早晨的时候，老板往西山大院打了一个电话，在电话里愤怒地吵了一架，就把三天变成了十天。”\n\n    “部里要给他面子，我捅那一刀子，也是想让他拼了面子",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "兰晓龙沉就听着，明白白玉兰此刻轻声细语的感慨里，所重点描述的是何种感觉，却愈发觉得宁和的担心有其道理。白玉兰对许乐没有崇拜，但有一种疯子沉沦般的快感投入，这种情况相当危险。\n\n    “你知道吗？麦德林死的那一天，我就在基金会大楼外边的山上。”白玉兰细秀的眼眸里闪过一丝锋利的意味，轻声说道：“我",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "老板手下死的太多，就算费城和部长想护着他，也会有太多问题。”兰晓龙望着他，继续执着于先前的追问：“你为什么想要替他卖命？”\n\n    白玉兰将烟头轻轻摁在墙上，抹了一道深深的黑色痕迹，星火瞬熄，焦黑里残着丝热气。\n\n    “那一年新式机甲失败，席格总统震怒，宪章局开始调查果壳做过的私活儿，七组被某",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "那洒水泥的苦力角色，问题是任何决断总要有个分寸。”\n\n    “做为材料垫底的家伙如果太死心眼卖命，将来只能变成无数被生生压碎的石头，嵌进水泥，铺在他的金光大道上，当他穿着锃亮军靴踏过路面时，一路平直，哪里还会想起脚下的碎石头。”\n\n    白玉兰低着头，靠着墙，手指松开烟头，右腿屈起蹬在墙上，回答",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "着许乐做些在自己看来正确的事情，这种感觉很好。”\n\n    兰晓龙沉就听着，明白白玉兰此刻轻声细语的感慨里，所重点描述的是何种感觉，却愈发觉得宁和的担心有其道理。白玉兰对许乐没有崇拜，但有一种疯子沉沦般的快感投入，这种情况相当危险。\n\n    “你知道吗？麦德林死的那一天，我就在基金会大楼外边的山上",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "发问而发生任何变化，轻声细语说道：“部里给七组安排的任务，本来只有三天准备时间。早晨的时候，老板往西山大院打了一个电话，在电话里愤怒地吵了一架，就把三天变成了十天。”\n\n    “部里要给他面子，我捅那一刀子，也是想让他拼了面子夺回来的十天变得更有效率一些，这些大人物家的孩子，如果真在老板手下死的太",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "微型化到机甲之中，是极困难的事情。程丰实提出了一个异想天开的设计理念，更天才的商秋获取这些材料之后，马上将原有设计中的氢燃料基础抹去，果壳上程部全力开动，短短几十天的时间，项目便取得了很大的突破。\n\n    最近这些天，许乐与果壳上程部的同事们一直保持高密度邮件联系，主要是因为他急于在上前线前，为攻",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "兰晓龙沉就听着，明白白玉兰此刻轻声细语的感慨里，所重点描述的是何种感觉，却愈发觉得宁和的担心有其道理。白玉兰对许乐没有崇拜，但有一种疯子沉沦般的快感投入，这种情况相当危险。\n\n    “你知道吗？麦德林死的那一天，我就在基金会大楼外边的山上。”白玉兰细秀的眼眸里闪过一丝锋利的意味，轻声说",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "晓龙轻轻叹息了一声，不再试图说服什么。\n\n    白玉兰微笑着拍拍他的肩，说道：“我和老板一样，都是社会底层挣扎起来的小人物，如乔治卡林所言，我们有天然的革命性。整治这些大人物家的公子哥，打从心里都会产生某种快感，你的家世与我们不同，自然无法体会。”\n\n    说完很难得的长段心理剖析，秀气的男人将",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "兰晓龙低头盯着他手指里捏着的烟头，说道：“但自从你开始跟许乐之后，你又开始抽烟。我们很清楚你的性格，知道破誓意味着什么……\n\n    离开首都星圈之前，宁和专门找过一次我，总觉得你现在的性情变得有些过于平静冷漠，有些疯魔的迹像。”\n\n    正是在那位叫宁和的军官婚礼结束后，许乐在街畔向着白玉",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "力角色，问题是任何决断总要有个分寸。”\n\n    “做为材料垫底的家伙如果太死心眼卖命，将来只能变成无数被生生压碎的石头，嵌进水泥，铺在他的金光大道上，当他穿着锃亮军靴踏过路面时，一路平直，哪里还会想起脚下的碎石头。”\n\n    白玉兰低着头，靠着墙，手指松开烟头，右腿屈起蹬在墙上，回答的很快很直接",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "说道：“但自从你开始跟许乐之后，你又开始抽烟。我们很清楚你的性格，知道破誓意味着什么……\n\n    离开首都星圈之前，宁和专门找过一次我，总觉得你现在的性情变得有些过于平静冷漠，有些疯魔的迹像。”\n\n    正是在那位叫宁和的军官婚礼结束后，许乐在街畔向着白玉兰的背后捅了一刀，思及那些时光，白玉兰细",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

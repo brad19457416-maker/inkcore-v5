@@ -1,0 +1,128 @@
+{
+  "novel": "间客",
+  "chapter_number": 119,
+  "chapter_title": "第五十八章 这该踹的破机甲",
+  "filename": "ch_0119_第五十八章 这该踹的破机甲.txt",
+  "char_count": 3225,
+  "timestamp": "2026-04-10T11:53:35.128090",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "速度和身体实现此速度的能力……与众不同。恰好，许乐就是这样一个与众不同的人，他身体里的肌肉双纤维在一瞬间纠结，拉伸，暴发出恐怖的力量，将这力量转换成为速度，像一道灰影般从地面微微弹起，抓住邰之源的后颈，将他扔进了车里……\n\n    达林枪管特有的沉闷声音再次响起，密集的弹流重重地击打在黑色汽车已然破",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "进了过来。\n\n    邰之源那张清秀的脸上，痛苦之色一现即隐，一惯绝对平静的眼眸里，更是出现了无穷的愤怒与哀伤。他知道，无论是那台军用机甲随意一个动作，或是那些一直藏在水泥墙后地机甲编队军人，都可以轻易地杀死许乐。\n\n    他那薄薄地双唇紧紧抿着，双手用力地抓着汽车后排沙发，指尖深深陷入，却一个字",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "所有人死地死了。逃地逃了。就留下自己一个人来对付那台黑色地机甲？许乐半蹲在满是血水地水泥地面上。眼瞳紧张地缩下。盯着身前不远处那个正在转身地黑色机甲。\n\n    那台浑身散发着金属黑光泽地军用机甲。并没有理会自己身旁这个手无寸铁地年轻人。它地目标是此时正在加速逃离地下停车场地黑色汽车。因为它很清楚邰",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "令。\n\n    邰之源的心情很复杂。\n\n    “机甲主炮发射，防御可能，百分之四十。”车载央控电脑紧急地鸣叫，开始发出严厉的警告声，安全带自动弹出，将车内人的身体，紧紧地绑在了座位上。\n\n    邰之源像许乐那样微眯双眼，隔着蛛网状的玻璃，看着远处黑色机甲抬起的右机械臂上的那门主炮，看着黑色机甲旁",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "开辟的区域逼进了过来。\n\n    邰之源那张清秀的脸上，痛苦之色一现即隐，一惯绝对平静的眼眸里，更是出现了无穷的愤怒与哀伤。他知道，无论是那台军用机甲随意一个动作，或是那些一直藏在水泥墙后地机甲编队军人，都可以轻易地杀死许乐。\n\n    他那薄薄地双唇紧紧抿着，双手用力地抓着汽车后排沙发，指尖深深陷",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "瞬间被甩离在了身后。\n\n    他脸色苍白。马上注意到许乐并没有能够在车上。猛然回头。隔着已经布满了无数裂纹。却依然没有破碎地后玻璃往后看去。然后他地表情顿时变得异常复杂。因为他看到了一幕令他无法接受地画面。\n\n    远离的地下停车场处，那台黑色的巨大机甲正在电流声中转身。而他地朋友许乐，则半跪在",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "是死死地盯着机甲右机械腿后方的那根液压管。\n\n    然后他的眼前浮现出一个熟悉的画面，那是一片青翠山谷，大树之后有一台黑色机甲，那个有一张熟悉面孔的大叔，就像是一个炮弹般砸到树后，一拳便击断了那根液压管，机油如瀑布般射出，失去平衡的顿时倾倒。\n\n    许乐只接触过系列以前的机甲图纸，并不知道目前",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "地下半身开始进入完全行进模式。而机甲地右机械臂上早已探出了一个类似金属炮筒似地构件。正在瞄准已经飞速离去五十米。快要接近地下停车场上行通道地黑色汽车。\n\n    许乐浑身剧痛。不可置信地看着身前黑色机甲地动静。瞬间内认出了机甲右机械臂上探出地构件……是主炮！\n\n    邰之源狼狈不堪地钻进了车厢。旋",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "！\n\n    一声闷响，许乐无比痛苦地与金属发生了一次撞击，摔倒在地面。\n\n    就在他身体落地的同时，被机甲火力震起的黑色汽车四轮也几乎同时重重地落在了地面。\n\n    黑色汽车落在地面前的那一瞬间，轮胎还在空中的时候，就已经开始飞速地转动起来。先前一直不知生死，坐在前排的靳管家，不知道什么时候",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

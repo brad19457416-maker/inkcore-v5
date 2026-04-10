@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 571,
+  "chapter_title": "第二百零九章 东北偏北（九）",
+  "filename": "ch_0571_第二百零九章 东北偏北（九）.txt",
+  "char_count": 3504,
+  "timestamp": "2026-04-10T12:05:08.553247",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第二百零九章 东北偏北（九） \n\n    凛冽的寒风透过纤维夹层软塑门的缝隙吹了进来，然后徒劳无功地在液氢燃料炉边转了几圈，便懒洋洋地暖和了起来，弥散于温暖的空气之中。\n\n    周玉低着头坐在椅子上，盯着自己有些脱皮的手指沉默不语，脸色郁落而僵硬，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "：“在我看来，那是因为常二常三兄弟，本来都是一团军官的原因，而且因为毕业日军演，许乐中校和师长之间的冲突，你怎么会不想他死？”\n\n    “不要忘记你现在是铁七师的军官，应该知道自己的该坐在哪里。”东方沛的眼神愈发冷峻，缓声说道：“而且你太低估我了，我们铁七师的人，向来没有在战场上往同胞后背开枪的习",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "。”周玉表情平静说道：“四天前，许乐中校发出支援请求，你未予理会，而且还强行拖延了情况上传时间，这是为什么？你究竟是想借帝国人的手杀死青龙山的人，还是想干脆让许乐中校也死在那里？”\n\n    “我警告你，你正在对一名中校团长做出非常严重的刑事指控。”东方沛沉默片咧后，脸色冷峻地说道：“不错，我确实瞧",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "铁七师一直有些水火不容的感觉。\n\n    作训基地里的同学军官们，七组那些熟悉的汉子们，周玉所熟悉的人们大多都进了新十七师，却只有他一个进了铁七师，虽谈不上四顾惘然无故旧，但终是落落寡欢难自安，这种情绪因为最近的那椿事情而发酵起来，令惯常温润如玉的他，也感到了一丝难以抑止的郁闷愤怒。\n\n    沉默",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "“东方沛眼皮微垂，说道：“来人，关他单独禁闭十天。”\n\n    就在这个时候，通讯兵快步走了过来，用紧张的语气说道：“师长来电。”\n\n    铁七师师部所在地，西门谨拿着毛巾安静地站在角落里，他看着师长脸色阴沉地挂断了电话，联想到刚刚收到的联邦司令部军令，心情也不由微沉，走上前去，将滚烫的毛巾递到了",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "落落寡欢难自安，这种情绪因为最近的那椿事情而发酵起来，令惯常温润如玉的他，也感到了一丝难以抑止的郁闷愤怒。\n\n    沉默了很久很久，直至将指间的白色皮泡（?）和门外的白色雪地看到双眼生痛，他面容上的恼意渐敛，霍然起身，穿过低矮的雪地通道，快步走入了团部所在的房间。\n\n    铁七师一团团长东方沛，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "距你不到四百公里的雪原上，有几千名联邦战士正在被帝国人伏击？”\n\n    东方沛睁开双眼，看着他淡漠说道：“被围的是青龙山的崽子，我可没把他们当成是战友。”\n\n    “东方团长，我想请你注意，他们现在的番号是联邦特一军了如果你不想这种言论被国防部内务处知道的话，我劝你最好端正一下认识，而不是端着咖",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "此咧显得是那样的压迫感十足，他盯着西门谨的双眼，自嘲笑道：“或者，他是想用自己的愚蠢，来替我除掉一个将来的对手？什么时候我在你们的眼中，堕落到可以被许乐威胁的地步？更关键的是……”\n\n    “难道我没有教过你们，战场之上，最不能容忍的，就是脑子里除了胜负之外，还有别的杂念。”\n\n    杜少卿冷声",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "会如此愚蠢。”\n\n    “是吗？”杜少卿的反问句在此咧显得是那样的压迫感十足，他盯着西门谨的双眼，自嘲笑道：“或者，他是想用自己的愚蠢，来替我除掉一个将来的对手？什么时候我在你们的眼中，堕落到可以被许乐威胁的地步？更关键的是……”\n\n    “难道我没有教过你们，战场之上，最不能容忍的，就是脑子里",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "正的胜利，换取真正的功勋，他也被某位身跨军政两界的大人物强行压制了十年。\n\n    十年之后，他终于来到了真正的前线。他和他的部队确实也没有让整个联邦失望，从在黄山岭打响胜利军事行动的第一枪，化为狂飙突进北伐，把帝国主力部队打的节节溃败，直至如今将帝国残兵逐入冰川雪域之中，找不到丝毫逃遁的机会，无数",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "透过纤维夹层软塑门的缝隙吹了进来，然后徒劳无功地在液氢燃料炉边转了几圈，便懒洋洋地暖和了起来，弥散于温暖的空气之中。\n\n    周玉低着头坐在椅子上，盯着自己有些脱皮的手指沉默不语，脸色郁落而僵硬，被这恼人的冷暖空气扰的心神难宁，下意识里抬起头来，顺着门缝向外望去，发现四天前就开始变小的风雪，在今天",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "艰难地说道：“师长，我相信东方不会如此愚蠢。”\n\n    “是吗？”杜少卿的反问句在此咧显得是那样的压迫感十足，他盯着西门谨的双眼，自嘲笑道：“或者，他是想用自己的愚蠢，来替我除掉一个将来的对手？什么时候我在你们的眼中，堕落到可以被许乐威胁的地步？更关键的是……”\n\n    “难道我没有教过你们，战",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "不是机械，更不是冷血，在最需要缩短反应时间的时候，前线指挥官却固执地等待着几个序列之外的远程命令，我从来不知道仗是这样打的。我很怀疑你这样做的真实目的是什么。”\n\n    东方沛眼眸里狠意渐起，走到周玉的身前，寒声说道：“那你说我的真实目的是什么？”\n\n    “我怀疑你在刻意进行一场惨无人道的谋杀",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "候，通讯兵快步走了过来，用紧张的语气说道：“师长来电。”\n\n    铁七师师部所在地，西门谨拿着毛巾安静地站在角落里，他看着师长脸色阴沉地挂断了电话，联想到刚刚收到的联邦司令部军令，心情也不由微沉，走上前去，将滚烫的毛巾递到了杜少卿的手中。\n\n    杜少卿拿起滚烫的毛巾用力地着麻涩的面部肌肤，恢复",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

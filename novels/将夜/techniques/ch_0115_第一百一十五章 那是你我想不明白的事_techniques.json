@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 115,
+  "chapter_title": "第一百一十五章 那是你我想不明白的事",
+  "filename": "ch_0115_第一百一十五章 那是你我想不明白的事.txt",
+  "char_count": 3431,
+  "timestamp": "2026-04-10T12:11:11.986854",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百一十五章 那是你我想不明白的事\n　　人们仰望高远的天空，赞美昊天的仁爱，修行如何勤勉，悟性如何过人，却从来不敢奢望能够飞上天空。因为他们知道，行路再难，也难不过上青天，由世间通往天穹的道路总是充满着艰难险阻，从来没有人成功过。\n　　昊天神殿在西陵，自",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "不会说话，而你昏之前无赖地把小命托付给我了呢？”\n　　所谓理由其实都不过是说服自己的借口，陈皮皮面露悲痛之色，拧开晶莹透亮的小瓷瓶瓶盖，小心翼翼倒了一颗药丸到自己掌心，然后送到宁缺嘴前。\n　　药丸色泽微粽，没有什么光泽，也没有什么异香奇味，更没有引来夜空里的百鸟欢鸣朝圣，只是散着淡淡的草药味道，显得",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，眯着眼睛看着东窗外投射进来的晨光，干枯的嘴唇微微翕动，轻至不可闻喃喃念道：“任何事情都有因果，都有存在的原因和理由，昊天老爷你把我带到这个世界自然有你的原因，我就知道你不会眼睁睁看着我死去。”\n　　“不是昊天老爷，是本天才我没办法眼睁睁看着你去死。”\n　　陈皮皮靠在他身旁的墙壁上，揉了揉发涩的眼睛",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "最珍贵的圣药，如果流传到世间不知会引发多少动荡，所以他非常挣扎犹豫。\n　　激烈的心理挣扎在脑海中不断冲突，不知道过了多长时间，只见这位胖胖的少年幽怨至极地叹息了声，看着昏迷中的宁缺有气无力说道：“那些和尚们总说，救人一命比修七层石塔都重要，虽然我不知道修那些难看的石塔有什么重要，但我觉得这话有些道理",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "你身上有很多剑伤，虽然早已不再流血，但那是被火烧合的，并不是旧伤。”\n　　宁缺笑了笑，抬头问道：“你究竟想说什么？”\n　　“受了这么重的伤，却没有回家躺着，而是坐着马车来到书院，只能说明你是在清晨受的剑伤，当时长安府索缉甚紧，你没办法回家，只好来书院暂避，长安府可不会拦截书院的马车，更没胆子来书院搜",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第一百一十五章 那是你我想不明白的事\n　　人们仰望高远的天空，赞美昊天的仁爱，修行如何勤勉，悟性如何过人，却从来不敢奢望能够飞上天空。因为他们知道，行路再难，也难不过上青天，由世间通往天穹的道路总是充满着艰难险阻，从来没有人成功过。\n　　昊天",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "宁缺笑了笑，抬头问道：“你究竟想说什么？”\n　　“受了这么重的伤，却没有回家躺着，而是坐着马车来到书院，只能说明你是在清晨受的剑伤，当时长安府索缉甚紧，你没办法回家，只好来书院暂避，长安府可不会拦截书院的马车，更没胆子来书院搜人。”\n　　“昨天清晨那名剑师死，长街上的朱雀绘像醒，你受了这么多剑",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "你啊，其实是个被昊天眷顾的少年才对。”\n　　……\n　　……\n　　融化垮塌之后的雪山，被那股阴寒的力量瞬间再度重塑，画面看似神妙，但那座雪山的构造却是极不稳定，随时可能再次垮塌，内部冰川险洞可谓是千疮百孔，绝大部分孔洞并不能前后贯通，却让雪山变成被白蚁蛀空的木柱般脆弱。\n　　珍贵的通天丸被水化开，经由",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "奇异的空间世界之中，这股气息并不是来自苍穹之上的那轮太阳，而是来自世界的本原。昼夜在交替，涓涓冰溪在缓缓流淌，渐渐的，溪畔生长出了第二颗小草，然后蔓延成为草原。\n　　有成群的黄羊在青草间欢快地跳跃，有田鼠在地底欢快地啃食着草根，草原深处生出了几颗青树，绿油油地令人好不欢喜。\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "在脑海中不断冲突，不知道过了多长时间，只见这位胖胖的少年幽怨至极地叹息了声，看着昏迷中的宁缺有气无力说道：“那些和尚们总说，救人一命比修七层石塔都重要，虽然我不知道修那些难看的石塔有什么重要，但我觉得这话有些道理，虽然我还是认为你这家伙的小命没有这颗药丸重要，但谁让通天丸子不会说话，而你昏之前无赖地",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "士们连着开了三天大会，要知道叶师兄当年都只吃了一颗啊……我吃了一颗，留一颗保命，本想最后一颗留给师兄日后冲关，就这么给你吃了？”\n　　“通天丸虽不能助人通天，但让普通人送服至少可以增十年寿数，让修行者服了或许可以直接跨境，我手里瓶中的丸子，如果送给大河国的国君，绝对可以换三万个温顺的处女，就算要他把",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "十五章 那是你我想不明白的事\n　　人们仰望高远的天空，赞美昊天的仁爱，修行如何勤勉，悟性如何过人，却从来不敢奢望能够飞上天空。因为他们知道，行路再难，也难不过上青天，由世间通往天穹的道路总是充满着艰难险阻，从来没有人成功过。\n　　昊天神殿在西陵，自号世间唯一能明悟昊天意志的光明教门，但也没有听说过哪",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

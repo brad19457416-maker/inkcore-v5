@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 755,
+  "chapter_title": "第一百三十六章 一片黄沙，一场局",
+  "filename": "ch_0755_第一百三十六章 一片黄沙，一场局.txt",
+  "char_count": 4710,
+  "timestamp": "2026-04-10T12:11:27.119836",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "后河山盘便一直留在书院后山，随着时间流逝，渐渐被整个修行界遗忘，就算是墨池苑当代王书圣，也不知晓这个秘密。\n　　多年前，夫子周游诸国寻觅冥界出口，或是寻觅美食之时，于隐仑小镇湿地外的当铺里遇着一少年学徒。夫子看那少年学徒打算盘，竟看了半天时间，因为他觉得那少年学徒算盘打的极美，打算盘的声音极动听。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "跟了我这么多年确实有感情……只是我一放手，这盘便会爆，所以就算要让它爆，你们也得让我走远点。”\n　　众人沉默不语。\n　　“我当然知道你们不肯让我走远些一个人去死。”\n　　四师兄看着众人微笑说道：“所以我会尽可能多举一些时间。”\n　　二师兄转身望着南方的西陵神殿联军，说道：“不用担心，还有别的方法。”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "！\n　　青衣道人转身向南方原野间走去，右手随意向后一挥。\n　　随着他的脚步踩在松软的泥土间，肃杀的秋天空气，忽然变得寒冷起来，他身前的秋风骤然冻凝成薄雪般簌簌落下，其间隐约出现了一道门。\n　　那是天地气息湍流里隐藏着的通道。\n　　是只有无距境界才能看到的通过。\n　　青衣道人的右脚踏进门内，顿时变得虚",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "先便有准备，但他知道这段时间必然极为短暂，所以他匆匆离开。\n　　就在他的身形消失的下一刻，青衣道人便来到了青峡之前。\n　　原野上有无数双目光落在这名青衣道人身上。\n　　这是知守观观主，第一次出现在世人的眼前。\n　　叶红鱼对着远方青衣道人的背影跪下，恭谨低头。\n　　盔甲摩擦的声音，像麦浪的声音哗哗响起",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "右手随意向后一挥。\n　　随着他的脚步踩在松软的泥土间，肃杀的秋天空气，忽然变得寒冷起来，他身前的秋风骤然冻凝成薄雪般簌簌落下，其间隐约出现了一道门。\n　　那是天地气息湍流里隐藏着的通道。\n　　是只有无距境界才能看到的通过。\n　　青衣道人的右脚踏进门内，顿时变得虚无起来。\n　　在青峡前无数人的眼中，他",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，全部用在困锁那道虚剑上，本已虚弱地说不出话来，听着这话却是大怒。\n　　“你先砸死我好了！”\n　　他愤怒地瞪着老六，一面说着一面不停地咳着血。\n　　六师兄有些无奈地放下铁锤。\n　　王持看着高举着沙盘的四师兄，担忧说道：“难道要师兄总这么举着？师兄如果你举累了，我来替你举着，药我已经煎好了两天的份量。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "一刻，青衣道人便来到了青峡之前。\n　　原野上有无数双目光落在这名青衣道人身上。\n　　这是知守观观主，第一次出现在世人的眼前。\n　　叶红鱼对着远方青衣道人的背影跪下，恭谨低头。\n　　盔甲摩擦的声音，像麦浪的声音哗哗响起，不知道有多少人都跪了下来。\n　　青峡之前的书院弟子没有跪，也没有拜。\n　　他们沉默",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "方，总能看到两个身影一前一后出现。\n　　前者穿着一身棉袄，后者穿着一袭青色道衣。\n　　这是五境之上的战斗，这是无距境的追逐。\n　　二人眼前皆无距，但境界依然有差别。\n　　大师兄今日在青峡前争取到了一些时间，是因为书院事先便有准备，但他知道这段时间必然极为短暂，所以他匆匆离开。\n　　就在他的身形消失的",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "时间出手，那么青峡前的书院弟子还能有几人活着？\n　　这个时间差，是由大师兄和四师兄计算了数夜时间，才最终得出的结果，他们相信应该不会有任何问题。\n　　然而他们依然低估了青衣道人的境界实力。\n　　道门的至强者，昊天之下的寡人，境界高深莫测，那便无法测。\n　　在事先计划中，书院确定青衣道人必须追着大师兄",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "确保自已这一剑能够创造最大的杀伤力。\n　　因为这一剑有些潦草，所以青衣道人放过了二师兄。\n　　从某种意义上来说，这是对二师兄的尊重。\n　　但在二师兄看来，这很可笑――以青衣道人的身份与境界，对付自已这些书院弟子，居然还要思考，实在是显得庸俗至极。\n　　所以他瞧不起此人。\n　　哪怕你的境界远在我之上，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "着众人微笑说道：“所以我会尽可能多举一些时间。”\n　　二师兄转身望着南方的西陵神殿联军，说道：“不用担心，还有别的方法。”\n　　“什么方法？师兄你快说。”木柚焦急问道。\n　　“大师兄如果能够甩掉观主，便能替你解决这个问题。”\n　　“如果甩不掉怎么办？而且大师兄他也不知道我们这里发生的事。”\n　　“那",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "从唇里淌出。\n　　二师兄回到篷内。\n　　木柚看着他颤声问道：“怎么办？”\n　　二师兄沉默了很长时间，说道：“我不知道。”\n　　六师兄说道：“我用锤子把这沙盘砸了。”\n　　四师兄的全副念力、尤其是与河山盘相连的精神，全部用在困锁那道虚剑上，本已虚弱地说不出话来，听着这话却是大怒。\n　　“你先砸死我好了",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "峡之前的原野间，虽然也有沙土，但绝对找不到这样的黄沙。\n　　这样的黄沙，只在一个地方有。\n　　四师兄从来不离身的那个沙盘中。\n　　……\n　　……\n　　虚剑，刺进了沙盘。\n　　四师兄的脸色骤然苍白。\n　　他把沙盘高举在身前的双手颤抖的非常厉害。\n　　这个看上去很不起眼的沙盘，居然真的挡住了青衣道人的虚",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "剑。\n　　那道剑已经脱手而去，直刺青峡前覆盖残箭、如同草庐的篷。\n　　青衣道人出现后，青峡前便变得很安静。\n　　最安静的是二师兄。\n　　他沉默低头，看着身前一尺半地外的那块石头。\n　　他没有看青衣道人，因为他想保持最饱满的战意与信心。\n　　他也没有看手中的铁剑，因为剑不是用来看的。\n　　青衣道人随手",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

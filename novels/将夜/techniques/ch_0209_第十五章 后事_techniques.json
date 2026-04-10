@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 209,
+  "chapter_title": "第十五章 后事",
+  "filename": "ch_0209_第十五章 后事.txt",
+  "char_count": 3477,
+  "timestamp": "2026-04-10T12:11:11.977367",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "真的饮水得趣之后，竟生出了某些奇怪的心思兴趣？\n　　看着烛台上渐渐积起的烛泪，水珠儿的身体有些僵硬，心想这等情趣自己倒是听过不少，但却是从未亲自做过，也不知烛泪落到身上会荡的痛，还是真的别有意趣，她有心想要拒绝，但又哪里敢说出来。\n　　忽然间，桌上的烛火骤然间大放光明，把房间照耀的纤毫毕现，水珠儿被",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "一丝杂质，等若要用晶莹剔透的湖水去锁死一团清水，根本无法做到！\n　　更远处朱雀大街上，无由刮起一场清风，深刻在石板里的朱雀绘像上的碎石砾被这阵风卷的到处都是，来自帝国各郡的游客，被风沙迷了眼，被碎砾扑了面，下意识里低头避开，或是以手揉眼。\n　　即便他们没有低头没有遮眼，大约也看不到，一道极清极淡近乎",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的冬云，将日头遮在后方，南城将军府外的街巷间，却陡然生出一轮太阳，炽烈的光线迸发于光明大神官的双眸，瞬间将周遭阴暗的天地照耀成比白昼还要白昼的白昼，枯叶斑墙残石狮旧台阶都蒙上了一层刺眼的光晕，完全失去了原初的模样，变得圣洁无比。\n　　数十名以精神坚毅著称的精锐弩手扔掉手中的劲弩，捂着自己的眼睛，惨呼",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "颜瑟对人世间有所留恋，他对人世间也有所遗憾――当年他曾经一只脚跨过门槛，看到那边神妙的世界，却被某些存在无情地收了回去，他不甘心，所以他想在离开这个世界之前收一个传人，留下自己的衣钵，让自己的传人日后代替自己去清楚地看看那个世界。\n　　神符师拥有真正传人很难，光明大神官想有个真正传人也很难，颜瑟现在",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "桑愣了会儿，微羞摇头说道：“我不行，我不能……给别人生孩子。”\n　　……\n　　……\n　　（我确认自己第一次不可救药地爱上了自己写的角色，仅次于爱我妈和领导。）",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "微黑的脸颊，神情凝重说道：“如果传承里的承载代表是世家的根骨或是道统，那么这种强烈渴望甚至会变成某种沉重的责任。”\n　　最后老人总结道：“这就是所谓后事。”\n　　桑桑睁着明亮的柳叶眼，看着身前这个古怪的老头儿，想了很长时间以为自己想明白了，认真问道：“你是不是想找个老婆生孩子？”\n　　她上下打量了一",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "满脸困惑不解，但看着老道的凝重神情却不敢发问。\n　　为什么大白天的却要把烛台点亮？莫非……这位包括简大家在内整个帝国都没谁敢得罪的神符大家，在这些日子始终不肯真的饮水得趣之后，竟生出了某些奇怪的心思兴趣？\n　　看着烛台上渐渐积起的烛泪，水珠儿的身体有些僵硬，心想这等情趣自己倒是听过不少，但却是从未亲",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "……\n　　……\n　　红袖招楼后的小院内。\n　　颜瑟大师盯着桌上不停摇晃的烛台，满是细小皱纹的眼角微微颤抖，似乎在思考某个极为重要的决定。\n　　水珠儿姑娘斜倚在他的怀中，细长的睫毛微微颤抖，满脸困惑不解，但看着老道的凝重神情却不敢发问。\n　　为什么大白天的却要把烛台点亮？莫非……这位包括简大家在内整个",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，难觅其踪。\n　　人间到处都是光明，你如何能够寻找到光明？\n　　李青山抬头望向冬云间漏下的光线，喃喃说道：“神座之上，天穹之下……”\n　　“师兄，我终于明白你说的这句话是什么意思了。”\n　　……\n　　……\n　　红袖招楼后的小院内。\n　　颜瑟大师盯着桌上不停摇晃的烛台，满是细小皱纹的眼角微微颤抖，似乎",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "水珠儿姑娘斜倚在他的怀中，细长的睫毛微微颤抖，满脸困惑不解，但看着老道的凝重神情却不敢发问。\n　　为什么大白天的却要把烛台点亮？莫非……这位包括简大家在内整个帝国都没谁敢得罪的神符大家，在这些日子始终不肯真的饮水得趣之后，竟生出了某些奇怪的心思兴趣？\n　　看着烛台上渐渐积起的烛泪，水珠儿的身体有些",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "很难，颜瑟现在有了宁缺，所以他没有遗憾，而他还没有，他甚至以为直到生命结束的那一刻，也不会有，直到他来到长安城，来到临四十七巷，看到桑桑。\n　　老人站在老笔斋门槛外，看着铺内忙碌的小侍女，心中不尽赞叹喜悦满足，甚至感动地快要流下泪来，觉得自己此生虽然屡次违背昊天意旨，但至少在人生的最后阶段，昊天还是",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "传承，禽兽不惜生死也要传承的是自己的精血，而人类想要传承的是精神，相同点在于这种传承都蕴含着极强烈的渴望，都是想让自己留在人世间的痕迹更久远一些。”\n　　稍一停顿后，老人看着小姑娘微黑的脸颊，神情凝重说道：“如果传承里的承载代表是世家的根骨或是道统，那么这种强烈渴望甚至会变成某种沉重的责任。”",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "某些存在无情地收了回去，他不甘心，所以他想在离开这个世界之前收一个传人，留下自己的衣钵，让自己的传人日后代替自己去清楚地看看那个世界。\n　　神符师拥有真正传人很难，光明大神官想有个真正传人也很难，颜瑟现在有了宁缺，所以他没有遗憾，而他还没有，他甚至以为直到生命结束的那一刻，也不会有，直到他来到长安城",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "何敌人，九霄冬云之上隐隐传来一道怒鸣。\n　　李青山沉默站在将军府外的巷街前端，听着云上那道隐怒燥鸣，缓缓睁开紧闭的双眼，看着已经空无一人的巷中，表情变得愈发凝重。\n　　游走于巷间的那道青龙，发出一声不甘心的低吟，缓缓敛了气息，化剑归鞘。\n　　朱雀没能发现那个人的踪迹，散布在长安城里的所有眼线也没能发",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "长安城，来到临四十七巷，看到桑桑。\n　　老人站在老笔斋门槛外，看着铺内忙碌的小侍女，心中不尽赞叹喜悦满足，甚至感动地快要流下泪来，觉得自己此生虽然屡次违背昊天意旨，但至少在人生的最后阶段，昊天还是仁慈地赐予了自己最珍贵的礼物。\n　　世间再没有比这个小姑娘更适合做光明大神官传人的对象了，因为这个世界上",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

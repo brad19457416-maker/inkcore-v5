@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 661,
+  "chapter_title": "第二十四章 操，是一种人生态度",
+  "filename": "ch_0661_第二十四章 操，是一种人生态度.txt",
+  "char_count": 3653,
+  "timestamp": "2026-04-10T12:05:08.552910",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "我 感到佩服一些。\n\n    磁悬浮电梯-外-侧-，怀草’诗望着浑  身鲜血的许乐，沉默片刻后开口说道：“很抱歉，式曾经承诺过的尊严，今天出了一点意外，不过我可以保证，你会死于枪决，而不是虐杀。”\n\n    半躺着的许乐围  难地睁亓肿胀的双眼，想说些什么，终究却只能无力地喷出几粒血沫，只好无奈地",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "当然杀。    \n\n    许乐回答的很实在，在  可以看到的将来，面前这位公主殿下毫无疑问是 联邦军队最强大蒗可怕的敌人，如果有机会能够提前把她从历史中消灭，任何一名-联邦军人都不会有任何犹豫，哪 怕她是个年轻女人。\n\n    怀草诗笑了笑，能从最优秀的敌方军官口中证实自己的能力，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "之际的恐慌。\n\n    全身瘫痪的虚 纣-者-，似用尽全部体力精力暴出的这四  个字，就像一记惊雷，瞬间传遍整 座宫殿，远处的帝国侍者震惊地抬起头来，近处屏风上的金黄向日葵转过身’去，假装没有听 见。\n\n    怀草诗赔 圆-了 双眼-，不 可置信地望着纷飞棘条下脸色苍白的他，盯着空中喷出的那  些",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "最优秀的敌方军官口中证实自己的能力，    心情不会太差。\n\n    “临死之前 ，有什么话要交待？日后帝国占领联邦，我可以把你的\n\n    这些 话传达给联邦人。”\n\n    帝国占领联邦？虞 弱的许乐没有心思 和她再进行什么口舌之争，围难地眨了 眨眼睛，问道：“这算是交待连言？帝国什么时候对联邦",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "杀。    \n\n    许乐回答的很实在，在  可以看到的将来，面前这位公主殿下毫无疑问是 联邦军队最强大蒗可怕的敌人，如果有机会能够提前把她从历史中消灭，任何一名-联邦军人都不会有任何犹豫，哪 怕她是个年轻女人。\n\n    怀草诗笑了笑，能从最优秀的敌方军官口中证实自己的能力，    心情不会太差",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "骂的脏话。\n\n    棘备无情而羞辱-的抽打，下颌 处的血痕与纷飞艳红的绷带，刺激着许乐的心，于是他愤怒地呐喊出一 句脏话，关于  帝国皇帝母亲的脏话。\n\n    **你妈。\n\n    浩翰宇宙中，谁敢对帝-国皇帝说出这样 的话？不怕死是 远远不足够的，过必须那个人清醒地认识到自己必死，恰好许 乐满",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "第二十四章 操，是一种人生态度 \n\n    被羞辱了，被折磨了，被伤害的的人们，在绝望之时*****会近出一声呐喊；疼痛会令人啜泣，令人辗转反侧，令人咬被角流冷汗，顶椅角面腊黄，有时候也会让 人忍不住骂出平时绝对不会骂的脏",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "近在咫尺的帝国皇帝，身体每摆一记棘条，泛着灰白色的薄薄双唇便会咧亓，重复这样一句脏话”\n\n    和第一次暴骂比起来，后面的声音要微弱很多，可是依然足够清晰。足以让面前的皇帝和身旁的怀草诗听清楚。\n\n    啪的一声棘-条落下，    **你妈，啪的一声棘条再次落下，**一遍你的妈，有-多少记涑条落",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "要交待遗言了吗？许  乐想起了  那年在33 2o的白岩峰顶和白仝兰的对话，伤口凄惨的脸上流露出一丝感慨，沉默很长时 间之后，他望-着 怀’草诗沙-声 说道：“没有什么遗言，我只是想知道封余，也就是你们说的那位纳斯- 里……到底和帝国方面是什么关系？”\n\n    “他是我生命里最-亲近的人之一。政府",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第二十四章 操，是一种人生态度 \n\n    被羞辱了，被折磨了，被伤害的的人们，在绝望之时*****会近出一声呐喊；疼痛会令人啜泣，令人辗转反侧，令人咬被角流冷汗，顶椅角面腊黄，有时候也会让 人忍不住骂出平时绝对不会骂的脏话。\n\n    棘备无情而羞辱-的抽打，下颌 处的血",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "部体力精力暴出的这四  个字，就像一记惊雷，瞬间传遍整 座宫殿，远处的帝国侍者震惊地抬起头来，近处屏风上的金黄向日葵转过身’去，假装没有听 见。\n\n    怀草诗赔 圆-了 双眼-，不 可置信地望着纷飞棘条下脸色苍白的他，盯着空中喷出的那  些血沫。\n\n    这句话想必清  楚地传 入了帝国皇帝的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "这是一种不低头不眨眼不眯 眼只瞪眼盯着你不屈不服不避不惧的人生态度。\n\n    哪怕是你宇宙里最-有权力的人，哪怕你一  句 话便能让亿万人血流成河。可你还是没法  不让-我-操。\n\n    你可以用烙红的铁针缝住我的嘀，可我能用手指写一个大大的操字。你可 以把我的十指全部砍光，我还能在心里不停地默",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "谁敢对帝-国皇帝说出这样 的话？不怕死是 远远不足够的，过必须那个人清醒地认识到自己必死，恰好许 乐满足这两个条件。所以他放肆地说了出来，愉悦自己冰凉愤怒的  心情，平衡恰生死之际的恐慌。\n\n    全身瘫痪的虚 纣-者-，似用尽全部体力精力暴出的这四  个字，就像一记惊雷，瞬间传遍整 座宫殿，远处",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

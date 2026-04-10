@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 115,
+  "chapter_title": "第五十四章 我来听她的演唱会",
+  "filename": "ch_0115_第五十四章 我来听她的演唱会.txt",
+  "char_count": 3475,
+  "timestamp": "2026-04-10T11:53:35.123744",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "对平民食物喜欢的……可怜家伙。\n\n    “我还正在想你会不会来。”邰之源转过身来，对着许乐微微一笑说道：“这张门票是我对你地谢礼，如果你不接受，我会失望。”\n\n    “你既然送给我了，我当然要来，而且以前在通话器里也说过，我从小就喜欢简水儿。”\n\n    许乐向着他那边走了过来。像飞刀一样地眉毛",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "地站在落地窗边，看着舞台上那个远远的身影，看着她换着服装，看着她略带生涩地介绍自己的新歌，看着本应只存在于想像中的她活生生地出现在自己的眼前。\n\n    远在天边，近在眼前。\n\n    这一站便不知道站了多久，那些清曼的歌声曲声不知道换了多少首，许乐的姿式没有丝毫的变化。\n\n    邰之源早就已经不",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "再也控制不住自己的讶异，站起身向着窗边走去。\n\n    许乐静静地看着窗下舞台上那个无比熟悉，又无比陌生的紫发女孩儿，看着她在灯光下像女神一样释放着自己的魅力，觉得自己整个的身体都僵硬了，扶在落地窗边的手指有些发麻。心脏跳的快了许多。\n\n    在简水儿出现在舞台上的那一瞬间，许乐想到了联邦里的一句",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "与酒水安排好之后，对着二人行了一礼，便出了豪华包厢，此时包厢里就只剩下两个年轻人，对话的气氛顿时显得轻松了许多，更像是回到了区的休息室。\n\n    然而对话并没有开始多久，便戛然而止，因为许乐的眼神忽然凝住了，就像是体育馆外的风雪冻成了两道冰柱，一眨不眨，一动不动，怔怔地望着落地窗下。\n\n    体",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "许多。\n\n    在简水儿出现在舞台上的那一瞬间，许乐想到了联邦里的一句谚语：当梦境变成真实，出现在人们地面前，人们总还是会把这种真实当成梦境。\n\n    许乐看见简水儿的第一眼，就觉得舞台上那个紫发女生是不真实的，是只存在于自己梦中的人，觉得此刻的一切都是一场梦。他以为自己此时不听话的僵硬身体，微",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "一些，直到走出了十几米远，还能听到后方那些验票的女孩子们的议论声。他的唇角不由浮起一丝苦笑，今天雪大风大，他依然穿着那件被洗的有些旧了的军风衣，手里却拿着一张贵宾票，确实有些怪异。\n\n    他旋即想到这张门票是邰之源赠予，一想到自己居然莫名其妙结识了一位大家族的继承者，心情愈发地复杂起来。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第五十四章 我来听她的演唱会 \n\n    按照门票上的标识，许乐来到了一个专用的通道。通道处十分安静，让他略感不安，美丽的验票女士在他那张门票的条形码上扫过，又核对了他的芯片第一层身份，脸上露出一丝惊讶，旋即微笑着将他迎了进去。\n\n    “这位置比市长和海议员的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，与那小子呆在一起，肯定会被不停地检查，唯一令他有些不解的是，明明自己的靴子里藏着那把精巧的电击棍，为什么检查自己脚下的特工却有意无意间遗漏了？\n\n    推开包厢沉重的木门，一抹清淡的花香扑面而来，并不会让人觉得发腻，许乐精神一振，看着落地窗畔的那一大盆千星花，看到了约一人高的花树畔。站着一个面色",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "自然流露出那些气息。然而他试图像对待普通人那样对待对方。因为他认为这才是朋友相处地道理。如果他们两个将来能够成为真地朋友地话。\n\n    邰之源并不意外听到许乐这样回答自己。因为他知道许乐是什么样性格地人。他地唇角翘了翘。相当欣赏对方在自己地面前依然表现地如此拧。笑着说道：“简水儿年纪可比你小。如果",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的身体都僵硬了，扶在落地窗边的手指有些发麻。心脏跳的快了许多。\n\n    在简水儿出现在舞台上的那一瞬间，许乐想到了联邦里的一句谚语：当梦境变成真实，出现在人们地面前，人们总还是会把这种真实当成梦境。\n\n    许乐看见简水儿的第一眼，就觉得舞台上那个紫发女生是不真实的，是只存在于自己梦中的人，觉得",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "乐的姿式没有丝毫的变化。\n\n    邰之源早就已经不耐烦陪他站了，坐回了舒适地沙发上，端起一杯低度酒缓缓地饮着。目光时不时地瞥一眼窗外光屏上的简水儿面容，间或闭着眼睛仔细聆听一下这位联邦最红明星的初试啼音，但更多的时候，他的目光是若有所思地落在了窗畔许乐的身上。\n\n    他自认自己很清楚许乐是个什",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "永远不会像许乐那样全情地投入进去。或许这本身就是一种悲哀。\n\n    许乐笑着说道：“那就挺好，我挺担心从你们这些大人物的嘴里，听到这些明星光鲜背后的血泪史……偶像幻灭，对于我们这种人的打击有多大。你应该想不到。”\n\n    “你想的太多了。”邰之源听出许乐这句话里隐藏的意思。哈哈笑道：“我们这些人",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "两个将来能够成为真地朋友地话。\n\n    邰之源并不意外听到许乐这样回答自己。因为他知道许乐是什么样性格地人。他地唇角翘了翘。相当欣赏对方在自己地面前依然表现地如此拧。笑着说道：“简水儿年纪可比你小。如果让她听到你这句话。一定会伤心地吃不下饭去。”\n\n    许乐走到了他地身畔。嗅着身旁传来地千星花",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

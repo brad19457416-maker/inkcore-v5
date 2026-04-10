@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 501,
+  "chapter_title": "第一百四十三章 回营",
+  "filename": "ch_0501_第一百四十三章 回营.txt",
+  "char_count": 3434,
+  "timestamp": "2026-04-10T12:05:08.514421",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "炮，压制帝国火力几十秒时间，整个人的体力早已经消耗怠尽，然而不知道为什么，面对着帝国火力的凶恶追击，逃亡中的他，依然舍不得扔下手中这把沉重无比的枪。\n\n    许乐隐约能够明白大熊心里在想什么，用力抹掉脸上的浮土，咳嗽着大声喊道：“给我！”\n\n    熊临泉没有反应过来。\n\n    许乐一把夺过了沉",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“谢谢。“医疗官凑到对方打燃的火机上点燃香烟，美美地深吸了一口。\n\n    白玉兰微微一笑，说道：“应该是我谢谢你。”\n\n    他本是个沉默宁秀狠辣的兵中利器，无论面对着以前的部队长官还是后来的公司主管，都不曾如此和颜悦色过。然而作为一名老兵，他非常清楚在战场之上，医疗官意味着什么。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "。\n\n    熊临泉手持达林旋转机炮，压制帝国火力几十秒时间，整个人的体力早已经消耗怠尽，然而不知道为什么，面对着帝国火力的凶恶追击，逃亡中的他，依然舍不得扔下手中这把沉重无比的枪。\n\n    许乐隐约能够明白大熊心里在想什么，用力抹掉脸上的浮土，咳嗽着大声喊道：“给我！”\n\n    熊临泉没有反应",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "傍晚时分，天边的淡淡红色斜着打了过来，平添几丝温暖，只是被暮色中的那些钢铁机甲一冲，温暖中瞬间有了血腥的意味。\n\n    菱形基地位于163行星东南深陆地带，巨大的基地内部由高强度塑料搭建了很多临时营房，靠近北纬方向的营房被划分为生活医疗区域。\n\n    此时整个场地间充斥着刺鼻的药水味道",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "弹，从十米后的地面射了进去，然后在十米之前轰然炸开，地面一阵剧烈的震动，强大的力量将许乐的身体崩向了天空。\n\n    天空里也不清静，有弹雨，有烟云，许乐眯着眼睛望去，终于看到了十几驾联邦战机正在高速驶来。\n\n    面对拥有绝对空中力量优势的联邦援军，帝国轻型装甲编队没有任何抵抗之力，也没有办法能",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "旋转机炮的联邦大汉，结果谁也没有料到，就这样死了。\n\n    帝**官愤怒的声音，直接传出了装甲车，进入草甸上方七组队员们的耳中口只是包括许乐在冉的很多人听不懂帝国语，只能感受到帝国人的愤怒，而且他们也能看到……\n\n    三辆帝国装甲车在密集的弹雨与反步兵雷硝烟之中，强行转向草甸西侧，似乎帝国人疯",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "有人死去的战场。\n\n    装甲车上的帝**官看着光幕上的监控画面，脸色铁青，在指挥系统里语气强硬而愤怒地呜噜发布命令，那五名死去的帝国士兵是他的亲兵，原本计划中是摸过去搞掉那个端着达林旋转机炮的联邦大汉，结果谁也没有料到，就这样死了。\n\n    帝**官愤怒的声音，直接传出了装甲车，进入草甸上方七",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，都不曾如此和颜悦色过。然而作为一名老兵，他非常清楚在战场之上，医疗官意味着什么。\n\n    从某种意义上来说，每个军人的生死，都掌握在这些同袍的手中。\n\n    七组有自己的医疗师猴子，包括白玉兰在内的很多老队员也精通战场急救，然而真要处理严重的伤势，他们非常需要这些医疗官。\n\n    更何况看这",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "我的部队，是我们头儿的，就是你刚才治的那个家伙。”白玉兰先轻声解释了一下，芋微涩苦笑说道：“这是我们第一次出任务，结果运气就差成这样，我也无法解释。”\n\n    医疗官将烟卷取了下来，随意地拍了拍白玉兰的肩膀，超薄手套上的血水也自然沾了上去，说道：“不用担心这些家伙，你们的坏运气在战场上就结束了。这",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "好或者差的消息，都没有令白玉兰皱眉动容，只是点了点头。\n\n    医疗官有些欣赏他的反应，沉默片刻后感慨说道：“就凭你们这些装备，能够顶住帝国人这么久，也真不容易，听说基地主官都吓了一大跳，骂了好久的娘”…说起来，你们是哪支部队铆”\n\n    “白水，七组。”白玉兰简洁明了地回答道。\n\n    “白",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "帝国人疯狂之下，准备用三分之一的强大火力，去掀翻只有熊临泉许乐两个人的单薄西侧防线。\n\n    听着沉重的金属构件声和履带撕地声，刚刚生里逃生的许乐脸色顿时变得更加苍白。\n\n    “头儿，快跑！”\n\n    身后草甸上传来熊临泉惶急的暴喝声，这名大汉手里的达林旋转机炮已经打完了所有的子弹，而他撤退",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "并没有开过枪，于艰险时分，隔着上百米的距离两枪精准如斯夫毙人于刹那。\n\n    七组新老队员的耳机里同时响起了这个声音，这代表着联邦空中支援抵达此地还有多长时间。\n\n    时间不可能真的被冻结，零点零几秒的沉默只是心理上的幻觉，随着这个声音，一应沉默震惊被击碎，子弹呼啸再起，惨呼再起，泥潭还是那个",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "医疗官将烟卷取了下来，随意地拍了拍白玉兰的肩膀，超薄手套上的血水也自然沾了上去，说道：“不用担心这些家伙，你们的坏运气在战场上就结束了。这么一场烂仗胡打，居然一个人没死，不过要截肢的可能有好几个。”\n\n    无论是肩上的血水，还是这个好或者差的消息，都没有令白玉兰皱眉动容，只是点了点头。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "人的咆哮声与枪火声，只能听到自己越来越沉重的呼吸声和脚步声。\n\n    “十，九……”\n\n    他从来不知道原来奔跑也是如此痛苦的一件事情，尤其是当你每一步都可能迈入死亡的时候，这种折磨，实在是令人感到无穷的恐慌与绝望。\n\n    “七，六……”\n\n    空中的支援究竟还有多久才到？自己和七组的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "此时整个场地间充斥着刺鼻的药水味道，负压治疗舱的低沉嗡鸣与幔布后方传来的惨叫声混在一起，让四周的人们脸色有些沉凝或者说难看，那些皱着的五官就像是被医疗胶水粘住了似的，难以舒展。\n\n    一名佩着上尉肩章的医疗官走出临时手术室，他揉了揉发红深陷的眼眶，准备点根香烟来犒劳一下自己疲惫的身体，他所率",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "一根香烟递了过来，医疗官有些愕然地抬头，看到了面前站着一个男人，这个男人浑身上下透着股柔顺宁静，却又蕴着丝丝阴寒的味道，更令他有些想不明白的是，这个人居然没有穿军装。\n\n    “谢谢。“医疗官凑到对方打燃的火机上点燃香烟，美美地深吸了一口。\n\n    白玉兰微微一笑，说道：“应该是我谢谢",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "。\n\n    …………\n\n    …………\n\n    傍晚时分，天边的淡淡红色斜着打了过来，平添几丝温暖，只是被暮色中的那些钢铁机甲一冲，温暖中瞬间有了血腥的意味。\n\n    菱形基地位于163行星东南深陆地带，巨大的基地内部由高强度塑料搭建了很多临时营房，靠近北纬方向的营房被划分为生活医疗区域。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 591,
+  "chapter_title": "第二百二十五章 求亲不顺",
+  "filename": "ch_0591_第二百二十五章 求亲不顺.txt",
+  "char_count": 3489,
+  "timestamp": "2026-04-10T12:05:08.583346",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "务官，可以把施清海留在楼下，却无法阻止楼上那位大小姐走下来。\n\n    部郁今天穿着一件正红色的短边风衣，黑中夹金的可可风腰带在她平坦的小腹部会合，将身材勾勒的异常曼妙。她蹙着眉尖望着沙中的男人，厌恶说道：“你在信中答应过我，不会来打扰我们的生活。”\n\n    这里的我们指的是部郁和她最宝贝的孩子，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "光沉默许久，终究还是没有吸，将烟草放到石片上，任由那些淡青色的烟缓慢地释入于宴气之中。\n\n    “第一次看到你的时候。是在星河公墓沈老教授的葬礼上。那天下着雨，在大树底下，我对你说，既然你主动要背这个锅，就要把这个锅背好。”\n\n    部部长抬起头来，目光平静却充满压迫感：“雨天树下，是很容易遭雷",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "许乐应了声，低头跟了过去去。眼光敏锐地查觉到部长先生衣袖里的手臂似乎在微微颤抖，这是因为愤怒还是别的什么原因？\n\n    施清海的眉尖微微蹙起，他若有所思望着消失于楼梯间的二人背影，摇摇头后准备跟着进入书房小然后当他的脚距离第一道木阶还有十厘米时，焦秘书和两名目光平静的特勤卑拦住了他的去",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "确实是个优秀的人。”\n\n    “不是国防部长在调查他。而是一位父亲在调查他。”部应星的声音显得有些感慨淡然，“一个**军的间谍，天天在西山大院的墙外拉小提琴，如果这样还弄不明白究竟生了什么，只能说这名父亲太失职。”\n\n    许乐一惊之后默然，此时他才知道，原来部长早就已经确定流火的亲生父亲是谁。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "了揉头，露出阳光而英俊的笑脸，说道：“我今天来的目的，就是想娶你当老婆。”\n\n    部郁脸上的嘲讽瞬间消失，怔怔地僵硬背后是震动与莫名其妙的难堪。她微微低头一味冷笑以掩饰心中的情绪，片刻后说道：“这玩笑并不好笑。”\n\n    “这不是玩笑，就在刚才，我已经向你父亲正式求婚。因为我已经没有家人，所以",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "十几分钟之后，他终于看完了今天需要抓紧审阅的文件，摘下眼镜。揉了揉眉心，站起身来沉默片刻。望着许乐说道：“你是想说，这个人才是我孙子的父亲？”\n\n    沉默终于被打破，许乐大松了一口气，默然无语点点头。施清海此时极有眼色的没有任何多余的动作和多余的话语，只是安静地在一旁等待。\n\n    部部长没",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "然而部部长脸上的表情没有丝毫表化，安静阅读着文件，眼镜片上反射着淡淡光点，根本没有面前这个人的存在。\n\n    十几分钟之后，他终于看完了今天需要抓紧审阅的文件，摘下眼镜。揉了揉眉心，站起身来沉默片刻。望着许乐说道：“你是想说，这个人才是我孙子的父亲？”\n\n    沉默终于被打破，许乐大松了一",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "部郁明媚的眼眸里闪过一丝不解与恼怒，坐在单人位沙上，漂亮的脸蛋儿闪过浓重的讥讽，问道：“你究竟想做什么？”\n\n    “看来刚才的解释方式还是显得过于文艺了一些。”施清海取下军帽，胡乱地揉了揉头，露出阳光而英俊的笑脸，说道：“我今天来的目的，就是想娶你当老婆。”\n\n    部郁脸上的嘲讽瞬",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "时，焦秘书和两名目光平静的特勤卑拦住了他的去路。\n\n    脸上泛起一丝自嘲的苦笑，施清海望着面前的人们，叹息着说道：“本来是挺美好的事情，我们何必把他弄的如此复杂？”\n\n    “请坐，请坐在沙上，请不要让我们难做。”焦秘书微笑着将他请回沙，亲手泡上一杯热茶，然后便不再理他。\n\n    堡垒总是被",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的什么原因？\n\n    施清海的眉尖微微蹙起，他若有所思望着消失于楼梯间的二人背影，摇摇头后准备跟着进入书房小然后当他的脚距离第一道木阶还有十厘米时，焦秘书和两名目光平静的特勤卑拦住了他的去路。\n\n    脸上泛起一丝自嘲的苦笑，施清海望着面前的人们，叹息着说道：“本来是挺美好的事情，我们何必把他弄",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "“国防部长听到施清海这个名字，就能知道很多情报，这一点我并不意外。”许乐试图缓解书房中的紧张气氛，干涩笑了笑，说道：“不过这至少从另一个方面证实。他确实是个优秀的人。”\n\n    “不是国防部长在调查他。而是一位父亲在调查他。”部应星的声音显得有些感慨淡然，“一个**军的间谍，天天在西山",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "这种味道对站在他面前的施清海或站在门口的许乐来说，都是一种折磨。 整个客厅中没有谁敢开口说话，绝对的安静中，呼吸声渐渐可闻，墙上老式挂钟指针嘀嗒行走音符也越来越清晰，甚至能够隐隐听到楼上似乎有孩童正在哭闹。\n\n    施清海依然保持着恭谨的微笑。然而宁静平伏着的眉毛里已有湿意开始蕴积，一片沉默中，他",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "声说道，这位英俊至极的花样男子，一旦如此诚挚的展现居家般的温柔，而不是夜店里的魅惑，竟显得那般亲切和温暖。\n\n    部郁被这抹笑容闪着了眼，她眯着眼睛，怔怔地看着对方，想到先前许乐亲眼目睹了这一幕，想到这一年来面前这个男子的纠缠，诸般复杂情绪涌上心头，竟有些淡淡悲伤与无措、羞怒以及厌帐，或者是某种",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "底下，我对你说，既然你主动要背这个锅，就要把这个锅背好。”\n\n    部部长抬起头来，目光平静却充满压迫感：“雨天树下，是很容易遭雷劈，如此看来，从一开始我对你的信任本身就不怎么可靠。”\n\n    “我明白，所以只要郁子愿意，我可以一直背下去。但是部长您应该清楚，我只能负责背锅。和锅本身却没有什么关",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

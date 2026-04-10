@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 948,
+  "chapter_title": "第一百二十一章 燎原",
+  "filename": "ch_0948_第一百二十一章 燎原.txt",
+  "char_count": 3437,
+  "timestamp": "2026-04-10T12:11:27.529197",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "吃？”\n　　僧人说道：“因为你和我很像，师父说我是好人，那你也是好人。”\n　　宁缺看着他憨傻的模样，心想自己哪里和你像了？问道：“你是谁？”\n　　僧人憨憨说道：“我叫青板子。”\n　　宁缺看他的神情和说话语调，便知道此人心智大概有些发育不全，随意问道：“青板子从哪里来？”\n　　青板僧不肯回答，把馒头举",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "乱者的围剿始终没有停止，然而非但始终没有成功，甚至让叛乱者的队伍变得越来越大，有数名游方的苦修僧也在战斗中死去。\n　　地底世界开始流传这支叛军的消息，一起流传的，还有叛军找到通往真正极乐世界方法的传说，对自由的先天渴望，对疾苦与不平等的先天憎恨，让这支叛军拥有了越来越多的同情者，甚至开始有人开始响应",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "极遥远外的那道崖壁上，崖上有人，他要负责的是崖下的世界。\n　　数十个部落的贵人武装联合，经过数十日的拼命厮杀，终于将那些奴隶拦在了这片废弃金场旁的草甸前，悬空寺更是派来强大的僧兵和强者，按道理来说，战争的胜负已经失去了悬念，但七念依然有些隐隐不安，因为他总觉得那个人不会就这样轻易地承认失败。\n　　地",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "不在小院里，而是在院外的溪畔树下，听到宁缺的脚步声，她没有转身看他，而是继续看着天，鬓间的小白花在夜风里轻颤。\n　　宁缺走到她身边，对今天忘记做晚饭一事表示了最真挚的歉意。\n　　桑桑的心情很好，因为她看了整整一天的天，天很好看，她早就忘记了要吃饭的事情，所以对宁缺展示了自己宽容。\n　　当天夜里，在院",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "信徒，早已变成了嗜血的修罗，然而如果杀人便是罪孽，其实这里一直都是修罗场。\n　　百余名僧兵手持铁棍，来到这片血腥惨烈的战场外围，缓缓停下前进的脚步，座骑渐分，四名戴着笠帽的僧人走了出来。\n　　为首的那名僧人面容质朴，神情坚毅，即便是笠帽的阴影，也无法掩去他眼睛里的宁静禅意，正是佛宗行走七念。\n　　另",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "在湖边看天。\n　　日子就这样持续着，晨钟与暮鼓里，宁缺与桑桑看湖看天看佛经，心静意平，喜乐安宁，时间缓缓流逝，渐渐不知年岁。\n　　……\n　　……\n　　明亮的钟声回荡在雄峰的山峰间，回荡在数百座寺庙里，不知惊醒了多少僧人，与悬空寺以往悠扬静远的钟声相比，今天的钟声显得那样强硬，甚至隐隐带着些焦虑的情绪",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "温言道歉。\n　　僧人看着宁缺的脸，忽然怔住，忘了疼痛，忽然变得高兴起来，把馒头伸到他的眼前，眉开眼笑说道：“我请你吃。”\n　　宁缺觉得好生突然，问道：“为何要请我吃？”\n　　僧人说道：“因为你和我很像，师父说我是好人，那你也是好人。”\n　　宁缺看着他憨傻的模样，心想自己哪里和你像了？问道：“你是谁？",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "静静地看着天，觉得天很好看，又觉得这片天有些奇怪。\n　　有一天，宁缺说白塔寺里也能看天，桑桑觉得很有道理，便跟着他去了白塔寺，好虽然不喜欢寺里的素斋和那些和尚，但觉得那片湖很美丽，湖里倒映出来的天又是一番好看，于是她便开始坐在湖边看天。\n　　日子就这样持续着，晨钟与暮鼓里，宁缺与桑桑看湖看天看佛经，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "了，此人大概是个弃婴，被亲人抛弃，扔到白塔寺外的石阶上，然后被寺中僧人收留，就这样长大成人。\n　　“为什么你说我和你长的很像？”他好奇问道。\n　　青板僧抿了抿嘴唇，有些害羞说道：“师父说我是痴儿，有宿慧，寺里的师兄弟们也都说我痴，你先前看着也挺痴的，那你自然有契根。”\n　　宁缺心想，一代高僧莲生便在",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的僧人是修行者，对地底原野的农奴们来说，就是曾经顶礼膜拜的活佛，无论从精神上还是从力量上，这些僧人的出现，对叛乱的农奴都是最致命的打击。\n　　在很短的时间里，地底世界的绝大多数叛乱都被镇压了下去。\n　　然而某些事情一旦开始便很难结束，某些思想一旦产生便很难泯灭，某些篝火一旦点燃便很难被浇熄，草甸间的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "并且还能借此向信徒们证明神山的强大，何乐不为？\n　　但这次的农奴叛乱和过去无数次叛乱，非常不一样。贵人们集合了两百名骑兵去镇压那支百余名老少病弱牧羊人组成的罪人，依然没有成功，于是他们集结了更多的军队，却还是没有成功，到后来贵人们出动了千名骑兵，甚至还请来了专门的猎奴人，却还是无法成功。\n　　对那些",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "怔住，忘了疼痛，忽然变得高兴起来，把馒头伸到他的眼前，眉开眼笑说道：“我请你吃。”\n　　宁缺觉得好生突然，问道：“为何要请我吃？”\n　　僧人说道：“因为你和我很像，师父说我是好人，那你也是好人。”\n　　宁缺看着他憨傻的模样，心想自己哪里和你像了？问道：“你是谁？”\n　　僧人憨憨说道：“我叫青板子。”",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "地底世界开始流传这支叛军的消息，一起流传的，还有叛军找到通往真正极乐世界方法的传说，对自由的先天渴望，对疾苦与不平等的先天憎恨，让这支叛军拥有了越来越多的同情者，甚至开始有人开始响应。\n　　和崖畔部落的叛乱很相似，地底世界别的部落叛乱，往往也是由牧羊人发起的，那些世代生活在天地之间，与牛羊相伴，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

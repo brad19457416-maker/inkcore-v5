@@ -1,0 +1,37 @@
+{
+  "novel": "间客",
+  "chapter_number": 1039,
+  "chapter_title": "第二章正在写，有个重要问题要向大家报告一下：",
+  "filename": "ch_1039_第二章正在写，有个重要问题要向大家报告一下：.txt",
+  "char_count": 198,
+  "timestamp": "2026-04-10T12:05:26.960835",
+  "techniques_count": 2,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "希望汉克好好对她。\n\n    在此祝他们两口子百年好合，白头谐老，这话老但意思很好。\n\n    话说为什么这么急？都没有通知我，我不会是搞乌龙了吧？再合什。小说^t*xt-天.堂\n\n\n\n第四卷星光流年",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第二章正在写，有个重要问题要向大家报告一下：\n\n    limj李或者说朵朵同学今天要和汉克同学结婚了。\n\n    这两口子是看俺书认识的，所以我很欣慰啊。\n\n    朵朵也算是远嫁了，像我一样，希望汉克好好对她。\n\n    在此",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

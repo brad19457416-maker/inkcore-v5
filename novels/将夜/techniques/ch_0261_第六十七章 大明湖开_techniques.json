@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 261,
+  "chapter_title": "第六十七章 大明湖开",
+  "filename": "ch_0261_第六十七章 大明湖开.txt",
+  "char_count": 3499,
+  "timestamp": "2026-04-10T12:11:21.692808",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "法坚持下去，那么便是毁灭之时。\n　　局面似乎进入了一种死局，两个人都太狠，狠到看不到这个死局的结尾，最终是生存还是死亡，似乎只能取决于谁能坚持到最后。\n　　在这种情况下，有一名少女符师似乎被人遗忘了，但她是书痴，怎能被人遗忘，事实上最终解开这个生死之局的人，便是她。\n　　……\n　　……\n　　莫山山站",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第六十七章 大明湖开\n　　很高的地方听说都很寒冷，道痴叶红鱼境界很高，她随意一念洒向湖畔如暴雨般的万柄道剑也很寒冷，湖水凝成的剑身蒙着淡淡的霜，已然成冰。\n　　万柄冰霜剑，遮蔽了来自山谷上方苍穹的天光，黑压压一片来到湖畔，就在这时，一朵伞花开于万剑之前，花色如夜空一般漆黑，顿时让万剑失色。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "大明湖消失无踪，湖水失了涛声，水雾遮掩一切。\n　　那股悠远古老的气息，汇聚在浓郁的水雾里，骤然暴涨，瞬间占据整座青翠的山谷，再过瞬间漫上奇崛的雪峰，最终直冲遥远灰暗的天苍。\n　　仿佛要把这片天掀开一般。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "甚至反而被对方重伤了身躯。\n　　肩头凄惨的伤口，掌心还微热的血水，上臂处紧粘着的血珠，都让叶红鱼感到愤怒羞辱甚至疯狂，但她的眼眸却像那些水鳞凝冰结成的剑般开始燃烧起来，透出一份狂热的冰冷――只有面对真正值得尊重的对手，这种眼神才会出现。\n　　为了证道，她于西陵桃山上觅强者，于四海野地觅遗辈，这些年来",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "看来果然如此，道痴不止境界高妙，更震撼的是她在战斗中所表现出来的毅力决心眼光和无穷无尽的手段，忍不住心想：“居然这样都杀不死你？看来必须要想办法杀死你。”\n　　……\n　　……\n　　虽说不是符师本人发动，所以大明湖上这道缚字符的符意失了几分妙处，但这道缚字符毕竟是颜瑟大师写的神符，无论符力持续时间还是",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "宁缺曾经听闻西陵神殿掌教曾经称赞道痴万法皆通，如今看来果然如此，道痴不止境界高妙，更震撼的是她在战斗中所表现出来的毅力决心眼光和无穷无尽的手段，忍不住心想：“居然这样都杀不死你？看来必须要想办法杀死你。”\n　　……\n　　……\n　　虽说不是符师本人发动，所以大明湖上这道缚字符的符意失了几分妙处，但",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "就像刚刚写好一幅淋漓墨卷的枯笔，投向瓮里的清水，想要濯清自己。\n　　大明湖清澈的湖水里，骤然多出无数条极细的血丝，仿佛朱砂。\n　　以这一笔为引，一股悠远古老的气息自湖底生出，令人心生震撼膜拜之感。\n　　大明湖活了过来，湖水蒸腾翻滚，水雾笼罩山谷。\n　　大明湖消失无踪，湖水失了涛声，水雾遮掩一切。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "用万柄道剑把宁缺和莫山山压制的无法还手！\n　　宁缺曾经听闻西陵神殿掌教曾经称赞道痴万法皆通，如今看来果然如此，道痴不止境界高妙，更震撼的是她在战斗中所表现出来的毅力决心眼光和无穷无尽的手段，忍不住心想：“居然这样都杀不死你？看来必须要想办法杀死你。”\n　　……\n　　……\n　　虽说不是符师本人发动，所",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "和莫山山都会死。\n　　破指间流淌下来的鲜血没有滴落到地面，而是顺着黑伞伞骨淌到伞面上，骤然间他识海里出现了一抹亮光，可惜在这种时刻，他实在是没有精力去寻找那道亮光的真实模样，只能盯着黑糊糊的伞面，盼望着道痴的念力赶紧衰竭。\n　　虽说在箭射隆庆皇子之后，他就很清楚自己与神殿，尤其是那位道痴已然成为生死",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "冷，湖水凝成的剑身蒙着淡淡的霜，已然成冰。\n　　万柄冰霜剑，遮蔽了来自山谷上方苍穹的天光，黑压压一片来到湖畔，就在这时，一朵伞花开于万剑之前，花色如夜空一般漆黑，顿时让万剑失色。\n　　生死关键时刻，宁缺撑开了大黑伞。\n　　这个选择毫不出乎意料，甚至就像那些被人看厌了的陈词滥调，然而正如同文章里的陈词",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "闷的撞击声，道剑无法刺破伞面，伴着强大的冲撞力量纷纷碎成冰屑，然后化为水雾消散在黑伞之前。\n　　撑伞同时，宁缺把莫山山拉到自己身后，大黑伞很大，两个人半蹲在伞下，头顶仿佛多出一片半圆形的黑夜，没有留下任何缝隙。\n　　道剑无法刺破大黑伞，但上面蕴积着的恐怖冲击力却留在了伞面上，然后顺着不知什么材料制成",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "海里出现了一抹亮光，可惜在这种时刻，他实在是没有精力去寻找那道亮光的真实模样，只能盯着黑糊糊的伞面，盼望着道痴的念力赶紧衰竭。\n　　虽说在箭射隆庆皇子之后，他就很清楚自己与神殿，尤其是那位道痴已然成为生死之敌，但他落在黑伞上的目光，依然止不住生出很多赞叹与佩服。\n　　颜瑟大师亲自书写的锦囊神符，集合",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "的目光，依然止不住生出很多赞叹与佩服。\n　　颜瑟大师亲自书写的锦囊神符，集合了书院后山智慧与能量的划时代元十三箭，再加上已经悟了半道神符的书痴莫山山，这是怎样的力量？\n　　虽说道痴在雪崖上晋入知命，但如果是普通的知命境初品大修行者，这样的力量和宁缺藏着的大凶险手段，只怕也只能命丧当场，面对宁缺和莫山",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "合了书院后山智慧与能量的划时代元十三箭，再加上已经悟了半道神符的书痴莫山山，这是怎样的力量？\n　　虽说道痴在雪崖上晋入知命，但如果是普通的知命境初品大修行者，这样的力量和宁缺藏着的大凶险手段，只怕也只能命丧当场，面对宁缺和莫山山还有那些隐藏着的大凶险手段，只怕也会命丧当场，然而道痴却没有死。\n　　虽",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

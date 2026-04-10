@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 257,
+  "chapter_title": "第一百九十五章 指挥大厅的风波",
+  "filename": "ch_0257_第一百九十五章 指挥大厅的风波.txt",
+  "char_count": 4685,
+  "timestamp": "2026-04-10T12:04:51.104541",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "接过了总统先生手中的文件，然后用余光瞥去，然后现席格总统不引人注意地点了点头。\n\n    布林拖在了人群的后面，取出了加密电话拔通了一个号码，片刻后轻声说道：“夫人，果壳的表现很不错。”\n\n    向指挥大厅走过去的联邦大人物们，没有谁注意到布林副主任打的这个电话。\n\n    走到席格总统身后一步的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "是。新式机甲之战就是近身格斗。如果想杀敌。想不被敌杀。便只有进入超频作战状态。”\n\n    “超频很危险。帝国皇家机甲营里那些野蛮崽子们。满脑子地杀身成仁地狗血思维。他们会怕这种危险吗？他们当然不怕。那我们呢？联邦军队地机师就算怕。也只能不怕。因为怕就要死！”\n\n    “所以我说。在今后地行星地表",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "超频状态不到三分钟便会爆机的机甲，哪里还能有丝毫胜算？\n\n    林远湖平静的脸庞愈显苍老，先前强行压抑下来的情绪，因为联邦军方的表态，又开始在他枯朽的身躯里肆虐，他下意识轻轻按了按左边的胸膛。\n\n    他沉默许久之后说道：“稳定性的问题不是不能解决，现问题才能解决问题。紫海的优异性能，如果能解决",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "然而果壳工程部的技术人员们却不干了，他们根本不理会看台上有多少高官名将，甚至连总统阁下的存在都遗忘的一干二净，吹着口哨，开始起哄。\n\n    台上那名科学院的教授此时却冷静了下来，就当自己没有听见果工程部的起哄，极为诚恳说道：“如果能够解决那个故障，紫海机甲的优越性能保留下来，我认为，这",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "热，只需要进行相应的设计改造，便能解决这个问题。\n\n    听到这句话，商秋微微一震，不明白何塞主管为什么要在此时说这句话，就算公司猜到了自己呆会儿上台后要做什么，可这不是应该做的事情吗？\n\n    “我已经请示了总裁先生。”何塞主管低下头轻声说道：“既然已经赢了，就不要再多生事端了。毕竟都是联邦里",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "邦树立起来一个英雄人物并不容易……”\n\n    这句话有很多未尽之意。\n\n    席格总统表情阴沉，心想这位老师真是越混越回去了，居然用费城那个不视事的元帅来压自己这个现任的总统，缓缓说道：“这件事情不用你操心了。我先前已经签了命令，此次机甲对战详情完全保密，宪章局列入第五序列事件。”\n\n    …",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百九十五章 指挥大厅的风波 \n\n    机甲标准之争中，身为军方最重要人物之一的迈t[曾经偏向于联邦科学院的紫海机甲，一方面是受到某些人的劝说影响，一方面是因为他尊重林远湖院长，从军数十年，他比谁都清楚，联邦科学院为联邦军",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "默许久之后说道：“稳定性的问题不是不能解决，现问题才能解决问题。紫海的优异性能，如果能解决这个问题，将来在战场上，也能让联邦优秀的年轻人们取得更大的优势。”\n\n    “先听一下技术报告再说。”席格总统毫不客气地打断了林远湖的解释，没有给这位联邦学术界领袖留任何面子，直接走出了会议室。\n\n    在",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "止了国家安全顾问地插话。继续说道：“我们都知道超频作战是非稳定特异状态。正常战斗中。没有哪个机师愿意进入这种状态。可问题是。新式机甲之战就是近身格斗。如果想杀敌。想不被敌杀。便只有进入超频作战状态。”\n\n    “超频很危险。帝国皇家机甲营里那些野蛮崽子们。满脑子地杀身成仁地狗血思维。他们会怕这种危",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，让这支铁打一般的军队，并未在星际的繁华中迷失方向。这些军方大佬，在事涉联邦军队战斗力的大事面前，会马上抛弃自己曾经拥有的私人立场，而完全站在联邦的角度上考虑问题。\n\n    今天的对战结果已经出来了，林远湖院长先前的那一席话，让席格总统感到非常不满意，而迈尔斯上将的心里也涌起了一丝不悦的情绪。联邦",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "席格总统表情阴沉，心想这位老师真是越混越回去了，居然用费城那个不视事的元帅来压自己这个现任的总统，缓缓说道：“这件事情不用你操心了。我先前已经签了命令，此次机甲对战详情完全保密，宪章局列入第五序列事件。”\n\n    ……\n\n    ……\n\n    “真空环境中的辅助飞翼效果并不能真正体现出来，但卡",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "次对战的看法。\n\n    “总统先生一直亲自关注新式机甲的研制工作。”迈尔斯上将冷冷地环视四周，解释说道：“之所以如此，此时会议室中的大家其实都很清楚，那是因为从帝国那边得来的情报，帝国方面的新式机甲研制已经开始，并且取得了突破，至于取得了何种层次的突破，我们却无法知道。”\n\n    “今天的对战大",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "性。是联邦军方最急需地要求。”\n\n    “性能很重要。稳定性更重要。军队采购向来执行这个标准。我们从来不会让自己地年轻人们。去冒这种风险。”\n\n    ……\n\n    ……\n\n    迈尔斯上将的这番言很简略，但会议室里的人们都是老谋深算之人，自然明白了他的意思。联邦与帝国间的战斗，便将是新式机甲",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

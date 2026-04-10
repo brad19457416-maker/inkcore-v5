@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 528,
+  "chapter_title": "第一百七十章 师道",
+  "filename": "ch_0528_第一百七十章 师道.txt",
+  "char_count": 3456,
+  "timestamp": "2026-04-10T12:05:08.562803",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "起右手整齐无比地向许乐敬礼，然后大声喊道：“教官好！”\n\n    时间就像是回到了十个月前，在Ｅ那个秘密的作“基地中，在课堂上，在机甲“练场旬，班长赫雷喊话，全班军官学员集体敬礼，带着大墨镜的铁血教官Ｅ日山巴ｎｈ冷漠地点点头，然后众人才敢坐下。\n\n    许乐的眼睛微眯，表情冷的像块黑冰一般。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "部科长听着这话，眉头一皱，正准备壬斥几句，忽然看见身旁那名军官，便马上闭嘴，心想你和他们相熟，总部才紧急调你过来安抚，此时正是该你上场的时候。\n\n    花小司如今已经是西林军区某机甲大队的副队长，此次回主星休整，也是要参加三天后的嘉奖大会，谁知道正在家里喝汤的时候，接到上级电话，让他赶到宪兵总部。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "情，拍着桌子骂娘，砸下茶杯骂爹，污言秽语震的玻璃窗不停摇晃，这种昂扬狠厉的情绪，让其它部队的军官们也激动起来，加入了骂战的队伍。\n\n    “这事儿你们要是不给个交待，以后青龙山的猴子，我们见一次揍一次！”\n\n    “算我一个！早看那帮泥腿子不顺眼了。”\n\n    “放人，马上放人！”严惩那些清龙",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "一个行事阴险无耻的兔爷，负责接待诸位旦官的西林宪兵总部科长，脸色十分难看，他看着那名联邦舰队的少校，心想你那几名下属如果真只是看热闹，那怎么会看的鼻清脸肿，浑身是血？\n\n    想是这般想，科长却不敢讥讽嘲弄会议室里的军官们，尤其是闹的最凶的那几人这几人都是联邦军方重点培养的中层实力派军官，在这几个",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "刀上的亮光，脸上黑沉一片，极为难看。\n\n    “在夜市里是我的开的枪，你们想怎么处治我？”会议室里骤然一乱，然后逐渐安静，唯有赫雷团长带着的那名参谋官，犹自愤愤不平地怒骂着。\n\n    此人无比恼火战友们的遭遇，骤然发现许乐推门而入，自承其事，双眼一瞪，指着他的鼻子吼道“原来是你小子！胆量不错，居",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "这本来就是二军区和青龙山之旬的问题，关我们回明舰队什么事呢？被你们逮了的四名军官只是正常休假，离开长风基地，看见夜市里面有热闹，在旁边多看了两眼，就被你们抓了回来，这还有没有天理？说道他们团要去强力你们要是不放人，战舰都没办法开动，联邦怎么往前线输送军员？”听到这句话，最开始那名骂的最凶的军官皱紧了",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "个月的军事行动中立下了赫赫战功，已经成长为著名的战斗英雄。\n\n    此时这些军官之所以会远离前线，出现在落日州替各自部队捞人，就是因为他们将要参加三天后的前线嘉奖仪式。\n\n    像这样的人，宪兵总部哪里肯轻易得罪。\n\n    赫雷中校看着这名科长没有任何反应，怒上心头，用力一拍桌面，大声说道：“",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "机甲“练场旬，班长赫雷喊话，全班军官学员集体敬礼，带着大墨镜的铁血教官Ｅ日山巴ｎｈ冷漠地点点头，然后众人才敢坐下。\n\n    许乐的眼睛微眯，表情冷的像块黑冰一般。\n\n    他本是个温和若春阳的家伙，即便收拾七组那群老爷兵时，也以沉就行动为主。但不知道为什么，对着这批联邦最有前途的军官学生时，他却",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "解开的领扣。\n\n    这般诡异的一幕，让这名参谋的身体有些僵硬，依然指着许乐鼻子的手臂，忽然旬变得沉重了许多。\n\n    赫雷团长狠狠地一巴掌扇到了他的后脑勺上，又手忙脚乱地拍掉军装上正在燃烧的烟头，赶紧推开椅子站了起来。\n\n    弥塞留，林爱，花小司几名青年军官也随之忙乱地起身，带着难以掩饰的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "你在宪兵总部里闹能有什么用？你总得给我一点儿面子吧？”“花小司，我就是看在同学一场的面子上，才在这里慢慢和这些宪兵唠。”赫雷中校冷冷看着他说道：“要换成别的地方，老子直接拖一个团的人过来，把这幢***宪兵大梭给端了。”花小司脸色微变，气极反笑，尖刹说道：“是啊，您是谁啊？都升团长了，中校了，追上教官",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "？”另一名军官生在他的身旁，怒意十足地盯着宪兵总部的军官，脱下带着脚臭的军靴，用力地拍打着桌面，大声说道：“不就是打了几个止里的猴子，用得着搞成这样？”“就是。”先前那名军官阴沉着脸说道：“你们在乎什么政治影响，我可不在乎，我只是要带我的人回去！后天我们团就要去刻力，你们却***把我的电控官关了起来",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "狠厉的情绪，让其它部队的军官们也激动起来，加入了骂战的队伍。\n\n    “这事儿你们要是不给个交待，以后青龙山的猴子，我们见一次揍一次！”\n\n    “算我一个！早看那帮泥腿子不顺眼了。”\n\n    “放人，马上放人！”严惩那些清龙山的凶徒！”\n\n    “洱有那群雇佣军是什么来头？***，居然敢对",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "在拿臭军靴敲打桌面的军官听着这话，猛地跳了起来，指着花小司的鼻子骂道：“你到底是哪边的？我们一军区可从来没有拿你们西林军区当外人，我的人都是搞导弹定点测算的好手，你把人逮了，前线怎么办？那边可大部分是你们西林的人！\n\n    花小司把双眼一瞪，盯着这个身材瘦小的军官，根本不怯他，拍着桌子，用更大的声",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "力：“这本来就是二军区和青龙山之旬的问题，关我们回明舰队什么事呢？被你们逮了的四名军官只是正常休假，离开长风基地，看见夜市里面有热闹，在旁边多看了两眼，就被你们抓了回来，这还有没有天理？说道他们团要去强力你们要是不放人，战舰都没办法开动，联邦怎么往前线输送军员？”听到这句话，最开始那名骂的最凶的军官",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

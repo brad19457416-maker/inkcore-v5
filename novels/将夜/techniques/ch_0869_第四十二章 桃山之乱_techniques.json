@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 869,
+  "chapter_title": "第四十二章 桃山之乱",
+  "filename": "ch_0869_第四十二章 桃山之乱.txt",
+  "char_count": 3232,
+  "timestamp": "2026-04-10T12:11:27.372192",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "不如这些南海来人。\n　　赵南海看着巨辇里的掌教，面无表情说道：“光明神殿无主近二十年，道门奉天伐唐，最终却毫无收获，反而损失惨重，天谕神座归神国已有数月，依然没有定下传承，掌教大人堪称昏庸。”\n　　场间一片大哗，谁也没有想到，这些南海大神官的传人，除了想要重新执掌光明神殿，居然似乎还想把掌教从桃山之",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，看着南海诸人漠然说道：“南海大神官传人……不过如此。”\n　　赵南海看着金帐国师说道：“难怪能与唐国对峙多年，果然了得。”\n　　金帐国师和大将展露了强大的境界修为，能够与唐国争锋多年，这并不出乎场间众人的意料，真正令人们感到震撼的还是南海一脉。\n　　这两场比拼都是南海输了，但人们瞧得清楚，赵南海的境",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "来到人间，不再是我所信仰的昊天，但就像昊天那样，她必然是绝对客观公正的，我替昊天道门做了这么多事，她为什么要杀我？我的生存是用我的信仰换来，无人能破。”\n　　中年道人说道：“那南海诸人？”\n　　观主说道：“若能活着，便是日后的道门，若死去便请安息。”\n　　……\n　　……\n　　西陵神殿，桃山前坪。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "国对峙多年，果然了得。”\n　　金帐国师和大将展露了强大的境界修为，能够与唐国争锋多年，这并不出乎场间众人的意料，真正令人们感到震撼的还是南海一脉。\n　　这两场比拼都是南海输了，但人们瞧得清楚，赵南海的境界果然高深莫测，真要放手施为，想必金帐国师也会觉得棘手。\n　　而那名稍逊于勒布大将的精瘦汉子，更是",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "但他见势不对，便从这场念力战斗里轻身而出，不得不说此人在西陵神术上的造诣高的有些难以想象。\n　　战斗瞬间发生结束，祭坛四周很多人甚至不知道发生了什么，勒布大将很清楚，想着先前对方的羞辱，向前踏上一步，遥遥一拳击出。\n　　勒布乃是金帐王庭武道第一强者，一身筋骨被锤练的有若铜铁，举手投足间便地动山摇，此",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第四十二章 桃山之乱\n　　中年道人说道：“人算岂能如天算？”\n　　“天算能算一切事，但不见得能算出她自己。”\n　　观主端着茶盏，看着墙外桃山方向淡然说道。为了不让光明神殿那位知晓自己的安排，他便是自己也不清楚想要些什么。\n　　如果那位",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，他让南海诸人回到桃山，可以说是让光明神殿正宗传人主持光明祭。而如果那位回不去，这场光明祭便没有任何意义，道门必须考虑日后的状况，南海诸人便是他的力量，而陈皮皮自然也不需要再被牺牲。\n　　中年道人说道：“她怎么可能败？”\n　　观主说道：“她被夫子留在人间，斩不断尘缘，自然便败。”\n　　中年道人说道：",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "飘摇而起有若粉蝶，紧接着便被撕扯成无数碎絮。\n　　祭坛前的地面上，仿佛经历了一场长达数年的旱灾，上面出现了无数道深刻的痕迹，龟裂的地面看上去就像是随时会崩塌成渊。\n　　那名精瘦汉子闷哼一声，向后退了一步，头上的笠帽就像地面一般裂开，然后簌簌落下，碎屑洒的他满头满脸都是。\n　　勒布大将没有退，只是身形",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "笑容，这位南海最强者的眉头微微蹙起，黝黑脸上的皱纹显得愈发深刻，神情凝重至极。\n　　桃山前坪上没有起风，天地元气没有任何变化，赵南海和国师只是对视一眼，彼此的识海里便掀起无比险恶的狂澜。\n　　这种纯然念力的搏杀，不动外物，不扰秋叶，外人感觉不到任何波动，对于局内的二人来说却是极其凶险。\n　　金帐国师",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "然而看着金帐国师似有若无的笑容，这位南海最强者的眉头微微蹙起，黝黑脸上的皱纹显得愈发深刻，神情凝重至极。\n　　桃山前坪上没有起风，天地元气没有任何变化，赵南海和国师只是对视一眼，彼此的识海里便掀起无比险恶的狂澜。\n　　这种纯然念力的搏杀，不动外物，不扰秋叶，外人感觉不到任何波动，对于局内的二人",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "桃山，可以说是让光明神殿正宗传人主持光明祭。而如果那位回不去，这场光明祭便没有任何意义，道门必须考虑日后的状况，南海诸人便是他的力量，而陈皮皮自然也不需要再被牺牲。\n　　中年道人说道：“她怎么可能败？”\n　　观主说道：“她被夫子留在人间，斩不断尘缘，自然便败。”\n　　中年道人说道：“就算她斩不断尘缘",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "败。”\n　　中年道人说道：“就算她斩不断尘缘，但能斩了道门诸人的性命。”\n　　观主说道：“虽然她已经来到人间，不再是我所信仰的昊天，但就像昊天那样，她必然是绝对客观公正的，我替昊天道门做了这么多事，她为什么要杀我？我的生存是用我的信仰换来，无人能破。”\n　　中年道人说道：“那南海诸人？”\n　　观主说",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "身影依然平静，赵南海微微蹙眉，似也没有想到西陵掌教并不如传说中那般易怒自大。他的目光在祭坛旁的宾客里缓缓扫过，忽然落在了金帐国师和那位勒布大将的身上，不悦斥道：“如今居然连草原上的蛮子都能进桃山观礼，神殿真的是越来越不像话了。”\n　　说的是金帐王庭的人，指责的依然是西陵神殿，锋芒对准的还是辇内的掌教",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

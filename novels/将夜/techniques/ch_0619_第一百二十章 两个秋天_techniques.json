@@ -1,0 +1,258 @@
+{
+  "novel": "将夜",
+  "chapter_number": 619,
+  "chapter_title": "第一百二十章 两个秋天",
+  "filename": "ch_0619_第一百二十章 两个秋天.txt",
+  "char_count": 4421,
+  "timestamp": "2026-04-10T12:11:26.775414",
+  "techniques_count": 19,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "四天四夜。\n　　那种情况下，自己和桑桑都能活下来，凭什么现在活不下来？宁缺看着窗外渐显疏清之意的秋日天空，看着那些越集越厚的秋云，默默想着。\n　　小院中那棵树上，黑色乌鸦叫了一声，非常难听。\n　　……\n　　……\n　　宁缺和桑桑，再次在这个世界上消失，他们曾经消失过整整一年，不过那一次佛道两宗猜测他们",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的书生。\n　　……\n　　……\n　　大师兄看着杨树粗励的树皮，明白发生了什么事情。\n　　自己不顾堕境的危险，凭借无距的能力，四处搜寻小师弟的踪迹，而佛道两宗，则是派着人不停地跟随他，那么就算他找到了宁缺，也无法悄无声息把他带走，必将面临佛道两宗源源不断、不顾生死的搏命攻击。\n　　没有任何修行者能够跟上",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "身上，便再也无法洗去，这又是什么意思？”\n　　他望向熟睡中的桑桑，看着她微白的小脸，伸手轻轻摸了摸，心想明字卷里说的黑夜影子，自然便是冥王之女，也就是桑桑。\n　　黑夜的影子落在月的身上，便再也无法洗去……从字面意义和现在的情况来看，这月自然指的是自己，整个世界确实也只有自己看过月亮。\n　　宁缺若有所",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "大师兄，而且桑桑病情反复，如果要千里逃亡血战到底，担心桑桑会撑不住。\n　　就算等不到大师兄，他也必须来到朝阳城，因为他相信灯下黑的道理，相信自己藏匿行踪的能力，而且希望这里的佛寺能够让桑桑的病情好转。\n　　背着桑桑行走在朝阳城里，宁缺没有用多长时间，便找到了自己的目标。那是一座距离月轮国皇宫不远的破",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "里说的黑夜影子，自然便是冥王之女，也就是桑桑。\n　　黑夜的影子落在月的身上，便再也无法洗去……从字面意义和现在的情况来看，这月自然指的是自己，整个世界确实也只有自己看过月亮。\n　　宁缺若有所思，若有所悟，却依然惘然困惑。\n　　窗外传来几声难听的嘎嘎叫声，他确认没有人在院外，推门走到院内，看着树上那几",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "身！更不是什么投降！而是正确与否的事情！我大唐帝国乃世间领袖，当然不用在乎月轮国的压力，就算西陵神殿难道就能让我退让？但我不能眼睁睁看着人间就这样灭亡，这也是我们大唐应该承担的责任！”\n　　宁缺静静站在墙外巷中，听了一段时间，听到的最有用的信息便是这段话，说话的人是大唐驻月轮的正使，他缓缓低头，然后",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "候，他背着桑桑从背街的那面破墙，轻松地跃进小院，穿过正堂来到后院的卧房前。\n　　一路行来，暮色黯淡，寂静无比，地面的旧砖和墙上还残留着乌黑的陈年血迹，显得格外阴森，别说普通人，就算是见过血的屠夫，只怕都会觉得头皮发麻，难怪所有人都对这间宅院避之不及，宁肯废弃也不愿意接受。\n　　宁缺和桑桑从小到大不知",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "的任何办法，只能藏在雪窖等待然后祈祷。\n　　对昊天的祈祷永远等不到回应，但超出普通人耐受能力的等待，最终总能换来成功，那只冬熊最终还是抵抗不住饥饿，悻悻然离开，宁缺背着奄奄一息的桑桑，从雪窖里爬出来时，他们已经在雪窖里呆了四天四夜。\n　　那种情况下，自己和桑桑都能活下来，凭什么现在活不下来？宁缺看着",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，落在院中的树上，抬头望星。\n　　……\n　　……\n　　朝阳城里到处都是桑桑的画像，每家佛寺前都聚集着人群，僧人在那里讲述着冥界的传说，佛祖的遗言，冥王之女降世的故事，月轮民众们的神情很复杂，有的惊恐不安，有的恐惧悲愤，佛祖教导的不嗔，尽数被抛到了脑后，渐渐群情激奋起来，人们挥舞着拳头，说要找到冥王之",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "渐群情激奋起来，人们挥舞着拳头，说要找到冥王之女，然后把她烧死。\n　　宁缺在街道上走过，人群的议论与愤怒，还有那些对桑桑最恶毒的诅咒，对他没有任何影响，没有过多长时间，他便来到了礼宾馆。\n　　大唐驻月轮国的使节，便在礼宾馆里。他没有进礼宾馆，而是站在稍微安静些的后巷，专注地听着院墙里的动静，然后再决",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "及耐心。\n　　十年前在冰雪覆盖的岷山深处，宁缺背着桑桑在雪窖里蹲守伏杀山猪，不料一只被惊醒的冬熊意外出现，那只冬熊杀死山猪饱餐一顿后，似乎察觉到还有食物，竟守在雪窖附近不肯走了，靠着山猪残尸又停留了数日。\n　　当时宁缺还不够强大，桑桑还是个六岁的小女童，根本不可能战胜一头贪婪的冬熊，他们没有别的任何",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "上寻找着什么东西，或者是什么人，只是他行走的如此困难缓慢，又能找到谁呢？\n　　然而就在走出天坑的那一瞬间，他便似乎找到了什么，说道：“王庭。”\n　　天坑中央巨峰间的黄色寺庙响起悠远的钟声。\n　　数千里外的右帐王庭，一名满身灰尘的书生，看着单于和十余名如临大敌的王庭祭司，微微躬身，说道：“请问诸位有没",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "宁缺静静站在墙外巷中，听了一段时间，听到的最有用的信息便是这段话，说话的人是大唐驻月轮的正使，他缓缓低头，然后转身离开。\n　　桑桑看着他脸上的神情，便知道局面不是很好，伸手握住他的手。宁缺微涩一笑，说道：“没事儿，只是听着一件事情，有些吃惊。”\n　　桑桑问道：“什么事情？”\n　　宁缺说道：“你猜",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "道两宗源源不断、不顾生死的搏命攻击。\n　　没有任何修行者能够跟上无距，每次都能准确地找到自己，必须要同时满足两个条件，对方必须有足够多的强者数量或军队，在所有自己能抵达的地点附近做好准备，同时对方还必须能够在最短的时间内，知道自己在哪里。\n　　按道理来说，要同时满足这两个条件，根本是不可能的事情，然",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "。\n　　他选择在朝阳城里暂时藏匿，是想要在这里等到大师兄，而且桑桑病情反复，如果要千里逃亡血战到底，担心桑桑会撑不住。\n　　就算等不到大师兄，他也必须来到朝阳城，因为他相信灯下黑的道理，相信自己藏匿行踪的能力，而且希望这里的佛寺能够让桑桑的病情好转。\n　　背着桑桑行走在朝阳城里，宁缺没有用多长时间，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "缓低头，然后转身离开。\n　　桑桑看着他脸上的神情，便知道局面不是很好，伸手握住他的手。宁缺微涩一笑，说道：“没事儿，只是听着一件事情，有些吃惊。”\n　　桑桑问道：“什么事情？”\n　　宁缺说道：“你猜我们离开烂柯寺多长时间了？”\n　　桑桑想了想，说道：“至少一个多月了。”\n　　“错，是一年。”\n　　宁",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "的商贸集散地柳关。\n　　一千草原骑兵和数支月轮国骑兵，领受军令向柳关疾驰而去。\n　　老僧继续行走，一日后，他停下脚步，再次说出一个地名。\n　　悬空寺尊者堂首座，静静看着不远处杨树下的书生。\n　　……\n　　……\n　　大师兄看着杨树粗励的树皮，明白发生了什么事情。\n　　自己不顾堕境的危险，凭借无距的能力",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "确的选择。\n　　宁缺有很多藏匿逃亡的经验，他懂这个道理，也是这样做的，除了带桑桑去各佛寺读经治病，他从来不出小院，甚至没有去找过大师兄。\n　　桑桑的病稍有好转，或者说是暂时没有变得更严重，依旧恹恹的没有什么精神，正午刚过，便沉沉地睡去。\n　　宁缺坐在床旁，开始看书。\n　　这本书是他在烂柯寺里手抄的佛",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "宗源源不断、不顾生死的搏命攻击。\n　　没有任何修行者能够跟上无距，每次都能准确地找到自己，必须要同时满足两个条件，对方必须有足够多的强者数量或军队，在所有自己能抵达的地点附近做好准备，同时对方还必须能够在最短的时间内，知道自己在哪里。\n　　按道理来说，要同时满足这两个条件，根本是不可能的事情，然而当",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

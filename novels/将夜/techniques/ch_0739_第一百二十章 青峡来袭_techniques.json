@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 739,
+  "chapter_title": "第一百二十章 青峡来袭",
+  "filename": "ch_0739_第一百二十章 青峡来袭.txt",
+  "char_count": 3345,
+  "timestamp": "2026-04-10T12:11:27.044595",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "天地气息的数量是如此巨大，以至于清河郡里的清溪都变得浑浊起来，黑色的屋檐瓦片上凝出了露珠，青山上方的天空里忽然多出了一片云层！\n　　那片云层猛烈地绞动着，不停地积蓄着能量，然后骤然间化作无数道丝缕，消散于青天之中，一道非人间所有的力量，向地面碾压而去！\n　　轰的一声巨响！\n　　大地震动不安，无数战马",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "。暗处的两点，是道门不为人知的安排，明处的两点则在地图的北方与南方。\n　　西陵神殿掌教对书院的突袭，最终惨遭失败。知守观观主与大师兄的身影，还在人间各处名山大川里流连，却不会忘返。\n　　金帐王庭与大唐骑兵的惨烈厮杀，还在北方的原野上持续，那么现在能够改变僵局，决定这场胜负的战场，便在南方。\n　　西陵",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "谷里的天然崎岖道路变成了平整的官道。\n　　从那一天起，大唐南北变通途，时人纷纷赞颂，有了这条极具战略意义的通道，大唐与清河便永远不会分离，成为真正意义的一家人。\n　　如今清河郡诸阀打出叛旗，向西陵神殿投降，甚至还派出私军，加入到攻打长安城的队伍中，家国已然分裂。\n　　那么这道青翠的峡谷，还有什么意义",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "飘去。并不是峡谷里失了火，而是山崖垮塌所震起的烟尘，烟尘都能飘这般高，可以想像里面的情况。\n　　无数沉重的山岩石块，崩塌滚落而下，落到南晋骑兵的头顶，发出沉闷如雷的撞击声，然后带着鲜血与压成泥的尸体，继续向前滚去。\n　　沉闷的撞击声不停响起，久久没有停歇，峡谷崩塌震起的烟尘也越来越多，越来越密，渐渐",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "种情绪，本不应该出现在她的身上，哪怕面临再强大的对手，亦是如此。\n　　然而如她先前所想，如此长的青峡瞬间垮塌，要比书院君陌在烂柯寺斩佛像，难上无数倍，这种改天换地是只有昊天才能拥有的能力！\n　　唐人是怎么做到的？\n　　谁在那片青翠的峡谷里？\n　　那片峡谷里究竟发生了什么事？\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "天谕神座眉头深皱。\n　　那辆马车里响起一声轻噫。\n　　西陵神殿联军里，最强大的三位大人物，最先感觉到危险，然而他们已经来不及做什么，即便来得及，也无法改变眼前的一切。\n　　青翠峡谷上方的天地气息波动太过剧烈，远远超出了修行者能够想象的范畴，甚至较诸当初夫子在荒原上的斩天一剑，也不稍逊！\n　　这些天地",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "种顺利和平静，便透出了一分诡异。\n　　仿佛就是为了证明她此时的感觉很正确，青翠的峡谷忽然发生了变化，无数的天地气息，从原野四面八方聚拢而来，凝聚到了山峦上方。\n　　叶红鱼神情骤凛。\n　　天谕神座眉头深皱。\n　　那辆马车里响起一声轻噫。\n　　西陵神殿联军里，最强大的三位大人物，最先感觉到危险，然而他们",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "殿联军一片安静。\n　　所有人的脸上都写满了震惊与恐惧。\n　　白海昕的脸色极度苍白，握着缰绳的手不停地颤抖。\n　　此时葬身在峡谷里的南晋将士，足足有两万人之众！\n　　虽然说，这些损失，并不能改变战略大局，对西陵神殿联军的实力没有根本性的削弱，但依然让他痛彻心扉，难以接受。\n　　他是西陵神殿联军主帅，但",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "天换地是只有昊天才能拥有的能力！\n　　唐人是怎么做到的？\n　　谁在那片青翠的峡谷里？\n　　那片峡谷里究竟发生了什么事？\n　　……\n　　……\n　　与著名的岷山相比，这片在唐国南方原野间横亘而起的青翠群山，并不如何险崛高耸，然而这片山脉的体表是坚硬沉重的花岗岩，内部却大多都是石灰岩质，极易溶于雨水，所以",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "军，就算是不顾金帐王庭入侵，想来到此间也要绕行崤山冲。\n　　除非那些镇南军能够飞，不然他们根本不可能出现在青峡里。\n　　即便如此，白海昕元帅以及神殿的大人物们，依然警惕小心，如今大军碾压之势已成，只需要安全北上，便可以一战平天下，实在不需要任何冒险。\n　　南晋骑兵率先进入峡谷，各营之间的距离保持的非",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "都认为有那人坐镇军中，比掌教大人更令人感到敬畏。\n　　深秋某日，浩浩荡荡的西陵神殿联军，穿过清河郡，来到一片青翠山峦之前，在山峦中那道青色峡谷外停下整列。\n　　十余骑南晋斥候，飞奔而出，向青峡里驶去，不多时后，便传来表示安全的尖锐竹笛声，联军依然不动，沉默的令人感到十分恐怖。\n　　直待竹笛之声不断从",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "第一百二十章 青峡来袭\n　　举世伐唐，有四个关键点，两点在明处，两点在暗处。暗处的两点，是道门不为人知的安排，明处的两点则在地图的北方与南方。\n　　西陵神殿掌教对书院的突袭，最终惨遭失败。知守观观主与大师兄的身影，还在人间各处名山大川里流连，却不会忘返。\n　　金帐王庭与大唐骑兵的惨烈厮杀，还在北",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "发浩大，行走在原野上，秋稻尽折，水田被踩干，两座神辇后方，马车的数量越来越多，最引人注目的，是其中最安静的一辆。\n　　这大概是自唐国北伐荒人帝国后，实力最强大的一支军队，和如今的联军比起来，春天时在荒原上与荒人作战的联军，要显得弱很多。\n　　当时的西陵神殿联军有掌教大人亲自坐镇，然而但凡猜到那辆安静",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

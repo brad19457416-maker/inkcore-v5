@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 773,
+  "chapter_title": "第一百三十六章 广场上（上）",
+  "filename": "ch_0773_第一百三十六章 广场上（上）.txt",
+  "char_count": 3671,
+  "timestamp": "2026-04-10T12:05:17.583795",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "在议会山大杀四方，微笑不由自主地浮上英俊脸庞。\n\n    遥远的西林落日州，许乐依旧保持着那个古怪而危险的姿式，他眯着眼睛，望着窗外，枪口深深地陷进下颌，对着死亡，直到此时他才安现原来窗外的阳光是假的，是老宅里的灯光造成的错觉，因为一点都不暖和。\n\n    “很抱歉，我不能按照您的要求去做。”联邦中",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "这台军用机甲终于艰难地站了起来，没有倒下，给黑色的广【昌】西大街留下了两个碎裂的深坑。\n\n    有风呼啸而起，军用mx机甲快调整作战姿态，与另外三台mx机甲汇合，高驱驰前往议会山大厦门口石阶处。\n\n    广【昌】远处围观的联邦民众，从这些纯黑色的军用机甲现身，便开始不断出惊呼，尤其是看着高近七米",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "【炝】，感觉到非常害怕。\n\n    就在这个时候，电【化】铃声响了起来。\n\n    ……\n\n    喧嚣嘈乱的宪章广【昌】，因为铁七师强势要求所有联邦【zheηgfu】部门关闭警灯和警笛，渐渐变得安静起来，天上的淡淡薄云被春风推着向西边转移，烟雾被吹的四处散离，广【昌】上的视线显得清晰很多。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "回答的很坚决，“任何序列的权限，都必须在三定律之下。”\n\n    “我没要求你杀人！”许乐手腕微动，愤怒地低声吼叫道：“你可以破坏联邦调查局和特勤局的指挥系统！你可以让他们看不到议会山里的情况！你可以帮助他离开！”\n\n    “我不能这样做。”\n\n    “不要用这种话来搪塞，至少不要在我面前。”许",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "呼声达到了顶峰，最后当那台黑色机甲安然落地，人群中竟是响起一阵自的掌声。\n\n    这是联邦军用机甲第一次以战斗的姿态，而不是参观的对象，出现在民众面前，出现在都星圈的城市之中。\n\n    民众热情的掌声表达着他们对联邦【君】队的信任和赞赏，对铁七师的爱戴，但对于议会山里那个男人来说，这些掌声或许代",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "我不能这样做。”\n\n    “不要用这种话来搪塞，至少不要在我面前。”许乐眯着眼睛盯着窗户上的反光，说道：“我知道你进行过直接物理操作。”\n\n    很明显宪章电脑因为这句话而变得尖锐起来：“我在联邦境内唯一做过的直接物理操作，是当年在546o上，你昏睡后帮你开过一段时间的机甲，我承认当时不应该好奇",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "刻后，宪章电脑严肃认真地说道：“许乐，生命是平等的。”\n\n    “不，沈教授教过我，宇宙里没有什么道理，生命好像也从来没有平等过，所以你会有权限序列，人类有亲疏远近。”许乐眉头皱的极紧，压抑着愤怒沉声说道：“我也有我的亲疏！”\n\n    楼上拐角处，穿着睡衣的钟烟花紧紧抱着陈旧的洋娃娃，看着许乐在",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "。\n\n    “很抱歉，我不能按照您的要求去做。”联邦中央电脑在他的脑海里重复着回答。\n\n    “为什么不能？”许乐双手紧握着手【炝】，眼睛眯的特别厉害，坚硬冰冷的枪口顶的太深，深到阵阵生痛，开始热……我知道你有这个能力。”\n\n    “我只会按照第一序列权限保护你，却不能因为你的命令而去杀人，这",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "已把议会山大厦围成铁桶一般的士【斌】和警【擦】们，没有一个人敢开【炝】，因为他的左臂揽着一个女孩儿做为人质。\n\n    对于那些被打到红眼的警【擦】和联邦调查局探员们来说，只要能够把施菜海射成马蜂窝，他们根本不在乎什么人质的死活，但问题在于，现在主持整个事件处理的是铁七师。\n\n    设置在宪章广【",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "低声吼叫道：“你可以破坏联邦调查局和特勤局的指挥系统！你可以让他们看不到议会山里的情况！你可以帮助他离开！”\n\n    “我不能这样做。”\n\n    “不要用这种话来搪塞，至少不要在我面前。”许乐眯着眼睛盯着窗户上的反光，说道：“我知道你进行过直接物理操作。”\n\n    很明显宪章电脑因为这句话而变",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "耀着菇天白云和像宝石般的光芒，呼啸着划着弧线低空坠下，以最快的度靠近那幢爬满绿色植物的公寓楼，在那一瞬间，爬山虎和青绞叶遮掩中的ac枪管似乎进行了某次微调，却终究没有射出乎弹。\n\n    强悍坚固的机械臂直接将公寓楼一角【za】烂，那把泛着金属光泽的大枪喷吐了哀鸣的子弹，像垂死的大鸟般啾啾鸣叫着，裹",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "上的神。”\n\n    “我从来没有想过利用你去谋取什么利益。”\n\n    许乐调整了一下姿式，用指头缓缓将手【炝】保险推开，轻微喘息毒说道：“为了自己的事情，我只求你这一次。”\n\n    宪章电脑回答道：“如果我破坏联邦方面的机械电子设备，那联邦警【擦】、探员、军人，将有可能被人杀死，或者极大的增大",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "尤其是看着高近七米的机甲落在公寓楼顶，然后重重堕下时，惊呼声达到了顶峰，最后当那台黑色机甲安然落地，人群中竟是响起一阵自的掌声。\n\n    这是联邦军用机甲第一次以战斗的姿态，而不是参观的对象，出现在民众面前，出现在都星圈的城市之中。\n\n    民众热情的掌声表达着他们对联邦【君】队的信任和赞赏，对",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

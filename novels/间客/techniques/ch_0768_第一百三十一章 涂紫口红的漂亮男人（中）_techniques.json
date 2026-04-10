@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 768,
+  "chapter_title": "第一百三十一章 涂紫口红的漂亮男人（中）",
+  "filename": "ch_0768_第一百三十一章 涂紫口红的漂亮男人（中）.txt",
+  "char_count": 3516,
+  "timestamp": "2026-04-10T12:05:17.575521",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "赶紧解释道：“我是认真的。”\n\n    黄丽皱着眉尖抬起头来，雀斑在上午的阳光下闪闪亮，忽然认真开口说道：“我被男朋友甩了，你能不能帮我出气？”\n\n    “好。”施清海回答的很简单直接。\n\n    “你不问问是什么情况？”黄丽惊讶地睁大眼睛，捂着嘴唇问道。\n\n    “拜托，我是做间谍的，哪有这么",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "病理部最有前途的医生。”\n\n    狭窄的休息室内有个更狭窄的洗漱间，黄丽怔怔看着镜中的自己，不明白为什么自己会如此信任那个神秘的联邦军官，为什么会把情伤的故事全部讲给对方听。\n\n    忽然间她有些后悔，看着镜中一时绯红一时苍白的脸颊，咬着下嘴唇，低头想着，这个家伙看着坏坏的，但长的真的很好看亚，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "“这种离开人间的方法不应该是最幸福的吗？”\n\n    “我们出生的时候并不知道自己是怎么来到这个世界的，我们没有批准和审核的权限，我们甚至没有任何记忆。”\n\n    施清海说道：“人这辈子不过就是生死两个字，生已经不可记忆，如果连死都不知道自己怎么死，那这辈子未免也太糊涂懵懂了些，哪里有",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "充分，我当然要把死法设计的非常漂亮，如果时间更充分一些，我甚至想提前安排一场葬礼，让所有朋友亲人都来落泪致词，而自己坐在棺材里微笑着观看这场戏剧。”\n\n    施清海的目光非常平静，因为他说的都是真心话。\n\n    “你有精神病……得治。”\n\n    小护士怔怔望着他，咬着下唇倔犟说道：“所以你不能",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "色鬼一样看着漂漂亮亮的小护士，问题是他的嘴唇太紫，偏生眉眼又太正，所以色鬼变成了某种宗教壁画里的迷人存在。\n\n    “你怎么这么坏？”黄丽害羞地深埋着头，不敢看他的眼睛，只敢盯着串了行的毛衣针：“归（亏？）你还是个联邦军官。”\n\n    施清海被呛的连连咳嗽，赶紧解释道：“我是认真的。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "对着走廊那头用力地大声喊道，或许是因为喊的太用力的缘故，甚至带上了一丝哭腔。\n\n    走廊那头没有出现任何人，只有被惊动的病人和护士好奇地探出头来，看着蹲在地上失声痛哭的女孩儿，不知道生了什么事情。\n\n    从后门离开陆军总医院的施清海，并不知道楼上生了什么，他微笑着偷了一辆汽车，然后进入都特区",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "出实话，微笑着说道：“但我不想做，至少现在不想做……”\n\n    “为什么？”黄丽小护士擦掉脸上的泪水，睁着大大的眼睛疑惑问道。\n\n    “有很大的可能性会瘫痪。”施清海皱了皱鼻子，伸出两根手指比划了一个距离，”非常大，所以没意思。”\n\n    “活着就有意思……”小护士紧握着小拳头，用力地反驳道",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "和施清海在聊天，她皱着可爱的鼻尖，对烟雾表示强烈的不慢，手中打毛衣的针却没有停下来，她觉得这种生活很紧张，很刺激，却不想停止。\n\n    “你有没有什么平时非常想干，却怎么也不敢干的事情？”\n\n    施清海仰躺在床头，叼着香烟，眯着眼睛，像色鬼一样看着漂漂亮亮的小护士，问题是他的嘴唇太紫，偏生眉眼",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "动，在她耳畔轻声说道：“我不可能总住下去，总让你帮我偷药，是会曝露的，我答应你，这件任务完全之后，我马上回来做手术。”\n\n    “你在骗我。”黄丽紧紧抿着嘴唇说道。\n\n    “没有骗你，我必须出任务，不然怎么赚津贴，怎么治病，怎么养那么多女人？”\n\n    施清海微笑着拍拍她的脸颊，没有什么停留",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "如果连死都不知道自己怎么死，那这辈子未免也太糊涂懵懂了些，哪里有什么幸福可言？”\n\n    “我一直盼望着能够知道或者掌握自己的死法，如果时间充分，我当然要把死法设计的非常漂亮，如果时间更充分一些，我甚至想提前安排一场葬礼，让所有朋友亲人都来落泪致词，而自己坐在棺材里微笑着观看这场戏剧。”",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "“那不然怎么办？”施清海没有想到这个糊涂的可爱雀斑小护士居然会通过药物现自己身体内的问题，微微一笑温柔说道：“你好心地把我藏在这里，晚上就睡在我的脚边，我虽然没有说过，但真的很感激你，我可不想给你带来太多的麻烦，这种病找医生治和我自己治是差不多的。”\n\n    “虽然我不知道你中的什么毒，但看情况",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "在也不喜欢他，可就是不想让他过的太得意，所以想找个很优秀的男人去气气他……”\n\n    “我喜欢你的性格，虽然老套了些，没有什么新意。”施清海伸出大拇指，说道：“而且要找优秀男人去气别的男人，我肯定是全联邦最佳选择。”\n\n    “德性。”黄丽嘲笑道：“赶紧把病治好，不然看见你的紫口红，别人会以为你",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "黄丽有些恼怒地放下毛衣，替他冲了杯高浓度蛋白粉，沉默【pian】刻后解释道：“我男朋友找了一个大家族的千金小姐，我知道这种事情很正常，我现在也不喜欢他，可就是不想让他过的太得意，所以想找个很优秀的男人去气气他……”\n\n    “我喜欢你的性格，虽然老套了些，没有什么新意。”施清海伸出大拇指，说",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

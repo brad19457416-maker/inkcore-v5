@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 506,
+  "chapter_title": "第一百四十八章 军旗沉睡或飘扬(上)",
+  "filename": "ch_0506_第一百四十八章 军旗沉睡或飘扬(上).txt",
+  "char_count": 3462,
+  "timestamp": "2026-04-10T12:05:08.523156",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "空中的联邦舰队，开始以超出平时数倍，甚至几十倍的频率向地面投放战斗人员及各式重型装备。连续几个夜晚的天空，都被重型运输舰的灯光照的明亮无比，在猛烈的空中火力掩护下，至少有七个整编机械师降落到了星球的各个区域中。\n\n    七组车队停在道边，为前方驶来的多轴重卡让路，队员们沉默地看着重型卡车方承载的导",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "了军车之下，站在道路两旁，脱下头顶的军帽，沉默地举手敬礼。\n\n    那辆孤单的军车，有一具仅有象征意义的黑棺，现代星际战争的残酷性，很难再在战场保有马革裹尸还是这一人生最后浪漫情节，联邦军方一向用这种简单的仪式与战告别。\n\n    黑棺覆盖着一面鲜艳的联邦军旗，这颗星球埋葬着无数香骨。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "出现在最紧张的区域，最后一个离开战场。跟在这位小爷身后，非但享受不到领导先走的待遇，反而要承受更多的危险。\n\n    也许是个体差异，也许是因为感受到七组军官们的敌意，也许是认为被故意折磨，所以锡朋这几十天的心情并不像那些同伴一样愉快，相反有些低落，今天被堵在路这么久，终于忍不住爆了一句粗。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "停在道边，为前方驶来的多轴重卡让路，队员们沉默地看着重型卡车方承载的导弹，微感兴奋之余，也感到了几丝紧张。\n\n    “西林军区承受的压力太大，163和3320的地面军事行动已经停滞了两个多月。联邦议会早就沉不住气了，总统也不可能让钟司令永无止境的拖下去。”\n\n    白玉兰啪的一声点燃香烟，继续说",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "重的军用52机甲正在缓慢地前行，车队前进的速度比平时慢了许多。\n\n    许乐坐在副驾驶位，微感担忧说道：“是不是总攻马就要开始了？但铺网的进度还差很多。”\n\n    从六天前开始，悬3星球太空中的联邦舰队，开始以超出平时数倍，甚至几十倍的频率向地面投放战斗人员及各式重型装备。连续几个夜晚的天空，都",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "十八章 军旗沉睡或飘扬(上) \n\n    冰冷且死硬，就像是一颗扔在5460冰川深处的石头。许乐并不陌生这种性格，离开东林之后的人生里，也遇见过很多这样的人。\n\n    对于神秘宪丨章局官员的性格，他事先曾经做过一些猜测，只是没有想到如此冰冷死硬、拥有绝对权力的官员，在这几十天的工作中，可以一直保持",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "自己终于将要进入千世邰家真正的决策圈子。\n\n    沉默片刻后，沈秘认真回答道：“这时候敢生出杀许乐念头的人，必然都是些疯狂却有实力的家伙。许乐得罪的人多，可局限在这些范围内，应该就是南明秀，林斗海，钟子期，利修竹这四个人。”\n\n    “利家大少爷最近很安份。”靳管家用苍老的声音说道：“就算简水儿",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。\n\n    进入前线之后，这位副联邦议长的侄儿，便被调到了许乐的身边充当战地指挥联络兵。看去似乎是人们因为他的身份，而刻意让他靠近部队的领导层，让他更安全一些。但事实，七组所有人都清楚，并不是这么回事……\n\n    在并不多的战斗之中，作为最高军事长官的许乐，总是会出现在最紧张的区域，最后一个离开",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "这么久，终于忍不住爆了一句粗。\n\n    “闭嘴!许乐回头看了他一眼，取下鼻梁的墨镜，眼眸中闪过一丝愤怒和冷漠，同时坐在车内的其他人也狠狠地瞪了他一眼。\n\n    锡朋为之一窒，却根本生不出反驳的勇气。七组是一支奇怪的队伍，除了国防部的直接军令外，所有的规则便是……许乐中校的话语，这或许是一种潜规则",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "“这是飓风二型导弹，山后面的导弹基地应该已经处于待命状态，总攻最迟不会超过这个星期。”\n\n    “为什么要这么着急?”许乐不赞同地感慨说道：“这么多小组在铺网，多铺一天，总攻的时候，士兵们就能多一份保障，总不可能因为政治的压力就要提前。”\n\n    白玉兰吸了一口烟，轻轻叹了一口气，他们只是军队的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "也肯定瞒不了太久。”\n\n    “老爷子活着的时候，我会保持对老人家的敬意，看许乐会左突右撞出怎样的将来。”\n\n    “我当然不会看好那几个愚蠢的年轻公子哥，只是很好奇，有人来捋虎须，许乐这头小老虎会有怎样激烈的反应。”\n\n    “当然前提条件是他能从前线活着回来。”\n\n    “当然前提条件是",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "军旗沉睡或飘扬(上) \n\n    冰冷且死硬，就像是一颗扔在5460冰川深处的石头。许乐并不陌生这种性格，离开东林之后的人生里，也遇见过很多这样的人。\n\n    对于神秘宪丨章局官员的性格，他事先曾经做过一些猜测，只是没有想到如此冰冷死硬、拥有绝对权力的官员，在这几十天的工作中，可以一直保持平静的沉",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "启动没多久，却又被迫停了下来。\n\n    “我丨操！”坐在车后座的锡朋，恼火地骂了一句。\n\n    进入前线之后，这位副联邦议长的侄儿，便被调到了许乐的身边充当战地指挥联络兵。看去似乎是人们因为他的身份，而刻意让他靠近部队的领导层，让他更安全一些。但事实，七组所有人都清楚，并不是这么回事……",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "…虽然都是一堆废物，但毕竟是有些背景实力的废物，他们的愤怒聚在一起，大概能有些温度。”\n\n    她缓缓闭双眼，沉默很久后感慨说道：“连邰之源都无法说服他，这个小家伙真以为自己是第二个老爷子？这种毫无大局观，性情强硬，只会坏事的小家伙，本就不应该存在于这个世界。”\n\n    “虽然他拒绝了少爷，但这",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "忍不住爆了一句粗。\n\n    “闭嘴!许乐回头看了他一眼，取下鼻梁的墨镜，眼眸中闪过一丝愤怒和冷漠，同时坐在车内的其他人也狠狠地瞪了他一眼。\n\n    锡朋为之一窒，却根本生不出反驳的勇气。七组是一支奇怪的队伍，除了国防部的直接军令外，所有的规则便是……许乐中校的话语，这或许是一种潜规则，却是每个七",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "。\n\n    对于神秘宪丨章局官员的性格，他事先曾经做过一些猜测，只是没有想到如此冰冷死硬、拥有绝对权力的官员，在这几十天的工作中，可以一直保持平静的沉默，平静沉默到甚至没有什么存在感。\n\n    直到这个漫满是阳光的午餐时间，许乐有些惊愕地发现，自己居然还是没有记住对方的姓名。\n\n    “总不可",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

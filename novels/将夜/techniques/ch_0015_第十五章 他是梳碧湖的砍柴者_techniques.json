@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 15,
+  "chapter_title": "第十五章 他是梳碧湖的砍柴者",
+  "filename": "ch_0015_第十五章 他是梳碧湖的砍柴者.txt",
+  "char_count": 2450,
+  "timestamp": "2026-04-10T12:11:03.400815",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "杀了不少。”\n　　有名草原蛮子跟在侍卫首领的身后，也准备向这名少年军卒表示番感谢，他的心中也有相同的疑问，然而在听到宁缺的回答后，他二话不说转身就走，隐约能看到他的脚步有些乱，肩膀有些微微发抖。\n　　一名草原上的同伴看着他疑惑问道：“都木，你怎么了？”\n　　叫做都木的草原蛮子一屁股跌坐在火堆旁，艰难",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "瞬间，只怕也无法抵挡住他们的刺杀，更不要说如此干净利落地杀死他们。”\n　　侍卫首领望着宁缺稚嫩的脸，压抑住心头的震惊，用沙哑的声音问道：“少年郎，我很好奇你这一身杀人的本事，究竟是从哪里学来的。”\n　　宁缺挠头略一沉默，微笑说道：“杀人的本事，自然是通过杀人学到的。”\n　　他自然不能告诉这位侍卫首领",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "桑桑的手让到侧方，不肯受他这一礼，就如已经死去的那位大剑师所言，公主殿下带到草原上的这批大唐侍卫，在战斗中展现出来的铁血风范和严明军纪，值得任何一个敌人或朋友尊敬。\n　　“看的出来，你的武技没有什么套路。如果空手相交，我想你应该不是我的对手，但即便是我，在刚才三名刺客出现的瞬间，只怕也无法抵挡住他们",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "悍，箭法超群，但并不是个超出世俗想像的隐藏强者。\n　　在此次狙杀中，是侍卫和吕清臣老人一直在硬抗敌方最强大的两名修行者，是他们干掉那位大剑师绝大部分生命，宁缺最后才有机会有可能三箭杀死对方。\n　　然而越是如此，他们越发觉得这个少年是个很可怕的人物。\n　　选择出手时机角度无比精确狠辣，温和稚嫩少年外表",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "有六七名草原蛮子和大唐侍卫还活着，他们挣扎着起身，艰难地走到车厢废墟周边。那位受伤极重的侍卫首领带着众人单膝跪下，以头触地沉痛说道：“属下作战不力，令贼子惊扰公主殿下，实在罪该万死。”\n　　繁星与残存的火星光泽照耀间，浑身浴血的男人们跪拜一名抱着孩子的婢女，并不悲伤，反而透着股铁血的悍意或者说悲壮。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "声说了句话，然后微微一笑摊开双手就此死去。\n　　宁缺瞄准着大剑师的遗体，沉默了很长时间，直到双臂开始颤抖起来，才缓缓放下弓箭，顿时开始感觉到疲惫与酸痛开始入侵自己的身躯。\n　　他没有回头，问道：“有没有事？”\n　　火油弹带起的火焰点燃了落叶，但北山道口腐泥湿漉，火势渐渐熄灭，那把大黑伞哗的一声重新收",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "还活着，他们挣扎着起身，艰难地走到车厢废墟周边。那位受伤极重的侍卫首领带着众人单膝跪下，以头触地沉痛说道：“属下作战不力，令贼子惊扰公主殿下，实在罪该万死。”\n　　繁星与残存的火星光泽照耀间，浑身浴血的男人们跪拜一名抱着孩子的婢女，并不悲伤，反而透着股铁血的悍意或者说悲壮。\n　　桑桑走到宁缺的身旁，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "则把这种血腥战斗称作砍柴，他们把最凶残的大唐骑兵首领称为砍柴者，而梳碧湖的砍柴者……则是最凶悍恐怖的存在，是梳碧湖变红的原因，是草原马贼夜晚的噩梦，是火堆旁的恐惧故事。\n　　只不过在今夜之前，他们从来没有想过那位砍柴者居然如此年轻。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "“看的出来，你的武技没有什么套路。如果空手相交，我想你应该不是我的对手，但即便是我，在刚才三名刺客出现的瞬间，只怕也无法抵挡住他们的刺杀，更不要说如此干净利落地杀死他们。”\n　　侍卫首领望着宁缺稚嫩的脸，压抑住心头的震惊，用沙哑的声音问道：“少年郎，我很好奇你这一身杀人的本事，究竟是从哪里学来的。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "肯受他这一礼，就如已经死去的那位大剑师所言，公主殿下带到草原上的这批大唐侍卫，在战斗中展现出来的铁血风范和严明军纪，值得任何一个敌人或朋友尊敬。\n　　“看的出来，你的武技没有什么套路。如果空手相交，我想你应该不是我的对手，但即便是我，在刚才三名刺客出现的瞬间，只怕也无法抵挡住他们的刺杀，更不要说如此",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的出来，你的武技没有什么套路。如果空手相交，我想你应该不是我的对手，但即便是我，在刚才三名刺客出现的瞬间，只怕也无法抵挡住他们的刺杀，更不要说如此干净利落地杀死他们。”\n　　侍卫首领望着宁缺稚嫩的脸，压抑住心头的震惊，用沙哑的声音问道：“少年郎，我很好奇你这一身杀人的本事，究竟是从哪里学来的。”",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "喘息，侍卫和蛮子们艰难地帮彼此包扎伤口敷涂伤药，待到呼吸稍定便开始打扫战场，抬回几名受伤极重的同伴，同时将那些还有几丝余息的敌人全部砍死，做完这些事情之后，这些剽悍的男人们下意识里向后方望去。\n　　看着那名棉袄微焦的少年，侍卫们眼睛里的神情很复杂，有些震撼有些不解甚至有些隐隐畏惧……他们看到了宁缺先",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "得如此漂亮的战果。\n　　今天北山道口的战斗，宁缺终于和夏侯将军的下属碰面了，或者这只是意外，又或者是命运的安排，总之复仇的刀与箭终于开始展现出它的寒意。\n　　侍卫首领抚着受伤的胸口，皱眉望着满脸无谓的少年，喃喃问道：“你不过十五六岁，难不成杀过的人比我还多？”\n　　“如果把畜牲都算上，我杀的还真不少",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "怖的存在，是梳碧湖变红的原因，是草原马贼夜晚的噩梦，是火堆旁的恐惧故事。\n　　只不过在今夜之前，他们从来没有想过那位砍柴者居然如此年轻。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "然后微微一笑摊开双手就此死去。\n　　宁缺瞄准着大剑师的遗体，沉默了很长时间，直到双臂开始颤抖起来，才缓缓放下弓箭，顿时开始感觉到疲惫与酸痛开始入侵自己的身躯。\n　　他没有回头，问道：“有没有事？”\n　　火油弹带起的火焰点燃了落叶，但北山道口腐泥湿漉，火势渐渐熄灭，那把大黑伞哗的一声重新收拢，桑桑半蹲",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

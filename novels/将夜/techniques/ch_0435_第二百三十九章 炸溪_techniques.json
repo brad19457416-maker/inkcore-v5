@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 435,
+  "chapter_title": "第二百三十九章 炸溪",
+  "filename": "ch_0435_第二百三十九章 炸溪.txt",
+  "char_count": 2604,
+  "timestamp": "2026-04-10T12:11:21.783977",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "白，心中涌起一股后怕。\n　　平日里最镇定的四师兄，看着溪里飘着的死鱼，看着溪中垮了一半的水车，声音都颤抖了起来：“小师弟，你……这弄的是什么东西？”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "可以保证暴裂之时的均匀态。”\n　　四师兄从身旁拣起一根树枝，指着小铁壶说道：“小师弟的想法听上去极有道理，但昨夜用火药试过，却没有任何效果，不知道是不是应该把刻线再加深几分，或许这样才能保证能够能崩开。”\n　　六师兄摇头说道：“如果刻线再深，铁壶材料的内应力便会被破坏，结构疏散，一旦崩开，也不过是个",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "……就算是书院也不会同意你做这种事情。”\n　　宁缺说道：“我什么时候说过要暗杀？”\n　　桑桑问道：“为什么咱们不把夏侯与魔宗的关系揭穿？”\n　　“我答应过大师兄，不把夏侯的身世告诉别人。”\n　　宁缺稍一停顿后，说道：“包括他与皇后娘娘之间的关系。”\n　　桑桑不解问道：“但你告诉了我。”\n　　宁缺说道",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "研发符箭的时候……”\n　　四师兄想起镜湖里被射塌一半的亭子，面色微变，往精铁板后站了站。\n　　宁缺见大家都准备好了，便闭上了眼睛，念力从识海里缓缓渗出，穿过身前的铁板，透过清澈的溪水，进入溪底的小铁壶。\n　　然后落在了那张符纸之上。\n　　随着念力进入小铁壶的，还有一段精纯的浩然气。\n　　溪底小铁壶里",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "“大唐没有太子。”\n　　宁缺笑容渐敛，叹息说道：“这又是件麻烦事。”\n　　……\n　　……\n　　书院后山，打铁房后的清溪，大水车下。\n　　宁缺和四师兄、六师兄三人蹲在溪畔发呆。\n　　不知道过了多长时间。\n　　六师兄把手中那个黑糊糊的铁东西举到阳光中。\n　　宁缺和四师兄的目光随着他的动作上移。\n　　那是",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "站。\n　　宁缺见大家都准备好了，便闭上了眼睛，念力从识海里缓缓渗出，穿过身前的铁板，透过清澈的溪水，进入溪底的小铁壶。\n　　然后落在了那张符纸之上。\n　　随着念力进入小铁壶的，还有一段精纯的浩然气。\n　　溪底小铁壶里的火符骤然狂暴的燃烧起来。\n　　却被局限在一个极小的空间里。\n　　片刻后。\n　　一道",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "地笑了笑。\n　　宁缺取出一张微黄的火符，塞进铁壶里，然后把壶塞用力旋紧。\n　　“怎么试？”六师兄有些紧张问道。\n　　四师兄指着身前的清溪，说道：“扔进去。”\n　　宁缺有些紧张，听着这话，便把小铁壶扔进了溪中。\n　　“等会儿。”\n　　六师兄跑回打铁房，扛了两块极大的精铁板，在溪畔竖起，挡在三人身前。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "然后落在了那张符纸之上。\n　　随着念力进入小铁壶的，还有一段精纯的浩然气。\n　　溪底小铁壶里的火符骤然狂暴的燃烧起来。\n　　却被局限在一个极小的空间里。\n　　片刻后。\n　　一道震耳欲聋的爆炸声，在小溪里响起！\n　　轰！\n　　伴着凄厉的啸鸣，无数铁片激射而出！\n　　笃笃笃笃笃！\n　　声音渐渐平息。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "法射穿。”\n　　桑桑听不懂日用夜用、三层保护这种没品兼无趣的笑话。\n　　她愣了愣后，想到书院的态度，担心说道：“暗杀帝国大将军……就算是书院也不会同意你做这种事情。”\n　　宁缺说道：“我什么时候说过要暗杀？”\n　　桑桑问道：“为什么咱们不把夏侯与魔宗的关系揭穿？”\n　　“我答应过大师兄，不把夏侯的身",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "边，拾起漆笔，把最后一块漆完，问道：“怎么打死他？”\n　　宁缺离开井沿，走到她身旁，指着墙边一个东西说道：“先打，然后让他死。”\n　　桑桑放下漆笔，回头看着他，表情有些困惑。\n　　墙边那东西是个有底座的木头人，宁缺亲手雕的，桑桑在面上漆了一层厚厚的黑漆，木头人头上顶着一口小黑锅。\n　　“要打死一个人",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "小铁壶最上方有个螺旋口，这也是六师兄精心刻磨而成的完美艺术，宁缺把铁壶塞旋开，说道：“就算没用，以后也可以当酒壶卖。”\n　　六师兄憨厚地笑了笑。\n　　宁缺取出一张微黄的火符，塞进铁壶里，然后把壶塞用力旋紧。\n　　“怎么试？”六师兄有些紧张问道。\n　　四师兄指着身前的清溪，说道：“扔进去。”",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "被射塌一半的亭子，面色微变，往精铁板后站了站。\n　　宁缺见大家都准备好了，便闭上了眼睛，念力从识海里缓缓渗出，穿过身前的铁板，透过清澈的溪水，进入溪底的小铁壶。\n　　然后落在了那张符纸之上。\n　　随着念力进入小铁壶的，还有一段精纯的浩然气。\n　　溪底小铁壶里的火符骤然狂暴的燃烧起来。\n　　却被局限在",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

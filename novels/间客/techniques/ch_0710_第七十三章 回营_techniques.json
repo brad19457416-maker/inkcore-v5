@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 710,
+  "chapter_title": "第七十三章 回营",
+  "filename": "ch_0710_第七十三章 回营.txt",
+  "char_count": 3790,
+  "timestamp": "2026-04-10T12:05:17.551179",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "起来，眯成sl最美丽的那两轮新月，隐隐泛\n\n    光。\n\n    这是一个关于联邦国民偶像身世的大秘密，虽然她已经不是少女，却依然是联邦民众不可一日或忘的偶像，如果让联邦知道她的生母是帝国人，会引起怎样的轩然大波？在这远离宪章光辉的荒芜矿星说出这个令人震惊的秘密，是许乐逻辑分析的选择。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "白原来联邦标制机师服有一定地抗穿刺能力却没有办法隔绝真实触感，原本就疲惫沙哑的声音显得更加干涩，喃喃说道：“这样不大好吧？”\n\n    “有什么不好的？”简水儿此时已经恢复了平静，迷人一笑说道：“三年前在黜缈，你趁我睡存了，也偷偷拖过我。”\n\n    许乐一怔，知道那夜身旁的女孩儿并没有睡着，知道自",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "“费城怎么会同意你参加前线部队？”为了驱散座舱内的淡淡暖昧\n\n    气息，他低声问道：“这里很危险。”\n\n    “你去帝国之后，所有人都认为你死了，我也不例外。”\n\n    简水儿看了一眼监控光幕上的电子地图，对机甲做了一次简单的手动调姿，轻声回答道：“在湖边我对老爷子说，我有很多事情想知道",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "联邦官兵们早已全体起立，准备迎接英雄的归来，当他们看到出现在金属栈桥最前方的许乐时，没有任何人命令，爆发出剧烈的欢呼声和掌声。\n\n    这时候大厅正中央的环形光幕柱上出现了联邦舰队司令，洪予良上将温和的容颜，这位联邦唯一的三星女将军微笑说道：“许乐上校，欢迎你回来。”\n\n    许乐拉开简水儿搁在",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "黑色mx机甲在崎岖地貌选择自动行驶，清晰的起伏感觉，让置身座舱内的二人感觉像是置身一艘风浪间的轻舟之中，而狭小空间内昏暗的灯光和低沉的设备电音，又让他们轻而易举地联想起了近三年前「在那场演唱会之后的千里逃亡，以及最后那段疲惫的沉睡    许乐感受着脸颊处传来的温软，这才明白原来联邦标制",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "团团长赫雷、机甲大队队长花小司、林爱、顾惜风……这些军中汉子们热情地拥抱，拼命地拍打他的后背，无数张激动的脸在他的面前不停晃动。\n\n    可是怎么总觉得好像差了一些什么东西？解文呢？许乐在人群中寻找着那张愁态可掬的面容，七组就那么一对双胞胎兄弟，解斯在3320溪畔牺牲，难道……\n\n    “老白和",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "上校军服的许乐，迎着无数炽热的目光和雄浑的军乐声走出了战舰。\n\n    然后是突如其来的安静，就在一瞬间，欢呼声和军乐声戛然而止，只有傍晚的异国微风轻轻吹拂着基地上方的联邦军旗。\n\n    一个浑厚的声音大声喊道：“敬礼!”\n\n    站在战舰四周密密麻麻的联邦官兵们穿着深青色的军装，听到这声号令后",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "背，无数张激动的脸在他的面前不停晃动。\n\n    可是怎么总觉得好像差了一些什么东西？解文呢？许乐在人群中寻找着那张愁态可掬的面容，七组就那么一对双胞胎兄弟，解斯在3320溪畔牺牲，难道……\n\n    “老白和大熊呢？”许乐摘下已经被揉乱的军偕，轻声问道。\n\n    随着他的这个问题，欢腾一片的迎接",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "着走在最前面。\n\n    联邦主舰指挥大厅里的联邦官兵们早已全体起立，准备迎接英雄的归来，当他们看到出现在金属栈桥最前方的许乐时，没有任何人命令，爆发出剧烈的欢呼声和掌声。\n\n    这时候大厅正中央的环形光幕柱上出现了联邦舰队司令，洪予良上将温和的容颜，这位联邦唯一的三星女将军微笑说道：“许乐上校",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "载舰用最快的速度脱离致命的荒芜矿星，画了一道清晰的气流线条，飞进气空结合区域的主舰腹部。\n\n    沉重巨大的隔舱门缓缓打开，一群联邦军官从金属栈桥上合主舰大厅走去，面容苍白瘦削的许乐被简水儿轻轻扶着走在最前面。\n\n    联邦主舰指挥大厅里的联邦官兵们早已全体起立，准备迎接英雄的归来，当他们看到出",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "脱离致命的荒芜矿星，画了一道清晰的气流线条，飞进气空结合区域的主舰腹部。\n\n    沉重巨大的隔舱门缓缓打开，一群联邦军官从金属栈桥上合主舰大厅走去，面容苍白瘦削的许乐被简水儿轻轻扶着走在最前面。\n\n    联邦主舰指挥大厅里的联邦官兵们早已全体起立，准备迎接英雄的归来，当他们看到出现在金属栈桥最前",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "上将温和说道：“不过有件事情我必须批评你们。简水儿少校，虽然知道你们两个人肯定有很多私密话要说，但是以后请不要再关闭通信系统了，要知道刚才总统先生亲自打电话过来询问，那一段无线电静默是出了什么问题。”\n\n    看见向来严肃的联邦舰队司令居然合用这种语气打趣许乐和简水儿，舰队官兵们知道女将军的心情肯",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "在少将舰长的亲自陪伴下，已经换上件崭新联邦上校军服的许乐，迎着无数炽热的目光和雄浑的军乐声走出了战舰。\n\n    然后是突如其来的安静，就在一瞬间，欢呼声和军乐声戛然而止，只有傍晚的异国微风轻轻吹拂着基地上方的联邦军旗。\n\n    一个浑厚的声音大声喊道：“敬礼!”\n\n    站在战舰四周",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

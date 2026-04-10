@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 58,
+  "chapter_title": "第五十八章 施公子的真实身份",
+  "filename": "ch_0058_第五十八章 施公子的真实身份.txt",
+  "char_count": 3565,
+  "timestamp": "2026-04-10T11:53:35.113671",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第五十八章 施公子的真实身份 \n\n    施清海这个人很奇妙，明明想着不去打探别人的秘密，但不知道是本能里的固执还是他所从事工作的性质，让他总是忍不住好奇的念头。好吧，既然人们都喜欢听奇遇，许乐也只好编造一个全新的奇遇，不然他真没办法解释在夜店门口，怎么可能打败一个军中的强者，一想到",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "些年没听说费城那家有什么子弟流落在外……施清海看着许乐的背影摇了摇头，有些相信了对方的离奇遭遇，笑着心想，只怕这小子自己都不清楚那个教他打架本事的牛人究竟是什么来历。\n\n    既然心里有了确定的想法，满足了好奇心，多了一些值得思考的好玩事情，施清海很自然地换了话题：“你准备一直在梨花大学当门房？国",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "史长河里曾经偶然出现的帝制，早在三十七个宪历之前就已经宣告终结，这个社会里自然没有皇帝，当然也不可能存在什么太子。施清海和那个中年人口里所说的太子很明显是一个代号，当然，他们所说的也不可能是帝国的太子，据说那个遥远的星际帝国当今皇帝陛下只有一位女儿。只是……什么样的人物可以让邹家兄妹千里来到临海，只",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的交谈中，旁边安静听着的许乐，大致知道了事情是怎么回事。\n\n    邹家果然动用了关系，将夜店门口的冲突强行压了下去，第三军区的人和临海外勤办事处的人发生冲突，并且拔了枪，这件事情如果被有心人利用，一定会牵扯到国防部里那位大佬，邹家不会眼睁睁看着这一幕发生，宁肯将这件事情低调处理。许乐走出了警察局门",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "。”施清海从裤子口袋里摸出皱巴巴的烟盒，叼了一根，扔过去一根，含糊不清说道：“没什么前途，你清不清楚将来究竟想做什么？”\n\n    许乐接过香烟和火机点燃，深深地吸了一口气，学着当年老板大叔的模样试图想要吐几个完美的烟圈，结果却吐成了加湿器冒出来的散乱蒸气。他咳了两声，看着施清海，笑着心想对方明明都",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "是帝国的太子，据说那个遥远的星际帝国当今皇帝陛下只有一位女儿。只是……什么样的人物可以让邹家兄妹千里来到临海，只为试图见他一面？什么样的人物能够被施清海称为太子？\n\n    中年人低头思考片刻，似乎接受了施清海的解释，忽然开口说道：“那个叫许乐的人是谁？你和他接近有什么目的，需要备案吗？”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "么相信他的话，哈哈笑着问道。\n\n    许乐的心头微动，纯粹是下意识里在脑海中冒出一个姓氏，鬼使神差说道：“好像姓……李？”\n\n    施清海脸上还是不以为意，然而却像是想到了什么，眉宇间一凛，陷入了思考之中。他在心里想着这个姓氏，有些不敢往那个方向联想，可如果许乐说的是真话，倒可以解释这一切，不过",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "统，相关预算法案的通过则有管理委员会的三百多名议员，对案件的审理判结则有法院系统。历史长河里曾经偶然出现的帝制，早在三十七个宪历之前就已经宣告终结，这个社会里自然没有皇帝，当然也不可能存在什么太子。施清海和那个中年人口里所说的太子很明显是一个代号，当然，他们所说的也不可能是帝国的太子，据说那个遥远的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "和能力，别说掀开大叔之死的内幕，就算是要靠近那块黑布，都是痴心妄想。\n\n    施清海看出了他眼里的沉重与伤感，沉默半晌后忽然说道：“好好地完成你的人生理想吧，以后有什么事情需要我帮忙，尽管开口。”\n\n    ……\n\n    ……\n\n    事态的发展没有出乎施清海的预料，清晨七点多钟，临海警察总部",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "了一番，这种家族出来的公子小姐怎么可能咽下这口气。紧随而来的，想必就是对方暗中的无情报复，施清海有些担心地看着他说道：“我就不用你担心了，哪怕被开除，我怎么也是一院出来的优秀学生，院里那些级别高的吓人的教授，总可以保着我。”\n\n    “我不知道你为什么要和那对兄妹发生冲突。”许乐正要走进铁门的时候",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "建筑的顶层天台上，却有两个人正不畏高不畏热地进行着谈话，其中一人年龄约摸在四十岁左右，面相严肃，目光柔和之中带着一丝威严，另一人浑身酸臭还夹着一丝残余的酒气，那身皱巴巴的西装比他嘴上叼的那根皱巴巴的香烟还要令人生厌。\n\n    “005从a到z的系列电子间谍卫星正在咱们头上五百八十八公里的太空不停地",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "将这件事情低调处理。许乐走出了警察局门口，迎着扑面而来的微凉晨风，忍不住摇了摇头，号称民主自由的联邦社会，其实依然是这样的等级森严，一个在民间不怎么出名的邹家，便能伸手进警察系统压下某个恶性案件，让thirteen门口的枪击化为乌有……\n\n    施清海开车将许乐送到了梨花大学后门，靠在车身上看着人",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "去打探别人的秘密，但不知道是本能里的固执还是他所从事工作的性质，让他总是忍不住好奇的念头。好吧，既然人们都喜欢听奇遇，许乐也只好编造一个全新的奇遇，不然他真没办法解释在夜店门口，怎么可能打败一个军中的强者，一想到这点，许乐便有些头痛，发现自己终究还是没有太多处世的经验，为了解释一件事情，总要不停地撒",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "佬，邹家不会眼睁睁看着这一幕发生，宁肯将这件事情低调处理。许乐走出了警察局门口，迎着扑面而来的微凉晨风，忍不住摇了摇头，号称民主自由的联邦社会，其实依然是这样的等级森严，一个在民间不怎么出名的邹家，便能伸手进警察系统压下某个恶性案件，让thirteen门口的枪击化为乌有……\n\n    施清海开车将许",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "两个人放了出去。那些端着咖啡提神的警察与施清海开着极损的玩笑，施清海反骂了几句，在这样的交谈中，旁边安静听着的许乐，大致知道了事情是怎么回事。\n\n    邹家果然动用了关系，将夜店门口的冲突强行压了下去，第三军区的人和临海外勤办事处的人发生冲突，并且拔了枪，这件事情如果被有心人利用，一定会牵扯到国防",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

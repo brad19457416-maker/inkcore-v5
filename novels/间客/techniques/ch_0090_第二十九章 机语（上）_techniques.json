@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 90,
+  "chapter_title": "第二十九章 机语（上）",
+  "filename": "ch_0090_第二十九章 机语（上）.txt",
+  "char_count": 3251,
+  "timestamp": "2026-04-10T11:53:35.152435",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "肃地回过头去。对着自己关系亲密的同学们转述了一遍施清海的话。在这个时候，施清海已经离开了座位，至于他为什么要戳穿那台蓝黑色机甲的机语，那就只有他自己知道。\n\n    第一军事学院的交流学生其实前天就到了，这些学生都有军官的身份，不苟言笑，满脸冷峻，在梨花大学地女学生眼中，这都是帅气成熟地表现，而在男",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "微皱眉，对坐在自己身后的周教授问道。\n\n    周教授出自军中，对于这一套军痞子才会用的机语当然并不陌生，一张老脸早已经黑沉下来，强行压制住内心的愤怒，瞪了一眼校长身边那个穿着军服的中年人，点了点头。\n\n    从不知校长轻轻地吸了一口气，脸上浮现出一丝微笑，右手的手指却开始轻轻敲打起了主席台的桌面",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "优秀学生代表们的脸色也渐渐变得难看起来。\n\n    一直站在邝教授身后的年轻军官，忽然离开了主席台，来到了那两台机甲的旁边，打开了通讯器，对着全封闭的对战室内通话道：“收敛一些！外面的学生知道你那些机语的意思，已经开始吵翻天了。”\n\n    蓝黑色机甲操作室内，那个一头卷发的军官士兵正在无聊地打着哈",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "学生对着巨大光幕上的蓝黑色机甲大骂了一句什么，就如同溅进油锅里的火星，顿时点燃了所有梨花大学男学生的愤怒，无数的脏话掩盖了控制声里传来的讲解声，响彻了整个综合馆。\n\n    “学生们说的是真的吗？”梨花大学校长从不知，听着四面八方响起的声音，忍不住微微皱眉，对坐在自己身后的周教授问道。\n\n    周",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "学的女学生瞪了这个家伙一眼，说道：“瞎说什么呢？那是通过三级测试时的操作，说明机甲里地军官留有余力，轻松无比。”\n\n    施清海耸耸肩，没有与她争辩什么。倒是那个男学生凑了过来，很认真地问道：“我也总觉得开机甲那小子态度好像有些问题，感觉挺傲的，你看出什么来了？”\n\n    “古海军有旗语，其实机",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "防卫工作实在是称得上森严二字。\n\n    就在这个时候，施清海身边一个梨花大学的女学生兴奋着自言自语说道：“真帅……果然不愧是第一军事学院的高材生，这机甲就像是活过来一样。”\n\n    女学生身边的男学生，本来也对这些充满暴力美感地战争机器无比羡慕，但听到这句话后，表情却有些怪怪的。雄性动物能够颇有",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "第二十九章 机语（上） \n\n    不知道出于什么原因，从很久以前奠定人类社会各个区域基础的五人小组开始，人类对于机甲的设计，总是习惯成自然地向着人体靠拢，而很少会出现拟生态的机甲，比如蜘蛛，比如蛇……或许是那种机甲太过丑陋，不符合人类军人的审美观，又或者是因为科学家们最后",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "微微皱眉，一院固有的骄傲情绪又开始发作，沉声说道：“这只是误会，毕竟不是对战练习，安达同学的机甲操作一向有些小地方不够严谨，等下来后，我会好好地教育他。”\n\n    从校长回复了沉默，没有理他，只是听着综合馆里几千人的脏话漫天飞舞着，微微一笑，毫不在意。\n\n    脏话渐渐已经从蓝黑色的机甲指向了第",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "坚不可摧的护甲和动力装置，让机甲展现了比人类身躯远为恐怖的力量。\n\n    机甲操作也有风格，这是从无数的细节当中体现出来，比如滑步时的行走曲线，比如腾跃时的必要高度，比如机甲偏头时的那一瞥……嗯，用前第二军事学院某叛国机修师的话来说，没有形成机甲操作风格的驾驶者，那和开汽车有个什么鬼的区别？",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "不过那些外表坚不可摧的护甲和动力装置，让机甲展现了比人类身躯远为恐怖的力量。\n\n    机甲操作也有风格，这是从无数的细节当中体现出来，比如滑步时的行走曲线，比如腾跃时的必要高度，比如机甲偏头时的那一瞥……嗯，用前第二军事学院某叛国机修师的话来说，没有形成机甲操作风格的驾驶者，那和开汽车有个什么鬼的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

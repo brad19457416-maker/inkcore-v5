@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 413,
+  "chapter_title": "第七十三章 国民少女演技派",
+  "filename": "ch_0413_第七十三章 国民少女演技派.txt",
+  "char_count": 4021,
+  "timestamp": "2026-04-10T12:04:59.213829",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "儿，本应只出现在人类的想像中，或者是出现在凭想像绘制的动画片中在十二岁时出现在荧幕之上，引来联邦无数风潮。\n\n    在东林大区枯燥生活，简水儿是所有失业矿工和孤儿们最大的精神寄托，他们的感触要比一般的联邦公民更深刻几分。许乐明明一年多前就曾经与她接触过，可此时看着这一幕，看着星光中的少女淡然回眸一",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "“幸亏我在文艺圈里混了这么多年，至少混了一点儿好演技。”\n\n    桐姐无可奈何，怜惜地望着简水儿，心想只怕许中校也不会相信这件有些荒唐的事情而这一对年轻男女也不仔细想想，以军方对许乐的看重，却让他来给国民少女当保镖，这究竟为什么。\n\n    此去西林漫漫旅途，孤男寡女朝夕相处，飞船外金风微作，落地",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "冰清玉洁的玉女派掌门人，双手紧紧地着旋转椅背，毫不示弱地瞪着许乐，生气地鼓着粉嫩的双腮，蹙着眉尖重复说道：“相亲。”\n\n    许乐用最快的速度取下鼻梁上的墨镜，用力地揉了揉眉心，确认自己不是在老东西营织的美妙黑梦之中，面前这位大明星也不可能无聊到用这种事情来调戏自己，站在原地，只觉头皮一阵发麻，浑",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "杜少卿都吃了他一个闷亏……像这种人，国防部不把他派到西林前线去打仗，却偏偏调来给小姐你当保镖，你说是为什么？”\n\n    简水儿揉了揉鼻尖，咬着下嘴唇恨恨说道：“也有可能因为大家认为我是灾星，可以诱出一些人来，然后让他干掉得军功。”\n\n    “胡说八道。”桐姐无可奈何说道：“上次利家大少爷和你相完",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "……\n\n    ……\n\n    看着那个小眼睛男生走出了房间，简水儿眼眸里的狡黠取笑之意瞬间消失，取而代之的是强烈的尴尬。\n\n    她就像个少女石膏像般安静地蹲坐在椅上，然后毫无预兆地跳到了地上，苦恼无比地拼命揉着蓬松\n\n    ，绕着那张柔软的大床快速行走，嘴里咕哝个不停：了，丢人了",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "是强烈的尴尬。\n\n    她就像个少女石膏像般安静地蹲坐在椅上，然后毫无预兆地跳到了地上，苦恼无比地拼命揉着蓬松\n\n    ，绕着那张柔软的大床快速行走，嘴里咕哝个不停：了，丢人了……这下把脸都丢干净了。”\n\n    她越想越觉得丢脸，漂亮的面容上满是羞愧的微红晕色，跳到床上把自己的脸埋进了枕头里，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "调来给小姐你当保镖，你说是为什么？”\n\n    简水儿揉了揉鼻尖，咬着下嘴唇恨恨说道：“也有可能因为大家认为我是灾星，可以诱出一些人来，然后让他干掉得军功。”\n\n    “胡说八道。”桐姐无可奈何说道：“上次利家大少爷和你相完亲后，你口里那位老道兄倒是很喜欢，可那位夫人不知道为什么偏又要横生事端，家",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "何须所谓时尚品味去雕琢？\n\n    许乐从来不会看时尚杂志，不知道联邦时尚圈对这位国民少女恨其不争的愤怒，叹其天然宝石般灿烂的无奈，外加五体投地的感慨，但当他看到星光中的少女回眸时，却骤然生出相同的感觉。\n\n    少女的鼻梁俏直，双唇柔润，眼睛明亮汪然，眼睫毛细长，忽闪忽闪眨着的时候，就像要把所有",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "抹宜浓妆抵说的便是她。\n\n    这是一位占有了所有的造物精，令人心动心怜心生亲近之意的人儿，本应只出现在人类的想像中，或者是出现在凭想像绘制的动画片中在十二岁时出现在荧幕之上，引来联邦无数风潮。\n\n    在东林大区枯燥生活，简水儿是所有失业矿工和孤儿们最大的精神寄托，他们的感触要比一般的联邦公民",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "悔，除了某些不可言说的压力之外，这位时尚皇帝必须承认，他自己也无比欣赏简水儿在荧幕上所展现出来的率真性格和无限魅力。\n\n    最关键的是，国民少女偶像哪怕穿着大红灯笼裤配绿色重帘紧身裙，只要那张完美无暇的美丽面容和那一头微蓬的紫发不被遮住，便足以吸引任何人的目光。天生出水清芙面，何须所谓时尚品味去",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "很久很久，没有在少女的眉眼间发现一丝勉强和遮掩，他有些无奈地摇摇头，再挠了挠头，把墨镜重新戴上，转身走出了舱门。\n\n    ……\n\n    ……\n\n    看着那个小眼睛男生走出了房间，简水儿眼眸里的狡黠取笑之意瞬间消失，取而代之的是强烈的尴尬。\n\n    她就像个少女石膏像般安静地蹲坐在椅上，然后",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "近在咫尺的椅中少女，舔了舔嘴唇，无辜说道：“我甚至不知道你在说什么。”\n\n    太空飞船主舱内一片安静，四周墙壁上挂着的油画里，全部是联邦舰队的历任司令，他们和她们温和地笑着，安静地看着舱内这一对沉默的年轻男女。\n\n    ……\n\n    ……\n\n    长久的沉默之后，简水儿忽然莞尔一笑，蓬松紫",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

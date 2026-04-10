@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 496,
+  "chapter_title": "第一百三十八章 除争",
+  "filename": "ch_0496_第一百三十八章 除争.txt",
+  "char_count": 3652,
+  "timestamp": "2026-04-10T12:04:59.268212",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "们出现在前线，而不是他们死翘翘。”\n\n    挂断电话之后，他缓缓收回目光，低头想着远方唯一的朋友，心想战场之上哪里又能真正安全的任务？\n\n    长桌对面一个中年男人颇有趣味地看着他，说道：“你不可能说服那块石头，事实上，我很想把他调到西林来当我的亲兵。”\n\n    这位中年男人穿着标准的第四军区",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "眼中的西林军阀，然而你们并没有依某些大人物一般，藏在十七师里享受荣光，躲避着危险。正因为有你这样的人存在，所以我从来不认为，所谓世家或上流社会天然就有无耻的属性。”\n\n    “如果我迫于压力，把这些老爷兵放回首都星圈，难道你觉得对钟家公平？对你公平？对那些死在前线的普通士兵公平？”\n\n    听完",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，但我必须提醒你，他身份不同。”\n\n    许乐紧握着电话，一言不发。\n\n    邰之源在电话中淡淡说道：“锡安议长的儿子与儿媳妇参加一次联邦星际探险开发时，不幸殉难，他们家现在就这么一个男丁。”\n\n    “什么是身份？”沉默很久后，许乐开口说道：“这三年里，我一直很得意于自己没有成为你的下属伙伴",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "人物一般，藏在十七师里享受荣光，躲避着危险。正因为有你这样的人存在，所以我从来不认为，所谓世家或上流社会天然就有无耻的属性。”\n\n    “如果我迫于压力，把这些老爷兵放回首都星圈，难道你觉得对钟家公平？对你公平？对那些死在前线的普通士兵公平？”\n\n    听完许乐的话，电话那头的邰之源陷入了沉默，",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。两年多间安静的图书馆相逢之后，这一对身份地位气质理念相差极大的年轻人，在朋友这种名义下的相处，还是第一次爆发出如此强烈的对冲。\n\n    行星外太空中，邰之源拿着电话，回首望向窗外的幽深夜空与下方不时燃起的洵丽烟火，平静而用心地品咂着许乐难得的长篇大论。\n\n    他是联邦阴影幕后的那位太子爷，自",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "分之一强都死在了战场上。”\n\n    不等邰之源开口，他又继续说道：“你在s2当过兵，受过伤，经历过危险，我知道你现在也在西林前线。”\n\n    “你是邰家的太子爷，钟家是首都政客们眼中的西林军阀，然而你们并没有依某些大人物一般，藏在十七师里享受荣光，躲避着危险。正因为有你这样的人存在，所以我从来不",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "多间安静的图书馆相逢之后，这一对身份地位气质理念相差极大的年轻人，在朋友这种名义下的相处，还是第一次爆发出如此强烈的对冲。\n\n    行星外太空中，邰之源拿着电话，回首望向窗外的幽深夜空与下方不时燃起的洵丽烟火，平静而用心地品咂着许乐难得的长篇大论。\n\n    他是联邦阴影幕后的那位太子爷，自然有自",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "一样的沉默。\n\n    不知道过了多久，邰之源自嘲地笑了笑，用手指轻轻地抚过唇上的茸毛，想到先前许乐愤怒论功之时，并没有提到两次救了自己的命，明白这块石头执拗地把那些当成私谊，而不像那些却是公义。\n\n    一念及此，他的心脏略现柔软，平静开口说道：“就连总统先生都顶不住某个阶层的压力，你只是一个小",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "为，所谓世家或上流社会天然就有无耻的属性。”\n\n    “如果我迫于压力，把这些老爷兵放回首都星圈，难道你觉得对钟家公平？对你公平？对那些死在前线的普通士兵公平？”\n\n    听完许乐的话，电话那头的邰之源陷入了沉默，片刻后轻声说道：“钟家需要自己的牺牲，在这个民丨主社会里谋求本不应有的军事力量，而",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "回到首都星圈后，那些大人物会怎么对付我。”他仰头眯眼望向头顶的星空，说道：“这里是战场，每时每刻都有无数人死去，我都不知道自己还能不能活下来，重新回到s1，既然如此，我怕那些老家伙做什么？”\n\n    “在s2那幢大楼里我本就该死了，在狐狸堡垒的无尽黑夜里，我以为自己也会死，在倾城军事监狱里，我以为",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "绪渐渐松动，桌椅移动声、咳嗽声、低声言论声响了起来。\n\n    国防部金星纪录片厂的摄影组终于被允许进入礼堂，许乐则是悄无声息地从侧门处走了出去，站在西林夜空下，他点燃了一根烟，想到其实还有一些话没有说，不过说那些真没有太多的必要。\n\n    一直握在他手中，沉默了很久的军事电话，终于再一次倔强地响",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "把刀的朋友，只是基于太子爷的骄傲与矜持并不肯名言，此时却被许乐油盐不进且不领情的态度所激怒，呼吸微微沉重起来。\n\n    片刻之后，他带着一丝嘲讽与不屑说道：“不要忘记，说到平等公平，如果你没有费城李家的背景，没有总统的欣赏，军方那些大佬的暗中助力，就凭你在基金会大楼里做的事情，你以为自己能从牢里出",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "：“你说的不错，总统和军方需要的只是他们出现在前线，而不是他们死翘翘。”\n\n    挂断电话之后，他缓缓收回目光，低头想着远方唯一的朋友，心想战场之上哪里又能真正安全的任务？\n\n    长桌对面一个中年男人颇有趣味地看着他，说道：“你不可能说服那块石头，事实上，我很想把他调到西林来当我的亲兵。”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "都理直气壮，像***壮汉那么壮！”\n\n    ……\n\n    ……\n\n    嘲讽怒斥之后，电话两端同时变得一片死寂。两年多间安静的图书馆相逢之后，这一对身份地位气质理念相差极大的年轻人，在朋友这种名义下的相处，还是第一次爆发出如此强烈的对冲。\n\n    行星外太空中，邰之源拿着电话，回首望向窗外的",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "上本来就不应该有这种人。”\n\n    电话那头再次沉默，邰之源一直认为总统先生这次激进过头的行动，而担心作为那把刀的朋友，只是基于太子爷的骄傲与矜持并不肯名言，此时却被许乐油盐不进且不领情的态度所激怒，呼吸微微沉重起来。\n\n    片刻之后，他带着一丝嘲讽与不屑说道：“不要忘记，说到平等公平，如果你",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "阀，然而你们并没有依某些大人物一般，藏在十七师里享受荣光，躲避着危险。正因为有你这样的人存在，所以我从来不认为，所谓世家或上流社会天然就有无耻的属性。”\n\n    “如果我迫于压力，把这些老爷兵放回首都星圈，难道你觉得对钟家公平？对你公平？对那些死在前线的普通士兵公平？”\n\n    听完许乐的话，电",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

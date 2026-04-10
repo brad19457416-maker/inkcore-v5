@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 726,
+  "chapter_title": "第一百零七章 书院的教育",
+  "filename": "ch_0726_第一百零七章 书院的教育.txt",
+  "char_count": 2405,
+  "timestamp": "2026-04-10T12:11:27.028539",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "这件事情的发生。\n　　此时宁缺陪着皇后娘娘与六皇子，离开梧州，继续向长安城而去。\n　　他不知道南方的危险局面，但能够猜到，现在的大唐面临着什么，只是在滔滔大势面前，即便是他也没有能力改变什么。\n　　他能做的事情，就是尽快回到长安城。\n　　夫子修建了长安城，布下了惊神阵。\n　　颜瑟大师，把惊神阵的阵眼",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "四散逃走。\n　　石桥上那名太监，早已被乱蹄踩的浑身是血，昏迷不醒，不知是生是死。\n　　宁缺轻拉马缰，来到车窗畔，看着桥下混乱的面画，说道：“在书院的时候，我闲时也读过几本史书，每每看到那些王爷大将，就因为皇帝的一道旨意，便被太监或文臣羞辱，拥兵不敢过河，我便觉得不可思议。”\n　　皇后拉起窗帘，说道：",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "传旨的人杀了，娘娘自然便能过桥。”\n　　皇后沉默片刻后说道：“有理。”\n　　陈公公听着这番对话，不由愤怒到了极点，拿着马鞭，在桥上重重地抽打一记，喝道：“你是何人！竟敢妄言杀害天使！”\n　　他在宫中时，便以朝鞭耍的好出名，当年陛下也正是看中了这点，才让他有了机会向上爬，此时一鞭抽出，端的是响亮无比。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "便是混乱的世界，永远处于弱肉强食的黑暗时刻。”\n　　宁缺说道：“我在书院学的第一堂课便是礼，当时曹知风教授对我们说，书院的规矩很简单，谁强谁说了算，这就是礼。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "那辆马车，躬身行礼，然后傲然说道：“陛下有旨，长安城险殆，太后请就地停下，择地暂避。”\n　　宁缺骑在马上，没有说话。\n　　马车里传出皇后平静的声音：“陈公公，旨意在哪里？哀家要看一看。”\n　　陈公公神情微僵，声音却显得愈发强硬，说道：“这是陛下的口谕。”\n　　“原来如此。”\n　　宁缺说道：“我是说宫",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "神官亲自前往富春江畔的崔园，与清河郡诸阀阀主相见，施予神恩祝福。\n　　裁决大神官没有理会这些事情，她期待着与唐人强者的相遇。\n　　那几辆华贵马车则一直很安静。\n　　虽然没有亲眼看到，但所有人都已经猜到，世间第一强者剑圣柳白，大概便在马车里，另位数辆马车里又坐着的是什么大人物？\n　　西陵神殿的大军，没",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "示长安城，便带着凉山州的这队厢军赶来拦阻。\n　　陈公公站在石桥中间，看着那辆马车，躬身行礼，然后傲然说道：“陛下有旨，长安城险殆，太后请就地停下，择地暂避。”\n　　宁缺骑在马上，没有说话。\n　　马车里传出皇后平静的声音：“陈公公，旨意在哪里？哀家要看一看。”\n　　陈公公神情微僵，声音却显得愈发强硬，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "修僧只有七根手指，正是悬空寺尊者堂首座七枚大师。\n　　七枚大师向唐军帅营走去，脚步舒缓而稳定。\n　　无数枝羽箭落在他的身上，却无法刺破他的肌肤，便断裂落下。\n　　无数把朴刀落在他的身上，却无法让他的身体颤抖一丝。\n　　七枚大师没有出手反击，只是沉默行走，向着唐军帅营行走。\n　　他向着镇西大将军舒成走",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "予神恩祝福。\n　　裁决大神官没有理会这些事情，她期待着与唐人强者的相遇。\n　　那几辆华贵马车则一直很安静。\n　　虽然没有亲眼看到，但所有人都已经猜到，世间第一强者剑圣柳白，大概便在马车里，另位数辆马车里又坐着的是什么大人物？\n　　西陵神殿的大军，没有在清河郡里坐更长时间停留。\n　　铁骑的马蹄踏过安静",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

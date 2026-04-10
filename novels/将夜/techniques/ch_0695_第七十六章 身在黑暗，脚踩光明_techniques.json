@@ -1,0 +1,232 @@
+{
+  "novel": "将夜",
+  "chapter_number": 695,
+  "chapter_title": "第七十六章 身在黑暗，脚踩光明",
+  "filename": "ch_0695_第七十六章 身在黑暗，脚踩光明.txt",
+  "char_count": 3419,
+  "timestamp": "2026-04-10T12:11:26.929015",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "说过自已对抗昊天的方法是什么，我不往三界外跳，直向人间去，把自已与人间融为一体，这种方法很安全，又很危险。”\n　　“但昊天并没有找到您。”\n　　“我就是人间，人间之力就是我的一部分。现在我的一部分，便在桑桑的体内。从那一刻开始，它就已经找到了我。”\n　　夫子看着桑桑微笑说道：“在这些天的旅程中，它一",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "子固然强大，但如果野牛的数量足够多，它也只有死路一条。”\n　　“蚂蚁固然卑贱，如果有足够多的蚂蚁飞上天空，也可以把整片天空都遮住，如今想来，佛陀当年说人人可以成佛，或者便是这个道理。”\n　　宁缺说道：“您早说，昊天害怕人类繁衍生息强大，所以在人间发展无数万年，到了某种临界值的时候，它便会降下大灾难灭",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "之后，便一直试图让桑桑和我保持足够远的距离，只不过那时候的他，以为桑桑是冥王的女儿，却没有想到事实的真相竟是如此。”\n　　“我不相信命运，更不相信我的命运会注定与她的命运纠缠不可分离，然而事实上，在天意的安排下，这些事情早已注定。”\n　　夫子看着宁缺说道：“十八年前，我在书院后山看着你从柴房里出来，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "以后，只看你如何选择。”\n　　宁缺看桑桑。\n　　他眼中的情绪很复杂，再如何精妙的文字都无法形容，有些陌生，有些熟悉，有些难过，有些悲伤，有些畏惧，有些挣扎。\n　　他似乎想说些什么，但最终什么都没有说。\n　　他望向头顶被柳枝分割成很多区域的天空，问道：“老师，您有信心吗？”\n　　夫子随他一道望天，叹息",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "战胜你。”\n　　……\n　　……\n　　桑桑的双脚离开了河畔的草地。\n　　她飘到了泗水之上，微黄的短发，瞬间变得无比乌黑，然后渐渐变长，如瀑布般披散在她的肩头，又像是无数道光线。\n　　她黑色的眼瞳以肉眼可见的速度变白，然后与眼白相融，紧接着变淡，淡到仿佛透明一般，然后有淡淡的圣洁光团氤氲其间。\n　　两种",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "字都无法形容，有些陌生，有些熟悉，有些难过，有些悲伤，有些畏惧，有些挣扎。\n　　他似乎想说些什么，但最终什么都没有说。\n　　他望向头顶被柳枝分割成很多区域的天空，问道：“老师，您有信心吗？”\n　　夫子随他一道望天，叹息说道：“从来没有真正打过，哪里来的信心？”\n　　无数年来，夫子一直在思考怎样战胜昊",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "着它，所以我吃肉都没有味道，所以我带着你满世界地找肉吃。”\n　　桑桑看着泗水里的柳影，瘦削的身子微微颤抖，惘然不安，然后就像最开始在荒原上看到夫子发脾气时那样，她开始悲伤。\n　　“其实我很早便隐隐察觉到，我的命运和你的命运会纠缠在一起。我身在红尘中，心系人间事，感知不够清晰，你大师兄身心皆净，所以比",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "第七十六章 身在黑暗，脚踩光明\n　　绝对的光明就是绝对的黑暗，这是很多人都懂的简单道理，当年隆庆皇子与宁缺入书院二层楼登山比试时，便曾经在夫子的幻境里有所感悟，设置幻境的夫子，又怎么可能不明白？只是正如他感慨的那样，大道至简而无形啊。\n　　宁缺看过天书明字卷，看过佛祖留下的笔记，在",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "缺入书院二层楼登山比试时，便曾经在夫子的幻境里有所感悟，设置幻境的夫子，又怎么可能不明白？只是正如他感慨的那样，大道至简而无形啊。\n　　宁缺看过天书明字卷，看过佛祖留下的笔记，在荒人部落里生活过很长一段时间，他曾经被人认为是冥王之子，桑桑一直被认为是冥王之女，他对冥王相关的知识有很深的认识，此时听到",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "找肉吃。”\n　　桑桑看着泗水里的柳影，瘦削的身子微微颤抖，惘然不安，然后就像最开始在荒原上看到夫子发脾气时那样，她开始悲伤。\n　　“其实我很早便隐隐察觉到，我的命运和你的命运会纠缠在一起。我身在红尘中，心系人间事，感知不够清晰，你大师兄身心皆净，所以比我的感知还要更加强烈。”\n　　“所以那年他从荒原",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "觉得自已的心脏忽然间被撕碎成泗水畔的柳枝，痛苦地唤出声来，唇角淌着血，伸手便要去抓她的脚。\n　　夫子悠然叹息一声，轻拂衣袖，把他定在河畔。\n　　静静流淌的泗水水面上，桑桑的身体不停发生着变化，瘦削的身子渐渐变得丰盈，黑色的衣裳被撑破，变成无数道丝缕，露出赤裸的肌肤。\n　　黑色的长发随风飘舞，她脸上的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "我的故事，我要去试试自已的方法究竟能不能行，至于以后故事怎么写，那是你的事情。”\n　　宁缺说道：“我担心自已没有能力写这个故事。”\n　　“没有冥王，也可以说有很多冥王，昊天是冥王，因为它要降下永夜惩罚人类，我是冥王，因为我要逆天，她也是冥王，因为她就是昊天。你也是冥王，因为你来自另一个世界，按照你的",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "……\n　　但他依然不相信，或者不肯相信，目光在夫子和桑桑之间来回，眼眸里的情绪显得极为痛苦，声音微哑说道：“昊天没道理做这么多事，一时光明一时黑暗，它闲着没事做，还是想和人间开玩笑？”\n　　“老天爷不开玩笑，它做事情自然有目的。”\n　　夫子看着他说道：“昊天做这么多事，撒弥天大谎，构惊天之局，除了永",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "然不安，然后就像最开始在荒原上看到夫子发脾气时那样，她开始悲伤。\n　　“其实我很早便隐隐察觉到，我的命运和你的命运会纠缠在一起。我身在红尘中，心系人间事，感知不够清晰，你大师兄身心皆净，所以比我的感知还要更加强烈。”\n　　“所以那年他从荒原回来之后，便一直试图让桑桑和我保持足够远的距离，只不过那时候",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "”\n　　“我此时已经在路上，自然来不及回头，而且这是我的故事，我要去试试自已的方法究竟能不能行，至于以后故事怎么写，那是你的事情。”\n　　宁缺说道：“我担心自已没有能力写这个故事。”\n　　“没有冥王，也可以说有很多冥王，昊天是冥王，因为它要降下永夜惩罚人类，我是冥王，因为我要逆天，她也是冥王，因为她",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "人人可以成佛，或者便是这个道理。”\n　　宁缺说道：“您早说，昊天害怕人类繁衍生息强大，所以在人间发展无数万年，到了某种临界值的时候，它便会降下大灾难灭世？”\n　　夫子说道：“应该便是这个道理，当然，这依然只是你我的推论，真相到底如何，看来只能等会我当面来问它。”\n　　宁缺忽然说道：“我懂了。”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "目光，望向夫子，说了一句话。\n　　“其实，我也没有信心战胜你。”\n　　……\n　　……\n　　桑桑的双脚离开了河畔的草地。\n　　她飘到了泗水之上，微黄的短发，瞬间变得无比乌黑，然后渐渐变长，如瀑布般披散在她的肩头，又像是无数道光线。\n　　她黑色的眼瞳以肉眼可见的速度变白，然后与眼白相融，紧接着变淡，淡到",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

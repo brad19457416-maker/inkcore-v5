@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 59,
+  "chapter_title": "第五十九章 长安乱",
+  "filename": "ch_0059_第五十九章 长安乱.txt",
+  "char_count": 3467,
+  "timestamp": "2026-04-10T12:11:11.964814",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "四十几名青衣青裤青靴的春风亭帮众冷漠站在四周，他们在维持秩序，同时也是向南城所有人宣告自己的进驻，人群最前方，齐老四从下属手中接过一方青色手帕，擦掉嘴角的鲜血，脸上没有任何得意骄傲神情，反而显得有些焦虑不安，因为他知道虽然鱼龙帮今夜趁势侵占了大量地盘，但大哥此刻却在春风亭横街独自面对那些强大敌人的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "嗡鸣振动，如将要破云的真龙，强硬地不停向前突进！\n　　黄豆大小的雨珠落在青石板上，发出啪啪的轻响，被风刮断的新枝发出啪啪的轻响，听雨楼内也发出了啪啪的轻响，那把困住青钢剑的铁木念珠四处迸散！\n　　苦行僧苦笑着闭上了双眼，青钢剑鸣啸着穿过楼内空中那一百多粒铁木念珠，深深刺进他黝黑的眉心，鲜血缓慢渗出，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "随着他的目光落在听雨楼内，让那把薄薄的青钢剑高速刺向铜钵，然后闪电缩回，然后以更快的速度再次刺下，在刹那间竟是连刺数百剑！\n　　比啄木鸟啄树要快无数倍的剑击，极其恐怖地落在铜钵正中央的位置，发出笃笃笃笃的声音，由于剑刺频率太高，声音与声音之间根本听不到任何间断，于是庭院里的人们只能听到一声拉长了的闷",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "事儿？”\n　　……\n　　……\n　　骁骑营营地里火把照耀马场，纵是连绵雨水都无法浇熄，骁骑营副统领楚仁愤怒盯着对面马上那名国字脸汉子，咆哮道：“刘思你这个混帐东西！封营是军部发出来的军令！你胆敢闯营，我就敢砍了你的脑袋！”\n　　国字脸汉子身材极为魁梧高大，即便坐在骏马之上，仿佛双脚也快要垂到地面，听着",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "想到我羽林军中竟然会藏着鱼龙帮的两位当家。”\n　　常思威是名性情温和的中年人，他望着直属上司微微一笑说道：“您是真不知道还是假不知道？军营里挣外手钱的人很多，据我所知将军您在蒙老爷和猫叔那边好像都有些干股。”\n　　费经纬保持着沉默，只是冷冷盯着曹宁的脸，仿佛要把这张老脸盯出花来。\n　　曹宁端起茶碗喝",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "是冷冷盯着曹宁的脸，仿佛要把这张老脸盯出花来。\n　　曹宁端起茶碗喝了两口，说道：“现在说这些事情有何意义？只不过是争些言语上的功夫，你们两个只是小小的校尉，若不是看在春风亭的面子上，我何至于要和你们说这些废话？不过你们也莫要以为靠着春风亭撑腰，就能在本将面前摆谱，本将只需要一纸命令，你们便不能出营，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "公满脸笑容看着他，说道：“没什么别的事情，就是宫禁门那儿听说今儿夜里羽林军提高了警戒等级，我过来问问究竟发生了什么事儿。”\n　　然后林公公转身望向被反缚双手的两名校尉，皱眉问道：“这又是怎么回事儿？”\n　　……\n　　……\n　　骁骑营营地里火把照耀马场，纵是连绵雨水都无法浇熄，骁骑营副统领楚仁愤怒盯着",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "怕的大剑师，因为朝小树的身前一直站着一名少年。\n　　宁缺在积雨的青石板上不停移动，并不灵动而显得格外沉重，每一次靴底踏下便要溅起一蓬水花，而每蓬水花溅起时，他的刀锋便会收割一名唐军精锐的士兵。\n　　朝小树盘膝坐在暴雨间，便等于是把自己的性命完全托付给了他，所以他始终守在朝小树的身前身后，把自己和手中",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "着持刀站在暴雨中沉默的蒙面少年，心中满是绝望的情绪。\n　　巷子里传来了马车的声音。\n　　朝小树的眉头缓缓挑起。\n　　……\n　　……\n　　长安南城，蒙老爷手中最挣钱的勾星赌坊已经变成了一片废墟，被砸烂的赌具扔的满街都是，平日里代表银钱的筹码被浸泡在污臭的雨水里，没有人敢去拣，道路旁，有女眷孩子围着十几",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "铁锅被人用砖头砸破，苦行僧身前的铜钵终于在那沛然万剑之下崩裂而碎！\n　　苦行僧头顶的笠帽随着铜钵破裂同时裂开，黝黑的脸上闪过一丝绝然之色，手印再次变幻，一直守护在他身躯四周的念珠停止了旋转，骤然变成一条黑色的蛟蛇，嗖嗖作响缠上正要刺向自己面门的那把单薄青钢剑，让剑势为之一顿。\n　　朝小树沉默看着楼内",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "：“所以你们就没用了。”\n　　常思威微笑说道：“这世间很多人都死了，我大哥也不会死。”\n　　“这世间从来就没有杀不死的人。”曹宁盯着他的脸寒声说道：“我大唐如此多的贵人想赏春风亭脸，他偏不要，我倒要看看，这么多贵人要他死，他区区一个长安江湖人物还能怎么翻盘！”\n　　话音落处，门帘被掀开，微寒的夜风裹",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

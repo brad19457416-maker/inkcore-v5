@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 720,
+  "chapter_title": "第八十三章 费城故事（一）",
+  "filename": "ch_0720_第八十三章 费城故事（一）.txt",
+  "char_count": 3491,
+  "timestamp": "2026-04-10T12:05:17.570983",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "是这些游客中的一员，对于这些名目各异的修身馆，他比游客们更加关注。\n\n    很多年前那场离开东林的逃亡之旅中，田大棒子便曾经对他提到过费城的修身馆，后来他才知道，那个厉害无比的田大棒子正是费城出身，而且曾经嚣张无比地连踢十几家修身馆，无人能制。除此之外，他在都星圈里所遇到的那些厉害人物，林家的孔武",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第八十三章 费城故事（一） \n\n    费城风景极好。\n\n    s1北半球已经进入冬季，临海州大学城一带更是早已经风雪交加，寒风侵骨，然而这座距离都一千多公里的城市，却依然被淡雅的秋色妆点着，有那么些许萧瑟味道，但更多的是清旷，很难让人生出秋",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "他解下仿皮靴，细心地摆放整齐，穿着袜子走上地板，轻轻走到老爷子身后，鞠躬低声说道：“确实有很多疑问，一些关于当年的疑问，另外还有一些事情，需要您为我指点方向。”\n\n    在帝国知晓很多当年秘辛，牵涉到大叔，更牵涉到历史，他向来认为不能看清楚历史，就很难把握现在和将来，更何况联邦的现在面临着很",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "来最生猛的事迹，是它为联邦贡献了一对姓李的兄弟。其中一人化身万千，以各种各样荒唐奇妙的方式隐隐影响着社会，另一人则是化为神袱，背披宪章光挥，漠然俯临宇宙，守护联邦多年。\n\n    站在半山喷泉广丅场边，许乐下意识回头望去，静静望着山脚湖畔那片占地极大的庄园。\n\n    联邦军神李匹夫，就住在那片庄园",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第八十三章 费城故事（一） \n\n    费城风景极好。\n\n    s1北半球已经进入冬季，临海州大学城一带更是早已经风雪交加，寒风侵骨，然而这座距离都一千多公里的城市，却依然被淡雅的秋色妆点着，有那么些许萧瑟味道，但更多的是清旷，很难让人生出秋实之后尽荒芜的叹息。\n\n    有湖",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "有些纷繁的局面看破，所以他这句话说的异常诚恳。\n\n    听到他的话，李匹夫没有回头，瘦削的肩膀微微颤抖，苍老的声音说道：“在此之前，我也有些问题想问你，坐吧。”\n\n    许乐赶紧挪动双腿，坐到了老人的身旁，腰肢挺直，目光斜视，仪容标准至极。\n\n    “这是在家里，又不是部队，不需要如此。”李匹",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "任那般紧张。\n\n    他解下仿皮靴，细心地摆放整齐，穿着袜子走上地板，轻轻走到老爷子身后，鞠躬低声说道：“确实有很多疑问，一些关于当年的疑问，另外还有一些事情，需要您为我指点方向。”\n\n    在帝国知晓很多当年秘辛，牵涉到大叔，更牵涉到历史，他向来认为不能看清楚历史，就很难把握现在和将来，更何况",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "然而这座距离都一千多公里的城市，却依然被淡雅的秋色妆点着，有那么些许萧瑟味道，但更多的是清旷，很难让人生出秋实之后尽荒芜的叹息。\n\n    有湖水轻轻荡漾，蒸吐水气吸纳燥意，有山奇峻拔起，挡着北面寒风和海那头飘来的暴雨，所以这座城冬暖夏凉，春秋宜人，挑不出半点可指摘之处，就如湖畔那庄园里的老人。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "够清晰地听到里面传来的呼喝声，拳脚破风声，好奇地驻足观看，评头论足，那些黑瞳灵动的男孩儿们，也不知道将来会不会选择来此地进修。\n\n    穿着一件平民服装的许乐今天也是这些游客中的一员，对于这些名目各异的修身馆，他比游客们更加关注。\n\n    很多年前那场离开东林的逃亡之旅中，田大棒子便曾经对他提到",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。一口的啜着。\n\n    “老师……应该还活着。”许乐盯着杯中的大麦茶，声音微哑回答道：“不过他没有出现在我面前，而且……我不认为他会再回到联邦。”\n\n    “祸害活千年。”李匹夫缓缓放下茶杯，面无表情说道：“很多年，很多次，我都以为他是真的死了，结果偏偏他又活了下来。”\n\n    “不用费神去猜",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "杯。\n\n    “我想问的第一个问题是。”李匹夫不知道想再了什么，话语微顿，花白的眉间掠过一丝淡淡的自嘲，石，那个家伙是不是还活着？”说起来都是快要死的人了，可有些事情还是看不开。”\n\n    老爷子有资格自嘲，许乐却没有胆量共嘲，而且虽然他事先做好了心理准备，可依然没有想到老爷子开门见山扔出了这个",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "已经隐退，那便是真的隐退。\n\n    事实上这怎么可能？\n\n    桃树李树不需要说话，下面自然会被人们的双脚碾出一道小径，宪章广丅场上的五人小组雕像也不需要说话，可下方走过的民众总会下意识仰去看，湖畔的李匹夫不再对脚Ｆ事务表任何意见，可联邦政府每每要做出重大决定之前，总习惯要打电话来费城征询他的看",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "量的改变，任何人的心态都会随之而逐渐强大，但不知道为什么，时隔数年，再一次看到军神李匹夫，他依然无比紧张，就像是一个小学生看到严厉的班主任那般紧张。\n\n    他解下仿皮靴，细心地摆放整齐，穿着袜子走上地板，轻轻走到老爷子身后，鞠躬低声说道：“确实有很多疑问，一些关于当年的疑问，另外还有一些事情，需",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "在林园里和邰夫人吃了顿饭，然后去探了次监，再然后……联邦便多了一位打不垮的青年战斗英雄。\n\n    马上要面见联邦军神，许乐却还在半山街巷间游荡，这和他的粗神经无关，他也没有艺术家探幽访古的闲情逸志，只是简水儿替他安排的时间是下午三点，他到的时间太早了些。\n\n    对于一位经年不见客，敢让总统睐幽",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "地板上等待着一位年轻的客人。\n\n    “联邦还有很多事，部队里还有很多事，前线也还有很多事，以你的性格，这么急看见我这个老头儿，看来这一年在帝国里，你应该看到或者说知道或者说猜到了一些什么事情。”\n\n    盘膝半在地板上的老人没有回头，瘦削苍老的身体上随意披着件陈旧的老式睡衣，从而显得他并不如何",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "答道：“不过他没有出现在我面前，而且……我不认为他会再回到联邦。”\n\n    “祸害活千年。”李匹夫缓缓放下茶杯，面无表情说道：“很多年，很多次，我都以为他是真的死了，结果偏偏他又活了下来。”\n\n    “不用费神去猜想，为什么我能猜到他还活着……”\n\n    李匹夫看了他一眼，淡然说道：“上次在监",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

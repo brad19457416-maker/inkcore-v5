@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 469,
+  "chapter_title": "第一百一十一章 这，就是战争(下)",
+  "filename": "ch_0469_第一百一十一章 这，就是战争(下).txt",
+  "char_count": 3639,
+  "timestamp": "2026-04-10T12:04:59.220033",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "队所有的机师们，都看得出来，这些潜伏许久的联邦mx机甲，明显不如先前那台黑色mx强悍，然而……无论是瞬间速率还是火控系统还是……所有的所有……联邦埋伏着的黑色mx机甲。在所有方面都领先于自己的机甲，把自己的机甲压的死死的难以反抗，哪怕是一对三，甚至是一对四，也是如此。\n\n    ……\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "面八方扑去！\n\n    铁七师所有的团，所有的远程火力部队，倾泻而出，声势震天！一直藏到现在的铁七师最强悍的火力部队，并没有参加到战地腹部的机甲战中，官兵们操控着战车，牵引着密集阵火力基地，一脸冷峻严肃地向着山谷外驶去。\n\n    战地腹部的机甲战已然如火如荼，二十几台联邦mx机甲与帝国整整一个机甲",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "国强攻大队。有四个机械营确实高速驶离了阵地，顺着山谷下方的军事便道，封住了山谷战场的四个出口处，开始紧张快速地布置平射榴炮密集阵，看这些部队的调配，似乎是要封住这片山地战场的所有出口……\n\n    嗤嗤嗤嗤剧烈的破空声响起，西北方向那个负责用炮火和自己的生命堵死出口的机械营官兵，还没有来得及完成师部",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "其来，却又堂堂正正有若这颗行星北面的流凌般，从峰顶从岩间从谷下开始进行高速冲刺，狠狠地刺进早已分散成无数小队的帝国机甲群中！\n\n    二十几条黑色的机甲残影骤然暴放，四处散开！\n\n    沉重机甲的急速脚步踏行，让山谷里的碎石漫天飞起。机炮声，合金刀破空声，爆炸声，此起彼伏地在这片方圆数十公里的战",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，这不是舞台剧，这不（是？）刻意编织的剧情**，而是杜少卿刻意谋划出来的突然效果，就像一道闪电改变了天空的轮廓，就像一把火点燃了影院的屏幕，突如其来，倏然而现，震的帝国机甲群浑身颤栗，身难自主，悸然欲仙，不欲死，却骤然感到了死亡的阴影。\n\n    散布于宽阔山区之中的黑青色机甲，那些曾经在第一波攻势",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "“mx！”\n\n    “小心，这是联邦的mx！”\n\n    帝国机甲群内部通讯系统内，响起尖锐愤怒而绝望的声音，他们根本不怕埋伏，也不怕联邦铁七师的所谓手段，然而骤然面对着数据全方位压倒自己的联邦新型机甲……终于，他们感到了恐惧。\n\n    不是所有的帝国机甲，都像他们可怜的队长那般，一个人面",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "丘空港的上空。\n\n    在黄山岭与寂寞岭一线，在此时此刻的深夜里，占据了全面机动优势的帝国机甲大队究竟怕什么？\n\n    其实那位中队长很清楚，军用机甲的敌人便只能是军用机甲，在这一秒，除非联邦派出漫山遍野的m系列联邦机甲群来对付自己，不然帝国的机甲群并（必？）将取得最后的胜利。\n\n    然而区",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "过全机甲师的说法。\n\n    中队长的想法到此为止，山谷里的联邦师确实没有这么多的m52机甲，但这些出现在山岭间、巨岩上的黑色机甲……是什么？\n\n    一道黑艳的丽光闪过，三台联邦黑色机甲嗤嗤破空，向着下方冲来！月狼机甲大队第一中队长操纵的青黑色机甲根本没有做出任何反应，便在连续的三重攻击中轰然倒",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "的胜利。\n\n    然而区区一个联邦师怎么可能拥有如此多数量的m52机甲？要知道在那个讲究狗屎选举的社会里，好像还从来没有过全机甲师的说法。\n\n    中队长的想法到此为止，山谷里的联邦师确实没有这么多的m52机甲，但这些出现在山岭间、巨岩上的黑色机甲……是什么？\n\n    一道黑艳的丽光闪过，三台",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "然而区区一个联邦师怎么可能拥有如此多数量的m52机甲？要知道在那个讲究狗屎选举的社会里，好像还从来没有过全机甲师的说法。\n\n    中队长的想法到此为止，山谷里的联邦师确实没有这么多的m52机甲，但这些出现在山岭间、巨岩上的黑色机甲……是什么？\n\n    一道黑艳的丽光闪过，三台联邦黑色机甲嗤",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "那些激烈的机甲战，他们开始变换阵形，伴着轰鸣低沉惊心的引擎轰鸣声，甚至有一个团远离战地，顺着西北方向进入了谷外的原野森林边缘地带！\n\n    四个整编团沉默地占据了各自的战地，将所有的火控装备，对准了黑夜，对准了马上便要到来的那个帝国强攻大队。有四个机械营确实高速驶离了阵地，顺着山谷下方的军事便道，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "我铁七师区区一个师，便拿了其中的十分之一。这是总统阁下和国防部对我师的绝对信任。”\n\n    杜少卿缓缓站直身体，看着光屏中那些狂暴出击的联邦黑色mx机甲，说道：“我从不怀疑此战必胜，但眼下的胜利是不够的。”\n\n    说完这句话，这位联邦最出色的少壮派将领取下鼻梁上的墨镜，揉了揉眉心，略显疲惫。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "怎么打……”\n\n    孤单的峰顶，孤单的杜少卿站在电子地图前，看着战场上的态势，微微佝着身子，淡漠说道：“我只要求你们，在三分钟之内，把这些帝国机甲全部毁掉。”\n\n    “是，师长！”\n\n    mx机甲此时已经完全压制了帝国机甲群，铁七师电子部队溢功率攻击已经开始，虽然完全屏蔽了帝国的通讯，但",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

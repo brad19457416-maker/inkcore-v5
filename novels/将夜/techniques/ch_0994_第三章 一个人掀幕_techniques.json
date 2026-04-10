@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 994,
+  "chapter_title": "第三章 一个人掀幕",
+  "filename": "ch_0994_第三章 一个人掀幕.txt",
+  "char_count": 2249,
+  "timestamp": "2026-04-10T12:11:27.646615",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "教徒的民宅，不停打杀。此前数月间，已经有很多新教教徒拖家带口离开了临康城，狂热的信徒们无处发泄自己的愤怒，于是点燃那些罪人留下的宅院，便成为了他们很自然的选择。\n　　到处都在死人，到处都有惨号，杀人的与被杀的都是南晋人，然而在信仰的名义下，谁还会记得这些？\n　　柳亦青的脸上依然没有什么表情，坐在辇上",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，铁枪如林，寒光逼人。\n　　皇城上忽然停起数百根火把，就像是数百枝火箭同时射中夜里的船帆，黑暗的夜空瞬间被照亮，有如白昼，甚至有些刺眼。\n　　南晋皇帝在数十名高手的护卫下，来到城墙上方，看着柳亦青厉声喝道：“死瞎子，今夜便是你的死期！”\n　　现在的南晋皇帝年纪很小，当年柳亦青杀死前任南晋皇帝，选择了",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "涉世事？”\n　　夜色里传来一道声音：“这本来就是由你开始的。”\n　　柳亦青想了想，认同了这个说法。新时代的幕布，最早是被他掀开一角，那么今夜便让他把这块幕布完全地掀开吧。",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "火花，但能感受到那些真切的热度，能够听到不停响起的咒骂声和惨呼声。\n　　不是昊天离开人间普降时那场春风里的雨、那些落向地面的金花，不是春祭时的千万盏明灯，而是有人在放火，有人在杀人。\n　　夜色里的城市，是一片黑沉的海，海面上飘浮着数千朵刺眼的火焰，临康城没有陷落，但已经陷落。\n　　虔诚的昊天信徒们砸",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "蹄声。\n　　柳亦青知道，两千名西陵神殿护教骑兵到了。\n　　亮若白昼的皇城前，忽然暗淡了些，随夜色一道出现的，是数十名西陵神殿的神官，走在最前方的是一名极瘦的中年道人。\n　　中年道人姓赵名思守，当今西陵神殿天谕司司座，他还有一个更重要的身份――南海大神官赵南海的二儿子。\n　　柳亦青没有看赵思守一眼，而",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "城越近，越是安静，暂时没有信徒来到这里闹事，也没有宅院着火，街道黑沉。\n　　黑暗的街道两侧，隐隐传来无数急促的呼吸声，偶尔还能听到兵器与盔甲撞击的声音，这些声音里蕴藏着无穷的凶险。\n　　柳亦青自然听得清楚，但他没有做什么，脸上也没有什么警惕的神情，他知道能够让自己听到的人，绝对不敢向自己出手。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "命运，他是去迎接自己的命运。\n　　惨号与打杀声渐渐被小辇抛在身后，离皇城越近，越是安静，暂时没有信徒来到这里闹事，也没有宅院着火，街道黑沉。\n　　黑暗的街道两侧，隐隐传来无数急促的呼吸声，偶尔还能听到兵器与盔甲撞击的声音，这些声音里蕴藏着无穷的凶险。\n　　柳亦青自然听得清楚，但他没有做什么，脸上也没",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。\n　　面对着这道狂澜，他只有两个选择：或者走，或者死。\n　　他选择了留下，也就是选择了死亡。\n　　沉重的城门悄无声息地开启，蹄声大作，数百名全身盔甲的南晋重骑兵，从皇城里疾驶而出，铁枪如林，寒光逼人。\n　　皇城上忽然停起数百根火把，就像是数百枝火箭同时射中夜里的船帆，黑暗的夜空瞬间被照亮，有如白昼",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "南晋人最后的精神与气魄。\n　　皇城笼罩在夜色中，没有一点灯光，黑暗无比，非常死寂。\n　　辇停，柳亦青缓缓抬头，望向紧闭的城门，他早已经瞎了，但他的目光却仿佛透过眼前的那层白布，要把城门切开。\n　　他的右手离开膝头，落到身旁的剑柄上。\n　　抬辇的四人，满脸惊恐不安向着夜色里逃去。\n　　柳亦青很清楚，真",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "的南晋重骑兵，从皇城里疾驶而出，铁枪如林，寒光逼人。\n　　皇城上忽然停起数百根火把，就像是数百枝火箭同时射中夜里的船帆，黑暗的夜空瞬间被照亮，有如白昼，甚至有些刺眼。\n　　南晋皇帝在数十名高手的护卫下，来到城墙上方，看着柳亦青厉声喝道：“死瞎子，今夜便是你的死期！”\n　　现在的南晋皇帝年纪很小，当年",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "是瞎子，他脸上别的部位也没有情绪流露，因为真正的不屑是看不到的。\n　　“你们杀不了我。”\n　　柳亦青说道，神情平静，因为他陈述的是事实――无论是涌出宫门的数百重骑，还是城头那数十名为皇帝效力的修行者，都不可能杀死他。\n　　如果这样便能杀死他，当年那位南晋皇帝怎么会被他杀死。\n　　小皇帝的脸色变得很难",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

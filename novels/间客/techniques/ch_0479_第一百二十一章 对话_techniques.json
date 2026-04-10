@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 479,
+  "chapter_title": "第一百二十一章 对话",
+  "filename": "ch_0479_第一百二十一章 对话.txt",
+  "char_count": 3410,
+  "timestamp": "2026-04-10T12:04:59.238195",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "调查难,太大。依照他的判断。如果真是简水儿的身世。才让军神李匹夫拟定了这样一个匪夷所思的计划。那这个秘密说不定除了军神本人之外。再也没有任何人能够知晓。\n\n    “谢谢。”简水儿轻致诚挚谢意。\n\n    “不用谢。这是我应该做的。”\n\n    许乐回答的很模式化。然而细品其间每一个字。却道尽了从东",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "联邦官兵都处于忙碌的战争状态没有人来理会他们。空间之中只有他们两个人清晰的脚步声和那些清脆的臀后工具风铃声。\n\n    “我一直认为自己只是在二十三频道出现的年头太久大家看着我亲切。那部电视剧的剧本写的好。那个少女舰长的角色无比可爱。除此之外。我自己只是一很普通的人。除了长的好看一些。没有任何值骄傲",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "巨大黑色机甲。问道：“这台mx是经过改装的？不然怎么这么厉害。”\n\n    她有些不好意思的耸肩继续说道：“我只知道汽车可以改。”\n\n    这听上去有些像约会之前寻找话题或者说破题的那个阶段。然而许乐微微一怔之后。却是认真老实回答道：“有些小修正。但和配装的mx有什么区别。不是学这个的。我还真说不",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "许乐蓦然回首。的下走廊里的灯光阑珊。照耀在她那张清丽不可方物的容颜上。令他心中骤然生出某些怪异的念头。他的眼睛渐渐眯起。缓声询问道：“你究竟想说什么？”\n\n    “我想不明白。”简水儿的眼眸里闪过一道虽不解却格外坚定的光泽。“为什么国防部会让我来当诱饵。为什么帝国人真的会来追我。你能想明白吗？",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "不肯继续追问。\n\n    “嗯我以为你这候还在休息。昨天夜里辛苦了。”许乐感觉到了简水儿情绪上的变化紧张的将手上的机油擦到布裤上问道。\n\n    简水儿醒过神来。不明白自己怎么会因为许乐的一些隐瞒。便心神有些不宁。有些恼火的了揉头发。仰起小脸摊手说道：“是有些事情想问你。”\n\n    两个人沿着幽深",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "大人物。”\n\n    许乐蓦然回首。的下走廊里的灯光阑珊。照耀在她那张清丽不可方物的容颜上。令他心中骤然生出某些怪异的念头。他的眼睛渐渐眯起。缓声询问道：“你究竟想说什么？”\n\n    “我想不明白。”简水儿的眼眸里闪过一道虽不解却格外坚定的光泽。“为什么国防部会让我来当诱饵。为什么帝国人真的会来追",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "了抿粉嫩嘴唇。\n\n    她自幼在费城李家长大。十二岁时便了万人宠爱这样的成长背景与经历让她在联邦个社会里。理所当然会拥有种骄傲的气息。\n\n    只是这种骄傲一直深藏在她的骨头深处。从不会在一般人面前表现出来。然则许乐虽与她谈不上惯熟但亲密相处这么时间。加上还有她亲生父亲这层关系在。还真不能算一般",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "程师。为了配合许乐的操控特性。把小黑花绝大部分远程火控系统斩钉截铁的全部抛弃。难以避免机甲总成系统会出现什么漏洞。除了许乐和李疯子这种角色之外。联邦军方再优秀的王牌机师如果要试图驾控这台小黑花都会非常的不习惯甚至会出现极严重的问题。\n\n    听到这句老实话。简水儿的表情有些不自然。可爱的耸了耸肩膀",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "人清晰的脚步声和那些清脆的臀后工具风铃声。\n\n    “我一直认为自己只是在二十三频道出现的年头太久大家看着我亲切。那部电视剧的剧本写的好。那个少女舰长的角色无比可爱。除此之外。我自己只是一很普通的人。除了长的好看一些。没有任何值骄傲的的方。”\n\n    简水儿披着一件淡蓝色的联邦舰队军官服。里面穿",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "某种很莫名的亲近感。自然不愿意这位钟司令出什么问题。至于李疯子这变态战争机器。他反而不怎么担心欢迎您来到——、)诚意为您营造一个舒适的读书环境小.说.t.xt.天.堂",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "原因。生出某种很莫名的亲近感。自然不愿意这位钟司令出什么问题。至于李疯子这变态战争机器。他反而不怎么担心欢迎您来到——、)诚意为您营造一个舒适的读书环境小.说.t.xt.天.堂",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

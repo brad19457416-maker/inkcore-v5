@@ -1,0 +1,245 @@
+{
+  "novel": "间客",
+  "chapter_number": 313,
+  "chapter_title": "第一章作训基的",
+  "filename": "ch_0313_第一章作训基的.txt",
+  "char_count": 5788,
+  "timestamp": "2026-04-10T12:04:59.201971",
+  "techniques_count": 18,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "起头来。那双向来平静温和的眼眸里。难的出现了追忆感慨。在这一刻想到了旧月基的。卡琪峰顶。站在悬崖上迎风飘摇的小白花机甲和机甲里的那个家伙。\n\n    周玉望着座位中间那骄傲的家。忍不住怜悯的看了他一眼。如果这个家伙知道他并不在眼里的对象。操控机甲可以战胜费城李家那个疯子。还会-倚仗自己特种机甲机师的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。\n\n    光幕上的监控录像播放到此时。沉的会议室里终于多了一些声音。挪动椅子的声音。许观看录像的人们。再也无法控制自己心中的震惊情绪。\n\n    随着监控录像的播放。旁边的辅助光屏上。不断的进行着战术分解动作的解说。翔尽的数据指标就像是瀑布一般流过。入侵者的行进路线。射击时的弹道分析。每一区段所",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "来看电影的时候。也不会像此时这般沉默和鸦雀无声。黑暗会议室里除了那些呼吸与汗味之外。根本感觉不到有人存在。\n\n    幕布上的线穿过弥漫会议室内烟雾。缓缓散开。现在播放的确实不是一部电影。而是一段被标为绝监控录像。录像的画面有些模糊右下角的时间标志示。录像发生的时间大概在五个月之前一月寒冬的时候。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "听到机甲个字。低头正在抄写|题的周玉缓缓的抬起头来。那双向来平静温和的眼眸里。难的出现了追忆感慨。在这一刻想到了旧月基的。卡琪峰顶。站在悬崖上迎风飘摇的小白花机甲和机甲里的那个家伙。\n\n    周玉望着座位中间那骄傲的家。忍不住怜悯的看了他一眼。如果这个家伙知道他并不在眼里的对象。操控机甲可",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "-一个角落。冷静可怕的一一击毙敌人。隐藏自己。然后于处墙后遇重火力袭击。只见那个身影脚下尘土一漫身体瞬间掠至天花板顶。再|扑而下诡异至极的躲过漫枪火。杀到了对方的中。\n\n    会议室的光幕被分割成了个画面。监控系统从不同角度。拍摄着那名入侵者的动作。同时监控着楼外的动静。时不时有沉闷的重型狙击步枪",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。”\n\n    此言一出。并意外的获了某些官的认同。毕竟这是一个金属与机械力量的年代。录像中那两个人战斗能力再强。们所使用的武器也属于联邦军方常规武器中的精良装备。然而面对着军队强悍的装甲力量。似乎也不怎么值的注意。\n\n    听到机甲个字。低头正在抄写|题的周玉缓缓的抬起头来。那双向来平静温和的眼",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "。”\n\n    后排那位温润如玉的军官低头淡淡自嘲一笑。此时能留在会议室里的同僚。毫无疑问都联邦军方最强悍的角色。但是录像里那两个人。一个是可以和李疯子打成平手的怪物。一个是以第一名毕业于第一军事学院。接受了联邦府与**军双重培养的牛人。这种比较毫无疑问是不公平的。国防部让自己这些人看这段录像。想必",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。有些失望的转身离开。此次演习参谋本部分最高的是一姓袁的军官。但不知道什么原因。那名姓袁的军官并没有来到作训基。此时排名第二的周玉又被西林军区抢走了。这些军官的心中难免有失望。\n\n    便在此时。座位中一个虎熊腰。气势逼人的军官忽然站起身业。不屑说道：“依我看来。就算这段录像是真的。作训基的的这个",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "是一些尸体和墙壁上某些受力之,的残损图片。\n\n    女军官用标指着图片上的某些血肉模糊的部位。清声说道：“一号死者在重力打击下。喉骨全断。二号死者额角遭受击颅骨破裂脑血管迸裂。根据事后解剖。此人右拳集合力量达到了。”\n\n    人体最坚硬的部位就颅骨。一拳能够将人类的颅骨打碎打裂了里面的脑血管。这",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "高扬的坐在这里。”\n\n    后排那位温润如玉的军官低头淡淡自嘲一笑。此时能留在会议室里的同僚。毫无疑问都联邦军方最强悍的角色。但是录像里那两个人。一个是可以和李疯子打成平手的怪物。一个是以第一名毕业于第一军事学院。接受了联邦府与**军双重培养的牛人。这种比较毫无疑问是不公平的。国防部让自己这些人看",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "战场上。你们却不能真的像宝贝儿一样易碎。”\n\n    作训基的长官冷的看着台下的军官们。看着联邦军方将来最重要的梯队力量。大声喝斥道：“部里把你们留下来。就是要让你们能够成长成为最强大的军人。这一周的学习|务就是分析这一段录像。以五人小组为基准出规划。然后交由终电脑进行评判。”\n\n    少将低头收",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "队军官。她不可能发脾气。只好低着头开始按照上级交待的照本宣科。\n\n    她细长的手轻触终端。光幕上出现了一些画面。画面是一些尸体和墙壁上某些受力之,的残损图片。\n\n    女军官用标指着图片上的某些血肉模糊的部位。清声说道：“一号死者在重力打击下。喉骨全断。二号死者额角遭受击颅骨破裂脑血管迸裂。根",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的烟雾全部赶跑。虽然她的心情并怎么好。但面对着各大军区的宝贝。联邦军方重点培养的梯队军官。她不可能发脾气。只好低着头开始按照上级交待的照本宣科。\n\n    她细长的手轻触终端。光幕上出现了一些画面。画面是一些尸体和墙壁上某些受力之,的残损图片。\n\n    女军官用标指着图片上的某些血肉模糊的部位。清",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "作训基的。\n\n    基的深处有一了青藤的建筑。看上去极不显眼。三楼的会议室里一片黑暗。隐隐能够听到沉重的呼吸声。能够嗅到轻微的男人汗味。但什么都看不见。唯一露出光亮的。是会议室正前方的光幕。\n\n    似乎很多人看电影。但哪怕联邦军人再如何注重纪律。想来看电影的时候。也不会像此时这般沉默和鸦雀无声",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "到了对方的中。\n\n    会议室的光幕被分割成了个画面。监控系统从不同角度。拍摄着那名入侵者的动作。同时监控着楼外的动静。时不时有沉闷的重型狙击步枪声音响起。似乎有人在楼外进行狙击。每一声响。便有一名警卫倒的不起。\n\n    观看着监控录像的议室。保持着死一般的沉默。除了呼吸声。偶尔响起的吸烟声。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "择了林园里最安全的一个包间。\n\n    大概也只有在林园这种的方。在林半这种人的眼皮子底下。她才不用担心。今天要讨论事情。会被联邦政府军方。或者是那位她一直敬畏的夫人所听到。\n\n    “你知道我现在在里的日并不怎么好过。我不是大哥。我没有实职。我-年的分红打基金后。能自主掌握的资金不超过一千万。”",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "暗会议室里除了那些呼吸与汗味之外。根本感觉不到有人存在。\n\n    幕布上的线穿过弥漫会议室内烟雾。缓缓散开。现在播放的确实不是一部电影。而是一段被标为绝监控录像。录像的画面有些模糊右下角的时间标志示。录像发生的时间大概在五个月之前一月寒冬的时候。\n\n    画面上有一个穿着警衣服的家伙戴着一顶帽子",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "信任。\n\n    这样的人做为敌人毫无疑问是最可怕的。可如果是自己战友当中。有如此生猛的人物那是多么幸福的事情。\n\n    “周玉我们组队吧。虽然只是虚拟作战但要靠五个人。就对付录像里那两个人。实在有些困难。如果没你。我真没什么信心。”一名来自西林军区特种机甲营的军官。微笑着走到了后排。轻轻的拍了拍",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

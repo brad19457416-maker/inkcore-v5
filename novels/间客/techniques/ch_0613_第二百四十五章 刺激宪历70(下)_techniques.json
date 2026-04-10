@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 613,
+  "chapter_title": "第二百四十五章 刺激宪历70(下)",
+  "filename": "ch_0613_第二百四十五章 刺激宪历70(下).txt",
+  "char_count": 3653,
+  "timestamp": "2026-04-10T12:05:08.556277",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "像是坚硬的金属膜，被婴儿娇嫩的手指敲了敲。\n\n    一支纯黑色的金属兽角，悄无声息地穿透了那层膜，来到了这片宇宙之中，紧接着，金属兽角后方的物体也随之穿透过来，逐渐现出一艘战舰的模样\n\n    第二艘、第三的………数十艘帝国战舰像幽灵一样，依次穿透那层没有任何实际存在的空间之膜，黑沉冰冷地出现在了",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "义上来说，几年前在东林钟楼街执行宪章局任务的莱克上校，改变了许乐的一生，粗暴的特种军人，冷硬的枪管及愤怒的拳头，是许乐记忆里极深层而并不如何愉悦的一环。\n\n    按照老东西的说法，许乐拥有第一痒列的权限，他不需要再担心被人指证自己曾经是一名联邦逃犯，只是无论如何，他也不想被这位莱克上校认出来。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "里走廊附近的一处秘密基地，负责安保工作力\n\n    秘密基地由果壳金属承建，承担着联邦未来战略的重要意义，保卫工作十分重要，新十七师继承了军神光环，也携带着浓郁的果壳七组气息，国防部和果壳公司同时选定他们这支部队，理所当然。\n\n    这本来是一次普通的征调，只需要由国防部或者第一军区出命令，然而大",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "终于给南相美打了一个电话，两个人约出来吃了一顿饭。入夜，他看着电话中一直保存着的张小萌电话摇了摇头，最终没有给简水儿打电话。\n\n    凌晨三点三十七分，国防部和果壳公司将此次任务的具体资料到了他的革事绝密信箱之中，同时还有一份附加条款也随之而来，紧接着，联邦中央电脑为他提供了更加详尽的资料。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "时却有异变产生。\n\n    平静的空间里忽然荡起一阵阵波澜似的暗淡光线，这些光线波浪出现的时间极短，瞬间消失，就像是坚硬的金属膜，被婴儿娇嫩的手指敲了敲。\n\n    一支纯黑色的金属兽角，悄无声息地穿透了那层膜，来到了这片宇宙之中，紧接着，金属兽角后方的物体也随之穿透过来，逐渐现出一艘战舰的模样",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的军人们通过光幕…看着战舰外部的太空景象，真切地感受到了某种历史正在生的伟大感受，现这片属于联邦人的陌生宇宙，原来和家乡一样美丽的令人动容。\n\n    和普通士兵们的震撼无语不同，帝国幽灵舰队的战舰士官们，在上级严厉的刮斥声中，强行压抑住内心的激动，紧张地投入到了工作之中，他们清楚，穿过空间通道是一",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "人动容。\n\n    和普通士兵们的震撼无语不同，帝国幽灵舰队的战舰士官们，在上级严厉的刮斥声中，强行压抑住内心的激动，紧张地投入到了工作之中，他们清楚，穿过空间通道是一回事，要不被联邦的宪章光辉现，却是另一项艰巨的工作。\n\n    以往帝国只能传送低质量等级的物体，比如搭乘机甲战士的微型飞船这些微型",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "区的莱克上校相处时间太长，因为这位莱克上校虽然戴着墨镜，他依然对此人印象深刻，而他今天没有戴墨镜，很担心被对方认了出来。\n\n    从某种意义上来说，几年前在东林钟楼街执行宪章局任务的莱克上校，改变了许乐的一生，粗暴的特种军人，冷硬的枪管及愤怒的拳头，是许乐记忆里极深层而并不如何愉悦的一环。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "黑暗无光，幽灵一般的帝国舰队，在联邦的宇宙中排成一条狭长的线条，如毒蛇般扭曲前行，躲避着那些看不到的危险，准备给将要经过的目标以一次最狠毒最突然的袭击小.说。t!xt-天堂www.dxsxs.com",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "程序，在某个频率段劲角度进行无遗漏探射，舰体内部轻扬的音乐与醇美的咖啡香气融合在一起，进行太空旅行的人们依然感慨着生活的单调枯燥…太缺少刺激。\n\n    前方远处，晚蝎星云边缘的空间，此时却有异变产生。\n\n    平静的空间里忽然荡起一阵阵波澜似的暗淡光线，这些光线波浪出现的时间极短，瞬间消失，就像",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "“好的，总裁先生，我很期待下次回来你承诺的晚餐力”\n\n    许乐挂断电话，基地上方的湛蓝天空中，早已找不到那艘战舰的影子，这里不是三阳更是不可能看到远在大气层外的古钟号，他安静地了看了会儿后，重新牵起小西瓜软绵绵的手掌，向着基地外走去。\n\n    急着离开，是因为他不想与那位西林军区的莱",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "令。\n\n    在短暂的休假之后，国防部安排下来了新的任务，他将与新十七师某部前往加里走廊附近的一处秘密基地，负责安保工作力\n\n    秘密基地由果壳金属承建，承担着联邦未来战略的重要意义，保卫工作十分重要，新十七师继承了军神光环，也携带着浓郁的果壳七组气息，国防部和果壳公司同时选定他们这支部队，理",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "此时站在萧萧风中，保持着一种肃穆的姿式，仰望着天空，似乎还在目送自己此生最佩服的长官，面部的表情有些感慨复杂，根本没有注意到许乐的离去。\n\n    宪历沁年春，四月十五日。\n\n    西林猛虎与大人离开了s1乘坐古钟号飞船，在四艘轻羽级战舰的护送下，踏上了返回西林家乡的旅程。\n\n    当日下午三时",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "略的重要意义，保卫工作十分重要，新十七师继承了军神光环，也携带着浓郁的果壳七组气息，国防部和果壳公司同时选定他们这支部队，理所当然。\n\n    这本来是一次普通的征调，只需要由国防部或者第一军区出命令，然而大抵是因为考虑到许乐的存在，果壳总裁先生亲自打了个电话过来进行说明，并且征求他的意见。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "条款，新十七师一团将要花七个月的时间进行太空布网和通道数据侵入，为明后年将要打响的全面战争做准备，为日后联邦部队集体穿越空间通道做计术支持。\n\n    将资料记在脑中，许乐漱口洗脸，看了一眼望都公寓下方的街景，然后上床睡觉，临睡前想起小西瓜，于是给她打了一个电话，在电话里哄了哄父母都不在身边的小女孩",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第二百四十五章 刺激宪历70(下) \n\n    电话那头传来果壳公司总裁先生温和的声音，许乐安静哦够沁着，答话不多但一如既往般干脆，没有任何犹豫。\n\n    被特赦出倾城军事监狱，在总统官邸里当着迈尔斯上将签了一大堆复杂的法律文件，从那一刻起，他的人生与联邦军队再也无法撕扯开，身为军人则应该",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "坐在指挥台上，冷冷地盯着所有战舰的运行轨迹和信息屏蔽系统开启，神情前所未有的认真，他身旁的参谋官则是大声对战舰指挥官们大声进行着倒数。\n\n    “14！13！………成功！”\n\n    参谋官转过头来，望着卡顿郡王激动地大声汇报道。\n\n    卡顿郡王表情不变，整个人的身体却放松了起来，一脸横肉的面",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 398,
+  "chapter_title": "第六十一章 林间有佳人",
+  "filename": "ch_0398_第六十一章 林间有佳人.txt",
+  "char_count": 4791,
+  "timestamp": "2026-04-10T12:04:59.251116",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "里弥漫着猜测与震惊的暗流，利家七少爷微微一笑，身上阴暗的气息略淡了一些，望着宾客们说道：“不用好奇我为什么如此看重他的意见。mx机甲的标准他都能定，联邦当中，大概没有几个人不相信他的眼光。”\n\n    “不信你们可以问问李维，他们可是一对好友。”利孝通最后淡淡加了一句。\n\n    他的话证实了程丰实",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的如此沉稳成功，可以接触到七大家这种层房间内的宾客谁不是修练成精的角色？骤听着院落里传来一声利孝通，众人纷纷回头望去，脸上的表情诸多不同，有人震愕，有人皱眉，有人暗自思琢。\n\n    所有不同表情下都隐着共同的一丝可惜心思——敢直呼七少爷名字的人有几个？众人明白自己先前对院落中那名年轻军官走了眼。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "都在猜测这名军官的身份，偶尔有人联想到最近联邦军方刻意培养的某位人物，但因为从来没有那人与利家亲近的风声，所以绝不敢确认。\n\n    唯有程丰实的注意力，全部放在那一张纸上，根本没有注意到许乐的离去，他怔怔地看着上面商秋两个字和极为具体的私人联系方法，有些不敢相信自己的眼睛——商秋？果壳工程部一级技",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "字的人有几个？众人明白自己先前对院落中那名年轻军官走了眼。\n\n    利孝通眉头微微一怔，走出房间，来到阳光清漫，影点斑驳的院落中。他看着许乐身边那个微胖的中年人偏了偏头，心想自己好像并不认识这个人。\n\n    一名下属凑到他耳边说了两句，他才露出了悟神色——因为担心许乐这块石头很难适应今天聚会的气",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "？\n\n    “什么事？”利孝通了过来。\n\n    “我觉得这个项目很有意思，得投点钱。”许乐望着他说道：“你先看看他的材料，只不过写的有点乱。”\n\n    “这方面么敢不相信你的眼光。”利孝通说道：“给我看我也看不懂，你既然说有意思，那就真的意思，要投多少？”\n\n    许乐笑了笑，回头对程丰实问",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "道：“就叫许乐好”\n\n    在去往都的高铁上偶一相逢，在某场酒会上相谈数句，他对这位秀丽的女孩依然陌生，但内心深处却有一丝极醇正的好感，甚至他的梦里都隐约飘过秀丽的一丝……\n\n    许乐正准备问她是不是和林斗海起来的，忽然间林后传来一阵急促的呼声，似乎是一位中年妇女。许乐微微一怔，南相美抱歉说道",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "孝通眉头微微一怔，走出房间，来到阳光清漫，影点斑驳的院落中。他看着许乐身边那个微胖的中年人偏了偏头，心想自己好像并不认识这个人。\n\n    一名下属凑到他耳边说了两句，他才露出了悟神色——因为担心许乐这块石头很难适应今天聚会的气氛，他让下属随意挑选了两名在寻找投资的研究人员。他想许乐是一名天才的工程",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "投多少？”\n\n    许乐笑了笑，回头对程丰实问道：“你:的研究预算是多少？”\n\n    程丰实有些紧张地看孝通一眼分紧张和歉疚地伸出了两根手指，小声说道：“前期……两个亿。”\n\n    利孝通微微一怔。他没有想到这个资居然一开始便要这么多知道他现在手头能够完全自主动用地基金也还不到十亿。不由将征询",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "己的事情。\n\n    南相美恬静的双眸里生出一丝慌乱和一丝复杂的情绪，忽然间她压低声音说道：“西林很危险，你要……保重。”\n\n    “谢谢。”许乐依然不解，但心头也觉着一片温暖，认真回答道。\n\n    南相美深深地吸了一口气，忽然抬起头来，勇敢地望着他，尽可能平静地微笑说道：“也许你会觉得荒唐，但",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "不上可怕，可怕的是七少爷通过此事表现出来的态度。\n\n    三个人轻声说了几句什么，程丰实一脸兴奋与激动，至于后续究竟是以私人基金的名义向达西机械学院进行定向投资，还是成立一个**的研发室，自然有专业的人士与他商议。\n\n    “技术方面如果有什么问题，我介绍一个人给你，相信她在这方面的实践经验对您",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "基金也还不到十亿。不由将征询地眼神投向许乐。\n\n    看着利孝通探询地眼光丰刚刚生出地一些自以为无道理地信心……顿时完全丧失。这几年地时间内。总有投资者能够看出这个项目地前景。但同时也能看出商业上地无从入手。纷纷冷漠地表示拒绝难道今天又将如此？\n\n    出乎他地意料。在他十分困难报出两个亿地预算",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "能会让一个女孩儿喜欢自己，而且那女孩儿还是……南相家的小姐！\n\n    我是谁？我是许乐，其貌不扬，性格里有趣的那部分早已被无趣的石头外表藏了起来，自幼仰望没有星星的星空和酒馆里的电视，喜欢高高在上的那个紫发女孩儿，两人间却隔着不知道多少光年的距离，后来喜欢一个戴黑框眼镜的女孩儿，结局却并不美丽。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "怪异，按下通话键的手指有些僵硬，听着电话里传出的声音，更是连连点头。\n\n    清幽贵丽的院落里一片安静。\n\n    利孝通眉尖微皱。他非常清楚许乐这个人虽然纯良，但绝不温顺，电话那头不知是谁，竟能把他变成一只点头虫。\n\n    看着许乐拿着电话往院外走去，院内的宾客们都在猜测这名军官的身份，偶尔有",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "刚生出地一些自以为无道理地信心……顿时完全丧失。这几年地时间内。总有投资者能够看出这个项目地前景。但同时也能看出商业上地无从入手。纷纷冷漠地表示拒绝难道今天又将如此？\n\n    出乎他地意料。在他十分困难报出两个亿地预算后。许乐在旁边低头想了想。摇头说道：“两个亿不够。至少要过三个亿。”",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "了偏头，心想自己好像并不认识这个人。\n\n    一名下属凑到他耳边说了两句，他才露出了悟神色——因为担心许乐这块石头很难适应今天聚会的气氛，他让下属随意挑选了两名在寻找投资的研究人员。他想许乐是一名天才的工程师，自然和这种人比较有共同语言——利七少在金钱投资方面有大才，却委实没有想到，机械工程其实也",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "间她压低声音说道：“西林很危险，你要……保重。”\n\n    “谢谢。”许乐依然不解，但心头也觉着一片温暖，认真回答道。\n\n    南相美深深地吸了一口气，忽然抬起头来，勇敢地望着他，尽可能平静地微笑说道：“也许你会觉得荒唐，但我必须告诉你一句话。”\n\n    “什么？”\n\n    “我喜欢你。”",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

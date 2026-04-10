@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 386,
+  "chapter_title": "第一百九十一章 新一代的小师叔",
+  "filename": "ch_0386_第一百九十一章 新一代的小师叔.txt",
+  "char_count": 3354,
+  "timestamp": "2026-04-10T12:11:21.777233",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "日光渐趋强烈，宁缺沉浸在师姐为自己点破的那片风光中无法自拔，对师姐的敬佩更是已经到了无以复加的程度，心想果然不愧是书院后山仅次于两位师兄的女子，无论见识智慧乃至眼光，竟都强大到了如此程度，即便是陈皮皮和她相比起来，只怕也有极大一段差距。\n　　……\n　　……\n　　余帘的授课向来简洁明了，没有任何废话，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "静说道：“数十年间，西陵神殿那座桃山之上，便只有光明神座拥有真正的智慧，他所挑选的传人自然非凡，至于为什么一盘都赢不了……那是因为她把你当成了真正的朋友，所以她很认真。”\n　　听说桑桑把自己当成了真正的朋友，唐小棠稚嫩的脸上流露出开心的笑容，蹦蹦跳跳像个调皮的石头般追向余帘的身影，先前的沮丧和难过仿",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "了一辈，那将来岂不是那位魔宗行走也得敬自己三分？\n　　最关键的地方在于，对书院而言，小师叔是具有特殊意义的一个称谓。\n　　书院后山上一位小师叔，是世间最了不起的角色，是二师兄念念至今依旧崇拜到无以复加的传奇人物。\n　　如今宁缺他成为了下代弟子口中的小师叔。\n　　每一代中，小师弟只有一个，小师叔自然也",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "帘所说的这句话，听上去平淡寻常，却是那般的自信骄傲，因为这等于在说――唐小棠既然拜到她门下，那么如果将来不能战胜甚至直接杀死道痴叶红鱼，会是件很没道理的事。\n　　她的神情依旧恬静，并不是刻意骄傲嚣张给任何人看，只是基于某种近乎本能的自我判断，很随意地说出了这句话。\n　　正是这种随意和寻常，愈发显得有",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "有些紊乱，书院后山所有人都知道三师姐是洞玄上境修为，她那份平静的自信究竟从何而来？\n　　宁缺想了想，最终归类于书院后山弟子共同的气质特性，三师姐排位仅次于大师兄和二师兄，本来就有资格无道理的自信。\n　　他诚挚道：“师姐是后山同门里第一个收学生的人，恭喜。”\n　　余帘说道：“都是老师的安排。”\n　　她",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，于山穷水尽里看见山青水秀。\n　　时间缓慢流逝，绝壁外的日光渐趋强烈，宁缺沉浸在师姐为自己点破的那片风光中无法自拔，对师姐的敬佩更是已经到了无以复加的程度，心想果然不愧是书院后山仅次于两位师兄的女子，无论见识智慧乃至眼光，竟都强大到了如此程度，即便是陈皮皮和她相比起来，只怕也有极大一段差距。\n　　…",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "道：“但我那时候一直都是拿狐儿尾巴遮着脸的，他们怎么能认出我来？”\n　　余帘看着自己新收的学生，缓声说道：“每个人都有自己独特的痕迹，尤其对于修行者来说，你可以理解为味道。”\n　　宁缺没有参与到讨论当中，沉默坐在崖洞内，脸上的神情平静，内心却因为三师姐先前那句话而掀起了阵阵波澜。\n　　当年他还是前院",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "去。\n　　狭窄陡峭的绝壁间，两道娇小身影和那两件款式相同、宽松相似的院服时隐时现，没有用多长时间，便来到了那道瀑布处。\n　　先前在崖坪草屋里，唐小棠拉着桑桑玩耍，要她陪自己下石子棋。\n　　石子棋是从荒原到大河国所有孩童都会玩的简单游戏，也正因为简单，所以输赢往往没有什么规律，然而她竟是一局都没有赢过",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "小棠，平静说道：“过来给师叔见礼。”\n　　唐小棠走到崖洞前，站在那根线外面一点的地方，收敛笑容，神情凝重认真地行礼，拜道：“小棠见过小师叔。”\n　　宁缺注意到小姑娘身上的旧皮袄换作了崭新的书院院服，脚上那双旧皮靴，换成了一双小巧的青布鞋，显得很是清爽。\n　　正打量着她，忽然听着小师叔三字，他不知为何",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "流露出开心的笑容，蹦蹦跳跳像个调皮的石头般追向余帘的身影，先前的沮丧和难过仿佛像叶屑一般，被峡谷里风瞬间拂进深渊之中，再也找不到了。\n　　想着自己的好朋友终日呆在鸟迹罕见的绝壁之上，唐小棠忽然又不开心起来，抱怨说道：“宁缺这个无耻的家伙，自己被囚也就算了，还要拖累桑桑……”\n　　余帘停下脚步，说道：",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "听着小师叔三字，他不知为何忽然心情变得极为舒爽，片刻后便明白了这种美妙心情由何而来。\n　　首先他不要担心自己多出一位小师妹，其次他比唐小棠高了一辈，那将来岂不是那位魔宗行走也得敬自己三分？\n　　最关键的地方在于，对书院而言，小师叔是具有特殊意义的一个称谓。\n　　书院后山上一位小师叔，是世间最了不起的",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的家伙，哪里有资格做自己的师长。\n　　先前是因为老师有命，而且初入书院总要见过所有人，所以她才会捺着性子行礼，喊了一声小师叔。\n　　“快喊啊。”\n　　宁缺没有注意到她的神情变化，乐滋滋说道：“我最喜欢听别人喊我小师叔了。”\n　　“书院三代弟子现在就是我一个。”\n　　唐小棠咬着牙，看着他说道：“哪里有",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "二层楼，那么她可以介绍一位不弱于柳白的强者做他老师。\n　　剑圣柳白乃公认的世间第一强者，余帘常年远离人群，居住在书院里，又去哪里认识不弱于柳白的强者？宁缺清楚地记得当时自己听到这番话后的震惊，更记得当自己表示依然想进书院二层楼时，她那声可惜了的感慨。\n　　今天余帘所说的这句话，听上去平淡寻常，却是那",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "天记下的学习疑难，静思片刻后，她抬起头来开始轻声讲述其中的某些道理。\n　　宁缺专心致志地听着师姐清雅柔和的声音，发现有很多自己百思不得其解的地方，经由师姐简洁描述提醒之后，顿时豁然开朗。\n　　余帘明显不懂浩然气，但对天地气息的运转规律，尤其是在不同材质上间的细微差异上极有研究，而且她的知识渊博到了极",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

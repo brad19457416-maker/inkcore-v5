@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 320,
+  "chapter_title": "第八章 审讯纪事",
+  "filename": "ch_0320_第八章 审讯纪事.txt",
+  "char_count": 6883,
+  "timestamp": "2026-04-10T12:04:59.214684",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。”\n\n    总四科主任笑的很灿烂，那张因为乏睡而憔悴地苍白面容，不需要被打，看上去也异常恐怖，他压抑着心头的暴燥，瞪着眼睛怪笑问道：“是吗？”\n\n    他咧嘴，露出白牙，举起右手开始拍打许乐的脸颊，啪啪啪啪！\n\n    手掌落在脸上越来越重，越来越响……\n\n    鲜血从许乐的唇边流了出来，他",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "审讯已经进入到第四天最后两个小时。联邦调查局总四科主任双眼通红，头\n\n    用力地扯开颈上的扣子，愤怒地吼叫道：“你们吃国防部只给了我们七天的时间！你们的专业都到哪里去了？”\n\n    房间里的调查局专业刑讯专家，沉默地操作着手中的仪器，没有人敢回答，因为不知道怎样回答为什么明明已经超出了人类的极",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "拥有苍白的脸色和深刻阴冷的眼神，他取下了自己的白色手套，走到了许乐的身前，用一根手指抬起了他地下巴，说道：“我是联邦调查局总四科主任，全权负责审查与青龙山相关的一切事宜，我知道你的身份，但在我的手底下，不要指望有什么人能够把你救出去。”\n\n    “这是很无聊的威胁，我也知道这一点。”总四科主任挥手",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "在前任席格总统的任期内，年纪并不大的布林，便开始担任总统官邸办公室副主任。这种职务从某种意义上来算，算是总统身边最亲信的贴身管家，一般来讲，总统官邸换了新主人，办公室的职员，尤其是一正一副两位主任，绝对要离开，因为没有哪任联邦总统愿意在自己的身边，依然起用前任的心腹，这是极为危险和愚蠢地",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "神焕散的阶段，到那个时候，在调查局专业的诱供手法下，自己也许莫名其妙地开口。\n\n    他不理解政府为什么还要审问自己，杀死麦德林，不能活下去，这是他早已有心理准备的结局，更不明白对方为什么要把自己和青龙山军联系在一起，难道是因为施清海那家伙？还是联邦需要一个合适地罪名？\n\n    他困难地抬起头，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "木头一般，死死吸住。\n\n    谁能想到在这样的安控措施下，椅上看上去奄奄一息的许乐，居然还能够强行瞬间破开这种强大的吸附力，抬起腿来！\n\n    审讯室里剩下的几名联邦调查局官员，看着这不可思议的一幕，身体顿时一僵，下意识里想要举枪把椅上的许乐击毙，这才现他们的佩枪，早已经被监狱方取走。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的磁性脚镣，下意识里摸了摸鼻子。\n\n    如果不是倾城监狱地安控措施向来百无一失，他还真不敢离这个危险人物如此之近。\n\n    许乐睁开眼睛盯着他，飘过一丝狠厉的神情。\n\n    “记仇？可惜你没机会报仇。”\n\n    总四科主任轻弹手指，命令下属官员再次重复地使用各项技术手段，对许乐地和精神进行",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "听到这句话，布林感觉心脏猛然炸开，麦德林专案是莫愁后山一手设计，目的便是要为面前这位先生登上联邦权力巅峰，此时帕布尔先生却要问自己地看法……一股从内心深处绽放的寒意占据了他的全身，他沉默着，思考着，却找不到该用怎样地词汇。\n\n    帕布尔总统用平静的目光望着他，说道：“不能让联邦人人自危，不能让联",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "套，走到了许乐的身前，用一根手指抬起了他地下巴，说道：“我是联邦调查局总四科主任，全权负责审查与青龙山相关的一切事宜，我知道你的身份，但在我的手底下，不要指望有什么人能够把你救出去。”\n\n    “这是很无聊的威胁，我也知道这一点。”总四科主任挥手让下属关掉了审讯室的大灯，打开了强光台灯，照射在许乐",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "，看着对方的脸，用沙哑的声音低沉说道：“但不知道为什么，后来却越说越少，越来越沉默……大概是跟着大叔以后，大叔对这个世界的怪话越来越多，我要当听众，只好少说两句。”\n\n    “小伙子，清醒一些。”\n\n    总四科主任拍打一下许乐的脸，低声轻柔说道：“你地童年故事以后再聊，我们来聊一下五个月前的事",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "统先生一直没有明确表态，但今天布林听懂了，所以他忠实地将总统先生隐晦地指示，传达给了那些一直在等待的人们。\n\n    放下了电话，布林主任解开了自己的领口，想到那位夫人曾经的指示，不由大口地呼吸了几次，才平伏下了自己的心情。\n\n    联邦军方想保许乐，却因为军队的特殊性质而无法出面。费城那位能够影",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "徐松子让他签署了那几份法律文书之后，紧接着便是来自政府的审讯。基金会大楼恐怖袭击的调查过程，终于进入到了询问嫌犯的阶段。这已经是联邦调查局连续提审的第四天，虽然在这四天的时间里，经受了前所未有的精神与折磨，但他牢记着徐松子传递给自己的信息，一直保持着绝对的沉默。\n\n    一名官员看着椅上唇角流",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "却也让他的头脑更加清醒了一些。几天没有睡觉了，精神状态已经濒临崩溃的边缘，此时痛苦加诸身体，反而能够缓缓抬起头来，眯着眼睛看了这几名官员一眼，眼神平静中夹着痛苦。\n\n    徐松子让他签署了那几份法律文书之后，紧接着便是来自政府的审讯。基金会大楼恐怖袭击的调查过程，终于进入到了询问嫌犯的阶段。这已经",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "顿，低头说道：“我现在习惯了只做，不说。”\n\n    说完这句话，他眯着的眼睛里，眼瞳忽然渐渐缩小，同时带着血污的苍白面容也开始急剧变红，而被紧紧连在椅上的身体，也开始剧烈的颤抖起来。\n\n    “主任，要不要先停一下？”房间内的官员注意到了异样，快速建议说道：“这么多天的强电流刺激，我担心他是不是",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "“你为什么要杀他？”总四科主任精神一振，快速问道。\n\n    如果许乐再不开口，他真的很担心自己会不会先崩溃，在倾城军事监狱这种鬼地方熬了这么多天，他总觉得椅子上的嫌犯，就像是一块沉默的石头，快要把他地专业耐心碾压成暴燥的碎末。\n\n    “因为他该死。”许乐低头说道。\n\n    总四科",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "潜台词",
+      "category": "dialogue",
+      "example": "的精神追求，都应该冒一次险。\n\n    在办公室里，他取出自己的加密电话，分别拨打了几个电话，将总统暗示的事情交待了下去次通话时，他沉默片刻后，很认真地说道：“联邦的英雄，可以流血，但不能让他们再流泪。”\n\n    这是帕布尔总统对那个叫许乐的年轻人的真实看法，总统先生一直没有明确表态，但今天布林听",
+      "analysis": {
+        "definition": "在文本中使用潜台词技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "听到这句话，布林感觉心脏猛然炸开，麦德林专案是莫愁后山一手设计，目的便是要为面前这位先生登上联邦权力巅峰，此时帕布尔先生却要问自己地看法……一股从内心深处绽放的寒意占据了他的全身，他沉默着，思考着，却找不到该用怎样地词汇。\n\n    帕布尔总统用平静的目光望着他，说道：“不能让联邦人人自危，不能",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

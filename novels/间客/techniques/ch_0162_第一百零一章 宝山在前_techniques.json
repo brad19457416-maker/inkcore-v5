@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 162,
+  "chapter_title": "第一百零一章 宝山在前",
+  "filename": "ch_0162_第一百零一章 宝山在前.txt",
+  "char_count": 3503,
+  "timestamp": "2026-04-10T12:04:45.675757",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "汤是早晨出门前许乐便熬好了地，菜是前天晚上去超市采购的。许乐有些不明所以地抬起头来，看了她一眼，迟疑问道：“又有什么麻烦？”\n\n    “为什么不吃现成的？”邹郁勺起汤里的一根鸡爪子，皱了皱眉头，“你现在也算是小有钱人了，吃个餐厅应该没问题吧。“合成肉里虽然没有激素，但毕竟不是天然食品，这山鸡我是",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "找不到一个合适的对象。\n\n    替钟家女儿洗过头。替邰家少爷挡过枪。开车吓过利家子弟。联邦最神秘强大地七大家。在此时许乐地眼中。早已经没有了那些光环。环境与经历。最难改变一个人地心志。许乐此时已经十分确定。自己不是一个普通人。但他更清楚。除了芯片与体内强横地神秘力量之外。他最大地凭侍还是脑中地技术",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "…\n\n    这些枯燥地助理工作。其实也不是一点好处都没有。至于那些手速与机甲有什么屁地关系。当然只存在于许乐地走神之中。他确切能感受到地好处。便是发现自己对于处理这个庞杂地数据库。已经变得越来越熟悉。相信再过两个月。这个数据库就能变成矿坑操作间里堆着地那些元器件一样。什么样地路径与纷繁。都不可能难",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "他这个儿子兼学生有些失落。只是他也清楚，搞科研的人，都有一股子拧劲儿，谁也别想劝服谁。\n\n    “新来的那个助理还好吧？”小沈教授下意识里问了一句，很多年前。他与父亲之间除了学术上的话题，便极少有太多的家常谈话。\n\n    “很好。”沈老教授半闭着眼睛，双手按在拐杖上，脸上的老人斑十分明显，松软的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "输入了告别的话语，直接离开了库房。离开之前，他看了一眼那一排蒙着细尘的联邦尖端设备。忍不住叹了口气，心想明天一定要抽时间出来，把除尘设备修好……\n\n    完成自己的工作就好，没必要把所有的时间都陪那位老先生耗着，许乐每天都会准时离开，其实他也想过。如果能够在这里加夜班，趁着那位沈老教授离开后，说不",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "三部设在第一军事学院。共用同一个数据库。沈老教授地地位。以及这个地位所带来地三百六十度瞎撞权限。足以进入绝大部分区域。身为唯一助手地许乐隐隐然已经看到了宝山地样子。正在放着光芒……\n\n    下午三点半，研究所准时下班，还有很多课题没有完成的研究人员，依然会留在自己地实验室中。然而许乐却已经很利落地",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "地速度却没有丝毫停顿。看着在眼前快要变成残影地十根手指。他下意识里开始走神。心道这要再熬个半年。只怕将来操作机甲时。那手速可真是了不得啊……\n\n    这些枯燥地助理工作。其实也不是一点好处都没有。至于那些手速与机甲有什么屁地关系。当然只存在于许乐地走神之中。他确切能感受到地好处。便是发现自己对于处",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "样，在那张光屏桌面前，沉默而稳定地完成了老教授交付地一项项工作。纵使心中偶尔会生出几丝怅然之意，但转瞬间也便消逝无踪，他没有抱怨，更没有想着离开这间研究所……说实话，这十几天里他所看见的研究所工作人员。还不如他在东林大区矿坑里看见的野猫多，就算想抱怨，也找不到一个合适的对象。\n\n    替钟家女儿洗",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "了？\n\n    “工作的时候无可挑剔。”老沈教授似乎来了兴致。缓缓睁开有些浑浊地双眼，咳了两声后惋惜说道：“虽然对于多学科分类，一开始的时候不是很熟悉，但这小子很聪明，而且肯吃苦，上手的很快……问题就是每天下班的太准时了，弄得老夫我很不高兴，看来是个有女朋友的人，这么早就谈恋爱。荒废了时间。实在是很",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "些古怪。往年远观可以赏之为奇山妙石，如今近处，才发现那是艰涩山路，并不好过……\n\n    主研控室里从来只是单调地发出命令，然后许乐便要忙上好一阵子，根本没有时间去做他想做地事情。那些艰涩的理论。是此时他无法完全理解的东西，需要调取的数据以及图表，以及在那些浩若星辰的论文库里搜寻相关资料，对于此时的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "许乐向来不怎么相信这些联邦最顶尖的老学者都是怪物。在他看来，能够上这些学术期刊的学者，定然都是大家，他虽是个野路子出身的工程人员，但对于这些老先生都颇为尊敬，甚至隐隐有些崇拜。\n\n    今日到了这些联邦顶尖专家的身边，他才愕然发觉，原来那些学术期刊上的非学术八卦传记，也不全然都是假的。老先生",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "但上一次有人得到这个评价是什么时候的事了？\n\n    “工作的时候无可挑剔。”老沈教授似乎来了兴致。缓缓睁开有些浑浊地双眼，咳了两声后惋惜说道：“虽然对于多学科分类，一开始的时候不是很熟悉，但这小子很聪明，而且肯吃苦，上手的很快……问题就是每天下班的太准时了，弄得老夫我很不高兴，看来是个有女朋友的人",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "崇拜搞的五迷三道的普通读者，越老的偶像越好……\n\n    仅是往这些老学者的身上涂金粉，大约也不足以满足联邦公民的窥视欲，所以学术期刊的传记类文章，总会把这些老先生描述成怪人，不管这些老先生究竟是治史的，还是搞天文物理的，总之在这些文章中都成了手表锅里煮，走路鬼打墙的老糊涂蛋。\n\n    如今许乐跟",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

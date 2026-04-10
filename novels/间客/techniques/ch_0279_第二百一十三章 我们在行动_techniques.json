@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 279,
+  "chapter_title": "第二百一十三章 我们在行动",
+  "filename": "ch_0279_第二百一十三章 我们在行动.txt",
+  "char_count": 3477,
+  "timestamp": "2026-04-10T12:04:51.180142",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "情喝两口，看两眼。\n\n    好像不用自己做什么了。他微笑看着电视新闻上的听证会现场，司法部外游行的人群，不能亲手杀死麦德林，并不代表着就不能替老师报仇，自己辛苦一年调查出来的东西，终于开始挥它的作用，在联邦里引起了如此大的震动，施公子有资格得意一把。\n\n    他望着走进酒吧来的一位美丽女郎，忍不",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "二序列命令，马上潜入卡哲星球，进入这间公司，找到三十七宪历以来的所有资料，如事情败露，格杀勿论，严守秘密。\\/”\n\n    精悍的军人们看着光屏上的资料，精神顿时为之一振。他们不是一批专门上战场的特种兵，而是联邦对百慕大星域进行渗透的利器，每个人都拥有极为强悍的潜伏能力。他们对百慕大星域太熟悉了，卡",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "的震动，施公子有资格得意一把。\n\n    他望着走进酒吧来的一位美丽女郎，忍不住得意地吹了一声口哨，心想许乐就应该学习自己的人生态度，哪怕出没于深沉的夜里，也要在自己的黑眸上映上无数朵美丽的桃花，如此方能不自伤，不自悲。\n\n    “姑娘，这岛上什么都好，就是太寂寞了一些。”施公子开始上前搭讪。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "是一个女人如果却能够忍心看着爱自己的男人陷入那种绝望之中，实在是冷漠到有些冷血了。\n\n    在这一瞬间，之源忽然很想给许乐打个电话，暂时将自己的人生计划忘却，安慰一下这个联邦中仅有的朋友。\n\n    然而就在这个时候，师长带着一位穿着普通的中年人走了进来，冷冷地关掉了电视，并且命令集合。在集合之后",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "里的公司自然指的是白水公司，许乐不知道是谁又记起了自己，为什么要记起自己，只是觉得奇怪，第七小组这个战斗小组，安全顾问部门为什么要征调？那可是专门替联邦大人物们进行安全护卫工作的部门。\n\n    左右无事，左右无人，许乐沉默地想了很久，觉得总要给自己找点儿事儿做，于是决定到时去看一眼。\n\n    …",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "人给了联邦调查局一个假数据。”老局长缓缓说道：“这只是小事儿，不用去理会。”\n\n    与宪章局正在全力追查的那件事情比起来，张小萌死亡数据篡改一事确实太小，像芝麻那样小。局长助理深吸一口气说道：“我依然不敢相信。”\n\n    “我也不敢相信。”老局长眯着眼睛看着电视中的新闻报道，缓缓说道：“但一定",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，南半球的热浪岛却将将要迎来第一波热浪。沙滩上穿着贴身泳衣的女孩儿不吝惜展示自己的青春**，四周注视风景的男人们也不吝于投放自己灼热的目光。\n\n    施清海戴着一顶草帽，拿着一瓶啤酒坐在沙滩酒吧中。热浪岛的啤酒很好，女孩儿很好，他要的大枪已经藏好，那只手机早已经扔进了厕所，所以他有心情喝两口，看两",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "行活动还在继续，临海州大学城离安静还有很远的距离，环山四州还在罢工。在听证会之后，乔治卡林主义分子的愤怒反而更强烈了一些，他们纷纷指责山里的军事力量走了一条分裂的道路，出卖了自己的同志。\n\n    然而在政治评论家和政府看来，在现有的证据面前，麦德林议员的政治生命或许还能延续，但他的生命在政府与**",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "种绝望之中，实在是冷漠到有些冷血了。\n\n    在这一瞬间，之源忽然很想给许乐打个电话，暂时将自己的人生计划忘却，安慰一下这个联邦中仅有的朋友。\n\n    然而就在这个时候，师长带着一位穿着普通的中年人走了进来，冷冷地关掉了电视，并且命令集合。在集合之后，师长望着这一队最精锐的特种作战小队，沉声说道",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "“联邦副总统是法定的议长，再想到那十七篇社论，终于明白那人想做什么，但这明白却有些令人不愉快。”老局长轻轻地叹了一口气，说道：“那些大人物们妥协也好，至少不用担心选举的事情。”\n\n    ……\n\n    ……\n\n    都已是深秋寒冷时节，南半球的热浪岛却将将要迎来第一波热浪。沙滩上穿着",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "她还活着。”\n\n    “没有人能修改公民数据库里的数据，局里有人给了联邦调查局一个假数据。”老局长缓缓说道：“这只是小事儿，不用去理会。”\n\n    与宪章局正在全力追查的那件事情比起来，张小萌死亡数据篡改一事确实太小，像芝麻那样小。局长助理深吸一口气说道：“我依然不敢相信。”\n\n    “我也不",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "想做什么，但这明白却有些令人不愉快。”老局长轻轻地叹了一口气，说道：“那些大人物们妥协也好，至少不用担心选举的事情。”\n\n    ……\n\n    ……\n\n    都已是深秋寒冷时节，南半球的热浪岛却将将要迎来第一波热浪。沙滩上穿着贴身泳衣的女孩儿不吝惜展示自己的青春**，四周注视风景的男人们也不吝于",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "中年人走了进来，冷冷地关掉了电视，并且命令集合。在集合之后，师长望着这一队最精锐的特种作战小队，沉声说道：“现在布的是宪章局二号序列事件任务，从此刻起，中断你们对外的一切联络，除了宪章局直接命令之外，拒绝所有来自部队的要求。”\n\n    “你们的任务是进入青龙山，寻找一座坟墓。”那名中年人是来自宪章",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "的青年，还是那些自以为城府极深的家族、政客，这已经变成了一张网。总统或那位夫人，都不会眼睁睁看着联邦社会分裂以至动荡，只要他退一步，总统和夫人便不会为难他，这是历史早就已经证明了的命题。”\n\n    “联邦副总统是法定的议长，再想到那十七篇社论，终于明白那人想做什么，但这明白却有些令人不愉快。”老局",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "中断你们对外的一切联络，除了宪章局直接命令之外，拒绝所有来自部队的要求。”\n\n    “你们的任务是进入青龙山，寻找一座坟墓。”那名中年人是来自宪章局的官员，当确认了没有丝毫泄密的可能性后，他在光屏上调出了一幅图片，对着下面的军人们冷声说道：“找到它，挖开它。”\n\n    之源的眼睛眯了起来，和许乐",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

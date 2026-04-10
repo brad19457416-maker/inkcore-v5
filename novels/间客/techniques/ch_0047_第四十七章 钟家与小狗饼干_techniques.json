@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 47,
+  "chapter_title": "第四十七章 钟家与小狗饼干",
+  "filename": "ch_0047_第四十七章 钟家与小狗饼干.txt",
+  "char_count": 3593,
+  "timestamp": "2026-04-10T11:53:11.048466",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "也下来了？”黑色汽车后排那位衣着华贵的**爱怜地抱着望着窗外出神的小女孩儿，看着对面的胖子船长，笑着说道：“一个船长不在自己的船上呆着，你也不怕被人开跑了。”\n\n    **这一笑，温婉之中与年龄并不相符的娇俏之意散出，让车内的气氛顿时好转了许多。胖子船长看着**，谄媚地笑着说道：“小嫂子，小姐出了",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "特权阶级，无数年的历史粹炼，无数的丰功伟绩，让这七个家族成为联邦的柱石。在一个以联邦法律为基石的现代社会里，这种有些古老的家族，只是安静地潜伏在阴影之中，很少展露自己的真实身姿给一般的民众参观。联邦民众都知道七大家，却永远也不知道七大家究竟强大在哪里，拥有怎样的权力和势力。\n\n    以七大家的身份",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "”\n\n    **点了点头，看着窗外的风雪，低头又看着已经熟睡的女儿，忽然轻声说道：“那个……机修师究竟怎么个强法？”\n\n    “别的人肯定看不明白，但我少年时在李家的修身馆呆过一段时间。”胖子压低了声音，十分认真严肃说道：“我总觉得那个机修师和费城李家有关系。”\n\n    听到费城李家，**也不",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "姓田的胖子船长马上听明白了这句话潜在的意思，笑着说道：“小嫂子放心，头儿那我会看的严严的。”转瞬间，他的脸色沉重起来，说道：“小姐曾经失踪的事情，司令让我们封锁了消息，那个叫许乐的小孩子我也交代过，他应该不会说漏嘴……我就是不明白，小姐不送来首都，难道管理委员会的那些老头儿议员还敢怎么嘀？”",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "子船长平静说道：“既然那个小家伙不想和我们这些人扯上关系，那也就算了，我给他留了张军区驻首办的卡片，将来如果他需要，也能帮帮他。”\n\n    胖子船长点了点头，接着说道：“公司的能量配额一炮打了一半，报告我已经发上去了，关键是管理委员会能源委那里，其他的部委应该好跑，能源委需要董事长您亲自去说一说。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "辜负联邦人民的期望。\n\n    许乐系好了风衣的扣子，站在风雪里等着大巴，时不时抬头看一看不停落雪的天空，心里觉得有些莫名其妙。\n\n    他只是一个逃犯，谁知道竟然能够看到传说中钟家的人物，甚至还和钟家的小姐在一起呆了那么多天，而且在机场上居然看见了钟家的夫人，那可是第四军区的司令夫人啊……原来传",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "早就猜到了，只是没有说出口，大概他也清楚，有些事情装不知道更好。”胖子船长耸耸肩膀，身上的肥肉又开始颤抖。\n\n    一直盯着窗外看的小西瓜，忽然转过头来，望着车内的两个大人，用尽力气大声说道：“许乐哥哥是好人！”\n\n    **笑了起来，说道：“当然是好人，明明知道我们是钟家的人，结果既没有仗着你",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "个普通的联邦公民，二者之间甚至可能永远都不会发生任何关系，对于一般民众来说，七大家就像云层之上的遥远存在，存在于茶余饭后的闲谈之中，存在于非法贩卖的文学刊物之中，却不可能存在于自己的生活之中。\n\n    七大家中的六大家族生活在首都星圈三颗行政星球上，唯一不在上林大区范围的是西林钟家。\n\n    西",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "憾，那台碎掉的m02大概会一直在太空里漂流，直到某一天被扔到无尽虚空里成为垃圾……\n\n    替自己第一次亲密接触，第一次亲手修复的破旧机甲哀悼了片刻，许乐看了一下大巴的时间，想了会儿后，回头进机场买了一包上林特产的小狗饼干，脸上顿时露出了快乐的笑容。\n\n    以前在东林的时候，他就知道上林的小狗",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "我们钟家在西林驻守的时间实在太久，首都这边的人总是不大放心。让烟花回联邦学习，倒不见得存着什么不好的念头，大概也是想让钟家的后代，能够自幼对联邦有更多的归属感吧。”\n\n    说完这番话，她忽然眉头微皱问道：“那个叫许乐的小家伙，到底知不知道烟花的身份？”\n\n    “那小子看上去老实可靠，但实际上",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，对于那位李姓老人也拥有无比的敬意，认真点头应下。\n\n    ……\n\n    ……\n\n    联邦七大家，是没有特权的特权阶级，无数年的历史粹炼，无数的丰功伟绩，让这七个家族成为联邦的柱石。在一个以联邦法律为基石的现代社会里，这种有些古老的家族，只是安静地潜伏在阴影之中，很少展露自己的真实身姿给一般",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "子船长马上听明白了这句话潜在的意思，笑着说道：“小嫂子放心，头儿那我会看的严严的。”转瞬间，他的脸色沉重起来，说道：“小姐曾经失踪的事情，司令让我们封锁了消息，那个叫许乐的小孩子我也交代过，他应该不会说漏嘴……我就是不明白，小姐不送来首都，难道管理委员会的那些老头儿议员还敢怎么嘀？”\n\n    **",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "乐跟着一个大皮箱上了车，辛苦地找到了座位，脱掉风衣坐了下来，将一整袋小狗饼干放在手边的食物架上，准备慢慢地，美美地吃一整路，忽然，他的手指忽然碰到了两根冰冷的细手指，把他吓了一跳！\n\n    ——许乐惊愕地转过头去，只见一个戴着帽子的女孩儿正把手伸进袋子里，毫不客气地准备拿饼干小.说。t!xt-天堂",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "邦开拓时期起，钟家的第四军区便承担了联邦最边缘的防卫工作，除了在东林大区的那次意外事件之外，第四军区从来没有辜负联邦人民的期望。\n\n    许乐系好了风衣的扣子，站在风雪里等着大巴，时不时抬头看一看不停落雪的天空，心里觉得有些莫名其妙。\n\n    他只是一个逃犯，谁知道竟然能够看到传说中钟家的人物，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "似乎猜到小孩子在想些什么，**的脸上闪过一丝黯淡和歉意，转过头对胖子船长说道：“这孩子就是不舍得离开家，看样子没办法，我只好在这儿多陪她几年。”\n\n    姓田的胖子船长马上听明白了这句话潜在的意思，笑着说道：“小嫂子放心，头儿那我会看的严严的。”转瞬间，他的脸色沉重起来，说道：“小姐曾经失踪的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

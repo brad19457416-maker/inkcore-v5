@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 897,
+  "chapter_title": "第二百三十三章 偷窥，细眉，树下如故",
+  "filename": "ch_0897_第二百三十三章 偷窥，细眉，树下如故.txt",
+  "char_count": 3303,
+  "timestamp": "2026-04-10T12:05:17.638819",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "竟会去哪里呢？”\n\n    这是一个星期天的夜晚，邹郁按照多年习惯来到林园，来到竹居之中，将桃红色的风衣放到身旁，盘膝而坐，沉就元语。\n\n    只有极少数女人能 穿桃红，敢穿桃红，但大概也只有像她这样容颜媚丽却透着 像窗外北风般凛冽感、内心日趋强悍却固守某地温柔的女子，才能把桃红穿出 不俗感觉。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "起来，片刻后骤然深沉：“乐乐，络究竟会去哪里呢？”\n\n    这是一个星期天的夜晚，邹郁按照多年习惯来到林园，来到竹居之中，将桃红色的风衣放到身旁，盘膝而坐，沉就元语。\n\n    只有极少数女人能 穿桃红，敢穿桃红，但大概也只有像她这样容颜媚丽却透着 像窗外北风般凛冽感、内心日趋强悍却固守某地温柔的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "时而黯淡，愤怒时效昂嘹亮，悲伤时婉转轻柔，瀹淡时低沉浑浊，没有任何性别特征。“这是我的，这都是我的，为什么你不让我进去？就连你都应该是我的 ！ 不让我进去？我偏要进去 ！”\n\n    不知道自我命名为小飞的老东西，因为何事 而暴跳如雷，极孩子气地重复絮叨着赌气的话语，声间回荡在中控室内，尖细而急促。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "一切。“哎哟喂，这动作漂亮，可以打十分。”光幕上出现许乐上建筑物外墙，高折返奔跑的画面，飞利浦醒来后第一次看到这张脸，来不及感慨便被狠狠震 了一下腰。\n\n    光幕上的画面以人类肉眼绝对无法看清的极转换，代表宪章光辉正在利用建筑物里所有监控设备进行即时追踪，然而追踪画面在大楼内部持续不到十秒，又进",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "湿地中央有一片坡地，坡地上有一棵树，冬天树叶尽落，只剩枯枝，傲然伫立黄草之间。树下是那位正在被全联邦追杀的帝国公主。怀草诗背靠枯树，低头看书。神情平淡如故小.说。t/x/t天.堂\n\n\n\n第四卷星光流年",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "道，在这些合金箱体的最深处，三翼舰本体中控室内，有一个声音正不停回荡在空无一人的空间里，这道声音时而愤怒，时而悲伤，时而黯淡，愤怒时效昂嘹亮，悲伤时婉转轻柔，瀹淡时低沉浑浊，没有任何性别特征。“这是我的，这都是我的，为什么你不让我进去？就连你都应该是我的 ！ 不让我进去？我偏要进去 ！”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "真的变成了一个看不到摸不着却也无法影响自己的幽灵。\n\n    经过简单的计算推理后，它不再进行无用的感慨悲伤，迅进入下一步的行动计划，毕竟它现在虽然不认为自己是一台电脑，但依然还是一台电脑，那么伤春悲秋这种事情只能允许自己偶而为之而不可持续。\n\n    小光幕上的数据流渐渐铣化成一幕 幕s1星球地表",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "控室内，尖细而急促。\n\n    飞船前端那块只有两个人类手掌大小的光幕上，呈现着 一幅极诡异的画面，无数绿色的光点里，混杂着一道深绿色的数据流，其实这些机械语气构成的绿色符号之间没有任何区别，只走出自三翼舰的绿色数据流密度极高，所以显得颜色更深，而且仿佛具有某种生命一般「带着股令 人心生喜悦的灵动味",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "“我嘀 ！你丫现在跑的太他嘀快了，居然连我都跟不住你！”菲利浦的声音夸张地尖叫起来，片刻后骤然深沉：“乐乐，络究竟会去哪里呢？”\n\n    这是一个星期天的夜晚，邹郁按照多年习惯来到林园，来到竹居之中，将桃红色的风衣放到身旁，盘膝而坐，沉就元语。\n\n    只有极少数女人能 穿桃红，敢穿桃",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "然而追踪画面在大楼内部持续不到十秒，又进入地下室三秒，便戛然而止，星球上的中央电脑和三翼舰里的菲利浦同时失去了许乐的身影。\n\n    “我嘀 ！你丫现在跑的太他嘀快了，居然连我都跟不住你！”菲利浦的声音夸张地尖叫起来，片刻后骤然深沉：“乐乐，络究竟会去哪里呢？”\n\n    这是一个星期天的夜晚，邹郁",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "命一般「带着股令 人心生喜悦的灵动味道。这幅诡异的画面其实只是在说明当下的一场战争。\n\n    人类社会包括宪章局大楼里的员工，都不知道这场战争正在生，更不知道这场战争的胜负极有可能改变整 个人类的历史走向，因为数据同源共生的关系，甚至就连宪章局地底邝台冰冷的中央电脑，或许都没有现自己已经被某个不甘",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "好了菜色，他非常清楚联邦最近生的大事件，所以并不意外这位大小姐神情冷冽更胜往日，更不会不知趣地拿出某某年份红酒请对方品评，只是礼貌完成应有工作之后，便知趣地沉就退出房间。\n\n    还是林园，还是竹居流水落叶畔，还是那个位置，隔窗还能看到白崖之下起降的私人飞机，但桌对面却少了一个人，虽然那个家伙惯常",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第二百三十三章 偷窥，细眉，树下如故 \n\n    像幽灵一样的破烂飞船就这样安静地悬浮在新月的阴影中，沉就注视着刻星球处博光明。\n\n    远处恒星的光辉穿透面前星球薄薄的大气层，投射到此地，给飞船罩了一层诡异莫名的颜色，说不上是斑驳，更像是刚刚涉足街头的青年最拙劣的重墨涂鸦",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "能 穿桃红，敢穿桃红，但大概也只有像她这样容颜媚丽却透着 像窗外北风般凛冽感、内心日趋强悍却固守某地温柔的女子，才能把桃红穿出 不俗感觉。\n\n    相熟的经理侍立在旁，不需要递上菜单，已经提前准备好了菜色，他非常清楚联邦最近生的大事件，所以并不意外这位大小姐神情冷冽更胜往日，更不会不知趣地拿出某某",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

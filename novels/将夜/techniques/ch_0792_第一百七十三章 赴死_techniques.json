@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 792,
+  "chapter_title": "第一百七十三章 赴死",
+  "filename": "ch_0792_第一百七十三章 赴死.txt",
+  "char_count": 2188,
+  "timestamp": "2026-04-10T12:11:27.163241",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "像是圣洁无比的琼宫，有了一分非人间的美丽，风雪同样洁净，没有一丝尘埃，就如同昊天的脸。\n　　此时随着人群的进攻，长街顿时变得污秽不堪，亵渎的喊杀声和脏话，还有那些来自人间的臭味，随着风雪渐起，飘入高远的天空，把昊天的脸涂抹的极为难堪。\n　　观主看着那些飘向天空的污秽的属于人间的气息，微微挑眉，那些屎",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "群的进攻，长街顿时变得污秽不堪，亵渎的喊杀声和脏话，还有那些来自人间的臭味，随着风雪渐起，飘入高远的天空，把昊天的脸涂抹的极为难堪。\n　　观主看着那些飘向天空的污秽的属于人间的气息，微微挑眉，那些屎尿秽物自然染不得他一丝衣袂，却令他有些微怒。\n　　在他的视野范围之内，雪街上便至少有数千名唐人，他还能",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "不甘，但却看不到一丝绝望的情绪。\n　　人们没有绝望，没有哭泣，甚至连脏话都不骂了，他们只是沉默地继续战斗，哪怕是无望的战斗，但也要战斗到底。\n　　一名苦力挑夫拿起扁担砸向观主的，然后死了。\n　　一名从外郡来的商贩，拿起在深山里保命的匕首，然后死了。\n　　一个看不出什么身份的男人扑向观主，然后死了。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "唐人的心很热，所以他们的血变热，直至身体都滚烫起来，他们握紧拳头，挥舞手臂，不停地喧泄着自已的愤怒。\n　　朱雀大道四周不停响起喊杀声和脏话，人们不停地砸着砖块，还有人把夜壶、残茶、剩饭、童子尿砸向观主。\n　　唐人信奉昊天，却很奇妙地相信人定胜天，这是因为夫子虽然不理世事多年，但他那股与天斗其乐",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "个三元里的少年拿着刀叉就敢来杀，就算观主是吃人的妖怪，人们也要试着整一下。\n　　我们这些多人打不过你难道我们这么多张嘴还骂不过你？就算这个家伙厚颜无耻骂不痛，我拿屎尿泼你，难道你不会狼狈？\n　　先前的雪街看上去就像是圣洁无比的琼宫，有了一分非人间的美丽，风雪同样洁净，没有一丝尘埃，就如同昊天的脸。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "餮吞噬，经由阵眼杵，笼罩了整座长安城，于是风雪愈发狂暴，寒意无处不在。\n　　朱雀大道也很寒冷，但随着出现在墙头以及街上的唐人越来越多――他们并肩站在一起，肩与肩相磨，他们拥挤在街道上，鞋后跟不时互踩――街道上的温度渐渐升高，冰雪践融，甚至令人觉得有些热。\n　　唐人的心很热，所以他们的血变热，直至身体",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "国的修行者终于出手了。\n　　天枢处已悄然潜伏至四周的坊市里，数名阵师启动了天罗阵，朱雀大道间天地元气骤然剧烈变化，无数道元气湍流，变成无数道无解的元气锁，出现在观主四周的空气里，锁死了他的所有去路。\n　　几乎同时，十余名隐匿在普通民众间的军方剑师，暴起出手，只闻呛啷清鸣，明亮的飞剑破空而起，直刺观主",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "变化，无数道元气湍流，变成无数道无解的元气锁，出现在观主四周的空气里，锁死了他的所有去路。\n　　几乎同时，十余名隐匿在普通民众间的军方剑师，暴起出手，只闻呛啷清鸣，明亮的飞剑破空而起，直刺观主的面门。\n　　观主的神情没有任何变化，轻轻地拂了拂衣袖，然后继续前行。\n　　随着衣袖一拂，纵横长街的剑意，顿",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "数十丈远，便堕马不起。\n　　观主的身影，渐渐在人群的海洋里显现出来，在他的身后是一片狼籍，恐怖的气息压迫之下，人海渐渐分开一条通道。\n　　便在这时，唐国的修行者终于出手了。\n　　天枢处已悄然潜伏至四周的坊市里，数名阵师启动了天罗阵，朱雀大道间天地元气骤然剧烈变化，无数道元气湍流，变成无数道无解的元气",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

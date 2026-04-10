@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 585,
+  "chapter_title": "第二百二十二章 荣归",
+  "filename": "ch_0585_第二百二十二章 荣归.txt",
+  "char_count": 3431,
+  "timestamp": "2026-04-10T12:05:08.575371",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "黑暗，黑暗之中有一点白光亮起，那是一颗星辰，紧接着则是更多的星辰，最后化为满天繁星，恢宏宇宙，出现在人们的眼前。\n\n    画外有轻扬的小提琴声响起，琴声之中清亮若泉水的女声逐渐清晰，缓缓冷唱。\n\n    伴着悠扬感伤却又充满了坚强乐观意味的歌声，全黑的电视画面上出现了无数张图片，这些图片由小放大拉",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "；激烈战斗后鲜血渐涸的阵地与闭着眼睛似深睡的年轻士兵灰灰的脸。\n\n    密集爆炸凝成的烟云在澄净的天空中画着难懂的色块；几名年轻的战士欢笑着交谈，露出满口白牙，近景中有两名战士站在高大机甲合金腿的阴影中，低头用香烟接吻。\n\n    最后的画面是许乐坐在高大机甲的肩上，这一次他终于没有戳那副墨镜，但",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "妹妹究竟长的是什么模样。”\n\n    达文西的眼睛一直盯着电视画面，先前因为萧十三楼的画面太少他极为愤怒，平静之后却又隔入了沉默，被惊醒后紧回答道：“如果他妹妹长的像他那么难看，我是不是有些吃亏？”\n\n    许乐怔怔地望着他，疑惑问道：“你真决定回去后找他妹妹结婚？高楼确实救过你，你们感情好，可…",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "电视光幕上快的镜头拉花处理之后，出现了熊临泉那张满是污泥的大脸，正在埋头吃饭的他惊愕地盯着镜头，说道：“为什么而战？当然，是嘀嘀嘀为了保卫联邦。”紧接着他看似憨厚实则无耻地坦承：“不过这是你教我说的答紊。”\n\n    很妙的是，无论是金星制片厂还是联邦新闻频道，都没有把这一段画面掐掉，掇像机的镜",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "光幕上快的镜头拉花处理之后，出现了熊临泉那张满是污泥的大脸，正在埋头吃饭的他惊愕地盯着镜头，说道：“为什么而战？当然，是嘀嘀嘀为了保卫联邦。”紧接着他看似憨厚实则无耻地坦承：“不过这是你教我说的答紊。”\n\n    很妙的是，无论是金星制片厂还是联邦新闻频道，都没有把这一段画面掐掉，掇像机的镜头做了一",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "许乐从黑色的画面上收回眼睛，想到最后那个画面，忍不住下意识里攘了攘军装上衣袋里的墨镜，强行压抑戴上它的冲动，拿起眼药水往干涩的眼中滴了几滴。以前在东抹矿坑里完成机修工作后，他就养成了保护眼睛的良好习惯，今天连看了四集纪录片更是需要保养。\n\n    这时候他和新十七师的官兵们，正在向s1飞去",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的大村绕到了师部的大门口，已经被任命为新十七师电控营营长的顾惜风，人畜无害地回答了这个问题：“为什么战斗？我说导演，这是谁嘀嘀想出来的弱智问题？”\n\n    “因为老兵们冲的太猛，如果战斗的时候我们不跟上，会觉得很丢脸。”肌肉达的颜丙燕思考了片刻后，叼着粗烟草认真回答道。\n\n    “我还真没有想过",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "自由意志，更英键的是，他们知道自己为何而战。这，便是我们与帝园侵略者之间最大的不同，这是联邦必将取得最终胜利的最有力理由。”\n\n    “我，做为一名参加过两次大战的老兵，向所有看到这段话的联邦民众宣告，你们的部队就像七组一样，正走在胜利的道路上，而且必将为你们带来更多的胜利。愿这浩瀚的宇宙，能够见",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "第二百二十二章 荣归 \n\n    电视光幕上快的镜头拉花处理之后，出现了熊临泉那张满是污泥的大脸，正在埋头吃饭的他惊愕地盯着镜头，说道：“为什么而战？当然，是嘀嘀嘀为了保卫联邦。”紧接着他看似憨厚实则无耻地坦承：“不过这是你教我说的答紊。”\n\n    很妙的是，无论",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "“头儿，你为什么要说嘀嘀？这时候的我们并不是电视上的我们。”达文西疑惑问道。\n\n    “马上就要回s1了，那里可不是充满汗臭味砧烟味、无法无天的前线。”许乐看着眩窗外逐渐清晰的星球，耸肩无奈说道：“我得先习惯不说脏字怎么说话，不然总统接见的时候，我忽然骂他老娘怎么办？”\n\n    说着笑",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "恢宏宇宙，出现在人们的眼前。\n\n    画外有轻扬的小提琴声响起，琴声之中清亮若泉水的女声逐渐清晰，缓缓冷唱。\n\n    伴着悠扬感伤却又充满了坚强乐观意味的歌声，全黑的电视画面上出现了无数张图片，这些图片由小放大拉远，占满全景，然后纷纷逝去，换作下一张：\n\n    546o这颗色彩侬艳分明的星球；",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "久违的人，这一刻，许乐的心情不禁变得有些紧张起来。\n\n    流火现在的饭量怎么样了，邹郁还是那个臭脾气？利七少和他兄长间的距离拉近了多少？商秋的身材，噢，她才刚刚见过，身材一如厩往的夸张而美妙，那位南相家的千金呢？自己一直没有回信，她可曾过的幸辐？还有一件很重要的事：望都公寓下方卖金餐盒的大婶，究",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，我们莫名其妙被送到了西林，很凄惨地被丨操练了十来天，就被扔进了前线。”从家征皱紧了眉头，想到了那位离开了部队的友人，摇了摇头，叹息说道：“在这种地方，不战斗你就要死，那我们自然只有战斗下去。”\n\n    在纪录片这段采访的最后、以七组兼新十七师新闻言人自居的兰晓龙少校，穿着一身笔捉的新军服，狂着所",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "占据大半个镜头的红暖新鲜阳光，让所有观众只能看到一个背影。\n\n    电视光幕至此归于黑暗，那道空灵温暖的女声缓缓结柬，光幕的下方出现一异白色的小字：纪录片《七组》完结或者待续，谢谢收看。\n\n    许乐从黑色的画面上收回眼睛，想到最后那个画面，忍不住下意识里攘了攘军装上衣袋里的墨镜，强行压抑戴上它",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

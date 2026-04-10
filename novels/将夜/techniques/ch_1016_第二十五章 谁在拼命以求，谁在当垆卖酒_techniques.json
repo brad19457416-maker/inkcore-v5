@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1016,
+  "chapter_title": "第二十五章 谁在拼命以求，谁在当垆卖酒",
+  "filename": "ch_1016_第二十五章 谁在拼命以求，谁在当垆卖酒.txt",
+  "char_count": 2516,
+  "timestamp": "2026-04-10T12:11:34.921767",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "微微颤抖，有影覆盖。\n　　酒徒回到了山林间，身影遮住星光，暗沉阴晦。\n　　大师兄抬头看着他，问道：“为什么又要杀人？”\n　　酒徒的长衫上没有新鲜的血水，但确实有人死去。\n　　“我说过，书院不要对我有杀意，再轻的，再淡的都不行，因为我会感到恐惧，这让我痛苦，那么我便会杀人让你们痛苦，让你们恐惧。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "与昊天为敌，便要与书院为敌，您没有战胜昊天的自信，就确信能够战胜书院？”\n　　酒徒挑起的双眉，变成夜风里静止的两道笔画。\n　　大师兄说道：“策反不成，便要反正。”\n　　酒徒说道：“书院能做什么？”\n　　大师兄说道：“书院……会拼命。”\n　　当年秋雨里的烂柯寺，书院曾经拼过命，后来在长安城，在青峡，在",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "日的这番谈话。\n　　秋风忽起，树叶上的水珠哗哗落下，他的身影忽然消失不见。\n　　大师兄的神情变得有些愤怒，密集的水点落在棉袄上，仿佛落在沙滩上般，涂出很多湿意，然后迅速消失不见。\n　　雨水落在地面，没能全部渗进山岩泥土，他脚前的地面上积了个浅浅的小水洼，有只蚂蚁正在水洼里拼命挣扎。\n　　他沉默低头看",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "第二十五章 谁在拼命以求，谁在当垆卖酒\n　　酒徒看着满天繁星，沉默良久，眼眸里的情绪淡而不散，如饮美酒无量，误入星海深处，沉醉不知归路，即便知晓也懒回舟。\n　　“或者，那真的很美。”\n　　他看着繁星，眼中忽然流露出几",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "大师兄轻轻叹息一声，知道他已经醒了过来，并且做出了决定。\n　　酒徒回首望向他，神情肃然说道：“存在，对我来说是最重要的事情，比别的所有都要重要，为之我可以放弃很多。”\n　　大师兄说道：“存在与追求并不矛盾。”\n　　酒徒说道：“但书院的追求与昊天的意志矛盾。”\n　　大师兄说道：“昊天的想法与你我",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "晓也懒回舟。\n　　“或者，那真的很美。”\n　　他看着繁星，眼中忽然流露出几抹悸意，像孩子看到大山那边陌生的世界，充满了畏惧与不安，声音轻颤：“但也很可怕。”\n　　最甜的蜜糖往往就是最毒的砒霜，最美的向往有时候也正是最大的恐慌，自由很好，但无所依凭很坏，只在每人一念间。\n　　大师兄轻轻叹息一声，知道他",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "光影，右手不知何时已经握住了木棍的另一端，说道：“难道一切无可改变。”\n　　黑夜很漫长，消失却仿佛是瞬间的事，只是眨眼功夫，红暖的朝阳便跃出了地面，照亮了秋雨中的山野。\n　　酒徒说道：“太阳一定会再次升起，白昼永远不会黑暗，在昊天的世界里，唯有昊天能够永恒，而这是你改变不了的规律。”\n　　大师兄说道",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "一念间。\n　　大师兄轻轻叹息一声，知道他已经醒了过来，并且做出了决定。\n　　酒徒回首望向他，神情肃然说道：“存在，对我来说是最重要的事情，比别的所有都要重要，为之我可以放弃很多。”\n　　大师兄说道：“存在与追求并不矛盾。”\n　　酒徒说道：“但书院的追求与昊天的意志矛盾。”\n　　大师兄说道：“昊天的想",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "他怜悯说道：“仁者爱人，你不敢杀人，不愿我杀人，便无法与我拼命，那么你便只能学会接受，书院从今日开始安静些，待神殿烧死新教的数十万信徒，再廓清唐国周边的世界，再来最后的焚烧吧。”\n　　大师兄盯着他的眼睛，问道：“杀人对你来说究竟意味着什么？你已经把自己当成非人的存在，所以没有任何心理障碍，甚至陶醉其",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

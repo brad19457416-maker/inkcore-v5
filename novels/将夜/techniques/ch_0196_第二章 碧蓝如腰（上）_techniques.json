@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 196,
+  "chapter_title": "第二章 碧蓝如腰（上）",
+  "filename": "ch_0196_第二章 碧蓝如腰（上）.txt",
+  "char_count": 5556,
+  "timestamp": "2026-04-10T12:11:12.059541",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "杂。别的士兵可能还不知道宁缺的身份，但他是暗侍卫，当然知道宁缺是夫子的亲传弟子，这样身份尊贵的大人物为什么要来边塞？更令他感到不解的是，还要办如此麻烦的事情，这是何苦来哉？\n　　须知这是人烟寂廖的荒原，这是长草藏白骨的战场，若真触怒了夏侯将军，将军大人可不会理会你是不是书院二层楼的学生，把你杀死往草",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "家都还是很习惯这里的生活，我就放心了。”\n　　东胜寨将军跟在他身后，见他不怎么理会自己，便有些不悦，心想即便你是长安城来的大人物，但现在是在军营之中，又有什么资格摆谱。\n　　然而当他听到这番对话后，顿时明白这位十三先生果然是不好招惹的大人物――任何敢对云麾将军之女如此说话，敢对书院学生摆谱的人，都是",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "胜寨外等着他们的到来。东胜寨将军并不知道这位十三先生是谁，只是从土阳城将军府的文书还有那些下属军官的激动表情上猜到，应该是位来自长安城的大人物，应该与书院还有些关系。\n　　宁缺看着城寨外的军官们笑了笑，从大黑马上身上跳了下来，先与那位将军客气寒喧几句，然后向右方走去，走到某人身前笑着说道：“在这边呆",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "向湖面的目光，抬起手臂指向远处湖畔的山林，说道：“蛮人的游骑以往侵南时，都是从那片山林里钻出来，很是突然。不过最近这些天早已没有草原人敢靠近这里。”\n　　宁缺看着那处隐约可见的雾中林木，问道：“现在能过去吗？”\n　　“越过那片山林，便到了燕军的东线，为了避免麻烦，我们都不怎么过去，当然他们也不怎么过",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "论你认为这是不是送死，你都必须骑着马向前冲。”\n　　司徒依兰望着他说道：“离开书院来到前线，参加几次战斗，被将军们狠狠捶打几番，他们自然就明白这个世界终究还是靠实力说话。”\n　　“说到战斗和实力。”\n　　宁缺看着她笑着说道：“我最开始认识你的时候，认为你不过是个仗着家世横行长街的恶女，传说中的娘子军",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "看着他说道：“杀了那么多马贼自己还没死，你很厉害。”\n　　宁缺说道：“这一点我不否认。都说世间修行者最强，但以我遇见过的那些修行者来说，若把他们放到荒原上，只要遇到一个百人队的马贼，他们绝对活不下来。”\n　　“可你还是想要成为一名修行者。”\n　　“因为我会杀人，如果成为修行者，我就能成为一名能杀人的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "已消失无踪，时隔月余双方再次见面，自然好生热情热闹。\n　　经历过真正的沙场血火生涯，经历过生死，年轻人们才会迅速成熟，也正是因为成熟，他们对宁缺的热情之中，难免会夹杂着一些敬慕和距离感，毕竟宁缺是书院二层楼的学生，和他们的身份地位已经拉开了极大的距离。\n　　碧蓝色的湖畔，司徒依兰取出手帕打湿，将额头",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第二章 碧蓝如腰（上）\n　　夜宿边营风不动，柴堆上生出的红艳火舌可以温柔地摇动腰肢，数十名大唐边军精锐散于四周或沉沉睡去或警惕站岗，只有宁缺和那名校尉坐在火堆旁。\n　　白日里这名校尉对着宁缺口口声声称着十三先生，似乎并不知道他的真实身份",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的当然只能是那位大将军本人，只不过他还是没敢直接把夏侯大将军的名字说出来。\n　　书院诸生从长安城出境来到燕北边塞，路途中曾经经过土阳城，当时将军府负责出面接待是夏侯将军的副手，所以宁缺还未曾见过夏侯将军本人。\n　　此时听到土阳城三字，想着土阳城里那位以暴戾闻名的大将军，他沉默片刻后笑着说道：“以后总",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "着根树枝拨弄着火堆里的番薯，听着这话抬头看了他一言，忍不住摇了摇头，看着四周没有注意自己的边军精锐，说道：“在边塞呆了一个多月，结果却一点麻烦都没有惹上身，在我看来这才是真的麻烦。”\n　　他望着校尉那张看似木讷老实的脸，叹息说道：“说起来我们的运气是不是太差了些？土阳城里就你这个暗侍卫，结果好死不死",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "走走？”\n　　“是的。”\n　　“军队是最讲究阶层的地方，军令如山，只要是上级，无论他发布的军令有没有道理，无论你认为这是不是送死，你都必须骑着马向前冲。”\n　　司徒依兰望着他说道：“离开书院来到前线，参加几次战斗，被将军们狠狠捶打几番，他们自然就明白这个世界终究还是靠实力说话。”\n　　“说到战斗和实",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "招惹的大人物――任何敢对云麾将军之女如此说话，敢对书院学生摆谱的人，都是真正的大人物。\n　　书院学生日后的培养目标是成为朝廷官员，并不会与军队系统发生关系，但大唐以武立国，培养计划中前线实修是必不可少的一个环节。\n　　东胜寨处于唐军防线最东头，距离左帐王庭某部落极近，又与燕国军队还有中原诸国来援的青",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "砍柴的血战时光。\n　　“其实我一直很好奇，你究竟是个什么样的人。”\n　　司徒依兰在湖边转过身来，眉梢缓缓挑起，极有兴趣看着宁缺的脸，说道：“父亲曾经调阅过你在军部的档案，但只告诉了我一些大概，不肯告诉我太多的细节。被我追问的急了，也只说若日后有机会和你并肩作战，一切听你的便是。我很少见到父亲对人评价",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "擦掉脸上黏着的渣末，说道：“只是按照现在这种情况看，什么都没有办法看到。”\n　　“您身份特殊，将军府担心您出事儿，也不想您来事儿，当然希望您离的越远越好，若您是要看……将军府里某人，不去土阳城终究是没办法看的。”\n　　校尉犹豫了片刻，还是直接说到了土阳城。他很清楚，像十三先生这样的大人物，领受陛下暗",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "“当然不该吵，吵翻天又能吵出什么结果？我们以往在梳碧湖打柴的时候，若遇着七城寨的人过来抢军功，我们从来不跟他们吵。”\n　　宁缺看着平静的湖面，摇头说道：“我们直接抽刀子砍。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "第二章 碧蓝如腰（上）\n　　夜宿边营风不动，柴堆上生出的红艳火舌可以温柔地摇动腰肢，数十名大唐边军精锐散于四周或沉沉睡去或警惕站岗，只有宁缺和那名校尉坐在火堆旁。\n　　白日里这名校尉对着宁缺口口声声称着十三先生，似乎并不知道他的真实身份，然而此时在红暖火光旁，他的称谓",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

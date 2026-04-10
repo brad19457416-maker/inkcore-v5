@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 439,
+  "chapter_title": "第二百四十三章 移树",
+  "filename": "ch_0439_第二百四十三章 移树.txt",
+  "char_count": 3401,
+  "timestamp": "2026-04-10T12:11:21.792368",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "鸣湖畔的石径上，身后那些美丽的宅院便是他们的新家。\n　　湖畔无数棵古树，让石径和宅院变得无比清幽，湖风穿行其间，温度似乎都低了不少，与长安诸坊巷里的闷热相比，完全是不同的世界。\n　　桑桑想着前两年盛夏时，宁缺躺在后门外竹椅上，不停拿井水浸湿身体，与街坊们聊天的画面，不免觉得恍若隔世。\n　　“我从来没",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "道：“终究还是发生了。”\n　　天谕大神官说道：“这并不是我推算中的那件大事。”\n　　程立雪震惊无语，心想道痴叛离桃山，如果这都不是大事，那么神座推算中裁决司将要发生的大事究竟是什么？\n　　“那件真正的大事还没有发生。”\n　　天谕大神官疲惫说道：“世间的一切命运都由昊天注定，佛宗说的命轮转动，其实也是",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "“这种事情不需要推算……那个痴儿既然罕见避退离开西陵，自然是去了长安。”\n　　程立雪神情微异，不明白为什么神座如此确定。\n　　“昊天神辉普照世间，除了长安城，还有哪里能够让她栖身？”\n　　天谕大神官叹息了一声，然后微笑着说道：“好在长安是座不错的城市，可以看到学习到一些有趣的事情。”\n　　程立雪听着",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "不停回荡在湖畔的宅院里，好在原先的旧居民早已经搬走，不然天时渐热，还要被噪音折磨，指不定会闹出怎样的冲突。\n　　随着时间流逝，工程进入收尾阶段，宁缺拿着七师姐细心绘制的阵法图，开始深入到了施工之中。\n　　终究还是银钱撒的到位，鱼龙帮齐四爷的威名太响亮，所以施工的师傅们虽然认为宁缺那些设计毫无道理，却",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "回桃山，裁决司那件注定要发生的大事，又如何发生？”\n　　……\n　　……\n　　西陵入夏，长安城也紧接着进入了夏天。\n　　初夏的长安城，还算不得酷暑难当，然而天上的太阳已然炽烈地令人开始厌烦，午后的青石板开始发烫。\n　　雁鸣湖畔的整修工程还在继续，为了赶在盛夏到来之前，结束湖畔改造的工程，施工队伍在银钱",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "之中。\n　　终究还是银钱撒的到位，鱼龙帮齐四爷的威名太响亮，所以施工的师傅们虽然认为宁缺那些设计毫无道理，却也没有做太多的抵抗。\n　　湖畔宅院的翻新渐趋成形，而七师姐的阵法，也渐渐成形，然后隐藏在了那些飞檐粉壁花草之间。\n　　工程没有结束，宁缺和桑桑还是住在老笔斋，得知他们要搬走的消息，临四十七巷里",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "般不堪？”\n　　天谕大神官缓声说道：“道痴此去长安城，不知会对神殿和南门之间的关系有何影响，终究都是日后之事。”\n　　程立雪想着先前打听到的最近神殿发生的事情，想着掌教大人和裁决神座的态度，声音微涩说道：“我看道痴只怕很难再回桃山了。”\n　　天谕大神官摇了摇头，说道：“她终究是要回来的。”\n　　程立",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "名天谕司的执事和官员，脸上的皱纹深刻的仿佛桃山崖壁间的裂痕。\n　　程立雪挥了挥手，示意前来拜见神座的人们散去，然后他走到神座旁边，低声感慨说道：“终究还是发生了。”\n　　天谕大神官说道：“这并不是我推算中的那件大事。”\n　　程立雪震惊无语，心想道痴叛离桃山，如果这都不是大事，那么神座推算中裁决司将要",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "么为了神殿的尊严，我允许你杀死她，然后你再去寻找一些别的力量回来。”\n　　掌教大人站在万丈光芒中平静说道。\n　　罗克敌叩首而拜，如金山倾倒。\n　　……\n　　……\n　　天谕大神官回到了自己的神座，回到了自己的神座之上，他苍老的手掌轻轻抚摩着向阳花藤编织而成的神座，看着跪在神殿地面上数百名天谕司的执事和",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "将要发生的大事究竟是什么？\n　　“那件真正的大事还没有发生。”\n　　天谕大神官疲惫说道：“世间的一切命运都由昊天注定，佛宗说的命轮转动，其实也是这件意思，该发生的事情，终究注定要发生，只不过会晚些时间。”\n　　或许是因为疲惫的缘故，或许是因为与裁决大神官和掌教大人连续见面的缘故，天谕大神官眼角的皱纹",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "年盛夏时，宁缺躺在后门外竹椅上，不停拿井水浸湿身体，与街坊们聊天的画面，不免觉得恍若隔世。\n　　“我从来没有想过，我们能住这么大的房子。”\n　　当年在岷山里住山洞，住树屋，在渭城里住小院，他们曾经无数次的想像过以后有钱了会住怎样的大宅子――如今漫步在湖畔属于自己的大宅里，他们才知道，原来当年的想像是",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

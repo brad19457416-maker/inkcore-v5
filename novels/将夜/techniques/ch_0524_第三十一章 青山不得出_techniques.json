@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 524,
+  "chapter_title": "第三十一章 青山不得出",
+  "filename": "ch_0524_第三十一章 青山不得出.txt",
+  "char_count": 3616,
+  "timestamp": "2026-04-10T12:11:26.542288",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "得安静起来，很长时间都没有人说话，洞窟里的那些老道士们，想起先前看到的那幕画面，想着隐隐明悟到的某些真相，片刻间竟同时沉默不语。\n　　很长时间之后，有道极为浑厚的声音在山崖间响了起来，那些正试图在山脚密林碎屑里寻找筑巢材料的鸟儿，听着这道声音，顿时惊恐地四处飞散。\n　　“不管是昊天的意志还是冥王的阴",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "烟尘弥漫间，被一掌击中的隆庆，就像是被一掌狠狠拍向地面的皮球，骤然一滞，然后以极为恐怖的速度向着天空弹去！\n　　呼啸破风声起。\n　　隆庆弹向空中，极高极远，他极惘然，不知所措，感受着扑面而来的秋风，看着越来越近的云层，想着先前服下通天丸之后轻飘飘的感觉，不由心想，难道自己真的就此羽化成仙，将要离",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "极惘然，不知所措，感受着扑面而来的秋风，看着越来越近的云层，想着先前服下通天丸之后轻飘飘的感觉，不由心想，难道自己真的就此羽化成仙，将要离开这个糟糕的人间？\n　　一颗通天丸，不可能真地让凡人成仙。\n　　只要没有变成神仙，飞的再高，也总有落下的那一刻。\n　　隆庆被震离地面，飘飘然飞起，不知飞了数十丈还",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "知守观后的那座青山里，不时响起或沉闷或凄厉的声音，那些散落在山道和密林里的青藤，随着这些声音不停地颤抖，仿佛感到格外恐惧。\n　　这些声音来自洞窟里避世数十年的恐怖道士们，这些道士并没有刻意地展现自己的威能，只是心有所感有所系，随意谈吐，便让青山青藤与红土尽皆颤栗不安，数十个洞窟震动欲塌。\n　　“为",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "道门的强者如果重现世间，不知会掀起多么可怕的风雨，然而他们却无法出来，这个世界甚至早已经遗忘了他们的存在。\n　　因为夫子不允许。\n　　……\n　　……\n　　（夫子好拧…我感觉我也蛮诺模居然真写出来了，其实准确说来，应该说我老爸的威势很挪哦裕善哉。）",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "会隆庆这个人对道门来说究竟意味着什么，他只是要维护道门的规则与底线。\n　　然而令人遗憾，令世间遗憾，将来也会令宁缺感到无比遗憾的是，中年道人的这一掌并没有能够把隆庆一掌拍死，反而极为诡异地、被隆庆身周笼罩的那层淡而极韧的气息反震了回来。\n　　近乎巅狂的隆庆，心中再无任何道德规则的束缚，所以能够做出如",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "握了人性的……不能说是弱点，应该说是特质，然而他忘记了很重要的一点，人性共通的特质，那么必然在历史上出现过很多次，换句话说，他的决断以及应对，看似智慧，实际上不过是拾前人牙慧，依然走的是老套的路数。\n　　直到如今为止，隆庆依然不知道中年道人的名与姓，但在青衣道人被夫子一根木棒逐至南海后暂管知守观的他",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "败而遁，远避南海，自此一生不踏陆地。\n　　数十年后。\n　　知守观后有青山，山崖里洞窟如蚁穴。其间住着无数境界恐怖、却身受重伤的大强者，半数为轲浩然所斩，半数为夫子所斩。\n　　这些道门的强者如果重现世间，不知会掀起多么可怕的风雨，然而他们却无法出来，这个世界甚至早已经遗忘了他们的存在。\n　　因为夫子不",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "蝶飞去，腿骨一阵剧痛，似乎断了。\n　　烟尘弥漫间，被一掌击中的隆庆，就像是被一掌狠狠拍向地面的皮球，骤然一滞，然后以极为恐怖的速度向着天空弹去！\n　　呼啸破风声起。\n　　隆庆弹向空中，极高极远，他极惘然，不知所措，感受着扑面而来的秋风，看着越来越近的云层，想着先前服下通天丸之后轻飘飘的感觉，不由心想",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "长时间都没有人说话，洞窟里的那些老道士们，想起先前看到的那幕画面，想着隐隐明悟到的某些真相，片刻间竟同时沉默不语。\n　　很长时间之后，有道极为浑厚的声音在山崖间响了起来，那些正试图在山脚密林碎屑里寻找筑巢材料的鸟儿，听着这道声音，顿时惊恐地四处飞散。\n　　“不管是昊天的意志还是冥王的阴影，也不理会是",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "风，看着越来越近的云层，想着先前服下通天丸之后轻飘飘的感觉，不由心想，难道自己真的就此羽化成仙，将要离开这个糟糕的人间？\n　　一颗通天丸，不可能真地让凡人成仙。\n　　只要没有变成神仙，飞的再高，也总有落下的那一刻。\n　　隆庆被震离地面，飘飘然飞起，不知飞了数十丈还是数百丈，就在他觉得自己似乎伸手便可",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的意志还是冥王的阴影？”\n　　“难道这才是真正的天谕？”\n　　被残乱青藤依然紧紧包裹的山崖，忽然变得安静起来，很长时间都没有人说话，洞窟里的那些老道士们，想起先前看到的那幕画面，想着隐隐明悟到的某些真相，片刻间竟同时沉默不语。\n　　很长时间之后，有道极为浑厚的声音在山崖间响了起来，那些正试图在山脚密",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，被一眼看成重伤，卫光明哪里敢因为那些莫须有的罪名便把我逐出桃山？”\n　　先前那道沧桑老迈的声音嘲讽说道：“你身为西陵长老，天谕神座的亲师兄，居然与宋国普通信徒的老婆日夜寻欢，若不是念在你在夫子手中落了重伤，你以为卫光明只是把你逐出桃山便罢了？”\n　　“你想说什么？”\n　　“我想说你完全可以把修为传",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

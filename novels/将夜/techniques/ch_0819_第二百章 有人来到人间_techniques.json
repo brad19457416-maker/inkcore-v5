@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 819,
+  "chapter_title": "第二百章 有人来到人间",
+  "filename": "ch_0819_第二百章 有人来到人间.txt",
+  "char_count": 3487,
+  "timestamp": "2026-04-10T12:11:27.252644",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "“今日不想进。”\n　　宁缺音调渐高，说道：“还是不敢进？”\n　　酒徒神情渐淡，白雪与黑土相间的散发随风而起，说道：“无数年来，我只与酒肉相伴，尤嗜杯中物，唯醺然方能解忧，酒能令人愤怒也能令人释然，我从中选择了后者，却不代表我不能选择前者。”\n　　宁缺盯着他的眼睛，继续说道：“但你还是不敢进。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "以改变世间局势的隐世强者出现，自然有其目的。\n　　书院和唐国非常不想看到那种变化。\n　　“我不明白你为什么要来长安。”\n　　宁缺看着酒徒的眼睛说道，即便现在的书院或者说他没有能力改变无数年来昊天与人间的关系，但酒徒也不应该出现在这里。\n　　他看着酒徒的眼睛，认真说道：“在我的梦里，你和屠夫都在看着我",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "而去！\n　　宁缺握紧了阵眼杵。\n　　无数道雄浑的天地元气，从城门洞里涌出来，顺着阵眼杵灌入他的身躯，瞬间填满雪山气海，为他提供源源不尽的念力和力量。\n　　锃的一声！\n　　他抽刀断春风。\n　　铁刀斩在了车厢上。\n　　黑色的车厢骤然静止，悬在城门洞前的春风中。\n　　今年的第一道春雷，在长安南城门前炸响。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "者，是夫子都曾经问道的前辈，他即便有长安城在身后，想要用简单的言语，便扰乱对方的心境，这是何其狂妄的念头。\n　　他脸上的笑容渐渐敛去，看着酒徒说道：“既然如此，您把马车放在此处，稍后我自然会派人来取。”\n　　酒徒看着他微笑说道：“没有亲手交还到你手里，我怎能离开。”\n　　随着这句话，城门前的局势顿时",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "宁缺的言语一直在前进。\n　　他要做的事情，便是请酒徒进长安，无论对方接受或者不接受，在这场太过突然和危险的会面里，书院都能寻到自已想要的契机。\n　　这是书院的定策。\n　　酒徒只用了一个方法，便破了书院的定策。\n　　他举起酒壶，开始饮酒，嘴要用来喝酒，自然没有办法说话。\n　　不说话不代表拒绝，也不是接",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第二百章 有人来到人间\n　　酒徒没有接受宁缺的邀请，说道：“今日不想进。”\n　　宁缺音调渐高，说道：“还是不敢进？”\n　　酒徒神情渐淡，白雪与黑土相间的散发随风而起，说道：“无数年来，我只与酒肉相伴，尤嗜杯中物，唯",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "白雪与黑土相间的散发随风而起，说道：“无数年来，我只与酒肉相伴，尤嗜杯中物，唯醺然方能解忧，酒能令人愤怒也能令人释然，我从中选择了后者，却不代表我不能选择前者。”\n　　宁缺盯着他的眼睛，继续说道：“但你还是不敢进。”\n　　酒徒说道：“你可以出来。”\n　　宁缺摇头，说道：“我胆子小。”\n　　酒徒说道：",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第二百章 有人来到人间\n　　酒徒没有接受宁缺的邀请，说道：“今日不想进。”\n　　宁缺音调渐高，说道：“还是不敢进？”\n　　酒徒神情渐淡，白雪与黑土相间的散发随风而起，说道：“无数年来，我只与酒肉相伴，尤嗜杯中物，唯醺然方能解忧，酒能令人愤怒也能令人释然",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "有消散。这大概便是你先前所说，我曾有的希望。”\n　　酒徒说道：“我们也以为可以继续看下去。虽然藏匿令人生厌，再坚持几百年应该没有问题，但奈何天总是不遂人愿。”\n　　宁缺身体有些寒冷，问道：“昊天找到了你们？”\n　　酒徒说道：“是的。”\n　　宁缺沉默了很长时间，喃喃说道：“千万年来都没有找到，为什么…",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "和神殿的谈判，正在僵持之中，处于非常微妙的关键时刻，在这种时候，像酒徒这样足以改变世间局势的隐世强者出现，自然有其目的。\n　　书院和唐国非常不想看到那种变化。\n　　“我不明白你为什么要来长安。”\n　　宁缺看着酒徒的眼睛说道，即便现在的书院或者说他没有能力改变无数年来昊天与人间的关系，但酒徒也不应该出",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "宁缺音调渐高，说道：“还是不敢进？”\n　　酒徒神情渐淡，白雪与黑土相间的散发随风而起，说道：“无数年来，我只与酒肉相伴，尤嗜杯中物，唯醺然方能解忧，酒能令人愤怒也能令人释然，我从中选择了后者，却不代表我不能选择前者。”\n　　宁缺盯着他的眼睛，继续说道：“但你还是不敢进。”\n　　酒徒说道：“你可",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "后受到恐怖的反震力，车厢猛地跳了起来，来到了半空中。\n　　这辆马车是颜瑟大师的遗物，通体由精钢打铸，沉重到了极点，如果像此时这般没有开启符阵，那么遇路则破――如此沉重的钢铁车厢，却被酒徒轻轻一掌拍到了空中，仿佛就是在拍一只皮球。\n　　酒徒挥袖。\n　　春风微乱。\n　　沉重的钢铸车厢，就像投石机投出的巨",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "壶，开始饮酒，嘴要用来喝酒，自然没有办法说话。\n　　不说话不代表拒绝，也不是接受。\n　　南城门前一片安静，只能听到酒水不停倾入酒徒胸腹里的声音，其声如瀑布入潭，又似小溪潺潺，最后竟似一条大河将要泛滥。\n　　正如先前所说，夫子不在人间，那么便没有谁能够让酒徒开口说话，更没有谁能够牵起他的手，请他入城或",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

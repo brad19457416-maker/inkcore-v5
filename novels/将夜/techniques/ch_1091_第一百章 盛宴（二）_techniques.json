@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1091,
+  "chapter_title": "第一百章 盛宴（二）",
+  "filename": "ch_1091_第一百章 盛宴（二）.txt",
+  "char_count": 2685,
+  "timestamp": "2026-04-10T12:11:34.948733",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。\n　　无数道剑符刀羽箭纵横飞舞，把河面上的空气切割成湍急的气旋，就如湍急的河水一般，里面蕴藏着无数危险。\n　　即便以宁缺身体的强悍程度，在这样高密度高强度的攻击之下，依然受了些伤，黑色的院服已然残破，肋下隐隐能够看到些血口。\n　　但他的神情依然平静，沉默着向对岸走去，左手执弓，右手控弦，不时举臂瞄",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "且行且走且射，不停有鲜血迸溅，有人倒在河水里。\n　　宁缺走到了河中间，他站在一块微微突起的礁石上，临风望向对岸的山林，河风吹拂着他的发，他是那样的沉默而强大。\n　　还活着的二百余名修行强者，或站在湍急的河水里，或站在岸畔，看着他，神情有些复杂，暂时停止了攻击。\n　　蚍蜉撼树谈何易，我于人间全无敌――",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "惺相惜，因为他们都不是英雄，也不会像君陌和叶苏之间那样正冠而战，因为他们不是君子。\n　　宁缺出手便是最强大的元十三箭偷袭，哪有资格说他以众敌寡？\n　　隆庆知道他的无耻，为了战胜他，自己必须同样甚至更加无耻――为了胜利他可以不惜一切代价，出卖灵魂都无所谓，还在乎别的什么？\n　　道门已然风雨飘摇，他不回",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，而是杀死对方。\n　　死了，自然也就服了。\n　　他和宁缺两个人，谁先死，谁就必须服。\n　　隆庆懂这个道理，宁缺也懂这个道理。\n　　所以宁缺那句话只是笑话，所以他笑了起来。\n　　隆庆笑了，还因为他知道自己快要胜了。\n　　宁缺在渭城耗尽了符纸，在清河郡耗尽了浩然气，他还能写符，却没有现成的符纸，如果想写",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "深入燕境，只要兄长稍微应对失当，成京便会被屠，他不回故都。\n　　这些他都不在意，他只在意宁缺。\n　　为什么？因为不服。\n　　怎样能够服？当然不是堂堂正正地战胜对方，而是杀死对方。\n　　死了，自然也就服了。\n　　他和宁缺两个人，谁先死，谁就必须服。\n　　隆庆懂这个道理，宁缺也懂这个道理。\n　　所以宁缺",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "举起铁弓，对着那道河水形成的游龙拉动弓弦。\n　　又是嗡的一声轻响！\n　　水龙从中断绝，中年人的道袍间出现一道裂缝，裂缝迅速扩张，鲜血喷射而出，瞬间染红河水，他重重地摔倒在血水里，再也无法站起。\n　　一名穿着皮袍的东帐强者，拉动弓弦，隔着河水瞄准对岸。\n　　宁缺看也未看，挽弓就射，那道杀意掠过激荡而起",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "宁缺看也未看，挽弓就射，那道杀意掠过激荡而起的水花，带着湿意，便有了模糊的形状，以难以想象的速度，来到对方身前。\n　　啪的一声脆响，那名东帐蛮人强者手里的劲弓从中断裂，弓弦分作两截向空中抛散，散开的弦花比水花更加美丽，断裂的弓身狠狠地击打在他的脸上，恰恰砸在他的眼睛上，砸出一蓬鲜血和汁液的混合物。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "世人眼前。\n　　数百名修行强者不畏生死地扑将过来。\n　　宁缺沉默地拉动弓弦。\n　　嗡的一声轻响！一道沉重的铁刀被切成两半，执刀的强者被切断了右臂，发出一声痛苦的嚎叫，无法保持平衡，摔进了河水里。\n　　一名穿着道袍的中年人厉啸声声，手里的青剑化作一道游龙，带着身下的河水，挟着雄浑的天地气息，轰向他的面",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "又是嗡的一声轻响！\n　　水龙从中断绝，中年人的道袍间出现一道裂缝，裂缝迅速扩张，鲜血喷射而出，瞬间染红河水，他重重地摔倒在血水里，再也无法站起。\n　　一名穿着皮袍的东帐强者，拉动弓弦，隔着河水瞄准对岸。\n　　宁缺看也未看，挽弓就射，那道杀意掠过激荡而起的水花，带着湿意，便有了模糊的形状，以难以",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "仆后继地送死，就是为了消耗宁缺的念力。\n　　念力是修行的基础，是战斗火焰的柴木，是一切的一切。\n　　从来没有人想过凭借消耗念力来战胜宁缺，因为他的念力极其雄浑，同样是很多人都知道的事情，隆庆却敢这样想，所以他这样想了。\n　　因为只有他自己知道一个事实。\n　　没有谁的念力，能比他更多更强！\n　　宁缺也",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "隐入山林的隆庆的身影，举步向河水里走去，此时那数百名修行强者也已经尽数来到他的身边，血战继续。\n　　无数道剑符刀羽箭纵横飞舞，把河面上的空气切割成湍急的气旋，就如湍急的河水一般，里面蕴藏着无数危险。\n　　即便以宁缺身体的强悍程度，在这样高密度高强度的攻击之下，依然受了些伤，黑色的院服已然残破，肋下隐",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "……\n　　隆庆不在河畔，在山崖后方的那片密林里。\n　　他看着河上发生的幕幕血腥画面，沉默不语，神情宁静。\n　　宁缺很强大――虽然宁缺单凭一把铁弓，以弦意杀人的本事超出了他的想象，但此人的强大本来就是他的意料中事，所以他不动容。\n　　此时隆庆听到了宁缺的那句话，他没有因为被羞辱嘲笑而动怒，反而唇角微",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "形容柳白的，宁缺还没有达到那种境界，但铁弓在手，世间近战又有谁能是他的对手？\n　　宁缺看着那片山林，说道：“你既然不服，便应该站出来，与我堂堂正正战上一场，何必让这些人送死？”\n　　……\n　　……\n　　隆庆不在河畔，在山崖后方的那片密林里。\n　　他看着河上发生的幕幕血腥画面，沉默不语，神情宁静。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

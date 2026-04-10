@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 1013,
+  "chapter_title": "第三百三十二章 今日之联邦（下）",
+  "filename": "ch_1013_第三百三十二章 今日之联邦（下）.txt",
+  "char_count": 3630,
+  "timestamp": "2026-04-10T12:05:26.914688",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "联合银行向你的利益输送？”\n\n    这个问题可以回答，联邦能够用一群娱乐狗仔队便挖出麦德林议员诸多秘密的记者，只有伍德一个人，他理所当然有资格享受最高水平的薪酬。然而这个问题鲍勃主编和伍德已经回答过太多遍，知道没有任何意义，于是依然沉默。\n\n    “鲍勃主编，接下来是针对你的问题。在旧报社街所有",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "排比也用的越来越密集，看来总统先生的演讲辞你看了很多遍吧？”\n\n    陈一江有些不好意思地挠挠头，说道：“是的。”\n\n    伍德嘲讽说道：“帕布尔拿的刀子倒挺快，他反正也不担心那些不是脓疮的好肉也会被他割掉。”\n\n    陈一江犹豫片刻后说道：“总有些难免的牺牲。”\n\n    鲍勃主编一直沉默微",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "在哪里，通过什么渠道转的帐？你们和利家关系人在什么地方见的面？什么时间？”\n\n    鲍勃看着伍德，心想你是联邦新闻界最著名的记者，以执笔快速周密，这个艰巨的任务只能交给你了。\n\n    伍德艰难地咽下口水，疲惫地撑着额头试图编造一个完美的不容易被揭穿的故事。\n\n    然而最关键的问题在于，他们两",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "之外便是一名叫做何友友的情报军官。\n\n    因为根据联邦调查，正是他将古钟号绝密行程交给了帝国人，最终导致了那场爆炸，换句话说，这颗帝国种子是钟瘦虎死亡的最关键人物。\n\n    然而真实的事实上，在被联邦军方强硬派逮捕之前，何友友根本不知道自己是一个帝国人，当年他三十六岁，有一个女招待妻子，还有一",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "限制人身zìyoú已经超过一个月时间，囚徒的生涯断然不是先前那种奢侈的下午茶时光，精神世界足够强大的人们，身体已经快要崩溃。\n\n    异常明亮令人根本无法通过瞌睡来消除疲惫的灯光后面是几名穿着黑sè正装的联合调查部门官员，看不清楚他们的脸，只能看到隐隐约约的轮廓，还能听到仿佛金属磨擦般冰冷尖锐的声",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "可以叫做被牺牲，或者是……谋杀。”\n\n    下午五点钟，陈一江下班了，鲍勃主编和伍德记者看着窗上的雨珠尸体碎片，表情变得有些难看。\n\n    房间里的光线骤然明亮，煞白一片，照在两名新闻人的脸上，每道皱纹和最细微的斑点都被耀的那般清晰，直到这时候才能看清楚他们脸上的憔悴与疲惫。\n\n    被联邦z",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "“联合调查部门依据特别权限法案及宪章局之授权完成本次宣读。”\n\n    伍德用手掌挡在眼前，愤怒地吼叫道：“为什么？”\n\n    灯光后面的黑影没有任何情绪波动回答道：“因为涉嫌罪行严重，调查事项繁杂，嫌疑人极度不配合，所以需要延长羁押时限以便完成调查。”\n\n    伍德恼怒地揪着纠结的卷发",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "一个人，他理所当然有资格享受最高水平的薪酬。然而这个问题鲍勃主编和伍德已经回答过太多遍，知道没有任何意义，于是依然沉默。\n\n    “鲍勃主编，接下来是针对你的问题。在旧报社街所有大报主编中，你是唯一没有拥有报社股份的人，为什么？首都特区rì报有三个未具名股东，是不是你的代理人？你究竟想隐瞒什么？”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "被他割掉。”\n\n    陈一江犹豫片刻后说道：“总有些难免的牺牲。”\n\n    鲍勃主编一直沉默微笑愉快喝着咖啡，听到这句话后，脸上的笑容渐渐敛去，放下咖啡杯，轻声说道：“这是说过很多遍的内容，非自愿的牺牲不能称之为牺牲，可以叫做被牺牲，或者是……谋杀。”\n\n    下午五点钟，陈一江下班了，鲍勃主",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，陈一江下班了，鲍勃主编和伍德记者看着窗上的雨珠尸体碎片，表情变得有些难看。\n\n    房间里的光线骤然明亮，煞白一片，照在两名新闻人的脸上，每道皱纹和最细微的斑点都被耀的那般清晰，直到这时候才能看清楚他们脸上的憔悴与疲惫。\n\n    被联邦zhèngfǔ限制人身zìyoú已经超过一个月时间，囚徒的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "江有些不好意思地挠挠头，说道：“是的。”\n\n    伍德嘲讽说道：“帕布尔拿的刀子倒挺快，他反正也不担心那些不是脓疮的好肉也会被他割掉。”\n\n    陈一江犹豫片刻后说道：“总有些难免的牺牲。”\n\n    鲍勃主编一直沉默微笑愉快喝着咖啡，听到这句话后，脸上的笑容渐渐敛去，放下咖啡杯，轻声说道：“这",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "谁唤醒了这个帝国间谍，并且指使他做出如此丑恶的事情。”\n\n    “那份见鬼的报纸说那个人是西门琙，社会上那些蠢货居然也相信了这个说法，他们也不想一想，伟大而不可战胜的铁七师军官，少卿将军的亲信下属，怎么可能和帝国人勾结。”\n\n    官员的声音寒冷而极具侵入xìng，他盯着女人的眼睛说道：“如果你",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "到，为了钱你们居然会出mài自己的良心。”\n\n    灯光后的官员嘲讽说道：“但请放心，联合调查部门从来不会有任何刑讯逼供，我要去喝杯咖啡，你们要不要听首曲子。”\n\n    曲子是舞曲，并不曼妙，一味电子音嘈杂地融在音域极窄的范围内，如果平时在街上听到这首舞曲，鲍勃和伍德顶多会含着粗烟草微微一笑，在",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的音量放出来时，那便成了最难以承受的折磨。\n\n    舞曲的声音刚刚响，没有调到最大处，官员们还没有走出审讯室，伍德记者像最爱表现的好学生那样，高高举起右手，大声喊道：“我承认！我承认！”\n\n    在他身旁，表情极为复杂的鲍勃主编不知什么时候也举起了左手，抢着喊道：“是我先举的手，我承认我们确实收",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

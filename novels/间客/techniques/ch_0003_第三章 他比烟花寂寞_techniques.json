@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 3,
+  "chapter_title": "第三章 他比烟花寂寞",
+  "filename": "ch_0003_第三章 他比烟花寂寞.txt",
+  "char_count": 2427,
+  "timestamp": "2026-04-10T11:53:11.016469",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "今天的钟楼街没有烟花，也不寂寞，反而与往常不一般，充满了愤怒而忍不住笑意的抗议声，破烂的标语在人群里时隐时现，喝多了咖啡而兴奋的东林居民加入了进来，喝多了烈酒而暴燥的酒鬼们也加入了进来，顿时让第二警察分局维持秩序的力量显得有些捉襟见肘，混乱的场面，开始向真正荒诞的实验戏剧方向发展。[阅读文字版",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "钟楼。[阅读文字版，请上]\n\n    之所以这条大街会有这样一个充满复古味道的名字，只是因为联邦军方第一次进驻东林星球时，犯了一个弱智的令人心碎的……重力测估错误。\n\n    当年战舰坠落的地点便在这里，炸出来的烟花映得无数军人脸上阴晴不定，而第四军区长官则是叹息了一声：“老子此时的心情，比烟花还要",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "失在了人群之中。\n\n    就在孤儿首领维哥带着那帮骨子里极为强硬的孤儿们遁入人群后不久，整个钟楼街爆发出了一阵欢愉无比的喝彩声！\n\n    一阵欢呼，谈判结束，一声嘀响，咖啡店里的超薄卷轴电视被重新打开，钟楼街一片安静，无数的警察抹去了额头的冷汗，女记者得意地翘起了唇角，官员们在心里痛骂着愚蠢而没",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "军区长官则是叹息了一声：“老子此时的心情，比烟花还要寂寞。”\n\n    这位第四军区长官所携带的复古风大钟，伴着烟花的美丽从破损的战舰里落了出来，狠狠地砸在了矿星的地面上。战舰毁了，那个大笨钟却没有毁，还在行走，这无疑对于联邦政府和军方的能力是一个最无情的嘲笑。\n\n    事实证明，第四军区长官的叹",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "。\n\n    事实证明，第四军区长官的叹息并没有文艺腔太过浓郁的问题——联邦管理委员会对此次事故异常愤怒，非常愤怒，在军队中进行了整风运动，撤了不少人的军职，并且严令将那个仍在行走的大笨钟，放在了原处，以做为对所有公务人员的警醒。而这位第四军区的长官被发配到了西林区的边陲防区，在寂寞中潦倒此生。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "物耀出来的淡淡光辉，将他的身影勾勒的格外孤单。\n\n    ……\n\n    ……\n\n    “乐哥……为什么总一个人孤伶伶的？”来到青丘下的两个身影中，较小的那个讷讷地开了口，只是嗓音还有些嘶哑，明显是下午喊口号时，说了上千遍简水儿所造成的。\n\n    另一个人自然便是孤儿的首领维哥儿，他看着青树下方",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "恳老实的眼睛，擦去了脸上的泪水和唇边的口水，用异常认真的语气说道：“简水儿……实在是太……漂亮了！我将来……一定要……娶她当老婆！”\n\n    ……\n\n    ……\n\n    ——ＷＷＷ.xiＡosＨuoＴＸＴ.com",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "始向真正荒诞的实验戏剧方向发展。[阅读文字版，请上]\n\n    鲍龙涛一脸冷鹜地站在封锁线后方，并不担心这些东林居民敢冲过来，虽然东林人实在已经是无聊的够久，好不容易找到了一个发泄情绪的方法，从而显得过于亢奋，虽然那条封锁线，只是黄色的薄胶带……然而联邦是一个法治的社会，所有人都知道什么是可以挑战，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "起，这个叫许乐的少年抬起头来，眯着那双诚恳老实的眼睛，擦去了脸上的泪水和唇边的口水，用异常认真的语气说道：“简水儿……实在是太……漂亮了！我将来……一定要……娶她当老婆！”\n\n    ……\n\n    ……\n\n    ——ＷＷＷ.xiＡosＨuoＴＸＴ.com",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "找到了一个发泄情绪的方法，从而显得过于亢奋，虽然那条封锁线，只是黄色的薄胶带……然而联邦是一个法治的社会，所有人都知道什么是可以挑战，而什么是不能挑战的。\n\n    令鲍副局长微感心忧的，只是先前的那个猜测，今天这些该死的孤儿们出现的太巧了，所选择的闹事理由也显得过于可爱，一旦新闻媒体加入，事后州长",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "有一大一小两个身影钻进了街灯下的阴影，熟练无比地避开了信号查探器，穿过了钟楼街旁的一条小巷，来到了一棵青树的下方。\n\n    青树在一处小青丘上，四周没有灯光，衬着远方夜穹的背景色，就像是一幅被修剪的极精致的剪纸画。\n\n    画面的正中青树下方坐着一个人，看身影应该是位少年，他盘膝坐着，膝",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "无比的喝彩声！\n\n    一阵欢呼，谈判结束，一声嘀响，咖啡店里的超薄卷轴电视被重新打开，钟楼街一片安静，无数的警察抹去了额头的冷汗，女记者得意地翘起了唇角，官员们在心里痛骂着愚蠢而没有骨头的州长。\n\n    今天晚上八点正，23频道携带着简水儿的动人脸颊，重回河西州首府，这真是一个普天同庆的日子啊",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

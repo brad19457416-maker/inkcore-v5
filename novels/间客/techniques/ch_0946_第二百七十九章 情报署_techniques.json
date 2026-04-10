@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 946,
+  "chapter_title": "第二百七十九章 情报署",
+  "filename": "ch_0946_第二百七十九章 情报署.txt",
+  "char_count": 3414,
+  "timestamp": "2026-04-10T12:05:26.954093",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "。\n\n    在情报署大楼门口，他毫不意外地被拦了下来。\n\n    一位穿着黑sè的作服，看上去像是雨夜杀人恶魔般的某位的作人员，用泛着死白气息的眼眸，死死地盯着这个看上去像游客的家伙，阴沉问道：“你想做什么？”\n\n    许乐没有时间解释这么，取出怀草诗离阪星上交给自己的那写身份芯片递了过去，的作",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "验实在是太丰富，过往学习的对象太生猛，当年无论是在帝国还是在联邦，无论是帝国情报署还是那个叫小眼睛的秘密部门，都只能眼睁睁看着他变成黑夜里的幽灵莫名消失，更何况是这些家伙。\n\n    休闲装的帽子遮住大半张脸，在贫民区最热闹的街区来回穿行三道，槐树柳树下绕了一圈，许乐确定再也没有人能跟住自己，沉默离",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的一切>理}想,文|学[\n\n    钟烟花没有看到那张纸条，但能感受到身旁男子情绪的变化，尤其是那种危险的味道，所以她没有发问，极为乖巧地跟着他的脚步，快步在贫民区的街道里走着。\n\n    来到大师范府，许乐带她进去，把她亲手交给大师范，没有解释这么，只是低声对她交待了两句，没做任何停留便转身离开，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "尤其是那种危险的味道，所以她没有发问，极为乖巧地跟着他的脚步，快步在贫民区的街道里走着。\n\n    来到大师范府，许乐带她进去，把她亲手交给大师范，没有解释这么，只是低声对她交待了两句，没做任何停留便转身离开，他相信就算先前有人在跟踪自己，想来对方也没有能力敢冲进那座白sè院落闹事。\n\n    接下",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "内部走去。\n\n    的作人员赶紧拨通了上级的电话，然后碎步跑到他的身后，亦步亦趋地跟着他，声音依然颤抖：“大……大人，下属代表情报署全体职员，热那个烈欢迎您的视察，思科主任正在赶下来，只是非常抱歉，三位副署长今天都不在署里，比姆副署长在墨花星上协助殿下作战，肯派德副署长在l9处理军需供应，亚基副署",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "们的能力根本无法获知这些情报，那他们究竟想做什么？\n\n    好吧，这个问题不用再考虑了，许乐对自己说道，然后缓缓抬起头来，看着地下通道对面那幢充满肃杀感觉的帝**部大楼，默默想着，你现在需要考虑的是怎样把那些傻勹逼干掉，把大妈带回小院。\n\n    庄严肃穆的帝**部大楼侧后方，几排阴森古树遮掩中，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "关资料时，忽然想到一件事情，回头望向许乐，一面擦着额头上的冷汗，一面颤声说道：“大人，帝国十年间一共出现过3412个叛乱组织，资料索引虽然齐备，但数据库实在太庞大，您想先看哪个星域的数据？”\n\n    许乐愣了愣，虽然在帝国星域内流浪了两年多时间，见过很多惨烈的斗争场面，可是他依然没有想到，帝国的阶",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "身后还有两位主任，三位主任先生看到许乐后，目光下意识在他的头发和眼瞳上掠过，稍微露出些许犹豫之sè，马上敛去，异常尊敬严肃地立正敬礼，恭敬说道：“非常荣幸您能来视察的作。”\n\n    做为帝国情报署的最高级官员，他们有资格接触一些秘密档案，可以直接接受殿下的通知，所以他们隐约猜到这个面容普通的青年的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "本无法获知这些情报，那他们究竟想做什么？\n\n    好吧，这个问题不用再考虑了，许乐对自己说道，然后缓缓抬起头来，看着地下通道对面那幢充满肃杀感觉的帝**部大楼，默默想着，你现在需要考虑的是怎样把那些傻勹逼干掉，把大妈带回小院。\n\n    庄严肃穆的帝**部大楼侧后方，几排阴森古树遮掩中，有一幢看上",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "”\n\n    大人的不信任是下属最大的耻辱，尤其是身为最专业的情报署官员，听到许乐的话，三位主任开始同时擦汗，却依然没有人敢按照他的要求去做，开放情报署数据库权限，实在是太过危险。\n\n    许乐沉默片刻后说道：“请示皇宫，就说……就说我欠他一次。”\n\n    二十分钟后，许乐悄无声息地离开情报署那",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "漠的味道，因为这些建筑分别隶属于帝**报，特别行动署，财政部等各重要部门，大概是因为空气中无处不在的压迫感，广勹场和地下通道里的行人特别少，哪怕是贵族都没有几个，大部分都是穿着深sè帝**装的军人，面sè严峻而行。\n\n    穿着民众普通服装，以帽遮脸的许乐，在这些军人之中自然显得格外醒目，数十道警",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

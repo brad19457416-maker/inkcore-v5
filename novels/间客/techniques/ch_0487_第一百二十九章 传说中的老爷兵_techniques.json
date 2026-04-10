@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 487,
+  "chapter_title": "第一百二十九章 传说中的老爷兵",
+  "filename": "ch_0487_第一百二十九章 传说中的老爷兵.txt",
+  "char_count": 3604,
+  "timestamp": "2026-04-10T12:04:59.251894",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "傲不驯。\n\n    许乐沉默望着这些人，没有训斥什么，压低了军帽，正了正鼻梁上的墨镜，对身后的兰晓龙说道。\n\n    “我记得在作训基地的时候，你就说过，老爷子很希望我把十七师重新带起来，但我怎么也想不到，老爷子当年的部队会变成这副模样，只是坐战舰来一趟长途旅行就累成了无数条瘫狗……我不是职业军人，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "项复杂而凶险的战地测绘任务。对于擅长特种作战的七组和身负联邦军方数位大佬厚望的许乐来说，对于新任务的危险性，他们早有心理准备，只是没有料到，在如此紧张的备战时刻，国防部居然还扔了上百坨狗屎到自己的面前，要求自己带着这堆狗屎一起上路！\n\n    怎么上路？安心上路，送这些家伙一个一个去死？不止许乐这般",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "为一种叫做惺惺的情绪，毕竟在联邦这片十六开更新快手打上传宇宙之中，只有他们这两个年轻人拥有某种能力与秘密。\n\n    然而李封想起了爷爷在倾城监狱里的那句话，不禁皱着眉尖摇了摇头，拖起压机箱，推开房门，向着那台漆满金星的黑色机甲走去。\n\n    ……\n\n    ……\n\n    李疯子受折磨然后思考疑",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "顾忌所谓军容与纪律，更是没有人把他这个最高长官放在眼中，甚至有些人已经开始抽起烟来。\n\n    而在人群后方，则有几名看上去剽悍的军人正冷冷地盯着自己，眼光里充满了冷傲不驯。\n\n    许乐沉默望着这些人，没有训斥什么，压低了军帽，正了正鼻梁上的墨镜，对身后的兰晓龙说道。\n\n    “我记得在作训基",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "一边说，兰晓龙一边指着军营里那些军人。那些被他指到的军人却一脸冷漠骄傲挑衅，还夹着一丝焦躁与愤怒，似乎根本都不在意他在与那位戴着眼镜的中校说些什么。\n\n    “什么意思？”许乐问道。\n\n    “从象征，梨花大学从校长的儿子。锡朋，锡安副议长的侄儿。”兰晓龙认真回答道：“这一百多个人里面，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的脸上，也不知道这是便宜岳父邹部长的安排，还是那位老爷子的突发其（奇）想。他及七组二十条汉子在前线的存在有些奇妙，名义上是果壳公司下辖的雇佣军，许乐这个头目却是总装基地的现役中校，偏生就连西林军区都无法对他们发号施令，他们直接接受联邦国防部的命令，只是国防部最新的这条命令，实在是有些乱七八糟。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "己并没有完全继承爷爷在修行方面的能力——他怔怔望着自己粗壮有力的手臂，看着那些铜纸肌肤下的强悍肌肉，心想家族在修行方面的变态能力，似乎随着血脉的淡化变得越来越弱了——事实上，他父亲李在道院长，在这方面更是一点儿感应也没有。\n\n    那种神秘的力量，便是军神李匹夫纵横战场不曾一败的真实底气，真是费城",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "电击设备自动关机，少年中校深深地吸了一口气，抹掉眼角的微湿，脸上生出自我厌恶的神情。\n\n    联邦最强大的少年机师很清楚自己拥有绝对的操控机甲的天赋，然而很可惜，自己并没有完全继承爷爷在修行方面的能力——他怔怔望着自己粗壮有力的手臂，看着那些铜纸肌肤下的强悍肌肉，心想家族在修行方面的变态能力，似乎",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "最强大的战士并没有机会见识。\n\n    想到此节，李封的眼眸里爆出一丝精光，嘴唇紧紧珉起，身体四周无风而凝，生出强烈的战意。\n\n    那些帝国真正的高手，那位传闻中与自己一般天才，小小年纪便过了六级的帝国公主……可堪一战？\n\n    秋林基地里的防空警报响起，他往窗外望去，眼眸里的精光渐渐淡去，转",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "不仅仅在于自身的所谓理想，更多在于要维系家庭的荣光。他是费城李家的独苗苗，小小年纪震落一地眼球与牙齿来到军营，他的战地人生便已经被固定在某种范围之内。\n\n    ——可以死，但不能败，更不能逃。\n\n    强劲的脉冲电流就像是无数把小刀在刮弄着他的骨膜、挑弄着他的肌肉纤维，酸与楚，痛与苦达到一种恐怖",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "七组和身负联邦军方数位大佬厚望的许乐来说，对于新任务的危险性，他们早有心理准备，只是没有料到，在如此紧张的备战时刻，国防部居然还扔了上百坨狗屎到自己的面前，要求自己带着这堆狗屎一起上路！\n\n    怎么上路？安心上路，送这些家伙一个一个去死？不止许乐这般想，向来沉默安静的白玉兰，性情豪爽的熊临泉，七",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "自己的军服，沉默不语间，内心却有些羡慕那个家伙这些年的故事，那个家伙不是一个职业的军人，可以凭自己的性子乱来，这乱来便是何等样值得羡慕的自由啊……\n\n    世事发展至今，李封杀许乐的心早就淡了，不是因为那声小叔，不是为了传奇的叔爷，也不仅仅是因为木子小姑与许乐的关系，而是因为一种叫做惺惺的情绪，毕",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "着这堆狗屎一起上路！\n\n    怎么上路？安心上路，送这些家伙一个一个去死？不止许乐这般想，向来沉默安静的白玉兰，性情豪爽的熊临泉，七组里所有的汉子都这般想。\n\n    他和七组此时依然在西林主星落日州，只是已经搬离了金星酒店，来到了一片山区间的军营里。\n\n    “从象征。”\n\n    “到。”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "了？”\n\n    他是十七师的人。\n\n    兰晓龙耸了耸肩，叹息说道：“虽说警备区天天在港都混着很幸福，但战斗力和纪律也不至于差成这个样子，依据我的了解，这次被国防部派过来的家伙，也是八三八四部队当中的极品。”\n\n    他接过白玉兰的电子记事本，在许乐身边轻声指着说道：“尤其是这些家伙，包括玉兰",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

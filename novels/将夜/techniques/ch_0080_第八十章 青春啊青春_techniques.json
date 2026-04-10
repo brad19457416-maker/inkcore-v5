@@ -1,0 +1,232 @@
+{
+  "novel": "将夜",
+  "chapter_number": 80,
+  "chapter_title": "第八十章 青春啊青春",
+  "filename": "ch_0080_第八十章 青春啊青春.txt",
+  "char_count": 3282,
+  "timestamp": "2026-04-10T12:11:11.999585",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，恰如进了煎饼果子店，有个屁的果子好吃！”\n　　宁缺被面前若喷泉般的唾沫星子惊住，半晌后才反应过来，心想娘子军这种事情我不去招惹自是不怕，司徒依兰在他眼中不过是个并无恶意的小女孩儿，自不会在意，反而对由贤的本事大为赞叹，说道：“下回去红袖招若手头紧，我看倒也不必强拉着陈子贤，你去说几段书便挣回来了。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "他妈的不收小钱！”\n　　……\n　　……\n　　由贤并不知道他家那位老头子为了让他进入书院，做出了在商场风浪多年间都不曾做过来的绝世豪赌，犹自在那里愤愤不平，总觉得书院教习们集体发疯。\n　　“我自幼就不喜诗书，不好骑射，所以和长安城里那些公子贵女都玩不到一起去。幸亏你也分到了丙舍，不然我真不知道接下来这",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "么也没有看到。然后他低头想了想，发现想不明白先前究竟是怎么回事，于是决定不再继续去想，摇了摇头向众生喧嚣处走去。\n　　他不知道传说中的夫子已然乘车而去，他不知道自己错过了一个历史时刻，他不知道自己拒绝那位书生的交换又是怎样的错过，他不知道那是真正的第一堂课，但即便知道他也不会去换，用自己已有去换尚未",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "…这只能说明书院的教习们都疯了。”\n　　宁缺思考了会儿，猜测道：“会不会是你家使了银子？”\n　　由贤愤怒道：“谁听说过书院能靠银子进来读书？而且那老头子只出了两千两银子！两千两就只够我在红袖招里包四个月！够干个屁事儿！”\n　　……\n　　……\n　　远处长安城内，东城某家银坊深处的圈椅上，某位身材极为发",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "即便知道他也不会去换，用自己已有去换尚未拥有，绝不是他会做的事情。\n　　……\n　　……\n　　书院普通意义上的第一堂课是大课，学生们集中在微凉的石坪上，满怀憧憬听着书院某位教授的训话，想像着今后两年或者是三年间的生活。\n　　如同入院试那般，书院的课程内容也分为六科，两百名学生被分成六个书舍，每日上课时",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "落。”\n　　宁缺无言以对，无颜以对。\n　　由贤本就是个性情疏阔开廊的典型唐人，不然当日也不会在青楼里初遇宁缺，便要请他喝花酒玩姑娘，此时把心情调适过来后，顿时回复平常，两根手指拈起玉i指着前面几排的乌簪女学生们，压低声音说道：“那个温柔小娘子叫金无彩，咱大唐国子祭酒幼女，性子温顺但极不好惹，因为祭酒",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "青春啊青春\n　　宁缺不应该觉得冷，因为那名穿着棉袍的书生，从头到脚从内到外都没有流露出丝毫敌意、任何危险气息，相反却干净的仿佛无垢的莲花，像亲人般令人信任。\n　　可他还是觉得有些冷，因为那书生一眼便瞧出来自己背着一把伞，那把伞很大很黑，而且是他和桑桑最重要的东西，并且想要换走。\n　　朝阳无法直射巷道",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "很长时间，才苏醒过来，略带惘然地回头看了一眼，自然什么也没有看到。然后他低头想了想，发现想不明白先前究竟是怎么回事，于是决定不再继续去想，摇了摇头向众生喧嚣处走去。\n　　他不知道传说中的夫子已然乘车而去，他不知道自己错过了一个历史时刻，他不知道自己拒绝那位书生的交换又是怎样的错过，他不知道那是真正的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "贤环视宽敞书舍里的同窗们，目光在那些身材窈窕的少女身上扫过，逐渐变得欢喜起来，“多和同窗们亲近亲近，将来婚事也好有个着落。”\n　　宁缺无言以对，无颜以对。\n　　由贤本就是个性情疏阔开廊的典型唐人，不然当日也不会在青楼里初遇宁缺，便要请他喝花酒玩姑娘，此时把心情调适过来后，顿时回复平常，两根手指拈起玉",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "生们，压低声音说道：“那个温柔小娘子叫金无彩，咱大唐国子祭酒幼女，性子温顺但极不好惹，因为祭酒大人的脾气特别严肃或者说暴躁；那个高个姑娘你不要惹，因为她姓高，家里有个舅舅在宫里当差……”\n　　“那个油头粉面的小子叫陈子贤，家里是在西城开书局的，很是有些小钱，哪日你我要喝花酒手头不便时，可以喊他同去，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "可以自由活动，可以自行选择留在书院自习，或是回到长安城里去花天酒地，而那位首席教授极温和而诚恳地建议大家留在书院去旧书楼温书。\n　　书院的纪律要求很宽松，以深处那道钟声为号：第一声钟响为警，第二声钟为入，第三声钟为散，第四声钟为离。入散之间便是学生们在书舍里学习的时间，书院要求学生在这段时间内专心听",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "发泄老羞成的那怒，终是强行压抑住了，因为此时负责讲解礼科的教习先生已是一脸严肃走了进来。\n　　书舍内骤然变得安静无比，那些青春跳跃的鸦和雀不知飞去了哪里。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "的情绪有些微感惘然，深吸一口气平静心神，抬步迈过那道高高的门槛。\n　　“宁缺！坐这儿！”\n　　书舍里同时想起两道惊喜意外的声音。\n　　宁缺愕然抬头望去，只见宽敞的书舍后排，由贤正兴奋地向自己招手，脸色看上去有些苍白，而在最前排，司徒依兰正兴奋地看着自己，今天少女在学袍之下穿着身蓝色劲装，斜襟上绣着几",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的嘴唇，蹙眉问道：“你昨儿又去了红袖招？”\n　　“呆了整整一夜。”由贤叹了口气，并未做丝毫隐瞒，凄苦说道：“宁缺，这个世界出问题了，我想不明白，所以在红袖招里疯了一夜。”\n　　宁缺想起先前遇见的那书生，身体微僵，问道：“出了什么问题？”\n　　“我居然考进了书院，就是这个世界出现的最大问题。”\n　　由",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "两百名学生被分成六个书舍，每日上课时间由清晨至午时，看似时间不长，但中间没有任何断续休息。\n　　幸运进入术科的七人，每日午后还要接受书院相关方面的教导，而其余的普通学生在午后便可以自由活动，可以自行选择留在书院自习，或是回到长安城里去花天酒地，而那位首席教授极温和而诚恳地建议大家留在书院去旧书楼温书",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "成的那怒，终是强行压抑住了，因为此时负责讲解礼科的教习先生已是一脸严肃走了进来。\n　　书舍内骤然变得安静无比，那些青春跳跃的鸦和雀不知飞去了哪里。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "此时把心情调适过来后，顿时回复平常，两根手指拈起玉i指着前面几排的乌簪女学生们，压低声音说道：“那个温柔小娘子叫金无彩，咱大唐国子祭酒幼女，性子温顺但极不好惹，因为祭酒大人的脾气特别严肃或者说暴躁；那个高个姑娘你不要惹，因为她姓高，家里有个舅舅在宫里当差……”\n　　“那个油头粉面的小子叫陈子贤，家里",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

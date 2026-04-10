@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 428,
+  "chapter_title": "第二百三十二章 真迹",
+  "filename": "ch_0428_第二百三十二章 真迹.txt",
+  "char_count": 3411,
+  "timestamp": "2026-04-10T12:11:21.769663",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "如今藏在学士府中。”\n　　默石兄蹙眉说道：“难道这张是大家新近临摹的？”\n　　桌旁众人皱眉苦思不解，心想这确实有问题。\n　　默石兄谨慎小心用指尖拈住那张便笺纸两角，提至空中，对着花厅外的清湛阳光，想要看出里面究竟有什么问题。\n　　站在他对面的一位宋国鉴定师，忽然轻噫一声，指着便笺纸说道：“有字。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "提到今次售卖的细节，几名男子包括葡萄架下那名沉默男子都站的更近了些，压低声音开始商议，同时也看看对方究竟对此事了解多少。\n　　“如今存世的究竟有多少卷？”\n　　“谁也没有确切数目，只知道皇宫御书房里最多，听说陛下当初在老笔斋里搜刮走了一大半。”\n　　默石兄痛心疾首说道：“藏于昏暗御书房内，不得观之，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "身份不一般，与公主殿下关系极好，而且从红袖招那边传来的消息，宁大家待这侍女也与众不同。”\n　　“即便最终被宁大家收入房中，那小侍女也不过是个贪财的女子，这等性情，哪里配得上宁大家这等人物。”\n　　老掌柜忽然想到一件事情，说道：“东家，宁大家可不是普通书家，我们这般偷偷发卖，会不会出问题？”\n　　老板",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "诸位书画鉴定师热烈地讨论着，便在这时，院门咯吱一声被人推开，一石居老板拎着蓝花布包裹走了进来。\n　　众人随着老板回到花厅中，目光一直没有离开他手间提着的蓝花布包裹，有些困惑不解，又满是炽热期盼。\n　　老板把蓝花布包裹轻轻搁到桌上，伸出单手，示意请。\n　　老掌柜带着两名亲信随从，端着清水毛巾。\n　　书",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "老掌柜点了点头。\n　　……\n　　……\n　　一石居西侧院，藏于正牌三层主楼之后，九曲青树之下，湖风至此而缓，最是清幽，几位男子从房中走出，纷纷见礼。\n　　这几名男子，有的来自宋国，有的来自南晋，有的来自大唐阳关，更有一位是长安祥墨斋里的大匠先生，都是各自国度书画鉴定方面的首席人物，是的无论白发苍",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "。\n　　“这张是真的。”\n　　……\n　　……\n　　“这是谁写的字？”\n　　那位宋国鉴定师疑惑甚至有些愤怒吼道：“就算这张鸡汤帖是新近临摹的，也算是极珍之品，怎么能随意在后面写字！”\n　　默石兄摇了摇头，看着那行小字感慨说道：“除了宁大家，谁还能写得出来这等好字，如果是他写的，非但不毁其值，反而更添色",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "七张书帖都是真迹。\n　　虽然对书帖的时间犹有疑义，所有人都认为应该是新近书写，但这并不影响书帖本身的价值，所以鉴定师们很震惊，他们完全没有想到，一石居这次的手笔竟是如此之大，甚至可以这样说，除了大唐皇宫的御书房内，再也没有任何地方能够看到这么多的真迹。\n　　最令他们震惊的是匣子最下方的那幅书帖。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "老板说道：“那小侍女极受宠幸，宁大家的印鉴全部由她保管，核卖文书已经到手，所以这些自然不是贼赃，即便日后宁大家发现此事，要追究也只能追究到那小侍女身上，依唐律我们却不须担责。”\n　　老掌柜赞道：“东家行事果然令人放心。”\n　　老板拾起桌上那蓝花布包裹，问道：“都在偏院？”\n　　老掌柜点了点头。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "……\n　　一石居西侧院，藏于正牌三层主楼之后，九曲青树之下，湖风至此而缓，最是清幽，几位男子从房中走出，纷纷见礼。\n　　这几名男子，有的来自宋国，有的来自南晋，有的来自大唐阳关，更有一位是长安祥墨斋里的大匠先生，都是各自国度书画鉴定方面的首席人物，是的无论白发苍苍，还是神情冷漠，眉眼间都透着骄傲自",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "品行，在老掌柜看来，小侍女私窃主家财物，实属无品。\n　　老掌柜思忖片刻，既不屑那小侍女行径，有些难以压抑钱财诱惑，低声问道：“既然是那小侍女偷出来的，我们便是吞了，她也不敢报官，也不敢让宁大家知晓，您看要不然我们……”\n　　“若不想死，便断了这些念头。”\n　　听着老掌柜的话，一石居老板微微蹙眉，厉色",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "于此。”\n　　提到今次售卖的细节，几名男子包括葡萄架下那名沉默男子都站的更近了些，压低声音开始商议，同时也看看对方究竟对此事了解多少。\n　　“如今存世的究竟有多少卷？”\n　　“谁也没有确切数目，只知道皇宫御书房里最多，听说陛下当初在老笔斋里搜刮走了一大半。”\n　　默石兄痛心疾首说道：“藏于昏暗御书房",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，那小侍女也不过是个贪财的女子，这等性情，哪里配得上宁大家这等人物。”\n　　老掌柜忽然想到一件事情，说道：“东家，宁大家可不是普通书家，我们这般偷偷发卖，会不会出问题？”\n　　老板说道：“那小侍女极受宠幸，宁大家的印鉴全部由她保管，核卖文书已经到手，所以这些自然不是贼赃，即便日后宁大家发现此事，要追",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "很粗劣的夹草硬板纸做成的。\n　　默石兄愈发不悦，伸手把匣子打开，然后身体僵在桌旁。\n　　整个花厅变得安静无声。\n　　鉴定师们看着匣子里的纸张，震惊的无法言语，觉得眼睛有些花，半晌后，才有人不可置信惊唤道：“七张！”\n　　老板走到一旁坐下，端起茶杯饮了口，微笑说道：“你们先看。”\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

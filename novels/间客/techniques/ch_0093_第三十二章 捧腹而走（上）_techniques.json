@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 93,
+  "chapter_title": "第三十二章 捧腹而走（上）",
+  "filename": "ch_0093_第三十二章 捧腹而走（上）.txt",
+  "char_count": 3457,
+  "timestamp": "2026-04-10T11:53:35.156901",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "那个操作机甲的学生，竟然击败了自己的学生！虽然黑色机甲的战法在邝教授看来，显得有些不够光明正大，可是疑问与震惊让他根本顾不得别的，死死盯着从不知，想要弄明白，一个社会大学怎么会出现机甲的问题。\n\n    “只是原型机。”从不知校长微笑着说道：“这是二十几年前，教育部和国防部特批的。”\n\n    “那",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "到最后系统判定黑色机甲获胜……综合馆里的气氛达到了一个更恐怖的程度，相反，此时的欢呼声少了许多，因为大家都被这一幕震惊的快要说不出话来，女学生们的眼里开始生出星星，男学生们张大了嘴，不可思议地看着光幕，而主席台上更是一片死一般的沉寂。\n\n    第一军事学院交流访问团代队的邝教授霍然站起，一脸震惊地",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "甲的学生是谁？”邝教授受了刺激，快速问道：“您应该很清楚。联邦法律明文规定，非军事系统人员，不得接触战斗机甲。”\n\n    从校长的眉头微微一皱，旋即温和笑着说道：“秦院长派你们过来进行机甲表演，那些军官生大概不明白原因，你应该能猜到一点……我们梨花没有机动系。但不代表没有机甲训练场地，至于黑色机甲",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "侥幸一胜，有何可以庆幸且兴奋？总不过是个失恋地少年，心情依然郁郁不能解脱。\n\n    便在他转身准备离去的时刻，系统里再次出来电了合成声，十分清晰：“对战训练请求，是否接受？”\n\n    许乐愕然回头。黑色的机甲笨拙回头，然后看见了对战室门口出现了台浑身泛着银光，显得格外贵重的机甲。还是，但好像具体",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "意见。”\n\n    邝教授愣了愣，渐渐想起一个可能性，震惊地回头望着光幕上那个呆呆站立着地黑色机甲，颤抖着声音说道：“以他的身份，怎么可能选择在这么多人的面前出现？”\n\n    “不要忘记，他现在是我们梨花的学生。”从不知校长依然微微一笑。格外平静，“既然一院来访问的同学，向梨花发起挑战。他愿意出来",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "机甲的面前，连一瞬间都无法抵抗，直接变成了暴风雨中的野草，被精准地攻击变成了不停摇摆，随时可能倒地的存在。\n\n    一声闷响，黑色机甲半透明操作舱舱门被合金拳准确地击中。许乐被强大的震荡逼的心头一闷。有些愕然地注视着光屏上的数据显示。发现自己根本没有办法避开对方的攻击，不论是速度还是操控的细致度上",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "得有些不够光明正大，可是疑问与震惊让他根本顾不得别的，死死盯着从不知，想要弄明白，一个社会大学怎么会出现机甲的问题。\n\n    “只是原型机。”从不知校长微笑着说道：“这是二十几年前，教育部和国防部特批的。”\n\n    “那……驾御机甲的学生是谁？”邝教授受了刺激，快速问道：“您应该很清楚。联邦法律",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "战开始，正如邰之源的预测，许乐操控的黑色机甲，在那台银色机甲的面前，连一瞬间都无法抵抗，直接变成了暴风雨中的野草，被精准地攻击变成了不停摇摆，随时可能倒地的存在。\n\n    一声闷响，黑色机甲半透明操作舱舱门被合金拳准确地击中。许乐被强大的震荡逼的心头一闷。有些愕然地注视着光屏上的数据显示。发现自己",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "惨的下场。\n\n    机甲对战开始，正如邰之源的预测，许乐操控的黑色机甲，在那台银色机甲的面前，连一瞬间都无法抵抗，直接变成了暴风雨中的野草，被精准地攻击变成了不停摇摆，随时可能倒地的存在。\n\n    一声闷响，黑色机甲半透明操作舱舱门被合金拳准确地击中。许乐被强大的震荡逼的心头一闷。有些愕然地注视",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "之源。如果是邰家继承人以梨花大学学生地身份出战。第一军事学院也只有牙断往肚里吞。从校长当然没有什么好担心地。\n\n    这位忙于工作地校长。根本就不知道这间大学能够进入区地不止邰之源。还有一个他曾经注意过地小门房。\n\n    综合馆内地震惊又已经被欢呼所取代。主席台上第一军事学院访问团地成员们脸色无",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "交流访问团代队的邝教授霍然站起，一脸震惊地看着光幕，半晌后才回过神来，转头对身旁的梨花大学校长从不知说道：“这是怎么回事？”\n\n    除了军事学院之外，一般的大学基本上不会涉及到机甲方面的系统知识，虽然梨花大学在这方面有些名气，可是这间大学没有机动系，怎么可能会拥有一台机甲？而且那个操作机甲的学生",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "邝教授看来，显得有些不够光明正大，可是疑问与震惊让他根本顾不得别的，死死盯着从不知，想要弄明白，一个社会大学怎么会出现机甲的问题。\n\n    “只是原型机。”从不知校长微笑着说道：“这是二十几年前，教育部和国防部特批的。”\n\n    “那……驾御机甲的学生是谁？”邝教授受了刺激，快速问道：“您应该很",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

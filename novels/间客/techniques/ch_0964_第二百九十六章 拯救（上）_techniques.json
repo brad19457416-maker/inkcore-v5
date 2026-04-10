@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 964,
+  "chapter_title": "第二百九十六章 拯救（上）",
+  "filename": "ch_0964_第二百九十六章 拯救（上）.txt",
+  "char_count": 2720,
+  "timestamp": "2026-04-10T12:05:26.907701",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "系而出动bu队去搜寻，这不公平也不合理。”\n\n    “对于战地指挥官或者说上级来说，冒着死更多人的危险去拯救一个或许早就死了的士bing，确实不公平，但我不是他的长官。”\n\n    许乐回答道：“我的想法很简单，如果他还活着，我要把他带回去，带到大妈的面前，而且我不需要你的bu队帮我去找我。”",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "感觉，让他只需要极短的时间，便确定这间看似普通的办公室，绝对可以在联邦战舰主炮的密集攻击中稳如莫愁后山。\n\n    办公桌上堆着无数文件，像无数座将要崩坍的岩山，侧方两台苹国最先进的电脑工作台上数据不停闪动，把昏暗的房间里映出一些诡异的感觉，文件山后方那个人听到关闭的声音，缓缓抬起头。\n\n    怀",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "，如今的帝guo和当年的邰氏皇朝环境不一样，能够采取的方式自然也不一样。”\n\n    “你应该见过暂时代我管理情报署的晋章郡王。”她敛了笑容，严肃说道：“你知道在天京星上，有多少像他这样年轻而充满野心抱负的皇族吗？你认为这些人甘于放弃自己的地位和利益，只为拥抱左天星域光明ziyou的将来？而且那些光",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "怀草诗似笑非笑地望着他，轻轻叹息一声，说道：“你曾经自承在政治方面比较白痴，所以我不理解为什么今天你要给我上课，如今的帝guo和当年的邰氏皇朝环境不一样，能够采取的方式自然也不一样。”\n\n    “你应该见过暂时代我管理情报署的晋章郡王。”她敛了笑容，严肃说道：“你知道在天京星上，有多少",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的阶层制度，只能维持一时不能维持一世，不然皇族这几十年也不会想着要改良，再这样发展，终有一天皇族会被愤怒的庶民赶下权座，吊死在绞刑架上，从历史中消失。”\n\n    &nbo女皇的时刻必须珍惜，所以他的言语显得极为直接，甚至有些没有礼貌。\n\n    “像联邦邰氏那样自动退出历史舞台难道不行吗？这是一个",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "诡异的感觉，文件山后方那个人听到关闭的声音，缓缓抬起头。\n\n    怀草诗揉了揉疲惫的眉心，望向许乐说道：“虽然我很愿意看到你，但你应该很清楚现在墨花星上的局势，海峡会战区最后的机甲大队正在孤jun奋战，我现在最紧迫的任务是想办法把他们救回来。”\n\n    “很抱歉在这种局面下还来打扰你。”许乐说道",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "相关的著作。”\n\n    “黄厄星当年近乎虚幻的政治假想，无论是叫虚君共和还是君主立宪，没有什么实际意义。”\n\n    怀草诗平静展露了自己隐藏在寻常面容和恐怖武力背后的渊博学识，“而且你我都不清楚这场战争会持续多少年，此时妄谈改革无趣。”\n\n    &nbo是不可能的事情，血腥的镇yā，森严的阶层",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "样年轻而充满野心抱负的皇族吗？你认为这些人甘于放弃自己的地位和利益，只为拥抱左天星域光明ziyou的将来？而且那些光明将是他们的黑暗？”\n\n    怀草诗缓缓站起，她的身躯瘦削并不高大，却给人一种强大的压迫感，看着许乐的脸淡然说道：“我白槿怀氏的血脉里全是倔犟高傲之气，我们在被敌人杀死之前，绝对不会",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "人沉默走来，运动衣样式很普通，上面沾满郊区特有的红sè泥土，却吸引了在残壁间休息或行走的士bing们无数好奇的目光，要知道在这座只剩下君人的城市里，看到这种平民装束，是非常难得的事情，\n\n    &nbo侦察bing将那个戴着帽子的男人交给si令部宪bing，那几名宪bing对那个男人啪的一声立正敬",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "深处的那道幽暗合金门，许乐微微颌首向身旁宪bing表示感谢，走了进去，然后转身将门关闭，合金门传来的沉重冰冷感觉，让他只需要极短的时间，便确定这间看似普通的办公室，绝对可以在联邦战舰主炮的密集攻击中稳如莫愁后山。\n\n    办公桌上堆着无数文件，像无数座将要崩坍的岩山，侧方两台苹国最先进的电脑工作台",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "“你派往西南石墨矿区的一支小队，在很多天前遇到联邦bu队的伏击，那支卫队是你的直属卫队，前往西南石墨矿区想必有很重要的任务，我想知道这支卫队的回程路线，还有遇到伏击的确切地点。”\n\n    怀草诗用食指轻点桌面的咖啡，示意他自取，问道：“我记得在桑枯镇上你曾经说过，你不会来墨花星球，所以",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "最先进的电脑工作台上数据不停闪动，把昏暗的房间里映出一些诡异的感觉，文件山后方那个人听到关闭的声音，缓缓抬起头。\n\n    怀草诗揉了揉疲惫的眉心，望向许乐说道：“虽然我很愿意看到你，但你应该很清楚现在墨花星上的局势，海峡会战区最后的机甲大队正在孤jun奋战，我现在最紧迫的任务是想办法把他们救回来。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

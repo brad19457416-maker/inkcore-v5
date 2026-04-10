@@ -1,0 +1,232 @@
+{
+  "novel": "将夜",
+  "chapter_number": 326,
+  "chapter_title": "第一百三十二章 那道气醒了过来",
+  "filename": "ch_0326_第一百三十二章 那道气醒了过来.txt",
+  "char_count": 3314,
+  "timestamp": "2026-04-10T12:11:21.729755",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "到自己的力量与原先有了明显的变化，感觉也比以前敏锐了很多，行走时身体的节奏感非常清楚，鞋底反震回来的大地力道就像是鼓点一般，露在袖外的手背肌肤甚至能察觉到最细的风的流动痕迹。\n　　浩然气对他身体的改造在极短的时间内产生了效果，这种难以言说的强大感觉，让他产生了一种强烈地证明这种强大的渴望，同时先前在",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "下的那些思考与不甘，也变成了某种难以抑止的冲动。\n　　强烈要破坏一切的冲动与书院后山弟子的责任感强烈冲突，让他始终无法确认自己究竟要不要那样做，直到走到城北那座府邸前，清晰而稳定的脚步节奏终于让他冷静下来，并且明白了自己究竟要做些什么。\n　　……\n　　……\n　　大将军府冬园深处。\n　　莫山山看着书桌",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，大多是像我这样只知修行或专研一道的痴人，唯有小师弟自幼在尘世里拼命挣扎，所以从某些方面来说他是书院最强的那个人，对于危险这种事情，他有自己的判断，我相信他的判断。”\n　　莫山山看着他的眼睛，认真说道：“哪怕这件事情会给书院带来麻烦？”\n　　大师兄沉默片刻后，认真说道：“书院并不是小师弟想像的那般强",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "了某种难以抑止的冲动。\n　　强烈要破坏一切的冲动与书院后山弟子的责任感强烈冲突，让他始终无法确认自己究竟要不要那样做，直到走到城北那座府邸前，清晰而稳定的脚步节奏终于让他冷静下来，并且明白了自己究竟要做些什么。\n　　……\n　　……\n　　大将军府冬园深处。\n　　莫山山看着书桌后的大师兄，轻声说道：“宁",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "里的气息变得相对稀薄，又被天地间涌入身躯的元气逐渐填满，这种过程就像是不停地进食美妙的食物，却又不用担心会腹胀。\n　　这种感觉很美好，而当通道里的浩然气地淌过他身体里最细微的部分后，感觉愈发的美好，如同春水一般洗涤着他的精神与肉体，滋润着每一丝肌肉与每一段骨骼，带来一种温暖饱足却又清新无腻的感知。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "巷中石板上并不多的灰尘，也在这无内的时刻飘了起来，渐渐聚集到他的脚边。\n　　不知道过了多长时间，宁缺缓缓睁开双眼，眸子里闪过一抹明亮的光泽，然后迅速敛没归为平常，脚下的树影不再颤动，冬树被绷紧如弓弦的枝条缓缓收回，只有鞋畔的那些灰尘依然堆积，看着仿佛他的脚深陷在厚尘之中。\n　　宁缺看着脚畔的灰尘沉默",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "自己究竟要做些什么。\n　　……\n　　……\n　　大将军府冬园深处。\n　　莫山山看着书桌后的大师兄，轻声说道：“宁缺今天的心情有问题。”\n　　大师兄放下手中那卷书，看着少女温和一笑，安慰说道：“你在担心什么？”\n　　莫山山沉默片刻后说道：“我觉得他好像要做些什么事情。”\n　　大师兄说道：“想做什么那就做",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "直到今日听闻师傅的死讯，隐约猜到那些久远血腥故事幕后的龌龊，看着将军府的飞檐，想着夏侯归老这后的幸福人生，他心中生出诸多悲苦不甘，对这个世界产生了诸多不满，种种情绪汇集在一处，便成了滚烫的灰，直至将他烫的心神有些失守，身体里那道骄傲强大的浩然气开始苏醒。\n　　“入魔再深一分，我会和这个世界越走越远吗",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "灰尘随之散开，向着空中飘去，然后安静地落在树下墙上。\n　　积灰散去，露出干净的青石板。\n　　青石板上出现两道约两指深的脚印，边缘整齐光滑，仿佛是用刀刻出来一般。\n　　……\n　　……\n　　宁缺走在土阳城的寒风中，他清晰地察觉到自己的力量与原先有了明显的变化，感觉也比以前敏锐了很多，行走时身体的节奏感非",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "大师兄说道：“想做什么那就做吧。”\n　　莫山山看着大师兄问道：“难道师兄你不担心什么？”\n　　大师兄感慨说道：“书院后山这些年来的弟子，大多是像我这样只知修行或专研一道的痴人，唯有小师弟自幼在尘世里拼命挣扎，所以从某些方面来说他是书院最强的那个人，对于危险这种事情，他有自己的判断，我相信他的判断。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第一百三十二章 那道气醒了过来\n　　一棵冬树斜斜伸在僻巷之中，心有所感的宁缺陡然进入某种莫名的境界，他沉默站在冬树的影子间闭目感悟，很长时间都没有任何动作。\n　　小巷冬树青石残雪里的天地气息，悄无声息笼罩着他的身体，他体内那条贯穿雪山气海的那条通道愈发壮阔，无形却有质的浩然气在其",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "灌注入他的双腿内。\n　　鞋与地面之间发出一声混浊的闷响，无形的气流喷溅而出。\n　　他就像一只大鸟般，轻松寻常地跃起两丈，翻过了那道高高的府墙。\n　　落足之处，是一片渐凋的花圃。\n　　花圃前方是一片庭院。\n　　庭院里有一把松木椅，椅上坐着一个人。\n　　夏侯最信任的军师，谷溪。\n　　谷溪看着花圃里的宁缺",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "事后的震怒相信也比较容易化解。\n　　宁缺走到灰色府墙下。\n　　他膝盖微弯。\n　　身体内强大的浩然气，瞬间灌注入他的双腿内。\n　　鞋与地面之间发出一声混浊的闷响，无形的气流喷溅而出。\n　　他就像一只大鸟般，轻松寻常地跃起两丈，翻过了那道高高的府墙。\n　　落足之处，是一片渐凋的花圃。\n　　花圃前方是一片",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "身体的改造在极短的时间内产生了效果，这种难以言说的强大感觉，让他产生了一种强烈地证明这种强大的渴望，同时先前在树影下的那些思考与不甘，也变成了某种难以抑止的冲动。\n　　强烈要破坏一切的冲动与书院后山弟子的责任感强烈冲突，让他始终无法确认自己究竟要不要那样做，直到走到城北那座府邸前，清晰而稳定的脚步节",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "微的部分后，感觉愈发的美好，如同春水一般洗涤着他的精神与肉体，滋润着每一丝肌肉与每一段骨骼，带来一种温暖饱足却又清新无腻的感知。\n　　身体内的改变让外在发生某种变化，宁缺身上的厚袄仿佛吸饱了雨水，紧紧地贴着身体，那股极为宁静的气息，仿佛有某种吸引力，不止把巷树石雪间的天地气息吸引过来，也把真实世界里",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "、不甘沉默，连纵情放肆都做不到，又哪里能够承载浩然气雄浑无双的气息？\n　　住在将军府里那位大将军，不日后便要放弃手中的所有军权，黯然辞职归老，在世上所有人看来，他已经为这些年的所作所为付出了极惨痛的代价，承受了足够多的伤害，对书院和神殿做出了足够的交待，让了一大步。\n　　但宁缺并不这样认为。\n　　宁",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的气流喷溅而出。\n　　他就像一只大鸟般，轻松寻常地跃起两丈，翻过了那道高高的府墙。\n　　落足之处，是一片渐凋的花圃。\n　　花圃前方是一片庭院。\n　　庭院里有一把松木椅，椅上坐着一个人。\n　　夏侯最信任的军师，谷溪。\n　　谷溪看着花圃里的宁缺，感慨说道：“我一直在犹豫要不要杀你，你便来了。”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

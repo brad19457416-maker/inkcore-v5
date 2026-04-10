@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 826,
+  "chapter_title": "第一百八十二章 山麓百货商店第一季",
+  "filename": "ch_0826_第一百八十二章 山麓百货商店第一季.txt",
+  "char_count": 3631,
+  "timestamp": "2026-04-10T12:05:17.601459",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "面中，那个面色黝黑的政客，依然一脸冷峻，诚恳而 忧虑地向某人进行着喊话。\n\n    “联邦已经到了最危险的时刻，需要你的回应。我以联邦民选总统的名誉向你保证，只要你回到光明中，一定会受到联邦法律最公正的审判。”\n\n    联邦总统通过电视台的画面，直接向一名联邦重要逃犯进行喊话，这是历史上从来没有生",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "开辟新的战场，还是借机遁回天京星范围，木恩都需要利用这种局面。\n\n    但他完全没有想到，就在飞船秘密降落墨花星球之后不久，帝国部队便忽然像是疯了一般，向联邦部队控制的地区起猛烈进攻，而联邦部队也像是疯了一般，莫名其妙地连续出现几次指挥失误，导致几座大型城市区接连被帝国部队夺回。\n\n    包括他",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "光幕左阜边画面上不停闪过的前线的惨烈场景，看着那些急促滚动的失败报道，看着那些遍布大街小巷的游行示威人群，若有所悟。\n\n    虽然被通缉，但有很多联邦民众默默站在许乐一方，他们不需要什么理由，也不相信政府给出的那些理由，甚至逐渐有更多的人不再沉就，愤怒地走上街头，抗议政府迫害他们心中的英雄偶像。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "他的肋部，直到此刻依然有些隐隐作痛。\n\n    对手实力确实强悍，但许乐受伤主要的原因是他出手没有尽全力，那天夜里在官邸与总统先生的激烈争执之后，因为某些很复杂的情绪，在没有被逼入绝境的情况下，他非 常不愿意未死那些追捕自己的联邦军警。\n\n    更何况如果一动手便是全力动，太容易饿，这些年吃不了少",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "邦民众默默站在许乐一方，他们不需要什么理由，也不相信政府给出的那些理由，甚至逐渐有更多的人不再沉就，愤怒地走上街头，抗议政府迫害他们心中的英雄偶像。\n\n    联邦政府想通过民众海洋，来打一场与许乐一个人之间的战争，现在这片海洋里，至少有一部分浪花并不想淹死他，而是想托住他的脚。\n\n    和当年的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“别上当，这些家伙最受骗人了。”\n\n    老板揉了揉花白的头鉴，指着墙上的新闻画面，微眯着眼睛平静说道：“出门在外，可得注意安全。”“谢谢。”许乐笑了起来，提着大大的黑色塑料袋走出百货商店门口，顺石径青叶而走。“快跑！外面已经被包围了，从地下通道走。▲不要去分驻点，那里 肯定被情报署的黑狗们掌握了",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "帝国部队便忽然像是疯了一般，向联邦部队控制的地区起猛烈进攻，而联邦部队也像是疯了一般，莫名其妙地连续出现几次指挥失误，导致几座大型城市区接连被帝国部队夺回。\n\n    包括他此时所在的这座城市，帝国冷酷的黑槿旗机甲部队，已经占领了这座城市的每一处要地，而帝国陆军则是在不停地挨家挨户搜捕，他们这些或许",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百八十二章 山麓百货商店第一季 \n\n    走出通道的他缓下急促的脚步，借着路边结绳木器摊上的照片掩护，避开那些匆忙奔来的联邦警察。听着远处传来的凄厉警笛声，他微眯着眼望向远方的楼宇群，转身闪进小巷，顺着石阶向山",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第一百八十二章 山麓百货商店第一季 \n\n    走出通道的他缓下急促的脚步，借着路边结绳木器摊上的照片掩护，避开那些匆忙奔来的联邦警察。听着远处传来的凄厉警笛声，他微眯着眼望向远方的楼宇群，转身闪进小巷，顺着石阶向山坡腹部那家百货商店走去。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "微低着的脑袋里却奋快分析着旁的事情。\n\n    联邦一直在准备深春攻势，结果却忽然遭受了帝**队如此沉重的打击，战场之上胜负本属平常事，但他总觉得前线的失败里面透着一些诡异的味道。\n\n    离开西林落日州之前，许乐负责的与 帝国地下抵抗组织谈判已经告一段落，木恩提前返回帝国，根据木恩私下告诉他的路",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "露着冷酷和强大自信，说道：“我需要你带我去联。\\} o\n\n    大家伙太给力了，虽然说在即将爆菊的瞬间，被他们光逃离，但通的土豆和七十二喊救命，那感觉真的是很嗨劈啊。我真想对前面猥琐的家伙们说：叫破喉咙也没用，你们就从了吧。\n\n    今儿咳嗽的特别厉害，然后要把后面的大情节理一下，所以就只一章，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "战斗部队”却也付出了一些代价，尤其是最后与那位费城第三强者的正面碰撞，三截式电击棍狠狠砸破对方头盔的同时，对方自后方阴险踹来的一脚，也蹬中了他的肋部，直到此刻依然有些隐隐作痛。\n\n    对手实力确实强悍，但许乐受伤主要的原因是他出手没有尽全力，那天夜里在官邸与总统先生的激烈争执之后，因为某些很复杂",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "意识里抬起头来，目光落在挂在顶墙的电视光幕上，新闻画面中，那个面色黝黑的政客，依然一脸冷峻，诚恳而 忧虑地向某人进行着喊话。\n\n    “联邦已经到了最危险的时刻，需要你的回应。我以联邦民选总统的名誉向你保证，只要你回到光明中，一定会受到联邦法律最公正的审判。”\n\n    联邦总统通过电视台的画面，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "法律最公正的审判。”\n\n    联邦总统通过电视台的画面，直接向一名联邦重要逃犯进行喊话，这是历史上从来没有生过的事情，怕布尔总统能够凭此获取一些佻脱居多的评价之外，联邦政府得不到任何好处，他为什么要这样情真意切隔着光幕召唤自古？\n\n    许乐深深皱眉看着光幕，看着光幕左阜边画面上不停闪过的前线的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "军则是在不停地挨家挨户搜捕，他们这些或许早就该死的地下抵抗组织成员。\n\n    地底简陋基地里的人们安静下来，听着头顶隐隐传来的沉重机甲踏步声，偶尔响起的枪声，还有女人的尖叫声，抵抗组织的战士们红着眼睛，紧握着手中的枪械，感觉咽喉处一片干涩刺痛。\n\n    木恩蹙着眉头望向备用的地底逃生通道，沉就一",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 538,
+  "chapter_title": "第一百八十章 专家",
+  "filename": "ch_0538_第一百八十章 专家.txt",
+  "char_count": 3613,
+  "timestamp": "2026-04-10T12:05:08.580264",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "却没有任何紧张的表情，在很多预先设定好的配合下，他们换乘了三种交通工具，轻松地穿越政府设置的检查站，来到了落日州首府某幢大楼下面。\n\n    从脚垫下摸出备好的钥匙，两个人推开…刃…房间的房门，二十移后，穿花衣衫的旅行者却悄无声息地离开二中年男人将风衣放在椅边，打开行李箱，神情平静地望着箱中被漆成哑",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "于是一份内容简单而清晰完整的信息通报，悄无声息地离开这个分析站，通过某个隐蔽的备用通道，传进长风军事基地一十密闭的房旬内。\n\n    房间内一名穿着白色工作服的工程师舔了舔嘴唇，摇着头将这份情报进行算法加密，再经由军方教空指挥系统与民用航空系统间的共司通道发了出去。\n\n    整个西林主星每日",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "在追索这两个人的踪迹。汽车上经过的路口，时不时还能看到联邦调查局的黑色公务车，两个人的脸上却没有任何紧张的表情，在很多预先设定好的配合下，他们换乘了三种交通工具，轻松地穿越政府设置的检查站，来到了落日州首府某幢大楼下面。\n\n    从脚垫下摸出备好的钥匙，两个人推开…刃…房间的房门，二十移后，穿花衣",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "语说道，“没想到是他来了二”\n\n    七组这些年在西林和百慕大不知做了多少如暗杀之类的私活，从某种意义上来说，他们本身就是暗杀界的绝对专家，而能够让他们认真对待的专家，自然也是真正的专家。\n\n    “来不及了。”熊临急提着身旁的大提琴箱子，便准备向大楼里冲去。\n\n    白玉兰想到临行前许乐在自",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "哑光色的金属配件几秒钟，两只手开始平稳地进行组合工作，仅仅一分钟时间，一具威力强大的非制式狙击枪，便出现在他的手中。\n\n    拉过椅子，掏出电动挫刀，中年男人很细腻地快速磨出一个搁放枪管的豁口，却没有急着调整射击地点，而是来到窗前，拉起窗帘一角往外望去二只见大楼下方建筑角檐过处，是是一处热闹至极的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "务并不难。\n\n    在楼下做了这么多布置，他认为自己的安全有充份的保障，稍后开枪之后，就算对方能够马上包围凸…房间，却也会给他留下充裕的离开时间，除非对方是无所不知的神，才能知道自己藏在何处。\n\n    光幕上，一辆黑色的汽车驶入了路口二中鼻男人的手指稳定地搁在了电控装置的红色按钮上，轻轻滑动调整",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "百慕大最冷静的杀人专家，唇角微微泛起一丝平静自信的笑容。\n\n    就在此时，他的眉头忽然皱了起来，缓缓向右方望去，虽然没有听到任何声音，却总觉得一墙之隔的房旬里，总有些古怪。\n\n    七组的军车直接开到了那幢大楼之下，整十西林满街跑的都是军车，他们并不担心会引起某些人的注意。然而隔着涛光玻璃薄膜",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "一张很难搞到的特别通行证。\n\n    几百米之后，穿花衣衫的旅行者也坐上了这辆汽车，两个人极有就契地同时看了一下手腕上的表，确认时间应该还来得及。\n\n    在这座城市里，联邦调杳局和国防部的强力部门，一直在追索这两个人的踪迹。汽车上经过的路口，时不时还能看到联邦调查局的黑色公务车，两个人的脸上却没",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "房旬里，总有些古怪。\n\n    七组的军车直接开到了那幢大楼之下，整十西林满街跑的都是军车，他们并不担心会引起某些人的注意。然而隔着涛光玻璃薄膜，看着不远处几辆西林军车，白玉兰忽然觉得此时的气氛有些怪异，默然想到自己并不担心别人会注意自己，那几辆军车里的人是不是也有同样的想法？\n\n    熊临泉指着",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "正在与蓝衣女服务员笑着聊天。\n\n    现在正在打仗，所以e…过来的旅行团已经很少了。”女服务员笑着说道，“你又是自由行，要找打折酒店，可不是那么容易的事儿。”\n\n    穿花格子衣衫的旅行者正准备说些什么，余光注意到穿灰色风衣的中年人走了出来。两个人没有说话，旅行者心里却明白，笑着与女服务员告别，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "大事，但这些天在西林大区的经历，让他更清楚，那些帮助自己完成任务，也就是发布任务的人，拥有更加恐怖的权力。\n\n    中年男人本来就是联邦公民，所以才能通过入境时的严密审杳，重新植入芯片，所以他清楚这此冷血的联邦大人物们拥有怎样的能力，在这些人的帮助就许下，要完成任务并不难。\n\n    在楼下做了这",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "法加密，再经由军方教空指挥系统与民用航空系统间的共司通道发了出去。\n\n    整个西林主星每日要起降无数艘战舰和民用飞船，两个系统间的共司通道密级并不高，冗余信息繁复，这份被伪装成冗余信号的情报，很轻松地穿过了系统过涛，进入了落日此民用空港的内部若蛛丝一般的管线。\n\n    落日州空港抵达区最右手方",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

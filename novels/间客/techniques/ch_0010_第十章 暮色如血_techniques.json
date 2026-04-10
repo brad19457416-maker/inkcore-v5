@@ -1,0 +1,128 @@
+{
+  "novel": "间客",
+  "chapter_number": 10,
+  "chapter_title": "第十章 暮色如血",
+  "filename": "ch_0010_第十章 暮色如血.txt",
+  "char_count": 2462,
+  "timestamp": "2026-04-10T11:53:11.020702",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "后用力拔了出来。\n\n    军刺的锋尖已经彻底摧毁了公牛的中枢神经结部位，公牛再也无法弹起来表达它的愤怒。许乐下意识里眯着眼睛，看了一眼手中那把匕首尖上的血滴，液体在昏沉渐黑的暮色里闪耀着淡淡的光芒。他的心里没有一丝虚弱之后的亢奋，也没有任何激动，有的只是一丝害怕和躲避。\n\n    “什么时候，把手",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "够仅仅凭着一根匕首就杀死那头公牛？为什么这几年里黑市很少有野牛肉卖？\n\n    封余想到了先前许乐的疑问，脸上的笑容不禁更加浓郁，在联邦政府严格管理枪械的背景下，黑市贩子们谁敢冒着生命危险去猎杀公牛？\n\n    这个孩子……在某些方面真的是很傻，难道他就一直没有发现先前引牛时，自己和他可以比愤怒的公",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的手中还是那根电击棍，只不过前端已经探出了锋利的刃尖，看上去就像是军队经常使用的军刺。\n\n    转瞬间，少年体内的恐惧通过肾上激素的分泌转化为了强大的行动力，在极为惊险的那一刹那，侧转了身体。一阵劲风吹拂过他的脸颊，他强撑着那双并不大的眼睛，将野牛在自己眼前的每一个动作看的清清楚楚，然后将右手一直",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "想到了先前许乐的疑问，脸上的笑容不禁更加浓郁，在联邦政府严格管理枪械的背景下，黑市贩子们谁敢冒着生命危险去猎杀公牛？\n\n    这个孩子……在某些方面真的是很傻，难道他就一直没有发现先前引牛时，自己和他可以比愤怒的公牛跑的更快？难道他就没觉得，自己能够徒手杀死一头公牛，这是比修理好一面电视，更值得骄",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "点，当他靠近那头公牛粽黑色的身躯时，本来瘫软在地的公牛，忽然喷着强劲的鼻息，四蹄蹬土，整个身躯最后的爆发，就像是被一股巨大的力量从地面上震了起来，向着他冲来。\n\n    许乐眼瞳微缩，面色微白，似乎傻在了原地，此刻他的手中还是那根电击棍，只不过前端已经探出了锋利的刃尖，看上去就像是军队经常使用的军刺",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "瞬间，少年体内的恐惧通过肾上激素的分泌转化为了强大的行动力，在极为惊险的那一刹那，侧转了身体。一阵劲风吹拂过他的脸颊，他强撑着那双并不大的眼睛，将野牛在自己眼前的每一个动作看的清清楚楚，然后将右手一直紧握着的那根金属刺扎了下去！\n\n    许乐的眼力很好，不然不会在修理方面拥有如此快的速度，与这个天",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "不符的冷静沉稳——虽恐惧的双腿发抖，脸色发白，却依然冷静沉稳——才是封余最欣赏他的地方。\n\n    同时，这也是封余认为少年最无趣的地方，所以此刻听到许乐骂脏话，他反而有些高兴，笑成一朵野白合，站起身来，拍了拍屁股。\n\n    ——　ww　w　.　xia　oshu　otxt.co　m",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "可能性。关于这些理论，封余还暂时不打算和许乐进行探讨，所以听到少年恚怒的质问之后，他只是笑了笑，没有回答，反而是从牛仔裤里摸出那包扁扁的烟盒，点上一根，美滋滋地吸了起来。\n\n    许乐垂头丧气地转过了头去，低下了身体。\n\n    看着围墙那头，暮色之下，忙碌的少年，封余心里的某个地方被触动了一下。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的古典文学里的场景，在丰收的秋天，农民收割着庄稼，以植物的残躯换取自己的存活，在部落的篝火旁，男人女人们在喝着酒，拿着火堆里烤熟的动物肢体啃食，十分快活。\n\n    一丝微笑浮上了封余的脸颊，这动容的笑容配上他的花白头发，似乎泄露了他的真实年纪，有那么一股子沧桑的味道开始流露出来。\n\n    他一直",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

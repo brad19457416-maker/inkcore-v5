@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 614,
+  "chapter_title": "第二百四十六章 我是一只来自西林的虎(上)",
+  "filename": "ch_0614_第二百四十六章 我是一只来自西林的虎(上).txt",
+  "char_count": 5661,
+  "timestamp": "2026-04-10T12:05:08.558593",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "然出现了一并白色的字符。\n\n    在那个军营之夜后，老东西很少主动联系他，所以那一刻，他有些吃惊和紧张，究竟生了什么。\n\n    “没有任何具体的数据？”许乐坐在床边不解问道：“可你是建立在逻辑和信息捕捉基础上的存在，没有任何有效信息，你怎么判断联邦里将有大事生？”\n\n    “混沌计算，我无法列",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "一声巨响！\n\n    古钟号的右后舰体生了一场爆炸，巨大的力量，把舱内的人们狠狠击倒在地面上，在那一瞬间，似乎阔大舷窗外还有十余道凶险的喷射线条擦舰而过，如果刚才这些武器全部击中飞船，那后果不堪想像。\n\n    “怎么回事！”\n\n    古钟号上的军官们艰难地爬了起来，冲回自己的岗位，愤怒而迷惘地吼",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "域范围，那些思乡的情绪便开始弥漫起来。\n\n    对于部队长官来说，队伍中的这种情绪毫无疑问是负面且危险的，不过好在他们此行的目的并不是进攻帝国本土，而是负责前进基地的安保工作。\n\n    对于许乐来说乡愁并不是他此时最主要的情绪，他看着身前那名黑披肩，清丽异常的女子，更多的是感到惊讶和沉甸甸的责任",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "离上林大召星域范围，那些思乡的情绪便开始弥漫起来。\n\n    对于部队长官来说，队伍中的这种情绪毫无疑问是负面且危险的，不过好在他们此行的目的并不是进攻帝国本土，而是负责前进基地的安保工作。\n\n    对于许乐来说乡愁并不是他此时最主要的情绪，他看着身前那名黑披肩，清丽异常的女子，更多的是感到惊讶和",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "新的扭矩调整，在三艘护卫舰自杀式的掩护下，试图进行最后一次加尝试。\n\n    三艘护卫舰就在古钟号上众人的眼前逐个变成蓬然浑圆散开的烟花，眼看着古钟号将要到达临界度，逃离战场，甩开那些幽灵般的帝国战舰群时，忽然间，帝国的战舰腹部外壳裂开了一道缝隙，一百金台帝国机甲密密麻麻向古钟号高扑了过来。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "里叹息了一声，正准备说些什么的时候，眼睛却眯了起来。\n\n    “我有点儿事情需要处理。”他对简水儿说道，然后转身回到了简水儿望着他决然的背影，脸上露出无辜的神情，可爱地摊开双手说道：“这是我自己的头，你生这么大的气做什么？”\n\n    许乐知道自己没有理由对某人改变型而生气，这很无聊且荒谬，可他依",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "什么。\n\n    “没有任何具体的数据？”许乐坐在床边不解问道：“可你是建立在逻辑和信息捕捉基础上的存在，没有任何有效信息，你怎么判断联邦里将有大事生？”\n\n    “混沌计算，我无法列出计算过程，只知道无数细微的变因，随着时间的推移，正在导致一场数据乱流的产生。”\n\n    “基于你的第一序列权限",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "了所有的通道。\n\n    西林官兵们表情震惊地看着光幕，看着迳支伏击自己的黑色舰队，他们对这种战舰很陌生，却又很熟愿，陌生是因为对方从来没有在联邦的星空中出现过，熟悉是因为西林边陲之外的荒芜星域之中，有很多艘这种战舰的残骸。\n\n    这些战舰都拥有兽形的舰，而且那面黑榧花的旗帜被激光刀深深地刻在舰",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "技术，试图猎杀自己，那必然会一次性投入他们能够投入的全部力量。\n\n    要猎杀西林的这头猛虎，不出全力如何敢言必胜？\n\n    听到司令的话，古钟号上的西林军官们集体沉就瞬间，快回到自己的岗位，准备人生最后的战斗。\n\n    作为联邦军方最重要的统帅，在生命面临着最大危险，随时可能结束的时刻，钟瘦",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "宇宙的袭击，联邦事后进行了长达两年的专案调查，那些沉重的检讨的反思讨论，更是持续了数十年。两年后议会山审查调查报告时，一位来自西林大区的中年议员愤怒而悲伤地问了很多个为什么和如果。\n\n    为什么联邦军方重要统帅出行，没有联邦舰队护送？西林军区向来不接受联邦舰队的护送，这是一种延续了很多年的旧例，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "钟瘦虎的a光落在那些越来越近的机甲上，现这些机甲的造型十分奇特，而且度明显出以往，花白的眉毛缓缓挑起，对下属们说道：“再告诉联邦一个不怎么好的消息，帝国大的新机甲也研成功了。\n\n    “另外提醒他们《帝国人穿越空间通道，也有能力回去。”因为他们准备活捉我。”“最后，告诉s1和西林，我们当中",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "后果不堪想像。\n\n    “怎么回事！”\n\n    古钟号上的军官们艰难地爬了起来，冲回自己的岗位，愤怒而迷惘地吼叫道，这是在联邦的太空之中，那些百慕大三角的海盗怎么敢对古钟号动袭击？\n\n    “对方有我们的电子码频率！马上改变数据，把它们找出来！”\n\n    指样系统内急促的声音依然在持续，骤然",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "到某名忠心耿耿的下属，钟瘦虎的脸上浮起一丝嘲弄的笑容，不知道是在嘲笑帝国敌人试图活捉自己的企图，还是自嘲于自己英雄一世，却因为某些间谍或叛徒而陷入绝境。\n\n    此时，帝国机甲群终于突破了古钟号的近域火力网，像无数颗钉子一样，狠狠地钉进了飞船坚固厚实的合金外壁，飞船内部清晰地不停响起沉重的金属撞击",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "作为联邦军方最重要的统帅，在生命面临着最大危险，随时可能结束的时刻，钟瘦虎黍关心的依然是联邦的命运，那些警惕敌视西林的人们，如果看到这一幕，心中的看法会不会有些不同？\n\n    在这最危险的时刻，古钟寺重新组合完好的引擎群，进行全新的扭矩调整，在三艘护卫舰自杀式的掩护下，试图进行最后一次加尝试",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "兵们表情震惊地看着光幕，看着迳支伏击自己的黑色舰队，他们对这种战舰很陌生，却又很熟愿，陌生是因为对方从来没有在联邦的星空中出现过，熟悉是因为西林边陲之外的荒芜星域之中，有很多艘这种战舰的残骸。\n\n    这些战舰都拥有兽形的舰，而且那面黑榧花的旗帜被激光刀深深地刻在舰身上，号称永不腐朽。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的紫。\n\n    一场虽不激烈却有些执拗的争论，在两个年轻男女之间生，白玉兰等一批军官极为识趣，早早离开了这间舱房。看着面前清丽依旧动人心魄，美丽无以复加的容颜，和香扇之上微微散开的黑色长，许乐隐隐明白她为什么会做出这样大的改变，在心里叹息了一声，正准备说些什么的时候，眼睛却眯了起来。\n\n    “",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "法得到及时的援助，除了第一艘追输舰外，最先赶去救援的居然是西林的民用飞船？如果联邦政府的预算中能够先满足宪章局在那边的铺网要求，如果联邦舰队能加大巡航力度，是不是可能避免这次悲剧的生？\n\n    联邦舰队洪予良上将的轩释是《空间通道的范围大过宽广，不是一般民众认知的小型扭率空洞，哪怕联邦所有战舰全部",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 801,
+  "chapter_title": "第一百八十二章 为人间所破（上）",
+  "filename": "ch_0801_第一百八十二章 为人间所破（上）.txt",
+  "char_count": 3441,
+  "timestamp": "2026-04-10T12:11:27.231586",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "风暴本就来自他的铁刀。\n　　观主就是大海，无论风暴再如何剧烈恐怖，始终无法摧毁大海本身。\n　　阴晦的天空里响起朱雀的清鸣。\n　　殷红的小鸟衔着一块小石头，顶着海上的暴风雨，奋力向大海深处飞去，无论风雨再如何狂暴，也无法阻止它。\n　　朱雀变成天穹下的一个小黑点。\n　　它把衔着的小石头，扔进了大海里。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "外那片仿佛无边无际的大海。\n　　有无数风暴起于海洋深处，近处海水被搅动的仿佛墨汁，透着一股令人心寒的危险味道，远处的海水则是掀起了十余层楼般高的巨浪。\n　　宁缺没有挥刀砍向那些重楼巨浪。\n　　因为观主不是风暴，风暴本就来自他的铁刀。\n　　观主就是大海，无论风暴再如何剧烈恐怖，始终无法摧毁大海本身。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "让朱雀大道变成了宋国东面的风暴海。\n　　观主的寂灭气息被破，青衣随风而动。\n　　他招摇而起，身躯仿佛瞬间变大了无数倍。\n　　一道宏大如海，无边无量的气息，出现在雪街上。\n　　观主再一次动用佛宗的大海无量。\n　　前一刻的凌迟之苦，让他非常清楚，如果只使用佛宗的无量境界，并不足以抵抗宁缺手中的那把刀，因",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "淌落。\n　　他看上去很惨。\n　　惨到看上去怎么都不可能再活。\n　　但观主还活着。\n　　千年以降，道门最强的人，不会这般容易死去。\n　　只是他离死亡，或者说回归昊天神国，也只剩下一线的距离。\n　　如果他无法对抗宁缺的千万刀，那么一切便将结束。\n　　观主一生傲视世间，感受死亡阴影的次数极少。\n　　败在轲",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "人们商量了很长时间，甚至开始争吵起来，却始终没有得出一个主意。\n　　“请让让。”\n　　一个少年挤开人群，向荒原里走去。\n　　他的行李很简单，真正有些用的大概便是手中那把带着锈迹的柴刀，更令人感到担心的是，他还背着一个瘦瘦的小女童。\n　　人们劝说他荒原里很危险，最关键的是没有道路。\n　　少年没有理会",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "他的指尖传到了铁刀的刀锋之上，瞬息间，刀锋蒙上了一层寒霜。\n　　好强大的寂灭气息。\n　　朱雀发出一声愤怒地鸣啸，喷涌出无尽的火焰，与寂灭相对抗。\n　　铁刀前端寒冷胜冰，散发出令人心悸的寂灭意，覆着雪霜，与宁缺右手相近的那一端则是炽热无比，向外界散发出火焰。\n　　两道极端的气息，便在这样一把朴实无华的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "被破，青衣随风而动。\n　　他招摇而起，身躯仿佛瞬间变大了无数倍。\n　　一道宏大如海，无边无量的气息，出现在雪街上。\n　　观主再一次动用佛宗的大海无量。\n　　前一刻的凌迟之苦，让他非常清楚，如果只使用佛宗的无量境界，并不足以抵抗宁缺手中的那把刀，因为那是千万把刀。\n　　所以他同时施出了天魔境――天魔境",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第一百八十二章 为人间所破（上）\n　　厉啸声中，观主来到宁缺身前，雪街上步步皆血。\n　　余帘砍断了彩虹桥，大师兄握住他的脚，他无法从空中离开长安城，便只能硬接宁缺这把千万人的刀。\n　　他此时凄惨的就像是受了一半凌迟之刑的罪人，浑身是血，白骨森森，但他依",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "让他非常清楚，如果只使用佛宗的无量境界，并不足以抵抗宁缺手中的那把刀，因为那是千万把刀。\n　　所以他同时施出了天魔境――天魔境乃是魔宗不世功法，如今世间除了余帘，便只有观主会。这种功法除了能够让修行者的身躯强逾钢铁，更重要的是可以创造一个新的世界，或者说虚假的世界。\n　　佛宗的无量和魔宗的天魔境，同",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "挤开人群，向荒原里走去。\n　　他的行李很简单，真正有些用的大概便是手中那把带着锈迹的柴刀，更令人感到担心的是，他还背着一个瘦瘦的小女童。\n　　人们劝说他荒原里很危险，最关键的是没有道路。\n　　少年没有理会他们，继续向荒原里走去，只是把手里的柴刀握的更紧了些。\n　　看着消失在荒原野草里的少年背影，人群",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "第一百八十二章 为人间所破（上）\n　　厉啸声中，观主来到宁缺身前，雪街上步步皆血。\n　　余帘砍断了彩虹桥，大师兄握住他的脚，他无法从空中离开长安城，便只能硬接宁缺这把千万人的刀。\n　　他此时凄惨的就像是受了一半凌迟之",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 142,
+  "chapter_title": "第八十一章 疯狂的赛车",
+  "filename": "ch_0142_第八十一章 疯狂的赛车.txt",
+  "char_count": 3464,
+  "timestamp": "2026-04-10T11:53:35.158025",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "清海地肩头一震。被他瞄准的一辆汽车，前轮猛地一爆，在高速的状态下，失控撞向了公路侧栏。\n\n    寒风灌进了车厢，无比阴冷。许乐将身体完全躲在了座椅之下，躲避着横飞的子弹。\n\n    虽然他从来没有开过汽车，但是他在东林的时候，曾经跟随封余大叔修理过汽车，对于汽车的动力操控系统无比熟系。更何况一个能",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "“入城之前，必须拦住前面那辆汽车，如果对方反抗，允许开火！”\n\n    布完命令之后，这名中年官员愤怒地骂道：“宪章局那批，居然只给我一天的权限，还是五级，难道他们不知道前面姓施的那个小子多么危险？”\n\n    许乐面色有些苍白，车窗外的景色以一种恐怖的速度倒退，高速公路的自动升温除冰系统早已开启",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "梦中，将牙一咬，右手一提。左手用力地扭转了方向盘，在心中暗自祈祷千万不要翻车。\n\n    联邦调查局秘密追捕施清海的车队，到临海州第七收费站的时候。已经从九辆变成了五辆。那名脸色格外阴沉的中年官员，走下汽车，看着身前被撞击成碎片的栏杆，回头看了一眼身后的下属们，声音从牙齿缝里挤了出来：“联络宪章局，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，或许用不着后方那几辆汽车追上，他们这辆黑色越野车便会自己车翻人亡。\n\n    施清海的脸上没有丝毫紧张的神色，除了眼眸里的些微忧虑，他轻轻舔着自己干枯的嘴唇，反而显得有些兴奋。\n\n    “你会开车吗？”他盯了一下后视光屏上，那些高速追来的汽车。\n\n    “不会。”许乐回答的很快，没有一丝犹豫，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "乐开的比赛车手更加疯狂。因为前面是一个字形的大转弯，他却似乎没有松开油门减速的意思，就在入弯前的那一瞬间，左脚狠狠地跺了上去，右手猛地一拉手刹，让这辆民用的黑色越野车，险之又险地在湿滑公路表面来了一次漂移，就在快要撞到崖壁的入弯处，摆正了车身，继续猛烈地向前。\n\n    从准备入弯到出弯这个过程中，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "年官员愤怒地骂道：“宪章局那批，居然只给我一天的权限，还是五级，难道他们不知道前面姓施的那个小子多么危险？”\n\n    许乐面色有些苍白，车窗外的景色以一种恐怖的速度倒退，高速公路的自动升温除冰系统早已开启，不然如果在冰雪之上，以这种速度前行，或许用不着后方那几辆汽车追上，他们这辆黑色越野车便会自己",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "许乐的脸色同样异常苍白，他伸在空中地双手微微颤抖，一直没有办法离开座位。他看了施清海一眼，颤抖着声音说道：“帮个忙，我出不来。”\n\n    施清海以为许乐经历了先前疯狂的赛车逃命之后，终于承受不住那种恐惧与紧张，吓的无法动弹。他的脸上浮现出歉疚之色，打开了车门，拉开了束缚住许乐身体的安全带，想把他抱",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "位，躲避着公路上因为枪战而惶然停下的前方汽车，尽量提高汽车的速度，试图拉远与后方追击们地距离。这是他第一次开汽车，然而他那双敏锐的双眼，和无比强悍的手眼配合能力。却让他的操控显得无比流畅。看上去更像是一个赛车手。\n\n    不，许乐开的比赛车手更加疯狂。因为前面是一个字形的大转弯，他却似乎没有松开油",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "里挤了出来：“联络宪章局，马上定位他们现在在哪里。”\n\n    “联络交通管制局，封锁这一带地交通，同时追踪那辆黑色越野车。”\n\n    “通知组员，随时准备集结。”\n\n    此地只有满地碎屑。收费站里目瞪口呆的工作人员，哪里还有那辆黑色越野汽车的踪影。\n\n    联邦调查局地官员，很清楚自己此次",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "上，他们这辆黑色越野车便会自己车翻人亡。\n\n    施清海的脸上没有丝毫紧张的神色，除了眼眸里的些微忧虑，他轻轻舔着自己干枯的嘴唇，反而显得有些兴奋。\n\n    “你会开车吗？”他盯了一下后视光屏上，那些高速追来的汽车。\n\n    “不会。”许乐回答的很快，没有一丝犹豫，他知道在这样紧张的时刻，任何",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "素的职业人士，先前面对着枪林弹雨，也不会如此惊恐，但是坐许乐的车，他却有了害怕地感觉。\n\n    “以后再也不要你开车了！”施清海无比痛苦地瞪着驾驶位上地许乐，“我宁肯被调查局抓回去严刑拷打，也不愿意陪你一起玩命。”\n\n    许乐的脸色同样异常苍白，他伸在空中地双手微微颤抖，一直没有办法离开座位。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "寒风灌进了车厢，无比阴冷。许乐将身体完全躲在了座椅之下，躲避着横飞的子弹。\n\n    虽然他从来没有开过汽车，但是他在东林的时候，曾经跟随封余大叔修理过汽车，对于汽车的动力操控系统无比熟系。更何况一个能够开动机甲的人，开起汽车来，就像是在摆弄玩具一样。\n\n    只是这个玩具很危险，许乐全神",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“在前面闯进城去，三分钟之后，调查局就能布好第一道拦截。”\n\n    许乐的脸色也是无比苍白，他看着无数高速后退的画面，觉得自己又回到了那个无比可怕的黑色梦中，将牙一咬，右手一提。左手用力地扭转了方向盘，在心中暗自祈祷千万不要翻车。\n\n    联邦调查局秘密追捕施清海的车队，到临海州第七收费站的时候",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，也不愿意陪你一起玩命。”\n\n    许乐的脸色同样异常苍白，他伸在空中地双手微微颤抖，一直没有办法离开座位。他看了施清海一眼，颤抖着声音说道：“帮个忙，我出不来。”\n\n    施清海以为许乐经历了先前疯狂的赛车逃命之后，终于承受不住那种恐惧与紧张，吓的无法动弹。他的脸上浮现出歉疚之色，打开了车门，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

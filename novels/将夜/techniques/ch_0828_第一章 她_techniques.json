@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 828,
+  "chapter_title": "第一章 她",
+  "filename": "ch_0828_第一章 她.txt",
+  "char_count": 3293,
+  "timestamp": "2026-04-10T12:11:27.264797",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "野花和青草，绕着她飞舞不停。\n　　黑鸦把喙里的野花和青草洒落到她赤裸的身躯上，然后嘎嘎飞向数百丈高的天空里，而她便多了件绣着繁花的青色衣裳。\n　　她看着身上的衣裳，觉得有些事情难以理解，把衣襟松了松，把腰间的衣带松开一段，发现还是有些紧，不由微微蹙眉。\n　　她走到热海表面的积雪间，看着那数十尾被冻成",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "惯，也不明白的是，为什么自已的身躯会这么丰满。\n　　……\n　　……\n　　走的虽然慢，但她不会累，所以最终她还是走到了荒原上，看到了雨后的原野，微黄的秋草，还有那几个散发着腐臭味的帐篷。\n　　这里是金帐王庭的一个小部落，里面死了很多人，那些尸体身上的腐肉已被草原上的野兽啃食干净，看来已经死了很多天。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，还有那轮新生的明月，幽静的黑海被这场飓风吹的波涛翻滚，热海表面的雪层被吹的直冒白烟，暴雨留下的痕迹瞬间被抹平。\n　　风停后的安静，被一道声音突兀地打破。\n　　仿佛有人在天地间推开了一扇门，那门已经有数万年都没有开启过，早已锈蚀不堪，所以那声吱呀显得那般沉重。\n　　这道声音愈来愈响，在天地间回荡，冰",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "暴雨侵袭的撼动不安，墨汁似的海水泛着各种形状的细泡，看上去有些恶心，又像是里面有很多鱼群。\n　　与此同时，雪峰上的积雪被不停地冲刷，渐渐露出山峰本体的颜色，那是沉沉的黑色，与残存的冰雪相映，看上去斑驳一片。\n　　这场绵延数月的大雨，在某一个时刻忽然停止，非常突然，就像是天穹开始落雨的那一刻，雪峰周遭",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "雪峰的断面并不光滑，看上去就像是被强行折断的柳树的断茬，锋利的岩石在黑色的断崖上突伸着，像极了危险的石林。\n　　黑色的崖石间，有个白点。\n　　那是一名全身赤裸的女子，肌肤白胜新雪，无论是温暖的月光还是寒冷的星光，洒落在她的身上，都留不下任何颜色，只是纯然的洁白。\n　　她闭着眼睛，仿佛在沉睡，细",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "来的腐臭味，神情骤变，抽出腰间的弯刀，指着她厉声喝问起来，却不知道说的是什么。\n　　这是她在人间真正意义看见的第一群子民，所以她决定原谅对方的不敬，不将神罚的怒火降临在对方的身上，而是直接让他们去死。\n　　她向这些骑兵走去，脸上没有任何情绪。\n　　……\n　　……\n　　（第五卷，卷名：神来之笔。昨天想",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "多了几抹冷厉的愠色。\n　　她不习惯这个污秽的人间，不习惯这样缓慢的速度，而她最不习惯，也不明白的是，为什么自已的身躯会这么丰满。\n　　……\n　　……\n　　走的虽然慢，但她不会累，所以最终她还是走到了荒原上，看到了雨后的原野，微黄的秋草，还有那几个散发着腐臭味的帐篷。\n　　这里是金帐王庭的一个小部落，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "第一章 她\n　　神国的门毁了，天穹震动，然后出现裂痕，无数非金非玉的白石，从那些裂痕里崩出，划破青天，呼啸着向人间洒落。\n　　数万拖着火尾的陨石，落在安静的海洋上，掀起恐怖的巨浪，灼出滔天的热雾，无数飞鸟与游鱼死去，随着波浪起伏不停。\n　　满天",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第一章 她\n　　神国的门毁了，天穹震动，然后出现裂痕，无数非金非玉的白石，从那些裂痕里崩出，划破青天，呼啸着向人间洒落。\n　　数万拖着火尾的陨石，落在安静的海洋上，掀起恐怖的巨浪，灼出滔天的热雾，无数飞鸟与游鱼死去，随着波浪起伏不停。\n　　满天陨石里，有",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "丹鱼，不知想起了些什么事情，沉默片刻后，便往南方走去。\n　　白莲生于足底。\n　　最开始的那瞬间，她便走出了千里。接下来的那个时辰，她走出了三百里地。然后她用了一天时间，才走到雪原边缘。\n　　她发现自已的速度越来越慢，身体里的气息越来越浑浊，所以她的眉头蹙的越来越紧，仿佛透明的眼眸里多了几抹冷厉的愠色",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "仿佛有人在天地间推开了一扇门，那门已经有数万年都没有开启过，早已锈蚀不堪，所以那声吱呀显得那般沉重。\n　　这道声音愈来愈响，在天地间回荡，冰雪的世界显得非常不安，热海表面裂开，有牡丹鱼从海水深处跳出中，瞬间被严寒冻僵成透明的玉鱼，又有十余只黑色乌鸦自南方飞来，嘎嘎叫着，栖在了覆霜的寒枝上。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "在十余日后，大河国海岸忽然涨潮，渔夫们很是诧异，他们根本想不明白，明明海面上晴空万里，只有清风徐徐，为何会有浪来。\n　　没有人知道这些海浪来自最遥远的黑海，黑海和剩下的半截雪峰，也不知道他们给人间带去了多少震惊和疑惑猜测，此时的雪峰已经再次回复安静，皎洁的月光和星光静静照着雪峰的断面。\n　　雪",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "高的巨浪，沉在海底无数万年的贝壳与泥沙，都被震出了海面，抛洒地到处都是，然后被巨浪卷走。\n　　在十余日后，大河国海岸忽然涨潮，渔夫们很是诧异，他们根本想不明白，明明海面上晴空万里，只有清风徐徐，为何会有浪来。\n　　没有人知道这些海浪来自最遥远的黑海，黑海和剩下的半截雪峰，也不知道他们给人间带去了多少",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的风声，随之便有暴雨来袭。\n　　这里是世界的最北端，是最严寒的地方，也是最黑暗的地方，无数万年以来，从来没有下过雨，然而这场雨一下便是数月，似乎永远不会停歇。\n　　暴雨不停地下着，把热海表面上的积雪击打出无数黑洞，看上去就像是蚁穴的出口，山峰那面的黑海也被暴雨侵袭的撼动不安，墨汁似的海水泛着各种形状",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，像极了危险的石林。\n　　黑色的崖石间，有个白点。\n　　那是一名全身赤裸的女子，肌肤白胜新雪，无论是温暖的月光还是寒冷的星光，洒落在她的身上，都留不下任何颜色，只是纯然的洁白。\n　　她闭着眼睛，仿佛在沉睡，细长微翘的睫毛没有颤动一丝，她的容颜普通寻常，或者说没有任何特点，眉眼间有稚意。\n　　和普通寻",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

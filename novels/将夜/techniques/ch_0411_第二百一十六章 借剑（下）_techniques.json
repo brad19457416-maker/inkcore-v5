@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 411,
+  "chapter_title": "第二百一十六章 借剑（下）",
+  "filename": "ch_0411_第二百一十六章 借剑（下）.txt",
+  "char_count": 2482,
+  "timestamp": "2026-04-10T12:11:21.741352",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "普通少女被人逼婚时，自然是容易愤怒的，所以叶红鱼这时候变得非常愤怒，她目光寒冷看着石屋紧闭的门，心想自己应该把陈八尺杀死，把罗克敌杀死，把所有敢用那等目光看自己的人全部杀死。\n　　然而眼眸里的愤怒，渐渐化作惘然和自嘲，因为现在她的没有了时间，她不能回观，那么她似乎只能这般愤怒而无助地坐在石床畔。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "。\n　　这时候的她不再是道痴也不是失败者，只是一个很普通的少女。\n　　普通少女被人逼婚时，自然是容易愤怒的，所以叶红鱼这时候变得非常愤怒，她目光寒冷看着石屋紧闭的门，心想自己应该把陈八尺杀死，把罗克敌杀死，把所有敢用那等目光看自己的人全部杀死。\n　　然而眼眸里的愤怒，渐渐化作惘然和自嘲，因为现在她的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "“难道真的要回观里？”\n　　“陈皮皮你这个死胖子，你这个贱人，你这个白痴，小时候我就是吓了你两句，你为什么就要逃跑？你为什么现在还不回观里？”\n　　“你不回观，哥哥就不会原谅我，那我怎么回去？”\n　　不知道是因为想起陈皮皮那个可恶的家伙，还是因为自己兄长，叶红鱼这些日子里面对着无尽羞辱依然可以平静自",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "她很清楚所有挫折都是昊天的考验，只要自己道心足够坚定强大，便能把所有这一切变成漫漫修行道畔最美丽的风景。\n　　在荒原上，她见过千年之前那位光明神座布下的块垒阵，她见过轲先生斩开天地的浩然剑，这些风景都在沉默等着她观赏，然后吸收。\n　　但西陵神殿里别的人不知道。\n　　裁决大神官不知道。\n　　想逼她成",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "名来自北方的大商人，做的是腌鱼生意，根本没有人知道，在贩卖腌鱼之前，这名青年曾经拥有过怎样光彩夺目的人生，在世间拥有怎样的盛名。\n　　青年人曾经是燕国的皇子，是西陵神殿最风光的年轻强者，是曾经在知命门槛上种过几枝桃花的煌煌美神子。\n　　然而如今，他是一名贩鱼的商人。\n　　就算他被宁缺一箭射穿胸腹，废",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，因为现在她的没有了时间，她不能回观，那么她似乎只能这般愤怒而无助地坐在石床畔。\n　　便在这时，有人来到了石屋外。\n　　“大人，有您的一封信。”\n　　石屋外那人没有称呼她为司座，没有刻意恭敬，但这样简单的一句话，却表明了足够的尊敬，这是只有她才能感受到的尊敬。\n　　叶红鱼微微挑眉，神情微异。\n　　在",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "叶红鱼确认自己在南晋不认识什么人，所以她不知道写信的人是谁。\n　　她揭开信封，抽出里面的信笺，缓缓展开。\n　　信笺是微黄的草纸。\n　　草纸上画着一个图案。\n　　画图之人明显不擅丹青，线条歪扭颤抖，难看到了极点，也拙劣到了极点，根本无法看明白他画的是什么东西。\n　　叶红鱼看着微黄信笺上那个狭长中",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "年的下属们与鱼商和盐商激烈地争论着价钱，但这些事情似乎与他无关，他只是沉默看着那轮朝阳。\n　　渔港的人们，只知道这位青年是名来自北方的大商人，做的是腌鱼生意，根本没有人知道，在贩卖腌鱼之前，这名青年曾经拥有过怎样光彩夺目的人生，在世间拥有怎样的盛名。\n　　青年人曾经是燕国的皇子，是西陵神殿最风光的年",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "而让他平添了几分沉着。\n　　他眯眼看着红融初升的朝阳，感受着微湿海风拍打在脸颊上，忽然生出前所未有的满足，低声说道：“就这般过完一生，似乎也不错。”\n　　青年的下属们与鱼商和盐商激烈地争论着价钱，但这些事情似乎与他无关，他只是沉默看着那轮朝阳。\n　　渔港的人们，只知道这位青年是名来自北方的大商人，做",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "了几分沉着。\n　　他眯眼看着红融初升的朝阳，感受着微湿海风拍打在脸颊上，忽然生出前所未有的满足，低声说道：“就这般过完一生，似乎也不错。”\n　　青年的下属们与鱼商和盐商激烈地争论着价钱，但这些事情似乎与他无关，他只是沉默看着那轮朝阳。\n　　渔港的人们，只知道这位青年是名来自北方的大商人，做的是腌鱼生",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

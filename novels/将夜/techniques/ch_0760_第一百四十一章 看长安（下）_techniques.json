@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 760,
+  "chapter_title": "第一百四十一章 看长安（下）",
+  "filename": "ch_0760_第一百四十一章 看长安（下）.txt",
+  "char_count": 2214,
+  "timestamp": "2026-04-10T12:11:27.124760",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "但事实上直到现在他都不是很清楚，为什么自已的雪山气海会忽然开窍，自已为什么能够修行。\n　　莫山山看着天空，说道：“长安的雪山气海便是天地，我们没有能力命令天地，便只能让天地自已来做。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "是在这间包子铺前，他遇见道石僧，看见了荒野间的一个土馒头，那是一座千年孤坟，开始入世之后最凶险的一次战斗。\n　　其时晨风渐作，道石僧的头颅滚落，就像因为烫而没有被孩子捧住落下的热包子，然后是鲜血湿了青石板，比露水更浓，比面汤更腥。\n　　时光悄无声息地流逝，青石街道上便再也看不到当年的血迹，看不到当年",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "年的我……但正因为如此，我知道想要把一个普通人的气窍打通，基本上是不可能的事情。”\n　　“但你的诸窍最终还是通了。”\n　　莫山山看着他说道：“所以我打算用你当初的方法，来医长安。”\n　　宁缺记得那些往事，但事实上直到现在他都不是很清楚，为什么自已的雪山气海会忽然开窍，自已为什么能够修行。\n　　莫山山",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "一道木桥，他从桥上走过，穿过自家宅院的侧门与偏巷，便来到了人声鼎沸的晨市里，尘世里。\n　　皇帝死了，人们还活着，战争在继续，生活也要继续，包子铺的热气像雾一样散布在街上，面馆的汤汁淋湿了青石板路上。\n　　百姓们排队买着早点，如往年间一样说着街坊里的新鲜事，当然话题里多了很多边疆的战事，有妇人在担心自",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，石磨缓缓转动，磨出精白的面粉，被送到城里，做成馒头或包子。\n　　他还看到了很多画面，于是明白了一些道理。\n　　人在世间行走，必然会留下痕迹，但随着人的继续行走，这些痕迹便会悄无声息、在所有人都没有注意到的时候，便消失不见。\n　　这不是时间的力量，而是人自已的力量。\n　　他睁开眼睛，看着晨市里穿流不",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "道：“所以我打算用你当初的方法，来医长安。”\n　　宁缺记得那些往事，但事实上直到现在他都不是很清楚，为什么自已的雪山气海会忽然开窍，自已为什么能够修行。\n　　莫山山看着天空，说道：“长安的雪山气海便是天地，我们没有能力命令天地，便只能让天地自已来做。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "述……生活的味道还是烟火气？\n　　他不知道怎样才能调动那道气息，但至少有了头绪。\n　　最重要的是，他第一次真切地感受到了那股气息。\n　　在那一刻，他与老师和很多前贤的心灵相通。\n　　所以他的心情很好。\n　　他看到街那头的莫山山。\n　　莫山山在城墙上看长安，一夜未睡，所以显得很疲惫。\n　　宁缺走到包子",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "岸走去。\n　　湖东面有一片白色的秋苇，苇丛中隐着一道木桥，他从桥上走过，穿过自家宅院的侧门与偏巷，便来到了人声鼎沸的晨市里，尘世里。\n　　皇帝死了，人们还活着，战争在继续，生活也要继续，包子铺的热气像雾一样散布在街上，面馆的汤汁淋湿了青石板路上。\n　　百姓们排队买着早点，如往年间一样说着街坊里的新鲜",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "都磨的光滑无比。\n　　他看到了一片生满了野草的荒原，看到农夫在草原间点燃了火，看到老黄牛在生田里迈着沉重的脚步，看着黑色的泥土被翻开。\n　　田地开始种稻种麦，到秋日结了金黄色的谷实，农夫开始收割打谷，石磨缓缓转动，磨出精白的面粉，被送到城里，做成馒头或包子。\n　　他还看到了很多画面，于是明白了一些道",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "上。\n　　百姓们排队买着早点，如往年间一样说着街坊里的新鲜事，当然话题里多了很多边疆的战事，有妇人在担心自已从军的子侄。\n　　宁缺走到包子铺前，听着蒸锅里水沸腾的声音，看着眼前的热雾，听着细碎而平实的话语，看着孩子撕包子纸的可爱动作，忽有所感。\n　　当年就是在这间包子铺前，他遇见道石僧，看见了荒野间",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的脚步，看着黑色的泥土被翻开。\n　　田地开始种稻种麦，到秋日结了金黄色的谷实，农夫开始收割打谷，石磨缓缓转动，磨出精白的面粉，被送到城里，做成馒头或包子。\n　　他还看到了很多画面，于是明白了一些道理。\n　　人在世间行走，必然会留下痕迹，但随着人的继续行走，这些痕迹便会悄无声息、在所有人都没有注意到的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的。”\n　　“我以前以为是永字八法解字解成习惯的原因。”\n　　宁缺看着城墙下沐浴在晨光里的城市，继续说道：“但这两天，看长安的时间看的久了，我才发现这是很自然的事情。”\n　　莫山山说道：“我只看了一夜时间，但长安城在我眼里也已经不再是城。”\n　　“是符还是阵？”\n　　“都不是，我觉得这座城是一个人。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

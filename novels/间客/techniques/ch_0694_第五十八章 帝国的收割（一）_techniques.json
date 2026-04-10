@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 694,
+  "chapter_title": "第五十八章 帝国的收割（一）",
+  "filename": "ch_0694_第五十八章 帝国的收割（一）.txt",
+  "char_count": 2267,
+  "timestamp": "2026-04-10T12:05:08.610318",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "衣已经被撕成碎片，焦虑而粗暴地挥动着手臂，大声说着一些什么。\n\n    许乐眯起了双眼，感受到了某种危险正在靠近修理厂，毫不犹豫地转身向楼内跑去，几乎同时，他身后栏杆里的警铃凄厉地响了起来。\n\n    这代表着帝**队已经找到了这处隐秘的据点。\n\n    时间急迫，修理厂内的抵抗组织成员们没有任何时",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "茬儿，恐怖的燃融高温冷酷地将大部分的抵抗战士变成了焦炭。\n\n    浓重的黑烟从废墟里升起，缓缓向着天空飘去，进入贫民区无数惘然民众的双眼，然后渐渐散开，遮蔽了天上热情而自由的阳光。\n\n    修理厂废墟深处的地道被这场恐怖的爆炸直接掀翻，裸露在充满焦糊味道的空气之中，很多具抵抗组织战士的尸例在其中",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "用的是另外的通风系统，军队带的电子气味侦测仪查不到我们，所以……战友们，放松地抽吧。”\n\n    在紧张奔跑之后的放松，让众人的心情变得不错，几名抵抗组织的老战士踩着污水吸着烟，低声哼起了小曲，一直黑沉着脸的齐大兵表情也终于松动了些。\n\n    帝国的香烟味道不错，许乐看着从指间升腾飘至身后的青烟，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "脸庞。\n\n    一枚非常规当量的导弹，从云层之外飞来，准确地命中了修理厂的大楼偏南部位，剧烈的爆炸瞬间摧毁了修理厂地面的所有建筑，强大的冲击波更是将院墙变成了无数参差不齐的水泥茬儿，恐怖的燃融高温冷酷地将大部分的抵抗战士变成了焦炭。\n\n    浓重的黑烟从废墟里升起，缓缓向着天空飘去，进入贫民区无",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "始渗出汗珠的逃亡者们，终于感觉到了一丝放松，木恩那位得力干将扯开衣领，快地喘息几声，然后取出香烟散给众人，嘎嘎笑道：\n\n    “我们已经安全，这边用的是另外的通风系统，军队带的电子气味侦测仪查不到我们，所以……战友们，放松地抽吧。”\n\n    在紧张奔跑之后的放松，让众人的心情变得不错，几名抵抗组",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "防，同时技术人员开始监测到底生了什么事。\n\n    长着一张圆脸的抵抗战士震惊地看着腕表上的波纳表，颤抖着声音说道：“东南二点四公里爆炸，传到我们这儿居然这么强……皇贼军这次用了多少当量的炸弹？”\n\n    阴暗的地下道内一片沉默，齐大兵的膝上搁着便携式工作台，幽幽的光芒把他的脸色映的格外铁青，他看",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "修理平台下方的地道入口。\n\n    “为什么要分头撤？”齐大兵有些恼怒地望着轮椅中的老人，紧握着枪械说道：“您行动不便，应该跟着我们。”\n\n    “因为我们都很重要，所以总要做好最坏的打算，帝国如果抓住你们，我这老头子也许就能溜走。”\n\n    沃斯领袖脸上的老人斑在地道幽暗光泽的映衬下显得十分明",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "约后会之期，他们用最快的度整理好了武器及行囊，然后打开了隐藏在修理平台下方的地道入口。\n\n    “为什么要分头撤？”齐大兵有些恼怒地望着轮椅中的老人，紧握着枪械说道：“您行动不便，应该跟着我们。”\n\n    “因为我们都很重要，所以总要做好最坏的打算，帝国如果抓住你们，我这老头子也许就能溜走。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "一些什么。\n\n    许乐眯起了双眼，感受到了某种危险正在靠近修理厂，毫不犹豫地转身向楼内跑去，几乎同时，他身后栏杆里的警铃凄厉地响了起来。\n\n    这代表着帝**队已经找到了这处隐秘的据点。\n\n    时间急迫，修理厂内的抵抗组织成员们没有任何时间去道离别，约后会之期，他们用最快的度整理好了武器",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "见……”他望着轮椅上那位老人真诚说道。\n\n    “会再见的。”老人微笑点头致意。\n\n    “不用担心，据点经常被情报署那帮狐狸现，我们经常转移，很有经验。木恩先生那边也不用担心，这间修理厂并没有登记在他的名下，而且我想他应该跑的比我们都快。，、\n\n    正在说话的是木恩黑帮里的得力干将，在阴沉",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "沃斯领袖脸上的老人斑在地道幽暗光泽的映衬下显得十分明亮，他温和地望着下属们，说道：“帝国从来没有抓住过我，这次也不会。关于逃跑的经验，你们这些年轻人，总没有我丰富。”\n\n    抵抗组织的战士们都笑了起来，这种生死当前却依旧轻松自信的气氛感染了一直没有说话的许乐，他默然想到，地下抵抗组织",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的燃融高温冷酷地将大部分的抵抗战士变成了焦炭。\n\n    浓重的黑烟从废墟里升起，缓缓向着天空飘去，进入贫民区无数惘然民众的双眼，然后渐渐散开，遮蔽了天上热情而自由的阳光。\n\n    修理厂废墟深处的地道被这场恐怖的爆炸直接掀翻，裸露在充满焦糊味道的空气之中，很多具抵抗组织战士的尸例在其中。微弱的呼",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "齐的水泥茬儿，恐怖的燃融高温冷酷地将大部分的抵抗战士变成了焦炭。\n\n    浓重的黑烟从废墟里升起，缓缓向着天空飘去，进入贫民区无数惘然民众的双眼，然后渐渐散开，遮蔽了天上热情而自由的阳光。\n\n    修理厂废墟深处的地道被这场恐怖的爆炸直接掀翻，裸露在充满焦糊味道的空气之中，很多具抵抗组织战士的尸",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

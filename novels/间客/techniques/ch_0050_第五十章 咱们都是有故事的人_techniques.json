@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 50,
+  "chapter_title": "第五十章 咱们都是有故事的人",
+  "filename": "ch_0050_第五十章 咱们都是有故事的人.txt",
+  "char_count": 3211,
+  "timestamp": "2026-04-10T11:53:11.050800",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "道：“怎么了？那个热血女青年没出什么事儿吧？”\n\n    “没什么事儿。从s2回来的年轻人很多，局里为什么要我们盯着她？”工作人员耸耸肩，指着梨花大学的方向问道：“一个女学生，能有多大的问题？”\n\n    “张小萌，就这样大咧咧地回来了，如果没问题，那我就是个白痴。”年轻人又打了一个呵欠。他叫施清海",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "：“真羡慕你这工作，可以天天正大光明地晒太阳。”\n\n    许乐有些意外地抬起头来，他没有想到在这个陌生的星球，陌生的地方，居然会有人主动找毫不起眼的自己说话。一抬头，只见满街青树，满天清光，一个长相英俊，身上的黑色正装却皱巴巴的年轻人正含笑看着自己。\n\n    “呃……或许是挺舒服吧。”许乐不知道",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "口水的学生是议员的儿子？”施清海笑的前仰后合，拍着大腿说道：“这个小门房有意思，有意思，现在这***社会，难得看到这么认真的人了。”\n\n    “嘘，组长你声音小点儿！”一名组员愤怒地盯着不自觉的施清海，压低声音吼道：“我们是在监控状态！不是在电影院！”\n\n    “噢，也对。”施清海醒过神来，嘿嘿",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "其是年轻的美女多……”施清海啪嗒啪嗒薄薄的嘴唇皮，眼神迷离而陶醉，“青春鲜活的**气息包围着我，怎舍离去？”\n\n    他从单人床上爬了起来，揉了揉早晨忘记洗的脸，含糊不清说道：“什么事业上升都是狗屁，老子恨不得调去宪章局，那帮孙子，天天伺候一台电脑，什么事儿都不用管，真***是养老的好地方。”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，有意思，现在这***社会，难得看到这么认真的人了。”\n\n    “嘘，组长你声音小点儿！”一名组员愤怒地盯着不自觉的施清海，压低声音吼道：“我们是在监控状态！不是在电影院！”\n\n    “噢，也对。”施清海醒过神来，嘿嘿一笑，哗的一声拉开了车门，往车下走去，说道：“梨花大学至少要盯一学期，太无聊了",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "如果不是有些厌世，那便是把什么事情都看的有些淡。\n\n    一名工作人员摘下那名年轻人的耳机，苦笑着说道：“组长，就算你懒得监听，可是也不要用公家的东西来听音乐好不好？不然让主任知道了，你又要挨一顿骂。”\n\n    年轻人睁开眼睛打了个呵欠，漂亮的脸上带着一丝宿醉后的疲惫，喃喃说道：“这么好的东西，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "如果让许乐看到这个年轻人的作派，一定会想到那个同样在任何境况下都显得懒洋洋的老板大叔，能在这样紧张忙碌的工作环境里，依然保持着如此的状态，如果不是有些厌世，那便是把什么事情都看的有些淡。\n\n    一名工作人员摘下那名年轻人的耳机，苦笑着说道：“组长，就算你懒得监听，可是也不要用公家的东西来听",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "堕落竟是如此之快——一个整日沉迷在酒精和女人间的调查局官员，便等于是放弃了自己的前途。\n\n    “以后别再喝这么多酒了，那些女人关了灯有啥区别？用得着每天换一个？”施清海的下属头痛说道：“别总得罪上司，不然您不早升上去了，咱们也能跟着落个好。”\n\n    “少跟小爷我扯淡，跟着我的人现在谁没升？小",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "“要来一根儿吗？”施清海微笑着递过一枝加长过滤嘴的香烟。许乐本来想拒绝，但忽然想到老板大叔从来不离手的烟卷，忽然心头一动，接了过来，凑到打火机上点燃，说了一声谢谢。\n\n    隔着梨花大学的大铁门，两个人有些不知滋味地抽起了香烟，就在这满天阳光之中，似乎都有无穷的心事。施清海将烟头扔到地上",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "彩起来，最后变成了难以抑止的大笑声音。\n\n    “门房？笑死小爷了……他知不知道那个被他要求擦掉口水的学生是议员的儿子？”施清海笑的前仰后合，拍着大腿说道：“这个小门房有意思，有意思，现在这***社会，难得看到这么认真的人了。”\n\n    “嘘，组长你声音小点儿！”一名组员愤怒地盯着不自觉的施清海",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "他并不客气。\n\n    清扫完路面，许乐端了一张椅子，坐到了大门的旁边，忠实地执行起了自己的工作，在温暖的阳光下眯着眼睛，听着身旁的监控仪时不时响起芯片审核通过的嘀嘀响声，舒服地似乎快要睡着了，其实心里依然想着自己的旁听证究竟什么时候能够办下来，什么时候能进图书馆，什么时候又能去那些实验场参观一下？",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

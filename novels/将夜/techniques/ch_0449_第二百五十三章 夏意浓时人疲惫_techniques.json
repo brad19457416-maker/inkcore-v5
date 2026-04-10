@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 449,
+  "chapter_title": "第二百五十三章 夏意浓时人疲惫",
+  "filename": "ch_0449_第二百五十三章 夏意浓时人疲惫.txt",
+  "char_count": 3441,
+  "timestamp": "2026-04-10T12:11:21.807830",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "服侍，所以管事婢女大多都在宅院偏僻处活动，花厅书房一带依然清净。\n　　日子缓慢的流淌着，盛夏愈盛，湖风渐燥，蝉鸣愈噪，雁鸣湖畔宅院里依然是三个人吃饭，两个人生活。\n　　叶红鱼依然像个幽魂般，终日呆在幽静的客房里。\n　　某日宁缺从书院回来，冲了个凉水澡，向正替自己擦拭身子的桑桑问了两句，知道叶红鱼今天",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "墨的天边，眉头渐渐蹙了起来。\n　　他在思考一些问题。\n　　书院后山的人们为什么要让叶红鱼知道唐小棠的存在？难道说真是嚣张到了极点的宣告？还是说提前通知西陵一声表示尊重？\n　　想来想去，想到手中的酽茶渐凉，宁缺依然想不明白，直到最后，他忽然想明白了一件事情――后山里的人们，无论老师还是大师兄二师兄，基",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "边花架旁，端着茶壶看着红云渐墨的天边，眉头渐渐蹙了起来。\n　　他在思考一些问题。\n　　书院后山的人们为什么要让叶红鱼知道唐小棠的存在？难道说真是嚣张到了极点的宣告？还是说提前通知西陵一声表示尊重？\n　　想来想去，想到手中的酽茶渐凉，宁缺依然想不明白，直到最后，他忽然想明白了一件事情――后山里的人们，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "做了一次客，在参观完湖畔宅院后，学士夫妇二人很是满意宁缺的手笔，发现宅子里连个婢女都没有，更是高兴，心想自家女儿极受宠爱，今后的日子应该会很幸福才是。\n　　离开之前，曾静夫人抱着桑桑好一番感伤，把宁缺好生表扬了一番，叮嘱她多回学士府，第二天便送了十几个管事丫环过来。\n　　看着院里那些面容普通，神情木",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "跑，我都不怕她，你已经是知命境的家伙，居然还这么怕她，真的很丢脸。”\n　　自幼在与雪原巨狼和热海凶鱼战斗中长大的小姑娘，从脚上的鞋到臀后摇荡的黑辫，每个细微处都充满了乐观的战斗精神，她很难理解陈皮皮的恐惧从何而来。\n　　陈皮皮低头想望向自己露出前襟的脚尖，却只能看见自己圆鼓鼓的肚子，不由一阵神伤，沉",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "在窗边花架旁，端着茶壶看着红云渐墨的天边，眉头渐渐蹙了起来。\n　　他在思考一些问题。\n　　书院后山的人们为什么要让叶红鱼知道唐小棠的存在？难道说真是嚣张到了极点的宣告？还是说提前通知西陵一声表示尊重？\n　　想来想去，想到手中的酽茶渐凉，宁缺依然想不明白，直到最后，他忽然想明白了一件事情――后山里的人",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "需要证据，只需要神殿一句话。”\n　　叶红鱼说道：“西陵神殿或许不在夫子的眼中，但无数虔诚信徒的议论与愤怒，便是夫子也不好处理，总不能把世人全部都给杀了。”\n　　“如果神殿真的让世人相信书院收留魔宗余孽，那么昨天你对我说的战争便会提前到来，而这肯定不是神殿想看到的。”\n　　宁缺看着她漂亮的眼睛，忽然想",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "陈皮皮头也不回，挥手说道：“以后再叙，以后再叙。”\n　　宁缺感慨说道：“看来他真的是很怕你，连日后再叙这种他最喜欢的无耻的双关调戏话都不敢讲。”\n　　叶红鱼懒得理会这个无耻的家伙。\n　　她要说的话与陈皮皮无关，更没有什么江湖小儿女的情趣，目光微寒说道：“书院居然会收留魔宗余孽。”\n　　宁缺早就",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "情请你也当不知道吧。”\n　　叶红鱼站在他身旁，看着那幕有趣的画面，眼眸里没有流露出一丝笑意，脸色十分凝重，并且显得越来越冷。\n　　“如果你知道陈胖子的身世，那么你就应该能想到……道门一旦知道这件事情，世间不知道要死多少人。”\n　　……\n　　……\n　　雁鸣湖畔没有暴发一场新生代强者的大混战，陈皮皮和唐",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "向木栈走去。\n　　宁缺被桑桑在揭掉老底之后，虽然自觉地与陈皮皮站成了狼狈的姿态，依然难免老羞成怒，以担心的理由把她赶去陪唐小棠。\n　　湖堤柳荫下只剩下了三个人。\n　　陈皮皮看着逐渐远去的唐小棠，无奈喊道：“不至于因为这件事情生气吧？”\n　　唐小棠没有转身，清脆明亮的声音在湖水上回荡。\n　　“我生气的",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "陈皮皮低头想望向自己露出前襟的脚尖，却只能看见自己圆鼓鼓的肚子，不由一阵神伤，沉默很长时间后低声说道：“从小到大，我的境界一直都比她高，但真打起架来，我永远打不过她。”\n　　宁缺同情看了他一眼，问道：“你不知道她在我这儿？”\n　　陈皮皮看了一眼柳荫下的叶红鱼，恼怒说道：“如果知道我怎么会过来。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "凉水澡，向正替自己擦拭身子的桑桑问了两句，知道叶红鱼今天竟是连晚饭都没有吃，不由神情渐异。\n　　宁缺一向佩服甚至敬畏这个少女道痴，在他看来，整个世界毁灭的时候，大概也只有像自己和道痴这样的人才能活着，而且他不认为自己和道痴之间有任何友情之类的东西，所以丝毫不关心她的死活。\n　　但他不能眼睁睁看着她就",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的手笔，发现宅子里连个婢女都没有，更是高兴，心想自家女儿极受宠爱，今后的日子应该会很幸福才是。\n　　离开之前，曾静夫人抱着桑桑好一番感伤，把宁缺好生表扬了一番，叮嘱她多回学士府，第二天便送了十几个管事丫环过来。\n　　看着院里那些面容普通，神情木讷的婢女，宁缺哪里猜不到学士夫人在想什么，不禁有些好笑，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "遭，大概只是简单地想通过叶红鱼，告诉陈皮皮的家人吧。\n　　……\n　　……\n　　此后数日，雁鸣湖畔一片安静，落了两场雨，暑意被腰斩了几分。\n　　叶红鱼整日都把自己关在客房里，除了吃饭的时候，基本上看不到人影，也不知道她在那间幽暗的客房里做什么。\n　　当她坐在桌畔捧起饭碗时，变得愈发沉默，宁缺更是注意到",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "二人很是满意宁缺的手笔，发现宅子里连个婢女都没有，更是高兴，心想自家女儿极受宠爱，今后的日子应该会很幸福才是。\n　　离开之前，曾静夫人抱着桑桑好一番感伤，把宁缺好生表扬了一番，叮嘱她多回学士府，第二天便送了十几个管事丫环过来。\n　　看着院里那些面容普通，神情木讷的婢女，宁缺哪里猜不到学士夫人在想什么",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 354,
+  "chapter_title": "第一百五十九章 书院两条路线的战斗（下）",
+  "filename": "ch_0354_第一百五十九章 书院两条路线的战斗（下）.txt",
+  "char_count": 3358,
+  "timestamp": "2026-04-10T12:11:21.714057",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "说道：“师兄你让大家不在意你与莫山山的关系，但这关系已经存在，所以师弟师妹们的看法在我看来都没有任何意义。”\n　　大师兄平静说道：“好吧，师弟师妹的看法确实不应该牵扯进来，但我的看法呢？”\n　　“我不知道师兄你为什么会有这种看法。”二师兄看着他的眼睛问道：“我很想知道，为什么在荒原上你要认书痴为义妹",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "大师兄平静说道：“好吧，师弟师妹的看法确实不应该牵扯进来，但我的看法呢？”\n　　“我不知道师兄你为什么会有这种看法。”二师兄看着他的眼睛问道：“我很想知道，为什么在荒原上你要认书痴为义妹，是不是那时候你就在准备做这件事情？”\n　　大师兄笑了笑，说道：“我只是觉得山山这姑娘确实很好，是小师弟的良配",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "兄西门不惑轻拔琴弦，九师兄北宫未央用手指轻敲箫管，淙淙琴声在屋内如流水般响起，随着音律同时响起的还有众人热烈的讨论声。\n　　“宁缺和云麾将军家那位司徒小姐走的亲密，宫里如果要指婚，大约便是她了，不过老祭酒颇为欣赏宁缺的书法，那么金无彩也有可能，可如果再仔细往最早时候看去，李渔殿下和他也有不少来往，便",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第一百五十九章 书院两条路线的战斗（下）\n　　仿佛是为了给大师兄那句琴瑟和谐的话做注脚，铮的一声，十师兄西门不惑轻拔琴弦，九师兄北宫未央用手指轻敲箫管，淙淙琴声在屋内如流水般响起，随着音律同时响起的还有众人热烈的讨论声。\n　　“宁",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "师兄的意思，只不过是避免当众驳了陛下颜面不好看，所以才想抢在宫里指婚之前替小师弟把婚事定下，说起来后山这么多年竟没有办过喜事，也该轮着一场。”\n　　“不过大师兄说的那位书痴姑娘我可没有瞧见，不知道究竟是好是坏，小师弟是个孤儿，我们这些做师兄的应该多替他想想才是。她既然是大河国来的人，想必住在礼部那边",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "院后山的人们从来没有见过大师兄和二师兄在某件事情上产生分歧甚至是争论，更何况如今争论似乎已经发展到了愤怒的相互指责，更是惊的众人鸦雀无声，别说开口说话，便是连呼吸都不敢让声音变大一些。\n　　一片幽静，只有柔软的毛笔尖轻轻滑过纸面的声音。\n　　所有人的目光都望向房间角落里安静描着簪花小楷的三师姐，书院",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "这些痴人们说着痴话，大师兄摇头不已。\n　　七师姐把矮几下嗑剩的瓜子皮扫到小篓里，抬头看着他神情，笑着说道：“我看书痴不错，小脸蛋儿挺圆的，娶进门来天天掐两把应该舒服。”\n　　陈皮皮听着这话，想着这些年来在七师姐纤纤玉指下所受的折磨，下意识里抬起手来想要捂住自己胖乎乎的脸颊，却忘了手上有伤，痛的眉头快",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "我也觉得桑桑挺好。”\n　　大师兄神情有些复杂地笑了笑，看着他说道：“你又觉得她哪里好？”\n　　陈皮皮思忖片刻后认真说道：“我说不出来，但我觉得她哪里都好。”\n　　大师兄微微一怔，然后摇了摇头喃喃叹道：“哪里都好，哪里都好。”\n　　书院后山自然是以大师兄为首，他的性情温和而干净，所有师弟师妹都愿意亲近",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "人。”\n　　屋内无比安静，只能听到柔软的毛笔尖轻轻刷过纸张的声音。就在这片安静中，忽然响起陈皮皮有些紧张不安的声音：“我也觉得桑桑挺好。”\n　　大师兄神情有些复杂地笑了笑，看着他说道：“你又觉得她哪里好？”\n　　陈皮皮思忖片刻后认真说道：“我说不出来，但我觉得她哪里都好。”\n　　大师兄微微一怔，然后",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "师弟如果一定要娶妻，那么有更好的对象。”\n　　大师兄静静看着他，问道：“那又会是谁呢？”\n　　二师兄缓缓抬起头来，直视他的眼睛，缓慢而坚定说道：“桑桑。”\n　　……\n　　……\n　　书院后山有好几位师兄都不知道桑桑是谁，还是问了陈皮皮才知道，原来二师兄眼中比书痴更好的选择对象，居然是宁缺的小侍女。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "铮的一声，十师兄西门不惑轻拔琴弦，九师兄北宫未央用手指轻敲箫管，淙淙琴声在屋内如流水般响起，随着音律同时响起的还有众人热烈的讨论声。\n　　“宁缺和云麾将军家那位司徒小姐走的亲密，宫里如果要指婚，大约便是她了，不过老祭酒颇为欣赏宁缺的书法，那么金无彩也有可能，可如果再仔细往最早时候看去，李渔殿下和他也",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "厌动，无论何时都不怎么说话，也很少与同门们来往，但大家知道就连夫子都极为赞许她的渊博学识和眼光，所以期待她能化解眼下的僵局。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "以往后山里的众人面对二位师兄时倒也简单，反正大家都听二师兄的，然后二师兄必然是要听大师兄的，却从来没有遇见过今天这种局面。\n　　“我觉得二师兄说的好像也有些道理，虽说我并不明白捧灰是怎么回事。”\n　　“那难道大师兄说的就没有道理了？”\n　　“话不是这么说，二位师兄说的都有道理，我心境不够清明，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

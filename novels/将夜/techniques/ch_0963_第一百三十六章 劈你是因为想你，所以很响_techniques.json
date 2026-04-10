@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 963,
+  "chapter_title": "第一百三十六章 劈你是因为想你，所以很响",
+  "filename": "ch_0963_第一百三十六章 劈你是因为想你，所以很响.txt",
+  "char_count": 3388,
+  "timestamp": "2026-04-10T12:11:27.606452",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "生的意识碎片在发难。\n　　三天前，他承受不住痛苦的时候，想要用念力把莲生的意识碎片镇压，但就在那时，天空里那把斧子落了下来。\n　　最开始的那个夜晚，他虽然没有弄明白事情的真相，但于意识模糊间，本能里想要把莲生的意识碎片毁掉，也是那时，天空响起钟声。\n　　他没有能力同时抵抗两道巨斧，他想试试，能不能抵",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "生的意识碎片镇压，但就在那时，天空里那把斧子落了下来。\n　　最开始的那个夜晚，他虽然没有弄明白事情的真相，但于意识模糊间，本能里想要把莲生的意识碎片毁掉，也是那时，天空响起钟声。\n　　他没有能力同时抵抗两道巨斧，他想试试，能不能抵抗住脑袋里这把斧。\n　　“你这么不停地挣扎扭动，知道的人知道你在难受，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "地颤抖，忍受着越来越可怕的痛苦，双手握的极紧，指甲深陷进掌心。\n　　“你他妈的到底要什么！”他痛苦而愤怒地喊道。\n　　影子忽然静止，变成一片幽影，向着四周散开，最终把整间禅室都占据，无论是烛光，还是窗外的星光，落在墙壁和地面上，都是暗的。\n　　在这片幽暗的世界里，宁缺看到了魔宗山腹里那些悬于空中石梁",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "几张符纸，准备稍后使用。\n　　其实他很清楚，无论是铁刀还是神符，对墙上的影子和那两道巨斧，都没有任何意义，因为这是一场非普通意义的劫难。\n　　但这样做，能够让他稍微安心一些。\n　　没有过多长时间，白塔寺里钟声再起，寺里的僧人依然没有听到，能够听到这道钟声的只有宁缺。\n　　他看着墙上的影子，说道：“来",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "。\n　　“你他妈的到底要什么！”他痛苦而愤怒地喊道。\n　　影子忽然静止，变成一片幽影，向着四周散开，最终把整间禅室都占据，无论是烛光，还是窗外的星光，落在墙壁和地面上，都是暗的。\n　　在这片幽暗的世界里，宁缺看到了魔宗山腹里那些悬于空中石梁，看到那座无字碑，看到白骨的山，看到山里那位干瘦如鬼的老僧。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "缺一天不出来，他们便会砸一天，他们相信，总有一天能把这张棋盘砸烂。\n　　秋风微起，大师兄来到梨树下，众人纷纷上前行礼。\n　　大师兄接过铁锤，说道：“你歇歇，我来试一锤。”\n　　铁锤落下，烟尘大作，其声如雷。\n　　西门不惑赞叹道：“师兄不愧是师兄，这声音多响。”\n　　北宫未央看着棋盘，失望说道：“不一",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，所以很响\n　　回到小院，坐在树下静思了三天三夜，宁缺觉得自己的精神已经完全回复，起身向外走去，桑桑说道：“如果搞不明白，何必去受苦？”\n　　宁缺没有回头，说道：“已经受了这么多苦，当然要弄明白。”\n　　来到白塔寺，静阅佛经和前代高僧笔记，待暮色至时，他点燃了桌上的烛火，这些程度他已经很熟悉，做的很",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "高僧笔记，待暮色至时，他点燃了桌上的烛火，这些程度他已经很熟悉，做的很自然。\n　　烛火微亮，影子重新出现在墙上。\n　　他走到墙前，盘膝坐下，想了想，又抽出铁刀放在身旁的地面上，同时从袖中取出几张符纸，准备稍后使用。\n　　其实他很清楚，无论是铁刀还是神符，对墙上的影子和那两道巨斧，都没有任何意义，因为",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "：“如果搞不明白，何必去受苦？”\n　　宁缺没有回头，说道：“已经受了这么多苦，当然要弄明白。”\n　　来到白塔寺，静阅佛经和前代高僧笔记，待暮色至时，他点燃了桌上的烛火，这些程度他已经很熟悉，做的很自然。\n　　烛火微亮，影子重新出现在墙上。\n　　他走到墙前，盘膝坐下，想了想，又抽出铁刀放在身旁的地面上",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "子站起身来，开始狂暴地无声嘶吼，开始挣扎。\n　　那把巨斧再次在宁缺的脑海里疯狂地挥动。\n　　宁缺脸色骤然苍白，额角青筋随着斧落的节奏不停浮现，紧咬的牙齿开始渗血，但他始终保持着盘膝的姿式，不肯投降。\n　　现在他已经非常清楚，墙上的影子是自己的，也是莲生的，脑袋里那把巨斧，其实便是莲生的意识碎片在发难",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "烛火微亮，影子重新出现在墙上。\n　　他走到墙前，盘膝坐下，想了想，又抽出铁刀放在身旁的地面上，同时从袖中取出几张符纸，准备稍后使用。\n　　其实他很清楚，无论是铁刀还是神符，对墙上的影子和那两道巨斧，都没有任何意义，因为这是一场非普通意义的劫难。\n　　但这样做，能够让他稍微安心一些。\n　　没有过",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "不管这是怎么回事，我都不想再忍下去了，趁着天上那把斧子没落下，我还清醒，来最后问你一次。”\n　　影子缓缓站起身来，望向上方。\n　　“如果你还是不肯给我答案，那么……我或者只能去死了。”\n　　宁缺惨笑说道：“我真的顶不住了。”\n　　影子忽然望向他。\n　　影子没有眼睛，但宁缺知道他是在看自己。\n　　宁缺",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

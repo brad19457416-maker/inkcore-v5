@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 570,
+  "chapter_title": "第一百零八章 东北偏北(八)",
+  "filename": "ch_0570_第一百零八章 东北偏北(八).txt",
+  "char_count": 3415,
+  "timestamp": "2026-04-10T12:05:08.549636",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的弹药储备。”许乐低头望着军靴旁的雪块，轻声说道。\n\n    “其实我的心里一直……咳……咳……有个疑问。”栗明团长咳了两声，眉头痛苦地皱了起来，捂着嘴唇说道：“一个整编帝国大队，兵力三倍于我，几十台甚至上百台狼式机甲，看他们那种疯狂自杀的劲头，总不应该还在珍惜羽毛，我总觉得他们是在等什么。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "什么关系？”\n\n    易司令花眉一挑，望着指挥厅里的青年军官们说道：“当年我们在帝国口星上碰见火山爆发，电离层变异，仗还是一样要打。难道说现在的部队，没有宪章电脑当保姆，就变成了没用的娃娃？如果这样，将来打到帝国本土怎么办？”\n\n    这位德高望重的将军，面露不悦之色问道：“还是说你们以为帝国人",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "能有几名联邦年轻人活下来。\n\n    他听到身后传来稳定的脚步声，睁开的双眼后未曾回头，微低着头抱歉说道：“还没弃修好，但一定可以修好，可是，我没有办法给你时再。”\n\n    “我不是想问这个。”青龙山先遣团团长栗明微笑回答道。\n\n    他一屁股坐到了许乐身边的雪堆上，喘了两口粗气，揉了揉枯稿的花",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "青龙山部队吃掉。\n\n    “对面是一个整编帝国大队，我估计那位安布里老将军所收拢的残军中，最强悍的战斗力量，都集结在这片雪原四周。”\n\n    栗明的目光穿透阵地上的风雪，直射远处的帝国阵地，幽幽说道：\n\n    “仗打了两天两夜，我们还能活下来，其实全部靠的就是电磁束炸弹。他们的机甲群一直不敢做",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "长的分析，很想嘲讽对面那些帝国人想死着急了，然而心里却不期然生起淡淡寒意，待己都如此残忍疯狂的帝队，日后联邦若进攻帝国本土，将会遇到多么恐怖的攻击？\n\n    似乎看出他此时的情绪，栗明团长不屑说道：“不要把帝国崽子们想的太可怕，如果他们现在面临的情况换成咱们，估计选择都差不多。”\n\n    许乐思",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "这种绝望。你们的到来给了我们希望，这就足够了。”\n\n    但必须抓紧时间。”许乐看了一眼雪原上的烈风黯日，担忧说道：“帝国人这时候可能还在睡觉，但白天的时候一定会发起最凶猛的进攻。”\n\n    栗明听懂了他的意思，帝国远征军昨日看着两台联邦机甲闯入战场，自然会想到联邦的支援部队应该会随后到来，肯定",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "着星球上的气候异变，不仅仅是在计算地磁暴和暴风雪会持续多久，它似乎更多的是在分析，为什么这颗星球上会出现这样的问题小＿说txt天'堂",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "咱们，估计选择都差不多。”\n\n    许乐思考片刻，点头承认了这个推论，身在异国他乡必死之地，身前有无数装备绝对占优源源不断的敌人，身后只有浩翰太空及漫长而不可期的归家遥旅，还没有战舰，这是一种何其绝望的感受，如果换成是自己，想必也会如此反应。\n\n    距离地面硷绍，米的太空中，由十一艘轻羽级战舰",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "然来的晚。许乐大口吞食着温热的御食营养餐，微眯着的眼睛下方是疲倦绘成的阴影，这一夜他与商秋未曾阖眼，紧张地进行着修复工作，那些黑夜里不曾间断的零星枪炮声，就如同不规律的鼓点般干扰着他，如是种种，因为机甲战而疲惫的他，精神显得更加不济。\n\n    草草填饱肚子，随手抓起身边一把冷雪在脸上用力地擦拭了两",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "草草填饱肚子，随手抓起身边一把冷雪在脸上用力地擦拭了两下，感觉精神似乎好了些，许乐并没有马上继续自己的机修工作，而是闭上了眼睛，默默运行着体内那股力量，让那些酸痛乏苦的肌肉双纤维舒张扩展，以尽快恢复精神。\n\n    商秋撑不住了，合衣躺在椅上小憩，他却不想给自己太多奢侈的休息时间。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "网络？”\n\n    军官们被刮的低下头来，快速向属于自己的工作台走去，通过宪章电脑开始进行战术推演，同时将司令员的命令，发给星球地表上的联邦各级部队。\n\n    “刚刚收到十七师回报，他们的一团已经于两天之前册发，在两个小时前进入了地磁暴区域，失去了联系，状况不明。”一名军官表情焦虑地走了过来，低声",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "”\n\n    易司令负手转身，冷冷望着脚平那颗星球，盯着星球北端那片刺眼的白色，沉默不语，似乎根本不担心那支被困的青龙山部队和后续支援踪迹全无的十七师一团，至于最先前去支援的许乐……也没能让他的表情有丝毫变化。\n\n    地面上那位帝国老将军试图利用大自然的威力，寻求一个壮烈的结局，然而对于这位联邦",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "球地表上的联邦各级部队。\n\n    “刚刚收到十七师回报，他们的一团已经于两天之前册发，在两个小时前进入了地磁暴区域，失去了联系，状况不明。”一名军官表情焦虑地走了过来，低声汇报道。\n\n    “很好，于澄海的部队，果然还有一些老十七师的味道，这种时候如果还要等着司令部的命令，那真是愚蠢到了极点。但",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "局，然而对于这位联邦老将来说，这又何尝不是一次进入帝国本土的绝妙演习机会？\n\n    指挥大厅里一片安静，只有微弱的电流声和手指摩擦触式光幕的声音响起，谁也没有注意到，在环形巨幅光幕的一角，联邦中央电脑一直在快速地计算着星球上的气候异变，不仅仅是在计算地磁暴和暴风雪会持续多久，它似乎更多的是在分析，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "机会。”易司令目光微垂，继续说道：“，告诉杜少卿和于澄海，他们两个师离的最近，动作不要太慢，也不要太温柔，把拳头一起砸下去，最后连油皮都不要蹭掉一块。”\n\n    “明白。”他身边的参谋军官快速地做着记录，看着微型工作光幕上的数据提示，有些犹豫提醒道：“根据宪章电脑的计算，地磁暴的延续时间大概在十天",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

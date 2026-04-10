@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 422,
+  "chapter_title": "第二百二十七章 雨街，燃烧的人",
+  "filename": "ch_0422_第二百二十七章 雨街，燃烧的人.txt",
+  "char_count": 3458,
+  "timestamp": "2026-04-10T12:11:21.761726",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "没有发现任何问题，点了点头，裨将于水主回头望向檐下那些面露紧张之色的军卒和官员，神情冷峻的挥了挥手，众人知道今天终于结束了，面露轻松之色散去，各自回家。\n　　站在西城门司衙外的雨街上，黄兴微倾雨伞，抬头看着自天而降的雨丝，觉得自己的双腿有些疲惫，微涩说道：“终究还是老了。”\n　　于水主说道：“大人还",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的是西城门。\n　　巡查西城门完毕，黄兴确认没有发现任何问题，点了点头，裨将于水主回头望向檐下那些面露紧张之色的军卒和官员，神情冷峻的挥了挥手，众人知道今天终于结束了，面露轻松之色散去，各自回家。\n　　站在西城门司衙外的雨街上，黄兴微倾雨伞，抬头看着自天而降的雨丝，觉得自己的双腿有些疲惫，微涩说道：“",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "郎一职以来，每日晨间和暮时，必然会选择一处城门进行巡查，除了于水主之外，不带任何下属官员，轻车简从，风雨无阻，如此多年来没有哪一日不如此。\n　　长安诸城门处的人们，早已经习惯了眼前这幕画面，只有当这二位大人结束完巡查之后，他们才能离开，这已经形成了一种不成文的规定。\n　　按照过往这些年来的规矩，今天",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "心情，并不像表面那般轻松。\n　　于水主撑着伞疾步行走，脸上的神情越来越冷峻，越来越肃厉，心头的恐惧被愤怒所替代，他只想快些报与亲王殿下知晓，当年那件事情果然还有漏网之鱼。\n　　脚步声忽然微乱。\n　　他的左脚踏入一片水洼，发出的啪声变得绵长沉闷很多。\n　　因为他这只脚再也无法抬起来。\n　　他的脚掉在了",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，不想回忆起自己在那件事情里所扮演的角色，也许是因为内疚惭愧，也许是因为恐惧。\n　　于水主不明白大人为什么今天会忽然发此感慨，低声说道：“按朝廷规矩，应该是由东城门入城，后来这件事情也被拿出来作了罪证。”\n　　黄兴叹息一声，没有再说话。\n　　暮色里的雨越下越大，行人早已各自归家，城门司的下属官员大概",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "出来。\n　　另一蓬火苗，从他已显老态的脸颊皱纹里喷吐出来。\n　　无数蓬火苗，从他身体最深处喷吐出来，瞬间融化了他的头发眉毛眼睫皮肤脂肪肌肉骨骼，燃烧了一切。\n　　……\n　　……\n　　雨夜的长街，昏暗湿漉。\n　　雨伞下的人在燃烧。\n　　片刻后，油纸伞从空中飘落，落在积雨的街道上。\n　　伞下的黄兴，已经",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "走来的黑衣年轻人，眉头缓缓挑起。\n　　他只是觉得这名浑身湿透的黑衣年轻人，有些奇怪，并没有查觉到任何危险的气息，他也不认为会有任何事情发生。\n　　因为这里是治安良好的长安城，这里是戒备森严的西城门，无论是那些胆大妄为的娘子军，还是那些强大的修行者，面对着大唐帝国的威严与强大的军事力量，都会变得卑微而",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "。\n　　站在西城门司衙外的雨街上，黄兴微倾雨伞，抬头看着自天而降的雨丝，觉得自己的双腿有些疲惫，微涩说道：“终究还是老了。”\n　　于水主说道：“大人还能再为朝廷效力三十年。”\n　　黄兴问道：“这些年天天陪着我四处巡视城门，每日都要踩着夜色归府，弟妹早有不满，着实辛苦你了。”\n　　于水主沉默片刻后回答",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "也已经到了头，再难向上晋升，不过至少荣华富贵已有。\n　　黄兴看着微雨里的长安城，沉默很长时间后，忽然感慨说道：“当年我们随将军回长安，似乎就是入的西城门。”\n　　于水主神情微凛。\n　　他们二人每天清晨黄昏巡视城门时，谈的都是府中闲事，朝中趣事，也曾经回忆过曾经的军旅生涯，然而却从来没有提到过那位将军",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "生。\n　　那名年轻人走过二人身前时，注意到了黄兴身上穿的官服以及于水主身上穿的轻甲，行了个礼，然后便走出了长街。\n　　黄兴注意到，那名穿着黑衣的年轻人行礼的时候，脸上的神情并不是敬畏，而是带着很复杂的情绪，笑着说道：“我们看这淋雨的年轻人奇怪，想来他看我们这两个站在雨里沉默的官员，也会觉得奇怪。”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "上，他的衣服早已湿透，雨水顺着额头垂下的几络发丝滑落。\n　　黄兴看着向自己二人走来的黑衣年轻人，眉头缓缓挑起。\n　　他只是觉得这名浑身湿透的黑衣年轻人，有些奇怪，并没有查觉到任何危险的气息，他也不认为会有任何事情发生。\n　　因为这里是治安良好的长安城，这里是戒备森严的西城门，无论是那些胆大妄为的娘子",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "，即便是把命送掉也是理所当然。”\n　　如今这二位长安城著名的清廉官员，当年曾经是军营里的同袍，他们的命运因为当年的一件惨事而改变，也紧紧联系在了一起。\n　　当年如果不是黄兴狠下决心，最先带着于水主投靠了亲王殿下李沛言，说不定早就已经随那位将军死去，即便不死，大概也会被朝廷冷落闲放散置，没有亲王殿下的",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "他们二人每天清晨黄昏巡视城门时，谈的都是府中闲事，朝中趣事，也曾经回忆过曾经的军旅生涯，然而却从来没有提到过那位将军。\n　　因为二人不想记起当年那件惨事，不想回忆起自己在那件事情里所扮演的角色，也许是因为内疚惭愧，也许是因为恐惧。\n　　于水主不明白大人为什么今天会忽然发此感慨，低声说道：“按朝",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "黄兴叹息一声，没有再说话。\n　　暮色里的雨越下越大，行人早已各自归家，城门司的下属官员大概已经回到了温暖的府中，守夜的军卒躲在城门洞或值房里，湿漉的街上空旷安静，只有雨声伴着二人沉默回忆着当年。\n　　两辆马车在雨街两头沉默等待着，那是二人府上派来的马车，府中的管事早已习惯了大人们的规律，没有来催他们",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

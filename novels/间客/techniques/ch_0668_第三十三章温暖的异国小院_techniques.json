@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 668,
+  "chapter_title": "第三十三章温暖的异国小院",
+  "filename": "ch_0668_第三十三章温暖的异国小院.txt",
+  "char_count": 3346,
+  "timestamp": "2026-04-10T12:05:08.565326",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "一点儿。”\n\n    “我又不是联邦人，不怕的黑青年回答道。\n\n    “不怕？如果让军部抓着你这个逃亡贵族，只怕你的下场要比那个。联邦人惨很多。”苏珊大妈粗声说道：“算了，你就暂时在这里呆一段时再吧，；，凶户籍杳的向来不严。四大市场里不知道藏了多少盅她半会儿也查不到你\n\n    “你就说是我家的远",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "有想到自己醒来后，迎接自己的是一碗温暖的清粥，一个外表凶恶内心无比温暖善良的大婶。\n\n    这真是人生最大的幸运。\n\n    他无比感激这位叫苏珊的帝国妇人，然而在某些问题上，他不得不欺骗对方，默认了对方的猜测。假扮一个被帝国政权通辑的可怜年轻贵族。\n\n    善良的苏珊大妈因为她的过去，因为她的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "片？\n\n    许乐皱紧的眉头渐渐舒展，眼睛却眯了起来，缓慢挪动身体半倚在窗台上，看着阁楼外那轮应该陌生其实和联邦月亮差不多的月亮，心思不知道飘去了何处。\n\n    阁楼下方破落小院里传来试机的声音，大妈好像正在播放一部战争大片，小院门口悬挂的那个金属盒。应该就是帝国免费放给所有家庭的芯片监控设备。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "着。菜刀在塑料菜板上出清脆的砍朵声，带着一丝恼火咕哝道：“可贵族有什么用？又不能当饭吃，只知道腔调要风雅，却连个螺丝都不会上。”\n\n    白天在菜场里购买的廉价青菜。被老旧的菜刀切成碎末，扔进锅里的白粥，配上几片即食肉，混上一勺黄褐色的辛味料，一锅热气腾腾，勾人食欲的杂涂锅便大功告成。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "不能吃爹吃妈。总要学点儿谋生的本事吧？”\n\n    看着苏珊大妈如一只移动旋转的水桶般转出阁楼，听着沉重的脚步声在下方响起，然后又听到厨房里熟悉亲切的咒骂声，许乐揉了揉黑色的头，心中生出无尽温暖与感激。\n\n    在昏迷中他做了很多梦，很多噩梦，其中最恐惧的梦境正是醒来后。正被无数帝国士兵冰冷的枪口",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "涉贵族叛乱，收藏逃犯的勇气，当时她的第一反应就是报警。然而就在此时，那个昏迷的黑年轻人短暂的醒来了一瞬间。\n\n    就是那一瞬间，那双眯着的小眼睛里流露出惹人无尽怜惜的虚弱，可亲的诚挚与真诚的恳求。\n\n    不知当时苏珊大妈的内心经历了怎样艰难的挣扎，不知道她是不是从这个可怜的贵族逃犯身上看到了",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "羽鸡和红枯子。对补血有好处，你都挑出来吃了！”\n\n    苏珊大妈恶声恶气地将小钵扔到黑青年的身前，说道：“赶紧把你这娘们儿身体养好，然后给我有多远滚多远\n\n    黑青年捧着有些烫的食钵。沉默了很长时间，才缓缓拿起筷子，大口大口地进餐。\n\n    将钵里的食物一扫而光，他抬起头望向一直靠着廊柱的苏",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "有注意过的问题。\n\n    帝国过往的阶层七分异常森严，皇族，贵族，平民，贱民，奴隶，构成了这个畸形社会的层层架构。而要区分一个人是不是贵族，有一个。不怎么可靠却在民间广为流传的方法：那就是看这个人头的颜色，眼珠的颜色，头与眼珠的颜色越靠近黑色，这名帝国人的身份便越尊贵，\n\n    许乐想起怀草诗那",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "时间，忍不住长长地叹了口气，从冰箱里取出预备周末儿子吃的黑羽鸡块和红挂子，扔进了锅里。\n\n    “以后再也不能当这种烂好人了，又没什么好处，还要天天担惊受怕。”\n\n    她一边搅拦着食物，一面抹着额头上的汗珠，埋怨着自己。\n\n    “黑羽鸡和红枯子。对补血有好处，你都挑出来吃了！”",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "战争大片，小院门口悬挂的那个金属盒。应该就是帝国免费放给所有家庭的芯片监控设备。\n\n    那个盒子从来没有响过。\n\n    许乐下意识里伸手技了摸颈后，细微的小创口早就已经愈合心里明白，正是因为那个盒子没有响过。苏珊大妈和保罗才从来没有怀疑过自己是联邦人。\n\n    可我是联邦人，我总要离开这片帝",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "心中生出无尽温暖与感激。\n\n    在昏迷中他做了很多梦，很多噩梦，其中最恐惧的梦境正是醒来后。正被无数帝国士兵冰冷的枪口对准。沉重的狼牙机甲守在外围，一脸冷酷的怀草诗正缓缓走来。\n\n    他没有想到自己醒来后，迎接自己的是一碗温暖的清粥，一个外表凶恶内心无比温暖善良的大婶。\n\n    这真是人生",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "是因为那个盒子没有响过。苏珊大妈和保罗才从来没有怀疑过自己是联邦人。\n\n    可我是联邦人，我总要离开这片帝国的土地，该怎样做？许乐眯眼看着异乡的月亮，再次陷入沉思。不知道帝国方面的搜捕力度现在如何。这么长时间没有找到自己，他们会不会认为自己已经死了？不，按照那位公主殿下的性情，一天没有找到尸体，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "赶紧把你这娘们儿身体养好，然后给我有多远滚多远\n\n    黑青年捧着有些烫的食钵。沉默了很长时间，才缓缓拿起筷子，大口大口地进餐。\n\n    将钵里的食物一扫而光，他抬起头望向一直靠着廊柱的苏珊大妈。似乎想说什么，却终究什么都没有说，或许是食物太烫的缘故，那双还有些肿胀痕迹的小眼睛里晶莹亮。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "第三十三章温暖的异国小院 \n\n    必暗的灯米照在黑年轻人脸卜。听到众向话后。他那弘四般的直眉忽然颤了颤，却没有说什么话。\n\n    苏珊大妈看到他的反应，以为自己那句话触动了对方伤心的魂，不禁有些后悔，讷讷",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

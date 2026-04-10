@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 597,
+  "chapter_title": "第二百二十九章 星云奖",
+  "filename": "ch_0597_第二百二十九章 星云奖.txt",
+  "char_count": 3605,
+  "timestamp": "2026-04-10T12:05:08.590758",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“最佳纪录片：《七组》。”\n\n    “最佳剪叭”\n\n    如同所有人预期的那般又仍然令众人震惊，纪录片《七组》以一种横扫的姿态小囊括了它入围的所有奖项。\n\n    虽然《七组》入围的奖项数量，并没有创造历史记录，但如果它能够再获得最后压轴的两个大奖，那么得奖数便将越几年前横空出世的《全",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "台下黑压压的宾客们说道：“我问他们，你们为什么要战斗？他们说，因为敌人在那里。有人问我。为什么要冒着危险和七组开始时的敌意及不谅解而拍摄，我的回答是。因为”为了我们每个人能在联邦和平幸福生活而浴血战斗的士兵们，在那里！”\n\n    听到白泽明真情流露的激动话语，颁奖现场安静起来，一股弃穆的氛围笼罩不",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "许乐不是杜少卿，对于军旅生涯并没有太过真切的追求，所以不用在意战斗英雄养成游戏的规则，依他的性格，今天晚上根本就不应该来，然而总统官邸布林主任亲自打电话，国防部明确指示”想到那天夜晚在官邸中总统先生的隐忧，他隐隐明白了一些什么，所以终究还是\n\n    了。\n\n    舞台上的歌声还在持续，那",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "舞台上颁奖礼女主持人的出场。让观众席此间的骚动平息下来，毕竟是现场直播。宾客们总要注意自己的风度。\n\n    颁奖礼的女主持人叫柯以宁。前年联邦秋季文艺大赏的最佳女主角，正是在那次大赏中，她激动流泪之余依然不失幽默的致词，赢得了联邦很多观众的赞许喜爱，也赢的了联邦新闻频道主管的欣赏，新闻频道",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "了一个全新的深夜谈话类节目，成功地将她推到了主持人的位置上。\n\n    “诸位，我是柯以宁，欢迎大家来到星云奖文化艺术类奖项的颁奖现场。”\n\n    “颁奖礼是令我们从事这个行业的人兴奋苦恼甚至煎熬的过程。诸位，欢迎来到没有枪炮声的战场。”\n\n    台下一阵了然的笑声。\n\n    “但在我看来。今",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的风度。\n\n    颁奖礼的女主持人叫柯以宁。前年联邦秋季文艺大赏的最佳女主角，正是在那次大赏中，她激动流泪之余依然不失幽默的致词，赢得了联邦很多观众的赞许喜爱，也赢的了联邦新闻频道主管的欣赏，新闻频道为她量身打造了一个全新的深夜谈话类节目，成功地将她推到了主持人的位置上。\n\n    “诸位，我是柯",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的位置上，身周范围内全部是往日里只能在电视光幕上才能看到的名流明星，如今的他不至于因为这些而紧张，但第一次出席这种场合，难免有非常不适应的感觉。\n\n    军官或工程师与这个灿烂的文艺世界并不相搭，他从来没有想过出席星云奖文化艺术类奖项的颁奖典礼，然而作为联邦政府刻意宣传的战斗英雄。总要附带着进行某",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "正的枪炮声武许将赢得最大的胜利”\n\n    柯以宁穿着一身淡黑色的低胸礼服，魅力十足，轻拂端作无意状说道，点出了今天颁奖礼最大的焦点，那部纪录片。\n\n    她继续向整个联邦的观众们说道：“我拿到人生唯一一座女演员奖项时，曾经对着空气呼喊。简水儿小姐，快回来吧，因为人们需要。\n\n    “结果，似乎",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "意状说道，点出了今天颁奖礼最大的焦点，那部纪录片。\n\n    她继续向整个联邦的观众们说道：“我拿到人生唯一一座女演员奖项时，曾经对着空气呼喊。简水儿小姐，快回来吧，因为人们需要。\n\n    “结果，似乎上天听到了我的呼喊，所以，，她真的回来了。”柯以宁转向后方空无一人的电束波幕墙，夸张地耸耸肩：“",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "小姐，不可菲是因为听到我的呼唤而再次站上舞台。”柯以宁转向舞台下方，笑着说道：“我们都知道她今天晚上为什么会出现，那是因为一部让很多人欢笑流泪的纪录片，这部纪录片的导演白泽明先生，就坐在下方。”\n\n    “白泽明先生，你这时候不需要站起来向大家致意，因为我相信你“ 京宗致谢辞，然后站在台弘谎不出话",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "第二百二十九章 星云奖\n\n    斤着宽大会场里的轻悠歌声。许乐紧张的身体渐渐放松巾小，消握着墨镜的手指松开，在军裤上悄悄擦了擦汗。\n\n    这时他正坐在舞台下方观众席最好的位置上，身周范围内全部是往日里只能在电视光幕上才能看到的名流明星，如今的他不至于因为这些",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "有正式的名字，它就是，\n\n    《七组》片尾曲！词曲及演唱者：简水儿小姐！”\n\n    会场里稍微安静了一阵，似乎没有想到颁奖仪的**从一开始就出现，然后一阵如雷般的掌声暴出来，这掌声是送给已经退出这个世界的传奇简水儿小也是送给这部赢得了无数赞美的纪录片。\n\n    “星云奖文化艺术类奖项最佳摄影",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "问我。为什么要冒着危险和七组开始时的敌意及不谅解而拍摄，我的回答是。因为”为了我们每个人能在联邦和平幸福生活而浴血战斗的士兵们，在那里！”\n\n    听到白泽明真情流露的激动话语，颁奖现场安静起来，一股弃穆的氛围笼罩不场小人们动容不已。 而就在此时，一个酸刻的声音打搅了此时的气氛，观众席一处不起眼的",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

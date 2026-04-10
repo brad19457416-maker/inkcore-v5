@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 307,
+  "chapter_title": "第二百三十六章 联邦之安危，在君之手中",
+  "filename": "ch_0307_第二百三十六章 联邦之安危，在君之手中.txt",
+  "char_count": 5745,
+  "timestamp": "2026-04-10T12:04:59.189827",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "一点，麦德林议员的唇角泛起一丝自嘲地笑容，整个宇宙都没有人能够真正的看透自己，如果说是联邦现了自己的秘密，如果是宪章局现了自己的秘密，或许他还能接受一些，可是很明显，玻璃门外的许乐什么都不知道……\n\n    用\n\n    完成的使命，却要毁于一个什么都不知道的年轻人的冲动之中，麦德林忍不住摸了摸自己",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "也多了些严酷的感觉，比如此时窗外的深冬，温度竟已经是降到了零下三十度，那些本来应该在街停游走的走私商人们，也不得不回到了自己的老巢，或是太空船中。\n\n    林半山此时本应该在南科州，与他最亲信的臂膀张小花一边吃肉喝酒，一边看着总统就职仪式微笑不语，但早在数十天之前，他就悄无声息地离开了联邦，孤身来",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "强大的重火力攻击，一般的刺客杀手，却也是永远没有办法踏进一步。\n\n    踏过千山万水尸血而至，乐才来到了麦德林议员的面前，难道就要被这一层玻离给挡住？\n\n    这是他第一现实当中看到麦德林，但此时他没有去注视玻璃后方这位老政治家的风度或是狼狈的最后景象，只是扫了一眼，便走到了玻璃门旁边，将军刺狠",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "…\n\n    听到这句话，许乐不再说什么，沉默地安全屋的总成系统进行完驳接，举起了手腕，对着手表轻声说道：“能听到吗？”\n\n    安全屋密码破解需要强大的计算平台，在计划中，这个任务本应属于山顶那个高级工作台，操作工作台地人则应该是白玉兰。\n\n    耳机里没有传来白秘书轻声细语却令人心安的回答声",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "感。\n\n    身周竟是他人，这是何等样不堪人生。\n\n    “良心，就是我们意识到自己内心道德庭的存在。看脚下的星球，它依然在转动。”玻璃门旁传来了麦德林议员微有些变调的声音，“我所作所为，符合我自己内心的道德法庭。”\n\n    ……\n\n    ……\n\n    听到这句话，许乐不再说什么，沉默地安",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "征兆，不知道是什么材料做成的，竟是如此的结实。\n\n    许乐与麦德林隔着这层玻璃平静互视，这是他们第一次真正相见，一见却便要生死必分。\n\n    这是一间安全屋，联邦真正政治要人官邸之中，往往会设计这样一个最后避难之所，但大部分安全屋的设计都是高强度合金为主，很少有人会选用聚合材质的透明材料，这是",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "更清楚自己这个伙伴下属，平生最喜欢地便是那残忍逼供之事，但今天逼供出来的结果，竟连他都开始感到兴奋与紧张，林半山想到马上便要揭晓地那个答案，眼瞳不禁微微缩了起来。\n\n    黑衣中年人压低声音幽幽说道：“录像里另一个人，当年是帝国的诺顿亲王。”\n\n    纵使已经有了心理准备，纵使林半山大概是联邦里",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "自己的根基，自己的下属，冒着风险秘密来到此地，自然是有大事要办。多年前他也曾经这样孤身来到鱼龙混杂，危险重重的百慕大，并且在这一片乱土中打下了自己的江山，这数十天里，他便是要靠当年打下的基业，将数十年前那件疑案查清楚。\n\n    纵使是林半山，想到那件，也不禁有些难抑心头沉重与焦虑，他站在窗前，等着",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "他也并不认为自己失败了，他相信在宇宙的历史中，没有任何人比自己更加成功，虽然没有能够登上联邦最巅峰地政治王座，但在联邦里经营了这么，他已经获得了很多年前那个人请求他帮助获得的东西。\n\n    麦德林眯着眼睛看着门外沉默忙碌的许乐，知道对方根本无法进来，只要大楼内部的后援力量，或是联邦zf的军队",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "这一层玻离给挡住？\n\n    这是他第一现实当中看到麦德林，但此时他没有去注视玻璃后方这位老政治家的风度或是狼狈的最后景象，只是扫了一眼，便走到了玻璃门旁边，将军刺狠狠地扎入了墙纸之中。\n\n    喀喇一声响，乐撬开了安全屋的总成控制系统，那双染着血的手，开始闪动起来，快速地分离盒中的数据线与电源线",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "德林眯着眼睛看着这一幕，对于这个冷静到了极点的家伙，竟生出了些许欣赏之意。当然更多的还是淡淡的不安与愤怒。\n\n    今日Ｓ１那边在举行总统就职仪式，麦德林作为一个没有任何世家基础地政治家，用了自己人生一大半的时间，走了一条曲线道路，就是为了能够登上总统的位置。\n\n    是的，就是副总统，因为副总",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "中。\n\n    这一切却都被玻璃门外这个小眼睛男人强行拖延了来。想到这一点，麦德林议员的唇角泛起一丝自嘲地笑容，整个宇宙都没有人能够真正的看透自己，如果说是联邦现了自己的秘密，如果是宪章局现了自己的秘密，或许他还能接受一些，可是很明显，玻璃门外的许乐什么都不知道……\n\n    用\n\n    完成的使",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "一边进行操作，一边回答道：“同步需要七分钟的时间。”\n\n    “不要管什么同步！”林半山声斥道：“马上！”\n\n    无论是当年联邦地下社会里快意恩仇，还是周游于宇宙之间长袖善舞，这位联邦最出名的浪子，在对待下属与伙伴时，总是那样的平静。\n\n    尤其是这间间里的几个人，跟随他已经很多年了，却还",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "进行的如此专心致志，以致于没有听见大楼后方越来越清晰地枪声。\n\n    玻璃门后方的麦德看着这一幕，缓缓地眯上了眼睛，他不认识外面这个杀手，但对于这个年轻男人的脸却无比熟悉，对方便是那个叫做许乐的小人物。\n\n    “虽然你是名很天才地工程师。但不要奢望能够从外面打开安全屋。”\n\n    麦德林安静",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "消失了他并不认为在最关键的时刻，白秘书出卖了自己，因为要出卖自己，白玉兰事先就拥有极好的机会许乐只是担心山顶上的白玉兰是不是出了什么事。\n\n    没有工作台进行远程解码，怎样能够打开安全屋？许乐本应在驳接之前就确认这一，不然就等于是在浪费时间。但很奇怪的是，他似乎并没有这种认知，而是直接重新联通了",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "分钟的时间。”\n\n    “不要管什么同步！”林半山声斥道：“马上！”\n\n    无论是当年联邦地下社会里快意恩仇，还是周游于宇宙之间长袖善舞，这位联邦最出名的浪子，在对待下属与伙伴时，总是那样的平静。\n\n    尤其是这间间里的几个人，跟随他已经很多年了，却还是第一次看到他表现地如此慎重，没有人再",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

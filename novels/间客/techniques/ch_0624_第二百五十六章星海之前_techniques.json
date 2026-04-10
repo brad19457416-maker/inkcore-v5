@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 624,
+  "chapter_title": "第二百五十六章星海之前",
+  "filename": "ch_0624_第二百五十六章星海之前.txt",
+  "char_count": 2254,
+  "timestamp": "2026-04-10T12:05:08.576862",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "侧上方狂奔。沉重的机甲践踏着地面，狠狠地冲撞着一切拦在面前的障碍物，与时间进行着赛跑。\n\n    最危险的时刻中，昏暗座舱中的那双小眼睛反而越来越明亮，本来没有一丝把握的他。在成功杀死那名屠夫将军之后，信心陡然提升，疲惫的身躯绽放着最后的力量，毫不怀疑自己能够成功的逃离，更不怀疑老东西的计算能力。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "方数千公里之外的那艘联邦三翼舰，缓缓动了起来，没有任何人操控的三翼舰，若幽灵：般悄无声息地滑动，然后瞬间加，在联邦中央电脑的直接物理操控之下，化作宇宙间的一道流光，向下方直冲。\n\n    根据事前的计刮，许乐冲出战舰进入太空，三翼舰必须恰好出现在那片指定的区域之中，然后在极短的时间内，三翼舰必须成功",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "机甲如此简单地结束了自己的生命。\n\n    战舰指挥厅里的帝国官兵们也想不明白。卡顿郡王就这样死了？愤怒的陛下，会不会让整支舰认为他的兄弟陪葬？\n\n    他们看着黑色联邦机甲巨大机械足下淌出的血水，失魂落魄，脸色苍白，不敢去想像那下面的画面，不敢去想像后续的事情。\n\n    “杀了他！”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的地方，正高前进的黑，不知为何强行扭转机身。重重地撞向左方的通道壁！\n\n    黑色机甲看似没有任何道理的一顿一避，却恰好避过了死亡。\n\n    右方的通道壁在先前那一瞬间似乎变成了脆的鱼子饼干，片片剥离碎烈散开。一道锋利甚至可以用凄厉来形容的亮光。没有任何征兆地从那些碎片中斩了出来，斩向了黑色”，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "却以一种更凄惨血腥形式死去的卡顿郡一。心必直到最后的思维变作黑色通道尽头的几抹光点时，还没有想明白，究竟生了什么。\n\n    他才网攀上人生的数峰，结果伟大的造物主居然不肯给自己哪怕一天的陶醉时间。一台从天上掉下来的黑色机甲如此简单地结束了自己的生命。\n\n    战舰指挥厅里的帝国官兵们也想不明白。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，化作宇宙间的一道流光，向下方直冲。\n\n    根据事前的计刮，许乐冲出战舰进入太空，三翼舰必须恰好出现在那片指定的区域之中，然后在极短的时间内，三翼舰必须成功地捕获黑”还要避开帝国战舰凶猛的太空远程火力打击，撤退是整个计划中最困难的一环，扔出去石头还要接回来。许乐和那个老家伙能不能做到？",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，不敢去想像那下面的画面，不敢去想像后续的事情。\n\n    “杀了他！”\n\n    战舰里响起帝**人们愤怒而绝望的吼叫，四台狼式机甲和从四面八方赶过来的重火力步兵，疯狂地向黑，冲了过去。\n\n    黑，在帝国人反应过来之前，毫不犹豫地收腿，转身，擦过一台狼牙机甲的拦截，绝不恋战，一味干脆地高后退，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "过来之前，毫不犹豫地收腿，转身，擦过一台狼牙机甲的拦截，绝不恋战，一味干脆地高后退，化作一道黑色的烈风，向着指挥厅墙壁破洞钻了进去。\n\n    许乐知道将要面临怎样疯狂的攻击。\n\n    在帝国人的星域中杀死对方一位地位显赫的郡王，一位帝国皇帝宠信的皇族，肯定会让帝国人愤怒到极点。\n\n    更关键",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "央电脑的直接物理操控之下，化作宇宙间的一道流光，向下方直冲。\n\n    根据事前的计刮，许乐冲出战舰进入太空，三翼舰必须恰好出现在那片指定的区域之中，然后在极短的时间内，三翼舰必须成功地捕获黑”还要避开帝国战舰凶猛的太空远程火力打击，撤退是整个计划中最困难的一环，扔出去石头还要接回来。许乐和那个老家",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "老家伙能不能做到？\n\n    许乐操控着黑色”，近乎癫狂般的狂奔狂奔，一路狂奔，向着战舰侧上方狂奔。沉重的机甲践踏着地面，狠狠地冲撞着一切拦在面前的障碍物，与时间进行着赛跑。\n\n    最危险的时刻中，昏暗座舱中的那双小眼睛反而越来越明亮，本来没有一丝把握的他。在成功杀死那名屠夫将军之后，信心陡然提",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "持着绝对的高，向着计刑预定中的出口冲去。\n\n    悬浮在帝国舰队上方数千公里之外的那艘联邦三翼舰，缓缓动了起来，没有任何人操控的三翼舰，若幽灵：般悄无声息地滑动，然后瞬间加，在联邦中央电脑的直接物理操控之下，化作宇宙间的一道流光，向下方直冲。\n\n    根据事前的计刮，许乐冲出战舰进入太空，三翼舰",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 367,
+  "chapter_title": "第一百七十二章 松鹤楼纪事（下）",
+  "filename": "ch_0367_第一百七十二章 松鹤楼纪事（下）.txt",
+  "char_count": 3292,
+  "timestamp": "2026-04-10T12:11:21.738135",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "老人摇了摇手中已经空了的酒瓮，有些恼火地咕哝了一声，喊露下的掌柜再送两瓮，然后看着他问道：“可你为什么想要杀人？”\n　　宁缺沉默思考片刻后摇头说道：“虽然我这时候已经快喝醉，而你已经喝醉，但这件事情还是不能告诉你。”\n　　掌柜一路小跑来到了露台上，恭恭敬敬把两瓮新酒搁到老人身旁，然后低头哈腰退了",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "松鹤楼损失一些银子，丢一些面子，而如果祖宗回来，你却招待不周，那么松鹤楼还有什么道理，继续在长安城里存在下去？\n　　老人拍开春泥酒瓮，极快意地饮了一口，说道：“其实我像你这么年轻的时候，也经常想杀人。”\n　　宁缺看着他的容颜，无法确定老人的具体年龄，但想来应该是极老了，那么他年轻时是何时？是多少年前",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "就像百世老宅幽静祠堂里牌位落在地面上的声音。\n　　他看着宁缺微笑说道：“不告诉你。”\n　　宁缺无语，心想你都这么老了，怎么还这般小气和记仇？\n　　“我想杀的那个人……他害死了很多无辜的人。当然我不是什么圣人，复仇也只是想让自己的心情能够得到真正的平静，那个人毁了我最美好的一段人生，害死了最疼我的父母",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，自己是天才的判断在他心中愈来愈坚定。\n　　因为很高大，老人坐在椅中总感觉有些局促，换了好几个姿式才最终找到稍微舒服些的位置。他半靠着椅背，手撑着下颌，看着宁缺问道：“不高兴的时候就想杀人，难道你以前杀过人？”\n　　宁缺把手中将空的春泥酒瓮搁到脚边，说道：“我可不会告诉你我杀过多少人，那可是触犯唐律",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，看着宁缺问道：“不高兴的时候就想杀人，难道你以前杀过人？”\n　　宁缺把手中将空的春泥酒瓮搁到脚边，说道：“我可不会告诉你我杀过多少人，那可是触犯唐律的事，不过你可以这样设想。”\n　　老人摇了摇手中已经空了的酒瓮，有些恼火地咕哝了一声，喊露下的掌柜再送两瓮，然后看着他问道：“可你为什么想要杀人？”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "就在他的身体向后倾斜，眼看着要重重摔在露台上时，一阵风拂起。\n　　旧袄微飘，草鞋无声，书院大师兄出现在了露台上，扶住了摇摇欲坠的宁缺，右手一探抓住正在快速堕下的那瓮新酒。\n　　大师兄抱着昏迷的宁缺，看着老人茫然问道：“老师，小师弟怎么了？”\n　　老人偷偷把那根短木棒收回袖中，有些尴尬地咳了两声，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "刻后摇头说道：“虽然我这时候已经快喝醉，而你已经喝醉，但这件事情还是不能告诉你。”\n　　掌柜一路小跑来到了露台上，恭恭敬敬把两瓮新酒搁到老人身旁，然后低头哈腰退了下去，别说催着结帐，话都不敢多说一声。\n　　他不知道这位老人是谁，就连松鹤楼真正的东家，朝中某位大官也不知道这位老人的真实身份，只是松鹤楼",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "变成一个白痴。\n　　一念及此，大师兄的脸色便变得苍白起来。\n　　老人看着他脸色苍白，却没有想到他是在担心宁缺的安危，微微蹙眉说道：“十年前就说过要你慢些再慢些，怎么还这么快呢？”\n　　大师兄先前就是感应到宁缺有些问题，才会随风而至松鹤楼露台，哪里会在意自己的损耗，看着老人担忧说道：“老师，小师弟不会",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "他不知道这位老人是谁，就连松鹤楼真正的东家，朝中某位大官也不知道这位老人的真实身份，只是松鹤楼无数年来一直藏着幅画像，和一个简单的规矩。\n　　那个规矩就是，如果有一位长的像画像中的老人的老人来到松鹤楼，楼中所有人都必须把老人当祖宗一般供着，且又要像对待杀父仇人那样不用理会，以免惹得那位老人心烦",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "据？如果不走歪门邪道，又怎么杀人？难道要我光明正大走到那人面前说我要杀你然后我被揍成肉泥？”\n　　夜风轻拂，老人坐直身体瞪着宁缺，因为这个家伙的愚钝和糊涂而越来越难以抑止内心的怒意，修长的手掌紧握着椅背，似乎如果再不发生点什么事情，他便会一巴掌直接向宁缺的脑袋上扇过去。\n　　宁缺此时已然醉眼迷离，哪",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

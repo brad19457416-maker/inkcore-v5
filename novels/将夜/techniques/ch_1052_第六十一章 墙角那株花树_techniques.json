@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1052,
+  "chapter_title": "第六十一章 墙角那株花树",
+  "filename": "ch_1052_第六十一章 墙角那株花树.txt",
+  "char_count": 4336,
+  "timestamp": "2026-04-10T12:11:34.883315",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "步入车厢，命令下属驾车离开。\n　　出国都上官道，暮时方至莫干山，马车行走在静寂的山道上，夕阳将西方的天空涂红，叶红鱼掀起车帘，看着如血般的暮色，心想神国到底在哪里？你又真的在那里吗？",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "司的暗中配合，车队一行没有受到任何阻拦，甚至西陵神殿方面根本不知道他们的存在。\n　　走出西陵神国，便来到了滔滔大河前，在那道著名的铁链前，叶红鱼看了片刻，然后车队继续南下，进入了大河国境内。\n　　此时叶苏的死讯已经传遍天下，大河国做为唐国最忠实的盟友，也已进入全面备战，国君不在，并没有影响朝臣们的判",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "叶红鱼说道：“若有欲望，寻个男人上床便是，别的所谓感情都是虚假，沉醉在那些情绪，实在愚蠢的令人愤怒。”\n　　莫山山有些无奈，说道：“这并不是一回事。”\n　　“就算你说的有道理，就算情爱如蜜，可以尝尝，你也不应该找宁缺那个废物，像他那般无耻的人少有，那般无能的我更是未曾见过。”\n　　叶红鱼面无表",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "青丘，早已做好准备，又有裁决司的暗中配合，车队一行没有受到任何阻拦，甚至西陵神殿方面根本不知道他们的存在。\n　　走出西陵神国，便来到了滔滔大河前，在那道著名的铁链前，叶红鱼看了片刻，然后车队继续南下，进入了大河国境内。\n　　此时叶苏的死讯已经传遍天下，大河国做为唐国最忠实的盟友，也已进入全面备战，国",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "眼睛不眨，想要看的更远一些，也根本无法做到。\n　　她还是静静看着那处，她知道那里是东北方向，她不知道为什么是，但她知道是，因为宋国便在东北，叶苏在东北。\n　　阳光变得越来越柔和，甚至有些柔软，仿佛不再依照直线行走，而变成了水般的事物，将画面都变得荡漾起来。\n　　叶红鱼看着柔软的阳光里那些变形的画面，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "道，暮时方至莫干山，马车行走在静寂的山道上，夕阳将西方的天空涂红，叶红鱼掀起车帘，看着如血般的暮色，心想神国到底在哪里？你又真的在那里吗？",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "场谈话。\n　　逐渐远离西陵，直至来到大河国，他们才真正确信自己不需要死去，精神放松了很多，此时却再次紧张起来――就像离开长安城时那样。\n　　由贤觉得手里这封信像石头般沉重――他不知道那封信里写着什么内容，但通过叶红鱼的神情，便知道那些内容非常重要。\n　　他和陈七不会在大河国停留，将继续前进，经由河弯",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "时间还是不够，莫山山没有办法破解桃山前坪的清光大阵，叶红鱼只能把后路选择在桃山后麓，那是最后的逃亡路线。\n　　除此之外，为了今夜她们准备了很多方案，只是观主的决断太过冷静可怕，以至于那些更好的方案，竟是完全无用。\n　　十余日前，莫山山便打通了这条路，昨夜收到裁决神殿异动的消息，她和叶红鱼的部属",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "她看到了青峡，终于看到了他的笑容，他的身影渐渐远去，不再像从前那般挺直，却越来越高大。\n　　他的身影最终消失在阳光里，再也找不到了。\n　　就在这一刻，叶红鱼知道，兄长离开了这个世界。\n　　她闭上眼睛，不是昏睡，只是不想看，唇角再次溢出鲜血，不是因为内伤，而是因为心伤。她的脸色变得异常雪白，是因为柔软",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "门配制的解毒药丸，还是觉得有些昏沉，尤其是那些看似神骏的马匹，更是疲惫，所以车队前行的速度很缓慢，令众人觉得安慰的是，想来神殿派来确认的人也会到的很慢。\n　　走了很长时间，终于有光线穿越雾气，落到幽暗的林里，却不知是清晨还是烈日当空，队伍里有莫山山这名境界高妙的神符师，还有裁决神殿那些最擅长逃亡杀人",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "清水递到她唇边，喂她喝了两口，轻声问道：“感觉怎么样？要不要吃些东西？”\n　　“有些晕。”叶红鱼蹙眉说道。\n　　可能是饿了，也可能是流血过多，也可能是晕船，但她却觉得不是这些原因，因为除了眩晕，她还觉得胸腹间有些难受。\n　　那种难受来自道心，也来自真实的心脏，她的道心忽然变得有些不稳，她的心脏忽然加",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "还能活下来，但总要尽力争取。\n　　在皇宫前的石阶上，莫山山与叶红鱼告别，叶红鱼将去莫干山墨池苑养伤，同时那里将成为旧裁决神殿的办事地点，她虽然还有些担心叶红鱼的伤势，但她毕竟是国君，有很多政务需要处理，尤其是当前这般严峻的局势下，她肩上要承担的责任太重，不可能继续远离大河国的权力中心。\n　　“我很想",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "上，莫山山与叶红鱼告别，叶红鱼将去莫干山墨池苑养伤，同时那里将成为旧裁决神殿的办事地点，她虽然还有些担心叶红鱼的伤势，但她毕竟是国君，有很多政务需要处理，尤其是当前这般严峻的局势下，她肩上要承担的责任太重，不可能继续远离大河国的权力中心。\n　　“我很想知道，在那道铁链前，你看着大河究竟想了些什么。”",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "国君，有很多政务需要处理，尤其是当前这般严峻的局势下，她肩上要承担的责任太重，不可能继续远离大河国的权力中心。\n　　“我很想知道，在那道铁链前，你看着大河究竟想了些什么。”\n　　“柳白观大河悟剑，那道剑被他画在纸上，寄给了我，我想看看，我现在的剑和那条大河之间还有多少差距。”\n　　叶红鱼说的差距，不",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "封信后更是想都不想，便离开了自己的国家，冒着巨险远赴西陵神殿。\n　　她们之间的这种信任究竟来自何处？日后，当这段传奇故事，被新教刻意传遍整个人间后，这个问题时常会被人思考，然后不得其解。\n　　这个问题的答案大概只有宁缺知道，因为很多年，那道铁索下的吊篮里有他，魔宗山门的白骨山前也有他，他见过她们以死",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "一时心血来潮，必有事情发生。\n　　她掀起车窗的窗帘，向远方望去。\n　　林里满是雾瘴，阳光变得很柔和，落在她雪白的脸庞上，很是美丽。\n　　然而柔和的阳光，却注定模糊远方的景物，就算睁着眼睛不眨，想要看的更远一些，也根本无法做到。\n　　她还是静静看着那处，她知道那里是东北方向，她不知道为什么是，但",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

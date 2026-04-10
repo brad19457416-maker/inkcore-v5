@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 531,
+  "chapter_title": "第三十八章 奔散的马头，离散的人",
+  "filename": "ch_0531_第三十八章 奔散的马头，离散的人.txt",
+  "char_count": 3250,
+  "timestamp": "2026-04-10T12:11:26.551748",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "过去了很短的一段时间，可以想像这些黑骑的速度是多么惊人。\n　　……\n　　……\n　　宁缺的修为是洞玄境巅峰，就算他真的是知命以下无敌，就算除了元十三箭，他还有很多强大的手段，甚至有信心战胜普通的知命境修行者，但在桑桑重病的情况下，他没有可能单独战胜已入知命境的隆庆皇子，还有那十余骑洞玄境高手，甚至没有",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "缺感到莫名畏惧的是，那些迎面扑来的漫天水珠，在雨空清光的照耀下，竟似涂了一抹淡淡的黑色，透着股诡异的危险味道。\n　　宁缺闷哼一声，射出了第七枝铁箭，然后以最快的速度把桑桑推入车厢里，这时，那漫天黑色的雨水便到了身前，他只来得及横移大黑伞，遮在身前。\n　　漫天雨水，像密集的箭矢般，击打在大黑伞的伞面上",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "章 奔散的马头，离散的人\n　　秋雨青山上的红莲寺，骤然间变得肃杀起来。\n　　隆庆挥袖拂雨，道袖轻舞，风雨大作。\n　　这一拂里，蕴藏着他绝对的愤怒。\n　　这些愤怒来自于胸口的箭洞，那些沉淀数年的羞辱和伤痛，那些曾经的绝望，也因为他今日这场战斗的开端和他的想像之间的极大落差。\n　　在他的想像中，身赋绝学",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "停浇洗着大黑马的头颅，却始终无法浇熄它眼中的暴躁情绪和狂暴的战意，然而就在宁缺脸上笑容发生变化的那一瞬间，大黑马眼中的暴躁情绪忽然消失不见，看着那些冲向马车的黑骑，流露出极端鄙夷的嘲讽轻蔑神情，就像看到了一群白痴。\n　　最前面的那名堕落骑士，开始默默摧动念力，右手离开马缰，开始捏剑诀，背上鞘中的飞剑",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的红莲寺，骤然间变得肃杀起来。\n　　隆庆挥袖拂雨，道袖轻舞，风雨大作。\n　　这一拂里，蕴藏着他绝对的愤怒。\n　　这些愤怒来自于胸口的箭洞，那些沉淀数年的羞辱和伤痛，那些曾经的绝望，也因为他今日这场战斗的开端和他的想像之间的极大落差。\n　　在他的想像中，身赋绝学，承袭半截道人一身惊天修为，又有通天丸之",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "人与周遭的自然融为一体，宁缺的修为尚在洞玄境，凭什么能够捕捉到自己？\n　　隆庆发现宁缺的身上还有很多秘密，或许那些秘密不是在他身上，而是在他身旁，比如先前那个撑着大黑伞的小侍女。\n　　隆庆看着宁缺被雨水打湿，却毫无变化的脸，神情微异说道：“你真是个怪物。”\n　　宁缺看着站在石阶后的隆庆，看着他胸口那",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "射。”\n　　宁缺的笑容渐渐僵硬。\n　　隆庆的神情愈发优雅。\n　　秋雨之中蹄声疾，山道上那十余黑骑终于来到了红莲寺前。\n　　七箭连射，便是七道闪电，此时距离桑桑喊出隆庆的方位，其实只过去了很短的一段时间，可以想像这些黑骑的速度是多么惊人。\n　　……\n　　……\n　　宁缺的修为是洞玄境巅峰，就算他真的是知",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "地一蹄踩进泥泞土地，第一个冲上青陵，然后便再也无法继续，因为它的马蹄断了。\n　　紧接着，粗壮的马颈上出现一道细细的红线。\n　　强健的马身上，出现了更多数细密的红线。\n　　因为不同部位的用力不匀，那些红线渐渐变宽，然后分开。\n　　整个马身，变成了无数块悬浮在空中的肉块，肉块间隐约有血。\n　　最前方那颗",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，有着压抑多时的怒火和被压制到极点的战意，一旦施出，威势十分惊人，红莲寺残破石阶上下，雨水骤然一空，无数滴水珠，被尽数卷入袖风之中，然后狂肆地向黑色马车袭去。\n　　磅礴以至狂暴的天地元气，混合着雨水前行，竟似比元十三箭也不稍慢几分，每滴雨水，仿佛都变成了一根羽箭，或是一颗坚硬的石头。\n　　更令宁缺感",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "弦上，七箭之后，隆庆被压制的苦不堪言，羞辱到了极点，也愤怒到了极点。\n　　这看似简单的道袖一拂，有着压抑多时的怒火和被压制到极点的战意，一旦施出，威势十分惊人，红莲寺残破石阶上下，雨水骤然一空，无数滴水珠，被尽数卷入袖风之中，然后狂肆地向黑色马车袭去。\n　　磅礴以至狂暴的天地元气，混合着雨水前行，竟",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "而是在他身旁，比如先前那个撑着大黑伞的小侍女。\n　　隆庆看着宁缺被雨水打湿，却毫无变化的脸，神情微异说道：“你真是个怪物。”\n　　宁缺看着站在石阶后的隆庆，看着他胸口那个洞，说道：“你才是怪物。”\n　　隆庆抬步走下石阶，面无表情说道：“彼此彼此。”\n　　宁缺说道：“客气客气。”\n　　隆庆说道：“这次",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

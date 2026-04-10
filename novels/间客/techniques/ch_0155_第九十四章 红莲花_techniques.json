@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 155,
+  "chapter_title": "第九十四章 红莲花",
+  "filename": "ch_0155_第九十四章 红莲花.txt",
+  "char_count": 3249,
+  "timestamp": "2026-04-10T12:04:45.666269",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "所愿，或许他会亲自做些什么。\n\n    至少邰之源送了他一辆他非常想要的汽车。\n\n    在临海州的风雪中，跟随施清海在联邦调查局的追捕中逃亡，那一段公路上的狂奔经历，深切地影响到了许乐。第一次开车便开的如此疯狂，那种风驰电掣的快感，紧张而亢奋的情绪发泄，还有那种人与机器完美统一的感觉，都让许乐爱上",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "不起的地方。\n\n    正在许乐入神的时候，忽然间车载出了嘀嘀报警的声音。\n\n    “嘀……嘀……危险车辆靠近。”\n\n    许乐神经猛地崩紧，却还没有来得及做出任何反应，就只看见左侧一抹鲜艳至极的红影，倏的一声超车而过，只留下了一阵劲风……\n\n    警报解除了，许乐默然地看着绝尘而去的红色跑车",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。\n\n    还有一个深植于他内心地念头，也让他暂时没有动用手镯里的其余芯片在他地猜想中。封余大叔在来到东林大区之前，肯定就像一个化身三千的神秘幽灵一样。在联邦的星空里飘浮，周游世界而这种注定不可能在每一个地方长久，注定要与身周的人或事生生分离的生活方式，不是许乐想要地。\n\n    左手微动，汽车缓",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "图除了那个好色的，经常去疗养中心嫖娼的大叔，还有谁会将这些没有用的**图片，用如此尖端的科技手段，封存在芯片中，放在自己的脑海里？\n\n    许乐的唇角泛起一丝苦涩的笑容，自言自语道：“这个好色的家伙，究竟该叫你封余……还是靳教授呢？你以前究竟拥有多少个身份呢？”\n\n    在东林大区被联邦军方追捕",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "海，有的人会沉沦欲海，有的人会四处探险，但更多的人还是选择了找寻各式各样的刺激。\n\n    飙车毫无疑问是最有历史渊源，最为风行的一种。\n\n    毕竟是首都特区，无数的势力，无数的媒体都盯着这里，这些权贵后代们表现的还比较收敛，而其余的各州，这些权贵后代们表现的更为嚣张。许乐也曾经听说过，首都特区",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "在临海州的风雪中，跟随施清海在联邦调查局的追捕中逃亡，那一段公路上的狂奔经历，深切地影响到了许乐。第一次开车便开的如此疯狂，那种风驰电掣的快感，紧张而亢奋的情绪发泄，还有那种人与机器完美统一的感觉，都让许乐爱上了开车。这和操控机甲的感觉很像，但是更直接，所以快感更强烈。虽然如此，但这时候行走在首都",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "程部。还有一个重要的原因在于。果壳工程部在港都市，研究所在首都特区……而即将轰轰烈烈展开的总统竞选。最终的战场，肯定是在首都特区。\n\n    他必然会留在这个战场，看着那个叫麦德林的议员，究竟会有怎样的下场。\n\n    许乐从来不认为邰之源欠自己什么，而且他很清楚，身处那个阶层地大人物，就算尊重友谊",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "心悸。而且他很担心这种不必要的行为，会不会触动无所不在地宪章光辉，所以他一直没有冒险，而是按照自己的性格慢慢来。\n\n    还有一个深植于他内心地念头，也让他暂时没有动用手镯里的其余芯片在他地猜想中。封余大叔在来到东林大区之前，肯定就像一个化身三千的神秘幽灵一样。在联邦的星空里飘浮，周游世界而这种注",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "地利益面前，依然什么都可以舍弃，他不可能将所有的希望，都放在那位远方友人地身上，他必须亲自看着，如果将来一切不能如他所愿，或许他会亲自做些什么。\n\n    至少邰之源送了他一辆他非常想要的汽车。\n\n    在临海州的风雪中，跟随施清海在联邦调查局的追捕中逃亡，那一段公路上的狂奔经历，深切地影响到了许",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "无所不在地宪章光辉，所以他一直没有冒险，而是按照自己的性格慢慢来。\n\n    还有一个深植于他内心地念头，也让他暂时没有动用手镯里的其余芯片在他地猜想中。封余大叔在来到东林大区之前，肯定就像一个化身三千的神秘幽灵一样。在联邦的星空里飘浮，周游世界而这种注定不可能在每一个地方长久，注定要与身周的人或事",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "捕中逃亡，那一段公路上的狂奔经历，深切地影响到了许乐。第一次开车便开的如此疯狂，那种风驰电掣的快感，紧张而亢奋的情绪发泄，还有那种人与机器完美统一的感觉，都让许乐爱上了开车。这和操控机甲的感觉很像，但是更直接，所以快感更强烈。虽然如此，但这时候行走在首都大街上的黑色汽车，却开的格外稳定，速度始终保持",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "没有因为他的退让而离去，反而是同样降低了速度。\n\n    最后这辆红莲花跑车……令人震惊地直接刹车，猛然在许乐的眼前停了下来，死死地挡住了黑色汽车的去路。\n\n    许乐眉头微皱，不明白这是怎么回事。\n\n    一个女孩儿从红莲花跑车上下来，直接走到了黑色汽车前方，冷冷地看了过来。\n\n    在初春",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "在每一个地方长久，注定要与身周的人或事生生分离的生活方式，不是许乐想要地。\n\n    左手微动，汽车缓缓启动，带着低沉而悦耳的轻鸣声，像幽灵一样驶出了地下停车场。\n\n    没有明显标志、看上去十分普通地黑色汽车行走在首都特区的街道上，许乐面无表情地注视着车旁的街景，争取能够尽快地离开电子地图的提示",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "镯里所有的芯片都试一下。看一看那些芯片所代表的身份和人生，但是换装芯片时的痛苦让他有些心悸。而且他很担心这种不必要的行为，会不会触动无所不在地宪章光辉，所以他一直没有冒险，而是按照自己的性格慢慢来。\n\n    还有一个深植于他内心地念头，也让他暂时没有动用手镯里的其余芯片在他地猜想中。封余大叔在来到",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "。许乐既然知道那块芯片有问题，自然当出现奇怪状况后，便会向那个方向去思考。他自然不可能会想到，是人类社会的宪章光辉，造就了如此奇妙的后果，因为他一直以为，只要被宪章局发现自己芯片的问题，那么迎接的自己的，必将是逃犯的末路。\n\n    对于许乐而言，更为有力的证据，其实是那些图片中夹杂的各色美女图，裸",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "各式各样的刺激。\n\n    飙车毫无疑问是最有历史渊源，最为风行的一种。\n\n    毕竟是首都特区，无数的势力，无数的媒体都盯着这里，这些权贵后代们表现的还比较收敛，而其余的各州，这些权贵后代们表现的更为嚣张。许乐也曾经听说过，首都特区的这些权贵子弟们，不怎么愿意在特区城市的街道上飙车，因为这很容易",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

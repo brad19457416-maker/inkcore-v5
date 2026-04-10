@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 650,
+  "chapter_title": "第三十一章 善战",
+  "filename": "ch_0650_第三十一章 善战.txt",
+  "char_count": 2318,
+  "timestamp": "2026-04-10T12:11:26.813595",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "事情，在朝阳城内，他隔着院门暗射罗克敌，那人都能生出警兆，更何况是叶红鱼？\n　　所以当叶红鱼抬头望向天空那片乌云时，宁缺用禅念静心，用在烂柯寺里悟的佛宗真言手印挽弓，动作极为随意自如，就像替桑桑洗脚、又或是提笔写字一般，寻常至极，本没有杀意，自然没有一丝杀意外泄。\n　　铁弓与铁箭，则是桑桑早就替他准",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "然快速前冲。\n　　潭面水花四溅，白色的浪花与黑色的潭泥相杂而起，像是一条杂色的巨蛟，他便是巨蛟前方最危险的那个角，直接撞向叶红鱼。\n　　而在他的身前，潭上空中已经出现两道极为凌厉、锋不可挡的无形符意，把叶红鱼锁死在一个极小的范围内，正是他最强大的二字符。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，他毫不犹豫松开手中的铁弓，伸手握住刀柄，把沉重的朴刀拔了出来。\n　　叶红鱼一直在等着他弃弓拔刀的那瞬间，清魅的身影显现，水面上出现几朵涟漪，无数道细小的水剑由潭而生，如雨点般刺向宁缺的身体。\n　　桑桑撑开大黑伞。\n　　宁缺却没有站在大黑伞里，他也一直在等叶红鱼出剑的这瞬间，脸色瞬间变得更加苍白，身",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "她站起身来，望向水潭对岸的宁缺，虽然眼眸深处的神之星辉已经熄灭，但她的眼睛依然极为明亮，看不到什么愤怒的情绪，只是一片漠然。\n　　染着血的黑发和血色的神袍，无风舞动。\n　　宁缺挽弓对准她的身体，却发现根本无法瞄准，因为那些舞动的黑发，那件单薄飘拂的神袍，在空中振出了无数道残影，不知道哪道残影才是真",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "红鱼没有眼瞳微缩，也没有厉啸出声，无论瞳孔的缩小，还是空气振动声带，都需要力量，都需要时间，而且没有意义。\n　　她向着水潭对岸跪了下去，而双膝微弯时，铁箭已经到了眼前。她是万法皆通的道痴，然而在那万千法门中，却找不出比铁箭速度更快的手段。\n　　在这一刻，她的眼睛骤然明亮，眼眸深处，那两抹宁缺曾经见过",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "尽数燃烧殆尽――成为大神官后的天赐之辉就这样消耗一空，她付出的代价堪称惨重，道心更是严重受损。\n　　第一次出手，便让西陵神殿的裁决大神官身受重伤，无论怎么看这都是值得骄傲的事情，即便是二师兄君陌，也会对此表示满意。\n　　但宁缺不满意，看着水潭对岸浑身是血的叶红鱼，甚至非常失望遗憾，因为他知道自已再也",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "在他的身前，潭上空中已经出现两道极为凌厉、锋不可挡的无形符意，把叶红鱼锁死在一个极小的范围内，正是他最强大的二字符。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "中，如鱼儿入水得自由，根本无法锁死，于是便无法发箭。\n　　能够一招不发便破了自已的元十三箭，叶红鱼你果然很强大。\n　　宁缺瞄准着水面上那道身影，默默想着。\n　　局面已经非常清楚，那就不用再作徒劳无功的事情，他毫不犹豫松开手中的铁弓，伸手握住刀柄，把沉重的朴刀拔了出来。\n　　叶红鱼一直在等着他弃弓拔刀",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "烧的神之星辉，从她的眼中射中，变成两面明亮至极的光镜。\n　　黝黑的铁箭射在光镜上，光镜骤然破裂，变成无数飘浮的亮片。\n　　华美的神冕破裂，十三颗璀璨的宝石被震成齑粉，黄金冕身就像是秋天的菊花一般绽开，变成无数重密的丝瓣，然后散开。\n　　叶红鱼跪在岸边的湿地上，鲜血从鬓间淌出，顺着粉腮流下，嗒嗒滴在身",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "想着。\n　　局面已经非常清楚，那就不用再作徒劳无功的事情，他毫不犹豫松开手中的铁弓，伸手握住刀柄，把沉重的朴刀拔了出来。\n　　叶红鱼一直在等着他弃弓拔刀的那瞬间，清魅的身影显现，水面上出现几朵涟漪，无数道细小的水剑由潭而生，如雨点般刺向宁缺的身体。\n　　桑桑撑开大黑伞。\n　　宁缺却没有站在大黑伞里，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

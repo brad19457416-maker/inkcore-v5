@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 644,
+  "chapter_title": "第七章 餐厅里一抬头(上)",
+  "filename": "ch_0644_第七章 餐厅里一抬头(上).txt",
+  "char_count": 3679,
+  "timestamp": "2026-04-10T12:05:08.611897",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的漏洞，以及他死里求生的最后那丝希望，自然不可能告诉对方。\n\n    至于第二个问题，则事关他最大的秘密，更是不能说。\n\n    所以他只有沉默。\n\n    怀草诗仰起那张普通至极脸庞，淡然说道：“我不会要求你吐露联郏最新的技术秘密，只是需要一个大概的答案。”\n\n    片刻后，许乐回答道：“我不能",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。如果没有遇到你，我现在已经成功地回到了联邦。”\n\n    依旧没有得到答案，怀草诗的眼睛眯了起来，危险的气息渐渐笼罩餐桌。\n\n    “有一个好消息，帝国已经研成功大功率转向信号输出仪，在上次的实验中，已经成功连结你方的民用网络。”\n\n    怀草诗眯眼望着许乐，缓缓说道：“羞辱联邦战斗英雄的视频",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的档案？如果要打击我们联邦人的道德优越感，这很有必要。”\n\n    怀草诗沉默片刻，点了点头，他身后人群中伪装成平民的军人下属，马上离开，去安排这件事情。\n\n    帝国历史教科书被翻译成联邦语言，消耗了一个小时十七分钟的时间，显示出极高的效率。\n\n    在一个半小时之后，许乐将目光从电子书屏幕上",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。”\n\n    许乐握刀的右手骤然一紧，他知道对方所说的羞辱肯定是常人难以忍受的羞辱，而真正令他感到紧张的是帝国人接下来的安排。\n\n    他不是自恋的人，可是必须承认，现在的自己已经重要到能够影响更多的人和事，更大的范围。\n\n    联邦政丄府花费巨资拍摄播放纪录片《七组》，加上覆盖一切的媒体宣传",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "为虚弱而显得苍白的脸，忽然开口问道：“按照你们的逻辑，这是联邦的阴谋。可事实上前战……也就是你们说的第一次宇宙战争，我们打办理了，如果我们真有阴谋，怎么显得如此没有准备？”\n\n    在帝国历史教科书的记载中，当年最开始的接触，帝国方面一直小心谨慎，更不会想着去攻击联邦的科学考察船。在他们看来，那艘",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "乐，缓缓说道：“羞辱联邦战斗英雄的视频，大概会是我们传过去的第一份文件。”\n\n    许乐握刀的右手骤然一紧，他知道对方所说的羞辱肯定是常人难以忍受的羞辱，而真正令他感到紧张的是帝国人接下来的安排。\n\n    他不是自恋的人，可是必须承认，现在的自己已经重要到能够影响更多的人和事，更大的范围。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "来，你们是一群屠杀平民妇女婴儿的野兽，这一点无法改变。”\n\n    许乐拿起刀叉开始切割盘中的牛肉，颤抖握刀的右手，显示他此刻的虚弱无力。\n\n    他低头问道：“因为某些原因，你们暂时不杀我，我能明白，可我还是不明白，为什么你愿意赐予我这样的享受。”\n\n    “情报中的你，在某些事件中确实显得有",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "荒唐，不……能研出mx机甲的人，想必有足够的智慧明白某个事实。”\n\n    怀草诗轻轻擦拭唇角，淡漠说道：“只要你不能全心全意为帝国工作，那么无论如何，无论迟早，你终究是要死的。”\n\n    说到这里时，这位身份持殊的年轻帝**官加重了语气：“但你只需要就两件事情给我满意的答案，我可以保证你会极有尊",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，但哪里是那个在心中真正死扛道德大旗，迂腐执着至死的圣徒人物？\n\n    他本就不信宇宙里有这样的人存在，现在看来果然如此。\n\n    如果许乐真是一位怪胎圣徒，或许这几日帝国方面的动作真能令对方有所触动——能令联邦近年来最用心打造的战斗英雄叛变，不，哪怕仅仅是让他从内心深处产生某种自我怀疑，对于帝",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "。\n\n    “在死亡面前，有很多联邦人会跪下来求饶，但我研究过你，知道可能性不大，之所以带你看这些风景，让你听这堂专门安排的历史课，只是想打击一下你们这些联邦虚伪者不知道从哪里来的道德优越感。”\n\n    怀草诗如老人般负手于身后，抬步向校园外走去，没有丝毫表情的脸颊，将内心深处那林可惜遮掩的极好",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "德优越感，这很有必要。”\n\n    怀草诗沉默片刻，点了点头，他身后人群中伪装成平民的军人下属，马上离开，去安排这件事情。\n\n    帝国历史教科书被翻译成联邦语言，消耗了一个小时十七分钟的时间，显示出极高的效率。\n\n    在一个半小时之后，许乐将目光从电子书屏幕上挪开，揉了揉因为虚弱而显得苍白的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "大功率转向信号输出仪，在上次的实验中，已经成功连结你方的民用网络。”\n\n    怀草诗眯眼望着许乐，缓缓说道：“羞辱联邦战斗英雄的视频，大概会是我们传过去的第一份文件。”\n\n    许乐握刀的右手骤然一紧，他知道对方所说的羞辱肯定是常人难以忍受的羞辱，而真正令他感到紧张的是帝国人接下来的安排。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "道德优越感……确实是很没有趣的东西。”许乐回答道：“不过我对这一段历史真的很感兴趣，在死之前，能不能满足我的要求，让我看一下当年相关的档案？如果要打击我们联邦人的道德优越感，这很有必要。”\n\n    怀草诗沉默片刻，点了点头，他身后人群中伪装成平民的军人下属，马上离开，去安排这件事情。\n\n    帝",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

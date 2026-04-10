@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 809,
+  "chapter_title": "第一百九十章 府中灯如豆，扶拐笑披风",
+  "filename": "ch_0809_第一百九十章 府中灯如豆，扶拐笑披风.txt",
+  "char_count": 3427,
+  "timestamp": "2026-04-10T12:11:27.241068",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "豆的灯光。\n　　露台上有很多重幔纱，灯光很暗淡，坐在那里的女子显得很寂寞，时值寒冬，没有人能明白，她为什么要坐在那里受冷风吹。\n　　宁缺掀开幔纱，看着李渔说道：“看起来最近你情绪还算可以，想来也是，只要心里有念头，再苦的日子也总能熬下去。”\n　　李渔明显有些清减，但容颜依旧清丽，她没有理宁缺，是对着",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百九十章 府中灯如豆，扶拐笑披风\n　　这里离朱雀大道不远，受当日战斗的波及，有些房屋受损的比较严重，微雪夜里，还能看到有人正在修葺。\n　　宁缺像是没有听到朝小树的话，静静看着那边，看了很长时间后忽然说道：“那天街上死了很多人。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "夜街安静无声，曾经宾客如云的公主府，显得格外冷清寂寞，即便是偶尔走过的百姓，也没有谁愿意向那扇紧张的大门看上一眼。\n　　宁缺知道夜色笼罩的周边坊市里隐藏着不少侍卫。他始终认为李渔是个白痴，但这并不代表皇宫里的那对母子，会对她稍微放松警惕。\n　　他和朝小树向着公主府走去。微雪落在紧张的大门上，院",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第一百九十章 府中灯如豆，扶拐笑披风\n　　这里离朱雀大道不远，受当日战斗的波及，有些房屋受损的比较严重，微雪夜里，还能看到有人正在修葺。\n　　宁缺像是没有听到朝小树的话，静静看着那边，看了很长时间后忽然说道：“那天街上死了很多人。”\n　　朝小树不再说什么，开始从汤锅里",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，也选择了蛰伏平静，但如果战争结束或者暂时终止，矛盾终将再次暴发出来。”\n　　宁缺说道：“朝堂上的大人们并不真的是白痴，皇后娘娘展现出了她的手段和治国能力，他们没有道理继续支持李渔。”\n　　朝小树说道：“你似乎忘记了一件事情，现在全天下的人都知道皇后是魔宗余孽，唐人虽然从来没服过西陵神殿，但对昊天的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "出来。”\n　　宁缺说道：“朝堂上的大人们并不真的是白痴，皇后娘娘展现出了她的手段和治国能力，他们没有道理继续支持李渔。”\n　　朝小树说道：“你似乎忘记了一件事情，现在全天下的人都知道皇后是魔宗余孽，唐人虽然从来没服过西陵神殿，但对昊天的信仰却一时半会儿没有可能洗清，人们对魔宗依然有一种天然的厌恶感。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "坐在那里受冷风吹。\n　　宁缺掀开幔纱，看着李渔说道：“看起来最近你情绪还算可以，想来也是，只要心里有念头，再苦的日子也总能熬下去。”\n　　李渔明显有些清减，但容颜依旧清丽，她没有理宁缺，是对着他身旁的朝小树行礼，说道：“多谢朝二叔还记得我。”\n　　朝小树摇了摇头，没有说话。\n　　宁缺扶拐走到她身前，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "树间隐隐传来呼吸的声音，从呼吸的频率上来看，那几个人有些紧张。\n　　宁缺抬头望向夜空里落下的雪，雪花缓缓地飘落，看着确实有些美丽，但他其实不是在看雪，目光在墙头树枝间轻拂而过。\n　　在树枝间，他看到了锋利寒冷的箭簇。\n　　“是弩箭。”\n　　他看着朝小树笑着说道：“好像还是神侯弩。”\n　　听着神侯弩三",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "。\n　　他忽然停下脚步，腋下的拐杖落在雪里。\n　　朝小树也停下了脚步。\n　　在看似正常的夜色里，他们同时感觉到了不正常，因为他们听到墙后的古树间隐隐传来呼吸的声音，从呼吸的频率上来看，那几个人有些紧张。\n　　宁缺抬头望向夜空里落下的雪，雪花缓缓地飘落，看着确实有些美丽，但他其实不是在看雪，目光在墙头",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "。”\n　　“都是借口。”\n　　宁缺的语气很平静，这种平静里透着比湖上的雪还要低的温度。\n　　“如果是担心小蛮，你可以直接派人对我说，看在旧日情份上，无论如何我也不会看着他在这里虚度年华，但你没有说，因为你还是想着自已要出去，而你知道，无论如何我都不会让你离开这座公主府。”\n　　寒冷的夜风拂起幔纱，落",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "续支持李渔。”\n　　朝小树说道：“你似乎忘记了一件事情，现在全天下的人都知道皇后是魔宗余孽，唐人虽然从来没服过西陵神殿，但对昊天的信仰却一时半会儿没有可能洗清，人们对魔宗依然有一种天然的厌恶感。”\n　　宁缺说道：“你究竟想说什么？”\n　　朝小树说道：“那要取决于书院和朝廷准备如何处理她。”\n　　“如",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "何我也不会看着他在这里虚度年华，但你没有说，因为你还是想着自已要出去，而你知道，无论如何我都不会让你离开这座公主府。”\n　　寒冷的夜风拂起幔纱，落在李渔的身上，她有些寒冷。\n　　朝小树站在一旁沉默不语。\n　　李渔看着宁缺，忽然说道：“你就这么恨我？”\n　　宁缺说道：“与爱恨无关，你知道我向来只考虑利",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，微雪夜里，还能看到有人正在修葺。\n　　宁缺像是没有听到朝小树的话，静静看着那边，看了很长时间后忽然说道：“那天街上死了很多人。”\n　　朝小树不再说什么，开始从汤锅里捞羊杂。\n　　宁缺给他的碗里倒满酒，说道：“议和的事情你怎么看？”\n　　朝小树说道：“朝堂大事，我不便发言。”\n　　宁缺说道：“战局渐",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

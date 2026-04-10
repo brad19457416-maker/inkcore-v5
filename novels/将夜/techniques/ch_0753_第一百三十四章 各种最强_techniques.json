@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 753,
+  "chapter_title": "第一百三十四章 各种最强",
+  "filename": "ch_0753_第一百三十四章 各种最强.txt",
+  "char_count": 3564,
+  "timestamp": "2026-04-10T12:11:27.117758",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "斗局限在两个人之间。\n　　这是西陵神殿与书院之间的战斗。\n　　她不是一个人在战斗。\n　　所以这场战斗最终必将以西陵神殿的获胜而告终。\n　　……\n　　……\n　　无数铁骑至，烟尘大作，青峡不安。\n　　二师兄站在青峡之前，铁剑早已离手而去，变作一道暗色的剑芒，在身前百丈方圆的原野上来回穿掠。\n　　铁剑沉重",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "系好，却使不出来一丝力气。\n　　古琴只剩了一根弦，即便能弹，又如何能够成曲？\n　　王持拿着两把药丸，紧张地塞进两位师兄的嘴里，颤声道：“没事。”\n　　六师兄拿着铁锤，站在篷下最前方，沉默看着不远处的战场，看着那些已经突破铁剑，冲锋而而至的骑兵，双手缓缓握紧。\n　　木柚看着若隐若现，似乎下一刻便要被消",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "青峡之前。\n　　无数铁骑伴着轰轰的声音，重重砸落在地面上。\n　　平和雅美的琴曲，没有任何杀意，却瞬间杀死了无数人。\n　　……\n　　……\n　　原野间一片死寂。\n　　只有琴声在回荡。\n　　西陵神殿联军所有人都震惊地说不出话来。\n　　还在原野间的叶红鱼霍然转身，望向青峡处，脸上露出不可思议的神情。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "去，虽然受了伤，但神情平静而从容，脚步稳定。\n　　在境界实力上，现在的她与君陌之间还有距离，但她擅于战斗，最关键的是，她非常冷静，没有因为骄傲而把这场战斗局限在两个人之间。\n　　这是西陵神殿与书院之间的战斗。\n　　她不是一个人在战斗。\n　　所以这场战斗最终必将以西陵神殿的获胜而告终。\n　　……",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "那琴声很清脆，很平和。\n　　但落在所有人的耳中，却是那般的惊心动魄。\n　　……\n　　……\n　　秋风微起。\n　　一个书生，来到青峡。\n　　一件棉袄，满身灰尘。\n　　一双草鞋，千山万水。\n　　那只水瓢，在击倒肉身成佛的七枚大师后，破碎成块。\n　　他的腰间，只插着根木棍。\n　　他走到北宫身旁，拿起那方",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "六师兄拿着铁锤，站在篷下最前方，沉默看着不远处的战场，看着那些已经突破铁剑，冲锋而而至的骑兵，双手缓缓握紧。\n　　木柚看着若隐若现，似乎下一刻便要被消失不见的二师兄身影，清丽的容颜上写满了紧张与担忧，拉着红线的手指微微颤抖。\n　　如果那些骑兵冲过来，她主持的阵法，便是书院弟子最后的手段。\n　　但她",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "北宫未央与西门不惑坐在篷下，脸色苍白，身前全是血水。\n　　北宫的脸上满是不甘与痛苦的神情，他伸出颤抖的手指，想要重新把古琴上的琴弦系好，却使不出来一丝力气。\n　　古琴只剩了一根弦，即便能弹，又如何能够成曲？\n　　王持拿着两把药丸，紧张地塞进两位师兄的嘴里，颤声道：“没事。”\n　　六师兄拿着铁锤，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "。\n　　许世和陈皮皮都曾经说过，世间没有能够挡住铁骑冲锋的修行者，除非他已经逾越五境，成为超凡脱俗的存在。\n　　许世是曾经的大唐军方第一人，他对铁骑的威力最为清楚，陈皮皮是年轻的道门天才，又在书院学习多年，他对修行世界的规则最为清楚。\n　　所以这样两个人做出的结论，禁得住考验。\n　　二师兄很强，他已",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "被迫分成了数处。\n　　数人在书院后山，迎战西陵神殿掌教。\n　　大师兄在与书院最强大的对手周旋。\n　　出现在青峡之前的诸弟子，虽然组合起来同样强大，但终究不够完美，有漏洞存在，而这个漏洞，今天便被叶红鱼捕捉到了。\n　　在青峡之战的具体局面中，北宫未央与西门不惑所扮演的角色至为关键，虽然他们的境界普通，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，看着幔纱外远处的青峡，喃喃说道：“他怎么来了，观主呢？”\n　　安静的马车旁。\n　　柳白看着青峡处，感慨说道：“你们运气不错，居然能看到大先生出手，最令我感到震惊的是，他居然也学会杀人了。”\n　　……\n　　……\n　　琴声渺渺，如飞鸿渐逝。\n　　直至此时，青峡前的原野上，才响起无数惨呼之声，不知多少骑",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "她不是一个人在战斗。\n　　所以这场战斗最终必将以西陵神殿的获胜而告终。\n　　……\n　　……\n　　无数铁骑至，烟尘大作，青峡不安。\n　　二师兄站在青峡之前，铁剑早已离手而去，变作一道暗色的剑芒，在身前百丈方圆的原野上来回穿掠。\n　　铁剑沉重方正，飞掠的速度却是奇快，看似钝而无锋的剑身，与骑兵身上的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。\n　　但落在所有人的耳中，却是那般的惊心动魄。\n　　……\n　　……\n　　秋风微起。\n　　一个书生，来到青峡。\n　　一件棉袄，满身灰尘。\n　　一双草鞋，千山万水。\n　　那只水瓢，在击倒肉身成佛的七枚大师后，破碎成块。\n　　他的腰间，只插着根木棍。\n　　他走到北宫身旁，拿起那方古琴，抱在怀里，右手轻拂",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "只要他看你一眼，你就死了。\n　　二师兄看了那数名骑兵一眼。\n　　他识海里的念力破空而至，准确而狂肆地同时进入那几名骑兵的脑海里，那几名骑兵虽然不是修行者，但他们有大脑，所以他们死了。\n　　但这只是战场上的一个画面，只是狂暴海洋里的一处角落，并不能影响整个大局，当无数骑兵舍生忘死地冲锋而至时，什么都会",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "一眼。\n　　很久以前，宁缺曾经问过师傅颜瑟，二师兄这个知命境巅峰到底是个怎样的境界，颜瑟大师想了想后说道：只要他看你一眼，你就死了。\n　　二师兄看了那数名骑兵一眼。\n　　他识海里的念力破空而至，准确而狂肆地同时进入那几名骑兵的脑海里，那几名骑兵虽然不是修行者，但他们有大脑，所以他们死了。\n　　但这只",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

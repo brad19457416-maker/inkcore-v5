@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 560,
+  "chapter_title": "第六十七章 天算",
+  "filename": "ch_0560_第六十七章 天算.txt",
+  "char_count": 3553,
+  "timestamp": "2026-04-10T12:11:26.646009",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "令世间的强大权威，而此时他们敬畏的却是光明之女在这场破局中所展现出来的最纯粹的智慧。\n　　既然修道，众人当然明白这种纯粹的智慧代表着什么。\n　　过去两年间，修行界都隐约知道前任光明神座的继任者在长安，但因为西陵神殿有意无意的遮掩，他们并不清楚那位光明之女是什么样的人。\n　　后来知晓那位光明之女是唐国",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的声音便再次响起，似乎中间没有任何停顿，又有一枚白色棋子落在了棋盘上。\n　　黄衣老僧银白色的长眉在秋风里缓缓飘起。\n　　他看着棋盘上东一块西一块、互相纠缠冲突、显得非常斑驳的黑白棋子，忽然间生出一股极为强烈的警惕意味。\n　　南晋棋师再次惊噫一声，站在棋盘边俯首去看，看的非常仔细。\n　　桑桑的声音不断",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "女是什么样的人。\n　　后来知晓那位光明之女是唐国大臣的女儿，书院十三先生的侍女，修行界不免有些怀疑她究竟有怎样的潜质或能力，能够被西陵神殿如此看重，能够被前任光明大神官挑选为继任者，直到今天他们终于明白一切事情都是有道理的。\n　　……\n　　……\n　　桑桑真的破解了这道残局。即便是宁缺，一时半会也难以",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "……\n　　桑桑真的破解了这道残局。即便是宁缺，一时半会也难以相信，当然他很喜悦，尤其是回思先前瓦山寂静无声，只有桑桑清稚的声音回荡在石桌畔时的画面，他的心中竟出现了吾家有女始长成的幸福与感伤。\n　　而就在黄衣老僧行礼认输之时，他忽然注意到，桥下佛辇帷布里那名悬空寺高僧的身影微微前倾，似乎极为关注桑",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "他用僧袖擦去血水，看着棋盘上那些黑白棋子，声音微涩说道：“世间竟有天算之人，那这局残棋便没有任何意义，便让它留在这里吧。”\n　　话音落处，黄衣老僧挥动僧袖自棋盘上拂过，拂落一片树叶。\n　　程子清皱眉问道：“大师，如果保留这局残棋，接下来如何处理？”\n　　“残局不残，还谈什么过关？要过涧者请自便。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "真诚赞美赞道：“果然是传说中的光明之女，人算竟胜似天算，师兄请。”\n　　看着桑桑如此风光，大黑马骄傲心想这个女主人虽然生的寻常，手段倒也不差，不由快活地打了个响鼻，涧旁那些正在低首吃草的骏马们，听到它的声音，却下意识里恐惧起来，蹄步大乱向草坡上方逃散。\n　　黑色马车缓缓驶上石桥，过了虎跃涧而去。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "子落在了棋盘上。\n　　黄衣老僧银白色的长眉在秋风里缓缓飘起。\n　　他看着棋盘上东一块西一块、互相纠缠冲突、显得非常斑驳的黑白棋子，忽然间生出一股极为强烈的警惕意味。\n　　南晋棋师再次惊噫一声，站在棋盘边俯首去看，看的非常仔细。\n　　桑桑的声音不断从黑色马车里传出来。\n　　白色棋子不断从棋瓮里被莫山山",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "声音继续在青树下响起。\n　　石桌棋盘上又落了四五枚棋子。\n　　黄衣老僧的神情变得前所未有的凝重，微微颤抖的僧衣表露了他此时内心真实情绪紧张到了何种程度，更有几颗黄豆般的汗珠出现在额头上。\n　　“乱柯居然真有成堆之像，这……如何可能？难道世间真有人能算出来？”\n　　黄衣老僧看着面前的残局，声音极为干涩",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "僧的眉毛飘起的频率越来越密，苍老的面容上，谨慎深思与惊讶的神情不停变换，似乎看到某种不可能的可能正在出现。\n　　南晋棋师惊噫的频率也越来越密集，身子俯的离桌面越来越低，眼睛瞪的越来越大，似乎看到白色棋子，不可思议地活过来了般。\n　　桑桑的声音继续在青树下响起。\n　　石桌棋盘上又落了四五枚棋子。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "音便再次响起，似乎中间没有任何停顿，又有一枚白色棋子落在了棋盘上。\n　　黄衣老僧银白色的长眉在秋风里缓缓飘起。\n　　他看着棋盘上东一块西一块、互相纠缠冲突、显得非常斑驳的黑白棋子，忽然间生出一股极为强烈的警惕意味。\n　　南晋棋师再次惊噫一声，站在棋盘边俯首去看，看的非常仔细。\n　　桑桑的声音不断从黑",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "棋子落在棋盘上。\n　　南晋棋师也没有想到桑桑竟然不接受烂柯寺方面停止破局的提议，忍不住连连摇头，叹息说道：“莫非你这小姑娘还真以为自己能赢？”\n　　桑桑掀起马车青帘一角，望向棋盘上那枚新落的黑色棋子，发现黑棋在青树漏下的天光里显得很漂亮，微笑着说了个方位。\n　　莫山山依言拈起一枚白色棋子，轻轻落在棋",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "般。\n　　这枚白棋令他始料不及，所以他沉默了一段时间，才做了自己的应对。\n　　而就在他的苍老手指刚刚离开黑棋表面时，桑桑轻微的声音便再次响起，似乎中间没有任何停顿，又有一枚白色棋子落在了棋盘上。\n　　黄衣老僧银白色的长眉在秋风里缓缓飘起。\n　　他看着棋盘上东一块西一块、互相纠缠冲突、显得非常斑驳的黑",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "尤其是回思先前瓦山寂静无声，只有桑桑清稚的声音回荡在石桌畔时的画面，他的心中竟出现了吾家有女始长成的幸福与感伤。\n　　而就在黄衣老僧行礼认输之时，他忽然注意到，桥下佛辇帷布里那名悬空寺高僧的身影微微前倾，似乎极为关注桑桑，心中不由警意再生。\n　　他把目光从佛辇处收回，问道：“我们可以上山了吧？”",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

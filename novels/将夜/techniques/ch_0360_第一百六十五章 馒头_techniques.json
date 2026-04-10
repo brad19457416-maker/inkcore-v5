@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 360,
+  "chapter_title": "第一百六十五章 馒头",
+  "filename": "ch_0360_第一百六十五章 馒头.txt",
+  "char_count": 3473,
+  "timestamp": "2026-04-10T12:11:21.724414",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的晨光轻波，忧伤感慨说道：“别人都能三妻四妾……好吧，换一个比较好些的说法，别人都能拥有很多段爱情，为什么我就不行？为什么我家那个还是个小孩子就学会吃风吃醋了？”\n　　陈皮皮站在他身旁看着湖里的雁鸣山倒影，说道：“这种事情你不要问我，对于女人这种奇怪的东西我从来没有想明白过。”\n　　宁缺看了他一眼。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "名，宁缺对于这种局面早有心理准备，但他今天没有准备好。\n　　因为荒原之行的那些故事，因为与花痴之间的冲突，因为那个叫曲妮玛娣的可恶的老女人，宁缺对月轮国对白塔寺没有丝毫好感，但前些天与观海僧一战后，他对佛门弟子的观感有所改变。\n　　他看着那名中年苦行僧诚恳说道：“我今天有些要紧的事情要做，大师能不能",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "为我烦。”\n　　……\n　　……\n　　中年僧人看着宁缺微微一笑，放下手中那只馒头。\n　　纵使千年如何，最终还须一个土馒头。\n　　宁缺的眼前便多了一个馒头，一个土馒头，一个坟头。\n　　那座孤坟在他的眼帘里越来越清晰，越来越大，渐要遮蔽街畔早点摊子上冒出的执业雾，快要遮住开心捧着肉包子的孩童的笑颜。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "吧，换一个比较好些的说法，别人都能拥有很多段爱情，为什么我就不行？为什么我家那个还是个小孩子就学会吃风吃醋了？”\n　　陈皮皮站在他身旁看着湖里的雁鸣山倒影，说道：“这种事情你不要问我，对于女人这种奇怪的东西我从来没有想明白过。”\n　　宁缺看了他一眼。\n　　陈皮皮摇头说道：“你也不要奢望能从师兄师姐们",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "我自己的事情，终究得我自己去处理，而且这种事情必须处理的毫不拖泥带水。”\n　　陈皮皮忧虑说道：“你不担心会伤着她？”\n　　宁缺笑着说道：“难道我不是一个很薄情寡性的人吗？”\n　　陈皮皮看着他很认真地说道：“你笑的很假很惨淡”\n　　宁缺惨淡一笑，不知该如何言语。\n　　陈皮皮感慨说道：“男女之事果然是世",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，宁缺想着这句话，认真问道：“如果你要吃喜欢吃的蟹黄粥，就喝不着水了，怎么办？”\n　　陈皮皮挥手不耐说道：“不可能会有这种情况发生，哪里找不着水喝？”\n　　宁缺坚持问道：“如果水有脚，有思想，不想让你喝，当你靠过去，它就自己跑掉，你怎么办？”\n　　陈皮皮愣了愣，思考很长时间后无奈说道：“如果真是这样",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，烦到不能呼吸，烦到快要歇欺底里，烦到直接说道：“我认输。”\n　　中年僧人说道：“未曾战，便言输，无意义。”\n　　宁缺看着中年僧人黝黑的脸颊，看着他脸上那些纵横如山川的皱纹，沉默很长时间后说道：“那你选个地方。”\n　　中年僧人说道：“佛门讲究缘法，既然在这里遇见十三先生，那便就在这里。”\n　　宁缺看",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "人，吃馒头居然连腐乳都没得配，真不愧是苦行僧。”\n　　长安城乃天下第一雄城，每日里不知有多少奇人异士出现，虽说苦行僧比较少见，但二人也不以为意，就这样走了过去。\n　　走过那两名僧人身旁时，宁缺看了那名中年僧人一眼。\n　　恰在这时，那名中年僧人抬头看了宁缺一眼。\n　　宁缺停下脚步。\n　　那名中年僧人的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "道：“如果真是这样，那为了活下去，还是喝水吧，虽然会痛苦一些。”\n　　宁缺看着湖面上的晨光轻波，忧伤感慨说道：“别人都能三妻四妾……好吧，换一个比较好些的说法，别人都能拥有很多段爱情，为什么我就不行？为什么我家那个还是个小孩子就学会吃风吃醋了？”\n　　陈皮皮站在他身旁看着湖里的雁鸣山倒影，说道：“这",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "念力攻击敌人的识海，以念力操控天地元气直接攻击敌人的内腑，无形无痕，难以防范，非常强大。\n　　修行界一向有种认知：同等境界的修行者中，念师是最强大的。\n　　宁缺遇见过念师。\n　　他在这个世界上遇见的第一位修行者吕清臣老人，便是一位洞玄境的大念师。\n　　但他从来没有与念师战斗过。\n　　他更没有想像过佛",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“我可不觉得这算是安慰。”\n　　宁缺说道：“对了，师兄要抓我回书院问什么事情？”\n　　陈皮皮说道：“大家想问清楚你到底是想选山山还是桑桑，不过现在看来可以不用问了，我很赞成你的选择。”\n　　宁缺神情微异问道：“为什么？”\n　　陈皮皮看着他说道：“因为我知道你会这样选。”\n　　宁缺沉默了很长时间。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "女人都没有任何想法，如此一来反而让我不需要经历你这些苦恼。”\n　　……\n　　……\n　　二人绕湖而过，离开雁鸣山，重新回到人声嘈杂的街市之中，此时晨光大作，长安百姓们都已经起床，在早点摊子前排起了长龙。\n　　一家馒头铺旁，站着两名僧人。一名是干瘦的武僧，裸露在僧衣外的手臂看上去就像钢铁一般，另一名中年",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "僧人一眼。\n　　恰在这时，那名中年僧人抬头看了宁缺一眼。\n　　宁缺停下脚步。\n　　那名中年僧人的目光宁静而强大，仿佛在青灯古佛前被香火静静薰染了几千几万年，没有任何杂质。\n　　而那名中年僧人身上流露出来的气息也极为宁静而强大，他此时虽然站在人声鼎沸的坊市里，手里拿着半个雪白的馒头，但却像是站在莲花盛",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

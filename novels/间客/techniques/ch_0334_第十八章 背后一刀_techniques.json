@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 334,
+  "chapter_title": "第十八章 背后一刀",
+  "filename": "ch_0334_第十八章 背后一刀.txt",
+  "char_count": 4649,
+  "timestamp": "2026-04-10T12:04:59.237139",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "。”\n\n    在十七装甲师和白水第七战斗小组这两个圈子中，曾经担任过特种尖刀小队队长的白玉兰，毫无疑问是个极其厉害的人物。比他年资更长的军官称呼他为小白，大部分的军人尊敬地称呼他为老白，无论他是不是现役军人。但所有人都知道白玉兰还有一个外号，那就是玉兰油，因为他是一个在战场上最可怕的老兵油子，就算",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "道许乐还活着。\n\n    这样挺好，白玉兰在心里这般想道，走过熊临泉的身边，站到许乐的身前，轻言细语说道：“老板你好。”\n\n    听到老板这两个字，许乐的唇角泛起一丝微涩的笑意，目光没有落在白玉兰的脸上，因为他不知道自己再多看几眼之后会生什么。他看着白玉兰身后那些如临大敌的军官，眼睛微眯说道：“现",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "许乐却像是没有注意到外围的紧张气氛，看着白玉兰手中的秀气小刀，想到第一次与此人在白水公司里的危险交手，又想到在地下基地里白玉兰倾囊相授机甲操控技巧，心头未软，只是微感惘然，他只是很简单地想信任某些人，他自幼都是这样做的，然而这种信任，总是容易被联邦里的罡风吹的飘零散落，不留痕迹。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "这是真的。以往周周去港都，你帮我扫除麻烦，你替我试机，你已经帮了我很多，两千万也差不多了……那次在流风坡外面，我定下心去做那件事情，本就没有计算你的份量，但你坚持要跟我去，说句实话，当时我是很感动的，觉得你总算不把我当成个出钱的老板，而是朋友。”\n\n    刺杀麦德林是何等机密何等壮阔的大手笔，许乐",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "长地时间，他自认很了解这个秀气男人。\n\n    一直到他将视线往前面推进了很久很久，才想清楚了其中地道理。\n\n    能够认识白玉兰，并且把这个擅于暗杀保安的生猛秀气男人收为助手，是许乐进入白水公司第七战斗小组之后的事情。\n\n    而他进入白水公司，却是实验室数据之争后，邰家为了让他远离风波中心而",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "缓逼近，随时准备出手。\n\n    许乐却像是没有注意到外围的紧张气氛，看着白玉兰手中的秀气小刀，想到第一次与此人在白水公司里的危险交手，又想到在地下基地里白玉兰倾囊相授机甲操控技巧，心头未软，只是微感惘然，他只是很简单地想信任某些人，他自幼都是这样做的，然而这种信任，总是容易被联邦里的罡风吹的飘零散",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "墨绿色地军车前盖翘起，惨不忍睹，警报长鸣，掩盖了两个人的对话。参加婚礼的军官们警惕地围在外围，惑而紧张地注视着白玉兰和许乐的身影，只是此时白烟阵阵，这两个身影竟是有些模糊。\n\n    “各有各的处世原则，这个我接受。”许乐抬起头来，沉声说道：“你先拿的邰夫人地钱，讲究先来后到，我接受。甚至你拿钱不",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "花钱很快的，还是再让我欠你一条命吧。”\n\n    许乐沉默片刻，自嘲一笑，说道：“让你欠我命，我害怕将来又是我欠你的命。”\n\n    说完这句话，他转身离开，走过大街，上了那辆黑色的汽车。\n\n    ……\n\n    ……\n\n    四周的军官围了过来，虽然他们已经看出这件事情大有蹊跷，最后白玉兰完全",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "后背流下的鲜血，和那道凄厉的伤口，他们依然是血气向上一涌，准备做些什么。\n\n    “收了。”白玉兰愤怒地吼道。\n\n    他望着街那边的男人背影，忍着剧痛，颤声低沉说道：“他是许乐，我欠他的。”\n\n    说完这句话，他就倒了下去，血沫子从双唇间喷了出来，刺进后背的那一刀，已经伤了他的肺叶，伤势极",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "职业道德的人，认钱不认人，你喊我老板，说要把这条命卖给我，有没有可以解释的地方？”\n\n    白玉兰自嘲地笑了笑，笑容竟有些清冷，沉默片刻后回答道：“还记不记得在曾经有一次我和你说过，如果都出了钱，我只好讲究一个先来后到……我本以为那边不会对我有任何指示，我把习惯当成了真实，所以跟着你爬了那座山，但",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "想清楚了其中地道理。\n\n    能够认识白玉兰，并且把这个擅于暗杀保安的生猛秀气男人收为助手，是许乐进入白水公司第七战斗小组之后的事情。\n\n    而他进入白水公司，却是实验室数据之争后，邰家为了让他远离风波中心而做出的调动，换句话来说，他与白玉兰的相识，本来就是那位沈大秘书所做的安排。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "属于联邦机密，他只是大人物们放在许乐身边的一枚棋子，根本不知道后面生了什么。直到此时在酒店外面，看着缓缓收回右腿的许乐，他才知道许乐还活着。\n\n    这样挺好，白玉兰在心里这般想道，走过熊临泉的身边，站到许乐的身前，轻言细语说道：“老板你好。”\n\n    听到老板这两个字，许乐的唇角泛起一丝微涩的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "沈秘书地吩咐，跟在许乐身边这么长的时间，白玉兰心中谨持地理念，也在潜移默化地生着变化。\n\n    他从来没有见过像许乐这样简单直接纯净的家伙，他本以为自己跟着许乐，似乎也能简单直接纯净一点，结果没有料到世事终是不尽如人意，他终究还是一个监视，一枚锋利地棋子。\n\n    白玉兰沉默了片刻，将右手从裤兜",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "但很清楚许乐和白玉兰之间的问题，轮不到自己插手。\n\n    他神情凝重地对着那些军官说了几句什么，将众人赶到了远处，只是如果呆会儿真有血光乍现，想必这些人自然不会袖手旁观。\n\n    “要不要找个安静的地方说话？”白玉兰没有询问许乐怎么会活着出了军事监狱，也没有试图逃走，只是淡淡地请示，就像以前很多",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "叹息了一声。正如以往他曾经对许乐说过的那样，自幼的生活经历，从军后的残酷人生，让他对人世间没有太多的温暖感情，除了那些生死与共地战友和无言无语却格外可亲的钞票。然而按照沈秘书地吩咐，跟在许乐身边这么长的时间，白玉兰心中谨持地理念，也在潜移默化地生着变化。\n\n    他从来没有见过像许乐这样简单直接纯",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

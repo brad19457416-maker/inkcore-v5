@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 987,
+  "chapter_title": "第一百六十章 喝了这杯茶，再来问问啥",
+  "filename": "ch_0987_第一百六十章 喝了这杯茶，再来问问啥.txt",
+  "char_count": 3297,
+  "timestamp": "2026-04-10T12:11:27.636737",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "后面那场绵绵的春雨也没有让祭祀终止，虔诚的祈祷声未曾断绝。\n　　今日，这些祈祷声忽然静止。\n　　因为天空里忽然响起一道如雷般的声音，充满了无法抗衡的力量与最深远的威严感，就像是苍天在对人间训话。\n　　“你们知罪吗？”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "威胁，帮助你们的老师。”\n　　宁缺沉默不语。\n　　桑桑微微一笑，转身离开湖畔。\n　　春光照亮城墙，她来到了城墙上。\n　　她看着遥远的南方，看着那座桃花盛开的山，说道：“你们知罪吗？”\n　　西陵神殿在桃山上。\n　　数百神官和数千执事，还有难以计数的虔诚昊天信徒，正在进行盛大的祭祀，这场祭祀已经持续了很",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "然而不等她说些什么，身前便多了杯茶。\n　　桑桑说道：“喝了这杯茶。”\n　　小草的思绪愈发混乱，不明白为什么她要自己喝这杯茶。\n　　宁缺说道：“喝了吧，她不会害你。”\n　　小草端起茶杯，喝了下去，完全不知道茶水是什么滋味，然后觉得身体变得有些轻，有些暖洋洋的，很想睡一觉。\n　　看着进入香甜梦乡的小草，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "神阵就算被修复，也无法杀死现在的我。”\n　　桑桑说道：“为什么？当初你想让我重回长安，不就是存的这个念头。”\n　　宁缺说道：“我们只是想让惊神阵断绝你与神国之间的联系，书院其实从来没有想过，要把你杀死。”\n　　桑桑想着李慢慢在书院后山说的话，沉默片刻后说道：“为什么？轲浩然是我杀死的，你们老师也注定",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，官道畔杨柳依依，当年那场战争的痕迹，已经被时间消除了很多，只有茶铺里拄着拐棍的伤残士卒，在不停唤起人们的记忆。\n　　桑桑重新回到这座有过很多记忆的城市，神情却很平静，仿佛根本没有离开过，负手随意行走，穿过熟悉的街巷。\n　　由南门入，转向西城，她带着宁缺先去了那家赌坊，没有收取自己的分红，看着赌客们",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，你给我说清楚，究竟是哪家的女人。”\n　　吴老板很是无辜，说道：“那女人我都不认识。”\n　　吴婶鼻息骤然变粗，声音也变得粗了起来：“不认识的女人你也敢往家里带！”\n　　吴老板生气说道：“这都哪儿跟哪儿啊？我什么事儿都不知道！”\n　　吴婶用空着的左手抓住吴老板的衣领，右手里湿淋淋的抹布，劈头盖脸便向他",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "道：“我们只是想让惊神阵断绝你与神国之间的联系，书院其实从来没有想过，要把你杀死。”\n　　桑桑想着李慢慢在书院后山说的话，沉默片刻后说道：“为什么？轲浩然是我杀死的，你们老师也注定要被我杀死。”\n　　宁缺说道：“以前便解释过，杀死小师叔的是昊天，不是你，现在的你是活着的人，而不是冰冷的规则，至于老师",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，她隐约记得在光明神殿的幔纱后，看到过这个高大的身影，然而不等她说些什么，身前便多了杯茶。\n　　桑桑说道：“喝了这杯茶。”\n　　小草的思绪愈发混乱，不明白为什么她要自己喝这杯茶。\n　　宁缺说道：“喝了吧，她不会害你。”\n　　小草端起茶杯，喝了下去，完全不知道茶水是什么滋味，然后觉得身体变得有些轻，有",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "陌既然不想喝，我不勉强。”\n　　宁缺很无奈地叹息一声，指着自己说道：“那我呢？”\n　　桑桑说道：“你从来都不喜欢喝茶。”\n　　宁缺有些恼火，说道：“长生不老的茶谁不想喝？”\n　　桑桑说道：“我说过，不是谁都有资格喝这茶。”\n　　宁缺真的怒了，说道：“你是我老婆，你沏的茶我没资格喝谁还有资格！”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

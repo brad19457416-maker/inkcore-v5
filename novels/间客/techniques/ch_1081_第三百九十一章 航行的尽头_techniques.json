@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 1081,
+  "chapter_title": "第三百九十一章 航行的尽头",
+  "filename": "ch_1081_第三百九十一章 航行的尽头.txt",
+  "char_count": 3433,
+  "timestamp": "2026-04-10T12:05:26.953012",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "……\n\n    ……\n\n    忽然间，那台悬浮在战舰腹旁的看上去已经放弃的焦黑色机甲动了起来，寂静的空间里听不到任何嗡鸣的声音，却可以清晰地看到破损合金板上反射远处恒星光辉的颤动！\n\n    焦黑色mxt机甲再次强行启机，静农电池里残存的最后能量，被逆推入双引擎z4容纳室，再进入涡轮增压舱，然",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "群束聚装置轻微振动，由无数顶尖科学家设计的溢光转泄阀向舰外散发淡蓝光束，非常美丽。\n\n    先前那瞬间的剧烈震动早已停息，除了泼洒了几杯咖啡外，引擎控制室四周看上去并未遭受什么严重的损失。\n\n    然而那些负责引擎维护的工程师和军人们，此时脸上的表情异常紧张，眼眸里凝着惘然直至恐惧的色彩。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "样描述：\n\n    一台焦黑mxt机甲跳出了战舰，然后开始飘离舰身，只是飘离的速度缓慢到令人头发都要愤怒的竖起来。\n\n    以这种速度推论，或许再过几天时间，那台焦黑机甲会依然停留在战舰下方洞口外，无奈跟着战舰向前飞行。\n\n    庞大的战舰外飘浮着一台焦黑机甲，这个画面很像鲸鲨肚皮下跟着一条小鱼",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "抬至唇边，强行压抑住胸腹间咳嗽的***，沉默片刻后声音嘶哑问道：“如果……无修复，按照现有航道前行，最终战舰会抵达哪片星域？”\n\n    脸色苍白的少将犹豫很长时间，指向窗外声音低沉绝望说道：“按照现在的航道，烈阳号航行的尽头会在那里。”\n\n    观察窗外远处那颗苍白的s1恒星静静散着光辉。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "腿狼狈加快了速度，看上去就像一个滑稽可爱的受惊企鹅。\n\n    冲到焦黑色的mxt机甲前，他没有马上进入座舱，而是端起平日觉得极轻此时刻却觉得极重的修理臂，用最快的速度强行开启机甲腰后双引擎系统间的涡轮密闭阀，然而他伸手把那只固定数据线的破军靴从单向阀门里抽出，左手扯住一根线一拉！\n\n    喀喀喀",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "内的军人们精神为之一振，强行镇定心神，向战舰各部门发送命令。\n\n    控制系统严重损坏的引擎系统，果然经由手工物理***作被强行关闭，烈阳号战舰此时完全靠惯性行驶，真空中阻力太少自然不会马上看到速度减缓，但这对战舰上所有人来说都是一个福音。\n\n    只可惜紧接着出现的全部是令人绝望的消息，经过战",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "就像是一个喝多了酒的醉汉，就这样不管不顾地在大街一躺，结果竟妙到毫巅地穿行而出！\n\n    通道远处出现几台mx机甲的身影，还有影影绰绰的人影，这些人眼睁睁看着许乐所在的机甲，就这样迅猛飘了出去，知道没有办追上，然而他们没有注意到，当mxt呼啸穿过合金门时，右机械臂看似无意实际上极为精准地砸向了单向",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "几杯咖啡外，引擎控制室四周看上去并未遭受什么严重的损失。\n\n    然而那些负责引擎维护的工程师和军人们，此时脸上的表情异常紧张，眼眸里凝着惘然直至恐惧的色彩。\n\n    正中间的引擎调姿控制台已经被强行撬开，他们看着冒着青烟的芯片，看着更远处已经被烧融成一乱粘着芝麻酱青菜的管线，看着那块重达数十吨",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "烈阳号战舰无路可走，但一定会不忘记给自己留条后路。这和选择的道路正确与否无关，纯粹是异常强烈而坚定的渴望及执念：小爷得活下去！\n\n    ……\n\n    ……\n\n    忽然间，那台悬浮在战舰腹旁的看上去已经放弃的焦黑色机甲动了起来，寂静的空间里听不到任何嗡鸣的声音，却可以清晰地看到破损合金板上反射",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "”\n\n    “警报，引擎控制系统全面失效。”\n\n    李在道转过身来，望着面色惨淡的下属们，平静说道：“采用人工物理方式关闭引擎，控制系统失效，并不代表我们不能做些什么，做为战舰最重要的引擎部分，最高权限向来是在人手中。”\n\n    这句话仿佛一剂强心针，让大厅内的军人们精神为之一振，强行镇定心",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "他根本不相信许乐靠那种魔术般的手段便能控制一艘战舰，他相信自己有能力解决所有新出现的问题，从来没有想到过敌人可以只靠雷霆一击便摧毁自己所有获胜的机会。\n\n    归根结底，他从来没有想过自己会失败。\n\n    “继续尝试修复。”他用疲惫的声音低沉命令道。\n\n    那名忠诚的少将下属颤着声",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，身体不由颤抖起来，绝望的情绪开始弥漫。\n\n    ……\n\n    ……\n\n    战舰第三层的某个房间内。\n\n    许乐艰难抬起颤抖的手臂，抹掉眼睛口鼻间渗出来的鲜血，却把那些血糊的满脸都是。他看着房间角落那个陷入死寂沉默的探头咧嘴一笑，露出满口整齐却因为牙龈严重出血而血红的牙齿。\n\n    这",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的破军靴从单向阀门里抽出，左手扯住一根线一拉！\n\n    喀喀喀喀刺耳的机械磨擦声音，沉重的合金闸门缓缓开启，舰内空间骤然失压，空气呼啸鸣叫着从闸门向外向外面泄露。\n\n    此时许乐已经坐进了小白花座舱中，手指摁下电控开关，机甲双引擎轰鸣却因为超负荷而显得有些撕裂的启动声，从后方传入昏暗座舱内，他",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

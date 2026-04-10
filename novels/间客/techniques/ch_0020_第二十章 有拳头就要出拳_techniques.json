@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 20,
+  "chapter_title": "第二十章 有拳头就要出拳",
+  "filename": "ch_0020_第二十章 有拳头就要出拳.txt",
+  "char_count": 2478,
+  "timestamp": "2026-04-10T11:53:11.027599",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "头和更加坚硬的皮靴？许乐并没有产生如何怨愤的情绪，虽然他这十七年的人生里一直坚信着世界上有正义道理的存在，但他更清楚，如果老板真像先前那名上校所说，犯了叛国罪，那在捉拿他的行动中，一切法律法规和个人权力都只会被整个联邦的怒火所掩盖，被踩在皮靴之下。\n\n    他是个倔犟坚持的少年，但不是脑子里充满了",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的青树林。\n\n    对于这名军人的动作，他并不熟悉，但对于这种感觉，许乐异常熟悉！感受着扑面而来的风声，他双腿一分，随意而自然至极地摆了一个马步，身子一侧，双手齐出，左手紧握成拳，右手掌五指并拢，沿着那名军人的肘下反击了过去。\n\n    这个动作极其自然而准确，就像是每天拿筷子吃饭一样，谁也不会认",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "会奢望自己这时候还会有请律师的权力，反而他很理解这些军人的所做所为，这种理解不代表着他甘心接受，毫不愤怒。可即使愤怒，他也不会像个狼崽子一样恶狠狠地看着殴打自己的军人，因为那样的情绪表示只会带来更多的痛苦，他只是安静的低着头，忍受着。\n\n    平静之中，其实夹杂着极大的辛酸和不安——老板真的是一名",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "料绳……许乐刚才被刑讯的时候，已经暗中用力试探了一下，发现并不是特别困难的事情——他有些不明白，军队为什么要用这种东西来替代手铐。第二件事情便是必须在房内这名军人发现之前，钻进侧后方的那扇窗户。\n\n    透过那扇窗户可以看见远处的晶屏广告牌，对这一带无比熟悉的许乐，早就知道了这处临时营地是在第四街",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "盖整个区域。\n\n    这很冒险，即使如此，许乐也没有想过将室内这名军人击倒来换取更多的时间——今天出现的军人都是东林警备军里的精锐特种部队，这很容易从他们的军服和配备上面便看出来——他很清楚，特种部队的军人拥有怎样恐怖的实力和杀人技巧。\n\n    一连串的分析思考，其实只花了极短的时间，那名倒三角",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "绝望是因为他错误地判断了一件事情，当他挣断那根塑料绳时，绳子发出一声清脆的响声，正在喝水的特种兵马上警醒地转过身来。这个时候如果许乐再想钻出那扇窗户，就算不被那名军人开枪击中，也不可能争取到四秒钟的时间。\n\n    那名有一双倒三角眼的军人转过身来后，却也没有什么动作，只是张着嘴看着站在地面上的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "的存在，但他更清楚，如果老板真像先前那名上校所说，犯了叛国罪，那在捉拿他的行动中，一切法律法规和个人权力都只会被整个联邦的怒火所掩盖，被踩在皮靴之下。\n\n    他是个倔犟坚持的少年，但不是脑子里充满了虚无词语的学生，不会奢望自己这时候还会有请律师的权力，反而他很理解这些军人的所做所为，这种理解不代",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "果军方能够找到老板，是因为那根电击棍，那么现在李维和那一群孤儿，只怕也已经被控制起来。他很了解李维的性格，如果不是被逼到了山穷水尽的时候，绝对不会出卖自己这个好朋友。李维现在还好吗？\n\n    人权？什么是人权？难道是身上的疼痛，还是这些军人坚硬的拳头和更加坚硬的皮靴？许乐并没有产生如何怨愤的情绪，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "拳头就要出拳 \n\n    老板受伤了，许乐从听到这句话后，心情就开始不安，紧接着，又有一种不祥的感觉进入了他的脑海，就像两年多前在州立大学门口时那样。\n\n    如果军方能够找到老板，是因为那根电击棍，那么现在李维和那一群孤儿，只怕也已经被控制起来。他很了解李维的性格，如果不是被逼到了山穷水尽的时候",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "愤怒，他也不会像个狼崽子一样恶狠狠地看着殴打自己的军人，因为那样的情绪表示只会带来更多的痛苦，他只是安静的低着头，忍受着。\n\n    平静之中，其实夹杂着极大的辛酸和不安——老板真的是一名叛国的军人？叛国和军队逃兵是完全不同的两个概念，许乐虽然信任封余不是一个杀人不眨眼的魔头，可是眼前这些军人的愤怒",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 721,
+  "chapter_title": "第一百零二章 身灰心亦灰",
+  "filename": "ch_0721_第一百零二章 身灰心亦灰.txt",
+  "char_count": 3255,
+  "timestamp": "2026-04-10T12:11:27.022644",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "也不是很清楚，但总之他们想要改变现在的局面，他们希望看到改变。\n　　不知是从哪里来的消息，开始在请愿人群中流传，本应在数日之内归来的镇国大将军许世，竟然已经在南方崤山一带被西陵神殿暗杀！\n　　许世大将军的行踪，正是被宫里某位贵人出卖给了西陵神殿！\n　　至于那位贵人为什么会这样做，很明显是因为他来位不",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "最终化为一匣子灰。\n　　……\n　　……\n　　屋漏偏逢连夜雨，远远不足以形容当前大唐遭受的连续打击，风雨飘摇不足以形容其险，一波高过一波的惊涛骇浪，呼啸拍打而来。\n　　如果说成京之战，对唐人来说是一次极大的震撼，但对他们的自信依然没有任何影响，金帐王庭南下，才算是真正地令所有唐人警醒不安起来。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "感觉到了亡国的可能性，而最近传来的清河郡叛国自立的消息，便成为了最沉重的一次打击。\n　　因为不安所以愤怒，因为惊恐所以愤怒，因为愤怒所以愤怒，整座长安城都陷入愤怒的气氛之中，曾经为了国之大局而强行隐忍的皇后派大臣们，也再也无法忍受当前的情况，在朝堂上在舆论上向宫中的新帝和公主责难纷纷。\n　　官员们质",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "在朝堂上在舆论上向宫中的新帝和公主责难纷纷。\n　　官员们质问宫中为何皇后娘娘和六皇子还没有回到长安，为什么迟迟没有贺兰城的消息，为什么清河郡这个公主殿下的盟友，会在朝廷最危难的时刻，做出如此大逆不道的无耻行迳，质问陛下和殿下有何颜面去见先帝。\n　　书院封门后，前院新一期的学生被遣散回家，或进入朝廷各",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "些心理障碍，但这些天看下来早就没了，因为你活在这个世界上，便是陛下最大的耻辱。”\n　　李珲圆神情略显紧张，却没有转身逃走。尖声说道：“你在宫中已有多年，难道不知道在这里是杀不死我的？”\n　　“所以我一直没有动手，直到你到御花园来散心。”\n　　徐崇山说道：“你或者不知道，这里是皇宫中距离诸殿最远的一个",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "宁缺说道：“所以我也不会要你把这数百名骑兵全部杀死，但我要你承诺我，这些骑兵必须被送到最前线，最危险的战场上。”\n　　“数年之后，当这场大战结束的时候，如果这些骑兵当中还有侥幸活着的，那么我便不再追究，如果他们死了，就算是赎罪。”\n　　说完这句话，他转身离开。\n　　即将离开之时，又遇到了一个很棘",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "六皇子回长安。\n　　诸将实在是没有办法，如今金帐南侵，大唐北疆正处于危难之中，他们不可能派大军护送，最终决定抽调五百骑精锐随行。\n　　离开北大营之前的那个清晨，宁缺再次找到了徐迟，说道：“皇后娘娘和我给你带回了数万人的队伍，我想我们有资格找你要几个人。”\n　　徐迟想了想后说道：“五百骑兵的数量确实少",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "大逆不道的无耻行迳，质问陛下和殿下有何颜面去见先帝。\n　　书院封门后，前院新一期的学生被遣散回家，或进入朝廷各部衙做义工，他们和太学等处的年轻学子，是长安城里最热血最激动的那群人，当大唐被笼罩在乌云之中时，他们终于走上了街头，汇集到皇城前开始请愿。\n　　至于请愿的具体内容是什么，其实这些学生也不是很",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "们不可能派大军护送，最终决定抽调五百骑精锐随行。\n　　离开北大营之前的那个清晨，宁缺再次找到了徐迟，说道：“皇后娘娘和我给你带回了数万人的队伍，我想我们有资格找你要几个人。”\n　　徐迟想了想后说道：“五百骑兵的数量确实少了些。”\n　　“我说的不是这个意思。”\n　　宁缺说道：“我要的不是活人，我要的是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "任何影响，金帐王庭南下，才算是真正地令所有唐人警醒不安起来。\n　　西陵神殿的诰书号召天下伐唐，让唐人第一次真切感觉到了亡国的可能性，而最近传来的清河郡叛国自立的消息，便成为了最沉重的一次打击。\n　　因为不安所以愤怒，因为惊恐所以愤怒，因为愤怒所以愤怒，整座长安城都陷入愤怒的气氛之中，曾经为了国之大局",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "所有人都在怪我？怪朕！\n　　皇宫里的大殿显得格外孤清凄冷，李珲圆坐在椅上，看着殿外的夜色发怔，无数的思绪在他的脑海里快速掠过，然后又再次闪回。\n　　太监宫女现在都很怕他，因为他很愤怒。这却让他更加愤怒，因为他清晰地从这些太监宫女的眼中，看到了冷漠看到了疏离，还看到了轻蔑。\n　　朕现在是皇帝，朕当皇子",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "传来之前，这里便是朝廷重点监视的地方，如今更是有重兵把守，被困在会馆里的诸阀子弟面色惨淡，等着未知的命运，然而却有数人看着渐渐混乱的局势，生出了些别的心思。\n　　李珲圆也很愤怒，他甚至觉得自己比皇城前那些请愿的人群更加愤怒。\n　　他觉得自己很无辜，那种不被理解的痛苦，像毒蛇一样不停撕咬着他的心脏，是",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，正是被宫里某位贵人出卖给了西陵神殿！\n　　至于那位贵人为什么会这样做，很明显是因为他来位不正，害怕一向以刚正不阿闻名的许世大将军回到长安，把他从皇位上掀下来！\n　　当这个消息从请愿人群里传到长安城各处后，上街表达愤怒和怀疑的人变得越来越多，整座长安城仿佛变成了无数条愤怒的河流。\n　　愤怒的河流往往",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

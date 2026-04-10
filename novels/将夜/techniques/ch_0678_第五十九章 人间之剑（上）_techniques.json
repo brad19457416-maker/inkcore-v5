@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 678,
+  "chapter_title": "第五十九章 人间之剑（上）",
+  "filename": "ch_0678_第五十九章 人间之剑（上）.txt",
+  "char_count": 3466,
+  "timestamp": "2026-04-10T12:11:26.906086",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "楚。\n　　此时离地面已经极为遥远，按道理来说，除了飞剑或羽箭没有什么事物飞到这里，更不可能有人伸手到天空里，便能抓住他的脚，除非那个人很高。\n　　宁缺和桑桑穿过金黄色的龙息，轻轻落到荒原地面上，他把桑桑抱在怀里，抬头望去，发现身前这道身影确实十分高大。\n　　那人看着宁缺和桑桑，背对着天穹和那只黄金巨",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "那人站在荒原地面上，高大的身影却似乎将要触到天穹。\n　　那人笑着说道：“选择本身也不见得有什么意义，但有时候，你我的选择能够影响到他人的选择，这便会变得有趣。”\n　　……\n　　……\n　　在书院二层楼登山试的那个幻境中，宁缺和一个高大男子有过一番对话，当时他也一直没有看清那名高大男子的容颜。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "儿。\n　　这是对昊天神国威严的挑衅，是不可原谅的亵渎。\n　　黄金巨龙如光湖般宁静漠然的眼眸里，燃烧起愤怒的神火，一声悠远而严肃的龙吟，再次响彻在天地间，随之而来的是一道威力恐怖的龙息。\n　　无数炽热的神辉混着晶莹剔透的黄金沙砾，从高空上的龙首处喷出，向着荒原地面袭来，这道龙息里所蕴藏着的威力，更胜先",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "喊道：“老师小心！”\n　　夫子没有转身，依然背对着天空。\n　　金色的沙砾自天而降，来到他的身后，然后瞬间消失无踪，那些金色沙砾间的光与热，也瞬间消失，仿佛什么都没有发生过。\n　　夫子的身后仿佛有一面湖，火山将要喷发的热湖，有一面海，极北寒域未冻之前的热海，龙息就像是无数冰块，投入热海热海之中，瞬间融",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "要。然而遗憾的是，墙头草并不那么好做，疾风能知劲草，也能断劲草。”\n　　宁缺看着夫子担心说道：“但您最终还是做出了选择。”\n　　夫子看了桑桑一眼，平静说道：“也许我的选择最终会被证明是错误，但至少现在，我想这样选，那么我便这样选。”\n　　宁缺不知该说些什么，他这时候很感动，又有些莫名的伤感，他幸福于",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "一番对话，当时他也一直没有看清那名高大男子的容颜。\n　　“在光明与黑暗之间，你会选哪边？”\n　　“我为什么要选？”\n　　“你以前是怎么选的？”\n　　“我身在黑暗，心向光明。”\n　　“想不到隔了这么多年，居然又能看到一株在墙头随风招摇的野草。”\n　　“您看，我就说不是一定要选择。”\n　　“可如果天塌下",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，后面似乎拖着一件重物。\n　　片刻后，一辆纯由黄金打造而成的战车，在黄金巨龙的牵引下，渐渐驶出云层，出现在人间的天空里！\n　　那辆黄金战车极为巨大，如果落在地面上，只怕整座长安城都无法容纳，而那些黄金并不是人间的黄金，显得那般纯净透明，通体光明！\n　　天空里光明大作，荒原上的烟尘骤然敛没，被照耀的有",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "则，拥有自已的世界，但他依然不能在昊天的世界里无视昊天的规则。\n　　夫子是怎么做到的？\n　　荒原上的人们都跪着，没有人敢向光明的天空上望上一眼，但他们可以看到荒原上正在发生的事情，他们看到夫子现身，看到黄金巨龙向夫子喷出龙息，他们看到那股威压恐怖绝非人间能抗的龙息消失……\n　　看着这幕画面，所有人都",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "原来不选择比较重要。然而遗憾的是，墙头草并不那么好做，疾风能知劲草，也能断劲草。”\n　　宁缺看着夫子担心说道：“但您最终还是做出了选择。”\n　　夫子看了桑桑一眼，平静说道：“也许我的选择最终会被证明是错误，但至少现在，我想这样选，那么我便这样选。”\n　　宁缺不知该说些什么，他这时候很感动，又有些莫名",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "光而至，脸色微变，喊道：“老师小心！”\n　　夫子没有转身，依然背对着天空。\n　　金色的沙砾自天而降，来到他的身后，然后瞬间消失无踪，那些金色沙砾间的光与热，也瞬间消失，仿佛什么都没有发生过。\n　　夫子的身后仿佛有一面湖，火山将要喷发的热湖，有一面海，极北寒域未冻之前的热海，龙息就像是无数冰块，投入热",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "用他的身影庇护着冥王的女儿。\n　　这是对昊天神国威严的挑衅，是不可原谅的亵渎。\n　　黄金巨龙如光湖般宁静漠然的眼眸里，燃烧起愤怒的神火，一声悠远而严肃的龙吟，再次响彻在天地间，随之而来的是一道威力恐怖的龙息。\n　　无数炽热的神辉混着晶莹剔透的黄金沙砾，从高空上的龙首处喷出，向着荒原地面袭来，这道龙息",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "少现在，我想这样选，那么我便这样选。”\n　　宁缺不知该说些什么，他这时候很感动，又有些莫名的伤感，他幸福于自已有老师，自已和桑桑还活着，却开始担心老师怎样面对昊天的怒火。\n　　夫子看着他笑了笑，继续说道：“不选择，确实是一种自由，但如果是因为胆怯而不敢选择，那就不是自由。做选择，不见得有意义，但可能",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "佛被镀上了一道金光，似在燃烧。\n　　那人站在荒原地面上，高大的身影却似乎将要触到天穹。\n　　那人笑着说道：“选择本身也不见得有什么意义，但有时候，你我的选择能够影响到他人的选择，这便会变得有趣。”\n　　……\n　　……\n　　在书院二层楼登山试的那个幻境中，宁缺和一个高大男子有过一番对话，当时他也一直没",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

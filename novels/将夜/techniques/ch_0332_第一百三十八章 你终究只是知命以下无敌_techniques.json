@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 332,
+  "chapter_title": "第一百三十八章 你终究只是知命以下无敌",
+  "filename": "ch_0332_第一百三十八章 你终究只是知命以下无敌.txt",
+  "char_count": 3570,
+  "timestamp": "2026-04-10T12:11:21.740574",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "隐隐抬出亲王殿下和西陵神殿两座大山，竟是根本不肯退让。\n　　言语间没有火星四溅，却把彼此逼进了绝路，最终看来看去，依照唐律唯一有资格审问桑桑的地方，还是众人现在身处的长安府。\n　　王景略说道：“府尹大人听说烧糊涂了，根本无法起床。”\n　　诸葛无仁嘲讽一笑说道：“既然御医不管用，那我只好让天枢处派些念",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "了抱着被褥的小姑娘，或许是因为来来往往的人想的事情都很重要，所以忘了他们讨论的人就在身旁，总之站在凄风苦雪间的桑桑被人们遗忘了。\n　　所以没有人注意到她的眉头也皱了起来。\n　　桑桑是一个不愿意给宁缺惹事的小姑娘。\n　　所以最开始长安府索她问案她便来了，这些人让她站在府前她便站在府前，让她站在园前她便",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "有些兴奋，轻拂衣袖便向前踏了一步。\n　　年轻胖子停下脚步，回头看了他一眼。\n　　一道若有似无的气息，瞬间穿越二人之间的距离，那些还在缭绕的微风未乱，那些缓缓飘落的雪花未颤，王景略的身体却剧烈地颤抖起来。\n　　王景略的眼神却愈发兴奋热烈，悬在身畔的右手微颤，似握住一把虚剑。\n　　年轻胖子看着他的右手，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "迸的一声闷响，他顿时头破血流，两眼一黑就这么昏了过去。\n　　这一次是真昏。\n　　房内响起府尹夫人悲痛欲绝的呼喊。\n　　……\n　　……\n　　就在府尹大人于卧房中上演谁能比我惨之惨痛戏码时，又有人来到长安府中。\n　　那位管事恭谨向诸人行礼，说道：“殿下正在宫中，来不及赶过来，所以让我过来看看，不知道",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "。\n　　那位管事恭谨向诸人行礼，说道：“殿下正在宫中，来不及赶过来，所以让我过来看看，不知道桑桑姑娘究竟犯了什么错，竟然惊动了这么多大人。”\n　　想不到这件事情会如此迅速惊动了李渔公主殿下，王景略皱了皱眉。\n　　他代表着帝国军方，完全可以不用太给公主殿下面子，只是如今谁也不知道皇帝陛下会把龙椅传给哪",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。\n　　言语间没有火星四溅，却把彼此逼进了绝路，最终看来看去，依照唐律唯一有资格审问桑桑的地方，还是众人现在身处的长安府。\n　　王景略说道：“府尹大人听说烧糊涂了，根本无法起床。”\n　　诸葛无仁嘲讽一笑说道：“既然御医不管用，那我只好让天枢处派些念师过来替府尹大人瞧瞧，便是烧的再厉害，撑几句话的时间",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "夫人悲痛欲绝的呼喊。\n　　……\n　　……\n　　就在府尹大人于卧房中上演谁能比我惨之惨痛戏码时，又有人来到长安府中。\n　　那位管事恭谨向诸人行礼，说道：“殿下正在宫中，来不及赶过来，所以让我过来看看，不知道桑桑姑娘究竟犯了什么错，竟然惊动了这么多大人。”\n　　想不到这件事情会如此迅速惊动了李渔公主殿下",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "抢，如果朝廷真不放心，大不可以对老笔斋严加看管，然后等宁缺回来再论。\n　　诸葛大人清楚他的意思，淡然说道：“何道长，我知道你是二皇子的伴读，但我想提醒你，他毕竟是二皇子，而且你……真的不想成为大唐国师吗？”\n　　何明池忽然想到，诸葛大人与皇后娘娘亲近，而长安城里很多人都知道，宁缺与公主李渔来往密切，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "审案。”\n　　何明池在旁敛气静声，虽说昊天南门观里有很多道人，因为颜瑟大师之死对老笔斋里的那个小侍女存在极大的怨意，但他却并不这样认为。\n　　如果换作往常，除了皇宫之外，大唐任何衙门机构面对军方势力时，都会下意识里退避，然而今日天枢处对那样得要事物志在必得，又隐隐抬出亲王殿下和西陵神殿两座大山，竟是",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "然敛去，她缓缓低头。\n　　……\n　　……\n　　风是空气在流动，之所以此时陡然寒风起，是因为空气里忽然出现了一个体积极大的物事，那个物事是个很胖的年轻人。\n　　那个年轻人胖到出现在园中便带起呼吸的冬风，然后迅速挤散了冬风，为场间众人带来一股温暖之意，便如他那清秀可爱的眉眼。\n　　“这里好像很热闹。”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，愤愤然闯进了后宅，然而片刻后他们便神情复杂地退了出来。\n　　“我大唐竟有这般无耻的官员？”诸葛无仁感慨说道。\n　　何明池想着府尹大人头顶恐怖的血洞，叹息道：“倒也真够狠的。”\n　　王景略说道：“这位大人宁肯自残也不愿意审案，佩服佩服。”\n　　诸葛无仁忽然说道：“既然如此，我先把这小婢女带回宫。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "下去，他虚弱地揉了揉痛肿的咽喉，想着昨天下午那盆冰水算是白浇了，不由哀声叹气连连摇头。\n　　夫人在旁忧虑说道：“不得罪书院便要得罪这么多人，这可如何是好？”\n　　上官扬羽那双难看的小眼睛里泛过一丝狠辣意味，冷笑说道：“想要把我逼进绝路，想要事后让我去对那位十三先生解释，想的倒美。”\n　　夫人惊讶问道",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "后娘娘亲近，而长安城里很多人都知道，宁缺与公主李渔来往密切，莫非今日之事只是因为皇后娘娘不想宁缺成为日后的国师？\n　　他微涩笑着摇了摇头，因为对方提到自己，本不想再理会这些事情，然而想着某件事，还是忍不住说道：“诸葛大人，你最好不要忘记她是谁的小婢女。”\n　　诸葛无仁沉默片刻，眼眸里闪过一抹决然光泽",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "军要问这小婢女何事？”\n　　王景略应道：“光明神座之事，十四年前长安城血案一事。”\n　　何明池沉默，缓缓收了黄油纸伞。\n　　诸葛无仁漠然说道：“烦请转告许世大将军，除了问案，这个小婢女我们也要，亲王殿下先前已经入宫向陛下求旨，西陵神殿要接她回桃山。”\n　　王景略眉头微挑，嘲弄说道：“你觉得西陵神殿能",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "很胖的年轻人。\n　　那个年轻人胖到出现在园中便带起呼吸的冬风，然后迅速挤散了冬风，为场间众人带来一股温暖之意，便如他那清秀可爱的眉眼。\n　　“这里好像很热闹。”\n　　桑桑抬起头来，看着他轻轻点头致意。\n　　那年轻胖子看着场间三人，说道：“如果长安府尹敢审案，你们再搬出唐律来审桑桑，如果长安府尹一直躺",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

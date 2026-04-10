@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 251,
+  "chapter_title": "第五十七章 破境之约",
+  "filename": "ch_0251_第五十七章 破境之约.txt",
+  "char_count": 4587,
+  "timestamp": "2026-04-10T12:11:21.664435",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "马。”\n　　听着这话，隆庆皇子面色骤然一沉，向前再踏一步，崖间积雪自地而起，仿佛开始卷起一道由地面向天空飘起的风雪。\n　　莫山山缓缓抬起头来，看着渐渐行来的隆庆皇子，想着宁缺在车厢里所说的最后那句话，一由寒风拂面，容颜清杀寒丽。\n　　隆庆皇子面无表情看着她，说道：“墨池真要对抗神殿？不过本座确实很好",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "所以我接受你最开始的那个赌约。”\n　　……\n　　……\n　　莫山山不解看着他的侧脸，心想先前你不答应，为什么这时候答应了。\n　　隆庆皇子并不想答应，但他看到了宁缺指着自己的手腕间……悬着一个锦囊。\n　　那个锦囊通体银蓝色，绣着简单的花饰，在风雪间轻轻摇荡，看上去十分普通。\n　　但隆庆皇子知道那个锦囊非",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第五十七章 破境之约\n　　隆庆皇子缓缓站起身来，残雪自黑衣表面滑落，落在靴上，看着雪崖那头，缓声说道：“你可以在书痴身后躲一辈子，然而问题在于，她有没有能力一直把你庇护在身后，而且她愿不愿意一直把你庇护在身后。”\n　　说完这句话，他迈过身前柴木组成的低矮樊篱，面无表情顺着雪崖向那边走去。雪崖极为",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "打出手，可若今日我死在这里，事情一定会变得非常麻烦，我必须提醒你，燕国太弱，而我家二师兄向来不怎么讲道理。”\n　　隆庆皇子看着他的脸，眉头微皱说道：“不是躲在女人身后，便是躲在山门宗派的背景身后，我开始怀疑你是不是唐人，更怀疑你是不是男人。”\n　　“我说过这种言语上的攻击对我没有任何用处。”\n　　宁",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "看自己能不能赢你，所以我接受你最开始的那个赌约。”\n　　……\n　　……\n　　莫山山不解看着他的侧脸，心想先前你不答应，为什么这时候答应了。\n　　隆庆皇子并不想答应，但他看到了宁缺指着自己的手腕间……悬着一个锦囊。\n　　那个锦囊通体银蓝色，绣着简单的花饰，在风雪间轻轻摇荡，看上去十分普通。\n　　但隆庆",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "宁缺的神情变得前所未有的严肃起来，静静看着隆庆皇子那张虽然憔悴却依然英俊的面容，沉默很长时间后，语气沉重认真说道：“殿下，请你不要尝试击败我，因为我不会给你这种机会，如果你动我一根手指头，我就死给你看。”\n　　……\n　　……\n　　雪崖很窄，看似极长但总有走完的那一刻。\n　　隆庆皇子和宁缺莫山山二人站",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "来热络寒喧套近乎，是不是稍微晚了一些。”\n　　隆庆皇子面色微沉，他确实知道书痴和自己未婚妻之间的那些冲突，但他是何等样骄傲的人，之所以对书痴如此温和，是因为他尊敬对方，哪里如宁缺所言那般，只是为了套近乎，那岂不是近乎小人？\n　　他看着远处的宁缺，忽然眉头微蹙，发现数月不见，对方竟然进步了很多，说道：",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "剩下的只是一个风雪间倔犟的年轻男子。\n　　她知道隆庆皇子终于抓住了宁缺的要害，不由眼帘微垂，然后迅速进入绝对的明宁心境，手指间拈着的符纸开始无风微颤。\n　　宁缺忽然说道：“我有一匹马。”\n　　雪崖之上骤然风停雪消，一片安静。\n　　“是一匹黑马。”\n　　宁缺直起身体，看着隆庆皇子平静继续说道：“你未婚",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "进入绝对的明宁心境，手指间拈着的符纸开始无风微颤。\n　　宁缺忽然说道：“我有一匹马。”\n　　雪崖之上骤然风停雪消，一片安静。\n　　“是一匹黑马。”\n　　宁缺直起身体，看着隆庆皇子平静继续说道：“你未婚妻晨迦公主也有匹马。”\n　　“白马。”\n　　“无论黑马还是白马，无论公马还是母马，谁能骑到谁身上，那",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第五十七章 破境之约\n　　隆庆皇子缓缓站起身来，残雪自黑衣表面滑落，落在靴上，看着雪崖那头，缓声说道：“你可以在书痴身后躲一辈子，然而问题在于，她有没有能力一直把你庇护在身后，而且她愿不愿意一直把你庇护在身后。”\n　　说完这句话，他迈",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "惜我知道你不能饮，话说起来我对你家那个善饮的小侍女始终念念不忘，若你同意，本座愿用燕西三座城池换她，日后夜里有一酒伴倒也颇妙。”\n　　突如其来，这位西陵神子提起远在长安城里的桑桑，自然不是真的有所感触，而是他试图拔离道心樊篱时的一次强悍尝试。\n　　宁缺微微偏头望着他，看的很认真很细致，目光里没有一丝",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "给天下看。\n　　他在裁决司里见过很多不怕死、也不在乎别人生命的人，有下属，也有魔宗余孽和那些叛逆，但从来没有见过对自己这么狠或者说不在乎的人。\n　　莫山山也听懂了宁缺的话，被围巾包裹着的脸颊略显苍白。\n　　宁缺看着隆庆皇子说道：“书院神殿相看两厌，但想来也没有兴趣大打出手，可若今日我死在这里，事情一",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的神情，沉重认真的语气，这番话竟被他说的没有一点雨巷打老公骂邻居的悍妇气，反而像是一位在萧瑟风中拈起一片微黄树叶将要执剑远行的公子般，颇显平静慷慨。\n　　关于生死之间的情绪与选择，宁缺这辈子做过太多次，所以他很平静，也正因为他的平静，所以从他口里说出来的死字，比任何人都要有力量。\n　　顽劣强悍如大黑",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

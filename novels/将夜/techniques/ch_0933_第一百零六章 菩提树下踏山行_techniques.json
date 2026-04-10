@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 933,
+  "chapter_title": "第一百零六章 菩提树下踏山行",
+  "filename": "ch_0933_第一百零六章 菩提树下踏山行.txt",
+  "char_count": 3353,
+  "timestamp": "2026-04-10T12:11:27.509814",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，宁缺和桑桑走了下来。\n　　菩提树下有名老僧。\n　　这位老僧头戴笠帽，手持锡杖，身体仿佛与荒凉无垠的大地紧紧相连，其重如山，其实如原，便是罡风也不能撼动微毫。\n　　老僧不是佛祖，而是当今人间之佛：悬空寺讲经首座。\n　　朝阳城一别，已是匆匆数个秋。首座是宁缺此生所见的最强者之一，夫子之下便是观主与他，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "玩具时讲的道理，讲经首座哪里想到昊天居然会说出这样的话，不由怔住。\n　　悬空寺讲经首座，乃是修行界最巅峰的人物，但在桑桑的眼里，不过是个凡人，就算他与原野连为一体，也就是块有些笨重的石头。\n　　桑桑向菩提树下走去。\n　　宁缺的神情变得紧张起来。\n　　柳白纵剑入桃山后，这便是昊天与人类最强者的对话。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的时候，我就对你说过，他已经死去，但还活着。”\n　　宁缺想起来了，那日在瓦山峰顶，她看着春雨里已经不存在的佛祖石像，忽有所感，说佛祖便是那只姓薛的猫。\n　　当时他觉得很莫名，所以没有深思，却没有想到她竟是真的认为佛祖还有可能活着，还为了这个原因来到了西荒之上。\n　　宁缺非常不解，佛祖明明已经涅，怎么",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "下踏山行\n　　黑色马车继续向西行走，车厢里，宁缺很仔细地把那些黑布拉直铺平，然后看着那张棋盘问道：“为什么要来这里？”\n　　桑桑说道：“我要确认一件事情。”\n　　那棋盘不知是用什么材料做的，看着似铁，透着股冰冷坚硬的味道，但当宁缺用手指去敲时，却不会发出任何声音。\n　　佛祖留给人间的棋盘，自然不凡。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，这棵菩提树上刻着她的名字，所以是她的。\n　　那年秋天，她和宁缺从烂柯寺逃难来到此间，其时被这个世界追杀，正自黯然神伤，宁缺带着她来看佛祖的遗存，然后在菩提树下刻了一行字。\n　　“天启十六年秋，书院宁缺携妻冥王之女桑桑，到此一游。”\n　　看完菩提树下佛祖涅时留下的痕迹，她背着双手，离开菩提树，向远方",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "西行走，车厢里，宁缺很仔细地把那些黑布拉直铺平，然后看着那张棋盘问道：“为什么要来这里？”\n　　桑桑说道：“我要确认一件事情。”\n　　那棋盘不知是用什么材料做的，看着似铁，透着股冰冷坚硬的味道，但当宁缺用手指去敲时，却不会发出任何声音。\n　　佛祖留给人间的棋盘，自然不凡。\n　　宁缺看着棋盘，沉默片刻",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "不在乎被自己踩在脚下的老僧能支撑多长时间，她只是要看那棵树。\n　　大地继续剧烈地震动，荒芜的原野上，出现了无数深不可见的黑色裂缝，远处甚至有红色的岩浆溢出！\n　　桑桑的繁花青衣在风中轻微，薄雪轻扬中，缓缓向下。\n　　她踩在脚下的讲经首座，缓缓向大地里陷落，挤出无数黑色的泥土，发出令人牙酸的磨擦声和岩",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的猫。\n　　当时他觉得很莫名，所以没有深思，却没有想到她竟是真的认为佛祖还有可能活着，还为了这个原因来到了西荒之上。\n　　宁缺非常不解，佛祖明明已经涅，怎么可能还活着？\n　　“什么是涅？”桑桑问道。\n　　宁缺微怔，说道：“涅是佛宗的最高境界……”\n　　桑桑面无表情说道：“如果涅就是死，为什么不干脆叫",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "已是匆匆数个秋。首座是宁缺此生所见的最强者之一，夫子之下便是观主与他，此时看他坐在菩提树下，难免有些紧张。\n　　讲经首座没有看宁缺，而是看着他身边的桑桑，眼里的情绪非常复杂，有怜惜有悲悯有同情，最多的则是坚定。\n　　桑桑要去菩提树下，看佛祖涅留下的痕迹。\n　　首座坐在菩提树下，他若不让，怎么看的到？",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "青青的菩提树没有倒下，蒲团般的叶子却落了满地。\n　　首座的身体也开始剧烈的震动起来，身上的袈裟碎成无数蝴蝶，向四野逃散，苍白的身躯泛着淡淡的白色光泽，如同雕像一般。\n　　宁缺看着树下的画面，震撼无语，想起当年在朝阳城里，无论是元十三箭还是铁刀，都无法在首座的身躯上留下一点痕迹。\n　　首座已经修至肉",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "走去。\n　　宁缺的神情变得紧张起来。\n　　柳白纵剑入桃山后，这便是昊天与人类最强者的对话。\n　　首座缓缓闭上眼睛，不看向树下走来的她。\n　　他坐在树下，便是一道山脉，其根深植于地壳之间，其峰高耸入云，已至青天，即便昊天来到人间，又如何逾越？\n　　桑桑走到菩提树下，向首座身上走去。\n　　她的脚落到首座",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1096,
+  "chapter_title": "第一百零五章 一夜，有话",
+  "filename": "ch_1096_第一百零五章 一夜，有话.txt",
+  "char_count": 3411,
+  "timestamp": "2026-04-10T12:11:34.956269",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的雪，即便大黑马身高体健，行走起来也极为吃力，不知道他为什么要从这里走。\n　　如果有人能够从极高远的天空往下看，便能看到，他们一行人在雪海表面上留下了一道极清晰的痕迹，与壮阔的雪域天地相比，这道痕迹确实很细，却没有被风雪重新掩盖，显得有些诡异，不知是什么手段。\n　　桑桑在他身前，从天空望向大地。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "难接受。她在想是继续沉默假装不知，还是挥手散去自己的世界，把他轰进雪海深处去清醒清醒。\n　　不知道因为什么原因，她选择了沉默，为了驱散天心深处那抹不适应和羞恼，她选择与他讨论比较冰冷的话题。\n　　“陈某想要杀我。”她面无表情说道。\n　　如她所愿，在听到这句话后，宁缺的手虽然还是伸在她的怀里，但至少停",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的看门人，当道门决意毁灭她时，便意味着人间将要遗弃她。\n　　她正在渐渐虚弱，她现在能够被杀死，于是她第一次感觉到生命的真切与悲哀，开始恐惧与不安，那些情绪最后都变成悲伤。\n　　所以她面无表情地流着眼泪。\n　　幸运的是，夜很黑暗，还有一盏昏暗的灯火因唯一而明亮。就像这个人间对她来说已然一片黑暗，却还有",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "起的肚子，关心问道。\n　　桑桑的回答很简洁：“不知道。”\n　　这个回答让他怔住了，觉得有些莫名其妙，心想你自己什么时候不来月事难道不清楚？转念一想，自己的老婆不是人，确实没法说清楚。\n　　如果按照普通人十月怀胎来算，他现在正戴着顶极绿的帽子。\n　　他不再去想这些有的没的，问了一个别的、同样重要的问题",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "能这种身份很像是宗教里经常会出现的某种使者――只是不知道是光明的使者，还是黑暗的使者。\n　　还是过于沉重，很不符合千里寻妻记大结局最后夫妻重逢之恩爱夜话的气氛，他决定把话题从桑桑那里再扭转回来。\n　　“什么时候生？”\n　　他摸着她高高隆起的肚子，关心问道。\n　　桑桑的回答很简洁：“不知道。”\n　　这",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "知道佛陀会隐于山间，知道观主会另觅道路，那么何必降临人间？你没能完全战胜老师，反而自己变得越来越虚弱危险。”\n　　宁缺把她抱在怀里，低声问道。\n　　桑桑说道：“我算不到自己之后的未来，曾经在过去看到的现在的未来，过于模糊，而无法确信，因为有变数。”\n　　“什么是变数？”\n　　“像你老师那样能够超出规",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的漠然，却已被安宁代替，自归不得神国的那天开始，只有此时她才能真正安心片刻。\n　　宁缺从后面抱着她，说道：“明天我们就回，到了长安城，谁都伤不到你，别忘了你是昊天，以前对我那么凶，现在怎么这么胆小？”\n　　桑桑没有接他回长安城的话题，说道：“我现在没有以前强大，自然要小心谨慎些，至于你……你对我如此",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "：“到你能的那天，先告诉我一声。”\n　　……\n　　……\n　　（我没写过悲剧结局，对吧？因为所以，科学道理……）",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "里，但至少停止了动作，片刻后，他的声音从耳后传来。\n　　“你确定？”\n　　“我知道所有人的过去，便知将来。”\n　　“一个封闭的世界里，只要知道所有的前提条件，掌握所有规则，拥有绝对的计算能力，便可以推算出所有的结果，这我懂。”\n　　她知道这是宁缺那个世界习惯用的语言方式，听了这些年，早已习惯不愿问，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "例外。\n　　他是她唯一信任的人，因为他是她的男人，因为她给他斟过很多次茶，在一起度过漫长的岁月，同过无数生死，早已难分彼此。\n　　桑桑闭眼靠在他怀里，神情有些疲惫，眉眼间的漠然，却已被安宁代替，自归不得神国的那天开始，只有此时她才能真正安心片刻。\n　　宁缺从后面抱着她，说道：“明天我们就回，到了长安",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "桑桑没有说错，事实上多年前大唐国师李青山以寿元为代价卦算未来时，也同样看到了宁缺的特异之处――他从来都不在这盘棋局里。\n　　他来自另外的世界，他是局外人。\n　　昊天算不到他，夫子看不透他，观主也是如此。\n　　宁缺沉默了很长时间，觉得体会你能这种身份很像是宗教里经常会出现的某种使者――只是不知道是",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "着。\n　　没有过多长时间，天色依然黑沉，但按时间算，清晨到了。\n　　宁缺起身，开始收拾行囊，准备带她离开。\n　　桑桑静静看着他，也不说要跟着他走。\n　　待收拾妥当，宁缺走到她身前，说道：“不要给我玩不主动、不拒绝、不负责那套，不管你走与不走，都要跟我走。”\n　　说完这句话，他把她打横抱了起来。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。”\n　　“你也是变数？”\n　　“为什么？”\n　　“因为你是局外人。”\n　　……\n　　……\n　　屋内安静了一段时间，窗外的风雪呼啸不停。\n　　桑桑没有说错，事实上多年前大唐国师李青山以寿元为代价卦算未来时，也同样看到了宁缺的特异之处――他从来都不在这盘棋局里。\n　　他来自另外的世界，他是局外人。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

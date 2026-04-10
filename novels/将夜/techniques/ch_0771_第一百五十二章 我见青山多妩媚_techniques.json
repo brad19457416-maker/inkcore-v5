@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 771,
+  "chapter_title": "第一百五十二章 我见青山多妩媚",
+  "filename": "ch_0771_第一百五十二章 我见青山多妩媚.txt",
+  "char_count": 6980,
+  "timestamp": "2026-04-10T12:11:27.139044",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，手臂上的肌肉快要把衣衫撑破。\n　　四师兄举着河山盘，双臂颤抖，脸色苍白，他知道书院此时面临着最大的危险，甚至有可能全军覆没，但他却无法帮助师弟与师妹。\n　　……\n　　……\n　　君陌挥动着铁剑。\n　　铁剑的剑柄被他握在左手里，依然威武无俦。\n　　鲜血狂飙，蹄断首级飞。\n　　不知有多少骑兵，倒在了铁剑",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "说道：“有理。”\n　　君陌说道：“有理，所以不退。”\n　　柳白叹息一声，说道：“付出如此惨重的代价，最终还是没有杀死我，此时想来，便是我也不禁有些替你不值。”\n　　君陌说道：“一条手臂换你重伤无法再战，怎么看也是值的。”\n　　柳白说道：“剑伤再重也能好，断臂却不能复生，我此时不能再战，只是一时之事，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "眼前快速回放，然后变成极缓慢的无数画面叠加。\n　　他看清楚了。\n　　他举起左手，铁剑在青峡之前召唤秋风。\n　　天地气息不安，寒风劲吹。\n　　大河决堤，洪水泛滥。\n　　他的身体就像是一片羽毛，在水面上浮沉，瞬间飘掠至数十丈外。\n　　他看着身前的白海昕，挥剑。\n　　然后他飘然而退，落在原先的地面上。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "为何退回？”\n　　正向马车迎去的剑阁弟子，听到这句话，怒目回视。\n　　苏辰面色如霜，因为他此时真的很愤怒，很失望。\n　　如果说柳白真的在君陌剑下受了重伤，那么他还怕什么？\n　　而且柳白的剑已经断了。\n　　一个没有剑的人，便不能再被称之为剑圣。\n　　过了很长时间，马车里始终没有传出柳白的声音。\n　　只",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。\n　　琴箫之声越来越弱。\n　　北宫与西门脸色苍白，不停咳血。\n　　木柚的脸色越来越憔悴。\n　　王持紧张地躲在打铁炉后，不时抬头看一眼天，似乎在祈祷什么。\n　　只有六师兄的铁锤依然不停挥动，满地都是被暴头而死的战马。\n　　潮水般的骑兵之中，已经看不到铁剑的寒光，只有不停飞起的残肢与鲜血，证明那个握着",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。\n　　但他依然是那个世间第一强者。\n　　……\n　　……\n　　看着那辆缓缓驶出军营的马车，神殿联军的人们神情非常复杂，有些敬畏，更多的却是对此后的惘然无措与恐惧。\n　　即便是西陵神殿里的神官们，此时也有相同的心情――己方最强大的柳白，就这样受了伤，就这样离开，那么青峡处怎么办？\n　　隔着重重幔纱，叶",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "原上被宁缺一箭射死之后，他便接替了这个位置，如今在西陵神殿地位极高，仅在两位神座之下。\n　　看着那辆缓缓驶回的马车，他的脸色变得有些难看。\n　　“剑圣大人，我需要一个解释。”\n　　苏辰看着车厢，说道：“明明您还有再战之力，为何退回？”\n　　正向马车迎去的剑阁弟子，听到这句话，怒目回视。\n　　苏辰面色",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "题。”\n　　君陌让六师弟让开，看着不远处的他说道：“请讲。”\n　　柳白问道：“开始时我给过你机会，你为什么不退？”\n　　君陌说道：“当年你挑战南海剑神，明显不是对手，当时的你为什么不退？”\n　　柳白稍一沉默，说道：“有理。”\n　　君陌说道：“有理，所以不退。”\n　　柳白叹息一声，说道：“付出如此惨重",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "折断手中的羽箭。\n　　一道精纯的天地气息，从铁篷里向原野间溢出。\n　　满是残箭血水的原野地面上，忽然出现了五道极深的沟壑。\n　　五道沟壑，恰好围住了青峡的出口。\n　　那些沟壑极深，黑不见底，却并不宽，将将能容下马蹄。\n　　一匹战马的前蹄，踏进沟壑里，断时被前冲的巨大力量折断。\n　　惨烈的马嘶声接连响",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "十块血肉，散落在了原野上。\n　　鲜血四处淌流。\n　　柳白终于咳痛快了，说道：“走吧。”\n　　剑阁弟子来到马车旁，护着马车向军营外走去。\n　　他们警惕地注视着四周。\n　　无数双眼睛看着这辆马车。\n　　无人敢拦，无人敢说话，甚至没有人敢在眼神里流露出任何质疑的神情。\n　　柳白与君陌一战，两败俱伤。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "手指轻拂，泪珠落下，数道精纯的天地元气就像是最美妙的医道圣手般，在他的断肩上覆了道无形的网，血水瞬间止住。\n　　王持精神微安，像填堤般在他的伤口上倾倒着伤药，准备包扎。\n　　……\n　　……\n　　柳白看着十余丈外的场景，什么都没有做。\n　　忽然间，他对书院之所以强大，有了更深一层的理解。\n　　他说",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "味十足的话。\n　　当然他为此也做了极缜密的准备，身周有数十名强大的军中武修，又有近卫持大盾警惕，并不担心会被那道恐怖的铁剑杀死。\n　　……\n　　……\n　　君陌看着大军里那位将军。\n　　他不认识对方是谁，但知道对方应该是个很重要的人物。\n　　所以他决定杀死这个人。\n　　如果是平时，他肯定想都不想，提着",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "柳白看着十余丈外的场景，什么都没有做。\n　　忽然间，他对书院之所以强大，有了更深一层的理解。\n　　他说道：“我有几个问题。”\n　　君陌让六师弟让开，看着不远处的他说道：“请讲。”\n　　柳白问道：“开始时我给过你机会，你为什么不退？”\n　　君陌说道：“当年你挑战南海剑神，明显不是对手，当时的你为什么不",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，局面僵持紧绷，到了最艰难的时刻，但大军在南，谁都能够看到最后的结局。\n　　西陵神殿却并不满意，他们从来没有想过，居然要付出如此大的代价，才能通过这道青峡，更没有想到剑圣柳白出手，都未能毕其功于一役。\n　　希望最终变成失望，让有些人感到难以理解，甚至产生了怀疑。\n　　新任西陵神殿神卫统领苏辰便是其中",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 777,
+  "chapter_title": "第一百五十八章 因为伤心，所以尽心",
+  "filename": "ch_0777_第一百五十八章 因为伤心，所以尽心.txt",
+  "char_count": 2818,
+  "timestamp": "2026-04-10T12:11:27.146562",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "余的身体，显得那般孱弱。\n　　余帘之所以一直抓着他，是因为她知道，如果自已松开手，师兄一定会冒着生命危险，强行进入无距与观主继续战斗。\n　　现在她松开了手，是因为师兄得到了片刻休息的时间，更主要的是因为观主已经走到了近处，胜负之间的生死已经来到眼前。\n　　就在此时，街畔已经变成废墟的宅院里，忽然爬出",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "灭佛珠上的心血之火，挥袖乱风雪破天魔境，伸手一召便有天启降下，一剑便破千年城墙。\n　　街畔废墟处处，天空里的雪在燃烧，雨点在不停落下，所有的这些画面，都只证明了一件事情，那就是他的强大。\n　　人间修行为五境，越过那道最高的门槛，是无数人梦想却永远无法抵达的彼岸，无数年来，修行界确认越过五境的人寥若星",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "的某一天，那天桑桑抱着被褥，站在长安府衙的后花园外。\n　　这是他真正意义上的第二次出手。\n　　也是他最强的一次出手。\n　　面对破雨而至的指意，观主的眼中流露出欣慰的神情。\n　　这是他教给陈皮皮的。\n　　他很满意，陈皮皮现在所展现出来的境界与能力。\n　　所以他很欣慰，决定对陈皮皮不要过于严苛。\n　　他",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "现在她松开了手，是因为师兄得到了片刻休息的时间，更主要的是因为观主已经走到了近处，胜负之间的生死已经来到眼前。\n　　就在此时，街畔已经变成废墟的宅院里，忽然爬出来了一个人。\n　　那是一个年轻男人，戴着一顶草帽。\n　　他自西陵狂奔而回，回长安，回书院。\n　　数千里路的云和月、尘与土，让他变得瘦了很多。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "主说道：“很好。”\n　　陈皮皮站起身来，抹去脸上的雨水和污水，然后缓缓举起双臂。\n　　他的手指在微微颤抖。\n　　因为他准备用天下溪神指，因为他的敌人是自已的父亲。\n　　……\n　　……\n　　大师兄想要阻止这场战斗，因为他认为父子相残是很错误的事情。\n　　余帘只用了一句话，便阻止了他的阻止：“如果书院要",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "破天光，身上的气息便会愈发强大一分。\n　　微寒的雨水在余帘的脸上滑落。\n　　她看着从雨中走来的观主，说道：“传闻十八年前，你曾经登陆上岸，亲手把卫光明打落凡尘，除了他的光明神座之位。”\n　　观主说道：“不错。”\n　　余帘说道：“我当初并不相信你有能力把一个天启境界的强者强行打回原形，直到现在我才明白",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "出天下溪神指的时候，是在某个新年的某一天，那天桑桑抱着被褥，站在长安府衙的后花园外。\n　　这是他真正意义上的第二次出手。\n　　也是他最强的一次出手。\n　　面对破雨而至的指意，观主的眼中流露出欣慰的神情。\n　　这是他教给陈皮皮的。\n　　他很满意，陈皮皮现在所展现出来的境界与能力。\n　　所以他很欣慰，决",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "这种事情。\n　　余帘说道：“既然天下无敌，为何还要修行我大明宗的功法？观主乃是道门领袖，却问道于敌，难道不觉得羞耻？”\n　　她说的自然是先前出拳时，看到过的观主变灰的双眸。\n　　那就是脱胎于魔宗饕餮大法的灰眸。\n　　观主说道：“世间万事万物，皆归昊天所有，何况如今，你应该明白，明宗祭的依然是昊天，我",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "然而今日在雪街上，观主挥手卷袖连施无量、寂灭、天启、无距这四种五境之上的神话境界，而且显得那般的随意轻松。\n　　观主展现出来的层次，已经超出了西陵教典以及诸多修行典籍记载的范畴，超出了修行者最放肆想象的上缘，甚至显得那般的不真实。\n　　落雨仍在持续，他向朱雀大道北方走去，神情宁静。\n　　自天穹落下的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "他决定不杀死自已的儿子。\n　　只听得一阵风雨声，箫声，鼓声，嘈乱而作。\n　　在街间纵横的指意，瞬间破碎成无数碎片。\n　　噗噗数声闷响。\n　　陈皮皮倒在了雨水里，浑身是血。\n　　他的四肢关节，都被指意所伤，血洞森然，看上去极为凄惨。\n　　观主用的，也是天下溪神指。\n　　才是真正强大的天下溪神指。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "陈皮皮说道：“正是此意。”\n　　观主说道：“很好。”\n　　陈皮皮站起身来，抹去脸上的雨水和污水，然后缓缓举起双臂。\n　　他的手指在微微颤抖。\n　　因为他准备用天下溪神指，因为他的敌人是自已的父亲。\n　　……\n　　……\n　　大师兄想要阻止这场战斗，因为他认为父子相残是很错误的事情。\n　　余帘只用了一句",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "……\n　　……\n　　陈皮皮用书院不器意驭天下溪神指。\n　　指气纵横于微雨之间，有如乳燕投林，顽皮渴望去难寻踪迹。\n　　明明一指向东，天地气息却凝如锋刃，自西方斜斜刺来。\n　　明明手指疾颤如风中劲草，指意却静柔清美如湖中莲叶。\n　　陈皮皮上一次施出天下溪神指的时候，是在某个新年的某一天，那天桑桑抱",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "下，所有的这些画面，都只证明了一件事情，那就是他的强大。\n　　人间修行为五境，越过那道最高的门槛，是无数人梦想却永远无法抵达的彼岸，无数年来，修行界确认越过五境的人寥若星辰，其中任何一种境界，都已然是传说甚至是神话，比如天启境界。\n　　然而今日在雪街上，观主挥手卷袖连施无量、寂灭、天启、无距这四种五",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

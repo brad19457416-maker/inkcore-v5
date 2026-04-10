@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 515,
+  "chapter_title": "第二十二章 史书的开端",
+  "filename": "ch_0515_第二十二章 史书的开端.txt",
+  "char_count": 4283,
+  "timestamp": "2026-04-10T12:11:26.530763",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "很重视崔，虽然没有起身相迎，只是故意作态。所以他没有听懂崔说的这段话，他想不明白，像这样一个大人物，为什么要逢迎自己，要尝试让自己高兴，一旦出现问题甚至还登门来访。\n　　要知道清河郡门阀的历史比书院还要更加悠长，即便必须表现出对书院的尊重，也没有道理选择这种粗浅直接甚至显得有些愚笨的方法。\n　　崔没",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "需要拍我马屁，结果他偏来拍了，却又拍的如此轻描淡写、漫不经心，毫不掩饰自己的骄傲。”\n　　桑桑不解，心想这样的大人物屈尊亲自前来拜访，已经表现的足够谦卑，哪里能看出什么骄傲？\n　　“在世人眼中，清河郡第一人，确实没有必要来逢迎我这个书院弟子，但他是聪明人，很清楚书院对大唐意味着什么，只是既然他清楚这",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "疑虑问道：“现在的问题在于，宁缺的态度究竟能不能代表书院的态度。”\n　　崔老太爷很自然地拱手向北方的天空行了一礼，说道：“夫子他老人家既然让他的小弟子入世，那么便表示了认可。”\n　　“您所看到的宁缺的态度是怎样的？”\n　　“那是一个很骄傲很冷漠的年轻人。”\n　　崔老太爷不知道想到了些什么事情，在说完",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "忽然说道：“或许可以打压一下这位十三先生，显示我们的实力，才能得到西陵神殿更多的尊重。”\n　　“没有意义的事情，做再多也没有意义，我不管你家里那几个在西陵神殿的后代私下拜托过你什么，我只想提醒你，宁缺的小侍女将会成为西陵神殿的光明大神官，而他和裁决神座的关系，比我们想像的更复杂。”\n　　崔老太爷身体",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "字叫夫子。\n　　六位皓首老人离开了小楼，回到他们各自的庄园里，继续做他们的门阀之主，或者是怀揣千年被压抑之梦的老狗。\n　　崔老太爷和崔二人没有离开。\n　　“如果真有那么一天，我的名字大概会被刻上历史的耻辱柱。”\n　　崔老太爷说道。\n　　“但您的名字，也有可能被记载在史书的最开端处。”\n　　崔说道。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "普通，普通到他根本没有注意到那人长什么模样，然而桑桑却说那人有问题。\n　　如今宁缺的境界早已到了洞玄巅峰，清清楚楚地看到了知命境的门槛，而一个他根本看不出任何问题的老管事……只能说明是知命境的大修行者！\n　　“原来要看我的另有其人。”\n　　宁缺震惊说道。如今清河郡只剩下两位知命境的大修行者，居然其中",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "和望了桑桑一眼，便告辞而去，带着那个佝偻着身子的老管事离开了客栈。\n　　看着窗外清静无声的街道，宁缺说道：“他不需要拍我马屁，结果他偏来拍了，却又拍的如此轻描淡写、漫不经心，毫不掩饰自己的骄傲。”\n　　桑桑不解，心想这样的大人物屈尊亲自前来拜访，已经表现的足够谦卑，哪里能看出什么骄傲？\n　　“在世人",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。所以他没有听懂崔说的这段话，他想不明白，像这样一个大人物，为什么要逢迎自己，要尝试让自己高兴，一旦出现问题甚至还登门来访。\n　　要知道清河郡门阀的历史比书院还要更加悠长，即便必须表现出对书院的尊重，也没有道理选择这种粗浅直接甚至显得有些愚笨的方法。\n　　崔没有解决他的疑惑，在接下来的谈话中，他很平",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "顺地等着，哪怕是做狗，也要做出被养熟了的模样。”\n　　话题到了此处，便到了尽头。\n　　在这个世界上，无数场谈话，无数场阴谋，无数条道路，到最后都会被迫戛然而止，因为在尽头有座大山，那座大山的名字叫夫子。\n　　六位皓首老人离开了小楼，回到他们各自的庄园里，继续做他们的门阀之主，或者是怀揣千年被压抑之梦",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "说的有问题，不代表那个老管事是坏人，而是真的问题。宁缺很清楚地掌握到她的心意，不由微微一怔，旋即眉梢缓缓挑起。\n　　先前那个佝偻着身子的老管事，实在是太普通，普通到他根本没有注意到那人长什么模样，然而桑桑却说那人有问题。\n　　如今宁缺的境界早已到了洞玄巅峰，清清楚楚地看到了知命境的门槛，而一个他根本",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "为什么会如此警惕自己这个书院传人？\n　　如果不是桑桑拥有世人难以想像的直觉和敏感，那么他或许直到很久以后，也不会知道自己已经被一位大修行者仔细观察过！\n　　如果先前那位老管事忽然出手，宁缺相信自己现在已经是个死人，虽然他清楚这不可能发生，但依然生出了极强烈的警惕。\n　　他先前便想不明白清河郡的底气，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "过，宁缺是一个很骄傲很冷漠……不，很冷血的人。冷血或许只是他的性情，但骄傲却是贯穿书院千年历史的无聊脾气，到了今时今日依然没有丝毫变化。书院有整个大唐供奉，便不需要在乎我们这些家族门阀，那么我们便没有任何筹码，更没有骄傲的资格，更没有与书院讨价还价的余地。”\n　　崔老太爷淡然说道：“三供奉入长安，莫",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "安之后，他从袖中取一封薄薄的信，搁在桌上，又温和望了桑桑一眼，便告辞而去，带着那个佝偻着身子的老管事离开了客栈。\n　　看着窗外清静无声的街道，宁缺说道：“他不需要拍我马屁，结果他偏来拍了，却又拍的如此轻描淡写、漫不经心，毫不掩饰自己的骄傲。”\n　　桑桑不解，心想这样的大人物屈尊亲自前来拜访，已经表现",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

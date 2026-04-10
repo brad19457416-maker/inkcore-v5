@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 22,
+  "chapter_title": "第二十二章 会合",
+  "filename": "ch_0022_第二十二章 会合.txt",
+  "char_count": 2306,
+  "timestamp": "2026-04-10T11:53:11.029382",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "会合 \n\n    与挣断那根高强度塑料相比，那名特种兵的昏迷反而没有令莱克上校吃惊。能够拥有如此强大爆发力的少年，又怎么可能是一名特种兵所能抵抗的。在莱克上校的这一生中，他也只碰见过为数不多几次。\n\n    一想到这一点，莱克上校对于机修师余逢——这个军队的耻辱——更生出了强烈的好奇心与杀意，少年已",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "许乐拿着军用负重带的手僵硬在半空中，他看着封余憔悴的脸，咬牙说道：“你能瞒过第一宪章十几年，为什么不能继续瞒下去？”\n\n    封余没有回答这个最关键的问题，似笑非笑地看着少年，反问道：“以你的性格，似乎有些话忘了问我。”\n\n    许乐低着头问道：“当年战场上的爆炸是怎么回事？你真的是帝国",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "逐渐的缩小。莱克上校冷冷地注视着这个无声却惊心动魄的过程，等待着光幕上这两块区域最终集合成一个定点的刹那。\n\n    四分十二秒？莱克上校的眼瞳忽然猛地一缩，知道自己犯一个极其愚蠢的错误，东林大区和首都星圈之间的信息辩认定位是一个来回的过程，如果想要定位目标1或者目标2……实际上需要八分多钟！",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "乎还飘着煤油的味道。他干枯嘴唇里的烟卷刚刚点燃，烟头一阵明红，还没来得及释放出烟雾。\n\n    一个逃亡中的叛国贼，就以这样的姿态迎接他在这个城市里最亲近的雇工和学徒，荒谬之中透着一份令人心折的安稳情绪。\n\n    满脸汗水和血迹的许乐怔怔地看着他，看着他大腿上那道凄惨的伤口，没有等喘息平伏，开口问",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "些野人，能够把什么事情都做的那么野蛮。”\n\n    “我知道你能屏蔽电子监控。”许乐有些不甘心甚至是愤怒地看着老板的脸，说道：“试都没有试过，怎么知道逃不掉？”\n\n    “因为我已经逃了十几年。”封余咳嗽了两声，笑着从怀里取出那件小工具，塞进了许乐上衣口袋里，说道：“你说的那个东西，只能保持半个小",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "们还有多长时间？”\n\n    封余有些无力地抬起眼皮，看了一眼这个陪伴了自己四年的小家伙，微微一笑，说道：“电子监控查知芯片方位，传回首都星宪章局，再进行精确定位，再传回这边的执行部队，至少需要八分二十四秒。你是坐矿车过来的，速度不错，但是定位系统一直在跟随你，大概六分钟之后就能通过下水管线找到你的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "他的脸色阴沉无比，却没有对身边的下属说些什么，他只是觉得无比地难堪，想到无数年前，第四军区第一次来到东林大区时所犯的那个烟花错误，那一次的错误，让第四军区直接被从东林调离，去往西林那个原始落后的地方，今天自己又犯了一个错误，难道这代表着某种不祥的预兆？\n\n    如果有军事参谋或者情报人员",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "……\n\n    ……\n\n    许乐连滚带爬地从矿车上跑了下来，根本没有注意到坑道里没膝的黑水，找到那架钢梯，拼命地向上攀爬，他必须节约所有的时间。爬到了顶端，他用力地将盖子砸开，然后爬了出去，非常熟练地抬起手肘，将那块极粗大的电力开关顶了上去，一阵明亮的光芒照亮了整个房间。\n\n    正是",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "什么不能继续瞒下去？”\n\n    封余没有回答这个最关键的问题，似笑非笑地看着少年，反问道：“以你的性格，似乎有些话忘了问我。”\n\n    许乐低着头问道：“当年战场上的爆炸是怎么回事？你真的是帝国的奸细？”\n\n    他问的很直接，封余回答的也很直接。大叔吐了一口烟圈，懒洋洋说道：“当然，不是。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "上需要八分多钟！\n\n    他的脸色阴沉无比，却没有对身边的下属说些什么，他只是觉得无比地难堪，想到无数年前，第四军区第一次来到东林大区时所犯的那个烟花错误，那一次的错误，让第四军区直接被从东林调离，去往西林那个原始落后的地方，今天自己又犯了一个错误，难道这代表着某种不祥的预兆？\n\n    如果有军",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "他的脸色阴沉无比，却没有对身边的下属说些什么，他只是觉得无比地难堪，想到无数年前，第四军区第一次来到东林大区时所犯的那个烟花错误，那一次的错误，让第四军区直接被从东林调离，去往西林那个原始落后的地方，今天自己又犯了一个错误，难道这代表着某种不祥的预兆？\n\n    如果有军事参谋或者情报人员在身边",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

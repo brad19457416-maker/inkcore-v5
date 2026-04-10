@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 930,
+  "chapter_title": "第二百六十三章 特别巡察使",
+  "filename": "ch_0930_第二百六十三章 特别巡察使.txt",
+  "char_count": 2219,
+  "timestamp": "2026-04-10T12:05:26.925505",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "始终被人发现的原因一样。你看到什么不公平的事情，就忍不住要出头，不惜暴露踪迹，像你这样的人完全不适合逃亡。”\n\n    “既然你说这和正义无关，打抱不平纯属你个人最喜欢的余活。\n\n    动，那么有个正式的名义会方便一些。”\n\n    她微微一顿后继续说道：“军情署所有部门都已经收到相关文件，你被授",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "”\n\n    伍德记者望着邰之源，神情凝重说道：“更可怕的是，即便付出了这么大的代价，也许联邦迎来的将来并不见得更美好。\n\n    邰之源沉默很长时间后，转头平静看着他，说道：“我并不在乎\n\n    伍德皱着眉头，不可思议地看着他，问道：“那你究竟在乎什么？”\n\n    邰之源笑了笑，没有直接回答这",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "使 \n\n    刚才你说狂飙进式的革命并不可取，那你有没有相过，这场沉默的行军进行到最后，肯定佘因为愤怒鲜血而变得激烈起来就像当年麦德林的青年军抗议，这种集体无意识下的民众狂欢，根本无法控制，必将走入社会动荡，流血死亡的黑暗画面。”\n\n    伍德记者望着邰之源，神情凝重说道：“更可怕的是，即便付出",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "狂欢，根本无法控制，必将走入社会动荡，流血死亡的黑暗画面。”\n\n    伍德记者望着邰之源，神情凝重说道：“更可怕的是，即便付出了这么大的代价，也许联邦迎来的将来并不见得更美好。\n\n    邰之源沉默很长时间后，转头平静看着他，说道：“我并不在乎\n\n    伍德皱着眉头，不可思议地看着他，问道：“那",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "牌，问道：“这是什么？”\n\n    怀草诗没有直接回答他的问题，说道：“军情署能够一直跟踪你的踪迹，道理很简单，就像你当年离开东林后一样，始终被人发现的原因一样。你看到什么不公平的事情，就忍不住要出头，不惜暴露踪迹，像你这样的人完全不适合逃亡。”\n\n    “既然你说这和正义无关，打抱不平纯属你个人",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "长时间后，转头平静看着他，说道：“我并不在乎\n\n    伍德皱着眉头，不可思议地看着他，问道：“那你究竟在乎什么？”\n\n    邰之源笑了笑，没有直接回答这个问题，有些清疏的眉毛微微一挑，转而说道：“如果是那个家伙，大概不会像我这样做事，而是会直接扛起枪杀进总统官邸，问题在于，我没有他那种变态的能力",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "托德镇，向橡树州空港集结。\n\n    他们的目标是s1，是首都，是宪章广场。\n\n    当年联邦政府第一次通缉许乐时，曾经有很多学生上街游行表示抗议，当时那些学生的脸上都戴着黑色的口罩，一如今日，只不过这一场战斗，远在帝国的许乐应该是没有办法参与了。\n\n    光线与尘粒纠缠共舞的简陋图书馆内，许乐",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "满年轻颓废味道的大腿上，整个世界都醒了过来。\n\n    看上去没有组织，实际上有很多人在组织，狂欢的人群洗去疲惫与惘然，天亮时戴jl像征黑夜的黑色口罩，挥舞着早已准备好的标语，乘坐由三大工会提供的重型卡车，离开一地狼籍的伍斯托德镇，向橡树州空港集结。\n\n    他们的目标是s1，是首都，是宪章广场。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "父亲，在我的心中，我的父亲已经死在东林矿难之中，他叫许树才。\n\n    怀草诗缓缓眯眼，隐隐有愤怒的风云在眼帘间蕴娘，但终究还是悄然无声散去，只剩一片宁静。\n\n    “我会去天京星。”许乐看着她说道：“按照你的说法，生下我\n\n    的母亲是皇宫一个普通的女官，那我想去她的坟墓看一看。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "民众狂欢，根本无法控制，必将走入社会动荡，流血死亡的黑暗画面。”\n\n    伍德记者望着邰之源，神情凝重说道：“更可怕的是，即便付出了这么大的代价，也许联邦迎来的将来并不见得更美好。\n\n    邰之源沉默很长时间后，转头平静看着他，说道：“我并不在乎\n\n    伍德皱着眉头，不可思议地看着他，问道：",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "无上的帝国皇帝会是我的父亲，在我的心中，我的父亲已经死在东林矿难之中，他叫许树才。\n\n    怀草诗缓缓眯眼，隐隐有愤怒的风云在眼帘间蕴娘，但终究还是悄然无声散去，只剩一片宁静。\n\n    “我会去天京星。”许乐看着她说道：“按照你的说法，生下我\n\n    的母亲是皇宫一个普通的女官，那我想去她的坟",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "面临帝国部队疯狂的反扑，许乐额角的青筋乍现而隐，舔了舔有些苦涩的双唇，抬起头来望着怀草诗说道：“你不担心我把你的部署告诉联邦？”\n\n    “说了也没有用，而且我很清楚你是一个什么样的人。”\n\n    怀草诗看着他平静说道：“我回墨花，希望你回天京星看看……看看他，毕竟他是你我的亲生父亲。”",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "愤怒鲜血而变得激烈起来就像当年麦德林的青年军抗议，这种集体无意识下的民众狂欢，根本无法控制，必将走入社会动荡，流血死亡的黑暗画面。”\n\n    伍德记者望着邰之源，神情凝重说道：“更可怕的是，即便付出了这么大的代价，也许联邦迎来的将来并不见得更美好。\n\n    邰之源沉默很长时间后，转头平静看着他，",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "去疲惫与惘然，天亮时戴jl像征黑夜的黑色口罩，挥舞着早已准备好的标语，乘坐由三大工会提供的重型卡车，离开一地狼籍的伍斯托德镇，向橡树州空港集结。\n\n    他们的目标是s1，是首都，是宪章广场。\n\n    当年联邦政府第一次通缉许乐时，曾经有很多学生上街游行表示抗议，当时那些学生的脸上都戴着黑色的口",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

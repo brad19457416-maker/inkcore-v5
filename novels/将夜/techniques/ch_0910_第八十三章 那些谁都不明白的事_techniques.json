@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 910,
+  "chapter_title": "第八十三章 那些谁都不明白的事",
+  "filename": "ch_0910_第八十三章 那些谁都不明白的事.txt",
+  "char_count": 3366,
+  "timestamp": "2026-04-10T12:11:27.480304",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "莫山山嫁给那个男人，但在我看来，这和我理解的爱情并不像是一回事，因为你不准备娶她。既然你不准备娶她，为什么不让她嫁给别人？为什么她嫁给别人会让你这样的失望，让你产生破坏的冲动？”\n　　桑桑有些不解说道：“在我的理解里，这是雄性生物对雌性生物的占有欲，这是对自己血脉繁衍的强大本能渴望。如果是这样的话，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "桑桑忽然说道：“六宫粉黛无颜色。”\n　　这句诗她自然也是小时候从宁缺处听来的。\n　　宁缺很是不安，心想你若真的不高兴闯进皇宫，自然无人敢有颜色，无奈道：“这都哪儿跟哪儿啊？都不是一人写的。”\n　　像桑桑这样不满的姑娘还有很多，两名大河国少女看着空空荡荡的货架，想着春日祭上的妆容，忍不住抱怨起来：“",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "京都是大河国的都城，城外有雪山，城内屋宅多为黑檐，河畔园角种着无数花树，掩映之中能够看到皇城，风景非常美丽。\n　　生活在这的人们也生的极美，眉眼平静柔顺，目光专注坚毅，身着浅色长裙，腰间系着华丽的布带，很多人的腰畔都佩着长长的乌鞘木剑。\n　　走进京都，宁缺看着陌生却又熟悉的景致人物，自然生出亲",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "注坚毅，身着浅色长裙，腰间系着华丽的布带，很多人的腰畔都佩着长长的乌鞘木剑。\n　　走进京都，宁缺看着陌生却又熟悉的景致人物，自然生出亲近的感觉，待他发现崇文门旁竟然开着一家陈锦记分号，更是喜悦。\n　　“要不要去看看。”他转身望着桑桑问道。\n　　桑桑看了眼陈锦记的牌匾，说道：“我现在生的这般白，难道还",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "她的同伴说道：“国君真敢娶吗？”\n　　那名少女说道：“除了国君，还有谁有资格娶她？”\n　　同伴担心说道：“世间都知道她喜欢书院的十三先生，就算她敢嫁，难道国君真的敢娶，就不怕唐人不高兴？”\n　　宁缺和桑桑准备出门，听着这番议论，自然停下脚步。\n　　他什么都没有做，也没有转身询问，只是静静站在槛",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "山山一事，都还在担心唐人会不会因此动怒，更何况是当事人的宁缺。\n　　宁缺说道：“刚听到的时候确实有些愤怒，但走在花树间，却忽然想明白了，我没有愤怒的资格，那花树本就生在那里，并不是我的。”\n　　桑桑转身看着他说道：“人类果然很擅长虚伪。”\n　　宁缺看着她寻常普通的容颜，不知为何觉得情绪有些烦躁，说道",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "一家陈锦记分号，更是喜悦。\n　　“要不要去看看。”他转身望着桑桑问道。\n　　桑桑看了眼陈锦记的牌匾，说道：“我现在生的这般白，难道还要用脂粉？”\n　　宁缺说道：“看看无所谓，再说你可以买些胭脂。”\n　　桑桑想了想，走进了陈锦记。\n　　宁缺和大黑马对视一眼，看着彼此的喜悦。\n　　大河京都的陈锦记分号，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "。桑桑很清楚他骨子里非常冷漠，但依然有些意外，因为在她的记忆里，那个将要成亲的女子对他来说有很重要的意义。\n　　她走到树前的溪畔，负着双手看溪水里的流云，说道：“你为何不动怒？”\n　　先前在陈锦记里，那两名大河国少女提起国君迎娶莫山山一事，都还在担心唐人会不会因此动怒，更何况是当事人的宁缺。\n　　宁",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第八十三章 那些谁都不明白的事\n　　大河国与唐国相距遥远，却世代交好，生活在这里的人们对唐国文化极为仰慕，无数年来，不知派遣了多少使节学生进入长安，无论是朝廷官制，还是建筑、人文甚至是生活细节里，都能看到长安城的影子。\n　　京都是大河国的都城，城外有雪山，城内屋宅多为黑檐，河畔园角",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "河国与唐国相距遥远，却世代交好，生活在这里的人们对唐国文化极为仰慕，无数年来，不知派遣了多少使节学生进入长安，无论是朝廷官制，还是建筑、人文甚至是生活细节里，都能看到长安城的影子。\n　　京都是大河国的都城，城外有雪山，城内屋宅多为黑檐，河畔园角种着无数花树，掩映之中能够看到皇城，风景非常美丽。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "情的答案。\n　　她看着他，却又像是在看着京都城里在花树下携手同游的男男女女，神情认真问道：“爱，可以同时爱两个人吗？”\n　　对此，宁缺只能沉默。\n　　桑桑继续问道：“爱情怎么衡量程度？你爱我，或者爱她，你或者更爱我，既然文字都无法形容，又怎么可能有多少，怎么会有更爱？”\n　　宁缺除了沉默，不可能有更",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

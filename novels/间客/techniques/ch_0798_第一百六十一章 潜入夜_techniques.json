@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 798,
+  "chapter_title": "第一百六十一章 潜入夜",
+  "filename": "ch_0798_第一百六十一章 潜入夜.txt",
+  "char_count": 3420,
+  "timestamp": "2026-04-10T12:05:17.624932",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "窃窃私语片刻，他来到了总统的书房之中。\n\n    深褐色的办公桌后，帕布尔总统正在阅读一份前线送来的紧急军报，黝黑的脸颊两旁微微下陷，头花白的厉害，看上去显得极为疲惫小.说。t/x/t天.堂",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "精确调整配合下。极为舒服地任由许乐悄然侵入，没有呻吟，也没有惊动任何人。\n\n    然后在帕黛儿小姐紧张地注视中，许乐爬进了联邦第一千金的闺房，抱歉地看了一眼被踩脏的棉被，二人窃窃私语片刻，他来到了总统的书房之中。\n\n    深褐色的办公桌后，帕布尔总统正在阅读一份前线送来的紧急军报，黝黑的脸颊两旁",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "名表情比当年麻木很多的老板，没有任何客人，保姆抱着孩子去了车上，远处桌上的两名勤务士官忧虑地看着她，担心她喝醉后会不会变成传闻中那个刁蛮冷酷的年轻时的小姐，”\n\n    一辆黑车像幽灵般悄无声息地滑行了过来，车身上没有任何标志，甚至连醒目的装饰物都没有，但对于部郁来说，她可以非常轻松地认出这种特制的",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "和糟糕的糊韭菜们映成趣。\n\n    “忘了许乐回答道。\n\n    部郁抬头看了他一眼，思忖片玄后认真说道：“你强行闯回都星圈，然后做的这套所谓计划，在我看来依然天真幼稚的可笑，不过想想也很自然为，你是一介。只擅长和机器数字公式打交道的工程师，要你去思考这些问题，确实有些勉为其难，至少你肯去思考，已经",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "夫人安静地听着，片刻后微微一笑，说道：“郁子，我越来越喜欢你了，不过你要相信一点，像七大家这样的畸形存在，即便什么都做，只是看着，也有足够的震慑力。”\n\n    部郁微笑着摇摇头，说道：“夫人，我相信宪历七十二年的历史，肯定还是像施清海和许乐这种实干派来写。”深夜里的宪章广场空旷安静，前些日子的议会",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "笑望着她，说道：“一个就是许乐刚才和你说过些什么。二则是，我很想知道从你的角度看过去，在这种局面下，究竟谁会获得最后的胜拜”\n\n    部郁安静片刻后，拣能说的一些话随意说了，然后微微凝眉，说道：“虽然我并不认为许乐是个长于政治架构的家伙，但他有个判断我很认可，李在道就算智慧才干惊人，但终究不是他的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "只嵘汇刑琥珀色和糟糕的糊韭菜们映成趣。\n\n    “忘了许乐回答道。\n\n    部郁抬头看了他一眼，思忖片玄后认真说道：“你强行闯回都星圈，然后做的这套所谓计划，在我看来依然天真幼稚的可笑，不过想想也很自然为，你是一介。只擅长和机器数字公式打交道的工程师，要你去思考这些问题，确实有些勉为其难，至少你",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "部夫人神情微凝。\n\n    “临海州体育馆，那些军人试图杀死太子哥哥的时候，其它那些家族的老人们虽然亲自去莫愁后山解释甚至涕泪乱流以恳请您的认可，但事实上谁都知道他们在幸灾乐祸，他们什么具体的事情都没有做，只是在看。”\n\n    “上一届政府进行麦德林专案的时候。七大家依然什么都没有做，你们",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "多少警察和特勤局的监控小组。\n\n    对于许乐来说，这些都不是障碍，七组队员分成了三个小队潜伏在流风坡会所后线的山林里，而他则是在宪章光辉的掩护下，悄无声息地穿过那片林地，来到了总统官邸的后方。\n\n    正如部郁所言，像他和施清海这种人是最标准的行动派，所谓的规划总结到最后，依然还是正反两个方面",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "队员分成了三个小队潜伏在流风坡会所后线的山林里，而他则是在宪章光辉的掩护下，悄无声息地穿过那片林地，来到了总统官邸的后方。\n\n    正如部郁所言，像他和施清海这种人是最标准的行动派，所谓的规划总结到最后，依然还是正反两个方面：被人逮捕或者逮捕别人。被人杀死或者杀死别人。\n\n    他要进入总统官邸",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "和政府，我总觉得他没有太多圆满的处理方法，稍不注意，便只能落一个史册留黑名，却也没办法在现世获得绝对权力的可悲下场。”\n\n    “不错，正如你忧虑许乐这个小家伙毫无道理的自信，对于我来说，李在道过于反常的粗制滥造般的狙杀，还有与之截然相反透露的自信，则是令我非常不解的事情\n\n    部夫人目光微垂",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "过些什么。二则是，我很想知道从你的角度看过去，在这种局面下，究竟谁会获得最后的胜拜”\n\n    部郁安静片刻后，拣能说的一些话随意说了，然后微微凝眉，说道：“虽然我并不认为许乐是个长于政治架构的家伙，但他有个判断我很认可，李在道就算智慧才干惊人，但终究不是他的父亲李元帅，就算他是事实上的联邦军方第一",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "漂亮，即不刺眼。也不平庸。\n\n    “比当年镇定。也比当年自主，这样很好，我们女人，永远不能把生活幸福的希要，放在那些没有任何希望的男人身上\n\n    部夫人轻声感慨道：“真可惜，当年我只认为你屁股大，现在才现你越来越多的优点，只可惜已经晚了\n\n    部郁的脸难得的窘迫了丝，屁股大好生养这种听上",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

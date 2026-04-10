@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 80,
+  "chapter_title": "第十九章 初见邰之源",
+  "filename": "ch_0080_第十九章 初见邰之源.txt",
+  "char_count": 3435,
+  "timestamp": "2026-04-10T11:53:35.139887",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "第十九章 初见邰之源 \n\n    轻轻地敲了敲房间的门，里面没有任何反应。许乐疑惑地看了一眼门边的绿色指示灯，确认那个小子还在房间里，又加大了敲门的声音，可是依然没有反应。许乐不禁紧张起来，那人不会是出什么事，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "都还算正常，才略微放下了一些心，气喘吁吁地想着，大概只是昏迷过去了，应该还好处理。只是不明白这个家伙为什么会忽然昏了。\n\n    用手掌轻轻拍了拍那个少年的脸。许乐着急地喊道：“醒醒，醒醒。”\n\n    瘦削少年的脸色很苍白。被许乐轻轻拍了两下反而震出些不健康地红晕。许乐皱着眉头，心想打电话给校医院",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，醒醒。”\n\n    瘦削少年的脸色很苍白。被许乐轻轻拍了两下反而震出些不健康地红晕。许乐皱着眉头，心想打电话给校医院只怕来不及，而且那些医生只怕也没有进入区以及区地权限。他左右看了看四周，眼光落在了机甲操纵舱的固定带上，想也未想，右手扯住了带子地中间，闷哼一声，随着心意，身体后腰部热感顿生，那股奇",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，他也不至于因为血糖过低而晕倒。\n\n    正是因为这些想法，让他平日在下属家臣们面前能够完美保持的风度出现了一丝缝隙，他盯着面前关切望着自己的年轻学生，一字一句说道：“我没有昏，只是……睡着了。”\n\n    许乐明显不相信这个解释，笑出声来：“撬门撬了这么久都没醒，除非你是一头猪。”\n\n    邰",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "想也未想，右手扯住了带子地中间，闷哼一声，随着心意，身体后腰部热感顿生，那股奇异力量随着皮肤下的细微颤抖传至手掌，用力一拉。\n\n    啪的一声脆响，能够在机甲高强度动作下依然固定驾驶者身体的超强弹性纤维固定带，就在许乐寻常的手中断成了两截。\n\n    用固定带将那个瘦弱少年绑在后背，许乐小心谨慎却",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "对完美的矜持意味与和善之中的骄傲。\n\n    许乐挠了挠头，不想去考虑为什么这小子这对眼睛温和却又令人生出畏惧之心，说道：“发生什么事了？”\n\n    邰之源没想到自己从昏迷中醒来，看见的第一个人居然是那个小子，他沉默着没有回答。他的身体一向不好，血糖太低，那个毛病又一直没见好，尤其是最近这些年经常",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "”\n\n    邰之源没想到自己从昏迷中醒来，看见的第一个人居然是那个小子，他沉默着没有回答。他的身体一向不好，血糖太低，那个毛病又一直没见好，尤其是最近这些年经常性失眠的，更是一天比一天疲惫，每天夜里必须要吃靳管家精心准备的宵夜，才能补充体力。\n\n    他吩咐靳管家不用准备宵夜，那是因为他已经习惯",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "惑地看了一眼门边的绿色指示灯，确认那个小子还在房间里，又加大了敲门的声音，可是依然没有反应。许乐不禁紧张起来，那人不会是出什么事，昏迷过去了吧？他忽然想到区的隔音材料极为高级，难道连敲门的声音也没办法传进去？\n\n    他皱了皱眉头，直接回到了自己的房间，取出了被他藏在贮物箱最深处的双肩包，又走回了",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "可许乐一直固执地这样认为。“还是先去医院……”许乐看着紧闭双眼的他，关切地建议道。\n\n    邰之源缓缓睁开了双眼，许乐的话语戛然而止。他从来没有想过，一个少年的双眼竟能如此平静，平静的有如已经经历过无数年沧桑的老人，虽然依旧保存着年轻人特有的清湛，可当许乐看着他的双眼时，总下意识里认为对方的眼波可",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，显得格外刺耳。许乐的额头已经冒出了冷汗。手里地工具不停地替换。对那些复杂地构造进行着破坏，他心里的担心越来越强烈，因为这么大的动静，都没能让房间里那小子有丝毫反应，看来对方真的出了什么事\n\n    嘶的一声。芯片地组线被接通，门锁最后一个金属三件机簧片弹开，房间的门向着合金墙壁里缩了进去，出现了一",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "与和善之中的骄傲。\n\n    许乐挠了挠头，不想去考虑为什么这小子这对眼睛温和却又令人生出畏惧之心，说道：“发生什么事了？”\n\n    邰之源没想到自己从昏迷中醒来，看见的第一个人居然是那个小子，他沉默着没有回答。他的身体一向不好，血糖太低，那个毛病又一直没见好，尤其是最近这些年经常性失眠的，更是一",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "缓缓睁开了双眼，许乐的话语戛然而止。他从来没有想过，一个少年的双眼竟能如此平静，平静的有如已经经历过无数年沧桑的老人，虽然依旧保存着年轻人特有的清湛，可当许乐看着他的双眼时，总下意识里认为对方的眼波可能会永远不会颤抖一丝.\n\n    这是身份地位见识与心态所自然带来的俯视联邦的目光，这是自幼便在联邦",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "轻拍了两下反而震出些不健康地红晕。许乐皱着眉头，心想打电话给校医院只怕来不及，而且那些医生只怕也没有进入区以及区地权限。他左右看了看四周，眼光落在了机甲操纵舱的固定带上，想也未想，右手扯住了带子地中间，闷哼一声，随着心意，身体后腰部热感顿生，那股奇异力量随着皮肤下的细微颤抖传至手掌，用力一拉。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "是只有真正的大人物才能拥有的一双眼睛。然而许乐根本不懂这些，他只是觉得对方的眼睛平静温和却又没有一丝温暖之意，透着股绝对完美的矜持意味与和善之中的骄傲。\n\n    许乐挠了挠头，不想去考虑为什么这小子这对眼睛温和却又令人生出畏惧之心，说道：“发生什么事了？”\n\n    邰之源没想到自己从昏迷中醒来，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

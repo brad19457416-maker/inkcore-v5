@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 468,
+  "chapter_title": "第二百七十二章 观雪怅然",
+  "filename": "ch_0468_第二百七十二章 观雪怅然.txt",
+  "char_count": 3370,
+  "timestamp": "2026-04-10T12:11:21.737900",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "得愈发温和，安慰说道：“哥哥你改变了很多。”\n　　“不像以往那般冷酷暴戾好杀？”\n　　夏侯自嘲一笑，心想当年自己兄妹离开荒原来到唐国，没有任何背景靠山，陛下还未登基，你还不是皇后，两个外乡人想在这样一个老大帝国里站稳脚根，除了让所有敌人感到恐怖害怕，还有什么别的办法？\n　　时值寒冬，碎雪如粉自天穹降",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "不会允许，所以如果你要出手，我会把你留在这里。”\n　　叶红鱼看着他平静说道，右手在青衣道袍袖外，于冬风间便要握住一把虚剑。\n　　宁缺看着她的右手，沉默很长时间后说道：“看起来全天下的人，包括我的师门都不同意我去刺杀夏侯。”\n　　他抬起头来，静静看着叶红鱼的眼睛，说道：“你知道我是个怎样的人，我打不过",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "叶红鱼说道：“雪不能留人，所以你要留人？”\n　　宁缺说道：“我不明白你的意思。”\n　　叶红鱼问道：“为什么昨天夜里便把家里的管事丫环都散了？”\n　　宁缺笑着说道：“这不是证明我没有留人？”\n　　叶红鱼说道：“你知道我的意思。”\n　　宁缺说道：“今天冬至，管事和丫环也应该多陪陪家里人。”\n　　叶红鱼说",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "想必夫子也是这个态度……至于宁缺，我们都很清楚他是一个怎样的人，自然太平。”\n　　夏侯微微皱眉，强行压抑住胸腹间越来越恼人的咳意，他不想在离开长安之后，还让妹妹替自己担心。\n　　皇后娘娘沉默看着他的脸色，温婉的目光似乎能够深入他的身体内，看着他肺部的伤势，幽幽说道：“在荒原上，唐让你受了这么重的伤，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第二百七十二章 观雪怅然\n　　叶红鱼说道：“雪不能留人，所以你要留人？”\n　　宁缺说道：“我不明白你的意思。”\n　　叶红鱼问道：“为什么昨天夜里便把家里的管事丫环都散了？”\n　　宁缺笑着说道：“这不是证明我没有留人？”\n　　叶红鱼说道：",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "对岸的大黑马，圆乎乎的脸颊上浮现出浓重的忧色，唐小棠抬头看他一眼，问道：“会发生事情吗？”\n　　“按道理，按照师弟他的性格，明知必败，那么便不会做任何决定，所以应该不会发生什么事情，但大黑马为什么会回来？”\n　　陈皮皮微微皱眉，说道：“我现在发现，我似乎一直都没有真正了解他的心里在想些什么，我一直以",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "啧啧称奇看着它消失在城外的寒冬官道上。\n　　没有用多长时间，大黑马便跑回了书院，从侧门踏斜坡钻云雾，出现在后山崖坪的镜湖畔，不停喘息，低下马首去湖面上亲吻自己，贪婪地饮着水，滋润自己将要燃烧起来的咽喉与马肺。\n　　大黑马不知道宁缺要做什么，也不知道自己为什么会有惴惴不安的情绪，它只是隐约觉得自己应该",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "乎的脸颊上浮现出浓重的忧色，唐小棠抬头看他一眼，问道：“会发生事情吗？”\n　　“按道理，按照师弟他的性格，明知必败，那么便不会做任何决定，所以应该不会发生什么事情，但大黑马为什么会回来？”\n　　陈皮皮微微皱眉，说道：“我现在发现，我似乎一直都没有真正了解他的心里在想些什么，我一直以为他是一个冷漠寡情",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "做什么，也不知道自己为什么会有惴惴不安的情绪，它只是隐约觉得自己应该早些回到书院，这样可以让书院里的人们，猜到雁鸣湖畔将要发生什么，它认为自己是报信者。\n　　陈皮皮站在湖畔那头，看着对岸的大黑马，圆乎乎的脸颊上浮现出浓重的忧色，唐小棠抬头看他一眼，问道：“会发生事情吗？”\n　　“按道理，按照师弟他的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "哥哥你改变了很多。”\n　　“不像以往那般冷酷暴戾好杀？”\n　　夏侯自嘲一笑，心想当年自己兄妹离开荒原来到唐国，没有任何背景靠山，陛下还未登基，你还不是皇后，两个外乡人想在这样一个老大帝国里站稳脚根，除了让所有敌人感到恐怖害怕，还有什么别的办法？\n　　时值寒冬，碎雪如粉自天穹降落，把皇宫里的朱墙涂上了",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "么要我离开？你不要告诉我，你还没有放弃刺杀夏侯，你这时候就是要去做这件事情。”\n　　宁缺问道：“你会担心我的死活吗？”\n　　叶红鱼摇了摇头。\n　　宁缺笑着说道：“虽然听来确实有些令人伤感，不过这才是真实的你，既然你不担心我的死活，何必管我去做什么？”\n　　“夏侯是我道门客卿，我哥来长安城为的就是这件",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "兄长，轻轻叹息一声，说道：“不会有事吧？”\n　　夏侯看着她，惯常黝黑冷漠如寒铁的脸上，极罕见的露出极温暖宠溺的笑容，说道：“都要回老家了，哪里会有事，我现在感觉到前所未有的轻松，倒是妹妹你今后一人在长安城里，万事皆要小心，若有不谐，尽快通知我。”\n　　皇后娘娘微笑说道：“看书院那边的动静，应该是太平",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

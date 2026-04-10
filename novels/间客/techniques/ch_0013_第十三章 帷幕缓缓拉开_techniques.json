@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 13,
+  "chapter_title": "第十三章 帷幕缓缓拉开",
+  "filename": "ch_0013_第十三章 帷幕缓缓拉开.txt",
+  "char_count": 2136,
+  "timestamp": "2026-04-10T11:53:11.023271",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的野心。”\n\n    “我只有占领整个河西州黑夜的野心。”李维的声音也有些嘶哑，不过他的神情并不怎么紧张，所以许乐的心略放松了一些。\n\n    “你给我的那个东西……被二局的人没收了，不过你放心，没有人知道是我的。”李维舔了舔发干的嘴唇，昨天夜里和另一个帮派打了一整夜，确实是有些疲惫。\n\n    许",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "别是在州立大学办了借书证之后，他更是每天都要来一趟，似乎这些书籍里有无穷无尽的美女，有无穷无尽光彩的将来在等待着他。\n\n    在图书馆里没有奇遇，没有美女，许乐抱着一大堆书出了图书馆的门，脸上没有丝毫沮丧的神情，然后在州立大学的校门前见到了一个令人意想不到的人。\n\n    一个月没有见到的李维，就",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "月，按照联邦首都星圈的上林人的说法，这日子应该就是到了深秋。[阅读文字版，请上]那些小说上的深秋有寒风，细雨和高淡的天穹，然而对于东林区的人们来说，这个世界的四季向来不怎么分明，或许是大气上方那些永远不会完全清澈的尘埃，让整个星球变作了一个怪异的玻璃房，所谓深秋，也不过就是加了件衣裳。\n\n    许",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "这位大叔后来又犯了懒，所以干脆把许乐带回了修理铺，也算是正式向第四街区的邻居们介绍了这个少年学徒工的存在。\n\n    老板既然回来了，许乐也不用再盯着铺子，反正铺子的生意再好也有限，虽说整个第四街区的居民们都知道封余和这个小徒弟的手艺，然而谁也顶不住封余一个电视晶屏也要修三个月的速度。\n\n    将",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "般从许乐的身边掠过，上楼休息去了。\n\n    ……\n\n    ……\n\n    过往两年间，许乐并没有出现在香兰大街的修理铺，只是在矿坑的操作间进行修复工作，所以在李维这些孤儿们的眼中，他等于是从城市里失踪了两年的白昼。\n\n    一直到一个月前，许乐替封余完成了那件事，封余答应他将操作间的无尘级别提",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "日子应该就是到了深秋。[阅读文字版，请上]那些小说上的深秋有寒风，细雨和高淡的天穹，然而对于东林区的人们来说，这个世界的四季向来不怎么分明，或许是大气上方那些永远不会完全清澈的尘埃，让整个星球变作了一个怪异的玻璃房，所谓深秋，也不过就是加了件衣裳。\n\n    许乐今天穿了一件藏青色的外衣，样式有些像",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "理铺老板一样，都是简水儿的狂热支持者，可如果说因为要看电视，便做这么大风险的事情，实在是很不符合他的性格。如果不是老板用操作间诱惑他，关于23频道的事情，他顶多只是会叹息几声，然后去多买几张简水儿的光盘。\n\n    他有些害怕，一想到是在和州长办公室做对，许乐就难以自抑的恐惧。尤其是每每想到那个被鲍",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "晶屏也要修三个月的速度。\n\n    将身上学生制服一般服装的扣子紧了紧，许乐冲着楼上喊了一句什么，便走出了铺子，坐上了街口的电车。\n\n    数百年前，静农高能蓄电池发明出来之后，无论是有轨无轨电车，都挣脱了头顶那两根辫子的束缚，开始自由地城市里通行。当然，一般的人家肯定会拥有自己的交通工具，而上林",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第十三章 帷幕缓缓拉开 \n\n    时间过去了一个月，按照联邦首都星圈的上林人的说法，这日子应该就是到了深秋。[阅读文字版，请上]那些小说上的深秋有寒风，细雨和高淡的天穹，然而对于东林区的人们来说，这个世界的四季向",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的面前。看着孤儿首领有些憔悴和疲累的面容，许乐忽然觉得嘴唇有些发干，不知道发生了什么事情，沙哑着声音问道：“你不要告诉我，你还有报考大学的野心。”\n\n    “我只有占领整个河西州黑夜的野心。”李维的声音也有些嘶哑，不过他的神情并不怎么紧张，所以许乐的心略放松了一些。\n\n    “你给我的那个东西…",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

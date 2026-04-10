@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 146,
+  "chapter_title": "第八十五章 纪念某些人的离开",
+  "filename": "ch_0146_第八十五章 纪念某些人的离开.txt",
+  "char_count": 3491,
+  "timestamp": "2026-04-10T11:53:35.162311",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "念忧虑担心快要成病的时候，许乐接到了一个电话，电话那头女孩儿的声音无比清淡，无比忧伤，就像是临海冬末天空飘着的乌云。有些高远、却又沉重。\n\n    她就像在山的那一边，听的见声音，却见不着人。\n\n    “是我把你可能和邰之源去看演唱会的情报，告诉了他们。”\n\n    许乐拿着电话沉默，许久之后说道",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "治学说，为了所谓的狗屎正义，而不惜用暴力伤害联邦的稳定架构。在面临着帝国强大军力威胁的当下，**军的存在，不止让联邦政府被迫损耗了大量注意力，更是浪费了无数纳税人的金钱，更关键的是，让联邦社会产生了一道沟壑，人心如果散了，怎样面对帝国的入侵？这种行为，和那些出卖联邦利益的叛国贼有什么本质上的区别？",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "联邦有很多历史遗址，却没有金字塔这种东西。如果这个社会也有金字塔的话，邰之源这种人，毫无疑问是站在金字塔最顶端看风景的那些人中的一个。他的家世，他自幼所受的教育，更准确的说，他所属于的阶层，也就是他屁股坐的位置……注定了这位年轻而骄傲的邰家继承人，对于乔治卡林的那一套学说，只会嗤之以鼻和",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "在行李中？\n\n    施清海说他的思维已经被精液的浓淡程度所控制，许乐并不承认这一点，他只是习惯性的思念张小萌，因为在这个世界上，他只有这样一位异性女孩儿可以思念，而且这个女孩儿曾经与他有过快乐的日子，深入的交流。\n\n    许乐甚至不愿意去想张小萌在这整个事件里可能扮演的角色，他只是有些担心，在联",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "位二号人物，冒着天大的危险。在双月节舞会上与邰之源见面时，邰之源并没有冲动的将对方交给政府，而是强行压抑住内心的敌意，十分理智的促成了帕布尔方员的青龙山之行。\n\n    但是邰之源对于青龙山**军的态度，从根骨上来讲，从来没有改变过，从来没有软化过。如果时局允许，如果他真的站上了联邦的政治舞台，他或",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "第八十五章 纪念某些人的离开 \n\n    联邦有很多历史遗址，却没有金字塔这种东西。如果这个社会也有金字塔的话，邰之源这种人，毫无疑问是站在金字塔最顶端看风景的那些人中的一个。他的家世，他自幼所受的教育，更准确的说，他所属于的阶层，也就是他屁股坐的位置……注定了这位年轻而骄傲的邰家继承人，对",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "输的**军，抵抗住联邦军队的春季攻势。\n\n    只能徐徐图之，所以当**军那位二号人物，冒着天大的危险。在双月节舞会上与邰之源见面时，邰之源并没有冲动的将对方交给政府，而是强行压抑住内心的敌意，十分理智的促成了帕布尔方员的青龙山之行。\n\n    但是邰之源对于青龙山**军的态度，从根骨上来讲，从来",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "大叔，脸上却流露着慈爱的光芒，他看着身旁戴着黑框眼镜，低头不语的女孩子，安慰说道：“你们是这个事业的将来，再如何天真幼稚，造成了多大的伤害，只要你勇敢的面对，都会成为让你成熟的经验。”\n\n    “我知道，我只是觉的很对不起他。”张小萌抬起脸来，摘下黑框眼镜，抹去泪水，倔犟的笑着说道：“而且如果他真",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "些军官，会比国防部那位自杀的副部长更要强硬。\n\n    光幕上邰之源瘦削苍白的面容现出一丝嘲讽之意。说道：“这次我救你，不是因为我有任何可能认同你们的理念，而是因为此次和解协议，你是中间人，你知道太多的细节。那些细节需要你回到去继续执行。”\n\n    “另外我不喜欢政府里有些人，把体育馆暗杀事件当成",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "“不知道……我以为我是在做正确的事情，然而现在才发现自己是那样的幼稚。”那边女孩儿的声音无比的落寞与自嘲。\n\n    “你现在在哪里？有没有危险？”\n\n    “我很安全，只是好像有些人在调查我。所以我……准备走了。”\n\n    听到这句话，许乐沉默了许久，他知道在一定是邰家在调查张小萌，以邰之源的",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "我……准备走了。”\n\n    听到这句话，许乐沉默了许久，他知道在一定是邰家在调查张小萌，以邰之源的性格。如果真是麦德林议员方面将演唱会的情报，告诉了国防部那边的鹰派人物，他一定不会放过张小萌这个线索，因为只有从张小萌的嘴里，才能的到钉死麦德林议员的证据。\n\n    “你还要回那个议员身边？”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。”电话那头的张小萌认真的回答道。\n\n    许乐那双并不大的眼睛里。忽然闪过一丝难以抑止的伤感，他缓缓说道：“我有一个大叔，他曾经对我说过，男女结婚的时候，为什么总喜欢买两对戒指？那是因为钻石大的戒指……女孩子喜欢戴着它去炫耀，而却无法带着它做事。”\n\n    “其实我对生活的要求并不高，在没有这",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "的声音无比清淡，无比忧伤，就像是临海冬末天空飘着的乌云。有些高远、却又沉重。\n\n    她就像在山的那一边，听的见声音，却见不着人。\n\n    “是我把你可能和邰之源去看演唱会的情报，告诉了他们。”\n\n    许乐拿着电话沉默，许久之后说道：“你不知道他们想杀邰之源？”\n\n    “不知道……我以为",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "定架构。在面临着帝国强大军力威胁的当下，**军的存在，不止让联邦政府被迫损耗了大量注意力，更是浪费了无数纳税人的金钱，更关键的是，让联邦社会产生了一道沟壑，人心如果散了，怎样面对帝国的入侵？这种行为，和那些出卖联邦利益的叛国贼有什么本质上的区别？\n\n    如果可能，邰之源愿意让联邦军队在最短的时间",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第八十五章 纪念某些人的离开 \n\n    联邦有很多历史遗址，却没有金字塔这种东西。如果这个社会也有金字塔的话，邰之源这种人，毫无疑问是站在金字塔最顶端看风景的那些人中的一个。他的家世，他自幼所受的教育，更准确的说，他所属于",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

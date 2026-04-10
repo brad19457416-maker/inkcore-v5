@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 72,
+  "chapter_title": "第七十二章 那年春，我把桃花切一斤（一）",
+  "filename": "ch_0072_第七十二章 那年春，我把桃花切一斤（一）.txt",
+  "char_count": 2321,
+  "timestamp": "2026-04-10T12:11:11.986799",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。\n　　掩雨廊下的待考学生们个个敛神静气，没有左右交谈闲聊，也没有谁拿出怀中的真卷试题做最后的冲刺，众人是大唐乃至整个天下最优秀的青年――是的，虽然其中有年过三十出身边塞满脸苦寒风霜色的校尉，也有被教习从某偏鄙乡间村塾带回长安满脸稚气懵懂不安看着身周不满十四岁的天才小孩儿，但总归都能算做是青年――没",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "真卷试题做最后的冲刺，众人是大唐乃至整个天下最优秀的青年――是的，虽然其中有年过三十出身边塞满脸苦寒风霜色的校尉，也有被教习从某偏鄙乡间村塾带回长安满脸稚气懵懂不安看着身周不满十四岁的天才小孩儿，但总归都能算做是青年――没有谁愿意在这时候展现出自己的信心不足。\n　　宁缺的信心越来越不足，右手微微颤抖",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "年未婚学子们炽热羡慕爱慕的眼光，走过大臣们惊讶难安的目光和低声议论，顺着长长的凤翼甬道走上书院正间，来到石栏畔对着皇帝陛下和皇后娘娘微福一礼，然后安安静静站在了皇帝陛下的左手旁。\n　　和世间其余国度那些敌人不怀好意的想像不同，和某些阴谋论偏执狂比如宁缺想像的不同，大唐帝国内部并没有皇权与书院对立的情",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "但总归都能算做是青年――没有谁愿意在这时候展现出自己的信心不足。\n　　宁缺的信心越来越不足，右手微微颤抖，几次准备伸向桑桑讨要她包裹里的真题试卷，却又强行收了回来，就在他最后准备破罐子破摔，不要什么颜面也要进行一把自己最擅长的阵前磨刀时，石坪四周忽然响起一阵中正庄严的宫乐之声。\n　　羽林军到了，仪仗",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "知道此时安静站在陛下另一侧的皇后娘娘，此时此刻会想些什么。\n　　山后鸣钟被清脆击响，是为书院入学试的第一次召集，掩雨廊里的数百名待考学子在书院教习的指挥下鱼贯而出，走过书院正楼栏下平道，向院内走去。\n　　大唐皇帝看着那些俊朗潇洒的学子，在自己注视下鱼贯而入，不由微捋细须，露出满意喜悦的笑容。\n　　四",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "洒的学子，在自己注视下鱼贯而入，不由微捋细须，露出满意喜悦的笑容。\n　　四公主李渔见着父亲神情，微笑说道：“恭喜父皇，天下英才皆入您之彀中。”\n　　皇帝闻言哈哈大笑，不以为然却也不以为忤。\n　　皇后娘娘却没有说什么话，只是微笑仰脸望着自己的夫君，眼神里满是爱慕敬仰神色，丰软的右手在他手上轻轻搭了一下",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "说不清道不明的清利爽朗味道，显得极为大气。\n　　宁缺此时关心的重点不是书院的模样，如果他能考进书院，日后有好几年时间可以好好用双脚来衡量书院的宽广，用双眼来打量书院的美丽，他现在更关心的是，此时掩雨廊间的待考生只怕已经超过了五百名，而书院只会录取两百名，五中取二这可不是什么太高的比率，不免有些忧心忡",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "安的目光和低声议论，顺着长长的凤翼甬道走上书院正间，来到石栏畔对着皇帝陛下和皇后娘娘微福一礼，然后安安静静站在了皇帝陛下的左手旁。\n　　和世间其余国度那些敌人不怀好意的想像不同，和某些阴谋论偏执狂比如宁缺想像的不同，大唐帝国内部并没有皇权与书院对立的情况，只有极少数人才知道，当今的大唐天子少年时曾经",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "右手在他手上轻轻搭了一下，表示鼓励。\n　　皇帝陛下看着身畔妻女，两侧大臣，无数帝国日后栋梁，不由大生满足之感，忽然间他觉得自己身旁好像少了一人，眉头微蹙，对身后一名大臣问道：“夫子……还是不肯来？”\n　　那位大臣惶恐一揖及地，说道：“院长说书院入学试乃是为陛下、为帝国挑选人材，他……就不需出面了，他",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

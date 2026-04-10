@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 926,
+  "chapter_title": "第九十九章 陋室",
+  "filename": "ch_0926_第九十九章 陋室.txt",
+  "char_count": 3764,
+  "timestamp": "2026-04-10T12:11:27.500290",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "道：“是啊，清河那边拦的特别严，不然我们早就回长安了。”\n　　桑桑停下脚步，转身看着她问道：“那么，为什么呢？”\n　　唐小棠有些不解，问道：“什么，为什么？”\n　　桑桑说道：“一切都是天命所定，为什么你还要去桃山救他，为什么还要陪着他在世间颠沛流离？你若愿意臣服于我，我愿赐你以永生。”\n　　在临康城",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "很简单。”\n　　陈皮皮听出他言语里隐藏的决然，叹息无语。\n　　叶苏一直没有说话，静静看着窗外的街巷与天空，瘦削的脸上带着清澈的笑容，苍白的脸色被光线洗的无比温柔。\n　　他忽然说道：“与天竞算，算的只是自己。”\n　　宁缺望向他，诚恳请教道：“那难道我们就什么都不用做？”\n　　叶苏转过身来，微笑说道：“",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "开。”\n　　陈皮皮第一次知道师兄要离开临康，很是吃惊。\n　　“难道你要去长安？”\n　　宁缺也很吃惊，心想既然西陵神殿不可能允许叶苏继续传道，那么离开南晋后，便只有唐国才能给他提供传道的土壤。\n　　“我说过，唐国太好，人间太坏。”\n　　叶苏平静说道：“我既然是要去体会人间苦难，拯救人间苦难，自然要去真",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "朋友，变成现在白白胖胖的模样，也很不习惯这一路的沉默，轻轻踢着街面上的石子，像是百无聊赖，其实是聊解紧张。\n　　走到街口一家菜铺前，桑桑忽然停下脚步，说道：“他现在是个废人。”\n　　唐小棠怔了怔，才明白她在说谁，说道：“雪山气海被你锁死了，身体也虚，每天都喜欢赖在床上，确实快废了。”\n　　桑桑走进菜",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "了。”\n　　桑桑走进菜铺，看着架子上那些没有任何特殊处的青菜，说道：“我离开了桃山，想来神殿已经开始追杀你们。”\n　　唐小棠说道：“是啊，清河那边拦的特别严，不然我们早就回长安了。”\n　　桑桑停下脚步，转身看着她问道：“那么，为什么呢？”\n　　唐小棠有些不解，问道：“什么，为什么？”\n　　桑桑说道：",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "默，轻轻踢着街面上的石子，像是百无聊赖，其实是聊解紧张。\n　　走到街口一家菜铺前，桑桑忽然停下脚步，说道：“他现在是个废人。”\n　　唐小棠怔了怔，才明白她在说谁，说道：“雪山气海被你锁死了，身体也虚，每天都喜欢赖在床上，确实快废了。”\n　　桑桑走进菜铺，看着架子上那些没有任何特殊处的青菜，说道：“我",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "你知道不可能做到，也是会去做的。”\n　　陈皮皮说道：“小师叔就是这样的人，老师也是这样的人，你我或者将来可能成长为这样的人，但这不可能影响到她，因为她根本不是人。”\n　　宁缺说道：“我希望她能自己做出选择。”\n　　陈皮皮说道：“没有人会做出毁灭自己的选择。”\n　　宁缺笑了起来，说道：“你才说过，她不",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "不能一直护着你们，接下来你打算怎么办？”\n　　叶苏说道：“临康城正在变好，我准备离开。”\n　　陈皮皮第一次知道师兄要离开临康，很是吃惊。\n　　“难道你要去长安？”\n　　宁缺也很吃惊，心想既然西陵神殿不可能允许叶苏继续传道，那么离开南晋后，便只有唐国才能给他提供传道的土壤。\n　　“我说过，唐国太好，人",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "臭屁，再听你的解释，才发现你已经堕落成这样了。”\n　　宁缺大怒，说道：“我就没种，又怎么嘀？”\n　　众人告别。\n　　桑桑自然不耐这等人间俗态，背着手站在远处。\n　　陈皮皮看着宁缺说道：“一路保重。”\n　　“我会的，看看她就知道，轻不下来，必然极重。”\n　　宁缺笑着应道，走到桑桑身边。\n　　桑桑忽然转",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "人喜欢这些事情，于是变得更加不愉快。\n　　菜篓里塞满了青菜，唐小棠想要付钱，被女贩坚决地拒绝。\n　　走出菜铺，桑桑说道：“你还没有回答我先前的问题。”\n　　“为什么？”\n　　唐小棠伸出空着的那只手，牵起她的手，看着她同情说道：“你跟宁缺去了这么多地方，还没有想明白吗？”\n　　桑桑说道：“不一样，他如",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "昊天的姿态，平静说道要赐对方以永生。\n　　唐小棠怔了很长时间，才醒过神来，有些不自然地说道：“感觉好突然……我们还是先把晚上的菜买了吧？”\n　　便在这时，菜铺女贩认出她是谁，热情而略带谦卑地迎了上来，当她看向什么青菜时，就一把抓起放进菜篓中。\n　　桑桑有些不解，指着菜篓说道：“买菜为什么不用钱？”",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "的三个男人则是相对沉默无言，知道彼此都还活着便好，至于怎么活下来的真的并不重要。\n　　陈皮皮看着宁缺担心问道：“她肯跟你回长安吗？”\n　　宁缺摇了摇头，说道：“她没有说过，但总归是离长安城越来越近。”\n　　陈皮皮说道：“她知道书院想做些什么吗？”\n　　宁缺说道：“老师说过，昊天无所不知。”\n　　陈皮",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "走，看的是大师兄的位置，对宁缺根本没有任何印象。\n　　“我对你的印象非常深刻。”宁缺看着他说道：“我从来没有见过一个人能那么孤单，好像他的双脚站立的不是人间的地面，而是另外一个世界，而且他明明是活着的，却感觉已经死了很多年，这个说法也不准确，应该说当时我眼中的你似乎是活人又似乎是死人，我觉得你很可怜",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "叶苏一直没有说话，静静看着窗外的街巷与天空，瘦削的脸上带着清澈的笑容，苍白的脸色被光线洗的无比温柔。\n　　他忽然说道：“与天竞算，算的只是自己。”\n　　宁缺望向他，诚恳请教道：“那难道我们就什么都不用做？”\n　　叶苏转过身来，微笑说道：“把自己的事情做好，要比什么都更重要，正所谓昊天的归昊天，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

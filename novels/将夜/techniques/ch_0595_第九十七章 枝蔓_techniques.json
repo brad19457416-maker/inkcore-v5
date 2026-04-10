@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 595,
+  "chapter_title": "第九十七章 枝蔓",
+  "filename": "ch_0595_第九十七章 枝蔓.txt",
+  "char_count": 3339,
+  "timestamp": "2026-04-10T12:11:26.687317",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "层楼。\n　　这个世界一共有四处不可知之地，便有四位天下行走，四名天下行走，今日齐聚烂柯寺，而宁缺毫无疑问是最弱小的那一个。\n　　在这种局面下，他就算是小师叔的战意附体，也没有任何可能带着桑桑逃出去，所以他反而放松了很多，抱在桑桑，撑着大黑伞……虽然知道大黑伞撑不了太久，但他只能沉默地等待着，等待着变",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "女儿。”\n　　“我本可以治好她。”歧山大师看着七念，伤感说道：“你也答应了大先生，让我替她治病，结果最终你还是破不了自己的执念，非要她死去。但你想过没有，你在骗之前能骗过所有人，一旦开始骗，你又如何骗得过大先生？”\n　　叶苏听着烂柯寺里的钟声，看着寺院上空那道隐而不见的佛门大阵，若有所思。\n　　他转",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "是可惜可敬可叹。”\n　　……\n　　……\n　　长安城南，书院后山。\n　　绝壁之前，流云如丝渐碎，寒冽秋风依崖而上，吹得廊间未落尽的紫藤枯果不停晃动，看上去就像是佛寺檐下悬着的铜铃。\n　　一身黑色罩衣的夫子坐在崖畔，看着东南方向，忽然说道：“那处有事。”\n　　大师兄今日随侍老师前来后崖迎风酿酒，正在做准",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "解，为何这名佛宗行没有继续出手。\n　　“你这时候可以动手杀了我们，给我们一个痛快。”\n　　他看着七念说道。\n　　七念缓缓摇头，沉默看着黑色马车上那道佛光。\n　　宁缺明白了他的意思，不是他要杀桑桑，而是佛祖要灭桑桑。\n　　“难道佛祖不会觉得这很残忍吗？”\n　　宁缺顺着那道佛光，望向遥远的瓦山顶峰，看着",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "师说道：“杀便是杀，佛祖杀人也是杀人，哪里来的慈悲？佛宗果是外道，失了本心。”\n　　七念看着叶苏和唐出现，似乎并不意外，平静如前。\n　　程立雪从廊间闪出身来，对着叶苏下跪。\n　　叶苏看都不看他，只是专注看着黑色马车里，看着宁缺背后的那名小姑娘，神情变得有些奇怪，说道：“居然真的是透明的。”\n　　宝树",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "实则聪慧至极，稍一推算，便能知道发生了什么事情，所以自去年冬天至今，你一直隐而不发，直至宁缺和那丫头来到烂柯寺才动手，你想要的就是这道佛光和这座大阵，因为你已经算清楚，就算大先生此时发现事有变故，也没有办法入寺阻止你。”\n　　叶苏看着七念缓缓摇头，看不出是赞叹还是惋惜，说道：“没想到，自莲生之后，佛",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "堂佛子居然会背信毁诺！”\n　　“难怪宝树他能够拿着净铃离开悬空寺，难怪今天烂柯寺里来了这么多人，难怪转眼之间，所有人都知道那个小姑娘就是冥王的女儿。”\n　　“我本可以治好她。”歧山大师看着七念，伤感说道：“你也答应了大先生，让我替她治病，结果最终你还是破不了自己的执念，非要她死去。但你想过没有，你在",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "行没有继续出手。\n　　“你这时候可以动手杀了我们，给我们一个痛快。”\n　　他看着七念说道。\n　　七念缓缓摇头，沉默看着黑色马车上那道佛光。\n　　宁缺明白了他的意思，不是他要杀桑桑，而是佛祖要灭桑桑。\n　　“难道佛祖不会觉得这很残忍吗？”\n　　宁缺顺着那道佛光，望向遥远的瓦山顶峰，看着秋云里的佛祖石像",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "是个很懦弱的人，因为看不明白某些事情，所以始终在两边摇摆，因为冥冥中那丝不安，所以不想与那个小姑娘的命运纠缠在一起，慢慢啊，你当年大违本性也要针对一个弱女，如今更是以命相逼不让我出手，想必你也看到了那抹阴影？”\n　　崖坪之上早已没有大师兄的身影，夫子觉得有些孤单。\n　　他回头望向廊上悬着的紫藤果和那",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

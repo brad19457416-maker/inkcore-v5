@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 855,
+  "chapter_title": "第二十八章 能当祭品的废物都不是废物",
+  "filename": "ch_0855_第二十八章 能当祭品的废物都不是废物.txt",
+  "char_count": 3309,
+  "timestamp": "2026-04-10T12:11:27.356379",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第二十八章 能当祭品的废物都不是废物\n　　“为什么说你是废物？”\n　　隆庆不知道陈皮皮是为了挡住宁缺视线随意问出的这句话，说道：“当年我被世人视作西陵神子，看似备受器重，事实上我一直很清楚，在西陵神殿里的老人们眼中，昊天道门的将来始终在你的身上",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "红鱼已经远远超过你，单论境界你现在甚至连我都不如。拥有不可思议的血脉和遭遇，拥有道门公认的天赋，结果最终却变成如此一个庸人，岂能用小时了了大未必佳这八个字来解释？这只能证明你的心性有问题，拥有再多天赋的废物，终究还是个废物。”\n　　陈皮皮笑了笑，没有说话。\n　　隆庆有些苍白的脸颊上生出两抹红晕，盯着",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "眼中，昊天道门的将来始终在你的身上。和你比起来，我什么都算不上，而我相信在你的眼里，从来都没有过我的存在。”\n　　这句话很真实，在西陵神殿裁决司的那些下属执事和神官的眼中，在世间普通信徒的眼中，隆庆必然是最光彩夺目的那个人，无数座道观里有那么多昊天信徒，相信没有几个人听说过陈皮皮的名字。\n　　但在真",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "缺还能继续安坐长安城？\n　　想象着那个胖子被烧成油渣的画面，宁缺便觉得一阵恶寒，看着峰顶的光明神殿，心想你就这么想他死？你就这么想我死？",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "一些想法？你以为掌教大人还愿意想起给老师当狗的那段岁月？如果没有人照顾，湖畔的那几座草庐可还能禁得起风雨？”\n　　隆庆看着陈皮皮坦诚说道：“我知道自己现在的境界实力，并不足以让知守观回复从前的荣光，但无论燕国的崇明皇兄还是荒原上的骑兵，都能给我以力量，不然我早就要被迫离开桃山，我想这应该算是某种证明",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "想开一些，这种事情我也不想的。”\n　　隆庆看着他脸上的笑容微微挑眉，继续说道：“除了嫉妒其实更多的是愤怒，我愤怒于老师居然有你这样不孝的后人。”\n　　陈皮皮此时才想起他是父亲的弟子，沉默片刻后说道：“在长安城我为书院尽心，出城我为父亲尽孝，我没有亏欠过谁。”\n　　隆庆盯着他的眼睛说道：“老师现在的情",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "：“当年我被世人视作西陵神子，看似备受器重，事实上我一直很清楚，在西陵神殿里的老人们眼中，昊天道门的将来始终在你的身上。和你比起来，我什么都算不上，而我相信在你的眼里，从来都没有过我的存在。”\n　　这句话很真实，在西陵神殿裁决司的那些下属执事和神官的眼中，在世间普通信徒的眼中，隆庆必然是最光彩夺目的",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "废物。”\n　　隆庆得到了自己想要的答案，离开了囚室。\n　　陈皮皮转过身来，望向石窗外。\n　　宁缺的脸出现在窗外，看着陈皮皮无声问了几句话。\n　　陈皮皮笑了笑，摇了摇头。\n　　宁缺再次竖起中指。\n　　陈皮皮不肯再说一个字，转过身用自己宽厚的后背和屁股对着宁缺，然后把右手高高举过头顶，竖起了中指。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "意问出的这句话，说道：“当年我被世人视作西陵神子，看似备受器重，事实上我一直很清楚，在西陵神殿里的老人们眼中，昊天道门的将来始终在你的身上。和你比起来，我什么都算不上，而我相信在你的眼里，从来都没有过我的存在。”\n　　这句话很真实，在西陵神殿裁决司的那些下属执事和神官的眼中，在世间普通信徒的眼中，隆",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "要为之付出很多努力甚至要禁受很多折磨，才能走到现在的境界，而你只是投了个好胎，遇见了一个好老师，便轻轻松松同样走到这里，我没有办法不嫉妒。”\n　　陈皮皮安慰说道：“想开一些，这种事情我也不想的。”\n　　隆庆看着他脸上的笑容微微挑眉，继续说道：“除了嫉妒其实更多的是愤怒，我愤怒于老师居然有你这样不孝的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "废物都不是废物\n　　“为什么说你是废物？”\n　　隆庆不知道陈皮皮是为了挡住宁缺视线随意问出的这句话，说道：“当年我被世人视作西陵神子，看似备受器重，事实上我一直很清楚，在西陵神殿里的老人们眼中，昊天道门的将来始终在你的身上。和你比起来，我什么都算不上，而我相信在你的眼里，从来都没有过我的存在。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "陵神殿里的老人们眼中，昊天道门的将来始终在你的身上。和你比起来，我什么都算不上，而我相信在你的眼里，从来都没有过我的存在。”\n　　这句话很真实，在西陵神殿裁决司的那些下属执事和神官的眼中，在世间普通信徒的眼中，隆庆必然是最光彩夺目的那个人，无数座道观里有那么多昊天信徒，相信没有几个人听说过陈皮皮的名",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "不足以让知守观回复从前的荣光，但无论燕国的崇明皇兄还是荒原上的骑兵，都能给我以力量，不然我早就要被迫离开桃山，我想这应该算是某种证明。”\n　　陈皮皮静静看着他的眼睛，说道：“他在长安城里受了重伤，境界修为全散，就算是昊天垂怜，也无法救赎他。”\n　　隆庆明白陈皮皮说这句话是在提醒自己，如果自己去知守观",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

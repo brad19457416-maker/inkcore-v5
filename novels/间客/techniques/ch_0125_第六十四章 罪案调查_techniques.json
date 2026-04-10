@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 125,
+  "chapter_title": "第六十四章 罪案调查",
+  "filename": "ch_0125_第六十四章 罪案调查.txt",
+  "char_count": 3283,
+  "timestamp": "2026-04-10T11:53:35.136702",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "地彻查此事，而不是像历史当中的无数次政治事件一般，随便找个替罪羊……可是政府依然需要向公众隐瞒事情的真相，因为任期最后一年的政府，已经无法禁受更多的风浪。\n\n    好在那位夫人默允了政府的态度，甚至动用家族的影响力，帮助政府封住了大部分媒体的嘴。当天晚间以及第二天的电视新闻，以及各大权威的纸质或电",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，随便找个替罪羊……可是政府依然需要向公众隐瞒事情的真相，因为任期最后一年的政府，已经无法禁受更多的风浪。\n\n    好在那位夫人默允了政府的态度，甚至动用家族的影响力，帮助政府封住了大部分媒体的嘴。当天晚间以及第二天的电视新闻，以及各大权威的纸质或电子报纸上，都没有关于临海州大学城体育馆暗杀事件的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "着自己陪伴了五年的总统先生，在心里给出了一个与众不同的评语，紧接着，他的脸色却微微变化了一下，走出了人群，来到了官邸西区一个安静的走廊。\n\n    这名叫做布格的官员是总统官邸办公室副主任，他要负责处理很多事务性工作，所以哪怕是在这样一场曼妙的舞会上，他的手机依然会保持畅通，但是听到正装内袋里面手机",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "程序的事件发生。联邦与帝国之间的战争，在他当选后便已经结束，而环山四州的**军，反正已经在联邦的腹部存在了那么多年，谁也不会指责他没有解决这个问题。\n\n    “必须要说，席格总统至少做到了足够的谨慎，而这其实也是一种优秀的品质。”\n\n    一位年纪并不大的英俊官员，默默地注视着自己陪伴了五年的总",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "国家机器开始运转，在最短的时间内，他们就从那名叫做那多的机师，查到了更多地东西。\n\n    一名联邦战斗英雄，四枚紫星勋章获得者。为什么会变成了一个令人不耻的暗杀者？这是需要历史评论家以及文学家去发挥思路，联邦政府的调查者们没有将注意力放在这里，而是直接查向了首都特区。\n\n    就在暗杀发生后的极",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "第六十四章 罪案调查 \n\n    体育馆暗杀事件被联邦政府成功地掩埋下去，在新年的第一天，如果爆发军方参与暗杀平民的大丑闻，由总统到国防部长、从联邦调查局长到临海州州长，都将无法过个好年。\n\n    虽然他们很清楚被暗杀的目标并不是真正的平民，电话里那位夫人冰冷的语气，更让他们清楚，联邦政府必",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "陪伴了五年的总统先生，在心里给出了一个与众不同的评语，紧接着，他的脸色却微微变化了一下，走出了人群，来到了官邸西区一个安静的走廊。\n\n    这名叫做布格的官员是总统官邸办公室副主任，他要负责处理很多事务性工作，所以哪怕是在这样一场曼妙的舞会上，他的手机依然会保持畅通，但是听到正装内袋里面手机与众不",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "何结果。那些从前线归来。为联邦付出了自己青春与血汗地军官们。冷漠地注视着面前地那些官员。眼神里充满了愤怒与不屑。那些认为自己受了侮辱地军官。更是开始破口大骂。\n\n    僵持了半个晚上之后。审讯方将这些军官集中在了一起。那名负责牵头调查此次暗杀事件地联邦调查局总四科主任。冷冷地看着面前这些骄傲而无所",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "子报纸上，都没有关于临海州大学城体育馆暗杀事件的报道，相反在娱乐与生活栏目上着重描述了简水儿小姐人生第一次演唱会的盛景。\n\n    政府最不想面对的媒体记者，在这个事件前面集体失声，一方面是受到了各方面的压力，另一方面也是因为他们敏锐的嗅到了联邦内部的某种气息，他们在等待，在观看政府究竟会不会给媒体",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，他的手机依然会保持畅通，但是听到正装内袋里面手机与众不同的震动模式，他知道电话是谁打来的，所以表情凝重起来。\n\n    “清晨的事情，你应该已经听说了。”电话那头传来一位妇人平静的声音。\n\n    “是的，夫人。”布格压低了声音，面带微笑与身前走过的办公人员示意。\n\n    “我不希望类似的事情再",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "要结束自己的第二任任期，看来他对于官邸舞会还真有些恋恋不舍，四周脸上浮现着真诚笑容的人们，注视着正在缓缓旋转的总统与第一夫人，心里却给予了鄙夷的评语。\n\n    这位总统毫无疑问是联邦有史以来最不能留下印迹的总统，因为他在任期间，没有任何值得大书特书的事迹可言，他的性情怯懦而粗暴，完全没有当初他在军",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "人的声音平静而不容抗拒。\n\n    “没有人想到那些军官会选择这种方式。”布格沉默片刻后，说道：“我担心随着调查的深入，会有更多的人选择自杀或……被自杀。”\n\n    “调查必须进行到底，我需要那些真正的凶手，为这样一件无耻的暗杀事件付出代价……我不想对政府的工作指手划脚，但我只想说，这个事件还有足",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "负责牵头调查此次暗杀事件地联邦调查局总四科主任。冷冷地看着面前这些骄傲而无所畏惧地军官。沉默片刻之后说道：“身为联邦军人。有表达自己意愿地合理途径……没有人不尊敬你们曾经为联邦所付出过地一切。但是。身为军人。更应该敬畏法律。”\n\n    “你们当中有地人知道。有地人或许并不清楚。但我想说地是。宪章局",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

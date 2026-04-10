@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 489,
+  "chapter_title": "第一百三十一章 联邦军方的一把刀(中)",
+  "filename": "ch_0489_第一百三十一章 联邦军方的一把刀(中).txt",
+  "char_count": 3733,
+  "timestamp": "2026-04-10T12:04:59.255368",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "被帝国人的吼叫子弹吓的尿了裤子，那就会变成一滩稀屎，这样糊在我们七组的裤子里，会让我非常不舒服，非常愤怒。”\n\n    在s1作训基地里，戴着墨镜的许乐，已经扮演过很多次冷酷教官，这一套做起来已经驾轻就熟。那些联邦军队真正的佼佼者，都曾经在他刻薄羞辱之下满脸通红，心情愤怒而暴躁，更何况此时他面前这群",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "他都能硬着脖颈，心神不摇。在他的面前体现优越感？这是一种笑话。\n\n    沉默片刻后，他开口对面前的众人说道：\n\n    “也许你们很多人还在想，为什么国防部会把你们派到西林来。\n\n    其实我也很疑惑这个问题。因为要训练你们我也不知道该从何练起，本来就是一堆土珂垃，就算在高温融炉里炼上几年，大抵",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。\n\n    颜丙燕，十七师三年来多项训练纪录保持者，负重十公里越野跑对这个怪物来说，就像是散步一般轻松，此刻他所使用的电子定位负重训练仪上显示的重量，已经达到峰值，然而他依然能够在笑容中轻松展露嘲讽的味道。\n\n    训练器械边的这些军人，听到要上前线，并不像那些老爷兵一般恐慌，反而有些隐隐兴奋。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "？这是一种笑话。\n\n    沉默片刻后，他开口对面前的众人说道：\n\n    “也许你们很多人还在想，为什么国防部会把你们派到西林来。\n\n    其实我也很疑惑这个问题。因为要训练你们我也不知道该从何练起，本来就是一堆土珂垃，就算在高温融炉里炼上几年，大抵也只会变成易碎没用的陶瓷片，而不可能变成军队真",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，我也只好勉为其难做些事情。”\n\n    “实话告诉你们，十天之后，我们就要空降到163行星执行一项风险极大的任务。相信我，这个任务完成之后，你们活下来的机率并不大。”\n\n    除了那几名强悍的兵痞之外，大部分军人脸色剧变。如果说先前许乐的话让他们愤怒，而此刻揭示的任务，则是让他们感到了无尽的恐惧",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "愿意努力完成总统阁下交付的使命。\n\n    至于这些联邦大人物的公子们，如果想活着，就必须改变自己的人生态度，如果他们死了，许乐相信自己不会有太多的眼泪去流。\n\n    他看着人群后方那几名毫不遮掩冷傲狂放之色的强悍兵痞子，眉头皱了起来，这些十七师的门面健美先生，看上去就像杜少卿手下的兵一般冷酷，然",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，根本没有离开的意思，反而围在了许乐和七组众人的身边。他们木来就不能算真正的联邦军人，忽然间发现自己马上面临着铁血战火，求生的**和被遗忘的恐惧，加上对许乐表现出来态度的仇恨，混在了一起，变成了某种亢奋的潮水。\n\n    ……\n\n    ……\n\n    白玉兰看了许乐一眼，用目光请示是不是需要执行一",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "小心翼翼将手中沉重的机枪递给颜丙燕，诚恳说道。他当然不会同情面前这个家伙腕骨会不会啪的一声折断，只是担心这个看上去有些强悍的家伙会不会摔坏了自己吃饭的家伙。\n\n    颜丙燕的脸色有些难看，又有些凝重与倔狠，他深吸一口气，手臂上肌肉线条崩出，将达林机炮接了过来。\n\n    能够单手提起达林机炮，说明",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "能硬着脖颈，心神不摇。在他的面前体现优越感？这是一种笑话。\n\n    沉默片刻后，他开口对面前的众人说道：\n\n    “也许你们很多人还在想，为什么国防部会把你们派到西林来。\n\n    其实我也很疑惑这个问题。因为要训练你们我也不知道该从何练起，本来就是一堆土珂垃，就算在高温融炉里炼上几年，大抵也只",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "军方的一把刀(中) \n\n    许乐诱过墨镜，看着面前的这些人，表情平静沉着。\n\n    和这些上层社会的公子哥们比起来，他只是一个来自东林的孤儿，出身贫寒，出生时嘴里也没可能含着金匙或宝玉，然而……他拥有强大的实力和坚硬的骨头，他的脑子里与人类社会最古老也是最伟大的那个老家伙一直在纠缠厮混，即便面",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "火考验，而他……就是帕布尔总统手中的那把刀。\n\n    认清这个事实，并不让许乐感到多么沉重恼火，他一向敬仰欣赏帕布尔这位……施公子口中所谓“自己的总统”。\n\n    这位总统先生把他从监狱里捞了出来，总统先生一直在表现与政客们完全不一样的操守品德，总统先生是联邦政治史上的一位另类，是值得像许乐这种",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "前线？\n\n    人群在各式各样的情绪作用下，开始变得激动起来，大声文愤怒地心抗议着阁首发，根本没有离开的意思，反而围在了许乐和七组众人的身边。他们木来就不能算真正的联邦军人，忽然间发现自己马上面临着铁血战火，求生的**和被遗忘的恐惧，加上对许乐表现出来态度的仇恨，混在了一起，变成了某种亢奋的潮水。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

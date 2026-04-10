@@ -1,0 +1,37 @@
+{
+  "novel": "间客",
+  "chapter_number": 459,
+  "chapter_title": "第一百零六章 山谷处的战斗",
+  "filename": "ch_0459_第一百零六章 山谷处的战斗.txt",
+  "char_count": 30,
+  "timestamp": "2026-04-10T12:04:59.206305",
+  "techniques_count": 2,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第一百零六章 山谷处的战斗 \n\n    间客第三卷西林的征途",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百零六章 山谷处的战斗 \n\n    间客第三卷西林的征途",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

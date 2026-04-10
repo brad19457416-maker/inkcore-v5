@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 837,
+  "chapter_title": "第十章 去接她",
+  "filename": "ch_0837_第十章 去接她.txt",
+  "char_count": 3478,
+  "timestamp": "2026-04-10T12:11:27.276707",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "在是太过重大，书院又缺乏这方面的经验，所以才会借重鱼龙帮。\n　　陈七紧紧握着卷宗，看了很长时间，强行压抑着兴奋与紧张，大脑快速地运转，不知道过了多长时间，他才抬起头来。\n　　“这个局布的非常好，只是需要进行一些细节方面的修饰，给我一夜的时间，我便可以补全，相信那两个人就算真是神仙，也看不出来。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "份计划，我们自已看不出来什么问题，所以需要你们的眼光。”\n　　朝小树接过卷宗打开。陈七在旁有些不解，心想书院诸位先生都是绝顶聪慧之人，哪里还需要自己这些人来评价。\n　　君陌知道他的想法，说道：“书院杀人倒是杀过不少，但往往都是遇着便杀了，没有这方面的经验。”\n　　陈七听明白了这句话的意思，顿时感觉肩",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "：“你们是唐人。”\n　　宁缺说道：“然后？”\n　　杨二喜理所当然说道：“这时候咱唐人去清河，不去杀人难道还能做啥？”\n　　便在这时，一对姐弟从道路那边跑了过来。\n　　杨二喜蹲下身子把姐弟抱了起来，看着宁缺炫耀说道：“我女儿，我崽儿，咋样？不错吧？学堂里前几名。”\n　　宁缺说道：“我没孩子，你在这儿得",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，当年如果不是陛下需要他，他肯定会报考书院，说不定有机会成为二层楼的学生，现在便是此间的一人。\n　　第一次来到书院后山的唐人都会有些紧张，朝小树稍好些，随他一同前来的陈七则是很难控制自已的情绪，再也没有平日智珠在握的感觉。\n　　听着瀑布入潭的声响，小书童把二人带到小院，君陌正在院中等他们，三人见过礼",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "“在东疆的时候，就想吃家里的腊猪蹄。”\n　　杨二喜看着宁缺和王景略，感慨万分说道：“你说咱们去拼命做什么？还不是为了家里的老婆孩子，为了有口香喷喷的肉吃。”\n　　便在这时，院子里传来他妻子的埋怨声：“天天就只晓得吃酒吃肉，见着人便请，也不怕把家里的钱都吃光了。”\n　　这声音不高不低，不会让院子",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "着卷宗，呼吸渐渐变得急促起来。做为鱼龙帮的智囊，对阴谋诡计并不陌生，他这辈子也设过很多局，比如当年春风亭雨夜那场局便出自他的谋划，然而他却从来没有想过，自已居然有机会参与到这样一项计划中来，要知道那两个目标对以往的他来说和神仙都没有任何区别。\n　　这份卷宗上的计划，初步构思出自书院四师兄范悦和宁缺，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "如果不是陛下需要他，他肯定会报考书院，说不定有机会成为二层楼的学生，现在便是此间的一人。\n　　第一次来到书院后山的唐人都会有些紧张，朝小树稍好些，随他一同前来的陈七则是很难控制自已的情绪，再也没有平日智珠在握的感觉。\n　　听着瀑布入潭的声响，小书童把二人带到小院，君陌正在院中等他们，三人见过礼后，君",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "两种概念。”\n　　朝小树一直没有怎么说话，忽然开口说道：“还有一种方法。”\n　　此言一出，君陌和陈七马上明白了他的意思。陈七毫不犹豫做出了最坚决的反对，君陌则是静静地看着他。\n　　朝小树微笑说道：“此生没有能够进入书院学习，自然是极大的遗憾，但这些年在市井里厮混也还是有些好处，扮人便能像人，扮鬼我便",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，以为可以知道答安。\n　　在山道云雾畔，一个模样清俊可爱的小书童在等着，见他们到来，礼貌地行礼，然后说道：“朝先生，请这边请。”\n　　走进云雾再出来时，便到了书院后山的崖坪之上，朝小树看着如画般的美景，心生感慨，当年如果不是陛下需要他，他肯定会报考书院，说不定有机会成为二层楼的学生，现在便是此间的一",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "帮的智囊，对阴谋诡计并不陌生，他这辈子也设过很多局，比如当年春风亭雨夜那场局便出自他的谋划，然而他却从来没有想过，自已居然有机会参与到这样一项计划中来，要知道那两个目标对以往的他来说和神仙都没有任何区别。\n　　这份卷宗上的计划，初步构思出自书院四师兄范悦和宁缺，然后由大师兄亲自拟定，如果单从理论逻辑",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "宁缺看着她认真说道：“当然。”\n　　……\n　　……\n　　（宁缺开始这段伟大的接媳妇之旅了，最后对话大家如果有印象，就还记得上卷里的那一章，杨二喜和他儿女的那段对话，是将夜里，我自已最喜欢的，我每每写到杨二喜一家的时候，我就止不住的高兴，我骨子里果然还是喜欢乡土文学的，从映秀十年事开始，一直到现在，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "拍桌，喊道：“叨逼叨逼什么呢？老子回家了想吃块肉喝碗酒都不成？你是不是不想我回来？”\n　　院子里顿时安静，然后响起女人的哭泣声。\n　　杨二喜愈发觉得丢脸，吼道：“哭哭哭，就只晓得哭！不在家你哭，回来了你还哭！老子在东疆玩命，立的是军功，换了二百两银子，还不能吃几顿肉了？还有，晚上你要再敢把老爹碗里的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

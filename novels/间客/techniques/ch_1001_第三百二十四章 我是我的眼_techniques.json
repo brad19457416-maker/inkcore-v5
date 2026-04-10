@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 1001,
+  "chapter_title": "第三百二十四章 我是我的眼",
+  "filename": "ch_1001_第三百二十四章 我是我的眼.txt",
+  "char_count": 3441,
+  "timestamp": "2026-04-10T12:05:26.897805",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "听到这两个像从纤维纸上跳跃出来的字，许乐浓眉末梢微微挑起，静静看着远方的他，说道：“连个公平决战的机会都不给我们留下？”\n\n    “我是在执行军务，不是街头斗殴。”\n\n    李封沉声回答道：“你也曾经是名联邦军人，应该很明白战场之上谈论公平，说什么决战是很幼稚的想。”\n\n    许乐微微",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "装机甲，长时间沉默。\n\n    “做为军神的亲孙子，你应该很了解我们十七师的作派，也应该了解七组的作风，当我们受到侮辱和损害的时候，我们不会相信任何外人能够帮我们解决问题，我们只相信自己。\n\n    许乐说道：“所以今天你不要指望他们会投降。”\n\n    李封紧蹙的眉头缓缓散开，沉默【pian】刻后",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "旧情的乱絮。\n\n    听到这两个像从纤维纸上跳跃出来的字，许乐浓眉末梢微微挑起，静静看着远方的他，说道：“连个公平决战的机会都不给我们留下？”\n\n    “我是在执行军务，不是街头斗殴。”\n\n    李封沉声回答道：“你也曾经是名联邦军人，应该很明白战场之上谈论公平，说什么决战是很幼稚的想。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "死。”\n\n    “很好，这就是我需要的承诺。”许乐微笑说道：“只是我很不明白，无论输赢你都要我死，为什么？无论做为你的小叔还是姑父，你都没有理由这么恨我。”\n\n    整个联邦只有三台ｕ灯机甲，整个联邦只有两个人有能力操控使用涡轮增压技术的ｗＴ机甲，那就是许乐和李疯子。\n\n    属于许乐的小白花",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "就有弃任有义务让你死亡。”\n\n    李封面无表情看着远方灌木丛边缘的破烂机甲，看着晨光中那张熟悉又陌生的脸，键毛边缘的视野骤然幻离，仿佛看到那日倾城军事监狱暴动，怀草诗暴出雪中，自己狂追而上，追着这个小眼睛男人的背影不知数十数百里，最终追到那【pian】幽深而碧蓝的海，他的心情渐趋寒冷而暴戾，沉声",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "破车的画面一般可怜。\n\n    笔直的黑色线条狠狠撞到破烂组装机甲庞大半躯上，伴着恐怖的金属撕裂声，沉重构件撞击声，转瞬之间胜负立见。\n\n    黑色mxt十余记锋利刀芒暴戾劈削之下，破烂组装机甲分崩离析，化作满天凄凉的金属【pian】雨，然后啪啪落地。\n\n    没有任何奇迹安生。\n\n    也许",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "殊，更关键的是操控ｍ机甲的是人是李疯子，在这种情况下，就算是军神李匹夫重生，封余横渡星河而来，怀草诗骤然再强一倍，也不可能击败对方。\n\n    所以没有人认为许乐会赢，包括自认为足够警惕谨慎的李封自己也不这样认为，但很奇妙的是，基于内心深处的某种隐忧，李疯子沉默【pian】刻后认真回答道：“如果你赢",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "怖后果，甚至地上被【za】出来的坑却显得有些可怜，那根看似粗壮的工程机械臂，却随着反震之力扑簌断成了无数截，异常凄凉。\n\n    准备迎接最强者的最强一击，结果却看到这种画面，感受不免有些异样，有些荒谬可笑毕竟是用无数废弃零件凑合而成的临时机甲，结构之疏散可怜由此可见。\n\n    然而就算是唬人，总",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "脸上。\n\n    “单挑？”\n\n    许乐问道，他的声音并不如何响亮，却清清袅袅地穿透晨间的高地，进入所有人的耳朵。\n\n    “没门。”\n\n    李疯子回答道，他的声音就像以前那般骄傲冷漠，像把暴戾的狂刀般，直接斩碎所有叙旧情的乱絮。\n\n    听到这两个像从纤维纸上跳跃出来的字，许乐浓眉末梢",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，抹掉机甲座舱里强大的姓名。\n\n    就在这时，破烂组装机甲再次有所动作，座舱门伴着难听的嘎吱异响缓缓开启，晨间的昏暗光线照耀入内，显出许乐普通而格外平静的脸。\n\n    两百米外，联邦机甲群中那台颜色更深的黑色机甲，锃的一声弹出右机械臂前端夸张的合金刀，厚实座舱门开启，露出李疯子的脸，依旧清秀的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

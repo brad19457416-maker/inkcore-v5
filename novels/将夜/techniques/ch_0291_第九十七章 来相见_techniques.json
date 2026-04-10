@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 291,
+  "chapter_title": "第九十七章 来相见",
+  "filename": "ch_0291_第九十七章 来相见.txt",
+  "char_count": 3430,
+  "timestamp": "2026-04-10T12:11:21.757521",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "么异常，心里面却在呻吟狂叫：“果然是他，果然是他！”\n　　老人抬头看着他微笑说道：“先前让你走棋，你为什么要走人？”\n　　陈皮皮恭敬说道：“因为您比我强，我下不赢您，所以干脆走人。”\n　　老人看着他脸上淌下的汗水，笑着问道：“你在怕什么？”\n　　陈皮皮很老实地回答道：“我怕您。”\n　　老人摇了摇头，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "这等脾气？”\n　　陈皮皮诚恳说道：“要不然您让我去通知二师兄过来与您见面？”\n　　老人笑着摇了摇头，心想这孩子的无耻的倒颇有几分可爱，思忖片刻后，回身望向桑桑，不舍惋惜说道：“我要离开了。”\n　　桑桑抱着新瓮，在旁边听了很长时间，却什么也没有听懂，只是听懂了最后几段话，才知道教授自己神术的老师居然是",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "观里的份上，难道我还会难为你？桃山离观可不远。”\n　　陈皮皮再次抬起手臂，抹了抹脸上淌下的汗水，强行压抑住心头的紧张，在棋盘上落下一枚黑子，沉默不语。\n　　老人低下头看着他落下的黑子，轻轻摇头，说道：“都说世事如棋，在我看来如的不是棋子而是棋路，无论看着多远的两道线，总有交会之时。”\n　　陈皮皮苦涩",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "向下淌落。\n　　与之相反，老人的神情恬静而放松，一边喝着桑桑刚端过来的茶，一面随意无心地落着子，感慨说道：“这十四年未曾摸过棋子，着实生疏了。”\n　　听着十四年三字，陈皮皮擦了擦脸上的汗，神情虽然没有表现出什么异常，心里面却在呻吟狂叫：“果然是他，果然是他！”\n　　老人抬头看着他微笑说道：“先前让你",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "桑回答道。\n　　老人不解，说道：“家里不是有一个旧瓮？”\n　　桑桑解释道：“旧瓮太小，等少爷回来后，担心炖出来的鸡汤不够我们三人喝。”\n　　老人知道那个少爷在桑桑心目中是怎样重要的人，这时候听着她的话，知道这丫头是预着少爷回来后也要和自己一起生活，不知为何，曾在神座上阅尽世间沧桑百态的他竟竟觉得胸间",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "居然敢来拐我家徒弟的侍女？”\n　　趴嗒趴嗒，破烂的鞋底击打着地板，满是油垢的宽大道袍带着难闻的臭味随风而入，一个老道士仰着头走了进来，三角眼里闪烁着猥琐恼怒的意味。\n　　当他看到棋盘旁那个穿着普通棉袄，佝偻着身子像个普通老头的人物之后，三角眼里的猥琐意味顿时烟消云散，化作高峰之上的流泉，宁静到了极点",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "些时日才能清醒。”\n　　这句话的语气平静寻常，陈皮皮听着却是倒吸一口凉气，恼怒地挠着头，盯着老人颤声愤怒说道：“瞧瞧！瞧瞧！寺里的人你说弄瞎便瞎了，我就算是从观里来的又怎样？我命歹遇着你你还偏要我不要怕，这不是调戏人吗？”\n　　老人微笑说道：“那僧人是讲经大士的私生子，你和他可不一样。”\n　　陈皮皮",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "二师兄知道这件事情后，一定会把我揍死。”\n　　老人感慨说道：“二先生现在年龄应该不小了，居然还是这等脾气？”\n　　陈皮皮诚恳说道：“要不然您让我去通知二师兄过来与您见面？”\n　　老人笑着摇了摇头，心想这孩子的无耻的倒颇有几分可爱，思忖片刻后，回身望向桑桑，不舍惋惜说道：“我要离开了。”\n　　桑桑抱着",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "章 来相见\n　　桑桑不会下棋，开枰落子那叫一个糟糕。无论老人如何思索应对，终究是扳不回局面，随着棋子纷纷落下，黑棋的局势明显大优，眼看着便要中盘获胜，然而陈皮皮的脸上却没有什么骄傲情绪，神情异常凝重认真，鬓角甚至不知因何汗如浆出，再顺着圆圆的脸腮不停向下淌落。\n　　与之相反，老人的神情恬静而放松，一",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "态的他竟竟觉得胸间温润一片，生出无以复加的幸福感受。\n　　然后他想到一件事情，望向棋盘对面的陈皮皮，缓缓蹙起眉头说道：“你认识我的女徒还是……认识她的少爷？”\n　　陈皮皮听到这句话，震惊地张嘴结舌，完全说不出话来――西陵神殿数百年来最了不起的光明大神官，居然收了宁缺这个黑脸小侍女当徒弟？\n　　明白他",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "于是轮到老人感到震惊，他望向桑桑，有些想不明白，冥冥中自己找到的传人，居然是夫子亲传弟子的侍女，命运究竟是在怎样安排这场戏剧？\n　　陈皮皮死死盯着棋盘，忽然咬牙开口说道：“我知道当年是他把你打落神座，把你关进幽阁，小时候他曾经对我说过，你才是桃山上真正了不起的那个人，所以我不是很明白，难得在这大",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "类道德贩子，你何必如此自困？”\n　　陈皮皮老实说道：“如果我明明撞见了您，却一言不敢发，眼睁睁看着您离开长安城，二师兄知道这件事情后，一定会把我揍死。”\n　　老人感慨说道：“二先生现在年龄应该不小了，居然还是这等脾气？”\n　　陈皮皮诚恳说道：“要不然您让我去通知二师兄过来与您见面？”\n　　老人笑着摇",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "来后也要和自己一起生活，不知为何，曾在神座上阅尽世间沧桑百态的他竟竟觉得胸间温润一片，生出无以复加的幸福感受。\n　　然后他想到一件事情，望向棋盘对面的陈皮皮，缓缓蹙起眉头说道：“你认识我的女徒还是……认识她的少爷？”\n　　陈皮皮听到这句话，震惊地张嘴结舌，完全说不出话来――西陵神殿数百年来最了不起的",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

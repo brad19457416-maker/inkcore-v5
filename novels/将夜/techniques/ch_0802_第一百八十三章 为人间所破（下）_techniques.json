@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 802,
+  "chapter_title": "第一百八十三章 为人间所破（下）",
+  "filename": "ch_0802_第一百八十三章 为人间所破（下）.txt",
+  "char_count": 3985,
+  "timestamp": "2026-04-10T12:11:27.232902",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "完全来自书院后山藏书里的零星记载，此时他喊出清静境三字，完全是猜测。\n　　他感觉到自已的猜测与事实的真相应该相差不会太远――除了传说中的清静境，没有任何办法解释观主此时的变化。\n　　宁缺写出了那个字，集长安城里千万人的渴望，借了千万把刀，眼看着便要把观主斩杀于刀下，观主居然进了清静境！\n　　大师兄不",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "淡。\n　　他去荷花池偷了几匹来自南晋的绣布，当发现一处衙门库房垮塌后，准备拣几锭银子，却又因为胆怯而最终讷讷罢手。\n　　虽然是个泼皮，但他也像别的唐人一样，觉得尊严感是个很重要的东西，所以当他回到那间小杂院后，想着先前的胆怯，觉得好生羞愧。\n　　为了不再羞愧，他决定做一件想做很久的事情，他从怀里摸出",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "宁缺那把刀斩出的飓风继续向南。\n　　湖畔渐渐回复安静，天光清明。\n　　观主睁着眼睛，看着湛蓝的天空，双唇微微翕动，想要说些什么，却什么话都没有说出来。\n　　他转头望向那几尾在水泊里挣扎的鱼。\n　　湖鱼挣扎片刻，最终认命死去。\n　　观主看着这几尾死鱼，若有所悟。\n　　湖畔响起脚步声。\n　　陈皮皮",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "次爬上墙头，取出一块砖头对着街上那个青衣道士砸了过去。\n　　他觉得这样比较安全，想着那锅狗肉，他有些愤怒，对老黄狗又觉得有些抱歉，所以他对着那个道士破口大骂。\n　　“老子砸死个狗日的！”\n　　姜睿就这样死了，再也没有人知道他今天完成了这辈子最大的心愿，也不会有人知道小杂院里垮了半面墙，锅里煮着狗肉。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "黑风中摇摇欲坠，似乎随时可能凋落，也有可能逝去。\n　　观主继续与宁缺抗衡。\n　　道门绝世境界与人间的战斗，没有谁知道结局。\n　　即便是昊天，也不知道。\n　　……\n　　……\n　　姜睿是三元里最著名的泼皮，最擅长坑蒙拐骗，胆子却是极小，连最不成器的市井混子都不如，于是连少年们都瞧不起他。\n　　他居无定所",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "是何等样的高妙。\n　　夫子在荒原上证明自已的境界，超出了所有人的想象，但即便是他，也没有在自已漫长的人生中，见过晋入清静境的人。\n　　大师兄更没有见过，他对清静境的了解完全来自书院后山藏书里的零星记载，此时他喊出清静境三字，完全是猜测。\n　　他感觉到自已的猜测与事实的真相应该相差不会太远――除了传说",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "下）\n　　清静境是传说中道门最深不可测的一种境界，但从来没有人见过，在上次永夜之后的修行史上，也没有出现过。\n　　对于这个世界里真正的强者们来说，曾经有一个问题令他们最为好奇――那就是夫子究竟有多高。\n　　烂柯寺的歧山大师曾经猜测夫子应该是清静境，由此可以想见，清静境在人们的眼中是何等样的高妙。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "第一百八十三章 为人间所破（下）\n　　清静境是传说中道门最深不可测的一种境界，但从来没有人见过，在上次永夜之后的修行史上，也没有出现过。\n　　对于这个世界里真正的强者们来说，曾经有一个问题令他们最为好奇――那就是夫子",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "好奇――那就是夫子究竟有多高。\n　　烂柯寺的歧山大师曾经猜测夫子应该是清静境，由此可以想见，清静境在人们的眼中是何等样的高妙。\n　　夫子在荒原上证明自已的境界，超出了所有人的想象，但即便是他，也没有在自已漫长的人生中，见过晋入清静境的人。\n　　大师兄更没有见过，他对清静境的了解完全来自书院后山藏书里",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "了千万把刀，眼看着便要把观主斩杀于刀下，观主居然进了清静境！\n　　大师兄不敢相信这个世间真的有人能够进入这种传说中的境界。\n　　但这幕却如此真切地发生在他的眼前。\n　　观主果然不愧是道门千年至强者，昊天之下的那个寡人！\n　　……\n　　……\n　　和别的五境之上相比，清静境是更高层次的一种境界，这种境界",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "去。\n　　一路鲜血洒落。\n　　长安城街巷里的数百道V字符，再次落在他的身上。\n　　长安城里千万把刀，同时斩在他的身上。\n　　黑夜之下，刀风之中。\n　　观主的七根手指，像藕节般落下。\n　　然后他的双腿离开了身体。\n　　他的腹部裂开，肝肠寸断。\n　　狗血屎尿进入他的身体最深处，再难洗净。\n　　南城门上轰",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "远――除了传说中的清静境，没有任何办法解释观主此时的变化。\n　　宁缺写出了那个字，集长安城里千万人的渴望，借了千万把刀，眼看着便要把观主斩杀于刀下，观主居然进了清静境！\n　　大师兄不敢相信这个世间真的有人能够进入这种传说中的境界。\n　　但这幕却如此真切地发生在他的眼前。\n　　观主果然不愧是道门千年至",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "有几尾鱼落在他身旁的地面上，不停地弹尾挣扎。\n　　宁缺那把刀斩出的飓风继续向南。\n　　湖畔渐渐回复安静，天光清明。\n　　观主睁着眼睛，看着湛蓝的天空，双唇微微翕动，想要说些什么，却什么话都没有说出来。\n　　他转头望向那几尾在水泊里挣扎的鱼。\n　　湖鱼挣扎片刻，最终认命死去。\n　　观主看着这几尾死鱼",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "道门的清静，最终被人间的世俗所破。\n　　观主眼中生起一道惘然的神思。\n　　“我杀死你了。”\n　　宁缺说道。\n　　他的铁刀砍在观主的左肩上，真正的身体上。\n　　纵使清静境被破，观主的天魔境深厚至极，已近不朽。\n　　所以他砍的很用力。\n　　他左膝微屈，浩然气如风暴大作，无数的天地元气灌进铁刀，斜斜向下拖",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 718,
+  "chapter_title": "第九十九章 拳重如山，衣带如铁",
+  "filename": "ch_0718_第九十九章 拳重如山，衣带如铁.txt",
+  "char_count": 2389,
+  "timestamp": "2026-04-10T12:11:27.018246",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "时，一道烟尘自北方而来，如闪电般杀入金帐骑兵阵中。\n　　马上那人手腕一翻，朴刀出鞘，在空中斩风而落，瞬间斩落数名金帐骑兵，然后他脚踩马蹬，站起身来。\n　　也看不清如何动作，那人手中的朴刀便换作了一把普通的黄杨硬木弓，只见他双臂用力，弓身顿弯，一箭射向最北那辆马车上的大祭司。\n　　千骑之前，那人说射便",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "所罕见，魔宗山门之行后，识海里更有莲生大师的意识碎片，对精神念力之战，根本没有任何畏惧。\n　　念力的战斗，宁缺还从来没有输过。\n　　无论是长安城包子铺前热雾里的道石，还是山道上的宝树，或者烂柯寺里的七念，这些以念力著称的佛宗强者，都无法在这方面击败他。\n　　他根本不相信，一个荒原上的蛮族念师，能够在",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "唐军射手时，一道烟尘自北方而来，如闪电般杀入金帐骑兵阵中。\n　　马上那人手腕一翻，朴刀出鞘，在空中斩风而落，瞬间斩落数名金帐骑兵，然后他脚踩马蹬，站起身来。\n　　也看不清如何动作，那人手中的朴刀便换作了一把普通的黄杨硬木弓，只见他双臂用力，弓身顿弯，一箭射向最北那辆马车上的大祭司。\n　　千骑之前，那",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "及捏碎骨链，召出自己保命的手段，便被生生震死！\n　　……\n　　……\n　　皇后娘娘听着北方传来的惨呼和悲痛的喝叫，霍然转身望去。\n　　她看到站在马车上的那个年轻人。\n　　黑色的发丝，在她温婉的脸颊上掠过，遮住讶异的神情。\n　　她根本没有想到会在这里看到宁缺。\n　　……\n　　……\n　　宁缺看到了皇后娘娘",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "恐惧这枝箭的威力。\n　　射箭的人便到了。\n　　他握紧右拳，狠狠击打在那面半人高的盾牌上。\n　　盾牌上出现数道极深刻的裂痕。\n　　持盾的金帐王庭勇士，手臂喀喇一声扭曲变形。\n　　盾牌顺着拳势后挫，重重砸在那名大祭司的身上。\n　　大祭司胸骨向下塌陷，肺叶在重压下变成了肉泥，根本来不及念什么咒语，也来不及",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，因为那道一直似有若无，始终在她的识海里回荡的精神力量，骤然间消失无踪。\n　　虚弱的感觉离身体远去，沉重的脚步重新变得轻盈，她微微挑眉，真气疾运，身形前掠，抽出素裙腰间的衣带，向前挥出。\n　　柔软的裙带里灌注入真气，顿时变得极为坚韧，迎风而去，破空而长，直刺另外一辆车中的王庭大祭司！\n　　车中的王庭",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "些什么话？”\n　　皇后问道，她看过很多遍宁缺的卷宗，知道他懂荒原上的很多种语言。\n　　宁缺沉默片刻后说道：“那个老人说，草原是万物生死循环的地方，王庭祭司什么都不怕，就怕修魔之人，他隐世多年，听闻魔宗已然凋蔽，却没有想到今天在贺兰城下，居然能看到两个魔宗强者。”\n　　两个魔宗强者，自然说的是他们二人",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "山门之行后，识海里更有莲生大师的意识碎片，对精神念力之战，根本没有任何畏惧。\n　　念力的战斗，宁缺还从来没有输过。\n　　无论是长安城包子铺前热雾里的道石，还是山道上的宝树，或者烂柯寺里的七念，这些以念力著称的佛宗强者，都无法在这方面击败他。\n　　他根本不相信，一个荒原上的蛮族念师，能够在这方面击败自",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "骑兵在二人身旁呼啸而过，向着撤退的金帐王庭骑兵追去。现在不是追击的良机，但至少要让贺兰城外，重新拥有一片安全区域。\n　　“他走之前说了些什么话？”\n　　皇后问道，她看过很多遍宁缺的卷宗，知道他懂荒原上的很多种语言。\n　　宁缺沉默片刻后说道：“那个老人说，草原是万物生死循环的地方，王庭祭司什么都不怕，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "兵极为迅速地重新整队，不再与宁缺和皇后缠斗，掩护着最后那辆马车，向荒原深去而去。\n　　金帐王庭国师在离开之前，看着宁缺和皇后，说了几句话。\n　　宁缺与皇后都很忌惮这个老人的恐怖境界，没有追上去。\n　　大唐骑兵在二人身旁呼啸而过，向着撤退的金帐王庭骑兵追去。现在不是追击的良机，但至少要让贺兰城外，重新",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

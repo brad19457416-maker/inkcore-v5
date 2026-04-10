@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 659,
+  "chapter_title": "第四十章 让他去",
+  "filename": "ch_0659_第四十章 让他去.txt",
+  "char_count": 3271,
+  "timestamp": "2026-04-10T12:11:26.881890",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "前面那些天一般追踪捕杀。\n　　但没有人会放弃，不知道有多少势力一直在注视着他们，猜测黑色马车的路线，天空上的大片乌云和那十几只黑色乌鸦，随时都在向人间报告他们的行踪，当黑色马车来到贺兰城时，说不定有很多人就已经猜到了他们的去向。\n　　出贺兰山缺，便会进入东荒，离开大唐势力范围，那片荒原之上有无数势力",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "兵已经被缴械，被关了起来。”\n　　“把他的脑袋砍了。”汗青将军面无表情说道。\n　　那名副将神情微变，心想虽说军令如山，不得儿戏，但萧副将想要杀死冥王之女是可以理解的事，而且那可是皇后娘娘的亲信。\n　　汗青将军知道他在想些什么，面色如霜说道：“我不管他是皇后娘娘的人还是公主殿下的人，任何胆敢质疑或者反",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "需要消耗的资源，尽可能地在减轻重量。\n　　汗青将军走上前去，拾起纸条，面色严肃地行以军礼，然后展示给众人看。\n　　那张小纸条上没有盖玺，写着三个清晰的字，笔迹并不潦草，很认真，但实在称不上出色，诸将一眼便瞧出，正是陛下的笔迹。\n　　“让他去。”\n　　……\n　　……\n　　城楼里安静片刻后，先前那名强烈",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "那名堕落统领凛然受命，翻身上马向南疾驶而去。\n　　身为隆庆皇子的亲信，他也是最近这些天，才知道这个秘密，想着当年人世间的那些议论，不由觉得有些寒冷，对隆庆皇子的敬畏更增。\n　　隆庆皇子看着挟尘远去的那骑，沉默了很长时间，发现自已对于故国竟然已经有了陌生的感觉，不由摇了摇头。\n　　自已的征途是光明与",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "对隆庆皇子的敬畏更增。\n　　隆庆皇子看着挟尘远去的那骑，沉默了很长时间，发现自已对于故国竟然已经有了陌生的感觉，不由摇了摇头。\n　　自已的征途是光明与黑暗的领域，又岂在红尘里。\n　　他缓步走到崖畔，看着那道约十余丈宽的山缺出口，神情渐渐平静。\n　　在他的身后，是十余名洞玄巅峰境界的强者，还有两名衣着",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "音，汗青将军和那些高级军官沉默地注视着符阵洁净无尘的表面，不知道稍后会看到怎样的回复，心情都变得非常紧张。\n　　不知道过了多长时间。\n　　一道淡黄色的光芒闪过，地面上多了一张被裁剪的非常小的纸条，想来皇宫回复时，也考虑到了传送阵需要消耗的资源，尽可能地在减轻重量。\n　　汗青将军走上前去，拾起纸条，面",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "十年的给养。\n　　依据唐律军事条例，除非是金帐大举入侵，或是左帐王庭试图从东荒突进威胁大唐本土这样的危险时刻，才能启动传送阵。\n　　自书院某位大贤布下这座传送阵后，数百年来，贺兰城里的这座传送阵只启用了两次，而今天却因为一辆孤伶伶的马车，而再次启用。\n　　城楼里一片安静，除了天地元气凝结在符阵上所响",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "里。\n　　他缓步走到崖畔，看着那道约十余丈宽的山缺出口，神情渐渐平静。\n　　在他的身后，是十余名洞玄巅峰境界的强者，还有两名衣着寻常、看上去像普通人的老人，而在不远处的荒原上，还有三千名左帐王庭的骑兵。\n　　动用这么多人，来替那辆黑色马车书写故事结尾，隆庆皇子觉得自已对马车里的那两个人已经表达出了足",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "砍了。”\n　　汗青将军神情严肃说道，命令副将带着亲兵看住威力最大的弩机和投石器，然后在盾兵的保护下，来到东城墙上，看着那辆黑色马车，眼睛微眯。\n　　片刻后，那名副将匆匆而回，附到他耳旁低声说了几句，汗青的脸色顿时变得有些难看，没有想到居然真的有人敢动手。\n　　“他人呢？”汗青将军寒声问道。\n　　那名",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "迹。\n　　“让他去。”\n　　……\n　　……\n　　城楼里安静片刻后，先前那名强烈建议发起攻击的副将皱眉说道：“没有盖玺，也没有军部的印章，这张纸条没有效力。”\n　　汗青看了此人一眼，声音微冷说道：“依贺兰城军例，符阵所传之纸来自皇宫，陛下亲笔所书，便等同于圣旨。”\n　　那名副将有些紧张，却依然坚持自已",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "宁缺根本不知道穿过这片山脉之后，会是谁在荒原上等着自已。既然如此，黑色马车行驶的再快，似乎也没有任何意义，那么他为什么要这么选择？\n　　……\n　　……\n　　乌云落在银色面具上，让银色面具显得更加的灰暗。\n　　隆庆看着天空中那片厚重的乌云自西方铺天盖地而来，露在面具外的嘴角缓缓扬起，说道：“你这个故事",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的那辆黑色马车，也终于驶出了贺兰山缺，来到了荒原之上，来到了隆庆的眼前，然后缓缓停下。\n　　隆庆坐在马上，看着山坡下那辆黑色马车，伸手摘下脸上的银色面具，现出被烧伤的脸颊，微微一笑，显得格外狰狞。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "……\n　　阵法启动，巨大的木盘开始转动，绞索摩擦挤压桐油，发出细微的声音，沉重高窄如断崖的两扇城门缓缓开启。\n　　黑色马车驶入贺兰城，顺着狭窄山缺底部的骑道，向着东方行走，道路两旁尽是陡峭的山崖，崖间筑着数十座坚固的山堡，每座山堡里，都有一个小营，里面不知贮藏着多少辎重武械，令人观之而心生惧意。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "准着那辆黑色马车，十余台投石器在军官的指挥下，不断加紧机簧，确保一旦发起攻击，那些巨石能够在第一时间同时掷出，埋葬掉那辆马车。\n　　“如果谁敢无视军令先动，便把他的脑袋砍了。”\n　　汗青将军神情严肃说道，命令副将带着亲兵看住威力最大的弩机和投石器，然后在盾兵的保护下，来到东城墙上，看着那辆黑色马车，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

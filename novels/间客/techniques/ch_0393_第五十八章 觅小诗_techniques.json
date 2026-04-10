@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 393,
+  "chapter_title": "第五十八章 觅小诗",
+  "filename": "ch_0393_第五十八章 觅小诗.txt",
+  "char_count": 3549,
+  "timestamp": "2026-04-10T12:04:59.245127",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "撞进联邦最顶的这个圈子已经有些时日，许乐依然还没有弄明白粗烟草和红酒的牌子或所谓底蕴，至于什么年份，雨水，土壤酸碱度和口感之间的复杂关系，更是让他一头雾水。\n\n    如果让他按图书馆里的艺术品鉴大辞典屋内的书画做一番背诵式的评价，或许反而更容易些，但这并不影响他一口烟草，一口红酒地吞咽享受，对于享",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "竹居流水畔。他对落地玻璃窗外那道夜幕下的白山，不时起降的私人飞机记忆极为深刻，那是联邦富贵对他心灵的第一次冲击，此时听着利孝通的话，想着进入庄园后的满眼清贵之气，心想难怪。\n\n    李维不认识利孝通，只知道这个面相阴沉的年轻公子哥大概是什么大人物，却怎样也无法联想到此人竟是传说中的七大家继承人之一",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的人渐渐多了起来，利孝通也没有时间再去照顾这位不知道底细的人物，吩咐了管家几声，便开始认真地与那些客人们交谈起来。\n\n    这些客人穿着看上去都很朴素，但如果认真研究一下，一定会被上面用蚕丝绣着的手工符号所代表的金钱震慑一把。\n\n    李维不懂这些，他只是安安静静地听着，小人物的钻营精神，让他只",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "进林园，恬不知耻地学着林园的范儿，才整了这么一个地方。”\n\n    利孝通用两根手指搓着粗烟草，低头说道：“这片园子不止学了其形，也其神，加上特区政府在山那边修的大片娱乐场所，很适合全家来度假。据说席格总统前年来度暑的时候，都极为喜欢……只可惜这片山要比林园后面的白山差些，而且也没有机场，不怎么方便",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "机记忆极为深刻，那是联邦富贵对他心灵的第一次冲击，此时听着利孝通的话，想着进入庄园后的满眼清贵之气，心想难怪。\n\n    李维不认识利孝通，只知道这个面相阴沉的年轻公子哥大概是什么大人物，却怎样也无法联想到此人竟是传说中的七大家继承人之一。\n\n    他有些笨拙地拿着粗烟草，低头认真听着许乐和利七少",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "邦，除了那位夫人之外，谁还敢和政府正面对着干？也就只有西林那头老虎还敢在联席会议上痛骂国安委的官员，为什么？自然是因为他手里有人有枪。家里一直羡慕的要命，一直试图和军方建立某种亲密的关系，只是一直还没有进展，我这边的进展似乎更快一些，他们当然愿意乐见其成。”\n\n    许乐知道利家现在面临的最大麻烦",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "分散投资往往比较愚蠢，虽然你答应替我引见的那位太子爷还是没有见着，但我现在越来越相信，仅仅投资你，我将来就一定会获得无数倍的收益。”\n\n    利孝通说的很认真，许乐听的也很清楚，七少爷如果真能获得他的私人友谊，将来在家族争夺继承权的战争中，那些老头子们总要掂量一下费城那位老爷子的态度，虽然这肯定不",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "就在这个时候，被侍女带去房间里的钟烟花，终于穿好了“衣服”，蹦蹦跳跳地走了出来，小女孩儿来到许乐的面前，将两只手托着下巴，眨着眼睛，笑眯眯地说道：“许乐哥哥，好不好看？”\n\n    许乐看着面前可爱的小浣熊，没想到利七少居然在这么短的时间内，找到了让小女孩开心的方法，不由感到无比佩服。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "间，便能清楚地判断出，够资格出现在这间大屋里的中年人、青年人，都不是一般人。除了明显有几个像自己一般紧张的家伙之外，其余的都是大人物。\n\n    身处这样的环境之中，李维将自己的紧张掩饰的极好，感叹之余，将耳朵竖的极高，尤其是听到其中有两个胖子是做对百慕大贸易的大商人时，耳尖微微颤了颤。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "敛去，“甚至有人在猜，你是不是那位老爷子流落在外的私生子。”\n\n    许乐没有把嘴里的红酒喷出去，缓缓地咽下，只觉一片苦涩，摇头叹息道：“这年龄明明也对不上啊。”\n\n    “那又如何？总统和议会现在做的那些手脚，让家里那些老头子们苦恼的不行。”利孝通淡淡说道：“现在的联邦已经不是从前的联邦，除了",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "这里的都不是小人物，说不定这位客人就是喜欢玩这个调调儿，\n\n    一念及此，她眉眼间的那丝得意化为温柔，轻声说道：“等会儿。”\n\n    然而令她深切失望的是，这位年轻的客人拿到纸笔之后，并没有再理会自己，而是低眉顺眼地凑到了那些宾客的身旁，开始与对方交换名片。(未完待续，如欲知后事如何。章节更多",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "试图把他拖进某个圈子中，但想来也是存着一些借势的意思，毕竟他这个联邦最年轻中校的来历，已经在联邦上层社会里传的沸沸扬扬，他如果出现，对于利七少来说，肯定有所加分。\n\n    利孝通无所谓地摊开手，示意请君自便。\n\n    看着许乐和那个打扮成浣的小女孩消失的背影，他不禁觉得有些奇怪，这是谁家的孩子，",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

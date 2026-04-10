@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 567,
+  "chapter_title": "第二百零六章东北偏北六",
+  "filename": "ch_0567_第二百零六章东北偏北六.txt",
+  "char_count": 3588,
+  "timestamp": "2026-04-10T12:05:08.544969",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "被那一幕场景震慑住了心神，所以他并不怎么担心陷入帝国铁流的头儿。\n\n    然而此时白玉兰却语气冰冷说道：“注意，我要向老板靠拢。”\n\n    熊临泉身体微僵，知道白玉兰在担心那台白色机甲的安全，疑惑说道：“头儿这种猛男，如果按先前那种打法，完全可以一个人抗一个帝国机甲大队，你担心什么？”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "旁，已经陷入脱力衰竭状态的他根本不可能活下来。\n\n    所以如今他很注意避免出现体内力量完全消失的危险状况。在先前的战斗中，一直强行推后进入超频状态，也正是这个原因。\n\n    然而今天在这片充满帝国人绝望疯狂气氛的雪域之上，他别无选择，他必须暴发自己一”的力量，尖谋求一个强行实破的美好结果，或是",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "义上的高地之中，深雪掩盖着营房下缘，刺骨的寒意让指挥部里的气氛变得有些冷清，但这些坚持了两天一夜的军人们没有绝望，更没有放弃。\n\n    因为暴风雪和地磁暴的缘故，撤退稍迟的青龙让。部队被困在了雪域之中。然后非常不幸地遇到了帝国人最后的疯狂。他们的战地指挥系统在激烈的战斗中受到了严重的损害，从而导致",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "说没有战术，事实上，区区两台，要破围而出，除了勇气和霸气，还有什么可以依靠？\n\n    覆盖着深雪的大地上，两台沉重的白色机甲破雪高速而突，就如同两道锐不可挡的雪线，向着前方延伸，延伸，虽然速度慢了下来，却依然在倔狠地延伸。\n\n    除了激烈交战中的双方，雪域战区边缘零星的战斗，几乎同时停了下来。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "太久，栗明团长轻声说道：“密集阵准备射击，接应那两个小伙子。小。\n\n    他身旁的参谋长身体微僵，激动的抗议道：“团长，这是最后的电磁弹药耸量了！如果发射出去，那些没有地下磁暴弹的阵地怎么办？我们的战士怎么办？就算我们能把这两台机甲成功地接应回来，可根本无法改变大局！难道要我们团为这两台机甲陪葬？",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "机动部队被许乐吸引过去了的缘故，白玉兰熊临泉二人所面临的局面相对要轻松许多。\n\n    今天是熊临泉第一次亲眼目睹许乐操控机甲时的强悍风格，大概是被那一幕场景震慑住了心神，所以他并不怎么担心陷入帝国铁流的头儿。\n\n    然而此时白玉兰却语气冰冷说道：“注意，我要向老板靠拢。”\n\n    熊临泉身体",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "片惨烈的雪域战场都安静了几分。\n\n    四台狼式机甲伏击围攻，密集的火力没有伤到许乐丝毫，反而被他轻松写意的秒杀。这是因为联邦新式机甲，已经领先帝国机甲一个等级，更是因为他的操控比这些帝人已经超出了更多。\n\n    他是联邦最优秀的机甲工程师之一，日常繁复而枯燥的学习，让他对敌我双方的机甲构造了若",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "台帝国机甲撞的凄惨横飞。\n\n    而肉眼根本无法看清的是，就在这台狼式机甲刚刚飞离地面，失去操控的瞬间，白色，左合金拳重重地砸下，将它的机械腿内侧轰出一个深腻\n\n    严重的物理变形，让狼式机甲挡板下隐藏着的平衡辅助系统顿时暴裂，机身重重地摔倒在雪的之上，根本无法再次站起，受损管线里喷射出的液体",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "两台机甲陪葬？”\n\n    栗明团长静观风雪，幽幽说道：“冰天雪地孤守两天一夜，南方有政府军两个号称最强的整编师，然而最后”只有这两台机甲来救我们。这个理由已经足够\n\n    不错不错，一是终于写了一次三章，还欠大家一次哈，另外就是最后这章写的很快，质量挺好，呵呵。大家晚安。我是真累到不行了小-说-",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "地下磁暴弹的阵地怎么办？我们的战士怎么办？就算我们能把这两台机甲成功地接应回来，可根本无法改变大局！难道要我们团为这两台机甲陪葬？”\n\n    栗明团长静观风雪，幽幽说道：“冰天雪地孤守两天一夜，南方有政府军两个号称最强的整编师，然而最后”只有这两台机甲来救我们。这个理由已经足够\n\n    不错不错",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "第二百零六章东北偏北六\n\n    ※在干掉第二台帝国机甲同时。白煮，机甲再次侧湘口小讲理地凭借自身机重和强大的惯性，狠狠地撞了过去，将另一台帝国机甲撞的凄惨横飞。\n\n    而肉眼根本无法看清的是，就在这台狼式机甲刚刚飞离地面，失去操控的瞬间，白色，左合金",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "今天是熊临泉第一次亲眼目睹许乐操控机甲时的强悍风格，大概是被那一幕场景震慑住了心神，所以他并不怎么担心陷入帝国铁流的头儿。\n\n    然而此时白玉兰却语气冰冷说道：“注意，我要向老板靠拢。”\n\n    熊临泉身体微僵，知道白玉兰在担心那台白色机甲的安全，疑惑说道：“头儿这种猛男，如果按先前那种打法",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "内的商秋透过眼镜盯着光幕上滚动的数据流，毫不犹豫地按下了那个红色按扭。\n\n    白色，机甲终于正式进入了超频状态，向着密密麻麻的帝国铁流冲了过去，因为这是果壳工程部为许乐特制的机甲，所以并未再出现卸甲的壮现场面，只有双引擎的轰鸣声与剧烈颤抖在预告着某种壮烈景象的到来。\n\n    瞬息间，白色机甲冲",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "光中。雪白色的，机甲沉默地站了起来，脚下踩着一具帝国机甲的残躯，此情此景，似乎令这片惨烈的雪域战场都安静了几分。\n\n    四台狼式机甲伏击围攻，密集的火力没有伤到许乐丝毫，反而被他轻松写意的秒杀。这是因为联邦新式机甲，已经领先帝国机甲一个等级，更是因为他的操控比这些帝人已经超出了更多。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

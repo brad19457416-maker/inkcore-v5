@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 585,
+  "chapter_title": "第八十九章 行走在佛光里",
+  "filename": "ch_0585_第八十九章 行走在佛光里.txt",
+  "char_count": 3286,
+  "timestamp": "2026-04-10T12:11:26.675482",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "怪的东西，也没有像隆庆那样胸口忽然多出一个血洞，所以他也觉得奇怪起来。\n　　他抬头再次望向宝树和殿内众人。\n　　忽然间，他感觉到极度的恐慌。\n　　因为这一次，他终于看清楚，人们并不是看着他，而是看着他身后。\n　　宁缺转身。\n　　……\n　　……\n　　桑桑坐在蒲团上。\n　　她的小脸很白，身前地面上是斑驳",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "情绪复杂说道：“家师于南海有所感应，所以让我自北归来相看，然而只怕他老人家都想不到，原来这才是事情的真相。”\n　　……\n　　……\n　　烂柯寺后殿。\n　　铃声响起的时候，宁缺的手指，还没有在空中画出那条完整的线条，所以他没有继续，而是意守识海站在原地，准备硬抗佛祖的遗威。\n　　盂兰净铃果然不愧是佛祖随",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "。\n　　叶苏背后的木剑，仿佛有所感应，发出轻轻嗡鸣。\n　　唐的右脚踩烂了一块青砖。\n　　叶苏抬头望向天空，眉头微蹙，说道：“佛宗沉默万年，没想到原来还隐藏着这样强大的手段，我剑能过去，人却过不去。”\n　　唐低头看着脚下那块碎砖，声音微沉，说道：“我可以试着从地下过。”\n　　二人来到烂柯后寺之前。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "么敢来烂柯寺？”\n　　唐说道：“以往见着我，你便要杀我，为何今天却不动手？”\n　　叶苏说道：“因为我来到烂柯寺后才想明白，数十年前，莲生神宗血洗古寺之后，魔宗便已经灭了，就算让你活着，也不能改变什么。”\n　　唐说道：“你觉得今天会和数十年前那天一样吗？”\n　　叶苏摇头说道：“当年莲生神座和轲先生已然",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "下更是骄横之人，在瓦山上即便面对宁缺这位书院弟子，也不肯落了下风，然而此时听着谢承运的话，他竟是脸色瞬间变得苍白，连连说道：“不要不要！赶紧离开这殿！”\n　　……\n　　……\n　　佛寺殿堂里的光线相对都比较黯淡，这座偏殿也不例外，如果不是破损的殿门漏进一些天光，根本都无法看清楚里面的动静。\n　　这座殿",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "弃。\n　　而他之所以觉得自己被整个世界所抛弃，正是因为他知道自己会选择自己想选择的，正如很多年前，他最终还是拿起了那把柴刀。\n　　其实既然是自己做的选择，那么便不是整个世界抛弃他。\n　　是他抛弃了整个世界。\n　　他走进佛光里，撑开大黑伞，遮在桑桑的头上。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "无处不可去，无人不能敌，骄傲到了极点，怎愿意把道剑束在鞘中不得快意，如今年龄渐长，也明白了一些更多的道理，剑在鞘中还是剑，敛了锋芒也不见得就失了凌厉。”\n　　唐说道：“看来你长安一行果然有不少收获。”\n　　叶苏说道：“你也应该去长安城住一段时间。”\n　　唐说道：“有机会我会去的。”\n　　叶苏转身望向",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "伴着清音响声，一道慈悲威严的佛性，传进他的耳中，默然进入他的识海。\n　　瞬间内，无数幻觉在宁缺脑海里出现，那些无法用言语形容的污秽丑陋魔身，那些同样无法用言语形容的妩媚天女，不停地穿梭而行，时近时远，散发着各种各样的诱惑及恐惧，引导着他向着净土或冥界里去。\n　　宁缺识海被强烈地撕扯着，痛苦万分，但他",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "惧，更多的却是惘然。\n　　殿内其余的人眼神也很奇怪。\n　　他们看着自己，就像是看到鬼一样，震惊恐惧，同时也很惘然。\n　　宁缺低头望向自己的身体，发现并没有生出什么奇怪的东西，也没有像隆庆那样胸口忽然多出一个血洞，所以他也觉得奇怪起来。\n　　他抬头再次望向宝树和殿内众人。\n　　忽然间，他感觉到极度的恐",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "竟只是小荷才露头角。”\n　　唐说道：“你真的确定书院不会出手？”\n　　叶苏说道：“此间是佛寺寺，需要忧虑这些的是哑巴，而不是我们。”\n　　唐说道：“所以你不去后寺，而是在这里对着尊者像发呆。”\n　　叶苏说道：“你也一样。”\n　　唐说道：“因为我尊敬书院，所以我的手不想沾血。”\n　　叶苏沉默片刻后说道",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "后点头说道：“此言有理。”\n　　便在此时，烂柯寺里响起钟声，嗡嗡作响，绵绵不绝，到处都是。\n　　叶苏缓缓闭上眼睛，寻找着钟声里的那道铃音。\n　　“开始了。”\n　　他走出偏殿，向后寺行去。\n　　唐看着身前的石尊者像，沉默片刻后，也离殿而去。\n　　中寺诸殿里的修行者，被钟声惊动，纷纷走出来，扶栏向山间望",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "瓦山上即便面对宁缺这位书院弟子，也不肯落了下风，然而此时听着谢承运的话，他竟是脸色瞬间变得苍白，连连说道：“不要不要！赶紧离开这殿！”\n　　……\n　　……\n　　佛寺殿堂里的光线相对都比较黯淡，这座偏殿也不例外，如果不是破损的殿门漏进一些天光，根本都无法看清楚里面的动静。\n　　这座殿里也有两座石尊者像",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

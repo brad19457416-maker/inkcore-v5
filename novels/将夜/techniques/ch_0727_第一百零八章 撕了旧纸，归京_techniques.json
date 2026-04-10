@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 727,
+  "chapter_title": "第一百零八章 撕了旧纸，归京",
+  "filename": "ch_0727_第一百零八章 撕了旧纸，归京.txt",
+  "char_count": 2335,
+  "timestamp": "2026-04-10T12:11:27.029419",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "木一般的大臣，在跪在地上的这些老臣中，他甚至还看到了六皇子曾经的老师。\n　　老臣们老泪纵横，白发随秋风乱颤，真是令见者伤心，闻者落泪，说天下之危局，道国势之艰难，发自肺腑，言出本心。\n　　负责护送皇后一行的镇北军骑兵统领犯了难，这些老大人没有做任何事情，也没有请出旨意，只是跪在车队前面，他们总不能真",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "宁缺看着老祭酒说道。\n　　老祭酒哪里见过这等狂悖无行的人物，气的浑身发抖，伸出手指指着他的脸，悲痛说道：“大唐怎么有你这样目无师长之人！真是气死老夫也！”\n　　“我只不过撕了张老师随手写的便笺，皇宫里那位连自已父亲的遗诏都改了，怎么没见老祭酒您气死？还是说您主要气的是，手里再也没有老子的墨笔？",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "前面，他们总不能真抽刀把对方砍了。\n　　宁缺却不在乎这些，向那些老大人走了过去。\n　　此时长安城里的人们，都已经知道，护送皇后娘娘和六皇子南归的，除了镇北军的骑兵，还有书院十三先生宁缺。\n　　陈公公在良乡石桥上的悲惨遭遇，证明了宁缺心如铁石，冷血无情，更不会被朝廷里的那些繁文缛节所限制，所以看着他走",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "有看到，好好保重身体，以后你们会慢慢看到的。”\n　　西陵神殿大军，已然抵达青峡。\n　　七枚大师，已然来到西军帅营之前。\n　　金帐王庭的铁骑，继续南下。\n　　大唐的东疆，已然快要变成焦土。\n　　正是风雨飘摇之时。\n　　宁缺背着一把朴刀，提着一个木匣。\n　　走进了落日下的长安城。（注）\n　　……\n　　…",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "。\n　　魏节臣老祭酒，站起身来，看着宁缺斥道：“你要做甚？”\n　　宁缺说道：“我在良乡做了甚，老大人难道不知。”\n　　老祭酒从袖中取出一张纸，像对待最珍稀的宝贝一样小心翼翼摊开，举到他面前，严肃说道：“你看看这上面写的是什么？”\n　　那张纸早已发黄，不知有多少年的历史。\n　　纸上写着一行字。\n　　“",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "承受这种重任，还有很远的距离。\n　　他以为自已本来还有很多时间，却没有想到，夫子先走，然后陛下也如此突然地离开，于是这份重任便提前来到了他的肩上。\n　　御书房的门被推开。\n　　李渔走了进来，容颜有些憔悴。\n　　她看着案几上那个木匣，缓缓跪倒。\n　　宁缺站在一旁，静静地看着她。\n　　不知道过了多长时间",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "到了他的肩上。\n　　御书房的门被推开。\n　　李渔走了进来，容颜有些憔悴。\n　　她看着案几上那个木匣，缓缓跪倒。\n　　宁缺站在一旁，静静地看着她。\n　　不知道过了多长时间，李渔站起身来，眼眶微红，愈显憔悴疲惫。\n　　宁缺说道：“如果陛下还活着，他对你一定非常失望。”\n　　李渔微微一笑，笑容很是凄清，说",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "不识大局。\n　　宁缺收疆停马，转身望着这些老臣，说道：“我的冷酷，这个世界还没有看到，好好保重身体，以后你们会慢慢看到的。”\n　　西陵神殿大军，已然抵达青峡。\n　　七枚大师，已然来到西军帅营之前。\n　　金帐王庭的铁骑，继续南下。\n　　大唐的东疆，已然快要变成焦土。\n　　正是风雨飘摇之时。\n　　宁缺背",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "片哗然。\n　　官员们群情激愤，撑着老迈的身躯站起身来，扶着摇摇欲坠的老祭酒，连声痛斥，不知从哪里学的脾气，竟是宁死也不让皇后的马车过去。\n　　宁缺手落在刀柄上。\n　　皇后忽然开口说道：“我在驿站歇息一日。”\n　　宁缺明白了她的意思，说道：“那我先进长安城。”\n　　他翻身上马，准备离开。\n　　朝廷可以",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，接替了金祭酒病逝后留下的官职。\n　　魏节臣老祭酒，站起身来，看着宁缺斥道：“你要做甚？”\n　　宁缺说道：“我在良乡做了甚，老大人难道不知。”\n　　老祭酒从袖中取出一张纸，像对待最珍稀的宝贝一样小心翼翼摊开，举到他面前，严肃说道：“你看看这上面写的是什么？”\n　　那张纸早已发黄，不知有多少年的历史。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

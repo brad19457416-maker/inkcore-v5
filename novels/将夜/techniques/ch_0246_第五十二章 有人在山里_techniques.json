@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 246,
+  "chapter_title": "第五十二章 有人在山里",
+  "filename": "ch_0246_第五十二章 有人在山里.txt",
+  "char_count": 3345,
+  "timestamp": "2026-04-10T12:11:12.049524",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "李低头而行。\n　　它看着林间雪地上那两道清晰的足印，看着足印前方那两个沉默的年轻男女，心中有些疑惑，心想来时拖着石儿草，回时你们怎么好像不在乎足迹的问题？\n　　骤然间，大黑马想明白一件事情，不由感到好生恼火，愤怒地摇晃着马首，就像来时之前那般，拔蹄驰向雪林边缘。\n　　……\n　　……\n　　宁缺把大黑马",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "小心一些，至少来时路和回时路不能是同一条。”\n　　莫山山不解问道：“我知道先前那些草便是这个用途，那为什么要把它们烧掉，又要辛苦大黑去四处找树枝来用？”\n　　宁缺很平静地解释道：“因为我想试试自己写的火符威力，但又不确信它能烧的很旺，所以我想用草来助燃，没想到还是不行，依旧需要你出手帮忙。”\n　　能",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "枝上的每一道雪，雪堆下的每一根草，然而二人身前那个雪坑里的符纸化成的火苗，却明显没有什么感染力，被寒风吹拂着招摇很长时间依然没能变大。\n　　宁缺看着裁决司执事尸首黑衣上的小火苗，有些尴尬地发现，自己的符道本事和身边的少女符师原来差距竟是如此之大，昨夜莫山山随意一符，那名裁决司执事便被焚为灰烟，黑色衣",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "。”\n　　他看着莫山山漂亮清稚的眉眼，确认少女年龄应该和自己相仿，不好意思问她究竟多大，摇了摇头感慨说道：“你才是真正的符道天才。”\n　　莫山山看着他认真问道：“十三师兄，你是什么时候开始学习符道的？”\n　　宁缺数了数日子，回答道：“春天的时候，也快大半年了。”\n　　莫山山静静看着他的眼睛，很长时间",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "不行，依旧需要你出手帮忙。”\n　　能如此平静叙说自己的糗事，他的厚颜无耻程度果然了得，只是在二人身后压抑着奋蹄性子缓慢行走，同时注意扫雪除痕的大黑马便更悲伤了几分。\n　　莫山山没有在意这句话里流露出来的无赖劲儿，沉默片刻后，轻声叹息说道：“我自幼便在墨池，由老师一手抚养成人，他从来不允许我接触真正的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "拖着石儿草，回时你们怎么好像不在乎足迹的问题？\n　　骤然间，大黑马想明白一件事情，不由感到好生恼火，愤怒地摇晃着马首，就像来时之前那般，拔蹄驰向雪林边缘。\n　　……\n　　……\n　　宁缺把大黑马辛苦四处衔来的树枝与干柴用绳索摁在它的身后，满意地拍了拍马背，从怀里掏出那根模样古怪的草，塞进马嘴表达奖励。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，强行低下头去敛了笑意，露在棉袖外的手指轻轻一弹，雪坑里顿时火势大作。\n　　那些近乎炽白色的火焰须臾出现，须臾消失，宁缺站在坑旁还没有来得及感受到灼热温度，便发现坑中雪融为水渐向地下渗去，而裁决司执事的尸首已经消失不见，这一次连同那些黑色重衣也全部被烧毁。\n　　宁缺看着眼前这幕画面叹了口气――符之一",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "需要你出手帮忙。”\n　　能如此平静叙说自己的糗事，他的厚颜无耻程度果然了得，只是在二人身后压抑着奋蹄性子缓慢行走，同时注意扫雪除痕的大黑马便更悲伤了几分。\n　　莫山山没有在意这句话里流露出来的无赖劲儿，沉默片刻后，轻声叹息说道：“我自幼便在墨池，由老师一手抚养成人，他从来不允许我接触真正的尘世间，如",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "商队，以及荒人部落占领原野最近这些日子发生的事情。\n　　离开冬林再往北去，气温愈发寒冷，尤其是可能要进入天弃山极北之麓，莫山山那匹枣红马肯定承受不住，于是便留给了这对荒人母子。\n　　双方告别之后，二人一黑马再次踏上旅程。\n　　莫山山问道：“接下来我们应该怎么做？”\n　　宁缺说道：“进山。”\n　　莫山",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "前方那两个沉默的年轻男女，心中有些疑惑，心想来时拖着石儿草，回时你们怎么好像不在乎足迹的问题？\n　　骤然间，大黑马想明白一件事情，不由感到好生恼火，愤怒地摇晃着马首，就像来时之前那般，拔蹄驰向雪林边缘。\n　　……\n　　……\n　　宁缺把大黑马辛苦四处衔来的树枝与干柴用绳索摁在它的身后，满意地拍了拍马背",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "人？”宁缺看着她好奇问道。\n　　听到老师的名字，莫山山的神情变得有些复杂，有些敬畏，有些清冷惘然。她缓缓低下头，转身向雪林外走去，表示自己不想谈及这方面的事情。\n　　宁缺看着挂雪冬林间那个清冷萧萧的背影，眉头皱了皱，回头看了一眼雪坑，确认毁尸灭迹的工作完美地结束，加快脚步向那个背影追去。\n　　蹄踏白",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "。”\n　　能如此平静叙说自己的糗事，他的厚颜无耻程度果然了得，只是在二人身后压抑着奋蹄性子缓慢行走，同时注意扫雪除痕的大黑马便更悲伤了几分。\n　　莫山山没有在意这句话里流露出来的无赖劲儿，沉默片刻后，轻声叹息说道：“我自幼便在墨池，由老师一手抚养成人，他从来不允许我接触真正的尘世间，如果不是这次神殿",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

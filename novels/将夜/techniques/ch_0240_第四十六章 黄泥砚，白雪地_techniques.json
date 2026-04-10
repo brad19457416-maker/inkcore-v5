@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 240,
+  "chapter_title": "第四十六章 黄泥砚，白雪地",
+  "filename": "ch_0240_第四十六章 黄泥砚，白雪地.txt",
+  "char_count": 5549,
+  "timestamp": "2026-04-10T12:11:12.036571",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "莫山山的回答一如既往简洁明了，或者说完全不知所以然。\n　　“自然还是那些人。”\n　　宁缺苦笑无语，心想所有人都认为自己是书院二层楼的弟子，那么肯定清楚天下各宗派修行者的实力划分，问题是他确实不清楚那些人究竟是哪些人。\n　　莫山山看他神情，以为他在想别的事情，说道：“隆庆皇子一直没有出现，我想他现在",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "列。\n　　“你要去北面？”\n　　宁缺眉头微皱，看着身前少女清丽的容颜，想着这段日子墨池苑与神殿之间的冲突，不免有些担心，问道：“还有哪些人要去？”\n　　莫山山的回答一如既往简洁明了，或者说完全不知所以然。\n　　“自然还是那些人。”\n　　宁缺苦笑无语，心想所有人都认为自己是书院二层楼的弟子，那么肯定清",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "赞赏。\n　　“我也会去那里。”\n　　他抬起手臂，指向北面远方莽莽沉沉的荒野。\n　　莫山山蹙眉问道：“为什么？神殿的诏令对你没有任何约束力。”\n　　宁缺看着原野尽头，沉默片刻后说道：“我要去找个东西，或者说阻止别人找到那个东西，这件事情我本来可以不用去做，哪怕就在昨天，我还在思考要不要拍屁股走人，但今",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "莫山山摇了摇头，说道：“世间总有比你强的人，这有什么好在意？”\n　　暮色早至天已晦暗，荒原上的寒风吹拂着少女的脸，长而疏的睫毛轻轻眨动，神情平静而恬淡，看不出一丝勉强的神情。\n　　宁缺看着她看了很长时间，有些感慨于少女的心境。只是他这在臭水沟里浮沉太多年，每个汗孔都透着铜臭气和渴求心，实在是无法",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "你？”\n　　忽然间，他注意到莫山山的脸色变得有些苍白起来，平日里散漫直楞的目光变得无比锐利，隐约可见愤怒的火焰跳动。\n　　宁缺心想她可能误会了，急忙解释道：“相反的情况也成立，可以由我拖着强大的敌人，你先逃出去，那对方同样不敢杀我这个夫子亲传弟子，说来说去就是你我互为证人的小游戏，可不是我要拿你去当",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "般的大牙，憨喜不已。\n　　莫山山看了大黑马一眼，问道：“你怎么回来了？”\n　　宁缺看了唐营方向一眼，说道：“过去处理了一些事情，还是习惯在这边呆着。”\n　　习惯这两个字比较悦耳，莫山山脸上的神情稍微和缓了些。她轻轻将发丝捋到耳后，看着他说道：“后日我会随神殿继续向北进发，你准备如何安排？”\n　　议事",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "击的一个家伙。\n　　“是个人都能把我揍的像条狗一样？”\n　　宁缺睁大眼睛盯着莫山山漂亮的小圆脸，强行压抑着心头的羞恼意和血腥味，恼火说道：“你要不要先试试？我还有很多本事没使出来，真把我逼急了，当心你没把我揍成一条狗，我这条狗先把你咬一口。”\n　　听着这句极不雅的话，莫山山怒且羞之，腮颊微红。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "要去北面？”\n　　宁缺眉头微皱，看着身前少女清丽的容颜，想着这段日子墨池苑与神殿之间的冲突，不免有些担心，问道：“还有哪些人要去？”\n　　莫山山的回答一如既往简洁明了，或者说完全不知所以然。\n　　“自然还是那些人。”\n　　宁缺苦笑无语，心想所有人都认为自己是书院二层楼的弟子，那么肯定清楚天下各宗派修",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "过我可以明确地告诉你，道痴叶红鱼痴于修道，实力境界必然在隆庆之上，而隆庆强于我，所以她才是我们三人中最强的那个。”\n　　宁缺看着她微微闪动的睫毛，说道：“在成为神符师之前，我们这些修符之人与同境界的人比拼总是要吃亏一些，你也不用太在意。”\n　　莫山山不解的看了他一眼，问道：“不用太在意什么？”",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，应该知道你书院弟子的身份。”\n　　宁缺点了点头。\n　　莫山山眼帘微垂，说道：“但他们敢杀你。同样的道理，在议事帐内，当着那么多人的面，无论你怎样挑衅嘲讽奚落曲妮玛娣，甚至对神殿不敬，也没有人敢对你做什么，但如果进了荒原深处，在那些人烟罕见的地方，无论是谁都可以杀你，只要把你的尸首往雪里一埋，谁能知",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "千年没有交手，但神殿清楚荒人部落的实力依然强大，不然不至于把左帐王庭的精锐骑兵打的如此凄惨。为了避免出现白白牺牲的局面，这一批再次向北进发的年轻修行者要求极为严苛，必须是洞玄境以上的高手。\n　　莫山山做为年轻一代中的领军人物，自然在列。\n　　“你要去北面？”\n　　宁缺眉头微皱，看着身前少女清丽的容颜",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "你咬一口。”\n　　听着这句极不雅的话，莫山山怒且羞之，腮颊微红。\n　　宁缺盯着她面上渐渐渗出的红晕，瞬间忘了自己先前的羞怒，好奇问道：“你不是说墨池苑弟子不爱涂胭脂，什么时候又开始涂了？”\n　　莫山山愈发羞怒，只不过这一次是羞且怒之。\n　　她不愿再理会这厮，轻拂衣袖，转身向帐里走去。\n　　宁缺看着少",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "寒风萧萧，飞雪飘零，长路漫漫，歇歇再行。\n　　深入荒原深处，快要接近荒人部落，天地间已然是纯白一片，雪野间偶尔能够看到几株树木，还有些野兽留下的蹄印。\n　　就在进入这片雪原之前，宁缺拿到了天枢处和暗侍卫送来的最后一分情报，确认那支从土阳城出来的商队，并没有在王庭停留太长时间，应该就是从前面那个",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "小的时候我就很清楚。”\n　　宁缺敛了脸上笑意，十分郑重认真说道：“神殿并没有要求各宗派洞玄境高手一起进入荒人部落，既然是查探，当然隐密为先，也就等若说你可以自己去，既然如此，我想我们两个人可不可以同行？”\n　　漫漫旅途不止同行并且曾经同厢，难道这样还不够？还要同行下去？你究竟想做什么？莫山山睁着眼睛",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "过于懦弱无耻？”\n　　平静冷漠的言语里透着毫不加掩饰的轻蔑不悦，虽说宁缺一路以来见惯了少女符师的淡漠宁静，但那和轻蔑是两回事，他也有些恼火，说道：“一说都要被人揍成死狗了，难道还不能逃？”\n　　莫山山看着他脸上理所当然的神情，心想你居然还好意思表示不满？袖中的双手微微颤抖，似乎随时可能握紧成拳砸将出",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

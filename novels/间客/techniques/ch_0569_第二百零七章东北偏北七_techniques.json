@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 569,
+  "chapter_title": "第二百零七章东北偏北七",
+  "filename": "ch_0569_第二百零七章东北偏北七.txt",
+  "char_count": 3574,
+  "timestamp": "2026-04-10T12:05:08.547493",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "十七师技术总监许乐，他们两个是我的下属，这位是来自果壳工程部的，”\n\n    指挥部里沉默了两秒钟，人们看着这个，面色苍白疲惫，没有一丝过人之处的联邦军官，疑惑地盯着那双小眼睛，在想像中将一副宽大的墨镜搁在此人的鼻梁上，终于将面前此人与那位经常出现在电视中的著名联邦战斗英雄整合到了一起。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "们最后一程。”\n\n    许乐听出这位青龙山团长语气里的微微苦涩和一丝怨气，如果换作是他，被地磁暴和风雪，还有那些疯狂的帝国残部围攻两天一夜，却看不到任何联邦支援和脱困的可能，或许他的怨气会更深一些。\n\n    “我相信一定大家伙一定能够撑下去，后面大部队的支援应该快了。”许乐用力地握了握这位团长宽",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "混乱的身份中，无论拿出哪一个，都足以令联邦司令部不敢眼睁睁看着他死漆。\n\n    栗明团长微微一笑，心想既然如此，那此时对方与自己站在一处，站在自己的指挥部中，这自然也意味着，司令部必然要前来支援自己。\n\n    “派一个特种班出去。必须把联络官给我找回来！”栗明团长深深地吸了一口气，对下属厉声说道",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "个整编帝国大队的伏击，就靠这两台联邦机甲，就能拯救自己部队。\n\n    这种情绪到许乐说出下一句话后瞬间消失无踪，青龙山部队官兵的脸上浮现出震惊的神色，有些不相信自己的耳朵。\n\n    “自我介绍一下，我是十七师技术总监许乐，他们两个是我的下属，这位是来自果壳工程部的，”\n\n    指挥部里沉默了两",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "下，那两台自远方而来的白色联邦机甲，终于在摇摇欲坠之前，十分惊险地穿透了帝国远征军临时组织起来的拦截战斗群，斜刺里穿越三道青龙山防线，进入了这支被困部队的指挥营地。\n\n    伴随着低沉的金属摩擦声与液体压缩声，两台白色机甲的座舱开启，许乐四人疲惫不堪地爬了下来，身上或多或少都带着剧烈碰撞留下的伤痕",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "战斗实力喝彩。\n\n    “我是”特一军先遣团团长栗明。”\n\n    栗明团长紧紧握住许乐的手。微笑说道：“欢迎你们前来，不过有个非常不好的消息，我们团最后的电磁暴弹药当量，刚才已经全部扔了出去，如果帝国崽子们把最后的机甲投入战斗，除了你们这两台机甲，我们再也没有别的办法。”\n\n    许乐感到手掌",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "笑容渐敛，淡然说道：“指挥系统受损，雪峰那边的两个营联系不上，只知道那边的战斗一直也在持续，我不知道究竟有多少战士死去，但如果再没哼哼力的支援，我们撑不了多久了。”\n\n    “事实上，我以为没有人会理会我们。”栗明团长说道：“没想到居然还有两台政府军的机甲愿意来陪我们最后一程。”\n\n    许乐听",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的联邦军官，疑惑地盯着那双小眼睛，在想像中将一副宽大的墨镜搁在此人的鼻梁上，终于将面前此人与那位经常出现在电视中的著名联邦战斗英雄整合到了一起。\n\n    他就是那个许乐中校？\n\n    栗明团长微微一怔，旋即深陷的眼窝里绽出开道精光，目先中是不肯遮掩的喜悦。\n\n    因为数十年的隔阂与战争。政府",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "栗明团长微怔\n\n    通过他的介绍小许乐才知道，原来施公子这个家伙早在三个月前便从西林来到了这支青龙山部队之中，负责部队与政府军方面的协调工作。此次先遣团被帝国远征军围困，施清海同样身陷于此。一天一夜的残酷战斗之后，他留下了一封信件轻描淡写说要去多杀几个帝官以死的漂亮些，便带着从不离身",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "也不愿意发动大型的攻击。\n\n    高地上的指挥部后方。许乐与商秋，正在青龙山机修连战士们的协助下，紧张而忙绿地进行着修复工作。按照他们拟定出来的清单，有很多青龙山官兵小此时正在黑夜的掩护下，钻进防线四周破损如垃圾的装甲车和自行火炮中，不停地拆卸切割。\n\n    几百个。通过检测尚能工作的零乱构件，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

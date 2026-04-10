@@ -1,0 +1,115 @@
+{
+  "novel": "将夜",
+  "chapter_number": 32,
+  "chapter_title": "第三十二章 一文钱难死主仆俩（下）",
+  "filename": "ch_0032_第三十二章 一文钱难死主仆俩（下）.txt",
+  "char_count": 2270,
+  "timestamp": "2026-04-10T12:11:03.418850",
+  "techniques_count": 8,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "有了！我们卖皮蛋！不，应该说是松花蛋！”\n　　桑桑蹙眉重复道：“皮蛋？”\n　　他微微一笑说道：“毫无疑问，我做的皮蛋是全大唐最好吃的。”\n　　桑桑看着他认真说道：“但是全渭城的人都不爱吃，我也不爱吃，太苦了。”\n　　宁缺敛了笑容，看着雨中狼狈的行人，故作平静说道：“其实我是在说笑话。”\n　　桑桑仰头",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "噗闷响，就像是水珠坠入灰尘一般。没有一滴雨水能够渗过伞面，大黑伞的面积似乎大到足够为整整一支马球队遮风蔽雨，但不知为何，站在黑伞下的宁缺和桑桑依然觉得自己被淋了个透心凉，身体寒冷快要变成冰雕。\n　　“找个地方躲躲雨吧。”他声音微哑说道，然后想起昨天在街上那件怪事，补充了一句：“别去朱雀大街了。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "头算道：“这一个多月住客栈肯定不行，咱们没那么多钱，如果少爷你坚持要考书院，那么就算我们去破庙也没有意义，因为拢共就二百两不到的银子，还得天天往外面花，所以我们现在的问题不是怎么省钱，而应该是怎么挣钱。”\n　　“怎么挣？”少年以伞为杖，做沧桑状慨然叹息：“这是一个问题。”\n　　春雨淅淅沥沥，主仆二人",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "卖字儿？那叫书法！书法懂不懂？读书人的事儿怎么能拿来卖呢！这东西我是宁肯卖身也不卖它的！”\n　　桑桑愤怒喊道：“少爷，你不是读书人，你就是一个砍柴的，你不是常说自己写字儿比杀人更在行吗？既然你愿意靠杀人挣钱，为什么不能靠写字儿来挣钱！”\n　　宁缺很没有底气地弱弱反驳道：“说了那不叫写字儿，叫书法。”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "长安城里的手艺比我好很多，有很多式样我都没瞧过，那些针法更是看都看不明白。”\n　　宁缺望着面前雨丝，感慨道：“可惜长安城周边没有马贼也没有山贼，不然去杀几窝怎么也能趁够足够多的银子，说起来刚到渭城那阵年纪实在太小，做事实在太蠢，杀马贼抢的钱全都老老实实地缴了公，也不知道留点儿私房。后来等明白杀马贼打",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "间后鼓足勇气说道：“少爷，其实要挣钱有一个很简单的方法，就是不知道你愿不愿意。”\n　　宁缺转过头来，瞬间觉得小侍女这张小黑脸变得前所未有的顺眼和漂亮，温和说道：“现在而今眼目下，只要能挣钱，哪里会有什么不愿意做的事情。”\n　　桑桑回答道：“少爷你字写的那么好，咱们卖字儿吧。”\n　　宁缺表情一僵，看着",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的宁缺和桑桑依然觉得自己被淋了个透心凉，身体寒冷快要变成冰雕。\n　　“找个地方躲躲雨吧。”他声音微哑说道，然后想起昨天在街上那件怪事，补充了一句：“别去朱雀大街了。”\n　　于是主仆二人顺着街畔的青树漫无目的走了一段距离，然后在长安北城一条偏街安静的檐下站立，收起了黑伞，之后两个人又沉默了很长一段时间",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "句：“别去朱雀大街了。”\n　　于是主仆二人顺着街畔的青树漫无目的走了一段距离，然后在长安北城一条偏街安静的檐下站立，收起了黑伞，之后两个人又沉默了很长一段时间，看着眼前的密织雨丝和靴前不远处的点点水花完全无语。\n　　“我堂堂大唐帝国……”此时宁缺说出堂堂大唐帝国这六字时的口气，全然没有往常的自信骄傲",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

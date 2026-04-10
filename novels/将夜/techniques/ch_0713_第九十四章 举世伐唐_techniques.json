@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 713,
+  "chapter_title": "第九十四章 举世伐唐",
+  "filename": "ch_0713_第九十四章 举世伐唐.txt",
+  "char_count": 2325,
+  "timestamp": "2026-04-10T12:11:27.011203",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "是的，在这个世界上还没有能够击败大唐的国家，哪怕是金帐王庭，只要大唐帝国能够撑过最开始这段时间，最终还是能够获得胜利。\n　　然而如果整个世界都开始进攻大唐，大唐还能顶得住吗？很多年前，大唐曾经面临过类似的局面，但那时候的大唐有夫子，现在夫子已经登天。\n　　……\n　　……\n　　以举世之力伐一国，换",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "改遗诏，让李珲圆登基后，她便再也没有进过御书房。因为这间并不大的房里里，满溢着父皇的味道，她觉得有些压抑。\n　　但今天她还是来了，因为这时候她需要父皇给予她精神上的安慰和支持。\n　　一名军部将领走进御书房，行以军礼。战争还没有波及到长安城，但整个帝国都面临着战争，所以现在已经不是和平时期，而是战争时",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "城方向移动的镇北军马上回撤，与北大营成犄角之势，在河北郡外，连续布下两道防线。\n　　同时她命令镇南军立刻结束与原始森林里那些野人部落的缠斗，要求他们在最短的时间内赶到帝国北疆参战，同时令舒成分出征西军一部沿葱岭北上，从侧后方对入侵唐境的金帐骑兵进行骚扰游击作战。\n　　最令朝中诸臣感到震惊的是，李渔竟",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "朝中诸臣感到震惊的是，李渔竟是毫不在意长安城可能脱离控制，把自已掌握最深的羽林军也调往了北疆！\n　　紧急朝会上，诸位大臣都承认，殿下的安排没有任何私心，而且极为及时，但仍然有人表示了激烈的反对。\n　　在那几位大臣看来，镇北军无法支援土阳城，那么燕军和左帐王庭的骑兵，便可以长驱直入，殿下又把羽林军调往",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "说什么，只见数名官员在太监的带领下匆匆而来。李珲圆带着何明池和天柩处的新任总管，也从侧门里走了进来，众人脸上的神情都异常凝重。\n　　李渔心头微凛，神情却没有什么变化，问道：“发生了什么事？”\n　　何明池看了皇帝陛下一眼。\n　　李珲圆走上前，把手里的一封信递给了李渔。\n　　那位自宫外而来的大臣，声音微",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "单的多，上面只写了一句话：“夜幕遮星，唐将不宁，殿下降了吧。”\n　　她沉默不语，握着信纸的手指不停地颤抖。\n　　大殿里一片安静，李珲圆紧张地看着自已的皇姐，何明池微微低着头，太监宫女们脸色苍白，大臣们瞪圆了眼睛。\n　　如果说金帐王庭南下，是大唐帝国数十年来所遇的最强敌人，那么西陵神殿的诰书和掌教大人",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "能够理解她的决定。她自己在朝会散后，也感到了极度的疲惫，一抹隐隐的恐惧，在内心最深处缓缓浮起。\n　　难道这就是自已篡改父皇遗诏的报应？\n　　便在这时，殿外传来一阵喧哗，她眉头微皱，还没有来得及说什么，只见数名官员在太监的带领下匆匆而来。李珲圆带着何明池和天柩处的新任总管，也从侧门里走了进来，众人脸上",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "大唐没有崩溃，整整一千年锤打出来的信心与强大气魄，让生活在这里的人们警惕不安之余，仍然没有生出放弃的念头。\n　　朝廷所有机构都以最快的速度行动起来，长安城里一片肃杀，各项军令从长安城出发，向广阔疆土的每个区域送去。\n　　相形之下，大唐政治军事权力中心的皇宫，却反而变得安静下来。\n　　该做的事情都正在",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "羽林军调往了北疆，到那时候兵临城下，长安城怎么办？镇北军连番周折，士气必然受损，还不如依先前决议继续前往土阳城，而抵御金帐王庭南侵的重任，则交给其余的军队。\n　　李渔只用了两句话便解决了这场争执。\n　　“长安城不可能被攻陷。”\n　　“我都不怕死，你们凭什么怕死？”\n　　……\n　　……\n　　新帝登基后",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "当时，没有多少人能够理解她的决定。她自己在朝会散后，也感到了极度的疲惫，一抹隐隐的恐惧，在内心最深处缓缓浮起。\n　　难道这就是自已篡改父皇遗诏的报应？\n　　便在这时，殿外传来一阵喧哗，她眉头微皱，还没有来得及说什么，只见数名官员在太监的带领下匆匆而来。李珲圆带着何明池和天柩处的新任总管，也从侧门里走",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "，命令正在向土阳城方向移动的镇北军马上回撤，与北大营成犄角之势，在河北郡外，连续布下两道防线。\n　　同时她命令镇南军立刻结束与原始森林里那些野人部落的缠斗，要求他们在最短的时间内赶到帝国北疆参战，同时令舒成分出征西军一部沿葱岭北上，从侧后方对入侵唐境的金帐骑兵进行骚扰游击作战。\n　　最令朝中诸臣感到",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "看了皇帝陛下一眼。\n　　李珲圆走上前，把手里的一封信递给了李渔。\n　　那位自宫外而来的大臣，声音微颤说道：“西陵神殿刚刚颁下诰书。”\n　　……\n　　……\n　　西陵神殿的诰书，连同掌教大人的一封亲笔信，送到了长安城。\n　　在诰书中，西陵神殿揭穿了皇后娘娘的身份来历，指出唐帝庇护魔宗余孽长达数十年时间，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "起来，长安城里一片肃杀，各项军令从长安城出发，向广阔疆土的每个区域送去。\n　　相形之下，大唐政治军事权力中心的皇宫，却反而变得安静下来。\n　　该做的事情都正在做，那么除了等待还能做些什么？\n　　李渔站在石栏畔，看着夜空里那轮月亮，沉默不语。\n　　她想着西陵神殿掌教亲笔信里那句话，想着多年前钦天监做的",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "对，哪怕就连最忠诚于她的臣属，都小心翼翼地私下表示了质疑，她依然坚持调集整个帝国的力量，北上。\n　　以后的事实，会证明她现在的决定是正确的。\n　　然而在当时，没有多少人能够理解她的决定。她自己在朝会散后，也感到了极度的疲惫，一抹隐隐的恐惧，在内心最深处缓缓浮起。\n　　难道这就是自已篡改父皇遗诏的报应",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第九十四章 举世伐唐\n　　金帐王庭南侵的消息，就像是一场山火般，迅速烧遍整个世界，震撼了整个中原。\n　　长安城的反应极为迅速，李渔以强大魄力，压制住朝堂上哗然的皇后派大臣，不顾自已事后可能成为笑柄，连续发出数道军令，命令正在向土阳城方向移动的镇北军马上回撤",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

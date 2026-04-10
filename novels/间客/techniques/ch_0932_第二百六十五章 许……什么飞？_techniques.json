@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 932,
+  "chapter_title": "第二百六十五章 许……什么飞？",
+  "filename": "ch_0932_第二百六十五章 许……什么飞？.txt",
+  "char_count": 2414,
+  "timestamp": "2026-04-10T12:05:26.930571",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "菲利浦像被妻子痛揍过的哲学家般激动，抗议道：“没有人知道你的名字，难道要我叫你怀乐？你怀了几个月了？为什么我不知道？”\n\n    钟烟花听到某人恶毒地攻击自己最敬爱的兄长，终于压抑不住，小手拍案，嫩腰一拧而起，愤怒说道：（，那我们应该怎么称呼你？”\n\n    “最亲爱的小飞怀……”\n\n    “屁！",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "知道？”\n\n    钟烟花听到某人恶毒地攻击自己最敬爱的兄长，终于压抑不住，小手拍案，嫩腰一拧而起，愤怒说道：（，那我们应该怎么称呼你？”\n\n    “最亲爱的小飞怀……”\n\n    “屁！你没爹没妈，凭什么给自己取名字？小鸡啄开蛋壳后看到的第一个人就是他爹妈，你应该跟许乐哥姓！”\n\n    “从今",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "我就说过，整个宇宙除了宪章局地底那台破电脑之外，没有任何人比我的生物学的更好。我是谁？我是伟大的未知存在，我能做出蛋白肉这么复杂的东西，难道还不能做出蚕丝？”\n\n    “二位伙伴，向你们报告一个好消息，就在三个小时前，本舰长已经成功研制成功人造蚕丝，根据消耗能耗类型和当量计算，我们只需要随便挑颗有",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "继续跟踪。\n\n    没有任何标识的黑色飞船，以难以想像的速度冲破大气层，沿循着帝国监控网的缝隙，转瞬间消逝在太空之中，事实上却已经悄无声息地借着陨石带的掩护，来到了离陵星系海员星球的阴影背面。\n\n    星球的阴影背面有一【pi浓更深的阴影，只有靠的足够近，肉眼或者是最尖端的设备，才能看出那【pi",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "过这艘三翼舰从来不是一个沉默的家，在星辰间流浪时，许乐和小西瓜有时候会置气，有时候会赌气，有时候会闹脾气，沉默一天一夜常有，但那个家伙却绝对没有这方面的问题，始终完美扮演着话痨。\n\n    “哇哈哈哈！我就说过，整个宇宙除了宪章局地底那台破电脑之外，没有任何人比我的生物学的更好。我是谁？我是伟大的未",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的太空垃圾废弃堆。\n\n    经历过无数次自主改装的联邦三翼舰早已不复当年的模样，和曾经在引海洋陆地天空中霸蛮狂冲的模样，也有了些细微的变化，那些中空的厢体如同蜂巢般密集地对着外部环境，可以完美地吸收各种探测波段，至于外表一如当年那般拙笨粗糙的一塌糊涂偏透着股恐怖的味道，只能说那位非人类的设计者光顾",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "度冲破大气层，沿循着帝国监控网的缝隙，转瞬间消逝在太空之中，事实上却已经悄无声息地借着陨石带的掩护，来到了离陵星系海员星球的阴影背面。\n\n    星球的阴影背面有一【pi浓更深的阴影，只有靠的足够近，肉眼或者是最尖端的设备，才能看出那【pi浓深的阴影，原来竟是一艘无比巨大的破烂飞船，飞船外表被漆成浓",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "你怀乐？你怀了几个月了？为什么我不知道？”\n\n    钟烟花听到某人恶毒地攻击自己最敬爱的兄长，终于压抑不住，小手拍案，嫩腰一拧而起，愤怒说道：（，那我们应该怎么称呼你？”\n\n    “最亲爱的小飞怀……”\n\n    “屁！你没爹没妈，凭什么给自己取名字？小鸡啄开蛋壳后看到的第一个人就是他爹妈，你应",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "有多大的势力啊！“中控室内的声音激昂地回荡着，几根液压机械臂像跳舞一般，在许乐面前来回摆动，细声细气说道：“这说明什么？这说明科学技术，只有科学技术才是第一生产力！”\n\n    许乐和钟烟花坐回各自的座位，一大一小像两尊极相似的雕像般撑着下颌，看着窗外漆黑的宇宙发呆，没有理会那个家伙的癫狂，事实上在",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "成浓淡不匀的黑色，各种各样的厢体构件凌乱地堆砌在外，就像是个巨大的太空垃圾废弃堆。\n\n    经历过无数次自主改装的联邦三翼舰早已不复当年的模样，和曾经在引海洋陆地天空中霸蛮狂冲的模样，也有了些细微的变化，那些中空的厢体如同蜂巢般密集地对着外部环境，可以完美地吸收各种探测波段，至于外表一如当年那般拙",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "一如当年那般拙笨粗糙的一塌糊涂偏透着股恐怖的味道，只能说那位非人类的设计者光顾着靠推翻人类航空设计来满足自己的虚荣感，却完全忘记了什么叫美感。推开舱门，昏暗的中控室顿时亮起绝对符合人眼最佳感受的环境灯光，许乐却依然忍不住眯了眯眼睛，并不觉得有多舒服，老老实实抓着他的袖口沉默跟在后面的钟烟花也眯了眯眼",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

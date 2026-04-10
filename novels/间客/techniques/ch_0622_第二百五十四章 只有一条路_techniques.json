@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 622,
+  "chapter_title": "第二百五十四章 只有一条路",
+  "filename": "ch_0622_第二百五十四章 只有一条路.txt",
+  "char_count": 2475,
+  "timestamp": "2026-04-10T12:05:08.574143",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "出无数孔洞和恐怖飞溅的碎屑，而它的右机械臂则是嗤的一声弹出锋利的特制合金刀，在机甲重重撞向厚墙的那一瞬间，猛然间爆出无数道犀利的刀光！\n\n    一阵令人耳酸脑花的凄厉怪声，金属与硬物的摩擦声，通道尽头一蓬怪异的烟尘未散，黑色机甲却已经悍勇无俦，蛮不讲理地冲了过去！\n\n    厚墙之后是一扇合金门，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "是浑身创痕，惨不忍睹，满是灰石，却依然像天神般凛然不可侵犯。\n\n    战舰指挥厅内一直充斥着的惊慌愤怒吼叫声，指挥声，随着这台黑色机甲不可思议地出现，忽然间戛然而止，数百名帝**官不敢置信地看着这台联邦机甲，震惊无语。\n\n    此时帝国舰队上方七千公里之外的三翼舰开始缓缓调姿，自主操控三翼舰的联",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "二百五十四章 只有一条路 \n\n    帝国战舰上层的空气在压力差的作用下，高向舰外喷射，呼啸而去的劲风从座舱外割裂而过，然后消失。\n\n    下一刻，黑色mxt也变作了战舰上层剧烈的风，沉重巨大的合金身躯陡然一错，轻而易举地避开战舰内部隔断弹出的束缚带，拉起一道高残留的光彩，穿过长长的廊桥，冲向昏暗",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "“那是条死路！把他堵在那里。”\n\n    战舰指挥室里的帝**官，不明白那台凶猛的联邦机甲为什么会像一个慌不择路的老鼠般，闯进那个没有出路的通道，狂喜地大声喊道。\n\n    许乐眯着眼睛盯着光幕上越来越近的那堵墙，身体内的灼热线条快地流倘着，每一对肌肉双纤维都开始颤抖，并不是他已经出了全力",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "这台机甲里坐的人究竟是谁？最关键的是，在自己的战舰内部，他凭什么能在自己都还没有想明白的情况下，如此轻松自如地找到这条直通指挥厅的通道 www/xiaoshuotxt.co m",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "盯着光幕上越来越近的那堵墙，身体内的灼热线条快地流倘着，每一对肌肉双纤维都开始颤抖，并不是他已经出了全力，而是他感到了某种兴奋。\n\n    死路就是没有路吗？他从来不相信这个，就像都特区郊外那条著名的道路一样，若真没有路，那就自己打开一条。\n\n    走自己的路，不意味着让敌人无路可走，但总能把死路",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "轻而易举地撕成了碎片！\n\n    激飞的屑雨烟尘之中，mxt如沉沦的魔鬼般，再次向更下层坠去，如将要进入最底层的地狱。\n\n    帝国战舰指挥室所在的楼层。\n\n    一根粗壮的钢梁被从中生生踩断，挟着极快的度向着两边冲击，刺进了厚实的仿塑舰隔墙，出噗噗两道令人心寒的声音。\n\n    满是菱形防滑纹",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "姿，自主操控三翼舰的联邦中央电脑，开始准备马上将要启动的高俯冲接应飞行，不知道为什么，这个逻辑程序的存在，竟感到了一些很奇异的数据逸流现象，那或许就是情绪。\n\n    联邦中央电脑认为自己稍后要做的事情，和许乐操控机甲疯狂奔跑，有几分相拟之处，所以它有些兴奋。\n\n    一直脸色铁青盯着光幕画面的卡",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的灯光中，可以看到薄拟真系统下的年轻身躯在微微颤抖，裸露在外的薄唇微微白，却是纹丝不动，他盯着光幕上出现的画面和不停滚动的结构图光点指示，眼睛眯的很厉害，眼瞳明亮的很厉害。\n\n    “那是条死路！把他堵在那里。”\n\n    战舰指挥室里的帝**官，不明白那台凶猛的联邦机甲为什么会像一个慌不择路的老",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "对肌肉双纤维都开始颤抖，并不是他已经出了全力，而是他感到了某种兴奋。\n\n    死路就是没有路吗？他从来不相信这个，就像都特区郊外那条著名的道路一样，若真没有路，那就自己打开一条。\n\n    走自己的路，不意味着让敌人无路可走，但总能把死路走出自只的活路来。\n\n    黑色mxt没有减，反而加向看着",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "t没有减，反而加向看着通道尽头的隔离重墙冲了过去，左机械臂前端的达林机炮轰出艳丽的枪火，把墙面击打出无数孔洞和恐怖飞溅的碎屑，而它的右机械臂则是嗤的一声弹出锋利的特制合金刀，在机甲重重撞向厚墙的那一瞬间，猛然间爆出无数道犀利的刀光！\n\n    一阵令人耳酸脑花的凄厉怪声，金属与硬物的摩擦声，通道尽头",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "名帝**官不敢置信地看着这台联邦机甲，震惊无语。\n\n    此时帝国舰队上方七千公里之外的三翼舰开始缓缓调姿，自主操控三翼舰的联邦中央电脑，开始准备马上将要启动的高俯冲接应飞行，不知道为什么，这个逻辑程序的存在，竟感到了一些很奇异的数据逸流现象，那或许就是情绪。\n\n    联邦中央电脑认为自己稍后要",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "里的帝**官，不明白那台凶猛的联邦机甲为什么会像一个慌不择路的老鼠般，闯进那个没有出路的通道，狂喜地大声喊道。\n\n    许乐眯着眼睛盯着光幕上越来越近的那堵墙，身体内的灼热线条快地流倘着，每一对肌肉双纤维都开始颤抖，并不是他已经出了全力，而是他感到了某种兴奋。\n\n    死路就是没有路吗？他从来不",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

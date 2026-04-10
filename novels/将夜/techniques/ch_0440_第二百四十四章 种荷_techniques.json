@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 440,
+  "chapter_title": "第二百四十四章 种荷",
+  "filename": "ch_0440_第二百四十四章 种荷.txt",
+  "char_count": 3493,
+  "timestamp": "2026-04-10T12:11:21.793938",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的胸膛，开心地笑了起来。\n　　从古树青叶间漏下的天光忽然变得清淡了很多，宁缺抬头望天，只见树梢上方的天空里不知何时飘来几大团云，遮住了炽烈的阳光。\n　　他把桑桑从怀里推开，说道：“去划船去。”\n　　前后截然不同的待遇，并没有让小侍女有太多不适应，她喔了一声，便向湖岸那个新修的简易泊船栈走去。\n　　约",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "现在也是有大宅院的人家，何至于还这般节俭，有那功夫，你还不如让我去多写几幅书帖。”\n　　桑桑想了想，心想确实是这个道理，看了看膝头上的莲芯，下定决心，把莲芯扔进湖里，就着湖水洗了洗手，便走回船尾。\n　　“你这是要去哪里？”\n　　宁缺看着小船摇摇荡荡起来，不解问道。\n　　桑桑说道：“回去让你多写几幅书",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "自大和嚣张，天穹里密布的雨云深处骤然闪过一道亮光，然后传来隆隆的雷声。\n　　暴雨毫无预兆地落了下来，瞬间化作无数水帘，笼罩了整座长安城，雁鸣湖与雁鸣山在雨中沉默无言。\n　　就在电闪雷鸣的那刹那，桑桑以最快的速度撑开了大黑伞。\n　　宁缺抬头看着黑伞，说道：“雷雨天打伞容易被劈死。”\n　　桑桑说道：“小",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "只能是公主府和皇宫了。”\n　　宁缺伸手把她揽进怀里，宠溺揉着她的头，说道：“公主府和皇宫我们也常去，将来真想去那儿住，我去问陛下。”\n　　桑桑靠着他的胸膛，开心地笑了起来。\n　　从古树青叶间漏下的天光忽然变得清淡了很多，宁缺抬头望天，只见树梢上方的天空里不知何时飘来几大团云，遮住了炽烈的阳光。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "院的人家，何至于还这般节俭，有那功夫，你还不如让我去多写几幅书帖。”\n　　桑桑想了想，心想确实是这个道理，看了看膝头上的莲芯，下定决心，把莲芯扔进湖里，就着湖水洗了洗手，便走回船尾。\n　　“你这是要去哪里？”\n　　宁缺看着小船摇摇荡荡起来，不解问道。\n　　桑桑说道：“回去让你多写几幅书帖啊，买这宅子",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "雷雨天打伞容易被劈死。”\n　　桑桑说道：“小时候你就说过，但我们没有被劈死。”\n　　宁缺叹息说道：“果然是个很神奇的世界，那就闭上眼睛感受一下吧。”\n　　暴雨如注。\n　　雷电交加。\n　　桑桑站在崖畔，面对撼动不安的湖水，紧闭眼睛，紧握大黑伞的伞柄。\n　　不知道过了多久。\n　　宁缺神情凝重问道：“感觉",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "张，天穹里密布的雨云深处骤然闪过一道亮光，然后传来隆隆的雷声。\n　　暴雨毫无预兆地落了下来，瞬间化作无数水帘，笼罩了整座长安城，雁鸣湖与雁鸣山在雨中沉默无言。\n　　就在电闪雷鸣的那刹那，桑桑以最快的速度撑开了大黑伞。\n　　宁缺抬头看着黑伞，说道：“雷雨天打伞容易被劈死。”\n　　桑桑说道：“小时候你就",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "桑桑摇动船桨，小船缓缓驶入莲田，放眼望去，除了青色的荷叶与粉色的荷花，便再看不到任何别的事物，仿佛进入了一片幽静的迷宫，进入了与酷暑天地截然不同的曼妙世界。\n　　青色的圆圆莲叶，就像蒲扇船卧于水面，伸于半空，不时触到船壁，发出簌簌的声，荷花便在船畔盛放，那些粉的白的柔的嫩的光滑如玉的花瓣，与二人近",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "桑桑站在崖畔，面对撼动不安的湖水，紧闭眼睛，紧握大黑伞的伞柄。\n　　不知道过了多久。\n　　宁缺神情凝重问道：“感觉怎么样？”\n　　桑桑睁开眼睛，眼眸里的明亮要胜过雨云里的闪电。\n　　“我能感觉到一切。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "青树参天，粉墙黑檐隐现其间，清幽之中见清贵，想着这便是自己的家，不禁如桑桑般生出些许感慨，极大满足，说道：“以后我们还要住更大的房子。”\n　　桑桑有些吃惊，仰着头说道：“比这里更大的房子，那只能是公主府和皇宫了。”\n　　宁缺伸手把她揽进怀里，宠溺揉着她的头，说道：“公主府和皇宫我们也常去，将来真想去",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "了长安城百姓亲近的机会，当然会显得有些不厚道，甚至在道德上有些问题，不过宁缺主仆二人本来就是暴发户，从来都不是厚道人，也不怎么在意道德问题。\n　　湖水中央那十余亩莲田，都是宁缺花钱雇人种的荷花，过了这些日子，被湖泥滋养着，莲叶早已茂密，花亦盛开。\n　　桑桑摇动船桨，小船缓缓驶入莲田，放眼望去，除了青",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "身上的单衣领已经解开。他躺在船蓬阴影间，嗅着风中传来的隐隐莲香，惬意地闭上眼睛。\n　　桑桑站在船尾，缓缓摇桨。\n　　“你也闭上眼睛，感受一下。”\n　　宁缺说道。\n　　桑桑依言放下手中的船桨，走进船蓬里，靠在他身旁，闭上了眼睛，微疏的睫毛轻轻眨动，微黄的发丝在湖风里轻颤。\n　　“感受到了什么？”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，只见青树参天，粉墙黑檐隐现其间，清幽之中见清贵，想着这便是自己的家，不禁如桑桑般生出些许感慨，极大满足，说道：“以后我们还要住更大的房子。”\n　　桑桑有些吃惊，仰着头说道：“比这里更大的房子，那只能是公主府和皇宫了。”\n　　宁缺伸手把她揽进怀里，宠溺揉着她的头，说道：“公主府和皇宫我们也常去，将来",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

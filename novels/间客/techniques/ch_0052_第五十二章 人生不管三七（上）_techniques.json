@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 52,
+  "chapter_title": "第五十二章 人生不管三七（上）",
+  "filename": "ch_0052_第五十二章 人生不管三七（上）.txt",
+  "char_count": 3512,
+  "timestamp": "2026-04-10T11:53:35.108405",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "个男人便经常来找自己，请自己喝酒，陪自己聊天……可是，自己又不是一个像女人的男人，对方似乎倒更有这种风姿。许乐实在是有些难以理解对方那种执着，不过很奇妙的是，他似乎也并不抗拒和这个官员接触，或许……是因为对方身上透着的那股懒散味道下的厌世情绪和某个逝去的人有些相似？\n\n    许乐抱着铸件从他身边走",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "守一些过去，这样就挺好，如果用警惕和怀疑的目光对待人生里将要遇到的一切人和事，这样的人生本身又有什么意义呢？\n\n    夜渐深了，施清海因夜色和美人朋友而沉醉，含糊不清地说着什么话，倒在沙发上沉沉睡去。喝了大半瓶烈酒的许乐，倒没有醉的感觉，反而因为酒精而变得稍微有些兴奋。他有些依依不舍地移开投往那些",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "乐问道。\n\n    “新型毒品，天蓝。”施清海嘲笑地看着他，“你想试试？”\n\n    许乐摇了摇头，心想首都星真是一个繁华而可怕的地方，居然有人敢在光天化日之下进食毒品，不禁叹了口气。便在此时又一阵香风扑了过来，扑进了施海清的怀中，他不禁又叹了一口气，心想到底自己是从偏远不发达地区来的乡巴佬，还是不",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "好不容易走到了夜店门口，扑面而来的清风吹的许乐精神一振，然而紧接着他却闻到了扑面而来的香风和危险的感觉。他抬头一看，只见三辆名贵轿车停在夜店的门口，约摸七八个人从轿车下来，向着夜店走来。走在旁边的几人一身黑衣，身材均匀，面色漠然，似乎是保镖之类的人物。走在中间的两男一女衣着光鲜，气质冷淡而矜",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "对方虽然确实是张白纸，但却白的格外固执，要想被外来的颜色涂染，难度不小。\n\n    “我知道你有你的秘密。”施清海再次懒洋洋地趴下上半身，隔着酒杯看着许乐的脸，“我从来不相信你会有什么干叔叔赠了你一大笔钱，足以让你可以奢侈地坐头等舱……不过放心，你不是政府官员，也没有人会对查你有兴趣。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "“我刚过合法饮酒年龄也没多久。”许乐在沙发上坐正了身体，笑着说道。他当然对于夜店这种事物不陌生，虽然进去的极少，但自幼便和维哥儿一群孤儿们混迹在社会中，虽是偏远的东林，却也养就了一丝干辣气。他那一张诚恳朴实的脸，虽然确实反应了他某一部分的思考方式，但更成功地遮掩了孤儿天生拥有的冷静与坚硬、",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "月喝了二十顿酒，该熟了吧？除了石头，世界上哪有煮不熟的东西？”\n\n    “嗯，我在东林当兵，联邦人一向认为东林人都是石头。”\n\n    “石头也是需要朋友的。”\n\n    “朋友就是这么简单的事情？”\n\n    “当然，看的顺眼，处的舒服就是朋友。”\n\n    许乐若有所悟，笑着点了点头。施清海很",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "这个时候正是夜店最热闹的时候，只不过施清海和许乐灌酒灌的太快，所以走也比旁人走的早些，抱着沉重身躯的许乐在昏暗的灯光下不好觅路，不知道撞了多少人，连声说着抱歉。他知道在酒精的作用下，在无数异性的目光中，一个小小的磨擦都可能惹出大麻烦来。\n\n    好不容易走到了夜店门口，扑面而来的清风吹的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "那边吹了一声口哨，含糊不清说道：“美女，你的dvc喷的太多了……”\n\n    那边听到这两个字，脚步同时停顿了下来，领头的那个男人含笑回身往走廊边望去，似乎是想知道谁这么大胆子敢调戏自己的妹妹，温和的笑容里隐着极浅的一抹冷酷之意小-说-t-xt-天.堂",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "在是顶不住了。”\n\n    “放下这破东西再说。”施清海笑眯眯地看着他，英俊柔媚的脸在阳光下泛着光，说道：“今儿不喝酒，带你去找女人。”\n\n    “女人？”许乐张大了嘴，半天反应不过来，\n\n    “施公子？我们有熟到这种程度吗？”许乐无奈地看着对方，施公子是施清海的自称，这个年轻的政府官员似乎一",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "种程度吗？”许乐无奈地看着对方，施公子是施清海的自称，这个年轻的政府官员似乎一直很向往万恶的帝国封建社会。\n\n    “两个月喝了二十顿酒，该熟了吧？除了石头，世界上哪有煮不熟的东西？”\n\n    “嗯，我在东林当兵，联邦人一向认为东林人都是石头。”\n\n    “石头也是需要朋友的。”\n\n    “",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，抱着沉重身躯的许乐在昏暗的灯光下不好觅路，不知道撞了多少人，连声说着抱歉。他知道在酒精的作用下，在无数异性的目光中，一个小小的磨擦都可能惹出大麻烦来。\n\n    好不容易走到了夜店门口，扑面而来的清风吹的许乐精神一振，然而紧接着他却闻到了扑面而来的香风和危险的感觉。他抬头一看，只见三辆名贵轿车停在",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "虽然他说自己是替政府看大门的，但谁会信呢？不过施清海既然不追问他的过去，他也不想去追问施清海的底细。离开东林已经很久了，体内伪装芯片一直没有出过问题，许乐已经可以自然地面对生活中的一切，而不是永远把自己当成逃犯看待，自然地生活，保守一些过去，这样就挺好，如果用警惕和怀疑的目光对待人生里将要遇到的一切",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

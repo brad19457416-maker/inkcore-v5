@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 702,
+  "chapter_title": "第六十五章 他们和她们（中）",
+  "filename": "ch_0702_第六十五章 他们和她们（中）.txt",
+  "char_count": 3504,
+  "timestamp": "2026-04-10T12:05:17.536010",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "面无表情地看着那台歪歪扭扭冲过来的车辆。他率领的这支混编机甲小队护送着那几辆多轴重装载车，要在昏沉的天空下横穿这座充满敌意的城市，不得不非常警惕。\n\n    混编机甲小队最前方的士兵没有做出及时的反应，白玉兰的眉头皱了起来。他透过头盔上的光学摄录仪，看到那辆车辆中除了一名惊慌失措的帝国男人，还坐着一",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "个机甲混编小队的却是一场剧烈的爆炸！\n\n    不知道多少当量的**被藏在那辆帝国汽车里，猛烈的爆炸瞬间形成了一个数十米的巨大火球，强大的冲击波紧随而至，将街道两侧的水泥碎砾都激的飘了起来，迸迸地击打在联邦机甲和装甲车的外壳上，\n\n    那辆帝国车辆里的男人和小女孩儿肯定死了，而装甲车上的米梅上士",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "女孩儿肯定死了，而装甲车上的米梅上士以及三名联邦士兵也肯定没有办法生存下来。\n\n    紧接着更大的危险降临此时，只听得无数连绵而至的爆炸声，在街道的两侧骤然响起，被联邦武器毁坏将塌的两幢高层建筑里，骤然喷出无数烟尘，令人感到无比寒冷的剧大金属水泥摩擦声中，这两幢高层建筑轰然倒塌。\n\n    无数万",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "战士提着沉重的枪械快速地散入街道两侧。\n\n    几乎瞬间，街道两侧的楼上不知道探出了多少枝枪，开始愤怒地向着楼下的联邦士兵喷射着子弹。借助地面巨大水泥块遮掩身体的联邦士兵们匆忙地进行着还击，余光里却看到一抹令他们心惊胆跳的阴影，一辆帝国最新式的狼牙机甲，从街道尽头快速地奔了过来，沉重的机身踩踏着不",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“这是战场，赫雷上校……”铁七师那位以冷漠骄傲著称的东方团长，看着面前这些令人厌憎的家伙，皱眉嘲讽说道：“哪里能有完美的布防，如果真要不死人，回家带孩子是最好的选择。”\n\n    赫雷团长瞪圆了双眼，拳头紧紧握了起来，然而想到师长严厉的命令，终究只是深深地吸了一口气。\n\n    东方冷漠地看着这些",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "光学摄录仪，看到那辆车辆中除了一名惊慌失措的帝国男人，还坐着一个头发被剪的格外凌乱的小女孩儿，明白了为什么下属们的反应显得有些迟钝。\n\n    白玉兰提起怀中的ｋ旧远程步枪，面无表情地站了起来，在装甲车上方做了一个标准的半蹲射击动作，未作任何预警，直接抠动了扳机。\n\n    一声清脆的枪响，子弹准确",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "”\n\n    “梅花队形散开！”\n\n    “后撤至下午三点方向！”\n\n    “有机甲！有帝国机甲出现！”\n\n    尖锐刺耳的呼叫声在指挥系统内此起彼伏，在安静的街道上忽然遇到如此大规模的伏击，纵使是训练有素的新十七师官兵，也不免显得有些惊慌，没有被碾压在建筑废墟之中的装甲车轰鸣着高速后退，数十",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "兵，也不免显得有些惊慌，没有被碾压在建筑废墟之中的装甲车轰鸣着高速后退，数十名戴着头盔的联邦战士提着沉重的枪械快速地散入街道两侧。\n\n    几乎瞬间，街道两侧的楼上不知道探出了多少枝枪，开始愤怒地向着楼下的联邦士兵喷射着子弹。借助地面巨大水泥块遮掩身体的联邦士兵们匆忙地进行着还击，余光里却看到一抹",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "联邦战士们被这突然的枪声震的身体微颤，虽然内心深处对于长官过于敏感的神经有些不可思议，还有些担心那辆车中惊恐的小女孩儿，但没有任何人敢提出任何不满。\n\n    “米梅上士，上前查看情况，注意保持安全距离。”白玉兰收回则泣程步枪，重新坐回车头，冷漠命令道。\n\n    随着这声命令，一辆联邦装甲",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "六级的时间写错了，她是十二岁就讨了嘀，呃……大概是因为我连四级都没过的原因，我对勒教授传到联邦的过级制度相当的不满而且善忘啊，夜里才回来，下章至少三点钟以后，等不及的诸位先睡吧。）\n\n    手指没有挑起额前的头发，白玉兰微微一怔，马上把注意力转了回来，面无表情地看着那台歪歪扭扭冲过来的车辆。他率领",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "为我连四级都没过的原因，我对勒教授传到联邦的过级制度相当的不满而且善忘啊，夜里才回来，下章至少三点钟以后，等不及的诸位先睡吧。）\n\n    手指没有挑起额前的头发，白玉兰微微一怔，马上把注意力转了回来，面无表情地看着那台歪歪扭扭冲过来的车辆。他率领的这支混编机甲小队护送着那几辆多轴重装载车，要在昏沉",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "甲车上的米梅上士以及三名联邦士兵也肯定没有办法生存下来。\n\n    紧接着更大的危险降临此时，只听得无数连绵而至的爆炸声，在街道的两侧骤然响起，被联邦武器毁坏将塌的两幢高层建筑里，骤然喷出无数烟尘，令人感到无比寒冷的剧大金属水泥摩擦声中，这两幢高层建筑轰然倒塌。\n\n    无数万吨的水泥钢筋倾泻而下",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "甲身影，脸上没有任何慌乱之色，就连与基地通话的声音都还是那般冷静，街道四周密集响起的枪声，似乎并没有进入他的耳朵，一旦进入战场这种特殊的区域，这名联邦部队优秀的军人，总能展现出最专业的一面。\n\n    “熊临泉，压住这台破烂的左趋线路。”\n\n    他望着那台破烂不堪，并犹自喷叶着狂暴弹雨的帝国机甲",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "方向！”\n\n    “有机甲！有帝国机甲出现！”\n\n    尖锐刺耳的呼叫声在指挥系统内此起彼伏，在安静的街道上忽然遇到如此大规模的伏击，纵使是训练有素的新十七师官兵，也不免显得有些惊慌，没有被碾压在建筑废墟之中的装甲车轰鸣着高速后退，数十名戴着头盔的联邦战士提着沉重的枪械快速地散入街道两侧。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

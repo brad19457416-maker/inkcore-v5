@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 390,
+  "chapter_title": "第五十六章 于刀从中（上）",
+  "filename": "ch_0390_第五十六章 于刀从中（上）.txt",
+  "char_count": 3919,
+  "timestamp": "2026-04-10T12:04:59.240303",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第五十六章 于刀从中（上） \n\n    下个不停，冷风儿吹，尤其是在首都斗角机场的停:风秋雨更是愁煞死个人，从人们的外衣袖口往里灌着，瞬间便能冷却人们归家的热切心情和身体。\n\n    坐在自行转运快线列车中的旅客们，看着停机坪上行走的一大一小两个身影，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "的庇护出门游玩，如果身边没有这么安全方面的专家，他还真无法放心，哪怕钟夫人在电话里说，保护小女孩的安全力量也会跟着来首都。\n\n    “喊李叔。”推开公寓的门，许乐指着沙发上的李维，对钟烟花说道。\n\n    钟烟花看了沙发上那个男人一眼，嗯了一声，唤道：“李叔。”\n\n    这声叔叔并没有太多恭敬亲",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "家的热切心情和身体。\n\n    坐在自行转运快线列车中的旅客们，看着停机坪上行走的一大一小两个身影，心想这般寒冷的天气，难道他们想走回大楼？最开始的时候，旅客们以为这是一对父女，可是看着那名军官年轻的面孔，只好****了这个结论，不禁觉得十分奇怪。\n\n    凄冷的秋雨不停下着，寒风横横地刮了过来。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "吃过葱油饼还能接受，没看过盗版……他生出给那位太子爷打电话的冲动，想询问一下他在被白琪姑娘破身之前，究竟有没有看过色情片。\n\n    初秋节只有这么几天，许乐很想让小西瓜过的开心一些，自然不可能让她天天呆在家里看盗版，思来想去，竟想不出带小女孩去哪里玩，忽然间想到自己少的可怜的朋友当中，好像就是西山",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "下个不停，冷风儿吹，尤其是在首都斗角机场的停:风秋雨更是愁煞死个人，从人们的外衣袖口往里灌着，瞬间便能冷却人们归家的热切心情和身体。\n\n    坐在自行转运快线列车中的旅客们，看着停机坪上行走的一大一小两个身影，心想这般寒冷的天气，难道他们想走回大楼？最开始的时候，旅客们以为这是一对父女，可是",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "“你趁早把那点斑点狗给我拖回去宰了，趁我还没有喊卫兵把他枪杀之前。”电话一通，邹郁姑娘寒冷到了极点，愤怒到了极点的声音便喷了出来，直接把许乐的耳朵震的有些发麻。\n\n    他愕然地拿着手机，花了两秒钟的时间才想明白，斑点狗……想必是说公子那个花货，这一天多时间没见到他的人影儿，难道他跑到了西山大院？",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "辆黑色的汽车上走了下来，将两个人迎到了车上，自己却坐上了后方那辆墨绿色的军车。\n\n    黑车里十分温暖外界的冷雨风全部隔绝在外乐取出一条毛巾在暖风口前温了温，然后覆在钟烟花的小脑袋上胡乱地擦了擦，本想解释一下后面那辆军车和七组那些汉子的身份，但看着小家伙骨碌骨碌直转的眼眸乎对这些事情并不怎么感兴趣",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "个人，主要是交待兰晓龙。他并不适应七组这群汉子像保镖般天天跟着自己，但今天要带小西瓜回家，钟家小千金第一次远离父母的庇护出门游玩，如果身边没有这么安全方面的专家，他还真无法放心，哪怕钟夫人在电话里说，保护小女孩的安全力量也会跟着来首都。\n\n    “喊李叔。”推开公寓的门，许乐指着沙发上的李维，对钟",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "于刀从中（上） \n\n    下个不停，冷风儿吹，尤其是在首都斗角机场的停:风秋雨更是愁煞死个人，从人们的外衣袖口往里灌着，瞬间便能冷却人们归家的热切心情和身体。\n\n    坐在自行转运快线列车中的旅客们，看着停机坪上行走的一大一小两个身影，心想这般寒冷的天气，难道他们想走回大楼？最开始的时候，旅客",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "算字数：这章有趣多了。写上章的时候，一直在听杨乃文的一个人，结果写的依然不行，因为心情比较乱，时间太紧张，白天在忙着处理事务，然后买票之类的杂事。\n\n    大家其实应该都能瞅出来，我最近这些天的状态真的不错，只是很抱歉地通知大家，这个状态维系不下去了，因为明天就要离开大庆，踏上奔波的路程。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "，头顶微湿的整齐黑发也一跳一跳，就像这孩子此时雀跃的心情。\n\n    许乐终于反应了过来，放了脚步，同时把黑伞往那边再倾了倾，大小二人一路并未有太多的交谈，只是这样沉默安静地走着，别有一份默契与美妙的节奏感，就像三年前在太空飞船三十二区里那样。\n\n    并没有走多，兰晓龙少校从那辆黑色的汽车上走了",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "地刮了过来。\n\n    风雨中，许乐左手撑着大黑伞，右手牵着钟家小千金的手，向停机坪的侧方走去。因为担心小女孩淋着雨，他把大部分的伞面都倾向了右方，左半边身子早已打湿，深青色的军装如被墨汁漆涂了一般。\n\n    小女孩儿左手紧紧抓着他的手，右手环抱着那个旧娃娃，沉默不语跟着许乐快步向前碎碎走着，虽然",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "可能答应让她跟着许乐离开？\n\n    “这下你满足了吧？”许乐将白毛巾扔到后排。无可奈何地望着小女孩说道。\n\n    钟烟花如同墨漆般地眼眸向上看了看乎在思考。然后用力地点了点头直可爱地小鼻子里憋出嗯这个单字。\n\n    她用力地揉了揉头发。格格笑着向四周甩了甩。就像一个刚从雨天回到家里地小狗狗般。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "察出对方肯定不是一个乡下丫头。\n\n    钟烟花并没像许乐以为的那样——好奇地在各个房间内奔跑，欣赏社会下层人民朴素而真切的小幸福，然后陶醉其中，大笑着扑到沙发上拼命蹦跳——那是电视剧里面的小女生会做的事情，很明显这位小千金没有这种无聊的爱好，她只是安静地在客厅里转了一圈，目光里带着一丝审慎，一丝好",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "总听他们说盗版，可我一次都没看过！”\n\n    她怀抱着那一摞盗版光盘转过身来，说道：“许乐哥哥，我从来没有看过盗版，联邦电视台又不做我最喜欢的全金属狂潮光盘，所以我每次只能看重播那个台的广告太多了……”\n\n    她天真望着许无比认真地疑惑问道：“听说盗版没有广告，是不是真的？”\n\n    “呃…",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "家这一代只有小西瓜一个继承人。她在首都星圈一直接受着无以复加地严密看护钟夫人怎么可能答应让她跟着许乐离开？\n\n    “这下你满足了吧？”许乐将白毛巾扔到后排。无可奈何地望着小女孩说道。\n\n    钟烟花如同墨漆般地眼眸向上看了看乎在思考。然后用力地点了点头直可爱地小鼻子里憋出嗯这个单字。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "许乐终于反应了过来，放了脚步，同时把黑伞往那边再倾了倾，大小二人一路并未有太多的交谈，只是这样沉默安静地走着，别有一份默契与美妙的节奏感，就像三年前在太空飞船三十二区里那样。\n\n    并没有走多，兰晓龙少校从那辆黑色的汽车上走了下来，将两个人迎到了车上，自己却坐上了后方那辆墨绿色的军车。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

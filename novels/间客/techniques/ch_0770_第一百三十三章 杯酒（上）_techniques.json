@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 770,
+  "chapter_title": "第一百三十三章 杯酒（上）",
+  "filename": "ch_0770_第一百三十三章 杯酒（上）.txt",
+  "char_count": 3754,
+  "timestamp": "2026-04-10T12:05:17.578594",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百三十三章 杯酒（上） \n\n    施清海脱下清洁工制服，从背包里取出墨绿色的军用风衣穿上，然后开始往皮带标准系扣上面挂枪，各式各样的枪丅械，整齐排列于风衣内侧，泛着幽幽的光，就像是厉害大厨备好的系列锋利刀具。\n\n    吹着幽幽的口哨，他走到水池前痛快地洗了一把脸，将汗水和血水全",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "施清海微笑着走上主席台，缓缓解开墨绿色军风衣的第一颗扣子，在特勤局特工和议会工作人员们反应过来之前，说道：“我知道西门崖上校在哪里。”\n\n    说这句话的时候，他的左手轻轻放在那本极大极厚的大宪章上，目光平静望着台下众人，微抿着的嘴唇上，红遮不住那惊心动魄的紫。\n\n    工作人员走到他的身旁，压",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "将你们击毙。”\n\n    庄严肃穆无比空旷的议会大厅里回荡着施公子平静的声音，人们面面相觑，无法理解究竟生了什么，大概也没有几个人还记得第一宪章深处还隐藏着什么公民逮捕权。\n\n    人们的第一反应是荒谬，这件事情太荒谬子，台上那个英俊而严肃的军官大脑是不走出了什么问题？\n\n    拜伦副总统在特勤",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "痴语。\n\n    一位议员愤怒地指着施清海，厉声地呵斥着什么。\n\n    施清海微微眯眼，耳膜在这一瞬间似乎失去了任何生理作用，只能看到议员先生的嘴在不停的变形，里面明显经常被洗的烟牙，残留着恶心的垢。\n\n    他从墨绿色的军风衣里取出近柄微型冲锦枪，向那边抠动了扳机，嗒嗒嗒嗒脆脆的有些不真实的枪",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "建筑师，大概正是因为讨厌联邦不停开会，每次开会议员都要热情鼓掌的关系，所以刻意把夹厅设计的和音学原理冲突的厉害？\n\n    施清海一面想着这些无聊的思维延伸问题，一面安静注视着台上那些联邦大人物，令他感到疑惑不解和淡淡失望的是，杜少卿并没有亲自来到授勋仪式现场。\n\n    仪式进行到最后阶段，慈眉善",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "崖上校在哪里。”\n\n    说这句话的时候，他的左手轻轻放在那本极大极厚的大宪章上，目光平静望着台下众人，微抿着的嘴唇上，红遮不住那惊心动魄的紫。\n\n    工作人员走到他的身旁，压低声音说道：“军官先生，这里是授勋仪式，全联邦现场直播，请你先下去，我不想出动安全人员。”\n\n    施清海轻轻咳了两",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "聊的思维延伸问题，一面安静注视着台上那些联邦大人物，令他感到疑惑不解和淡淡失望的是，杜少卿并没有亲自来到授勋仪式现场。\n\n    仪式进行到最后阶段，慈眉善目的拜伦副总统在特勤局特工和议员们的陪伴下，走下了主席台。\n\n    所有熟悉铁七师最高阶指挥层的人都清楚，能够有资格让联邦副总统亲自佩戴勋章的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "确实没有人反抗施清海的逮捕，因为他们都觉得所谓公民逮捕只是一个疯子的痴语。\n\n    一位议员愤怒地指着施清海，厉声地呵斥着什么。\n\n    施清海微微眯眼，耳膜在这一瞬间似乎失去了任何生理作用，只能看到议员先生的嘴在不停的变形，里面明显经常被洗的烟牙，残留着恶心的垢。\n\n    他从墨绿色的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "间插了朵小红花的媚丽女子正冷冷地看着自己。\n\n    邹郁 现在是国防部某政策研习室的副主任科员，她出现在军方组织的授勋仪式上并不奇怪，尤其是邹应星部长因为要主持一号中转基地的调姿测试，而不能亲自出席授勋仪式，那么她的到来至少在某种程度上可以舒解一些情绪。\n\n    邹郁 并不知道这段时间施清海曾经",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "但世界上总不是所有事儿都能被政客们唬弄过去，至少今天不行。\n\n    清楚有力的脚步声响了起来，沉重的军靴在贵重的沉木阶梯上碾压而过，施清海微笑着走上主席台，缓缓解开墨绿色军风衣的第一颗扣子，在特勤局特工和议会工作人员们反应过来之前，说道：“我知道西门崖上校在哪里。”\n\n    说这句话的时候，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "清楚有力的脚步声响了起来，沉重的军靴在贵重的沉木阶梯上碾压而过，施清海微笑着走上主席台，缓缓解开墨绿色军风衣的第一颗扣子，在特勤局特工和议会工作人员们反应过来之前，说道：“我知道西门崖上校在哪里。”\n\n    说这句话的时候，他的左手轻轻放在那本极大极厚的大宪章上，目光平静望着台下众人，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "息，但肯定没有资格接受联邦嘉奖。\n\n    杜少卿根本没有来，对于这位冰雪将军而言，大概都特区的一切温暖庆典都令他感到厌憎和难受。\n\n    故此，铁七师最高指挥阶层只剩下西门谨上校一人做为代表。\n\n    这时候根本没有人知道他已经被金属丝捆绑成小便池上，扮演着流血的悲伤小丑，已经奄奄一息，随时都",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

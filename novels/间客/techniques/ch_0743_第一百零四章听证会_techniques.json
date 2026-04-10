@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 743,
+  "chapter_title": "第一百零四章听证会",
+  "filename": "ch_0743_第一百零四章听证会.txt",
+  "char_count": 3471,
+  "timestamp": "2026-04-10T12:05:17.608565",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "很多，那时候他不知道有哪些人在镜后观察自己，但心里已经做好了准备，或许在很多人看来，这是他面临的最大危机，但对于在帝国逃亡了一年的他来说。这种艰难实在不值一提。\n\n    所以当他看到多年未见的小强后，微微一怔便接受了当前的局面，微笑看着那张记忆中的青稚的脸，没有说嗨，只说好久不见。\n\n    似乎",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "说封余和自己，就连联邦中央电脑都做不到。更何况军神老爷子和部夫人早就知晓了自己的身份，那么这个所谓的秘密，总有一天会不再是秘密。当年在东林时，那个葬墨镜的莱克上校也见过自己的真实面目。\n\n    许乐望着窗外的白雪，眯着眼睛想了很多很多，那时候他不知道有哪些人在镜后观察自己，但心里已经做好了准备，或",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，只说好久不见。\n\n    似乎还是那两个在东林街上厮混的孤儿，一人曾去一人家里蹭饭，一人曾看另一人雨夜杀人，总之是曾经一起厮混过，只是简单一句好久不见，仿佛中间小强并没有去少管所住过一年，而许乐更没有经过那些光怪陆离刺激非凡的人生。\n\n    可惜联邦调查局不会给许乐任何感慨喝叹的机会，总四科主任",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "让对方真的抓住自己最大的把柄，大概也不会令许乐太过吃惊，毕竟正如那位总四科主任讲的那样，世界上根本不存在完美的谎言，不要说封余和自己，就连联邦中央电脑都做不到。更何况军神老爷子和部夫人早就知晓了自己的身份，那么这个所谓的秘密，总有一天会不再是秘密。当年在东林时，那个葬墨镜的莱克上校也见过自己的真实面",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，联邦调查局总四科主任站在窗边沉默了很长时间，点燃一根香烟颤巍巍地深吸几口，扶着额头，带着无尽的满足说道：“我只担心联邦的民众一时间不能承受。”\n\n    “我不明白你在说什么。”许乐微眯着眼睛，望着杯中残冷的咖啡怔，不知道在想些什么内容。\n\n    “你已经承认了。”总四科主任愤怒地冲到他的面前，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "少管所住过一年，而许乐更没有经过那些光怪陆离刺激非凡的人生。\n\n    可惜联邦调查局不会给许乐任何感慨喝叹的机会，总四科主任有些惊愕地看着这幅画面，大抵连他自己怎样都没有想到，许乐居然就这样认了某事。\n\n    “从联邦英雄成为通缉犯，这样的落差，不知道你能不能承受得了。”\n\n    将那些远自东",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "依据联邦相关安全条例，在战争时期。联邦总统与副总统之间，必须隔离出足够的安全距离，今天这场突然召开的闭门听证会上，副总统拜伦如以往那样，从不轻易表意见，但今天他的沉默，却让很多已经猜到什么的人们，感到了有些寒冷。\n\n    在经过了一番对莱克上校的质询之后，内部听证会暂时告一段落，联邦管理",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "许乐微眯着眼睛，望着杯中残冷的咖啡怔，不知道在想些什么内容。\n\n    “你已经承认了。”总四科主任愤怒地冲到他的面前，大声吼道：“你是东林孤儿许乐！而不是你伪造的那个身份！”\n\n    “我没有承认过任何东西。”许乐望着他，平静说道：“我就是我，我不明白你们这场可笑的调查究竟有什么目的。”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "名举报，不得不进行调查，至于司法部方面”总统先生，许乐上校获得过两枚最高勋章，拥有相关的豁免权，如果进入司法程序，必须由您或者议会录夺他的豁免权。”\n\n    “实名举报？”\n\n    “是的，总统先生\n\n    沉默了很长时间的国家安全顾问，忽然微笑着回答道：“有一位当年亲自前往东林大区，参与了捉",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "没有人可以蒙混过关。”\n\n    “宪章局方面”拒绝就此事提供任何意见。”\n\n    联邦调查局局长紧张地看了一眼最前方的总统先生和一众阁员，擦拭掉额头上的汗水，说道：“根据郜局长的电子回叭，也给出的理由是一一许乐卜校拥有的权限。禁止室章局吼泄州汗内部审查\n\n    坐在第二排的崔聚冬忽然打破沉默，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "了联邦的安全，这个勇敢的西林军官不惜冒着民众的敌视和危险，站出来进行实名指证\n\n    会议室的门被缓缓推开，莱克上校走了进来，这位钟老虎最信任的下属，西林军区特种机甲大队长官，在接下那幅墨镜之后，一脸漠然。\n\n    经过最简单的自我介绍，莱克上校略一停顿，双手负在身后，开始向房间内的大人物们，描",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "有任何关系。”\n\n    听到这句话，尤其是了解到宪章局清晰的态度，参加此次特殊闭门听证会的大人物们同时陷入了沉默，因为他们没有理由去质疑联邦中央电脑的判断，可为什么”联邦调查局会查到那么多对许乐不利的证据，尤其是那些钟楼大街上的人们，为什么会坚持认为如今的联邦英雄许乐，就是当年的孤儿许乐？",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "总四科主任站在窗边沉默了很长时间，点燃一根香烟颤巍巍地深吸几口，扶着额头，带着无尽的满足说道：“我只担心联邦的民众一时间不能承受。”\n\n    “我不明白你在说什么。”许乐微眯着眼睛，望着杯中残冷的咖啡怔，不知道在想些什么内容。\n\n    “你已经承认了。”总四科主任愤怒地冲到他的面前，大声吼道：“",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "第一百零四章听证会 \n\n    宝里是地处引北半球的联邦调杳局冬季练营地。窗外飘一雪花，人们可以站在温暖的室内欣赏到外界严寒而致的冰晶世界。\n\n    许乐被联邦调查局传唤调查仅仅过去一天，他捧着热咖啡，却已经有些看腻了那些冬雪，对方通过合法的程序暂时阻止他见律师，按道理在同步协调的国防部却一直没有",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第一百零四章听证会 \n\n    宝里是地处引北半球的联邦调杳局冬季练营地。窗外飘一雪花，人们可以站在温暖的室内欣赏到外界严寒而致的冰晶世界。\n\n    许乐被联邦调查局传唤调查仅仅过去一天，他捧着热咖啡，却已经有些看腻了那些冬雪，对方通过合法的程序暂时阻止他见律师，按道理在同步协调的国防",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

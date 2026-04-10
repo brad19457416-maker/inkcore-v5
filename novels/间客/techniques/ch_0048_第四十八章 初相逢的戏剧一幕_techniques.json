@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 48,
+  "chapter_title": "第四十八章 初相逢的戏剧一幕",
+  "filename": "ch_0048_第四十八章 初相逢的戏剧一幕.txt",
+  "char_count": 3511,
+  "timestamp": "2026-04-10T11:53:11.049264",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "干很香，二人的身前全部是那种诱人的谷香。许乐目瞪口呆地看着身旁的女孩儿，觉得这画面太荒谬了，这女孩儿为什么要吃自己的饼干，而且吃的如此理所当然？下意识里，当女孩儿的手指离开饼干袋后，许乐赶紧伸手进去拿了一块饼干放进了嘴里，就像是生怕自己吃亏一样。\n\n    女孩儿低着头，正聚精会神的看着一本杂志，只",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "地心中生出一丝恼火。\n\n    很明显那个女孩儿没有这种自觉，看都没有看许乐一眼，只是快速地、光明正大地偷着饼干，嚼的卟哧卟哧，毫不客气。许乐目瞪口呆之余，也赶紧伸手去拿饼干，不然如果都让这个抢拼干的姑娘抢走了，他还能吃什么？那岂不是亏大了？于是乎随着大巴在公路上的行进震动，坐在大巴后排的这一对年轻",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "？难道只是说议员知道自己有些想家的原因？\n\n    一想到自己那个充满了陈腐气的家庭，张小萌的表情又压抑了起来，为了完成组织交付的任务，看来自己必须扮演一个迷途知返的羔羊，这真是令人痛苦的事情。\n\n    ……\n\n    ……\n\n    坐在舒适的座位上，张小萌整理了一下垂在黑框眼镜旁的发丝，下意识",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，那名女孩儿居然又将手伸进了饼干口袋里开始拿饼干，而且是一块接一块。许乐很喜欢吃小狗饼干，而且这是他第一次吃小狗饼干，心里其实很有些珍惜，虽然他不会将一袋饼干看的如何之重，只是他总觉得，即便你要吃我的饼干，是不是也得先和主人说一声？征询一下自己的同意？难以避免地心中生出一丝恼火。\n\n    很明显那",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "。\n\n    低头的女生戴着黑框的眼镜，看上去真的蛮清纯的，尤其是从许乐这个角度望过去。他挠了挠头，心想这样清纯的一个女生，偷吃我的饼干，怎么对我还这么凶？毕竟他是一个从偏远地区来的少年，面对异性的时候，总是有些拘谨，只是在心里叹了口气，也没有说什么。\n\n    戴黑框眼镜的女生每拿一块饼干，许乐也",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "堆出和善的微笑，带着一线拘谨，将一半递到了女孩儿的面前。\n\n    女孩儿抬起头来，有些意外，又有些愤怒地瞪了他一眼，像小猫抢食一样，抢过了饼干一口吞下，却险些噎着了。许乐一边嚼着最后半块饼干，一边傻傻地看着她，心想着什么急？难道饿成这样呢？本想将自己的水递给她喝，却又担心这性情古怪的女孩子嫌弃自己",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的目的地是大学城，大学城位于首都星圈s1行政星球的北纬区域，航班还有半个小时才到，她注意了一下四周的人群，强行平静了心情，提着随时的小包进入了洗手间，随手按响了冲水马桶。在哗啦啦的水声中，她将黑框眼镜上的按钮摁了下去，本来空无一物的玻璃表面上，顿时出现了几排字符，这些信息经由遍布整个星球的无线网络，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "我一样……小眼睛，果然都不是好东西。”张小萌将沉重的行李放到传输带上，忍不住低声地抱怨。\n\n    进入候机厅，张小萌取下黑框的眼镜认真地擦拭了起来，似乎想要借助这个动作发泄自己的怒气，她怎么也没有想到，世界上有那样的男人，明目张胆地偷吃自己从小最喜欢的小狗饼干。\n\n    她此行的目的地是大学城，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "了一张清丽的面容。两个人的眼光对上，许乐温和地笑了笑，谁知道那女孩儿清纯的眼眸里闪过一丝厌恶的神色，马上低下头去，重新看起了杂志，片刻后，她似乎觉得这样还不足以表达自己拒人千里的态度，从随身的皮包中取出一副黑框的眼镜戴在了鼻梁上，隔绝了许乐莫名其妙的眼光。\n\n    低头的女生戴着黑框的眼镜，看上去",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "稍微有些尴尬，或者说，他担心那个女孩儿尴尬，所以他没有和对方开口说话，甚至连眼光都极注意，没有转向她那一边。\n\n    大巴在积雪的道路上缓慢前行，绕向了郊区外的高架路，向着首都西北方的普通机场行去。有一株伸向道路内侧的雪松擦过了大巴车的玻璃窗，发出的响声，让车上昏昏欲睡的人们都醒了过来。许乐身边的",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "戴着帽子的长发女孩儿行为有些荒唐古怪，他也不准备再计较什么了，只是觉得这场面稍微有些尴尬，或者说，他担心那个女孩儿尴尬，所以他没有和对方开口说话，甚至连眼光都极注意，没有转向她那一边。\n\n    大巴在积雪的道路上缓慢前行，绕向了郊区外的高架路，向着首都西北方的普通机场行去。有一株伸向道路内侧的雪松",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "而且那张卡里的钱实在是有些多，少年心性还是让他冒险买了张头等舱的票。他望着面前半蹲着身体的空姐，关心说道：“您别总蹲着了，会累的。”\n\n    空姐由内而外开心起来，赠送了一个免费的妩媚笑容。许乐被丽光射的心慌，赶紧哆嗦问道：“请问……到大学城要多长时间？ ＷＷw.xiＡosＨuotxt.ＣＯＭ",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "!\n\n    如果这袋饼干是自己的，那先前大巴上那袋饼干？自己吃了别人的饼干？自己错怪了他，他却一直安静地与自己分享属于他的东西……\n\n    张小萌站起身来，四处寻找那个小眼睛男生的踪影，试图想要道歉。然而首都机场有多少航班，那个男生怎么可能这么巧地出现在这架飞机上？她有些不知所以地坐了下来，后悔",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "嘴唇和白净的面部肌肤，许乐愣了愣，觉得自己的注视或许会让对方尴尬，便转过头去。\n\n    风雪之中，温暖和春的大巴开动了起来，令许乐感到意外的是，那名女孩儿居然又将手伸进了饼干口袋里开始拿饼干，而且是一块接一块。许乐很喜欢吃小狗饼干，而且这是他第一次吃小狗饼干，心里其实很有些珍惜，虽然他不会将一袋饼",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

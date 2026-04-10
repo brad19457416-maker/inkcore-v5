@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 962,
+  "chapter_title": "第一百三十五章 天要劈你",
+  "filename": "ch_0962_第一百三十五章 天要劈你.txt",
+  "char_count": 3335,
+  "timestamp": "2026-04-10T12:11:27.605428",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "里面有个人，他想出来。”\n　　没有什么能够瞒过昊天的眼睛，但她也不知道宁缺的身上究竟发生了什么事情，为什么他的脑袋里有人在拿斧子不停地砍，就算能够解释这个问题，那又如何解释天穹上落下的无形巨斧？\n　　宁缺走到窗边，看着灰暗的天空，声音微颤说道：“那天为什么要劈我？”\n　　桑桑想了想，说道：“大概是因",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "没有体会过如此可怕的痛苦，甚至觉得，比当年在荒原上被马贼抓住严刑逼供还要难熬无数倍，脑袋里那把斧子与天空里那把无形的巨斧不停地落下，仿佛永远不会停止，令人绝望无比。\n　　到后来，他的身体甚至开始抽搐，眼神开始焕散，就连双唇的颜色都已经变成不吉的灰暗，真的和死人没有太多差别。\n　　不知道过了多长时间，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "空，又响起一道如雷般钟声。\n　　那把无形的巨斧，从高远的天穹上落下，直接砍在了他的身上。\n　　在这一瞬间，他觉得自己的身体仿佛被劈成了两半，心脏也被劈成了两半。\n　　他虽然咬着嘴唇，也无法阻止一声极凄惨的痛嚎从唇间迸将出去。\n　　他痛苦地倒在了地上不停吐血，身体不停扭曲，就像是被塞进热锅里的泥鳅，地",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "？”\n　　桑桑看着窗外的天空，说道：“也许是那个我，看不惯你这样对我。”\n　　宁缺想着昨夜那种痛苦，愤怒喊道：“我娶你当媳妇儿，还要被你的孪生兄弟姐妹管？还有没有天理？”\n　　桑桑神情不变，说道：“我们的道理就是天理啊。”\n　　宁缺觉得这种说法有些蛮不讲理，也不知道她的道理到底有没有道理，反正他决定",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "喝道：“你再不住手，我就灭了你！”\n　　莲生的意识碎片在他的识海深处，已经静静躺了很多年，当宁缺遇着危险的时候，才会偶尔明亮，给予他指示。\n　　虽然莲生的意识非常强大，倒是毕竟是死后留下的残余，宁缺相信以自己的念力强度，绝对可以将其镇压。\n　　影子依然没有理会他，显得很是轻蔑。\n　　因为痛苦，宁缺的",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "“莲生！你到底要做什么！”\n　　他看着墙上的影子，愤怒地喊道。\n　　墙上的影子没有回答他，依然在拼命地挣扎，对着天空不停地痛骂，不停地击打，于是那把斧子依然在不停地砍着他的脑袋。\n　　宁缺强忍着痛苦，紧紧咬着嘴唇，颤抖而嘶哑的声音，从齿缝里渗出来，显得格外惨厉，喝道：“你再不住手，我就灭了你！”",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "没有人拿斧头在砍自己，但痛苦的余威还在。\n　　桑桑睁开眼睛，静静看着他看了很长时间，忽然指着他的脑袋说道：“你那里面有个人，他想出来。”\n　　没有什么能够瞒过昊天的眼睛，但她也不知道宁缺的身上究竟发生了什么事情，为什么他的脑袋里有人在拿斧子不停地砍，就算能够解释这个问题，那又如何解释天穹上落下的无形",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "喊道：“我娶你当媳妇儿，还要被你的孪生兄弟姐妹管？还有没有天理？”\n　　桑桑神情不变，说道：“我们的道理就是天理啊。”\n　　宁缺觉得这种说法有些蛮不讲理，也不知道她的道理到底有没有道理，反正他决定今天不去白塔寺――虽然他很想知道墙上那道影子是怎么回事，更想知道为什么脑袋里和天上都有斧子要劈自己，但他",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "经，当暮色渐至时，他点燃了桌上的蜡烛，点火的时候，他的手有些颤抖，所以火苗也有些微摇。\n　　影子重新出现在墙上，最开始的时候，因为烛火轻摇的缘故，有些发虚，然后只用了很短的时间，便变得清楚起来。\n　　宁缺站起身来，只是这个简单的动作，便仿佛耗去了他所有的力气，以至于向墙壁走去时，脚步显得有些发虚。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "天光大作，他竟昏迷了整整一夜时间，好在钟声停了，斧子也停了。\n　　他擦掉唇角的血渍，艰难地走出禅房，来到湖畔。\n　　青板僧正在湖畔，看着他苍白的脸色和身上的血迹，有些吃惊，愣愣说道：“师兄，你在禅房里念经还是杀生呢？”\n　　宁缺看着湛蓝的天空，问道：“你有没有听到钟声？”\n　　青板僧神情惘然，说道：",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，钟声却开始回荡，他甚至有些分辨不清，这钟声究竟来自于佛殿，还是响起于自己的心底。\n　　宁缺的神情很紧张，他记得前夜钟声起后，便有异变发生。\n　　今夜果然也如此，那道钟声仿佛是劫难开始的信号，本来有极强清心宁神效用的钟声，却让墙上的影子变得疯狂起来。\n　　影子不再盘膝，站起身开始对着天空挥舞手臂，不",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "以他只能抱着脑袋，痛苦地浑身颤抖，汗出如浆，唇角不停向外淌着鲜血，涕泪横流，衣襟早已被打湿。\n　　他从来没有体会过如此可怕的痛苦，甚至觉得，比当年在荒原上被马贼抓住严刑逼供还要难熬无数倍，脑袋里那把斧子与天空里那把无形的巨斧不停地落下，仿佛永远不会停止，令人绝望无比。\n　　到后来，他的身体甚至开始抽",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "早已被打湿。\n　　他从来没有体会过如此可怕的痛苦，甚至觉得，比当年在荒原上被马贼抓住严刑逼供还要难熬无数倍，脑袋里那把斧子与天空里那把无形的巨斧不停地落下，仿佛永远不会停止，令人绝望无比。\n　　到后来，他的身体甚至开始抽搐，眼神开始焕散，就连双唇的颜色都已经变成不吉的灰暗，真的和死人没有太多差别。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

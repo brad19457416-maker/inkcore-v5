@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 557,
+  "chapter_title": "第六十四章 警兆",
+  "filename": "ch_0557_第六十四章 警兆.txt",
+  "char_count": 3202,
+  "timestamp": "2026-04-10T12:11:26.642296",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "无奈沉默，书院已然在这场对峙中获得了极大的荣耀，而在局势已定的前提下，宁缺这几句极为骄傲的质问，毫无疑问会让悬空寺甚至整个佛宗都感到赤裸裸的羞辱。\n　　唐人拥有宁折不屈的性情，不害怕品尝失败的苦酒，也不会吝于享受胜利所带来的骄傲，这种特有的性格，让唐人在战场或外交场合上，时常让对手觉得咄咄逼人，甚至",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "但他绝对不会追求胜利所带来的虚荣感，在确定胜利之后，他更不会为了展现自己的风采而去做可能会给自己带来危险的举动。\n　　如果换作以前，哪怕是荒原上的他，面对一位来自悬空寺的高僧，在已经取得胜利，拿到好处后，他绝对不会说这些话来激怒对方。\n　　这说明随着成长，宁缺终究还是被剽悍的唐风和强大的书院渐渐改变",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "位佛宗高僧确实强大可怕，但按道理而言，今日应该已经不能对宁缺的瓦山一行构成任何障碍。\n　　但警兆依然存在，甚至越来越强烈，所以宁缺非常不安。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "宁缺不知道那份警兆是什么，但隐隐感知到，今天的瓦山之行必然将遇到很多麻烦，那么他不介意一开始便干掉最强的那个敌人。\n　　更关键的是，此事与桑桑求医治病的事情有关，又隐隐指向对面那方佛辇里，他想都不想，便要把那份警兆抹掉！\n　　现在这枝铁箭，蕴含着他最饱满的精神，最饥渴的杀机，他知道如果这一箭不发，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "发震惊，了解那一场发生在晨街包子铺前的决斗内幕的佛宗中人，脸上的神情非常复杂，曲妮玛娣更是脸色惨白，悲痛地仿佛要昏死过去。\n　　宁缺没有留意场间众人的反应，看着佛辇里的僧影继续说道：“所以我不明白，你虽然是悬空寺戒律院首座，但有什么底气当着我这个书院弟子的面大放厥词，又有什么资格来点评我书院的行事。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "羞辱。\n　　唐人拥有宁折不屈的性情，不害怕品尝失败的苦酒，也不会吝于享受胜利所带来的骄傲，这种特有的性格，让唐人在战场或外交场合上，时常让对手觉得咄咄逼人，甚至辛辣到有些粗野。\n　　至于书院后山，因为小师叔的缘故也因为二先生流传在野的某些威名，所以在修行界里的形象，向来也是骄傲到了点极。\n　　所以山",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第六十四章 警兆\n　　风拂青树，山涧无声，众人震惊无言，佛辇四周的帷布轻轻飘拂，隐约可以看见里面那位穿着僧衣的人影。\n　　那位悬空寺高僧始终保持着沉默，因为直到今日正面对那枝寒冷的铁箭，他才明白原来这箭比传闻中的更加可怕。\n　　弓弦把宁缺眼前",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第六十四章 警兆\n　　风拂青树，山涧无声，众人震惊无言，佛辇四周的帷布轻轻飘拂，隐约可以看见里面那位穿着僧衣的人影。\n　　那位悬空寺高僧始终保持着沉默，因为直到今日正面对那枝寒冷的铁箭，他才明白原来这箭比传闻中的更加可怕。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "隐忍，便越可怕。\n　　山涧旁幽静无比，有的修行者惊惧不安看着黑色马车上瞄准佛辇的宁缺，有的修行者神情紧张地看着那方佛辇，没有任何人敢发生丝毫声音，就连呼吸都刻意地放缓，生怕因为某些响动而导致那把铁弓的弓弦松开。\n　　场间的局面极为紧张，如果不想稍后书院和悬空寺血溅当场，便需要有人来打破黑色马车与佛辇",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的更加可怕。\n　　弓弦把宁缺眼前的世界分成了两面，他看着被眼前弦线切割开、被箭簇瞄准的佛辇中的僧影，说道：“在世人眼中，悬空寺是神圣的不可知之地，而且你们远在西荒极少入世所以愈发显得神秘，但你似乎忘了我来自书院，对我来说你们悬空寺并不怎么神秘。”\n　　“从一开始的时候，我就知道你来自悬空寺，然而那又",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

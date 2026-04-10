@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 105,
+  "chapter_title": "第一百零五章 牛群，后山，良方",
+  "filename": "ch_0105_第一百零五章 牛群，后山，良方.txt",
+  "char_count": 3615,
+  "timestamp": "2026-04-10T12:11:11.971016",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的酸辣面片汤里划弄着，片刻后迟疑说道：“没见过人，但……应该是个男人吧？”\n　　“不对。”\n　　想到第一次留言时那厮形容观书忘义时的下作淫亵比喻，他摇了摇头，斩钉截铁说道：“不是应该，那个家伙肯定是个男人，而且肯定是个很猥琐，在女人身上吃过非常多次亏的可怜猥琐男人。”\n　　“可怜和猥琐……”桑桑开始",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，两张纸，三张纸……\n　　陈皮皮看着纸上那些密密麻麻的小楷墨迹，眼睛瞪的越来越大，头皮觉得有些发麻，心想这是什么题目，居然写了满满三大篇字，下意识里从开头念了起来：\n　　“昊天的光辉洒遍世间，如牧牛人一般慈爱地关注着所有的生灵，如果你认为自己还算有几分聪明，可以尝试来计算一下昊天牧养的牛群数量。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "何体统！”\n　　众人都知道二师兄便是这等骄傲守礼方正的性情，平日面对他时甚至比对着夫子和大师兄时更要紧张些，幸亏早已听惯了这等陈词滥调，从耳朵里进去从鼻孔里出来，倒也不以为意，只是微笑装傻回应。\n　　陈皮皮没办法装傻，他有些难看地笑了笑，在二师兄严厉的目光中用最快速度把蓬乱的头皮整理好，又把身上皱巴",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "试就算你我双方打平，如果你不服气，我们以后可以再继续。”\n　　窗外春光正在最后的烂漫，稚蝉正在最初的拼命鸣叫，宁缺摇头轻笑，卷袖注水磨墨润笔拍砚，在纸上写下了上面那段话。\n　　……\n　　……\n　　第二日的夜间，马车离开书院，通过长安城南朱雀门，驶抵东城临四十七巷，停在了老笔斋之前，宁缺回身对车夫道了",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "学吗？男的还是女的？”\n　　宁缺看着小侍女的脸微微一怔，筷尖在温嘟嘟的酸辣面片汤里划弄着，片刻后迟疑说道：“没见过人，但……应该是个男人吧？”\n　　“不对。”\n　　想到第一次留言时那厮形容观书忘义时的下作淫亵比喻，他摇了摇头，斩钉截铁说道：“不是应该，那个家伙肯定是个男人，而且肯定是个很猥琐，在女人",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的法子，你明儿去药局抓药，然后回来自己整治，记着不要让外人瞧了去。”\n　　桑桑接了过来，蹙眉问道：“为什么不能让人看见？”\n　　宁缺想着旧书楼内给自己留言的那个家伙，忍不住笑了起来，说道：“如果我猜的不错，那个家伙应该是书院二层楼的学生，这药方肯定也是二层楼里的精妙秘方，你我既然偷偷占了那家伙好大一",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "……你不要顽皮了。”\n　　便在此时，一个人出现在书舍门口，屋内的笑闹声顿时嘎然而止，包括陈皮皮在内，众人迅速站起身来，恭谨长揖行礼，道：“见过二师兄。”\n　　只见这位被称做二师兄的人身材颀高，戴着一顶颇有古意的冠帽，身上穿着件普通的学院夏服，腰间却系着根金丝编织的缎带，剑眉英目，表情肃然方正，浑身上",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百零五章 牛群，后山，良方\n　　星光下的西窗畔案几上放着一张纸，两张纸，三张纸……\n　　陈皮皮看着纸上那些密密麻麻的小楷墨迹，眼睛瞪的越来越大，头皮觉得有些发麻，心想这是什么题目，居然写了满满三大篇字，下意识里从开头念",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "气，复又舔笔尖，开始计算，复又放弃，然后继续咬笔杆挠头揪发砸腿抿嘴唇儿倒吸冷气低声骂娘，直至夜深仍未离去。\n　　清晨的书院后山笼罩在淡淡的雾气中，石坪四周围着几圈疏透的篱笆，隐隐能够听到近处有鸡鸣啄食之声，石坪深处的学舍里偶尔会传来几句诵书问难之声。\n　　雾气渐开，陈皮皮挪着肥胖的身躯走了出来，瞪了",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "想用严肃隐藏绝对骄傲的二师兄居然也会用这种法子避战？想着二师兄平日里的严肃作派，便有人想要发笑，却是马上抬手捂嘴，生怕笑出声来让他听到了。\n　　陈皮皮看着二师兄渐渐远离的背影，表情更加难看，胖脸上一阵抽搐以至波浪起伏，追到门口处带着哭腔喊道：“师兄！你总得帮忙出点儿主意啊！”\n　　此时，那位二师兄缓",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "的答案吗？很简单，你先把你那道煎药题的答案告诉我，然后这一场比试就算你我双方打平，如果你不服气，我们以后可以再继续。”\n　　窗外春光正在最后的烂漫，稚蝉正在最初的拼命鸣叫，宁缺摇头轻笑，卷袖注水磨墨润笔拍砚，在纸上写下了上面那段话。\n　　……\n　　……\n　　第二日的夜间，马车离开书院，通过长安城南朱",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

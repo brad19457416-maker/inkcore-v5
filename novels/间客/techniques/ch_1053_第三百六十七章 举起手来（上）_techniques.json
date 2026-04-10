@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 1053,
+  "chapter_title": "第三百六十七章 举起手来（上）",
+  "filename": "ch_1053_第三百六十七章 举起手来（上）.txt",
+  "char_count": 3553,
+  "timestamp": "2026-04-10T12:05:26.902155",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "章 举起手来（上） \n\n    沉默啊沉默，邰点源没有继续暴发，他转头望向最开始提问的邮报记者，轻声说道：\n\n    “你刚才问要追究到什么地步？我的要求很简单：议会必须召开特别听证会调查古钟号爆炸事丵件，调查墨花星球七组事丵件，并且马上重新启动弹劾案，联邦政丵府所有涉嫌犯罪的官员必须接受审判。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "认为半年来联邦数桩重大事丵件的幕后隐藏着不可告人的阴谋，某些腐朽的反动家族，意图煽动盲目的民众，挑动危险阶层对立情绪，激化社会矛盾，从而进行强力的反扑以达到延续罪恶生命的目的。\n\n    整整三大版的报道内容，贯彻甚至发展了白天那位记者先生的隐指或者说影射，把矛头直接指向沉默行军，指向沉默的七大家，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "绝大多数警惕目光依然落在帕布尔总统和政丵府之上，有几家著名的自丵由派媒体大版面解读爱国者案废险的意义，同时转载了鲍勃主编对总统政论的简单回应，并且三年来难得尖锐地质问政丵府。\n\n    为什么废除爱国者案如此重要的新闻，联邦新闻频道只播放了一条短讯，而且没有任何视频内容？是不是说明政丵府在严重干",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "果那些控制社会资源的怯懦强者们，只会调用如你我一样弱者最后的唯一力量，来达到他们私人的目的，那么我们为什么要对他们宽容？”（注１）\n\n    总统先生的文笔依然强健动人，如同演讲台上的雄辩滔滔，然而在今日之联邦却已经无像当年那样，引起太多热烈的回响与声援。\n\n    看到这段文字若有所思的人不少，只",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "看来回应总统先生的陈词滥调，甚至没有处理家庭问题重要。”\n\n    伍德挥了挥看了一夜的论坛报特刊，感慨说道：“几十年来依靠民众狂热支持，从矿区孤儿成长为联邦总统的帕布尔先生，居然开始警惕狂热这种词语，这实在是一件令人感到嘲讽的事情。”\n\n    “历史总是容易令活的够久的当事者感到荒唐。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "事丵件的幕后隐藏着不可告人的阴谋，某些腐朽的反动家族，意图煽动盲目的民众，挑动危险阶层对立情绪，激化社会矛盾，从而进行强力的反扑以达到延续罪恶生命的目的。\n\n    整整三大版的报道内容，贯彻甚至发展了白天那位记者先生的隐指或者说影射，把矛头直接指向沉默行军，指向沉默的七大家，指向年轻的议员邰之源。",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "称制度，把希望都寄托在制度二字上，只可惜这种希望很像是在说梦话。宪章光辉之下延续千万年的制度，也都会出现在这种大问题。”\n\n    伍德忽然说道：“也许世界上从来就没出现过政治家这种生物，任何人和政治接触久了，都会变成政客。”\n\n    鲍勃主编站起身来，掀开帐蓬的帘，望着远处艺术中心旁的沉默行军指",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "是绞刑架下的报告？”\n\n    “是的。”鲍勃静静看着秩序井然的示丵威民众们，低声喃喃念道：“善良的人们，你们要警惕啊！”\n\n    （注２）\n\n    ……\n\n    ……\n\n    没有多少人会像鲍勃伍德二人这样，刚刚结束牢狱之灾，被沉默行军群众保护着，却开始对那位年轻议员产生深远或多情的忧虑警",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "议员数量依旧占据着绝对优势，这是他的议会。\n\n    议会山今天的气氛如同往常一般平静，或者说极端的压抑沉默，只有抱着材料的职员在席位间走来走去。\n\n    中期选举后，敌对派别的议员们已经习惯了失败，他们唯一需要做的事情就是在投票时不举手，即便这样也无阻止那些案条例通过，所以很多人干脆选择了睡觉，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "到什么地步？我的要求很简单：议会必须召开特别听证会调查古钟号爆炸事丵件，调查墨花星球七组事丵件，并且马上重新启动弹劾案，联邦政丵府所有涉嫌犯罪的官员必须接受审判。”\n\n    阴谋家的审判台—这是当天夜间，联邦三大报之一论坛报紧急刊印的特刊大标题。\n\n    该特刊认为半年来联邦数桩重大事丵件的幕后",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "敌人是狂热。但是挑战宽容的往往不是那些信仰笃定的狂热分子，而常常是这类人—口他们想要打消自己的疑虑，同时还想封住别人的嘴，捆绑别人的手脚。”\n\n    “他们想捆住我们的手脚，所以他们想尽一切办废止了爱国者案，他们想要封住别人的嘴，所以用各种手段威胁、挟持或者收买媒体。”\n\n    “乔治卡林说过，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "人会像鲍勃伍德二人这样，刚刚结束牢狱之灾，被沉默行军群众保护着，却开始对那位年轻议员产生深远或多情的忧虑警惕。\n\n    绝大多数警惕目光依然落在帕布尔总统和政丵府之上，有几家著名的自丵由派媒体大版面解读爱国者案废险的意义，同时转载了鲍勃主编对总统政论的简单回应，并且三年来难得尖锐地质问政丵府。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "梦话。宪章光辉之下延续千万年的制度，也都会出现在这种大问题。”\n\n    伍德忽然说道：“也许世界上从来就没出现过政治家这种生物，任何人和政治接触久了，都会变成政客。”\n\n    鲍勃主编站起身来，掀开帐蓬的帘，望着远处艺术中心旁的沉默行军指挥部，沉默片刻后说道：“还记得席勒那本小说的著名结语词吗？",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，该特别会议和沉默行军的几项政治诉求没有任何关系。\n\n    没有古钟号爆炸调查，没有七组调查，议会山特别会议试图通过一份名为国土安全的全新案，而该案绝大部分内容竟和爱国者案一模一样！\n\n    直到此时人们才记起，在议会山中帕布尔派别的议员数量依旧占据着绝对优势，这是他的议会。\n\n    议会山今",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "或者是声名。”\n\n    鲍勃主编感慨说道：“帕布尔从潦倒的律师事务所踏进联邦政坛的时候，我们也冈刚进入新闻圈，从那时起我就一直替他呐喊辩护．因为我觉得他是政治圈内的异类，是一股清新的清流，最有可能成为政治家，而不是一肚子精丵液和满脑子银行卡密码的政客。”\n\n    “可惜事实总是这样的令人失望，他",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "们眼中的野心在他看来只是理所当然，所以没有人能够捕捉到他身体里有任何令人不悦的味道，先天拥有令人感到宁静信任的气息。”\n\n    伍德皱眉问道：“这不是选秀，你究竟想说什么？”\n\n    鲍勃微笑说道：“我想说的是，这位年轻议员拥有超出年龄的沉稳和能力，他已经是位成熟的政客，他就是第二个帕布尔，甚至",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

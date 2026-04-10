@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 437,
+  "chapter_title": "第二百四十一章 撕纸",
+  "filename": "ch_0437_第二百四十一章 撕纸.txt",
+  "char_count": 3414,
+  "timestamp": "2026-04-10T12:11:21.788727",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "能是你的事情，只能由你自己处理。”\n　　此时天时已入暮春最深处，东窗避着炽烈的阳光，窗外青树滤过来的风微温未燥，远处湿地畔的林子里，却已经隐隐响起蝉鸣。\n　　宁缺明白了师姐这句话的意思，看着她那张清稚的脸颊、成熟恬静的眼神，忽然间觉得自己好像忘了一件很重要的事情，那件事情和师姐有关。\n　　……",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "唐国长安城的神殿使团回到了西陵。\n　　按照正常时间推算，西陵使团回程的时间应该提前数日，只是不知道因为什么，使团中途绕行了一趟南晋，耽搁了些时间。\n　　车队缓慢行驶在西陵神殿陡而不险的沿山石道上，使团里的神殿执事官员们，都注意到了神殿今日的气氛有些异样。\n　　那辆黑色绣金的华贵马车所过之处，神殿中人",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "饮食都由裁决司的仆役送来，她不知道石屋外的山崖已然桃红柳绿，不知道季节从春到夏的变化，更不在意神殿里人们对自己态度的变化。\n　　入夏后某夜，有人来到了石屋外。\n　　石屋的门被人缓缓推开，露出陈八尺那张看似恭谨的脸。\n　　陈八尺看着书桌旁穿着青色道袍的少女，贪婪欣赏着道袍下的曼妙身躯，片刻后才低下头去",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "崖已然桃红柳绿，不知道季节从春到夏的变化，更不在意神殿里人们对自己态度的变化。\n　　入夏后某夜，有人来到了石屋外。\n　　石屋的门被人缓缓推开，露出陈八尺那张看似恭谨的脸。\n　　陈八尺看着书桌旁穿着青色道袍的少女，贪婪欣赏着道袍下的曼妙身躯，片刻后才低下头去，说道：“统领大人等着您的回话。”\n　　陈八",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "来的纸剑，陈八尺惊而微怒，脸上旋即浮现出讥诮的笑意，在他眼中，那把约一指长短的纸剑，可笑到了极点，他心想果然是宁肯死也不肯低头吗？那就等着被羞辱吧。\n　　然而下一刻，他脸上的讥诮笑意骤然凝结成寒霜。\n　　因为他清晰地感觉到，一股浩荡无垠的气息，从那把薄薄的纸剑上喷薄而出，瞬间笼罩住了自己的身体。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的讥诮笑意骤然凝结成寒霜。\n　　因为他清晰地感觉到，一股浩荡无垠的气息，从那把薄薄的纸剑上喷薄而出，瞬间笼罩住了自己的身体。\n　　那是浩荡的剑意。\n　　陈八尺仿佛看到了无尽的黄浊之水扑面而来，仿佛看到南晋与大河国交界处那条滔滔大河离开了地面，拍向自己的双眼。\n　　他惊恐万分，道心骤然湿冷一片。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "资格推搪。\n　　叶红鱼没有推搪，也没有像上次一样说需要些时间考虑。\n　　她没有转身去看陈八尺，没有用愤怒和冰冷的眼光凝成一道剑。\n　　她只是沉默。\n　　她沉默看着桌上那本书，然后继续向后翻，一直翻到夹着那张信纸的地方，看着纸上那柄歪歪扭扭的剑，淡然说道：“原来有了你，时间还是来不及。”\n　　陈八尺没",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "变得有些凝重。\n　　“有些事情只属于每个人自己，担心没有意义。”\n　　余帘搁下手中的秀笔，抬头看着他说道：“就比如你的事情永远只能是你的事情，只能由你自己处理。”\n　　此时天时已入暮春最深处，东窗避着炽烈的阳光，窗外青树滤过来的风微温未燥，远处湿地畔的林子里，却已经隐隐响起蝉鸣。\n　　宁缺明白了师姐",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "小棠谈恋爱？\n　　他笑着想到，然后脸上的神情变得有些凝重。\n　　“有些事情只属于每个人自己，担心没有意义。”\n　　余帘搁下手中的秀笔，抬头看着他说道：“就比如你的事情永远只能是你的事情，只能由你自己处理。”\n　　此时天时已入暮春最深处，东窗避着炽烈的阳光，窗外青树滤过来的风微温未燥，远处湿地畔的林子",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，顺着那些歪扭粗细不匀的墨线，仔细地把信纸上的那柄剑撕了下来。\n　　片刻后，一柄很小很薄很歪的纸剑，出现在她细细的指间。\n　　“你看这是什么？”\n　　叶红鱼用两根手指拈着纸剑，对着陈八尺问道。\n　　陈八尺皱了皱眉，看着那张纸片，看不明白。\n　　叶红鱼说道：“连这都看不明白，难怪你永远都是个瞎子。”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "不知道唐小棠去了哪里。\n　　难道陈皮皮真的在和唐小棠谈恋爱？\n　　他笑着想到，然后脸上的神情变得有些凝重。\n　　“有些事情只属于每个人自己，担心没有意义。”\n　　余帘搁下手中的秀笔，抬头看着他说道：“就比如你的事情永远只能是你的事情，只能由你自己处理。”\n　　此时天时已入暮春最深处，东窗避着炽烈的阳",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "的在和唐小棠谈恋爱？\n　　他笑着想到，然后脸上的神情变得有些凝重。\n　　“有些事情只属于每个人自己，担心没有意义。”\n　　余帘搁下手中的秀笔，抬头看着他说道：“就比如你的事情永远只能是你的事情，只能由你自己处理。”\n　　此时天时已入暮春最深处，东窗避着炽烈的阳光，窗外青树滤过来的风微温未燥，远处湿地",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "被忽视被羞辱被损害的道痴叶红鱼飘然而去，借着夜色遮掩离开桃山，然后再也没有人知道她去了哪里。\n　　数日后，出使唐国长安城的神殿使团回到了西陵。\n　　按照正常时间推算，西陵使团回程的时间应该提前数日，只是不知道因为什么，使团中途绕行了一趟南晋，耽搁了些时间。\n　　车队缓慢行驶在西陵神殿陡而不险的沿山石",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "夏的变化，更不在意神殿里人们对自己态度的变化。\n　　入夏后某夜，有人来到了石屋外。\n　　石屋的门被人缓缓推开，露出陈八尺那张看似恭谨的脸。\n　　陈八尺看着书桌旁穿着青色道袍的少女，贪婪欣赏着道袍下的曼妙身躯，片刻后才低下头去，说道：“统领大人等着您的回话。”\n　　陈八尺是裁决司官员，曾经是神殿骑兵的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

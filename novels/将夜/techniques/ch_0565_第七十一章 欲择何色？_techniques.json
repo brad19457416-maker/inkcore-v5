@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 565,
+  "chapter_title": "第七十一章 欲择何色？",
+  "filename": "ch_0565_第七十一章 欲择何色？.txt",
+  "char_count": 3388,
+  "timestamp": "2026-04-10T12:11:26.651400",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "辇遥遥一礼。\n　　隐隐看到佛辇里的高僧身影微微前倾，似在郑重回礼。\n　　老僧又望向亭下那辆黑色马车，说道：“光明之女与书院十三先生降临瓦山，老寺旧亭备感荣幸。”\n　　宁缺不知这老僧身份与辈份，想着先前的自省，回了一礼。\n　　老僧又道：“月轮国曲姑姑、剑阁程先生，书痴花痴俱至，又有南晋太子殿下大驾光临",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "跃涧旁，光明之女以天算之能令我那不成才的师弟惨败而归，想来在棋枰之上妙诣非凡。”\n　　听着这话，宁缺心想烂柯寺果然棋风极盛，哪怕是修行到心如止水的隐居长老，也不肯在这方面认输，想必稍后定是一场苦战，不由微感忧虑。\n　　然而令他意想不到的是，亭中那位老僧微微一顿后，缓声说道：“能算透天机，何须还来算枰",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "定了破局之人是桑桑而不是自己。如果说前者，是因为书院方面早有书信寄到歧山大师庐中，那么后者怎么解释？难道说那位歧山大师真有未卜先知之能？\n　　就在他皱眉思考这件事情的时候，那位南晋棋师的声音在帷幕外响了起来：“我眼神不大好，能不能隔得近些看？也好给你们做个评判。”\n　　老僧看着这名不请自入的南晋人，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "布前方有道缝隙，正好可以把亭间的大棋盘尽收眼底。\n　　没有想到烂柯寺竟有如此周密的准备，宁缺再也不用担心桑桑会被风吹着，很是满意，然而忽然他又想到一件事情，心情不由骤然一紧。\n　　修行者最脆弱的便是身体，面对着普通人的数百枝羽箭，哪怕是洞玄境的强者，也只能被活活射死，然而毕竟修行者能够感知天地元气，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "在红黄树叶间自巍然不动，看着很有几分气势。\n　　瓦山三局棋的第二局，便在这间亭子里。\n　　观海僧带领众人来到秋亭前，便停下了脚步。因为虎跃涧前的乱柯局等于是取消了，所以场间的修行者还是很多，只是没有人敢大声说话。\n　　佛辇距离秋亭还有十余丈的地方停下，帷布里那位悬空寺戒律院首座依然沉默不语，但暗中不",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "欲择何色？\n　　行出禅院，上了黑色马车，向山间行不过片刻，便看到崖林间有座古亭。\n　　这座亭子在秋风中并不肃杀孤清，因为太过高大，足足有普通三层楼高，巨梁飞檐，在红黄树叶间自巍然不动，看着很有几分气势。\n　　瓦山三局棋的第二局，便在这间亭子里。\n　　观海僧带领众人来到秋亭前，便停下了脚步。因为虎跃",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "黄树叶间自巍然不动，看着很有几分气势。\n　　瓦山三局棋的第二局，便在这间亭子里。\n　　观海僧带领众人来到秋亭前，便停下了脚步。因为虎跃涧前的乱柯局等于是取消了，所以场间的修行者还是很多，只是没有人敢大声说话。\n　　佛辇距离秋亭还有十余丈的地方停下，帷布里那位悬空寺戒律院首座依然沉默不语，但暗中不知有",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "柯寺竟有如此周密的准备，宁缺再也不用担心桑桑会被风吹着，很是满意，然而忽然他又想到一件事情，心情不由骤然一紧。\n　　修行者最脆弱的便是身体，面对着普通人的数百枝羽箭，哪怕是洞玄境的强者，也只能被活活射死，然而毕竟修行者能够感知天地元气，所以与普通人相比，极难生病，比如风寒，相信此时秋亭外的这些修行者",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "马车里的人还没有开口说话。\n　　就算他们想要去与那位老僧下棋，也不可能抢在那位的前面。\n　　黑色马车缓缓再动，一直驶到秋亭石阶之前才停下。\n　　那名苍老的僧人看着这辆黑色马车，忽然眼中闪过一道异彩，声音却依然平淡如水，缓声说道：“听闻先前在虎跃涧旁，光明之女以天算之能令我那不成才的师弟惨败而归，想来",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "潜台词",
+      "category": "dialogue",
+      "example": "摇头，似还是有些不甘心，望着帷幕问道：“瓦山第一局，棋者只能择白，而能通过第一局者，往往会有某种心理暗示，择白便能一直赢下去，却不知光明之女，为何却是毫不犹豫便选了……黑棋？”\n　　桑桑说道：“因为黑棋先行，极为占优，所以我选了黑棋。”\n　　老僧有些意外会听到这个答案。\n　　就在这时，南晋棋师终于从",
+      "analysis": {
+        "definition": "在文本中使用潜台词技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "摇头，似还是有些不甘心，望着帷幕问道：“瓦山第一局，棋者只能择白，而能通过第一局者，往往会有某种心理暗示，择白便能一直赢下去，却不知光明之女，为何却是毫不犹豫便选了……黑棋？”\n　　桑桑说道：“因为黑棋先行，极为占优，所以我选了黑棋。”\n　　老僧有些意外会听到这个答案。\n　　就在这时，南晋棋师终于从",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "好生理论一番，然而看着那老僧苍老的面容，却是无来由地心头一凛，浑然忘了理论这件事情。\n　　他确认自己从来没有见过这名老僧。\n　　但他总觉得老僧的脸很熟，似是在哪里见过无数次一般。\n　　南晋棋师苦苦思索，却怎么也想不起来。\n　　便在这时，瓦山三局棋的第二局，正式开始了。\n　　老僧望向帷幕，平静问道：“",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

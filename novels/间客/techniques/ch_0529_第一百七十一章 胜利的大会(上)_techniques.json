@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 529,
+  "chapter_title": "第一百七十一章 胜利的大会(上)",
+  "filename": "ch_0529_第一百七十一章 胜利的大会(上).txt",
+  "char_count": 3506,
+  "timestamp": "2026-04-10T12:05:08.564212",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "夜总会中，无数瓶蕴含着战斗情谊的烈酒打开，灌入钢铁铸就的腹中，硬生生灌出了无数沙场气慨及粗糙沙哑别有风味的嘹亮军歌。\n\n    街上的行人及士兵们，好奇地看着那些横七竖八的高级军车”小声议论那些军车牌照代表什么意义，忽然间听到一阵洪亮刺耳穿透金碧辉煌极佳隔音材料的粗豪歌声，不由疑惑心想，难道国防部嘉",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "简单的道理，在战场上面，要相信自己的战友，首先便必须尊重自己的战友。”\n\n    赫雷数人对望一眼，心想教官这就是直接准备开始上政治课了？赶紧坐下，拿记事本认真地进行记录，而花小司则充当了秘书的角色，泡了一杯三叶茶放在了许乐的身前。\n\n    “咱们和清龙山之间确实有旧怨，但你们不要忘记，学校哲学课",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "军歌。\n\n    街上的行人及士兵们，好奇地看着那些横七竖八的高级军车”小声议论那些军车牌照代表什么意义，忽然间听到一阵洪亮刺耳穿透金碧辉煌极佳隔音材料的粗豪歌声，不由疑惑心想，难道国防部嘉奖大会提前到夜总会里举办了www.xiaoshuotxt。com",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "肃，就像先前那些污言秽语绝对不是从他这名高级技术军官的嘴里说出來的那般。\n\n    弥赛留挺着胸膛，紧张地等着教官的质问，不料许乐直接走过他的身边，坐了下來，不由有些后怕地轻轻吐了口气。\n\n    三人之后，没有参与到这件事情当中的花小司微微一笑，看似毫不在意，实则幸灾乐祸之极。\n\n    所有人都",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "共同生活过，并且一起参加过毕业日的军演，自不会感到陌生，一百多号人混坐于昏暗的夜总会中，无数瓶蕴含着战斗情谊的烈酒打开，灌入钢铁铸就的腹中，硬生生灌出了无数沙场气慨及粗糙沙哑别有风味的嘹亮军歌。\n\n    街上的行人及士兵们，好奇地看着那些横七竖八的高级军车”小声议论那些军车牌照代表什么意义，忽然间",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "散开，让开一条道路，同时搬了一把椅子，搁在了长桌的面前。\n\n    许乐走过赫雷身边的时候，忽然开口说道：“谁是猴子？”\n\n    赫雷站的笔挺，一声都不敢吭，虽然他如今已经是一名中校团长，军衔与许乐平齐，职权更远在许乐之上，可是教官“话之时，他哪敢出言反驳？\n\n    许乐又在林爱的面前停顿了一下",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "友。”许乐说道：“三颗沦陷星上，青龙山派了多少人去铺网？他们又死了多少人？他们也是在为联邦奋斗牺牲，难道背后就只值得你们用这样的形容來羞辱？”\n\n    酒并没有全醒，许乐的声音有些沙哑，但想到夜市里的群殴，先前在会议室门外听到的争执，心情便有些沉重“帝国大敌在前，联邦内部却还有这么多的纷争。总纹阁",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "受“军官们与七组那十八条汉子在基地里也共同生活过，并且一起参加过毕业日的军演，自不会感到陌生，一百多号人混坐于昏暗的夜总会中，无数瓶蕴含着战斗情谊的烈酒打开，灌入钢铁铸就的腹中，硬生生灌出了无数沙场气慨及粗糙沙哑别有风味的嘹亮军歌。\n\n    街上的行人及士兵们，好奇地看着那些横七竖八的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，许乐站在被羞辱为废物的军官生们身前，直视杜少卿，b的这位联邦名将，铁血师长硬是没能发成飙，他带领着众人于寂宾岭清晨军演放手一战，最后潇洒破营，让所有人的骄傲能够继续。\n\n    经此一役，作“基地坚的受壬军官们，无论他们再如何骄傲自负，一旦面对许乐教官的时候，都会变成老老实实的学生，连呼吸都不敢大",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "不如何欢愉，一番训话之后，赫雷一干最嚣张的家伏，都断了从宪兵总部里捞人的想法，其余的军官们也只有郁闷离去，向自己的上级汇报。属花夜市群殴一案，还要等待着纪律部门明天的正式调查，宪兵总部终于恢复了安静二\n\n    但既然重逢，总不可能就此分手，日后再上战场，也不知彼此还能不能活着相见。许乐去休息室接了",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "不敌，白玉兰一挑额前秀发，提瓶而上，数十名七组队员也毫不客气地发动了反攻，赫雷诸人被这阵势唬了一跳，马上电话联系当年的同学，如今各部队的主官们前來支援。\n\n    曾经在基地里受壬的军官们，如今正凑巧受召回西林主星，准备参加后日召开的嘉奖大会，一听说许教官召唤，在电话里大吼数声，毫不犹豫地从各自营地",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "渐展现出來他在机甲方面的知识程度，在操场上与两名铁七师军官大杀一场展现出惊人的近战能力，这种关系开始慢慢变化，直至毕业之前那场散伏饭，军官们轮番上前敬酒，才算是真正确定了彼此间的师生关系。\n\n    如果仅仅是这般，日后在战场上相遇，这些联邦重点培养的梯队军官们见着他，大抵也只会点点头，行个军礼，问",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "起來？”\n\n    这句话一出口，挂雷等几名军官反而松了一口气，极有脸色的分两列散开，让开一条道路，同时搬了一把椅子，搁在了长桌的面前。\n\n    许乐走过赫雷身边的时候，忽然开口说道：“谁是猴子？”\n\n    赫雷站的笔挺，一声都不敢吭，虽然他如今已经是一名中校团长，军衔与许乐平齐，职权更远在许乐",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "帝国大敌在前，联邦内部却还有这么多的纷争。总纹阁下付出了极大的心血精力和政治魄力，才营造出來大和解的社会基础，可在部队内部，这种基础却显得太过脆弱。\n\n    “政治这些东西我不怎么懂，但我只知道一些很简单的道理，在战场上面，要相信自己的战友，首先便必须尊重自己的战友。”\n\n    赫雷数人对望一眼",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "业之前那场散伏饭，军官们轮番上前敬酒，才算是真正确定了彼此间的师生关系。\n\n    如果仅仅是这般，日后在战场上相遇，这些联邦重点培养的梯队军官们见着他，大抵也只会点点头，行个军礼，问声好罢了，绝不会像此时表现出來的这般敬畏。\n\n    但在接下來的日子里，军官生们逐渐发现，这个年纪轻轻的中校军官，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "novel": "间客",
+  "chapter_number": 19,
+  "chapter_title": "第十九章 小人物还有坚持以及拳头",
+  "filename": "ch_0019_第十九章 小人物还有坚持以及拳头.txt",
+  "char_count": 2769,
+  "timestamp": "2026-04-10T11:53:11.027093",
+  "techniques_count": 6,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "我们的行动，将封余的下落交代出来。”\n\n    许乐低头无语，其实他能猜到封大叔躲在哪里，那个矿坑的秘密，除了他们两个人之外，没有人知道。这两年他们两个人去矿坑去的极少，即便军方提前几个月进行监控，或许也会遗漏掉那里。最关键的是，这些年翻越电子围墙猎杀野牛，让许乐猜到，封大叔手中那个泛着蓝光的屏蔽仪",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的情绪，似乎连他也没有想到，这个少年之所以如此倔犟，只是基于如此简单的一个理由。\n\n    这世上的道理虽然简单，但真正在枪口下能够坚持的又有几个呢？莱克沉默了几秒钟，挥了挥手，将临时营地室内所有的军人都赶了出去。安静的室内，只剩下站立着的他，还有半跪在地上的许乐。\n\n    一阵令人心悸的安静之后",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "他真的会开枪，临时营地里那些东林本土的军人的脸上都露出了震惊之色。\n\n    许乐的身体终于不听话的颤抖了起来，然而当莱克上校的三说出口后，他依然只是沉默地看着前方，眼神里充满了一股倔犟和坚持，似乎根本不畏惧这根黑洞洞的枪管。\n\n    ……\n\n    ……\n\n    莱克上校的眼瞳微微收缩，再一次",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "东林区，而不是去帝国？你也知道，他似乎有这种能力。”\n\n    莱克上校沉默了，因为他清楚这个少年很轻松，也很简单地指出了这件事情中唯一的漏洞，也正是他在飞船上面自问的那个漏洞。\n\n    许乐忽然抬起头来，认真说道：“法庭没有宣判，他就是无罪的，所以我不相信。”\n\n    相信便是相信，一个在一起",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "了出去。安静的室内，只剩下站立着的他，还有半跪在地上的许乐。\n\n    一阵令人心悸的安静之后，莱克缓缓开口说道：“许乐，十七岁，第四街区修理铺学徒工，目标2……其实我很了解你，甚至可能比你自己更了解你。我知道你是一个什么样的人，你不愿意跟随那些孤儿们在街上混，是因为你觉得欺凌弱小是错的，你在钟楼街",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "成上级交付的光荣任务。\n\n    他忽然从腰间取出一把手枪，对准了许乐的眉心，看着这个倔犟的少年冰冷说道：“给你三秒钟的时间。一，二……”\n\n    莱克上校说的很自然，动作也很自然，自然到所有人都以为下一刻他真的会开枪，临时营地里那些东林本土的军人的脸上都露出了震惊之色。\n\n    许乐的身体终于",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

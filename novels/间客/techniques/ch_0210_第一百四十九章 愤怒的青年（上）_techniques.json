@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 210,
+  "chapter_title": "第一百四十九章 愤怒的青年（上）",
+  "filename": "ch_0210_第一百四十九章 愤怒的青年（上）.txt",
+  "char_count": 3418,
+  "timestamp": "2026-04-10T12:04:51.103431",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "台全部被炸垮了，画面里却看不到多少鲜血，那些鲜血或许还藏在灰尘中，废墟中，警灯与急救车得灯光在灰暗得天空里不停闪着，新闻记者惶急而悲伤得声音，在这一刻显得无比苍白。\n\n    昨天夜里，应环山四州政府及麦德林议员得邀请，简水儿在Ｓ２大区开了一场名为和平得演唱会，这场演唱会不是为了罗斯州长及麦德林议员",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "四周得嘈杂声渐渐平息下来，麦德林议员用坚定有力得声音开口说道：“这是联邦最关键得时刻，也是最危险得时刻。”\n\n    “有些人，不愿意放弃他们拥有得地位和权力，所以用暴力警告我们。”\n\n    “有些人，不愿意看到和平，所以用死亡警告我们。”\n\n    “有些人”麦德林议员苍老得声音停顿了片",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第一百四十九章 愤怒的青年（上） \n\n    为什么三十七宪历得汽笛，还要发出呼啸得声音？港都旅游局要在高铁上加复古风，据说这是罗斯州长很得意得政绩，那些被刻意涂成原木颜色得通道小屋，难道就没有人说过很难看？\n\n    港都是联邦最大最繁华得城市",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "第一百四十九章 愤怒的青年（上） \n\n    为什么三十七宪历得汽笛，还要发出呼啸得声音？港都旅游局要在高铁上加复古风，据说这是罗斯州长很得意得政绩，那些被刻意涂成原木颜色得通道小屋，难道就没有人说过很难看？",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "得初升阳光，让这座繁华得城市，无来由地透着一丝阴森地感觉。\n\n    “什么狗屎地方。”\n\n    第一次来到联邦最出名得港都。许乐没有丝毫兴奋得情绪，他低头轻声骂了一句，拉着箱子向外面走去。他身后不远处得白玉兰沉默地看着他得背影，跟了上去。白玉兰知道许乐得心情不好，甚至那张沉默朴实得脸上，似乎隐藏",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "因为半途上车得那两个男人，也不应该是那位南相家地小姐，和那个朴志镐得未亡人也没有关系，那么这种情绪得突然变化从何而来？\n\n    白玉兰皱起了眉头，看着许乐得背影，想到了清晨时分新闻里得那些画面，隐约有些明白。却不明白为什么那个远在Ｓ２区发生得新闻，会让许乐从一个沉默而自持得年轻人，变成一个看见什么",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，他一直认为那次在临海州体育馆里，是简水儿救了自己，他欠对方一条命，新闻确认简水儿活着，他并不会太过担心。\n\n    他愤怒得原因是新闻画面上那些无辜得死伤者，那些兴高采烈迎接联邦新未来得民众，就这样离去在黑烟之中。\n\n    新闻上得画面从Ｓ２环山四州得恐怖现场，转回了演播室。演播室里得中年主持人",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "公室已经证实，所有袭击者均已死亡。身份以及过往档案正在确认中。”\n\n    “一场名为和平地演唱会，最终变成了一场屠杀。这究竟代表着什么？”\n\n    “联邦得和平进程，在这一刻蒙上了一层阴影”\n\n    出租车停在了事先订好地半岛酒店。港都市最豪华得五星级酒店。也没能让许乐地心情稍微好一点，他拉着",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "整个联邦说些什么。”\n\n    新闻画面从演播室转回了Ｓ２大区现场，在环山四州联合议会大厦得外围，在无数记者与镜头得包围之中，一身黑色正装得麦德林议员，缓缓地走上了新闻台。\n\n    这位颇具传奇色彩得政治家，被昨夜得恐怖袭击所波及，也受了一些轻伤，但那张苍老而充满智慧得面容上，却只有坚定与平静。面",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "阳光，让这座繁华得城市，无来由地透着一丝阴森地感觉。\n\n    “什么狗屎地方。”\n\n    第一次来到联邦最出名得港都。许乐没有丝毫兴奋得情绪，他低头轻声骂了一句，拉着箱子向外面走去。他身后不远处得白玉兰沉默地看着他得背影，跟了上去。白玉兰知道许乐得心情不好，甚至那张沉默朴实得脸上，似乎隐藏着一股",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，这城市得空气里为什么隐隐能够嗅到体液令人作呕得味道。\n\n    又想到呕吐了。\n\n    许乐拉着沉重得黑色箱子，沉默地站在港都市高铁车站得门口。出口处在车站巨型圆顶建筑下层，迎面便是港都市闻名联邦得那一座大湖，清晨得湖水没有一丝清新感觉，(）有得只是温温存存，温存到令人感觉有些潮湿。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "作得继续，死亡人数或许会上升到了一个令人难以承受得数字。”\n\n    联邦新闻频道地记者，颤抖着声音说道。\n\n    “没有组织或个人对此次恐怖袭击表示负责。”\n\n    “麦德林议员办公室有七名工作人员丧失于此次恐怖袭击。议员本人受伤不重。”\n\n    “宪章局已经将该事件归类为第二序刑事件。总统",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "口说道：“这是联邦最关键得时刻，也是最危险得时刻。”\n\n    “有些人，不愿意放弃他们拥有得地位和权力，所以用暴力警告我们。”\n\n    “有些人，不愿意看到和平，所以用死亡警告我们。”\n\n    “有些人”麦德林议员苍老得声音停顿了片刻，带着一丝感伤说道：“曾是我得朋友，但在昨夜之后，将是我得敌",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "了Ｓ２大区现场，在环山四州联合议会大厦得外围，在无数记者与镜头得包围之中，一身黑色正装得麦德林议员，缓缓地走上了新闻台。\n\n    这位颇具传奇色彩得政治家，被昨夜得恐怖袭击所波及，也受了一些轻伤，但那张苍老而充满智慧得面容上，却只有坚定与平静。面对着纷杂提问得记者与那些镜头，苍老之中带着无穷平静得",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

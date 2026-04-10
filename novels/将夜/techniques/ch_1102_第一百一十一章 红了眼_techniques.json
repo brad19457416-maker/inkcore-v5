@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1102,
+  "chapter_title": "第一百一十一章 红了眼",
+  "filename": "ch_1102_第一百一十一章 红了眼.txt",
+  "char_count": 3535,
+  "timestamp": "2026-04-10T12:11:34.913457",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "界极其高妙的大修行者，宁缺来的再快，再突然，再出乎意料，依然让他心境有所触动。\n　　青衣文士感觉到了危险。\n　　他的脸色变得很苍白。\n　　他抽剑，便准备离开。\n　　他是世间活的最久的两个人之一，那么，也就是最怕死的两个人之一。\n　　不要说身后偷袭他的那个人，能不能杀死他，只是想到有危险，他便想要走。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "一点可以推算出来，有了惊神阵的帮助，观主就算天下第一，也不再有意义。\n　　观主沉默片刻，忽然举头望向天空某处。\n　　那是东南方向。\n　　然后他说了一句话，很无头无尾的一句话。\n　　“我若成昊天，你在神国不朽。”\n　　天空深处，云层遮掩着的某个地方，或者在群山里，或者在小镇上，总之是在昊天看不到的地方",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "风里探出身躯。\n　　青草间有别枝，那些枝头微微湿润，然后生出花苞，迎风招摇，便即散开，散成十余花瓣，瞬间，整片山野便又有万花盛开。\n　　观主要杀桑桑，便要越过身前的那根木棍，他为了那记挟山一击消耗了太多念力，想要破棍很难，至少也要很多时间，所以他决定直接离开。\n　　每朵花便是一扇门，他可以随意择一门",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "安，无论接下来会发生什么事情，但至少有一点可以推算出来，有了惊神阵的帮助，观主就算天下第一，也不再有意义。\n　　观主沉默片刻，忽然举头望向天空某处。\n　　那是东南方向。\n　　然后他说了一句话，很无头无尾的一句话。\n　　“我若成昊天，你在神国不朽。”\n　　天空深处，云层遮掩着的某个地方，或者在群山里，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "正在花海间对峙。\n　　一棵青树破空而至，压向大师兄。\n　　大师兄以棍为剑，带动天地迎起。\n　　正是最紧张的时刻，彼此牵扯，无法擅离。\n　　这时候，却出现了第三人。\n　　花海里没有花香，却有浓郁的酒意，薰的人直欲沉醉。\n　　一名青衣文士，出现在大师兄身后。\n　　他的左手拎着只酒壶。\n　　他的右手从酒壶",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "能拦我多长时间？”\n　　观主看着远方山崖间快要接近贺兰城的那道黑线，问道。\n　　大师兄说道：“当年您最强时，我也能拦你七日，现在我比当年更强，您就算拿出那六卷天书，我也能拦你七日。”\n　　观主收回望向远方的视线，看着他平静说道：“李慢慢，你现在很自信。”\n　　大师兄说道：“我以往也很自信，只不过从来",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "看着举棍齐眉的大师兄，忽然消失。\n　　大师兄也随之消失。\n　　……\n　　……\n　　下一刻。\n　　观主出现在山崖间，凌空而飘，青衣飘飘。\n　　大师兄也出现在山崖间，踏崖石而立，棉袄轻摆。\n　　观主出现在东海畔，身后风暴大作，遮住烈日。\n　　大师兄也出现在东海畔，踏堤石而立，棉袄轻摆。\n　　观主出现在南",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "不去看师兄背后流淌的血水，眉眼间冷漠的像寒冰一样。\n　　他的赤足踩在娇嫩的花瓣上，花瓣不碎。\n　　他来到青衣文士的身后。\n　　他没有抽出铁刀，因为那会被人感知，也没有用铁箭，因为那人和大师兄在一起，他要做的事情，就是偷袭。\n　　青衣文士神情骤变。\n　　毕竟是经历无数世事，境界极其高妙的大修行者，宁缺",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "渔舟点点，海鸥轻翔。\n　　大师兄也出现在南海，踏礁石而立，棉袄轻摆。\n　　无论观主去何处，大师兄都会同时出现，站在他的身前，手里的木棍齐眉而平，你可以去天涯或者海角，却过不了他，便不能近贺兰城。\n　　最后，观主回到已经不存在的寒潭畔。大师兄也回到了原地，两个人仿佛根本没有移动过，山野间的花还在烂漫着",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第一百一十一章 红了眼\n　　大师兄看着观主，平静说道：“走。”\n　　这个字是对宁缺说的。\n　　宁缺看着师兄的背影，想要说些什么，但知道现在不是说话的时候。\n　　他猛地一夹马腹。\n　　大黑马低嘶一声，化作一道黑色的闪电，跃过那些乱石断崖，向着不远处的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "师兄看着观主平静说道：“至于最后的胜负，我不在意。”\n　　观主说道：“为何？”\n　　大师兄说道：“七日后，小师弟就回长安了。”\n　　宁缺带着桑桑回到长安，无论接下来会发生什么事情，但至少有一点可以推算出来，有了惊神阵的帮助，观主就算天下第一，也不再有意义。\n　　观主沉默片刻，忽然举头望向天空某处。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "望向远方的视线，看着他平静说道：“李慢慢，你现在很自信。”\n　　大师兄说道：“我以往也很自信，只不过从来没有表现出来，现在要与您为敌，我必须更自信一些，如此才能胜利。”\n　　观主问道：“你觉得你很强？”\n　　大师兄说道：“我只是第二强。”\n　　他这句话里的第二强三字，指的不是小镇或村舍塾学里的第二。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，又有春意勃发。\n　　山崖外围还残着很多森林，原先寒潭四周却是寸草皆无，但随着这道清新气息的散播，有无数青草，顶翻上方的岩石，在风里探出身躯。\n　　青草间有别枝，那些枝头微微湿润，然后生出花苞，迎风招摇，便即散开，散成十余花瓣，瞬间，整片山野便又有万花盛开。\n　　观主要杀桑桑，便要越过身前的那根木棍",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "当年更强，您就算拿出那六卷天书，我也能拦你七日。”\n　　观主收回望向远方的视线，看着他平静说道：“李慢慢，你现在很自信。”\n　　大师兄说道：“我以往也很自信，只不过从来没有表现出来，现在要与您为敌，我必须更自信一些，如此才能胜利。”\n　　观主问道：“你觉得你很强？”\n　　大师兄说道：“我只是第二强。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "并不是击打，更像是抚摸。\n　　那些野花，就像是含羞草，又像是微羞的少女。\n　　那根木棍，就像是大师兄温暖的手指。\n　　轻轻触着花瓣，轻轻抚着发畔，于是花便敛了，少女便转过头去。\n　　观主神情微凝，这根木棍能够做到这样的事情，没有出乎他的意料，关键在于，他能在满山满野的花里，找到那些真正的花。\n　　这",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

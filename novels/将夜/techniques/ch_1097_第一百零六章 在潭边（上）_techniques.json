@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1097,
+  "chapter_title": "第一百零六章 在潭边（上）",
+  "filename": "ch_1097_第一百零六章 在潭边（上）.txt",
+  "char_count": 3372,
+  "timestamp": "2026-04-10T12:11:34.957595",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "白，直接问道：“怎么走？”\n　　“西北，33，23。”桑桑说道。\n　　往西北等于退回，宁缺却没有任何疑问，轻提缰绳，让大黑马向着那个方向而去，一路踢雪溅冰，没有耽搁任何时间。\n　　暮时，大黑马再次停下。桑桑取出算盘，再次开始像弹琴一般拨打，待计算完毕，又给出一个新的方位，宁缺依言而行。\n　　自始至终",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "发问，似乎知道她的意思。\n　　过了数日，到了一条冰河畔，桑桑再次让大黑马停下。\n　　她望向某个方向的天空，神情依旧漠然，眼睛里却渐渐流露出烦躁的情绪，然后从怀里取出了一个小算盘，开始拨打。\n　　除了当年在长安城里修房子的时候，因为涉及银钱数目太多，需要一种严肃的仪式感来增加信心用过算盘，宁缺很少见她",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "为什么？不去思考宗教信仰之类的事情，这件事情逻辑都很难自洽，桑桑是昊天，道门为什么要杀她、敢杀她？意义在哪里？\n　　桑桑没有说，宁缺也不问，只要能够回到长安城的家里，他还有很多时间去解开这个谜题，然后做出相应的对策。\n　　大黑马的速度奇快，在风雪里变成一道黑色的闪电，青狗在旁边的深雪里奔行，不时被",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "道：“你现在杀不死他，就别想了。”\n　　桑桑神情漠然说道：“杀不死他，才想杀他。”\n　　宁缺怔了怔，心想确实是这个道理。\n　　要是以前，她要杀谁随手便杀了，哪里还需要想？\n　　他坐起身，将她搂进怀里，看着寒潭对面的观主，静静无语，就像看着镜中虚假的世界，就像在看一场戏剧，或者一幅画。\n　　似乎很荒诞",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "和他不想遇到的那个人，还一直没有遇见。\n　　宁缺的神情越来越凝重，因为他知道任何事情，都是越到最后越危险，更因为他发现桑桑现在的精神越来越差，不知还能继续算多长时间。\n　　桑桑变得很疲惫，非常嗜睡，经常拨着算盘珠，便无声无息靠着他的胸口睡着，好在并不像那年生重病一般虚弱，更没有吐血。\n　　宁缺每次看",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "宁缺看着她怀里那只大狗，想要说些什么，终究还是没说。\n　　南方依然是风雪，桑桑却看了半个时辰，然后说道：“转东，12，8。”\n　　宁缺扶着她上马，轻扯缰绳，让大黑马改变方向，向东而行，整个过程里他都没有发问，似乎知道她的意思。\n　　过了数日，到了一条冰河畔，桑桑再次让大黑马停下。\n　　她望向某个方",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "这里能够远远眺望到贺兰城，却很难被外界发现。\n　　桑桑挥动兽皮缝成的衣袖，一道清光闪现即逝，一道气息出现然后消失。\n　　宁缺没有查觉到任何异样，但他知道，她已经展开了自己的世界，寒潭畔的这片平地还有自己和大黑马青毛狗，都在这个世界里。\n　　没有多长时间，他便看到了证明。\n　　潭畔的积雪渐渐融化，气温",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "非他真的把那个字写出来，并且让整个人间看见。\n　　只是要写出那个字谈何容易？回顾这个世界的人类历史，无数劫来无数年，真正能够超越规则、达到无矩境界，终究只有夫子一人。\n　　但总要做些准备，哪怕要准备数千年之久――在没有确定观主的真正目的之前，这些大概便是他现在能够做的不多的事情。\n　　现在来看，观主",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "奔行，不时被雪掩埋，看着就像朵朵盛开的青莲，竟也丝毫不慢。\n　　数天后，宁缺一行便离开了寒域的范围，来到一片残留着些许青意的针叶林附近，在林间他看见很多被野兽吃剩后被冻成冰渣的鹿肉及血，看兽群的足印和被撞断的林木，确定应该是雪狼曾经停留的地方。\n　　桑桑伸出右手食指在大黑马的颈间轻点，大黑马明白了她",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "在越来越南，离长安城越来越近。\n　　桑桑和他不想遇到的那个人，还一直没有遇见。\n　　宁缺的神情越来越凝重，因为他知道任何事情，都是越到最后越危险，更因为他发现桑桑现在的精神越来越差，不知还能继续算多长时间。\n　　桑桑变得很疲惫，非常嗜睡，经常拨着算盘珠，便无声无息靠着他的胸口睡着，好在并不像那年生重",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "林木，确定应该是雪狼曾经停留的地方。\n　　桑桑伸出右手食指在大黑马的颈间轻点，大黑马明白了她的意思，缓缓减速停下，她捧着肚子有些笨拙地下了马，伸手招了招。\n　　青毛狗很喜悦地奔了过来，吭哧吭哧跳到她的怀里。\n　　她抱着青毛狗，望向南方，神情漠然。\n　　宁缺看着她怀里那只大狗，想要说些什么，终究还是没",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "界最重要的变化，不就是那些痕迹？比如城墙、宫殿、田野、阡陌还有河堤。\n　　雪海上的这道痕迹同样如此，同时也是某个字的某个笔画里的某个部分，或者是开端，或者是结局，只是暂时无法确定，连宁缺自己也无法确定，除非他真的把那个字写出来，并且让整个人间看见。\n　　只是要写出那个字谈何容易？回顾这个世界的人类历",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "里竟有青草渐渐抽芽。\n　　天弃山里忽然下起风雪。\n　　宁缺望向外界，觉得好神奇，外面风雪如怒，此间却温暖如春。\n　　他想了想，抽出铁刀，干净利落砍了些树木，凭着自己非人的力量，只用了极短的时间，便在潭边搭了一个木屋。\n　　木屋有些简陋，但淡淡的木香，却可以宁神。\n　　桑桑捧着肚子，在旁边静静看着他劳",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

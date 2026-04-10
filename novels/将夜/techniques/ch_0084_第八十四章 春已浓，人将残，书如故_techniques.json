@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 84,
+  "chapter_title": "第八十四章 春已浓，人将残，书如故",
+  "filename": "ch_0084_第八十四章 春已浓，人将残，书如故.txt",
+  "char_count": 3420,
+  "timestamp": "2026-04-10T12:11:12.007212",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "糊的字迹又一次飘离纸面，开始在他的脑海中嗡鸣振动，宁缺觉得那些振动甚至不像是划桨，而更像是草原上的寒风，感觉自己在和无数名凶悍的马贼做战。\n　　他深深吸了口气，强行抬起头来休息片刻，因为抬头的动作过于坚决强硬，竟让颈部肌肉有些隐隐作痛，为了消解此时胸腹间的烦恶感觉，他压抑住手中那本薄册的无限诱惑，把",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "默走向每天固定站立的书架旁，抽出那本已经看了很多天，却依然什么都没能记住的薄薄书册。\n　　空旷楼层间寂静一片，除了他之外就只剩下一个学生还能坚持：谢承运盘膝坐在书架尽头，脸色苍白得有如未着墨的新纸，膝上放着同样一本书。\n　　宁缺知道这位谢三公子在，对方既然能够入术科，那么肯定有修行潜质，所以他并不惊",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "奇，他和谢三公子今天谁会先下楼。”\n　　“谢三公子有修行潜质，这个家伙有什么？”\n　　“说起来他到底为什么这么拼命？”\n　　“我看是因为他要和谢三公子争风头，不然为什么这么拼命？”\n　　宁缺根本没有听到这些低声议论，他看着眼前的楼梯，左手扼住自己微微颤抖的右腕，强行压抑住心中强烈想要收回脚步的念头，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "三公子今天谁会先下楼。”\n　　“谢三公子有修行潜质，这个家伙有什么？”\n　　“说起来他到底为什么这么拼命？”\n　　“我看是因为他要和谢三公子争风头，不然为什么这么拼命？”\n　　宁缺根本没有听到这些低声议论，他看着眼前的楼梯，左手扼住自己微微颤抖的右腕，强行压抑住心中强烈想要收回脚步的念头，深吸一口继",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "争风头，不然为什么这么拼命？”\n　　宁缺根本没有听到这些低声议论，他看着眼前的楼梯，左手扼住自己微微颤抖的右腕，强行压抑住心中强烈想要收回脚步的念头，深吸一口继续向上，只有他自己才知道，每天这道楼梯都会显得比昨天更加陡峭更加漫长更加艰难。\n　　看着他艰难向楼上走去的背影，看着他苍白的脸庞，楼下的学生",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "清楚，为什么自己每天都要来这里，哪怕是徒劳无功异常痛苦，还是要来这里。\n　　因为他喜欢，因为他需要，道理就是这么简单。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "现在的书院学生们已经不怎么记得入院试时宁缺拿到过三科甲上，他们只知道这个少年是丙班最出名的疯子，当他出现在旧书楼门口时，所有正在看书或是在窗旁做那带不走的笔记的学生们同时抬起头来，望向他的身影开始窃窃议论。\n　　“这家伙该不会是疯了吧？”\n　　“今天他会在楼上呆多长时间？”\n　　“半个时辰？”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "没有听到这些低声议论，他看着眼前的楼梯，左手扼住自己微微颤抖的右腕，强行压抑住心中强烈想要收回脚步的念头，深吸一口继续向上，只有他自己才知道，每天这道楼梯都会显得比昨天更加陡峭更加漫长更加艰难。\n　　看着他艰难向楼上走去的背影，看着他苍白的脸庞，楼下的学生们目光变得越来越复杂，有很多人怀疑他如此拼命",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "离纸面，开始在他的脑海中嗡鸣振动，宁缺觉得那些振动甚至不像是划桨，而更像是草原上的寒风，感觉自己在和无数名凶悍的马贼做战。\n　　他深深吸了口气，强行抬起头来休息片刻，因为抬头的动作过于坚决强硬，竟让颈部肌肉有些隐隐作痛，为了消解此时胸腹间的烦恶感觉，他压抑住手中那本薄册的无限诱惑，把目光往窗外的春日",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "外。\n　　这一日午后，宁缺吃了两大盘香菇鸡肉饭，就着一碟红油肚丝又啃了两个馒头，在湿地旁洗了手，再次来到了旧书楼外。\n　　现在的书院学生们已经不怎么记得入院试时宁缺拿到过三科甲上，他们只知道这个少年是丙班最出名的疯子，当他出现在旧书楼门口时，所有正在看书或是在窗旁做那带不走的笔记的学生们同时抬起头来",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "道这个少年是丙班最出名的疯子，当他出现在旧书楼门口时，所有正在看书或是在窗旁做那带不走的笔记的学生们同时抬起头来，望向他的身影开始窃窃议论。\n　　“这家伙该不会是疯了吧？”\n　　“今天他会在楼上呆多长时间？”\n　　“半个时辰？”\n　　“我看够呛，顶多一盏茶功夫就会被人抬下来。”\n　　“我比较好奇，他",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "静静看着膝上放着的书卷，眼眸虽然明亮依旧，但脸色却苍白的极为可怕。\n　　“都在努力攀爬啊。”宁缺默默说道，被楼内同窗们年轻倔犟而不甘屈服的气氛所感染，微笑着把目光重新投到纸面之上。\n　　“人之念力发于脑际，汇于雪山气海之间，盈凝为霜为露为水，行诸窍而散诸体外，与身周天地之息相感……”\n　　墨团飘浮再",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

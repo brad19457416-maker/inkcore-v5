@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 905,
+  "chapter_title": "第七十八章 同赴深渊",
+  "filename": "ch_0905_第七十八章 同赴深渊.txt",
+  "char_count": 3366,
+  "timestamp": "2026-04-10T12:11:27.473775",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "在于，在人间的第二步她便慢了下来，因为夫子把红尘灌进了她的身躯，她的气息变得有些浑浊，她已经无法离开大地。\n　　桑桑的手轻轻落在栏杆上。\n　　她没有拍栏，栏杆便断了。\n　　栏杆尽碎，露台处的山崖垮塌，向着绝壁间崩落。\n　　她向崖外的云雾里走去。\n　　桃山后麓的绝壁间，响起了无数道轰隆巨响，仿佛雷声。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "停坠落的宁缺，桑桑忽然想起多年前在渭城的时候，宁缺经常给自己讲述那个世界里的某些故事，在那些故事中，愤怒到极点的反派人物往往会说这样一句话：想死？没那么容易。\n　　这个世界最基本的规则尽在她的手中，自然的模样完全随她的心意。她已经来到人间，那么你想死又岂能那么容易？\n　　桑桑轻拂衣袖，青色衣袖上的繁",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "后麓的深渊里，然后发现自己是在一个坑中。\n　　从峰顶跳落，自然会在地面砸出一个深坑，他不能理解的是，为什么自己还没有死，如果说是桑桑让自己活着，那么她在哪里？\n　　深渊底部的树木与外界的树木不同，很明显根系要比枝叶发达很多，能够看到的大多数都是藤木，树叶细小而稀疏，只是这里大概从来没有人来过，无数年",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "宁缺在绝壁间坠落，忽然间，他觉得身周的空间变得粘稠起来，无数道云缕缭绕不去，柔柔相承，下落的速度瞬间变慢了很多。\n　　在这片紧密的云雾里，他感知到了规则的力量，更清晰地感觉到了她的意志，她不允许他就这样死去，那么他便很难死去。\n　　生死被他人操于之手，是宁缺绝对不能接受的事情，哪怕那个他人是她，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "坠落。\n　　她没有看他，意志却落在他的身上。\n　　“你就这么想我死？”\n　　宁缺静静地看着她，在心里说道：“不，我只是不想一个人活着，与此相比，我宁愿两个人一起去死。”\n　　绝壁间散开的云雾重新聚拢，再也看不到宁缺的身影，也看不到桑桑的青衣，雾底的深渊安静无比，就如过去里的千万年那样。\n　　掌教及赵",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "云湮也不会消磨掉，一道凌厉的符意骤然在绝壁间释出。\n　　那片云雾代表着规则的力量，是昊天亲手所布，按道理来说，除了夫子这样的人物，人间没有哪个修行者能够破解。\n　　但宁缺是个例外，因为她是他的本命，更关键在于，在光明神殿里在幽阁里，在现实里在梦中，他被她折磨了无数次，他用血肉和无尽的痛楚为代价，真切",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "听清楚，她的声音确实是在耳边响起，他忍着痛转身望去，才发现原来她就在自己的身下。\n　　雾林里的地面上出现了个非常大的坑，坑底满是腐叶。\n　　桑桑躺在腐叶之间，她的身躯本就高胖，在腐叶雾气间如大地一般，宁缺被她抱在怀里，看上去就像是个孩子。\n　　宁缺从她怀里艰难滚到一旁，想要屈肘坐起，却发现痛苦难当，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，说的内容，却已经渐渐有了人间的味道，宁缺听着她的声音在雾中响起，却又像是在自己的耳边响起，不免有些感慨，远在天涯却近在耳边，果然不愧是昊天。\n　　“起来。”\n　　桑桑的声音再次响起，情绪愈发冷淡。\n　　宁缺神情微变，因为这一次他终于听清楚，她的声音确实是在耳边响起，他忍着痛转身望去，才发现原来她就",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "隆巨响，仿佛雷声。\n　　其实那是破空之声。\n　　一抹青衣现于绝壁之间，雪云惊惧而散，千万年来的幽阁罪人们怨念化作的雾气，哪里敢相侵，瑟瑟向着崖壁间躲去。\n　　她自天而降，来到他的身旁。\n　　山风拂动着她颊畔的发丝，却拂不动她漠然的神情。\n　　她与宁缺在风中并肩，向着深渊坠落。\n　　她没有看他，意志却",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "样一句话：想死？没那么容易。\n　　这个世界最基本的规则尽在她的手中，自然的模样完全随她的心意。她已经来到人间，那么你想死又岂能那么容易？\n　　桑桑轻拂衣袖，青色衣袖上的繁花仿佛活了过来，身后的光明神殿继续崩塌，发出轰隆的声音，渐成废墟。\n　　无数道天地元气应召而来，化作寒风，崖外风雪骤乱，绝壁下方的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "看不到桑桑的青衣，雾底的深渊安静无比，就如过去里的千万年那样。\n　　掌教及赵南海等人，来到崖畔，神情凝重向崖下望去，什么都没有感知到，片刻后，绝壁下方的深渊里忽然传来了极剧烈的震动。\n　　应该有事物重重地坠落到了深渊的地面上。\n　　雾底传来的恐怖撞击力量，升腾而上，把山崖间的云雾再次撕碎，甚至就连附",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "个人一起去死。”\n　　绝壁间散开的云雾重新聚拢，再也看不到宁缺的身影，也看不到桑桑的青衣，雾底的深渊安静无比，就如过去里的千万年那样。\n　　掌教及赵南海等人，来到崖畔，神情凝重向崖下望去，什么都没有感知到，片刻后，绝壁下方的深渊里忽然传来了极剧烈的震动。\n　　应该有事物重重地坠落到了深渊的地面上。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "雾，堕落深渊。\n　　现在他们没有那根绳子，他没有把她捆在身上，但那根无形的绳子却一直都在，他们依然被命运紧紧地捆在一起。\n　　深渊底，雾气深重，腐叶绵软，二人前后隔着数丈的距离，沉默前行，脚踩在地面上，悄无声息，安静的令人心悸。\n　　就这样走着，周遭的风景始终没有什么变化，不过是枯藤老树，雾里偶尔有",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "与外界的树木不同，很明显根系要比枝叶发达很多，能够看到的大多数都是藤木，树叶细小而稀疏，只是这里大概从来没有人来过，无数年的落叶积在一起腐烂，依然垫上了厚厚的一层。\n　　宁缺没有完全从撞击带来的晕眩感里清醒，觉得躺在绵软的腐叶上很是舒服，完全不想站起来，甚至想永远地这样躺下去。\n　　便在这时，桑桑的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

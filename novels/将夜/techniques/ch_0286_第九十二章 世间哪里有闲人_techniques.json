@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 286,
+  "chapter_title": "第九十二章 世间哪里有闲人",
+  "filename": "ch_0286_第九十二章 世间哪里有闲人.txt",
+  "char_count": 4423,
+  "timestamp": "2026-04-10T12:11:21.747704",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "今年冬天的长安城仿佛受到了某种刺激，变得像夏天时一样喜怒无常，昨夜今晨一直晴朗，然而不过片刻，天空便被灰暗的雪云覆盖，零星雪花飘了起来。\n　　何明池抬头看了一眼天，听着身后塔里响起的脚步声，赶紧从腋下抽出黄纸伞撑开，看着国师比先前更加憔悴的脸颊，心头不由一紧。\n　　从万雁塔回到南门归，何明池直",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "。\n　　他很满意自己离开桃山的决定，很满意自己来长安城的决定，很满意现在的生活，于是他忘记了自己当初为什么要离开桃山，为什么要来长安城，甚至很少想起那抹黑色的影子，或许是他下意识里想把这段日子延伸的更长一些。\n　　能够找到传人是一件幸福的事，能找到像桑桑这样一个神道传人，更是一种难以言喻的幸福。老人",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "这是书院二先生的意思，那么这件事情便是书院的事情，你无须多想。”\n　　无须多想，那是因为多想没有任何意义，那卷流落在荒原上的天书，足以引起太多势力的注意，尤其是西陵神殿很明显为此做了很充足的准备，虽然情报中说掌教大人还三位神座还在桃山，但谁知道观里会不会去人？\n　　面对这种局面，大唐帝国除非全面出击",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "走到塔畔，看着冬日晴空下的雄壮长安城，平静微笑说道：“如果他真的敢来，我虽无能，他若不展露真实大境界暴起，想来也没道理就悄无声息把我从这个世间抹除，到了那时，长安城这座大阵瞬间便能镇压他。”\n　　现如今无论是西陵神殿还是大唐帝国，都不清楚那位光明神座逃离桃山之后为何要来长安城，若说是为了那个预言和十",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "无奈地叹了口气，接过药碗缓缓饮入腹中，然后感慨说道：“你这般沉默倔强的性子，便是执掌天枢处也不合适，日后我若死了，你可怎么办啊？”",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "里寻找光明神座的踪迹，直至今日依然一无所获，他冒偌大的风险，我也总要做些什么。”\n　　颜瑟大师是天下最强大的神符师，即便在西陵神殿上与掌教大人和神座也能平起平坐，卫光明是数百年来最了不起的光明神座，世间无人知晓这样两位大人物究竟谁更更强大，只是这种搜寻遭遇战对神符师先天就极为不利。\n　　清脆的响声，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "这样两位大人物究竟谁更更强大，只是这种搜寻遭遇战对神符师先天就极为不利。\n　　清脆的响声，像春雨提前来到人间。\n　　数十枚棋子在棋枰上跳跃、旋转，然后平静，不再移动。\n　　这些棋子是李青山从匣中随意抓出，然而很奇妙只有一枚白子，其余的全部是黑子，那些哑光石制黑色棋子，沉默堆积在棋盘左半，把那枚白子围",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "件幸福的事，能找到像桑桑这样一个神道传人，更是一种难以言喻的幸福。老人相信千年以降，昊天道门绝对没有出现过这种人物，此后千年大概也不会再出现，桑桑一定能够继承自己的衣钵，并且将会比自己走的更远，并且终将看到他曾经痴醉瞥过一眼的那方神妙世界。\n　　老人感觉到自己离死亡已经不远，然而在死前已经能看到死后",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "用双手高高举起药碗，沉默而倔强地请老师先服药。\n　　李青山无奈地叹了口气，接过药碗缓缓饮入腹中，然后感慨说道：“你这般沉默倔强的性子，便是执掌天枢处也不合适，日后我若死了，你可怎么办啊？”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "国师李青山轻轻咳了两声，看着案上的宗卷，微微皱了皱眉头。\n　　前来禀报的天枢处官员揖手行了一礼，神情凝重说道：“十三先生离开王庭，想必现在已经进了天弃山，也不知道他究竟能不能找到魔宗山门，至于那卷天书……国师大人，如果朝廷不派高手过去，只怕很难在神殿眼前抢到手。”\n　　李青山摇了摇头，沉默片刻后说道",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "虽无能，他若不展露真实大境界暴起，想来也没道理就悄无声息把我从这个世间抹除，到了那时，长安城这座大阵瞬间便能镇压他。”\n　　现如今无论是西陵神殿还是大唐帝国，都不清楚那位光明神座逃离桃山之后为何要来长安城，若说是为了那个预言和十余年前的旧事，总觉得有些说不通。如果他想要对大唐帝国不利，那么李青山和黄",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "水雾，她想到一些事情，怔了怔后从大厢柜里抱出宁缺用的被褥，开门走进前铺，轻轻盖在了老人的身上。\n　　温暖的被窝是起床最阴险的敌人，所以第二天老人醒来时已经晚了，他看着铺外大亮的天光，想着忘了排队买酸辣面片汤，不由大惊。\n　　待匆忙起身准备洗漱时，他在井旁的小板凳上看到了一张用石头压住的纸条。\n　　纸",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "强地请老师先服药。\n　　李青山无奈地叹了口气，接过药碗缓缓饮入腹中，然后感慨说道：“你这般沉默倔强的性子，便是执掌天枢处也不合适，日后我若死了，你可怎么办啊？”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "道观后，他便再也没有做过洗碗抹桌子之类的杂事，无论是坐在神座之上还是被囚禁在桃山后麓的幽阁之中，都有无数人侍奉他的生活，身为云端之上的神座，双手哪里沾过阳春水？\n　　然而现在他必须学会这些事情，因为这是桑桑的要求――他是桑桑的老师，他也认为传人应该学会尊师重道，但他更很清楚，如果自己不听这个小姑娘的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "了他的身旁，低着头用双手高高举起药碗，沉默而倔强地请老师先服药。\n　　李青山无奈地叹了口气，接过药碗缓缓饮入腹中，然后感慨说道：“你这般沉默倔强的性子，便是执掌天枢处也不合适，日后我若死了，你可怎么办啊？”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "李青山轻轻咳了两声，看着案上的宗卷，微微皱了皱眉头。\n　　前来禀报的天枢处官员揖手行了一礼，神情凝重说道：“十三先生离开王庭，想必现在已经进了天弃山，也不知道他究竟能不能找到魔宗山门，至于那卷天书……国师大人，如果朝廷不派高手过去，只怕很难在神殿眼前抢到手。”\n　　李青山摇了摇头，沉默片刻后说道：“",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 975,
+  "chapter_title": "第一百四十八章 杀菩萨",
+  "filename": "ch_0975_第一百四十八章 杀菩萨.txt",
+  "char_count": 3413,
+  "timestamp": "2026-04-10T12:11:27.621383",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，甚至有可能两败俱伤。\n　　他看着骨象消失的方向，感慨道：“都说地藏菩萨，大慈大悲，坚毅无双，没料到最终也是个怕死的秃妒，果然是个假菩萨。”\n　　沉船起，河水分开一条道路，露出河上的天穹，雨云已散，船中积水流淌而净，行于水道之间。\n　　两旁的水壁很清澈，看不到游鱼，却能看到那些面容模糊的怨魂，还能看",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "弥散而虚！\n　　死亡之前，地藏菩萨的眼神有些惘然，因为他想不明白，她是最尊贵的昊天，拥有无尽的生命，为什么敢和自己赌命？\n　　他不知道，桑桑和宁缺本来就是去找佛祖赌命的。\n　　……\n　　……\n　　骨象向黑暗的河水深处退去，它右前肢已断，行走的极为缓慢，退行的过程里，不停甩着只剩下半截的骨鼻，显得极痛",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "人头幢上无数骷髅头，便代表着无数信徒的觉识，还有他们的不甘！\n　　宁缺身上被撕出了更多道伤口，耳膜也瞬间破裂，如果他不是浩然气大成，如魔宗强者一般拥有极强的身躯，必然会被这些啸声撕成了碎片。\n　　真正恐怖的伤害，并不在身上还是在心上，他的心脏忽然间跳的快了起来，如暴雨一般，每息跳动千次，随时都可能破",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "“有没有事？”\n　　桑桑说道：“如果他最后不退，或者会有事，但他退了。”\n　　宁缺先前一直在旁观这场战斗，他很清楚桑桑现在很虚弱，如果地藏菩萨最后还能保持心境，不见得会败，甚至有可能两败俱伤。\n　　他看着骨象消失的方向，感慨道：“都说地藏菩萨，大慈大悲，坚毅无双，没料到最终也是个怕死的秃妒，果然是个",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "。\n　　清澈的河水再次变得昏暗阴晦，仿佛黑夜来临，夜色里有无数尖锐难听的尖啸声响起，有无数骷髅头正在愤怒咆哮！\n　　一个骷髅头便代表着地藏王菩萨镇伏的一个信徒，人头幢上无数骷髅头，便代表着无数信徒的觉识，还有他们的不甘！\n　　宁缺身上被撕出了更多道伤口，耳膜也瞬间破裂，如果他不是浩然气大成，如魔宗强",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "在很虚弱，如果地藏菩萨最后还能保持心境，不见得会败，甚至有可能两败俱伤。\n　　他看着骨象消失的方向，感慨道：“都说地藏菩萨，大慈大悲，坚毅无双，没料到最终也是个怕死的秃妒，果然是个假菩萨。”\n　　沉船起，河水分开一条道路，露出河上的天穹，雨云已散，船中积水流淌而净，行于水道之间。\n　　两旁的水壁很清",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "会被这些啸声撕成了碎片。\n　　真正恐怖的伤害，并不在身上还是在心上，他的心脏忽然间跳的快了起来，如暴雨一般，每息跳动千次，随时都可能破裂！\n　　宁缺的意识很清醒，很痛苦，很恐惧，求生的本能，让他非常想离开这柄恐怖的人头幢，想要远离骨象回到沉船上，但他做不到。\n　　现在控制他身体的是桑桑。\n　　桑桑根",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "没有错，象鼻里是没有骨头的，哪怕是地狱冥河里的象也没有骨头，这头象之所以有道白骨组成的长鼻，是因为它来到佛祖的极乐世界之后，犹难忘记生前，所以在河底淤泥里拣了无数碎骨，自己做了个鼻子。\n　　象鼻里的那些碎裂白骨，都是人的骨头。骨象在冥河里听经无数万年，早已把这些人骨炼成了自己的法宝，佛威无边，所以先",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "地藏菩萨用左手握住了铁箭的前端。\n　　桑桑静静看着箭下的他，一道神念落在铁箭里。\n　　地藏菩萨神情凝重，宣了声佛号。\n　　桑桑松开手指，铁箭离弦而去。\n　　箭未动。\n　　地藏菩萨握着铁箭的箭杆，左手里金光大盛。\n　　骨象发出一声哀鸣，缓缓向下沉去，右前肢的骨头从中断开！\n　　桑桑与地藏菩萨之间，是",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的一声，刀锋割开菩萨身上的袈裟，斩断无数道金线，割死菩萨的法身，却只斩出一道微毫深的伤口，金色的鲜血缓缓渗出，没有淌下。\n　　桑桑不喜，于是宁缺皱了皱眉。\n　　她伸出右手落在菩萨的胸前，却把那根铁箭，从菩萨的背后抽了出来，用的依然是天意不可测的神奇手段。\n　　看着铁箭上带着的金血，桑桑有些厌憎，取出",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "依然毫不动容，握着手里的铁箭，继续向前送去。\n　　地藏菩萨的眉心涌出更多的金色鲜血，伤得越来越重，而同时，那些金色鲜血里的佛光，也让宁缺越来越痛苦。\n　　谁会先死？\n　　地藏菩萨看着浑身是血的宁缺，看着他身体里的昊天，神情慈悲说道：“以残躯换得昊天死亡，佛亦开颜。”\n　　桑桑面无表情，向前再踏一步，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "黑暗里的骨象，忽然间喷出一口鲜血，倒在了船上。\n　　桑桑交出了这具身体的控制权。\n　　宁缺睁开眼睛，担心问道：“有没有事？”\n　　桑桑说道：“如果他最后不退，或者会有事，但他退了。”\n　　宁缺先前一直在旁观这场战斗，他很清楚桑桑现在很虚弱，如果地藏菩萨最后还能保持心境，不见得会败，甚至有可能两败俱伤",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，也让宁缺越来越痛苦。\n　　谁会先死？\n　　地藏菩萨看着浑身是血的宁缺，看着他身体里的昊天，神情慈悲说道：“以残躯换得昊天死亡，佛亦开颜。”\n　　桑桑面无表情，向前再踏一步，铁箭再深一分。\n　　地藏菩萨再也无法保持平静慈悲的神情，满脸惊恐惘然，怒吼一声，右手散了甘露印，泛出金光一掌拍向宁缺的胸口。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "头幢乃地狱镇世法器，甘露印有不世慈悲，而这慈悲对中毒的桑桑，又是一番伤害。\n　　宁缺的身体被檀陀上的无数骷髅头尖啸撕裂，到处都是伤口，衣衫破烂淌血不止，又有无数怨魂受到经声感召，顺着河水流到他的身上，拼命地向着那些伤口里钻去，虽然刚刚接触到他的血液，便被里面蕴含的神辉净化，但伤害却留了下来，并且越积",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

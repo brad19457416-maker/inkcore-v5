@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 810,
+  "chapter_title": "第一百七十二章 联邦在行动",
+  "filename": "ch_0810_第一百七十二章 联邦在行动.txt",
+  "char_count": 3879,
+  "timestamp": "2026-04-10T12:05:17.578551",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "道，联想起某一天在街边对方说过的话，心中生出淡淡希望，虽然不多，但终究是有了。\n\n    “程序逻辑冲突。”李在道望着光幕上路面上的那道裂缝，皱眉说道：“这件事情刚刚有些眉目，但在没有掌握确实证据之前，我自己都无法相信能不能办到。”\n\n    他抬起头望着帕布尔总统说道：“我们需要一些时间，在这段时",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "。这荒谬吗？不，一点都不，因为我们都知道即将面临的是多么危险的人物。”\n\n    “我宣布，联邦进入秘密二级警备状态。”\n\n    帕布尔总统望着会议室内众人，沉默片刻后说道：“诸位，这是战争，这是联邦和一个人之间的战争，我们必须取得最后的胜利。”\n\n    从地下回到地面，清晨的总统官邸笼罩在淡金",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "够活着。”\n\n    “我也是这样想的。”李在道感慨说道：“一个陷入理念冲突的年轻军官，总比一个因为愤怒而疯狂的杀手要好对付些。”\n\n    “又是新的一天了。”帕布尔总统望着寄台下方的草坪，微笑说道：“又有新的挑战，新的问题等着我们去处理，只不过这次的问题看来似乎要更麻烦一些。”\n\n    李在道",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "斥道：“只要这个诡异的第一序列权限存在，中央电脑继续帮助他，那么联邦所有的自动监控，将会变得没有任何意义，数据和信息。你们或许不明白，所有的数据和信息，都在中央电脑的监控之下，抓住或者击毙他？我并认为靠着瘫痪了的二级监控网络，能够办到这一点。”\n\n    联邦调查局局长沉默无言以对，有些恼怒地用芋指",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "但我想在没有抓到他或者杀死他之前，他的那些队员最好能够活着。”\n\n    “我也是这样想的。”李在道感慨说道：“一个陷入理念冲突的年轻军官，总比一个因为愤怒而疯狂的杀手要好对付些。”\n\n    “又是新的一天了。”帕布尔总统望着寄台下方的草坪，微笑说道：“又有新的挑战，新的问题等着我们去处理，只不过",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "不知道中央电脑运作的程序机制，但他们非常清楚联邦是怎样的依赖宪章网络，现在他们最依赖的似乎成为了对手最强有力的武器，怎么可能不惶恐不安？\n\n    帕布尔总统看着光幕上最后那个镜头，微微蹙眉，摇头拒绝了这个提议，抬起手阻止阁员们惊疑不定的劝告，沉声说道：“我是联邦总统，如果因为恐惧而躲藏，难道我要躲",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "时候。这荒谬吗？不，一点都不，因为我们都知道即将面临的是多么危险的人物。”\n\n    “我宣布，联邦进入秘密二级警备状态。”\n\n    帕布尔总统望着会议室内众人，沉默片刻后说道：“诸位，这是战争，这是联邦和一个人之间的战争，我们必须取得最后的胜利。”\n\n    从地下回到地面，清晨的总统官邸笼罩在",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "马上展开通辑行动，力争在最短的时间内找到或者击毙此人。”\n\n    讨论到这个阶段，击毙这两个字终于出现在总统官邸的工作台光幕上，因为会议室里的所有人都相当清晰地知道，那个逃走的联邦英雄，是一个怎样危险的人物。\n\n    “第二点，宪章局必须尽快寻找到方法，解除许乐所具有的第一序列权限，我们不能允许",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "军全权负责，布林会是你们中间的联络官。”\n\n    坐在帕布尔总统身后角落里的官邸办公室主任布林，向众人点头致意。\n\n    总统先生继续布命令，虽然一夜未睡，但他的声音依然是那样浑厚有力，平静低沉的音调里透着股令人平静的感觉：“工作分成两个方向走，一，相关部门马上展开通辑行动，力争在最短的时间内找",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "政星系，加上逾百矿星上的数百亿公民，指挥上百万联邦部队的最高权力，结果却被两段简单的录像吓的躲进思明山腹的隐蔽基地。\n\n    对于会议室内的政丅府官员们来说，国家安全顾问的这个提议毫无疑问是打在他们脸上的响亮耳光，然而他们谁都无法反对这个提议，纵使内心觉得无比羞辱。\n\n    因为当他们看到光幕上",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "非常糟糕的消息，更糟糕的是众人都看出了这位宪章局局长眉眼间的疲惫和藏在最深处的放弃绝望情绪，场间不由紧张地沉默起来。\n\n    最开始便询问过宪章局的李在道将军，忽然平静开口说道：“关于许乐的权限问题……我想如果中央电脑不能主动解除他的权限，也许我们应该寻找到迫使中央电脑被动收回权限的方法。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的语气说道：“关于许乐上校的事情，必须严格保密，严禁传播到这间会议室之外。”\n\n    “政丅府必须马上成丅立专职部门应对此次突状况，由李在道将军全权负责，布林会是你们中间的联络官。”\n\n    坐在帕布尔总统身后角落里的官邸办公室主任布林，向众人点头致意。\n\n    总统先生继续布命令，虽然一夜未",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "堂联邦总统，被赋予管理三个大区，近十个行政星系，加上逾百矿星上的数百亿公民，指挥上百万联邦部队的最高权力，结果却被两段简单的录像吓的躲进思明山腹的隐蔽基地。\n\n    对于会议室内的政丅府官员们来说，国家安全顾问的这个提议毫无疑问是打在他们脸上的响亮耳光，然而他们谁都无法反对这个提议，纵使内心觉得无",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "惊疑不定的劝告，沉声说道：“我是联邦总统，如果因为恐惧而躲藏，难道我要躲藏整个任期？”\n\n    他缓缓扫视会议室内一眼，用不容质疑的语气说道：“关于许乐上校的事情，必须严格保密，严禁传播到这间会议室之外。”\n\n    “政丅府必须马上成丅立专职部门应对此次突状况，由李在道将军全权负责，布林会是你们",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "帕布尔总统看着光幕上最后那个镜头，微微蹙眉，摇头拒绝了这个提议，抬起手阻止阁员们惊疑不定的劝告，沉声说道：“我是联邦总统，如果因为恐惧而躲藏，难道我要躲藏整个任期？”\n\n    他缓缓扫视会议室内一眼，用不容质疑的语气说道：“关于许乐上校的事情，必须严格保密，严禁传播到这间会议室之外。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

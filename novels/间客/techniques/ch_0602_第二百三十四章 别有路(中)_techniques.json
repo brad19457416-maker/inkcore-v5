@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 602,
+  "chapter_title": "第二百三十四章 别有路(中)",
+  "filename": "ch_0602_第二百三十四章 别有路(中).txt",
+  "char_count": 3255,
+  "timestamp": "2026-04-10T12:05:08.534052",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "他身后那位老爷子的忌惮。\n\n    这种日子非常地令人苦恼。\n\n    林牛海取了一杯特酿。坐在了海风中的躺椅上，心中生出几丝怨气，长辈们默视他们做了这件事，结果却要他们这些年轻人来承担失败的后果。\n\n    手指在光滑的水晶杯脚下滑过，他想起昨夜那个女人脂般的肌肤，满意地笑了起来，然而这笑容马上敛",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "旁的保安神情微凛，上前询问却得不到任何回答，试图阻拦，却被这今年轻男人脸上的表情震的脚步微缓，只是一瞬间，对方便走出了极远的距离。\n\n    看着那个令他感到有些心惊肉跳的背影，保安毫不犹豫按响报警按扭，然而依然没有报警声响起，平日里出小时保持警惧的枪牌保安，也没有一个人出来。\n\n    里面是海风",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "自己的实力，本不应该忌惮面前这个赤手空拳的人，但是外围的安静和少爷此时的神情，向他们充分证明了此人的危险性。\n\n    “把枪收起来吧庄园名义上的主人，李飞绒女士面无表情地走了过来，平静说道：“就算是帝国人的机甲，面对着许乐中校也没有任何办法，更何况是几把枪。www.xiaoshuotxt。com",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "绒绒姐，那些家伙又在玩什么？”他问道。\n\n    那名少*妇嫣然一笑，说道：,“还能有什么，不就是男人们喜欢的那些东西\n\n    林斗海的脸上闪过一丝古怪的表情，那边建筑群里的友人们喝了一通宵烈酒，自然会放肆些许，只是能进入这个庄园的年轻人，身后自有背景，也更清楚此间主人的规矩，应该不敢胡来吧？心情",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "绪变得快活起来。\n\n    “绒绒姐，那些家伙又在玩什么？”他问道。\n\n    那名少*妇嫣然一笑，说道：,“还能有什么，不就是男人们喜欢的那些东西\n\n    林斗海的脸上闪过一丝古怪的表情，那边建筑群里的友人们喝了一通宵烈酒，自然会放肆些许，只是能进入这个庄园的年轻人，身后自有背景，也更清楚此间主",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "为十几年来，她一直想成为大哥真正的女人。\n\n    很拗口，林斗海浅尝一口酒，微嘲想道，世界上的很多道理总是需要由这些拗口的语芊来说明。就像走工,路一样，你总要绕很多弯子，才能把车开到山顶。\n\n    许乐从来不绕路。\n\n    在虎山道抽刀劈人。在研究所拔斧砸门，他的手向来只会挥舞出直线。从东林走",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "枪牌保安，也没有一个人出来。\n\n    里面是海风是春林是林间隐着的建筑群和宽阔的场所。没有任何保安出现，四周一片安静。只有海风与林梢纠缠的声音，警戒森严的别有江山，此刻对许乐完全敞开了大门，场景感觉有些诡异。\n\n    顺着直线向海畔某处走去的许乐，忽然感觉隐藏在耳朵里的低频蜂鸣器作响，他站在一棵",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "又怎么知道我们做什么？”\n\n    李飞绒摊手无言，表示自己的抱歉和爱莫能助。\n\n    林斗海波有脾气，只是沉默地看着空海。\n\n    庄园的海岸线上没有任何电动设备，那是因为大哥不喜欢庄园太闹，他对身旁这个女人表示尊重，是因为这个女人是大哥的女人。而这个女人之所以如此尊重和善待自己，是因为十几年",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "林斗海的脸上闪过一丝古怪的表情，那边建筑群里的友人们喝了一通宵烈酒，自然会放肆些许，只是能进入这个庄园的年轻人，身后自有背景，也更清楚此间主人的规矩，应该不敢胡来吧？心情依然郁郁，他蹙着眉头转动着酒杯，只要许乐在联邦中风光一天，他大概便会低沉一日，只是如今看来，要杀这个家伙似乎越来越困难。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "月前才结束了软禁。\n\n    虽然不再被软禁，却依然有很多地方不能去，林家的态度依然谨慎甚至显得有些紧张，完全不像千世之家的淡然作派，从此点上可以看出他们对许乐以及他身后那位老爷子的忌惮。\n\n    这种日子非常地令人苦恼。\n\n    林牛海取了一杯特酿。坐在了海风中的躺椅上，心中生出几丝怨气，长辈",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "园外围银灵车中的利孝通怔怔望着电话，沉默不语，紧接着他迅地拨打了家族内部几个人的号码，确认了某些他所担心的事情，白哲的面容变得震惊无比。对司机冷声说道：“最快的度，赶到海畔别。\n\n    利七少爷试图阻止某件事情生的时候，许乐已经一个人走进了白黄色克洛风格小楼包围间的海畔庭园，这片庭园占地极广，白石",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "有一个人出来。\n\n    里面是海风是春林是林间隐着的建筑群和宽阔的场所。没有任何保安出现，四周一片安静。只有海风与林梢纠缠的声音，警戒森严的别有江山，此刻对许乐完全敞开了大门，场景感觉有些诡异。\n\n    顺着直线向海畔某处走去的许乐，忽然感觉隐藏在耳朵里的低频蜂鸣器作响，他站在一棵大树下稍作停留",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "林斗海握着杯脚的手指微微用力，眉眼间浮起淡淡怨意，他恨自己的兄长，却更恨让南相美跳脱出一味温柔性情，敢于说不的许乐。\n\n    “你的心情似乎不大好？。\n\n    一名三十岁左右的少*妇款款而至，微笑着坐在了他的身边，岁月的痕迹在她的脸颊上确实留下了一些痕迹，但那些痕迹并不沧桑，一味熟媚，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

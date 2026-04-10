@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 434,
+  "chapter_title": "第二百三十八章 破甲",
+  "filename": "ch_0434_第二百三十八章 破甲.txt",
+  "char_count": 4432,
+  "timestamp": "2026-04-10T12:11:21.782172",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "无数破洞，隐见血色。\n　　他手中握着那把血色巨刀也有些黯淡。\n　　……\n　　……\n　　大唐军队，毫无疑问是世间最强大的军队。\n　　过往这些年里，他们在夏侯大将军的指挥下，东征燕国，北攻荒原，战无不胜，攻无不克，骄傲自信到了极点。\n　　然而在这个人面前，他们无法骄傲。\n　　唐军不会畏惧修行者，因为他们",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "一般撞击在一起，恐怖的撞击声向四周波荡开来。\n　　那把锋利的血色巨刀，在空中激起无数道啸鸣，仿湛蓝的天空仿佛都要被劈开，然而大部分刀势，却被一双铁拳封住。\n　　偶有刀芒破开夏侯铁拳，落在他的身上，夏侯战袍之内便会泛起淡黄色的光泽，让锋利的巨刀无法噬入体内。\n　　血色巨刀是魔宗山门至强的武器，虽然无法",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "不敢不容我。”\n　　唐说道：“大唐皇帝能容你，是因为你有军功，他或许早就想除了你，只是不想与西陵正面冲突，又没有什么证据，所以才会驱你为虎长驻疆外，而书院之所以不杀你，是因为书院里的人们早就忘了怎么杀人。”\n　　“也许你说的有道理。”\n　　夏侯面无表情看着他说道：“但你不是昊天道门，也不是大唐天子，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "提醒过我，夏侯很怕水。”\n　　宁缺坐在井沿，看着静而无波，幽深黑沉的井水，说道：“但我不明白一个武道巅峰的强者为什么会怕水，也许是夏侯故意说出来骗人，所以我不会试图淹死他，我决定打死他后再把他种荷花。”",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "敌人只是一个人，唐军已经做好了万全的准备，但他们依然察觉到了前所未有的危险，草甸上下的气氛变得异常紧张。\n　　唐站在草甸里，站在那些微微塌陷的坑里，站在数百名天下最精锐唐骑之前，站在无数弩箭之前，神情依旧平静，依旧沉默，似乎什么都没有看到。\n　　他的眼中只有不远处的夏侯。\n　　唐还是穿着那件普通的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "只是不想与西陵正面冲突，又没有什么证据，所以才会驱你为虎长驻疆外，而书院之所以不杀你，是因为书院里的人们早就忘了怎么杀人。”\n　　“也许你说的有道理。”\n　　夏侯面无表情看着他说道：“但你不是昊天道门，也不是大唐天子，更不是书院，所以你杀不了我，而现在整个世间，只有你想杀我。”\n　　唐说道：“为何我",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "才会驱你为虎长驻疆外，而书院之所以不杀你，是因为书院里的人们早就忘了怎么杀人。”\n　　“也许你说的有道理。”\n　　夏侯面无表情看着他说道：“但你不是昊天道门，也不是大唐天子，更不是书院，所以你杀不了我，而现在整个世间，只有你想杀我。”\n　　唐说道：“为何我杀不了你？”\n　　夏侯看着他手中握着的那把血",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "个铁人，也感觉到了疲累。\n　　尤其是先前与夏侯这一战，时间虽然短暂，但他却受了很重的伤，胸腹间的皮袄出现了无数破洞，隐见血色。\n　　他手中握着那把血色巨刀也有些黯淡。\n　　……\n　　……\n　　大唐军队，毫无疑问是世间最强大的军队。\n　　过往这些年里，他们在夏侯大将军的指挥下，东征燕国，北攻荒原，战无",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "什么从去年开始，你一直试图要杀我，甚至冒着死亡的危险也要杀我。”\n　　唐摘下毡帽，扔到脚下，然后缓步走出塌陷的草海地面，走到夏侯身前十余丈外，说道“因为山门里有很多人在等着你回去。”\n　　夏侯微微皱眉。\n　　那双如铁丝雕镂出的眉毛，一旦皱起，显得那般冷硬。\n　　魔宗山门里早已经没有活着的人，只有满地",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "两道几乎不分先后的闷响。\n　　夏侯与唐身上的霸道气息，随着双脚落地而向地外泄散一分，靴底的草原地面，骤然塌陷，变成了两个土坑，坑中春草俱化为断屑，就如同新修未封的坟。\n　　“敌袭！”\n　　“有刺客！”\n　　纵然面临的是魔宗山门天下行走这样的绝世强者，训练有素的大唐边军在稍一混乱之后，以强悍的意志清醒",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "百名大唐骑兵，听着这句话，面色骤然沉肃，抽出鞘中的朴刀，沉声集体喝道：“诺！”\n　　数百把朴刀从鞘中同时抽出，那些锃锃的声音合在了一起，变成一种极富庄严甚至是悲壮感的曲调。\n　　中原联军与荒人部族的战争结束后的这些天里，草甸上的那个穿皮袄的男子，在唐军周边出现了七次。\n　　唐骑围捕了他七次，然而却没",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "负责诛灭叛徒的不是二十三年蝉，而是二十三年蝉的徒弟，他承认唐说的对，他现在确实比当年更怕死，但他并不担心自己会死在唐的手中或者是腿下。\n　　因为唐虽然是世间最强大的人之一，但他同样如此。\n　　如果来的是二十三年蝉，他除了逃回长安，别无它法。\n　　夏侯如此想到。\n　　……\n　　……\n　　雁鸣山下的雁鸣",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "会畏惧修行者，因为他们认为再强大的修行者，在玄甲重骑和弩箭之下，都和普通人没有什么区别。\n　　但他们从来没有见过像唐这般强大的修行者。\n　　大唐骑兵统领盯着远处那个穿皮袄的男子，寒声说道：“如果今天还不能把这个怪物杀死，那么我们还有什么脸自称唐骑？”\n　　草甸下方数百名大唐骑兵，听着这句话，面色骤然",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "对骄傲的唐骑们来说，这是最大的羞辱。\n　　苍凉呼啸的军笛在草甸四周响起，近八百骑大唐重甲玄骑开始缓缓布置阵形，军营处的弩箭阵师也向前推了数十丈。\n　　一场世间至强骑兵对世间最强修行者的冲锋，即将展开。\n　　“叛出山门之后，你果然变成了一个怯懦的小人，永远只知道躲在军营里，永远只知道让自己的手下送",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "区别。\n　　但他们从来没有见过像唐这般强大的修行者。\n　　大唐骑兵统领盯着远处那个穿皮袄的男子，寒声说道：“如果今天还不能把这个怪物杀死，那么我们还有什么脸自称唐骑？”\n　　草甸下方数百名大唐骑兵，听着这句话，面色骤然沉肃，抽出鞘中的朴刀，沉声集体喝道：“诺！”\n　　数百把朴刀从鞘中同时抽出，那些锃",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

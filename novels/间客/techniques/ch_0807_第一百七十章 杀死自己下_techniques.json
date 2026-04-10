@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 807,
+  "chapter_title": "第一百七十章 杀死自己下",
+  "filename": "ch_0807_第一百七十章 杀死自己下.txt",
+  "char_count": 3525,
+  "timestamp": "2026-04-10T12:05:17.574167",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "色机甲群的后背和机械腿j1，出令人耳酸的金属绽裂声，时不时有分不清是弹 头还是机甲金属碎片的残砾飞向天空，射向地面，嗤嗤之声不断。\n\n    黑色，机甲围成一圉，没有还击，没有趋避，只是安静的跪着，与身上承受的猛烈打击，高温激起的烟尘，摇晃不安的街灯，急促高声的呼喊形成了鲜明的对比，在这一刻，它们就",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "业区小广场中心区域起了射击。\n\n    迸迸迸迸！沉闷的弹头高轰击合金护金的声音响起，无数刺目的弹火瞬间照亮这个春夜的街头，外围装甲车上携有的大火力枪械喷吐着子弹，准确地将广场中心地带便成了一片死亡的沼泽。\n\n    非常令人奇怪的是，那十余台黑色机甲在将装甲车推开，占据广场中心内园区域后，并没有马",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "队，他惊慌失措大声吼叫，想要对那支部队的指挥官进行示警，却无法让自己的声音传出机甲，他站车起来，慌乱愤怒地用力拍打沉重的舱门，却只能收获徒劳绝望的结果。\n\n    眼睁睁地看着袭击生，看着这台 已经不受自己控制的黑色mx机甲，就像是忽然拥有了自己的灵魂，诡异地开始自行攻击，机师脸色苍白，浑身被冷汗湿",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "自爆程序是机甲封闭内系统内的最外缘程序，在手动操作的前提前，所有自动系统都无法阻止，就连那个像幽灵般存在于这十几台黑色机甲间的伟大存在，也无法做到这一点。\n\n    要冒险赌一把吗？反正自色屙二会死，在这短暂的瞬间内，许乐或许想了很多，或许根本什么都没有想，只是按照自己的本能行事，猛地向后一翻，直接",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，只是有时候会下意识里摸一摸左手上的金属手镯。\n\n    大都市如蛛网般的地下管线，对于许乐来说并不陌生，去年在帝国天京星，他就是依靠着这些老鼠王国的高公路系统，才 成功地躲过了怀草诗的捕杀，只不过那时他需要借助手镯里的电子地图进行定位，如今在联邦，他却只需要看着左眼瞳中那些精确即时到了极致的地图显",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "尘毫不留情地一通狂扫。\n\n    不知道过了多久，沉闷响亮的射击声终于停止，铁七师官兵们紧握着枪械，紧张地等待着烟尘散去的那瞬间。\n\n    路面已经塌陷，露出可容两人通过的洞口，然而一台沉重的黑色c&1t;机甲不知道什么时候倒了下来，用沉重的机身把那个洞口压的只留下一道缝隙，看上去就像是战场上用胸",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "瞳中那些精确即时到了极致的地图显示。“那台机甲里有人，是不是一开始的时候，你就不愿意送一台完好无损的战斗机甲给我，因为这可能造成我去杀害别的人类？”\n\n    不知道沉就前行了多长时间，他忽然低声说道，声音在幽静空旷的空间里回荡飘摇，变得有些含糊不清。\n\n    运算度被赞美于可以与光线较量长短的联",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "抠动扳机，向商业区小广场中心区域起了射击。\n\n    迸迸迸迸！沉闷的弹头高轰击合金护金的声音响起，无数刺目的弹火瞬间照亮这个春夜的街头，外围装甲车上携有的大火力枪械喷吐着子弹，准确地将广场中心地带便成了一片死亡的沼泽。\n\n    非常令人奇怪的是，那十余台黑色机甲在将装甲车推开，占据广场中心内园区",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "损的战斗机甲给我，因为这可能造成我去杀害别的人类？”\n\n    不知道沉就前行了多长时间，他忽然低声说道，声音在幽静空旷的空间里回荡飘摇，变得有些含糊不清。\n\n    运算度被赞美于可以与光线较量长短的联邦中央电脑，对于这个问题似乎觉得有些麻烦，停顿了大概两秒钟后，才在他的脑海中回答道：“我不能确认",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "铐和合金架只带着欺媚悍的意味，在没有人能够听到的那个空间里，响起老东西的声音：你怕死吗？当然怕，那你为什么眼睛都不眨上下 -？因为有权在，-我为什么要怕，没有人能够杀死我，除非我自己想杀死自己。\n\n    商业区小广场上的夜风骤然间升温，十余台黑色的mx机甲引擎轰鸣巨响，奎态快转变，强劲的机械臂横横",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "美地利用角度，全方位遮挡着街道四周射来的子弹，而向着内围中心那辆破损装甲车的一面，所有机甲的座舱已经缓缓开启，对着刚刚爬出装甲车顶破损口的许乐，就像是无数宝座同时开启，迎接王者的归位。\n\n    他站在装甲车上，看着面前的黑色机甲，听着外围急促恐怖的弹道声，没有丝毫犹豫，力量贯入双腿，用力一蹬，跳j",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "心那辆破损装甲车的一面，所有机甲的座舱已经缓缓开启，对着刚刚爬出装甲车顶破损口的许乐，就像是无数宝座同时开启，迎接王者的归位。\n\n    他站在装甲车上，看着面前的黑色机甲，听着外围急促恐怖的弹道声，没有丝毫犹豫，力量贯入双腿，用力一蹬，跳j1 了机甲左平台，就如一道轻烟再次一跃，便直接踏上了黑色机",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "悉，他知道自己不会犯错，他更清楚只要自己进入机甲，便可以获得绝对的安全保障，所谓机甲在手的强大自信，从来没有消褪过一丝，然而当他的右脚踏上厚实的机甲座舱门时，身体却不由僵了僵。因为机甲里面有人。\n\n    一名隶属于铁七师的机师，脸色苍白地望着他，左手紧紧按着一个按钮，右手正快摸向腰畔的手枪，眼瞳里",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "对于许乐来说，mx机甲就像自己一手带大的孩子般熟悉，他知道自己不会犯错，他更清楚只要自己进入机甲，便可以获得绝对的安全保障，所谓机甲在手的强大自信，从来没有消褪过一丝，然而当他的右脚踏上厚实的机甲座舱门时，身体却不由僵了僵。因为机甲里面有人。\n\n    一名隶属于铁七师的机师，脸色苍白地",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

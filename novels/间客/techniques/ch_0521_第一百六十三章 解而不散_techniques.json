@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 521,
+  "chapter_title": "第一百六十三章 解而不散",
+  "filename": "ch_0521_第一百六十三章 解而不散.txt",
+  "char_count": 3439,
+  "timestamp": "2026-04-10T12:05:08.549980",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "不要忘了，我可是有资格当果壳机动一级技术主管的家伙，怎么也要算个知识分子吧？”\n\n    白玉兰沉默心想，你又开始提及从来没有任何人知道的少年时期了，不由略感郁闷，柳叶般的双眉被停机坪上的大风吹的柔顺不安。\n\n    七组队员们没有乘坐基地派来的军车，向外围走去。\n\n    队员们禀持着老七组及83",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "在等待轮休的日子里，宪章局的沉默让基地所有官兵确认了许乐不会接受任何惩处，好一片春光灿烂，意气风发。很有爱的。趁着上级没有人敢在此时来正面挑战许乐的机会，七组老队员们冒险深入战区，在河滩处收敛了牺牲队员们的遗体，焚为无数捧灰白而结块不匀的骨灰，极为珍重地收纳于一副礼仪军棺之中。\n\n    忽然",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "是一天，我相信这些道理的生命力，总比我们**十岁的人生要更长远一些。”\n\n    “所以有些牺牲是有价值的。”许乐看着队伍右侧的军棺和棺木上覆盖的联邦军旗，很有爱的说道：“更何况这些兄弟死了，是为了让你们活着，所以我认为，哪怕是为了他们，你们也应该更好的活着。”\n\n    他看到那位州长家的公子，达",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "立下的战功，为果壳机动挣取的颜面，为联邦和平做出的贡献。\n\n    人均十七万联邦币的火线津贴，毫无疑问是联邦中少有的福利。然则七组中的新队员——那些纨绔老爷兵们还真不在乎这个，他们所拥有的良渥环境和显赫家世，足以令他们将这些看成小钱。\n\n    可很奇妙的是，新队员们收到这笔津贴之后，都显得格外兴",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "当前的形势对于联邦来说一片大好，胜利军事行动进入了攻坚阶段，在三颗行星上奂责铺网工作的无数战斗小组，也迎来了难得的休整时间，乘坐联邦运输战舰回到了西林主星。\n\n    在等待轮休的日子里，宪章局的沉默让基地所有官兵确认了许乐不会接受任何惩处，好一片春光灿烂，意气风发。很有爱的。趁着上级没有",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "总是从门外投来，许乐的影子总是向后方倒下，越不过面前这道并不高的门槛，就如他骨子里依然有些循规蹈矩的性格那般。\n\n    他站在门口不停地挠头迟疑，久久无法踏出一步，虽然明知踏也（出）一步便是某种自由。没有任何人发布命令，指挥部也没有下发任何指示，可那两名宪兵已然沉默绝尘而去，这一步究竟是踏得还是踏",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "们的质询，沉默数十日，悄然沉默地重构宪章网络，然后开始了在三颗沦陷星上的全面攻势，九十几个整编师如同无数支饥饿的猛虎，咆哮于三颗星球的地表之上，借助联邦中央电脑的计算能力和宪章光辉照妖镜般的效能，狠狠地击打着帝国远征军最后的主力部队。\n\n    当前的形势对于联邦来说一片大好，胜利军事行动进入了攻坚",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "效能，狠狠地击打着帝国远征军最后的主力部队。\n\n    当前的形势对于联邦来说一片大好，胜利军事行动进入了攻坚阶段，在三颗行星上奂责铺网工作的无数战斗小组，也迎来了难得的休整时间，乘坐联邦运输战舰回到了西林主星。\n\n    在等待轮休的日子里，宪章局的沉默让基地所有官兵确认了许乐不会接受任何惩处，好",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "半已经牺牲，如此大的损耗，不可能让军方指挥部敢留他们于前线阵地之中。\n\n    在此时刻，兰晓龙淡然说道：以后还有的是仗打，且等着吧。就这一句话，说服了很多人，队员们撤退的虽然难以谈及心甘情愿，总也是没有太多的抵触情绪。\n\n    在回主星的运输舰上，七组队员们收到了另一项礼物一一果壳机动公司向所有",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "长风基地西北角，七组队员们从运输舰腹门处鱼贯而出，然后在大风起兮的机坪上肃然站立，列队等待，后方缓缓走来六个戴着白手套的新兵，他们抬着一具黑色的礼仪军棺，脸色涨的通红，表情却严肃至极，军装的衣角都没有颤动一丝。\n\n    四周不停有结束任务的官兵们欢呼着走过，好不容易离开血雨腥风的前线，迎来休整",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "牺牲，如此大的损耗，不可能让军方指挥部敢留他们于前线阵地之中。\n\n    在此时刻，兰晓龙淡然说道：以后还有的是仗打，且等着吧。就这一句话，说服了很多人，队员们撤退的虽然难以谈及心甘情愿，总也是没有太多的抵触情绪。\n\n    在回主星的运输舰上，七组队员们收到了另一项礼物一一果壳机动公司向所有队员们",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "为，哪怕是为了他们，你们也应该更好的活着。”\n\n    他看到那位州长家的公子，达文西的唇角现出一丝温暖的微笑，用力地点了点头。\n\n    “请你们忘了他们，好好过活。”许乐最后说道。\n\n    兰晓龙在他身后大声喊道：“解散！”\n\n    “说的很好。”白玉兰在他身后说道。\n\n    “我不是天生",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

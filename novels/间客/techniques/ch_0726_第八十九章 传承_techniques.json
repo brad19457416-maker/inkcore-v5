@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 726,
+  "chapter_title": "第八十九章 传承",
+  "filename": "ch_0726_第八十九章 传承.txt",
+  "char_count": 3461,
+  "timestamp": "2026-04-10T12:05:17.581511",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "乐的心中油然而生，他想起多年前邹部长在宾馆那间办公室里的话：军队，不允许拥有自己的思想，因为那样会太危险。\n\n    作为拥有恐怖军事力量的人，却警慢这种恐怖的力量，并且自主寻找控制这种力量的方法，而且如此坚定，这样的军人，才是真正的军人，联邦的中统砥柱。\n\n    “非常感谢您的支持。”许乐敬了一",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "走廊尽头，李匹夫缓缓站住脚步，缓缓站直身躯，动作虽缓，却蕴着某种令人不敢怀疑的力量，就像是一座被年月风雨侵蚀的将要崩塌的高峰，再次强横地站了起来，漠然直视无情的苍穹。\n\n    “我已经给何英**官打了电话。”\n\n    许乐停下了脚步，怔怔望着老爷子的后背，这才知道从始至终，老爷子没有说过一句话，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "大概是因为这些记者们很清楚，今天拍摄的画面，对于整个联邦来说，甚至对于历史来说，具有怎样的意义。\n\n    费城院中，石阶之上，有军神李匹夫，有许乐上校。\n\n    他们正在握手。\n\n    这就是传承。\n\n    “我还有一个疑问，为什么……您愿意把当年的故事如此详细地讲给我听？”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "有军神李匹夫，有许乐上校。\n\n    他们正在握手。\n\n    这就是传承。\n\n    “我还有一个疑问，为什么……您愿意把当年的故事如此详细地讲给我听？”\n\n    “因为，或许在并不久远的将来，还有很多类似的俗套的故事将要生，所以我希望你能从以前的这个故事中学到某些东西。”\n\n    这是许乐告",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "道将军。\n\n    “我……”今天真的觉得有些受宠若惊。”\n\n    许乐看着身旁的李在道将军，有些紧张解释道，在联邦参谋朕席会议主席即将更替的时刻，他本以为李在道将军肯定会留在都特区，没有想到对方竟然回到了费城，稍一堆论，便知道对方是为了谁而来。\n\n    对于这位充满学者风度，夹在军神李匹夫和李",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "还有一个疑问，为什么……您愿意把当年的故事如此详细地讲给我听？”\n\n    “因为，或许在并不久远的将来，还有很多类似的俗套的故事将要生，所以我希望你能从以前的这个故事中学到某些东西。”\n\n    这是许乐告别老爷子之前，二人最后的一段对话。他不知道将来可能生的俗套故事是什么，震动莫名，又有些惘然地",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "受不了这种压力，所以只好将压力传给了李封。”\n\n    “李封十二岁离家入伍，战斗杀人，抓紧每一秒钟拼命地训练，为了什么？就是为了保住李家的荣光，而这对他的人生其实是一种伤害。”\n\n    迎着西边缓缓落下的霞光，李在道将军望着他温和说道：“所以我一直对他有很浓重的歉疚心理，如果你能将这种压力从这个",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "城半日，在温泉水池内讲了一个久远的故事，许乐替老人搓了很久的背，但这个抬臂拍肩的动作，却是军神老爷子第一次用动作表示某种亲曙，二人间相距半米，许乐却根本没有察觉到老爷子抬臂伸肘，更来不及做出躲避或是其它的反应，便现那只苍老的手落到了自己的肩头，然后轻轻地拍了两下。\n\n    联想起茶室中那杯安静狂暴",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "（其实昨儿是在海边风吹狠了，不过不想说后被人说是找借口，所以干脆不说，今儿提一声，主要是感慨一下，我蛮喜欢海的，以后挣了大钱，定要来海边买个房子，庆余年最后那句挺俗的话……真好。明日飞机去江南，会更新。小.说.t.xt.天.堂",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "……”\n\n    听到这句话，许乐险些绊倒在地，对军神老爷子的性情再次有了更清晰的认知。\n\n    来到走廊尽头，李匹夫缓缓站住脚步，缓缓站直身躯，动作虽缓，却蕴着某种令人不敢怀疑的力量，就像是一座被年月风雨侵蚀的将要崩塌的高峰，再次强横地站了起来，漠然直视无情的苍穹。\n\n    “我已经给何英**",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "联邦立下的功勋，肯定有资格当一名少将。不过国防部征询我意见的时候，我压了下来……”老爷子背负着双手，缓缓在清幽的木廊里行走，并未加（是抬吧？）头，低声说道：“毕竟你年龄太小，作为补偿，给你一件衣服过过瘾……”\n\n    听到这句话，许乐险些绊倒在地，对军神老爷子的性情再次有了更清晰的认知。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "满头白在电吹风下猎猎飞舞的军神老爷子，更觉得这副画面有些荒唐好笑。\n\n    “至于别的事情，不需要担心。”强大的风力将军神老爷子的话语吹的有些飘忽不定：“我那个儿子虽然不会打架，但他比联邦所有人认为的都强大很多……”\n\n    听到这句话，许乐终于放下心来，只要军神老爷子同意李在道将军出任参谋朕席",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "地板上，啪啪清亮作响。\n\n    “我可不想当将军。”他余光瞥了一眼耀上的少将肩章，对着老人身影大声说道：“我来费城，想说的也这不是这些。”\n\n    “以你为联邦立下的功勋，肯定有资格当一名少将。不过国防部征询我意见的时候，我压了下来……”老爷子背负着双手，缓缓在清幽的木廊里行走，并未加（是抬吧？",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

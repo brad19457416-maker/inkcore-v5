@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 686,
+  "chapter_title": "第六十七章 雪海拾鱼及遗",
+  "filename": "ch_0686_第六十七章 雪海拾鱼及遗.txt",
+  "char_count": 3330,
+  "timestamp": "2026-04-10T12:11:26.915753",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "。”\n　　宁缺指着荒原上空那轮有些清淡的日头，说道：“这就不能是假的！阳光是啥？那就是昊天神辉！昊天为什么不能吃这个，非得吃什么天地元气？”\n　　“你想过没有，太阳散发的昊天神辉，并不是昊天的食物，而是昊天的外显形态？就像我们的外显形态是人肉，难道我们还要以人肉为食？”\n　　“真饿极了，什么事儿做不",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "理，我开始思考这些事情的时候，你还在李三娘的肚子里，所以你老老实实听着就好，争吵除了浪费时间还有什么意义？”\n　　宁缺说道：“别提我妈，虽然您是我老师，再提我妈，我也要和你翻脸。”\n　　夫子说道：“为什么？”\n　　宁缺说道：“我爸我妈被人杀的时候，你就在书院看着，也没说救他们。”\n　　夫子说道：“世",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "场梦！就算您说出花儿来，我也不会相信！怎么可能是假的呢？我把她养了这么多年，难道白养了？”\n　　夫子心想，在如此激动愤怒崩溃的精神状态下，你还是只关心那丫头是不是白养了，果然不孝到了极点，恼火说道：“太阳是假的，又不代表你我是假的。”\n　　宁缺指着荒原上空那轮有些清淡的日头，说道：“这就不能是假的！",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "么，我只想知道，接下来我们去哪里？”\n　　……\n　　……\n　　黑色马车来到一片很寒冷的地方。\n　　寒风如怒，黑夜如幕，星光暗淡，正是极北寒域，热海之畔。\n　　只是热海海面早已冰冻，积着不知多深的雪，叫雪海更为准确。\n　　大黑马纵非凡物，也被此间的寒冷冻的够呛，瑟瑟发抖地躲在车厢一边，避着热海面上刮来",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "冷淡，而且隐隐要推演出更多可怕的世界阐述，他终于承受不住，当场崩溃了。\n　　他跳了起来，挥舞着手臂，愤怒地大喊道：“怎么能是假的呢？它天天东升西落，长安城的夏天热的要死人，这怎么就能是假的呢！”\n　　夫子被他的反应吓了一跳，说道：“只是讨论一下，不用这么激动吧？”\n　　宁缺依然很激动，说道：“怎么能",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "假的呢？它天天东升西落，长安城的夏天热的要死人，这怎么就能是假的呢！”\n　　夫子被他的反应吓了一跳，说道：“只是讨论一下，不用这么激动吧？”\n　　宁缺依然很激动，说道：“怎么能不激动？昊天要吃人也就算了，您现在要我相信太阳是假的，那这个世界莫非也是假的？您千万不要告诉我，我在这个世界里活了这么多年，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "到夫子出现在荒原之上，他才终于感到放松和安全，却没有想到，紧接着，老师便开始带他进入连续的玄妙而令人压抑不安的话题讨论。\n　　他的精神再次变得紧张焦虑不堪，好不容易想到一种可能，可以让这个灰暗的世界变得明朗些，不料老师的回答竟是这样的冷淡，而且隐隐要推演出更多可怕的世界阐述，他终于承受不住，当场崩溃",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "说道：“你在瞎想什么呢？”\n　　宁缺眉头微皱说道：“我也希望是在瞎想……身为书院弟子，我们坚信老师是最强的，尤其是这次之后，我更是确信，除了昊天，没有任何存在能够威胁到他老人家，但不知道为什么，我就是觉得事情有些不对劲。”",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "看着，也没说救他们。”\n　　夫子说道：“世间每天死的人多了，难道我每个都要去救？”\n　　“您明知道我将来会是你的学生，为什么不救他们？是不是想着救了他们，我便有可能当不成你的学生？这是不是太恶毒了些？”\n　　“每个人都会死，你父母的死那是天意，我自不能妄加干涉。”\n　　“老师，你这辈子在做什么？你是",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "第六十七章 雪海拾鱼及遗\n　　从烂柯寺落下佛光开始，宁缺一直处于极端紧张焦虑的状态之中，直到夫子出现在荒原之上，他才终于感到放松和安全，却没有想到，紧接着，老师便开始带他进入连续的玄妙而令人压抑不安的话题讨论。\n　　他的精神再次变得紧张焦虑不堪，好不容易想到一种可能，可以让这个灰暗的世界变得明朗",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "进了夫子腹中，大概是觉得有些惭愧，夫子很慷慨地动用神通，在冰冻的雪海某种坳口里，生生融出两洼温泉，供大家享受。\n　　热雾蒸腾，水温微烫，池畔便是山石残雪，这幕画面在星光之下显得格外美丽迷人，宁缺泡在热水里，觉得好生舒服。\n　　桑桑坐在他身边，轻声说道：“你不要总和夫子吵架。”\n　　宁缺沉默片刻后说道",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "说道：“我听不明白你们在说些什么，我只想知道，接下来我们去哪里？”\n　　……\n　　……\n　　黑色马车来到一片很寒冷的地方。\n　　寒风如怒，黑夜如幕，星光暗淡，正是极北寒域，热海之畔。\n　　只是热海海面早已冰冻，积着不知多深的雪，叫雪海更为准确。\n　　大黑马纵非凡物，也被此间的寒冷冻的够呛，瑟瑟发抖地",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "啊。\n　　夫子调好酱油、姜汁，还有一种青色的调料，夹了片鱼肉，如柳枝拂湖般，在碗中一点即起，送入嘴里缓缓咀嚼。\n　　片刻后，他睁开眼睛，感慨说道：“这鱼没有往年肥嫩，只能将就着吃，说起来，热海已经快要冻到底部，也不知还有几条牡丹鱼。”\n　　宁缺听着这话，有些不忍抬筷，又或许是吃的太撑的缘故，说道：“",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

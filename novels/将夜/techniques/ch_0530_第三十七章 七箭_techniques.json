@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 530,
+  "chapter_title": "第三十七章 七箭",
+  "filename": "ch_0530_第三十七章 七箭.txt",
+  "char_count": 3376,
+  "timestamp": "2026-04-10T12:11:26.550051",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "箭。\n　　铁箭再次消失在黑色的桃花里，这一次，湿漉漉的枫树震动的厉害了些，片片红叶自梢头飘落，随着秋风微转，向着地面坠下。\n　　宁缺再射一箭。\n　　那朵黑色的桃花终于发生了变化，无形无质由精纯天地气息凝成的黑色花瓣瑟瑟颤抖，边缘隐见枯萎的征兆，似要随着红叶一道飘落。\n　　宁缺射出了第五枝铁箭。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "奇遇，晋入知命境，又连续战胜世间诸多修行宗派的掌门，以灰眼功法令自己的念力愈发雄浑，此时的隆庆，毫无疑问正处于他最好的那个阶段，此番对上宁缺，他有必胜的信心，然而却没有想到，甫一照面便受了伤。\n　　他没有想到，宁缺竟是丝毫不理会那十余黑骑的威胁，赌命一般来对付自己，除此之外，还有一个更重要的原因。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "仿佛久不见阳光，一丝极细的血水，从他的唇角缓缓淌落。\n　　宁缺毫不犹豫、坚狠异常的连续五枝元十三箭，最终在他的本命桃花上，留下了难以抹灭的痕迹，他自然也受了不轻的伤。\n　　连逢奇遇，晋入知命境，又连续战胜世间诸多修行宗派的掌门，以灰眼功法令自己的念力愈发雄浑，此时的隆庆，毫无疑问正处于他最好的那个阶",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "借助对天地气息流转规律的深层了解，把自己与自然融为一体，借助自然的力量战斗，这便是知命境的真正意义之所在。\n　　血色的碎絮在风中飘着，似把隆庆的身体遮掩无踪。\n　　宁缺神情平静，看不出有丝毫不安。\n　　桑桑手握大黑伞，看着寺庙院内隆庆皇子飘忽不停的身影，报了一个方位。\n　　宁缺松弦，箭出。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的那瞬间，宁缺确实有些失神，如果有时间让他感慨，或者他能生出很多复杂的情绪，但他是职业的军人，标准的战斗者，梳珠湖畔的砍柴人，在确定杀死或彻底战胜强大的敌人之前，他不允许自己有任何感慨的时间，他认为这种时候的伤春悲秋，都是在自杀。\n　　难道说要彼此行礼，互问别后事宜，嘘寒问暖，回忆旧事，然后才大打一",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "不停歇地射出了第二记铁箭。\n　　铁箭破空，射入那朵黑色的桃花，再次消失无踪，被秋雨打湿的枫树干，微微颤抖了一丝，除此之外，没有发生任何变化。\n　　宁缺神情平静，眼中毫无惧色，更无惘然绝望。\n　　他射出了第三枝铁箭。\n　　铁箭再次消失在黑色的桃花里，这一次，湿漉漉的枫树震动的厉害了些，片片红叶自梢头飘",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "箭簇，狠狠地扎在黑色桃花的一片花瓣上。\n　　这一次终于是射中了它的本体。\n　　那朵黑色桃花的一瓣上，出现了一道极为深刻的裂痕。\n　　轰的一声巨响！\n　　黑色桃花敛灭无踪，坚硬的枫树，正面承受这枝铁箭余下的威力，哪里承受得住，瞬间便被轰出一个巨洞，喀喇声中断成两截。\n　　枫树的繁密红叶，更是被箭身所挟",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "备说些什么，忽然间神情骤变。\n　　在看到隆庆重新出现在眼前的那瞬间，宁缺确实有些失神，如果有时间让他感慨，或者他能生出很多复杂的情绪，但他是职业的军人，标准的战斗者，梳珠湖畔的砍柴人，在确定杀死或彻底战胜强大的敌人之前，他不允许自己有任何感慨的时间，他认为这种时候的伤春悲秋，都是在自杀。\n　　难道说",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "里承受得住，瞬间便被轰出一个巨洞，喀喇声中断成两截。\n　　枫树的繁密红叶，更是被箭身所挟的气息，震成无数丝碎絮，向着寺庙院内的空中震散，然后被密集的秋雨一浇，洒向地面。\n　　枫叶碎絮把秋雨染成血，落在地面，落在残破的枫树身躯上，落在枫树后那个人的身上，落在他脸上的银色面具上。\n　　银色面具遮住了那个",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "开。\n　　箭至。\n　　桃花朵朵落。\n　　黑色花瓣碎裂，然后化作青烟消失在秋雨中。\n　　铁箭一往无前，来到隆庆的面前。\n　　隆庆脸上流露出震惊的神情，旋即这些神情尽数化作冷酷和狠辣。\n　　对人对己的冷酷与狠辣。\n　　他用自己的胸膛迎向铁箭。\n　　噗的一声。\n　　铁箭射穿了黑色的道衣。\n　　射穿了隆庆的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "第一枝铁箭，进入那朵黑色桃花后，却没有任何反应。\n　　筹谋准备已久，甚至可以说是必杀的最强攻击，敌人轻松化解于无形，如果是一般人，看到这样的画面，或许会生出绝望的情绪。\n　　宁缺没有这种情绪。\n　　那名知命境的强者一直潜于暗处，试图用山道上的十余骑黑骑来分散他的注意力，或是消耗自己匣中的铁箭，那么说",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。\n　　轰的一声巨响！\n　　黑色桃花敛灭无踪，坚硬的枫树，正面承受这枝铁箭余下的威力，哪里承受得住，瞬间便被轰出一个巨洞，喀喇声中断成两截。\n　　枫树的繁密红叶，更是被箭身所挟的气息，震成无数丝碎絮，向着寺庙院内的空中震散，然后被密集的秋雨一浇，洒向地面。\n　　枫叶碎絮把秋雨染成血，落在地面，落在残",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "胜元十三箭，他便无法把那抹阴影真正抹去，他便无法真正感受到骄傲强大。\n　　这种情绪是那样的强烈，这种渴望是那样的不可阻挡，他难以遏止自己的冲动，想要尝试一下，自己究竟能不能正面挡住那根铁箭。\n　　他这样做了，而且他也确实挡住了。\n　　隆庆觉得自己的胸腹间回荡着一股极为辛辣的气息，甚至让双眼都酸了起来",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "隆庆露在银色面具外的那半脸极为苍白，几乎没有一丝血色，仿佛久不见阳光，一丝极细的血水，从他的唇角缓缓淌落。\n　　宁缺毫不犹豫、坚狠异常的连续五枝元十三箭，最终在他的本命桃花上，留下了难以抹灭的痕迹，他自然也受了不轻的伤。\n　　连逢奇遇，晋入知命境，又连续战胜世间诸多修行宗派的掌门，以灰眼功法令自",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

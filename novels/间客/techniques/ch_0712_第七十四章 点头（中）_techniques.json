@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 712,
+  "chapter_title": "第七十四章 点头（中）",
+  "filename": "ch_0712_第七十四章 点头（中）.txt",
+  "char_count": 3469,
+  "timestamp": "2026-04-10T12:05:17.556254",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的营地之中，因为许乐的归来，上级特例允许他们来喝一杯，却也没有办法多呆，安静的房间内只剩下大熊、顾惜风、侯显东等十几名队员，这些队员也正是许乐离开之前在新十七师掌管的**小组成员。\n\n    “你怎么还没回师部？当心于师长踢死你。”许乐接过达文西递过来的清水一饮而尽，望着顾惜风笑着说道。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "能让宪章局那边出面查一下，肯定能查到有没有人做过手脚。”\n\n    许乐不知道智商高达23o却不知道为什么一直考不进一院的顾惜风是不是猜到了某些事情，略一沉默后，盯着手中的芯片，转而问熊临泉道：“把当天遇袭的情况详细给我说一下。”\n\n    “当时的情形就是这样的。”熊临泉声音沉嗡：“七师完全可以说",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“你怎么还没回师部？当心于师长踢死你。”许乐接过达文西递过来的清水一饮而尽，望着顾惜风笑着说道。\n\n    “我的主管是林爱，他知道我来哪儿了，哪里敢放半个屁。对了头儿，赫雷团长和花小司他们几个说明天中午要找你喝。”\n\n    顾惜风眼珠子骨碌转着，口里说着家常的话，手指却从衣服里取集一块",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "力，我只是担心莫愁后山那位夫人会不会生气。”\n\n    “我只是个小人物，和你不一样，哪里有资格让夫人生气。”周玉、靠着墙壁，低头小口小口吸着烟，有些艰难地笑了笑，说道：“其实你应该很清楚，上了战场之后的人生和在联邦里的人生完全不一样，虽然是修束基金会供我读的大学，我也和他们签过协议，但跟着师长天天",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "就是这样一支充满是铁血肃杀气息的部队，当他们看到一身崭新军装，身上还有淡淡酒味的许乐上校出现在大门之前时，脸上的表情也忍不住变得有些复杂怪异。\n\n    虽说微变的表情迅又恢复了冰川般的冷漠，但这已经表明许乐的到来，对铁七师官兵的心理造成了某种冲击，大概是因为面前这个看上去极为普通的上校",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "集一块小芯片，鬼鬼祟祟地递到许乐的手里。\n\n    看到他的神情，七组队员们反应奇快，马上有两名队员走出门口放哨，侯显东则是马上启动了房间内的反窃听装置。\n\n    “这是七师一团在法伽尔市南区的驻防指令，在袭击之前半个月的指令序表都在里面。”顾惜风压低声音说道：“军事法庭审理老白案子的时候，曾经把",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "……\n\n    队员们按照习惯面带谄媚之色屁颠屁颠上来敬酒，许乐一碗一碗喝着，脸上笑着，心情却越来越沉重，所有队员都来敬了，他把人头也点了一遍，却怎样也对不上数。\n\n    最早那批十几名老队员现如今只刺下了七个人，兰晓龙走了，其余的人都死了，而后来那些背景厉害的纨绔子弟新队员……原来也牺牲了这么多",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "指却从衣服里取集一块小芯片，鬼鬼祟祟地递到许乐的手里。\n\n    看到他的神情，七组队员们反应奇快，马上有两名队员走出门口放哨，侯显东则是马上启动了房间内的反窃听装置。\n\n    “这是七师一团在法伽尔市南区的驻防指令，在袭击之前半个月的指令序表都在里面。”顾惜风压低声音说道：“军事法庭审理老白案子",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "已经悲哀地放弃了一些什么。\n\n    “可以前老虎压了他半辈子，我也没见他怎么反弹过。”许乐看着面前缓缓燃烧的香烟，忽然想起了那个很久没有想起的中年男人。\n\n    “但问题是联邦只有一个钟瘦虎，而他现在也已经死了。”\n\n    “所以现在没有人可以压住你们师长？”许乐眯着眼睛问道。\n\n    “你",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "牌顺喉呛肺。”许乐靠在床上深吸了一口烟，微笑望着周玉说道：“少卿师长欣赏你，你不要有什么压力，我只是担心莫愁后山那位夫人会不会生气。”\n\n    “我只是个小人物，和你不一样，哪里有资格让夫人生气。”周玉、靠着墙壁，低头小口小口吸着烟，有些艰难地笑了笑，说道：“其实你应该很清楚，上了战场之后的人生和",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的话里听出了坚狠的信心，心情为之一松。\n\n    七组的聚会此时终于回到了主题，欢迎他们那个小眼睛臭脾气像厕所里的石头样的头儿回来……\n\n    队员们按照习惯面带谄媚之色屁颠屁颠上来敬酒，许乐一碗一碗喝着，脸上笑着，心情却越来越沉重，所有队员都来敬了，他把人头也点了一遍，却怎样也对不上数。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“我泡的茶……”\n\n    杜少卿没有回身，声音依然是那样的冷漠平静，然而说出来的话却让走入房间的人们感到无比震惊凸西门糙望向桌上那杯犹自冒着热气舟茶，蹙眉想道，师长这辈子什么时候对下级军官说过一个请字？师长这辈子给谁亲手泡过茶？\n\n    总统先生也没喝过。\n\n    （停在这儿确实有点儿不给力",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

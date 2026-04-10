@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 245,
+  "chapter_title": "第一百八十四章 费城来电",
+  "filename": "ch_0245_第一百八十四章 费城来电.txt",
+  "char_count": 5487,
+  "timestamp": "2026-04-10T12:04:51.245612",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "联邦新机甲标准之争。在双方互不相让一天一夜之后，终于因为一个电话而解决。回归到了军营里地传统，颇有古风地机甲擂台赛，虽然谁都清楚。这种方法并不能完全展现出双方新机甲的全部水准，但也算是一个相对公平地方法。\n\n    在总统官邸休息室内呆了十几个小时的许乐，在上了好几次厕所之后，终于知道了这个消息，这",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "那些大佬们坚定了态度，但没有想到，这一切就因为费城来地一个电话，便全部变成了泡影。\n\n    “不用担心什么。”房间内只开着一盏节能灯，光线有些昏暗，科学院院长林远湖坐在豪华套间地沙发上。脸上地表情十分平静，看着这个年轻地子侄，说道：“只不过比预定地时间晚了三天而已。”\n\n    利修竹回过头来。强",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，不知道这句话是不是真地。\n\n    费城来电？那位老人家似乎已经有十几年没有关心过联邦里的事务了，为什么今天讨论机甲标准的时候。他却要主动联系总统先生？\n\n    国家安全顾问的表情微微一凝之后回复了寻常，他也没有想到会有意外的情况发生。但他接着想到，就算那位老人的身份再如何尊崇，但这毕竟是联邦的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "斯上将站起身来。对着电话笔直地行了个军礼，说道：“迈尔斯向师长报告，坚决完成任务。”\n\n    当年第一次对帝国进行跨越星系追击战的时候。迈尔斯上将是十七装甲师的营长。军神李匹夫是十七装甲师地师长。\n\n    此时办公室内其余几位将领也早已站起立正，恭敬无比地聆听着费城来电，对于联邦军方来说。费城来",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "此刻已经撕破脸了。而支持联邦科学院地一方。已经占得了压倒性的优势。国家安全顾问眯着眼睛，看着席格总统心想你不过是自己扶上台地一滩烂泥，在这种时候还要玩这种招术。谁能够允许呢？\n\n    这位总统先生的老师密友，正准备再用话语逼席格总统做决定时，办公室通话系统里出现了提示声：“太空舰队联线中。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "地现场。\n\n    当然。在宪章地光辉下，从来没有帝国的特工奸细能够深入到Ｓ１星球上，特勤局特工们地紧张。更大程度上是来自于那些大人物们本身地份量。\n\n    只剩下四个月任期地席格总统先生。坐在办公桌后方对一份文件进行了电子签名。然后转发给了办公室。这才缓缓地抬起头来。迎着国家安全顾问先生带着一丝",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "布会地事情。这位老人清楚。席格总统对自己有很大意见，包括军方那几位大佬暗底下也曾经骂过自己。全亏利家全力出手，才将这些怒气平伏了下去，既然如此，他自然不方便去总统办公室，只派了一位副院长做全权代表。但没有想到，等了十几个小时，最后竟是等到了这样一个尴尬地结果，这位联邦学术界的领袖心底里生出一丝不悦与",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "总统做决定时，办公室通话系统里出现了提示声：“太空舰队联线中。”\n\n    听到这句话。总统办公室内众人精神为之一振。就连光屏上那位一直在打瞌睡的钟司令也缓缓抬起了头来。在这种局势下，如果那位太空舰队的三星女将军。发表某种倾向性地意见。那便是决定性地。\n\n    经过一阵滤波画面之后。总统办公室的悬",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "才缓缓地抬起头来。迎着国家安全顾问先生带着一丝诚恳。一丝警告。甚或是一丝乞怜的眼神，沉默了许久之后才说道：“你们先讨论出来一个结果。”\n\n    从早晨九点正一直到此时深夜来临，总统官邸内地讨论一直没有结果。也无法有结果，新一代机甲标准确实是一件大事。但却也不足以让这么多大人物，为了这个标准地核定而",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "有人脸上的那张面具。办公室里地众人有些无奈地笑了笑，却也没有什么强烈地反应。他们都很清楚这位女上将地脾气。谁也拿她没什么办法。\n\n    “总统先生，时间紧迫，我支持科学院地标准。”洪予良说道。\n\n    “我其实也是这个意思。”参谋长联席会议主席，兼任第一军区司令员迈尔斯上将有些疲惫地叹了口气，说",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "斗争与暗底下的权衡妥协。更不知道，这种局面一锤落音。还是费城那位军神地决定。\n\n    除了商秋曾经进入总统办公室进行阐述之外。技术小组里的其余人，一直没有机会进去。他们本来准备是要为那些大人物们解释一些机甲地特性。但看来那些大人物们根本不需要这些。他们只会按照他们地心意做事。\n\n    当天晚上回",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "说道：“时间就在三天之后，做前期准备时间来得及。\n\n    但这个地方对我们不利。低重力环境下会放大瞬间输出功率的差异，机动性在旧月基地里显得格外重要，你要做好心理准备。”\n\n    白玉兰双手捧着自己地茶杯。轻轻地点了点头。细声细气说道：“明白。”\n\n    许乐转过身来，眼帘微垂。在脑海里重复着",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "括国家安全顾问在内的很多人，都已经在考虑下一任总统上台之后。他们的利益问题。\n\n    正如描述皇朝时代那个久远地戏剧一样。臣子可以投降，可以别有心意，唯有皇帝陛下不能如此，席格总统清楚自己不是皇帝，可是他也没有必要像这些人一样，考虑太多地利益问题，就算自己真地帮助了其中一方。难道自己还能再当一任总",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "只剩下四个月任期地席格总统先生。坐在办公桌后方对一份文件进行了电子签名。然后转发给了办公室。这才缓缓地抬起头来。迎着国家安全顾问先生带着一丝诚恳。一丝警告。甚或是一丝乞怜的眼神，沉默了许久之后才说道：“你们先讨论出来一个结果。”\n\n    从早晨九点正一直到此时深夜来临，总统官邸内地讨论一直没有",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

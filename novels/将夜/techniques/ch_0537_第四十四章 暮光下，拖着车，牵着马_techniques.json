@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 537,
+  "chapter_title": "第四十四章 暮光下，拖着车，牵着马",
+  "filename": "ch_0537_第四十四章 暮光下，拖着车，牵着马.txt",
+  "char_count": 2555,
+  "timestamp": "2026-04-10T12:11:26.559387",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第四十四章 暮光下，拖着车，牵着马\n　　天色晦暗如夜，风雨凄迹如诉，风雨中，黑色马车不停淌着水，宁缺若有所思，然后瞬间醒来，走上了马车，抱起昏迷中的桑桑，伸出手指掐着她细细的手腕，感了感脉，将她缓缓放平在被褥上，看着她紧蹙的眉头，苍白的小脸，他的眉头也忍",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "鲜血，黄精的味道愈发刺鼻。\n　　大黑马疲惫地抬起头来，看了宁缺一眼，抽了抽鼻子，闻着黄精上的血腥味，心想这么血糊糊的东西谁愿意吃，实在是不符合自己书院憨货的品味。\n　　它极为嫌弃地扭过头去。\n　　宁缺下意识里抬起手来，像从前那样，想要暴揍它一顿，然后看着它委顿可怜却强作精神骄傲的模样，却是心头一软。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "光下，拖着车，牵着马\n　　天色晦暗如夜，风雨凄迹如诉，风雨中，黑色马车不停淌着水，宁缺若有所思，然后瞬间醒来，走上了马车，抱起昏迷中的桑桑，伸出手指掐着她细细的手腕，感了感脉，将她缓缓放平在被褥上，看着她紧蹙的眉头，苍白的小脸，他的眉头也忍不住蹙了起来。\n　　确认天窗的挡板遮的严实，他走下马车，来到",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "匣中的铁箭全部射光，居然都没有办法当场杀死隆庆皇子，他的眼中流露出浓郁的警惕神情。\n　　虽然今天这场战斗到最后，隆庆皇子依然败的一塌糊涂，但宁缺清楚，这场胜利和自己的关系并不大，那个注定与自己只能有一个人在世间生存的家伙，如今确实强大的难以言喻，如果不是最后莲生大师留下的意识碎片起了作用，那么现在自",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，他都不知道，先前自己怎么能一拳便把车壁击穿，即便是魔宗的真正强者，要做到这一点，也极为困难。\n　　最终他只能归结为，这是修行者初入知命境时的一次暴发。\n　　车壁上的破洞可以勉强补好，师傅颜瑟刻在车壁上的神奇符阵，却因为那些线条的断裂，而不可能简单地修复。\n　　桑桑和黑马伤势渐宁，却不可能马上好转，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "恢复原状，至少不用担心会有雨点从洞里飘进去，打湿桑桑的脸。\n　　大黑伞在车旁的水洼里，被寒风吹的不停颤抖，他拾起伞，走到屈着前蹄跪在雨水的黑马前，单膝跪下，用伞替它遮着，然后低下身，抱住它强壮的脖颈。\n　　大黑马的头侧被紫墨重拳击中，骨头没有碎裂，受到的强烈震荡，却让它感到十分难受，不停痛苦地喘息着",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "然后他消失在风雨中。\n　　片刻后，秋雨终歇，天地在黄昏到来之前，再复清明的模样。\n　　宁缺的身影出现在红莲寺前，右手紧紧握着十余枝黝黑的铁箭，铁箭的前端明显有些变形，此时正在不停向下滴着雨水。\n　　元十三箭是他强大，也是最可靠最珍贵的武器，无论何时无论何地，他都不可能容许失散，先前便是去青陵四周",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，看着她紧蹙的眉头，苍白的小脸，他的眉头也忍不住蹙了起来。\n　　确认天窗的挡板遮的严实，他走下马车，来到先前自己一拳打破的车厢壁前，双手拉着有些锋利的铁皮边缘，用力拉回原处，大致恢复原状，至少不用担心会有雨点从洞里飘进去，打湿桑桑的脸。\n　　大黑伞在车旁的水洼里，被寒风吹的不停颤抖，他拾起伞，走到屈",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "缺走到大黑马前，温言细语地劝它勉强嚼了一块，然后替它盖了一件毛毯。\n　　打开车门，他佝身走了进去，把沉重的铁箭扔到车厢一角，忽然觉得自己的牙齿里似乎塞着什么东西，非常不舒服，皱眉伸手抠了出来，发现原来是一条肉丝，那肉丝看着很新鲜，却带着熟肉不具有的韧劲。\n　　这是生肉。\n　　这是生的人肉。\n　　这是",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，宁缺若有所思，然后瞬间醒来，走上了马车，抱起昏迷中的桑桑，伸出手指掐着她细细的手腕，感了感脉，将她缓缓放平在被褥上，看着她紧蹙的眉头，苍白的小脸，他的眉头也忍不住蹙了起来。\n　　确认天窗的挡板遮的严实，他走下马车，来到先前自己一拳打破的车厢壁前，双手拉着有些锋利的铁皮边缘，用力拉回原处，大致恢复原",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "车，来到先前自己一拳打破的车厢壁前，双手拉着有些锋利的铁皮边缘，用力拉回原处，大致恢复原状，至少不用担心会有雨点从洞里飘进去，打湿桑桑的脸。\n　　大黑伞在车旁的水洼里，被寒风吹的不停颤抖，他拾起伞，走到屈着前蹄跪在雨水的黑马前，单膝跪下，用伞替它遮着，然后低下身，抱住它强壮的脖颈。\n　　大黑马的头侧",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "以遏止地产生了恶心欲呕的冲动，这毕竟是人肉，而且是他最厌憎的隆庆的肉。\n　　这种恶心欲呕，大部分是因为人类的本能，还有很大一部分，却是宁缺在意识里对自己的摧动，因为他不想自己的胃里有这些东西。\n　　然而就在这时，他看到像孩子一样瑟瑟缩在被褥里的桑桑，稍一沉默，用强大的意志力压制住呕吐的欲望，只是脸色",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "没有碎裂，受到的强烈震荡，却让它感到十分难受，不停痛苦地喘息着，此时被宁缺抱在怀里，感受着主人的那丝温暖，似乎稍好了些，呼吸渐渐平缓下来。\n　　宁缺轻哼一声，单臂用力搂着黑马的脖颈，帮助它从污浊的雨水里站起，然后抚着它，慢慢走到火势早熄，只剩焦黑废墟的火莲寺内，借着残存的雨檐，让它暂时避雨势，至少保",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "它一顿，然后看着它委顿可怜却强作精神骄傲的模样，却是心头一软。\n　　“赶紧吃了，对身体好。”\n　　他轻声哄着。\n　　大黑马疑惑看着他，心想这人今天怎么和以前不一样？\n　　……\n　　……\n　　大黑马吃了染着血的黄精，桑桑吸了半腹的血水，都在消化里面的药力。\n　　趁着这段时间，宁缺把马车的车轮做了简单的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

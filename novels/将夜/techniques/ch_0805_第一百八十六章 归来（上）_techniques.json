@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 805,
+  "chapter_title": "第一百八十六章 归来（上）",
+  "filename": "ch_0805_第一百八十六章 归来（上）.txt",
+  "char_count": 3487,
+  "timestamp": "2026-04-10T12:11:27.236315",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "有些事情，既然无法改变，便要学会接受。”\n　　“不是在意，而是遗憾。”\n　　君陌望向草庐外那片灰淡的天空，说道：“我一直想像小师叔那样，拔剑与天战上一场，当老师在泗水畔登天而去，我更想着明朝终有一日，我能跟随老师的步伐而去，如今看来却是没有了机会。”\n　　不是所有人都能听懂他的这番话。\n　　大师兄叹",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "不明白，师兄师姐们每次在小院里议事的时候，是怎么能够听得见对方的声音。\n　　他曾经向二师兄提出过这个疑问，当时二师兄的回答是：听久了自然成习惯，只要心是安静的，又有什么声音能扰耳？\n　　时隔数十日，在青峡前经历了七天七夜难以想象的厮杀，上演了两场炫丽夺目的强者战，君陌再次回到了自已的小院里。\n　　他",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "第一百八十六章 归来（上）\n　　寒冬渐深，风如刀割。\n　　随着紧张局势缓解，前段时间转移至长安城里的难民都已返回原籍，居住在城南的人们，正冒着严寒整理被敌人烧成焦土的村庄。\n　　官道上走来了百余名唐军，看他们的盔甲制式和军械，应该是某州的普通厢军，忙着重建家园的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "他看到君陌的右臂断了，顿时哇的一声哭了出来。\n　　君陌微微皱眉，说道：“不准哭。”\n　　小书童听话，拼命地擦着眼泪，奈何眼泪太多，怎么擦也擦不干净，而当他看到君陌的头发时，忍不住哭着喊出声来。\n　　“少爷，你的头发怎么变白了！”\n　　宁缺看着二师兄空荡荡的衣袖，看着他灰白的头发，不知道该说些什么。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "寒冬渐深，风如刀割。\n　　随着紧张局势缓解，前段时间转移至长安城里的难民都已返回原籍，居住在城南的人们，正冒着严寒整理被敌人烧成焦土的村庄。\n　　官道上走来了百余名唐军，看他们的盔甲制式和军械，应该是某州的普通厢军，忙着重建家园的人们，看着这些士兵疲惫的神情，放下手中的工具鼓掌替他们打气，有人喊着",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "回来了，哪里还能控制住情绪。\n　　当他看到君陌的右臂断了，顿时哇的一声哭了出来。\n　　君陌微微皱眉，说道：“不准哭。”\n　　小书童听话，拼命地擦着眼泪，奈何眼泪太多，怎么擦也擦不干净，而当他看到君陌的头发时，忍不住哭着喊出声来。\n　　“少爷，你的头发怎么变白了！”\n　　宁缺看着二师兄空荡荡的衣袖，看",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "车，忙着干活的村民，想着这些马车里可能是南方某州郡的官员，自然更没有时间理会。他们哪里会想到，从某种意义上来说，正是马车里的这些人，拯救了大唐。\n　　天光从车窗的缝隙里透了进来，落在君陌的脸上――重伤未愈的他，瘦削的脸颊本就极为苍白，被冬日阳光一照，更是如洁净的雪一般――他看着窗外焦土般村庄，沉默不",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "青峡前经历了七天七夜难以想象的厮杀，上演了两场炫丽夺目的强者战，君陌再次回到了自已的小院里。\n　　他第一次觉得瀑布的声音有些吵。\n　　他知道那是因为自已的心不够静。\n　　天色已黑，他站在窗畔看着山上的夜穹，就像旅途中那样，沉默了很长时间，然后他望向自已空荡荡的袖管，微微皱眉。\n　　与柳白惊世一战，他",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "州的普通厢军，忙着重建家园的人们，看着这些士兵疲惫的神情，放下手中的工具鼓掌替他们打气，有人喊着：“马上就到长安了。”\n　　唐军点头致意，然后继续前进。道畔的掌声也很快平息。目前朝廷不可能加大赈济的力度，要熬过这个寒冷的冬天，全要依靠自已的双手，村民们必须抓紧一切时间，至少要把能抗风的住所修好。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "雪一般――他看着窗外焦土般村庄，沉默不语，也不知道心里在想些什么。\n　　木柚看着他的侧脸，眉间写满了担心。\n　　书院后山诸弟子在青峡一役中都受了极重的伤，相对而言她的情况最好，只是因为主持阵法消耗了太多念力，在旅途中歇了这些天，便已经恢复了大半。\n　　四师兄等人的情形则要糟糕不少，接受过诊治后还是无",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "答。\n　　因为君不见黄河之水天上来，因为青山见他多妩媚，水落不能复起，山垮亦不能复起，后悔这种情绪，从来与骄傲的二师兄无关。\n　　能与柳白如此尽情尽意地战上一场，如何不值？\n　　只是……有些遗憾。\n　　……\n　　……\n　　“如果不能与天斗，与人斗其实也很有意思。”\n　　不知何时，宁缺走进了小院，他看",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "后方几辆马车里养病，不知道什么时候才能真正痊愈。\n　　但她最担心的还是君陌，因为君陌受的伤最重。君陌离开青峡之后便已经醒了过来，看似没有任何问题，却让人非常担心。\n　　因为这些天的旅途中，他沉默的时间实在是太长了些――他始终安静地坐在车窗旁，看着大唐南方覆着浅雪的原野，或是被敌人放火烧毁的村庄。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "来，看似没有任何问题，却让人非常担心。\n　　因为这些天的旅途中，他沉默的时间实在是太长了些――他始终安静地坐在车窗旁，看着大唐南方覆着浅雪的原野，或是被敌人放火烧毁的村庄。\n　　木柚看着他依然坚毅的侧脸，看着他散在身后的头发，然后目光落在那只空荡荡的衣袖上，在心里默默叹息一声。\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，这段时间根本找不到人来修。\n　　君陌看着这些画面，沉默不语。\n　　……\n　　……\n　　书院后山依然温暖如春。\n　　还是那间不愁会被秋风所破的草庐，小书童和唐小棠把诸位师长抬到软榻上，有的还在昏睡，有的勉强支撑着身子。\n　　暂时听不到北宫的箫声，西门的琴声，溪畔的打铁声，宋谦和八师弟为了一颗棋子的争",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 825,
+  "chapter_title": "第二百零六章 坐困愁城",
+  "filename": "ch_0825_第二百零六章 坐困愁城.txt",
+  "char_count": 3360,
+  "timestamp": "2026-04-10T12:11:27.261117",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，离开的时候，却收获了无数的金银财宝还有从来没有前人获得过的胜利。\n　　神殿使团内部知道此番谈判真正秘密的，只有叶红鱼以及天谕院院长。\n　　正是因为知晓道门拥有了两名境界高深莫测的隐世大修行者，天谕院院长非但没有对这份和约感到满意，反而生出很多的不解，他不明白西陵神殿为什么不借此机会，继续掀起伐唐的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第二百零六章 坐困愁城\n　　宁缺回到雁鸣湖畔的宅院，衣衫上染着的血，被一路春雨淋洒，此时已被冲淡成晕，看上去就像是一幅水彩画。\n　　很多人在等待他的归来，等着他签下自已的名字，完成这份和约。\n　　无论是唐国的大臣，还是西陵神殿的天谕院院长以及使团里的重要人物，看到他走进宅院，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "叶红鱼说道：“一切都结束了。”\n　　宁缺说道：“或者，一切才刚刚开始。”\n　　叶红鱼看着他问道：“日后你还会像今天这样杀人？”\n　　宁缺想了想，说道：“我确实还有很多人想杀。”\n　　叶红鱼微微挑眉，说道：“和约上会有你的名字。”\n　　宁缺笑着说道：“你知道我无耻的程度。”\n　　叶红鱼说道：“哪怕以",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "然心里闪过一丝不妙的念头，沉声说道：“且慢，敢问十三先生去了何处？”\n　　宁缺还没有回答，便有人冒雨来到雁鸣湖畔，把清河郡会馆里发生的血腥事件告知了房间里的所有人。\n　　厅内骤然安静，西陵神殿使团成员脸色极为难看，柳亦青低头紧握着剑柄，谢承运震惊无比看着宁缺，怎么也想象不出这名曾经的同窗竟是如此冷血",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "我还没有在那张纸上签字，那么我便能做任何事情。”\n　　叶红鱼说道：“难道你不担心会激怒我？”\n　　“愤怒不能决定结果，就像你早就已经激怒了我，但我不能杀你，因为我控制不了局势。同样，你也不能决定一切，无论是掌教还在隐藏在幕后的那个人，都需要你拿着一份和约回神殿，所以你的愤怒也不能影响什么。”\n　　宁",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "没有任何犹豫，便提起笔来准备签字。\n　　天谕院院长看着他身上的血迹，忽然心里闪过一丝不妙的念头，沉声说道：“且慢，敢问十三先生去了何处？”\n　　宁缺还没有回答，便有人冒雨来到雁鸣湖畔，把清河郡会馆里发生的血腥事件告知了房间里的所有人。\n　　厅内骤然安静，西陵神殿使团成员脸色极为难看，柳亦青低头紧握着",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "文看了遍，没有任何犹豫，便提起笔来准备签字。\n　　天谕院院长看着他身上的血迹，忽然心里闪过一丝不妙的念头，沉声说道：“且慢，敢问十三先生去了何处？”\n　　宁缺还没有回答，便有人冒雨来到雁鸣湖畔，把清河郡会馆里发生的血腥事件告知了房间里的所有人。\n　　厅内骤然安静，西陵神殿使团成员脸色极为难看，柳亦青",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "已探出裙摆的白鞋，很长时间都没有说话，不知道心里在想些什么，然后她抬起头来，嫣然一笑说道：“祝你杀人愉快。”\n　　宁缺觉得春雨更柔了几分，说道：“我一定努力争取。”\n　　……\n　　……\n　　西陵神殿使团离开，战争正式告一段落，虽然春时将深时，占据了向晚原的金帐王庭试探着继续南下，遭到了镇北军暴烈而强",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "宁缺还没有回答，便有人冒雨来到雁鸣湖畔，把清河郡会馆里发生的血腥事件告知了房间里的所有人。\n　　厅内骤然安静，西陵神殿使团成员脸色极为难看，柳亦青低头紧握着剑柄，谢承运震惊无比看着宁缺，怎么也想象不出这名曾经的同窗竟是如此冷血。\n　　唐国官员们也很震惊，但他们的情绪发展和西陵神殿方面则是截然相反，曾",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，把毛笔扔回砚中，便向后园走去，用冷水洗了个澡，让婢女泡了壶热茶，直接去了梅园。\n　　叶红鱼在雨廊下缓缓起身，看着他说道：“为何再生枝节？”\n　　宁缺走到她身边，把壶中的热茶倒了两杯，自取一杯握在手中，稍微温暖些被雨水冲凉的掌心，然后在竹椅上躺下。\n　　他说道：“大唐向来极重承诺，一旦签字，便不好再",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "戏没意思，但你也要清楚，我还没有在那张纸上签字，那么我便能做任何事情。”\n　　叶红鱼说道：“难道你不担心会激怒我？”\n　　“愤怒不能决定结果，就像你早就已经激怒了我，但我不能杀你，因为我控制不了局势。同样，你也不能决定一切，无论是掌教还在隐藏在幕后的那个人，都需要你拿着一份和约回神殿，所以你的愤怒也",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "说道：“你知道我无耻的程度。”\n　　叶红鱼说道：“哪怕以书院的名义？”\n　　“就算是老师的名誉，我都从来没有在乎过。”\n　　宁缺把茶杯放下，站起身来伸了个懒腰，对着檐前的春雨喊了一声，说道：“如果神殿很在乎，我随时可以退出书院。”\n　　叶红鱼说道：“你似乎没有想过，杀的人多了，神殿也不会遵守约定。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "……\n　　西陵神殿使团离开了长安城。\n　　他们来的时候，其实并没有抱太大希望，离开的时候，却收获了无数的金银财宝还有从来没有前人获得过的胜利。\n　　神殿使团内部知道此番谈判真正秘密的，只有叶红鱼以及天谕院院长。\n　　正是因为知晓道门拥有了两名境界高深莫测的隐世大修行者，天谕院院长非但没有对这份和约",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "身，看着他说道：“为何再生枝节？”\n　　宁缺走到她身边，把壶中的热茶倒了两杯，自取一杯握在手中，稍微温暖些被雨水冲凉的掌心，然后在竹椅上躺下。\n　　他说道：“大唐向来极重承诺，一旦签字，便不好再动手，所以我当然要趁着还没有签字之前，先把我想杀的那些人杀死。”\n　　叶红鱼盯着他的眼睛说道：“你承诺过我",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

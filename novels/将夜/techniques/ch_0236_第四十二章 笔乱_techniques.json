@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 236,
+  "chapter_title": "第四十二章 笔乱",
+  "filename": "ch_0236_第四十二章 笔乱.txt",
+  "char_count": 3306,
+  "timestamp": "2026-04-10T12:11:12.029254",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "拉住雀雀欲前的天猫女，带着师妹们向唐军诸人行了一礼，便跟着莫山山向外走去。\n　　宁缺不由摸了摸脑袋，心想书痴这又是在犯什么痴气？\n　　……\n　　……\n　　唐营一片安静，巡逻士兵神情严肃，在几名亲卫的护送下，宁缺和舒成将军缓步行走其间，没有人敢上前打扰。\n　　微寒的冬风吹拂着营地上方的军旗，宁缺抬头看",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "大河国世代交好，相信这门亲事，无论是书院还是陛下，都会觉得非常满意。”\n　　听到这句话，宁缺忽然明白为什么将军大人以及先前那位天谕司座大人告别时的目光都那般温和，就像是媒人一般。\n　　以他如今的身份，想要成婚娶妻都不再是纯粹的是私事，至少需要通过朝廷和书院两关，而世间各国宗派里的女弟子，能配得上夫子",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "假，总之曲妮玛娣姑姑身体不适，只好被弟子们扶出帐去，至于是偶感风寒还是急火攻心，看那些月轮国白塔寺僧人们仿佛喷火的目光便能猜到。\n　　宁缺看着那个老妇人虚弱的背影，没有丝毫同情，在心里想着，便是我自己都没有见过老师，你居然还想向夫子问罪，你又算是根什么棒槌？\n　　想到棒槌，他眼珠一转，忽然生出把身后",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第四十二章 笔乱\n　　无论真假，总之曲妮玛娣姑姑身体不适，只好被弟子们扶出帐去，至于是偶感风寒还是急火攻心，看那些月轮国白塔寺僧人们仿佛喷火的目光便能猜到。\n　　宁缺看着那个老妇人虚弱的背影，没有丝毫同情，在心里想着，便是我自己都没有见过老师，你居然还想向夫子问罪，你又算是根什么棒槌？",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的小师叔到二师兄到各位师兄师姐，再到如今的宁缺，书院中人偶一现世，便自骄傲嚣张，帐内的人先前有些震惊愤怒，但想起流传已久的那些故事，也只好沉默――书院嚣张有嚣张的资本若实力弱小，不嚣张也会被人欺负，若够强，你再如何嚣张，别人也不敢对你如何，便如曲妮玛娣一样。\n　　因为前面发生的这些事情事情，会议后续",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "来时，神殿会议已经结束，议事帐内人散去不少。\n　　天谕司司座微微一笑，自去歇息。舒成将军看着宁缺笑着说道：“虽说我也知道和清新少女们呆在一处爽利，但我军既然在这里有营地，你又已现了身份，莫非还要去墨池苑的营房？朝廷面子上不大好过。”\n　　“瞧您这话说的，我当然是老老实实跟您走。”\n　　宁缺被将军调笑",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "情，渐渐敛了笑意，流露出一丝担忧的情绪。\n　　回到营帐之中，莫山山似乎已经完全忘却先前议事帐内的激烈冲突以及那一幕幕的画面，平静地注水研墨润笔，端坐在案几之前开始准备写字。\n　　酌之华挥袖示意师妹们暂时离开，走到案几旁半跪坐下，静静看着她白皙脸颊上的神情，过了很长时间后轻声说道：“为什么先前就那样离",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "缺被将军调笑的有些尴尬，心知在很多人看来，自己这个书院二层楼弟子乔装打扮，跟随这群大河国少女一路向北进入荒原，怎么看都有些问题。\n　　墨池苑的少女弟子们还处于意外与惊喜之中，想要上前与宁缺说话，却又想着他的真实身份，有些不敢上前。\n　　宁缺向少女们笑了笑，正准备说些什么，却不料莫山山沉默站起身来，一",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "软毫触到黄纸之上，写了一横，淡声说道：“以前未曾说过，其实那些马贼便是因为他而来，既然如此，我们没有道理感激他，相反是他拖累了我们，今日在帐内他开口说话，是理所当然的事情。”\n　　酌之华看着案几纸上那歪歪扭扭的一横，忍不住笑了起来，旋即轻声叹息说道：“你明知道我想说的不是这个意思。”\n　　莫山山看着",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "领一方，彼此之间当然有竞争，但这三位大神官高居神座之上，自然不可能像世俗流氓般斗殴呛声，真正的较量都出现在三司司座之间。”\n　　舒成将军继续解释道：“裁决司二位大人物中，道痴痴心于道，不怎么理会具体事务，所以裁决司神官执事，护教神军以及暗谍，都由隆庆皇子具体管理。天谕司想要打击裁决司的气焰，当然首要",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "家神殿的尊严，没想到处治还算公道。”\n　　“天谕司掌着天谕院，隆庆皇子当年在天谕院里的经历却并不如何愉快。”舒成将军说道：“所以天谕司司座和隆庆皇子的关系一直有些微妙，尤其是裁决司近些年权柄日重，隆庆皇子声名大作，天谕司承受的压力可不小。”\n　　宁缺感慨说道：“原来如此。没想到神殿这种地方，也会有这",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "续低头写字，说道：“我不知道你在说些什么胡话。”\n　　酌之华笑了笑，不再多说什么，走出帐蓬，留她一个慢慢思考。\n　　莫山山没有思考任何事情，因为她脑子里的思绪已经变成了一团乱麻，她只是下意识里握着墨笔不停写着，薄唇微翕，带着恼意喃喃自语说道：“原来你就是那个家伙，却一直瞒着我，要我去说什么，我岂有这",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 579,
+  "chapter_title": "第二百一十六章 谁能无视流棱",
+  "filename": "ch_0579_第二百一十六章 谁能无视流棱.txt",
+  "char_count": 3438,
+  "timestamp": "2026-04-10T12:05:08.565563",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "我还是要说一声，我会保密的.\n\n    许乐笑了笑，没有说什么，心想以后是不是要找机会，把自己更多的秘密说出来，吓吓这家伙？\n\n    朋友分成很多种，酒肉朋友可以有精神共鸣，白头之交也可能瞬间背离，他和施清海则是共过生死，换过生死，有深刻入合金般坚硬的互相信任，彼此之间并不需要保留太多秘密。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "接着微笑说道：虽然可能不需要交待，但我还是要说一声，我会保密的.\n\n    许乐笑了笑，没有说什么，心想以后是不是要找机会，把自己更多的秘密说出来，吓吓这家伙？\n\n    朋友分成很多种，酒肉朋友可以有精神共鸣，白头之交也可能瞬间背离，他和施清海则是共过生死，换过生死，有深刻入合金般坚硬的互相信任，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第二百一十六章 谁能无视流棱 \n\n    严寒的极北雪原之上，湛蓝天空里的太阳光线没有任何温度，似是假的。夜晚营房内假意生起的火堆，热气都被低温凝住般全无暖意，也似是假的，许乐将脖子上那条赫雷私下送来的白狐皮系的紧了些，拿起身边的军用水壶灌了一大口烈酒，然后轻轻的点",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "她要找什么样的男人，可不需要经过你同意心。”\n\n    “话可不能这么说。”许乐耸耸涛说道：“在法律意义上，我是她儿子的父亲，作为监护人，为了儿童的合法权益，我有权利对她的交往对象提出异议。\n\n    施清海愣住了，深深地吐了一口酒气，骂了一句脏话。\n\n    片刻后他英俊的面容上重新浮现迷人的微笑",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "海嘲讽说道：“再说现在政丨府一直要把你打造成战斗英雄、偶像人物，只要你自己不经常愚蠢疯狂地热血冲动，危险绝对不会主动找到你的身上。”说到此处，他眉头微皱，认真问道：“其实我一直很好奇，你和费城李家间究竟有什么关系了。”\n\n    答案涉及到很多事情，涉及到许乐的真实过去，联邦逃犯的身份，甚至是颈后那",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "己的坚持，却不是那种烂好人般的性格，如今知道有那些野心家，正隐藏在联邦之中窥视自己，或是图谋更大1，日后若能将这些人物挖出来，必定不会客气。\n\n    寒冷的夜晚，因为那些不知道具体貌相和来历的敌人，而显得有些压抑。就在此时，已然醉眼迷离更显魅惑的施清海，忽然向这边靠了靠，似乎准备说些什么话，左手却",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "子。\n\n    许乐没有倒下，他拿着军用水壶，保持着身体悬空的马步姿式，愕然看了施清海一眼，摇头感慨说道：“你还是喜欢玩这种幼稚的游戏。”\n\n    从梨花大学铁门内外一根烟起，他们两个人已经认识近四年，从开始的时候，施清海就最喜欢时不时偷袭许乐身体下的坐椅，就像是一个成绩过于优秀的小学生，因为课堂",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "这些人物挖出来，必定不会客气。\n\n    寒冷的夜晚，因为那些不知道具体貌相和来历的敌人，而显得有些压抑。就在此时，已然醉眼迷离更显魅惑的施清海，忽然向这边靠了靠，似乎准备说些什么话，左手却悄无声息地伸到他屁股下，猛地抽出那把椅子。\n\n    许乐没有倒下，他拿着军用水壶，保持着身体悬空的马步姿式，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "马后，大腿被磨皮的丑陋姿式，满是奢华溢油皮的味道，和你可截然不同：我实在是弄不明白，你为什么还是这么拼命，何必呢？”\n\n    “不努力提高自己，很容易死，没上战场前我就知道这个道理，上了战场，才现这是真理了。”许乐站起身将椅子拖回臀下，放松地实在坐下，笑着说道：“我想你当年在联邦调查局和四科里受的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "“但现在才明白，生命和宇宙这种东西，本来就不能对待看待。就像这颗星球上无比壮观的流凌，三千年才会出现一次，下次流凌要等到三百七十一年之后，我这辈子是怎么样都看不到了，既然如此，我这辈子应该去看一些相对长久，值得拥有的存在。”\n\n    许乐此时的思绪忽然间飘了起来，说道：“天文地理，邰之源对探索",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "自己出头报仇？想来想去，他不得不有些不爽地推算出，如果自己真的死了，老爷子绝对不会因为一个死人而对七大家出手，因为那样会直接冲毁联邦存续的根基。\n\n    看着沉默的许乐，施清海知道他心里自有打算，微微一笑不再多说什么，借着渐入大脑的酒意，轻轻荡着军用水壶里不多的烈酒，轻轻地哼唱一极为耳熟的歌谣。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "自己更多的秘密说出来，吓吓这家伙？\n\n    朋友分成很多种，酒肉朋友可以有精神共鸣，白头之交也可能瞬间背离，他和施清海则是共过生死，换过生死，有深刻入合金般坚硬的互相信任，彼此之间并不需要保留太多秘密。\n\n    “有费城李家当靠山，只要那位老爷子一天不死，你在联邦里就没有人敢惹。”施清海若有所思",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，然后轻轻的点了点头。\n\n    他和施清海一样，用不同的方式进行着自己的坚持，却不是那种烂好人般的性格，如今知道有那些野心家，正隐藏在联邦之中窥视自己，或是图谋更大1，日后若能将这些人物挖出来，必定不会客气。\n\n    寒冷的夜晚，因为那些不知道具体貌相和来历的敌人，而显得有些压抑。就在此时，已然",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 568,
+  "chapter_title": "第七十四章 在山上等着你",
+  "filename": "ch_0568_第七十四章 在山上等着你.txt",
+  "char_count": 3342,
+  "timestamp": "2026-04-10T12:11:26.654607",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "竟似就这般睡着了！\n　　……\n　　……\n　　宁缺眼瞳微缩，身体上的每根汗毛都竖了起来。\n　　微凉的秋风在他头发里穿行，像寒冰一样刺激着他的心神。\n　　他盯着歧山大师的眼睛，右手五指渐拢，虚握成半空之拳，恰好可以塞进去一把刀柄，尾指以极小的幅度高速颤抖着，时刻准备着拔出身后的朴刀。\n　　“不用紧张。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "无数次，雨雪霜风轮转了无数次，镇子里庆贺的鞭炮声也响了很多次。\n　　这些人家好像有很多喜事要办，桑桑心想，宁缺这么久还没有找到自己，再听鞭炮自己也高兴不起来。时间还在继续流逝，桑桑依然在等待，她站的脚酸了，她便坐下休息会，困倦了，她便靠着那棵树眯一会儿。\n　　那棵树下有两窝蚂蚁，桑桑等宁缺等的实在有",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。\n　　宁缺有几次都险些失去耐心，只是想着落子之前，桑桑对这位歧山大师所流露出来的尊敬和信任，他强行压抑着自己的不安，继续沉默等待。\n　　棋枰上依然只有那两枚棋子。\n　　宁缺没有看着棋枰，只是看着桑桑的脸，注意着她有没有流露出来难受的神情，她的呼吸有没有变化，身体有没有呈现异样。\n　　他看的很认真很",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "歧山大师说道：“若她的病只有佛祖能治，那你求还是不求？”\n　　宁缺沉默了很长时间后，问道：“她有没有危险？”\n　　歧山大师说道：“没有任何危险。”\n　　宁缺忽然想到某种可能，声音微哑说道：“但她会很痛苦。”\n　　歧山大师说道：“如果她痛苦，你自然能感受到。”\n　　宁缺问道：“那接下来怎么办，这局棋还",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "痴陆晨迦，沉默看着洞庐内外这些人，木讷漠然的美丽容颜上，忽然闪过一丝嘲讽的笑容，然后她离开洞庐，折返来到山顶的佛像脚像。\n　　佛祖石像非常高大，哪怕只是一根脚趾，都要比她大很多。\n　　陆晨迦站在佛像的尾指上，把飘拂的发丝轻轻理到耳后，抬头向上方望去，被渐西的秋日晃了一下，眼睛眯了起来。\n　　佛祖的面",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "他盯着歧山大师的眼睛，右手五指渐拢，虚握成半空之拳，恰好可以塞进去一把刀柄，尾指以极小的幅度高速颤抖着，时刻准备着拔出身后的朴刀。\n　　“不用紧张。”歧山大师说道：“她不过是倦了，所以去梦里歇一会儿。”\n　　宁缺感知着桑桑的情况，发现她的呼吸很平缓，甚至比平时还要更加平缓，除此之外没有任何异样，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "却没有人能够看见她，树下甚至拴过祖孙三代黄牛，却没有任何物体能够接触到她。\n　　她在这个世界里是真实存在的，除了不能与这个世界相互影响之外，她依然受到这个世界规则的束缚，所以她会累会倦会冷会热。\n　　当然也有些规则无法束缚她――她从来没有吃过东西，但从来也没有饿过。\n　　她想起来了宁缺曾经对她讲过的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "“这棋盘……是谁留下来的？”\n　　歧山大师说道：“佛祖。”\n　　宁缺想起那个传说，心情骤紧。\n　　“为什么要桑桑用这个棋盘下棋？我先前才知道，以前瓦山三局棋的终局是由那位洞明大师主持，那时候肯定用的不是这个棋盘。”\n　　歧山大师说道：“你就当作是佛祖对她的考验吧。”\n　　宁缺说道：“我们来治病，不是",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "看着似铁，透着股冰冷坚硬的味道，但当棋子落在上面时，却没有任何声音。\n　　就在桑桑指尖离开黑色棋子那瞬间，有很奇怪的事情发生。\n　　她的眼神忽然变得有些惘然，然后眼睛缓缓闭上。\n　　她睫毛一眨不眨，竟似就这般睡着了！\n　　……\n　　……\n　　宁缺眼瞳微缩，身体上的每根汗毛都竖了起来。\n　　微凉的秋风",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，最奇怪的口感很怪，竟有入口即化的感觉，不由愣了愣。\n　　她抬起头来，把剩下的半个梨子递到宁缺面前，说道：“你吃吃，很甜。”\n　　从小到大，他们两个人习惯了有什么好吃的食物，都会分着吃，宁缺也不在乎什么分梨的说法，接过半个青梨囫囵几口便吞了下去。\n　　歧山大师似乎没有想到，连一颗普通的青梨，他们两个",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "影响之外，她依然受到这个世界规则的束缚，所以她会累会倦会冷会热。\n　　当然也有些规则无法束缚她――她从来没有吃过东西，但从来也没有饿过。\n　　她想起来了宁缺曾经对她讲过的烂柯寺的传说――那个叫王质的樵夫，就是吃了一个馒头，所以在树下棋盘旁度过百年，却没有饥饿过。\n　　桑桑没有吃馒头，但她刚才吃了一颗",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "不动。\n　　……\n　　……\n　　桑桑站了很久，久到她自己最后都忘了多长时间，只记得太阳落下生起重复了无数次，雨雪霜风轮转了无数次，镇子里庆贺的鞭炮声也响了很多次。\n　　这些人家好像有很多喜事要办，桑桑心想，宁缺这么久还没有找到自己，再听鞭炮自己也高兴不起来。时间还在继续流逝，桑桑依然在等待，她站的脚",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。\n　　就在桑桑指尖离开黑色棋子那瞬间，有很奇怪的事情发生。\n　　她的眼神忽然变得有些惘然，然后眼睛缓缓闭上。\n　　她睫毛一眨不眨，竟似就这般睡着了！\n　　……\n　　……\n　　宁缺眼瞳微缩，身体上的每根汗毛都竖了起来。\n　　微凉的秋风在他头发里穿行，像寒冰一样刺激着他的心神。\n　　他盯着歧山大师的眼",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

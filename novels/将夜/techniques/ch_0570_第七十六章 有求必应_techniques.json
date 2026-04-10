@@ -1,0 +1,232 @@
+{
+  "novel": "将夜",
+  "chapter_number": 570,
+  "chapter_title": "第七十六章 有求必应",
+  "filename": "ch_0570_第七十六章 有求必应.txt",
+  "char_count": 4661,
+  "timestamp": "2026-04-10T12:11:26.657076",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "一次发问机会的，必然是他们最大的困惑或者最大的痛苦。然而人类最大的困惑，最大的痛苦往往便是他们最大的秘密，这也就意味着，稍后他们将不得不面对歧山大师坦诚地讲述这些秘密，所以人们又有些畏惧。\n　　青藤覆盖的崖洞时，不时响起歧山大师痛苦的咳嗽声。\n　　黑色马车不知何时驶进了庐内，车厢内桑桑穿着裘衣，偎在",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "么时候死！”\n　　歧山大师摇头说道：“即便佛祖都不能断人生死，更何况是我这个普通人。”\n　　曲妮玛娣愤怒说道：“那你总得告诉我，我怎么才能替我儿子报仇！”\n　　歧山大师忽然抬头望向洞外，想着那方远自悬空寺而来的佛辇，沉默很长时间后说道：“你既然已经做了安排，何必还来问我？”\n　　然后他静静看着曲妮玛",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的仿佛已经到了深夜，修行者们在庐外默默排着队，等着稍后进入，烂柯寺僧众在庐外点燃火把，昏黄的火焰被山风吹的飘荡不安，照的人们的脸色也变幻不定，就如他们此时复杂的心情。\n　　在世间的传说里，歧山大师有与西陵神殿天谕神座相近甚至更胜一分的预知能力，而且能够解答世间一切疑惑，就如佛祖一般有求必应。\n　　能",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "看病吗？”\n　　歧山大师说道：“即便不能破局，病也是要看的，更何况已经破局，那么便更没有任何不看病的道理。”\n　　宁缺的声音因为紧张而显得有些干涩：“能治好吗？”\n　　不知道是不是主持最后一局棋，消耗了太多心神，本来身体就极为孱弱的歧山大师，此时显得愈发憔悴，听着宁缺关切的问话，他有些痛苦地咳嗽了几",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "必要离开书院来找我这个老和尚，你总得让我有些准备。”\n　　宁缺依然不答应，说道：“多拖一刻便多一刻的危险。”\n　　歧山大师说道：“还没有到那个时刻，便没有危险……你放心吧。”\n　　这句话的前半句似乎隐有深意，那个时刻是指哪个时刻？然而此时宁缺只能听到放心，一定，这种肯定的词汇，根本没有留意那些。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "无比，歧山大师静静看着桑桑，消瘦的脸上流露出极为复杂的神情，有看到真相后的震惊，甚至还有隐隐的恐惧，最终却尽数变作惘然。\n　　宁缺这时候正在紧张地察看桑桑身体的状况，没有注意到大师异样的神情，不然可能会发现一些什么，然后他听到了大师的一声叹息。\n　　他有些紧张抬起头来，此时歧山大师脸上的神情已经回复",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "这盘终局，其实只出现过五次，而小姑娘你，则是第二个能够连破三局的人。”\n　　歧山大师看着桑桑神情温和说道。\n　　确认桑桑没有事，先前棋盘里的世界不过是场幻觉，宁缺心神稍定，听着大师的赞叹，问道：“前面能连破三局的人是谁？”\n　　歧山大师说出一个在这个世界上消失了很多年，但宁缺却很熟悉的名字，他看着宁",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "一名。\n　　南晋太子在洞庐里呆的时间很短，便出来了。人们不知道他问的什么问题，与书痴的情缘还是南晋的将来，但看他有些惘然的神情，隐约猜测他得到的答案不怎么好，却也谈不上坏，甚至有可能他现在暂时还无法理解。\n　　曲妮玛娣在修行界里辈份极高，又是月轮国的皇姑，于是她第二个走进洞庐。\n　　崖洞内很干净，陈",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "恐怖当中解脱出来，满足所以平静。\n　　“瓦山三局有很多年的历史，但像你们先前所经历的这盘终局，其实只出现过五次，而小姑娘你，则是第二个能够连破三局的人。”\n　　歧山大师看着桑桑神情温和说道。\n　　确认桑桑没有事，先前棋盘里的世界不过是场幻觉，宁缺心神稍定，听着大师的赞叹，问道：“前面能连破三局的人是",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "修行者们在庐外默默排着队，等着稍后进入，烂柯寺僧众在庐外点燃火把，昏黄的火焰被山风吹的飘荡不安，照的人们的脸色也变幻不定，就如他们此时复杂的心情。\n　　在世间的传说里，歧山大师有与西陵神殿天谕神座相近甚至更胜一分的预知能力，而且能够解答世间一切疑惑，就如佛祖一般有求必应。\n　　能够得到歧山大师的解惑",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "……\n　　……\n　　时已深暮，瓦山后山麓幽暗的仿佛已经到了深夜，修行者们在庐外默默排着队，等着稍后进入，烂柯寺僧众在庐外点燃火把，昏黄的火焰被山风吹的飘荡不安，照的人们的脸色也变幻不定，就如他们此时复杂的心情。\n　　在世间的传说里，歧山大师有与西陵神殿天谕神座相近甚至更胜一分的预知能力，而且能够解",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "露出极为复杂的神情，有看到真相后的震惊，甚至还有隐隐的恐惧，最终却尽数变作惘然。\n　　宁缺这时候正在紧张地察看桑桑身体的状况，没有注意到大师异样的神情，不然可能会发现一些什么，然后他听到了大师的一声叹息。\n　　他有些紧张抬起头来，此时歧山大师脸上的神情已经回复正常，露出慈爱的微笑，似乎从某种大恐怖当",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "体就像是山崖忽然变成了流云，跌坐到蒲团上，根本说不出话来。\n　　几乎同时，他身体表面紧张而锁闭的毛孔瞬间打开，流出无数冰冷的汗水，瞬间打湿身上黑色的书院院服，看上去就像刚淋了一场大雨。\n　　这些年这些天，他看似神情平静如常，无论与人交谈还是行事，都没有什么异样，但实际上，因为桑桑的病，他早已焦虑恐惧",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "一声，再也听不到别的任何声音，身体就像是山崖忽然变成了流云，跌坐到蒲团上，根本说不出话来。\n　　几乎同时，他身体表面紧张而锁闭的毛孔瞬间打开，流出无数冰冷的汗水，瞬间打湿身上黑色的书院院服，看上去就像刚淋了一场大雨。\n　　这些年这些天，他看似神情平静如常，无论与人交谈还是行事，都没有什么异样，但实际",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，老人家也不说忍忍。”\n　　这又是一句刻意的笑话，桑桑这一次却没有像以往那般给宁缺面子笑出声来，而是忧虑说道：“大师的病好像变重了。”\n　　宁缺默然无语，歧山大师虽然久病缠身，瘦弱憔悴，但刚相见时，确实不像现在这般虚弱，是什么让大师的病忽然变得重了起来？\n　　自然是那盘棋局。\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第七十六章 有求必应\n　　棋盘旁安静无比，歧山大师静静看着桑桑，消瘦的脸上流露出极为复杂的神情，有看到真相后的震惊，甚至还有隐隐的恐惧，最终却尽数变作惘然。\n　　宁缺这时候正在紧张地察看桑桑身体的状况，没有注意到大师异样的神情，不然",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "有些紧张抬起头来，此时歧山大师脸上的神情已经回复正常，露出慈爱的微笑，似乎从某种大恐怖当中解脱出来，满足所以平静。\n　　“瓦山三局有很多年的历史，但像你们先前所经历的这盘终局，其实只出现过五次，而小姑娘你，则是第二个能够连破三局的人。”\n　　歧山大师看着桑桑神情温和说道。\n　　确认桑桑没有事，先前棋",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

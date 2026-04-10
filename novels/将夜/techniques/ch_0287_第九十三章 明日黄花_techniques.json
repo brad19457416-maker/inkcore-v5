@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 287,
+  "chapter_title": "第九十三章 明日黄花",
+  "filename": "ch_0287_第九十三章 明日黄花.txt",
+  "char_count": 4499,
+  "timestamp": "2026-04-10T12:11:21.749452",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "该欢喜这种逗趣里隐着的意思才是。\n　　只不过桑桑还小，大抵分不清楚这种情绪究竟是什么，甚至不知道自己为什么羞恼不安，而不在长安城的宁缺，很明显也处于这种懵懂状态之中。\n　　桑桑站在庭畔，看着外面的飘雪，纤瘦的背影在乱雪背景中，构成一幅有些孤单带着某种企盼意味的动人画面。\n　　李渔静静看着这幅画面，把",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "宫里侍候的太监，叮嘱众人赶紧把他护送回宫。\n　　看着消失在庭园石门处的明黄色背影，她忍不住摇了摇头，心想弟弟虽说这一年多时间成器了不少，但毕竟年幼，还有很多事情看不明白。\n　　桑桑确实只是一个很普通甚至很低贱的小侍女，身份地位与大唐皇子当然相去甚远，然而李渔很清楚，这个小侍女才是收服宁缺，进而亲近书",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "务，日后您若死了，我把剩下该做的事情处理完，就去您坟前静修道法，不求知命求多活几年也好。”\n　　“凄风苦雨守孤坟，这听上去太惨淡了些。”\n　　李青山大声笑起来，旋即敛去笑容，看着何明池说道：“陛下命你监督大皇子读书，我知道你与他关系不错，须妨着这件事情日后会给你带来天大的麻烦，为了应对那些可能的麻烦",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "好。”\n　　“凄风苦雨守孤坟，这听上去太惨淡了些。”\n　　李青山大声笑起来，旋即敛去笑容，看着何明池说道：“陛下命你监督大皇子读书，我知道你与他关系不错，须妨着这件事情日后会给你带来天大的麻烦，为了应对那些可能的麻烦，我想有些事情你应该提前做些准备。”\n　　说到此节，他的声音骤然低沉下来。\n　　何明",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "奈。\n　　何明池低着头回答道：“我确实没有什么能耐，这些年也习惯了服侍师父师伯，做些案卷之类的庶务，日后您若死了，我把剩下该做的事情处理完，就去您坟前静修道法，不求知命求多活几年也好。”\n　　“凄风苦雨守孤坟，这听上去太惨淡了些。”\n　　李青山大声笑起来，旋即敛去笑容，看着何明池说道：“陛下命你监督",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "声音骤然低沉下来。\n　　何明池微微一怔，移动膝头向前挪了两步，听着飘进耳里的那些话，脸上的表情越来越紧张，眸子里流露出不可思议的神情，抬头惊讶无语。\n　　李青山看着自己的徒弟，认真叮嘱道：“当年我与陛下相逢于微时，相逢于香坊外的算命摊，所以只要我不肆意妄为，陛下总会允我胡闹。我希望你也能成为大皇子的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "种企盼意味的动人画面。\n　　李渔静静看着这幅画面，把脑海里宁缺的背影放在小侍女的身旁，发现那幅画面便瞬间丰实而和谐起来，没有丝毫不融洽的地方。\n　　她默默叹息一声，驱散心中无由生起的那丝羡慕和遗憾，想着某椿消息，轻声问道：“听说你最近收留了一个孤寡老人在老笔斋？”\n　　桑桑微怔，转过身来点了点头。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "李珲圆不解说道：“再呆会怕什么？父皇可从来不反对我们姐弟亲近。”\n　　李渔皱了皱眉，无奈说道：“你脾气太臭，避避为好，桑桑那丫头看着性子淡，实际上心里跟明镜似的，你心里那些无趣的念头可瞒不过她去。”\n　　李珲圆气极反笑，说道：“不过就是个小侍女，居然还要我避她？”\n　　李渔也懒怠同他解释什么，直接",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，居然还要我避她？”\n　　李渔也懒怠同他解释什么，直接把他从椅子上拎了起来，唤来宫里侍候的太监，叮嘱众人赶紧把他护送回宫。\n　　看着消失在庭园石门处的明黄色背影，她忍不住摇了摇头，心想弟弟虽说这一年多时间成器了不少，但毕竟年幼，还有很多事情看不明白。\n　　桑桑确实只是一个很普通甚至很低贱的小侍女，身",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "行，等将来皇弟我坐上龙椅，麾下天枢处高手无数，军方铁甲万千强者辈出，难道还怕他不成？”\n　　李渔闻言愤怒而且失望，盯着他沉声说道：“书院不干涉朝政，奉唐律为先，那是夫子定下的规矩，但这规矩不是朝廷有能力让他们遵守的，如果你想安稳坐上皇位，就必须记住一点，无论人前人后都必须保持对书院的尊敬，听见没有！",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，但他相信自己的眼睛，相信帝后间的感情是真挚的，陛下在时，皇后会心甘情愿在深宫之中洗手作羹汤，可陛下离去之后呢？\n　　他看着窗外缓缓飘落的雪，轻轻叹息一声，身为昊天南门观掌门，难道真的敢寄望于当年的那位魔宗圣女，就此放过大唐帝国无上的权柄？\n　　……\n　　……\n　　“上个月叔叔在府上设宴，想替我引见",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "师这件光彩夺目的道袍，为师生前得罪的那些人只怕会对你不利。”\n　　李青山看着自己的大弟子，眼睛里满是忧虑和无奈。\n　　何明池低着头回答道：“我确实没有什么能耐，这些年也习惯了服侍师父师伯，做些案卷之类的庶务，日后您若死了，我把剩下该做的事情处理完，就去您坟前静修道法，不求知命求多活几年也好。”",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "出话来。\n　　李青山怜爱看着他，说道：“去吧。”\n　　何明池离开。\n　　李青山回身望回窗外，看着那些缓缓飘洒的雪花，沉默想着心事。\n　　世人皆知他虽然身居高位，却出身市井，是个嬉笑怒骂的有趣人物，然而在帝国国师的位置上坐了这么长时间，再如何草根也不得不去思考那些庙堂上的大事。\n　　他很清楚，谁来继承",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

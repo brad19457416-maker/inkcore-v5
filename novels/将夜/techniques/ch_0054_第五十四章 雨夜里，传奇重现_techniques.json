@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 54,
+  "chapter_title": "第五十四章 雨夜里，传奇重现",
+  "filename": "ch_0054_第五十四章 雨夜里，传奇重现.txt",
+  "char_count": 2242,
+  "timestamp": "2026-04-10T12:11:11.956676",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "成了一只风筝，极为凄惨地破空而飞，飞过了破旧的春风亭，落到了十几丈外！\n　　……\n　　……\n　　正自喧嚣喊杀的数百帮众骤然一静，他们的目光下意识随着那名同伴在雨夜空中画了一道极长的弧线，然后迅速被恐惧占据身体，挥刀的手变得寒冷起来。\n　　他们曾经想像过春风亭老朝腰间佩剑出鞘之时可能会刮起一阵腥风，或",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "白，只有这种方式朝小树才能始终保持身周始终有一片空地，避免被对方一围而上。\n　　但这样霸蛮甚至嚣张的战斗方式，显然很消耗体力与精神，朝小树如果不是想用这种方式震慑住当场数百名凶悍的汉子，那便是他有自信直接把所有敌人拍死！\n　　宁缺看着朝小树的背影，看着这个在夜雨中嚣张前行的中年男子，看着在他剑下不时",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "朝出剑，但他们宁肯这一辈子都没有看到过。平日里他们在鱼龙帮的阴影下活的挺好，自以为双方差距不大，如果拼命去做犹有一搏之力，直到此时此刻，在凄寒的春雨之中，这些人才无比凄寒的发现事实原来如此残酷。\n　　他们能够活着，只不过是因为鱼龙帮和那个中年男子根本不屑多看自己一眼。\n　　传奇就是传奇，无论江湖、青",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，看着那些在远处泥水里呻吟不起的人，抿唇想道：\n　　“我知道你强，但我没有想到你这样强。”\n　　躲在人群之中的那几位长安城大佬，此时早已心神俱裂，他们今天终于看到了春风亭老朝出剑，但他们宁肯这一辈子都没有看到过。平日里他们在鱼龙帮的阴影下活的挺好，自以为双方差距不大，如果拼命去做犹有一搏之力，直到此",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "上位，然而这么多年过去了，这五个男人依然紧紧跟随着他们的大哥，一步都未曾离开过――因为他们的大哥是春风亭老朝。\n　　长安城内很少有人见过春风亭老朝出手，更准确地说，早年前那些见过春风亭老朝出手的老人早都已经死了，但没有任何人敢轻视他，更没有人会认为他是一个只会侈谈兄弟情义却毫无雷霆手段的纸老虎。因为",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "眼。\n　　传奇就是传奇，无论江湖、青楼还是官场上，能够在人们记忆中成为传奇的人，必然有他们成为传奇的道理，而这绝对不会因为传奇多年未曾出现就有所改变。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "青楼还是官场上，能够在人们记忆中成为传奇的人，必然有他们成为传奇的道理，而这绝对不会因为传奇多年未曾出现就有所改变。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "拗成弯状，与它的速度相比，自夜空降下的雨珠缓慢的令人发指，而就在剑身拍打在那名汉子胸膛上时，那股力量骤然自剑身递出，啪的一声直接将那片胸膛击的深陷下去！\n　　一声如击重革的沉闷巨响！\n　　一声戛然而止的惨嚎！\n　　那名悍勇冲在最前的南城帮众，连朝小树的脸都没有来得及看清楚，便被直接拍成了一只风筝，极",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "后背，右手已经握住刀柄，却没有拔出那把最近磨的极锋利的朴刀，因为他想看看这位长安黑夜传奇的真实实力，同时他觉得小树君先前说的那句话过于装逼，有些担心自己拔出刀来会被一道闪电误劈至死。\n　　朝小树的剑样式很普通，普通长普通宽，开锋处也无甚特别，只是在雨珠被高速移动剑身拍散的那一瞬，隐约能够看到剑上有很",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "的极锋利的朴刀，因为他想看看这位长安黑夜传奇的真实实力，同时他觉得小树君先前说的那句话过于装逼，有些担心自己拔出刀来会被一道闪电误劈至死。\n　　朝小树的剑样式很普通，普通长普通宽，开锋处也无甚特别，只是在雨珠被高速移动剑身拍散的那一瞬，隐约能够看到剑上有很多细纹，那些细纹并不是某种符文，而更像是数道",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "得寒冷起来。\n　　他们曾经想像过春风亭老朝腰间佩剑出鞘之时可能会刮起一阵腥风，或许会落下一场血雨，但从来没有想像过，一把单薄的青钢剑竟能把沉重的一个人击飞如此之远，薄剑一挥间蕴藏着的恐怖力量竟像是天神手中的大锤，一动天地四方动！\n　　不，那把剑不是天神手中的铁锤，更像仙使手中的一条钢鞭！\n　　冲到朝",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "色随意放在西城或是南城，都绝对能轻松打出一片江湖。\n　　很多人以为他们会不甘心现在的位置，以为他们会离开鱼龙帮自觅天地，会找机会出头，甚至背叛上位，然而这么多年过去了，这五个男人依然紧紧跟随着他们的大哥，一步都未曾离开过――因为他们的大哥是春风亭老朝。\n　　长安城内很少有人见过春风亭老朝出手，更准确",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

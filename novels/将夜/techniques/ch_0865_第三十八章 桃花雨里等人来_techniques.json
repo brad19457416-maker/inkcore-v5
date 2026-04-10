@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 865,
+  "chapter_title": "第三十八章 桃花雨里等人来",
+  "filename": "ch_0865_第三十八章 桃花雨里等人来.txt",
+  "char_count": 3340,
+  "timestamp": "2026-04-10T12:11:27.367853",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "这种寻常，太不寻常。\n　　因为前坪上所有人都已经猜到这柄剑是谁的剑――只有柳白的剑，才能于无瞬间来到众人眼前，才敢以这种傲然姿态飞临桃山。\n　　神辇上的万丈光芒中，掌教高大的身影微微前倾。\n　　掌教有些怒，因为柳白的剑对着光明神殿，虽无不敬之意，却没有表现出臣服，更因为这把剑在他的神辇之后才出现在桃",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第三十八章 桃花雨里等人来\n　　或许是隐形大阵被这柄剑遁入的关系，宁静的桃山前坪忽然起了一阵秋风，风势极柔，卷起几片枯黄的落叶。\n　　一片黄叶飘落在这柄剑的剑身上，没有碎裂，因为剑上没有任何剑意，只是寻常，于是黄叶很舒服地弹了弹，重新落回地面。\n　　这种寻常，太不寻常。\n　　因为前坪上所有人都",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "就算酒徒和屠夫又哪里敢对自己有丝毫不敬？\n　　所以看着这柄自万里外破云而来的剑，掌教丝毫不掩饰自己的愤怒，然而那柄剑却没有什么反应，依然保持着平静寻常的姿态。\n　　西陵神殿客卿有五，夏侯已死，书圣隐居，柳白却始终是客卿里地位最尊崇的那人，他的剑到了桃山便意味着人到了桃山，对光明祭表示了足够的尊重，在",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "抹隐惧，然而谁能想到，昊天居然来到了人间！\n　　从跪在昊天身前那刻开始，他便自数十年前小腹被重伤后，第一次拥有了真正的信心和勇气，昊天降怒于知守观，他如今便是昊天在人间真正的代言人，只要自己身在桃山便举世无敌，柳白就算再强，又岂是自己的对手？就算酒徒和屠夫又哪里敢对自己有丝毫不敬？\n　　所以看着这柄",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "都已经跪了下来。那些桃花瓣落在他们的身上，渐渐变成极柔软的光絮，然后渗进他们的衣裳，钻过他们的肌肤，最终进入他们的身体血肉，然后才渐渐消失不见。\n　　瘸腿的信徒虽然没有生出新肢，却再也感受不到断腿处传来的痛苦，满是脓水的伤口变得异常洁净，红嫩的新肉上出现了健康的皮肤。\n　　重病的信徒渐渐获得了生机，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "这种寻常，太不寻常。\n　　因为前坪上所有人都已经猜到这柄剑是谁的剑――只有柳白的剑，才能于无瞬间来到众人眼前，才敢以这种傲然姿态飞临桃山。\n　　神辇上的万丈光芒中，掌教高大的身影微微前倾。\n　　掌教有些怒，因为柳白的剑对着光明神殿，虽无不敬之意，却没有表现出臣服，更因为这把剑在他的神辇之后才出现",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "观海还有白塔寺的僧人还站着，因为他们拜的是佛祖，然而面对着昊天降下的神迹，僧人们脸上的神情也变得异常凝重，双手合什礼拜，七念看着峰顶深深鞠躬，感动于上苍垂怜世人。\n　　空中那柄对着光明神殿的剑，剑首亦微微下沉，致意行礼。\n　　……\n　　……\n　　桃山前坪上的哭泣声感谢声祈祷声渐渐停止，经过一系列繁复",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。\n　　这种寻常，太不寻常。\n　　因为前坪上所有人都已经猜到这柄剑是谁的剑――只有柳白的剑，才能于无瞬间来到众人眼前，才敢以这种傲然姿态飞临桃山。\n　　神辇上的万丈光芒中，掌教高大的身影微微前倾。\n　　掌教有些怒，因为柳白的剑对着光明神殿，虽无不敬之意，却没有表现出臣服，更因为这把剑在他的神辇之后才",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "意宣传，所有人都知道他便是书院的十二先生，也知道他与知守观观主的父子关系。\n　　没有人说话，场间一片安静，有些人是不知道说什么，更多的人则是不敢说什么，西陵神殿选择陈皮皮做为光明祭的祭品，这意味着千万年来，昊天道门内部结构终于发生了变化，而这必然代表着上苍对道门的不满，尤其是对知守观的不满，另一方面",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "他的身上没有禁制的符具，也没有囚犯身上常见的镣铐，就连双手都没有用绳索捆住。\n　　西陵神殿方面根本不担心他能逃走，因为他身上虽然没有禁制，体内的雪山气海则有昊天亲自布下的禁制，谁都无法解开。\n　　祭坛附近都是来自各国的使团以及修行者，有些人不认识陈皮皮，只有寥寥数人见过他，但经过神殿事先的刻意宣传，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "山前坪上的数万名信徒未曾怀疑过，但不代表各国使团里的人没有怀疑过，因为毕竟神迹只出现在教典的传说里，从来没有人亲眼见过，然而随着眼前幕幕真实画面的上演，再也没有人敢有丝毫怀疑，所有人都跪倒在地。桃花缤纷，病者病，无病者消灾，如果这都不是神迹，那什么才是神迹？\n　　西陵神殿里的神官和执事们早已跪下，王",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，进入所有人的耳中，天地之间的气息随乐声而起舞，便又有风起，只是此时起的风不再是微寒的肃杀秋风，而是温暖的仿佛到了春天。\n　　山坳间的满山桃花随风轻颤，花瓣变得更加粉嫩，在秋天开始怒放，然后随风而起，飘下桃山，在前坪上的空中不停飞舞。\n　　飞舞的数万片桃花瓣，向地面洒落阵阵异香，这种香气并不是桃花的",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

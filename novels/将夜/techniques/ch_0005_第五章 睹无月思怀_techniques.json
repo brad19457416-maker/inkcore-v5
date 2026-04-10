@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 5,
+  "chapter_title": "第五章 睹无月思怀",
+  "filename": "ch_0005_第五章 睹无月思怀.txt",
+  "char_count": 3373,
+  "timestamp": "2026-04-10T12:11:03.388300",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "像不是这个事儿，如果真要走了，还管这破门做什么？”\n　　桑桑扶着膝头站起身，瘦小的身躯在微凉的春日夜风里显得格外单薄，她看着宁缺，用认真而没有夹杂任何其余情绪的声音细声说道：“就算我们走了，可这房子还是会有人住，他们还是会开门啊。”\n　　自己二人离开后，这间远离坊市偏僻破落的草屋真的还会有人愿意来住",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "里，她伸手到腰后扯了扯，挡住外面的微凉气息，顺便让两个柜子间的缝显得不那么硌人，听着窗边传来的呓语，心想宁缺……少爷又开始说这种胡话了。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "要记住一定要称我为少爷，这样才显得尊重。”\n　　当年宁缺从道旁死人堆里翻出浑身冰冷的小桑桑，然后辗转来到渭城，至今已有七八年。桑桑虽然在户籍上是婢女，做的也是婢女的事情，却从来没有喊过他少爷，这不代表别的任何事情，只代表一种习惯。\n　　今天小侍女桑桑被迫要扔掉这个习惯。\n　　“宁缺……少爷……你要记",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "国边塞的星光沉沉睡去，然而真实的情况是，今天草屋里的主仆二人都没有睡着，或者是因为即将踏入崭新世界的激动不安，或者是因为都城长安的繁华、隐约可见的富贵，还有那些散发着迷人味道的香脂水粉，窗边屋角的两道呼吸声迟迟未能平静。\n　　不知道过了多长时间，宁缺睁开双眼，看着窗纸上的淡淡银晕，出神说道：“听说…",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "地的那天。他推开那道只能防狗不能防人的篱笆墙，走到门缝漏出来的油灯光前，抬手堵住自己嘴唇，咳了两声，说道：“如果去都城怎么样？”\n　　草屋门被推开，吱呀的尖响刺破安静的边城夜晚。\n　　小侍女桑桑在门口蹲了下来，瘦小的身影被油灯光拉的极长，她用指头按了按木门边，回答道：“你不是一直都想去长安吗？对了宁",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "晚上把行李收拾一下。”\n　　桑桑将鬓角微黄的发丝随意拢了拢，看着他的后背问道：“宁缺，我一直不明白你为什么对那件事情这么感兴趣。”\n　　“没有人能拒绝让自己更强大的诱惑。而且那些玩意儿对于我来说，实在是太有意思了。”\n　　宁缺知道小侍女猜到了自己的心思，抬头看着桑桑黝黑的小脸蛋儿，挑眉说道：“而且我",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "启三年时人口就已经超过一百万了，生活所费极贵，长安居，大不易啊……”\n　　宁缺叹息了一声，看见小侍女紧张的神情，笑着安慰说道：“人多也没什么好怕的，你就把长安当成一个大点的渭城便好，到时候还是我去和外人打交道，你照老样子操持家里的事情，真要怕你就少出门。”\n　　“在都城一个月买肉菜米粮大概要花多少钱",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "啊。”\n　　自己二人离开后，这间远离坊市偏僻破落的草屋真的还会有人愿意来住吗？宁缺默然想着，不知为何突然间多出一些叫不舍的情绪出来，他轻轻叹息了声，侧着身子从桑桑身边挤了过去，低声说道：“晚上把行李收拾一下。”\n　　桑桑将鬓角微黄的发丝随意拢了拢，看着他的后背问道：“宁缺，我一直不明白你为什么对那件",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "无来由微紧，很多年前那种空落落的感觉再次袭来，回头望向窗外深青色的夜空，看了眼满天星光，然后开始低头思念故乡，喃喃念道：“今天还是没有月亮啊……”\n　　黑漆漆屋角榆木柜子上的桑桑，像个小老鼠般蜷在微凉的被褥里，她伸手到腰后扯了扯，挡住外面的微凉气息，顺便让两个柜子间的缝显得不那么硌人，听着窗边传来的",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "子确实都挺白的，她们天天都用那么好的水粉，能不白吗？”\n　　宁缺笑了笑，看着她说道：“放心，等本少爷以后有了钱，陈锦记的胭脂水粉随便你买。”\n　　桑桑霍然睁开双眼，像柳叶般细长的眼眸里映着明亮的星光，严肃说道：“宁缺，这可是你答应的。”\n　　“刚才说过，去长安后你要记住一定要称我为少爷，这样才显得尊",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "出浑身冰冷的小桑桑，然后辗转来到渭城，至今已有七八年。桑桑虽然在户籍上是婢女，做的也是婢女的事情，却从来没有喊过他少爷，这不代表别的任何事情，只代表一种习惯。\n　　今天小侍女桑桑被迫要扔掉这个习惯。\n　　“宁缺……少爷……你要记得答应给我买陈锦记。”\n　　宁缺应了声，目光落在炕边地面像白霜般的星光上",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "油灯光前，抬手堵住自己嘴唇，咳了两声，说道：“如果去都城怎么样？”\n　　草屋门被推开，吱呀的尖响刺破安静的边城夜晚。\n　　小侍女桑桑在门口蹲了下来，瘦小的身影被油灯光拉的极长，她用指头按了按木门边，回答道：“你不是一直都想去长安吗？对了宁缺，你什么时候才去火器营里偷些油回来？这门已经响了好几个月了，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "灯熄，宁缺把水碗搁在窗台上，借着星光钻进被窝，双手搭在被沿，打了个大大的呵欠，然后发出一声极为满足的叹息，闭上眼睛，过了会儿才听到屋角传来那阵听了好几年的悉悉@@的声音。\n　　这是一个仿佛和过去这些年头没有什么区别的夜晚，他们将伴着帝国边塞的星光沉沉睡去，然而真实的情况是，今天草屋里的主仆二人",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

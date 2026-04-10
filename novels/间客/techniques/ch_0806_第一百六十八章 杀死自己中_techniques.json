@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 806,
+  "chapter_title": "第一百六十八章 杀死自己中",
+  "filename": "ch_0806_第一百六十八章 杀死自己中.txt",
+  "char_count": 3874,
+  "timestamp": "2026-04-10T12:05:17.572596",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "深沉的夜色中突然出现，从小广场四面八方的街巷中高向车队冲了过来，早已转成作形态的黑色机甲群沉就肃杀，瞬间由幽灵变成无坚不摧的钢铁巨人！\n\n    铁七师装甲作战小队感觉那 些远远高过街灯的黑影，就像实质般的恐惧笼罩在他们的心头，笼罩在他们的头顶，这一刻他们仿佛回到了芟膜》，娜，黄厄星那些战火纷飞的战",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "箱旁，震惊地望 着面前不远处高大的黑色机甲，心想就算是为了 瞒过事后调查而演戏，这些机甲未免也做的太危险了些。\n\n    坚固的装甲车在黑色机甲机械臂沉重一击下，虽然变形严重却出奇的没有散架，只有顶部最脆弱的护甲部位被巨大的力量撕开了一道裂口，随着那台黑色机甲沉重快的第二击，裂口直接撕裂，带着变形的",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "他们便会觉得心情大定，自信横生，因为这是联邦军用mx机甲双引擎特有的轰鸣声。\n\n    然而今夜执行秘密军事任务的他们，听到这些熟悉的机甲轰鸣声心中却 生无限紧张，因为在原定计划中，铁七师连一台机甲都没有出动，那么小广场四击夜色里越来越近的机甲，是从哪里来的？\n\n    许乐所在的装甲车内外的军官，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "尤其是常少校，他被冲击波直接震飞到街畔的垃圾箱旁，震惊地望 着面前不远处高大的黑色机甲，心想就算是为了 瞒过事后调查而演戏，这些机甲未免也做的太危险了些。\n\n    坚固的装甲车在黑色机甲机械臂沉重一击下，虽然变形严重却出奇的没有散架，只有顶部最脆弱的护甲部位被巨大的力量撕开了一道裂口，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "为低沉的轰鸣声，这些低隆之色自建筑间的黑暗里传来，震人耳膜，震的地面微微颤抖，震的街畔的广告牌如被烈风刮动，极为不安。\n\n    常少校皱着眉头向外望去，同时，二十余辆装甲车上的铁七师官兵们警惕地向外面望去。\n\n    对于在战场上身经百战的他们来说，这种声音太熟悉，每当硝烟升腾、帝国人弹雨横飞之际",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "引擎特有的轰鸣声。\n\n    然而今夜执行秘密军事任务的他们，听到这些熟悉的机甲轰鸣声心中却 生无限紧张，因为在原定计划中，铁七师连一台机甲都没有出动，那么小广场四击夜色里越来越近的机甲，是从哪里来的？\n\n    许乐所在的装甲车内外的军官，还有极少数知道今夜任务详情的军官，很自然地联想到某些因素，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，共和始开始计算，然后很认真地向大家要一下月票和推荐票。\n\n    我的更新向来比所有人差，羞于拿更新来拉票，那是找抽的行为，也真有些不好意思开单章了，看 明天脸皮会不会重新变厚吧。最近这段大情节真的写的苦，我很努力了，明儿合更努力，争取三章。\n\n    请大家投月票支持一下，真的很急迫，因为被七十",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "一刻他们仿佛回到了芟膜》，娜，黄厄星那些战火纷飞的战场，不，甚至比战场更加可怕，因为他们面对的是联邦最强大的mx机甲 ！\n\n    最令铁七师官兵感到无比寒冷的是，因为今夜秘密军事任务的特殊要求，装甲战车的所有远程控制系统和自动火力系统全部做了改装，在这极短的遭遇时间 内，他们根本无法做出有效的反应",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "小广场四周，忽然想起了一阵极为低沉的轰鸣声，这些低隆之色自建筑间的黑暗里传来，震人耳膜，震的地面微微颤抖，震的街畔的广告牌如被烈风刮动，极为不安。\n\n    常少校皱着眉头向外望去，同时，二十余辆装甲车上的铁七师官兵们警惕地向外面望去。\n\n    对于在战场上身经百战的他们来说，这种声音太熟悉，每当",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "中尉和他身旁的军官终究没能抠动扳机，本就因为他们犹疑而应感到安慰的许乐，应该更感欣慰，军队里的人们虽然见惯了生死，但面对着许乐这样的人物，还是无法如此轻易地决定他的生死。\n\n    大概是感觉到车内生了什么，二十几辆缓前进的装甲车队停了下来，就在一处空旷的商业楼宇中间的小广场上。\n\n    车",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "车内外的军官，还有极少数知道今夜任务详情的军官，很自然地联想到某些因素，他们骤然警惕，快命令整支车队进入战略状态 ！”众所周知，许乐是圳‘机甲的设计者，而他所在的部队十七装甲师，则和铁七师一道，是联邦军方唯一的两个全机甲整编师，难道说这些潜伏在夜色中，高迫近的机甲……是十七师的人！\n\n    十余台",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "耳膜，震的地面微微颤抖，震的街畔的广告牌如被烈风刮动，极为不安。\n\n    常少校皱着眉头向外望去，同时，二十余辆装甲车上的铁七师官兵们警惕地向外面望去。\n\n    对于在战场上身经百战的他们来说，这种声音太熟悉，每当硝烟升腾、帝国人弹雨横飞之际，只要听到这种低沉的轰鸣声，他们便会觉得心情大定，自信",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "到师长两个字，临阵放下枪械的中尉呼吸声急促起来，他的眼睛里因为挣扎而现出血丝，有些自嘲地笑了笑，缓慢说道：“当年在黄山岭，我只是个班长，如果不是许乐上校操控的mx，我整个班都要被帝国人的机甲踩成肉泥。”中尉摇了摇头 i1平静说道：“长官，很抱歉，我做不到。”\n\n    那名高阶军官沉就片刻，挥手示意",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 662,
+  "chapter_title": "第二十五章 一个简单的故事",
+  "filename": "ch_0662_第二十五章 一个简单的故事.txt",
+  "char_count": 3424,
+  "timestamp": "2026-04-10T12:05:08.554503",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，只怕连部郁都快要认不出来，他依然能够微微一笑，毫不在意，更不震惊；即便那位皇帝一语道破他埋藏很久的秘密一和封余大叔之间的秘密，他心中的惊讶片刻也便平静，没有留下太多震撼的余波。\n\n    直到此时，听到怀草诗嘲讽怨恨意味十足的这句话，他终于被真正地震惊了，很长时间说不出话来。\n\n    军神李匹夫",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "双眼。说道：“幸运或者不幸，我们帝国人很难学会你们联邦人的忘恩负义。”\n\n    许乐听懂了这句话，骤然感到一阵混着余悸的放松，如果说联邦军神和自己的老师真是一对帝国兄弟，他真的很难接受这种荒诞的事实。然而随着怀草诗的否认，更多的疑问涌入了他的脑海，如果李匹夫兄弟二人不是帝国人，他们那身惊才绝艳的本",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，全然不顾帝国是他老师的家乡。”\n\n    “后来有一天。这个叫李匹夫的人，刺杀了帝国皇帝，在那一场战斗中，他还用从帝国学得的八稻真气杀死了他的老师。”\n\n    “然后呢？”\n\n    “没有然后了。”\n\n    宫墙外的落日在耸乐的眼中像是一道缝，无数的鲜血从那道缝里流了出来。怀草诗简简单单的几",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "地震惊了，很长时间说不出话来。\n\n    军神李匹夫驰骋于宇宙之中。光芒耀眼不可言，达到了个人武力的巅峰，几乎如同一尊神械。封余大叔虎躯一震，徒手对抗十余台军用机甲，强悍到令人眼神炫迷。\n\n    不知何时起，这一对兄弟陡然出现在联邦中，在不同的领域和光影间展现自己的超凡实力，对抗着帝国与宪章的光辉",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "怀草诗沉默片刻后说道：“关于你父亲和你伯父的往事，让你知道一下也无妨，或许你会理解我们帝国的愤怒由何而来\n\n    “这一定是个很长的故事。”许乐艰难地笑了笑，“不知道死之前能不能听完\n\n    “关于当年的事情，我知道的细节并不多。”怀草诗望着他，手指摁动自行束缚台旁的电动按扭，面无表情说",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的内心情绪。盯着眼前的怀草诗，用一种难以置信的语气问道。\n\n    沉默了很久之后，怀草诗微眯双眼。说道：“幸运或者不幸，我们帝国人很难学会你们联邦人的忘恩负义。”\n\n    许乐听懂了这句话，骤然感到一阵混着余悸的放松，如果说联邦军神和自己的老师真是一对帝国兄弟，他真的很难接受这种荒诞的事实。然而",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "封余大叔虎躯一震，徒手对抗十余台军用机甲，强悍到令人眼神炫迷。\n\n    不知何时起，这一对兄弟陡然出现在联邦中，在不同的领域和光影间展现自己的超凡实力，对抗着帝国与宪章的光辉，然而他们的能力却没有传承开来，无论费城修身馆出了多少近战高手，甚至像田大棒子那样的奇才，可终究没有人能够接近那一对兄弟的境",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "削却透着股比巨大皇宫更强悍旷契味道的年轻人，在暮色的高高宫墙下缓慢行走。\n\n    似两个惺惺相惜的大家\n\n    “看见那幢建筑了吗？”\n\n    怀草诗站在高高的宫墙上，眯眼望着西方暮色笼罩中的平民区，指着那片矮杂民宅间一幢全白色的院落，问道。\n\n    许乐双眼肿胀。困难地看了半天，点了点头，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "事，和那幢不起眼的院落有什么关系。\n\n    “那是整个帝国除了皇宫之外。最神圣的地方。”怀草诗面露悠然神情，“大师范府。”\n\n    “大师范府？”许乐在心中默念了一遍这个古怪的名字，觉得似乎在哪里听说过。\n\n    “大师范，是帝国最尊崇的称号，却没有太多人知道，因为他们不在意那些俗世的声名。”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "“一个永远诞生天才的家族？”许乐沉默片刻后艰难摇头说道：“我是联邦人。信奉平等，我不相信命运本身会造成这种不公平。\n\n    “宇宙里从来没有出现过先天公平这种东西。”\n\n    怀草诗漠然说道：“只能拥有皇室血统的人，才有机会练成八稻真气。这是不公平，但这也是事实。所以你必须承认，造物",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "默片刻后艰难摇头说道：“我是联邦人。信奉平等，我不相信命运本身会造成这种不公平。\n\n    “宇宙里从来没有出现过先天公平这种东西。”\n\n    怀草诗漠然说道：“只能拥有皇室血统的人，才有机会练成八稻真气。这是不公平，但这也是事实。所以你必须承认，造物主从一开始就选择了皇室来领导帝国的普通民众。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "面面相觑，然后安静地远远跟了上去。\n\n    这个画面很有趣。\n\n    一个被束缚带、绷带、医用胶水包裹成南岭特产操叶米包的死囚，如一个不良于行的稀疾老人，不能自理地倚靠在自行设备上，跟着前面那个背负着双手，身材瘦削却透着股比巨大皇宫更强悍旷契味道的年轻人，在暮色的高高宫墙下缓慢行走。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "事。”\n\n    “请。”\n\n    “在帝国和联邦相遇之后或者之前，有一艘帝国飞船穿越了空间通道。进入了联邦境内，落在了一个叫做费城的地方。”\n\n    “等等，这个简单故事的开头就有很多逻辑上的问题。”\n\n    许乐顾不得虚弱的身体，坚决地反驳道：“帝国的空间技术在那个，时候比现在更落后。不足",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

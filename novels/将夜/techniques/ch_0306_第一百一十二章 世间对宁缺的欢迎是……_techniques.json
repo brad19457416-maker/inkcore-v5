@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 306,
+  "chapter_title": "第一百一十二章 世间对宁缺的欢迎是……",
+  "filename": "ch_0306_第一百一十二章 世间对宁缺的欢迎是…….txt",
+  "char_count": 3480,
+  "timestamp": "2026-04-10T12:11:21.682373",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "已经入魔，便是叶红鱼也只是隐隐猜到他继承了小师叔的衣钵，眼看着便要回到人世间，他不知道如果自己入魔的真相被人发现，山谷外那个真实而冷酷的世界，准备用什么来迎接自己。\n　　宁缺沉默片刻后向雾中走去，右手伸到身后缓缓握住大黑伞的伞柄。\n　　大黑伞是他在这个世间最大的依靠，最温暖安静如同野猫黑屋一般的存在",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "与我无关。”\n　　叶红鱼冷笑说道：“如果我要杀宁缺，难道真的会与你无关？”\n　　宁缺挥手阻止这些没有意义的对话，说道：“出去再说，小棠你走先。”\n　　唐小棠看着他的眼睛，认真说道：“我知道你的意思，你担心雾外面有什么古怪，所以才让我走在最前面，我可是明宗弟子，外面万一全部是你们中原的人，我怎么逃？而",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的存在，在魔宗山门里面对莲生时没有来得及拿出来，他便险些死了，此时要从与世隔绝的大山里回到人世，那种陌生感和警惕让他随时准备抽出大黑伞。\n　　雾外的世界没有什么万夫所指。\n　　也没有偷袭。\n　　迎接宁缺的是一个拳头。\n　　一个比桑桑贪便宜买的土海碗还要大的拳头。\n　　那个拳头光明正大，充溢着金石之气",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "门熟路，难道也没有任何发现？”\n　　唐小棠有些沮丧地摇了摇头，说道：“圣地里什么都没有。”\n　　宁缺心想明明那里面有一大堆白骨和鬼还有一个比鬼更可怕的老家伙。\n　　天下诸大修行宗派势力齐聚荒原，西陵神殿更是下了极重的筹码，目的便是为了趁魔宗山门应天时开启之时，寻找那本传说中的天书明字卷，然而却是全无",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "段言语明显是用来壮胆的，正如这些天他和道痴及魔宗少女不停斗嘴玩笑，之所以如此是为了化解胸中像石壁一样沉重的心情。\n　　没有人知道他这个夫子亲传弟子已经入魔，便是叶红鱼也只是隐隐猜到他继承了小师叔的衣钵，眼看着便要回到人世间，他不知道如果自己入魔的真相被人发现，山谷外那个真实而冷酷的世界，准备用什么来",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "意义的对话，说道：“出去再说，小棠你走先。”\n　　唐小棠看着他的眼睛，认真说道：“我知道你的意思，你担心雾外面有什么古怪，所以才让我走在最前面，我可是明宗弟子，外面万一全部是你们中原的人，我怎么逃？而且你是个大男人哩，你果然像她说的那样，真是书院之耻。”\n　　宁缺面不改色，认真说道：“怎么忽然变聪明",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，当然是因为他已经饿昏头了，在焦虑和饥饿的双重作用下，他哪里还来得及思考这个魔宗少女现在是四人中实力最强的那个人。\n　　而且这些天走在山脉的过程中，这位魔宗少女根本没有什么凶残的魔宗气息，反而是天真可爱甚至有些老实憨拙，渐渐他便忘了对方的身份。\n　　唐小棠果然没有动愤，而是羞愧地重新低下头去，走到了",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "没有找到出口，不免有些焦虑。\n　　他是最恐惧饥饿的人，想着自己藏着的干粮被这三个女人吃了大半，更觉得愤怒，盯着唐小棠说道：“再走不出去我们就都要饿死了，到底还要多少天？”\n　　唐小棠微低着头，看着颈间的兽尾，有些不自信低声说道：“应该快了吧。”\n　　宁缺倒吸一口冷气，不可置信看着她，说道：“我们仨跟",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "免有些焦虑。\n　　他是最恐惧饥饿的人，想着自己藏着的干粮被这三个女人吃了大半，更觉得愤怒，盯着唐小棠说道：“再走不出去我们就都要饿死了，到底还要多少天？”\n　　唐小棠微低着头，看着颈间的兽尾，有些不自信低声说道：“应该快了吧。”\n　　宁缺倒吸一口冷气，不可置信看着她，说道：“我们仨跟着你老老实实走了",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "门应天时开启之时，寻找那本传说中的天书明字卷，然而却是全无所获，那卷传说中的天书的下落，很自然地成为众人心中的极大疑惑之所在。\n　　叶红鱼说道：“天谕大神官说过明字卷会在这里出现，那么就肯定会出现。”\n　　宁缺摇了摇头，说道：“现在看来，天谕大神官大概是错了。”\n　　叶红鱼微微皱眉，毫不犹豫说道：“",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "拳头。\n　　一个比桑桑贪便宜买的土海碗还要大的拳头。\n　　那个拳头光明正大，充溢着金石之气。\n　　破风而至，全无阴诡意味。\n　　不是偷袭。\n　　是击杀。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "发现，山谷外那个真实而冷酷的世界，准备用什么来迎接自己。\n　　宁缺沉默片刻后向雾中走去，右手伸到身后缓缓握住大黑伞的伞柄。\n　　大黑伞是他在这个世间最大的依靠，最温暖安静如同野猫黑屋一般的存在，在魔宗山门里面对莲生时没有来得及拿出来，他便险些死了，此时要从与世隔绝的大山里回到人世，那种陌生感和警惕让",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "小棠回过头来，指着通道前方那片薄淡的雾气，清稚的眼睛里全是开心的神情，说道：“那里真的就是出口，我们走出来了。”\n　　……\n　　……\n　　看着通道尽头那片雾气里的隐隐光亮，隐约猜到应该便是出口，历尽千辛万苦已然粮绝的情况下，众人本应该欢欣鼓舞雀跃不已，甚至应该手牵着手肩并着肩，身上挂着一条彩带，脸上",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "宁缺沉默片刻后向雾中走去，右手伸到身后缓缓握住大黑伞的伞柄。\n　　大黑伞是他在这个世间最大的依靠，最温暖安静如同野猫黑屋一般的存在，在魔宗山门里面对莲生时没有来得及拿出来，他便险些死了，此时要从与世隔绝的大山里回到人世，那种陌生感和警惕让他随时准备抽出大黑伞。\n　　雾外的世界没有什么万夫所指。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

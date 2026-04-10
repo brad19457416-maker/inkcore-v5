@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 393,
+  "chapter_title": "第一百九十八章 第三本书",
+  "filename": "ch_0393_第一百九十八章 第三本书.txt",
+  "char_count": 2327,
+  "timestamp": "2026-04-10T12:11:21.796103",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百九十八章 第三本书\n　　绝壁之前便是天空，依然没有什么回音，宁缺的喊声出崖不远便消失无踪，并不袅袅，更没有绕壁三年不绝。\n　　看着绝壁旷美风光，宁缺沉默片刻后，忽然转身向崖洞里走去，只是在快要走进洞口时，双脚下意识里停了下来。\n　　桑桑",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "却是完全一样的事物，浩然气与神术所召唤的神辉，也没有任何本质区别。\n　　只不过时间终究是世间最伟大的存在，想要在浩然气上抹去它的痕迹，最终让浩然气与昊天神辉同质同形，依然是难以想像的事情。\n　　轲浩然当年做到了。\n　　他把浩然气修练到极致，根本不再需要需要模拟各种天地元气，而是将世界所有天地元气在体",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "召唤的神辉，也没有任何本质区别。\n　　只不过时间终究是世间最伟大的存在，想要在浩然气上抹去它的痕迹，最终让浩然气与昊天神辉同质同形，依然是难以想像的事情。\n　　轲浩然当年做到了。\n　　他把浩然气修练到极致，根本不再需要需要模拟各种天地元气，而是将世界所有天地元气在体内养炼成了最纯净的存在。\n　　所有",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "气海，自经脉运至手臂指间，然后化作一抹圆融的洁白光焰。\n　　桑桑怔怔看着这幕画面，下意识里细指伸出，来到宁缺食指的旁边，心意微动，便有一团洁白的光焰生出。\n　　两团光焰瞬间便将崖洞照耀的有如白昼。\n　　除了桑桑指间那团光焰庄严神圣气息异常浓郁之外，二者之间没有任何区别。\n　　二人看着彼此指尖生出的光",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "看着这幕画面，下意识里细指伸出，来到宁缺食指的旁边，心意微动，便有一团洁白的光焰生出。\n　　两团光焰瞬间便将崖洞照耀的有如白昼。\n　　除了桑桑指间那团光焰庄严神圣气息异常浓郁之外，二者之间没有任何区别。\n　　二人看着彼此指尖生出的光焰，脸上流露出笑容。\n　　宁缺问道：“这就是昊天神辉？”\n　　桑桑点",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "彩虹，必然是最美丽的。\n　　……\n　　……\n　　从外面进入到崖洞深处，相对应的有些幽暗，宁缺三个月来第一次从洞外走到洞内，更是有些不适应，伸出右手的食指。\n　　精纯至极的浩然气，从他腹内那颗水滴中缓缓释出，穿通道而入雪山气海，自经脉运至手臂指间，然后化作一抹圆融的洁白光焰。\n　　桑桑怔怔看着这幕画面",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "美风光，宁缺沉默片刻后，忽然转身向崖洞里走去，只是在快要走进洞口时，双脚下意识里停了下来。\n　　桑桑说道：“想再看看，便进去看看吧，我陪着你。”\n　　宁缺点点头，和她一道重新走了进去。\n　　他在这个崖洞里被囚三月，精神与意志禁受了极为严峻的考验，在那些冥思苦想，失望绝望的夜里，他无数次想到，如果能够",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "助，让他能够走的更远。\n　　正因为清楚这一点，所以宁缺对二师兄曾经转述过两次的那段话，那段小师叔关于命运和毅力联系的话，有了更深刻的认识。\n　　此时此刻，宁缺似乎应该骄傲，但他没有任何得意的神情，走到那片外壁剥落的石壁前，就像在大明湖底那些石头间一样，就像在魔宗山门看着小师叔的笔迹时那样，双膝跪倒在",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "去。\n　　他在这个崖洞里被囚三月，精神与意志禁受了极为严峻的考验，在那些冥思苦想，失望绝望的夜里，他无数次想到，如果能够突破禁制，走出崖洞，一定要马上带着桑桑飞一般逃离崖坪，这一辈子都不会再进这个崖洞。\n　　然而当他真正破关出洞，又再次走回崖洞后，却忽然发现，自己的心情竟是如此的平静，洞里那些令他厌",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "月来第一次从洞外走到洞内，更是有些不适应，伸出右手的食指。\n　　精纯至极的浩然气，从他腹内那颗水滴中缓缓释出，穿通道而入雪山气海，自经脉运至手臂指间，然后化作一抹圆融的洁白光焰。\n　　桑桑怔怔看着这幕画面，下意识里细指伸出，来到宁缺食指的旁边，心意微动，便有一团洁白的光焰生出。\n　　两团光焰瞬间便将",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

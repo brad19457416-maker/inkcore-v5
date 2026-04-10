@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 188,
+  "chapter_title": "第一百八十八章 来了辆牛车",
+  "filename": "ch_0188_第一百八十八章 来了辆牛车.txt",
+  "char_count": 3468,
+  "timestamp": "2026-04-10T12:11:12.042707",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "得两口，先是一怔，然后眼角流下两行清泪，旋即开始摇头晃脑，不停弹动前蹄，不停哞哞叫着。\n　　大师兄迟疑问道：“夫子，它这是高兴还是辣着了？”\n　　夫子说道：“当然是高兴。”\n　　大师兄心想夫子的话当然永远正确，于是接过筷子继续喂大黄牛吃牡丹鱼。\n　　……\n　　……\n　　连荒人都无法再继续生存下去的极",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "便显得极不普通，如果有人能够看到这幕画面，一定会觉得非常神奇。\n　　驾牛车的是位眉直眼阔的书生，一路风尘让他身上的旧棉袍显得更旧了些，脸上神情却显得愈发朴实可亲，踩在单辕上的那双破草鞋，也不知为何在道上走了一年多时间居然还没有散架，腰间的水瓢随着牛车起伏微微摆荡。\n　　牛车里忽然传来一道歌声。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "距离牛车约数百步的地方时，那头普通公狼停下脚步，再也不敢向前。\n　　瘦小的普通公狼看着牛车，显得十分激动不安，身体微微颤抖后蹲，抬起两只前爪，看上去就像人类学生面对师长在执弟子礼一样。\n　　大师兄看着这头公狼，诧异道：“老师，这不是七年前那匹狼吗？居然成亲了。”\n　　夫子微微一笑，没有说话。\n　　大",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "苦心忧忧哟……哟哟。”\n　　驾车的书生笑了笑，伸出手掌轻拍大黄牛后背示意它停下来，然后转身对身后车厢说道：“夫子，想回家了？”\n　　车帘掀起。一位身形高大、头发花白的老人走了出来，他揉了揉腰，又伸了伸胳膊，看着莽莽无边的荒原，恼火说道：“出来一年多，尽在这些鸟不生烟的地方晃荡，吃没得吃，玩没得玩，谁",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "因为过薄会丧失口感，而牡丹鱼产于深海，肉质极弹，所以越薄越好，孩儿你这些年算是基本掌握了一些人世间的道理。”\n　　夫子晃头赞叹不已，左手自怀中取出酱油和一种青色的调料还有姜汁倾尽碗中，右手则是极为自然地伸向案板，中食二指拈起那片薄薄的白色鱼片，在碗中若锦鲤摆尾般轻轻一荡，便迅速送入唇中。\n　　一面咀",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "。\n　　大师兄迟疑问道：“夫子，它这是高兴还是辣着了？”\n　　夫子说道：“当然是高兴。”\n　　大师兄心想夫子的话当然永远正确，于是接过筷子继续喂大黄牛吃牡丹鱼。\n　　……\n　　……\n　　连荒人都无法再继续生存下去的极北寒域，这头大黄牛能毫不惧冷拉车去晃荡一圈再安然无恙回来，身材还保持的如此健壮，当然",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "在隘口处与唐氏兄妹一番恶战的那群巨狼。只见那个身躯瘦小的公狼，带着那位巨美若雪山的母狼脱离狼群大队，缓缓向牛车走来，在走到距离牛车约数百步的地方时，那头普通公狼停下脚步，再也不敢向前。\n　　瘦小的普通公狼看着牛车，显得十分激动不安，身体微微颤抖后蹲，抬起两只前爪，看上去就像人类学生面对师长在执弟子礼",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，踩出来的浅平洼中有几根微白的野草横卧无语。\n　　中原官道上的普通木板车，中原田垄间的普通大黄牛，却出现在荒原上，便显得极不普通，如果有人能够看到这幕画面，一定会觉得非常神奇。\n　　驾牛车的是位眉直眼阔的书生，一路风尘让他身上的旧棉袍显得更旧了些，脸上神情却显得愈发朴实可亲，踩在单辕上的那双破草鞋，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "像牡丹鱼之中原人一般珍稀少见肯定好吃，可不知道为什么，以凶残嗜杀著称的雪原巨狼群却没有猛扑过来，而是纷纷发出凄厉的哀鸣，惊恐地向后方退去，仿佛它们感知到了某种远远超出它们想像的恐怖气息。\n　　这群雪原巨狼正是当日在隘口处与唐氏兄妹一番恶战的那群巨狼。只见那个身躯瘦小的公狼，带着那位巨美若雪山的母狼脱",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "片刻后安静后，唐说道：“本想看看有没有机缘让你拜夫子为师，但既然夫子没有表示，那说明机缘不到，以后有机会再说。”\n　　唐小棠惊讶问道：“你是说夫子知道我们在这里偷看？”\n　　唐转身向草甸下方走去，说道：“既然是夫子，自然什么都知道。”",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "狼吗？居然成亲了。”\n　　夫子微微一笑，没有说话。\n　　大师兄看了夫子一眼，发现夫子没有反对的意思，离开牛车向那头普通公狼走近几步，抬手指向草原西北方向，说道：“不要继续向南，那边人太多，往那边走，再过五百里，有一大片针叶林。”\n　　普通公狼连连摆动前爪行礼，俯身以狼首触地良久，然后才站起身来，依依",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

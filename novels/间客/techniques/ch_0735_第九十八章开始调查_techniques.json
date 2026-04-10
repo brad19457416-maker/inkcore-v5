@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 735,
+  "chapter_title": "第九十八章开始调查",
+  "filename": "ch_0735_第九十八章开始调查.txt",
+  "char_count": 3329,
+  "timestamp": "2026-04-10T12:05:17.597225",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "咳嗽连连，忽然间，他对着那满墙的地阴藤愤怒地吼叫了起来。就像是一头被激怒了的狮王。用最恶毒的语芊和最危险的姿态，宣布着息的愤怒不可抑止。\n\n    他霍然转身，盯着许乐的眼睛沙哑喝道：“你要我相信我的副总统。还有这么多联邦柱石，都是一群无恶不作的杀人犯？证据，你必须拿出证据！”\n\n    “证据都是",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "很庸俗的问题。”总统先生没有回头，依旧怔怔望着窗外这片景色，说道：“自从成为联邦总统以来，我所看到的风景，都是被特勤局审查之后，可以被允许看到的风景，这种失去了自由味道的风景。是不是好风景？”\n\n    隐约间，许乐从略嫌沙哑的声音中捕捉到了他的那丝真实想法，右手撵着冰冷的湿毛巾缓缓站了起来。望着窗",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的中年男子，想着这些年里生的那些事情，想到自己对总统先生寄予的愿望，许乐的情绪有些不妥当，昂着头生硬说道：“真正想要影响司法进程的另有其人，和我到没有什么关系\n\n    帕布尔总统将已冷的湿毛巾用力扔到桌上，强抑怒气大声批评道：“这算什么？不平之音？难道说你认为我。或者是官邸里的谁，给法院施加了任何",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "从您的命令。”这应该不是帕布尔总统要的答案，但也不是最差的答案，所以窗中的总统微微一笑，带着很深沉的感慨悠悠说道：“我就把你当成是我的人说些话”，关于西林的这场官司，我餐理解你的愤怒，因为很多时候。我也很愤怒\n\n    帕布尔总统静静望着窗中的自己，片雪中的自己，灯光中的自己，低声说道：“我愤怒于自",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的质问后，帕布尔总统先生一直盯着那些污痕在认真地观看，似乎是在观看自己最真实的内心。\n\n    伴随沉重木椅角在明砖地面拖动的声音，总统先生站了起来，他走到窗边，双手向下扶在腰后，疲惫酸涩的身体微微上仰，带动他的目光透过玻璃，望向那些在路灯照耀间片片落下的雪，沉默了很长时间。\n\n    “有一个很庸",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "微微一笑，带着很深沉的感慨悠悠说道：“我就把你当成是我的人说些话”，关于西林的这场官司，我餐理解你的愤怒，因为很多时候。我也很愤怒\n\n    帕布尔总统静静望着窗中的自己，片雪中的自己，灯光中的自己，低声说道：“我愤怒于自己的无耻和卑劣”这种无耻卑劣在于，我清晰地认识到，钟司令的死亡，对于联邦来说是",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "什么关系\n\n    帕布尔总统将已冷的湿毛巾用力扔到桌上，强抑怒气大声批评道：“这算什么？不平之音？难道说你认为我。或者是官邸里的谁，给法院施加了任何压力？”\n\n    “您没有，不代表您的下属没有许乐想到布林主任那张在阴影里阴晴不定的脸，想到那些在法庭上旁听的家族代表，强硬继续说道：“更不代表那些",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "瘦弱地惹人怜爱，她轻柔地与帕布尔总统拥抱，然后现了站在一旁的许乐，女孩儿那双淡然到令人有些心悸的眼眸骤然大放光彩，却终究没敢上前去拥抱许乐，只是微羞低着头蹲了蹲身子，便蒙着脸跑回了自己的卧室。\n\n    这段有些可爱的画面，如果是平常，肯定会成为总统先生打趣或者说警告许乐的内容，但今天深夜的气氛有些",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "是好风景？”\n\n    隐约间，许乐从略嫌沙哑的声音中捕捉到了他的那丝真实想法，右手撵着冰冷的湿毛巾缓缓站了起来。望着窗边精瘦而依然双肩极硬的中年男子身影。\n\n    “还有一个更庸俗的问方式。”镜上倒映着帕布尔总统模糊的脸。他的唇角微微抽搐，自嘲一笑，说道：“你是”我的人吗？。\n\n    这个，问",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "尖锐锋利：“许乐上校，我认为你应该很明白纪律的重要性。”\n\n    许乐没有回答。\n\n    “不用担心什么，许乐上校是我最信任的人。”总统先生微笑着拍了拍这位高级主管的肩头，说道：“如果连他都想要杀我，那或许说明我真的已经该死了，哈哈，”\n\n    以后这成为了一句名言。\n\n    “以上是我的汇",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "还是提问的方式，都透着股俗劲儿，大抵东林混的最惨的黑帮分子才会用这种口气收小弟，谁能想到整个联邦最有权力的总统先生。居然完全没有当年做律师时的雄辩风范，就这么**地扔了句大俗话出来。\n\n    所以许乐愣了愣，片刻后他下意识里眯起了眼睛，站直了军姿，右手平抬过眉梢。沉声说道：“身为联邦军人，我当然会",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "了拍这位高级主管的肩头，说道：“如果连他都想要杀我，那或许说明我真的已经该死了，哈哈，”\n\n    以后这成为了一句名言。\n\n    “以上是我的汇报。古钟号遇袭肯定是有问题，但现在最紧迫的问题是，总统先生，您身边的人无法信任，很容易出大问题。”\n\n    深在地下的全屏蔽数据库，禀承了财政部一惯的",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "无尽的利益，事实上编织这场阴谋的军方激进派和那位政府大人物，想必也有这方面的考虑。\n\n    然而他从来没有想像过。总统先生居然会承认自己也会如此去想。他有些愕然地抬头，望着窗边帕布尔总统的身影，想着这些年来他对自己的真诚关怀和庇护，想到他先前的感慨，又或许只是因为窗边总统先生的身影太过单薄，，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "下去。”\n\n    （上章最后一句是鲁迅的话，套的大概，另外就是觉得这两章写的不是很好，明天会更好，大家晚安。）（未完待续www.xiaoshuotxt.,com",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "护着总统先生和许乐走进了官邸下方的紧急地道，顺着地道走了大概十几分钟的时间，台阶渐渐向上延展。应该是进入了某间大楼。“这是什么地方？”许乐疑惑不解地望着那扇大铁门，问道三“确认比官邸更安全？。\n\n    “这里是财政部全屏蔽债券数据库。”帕布尔总统微笑转身望着他。说道：“年轻人，欢迎你参观联邦政府的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

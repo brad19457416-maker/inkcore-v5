@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 610,
+  "chapter_title": "第一百一十一章 云端之上，地面之下",
+  "filename": "ch_0610_第一百一十一章 云端之上，地面之下.txt",
+  "char_count": 2174,
+  "timestamp": "2026-04-10T12:11:26.763556",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "僧人抓住他，想必也不敢随意杀他，但现在他带着桑桑，天下虽大似乎都没有落脚的地方，更何况是在烂柯寺里一心想要杀死桑桑的佛宗圣地？\n　　黑色马车安静潜行，过了段时间，又回到了先前他们出发时的地方，只是稍微偏离了些许，刚好要经过那株菩提树。\n　　宁缺看着车窗外的菩提树，说道：“那应该就是佛祖圆寂时的地方。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "着说道：“你现在的身份可不比佛祖差，不需要对他太过敬畏。”\n　　瓦山顶峰的佛光降临烂柯寺后，一路生死危险，二人根本没有机会去讨论那件事情，或者说不想讨论那件事情，但终究不可能一直沉默。\n　　桑桑沉默了很长时间，低声说道：“我真的会毁了这个世界吗？”\n　　宁缺想着先前看到的悬空寺，想着自己猜想的那些残",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "画面，感慨说道：“原来这才是悬空寺的由来。”\n　　大黑马低首轻踢地面，不敢发出任何声音，心情却是焦虑紧张到了极点，暗想即便佛门圣地神妙难言，但也不值当为此冒这么大的险。\n　　宁缺不认为这很冒险，以他的眼力，望向远处天坑中的山峰，也只能看到那些黄色寺庙的大概模样，那么从峰间往地面看来，黑色马车大概和一",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的佛门信徒，也不可能永世承受这样的折磨，悬空寺里的僧人，肯定自有手段像驱使牲畜般驱使这些农夫，从这个意义上来说，那些农夫更像是中原早已废除的农奴。\n　　在极短的时间里，宁缺的脑海里浮现出很多画面，被铁索穿透肩胛骨的逃奴，倒毙在寒稻田里的不敬佛者，跪倒在山峰前的十余万名贫苦的凡人，寺中僧人骄奢的生活…",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，很多人自然地猜测，悬空寺肯定建筑在传说里那些神境才有的悬空岛上。\n　　谁能想到悬空寺非但没有悬浮在天空之中，反而是在地面之下？宁缺看着远处那座将宠大身躯隐藏在地面之下的山峰，生出很多不解。\n　　便在这时，西南方向极遥远的悬崖峭壁处，忽然垂下无数白色的晨雾，雾气微湿，较诸空气为重，自崖畔缓缓向着天坑",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "时间，低声说道：“我真的会毁了这个世界吗？”\n　　宁缺想着先前看到的悬空寺，想着自己猜想的那些残酷的真相，说道：“我不知道也不在乎，不过如果是那样的世界，毁了似乎也无所谓。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "师兄和六师兄精心打造的观星镜，一共做了两个，其中一个孝敬了老师，还有一个他自然带在了身上。\n　　夫子第一次用这镜子观星时，便根据它的效果，改名为望远镜，宁缺现在还不知道这件事情，不过他知道这镜子本来就是用来望远的。\n　　天坑里的云雾流淌速度很快，山峰里的黄色寺庙时隐时现，有时候还偶尔能够看到山腰之下",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "座将宠大身躯隐藏在地面之下的山峰，生出很多不解。\n　　便在这时，西南方向极遥远的悬崖峭壁处，忽然垂下无数白色的晨雾，雾气微湿，较诸空气为重，自崖畔缓缓向着天坑底部坠落，看着就像是一道白色瀑布。\n　　天坑里本来湿气就重，自生雾瘴，此时汇入地表无数晨雾，顿时变得白茫茫一片，那座雄伟的山峰上云雾缭绕，山腰",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。\n　　便在这时，西南方向极遥远的悬崖峭壁处，忽然垂下无数白色的晨雾，雾气微湿，较诸空气为重，自崖畔缓缓向着天坑底部坠落，看着就像是一道白色瀑布。\n　　天坑里本来湿气就重，自生雾瘴，此时汇入地表无数晨雾，顿时变得白茫茫一片，那座雄伟的山峰上云雾缭绕，山腰之下完全无法看到，仿佛消失一般，从黑色马车处望",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "皱。\n　　桑桑掀起车帘，也看到了眼前的画面，震惊的无法言语。\n　　宁缺把望远镜递给她，说道：“看看便离开，也不枉我们来悬空寺走一遭。”\n　　……\n　　……\n　　如果宁缺是个大智大勇之人，他可能会攀下悬崖峭壁，偷偷去到云层下的悲惨世界，发动那些农奴起义造反，推翻这个畸形的有若蚁窟的悬空寺，或者他会悄悄",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "那座岛屿峰峦间的黄色寺庙在雾中时隐时现，仿似佛国仙境。\n　　宁缺看着眼前令人心生震撼的神奇画面，感慨说道：“原来这才是悬空寺的由来。”\n　　大黑马低首轻踢地面，不敢发出任何声音，心情却是焦虑紧张到了极点，暗想即便佛门圣地神妙难言，但也不值当为此冒这么大的险。\n　　宁缺不认为这很冒险，以他的眼力，望向",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 278,
+  "chapter_title": "第二百一十二章 心如雪原茫且惘",
+  "filename": "ch_0278_第二百一十二章 心如雪原茫且惘.txt",
+  "char_count": 3445,
+  "timestamp": "2026-04-10T12:04:51.177443",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "高，当知道青龙山**军提供了一位重要证人之后，后续的工作马上就展开了，因此萧文静看到了很多关于许乐的秘密档案。\n\n    萧文静知道许乐和如今正在石阶上接受采访的那个女生，当年曾经是一对恋人，经过一番梳理，并不需要花太多精神，这位嗅觉敏锐的检查官，便猜想到曾经发生过什么故事。而最近联邦里闹的轰轰烈烈",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，在这种时候有朋友关心自己，总是好的。挂断电话之后，他又点燃了一根烟，想把鼻子里的那股酸味儿驱除掉，心想邹郁已经打了电话，应该没有人再来烦自己了。\n\n    便在这个时候，却有一封电子邮件发到了他的手机上。电子邮件上面写着一行简单的字句：\n\n    “小爷早就对你说过，爱情啊……那就是上下两张嘴，你",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "还活着，不是吗？她活着总比永久离去的好，既然如此，自己有什么好愤怒不满？只是……终究心情就像这深秋的风一样，还是有些萧瑟的不像年轻人啊。\n\n    为了她的死，他曾落泪痛苦，在夜里辗转反侧。为了替她寻个公道，他甚至不惧曝露自己联邦逃犯的身份，小人物毅然决然地投身到联邦的大动荡中，像块石头一样的坚韧隐",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "年的不顾生死，原来都是假的。然而她毕竟还活着，不是吗？她活着总比永久离去的好，既然如此，自己有什么好愤怒不满？只是……终究心情就像这深秋的风一样，还是有些萧瑟的不像年轻人啊。\n\n    为了她的死，他曾落泪痛苦，在夜里辗转反侧。为了替她寻个公道，他甚至不惧曝露自己联邦逃犯的身份，小人物毅然决然地投身",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "裤子里掏出手机，说了几句，正准备关机的时候，却看到了另一通来电。\n\n    电话那头是邹郁略带着一丝紧张，一丝疑惑的声音。除了联邦政府的情报部门之外，知道许乐与张小萌之间故事的，只有他最亲近的人，邹家大小姐自然算其中一个。她在新闻上看到那个叫张小萌的女生，马上想到了许乐知道这个消息后，会震惊成什么样",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "沉默无语。他挡住了大部分同僚的目光，却没有人愤怒地发表意见，因为短短大半年时间，军官袁子台便凭借他在战斗中的勇敢以及极为优秀的军事素养，获得了所有人的尊重甚至是敬畏。\n\n    不到二十岁的上尉军官，虽然有第一军事学院的推荐，但如果不是真正在战场上表现出了相应的能力，也不可能得到军队的信任。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "，这个叫许乐的人为什么会牵涉到虎山道谋杀案中。\n\n    “就算是国防部直管军官。可这件事情太重要。将来开庭还需要他作证。”有官员说道。\n\n    “盯着他。我去申请权限。另外这时候不要惹他。估计他心情很不好。”萧文静向汽车走去。说道：“其实等他自己想通了。会来主动找我们地。”\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "时间，一年的悲伤，一年的努力，一年的不顾生死，原来都是假的。然而她毕竟还活着，不是吗？她活着总比永久离去的好，既然如此，自己有什么好愤怒不满？只是……终究心情就像这深秋的风一样，还是有些萧瑟的不像年轻人啊。\n\n    为了她的死，他曾落泪痛苦，在夜里辗转反侧。为了替她寻个公道，他甚至不惧曝露自己联邦",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "前走去。\n\n    “你必须配合。”司法部官员大概有七八个人，直接拦住了他的去路，先前那位官员阴冷地说道：“刚才我们去望都公寓找你，结果你却提前跑了，我们一路跟踪过来，还险些被你甩了，找了半天才找到你，如果你不跟我们走，我有权力逮捕你。”\n\n    许乐此时的心情很乱很糟糕，但也没有花多长时间便明白",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "接着却是惘然失落酸楚，在她的心中自己究竟算是什么呢？他是一个机修方面的天才，实力强悍的年轻强者，可他人生初萌的第一段感情历程，便是小说家也难以设想的离奇，他根本无法想明白。\n\n    在封余大叔死后，他告诉自己永远不要再哭，然后得知张小萌死讯时，他在被子里哭的稀里哗啦，今天这复杂的情绪让他的鼻子也酸",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "麦德林，我想你应该跟我们走一趟。”\n\n    许乐抬头望去，看到了萧文静检查官，对于这位检查官他并不陌生，在虎山道谋杀案中，两个人便打了不少交道，最近这几天的新闻当中，这位被临时调到司法部负责麦德林专案的检查官上镜不少。\n\n    “目标？什么目标？”许乐迎着他认真的目光，忽然开口说道，声音里充满了",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "觉到这个年轻人此时心中的空惘。司法部的效率很高，当知道青龙山**军提供了一位重要证人之后，后续的工作马上就展开了，因此萧文静看到了很多关于许乐的秘密档案。\n\n    萧文静知道许乐和如今正在石阶上接受采访的那个女生，当年曾经是一对恋人，经过一番梳理，并不需要花太多精神，这位嗅觉敏锐的检查官，便猜想到",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "安全顾问部应该很清楚你们并不是搞保镖的合适人选。”\n\n    就在他说话的时候，戒备森严的车队在对街缓缓驶过，中间那辆汽车后座，张小萌隔着防弹玻璃窗，怔怔地看着街对面的那个男人，沉默无语。\n\n    ……\n\n    ……\n\n    2|军官，正怔怔地看着电视上重播的听证会现场，久久沉默无语。他挡住了",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "寓找你，结果你却提前跑了，我们一路跟踪过来，还险些被你甩了，找了半天才找到你，如果你不跟我们走，我有权力逮捕你。”\n\n    许乐此时的心情很乱很糟糕，但也没有花多长时间便明白这个司法部官员要调查什么，自然和刚刚走出议会大厦的张小萌有关，司法部要指控麦德林议员参与临海州暗杀事件，自然需要自己的口供。",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "事件，自然需要自己的口供。\n\n    然而这是一个阴冷感伤的白天，他只是下意识里想要离开，离开背后的人群，离开自己纷乱的情绪，尽快离开这地方，所以他不想去司法部接受什么调查。他推开面前的官员，沉默地向前继续行走。\n\n    忽然间有一个声音说道：“如果我没有想错，我们的目标应该是一样的，你也知道我们",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 298,
+  "chapter_title": "第二百二十八章 这里的黎明躲猫猫",
+  "filename": "ch_0298_第二百二十八章 这里的黎明躲猫猫.txt",
+  "char_count": 4625,
+  "timestamp": "2026-04-10T12:04:51.235529",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "会开设了很多年的孤儿院。\n\n    环山四州处于联邦政府与青龙山**军对峙的第一线，虽然这些年的军事冲突越来越少，但还是有很多无辜的民众丧失生于流弹峭烟之中。和平基金会将那些失去了家庭的可怜孩子接来了此地，设置了孤儿院，对他们进行教育，再让他们融入社会。基金会对战争孤儿的关怀，得到了整个联邦社会的好",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "惊恐，显然已经被许乐和他手中的枪吓傻了。\n\n    ……\n\n    ……\n\n    灌木丛里一片令人压抑的死寂沉默，一大一小两个人都不敢有任何动作，发出任何声音，只是渐渐的，那个小男孩儿的双脚开始不停颤抖起来，带动着身边的灌木丛发出了微细的声音。\n\n    耳机里传来白玉兰快速的呼叫：“回~况。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "基金会大楼保安部门的监控人员眼中，自然不会紧张，他反而对着探头伸出一根中指比划了一下。\n\n    他心想又要的慢且静悄悄，还要走的美形，这实在是非人的要求啊。\n\n    孤儿院和基金会大楼的绿区连一起的，没有明显的分界线。听从耳机里准确而清晰的指令，许乐借着清晨的微光一路潜行，路上看似惊险、实则无趣",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "半根能量棒，开始沉默地进食。\n\n    “好了。”两分钟后，耳机里传来白玉兰沉稳的声音，声音并不如何激动兴奋，让人无法相信，只用了这么短的时间，白秘书便通过那串密码暂时接管了这片街区的视频捕捉监视系统。\n\n    许乐精神为之一振，站起身来，注意到直立着的仪器柜中那些闪烁的微光红灯，又开始如常一般动",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "地守在大楼四周，楼区后方核心地带，则是有很多带着军人气息地人物，他的心情略有一丝紧张，对着通话器小声说道：\n\n    “慢一些，再慢一\n\n    像躲猫猫那样，我这边看着你，不要担心，但如果你太大，被人发现，他们肯定会重新检查视频捕捉监控系统，只需要三分钟便能发现问题，只需要十分钟便能通过信号发生器",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "发装置，尤其是安装最后两根电极，那双稳定的手变得更慢了一些。他毕竟不是白玉兰这种职业军人或杀人专家，第一次安装大威力的炸弹，总是需要一个适应的过程。\n\n    “引信号契合完毕，这里就交给我了。”山顶上的白玉兰接收到了精准的定位和引爆脉冲信号，在耳机里说道：“厕所外面有人，你大概需要多停留二十秒钟。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "男孩儿惊恐地睁大着双眼，双脚不停颤抖，满是灰尘的脸上布满了紧张与害怕，重重地点了点头。\n\n    “为什么没有睡觉，却躲在树丛里？”许乐压低声音问道，想用这种方法来让小男孩儿在害怕之余，不至于失控。\n\n    小男孩儿惊恐颤声回答道：“躲……猫猫，她们……她们……昨天晚上……没找到我，我就不能走……",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "盯着面前的小男孩儿，注意到小男孩儿的脸上满是灰尘，身上也沾满了泥土。他的表情平静，内心深处却是涌出了无数复杂的念头，觉得这事情真的是很荒谬。\n\n    无论是青龙山提供的情报，还是他先前亲自的观察以及山顶白玉兰通过遍布街区的探头监控，都已经确定了这片灌木丛是安全的。\n\n    先前白玉兰一直没有示警",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "蹲于花丛之后，时而快行于池塘畔的泥地，避开了内网监控头的捕捉，用最短的时间穿过孤儿院前的一大片空地，来到了建筑侧方的一扇小门前。\n\n    他身上带着:蓝光小仪器可以对抗宪章的光辉和无所不在的电子监控网络，但于对基金会内部没有联网地视频捕捉监控系统，却有太强的效果。好在**军方面将这片街区的视频捕捉",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "来。手掌拨开小门旁石阶处地青草。摸到一个冰冷地铁环。眉头微皱。轻哼一声。将全身地力量输送到右臂之上。缓缓提起。\n\n    这是一道被掩藏地极好地下通道入口。大概已经很多年没有人打开过。锈蚀地有些厉害。加上沉重地覆盖板。如果许乐这种身具异力地突进者。想要如此悄无声息地进入下通道。基本上是不可能完成地任",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "丝紧张，对着通话器小声说道：\n\n    “慢一些，再慢一\n\n    像躲猫猫那样，我这边看着你，不要担心，但如果你太大，被人发现，他们肯定会重新检查视频捕捉监控系统，只需要三分钟便能发现问题，只需要十分钟便能通过信号发生器找到我在山上的位置，到那时候，你就真地是孤家寡人了……所以慢一些，再慢一些。”",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "峭烟之中。和平基金会将那些失去了家庭的可怜孩子接来了此地，设置了孤儿院，对他们进行教育，再让他们融入社会。基金会对战争孤儿的关怀，得到了整个联邦社会的好评，麦德林当然会很好地抓住这种政治道德资本，在孤儿院的建设上不遗余力，而联邦各地的捐款也源源不断进入他所控制的基金会帐户之中。\n\n    天时尚早，",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第二百二十八章 这里的黎明躲猫猫 \n\n    这里的黎明静\n\n    环山四州和平基金会名义是一幢大楼，实际上是一大片街区，向着正街的方向没有明显的围墙与门禁，用基金会网站的话来说，这代表着麦德林议员领导的基金会禀持着一颗开放无类的心，欢迎任何派别的人前来。看上去没有围墙",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "没有从睡梦中醒来，但这片高墙之后地孤儿院确实是一片安静。山上的白玉兰在通话器里让许乐动作再慢一些，再温柔一些，不要吵醒那些睡着的孩子，便是这个意思，只是那些听似嗦且无聊的话语，更大程度上是为了缓解许乐的紧张。\n\n    紧贴着墙根处的阴影而，耳机里不断传来白玉兰的指令，背着旅行包地许乐，时而低蹲于花",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

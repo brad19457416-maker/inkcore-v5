@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 286,
+  "chapter_title": "第二百一十八章钟与野鸟",
+  "filename": "ch_0286_第二百一十八章钟与野鸟.txt",
+  "char_count": 3637,
+  "timestamp": "2026-04-10T12:04:51.199267",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "速u8，小说齐全★许乐将鞋上的雪泥蹭在轮胎上。握拳咳了两半身军装的衣领竖了起来。稍挡周游于街巷间的寒风。\n\n    他从硬纸盒里取出两只烟。点燃一根叼在嘴上。另一根递给了白玉兰。白玉兰低着头。目光过丝丝黑发望向司法部大楼前方。犹豫了片刻。接过香烟夹着。却没有点燃。\n\n    自天而降的雪已经停了。寒",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "大家团结在联邦的围。”\n\n    这位议员的演讲总是这样的情真意切。诚恳动人。“历史的风沙终究掩不住真相。司法部大楼的数夜。令我深思许久。在当前的局势下。究竟是我个人的政治荣辱重要。还是联邦的团结稳定更为重要？……”\n\n    “今天。我在联邦议会山前宣布退选。不是因为我对联邦的精神感到失望。选择放",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "出了司法部大楼。\n\n    在大楼外。麦德林议员与前来迎接的罗斯州长亲切拥抱。向四周多达数千人的支持人群热情挥手。看上去就像是一个胜利者。然后这名胜利者。在无数人的簇拥之下。沿着覆雪的街道。向着西方的议会山方向走去。\n\n    许乐没有动。他仍然沉默的站在车旁。一根又一根的吸着烟。本来这已经不再是他",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "雪之中。\n\n    关掉了车载电视。黑色汽车沉默无声的驶过议会大厦左侧的道路。只用了几分钟的时间。便来到了宪章广场。\n\n    在宪章广场的正中央。五人小组的雕像高高耸立。薄雪积于这些前贤的头顶和肩头。仿古铜的材质在雪天里。显的颇具沧桑之感。\n\n    这组巨大雕像的正前方。安置着一只笨重的古钟根据",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "布了共同退出的决定。\n\n    “您要放弃吗？”人伤心难过呼喊道。\n\n    “不能对政府让步”有人愤怒的大声说道。\n\n    麦德林议员伸开了手在雪花慈祥而坚定的开始了自己的再一次演讲。\n\n    ……\n\n    ……\n\n    看不清议会大厦前生了什么身旁的车载光屏忠实将那里生的一切。传到了许乐",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "耀的更加圣洁。看上去就像是一场演唱会里精心设计的完美舞台一般。\n\n    许乐狠狠的吸了一香烟。火线瞬间燃至了第一个7字的下缘。他眯着眼睛看着那边。虽然看不清楚里面究竟发生了什么。但车内的电视已经开了。正在直播那处的场景。\n\n    联邦政府正式中止麦德林专案的调查。议会山的新闻发言人也遗憾的表示。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "不过在总裁助理亲自带领下。许乐和白玉兰还是直接走进了审核室。\n\n    这是安全决策部门的业务。第七战斗小组虽然名义上归属这个部门。但白水公司由上至下都知道。这个战斗小组当年从事的都是绝密级凶险业务。许乐不明白。为什么第七小组为被挑选作为保镖。\n\n    直到看到了那位叫做桐姐的中年女人。他才明白了",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "出的决定。\n\n    “您要放弃吗？”人伤心难过呼喊道。\n\n    “不能对政府让步”有人愤怒的大声说道。\n\n    麦德林议员伸开了手在雪花慈祥而坚定的开始了自己的再一次演讲。\n\n    ……\n\n    ……\n\n    看不清议会大厦前生了什么身旁的车载光屏忠实将那里生的一切。传到了许乐的耳中眼中",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "。作为最后胜利者的帕布尔议员。不。准确来说是以夫人为代表的联邦大人物们。一定对麦德林的安全及罗斯州长将来在联邦政治生活中的的位。给出了相应的承诺。\n\n    身旁的黑色汽车里传出麦德林议员苍老的声音。\n\n    “帝国的威胁近在眼前。联邦需团结。作为一名老兵。我在这里必须恳切的请求大家团结在联邦的围",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "方。安置着一只笨重的古钟根据联邦的初期教材所称。这只古钟代着人类向宇不停的发出呼。无数年前当人类社会出现在上林开始。这只古钟便摆放在此处。直至今日。不知维修了多少年。但钟从来没有止歇过。按照联邦法定的日期不时响起。平静而又永恒。\n\n    许乐是东林孤儿出自钟楼街。隔着蒙蒙车窗看着安静的古钟。他很自",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "却已经成了恶棍最后的避难所。”\n\n    许乐不想再听议会=前那老人的声音。虽然他从小就知道联邦这个社会里有太多的黑暗。但还真没有想。在首都星圈这些的方。黑暗的东西居然能够蒙上如光鲜亮丽的一件外衣。然后招摇撞骗于圣洁白雪之中。\n\n    关掉了车载电视。黑色汽车沉默无声的驶过议会大厦左侧的道路。只用",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "停的发出呼。无数年前当人类社会出现在上林开始。这只古钟便摆放在此处。直至今日。不知维修了多少年。但钟从来没有止歇过。按照联邦法定的日期不时响起。平静而又永恒。\n\n    许乐是东林孤儿出自钟楼街。隔着蒙蒙车窗看着安静的古钟。他很自的想到关于第四区的那个笑话。那句东林人很熟悉的比烟火还要寂寞那艘坠毁在",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "过。按照联邦法定的日期不时响起。平静而又永恒。\n\n    许乐是东林孤儿出自钟楼街。隔着蒙蒙车窗看着安静的古钟。他很自的想到关于第四区的那个笑话。那句东林人很熟悉的比烟火还要寂寞那艘坠毁在东林大区的表的军舰。那个异常结实的大钟。\n\n    据说当年第四军区拓东林时。随舰携带的。便是宪章广场上这只古钟",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

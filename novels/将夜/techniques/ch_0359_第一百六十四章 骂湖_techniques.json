@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 359,
+  "chapter_title": "第一百六十四章 骂湖",
+  "filename": "ch_0359_第一百六十四章 骂湖.txt",
+  "char_count": 3537,
+  "timestamp": "2026-04-10T12:11:21.722922",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "算你不砍我谁知道还有多少人想砍我？”\n　　“而且就算我要娶你，也不影响我多喜欢一些人吧？”\n　　“我为什么要喜欢别人？”\n　　“喂，我喜欢吃肉，不代表我就不喜欢吃虾，人本来就是杂食动物，我喜欢多吃两口别的又能怎样？你又能拿我怎样？”\n　　“那你怎么办？”\n　　“你跟着我一起吃啊。”\n　　“你说什么？",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "做什么？”\n　　宁缺说道：“我最喜欢吃煎蛋面，但如果让你天天顿顿吃蟹黄粥，你会不会腻？”\n　　陈皮皮思忖片刻后回答道：“总吃哪有不腻的道理？”\n　　宁缺皱着眉头，忽然想到一个更合适些的比喻，声音微哑问道：“那清水呢？你喝水会不会喝腻？”\n　　陈皮皮恼火说道：“什么狗屁问题，不喝水是要死人的！”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "无数道柔软的金线。\n　　噗通！噗通！\n　　他拣起石头向湖面上的那些黯淡金钱砸去，一块一块又一块，直到最终把自己眼前的所有冰絮全部砸成碎末才罢手。\n　　先前拿干柴砸野猫，此时拿石块砸冰絮，不是因为别的，只是因为他现在非常不爽，他觉得自己的世界被破坏的不成模样，所以他不允许别人能够藏在他们自己的世界里偷",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "和你计较。”\n　　宁缺问道：“你怎么来了？”\n　　陈皮皮说道：“为了某件事情，书院开了一场大会，结果大家吵来吵去都没吵出什么结果，最后七师姐说干脆把你抓回去审问审问，看看你究竟是怎么想的，结果你昨天没去书院，所以大家派我来抓你。”\n　　宁缺这时候的思绪很是紊乱，根本没有听明白他想说些什么，思及让自己",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "一眼它，从墙脚柴堆里抽出一根扔了过去。\n　　正在模仿孤独的猫儿被打扰了情绪，扭头冲着墙下的他发出一声愤怒的厉叫，然后跳下墙去消失不见。\n　　没有桑桑的家，没有烟火气息，四处透着股寒意。\n　　宁缺无法在这样的家里呆下去，所以他离开。\n　　……\n　　……\n　　宁缺先去了礼宾苑。\n　　大河国墨池苑的弟子们",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "角度看，这张小脸都谈不上漂亮，甚至连清秀都不算。\n　　“你长的真的很难看。”\n　　桑桑看着镜中的自己说道。\n　　从昨天夜里听到宁缺那句话，到清晨离开老笔斋，再到下午与宁缺重新相见，她一直都没有哭，甚至没有流露出任何悲伤的神情，因为那是她一直在提醒自己不要哭，无论如何都不要哭。\n　　那些弱质纤纤的大小",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "欢吃煎蛋面，但如果让你天天顿顿吃蟹黄粥，你会不会腻？”\n　　陈皮皮思忖片刻后回答道：“总吃哪有不腻的道理？”\n　　宁缺皱着眉头，忽然想到一个更合适些的比喻，声音微哑问道：“那清水呢？你喝水会不会喝腻？”\n　　陈皮皮恼火说道：“什么狗屁问题，不喝水是要死人的！”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "镜子。\n　　只是匣子里那面镜子太小，很难清楚地照出整张脸。\n　　所以桑桑觉得此时铜镜上那张小黑脸有些陌生。\n　　她觉得镜子里的那个人有些陌生。\n　　她忽然有些讨厌铜镜里的那个人。\n　　桑桑摇了摇头说道：“你真是一个很讨人厌的小孩儿。”\n　　铜镜里的桑桑低头说道：“为什么这么说？”\n　　“因为你让他担",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，所以他离开。\n　　……\n　　……\n　　宁缺先去了礼宾苑。\n　　大河国墨池苑的弟子们都住这里。\n　　山山也住在这里。\n　　礼宾苑里生着一大片竹林，纵使在冬季依然泛着幽幽的绿意，此时在夜里被灯光一照，显得愈发静谧。\n　　宁缺没有进礼宾苑，他站在苑门对面的锦山假石间，沉默看着那处的灯光，看着灯光里的人影",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "水缸边准备盛水煮面，看着满满的水缸，于是他想起来桑桑清晨离家出走前把所有的家务活儿都做完了。\n　　他走出灶房，在天井里沉默站了很长时间。\n　　他身上还背着黑伞，手里还提着箭匣，腰间还别着柴刀，整整一天时间，他一直奔跑着站立着，没有坐下，没有喝一杯茶，没有吃一点东西，但他这时候完全没有煮面吃的心思，只",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "面的机会，而桑桑也绝对不会问出那些问题，但他知道她心里想问什么。\n　　所以他只有在深夜的雁鸣山下，在寂静无人的湖畔，对着根本听不懂也无法反驳的湖水，像个白痴般连声痛斥，声惊湖鸟。\n　　……\n　　……\n　　夜色下的大学士府一片安静。前些日子便已经备好的小姐闺房中，各色陈设华贵异常，妆匣里摆满了陈锦记的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "听不懂也无法反驳的湖水，像个白痴般连声痛斥，声惊湖鸟。\n　　……\n　　……\n　　夜色下的大学士府一片安静。前些日子便已经备好的小姐闺房中，各色陈设华贵异常，妆匣里摆满了陈锦记的脂粉。\n　　桑桑以前最喜欢陈锦记家的脂粉，但她今天看都没有看一眼，也没有理会那些丫环神情复杂的请安，只是默默看着铜镜。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "道：“你真是一个很讨人厌的小孩儿。”\n　　铜镜里的桑桑低头说道：“为什么这么说？”\n　　“因为你让他担心了。”\n　　“我是想给他结婚腾地方。”\n　　“但你明明知道他不会把你扔下不管，所以你这就是逼着他做选择，他对你已经够好了，你怎么能这么残忍？”\n　　“可他说过要过一辈子的。既然说好要一起过一辈子，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "桑桑难过回答道：“可是那本来就是我的呀。”\n　　铜镜外的桑桑沉默说道：“可是他会很难过。”\n　　“我从来没有抢过东西，但这次不一样，就算他会难过，就算我变成讨人厌的小孩子，就算我变得更丑，我还是要抢。”\n　　铜镜内外，桑桑抹掉脸上的泪水，满是小孩子气倔强说道。\n　　……\n　　……\n　　晨光熹微，雁鸣",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

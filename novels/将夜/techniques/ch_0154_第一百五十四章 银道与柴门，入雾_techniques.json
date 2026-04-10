@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 154,
+  "chapter_title": "第一百五十四章 银道与柴门，入雾",
+  "filename": "ch_0154_第一百五十四章 银道与柴门，入雾.txt",
+  "char_count": 7614,
+  "timestamp": "2026-04-10T12:11:11.971937",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "轻感受着风中的气息。\n　　……\n　　……\n　　看似向前的山道，却只能把人带回原地，如果无法破除其中的秘密，那么登山者只能徒劳地一遍一遍走上山道，然后绝望地一遍一遍走回原地。\n　　桥头那三名情绪低沉的登山者，便在这样枯燥绝望的循环中最终放弃，此时他们看到宁缺这个同行者，看到他站在山道前沉思，想着他稍后",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。\n　　然后他把右手探进崖壁，身体艰难地向后一转，又向前走了一步。\n　　……\n　　……\n　　书院里的人们，看着暮色中的斜斜山道，忽然有人发出一声惊呼：“看到了，那是宁缺！”\n　　有人嘲讽说道：“他这是在干嘛？一会儿抬腿。一会儿趴到地上，钻狗洞吗？”\n　　钟大俊轻摇折扇，冷笑说道：“钻狗洞逃跑这种事情",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "……\n　　弯弯山道前行，明明向着上山的方向，最后却折回了原地，有些像传说中的树林冥墙，桥头的山林里凉风渐起，暮色趋凉，有一股阴森莫名的味道。\n　　宁缺的脸上没有丝毫震惊神情，更没有什么惊怖，他只是看着桥头的树和树下的人发了会儿呆，然后转过身去，望着那条已经走过一条的山道默默闭上了眼睛。\n　　先前看到",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "一遍走上山道，然后绝望地一遍一遍走回原地。\n　　桥头那三名情绪低沉的登山者，便在这样枯燥绝望的循环中最终放弃，此时他们看到宁缺这个同行者，看到他站在山道前沉思，想着他稍后会像自己先前一样再次尝试走上山道，然后片刻后又会神情惘然地走回来，他们的脸上不由浮现出同情的神情，又有些讥讽。\n　　谢承运的脸上没",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "显得有些绝望，哪怕是听到宁缺的脚步声，也没有抬起头来看他一眼，仿佛对他们来说，这个世界已经没有了任何意义。\n　　宁缺走到他们身前，看着他们的神情，忽然认真说道：“该放弃就放弃，不算丢脸。”\n　　走过谢承运身前时，他没有停下脚步，没有与这位集书院万千宠爱与一身的才子交谈。\n　　谢承运的目光从山道上的那",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "不是问题。\n　　工工整整的一个“器”字，被一笔不乱地写在了木牌上，就在字体右下方那个小口被粉石画拢的瞬间，写着君子不器四字的木牌瞬间冒起一缕青烟。\n　　宁缺向后退了一步，看到木牌上面那四个字又变成了三个字，最后的那个器字消失不见。\n　　吱呀一声，柴门缓缓在他身前开启。\n　　柴门后方的山道笔直升向山腰",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "态很无聊的举动，事实上正是宁缺这半年来在临四十七巷夜夜所做的事情，他能够操控的天地元气太少，他知道在战斗中想要凭借这些取胜极难，所以他愈发想要把操控做的更细致一些。\n　　夜夜烛火之下，在桑桑好奇的目光注视之下，终于踏入修行世界的少年不停冥想培念，感知房内天地元气，控树叶，控木盆，控烛台，控笔黑，控纸",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "石，但确实已经遗忘了这个曾经的对手。\n　　书院二层楼开启，他的目标是隆庆皇子，甚至也想过考试过程中会出现很多别的强劲对手，但他就是没有想起宁缺，因为他认为自己已经战胜了对方，那么何必再投注以更多的关注？曾经倒在自己面前的手下败将，有什么资格让自己分心？\n　　直到今日在桥头，他看到山道上的背影，看到山",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "“然后他走到柴门前，对着自己掌心上的印迹照抄了一遍。”\n　　“……”\n　　山雾间一片沉默，然后有人感慨说道：“这种法子实在是……别出心裁。”\n　　“二师兄当年你走山道的时候也是这么干的？”\n　　“什么别出心裁？这叫投机取巧！我看上去会有这么无耻吗？”\n　　“宁缺会不会是书院史上第一个用这个法子开柴",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "一级一级的石阶组成，这要爬到山顶上，不知道要走多少级石阶。\n　　宁缺本应直接向柴门后方走去，但他难以压抑心头的好奇，回头望向那块道旁的勒石，只见石上的字刻果然也变了，不再是君子不器四字，而变成了君子不惑。\n　　“不知道隆庆皇子看到的是哪四个字。”\n　　他好奇想着，走过柴门，拾阶而入，身影消失在山腰的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "在袖外的双手拢至胸前，指尖互搭做了个意桥，催动念力经由雪山气海输出，感知着山道里的天地元气波动，然后缓缓走了上去。\n　　……\n　　……\n　　不知道过了多久，山道上再次出现宁缺的身影。\n　　他脸上依然没有什么表情，走到桥头后，继续回头盯着那条斜斜向上的山道发呆。\n　　先前这一次走山道，他最主要的目的是",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "说，想要走过桥后山道的人念力越强大，能操控的天地元气越丰沛，便越容易发现隐藏在阵法里的真实山道，然而同时也会越快速地摧动阵法改变，把真实山道再次掩盖。\n　　如果登山者想要通过这段被阵法掩盖的山道，只有三种方法：一，你身形速度够快，当你刚刚发现真实山道后，便化身为电，抢在阵法被触动改变之前飞过去。二，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "他一眼，仿佛对他们来说，这个世界已经没有了任何意义。\n　　宁缺走到他们身前，看着他们的神情，忽然认真说道：“该放弃就放弃，不算丢脸。”\n　　走过谢承运身前时，他没有停下脚步，没有与这位集书院万千宠爱与一身的才子交谈。\n　　谢承运的目光从山道上的那双脚上移，望向继续向前的那个背影，眼眸里浮现出淡淡迷惘",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "山道上的背影，看到山道上走下来的宁缺，心脏陡然一紧，才知道原来自己根本就没有战胜过对方，甚至可能自己从来没有看清楚过这个同窗。\n　　桥那头的山道，会给登山者带来怎样的痛苦，谢承运亲身经历过，此时此刻的他自然能想到，能够挺过那段山道的人，又怎么可能因为一场赌约，就称病弃考？一个令他感到更悲伤的推论出现",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "证这些天地元气不能让阵法所感知，从而发生变化。\n　　比阵法触发速度更快的修行者肯定有，比如那些传说中进入无距境界的圣人，但那个人肯定不是宁缺。境界足够高能一眼看破阵法的修行者肯定有，比如此时已经进入山腰雾中的隆庆皇子，但那个人肯定依然不是宁缺。\n　　对于宁缺来说，对于桥头这几名惘然绝望的修行者来说，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "同时不能让奶油墙有丝毫变形，因为一旦变形，迷宫又会变了。\n　　要做到这一切，需要那个盲人有一双世间最温柔的手，这双温柔的手可以轻捉林风而风不知，可以脱光床上女子罗裳而女子不醒，可以拂过砚中墨汗而不沾一点黑。\n　　对于修行者来说，这双温柔的手就是他们念力所调动的天地元气。\n　　他们必须保证调动的天地元",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

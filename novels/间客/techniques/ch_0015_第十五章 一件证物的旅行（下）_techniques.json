@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 15,
+  "chapter_title": "第十五章 一件证物的旅行（下）",
+  "filename": "ch_0015_第十五章 一件证物的旅行（下）.txt",
+  "char_count": 2671,
+  "timestamp": "2026-04-10T11:53:11.024565",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "个光线充足的办公室。\n\n    一位部门副主任看到了桌旁的这件包裹，他好奇地推了推眼镜，看着上面那个陌生的地址，皱着眉头想了很久，才想起来这个有些熟悉的笔迹是一位远方的战友所写。\n\n    “老鲍在那个鸟不拉屎的地方呆了十几年，只怕人也呆糊涂了。”副主任在心里这样想着，三个月前他收到了鲍副局长的电子",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "一件证物的旅行（下） \n\n    人类的文明，不论是在哪个时间段，哪个空间，有没有史书记载，但只要社会的架构一旦初步建立后，便会不可避免地沦入到官僚气息的层层包围之中。拥有十几个居住星球和更大量资源星的联邦也不例外，甚至因为人口的众多，疆域向太空的扩展，让这种官僚气息显得更浓厚了一些。",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "部门和后勤部门中间打了两个来回，才登上了去首都星圈的太空船。\n\n    三个月后，这件公务邮件包裹才来到了首都星圈行政星球，也就是联邦人民称之为上林的地方。它安静地躺在干净的整理箱中，沉默地坐在车子的角落里，从机场离开，一路行经飞架于青青树林和美丽建筑之间的快速高架路，历时四小时，来到了首都之外的一",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "甘心之下的鉴定请求流程走完，在得到了十七研究所的正式回复之后，这位副局长依然无法确认那个夜晚里的身影究竟是不是联邦特工。\n\n    而那根被鉴定完毕的金属电击棍，则和包裹外盒、鉴定申请报告一起被重新装包，放进了十七研究所地下无比巨大的贮物室中。它的历史使命似乎在这一刻便宣告终结，依照联邦证物相关条例",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，便会不可避免地沦入到官僚气息的层层包围之中。拥有十几个居住星球和更大量资源星的联邦也不例外，甚至因为人口的众多，疆域向太空的扩展，让这种官僚气息显得更浓厚了一些。\n\n    一封发自东林大区河西州首府第二警察分局的公务邮件包裹，就在这种官僚气息的包围下，踏上了它的漫漫征程。对了，它在出发之前，还在",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "文登发在了研究所的网站上。论文的题目叫《证物编号：ＡＷ3278的结构特征》，很自然，这样枯燥的论文在瞬间便沉了底，没有引起任何注意。\n\n    ……\n\n    ……\n\n    联邦行政首都一个特别安静的区域，有一个拥有联邦最高安全等级的部门。在这个部门的露台上，远远地可以看到首都中心管理委员会的大楼",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "邮件里的内容，说道：“主要就是对比一下制作工艺，看看和特勤局或者军方有没有关系……东林那边的乡下人很担心这东西是从军方流出去的。”\n\n    中年研究人员笑了笑，没说什么，转身出了屋。\n\n    第二天，他回到了办公室，向主任汇报了昨天的鉴定结果：“核心材料里没有编码，应该不是从军方流出去的，但是制",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "邮件包裹，请示道：“有时间限制吗？”\n\n    “没有。”副主任挥了挥手，想起来了那封邮件里的内容，说道：“主要就是对比一下制作工艺，看看和特勤局或者军方有没有关系……东林那边的乡下人很担心这东西是从军方流出去的。”\n\n    中年研究人员笑了笑，没说什么，转身出了屋。\n\n    第二天，他回到了办",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "速度闪过，没有人能够肉眼看清楚上面的内容，除了执行计算搜索的中央控制电脑自己。\n\n    联邦社会里无数的数据流在这里被拣选分析，无论是各政党之间的斗争，还是**军的进攻势态，各式各样的信息峰拥而至。当然，如今最关键的情报在于西林区方面，谁也不知道帝国人会不会再次发动战争。\n\n    忽然间，光幕上",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "因为他们是宪章局的工作人员，担负着联邦社会最光荣的使命。\n\n    在这栋建筑的核心区域，空旷的房间内，半空中一面两维信息显示光幕正在不停地闪动，人类文明最尖端的计算搜索能力，让光幕上面的画面以一种恐怖的速度闪过，没有人能够肉眼看清楚上面的内容，除了执行计算搜索的中央控制电脑自己。\n\n    联",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。\n\n    三个月后，这件公务邮件包裹才来到了首都星圈行政星球，也就是联邦人民称之为上林的地方。它安静地躺在干净的整理箱中，沉默地坐在车子的角落里，从机场离开，一路行经飞架于青青树林和美丽建筑之间的快速高架路，历时四小时，来到了首都之外的一处政府机构。\n\n    联邦十七研究所的信息收发部门在回执",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

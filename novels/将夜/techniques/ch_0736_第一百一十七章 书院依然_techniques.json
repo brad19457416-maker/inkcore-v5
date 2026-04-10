@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 736,
+  "chapter_title": "第一百一十七章 书院依然",
+  "filename": "ch_0736_第一百一十七章 书院依然.txt",
+  "char_count": 2570,
+  "timestamp": "2026-04-10T12:11:27.041062",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "。\n　　余帘的身影再次出现，唇角流出一道鲜血，还有一道强大的笑容。\n　　……\n　　……\n　　道门魔宗巅峰一战。\n　　西陵神殿掌教大人断臂瞎眼，雪山尽毁，纵然道门神术再如何厉害，也不可能治好他所受的重伤，就此变成了一个废人。\n　　魔宗宗主二十三年蝉大胜。\n　　她是夫子收的第一个女弟子。\n　　书院依然天",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "明对抗？”\n　　他缓缓举起双手，残余的右掌掌心向天，脸上的神情异常坚定执着，声若春雷绽开，传向四野与天空。\n　　“请昊天赐予我力量！”\n　　宏亮的声音，还在天地间飘荡，天空便已经做出了反应，西方的夕阳骤然间变得明亮起来，不再那般红融温暖，而是显得至高无上，令人心生敬畏之意。\n　　一股磅礴的力量，穿越",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "。\n　　她看着西方降落的那道光柱，忽然微微一笑。\n　　她伸出右手，仿佛拿起了一只笔。\n　　她用这只不存在的笔，在空气中写了几个簪花小楷。\n　　静心，凝神，不理世事，不问天道，只是沉浸在自已的世界中。\n　　那便是你自已的世界。\n　　夫子当年是这样对她说的。\n　　书院后山的空中，仿佛忽然多出了一道透明的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "为了一体，根本无法把她找出来。\n　　秋蝉的鸣叫声还在持续，数千片黄叶簌簌直下。\n　　掌教身上的神袍上瞬间出现了数千道裂口，紧接着，他的身体表面浮现出一层极薄的莹光，那些黄叶顿时被震碎成丝絮。\n　　这位西陵神殿的最强者，在此时终于完全冷静下来，看着满谷断树碎石的山林，厉声喝道：“二十三年蝉！你真以为逾",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "”\n　　掌教大人的左手，在崤山下被许世大将军斩断。\n　　从崤山到书院后山，他已经连续经历了两场艰难的战斗，然后面临魔宗最深不可测、又随夫子修行多年的二十三年蝉……\n　　但他依然有信心！\n　　掌教神情骤然一肃，提起右拳，沉腰吸气，就这样一拳击了过去。\n　　他很瘦很短，所以他的拳头也很小，看上去有些可笑",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "青石板，像纸片一样被掀开，飞出极远，树木纷纷偃倒，韧性强的树干只是弯曲，更多的大树则是直接折断，发出无数道喀喇裂响。\n　　余帘没有被击中，她身如蝉翼，飘然而逝，随风漫游于林间，仿佛真的和天地气息融为了一体，根本无法把她找出来。\n　　秋蝉的鸣叫声还在持续，数千片黄叶簌簌直下。\n　　掌教身上的神袍上瞬间",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "秋菊绽开。\n　　一道极为淡渺的气息，从她的指尖传出，传遍整座书院后山。\n　　书院后山所有的树木都开始颤抖，所有的树叶仿佛都活了过来。\n　　每一片树叶，便是一只蝉。\n　　掌教根本不相信她说的话，然而忽然他发现，西方那轮落日，竟真的黯淡了下去，得新回复红润平和，不由神情骤凛！\n　　他发出一声不甘的厉啸，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "百一十七章 书院依然\n　　掌教盯着余帘，寒声说道：“一代宗主，居然还要自已的师弟和那些畜生先动手，这难道就是夫子讲给你的为人道理？”\n　　余帘淡然说道：“虽然你不如我，但我杀你也要费些手段，只要能够对你有所消耗，哪怕多耗一分也是好的。”\n　　掌教怒极反笑，说道：“你那两个师弟险些身死，你只为了让消耗",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "一体，根本无法把她找出来。\n　　秋蝉的鸣叫声还在持续，数千片黄叶簌簌直下。\n　　掌教身上的神袍上瞬间出现了数千道裂口，紧接着，他的身体表面浮现出一层极薄的莹光，那些黄叶顿时被震碎成丝絮。\n　　这位西陵神殿的最强者，在此时终于完全冷静下来，看着满谷断树碎石的山林，厉声喝道：“二十三年蝉！你真以为逾过五",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "西方降落的光柱，落在那道屏障上，被折射走了绝大部分，洒落人间。\n　　这是余帘的世界，她拒绝昊天神辉的进入。\n　　……\n　　……\n　　“狂妄愚蠢之辈！以为自已再创一世界，便能挡住昊天神辉？不要忘记这是昊天的世界，你的世界永远在昊天之下！”\n　　掌教怒喝道，继续迎接着昊天的神辉。\n　　余帘看着他说道：“",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "些。\n　　掌教终于动用了天启神术。\n　　余帘的身影，出现在山林外。\n　　她清稚的容颜上，终于显出一丝凝重的神情。\n　　五境之上的战斗，她虽然有信心，却没有经验。\n　　事实上，这么多年来进行过五境之上战斗的至强者们，除了无距境界之外，其余所有人都回到了昊天神国，也就是死亡。\n　　她看着西方降落的那道光",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "掌教盯着余帘，寒声说道：“一代宗主，居然还要自已的师弟和那些畜生先动手，这难道就是夫子讲给你的为人道理？”\n　　余帘淡然说道：“虽然你不如我，但我杀你也要费些手段，只要能够对你有所消耗，哪怕多耗一分也是好的。”\n　　掌教怒极反笑，说道：“你那两个师弟险些身死，你只为了让消耗便冷眼旁观，真是阴险",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "以为逾过五境便天下无敌？”\n　　“你如今最多入了天魔境，既然无法不朽，你又怎能与光明对抗？”\n　　他缓缓举起双手，残余的右掌掌心向天，脸上的神情异常坚定执着，声若春雷绽开，传向四野与天空。\n　　“请昊天赐予我力量！”\n　　宏亮的声音，还在天地间飘荡，天空便已经做出了反应，西方的夕阳骤然间变得明亮起来",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "”\n　　宏亮的声音，还在天地间飘荡，天空便已经做出了反应，西方的夕阳骤然间变得明亮起来，不再那般红融温暖，而是显得至高无上，令人心生敬畏之意。\n　　一股磅礴的力量，穿越天边的暮云，无视遮蔽书院后山的云集阵法，随着炽烈的阳光，落在掌教的身体上。\n　　掌教瘦矮的身躯，忽然间变得极其伟岸。\n　　他的身体里",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第一百一十七章 书院依然\n　　掌教盯着余帘，寒声说道：“一代宗主，居然还要自已的师弟和那些畜生先动手，这难道就是夫子讲给你的为人道理？”\n　　余帘淡然说道：“虽然你不如我，但我杀你也要费些手段，只要能够对你有所消耗，哪怕多耗一分也是好的。”\n　　掌",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 387,
+  "chapter_title": "第一百九十二章 跳瀑布，说禽兽",
+  "filename": "ch_0387_第一百九十二章 跳瀑布，说禽兽.txt",
+  "char_count": 3242,
+  "timestamp": "2026-04-10T12:11:21.779373",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，荒人的血脉和魔宗的教育，让她天然形成疏朗的性情，小小年纪便敢扛着巨大的血色弯刀，和恐怖的雪原巨狼群对峙战斗，敢与叶红鱼大打出手，甚至还顺带一刀斩了隆庆皇子凝结的冰桃。\n　　然而这样一位天不怕地不怕的魔宗少女，面对着余帘平静而温柔的目光时，却感到了恐惧，不敢有半点放肆。\n　　“要我跳一百二十九次瀑布",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "兄长之外，各方面都符合你对完美伴侣的想像，但我必须提醒你，她可是魔宗的少女，换作魔宗全盛时，甚至毫无疑问可以去当魔宗圣女，而你却是昊天道门的宝贝少爷，所谓道魔不两立，书院还可以站中间，你怎么站？”\n　　陈皮皮此时心神有些恍惚，并没有完全听明白这段话，下意识里嘲笑回应道：“先前谁还在嘲笑我腐朽的正魔观",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "时候，余帘淡然看了她一眼。\n　　书院三师姐的眼神就像她的人一般，清清柔柔不堪一击，然而却自有一番气度风姿，便是这一眼，唐小棠顿时生出不敢违逆的感觉。\n　　唐小棠自幼生活在极北寒域，过着艰辛的日子，荒人的血脉和魔宗的教育，让她天然形成疏朗的性情，小小年纪便敢扛着巨大的血色弯刀，和恐怖的雪原巨狼群对峙战",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "情，坐在崖洞外用力地挥舞着手臂，喷吐着唾沫，对书院后山从昨天到清晨发生的这件事情表达了最沉痛的反对和愤怒。\n　　听了半晌，宁缺大概明白发生了什么事情，想着唐小棠这个小姑娘就因为没有喊自己小师叔，便落到如此悲惨下场，不禁有些惴惴。\n　　他早就发现陈皮皮今天的精神状态有些问题，皱眉问道：“按照最早时候你",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "色院服的女教授，文静淡雅可亲，但境界实在谈不上高深，只与自己差相仿佛，甚至还不如自己，她是要成为天下最强的女人，怎么可能接受一个实力境界还不如自己的女子做老师？\n　　然而就在她准备拒绝的时候，余帘淡然看了她一眼。\n　　书院三师姐的眼神就像她的人一般，清清柔柔不堪一击，然而却自有一番气度风姿，便是这一",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第一百九十二章 跳瀑布，说禽兽\n　　唐小棠听从兄长的建议，远自荒原千里迢迢南下，路上历尽万般辛苦，才来到长安城，然后偶遇夫子，才终于进入了书院。\n　　按照原先兄妹二人的计划，她应该直接拜到夫子门下，但不知道因为什么原因，夫子既没有因为她魔宗的身份，直接把她逐出书院，又没有收她为学生，而是把她交给了余",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "么知道的？难道说当时她在崖洞口为宁缺答疑解惑的同时，完全掌握着崖坪上所有的情况？\n　　余帘转过身来，说道：“明知下石子棋不是桑桑的对手，却是屡败屡战，不肯认输，直至连输一百二十九局，看似勇气可嘉，实际上却是愚蠢不堪，如果你总是这般容易头脑发热，又凭什么胜过叶红鱼？”\n　　唐小棠倔强地说道：“哪怕是愚",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "说道：“道痴叶红鱼乃是昊天道门娇女，那为什么在你我眼里，她却是那般可怕？”\n　　陈皮皮喃喃说道：“有道理。”\n　　宁缺看着他圆脸上的失神，忽然间想到一种可能，犹豫片刻后试探着问道：“你从昨天夜里一直看唐小棠跳瀑布看到清晨？”\n　　陈皮皮点了点头。\n　　宁缺倒吸一口凉气，说道：“虽说这小姑娘确实有一头",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，然而哪怕明知道这点，她依然无法控制自己的情绪，倔强地向瀑布那边走去。\n　　从这一点上来看，如同宁缺感慨的那样，余帘大概真是位很好的老师，她了解自己学生的性格，并且能够善用。\n　　……\n　　……\n　　“从瀑布上跳下来简单，我们都知道她从小修行魔宗功法，就算受些伤，也不会致命，但那么湿滑的山崖，要爬上",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "在崖坪上输给桑桑的次数完全相同，自己明明没有说过，她怎么知道的？难道说当时她在崖洞口为宁缺答疑解惑的同时，完全掌握着崖坪上所有的情况？\n　　余帘转过身来，说道：“明知下石子棋不是桑桑的对手，却是屡败屡战，不肯认输，直至连输一百二十九局，看似勇气可嘉，实际上却是愚蠢不堪，如果你总是这般容易头脑发热，又",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "怒说道：“有本事你进来啊！”\n　　忽然间，两个人同时闭嘴，带着畏怯的神情望向崖坪边缘。\n　　他们非常担心桑桑这时候忽然回来，再次听到这段幼稚至极的对话。\n　　二人尴尬地互视一眼，挥挥手表示并不介意。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "向瀑布那边走去。\n　　从这一点上来看，如同宁缺感慨的那样，余帘大概真是位很好的老师，她了解自己学生的性格，并且能够善用。\n　　……\n　　……\n　　“从瀑布上跳下来简单，我们都知道她从小修行魔宗功法，就算受些伤，也不会致命，但那么湿滑的山崖，要爬上去就难了，更何况师姐要她从瀑布里爬上去，你是没看见那水",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "二层楼虽然依然神秘，但毕竟是两世相通之地，尤其是对他们兄妹这等已然处于修行界顶层的人来说，书院后山的人们有很多都听说过。且不提大先生二先生这等人物，也不提陈皮皮这个被昊天道门视若珍宝的家伙，便是北宫未央那些人，当年在入书院修行之前，在各自领域各自国度里亦享有盛名，只是随着时间流逝而渐被世人遗忘。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "手，甚至还顺带一刀斩了隆庆皇子凝结的冰桃。\n　　然而这样一位天不怕地不怕的魔宗少女，面对着余帘平静而温柔的目光时，却感到了恐惧，不敢有半点放肆。\n　　“要我跳一百二十九次瀑布？！”\n　　唐小棠看着老师娇小的背影，震惊的声音都有些颤抖起来，一方面是因为这个惩罚实在是太过严苛，更因为这个次数竟是和她先前",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

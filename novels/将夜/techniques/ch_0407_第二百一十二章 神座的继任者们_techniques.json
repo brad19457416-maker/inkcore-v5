@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 407,
+  "chapter_title": "第二百一十二章 神座的继任者们",
+  "filename": "ch_0407_第二百一十二章 神座的继任者们.txt",
+  "char_count": 3383,
+  "timestamp": "2026-04-10T12:11:21.732110",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "预判，至于天谕司所以为的神术……在我看来只是徒有其形，因为根据细节看，当时宁缺那一刀凝结的天地元气，最终化作的昊天神辉，应该是由刀内迸发而出，并不是从自然里撷取。”\n　　道殿内一片死寂。\n　　叶红鱼通过卷宗上的细节，对宁缺那一刀的真实手段，产生了某种怀疑，这种怀疑指向某个很惊人的事实，所以场间一片沉",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "此时正安静站在她的身旁，听着她的感慨，也忍不住感慨起来，声音细若呢喃说道：“神座大人最近这些月常患伤风，咳嗽的有些厉害，脾气也暴燥了些，还请司座大人不要往心里去，至于剑阁一事，该死的人总是要死的。”\n　　作为西陵神殿最强大恐怖的大神官，境界早已晋入知命巅峰，端坐云头看世人皆如蝼蚁，似这样的人早已百病",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "跪着，认真把宗卷里记载的内容仔细看了一遍，然后陷入了长时间的思考。\n　　宗卷由出使唐国的神殿使团经由秘密途径传回西陵，执笔是天谕司司座程立雪，宗卷里的内容是对书院侧门宁缺和柳亦青一战的详细描述，而描述的重点当然放在宁缺那一刀最后展露出来的神术。\n　　“你见过那个人，有什么看法？”\n　　裁决大神官冷漠",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "间偶有误会，但彼此还算尊重。”\n　　宁缺说道：“我很尊重昊天道门。”\n　　程立雪叹息说道：“桑桑师妹日后是我神殿的光明神座，包括我在内，世间亿万昊天信徒，对着她都要下跪行礼，不敢多言多视，然而十三先生你却让她在此间铺床叠被端茶倒水，那么对道门的尊重究竟在哪里？”",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "又有人要死了。”\n　　先前那名把卷宗递给她的执事，送她一直送到殿外，此时正安静站在她的身旁，听着她的感慨，也忍不住感慨起来，声音细若呢喃说道：“神座大人最近这些月常患伤风，咳嗽的有些厉害，脾气也暴燥了些，还请司座大人不要往心里去，至于剑阁一事，该死的人总是要死的。”\n　　作为西陵神殿最强大恐怖的大神",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "落到洞玄中品甚至还在继续向下，如果连裁决司司座的位置都不复存在，那么神殿里曾经在她身前吃过无数苦头的人们，或许会把那些嘲弄鄙夷的目光，变成真实的行为。\n　　叶红鱼跪在神座之前，沉默不语，没有接话。\n　　裁决大神官有些疲惫地重新向后靠去，以手撑额，看着帘外的少女，幽深的眼眸里流露出一丝厌倦和轻讽。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "着帘外的少女，击碎她最后的心理依赖。\n　　果不其然，听到这句话后，叶红鱼的神情变得有些黯淡，身体微微颤抖起来，眉宇间尽是自嘲和失落的情绪，就像是一个看似坚硬的鸡蛋，终于被人击碎了最外面的那层薄壳，露出脆弱的内在。\n　　不知道过了多长时间，她似乎终于清醒了过来，唇角泛起一丝有些凄惋的笑容，对着珠帘后的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的少女，脸上没有什么表情，眼眸里却似乎隐藏着很多复杂的情绪。\n　　不知道过了多长时间，裁决大神官冷漠说道：“虽说你现在已经变成了一个废物，但我希望你的眼光依然还在。”\n　　这道声音微显嘶哑，从容优雅里隐隐透着一股掩之不住的暴戾气息，直接将神座前那道珠帘震的摇摆撞击不停，清脆的声音回荡在空旷的道殿之中",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "回事。\n　　她如今实力严重受损，境界已经跌落到洞玄中品甚至还在继续向下，如果连裁决司司座的位置都不复存在，那么神殿里曾经在她身前吃过无数苦头的人们，或许会把那些嘲弄鄙夷的目光，变成真实的行为。\n　　叶红鱼跪在神座之前，沉默不语，没有接话。\n　　裁决大神官有些疲惫地重新向后靠去，以手撑额，看着帘外的少",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "旁，听着她的感慨，也忍不住感慨起来，声音细若呢喃说道：“神座大人最近这些月常患伤风，咳嗽的有些厉害，脾气也暴燥了些，还请司座大人不要往心里去，至于剑阁一事，该死的人总是要死的。”\n　　作为西陵神殿最强大恐怖的大神官，境界早已晋入知命巅峰，端坐云头看世人皆如蝼蚁，似这样的人早已百病不侵，又哪里可能伤风",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "这句听上去有些绝望悲伤的话，隐藏着一些自己没有看明白的意思。\n　　叶红鱼行礼完毕，缓缓站起身来，就在离去之前，她看着帘后墨玉座上的神座大人，轻声说道：“南晋剑阁与书院之间的这场故事，弟子以为裁决司还是不要插手为好，虽然这是事后之言。”\n　　裁决大神官看着她忽然再次痛苦地咳嗽起来，厉声喝斥道：“境界跌",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第二百一十二章 神座的继任者们\n　　坐在墨玉神座上的裁决大神官缓缓睁开眼睛，看着帘外低头跪地的少女，脸上没有什么表情，眼眸里却似乎隐藏着很多复杂的情绪。\n　　不知道过了多长时间，裁决大神官冷漠说道：“虽说你现在已经变成了一个废物，但我希望你的眼光依然还在。”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

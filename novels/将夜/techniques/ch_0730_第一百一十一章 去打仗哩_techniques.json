@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 730,
+  "chapter_title": "第一百一十一章 去打仗哩",
+  "filename": "ch_0730_第一百一十一章 去打仗哩.txt",
+  "char_count": 3374,
+  "timestamp": "2026-04-10T12:11:27.032912",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "嘲笑，根本没有人相信，所有人都坚信，只要朝廷派出大军，东疆便肯定不会有事。\n　　杨二喜一直很沉默，待人群散去后，他拉着公学里的解律老师，认真地把朝廷文书后面的内容请教了一遍。\n　　他没有心情再刷漆，反正县衙给的钱也不多。\n　　他回到家里，就着半盆猪蹄和一篮子蘸酱菜喝酒，越喝越闷。\n　　妻子在门槛外蹲",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "是不肯涨漆钱。他被老父揍了一顿，又被女儿哭闹了半天，只好同意来刷公学，本就心情不好，这时候更加恼火，心想这些家伙难道没看见我正在刷漆，把这么大张白纸贴在这儿，那还怎么刷？\n　　当然，他不会承认自已最恼火的是看不懂那张纸上的字。\n　　唐人的识字率极高，他自幼却调皮捣蛋，从军后也没有改变，宁肯挨军棍，也",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "年，他娶妻生子，挣钱养家，生活过的很平静喜乐，除了家家户户常见的一些争吵，再没有什么烦心的事。\n　　紧张跌宕的人生，都留在了多年前的边塞中，除了遇到过一匹喜欢喝大碴子粥的大黑马，生活里再没有什么新鲜刺激的经历。\n　　杨二喜有时候很怀念在边塞的那些日子。\n　　某日，他提着树漆桶，正在公学里粉刷墙皮。忽",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "离燕国还有很远一段距离，那些话也不是说给他们听的，人们只是震惊愤怒于帝国的失败，议论纷纷。\n　　有人担心询问，燕国的部队会不会攻到这里来，马上惹来好一番嘲笑，根本没有人相信，所有人都坚信，只要朝廷派出大军，东疆便肯定不会有事。\n　　杨二喜一直很沉默，待人群散去后，他拉着公学里的解律老师，认真地把朝廷",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，正在公学里粉刷墙皮。忽然有衙役走进公学，往墙上贴了张白纸，然后行色匆匆而去。\n　　杨二喜闹了两年，最终衙门还是不肯涨漆钱。他被老父揍了一顿，又被女儿哭闹了半天，只好同意来刷公学，本就心情不好，这时候更加恼火，心想这些家伙难道没看见我正在刷漆，把这么大张白纸贴在这儿，那还怎么刷？\n　　当然，他不会承",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "……\n　　没有人注意这些内容，因为这里离燕国还有很远一段距离，那些话也不是说给他们听的，人们只是震惊愤怒于帝国的失败，议论纷纷。\n　　有人担心询问，燕国的部队会不会攻到这里来，马上惹来好一番嘲笑，根本没有人相信，所有人都坚信，只要朝廷派出大军，东疆便肯定不会有事。\n　　杨二喜一直很沉默，待人群散去后",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "木桶里往外捞葡萄皮与渣，准备酿酒，忽然发现，很长时间没有听到男人说话，问道：“怎么了？”\n　　杨二喜说道：“没事。”\n　　妻子说道：“你也吃点饭，空腹喝酒哪是个事儿。”\n　　杨二喜嗯了一声，继续喝酒，酒喝的越多，越沉默，眼睛却越来越明亮。\n　　忽然，他对妻子说道：“我要出趟远门。”\n　　妻子抬起头来",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "生子，挣钱养家，生活过的很平静喜乐，除了家家户户常见的一些争吵，再没有什么烦心的事。\n　　紧张跌宕的人生，都留在了多年前的边塞中，除了遇到过一匹喜欢喝大碴子粥的大黑马，生活里再没有什么新鲜刺激的经历。\n　　杨二喜有时候很怀念在边塞的那些日子。\n　　某日，他提着树漆桶，正在公学里粉刷墙皮。忽然有衙役走",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "。他被老父揍了一顿，又被女儿哭闹了半天，只好同意来刷公学，本就心情不好，这时候更加恼火，心想这些家伙难道没看见我正在刷漆，把这么大张白纸贴在这儿，那还怎么刷？\n　　当然，他不会承认自已最恼火的是看不懂那张纸上的字。\n　　唐人的识字率极高，他自幼却调皮捣蛋，从军后也没有改变，宁肯挨军棍，也不愿意参加识",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "给他们听的，人们只是震惊愤怒于帝国的失败，议论纷纷。\n　　有人担心询问，燕国的部队会不会攻到这里来，马上惹来好一番嘲笑，根本没有人相信，所有人都坚信，只要朝廷派出大军，东疆便肯定不会有事。\n　　杨二喜一直很沉默，待人群散去后，他拉着公学里的解律老师，认真地把朝廷文书后面的内容请教了一遍。\n　　他没有",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "不高兴，你是想让我们读不成书，都像你一样么？”\n　　如果是平时，听着女儿这般说话，杨二喜肯定会发一通脾气，然后老老实实提着漆桶去公学把剩下的活儿干完，但今天他却只是憨憨地笑了笑。\n　　“告诉先生，说我回来一定把漆刷完。”\n　　杨二喜又望向父亲，说道：“爹，我走了。”\n　　老头点点头，说道：“路上小心",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "战的镇北军，甚至不是带领骁骑营孤军出长安，去直面东疆数万侵略者的朝小树，也不是让清河变红的誓死不降的水师官兵，而是来自一名农夫。\n　　在大唐南方肥沃的原野间，有一个村庄。\n　　村旁有溪，溪畔有石磨坊，磨坊对面是一片隆起的草甸，上面搭着密密麻麻的葡萄架，架上的葡萄早已摘走，只剩下一些发育不良葡萄被人们",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

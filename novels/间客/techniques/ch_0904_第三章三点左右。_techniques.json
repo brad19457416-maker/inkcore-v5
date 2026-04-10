@@ -1,0 +1,63 @@
+{
+  "novel": "间客",
+  "chapter_number": 904,
+  "chapter_title": "第三章三点左右。",
+  "filename": "ch_0904_第三章三点左右。.txt",
+  "char_count": 209,
+  "timestamp": "2026-04-10T12:05:26.878016",
+  "techniques_count": 4,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "回事儿了。\n\n    关于李匹夫，总得允许规矩一辈子的老头儿在最后的这几年里活的自我些，活的癫狂些，人生不曾自我癫狂过，传奇也不圆满　小＿说txt天＿堂　\n\n\n\n第四卷星光流年",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "点左右。\n\n    其实很多时候，真的很想强烈建议大家去看一下间客前面和后面对应的情节，比如李老爷子第一次见许乐什么的，扣子从那时留起，时间大久很担心大家忘了，就像以前我曾经做过的那样，此处详见某某章，可后来又觉得，这太他嘀地把自己当回事儿了。\n\n    关于李匹夫，总得允许规矩一辈子的老头儿在最后",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "建议大家去看一下间客前面和后面对应的情节，比如李老爷子第一次见许乐什么的，扣子从那时留起，时间大久很担心大家忘了，就像以前我曾经做过的那样，此处详见某某章，可后来又觉得，这太他嘀地把自己当回事儿了。\n\n    关于李匹夫，总得允许规矩一辈子的老头儿在最后的这几年里活的自我些，活的癫狂些，人生不曾自我",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第三章三点左右。\n\n    其实很多时候，真的很想强烈建议大家去看一下间客前面和后面对应的情节，比如李老爷子第一次见许乐什么的，扣子从那时留起，时间大久很担心大家忘了，就像以前我曾经做过的那样，此处详见某某章，可后来又觉得，这太他嘀地把自己当回事儿了。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

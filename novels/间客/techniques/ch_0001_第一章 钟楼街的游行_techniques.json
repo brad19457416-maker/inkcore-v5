@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 1,
+  "chapter_title": "第一章 钟楼街的游行",
+  "filename": "ch_0001_第一章 钟楼街的游行.txt",
+  "char_count": 3498,
+  "timestamp": "2026-04-10T11:53:11.015061",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，由此可见，在极为遥远的过去，这颗孤单悬于三角星系最外方的星球，对于整个人类社会而言，拥有怎样重要的意义。\n\n    然而自从东林大区的各种品型的矿石被采掘完毕之后，东林星便成了一个渐渐荒芜的星球，这里只有石头，没有矿石，只有石头。\n\n    ……\n\n    ……\n\n    有能力离开东林的人们，早",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的角落。除了在联邦政府成立六百年的庆典上还能看到东林的名字，很多时候，对于那些生活在富裕文明社会里的人们来说，东林已经不存在了。\n\n    东林大区只有一颗星球，东林星，这似乎是废话，其实又不是废话，因为东林大区名字的由来，便是因为东林星，由此可见，在极为遥远的过去，这颗孤单悬于三角星系最外方的星球",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "被遗忘了的角落。除了在联邦政府成立六百年的庆典上还能看到东林的名字，很多时候，对于那些生活在富裕文明社会里的人们来说，东林已经不存在了。\n\n    东林大区只有一颗星球，东林星，这似乎是废话，其实又不是废话，因为东林大区名字的由来，便是因为东林星，由此可见，在极为遥远的过去，这颗孤单悬于三角星系最外",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "为他认识对方。\n\n    女记者下意识里退后几步，小心翼翼地偷窥着那些少年的脸色，不知道这些黑衣少年究竟是来做什么的，自己的人身安全能不能得到保障。\n\n    “大白天的，不上学，你们来这儿做什么！”鲍副局长十分严厉地吼了一声，往常他一声吼，钟楼街的帮派领袖都要屁滚尿流，谁知道今天这些少年们脸上竟同",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "音，尤其是那位女记者，更是失态地掩嘴轻呼了一声。\n\n    凉风吹拂在钟楼街平直安静的街面上，在这一刹那间，却响起了无数细碎的脚步声，这些脚步声并不整齐，也不像是鼓点响起，然而太过密麻，一时间竟不知有多少人出现。\n\n    下一刻，这些脚步声的主人出现在了钟楼街上，四个巷口里同时涌出来了一大堆人，迅",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "半废弃状态下的星球，依然要维持很多人的生活。在一个物质文明相对发达的社会里，温饱早已经不再是人类需要担心的问题，东林星上的人们依然安稳的活着，社会综援依旧发挥着极其重要的作用，货币依然平稳的流通，这个世界里依然有公司，有机场，有食品加工厂，机甲维护站，电脑联结中心，甚至还有一个军备基地。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "“愚民的人生，有肥皂剧就够了。”河西州第二警察分局副局长鲍农涛，沉着一张脸，走在钟楼街的凉风之中，看着那些表情麻木，在街角酒馆里喝酒的居民，在心里这般想着。\n\n    鲍副局长也是东林的石头之一，他的脸像石头一样不苟言笑，对于钟楼街一带出没于黑暗中的帮派势力，拥有无穷的震慑力。当他在钟楼街",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "他。\n\n    领头的少年明显拥有与他年龄不相符的成熟，睁着那一双大大的眼睛，毫不退缩地看着鲍龙涛，说道：“我们有请愿的权力！”\n\n    “请愿？”听到这两个字，本来躲在鲍副局长身后的女记者顿时精神为之一振，伸出那张化妆的极为精致的脸，颤着声音问道：“什么目的？”\n\n    领头的少年没有马上回答",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，却响起了无数细碎的脚步声，这些脚步声并不整齐，也不像是鼓点响起，然而太过密麻，一时间竟不知有多少人出现。\n\n    下一刻，这些脚步声的主人出现在了钟楼街上，四个巷口里同时涌出来了一大堆人，迅即占据了人行道和街口的大部分地方，声势十分惊人，不止被街上的行人和几位警察记者变了面色，甚至连那些沉迷于咖",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "然而当这条大河渐渐干涸，变成了一条充满了臭气的小溪沟时，联邦社会反哺回来的支援，却明显有些不够——因为人类从来都不仅仅是能够活着，便能感觉到幸福的。\n\n    东林的人们在数千年的历史中，培养出来了坚毅，吃苦耐劳的精神，远古时期连绵而至的矿难，也并没有让他们有丝毫的退缩。然而眼前的这一切，却让他们感",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "太过密麻，一时间竟不知有多少人出现。\n\n    下一刻，这些脚步声的主人出现在了钟楼街上，四个巷口里同时涌出来了一大堆人，迅即占据了人行道和街口的大部分地方，声势十分惊人，不止被街上的行人和几位警察记者变了面色，甚至连那些沉迷于咖啡和酒精里的东林居民们，也诧异的望向了窗外。\n\n    更准确的说，四",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "渐渐荒芜的星球，这里只有石头，没有矿石，只有石头。\n\n    ……\n\n    ……\n\n    有能力离开东林的人们，早已经离开了这里。凭借着专业的技能和积蓄的财富，通过首都星圈或西林大区的亲人担保，他们成功地获取得了户籍转移证明，乘坐着因为能源短缺而越来越少的航班，离开了这个越来越没有生机的地方。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "也发出了吃惊的吸气声音，尤其是那位女记者，更是失态地掩嘴轻呼了一声。\n\n    凉风吹拂在钟楼街平直安静的街面上，在这一刹那间，却响起了无数细碎的脚步声，这些脚步声并不整齐，也不像是鼓点响起，然而太过密麻，一时间竟不知有多少人出现。\n\n    下一刻，这些脚步声的主人出现在了钟楼街上，四个巷口里同时",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "臭气的小溪沟时，联邦社会反哺回来的支援，却明显有些不够——因为人类从来都不仅仅是能够活着，便能感觉到幸福的。\n\n    东林的人们在数千年的历史中，培养出来了坚毅，吃苦耐劳的精神，远古时期连绵而至的矿难，也并没有让他们有丝毫的退缩。然而眼前的这一切，却让他们感到了浓郁的悲哀和无奈。无矿可挖，无事可做",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

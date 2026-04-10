@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 806,
+  "chapter_title": "第一百八十七章 归来（中）",
+  "filename": "ch_0806_第一百八十七章 归来（中）.txt",
+  "char_count": 3392,
+  "timestamp": "2026-04-10T12:11:27.237361",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "道会发生什么事。\n　　饶是如此，两名少年依然被这只仿佛知道人事的大白鹅吓的一跳。\n　　“书院的规矩，日后你们再学，首先要学的便是处变不惊。”\n　　君陌看着两名少年，面无表情说道：“去院中站着，不准扶拐，膝不能弯，眼不能闭，如果能看到明天清晨的第一抹阳光，便算你们过关。”\n　　……\n　　……\n　　在小",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "她自大河国千里迢迢而来，破派而出，为的是书院以及朱墙白雪。\n　　宁缺不知道该怎样面对。\n　　有情人，最终不知会如何。\n　　不是所有的男女，都会像二师兄和七师姐。\n　　就像他也曾经有过妻子，现在却是一人在床上辗转反侧。\n　　他想，睡一觉大概这些事情便会都过去，却怎样都睡不着。\n　　他睁着眼睛，看着窗外",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "没有传人。”\n　　宁缺说道：“如果大师兄想要，我让给他便是。”\n　　两名少年自然便是张三和李四，那日雪街血战之后，他们回家被好生教训了一通，如果不是受了重伤的缘故，只怕要被长辈们痛打一番，也正因为受伤的原因，李四一家暂时没有回原籍，还是借住在三元里张家，直至今日，长安府忽然派人过来，把他们从长安城里",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "知道会弄出什么扯犊子样的事儿来？”\n　　“什么是扯犊子？”\n　　“就是……拉小牛崽子。”\n　　“老师为什么会做这种事情？”\n　　“因为……他和老黄牛亲。”\n　　“小师弟，你又在说胡话。”\n　　“总之就是说老师很不靠谱的意思。”\n　　“嗯，老师做事情确实向来都不怎么靠谱。”\n　　木柚看着山峦间的明月，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "里接到了书院。\n　　两名少年根本不知道发生了什么事情，他们浑浑噩噩地走进书院，进入半山的云雾，然后便来到了真正的书院。\n　　书院对于唐人来说，是最尊贵的地方，却并不神秘，然而后山却是截然不同的另一个世界，因为所有细节都表明这里应该是仙境。\n　　直到伴着瀑布声进入小院，听到宁缺和君陌的对话，两名少年才",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "演着镇定的模样，眉眼间透着一种浑吝的劲儿，另一名衣着朴素的少年则是始终看着脚下，握着拐架的右手不停地颤抖，相信如果不是被前面那个少年带着，只怕他连路都不会走。\n　　宁缺对二师兄说道：“前些天和观主战，这两个小子表现不错，看伤势恢复情况，身体底子也不错，就是不知道有没有潜质。”\n　　“你想让他们进书院",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "闭目养神。\n　　掌教闯山时它受了伤，现在还没有痊愈，精神有些恹恹，不然如果让它瞧见自家院子里多了两个陌生少年，谁知道会发生什么事。\n　　饶是如此，两名少年依然被这只仿佛知道人事的大白鹅吓的一跳。\n　　“书院的规矩，日后你们再学，首先要学的便是处变不惊。”\n　　君陌看着两名少年，面无表情说道：“去院中",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "”\n　　宁缺拍了拍手，对着窗外的院门喊道：“进来吧。”\n　　从小院外走进两名拄着拐的少年，神情都非常紧张，但如果认真观察，便能看出其实差异极大，其中一名少年衣着光鲜，明明紧张的要死，却仍然用余光四处打量，扮演着镇定的模样，眉眼间透着一种浑吝的劲儿，另一名衣着朴素的少年则是始终看着脚下，握着拐架的右手",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "住在老笔斋或雁鸣湖，只偶尔会在山间留宿，但房子始终留着的。\n　　夜色深重雾气浓，他撑着拐杖，沿着山道慢慢向自已的小院走去。\n　　桑桑不在长安城，雁鸣湖的宅院被他斩成废墟，老笔斋的院墙也被斩成了两断，他没有回长安城的理由，以后大概便会以此间为家了。\n　　他的小院离镜湖不远，便在北宫、西门二位师兄平日里",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "说道：“我的问题，除了大师兄和余帘便只有你能看出来，说明你的境界已经颇为不错，虽然还不稳妥，却也不用担心太多。”\n　　“不是这件事情。”\n　　宁缺拍了拍手，对着窗外的院门喊道：“进来吧。”\n　　从小院外走进两名拄着拐的少年，神情都非常紧张，但如果认真观察，便能看出其实差异极大，其中一名少年衣着光鲜，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "做。”\n　　唐小棠听懂了他的意思，说道：“……小师叔，多谢。”\n　　二人在凄冷的月光下拥抱，给予彼此温暖和勇气，然后告别。\n　　……\n　　……\n　　宁缺曾经以为自已什么都不欠，只是这个世界亏欠自已，直到他去了渭城，来到长安，进了书院，才发现自已欠的越来越多。\n　　他欠陈皮皮命，欠莫山山情。\n　　莫山",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，有些吃惊，也顾不上多说什么，便开始服侍二师兄梳洗整理。\n　　“没办法自已梳髻，也没办法戴冠。”君陌说道。\n　　宁缺说道：“有七师姐在，师兄你哪里还需要自已动手。”\n　　君陌说道：“男女有别，总有些事情不怎么方便。”\n　　宁缺笑了起来，说道：“成亲之后，自然一切方便。”\n　　一片安静，不远处瀑布落潭",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "道：“男女有别，总有些事情不怎么方便。”\n　　宁缺笑了起来，说道：“成亲之后，自然一切方便。”\n　　一片安静，不远处瀑布落潭的声音显得非常清晰。木柚低着头，有些微羞，君陌轻轻咳了两声，正色问道：“你还有什么事？”\n　　宁缺正在感受房间里的气氛，听着这话，强行忍住笑意，说道：“确实还有些事情需要师兄你",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

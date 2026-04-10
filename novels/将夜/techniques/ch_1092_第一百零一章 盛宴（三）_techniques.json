@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1092,
+  "chapter_title": "第一百零一章 盛宴（三）",
+  "filename": "ch_1092_第一百零一章 盛宴（三）.txt",
+  "char_count": 3367,
+  "timestamp": "2026-04-10T12:11:34.950183",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "修行强者的眼睛都有些问题，不似普通中原人的黑色，也不似蛮人常见的棕色，而是很古怪的灰色，暗淡的就像是天空里的铅云。\n　　两百余名修行强者向着河水里冲来，围拢然后攻击，无论受了多重的伤，他们的情绪都是那样的冷静，甚至显得有些麻木，他们灰暗的眼眸里看不到任何畏惧，只能看到噬人的杀戮欲望，甚至近乎于自毁的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "务求要切断对方一只脚，让对方行动困难，减缓对方狼群般的攻击密度。\n　　如此谨慎，是因为内心深处浮现的危机感。此时的河面上到处都是道剑与羽箭，天地气息被数百道念力切割的混乱不堪，他的攻击再如何神速，每次也都要付出一些代价，哪怕是一缕念力、一根寒毛的代价。\n　　再微小的代价累积多了，也会影响到最后战局的",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "宁缺继续向对岸行走，不停有人在他铁弓之前倒下，只是倒下的速度要比先前缓慢了很多，他的脚步变得越来越沉重，如凝重的神情。\n　　隆庆确实是在寻找机会，而且他确定机会一定会出现――他和宁缺彼此之间太过了解，阴谋诡计那些手段没有太多意义，境界修为以至功法都坦露在天空与阳光之下，所谓的局只能是明局，那么一切",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "便在征兆出现的那瞬间，死寂的气息再次出现在怒河两岸，水里石下那些耐寒的厚皮鱼都被冻僵，隆庆再次来到他的身前。\n　　一朵黑色的桃花盛开，扑面而至。\n　　宁缺没有闻到淡淡的花香，也不会欣赏幽美的黑色花瓣。\n　　他盯着黑色桃花后的隆庆，正在揽雀尾的右手，没有强行收回去握铁弓，而是顺势后扬，于寒风凛冽",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "隆庆确实是在寻找机会，而且他确定机会一定会出现――他和宁缺彼此之间太过了解，阴谋诡计那些手段没有太多意义，境界修为以至功法都坦露在天空与阳光之下，所谓的局只能是明局，那么一切都可以推算。\n　　在数百名修行强者不畏生死的连续攻击之下，宁缺的念力再如何雄浑，也必然会逐渐消耗，他再如何谨慎，也终究会露出漏",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "亮的有如星辰。\n　　因为他看着河对岸的山崖，烟尘已敛，那里出现一道黑黑的洞口。\n　　没有人知道，宁缺究竟被砸进山崖里有多深。\n　　隆庆知道宁缺没有死，但他知道自己在这次硬碰硬、没有任何花俏、没有任何技巧可言、纯粹较量念力和境界的对冲里，获得了胜利。\n　　这很重要，所以他露出一丝微笑。\n　　片刻后，山",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，将靠近自己的敌人一一射杀在湍急的河水里，神情不变，内心却起微澜：如此强大甚至不似人类的意志，怎么会出现在这些人的身上？\n　　忽然间，他注意到这些修行强者的眼睛都有些问题，不似普通中原人的黑色，也不似蛮人常见的棕色，而是很古怪的灰色，暗淡的就像是天空里的铅云。\n　　两百余名修行强者向着河水里冲来，围",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的身前，他的身后是两道仿佛车辙般的印迹，淡淡印在那些冰霜之上。\n　　林间河畔的冰雪异像，是因为他在这瞬间，毫不犹豫释放出所有的寂灭气息，暴发出难以想象的速度，直接扑杀到宁缺的身前。\n　　其时，宁缺刚刚拉动铁弓弓弦，将一名强悍的东荒武者射成两半，他的右脚刚刚上抬，将要踏上前面那颗有些湿漉的礁石。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "第一百零一章 盛宴（三）\n　　隆庆的信心在于他从来不是一个人战斗，他的身体里有很多人，此时河畔也有很多人，那些人是道门和东帐王庭的修行强者，不是普通的骑兵，宁缺即便是真正的万人敌，也不可能完全无视这些强者的攻击。\n　　宁缺也注意到了今天局面有些诡",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，也必然会逐渐消耗，他再如何谨慎，也终究会露出漏洞。\n　　林叶洒落的斑驳树影在隆庆的脸上，仿佛增添了无数道伤疤，他安静而专注地看着河间的战斗画面，看着宁缺走下礁石向自己走来。\n　　宁缺控弦的动作依然那般稳定，脚步也是那样稳定，但……太稳定。\n　　他举手挥弦，投足入水间，节奏精确地难以想象，然而正是这",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "消耗，他再如何谨慎，也终究会露出漏洞。\n　　林叶洒落的斑驳树影在隆庆的脸上，仿佛增添了无数道伤疤，他安静而专注地看着河间的战斗画面，看着宁缺走下礁石向自己走来。\n　　宁缺控弦的动作依然那般稳定，脚步也是那样稳定，但……太稳定。\n　　他举手挥弦，投足入水间，节奏精确地难以想象，然而正是这种绝对精确的节",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "来偷袭……未免太过无耻了些，我看你现在微笑的模样，似乎还很得意？”\n　　宁缺走出山崖，看着河里的隆庆说道。\n　　他的前襟上满是血水，不是被铁弓震出来的，而是咳出来的。\n　　隆庆看着他微笑不语。\n　　那些饿狼般的修行强者，不待命令，越过他的身畔，向着对岸的宁缺杀去。\n　　河畔再次杀声震天，天地气息被剑",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

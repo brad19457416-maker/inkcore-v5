@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 845,
+  "chapter_title": "第十八章 月缺",
+  "filename": "ch_0845_第十八章 月缺.txt",
+  "char_count": 3340,
+  "timestamp": "2026-04-10T12:11:27.286532",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，渐有所得。\n　　最后这场暴雨持续了三天时间，就在所有人都已经筋疲力尽，快要绝望的时候，雨忽然停上，天空骤然放晴。\n　　雨水浸泡的街巷里响起无数欢呼声，叶苏背着药匣子，在各家之间来回，雨后蚊虫太多，疫病这种事情很令他警惕。\n　　宁缺把床前承接雨水的三个破碗抽空，抬头看着篷顶破洞里的那轮太阳，默然想着",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "听到了这两个字。\n　　“书院里的人，有时候真的很讨厌。”\n　　他看着宁缺说道：“所以我还是不明白，你为什么不肯杀我。”\n　　“以前的你也挺讨厌的，不过现在挺好。虽然我从来都是一个不惮于杀人的人，只不过我杀人需要理由或者说情绪。”\n　　宁缺把自已在清河郡做的事情告诉了他，然后说道：“让悟道杀死钟大俊，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "”\n　　……\n　　……\n　　宁缺从集市上回到这片街巷，踩着污水间的碎砖头，像跳舞一样挤过拥挤的棚户，来到一户人家前。\n　　几个泥猴儿似的小男孩正抱着碗高梁饭在兴高采烈地吃着，母亲盯着系在灶上那块越来越薄的肉皮发愁，角落里的布帘被掀起，那名女孩提着裤子走了出来，看着母亲说道：“先生说了，要你给我买根腰",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "把手里的那碗青菜饭递给宁缺，说道：“我今天有些不舒服，你先吃吧。”\n　　宁缺看着他苍白而瘦削的脸病，心想他现在的身体连普通人都不如，再这样坚持下去，只怕还没有成为圣人，便先变成了死人。\n　　“不吃了。”他看着破屋顶上那片瓷蓝的天空，说道：“我得走了。”\n　　叶苏说道：“我没有什么可以再教你，你确实应",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "是则想把佛宗……至少是烂柯寺绑在书院这边。而在临康城里遇见你，则让我想到另外一种可能，或者昊天道门的将来便在你的身上，那么我为什么要杀你？”\n　　……\n　　……\n　　宁缺没有走多远，听到街巷里响起孩童们的读书声，更准确来说，那不是在读书，而是在背颂编织头花的方法。\n　　他转身向这片街巷望去，只见暮色",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "觉得杀了你太可惜。”\n　　叶苏说道：“如果你离开长安城的消息，让我传出去，那么无论你再如何聪慧好学，最终也只能写出一个死字。”\n　　宁缺说道：“我希望你能活着，而且我认为你也应该希望我活着。”\n　　叶苏问道：“为何？”\n　　宁缺说道：“你在做的事情以及将要做的事情，非常有意思，当然你以后会面临很困难",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "冷的规则是通过什么方法拥有了生命以及力量？他认为最大的可能性是来自于民众的信仰，宁缺觉得这种假设很有道理，但想到隔上数万年便会出现一次的永夜，又觉得有说不通的地方。\n　　除了讨论，叶苏每天照常给街巷里的孩子们上课，教木工活、编织活和酿酒方法，也会简单地讲些教典里的故事。\n　　渐至盛夏，临康城大雨频繁",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "了生命以及力量？他认为最大的可能性是来自于民众的信仰，宁缺觉得这种假设很有道理，但想到隔上数万年便会出现一次的永夜，又觉得有说不通的地方。\n　　除了讨论，叶苏每天照常给街巷里的孩子们上课，教木工活、编织活和酿酒方法，也会简单地讲些教典里的故事。\n　　渐至盛夏，临康城大雨频繁，堆满了临时建筑和年久失修",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "庄里到处都在放鞭炮。\n　　他有些不解，现在不是新年，也不是什么节庆，光明祭还要很多天，为什么村庄里的人们都在放鞭炮？难道说有人死了？\n　　即便死了人，也不可能家家户户都放。\n　　当山梁那边的远方，也传来隐隐约约的鞭炮声时，宁缺知道，肯定发生了什么事情，他的神情渐渐变得凝重起来。\n　　他忽然注意到，林",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "放。\n　　当山梁那边的远方，也传来隐隐约约的鞭炮声时，宁缺知道，肯定发生了什么事情，他的神情渐渐变得凝重起来。\n　　他忽然注意到，林间的月色有些淡，或者和往常的月色比起来，只是淡了一点，寻常人大概不会注意到，但对于时常看着月亮骂老师的他和书院诸人来说，这点淡却非常刺眼。\n　　宁缺抬头向夜穹望去，然后",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "有所得。\n　　最后这场暴雨持续了三天时间，就在所有人都已经筋疲力尽，快要绝望的时候，雨忽然停上，天空骤然放晴。\n　　雨水浸泡的街巷里响起无数欢呼声，叶苏背着药匣子，在各家之间来回，雨后蚊虫太多，疫病这种事情很令他警惕。\n　　宁缺把床前承接雨水的三个破碗抽空，抬头看着篷顶破洞里的那轮太阳，默然想着你怎",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "绪。”\n　　宁缺把自已在清河郡做的事情告诉了他，然后说道：“让悟道杀死钟大俊，是想帮观海解决些问题，同时震慑清河，稍渲我心中之气，最重要的是则想把佛宗……至少是烂柯寺绑在书院这边。而在临康城里遇见你，则让我想到另外一种可能，或者昊天道门的将来便在你的身上，那么我为什么要杀你？”\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "将会被新的教义所取代，对神国的向往将被对现世的爱所取代，这便是宁缺感到震撼的原因。\n　　叶苏看着宁缺说道：“传道其实就凝聚民心、统一信仰的过程，具体怎样做，我也是在尝试当中，道门典籍里有更多的先例，如果你对这方面感兴趣，不妨去西陵神殿的书殿，那里有很多书。”\n　　宁缺在临康城里住了下来，和叶苏互相探",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "着宁缺说道：“所以我还是不明白，你为什么不肯杀我。”\n　　“以前的你也挺讨厌的，不过现在挺好。虽然我从来都是一个不惮于杀人的人，只不过我杀人需要理由或者说情绪。”\n　　宁缺把自已在清河郡做的事情告诉了他，然后说道：“让悟道杀死钟大俊，是想帮观海解决些问题，同时震慑清河，稍渲我心中之气，最重要的是则想",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "街区的排水系统。\n　　因为剑阁弟子偶尔会来的缘故，宁缺很少走出破屋，自然也没有帮着做这些事情，他只是安静地观察整个过程，渐有所得。\n　　最后这场暴雨持续了三天时间，就在所有人都已经筋疲力尽，快要绝望的时候，雨忽然停上，天空骤然放晴。\n　　雨水浸泡的街巷里响起无数欢呼声，叶苏背着药匣子，在各家之间来回",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

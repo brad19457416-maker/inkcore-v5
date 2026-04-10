@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 841,
+  "chapter_title": "第一百九十三章 我的战斗五",
+  "filename": "ch_0841_第一百九十三章 我的战斗五.txt",
+  "char_count": 3505,
+  "timestamp": "2026-04-10T12:05:17.623466",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "男人就像一个箭头，硬生生地把铁七师部队构筑的圆环防御拉成了一片三角区域。凄厉的鸣啸划破草坪上的空气，危险的响起，紧接着是更多尖利的枪声响起。有子弹擦过奔跑中的许乐小腿，深深地射入微干的泥土之中。\n\n    前方即是密林，看上去并不远，然而铁七师的第二三道防线已经快集结，开始用猛烈地火力封锁这片草坪。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "在地面，他不像寻常的特 种兵那样向前翻滚以消减巨大的冲击力，而是凭借腿部皮肤下强壮的肌肉纤维直接抵抗大地的反震。利用节约下来的零点几秒钟时间，他快向前冲了二十几米，那堵院墙近在眼前。\n\n    他右手紧握的朗格大火1力手1枪向着院墙四周快开火，纯机械构造的扳机装置，在像钢铁弹簧般的食指抠动下，以令人",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "血倒地，根本来不及做出任何涉及动作，甚至绝大部分的人还没有回头。\n\n    法庭外围的部队在这最开始瞬间的猝不及防后，迅做出高校的机动反应，他们是杜少卿的铁七师，拥有寻常部队难以想象的优秀军事素养。\n\n    然而许乐此时恐怖的度，却比他们的反应更要迅捷，只不过一两个呼吸间，第一线上的受伤士兵还在秋",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，密林两侧甚至是后方，刚刚停歇瞬间的枪声再次密集猛烈地响了起来，许乐瘦削的脸颊上闪过一丝暴戾的情绪，愤怒的吼叫道：“我要死了！”\n\n    ……\n\n    ……\n\n    没有人知道为什么许乐在最危险的时刻还要对这空无一人的草地空气出愤怒的吼叫，难道说你对落日说自己要死了，你便不会死?\n\n    h",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "过一丝暴戾的情绪，愤怒的吼叫道：“我要死了！”\n\n    ……\n\n    ……\n\n    没有人知道为什么许乐在最危险的时刻还要对这空无一人的草地空气出愤怒的吼叫，难道说你对落日说自己要死了，你便不会死?\n\n    h14改狙没有出空击异响，许乐却清楚地知道弹匣已经射空，左手闪电般取出备用弹匣，右手",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的眼帘，甚至他能够看到这些目标的精确坐标距离和无比细致的模拟人体构图！\n\n    许乐对这些画面并不陌生，当年在环山四州基金会大楼陷入绝境，在332o那片山林中被帝国部队包围，当生物死亡无比真切地靠近身体时，他便能够看到这幅与现实世界截然不同，冰冷俯瞰四周，没有硝烟鲜血，只有如图射击游戏般味道的画面",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "。\n\n    因为从这一刻起，他无所不知，无所不能。\n\n    ……\n\n    ……\n\n    真是拼命了，写得太艰难，无比焦虑，因为写这章之前就知道不好写，尤其是要写好，而且这段必须写好，不然对不起自己。好在我喜欢最后呈现出来的画面，不负煎熬一夜啊……\n\n    后两章正在写，不敢说时间，反正我睡",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的玻璃碎片，正向建筑外的坚硬地面落下，\n\n    铁七师士兵们的子dan，将法庭1审判台和长椅轰成了无数碎片，在墙壁上留下无数深刻的痕迹，却已经无法穿过墙壁击中他正在高调整姿态的身体。\n\n    法庭外围负责安控的铁七师部1队刚听到枪声时，许乐穿着特制军靴的双脚已经重重落在地面，他不像寻常的特 种兵",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "双手抱枪低头狂奔中的许乐，马上辨认出部队使用的枪械，尤其是那些沉闷膛击声所代表的大火力中程硬狙，可以轻松地把自己的腰部轰断。\n\n    高奔跑中，微凉宜人的秋日空气变成渐凝的冰河，扑打在脸上，许乐眯起了眼睛，但不是以内恼人的秋风扰了视野，而只是面临着最大危险是的习惯动作，眼帘间明亮异常，仿佛密林上方",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "目光明**人，左手按下腰带上的备用弹匣启合键，低声说道：“我要死了。”\n\n    落到草坪之上，即便进入密林之中，依然还是在铁七师二三道防线之间的区域，最近处的那几名精锐射手已经倒在血泊之中，远处却有更多的士兵。\n\n    铁七师的军事素养不容质疑，他们绝对不会盲目的起冲锋，而是会选择利用临时工事和",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的身体。\n\n    密林被密集的弹雨划割的片片碎裂，在红红的落日照耀下四处飞舞，在这幅战场上骤然展现宁静美丽的背景画面前，许乐在空中强行扭转身体，向着密林高倒退，手中的h14改狙猛烈开火！\n\n    在这瞬间，他在满天碎叶见倒退，手中的枪械喷吐这艳丽的火，仿佛时间和大地上重力失去了作用，一切事物的运",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的枪声骤然稀疏，然而在下坠途中的许乐依旧双眼微眯，目光明**人，左手按下腰带上的备用弹匣启合键，低声说道：“我要死了。”\n\n    落到草坪之上，即便进入密林之中，依然还是在铁七师二三道防线之间的区域，最近处的那几名精锐射手已经倒在血泊之中，远处却有更多的士兵。\n\n    铁七师的军事素养不容质疑，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

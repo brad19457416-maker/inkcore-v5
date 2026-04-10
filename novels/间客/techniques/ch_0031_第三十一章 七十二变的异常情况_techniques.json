@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 31,
+  "chapter_title": "第三十一章 七十二变的异常情况",
+  "filename": "ch_0031_第三十一章 七十二变的异常情况.txt",
+  "char_count": 2247,
+  "timestamp": "2026-04-10T11:53:11.035750",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "似枯燥，实则紧张的生活。\n\n    那三段极不起眼的信息进入了中央电脑，巨大的光幕上闪动的画面在这一瞬间停滞了片刻，马上回复如常。\n\n    没有工作人员发现中央电脑的异常，因为无数年来，中央电脑所处的密室，从来不需要人类的参与，相反，为了中央电脑的安全，宪章局地下计算中枢部门与其他的分析部分完全隔",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第三十一章 七十二变的异常情况 \n\n    许乐醒过来时，雨已经停了，厚重的乌云也离开了这片夜空，露出上方那几颗寂廖可数的星来。[阅读文字版，请上]东林大区的夜空本来能看到的星星便不多，许乐躺在地上，眯着眼睛便能分辩出哪颗是哪颗。正如小说里常见的那句话一样，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "这样出现在了光幕之上，依然是那张朴实诚恳青涩的脸，依然是东林大区的居民证编号，只是有了一个完全不同的人生成长轨迹，这个身份此时应该刚刚高中毕业，处于半失业的状态之中，并没有什么特殊的可以引起官方注意的地方。然后这个身份的名字是……\n\n    “许乐？还是许乐！”\n\n    不知道是不是换了芯片让许乐",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "可能短的时间内熟悉自己的新身份，不然的话，随时有可能露出马脚来。\n\n    新的芯片，新的身份就这样出现在了光幕之上，依然是那张朴实诚恳青涩的脸，依然是东林大区的居民证编号，只是有了一个完全不同的人生成长轨迹，这个身份此时应该刚刚高中毕业，处于半失业的状态之中，并没有什么特殊的可以引起官方注意的地方",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "许乐！”\n\n    不知道是不是换了芯片让许乐的精神发生了些许的偏移，还是先前那场暴雨洗去了他隐藏在性格外面的那层木讷，抑或只是封大叔的死亡，让他决定更好地生活下去，总而言之，正往山下狼狈行走的许乐，看着光幕上的那个ＩＤ，以不符合他性格的表现怪叫了一声，然后重重地摔到了地上。\n\n    “大叔也是的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "经过了九个信息放大加速空间站，迈过了极为遥远的距离，穿越了不知多少片星云尘埃，终于在四分十二秒之后，进入了联邦上林区首都星的大气层，在经过最后一次信息加幅过滤之后，进入了首都郊外那个建筑设在后方的大形接收仪器里。\n\n    森严的联邦宪章局，幽暗的地下室，匆忙行走的黑衣服官员，超大隔尘玻璃后方安静异",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "一宪章光辉的忠实执行者，计算能力无比强大，数据库异常庞大的联邦中央电脑，组成了日复一日看似枯燥，实则紧张的生活。\n\n    那三段极不起眼的信息进入了中央电脑，巨大的光幕上闪动的画面在这一瞬间停滞了片刻，马上回复如常。\n\n    没有工作人员发现中央电脑的异常，因为无数年来，中央电脑所处的密室，从来",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "“大叔也是的，明明这个身份准备好给我用的，也不早点儿告诉我会那么痛，再说了……还叫许乐？真的不担心我被军队抓走啊……”\n\n    “除了老板以外，我大概是历史上第一个逃脱电子监控的逃犯，这是多么刺激的事情。”少年咕哝着，揉了揉摔痛的屁股，擦了擦眼睛，消失在夜色之中。\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "而过，没有接收到任何微弱的信号。然而先前那个忽然中断的信号节点，依然被诚实地记录了下来，遍布整个联邦社会里的电子监控网络，在第一时间收到了回报，并且在最短的时间内，发射到了由十七颗卫星组成的东林大区网络。\n\n    信息集合卫星用最简洁的逻辑计算方式，得出某个符合语句逻辑的判断，赋予特定的外包特征，",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "弹。\n\n    他就这样安静地躺在雨后的秋林里，睁着那双眼睛，看着头顶并不清晰的星空，一直到很久很久以后，他才艰难地撑起身来，长长地叹了一口气。这一声叹息里的内容太过丰富，以至于年纪轻轻的他，竟也开始有了沧桑的味道。\n\n    泛着蓝光的屏蔽仪早就失效了，然而许乐在湿漉的树林里躺了这么久，依然没有联",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "光幕上闪动的画面在这一瞬间停滞了片刻，马上回复如常。\n\n    没有工作人员发现中央电脑的异常，因为无数年来，中央电脑所处的密室，从来不需要人类的参与，相反，为了中央电脑的安全，宪章局地下计算中枢部门与其他的分析部分完全隔离，只通过电缆或高密级的无线网络相连。\n\n    所以，宪章局的官员们很遗憾地",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "饿很虚弱，一种由骨头到肌肉的疲惫感顺着他肌肤上的毛孔渗了出来，令他根本不想动弹。\n\n    他就这样安静地躺在雨后的秋林里，睁着那双眼睛，看着头顶并不清晰的星空，一直到很久很久以后，他才艰难地撑起身来，长长地叹了一口气。这一声叹息里的内容太过丰富，以至于年纪轻轻的他，竟也开始有了沧桑的味道。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

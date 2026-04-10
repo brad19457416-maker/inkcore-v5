@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 251,
+  "chapter_title": "第一百八十九章 一机，绝尘（三）",
+  "filename": "ch_0251_第一百八十九章 一机，绝尘（三）.txt",
+  "char_count": 5641,
+  "timestamp": "2026-04-10T12:04:51.083760",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "崎岖而没有任何着力处的旧月山脉间狂速奔走，这幅画面看上去实在是充斥着一股令人激动的美感。而和画面上的紧张气氛同步，回馈回指挥大厅的各项数据，也开始再一步地提升。\n\n    “clk正曲线上扬。”\n\n    “cls正在接近峰值。”\n\n    “aos自适应悬挂进入被动磨损期。”\n\n    不是指挥大",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，mx机甲在辅助飞翼帮助下的绝对速度有多可怕，可是今天亲眼目睹这种速度流在遥远旧月上的出现，他们依然激动的难以自抑。\n\n    激动过后是一片自然发出的掌声，台上台下的人们，都站起来开始鼓掌，为联邦鉺机甲的革命性突破而感动自豪。\n\n    巨幅宽屏上两台机甲功率全开，从作战模式转为奔逸模式，在崎岖而",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "机甲真正地击败李疯子，但他知道一些李疯子不知道的事情，他一直在等着对方进入超频状态，可是后面那台紫海为什么一直不肯强行提速，赶上自己？\n\n    低温真空的环境对于mx的能量耗损来说，是极为不利的一点，紫海中的李疯子身经百战，不可能不清楚这一点，为什么他愿意这样拖着时间？\n\n    炽烈的恒星光芒翻",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "主火力系统能量转移完毕.”\n\n    旧月上的辛式mx机甲对战开始了这么久，指挥大厅里的电脑系统，才第一次做出了数据分析，不是说操控机甲的李疯子与许乐，已经让双弓擎机甲的战斗速度超出了电脑的计算范畴，只是战况一直激烈，指挥大厅里的人们，根本来不及去处理这些事情.\n\n    一号机便是联邦鉺科学院研制",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "这台机甲做出了一个令所有观战者都没有想到的回应动作。\n\n    炽烈的光芒下，小白花机甲双引擎全开，瞬间提至四倍功率的顶峰，机体腰后侧滑出两块表面光滑，线条流畅的辅助飞翼。随着辅助飞翼下的小型喷射器嗤嗤喷出气流，白色机甲的身影猛地一震，顺着表面风化的地表，快速迅捷地向着后方闪掠而去。\n\n    在辅",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "么久，指挥大厅里的电脑系统，才第一次做出了数据分析，不是说操控机甲的李疯子与许乐，已经让双弓擎机甲的战斗速度超出了电脑的计算范畴，只是战况一直激烈，指挥大厅里的人们，根本来不及去处理这些事情.\n\n    一号机便是联邦鉺科学院研制的紫海，二号机是果壳机动公司研制的小白花。听到电子合成女声报告的双方损",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "指挥大厅及旧月总装基地里的人们显示，科学院的紫海机甲占据了优势。\n\n    对于小白花机甲奔逸上山，众人在吃惊之余，也渐渐明白了那个机师的想法。直到此刻，依然没几个人知道白色机甲里的机师是一个技术主管，他们认为那肯定也是联邦鉺军方绝对出色的王牌机师，所以当光屏上出现白色机甲刹车回头画面时，众人生出强",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "面光滑，线条流畅的辅助飞翼。随着辅助飞翼下的小型喷射器嗤嗤喷出气流，白色机甲的身影猛地一震，顺着表面风化的地表，快速迅捷地向着后方闪掠而去。\n\n    在辅助飞翼的帮助下，果壳公司的mx机甲第一次展现了最高峰值的速度，就像是被一阵风吹过般，瞬间消失于后方的那一大片阴影中。\n\n    那是卡琪山脉的阴",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "然而身后一直追着的那台紫海，始终在许乐的心上投放了一处阴影，那台机甲上蕴含着的杀气是那样的凛然，竟让人生出不可战胜的感觉。\n\n    先前在山脚风化地表上最后一击，小白花机甲凌空倒踢，成功地破坏了紫海机甲头部复杂的火控系统，但谁也没有料到，紫海机甲居然在半空中稔熟地操控动力系统，猛然横移，机械腿横屈",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "合金脚趾卡进了石缝之中，伴随着引擎的无声振动和辅助飞翼气流喷口处的白色揣流急喷，机甲的身体猛然拔高，来到了一处缓坡，向着斜上方狂奔，山谷坡面上的风化沙石被沉重的机甲身躯震动着无声崩析落下，不停颤抖起伏。\n\n    在最大功率处于劣势的情况下，果壳工程部设计的小白花机甲，在逃逸中却拥有不输于紫海的速度",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "两台辛式mx机甲所展现出来的性能，才是他们目瞪口呆的原因。\n\n    尤其是当两台机甲一前一后，几乎同时伸展出辅助飞翼，瞬间将机甲的速度提升到联邦鉺里前所未有的境界时，所有的人都惊呼了起来。\n\n    果壳机动公司和联邦鉺科学院的专家们，在实验室里早就模拟甚至是亲眼目睹过，mx机甲在辅助飞翼帮助下的",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "乐沉重地呼吸着，专注地操控小白花做出一个又一个艰难的动作，他的操控越来越熟练，心情却是越来越沉重。他从来没有幻想过自己能够操控机甲真正地击败李疯子，但他知道一些李疯子不知道的事情，他一直在等着对方进入超频状态，可是后面那台紫海为什么一直不肯强行提速，赶上自己？\n\n    低温真空的环境对于mx的能量",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "种环境中，对机甲本身的损耗太大。\n\n    “呼……呼……”\n\n    除了电流声之外，操控舱内一片安静，许乐沉重的呼吸声显得格外清晰。\n\n    对小白花的操控他越来越得心应手，以前刻苦学习的机甲操控技术，在后方那台紫海机甲的压追下，就像那十个姿式一般，快要变成他的身体本能，也唯有如此，他才能够凭",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "紫海拖入超频，只是不知道那个家伙具体会怎么做。\n\n    忽然身旁一名中年专家碰了碰她的肩膀，急促地说道：“小白花在做什么？”\n\n    商秋猛地扭身向光屏上望去，忍不住红唇微张，就像指挥大厅里所有人一样，发出了一声夸张的轻呼。\n\n    巨幅光屏上，白色的机甲机械臂前端伸展出了修理臂，抵住了机甲受",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

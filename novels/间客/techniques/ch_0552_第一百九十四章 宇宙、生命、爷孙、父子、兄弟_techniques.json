@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 552,
+  "chapter_title": "第一百九十四章 宇宙、生命、爷孙、父子、兄弟",
+  "filename": "ch_0552_第一百九十四章 宇宙、生命、爷孙、父子、兄弟.txt",
+  "char_count": 3599,
+  "timestamp": "2026-04-10T12:05:08.521608",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "是因为此次爆炸事件，则是因为他进入了异常状况。”许乐沉就片刻后，用平静的语气，坚定地讲出自己最重要的秘密，虽然这秘密在老东西的面前没有任何意义。\n\n    “我要问的区别就是这个。你很清楚我也进入了异常状况。”\n\n    “两个异常状况的区别在于，你接受了我发出的主动联系请求，而他拒绝了七十次。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "常状况。”许乐沉就片刻后，用平静的语气，坚定地讲出自己最重要的秘密，虽然这秘密在老东西的面前没有任何意义。\n\n    “我要问的区别就是这个。你很清楚我也进入了异常状况。”\n\n    “两个异常状况的区别在于，你接受了我发出的主动联系请求，而他拒绝了七十次。”\n\n    许乐再次沉就，然后抬起头来，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "人不是科幻中的外甲壳虫子，更不是奇怪的我都无法想像的硅基生命，他们拥有与联邦人类极为近似的生理构造，社会制度，文明模式。智商最低的变形虫也能看出他们与我们之间的关系。”“边际无限辽阔的宇宙中，我们所处的星系只是其中一颗沙粒，在这颗沙粒上，生命能自主进化出两个完全相司的文明？不，宇宙会产生奇迹，便不会",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "惜，这些残留片段太少…”联邦中央电脑显示出来的白色字符此刻似乎带上了一丝感伤与失望“根据我的计算，在危险的宇宙中，对方能够保留下来的机会并不大。没有人能够长生不死，那五个，人都死了，也没有电脑能够真的永远存在，尤其是对方没有联邦这样的物资供应基地。\n\n    “这些芯片是大叔做的。”许乐忽然低声说道",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "？人类能发现它吗？\n\n    在这一刻，什么政治黑幕，世家腐朽，宇宙战争，繁华人生，红粉佳人，甚至是最强烈的那些情感，全部离开了许乐的大脑，他怔然神往于老东西所阐述的推论，就如司部之源在海边仰望星空时那样，被超越于人世间利益纷争的崇高所深深吸引。\n\n    这个推论十分具有爆炸性，如果让联邦任意一名",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "平静显示道，“他是联邦第一序列通箱犯，这才是区别。”\n\n    许乐迅速地摆脱震惊恢复冷静，眉尖微皱说道，这只是内在原因的外部体现，，联邦凭什么确认他背叛了联邦，如果这件事情和二十年前在帝国星球上的军需库爆炸有关，你的光辉触角并不在那处，怎么确认？”\n\n    “一，我的信息搜集能力随着联邦军队的迈",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "都知道，帝国那边的电脑连你孙子都不如。”\n\n    “一至七十一异常状况与帝国方面有极深切的联系，他第一次进入异常状况，脱离我的监控，是他从帝国星域回到联邦之后的事情。三知道大叔去过帝国，许乐并不感到吃惊，他低下头看着膝盖上有些发白的布料，说道，“如果这些芯片真和帝国有关，那是不是说明”联邦和帝国在",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "郁闷地想道。\n\n    不是远亲，是近亲。”老东西很冷淡刻薄地说道。\n\n    许乐沉就了很久，摇头感慨道，“如果，我是说如果，联邦与帝国真的是失散在宇宙闻的亲弟兄，那…为什么我们之间一朝相遇，便只有血腥的战争，而没有别的？”这个间题应该问人类，而不是问一台电脑。”另外，根据第一宪章和联邦现行法律的",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "民对联邦的军事行动造成了不可挽回的损失。二，他成为第一序列通辑犯，并不是因为此次爆炸事件，则是因为他进入了异常状况。”许乐沉就片刻后，用平静的语气，坚定地讲出自己最重要的秘密，虽然这秘密在老东西的面前没有任何意义。\n\n    “我要问的区别就是这个。你很清楚我也进入了异常状况。”\n\n    “两个异",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "色字符，老东西并没有用伪装芯片这个词，而是用的替代芯片，某个…小疑惑一闪而过，便被更关键的内容吸引，紧张问道，“什么样的残存信息片段？”\n\n    “据我分析，替代芯片中的残存信息片段，并不是芯片的工艺制造者赋子其中，那些复杂到极点的机械语言，应该是由某个存在遗留下来，而且我能在其中嗅到熟悉的味道，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "某种情感方面的起伏。\n\n    许乐的骨子里终究是位工程师，听到老东西的话后，他根本没有多余的精神去担心自己的问题，被震惊的身体僵硬如铁。\n\n    他略带一丝惘然想道，宇宙里居然有与究章电脑核心同源甚至是更高级的存在？难道是浩劫前文明的遗迹？只有信息残留片段，是不是说明那个存在已经消亡于长久的历史",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "所以以前不问也不想，是因为他恐惧。\n\n    左眼瞳中的白点字符消失了几秒钟的时间，那位化身万千，在无数卫星装备间以电子信息之身漫游宇宙的伟大存在，面对着许乐冷静锋利的自杀式问话，也需要时间进行思考。\n\n    “不。”\n\n    联邦中央电脑终于开始做出回答，依照第一宪章隐秘条款的规定，我被绝对禁",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "汇来组织语言，联邦的宪章光辉出自神圣的五人小组之手，传说是浩劫前文明的伟大结晶，对于远远超出联邦科技水平的存在，他再是天才的工程师，依然感到有些无力，所以只能像个孩子般带着丝惘然宽泛问道。\n\n    “我的内核逻辑，也不能完全明白你的情况。”中央电脑又一次延迟片刻，才用白色的字符回答道，“这是五人小",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

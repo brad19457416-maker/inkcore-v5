@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 369,
+  "chapter_title": "第一百七十四章 粥与信，从前和以后",
+  "filename": "ch_0369_第一百七十四章 粥与信，从前和以后.txt",
+  "char_count": 3393,
+  "timestamp": "2026-04-10T12:11:21.741641",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "宁缺说道：“知道了。”\n　　然后他走到灶前坐到小板凳上，从灶眼里抽出燃的最厉害的那根干柴，又转了转风挡，把柴火弄的小了些。\n　　……\n　　……\n　　中午的时候，桑桑醒了过来，她取出毛巾和牙具简单地洗漱了下，进灶房看了一眼粥钵，然后走到了前铺。\n　　前铺桌上放着一盘削皮分骨摆的很漂亮的烤鸭，还有两盘",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "眼睛和睫毛，只不过平时眼睛看不到睫毛，睫毛也刺不到眼睛，而当外界吹来一阵劲风时，两者才会注意到彼此的存在。\n　　“但我是山，不是风。”\n　　莫山山缓缓放下窗帘，取出一封书信交给身旁的酌之华。\n　　酌之华犹豫说道：“我们真的就这样离开长安城？”\n　　莫山山平静说道：“毕竟是大先生邀我前来，稍后我们去南",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "不到眼睛，而当外界吹来一阵劲风时，两者才会注意到彼此的存在。\n　　“但我是山，不是风。”\n　　莫山山缓缓放下窗帘，取出一封书信交给身旁的酌之华。\n　　酌之华犹豫说道：“我们真的就这样离开长安城？”\n　　莫山山平静说道：“毕竟是大先生邀我前来，稍后我们去南郊书院，见过大先生之后，我们再离开。”\n　　酌",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "于想起来那个穿着狐裘的高大老人，想起老人最后手中握着的那根粗短棒子，也明白了自己头痛的原因，不由又是愤怒又是羞愧，愤怒于那厮居然敢对自己下黑手，羞愧于自己身为夫子的亲传弟子，居然会被长安城里一个垂垂老矣的富翁敲了闷棍。\n　　自己这时候还躺在松鹤楼的露台上吗？宁缺想着这些问题，手下意识里摸了摸，从身下",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "一口冷气，因为头上传来一阵剧痛，痛到他有些糊涂，怎么想也想不起来昨夜在松鹤楼上最后的画面，不清楚头痛究竟是宿醉还是因为别的什么事情导致的。\n　　他想了很长时间，终于想起来那个穿着狐裘的高大老人，想起老人最后手中握着的那根粗短棒子，也明白了自己头痛的原因，不由又是愤怒又是羞愧，愤怒于那厮居然敢对自己下",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "喜欢，我很喜欢。”\n　　“长安城与大河国相距甚远，但不及荒原路途遥远，若真想来，若真想去，也便极近，日后你来看我，或我来看你，或他山云雾之中再见，都是人生欢愉事。”\n　　“经历诸多事，我眼中河山已有新意，重逢那日，所书所写定然较今日更加壮阔，望你也多加努力，莫要令我失望。”\n　　看完这封信，宁缺沉默",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "觉得极为好吃。\n　　桑桑很馋那碗牛肉蛋花粥，但宁缺为了省钱却没有买，二人默默地穿镇而过，后来在渭城他第一次随部队劫杀马贼，拿到第一笔银钱后，桑桑连着做了四天的牛肉蛋花粥，二人都吃到有些恶心，这才明白，牛肉蛋花粥这个东西很补，但吃多了味道其实也只是普通，所以从那之后再也没有做过。\n　　宁缺睁开双眼，看",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "个名字非常熟悉。\n　　她甚至比宁缺自己都更早明白那个名字对他的重要性，所以在荒原上她才会很多次的沉默思忖，所以她一定要见桑桑。\n　　进长安城的第一天，她就看到了桑桑，出乎她的意料，那只是一个很普通的小侍女，然后今天她再一次看到桑桑。\n　　这一次她看到的桑桑，是和宁缺单独在一起的桑桑。\n　　看着老笔斋",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "雨夜宁缺摹的丧乱帖。\n　　她知道这封信对宁缺来说是珍贵的，那么便好好留着。\n　　……\n　　……\n　　走出老笔斋，桑桑撑开大黑伞，跟着宁缺向临四十七巷外走去。\n　　宁缺早已经习惯了她铺床叠被洗碗撑伞。\n　　但走了片刻，他忽然从桑桑手里接过大黑伞。\n　　桑桑仰起小脸疑惑地看了他一眼。\n　　他微笑说道：“",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "刻后走上前去，拍了拍她的肩膀。\n　　桑桑醒了过来，仰起小脸看着他问道：“醒了？”\n　　宁缺嗯了一声，说道：“看样子你一夜没怎么睡？”\n　　桑桑嗯了一声。\n　　宁缺说道：“那你先去睡会儿，我来熬粥。”\n　　桑桑从灶前小板凳上站起，把额前微卷的头发抹到后面，走到灶房门口时忽然想起一件事情，回头提醒道：“",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "秀细腻，走锋飞捺间颇有宁静外表下掩之不住的磊落决然意。\n　　这封信里最后有几段这样的话。\n　　“或许命运安排你们很多年前便是单独的世界，不需要有人站在柴门外轻敲，也不需要有人在院外冬树下呼喊打扰，但我不相信命运。”\n　　“荒原一路同行，我受益极多，长安冬日并肩而游，很是欢喜。”\n　　“雪夜红墙，你曾",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "腾的雾气从灶房里飘了出来，宁缺走了过去，发现那些剩菜都已经被倒进了泔水盆里，冰冷了两天的灶洞重新泛起温暖的火花，几把细柴正在里面安静地燃烧，灶上粥钵咕咕作响，不停喷吐着水雾和香气。\n　　灶前有个小板凳，桑桑就坐在她最习惯坐的地方，看着柴火，听着粥声，把握着火侯，头微微轻垂，似乎有些疲惫困倦，微黑的小",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

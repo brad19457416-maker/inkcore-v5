@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 549,
+  "chapter_title": "第五十六章 墓上青痕",
+  "filename": "ch_0549_第五十六章 墓上青痕.txt",
+  "char_count": 3442,
+  "timestamp": "2026-04-10T12:11:26.573996",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "观海僧忽然感觉到宁缺身上似乎发生了什么事情，与去年冬天在长安城相遇时有极为明显的不同，隐约猜到真相，不由发出一声惊呼。\n　　宁缺说道：“在长安时便说过，喊我师兄便是。”\n　　观海僧犹豫片刻，听从他的要求，说道：“十三师……兄，去年相见时，你还在洞玄境内，怎的如此短时间，竟破境而出，难道你又有何",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "冥王之子呢？”\n　　……\n　　……\n　　为图清静，最终宁缺还是没有住进烂柯寺本院，观海僧便带着他们，来到靠近北面山林的一间清幽别院里住下，也没有惊动寺里的僧人。\n　　简单吃了些素斋，又简单说了些闲话，观海僧便起身告辞，宁缺知道，虽说歧山大师常年隐居，但观海身为烂柯寺未来的主持，像盂兰节大会这等时间段",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "随家师修行佛法，也是隔着庐门静聆教诲。”\n　　听着这话，宁缺眉梢微挑，心想如果不见外客，那我来有什么意义，心中已经拿定主意，若真如此，那说不得只好强行闯山一见了。\n　　便在这时，观海僧说道：“不过家师此次会出关一日。”\n　　宁缺正在向上挑的眉梢，顿时平伏，他看着观海僧无奈说道：“你是瓦山的和尚，并不",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "传来的颂经声，却把一切转为了平静。\n　　塔林幽寂，小径繁乱，行走在其间，就如同走在迷宫里一般，如果是第一次来的游客，很容易迷路，然而他带着桑桑行走在其间，却是没有任何停顿犹豫，显得格外熟悉，仿佛来过很多次一般。\n　　桑桑抬起头，看了他一眼，有些惊讶，很是不解。\n　　宁缺自己却没有注意到，就算注意到，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "家师也都闭庐不与，便是这些年我随家师修行佛法，也是隔着庐门静聆教诲。”\n　　听着这话，宁缺眉梢微挑，心想如果不见外客，那我来有什么意义，心中已经拿定主意，若真如此，那说不得只好强行闯山一见了。\n　　便在这时，观海僧说道：“不过家师此次会出关一日。”\n　　宁缺正在向上挑的眉梢，顿时平伏，他看着观海僧无",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "眼，说道：“看过，不知现在师嫂状况如何。”\n　　宁缺赞道：“这声师嫂喊的极有道理。”\n　　然后他面带忧虑说道：“请叶红鱼出手勉强镇压住了体内的阴寒气息，短时间内应该不会恶化，但这种事情越早解决越好，我什么时候能够见到歧山大师？”\n　　观海僧面露为难之色，说道：“家师常年在寺后山中结庐静修，不见外客。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "道：“既然夫子肯收师兄为亲传弟子，那师兄怎么可能是冥王之子呢？”\n　　……\n　　……\n　　为图清静，最终宁缺还是没有住进烂柯寺本院，观海僧便带着他们，来到靠近北面山林的一间清幽别院里住下，也没有惊动寺里的僧人。\n　　简单吃了些素斋，又简单说了些闲话，观海僧便起身告辞，宁缺知道，虽说歧山大师常年隐居，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "地笑了笑，建议说道：“家师出关之日在后天，十三师兄不如在寺中暂歇两日，虽说与书院无法相比，但还算有些风景可观。”\n　　宁缺想着最近桑桑的病情算是稳定，而且在马车上便极贪风景，那么千里迢迢来一趟烂柯寺，确实也应该带她四处转转，至少要看清楚这座千年古刹长的什么模样，尤其是他身为书院弟子，又与简大家亲近，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "奇遇？”\n　　身为佛门弟子，性情本就平和坚毅，更何况观海僧境界颇深，然而此时，他的声音此时竟有些微微颤抖。\n　　宁缺说道：“哪里有那么多奇遇，如果你时常能离开瓦山，走出烂柯寺到世间找些人多打几架，涨境界也不是那么难的事。”\n　　观海僧看着他的眼神羡慕而又有些敬畏，修行界都知道宁缺入书院不过短短数年时",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "趟烂柯寺，确实也应该带她四处转转，至少要看清楚这座千年古刹长的什么模样，尤其是他身为书院弟子，又与简大家亲近，更应该去寺中那座墓前拜拜。\n　　“如此也好。”\n　　他想到一个问题，看着观海僧问道：“既然歧山大师隐居闭关多年，为何今年盂兰节大会却能惊动他老人家？我知道中原诸国朝廷来此，是为了商议荒人南下",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "为难之色，说道：“家师常年在寺后山中结庐静修，不见外客。”\n　　宁缺神情微异，问道：“盂兰节大会不是马上就要召开？”\n　　观海僧摇头解释道：“过往年间的盂兰节大会，家师也都闭庐不与，便是这些年我随家师修行佛法，也是隔着庐门静聆教诲。”\n　　听着这话，宁缺眉梢微挑，心想如果不见外客，那我来有什么意义，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "令人震惊无语。\n　　虽然被佛门年轻高手用这种眼神看着，是极美好的享受，但宁缺现在没有什么时间和精神去慢慢体会，说道：“我提前写过一封信，你可看了？”\n　　观海僧看了黑色马车一眼，说道：“看过，不知现在师嫂状况如何。”\n　　宁缺赞道：“这声师嫂喊的极有道理。”\n　　然后他面带忧虑说道：“请叶红鱼出手勉",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "你们，悄悄见了歧山大师，把事情做完便离开，结果这样还是被你发现了。”\n　　宁缺走出马车，看着观海笑着说道。\n　　观海僧看着满是尘土的马车，苦笑说道：“您这哪里是低调便能形容，前些天收着神殿传书，知道您在途中遇到袭击……噫，师叔你何时又破了境！”\n　　观海僧忽然感觉到宁缺身上似乎发生了什么事情，与去年",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

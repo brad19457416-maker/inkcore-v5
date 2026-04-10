@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 775,
+  "chapter_title": "第一百五十六章 观主无量",
+  "filename": "ch_0775_第一百五十六章 观主无量.txt",
+  "char_count": 3755,
+  "timestamp": "2026-04-10T12:11:27.144086",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "之人，要知道莲生都无法破除心劫，至死不敢踏出那一步。”\n　　“林雾，你果然不凡。”\n　　观主抬头望向天空，看着自天而降的亿万朵雪花，想着那人，脸上露出佩服的神情――任何能把二十三年蝉收为弟子的人都值得佩服。\n　　“好在我用了一生的时间，才让这座城终于有了一道缝隙。”\n　　他感慨说道，然后向空中伸出手",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "速震动，发出低沉而密集的声音，就像是无数只蝉在同时振翅。街道旁的屋檐上有片黄叶，被风卷起至雪空之中，瞬间被撕成碎絮。\n　　“没想到你已经通了天魔境，成了魔宗百年来第一个破五境之人，要知道莲生都无法破除心劫，至死不敢踏出那一步。”\n　　“林雾，你果然不凡。”\n　　观主抬头望向天空，看着自天而降的亿万朵",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "轻扬微飘，每片雪花都开始剧烈颤抖起来，破风而舞。\n　　片片雪花高速震动，发出低沉而密集的声音，就像是无数只蝉在同时振翅。街道旁的屋檐上有片黄叶，被风卷起至雪空之中，瞬间被撕成碎絮。\n　　“没想到你已经通了天魔境，成了魔宗百年来第一个破五境之人，要知道莲生都无法破除心劫，至死不敢踏出那一步。”\n　　“",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "大些的雪花。\n　　随着这个动作，满天雪花骤然一静，然而继续下落，只是不再轻扬微飘，每片雪花都开始剧烈颤抖起来，破风而舞。\n　　片片雪花高速震动，发出低沉而密集的声音，就像是无数只蝉在同时振翅。街道旁的屋檐上有片黄叶，被风卷起至雪空之中，瞬间被撕成碎絮。\n　　“没想到你已经通了天魔境，成了魔宗百年来第",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "第一百五十六章 观主无量\n　　如观主这种层次，虽不能掐指便知未来，但心意微动便知吉凶，普通意义上的偷袭没有意义，除非宁缺手中还握着铁弓。\n　　余帘没有隐藏踪迹，就这样从风雪中走了出来。\n　　“在这座城里，无法与昊天沟通。”\n　　她看着观主说道，然后把双手伸到空中――二十三年蝉大成，一双小手",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "境，成了魔宗百年来第一个破五境之人，要知道莲生都无法破除心劫，至死不敢踏出那一步。”\n　　“林雾，你果然不凡。”\n　　观主抬头望向天空，看着自天而降的亿万朵雪花，想着那人，脸上露出佩服的神情――任何能把二十三年蝉收为弟子的人都值得佩服。\n　　“好在我用了一生的时间，才让这座城终于有了一道缝隙。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "下方，便是笔直的长街。\n　　此时站在朱雀大街上向天空望去，便能看到一幕神奇的画面，覆盖苍穹的雪云中间出现了一道裂缝，缝中是湛蓝的青天。\n　　清丽的阳光从青天洒落，照耀在长街上，把街道上的建筑与雪花照耀的清晰无比，甚至还涂抹上了一层圣洁的金光。\n　　满天雪花都变成了金色，然后以肉眼可见的速度融化。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "十三年蝉收为弟子的人都值得佩服。\n　　“好在我用了一生的时间，才让这座城终于有了一道缝隙。”\n　　他感慨说道，然后向空中伸出手掌。\n　　他的掌心向天，仿佛是要承接那些纷纷落下的雪花。\n　　然而落下的不是雪花，而是一道磅礴的力量。\n　　厚实的雪云覆盖着长安城。\n　　那道磅礴的力量来自天穹，来自云层后方",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "棍便不知相遇了多少次。\n　　大师兄的棉袄上全部是血，棍上多了无数道浅浅的剑痕。\n　　观主的神情越来越凝重。\n　　雪街那头，余帘忽然向前踏了一步。\n　　满天雪花，向观主的身体落下。\n　　观主挥袖，蝉鸣骤哑，风雪骤辟，乱成一团。\n　　没有一片雪能落到他的身上。\n　　观主横剑而退，然后举掌向天。\n　　无数",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "条雪街是她的世界。\n　　观主的身法再快，也无法快过世界本身的规则。\n　　一片雪花在户部清水司副衙门前缓缓落下。\n　　那里本来什么都没有。\n　　但当那片雪花落下时，却响起了撕裂的声音。\n　　观主被满天风雪逼出了身形。\n　　他的青色道衣前襟上，多了一道锋利的裂口。\n　　……\n　　……\n　　万雁塔顶。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "每片雪花都开始剧烈颤抖起来，破风而舞。\n　　片片雪花高速震动，发出低沉而密集的声音，就像是无数只蝉在同时振翅。街道旁的屋檐上有片黄叶，被风卷起至雪空之中，瞬间被撕成碎絮。\n　　“没想到你已经通了天魔境，成了魔宗百年来第一个破五境之人，要知道莲生都无法破除心劫，至死不敢踏出那一步。”\n　　“林雾，你果",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "人也即将出现。\n　　此时观主被蝉翼世界隔绝了与昊天的联系，又被黄杨大师的燃烧佛珠羁绊，再没有办法通过离开这条雪街，哪怕他眼中无距。\n　　这就是书院的安排。\n　　下一刻便是真正的攻击。\n　　然而观主的神情依旧宁静。\n　　他望向自已手腕上的那串佛珠。\n　　佛珠正在燃烧，却连他的青色道衣都没有点燃。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "余帘没有隐藏踪迹，就这样从风雪中走了出来。\n　　“在这座城里，无法与昊天沟通。”\n　　她看着观主说道，然后把双手伸到空中――二十三年蝉大成，一双小手稚嫩幼美，在风雪中就像是两片稍大些的雪花。\n　　随着这个动作，满天雪花骤然一静，然而继续下落，只是不再轻扬微飘，每片雪花都开始剧烈颤抖起来，破风而舞",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

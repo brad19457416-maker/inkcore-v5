@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 576,
+  "chapter_title": "第八十一章 诸境之上",
+  "filename": "ch_0576_第八十一章 诸境之上.txt",
+  "char_count": 2352,
+  "timestamp": "2026-04-10T12:11:26.664306",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "在魔宗山门里听莲生自己说过，当时他只信了六分，因为总觉得这话有些大人物临死前的自吹自擂意味。\n　　“为什么？”\n　　宁缺极为不解问道：“为什么这些人都没有选择跨出最后那步？”\n　　“破五境，代表修行者脱离了俗世，不仅能够最彻底地掌握天地气息的规律，了解世界的规则，甚至可以创造出新的规则，然而这毕竟是",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "没有关系。\n　　“好吧，我承认确实有人可能破五境。”\n　　“当年柳白曾经和颜瑟大师战过一场，东海之畔风起云涌，世人都说他最有可能破五境，在我看来，其实他早就已经可以破境而出，只不过没有迈出那一步。”\n　　歧山大师说道：“莲生师弟当年惊才绝艳，道佛兼修，又有魔道为基，只要他愿意，破五境也不是什么难事，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "息的规律，了解世界的规则，甚至可以创造出新的规则，然而这毕竟是昊天的世界，大世界的规则不可挑战，那么战斗依然要依靠大世界的规则。”\n　　歧山大师说道：“所以对那些寥寥可数的真正强者来说，停留在知命巅峰和破五境而出，最大的区别在于对世界本原的认识，对实力的提升并不大。”\n　　宁缺无法理解，说道：“能有",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "歧山大师看着他问道：“书院二先生如今是什么境界？”\n　　宁缺想了想，说道：“二师兄现在应该是知命巅峰境界，不过……您也知道他那脾气，谁知道他如果真生气了，会不会怒发冲冠就要破碎虚空。”\n　　说完这句话，他自己忍不住先笑了起来。\n　　歧山大师没有笑，因为没有听懂。\n　　宁缺有些尴尬地自己收了笑声。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第八十一章 诸境之上\n　　歧山大师微笑说道：“有希望与真实是两回事，而且即便破了，也不值得骄傲，正如你先前说，很难认为自己是特殊的那一个。”\n　　宁缺笑着说道：“您这话便有些嚣张了。”\n　　大师微怔说道：“何来嚣张？”\n　　宁缺说道：“五",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "宁缺缓缓收回手，在院服上擦了擦，说道：“老师没有告诉过我这些。”\n　　歧山大师说道：“因为夫子确信你将来肯定会走到知命巅峰，看到那道天人之隔，到时候你自然便会知晓，在人间之上的诱惑和恐惧。”\n　　人间之上便是苍穹。\n　　宁缺抬头看着秋雨里的天穹，发现那里确实很苍凉。\n　　他觉得有些冷。\n　　天道，果",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "中，超越人间的领域有很多种，你说的天启，便是西陵教典里记载最多的那种，无距亦是大神通，除此之外，曾经出现在典籍之上的还有佛家的无量与寂灭，魔宗的天魔境、道门的清静……这些境界均在五境之上，各有妙像，彼此之间却没有什么强弱优劣之分。”\n　　歧山大师说到此处，停顿了很长时间。\n　　“而传说里，在诸境之上",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "应是涅，道门羽化相对较多，那便是民间传说里的那些神仙。”\n　　宁缺隐约明白了一些什么。\n　　歧山大师感慨说道：“数万年里，或者能有一人走到漫漫修道路的尽头，能有一人抵达彼岸，能有一人永世不朽，到那时，他们便会回归到昊天的怀抱。”\n　　宁缺看着被雨水打湿的石阶，怔怔问道：“死亡还是永生？”\n　　“没有",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "有极远一段距离，然而正所谓食髓方能知味，修行者体悟到自己创造规则的感觉后，便再难以控制继续向上追索的渴望，所以除非确信自己的天赋只够刚好跨过那道门槛，否则没有人敢跨那一步。”\n　　大师缓缓摇头说道：“然而能够破五境之人，必然都是柳白或莲生师弟这样了不起的人物，他们对自己的天赋何其自信。”\n　　宁缺忽",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "二先生如今是什么境界？”\n　　宁缺想了想，说道：“二师兄现在应该是知命巅峰境界，不过……您也知道他那脾气，谁知道他如果真生气了，会不会怒发冲冠就要破碎虚空。”\n　　说完这句话，他自己忍不住先笑了起来。\n　　歧山大师没有笑，因为没有听懂。\n　　宁缺有些尴尬地自己收了笑声。\n　　歧山大师说道：“既然二先",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "缺隐约明白了一些什么。\n　　歧山大师感慨说道：“数万年里，或者能有一人走到漫漫修道路的尽头，能有一人抵达彼岸，能有一人永世不朽，到那时，他们便会回归到昊天的怀抱。”\n　　宁缺看着被雨水打湿的石阶，怔怔问道：“死亡还是永生？”\n　　“没有人知道。”\n　　歧山大师微显惘然，说道：“佛祖不可能再来告诉我们",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "制继续向上追索的渴望，所以除非确信自己的天赋只够刚好跨过那道门槛，否则没有人敢跨那一步。”\n　　大师缓缓摇头说道：“然而能够破五境之人，必然都是柳白或莲生师弟这样了不起的人物，他们对自己的天赋何其自信。”\n　　宁缺忽然说道：“夫子……”\n　　歧山大师说道：“不要问我，数十年前，夫子他老人家亲口说过，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "novel": "间客",
+  "chapter_number": 652,
+  "chapter_title": "第十五章幽灵背后的机修师",
+  "filename": "ch_0652_第十五章幽灵背后的机修师.txt",
+  "char_count": 2302,
+  "timestamp": "2026-04-10T12:05:08.536802",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "还清晰残留着高温割枪与焊枪交替使用留下的痕迹，似乞丐衣物般的外甲上喷涂着机油溅射的线条，加上那些激烈战斗留下的破损痕迹，看上去就像一幅以丑陋暴怒闻名的星河派绘画。\n\n    在审美方面本就没有任何贡献的桃葬机甲，如今比以往任何时刻都更像一堆行走的金属垃圾堆。\n\n    机甲内部的构件更是已经进行了无",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的雨夜或燥闷的烈日正午，叛军部队中的机甲或是重型装甲，似乎无时无剪都在遭遇袭击。\n\n    桑树叶随风一摇散了阴影。杂草间几只狡兔仓惶逃窜，那些执行侦察任务或者落单的机甲，瞬间被那台幽灵机甲雷霆一击破毁，然后被极为凄惨地拆成满地残骸，看上去就像是被信奉恶魔的原始野蛮人吞噬了内脏。\n\n    叛军的大",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "甲提供着源源不绝的强大支持。\n\n    可是这片桑树海已经被叛军清扫了一遍，哪里可能有大型后勤基地的存在？\n\n    对于这些日子里许乐所展现出来的机修水准，怀草诗没有表过任何评价，那张普通的脸颊上连动容的情绪都没有流露出一丝，内心深处却早已震动不已。\n\n    她知道身边这名联邦人是十分强大的军人",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的研究并不比帝国领先太多，行业水准决定了操作水准怀草诗想不通此人怎样才能练就如此不可思议的机修本事，难道这种事情也要讲究天赋？\n\n    （看球看球，就这么多了。昨天忘了说，今天补上，这两天写的自己看后觉得还蛮爽，兴奋阀值是不是降低了？哈哈。好久没搞自恋的事情了，今儿为西班牙损自己的人品”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，要比联邦差很远。\n\n    桑树海中的叛军围剿部队。震惊甚至恐惧于桃痒机甲像幽灵一般，似乎永远不会出现机械问题，无论经历过多少场激烈的机战，下一次它出现时依然完好无损，虽然这台幽灵机甲看上去似乎越来越破烂，可表现出来的战斗力却没有丝毫下降。\n\n    叛军无法理解对方是怎样做到了这一点，即便参谋军",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "献的桃葬机甲，如今比以往任何时刻都更像一堆行走的金属垃圾堆。\n\n    机甲内部的构件更是已经进行了无数次的修理，不知道换了多少次零件那些临时替用的零件无奈地进行着自我磨损，悲伤地出低沉的磨擦声。\n\n    两根高近三米的细长机械腿因为采集了两台不同制式机甲的球状关节自适应楔合机械桩，无法保证绝对高",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "片的月狼机甲推测出一些东西。可依然难以相信，这个宇宙里有人能够在这片绝对的农业区中，完成这些需要昂贵沉重设备才能完成的修理工作，更何况对方修理时采用的全部是月狼机甲的零部件！\n\n    叛军的军官们渐渐产生了一种错觉，他们正在围剿的殿下并不是一个人在战斗，这片浓郁青森的茫茫桑树海中，似乎有一个大型的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "遇袭击。\n\n    桑树叶随风一摇散了阴影。杂草间几只狡兔仓惶逃窜，那些执行侦察任务或者落单的机甲，瞬间被那台幽灵机甲雷霆一击破毁，然后被极为凄惨地拆成满地残骸，看上去就像是被信奉恶魔的原始野蛮人吞噬了内脏。\n\n    叛军的大部队曾经数次无限接近包围那台幽灵机甲，那台幽灵机甲却不知用了什么手段，悄",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "修师 \n\n    幽灵，冷酷强大贪婪的机甲幽灵，在桑树海里飘浮吐\n\n    为了对冉灵进行围剿；早已抵达离阻星球大气层外的帝国叛军部队，6续向那片绿海中投入了大量的机甲和重装甲部队。\n\n    当掌控着行星地表虽强势军力的总督府一直被迫沉默时，叛军的部队在这颗星球上可以横扫一片。然而在那台幽灵机甲之",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 780,
+  "chapter_title": "第一百六十一章 神符，针眼，残荷",
+  "filename": "ch_0780_第一百六十一章 神符，针眼，残荷.txt",
+  "char_count": 2385,
+  "timestamp": "2026-04-10T12:11:27.149347",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百六十一章 神符，针眼，残荷\n　　观主看着身前街上那两道风雪凝成的痕迹，神情微凝。\n　　寒风微拂，那两道痕迹上附着的雪絮剥落飞走，只留下痕迹本体，这两道痕迹透明无形，却自有锋芒，就像是两把刀。\n　　两道刀痕向街畔蔓延，覆盖了整条朱雀大道，没有留下一丝空隙，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "到雪湖上的符意残留，在这一刻，她想起了当年和宁缺在大明湖底那些满是青苔的石头上看到的那两道剑痕，因为激动而睫毛轻眨。\n　　魔宗山门前的块垒阵，被轲先生用两记剑痕斩破，宁缺先前斩出的两刀，与那两记剑痕拥有非常接近的气质，但事实上却是截然不同。\n　　宁缺斩向雪空，不是用刀斩开身前一应障碍，而是在用刀写字",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "安城里的一切做最细微准确的观察，通过晨时的战斗，他确定观主可以在长安城里进入无距，在一个特定的范围内瞬间移动，但却没有办法直接用无距的手段穿越整座长安城。\n　　夫子留给人间的长安城，虽然被道门用千年的时间撕开了一道口子，对天地元气的运用之妙依然远远超出人间的范畴，观主要在阵内进行长距离的无距瞬移，便",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "光明却消失无踪，不知去了何处。\n　　他拥有惊神阵，可以对长安城里的一切做最细微准确的观察，通过晨时的战斗，他确定观主可以在长安城里进入无距，在一个特定的范围内瞬间移动，但却没有办法直接用无距的手段穿越整座长安城。\n　　夫子留给人间的长安城，虽然被道门用千年的时间撕开了一道口子，对天地元气的运用之妙依",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "“二”字符。\n　　书院在长安城严阵以待观主七日，他便冥思苦想七日，昨夜初雪，他在雪地上写了无数个字，最终于晨光熹微时，学会了另一个字。\n　　那个字也很简单，就像是二字的一种变形――两横离析而散，又像柴木般随意一搭，便成了一个崭新的字――这个字的形状和小师叔在大明湖底石头上留下的剑痕并不相同，相形之下",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "符，那就是“二”字符。\n　　书院在长安城严阵以待观主七日，他便冥思苦想七日，昨夜初雪，他在雪地上写了无数个字，最终于晨光熹微时，学会了另一个字。\n　　那个字也很简单，就像是二字的一种变形――两横离析而散，又像柴木般随意一搭，便成了一个崭新的字――这个字的形状和小师叔在大明湖底石头上留下的剑痕并不相同",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "两道痕迹没有静止不动，缓慢向南移去，街旁的行树喀然倒塌，积雪簌簌震飞，露出黑色的地面，地面上随之出现深刻的沟壑。\n　　这是神符的力量，更是惊神阵的力量，这两道刀痕出现在朱雀大道上，恰好把惊神阵的缺口堵住，把铁幕上的那道裂痕修补完善。\n　　面对雪中缓缓飘来的那个字，观主也无法应对，哪怕他进入无距也",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "楚地看到那个字出现在朱雀大道上，令冬林臣服，然后逼退了不可一世的观主。\n　　莫山山不知何时下了城墙，来到了雁鸣湖畔，安安静静站在他的身后，白色棉裙上染着斑斑血迹，先前观主破块垒时她受了伤。\n　　她没有看到那两记刀痕，做为一名天赋异禀的神符师，却能感觉到雪湖上的符意残留，在这一刻，她想起了当年和宁缺在",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "力量，这两道刀痕出现在朱雀大道上，恰好把惊神阵的缺口堵住，把铁幕上的那道裂痕修补完善。\n　　面对雪中缓缓飘来的那个字，观主也无法应对，哪怕他进入无距也不行，因为那两道痕迹可以切割天地，便可以斩开天地元气里的夹层。\n　　所以观主选择暂退。他一退便是数百丈，须臾之间，便从城北飘掠而回朱雀大道中段，退回到",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，这才是真实的长安城。\n　　莫山山取出眼镜戴在鼻梁上，看着眼前的雪湖，看着这座长安城，思考片刻后试着说道：“我觉得应该是这里。”\n　　她指着雪湖上的一蓬残荷。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

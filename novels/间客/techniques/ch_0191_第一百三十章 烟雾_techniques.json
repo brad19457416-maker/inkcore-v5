@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 191,
+  "chapter_title": "第一百三十章 烟雾",
+  "filename": "ch_0191_第一百三十章 烟雾.txt",
+  "char_count": 3752,
+  "timestamp": "2026-04-10T12:04:45.715352",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "许乐沿着安静地长廊，向外走去。此时尚是清晨，长廊两边囚室里的囚犯刚刚醒来，他们疑惑地看着这位新来者，心想这么早就被揪出去，难道是被直接枪毙？一念及此，长廊里沉默下来，竟没有发出起哄怪叫地声音。\n\n    许乐坐到了金属桌的一头，看着远端低着头，看不清模样地一位军人，微微皱眉，军事监狱自然归国防部管辖",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "她清楚自己做秘书地时候，并没有什么吸引力，尤其是那张普通的面容。外面的那个令她着迷的男人，为什么会看中自己这个已经过了三十岁的女人？\n\n    身为麦德林议员的秘书，她也拥有正常人的需要，也痴迷于花样男子所带来的异样冲击，可即便如此，她依然冷静，已经观察了一个月。她还要继续观察下去。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "想像的更快了一些，而且派来的这个人让他有些吃惊。\n\n    那名军人听到响动，缓缓抬起头来，露出一张陌生而清丽的面容，清声说道：“我叫徐松子，隶属国防部内务处法律署，受指派为许乐少尉你进行法律支援。”\n\n    这是一名文职女军官，长的很漂亮，从桌面上抬起身体后，可以发现她的身材也非常漂亮。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百三十章 烟雾 \n\n    凌晨时分，公寓里那张大床上雪白色的被褥十分绫乱，空气里弥漫着一股淡淡的栗子花味道。~~~~.~~\n\n    一个三十岁左右的女子，坐在床前对着梳妆台上的镜子，眯着眼睛涂抹着唇上的红彩，眼眸里满是过后的懒散。她的身上只穿了一件蕾",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "步地向着麦德林议员靠近。他更不知道那个长着一双桃花眼的施公子，用的假名居然和他有关，不然或许他会异常愤怒。\n\n    他这时候正一个人被关押在一处军事监狱之中，他并不知道这座军事监狱的名称，但既然在首都特区之内，而且安全措施如此严格，想必等级也不会太低。\n\n    这是一间单人囚房，他手上和脚上的高",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "在床上，被紧紧捆住了的双手平放在胸前，脑子里一时混乱一时清醒。\n\n    每当他想起黑梦尽头那个冰冷存在，他的思绪便有些混乱。从小跟随封余大叔学习。在河西州立大学里阅尽书籍，又在果壳研究所里呆了这么多天，他确认联邦的科技水平距离人工智能地出现。还要差几万年，甚至几十万年。\n\n    不过宪章局地下那",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，在那一身灰色的正装套裙之下，竟隐藏着这样一副成熟而诱人的身躯。\n\n    取下眼镜的女秘书，释放了压抑多年的，从骨子里透着一份痴迷，镜中海伦的面容有些倦意，却是那种满足的倦，那张端庄的面容上，只有眉心皱起的小细纹，才展露了她的真实年龄以及她平日里严谨矜持的一面。\n\n    “亲爱的，我去洗一下。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，自己一直用贸易处秘书来向对方掩饰自己的真正工作。\n\n    她走了上去，紧紧地抱住了施清海的身体，缓缓地扭动着身体，痴迷说道：“乐乐，我早上吃你……”\n\n    施清海高举着煎锅和木铲，生怕将怀中女子的身体给烫着了，感受着胸前那两粒硬点的滑移，不禁也有些心动，将烟头吐到地板上，一低头便吻了下去.",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "说虎山道口朴志镐地死，被查到了自己自己有关，回报自己的，依然是死刑。\n\n    清醒地许乐却似乎并不担心这些。他静静地看着泛着塑料光泽的天花板。暗自计算着时间，想看一下邰家那位夫人究竟愿不愿意赌一把。\n\n    实验室的数据事涉联邦新一代机甲的研制。事关重大，利益也不小。尤其是当和总统大选联系在一起",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "那根抽了一大半的香烟。\n\n    看着这个男人此时迷人的模样，加上已经逐渐开始相信，海伦油然而生一股温暖与放松，忽然间，她反而有些惭愧于，自己一直用贸易处秘书来向对方掩饰自己的真正工作。\n\n    她走了上去，紧紧地抱住了施清海的身体，缓缓地扭动着身体，痴迷说道：“乐乐，我早上吃你……”",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "组时期就开始运行了，关于浩劫之前的历史，早已湮灭在动乱的长河之中，那台电脑一直运行至今，却没有被人类社会逐步发达地科技水平拉开……这本身就是一个很恐怖的事实，第一宪章虽然说联邦中央电脑一直在进行改进和升级，但下意识里。许乐并不相信这点。\n\n    可是自我学习和升级能力也不是人工智能，他想着黑梦里的",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "八点钟还要赶去议会山，海伦的工作本来就比一般人要繁忙许多，昨夜癫狂之余，只来得及睡了两个小时，便又要离开了。\n\n    她回过头来，妩媚地望着床头吸烟的施清海笑了笑，披了一件浴衣，走进了洗手间。\n\n    将洗手间的门关好，温热的水花挥洒而下，海伦站在水花之下，捧着自己犹自有些发热的脸，仰着头，任由",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "伦秘书今天晨间的洗浴时间，比前几次与施清海欢好时。要短了非常多。她用白色地浴巾包着头发走了出来，笑着说道：“亲爱地，你想吃些什么？应该还来得及煎两块面包。”\n\n    卧室里空无一人，海伦的声音淡然而止，她神情复杂地走到床头，数了数烟灰缸里地烟头，然后走到了梳妆台前。\n\n    两根极细的黑色长发，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

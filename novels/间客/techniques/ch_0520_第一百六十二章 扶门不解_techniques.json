@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 520,
+  "chapter_title": "第一百六十二章 扶门不解",
+  "filename": "ch_0520_第一百六十二章 扶门不解.txt",
+  "char_count": 3484,
+  "timestamp": "2026-04-10T12:05:08.547359",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "军车便绝然而去。\n\n    队员们愕然。\n\n    许乐站在房间门口，也愕然无比，手扶门框做思考状，心想难道这件事情就这样荒谬地结束了　小说t-xt天堂",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "。但根据白芝的回报以及另一名官员的证言，他确实拥有第一序列权限。“\n\n    “如此说来，163网络最终启动程序，确实是由他发出的。”\n\n    “三个问题。”邰局长的神情变得凝重起来“，一，他什么时候拥有这个权限。二，他为什么能够拥有这种权限。三，在那个野外的基点里，他的手中并没有启动程序数据包，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百六十二章 扶门不解 \n\n    莫愁后山没有出手，却没有什么烈风来自宪章局大楼，这个事实令很多人感到诧异惊奇，更令易副司令感到脑后传来阵阵凉意，虽然他和很多军方高级将领一般，用看着初生兽雏的目光看着许乐在前线的每一步前进，也知道费城老师长对这今年轻人的期许，但眼",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "生活？”邰局长微耷着的唇角再次泛起浓郁的嘲讽，只是此次是自嘲。\n\n    宪章局的这间办公室，从某种意义上来说，甚至比总统官邸更加重要，此时的沉默死寂，清楚地显示出许乐拥有的权限等级，是如何地困扰房间中的二人。\n\n    沉默许久之后，邰局长浑浊的双眼里忽然闪过一道微光，说道：“权限是什么时候给出去",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "他发出的。”\n\n    “三个问题。”邰局长的神情变得凝重起来“，一，他什么时候拥有这个权限。二，他为什么能够拥有这种权限。三，在那个野外的基点里，他的手中并没有启动程序数据包，他是用什么方法命令中央电脑启动了整个网络？”\n\n    邰局长缓缓闭上双眼，沉声说道：“我们其实都清楚，许乐中校就是第七十",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "声音冷静到了极点：“老东西，这三个问题你能回答一下吗？”\n\n    光屏上不停倾泻落下的白色机械字符骤然静止，凝成一行清晰的人类文字。\n\n    “许乐中校第一序列权限的获得，完全符合第一宪章规定。”\n\n    除了这句话，冰冷机械的联邦中央电脑没有给出任何补充说明。\n\n    “这不知道是房间里的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "一宪章是七十万字还是一百七十万字？那些如瀚海般的附加注释文件，要用多少存储空间才能放下？许乐在自己的逃亡生涯里，无比畏惧这个覆盖联邦生活无数面，却像空气般隐形于身边的第一宪章，所以他在梨花大学的门房和图书馆里认真研究了许久，却也不敢说完全了解。\n\n    从这种意义上来说，宪兵就应该是维护宪章尊严的",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "惊的是，宪章局非但没有马上拿出对许乐的处罚意见，反而严厉地批评了在前线的三支官员小组，措辞之激烈超乎人们的想像。\n\n    这意味着什么？宪章局不打算追究许乐的责任，反而因为这个年轻中校的愤怒向自己的下属摆出冷酷的脸面？没有人敢于相信这种推论，易副司令也是如此，他透过落地舷窗，看着灰白色战舰壳体上线",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "辞之激烈超乎人们的想像。\n\n    这意味着什么？宪章局不打算追究许乐的责任，反而因为这个年轻中校的愤怒向自己的下属摆出冷酷的脸面？没有人敢于相信这种推论，易副司令也是如此，他透过落地舷窗，看着灰白色战舰壳体上线状雷达与视界更远处那颗蓝与灰黄分庭抗礼的星球，陷入了沉默。\n\n    ………………",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "扫死了。”\n\n    苍老的邰局长盯着升出桌面的光屏，微耷拉着的唇角泛起一丝深刻入骨的嘲讽，继续淡声说道：“他们在这座大楼里总能表现的如家庭喜剧演员一般和睦平和，似乎每个人都是变了性或难看些的简水儿，讲讲俏皮的笑话，让办公室和地下永远充斥着温暖的笑声……我总以为这样的一群官员，一旦外放也不至于马上就",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "神秘感因为严苛的宪章纪律而越发深沉，所以宪章局工作人员才会受到如此多的尊崇与敬畏。\n\n    如果不出现什么大的意外，比如说议会忽然有三分之二的议员联邦反对，崔聚冬助理将是下一任的宪章局局长，但在一手提拨培养自己的老局长面前，他无法表达更多的劝解与反对，昨夜局长亲手签署了书面文件，对前线所有的宪章局",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "“如此说来，163网络最终启动程序，确实是由他发出的。”\n\n    “三个问题。”邰局长的神情变得凝重起来“，一，他什么时候拥有这个权限。二，他为什么能够拥有这种权限。三，在那个野外的基点里，他的手中并没有启动程序数据包，他是用什么方法命令中央电脑启动了整个网络？”\n\n    邰局长缓缓闭上双眼，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "了一番披头盖脸的怒责，不知道这样能不能让官员们与前线部队间的配合变得更好一些。\n\n    “我现在最担心的，是许乐中校的权限等级。”\n\n    他看着局长略显疲惫的面容，不安地提起另一个话题：“现在通过各种方法，都无法查到他的确实权限等级。但根据白芝的回报以及另一名官员的证言，他确实拥有第一序列权限",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "这是真正的大事，我们这点儿小破事怎么能比？”他摇头说道，却没有人回答。\n\n    因为那种隐形存在的压迫感和不知道结局如何的未知感，禁闭房间内外的闲聊其实显得格外干涩，几个人的表情显得有些木讷。\n\n    不远处树荫下的七组队员们，也因为高原干燥的空气和闷热的气温而显得有些恹恹无力，低头沉默地进行枪",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "迫症的厉害人物，才足以执掌宪章局。\n\n    然而即便是老局长，也连续两次在那名叫许乐的中校面前感慨离去，不复再问……他看着光屏上再次如瀑布般倾泻的白色机械字符，眼角微微抽动一丝，终究还是化为一声叹息。\n\n    ……\n\n    ……\n\n    联邦第一宪章是七十万字还是一百七十万字？那些如瀚海般的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "基点里，他的手中并没有启动程序数据包，他是用什么方法命令中央电脑启动了整个网络？”\n\n    邰局长缓缓闭上双眼，沉声说道：“我们其实都清楚，许乐中校就是第七十二号异常情况，我们一直在关注他，可是谁能解释这三个问题？尤其是最后一个问题，战舰上的数据监控通道，根本没有捕捉到他与中央电脑的联络，谁能解释",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "喜剧演员一般和睦平和，似乎每个人都是变了性或难看些的简水儿，讲讲俏皮的笑话，让办公室和地下永远充斥着温暖的笑声……我总以为这样的一群官员，一旦外放也不至于马上就变成机器人。”\n\n    崔聚冬沉默片刻后不安微笑回答道：“从宪章局里出去的官员，骨子里总还是有些优越感，再说，毕竟我们从事的事业牵涉到联邦",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

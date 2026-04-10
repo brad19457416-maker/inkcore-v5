@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 1054,
+  "chapter_title": "第三百六十八章 举起手来（中）",
+  "filename": "ch_1054_第三百六十八章 举起手来（中）.txt",
+  "char_count": 2339,
+  "timestamp": "2026-04-10T12:05:26.903735",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "身份后，开始大声呼喊警卫。\n\n    各通道口的警卫冲向主席台，坐在轮椅上的达文西仿佛根本没有注意到危险，盯着台下黑压压的议员人群，用奇快的语速说道：“国家安全顾问先生说，议会山是联邦正义的最后堡垒，你们坐在这里是民众赋予你们的权利，那为什么不能够拿出时间听一听真正前线官兵的心声？”\n\n    警卫",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "达文西奋力挣扎，佩戴着军章与密密麻麻勋表的笔挺军装被撕开了几道口子，他躺在地上，望着议会山高远的顶穹愤怒吼叫道：“你们这群懦夫！”\n\n    面对这名残疾军官充满悲愤的训斥，有议员微微蹙眉然后极缓慢地低下头去，继续自己的手指，帕派议员们站起来挥动手臂愤怒咒骂回应，并且送给他一片片无情的嘘声。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "全。”\n\n    国家安全顾问先生结束了自己的阐述，微笑点头示意下台。会议主持人看着流程表，对着话筒说道：“下面有请国防部云蓬中校发言。”\n\n    由名贵木板铺就的通道上，一辆轮椅缓慢而坚定的行了上来，上面那位青年军官面容坚毅，就像他断腿上覆盖着的毯子那样平静。\n\n    “你是云蓬上校？”主持人",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "条疏说明，帕派议员正在一脸正经地提问质询，偶尔响起热烈的掌声，但在他们这些少数派议员们眼中仿佛根本不存在，既然无通过投票解决问题，那么便沉默抵制好了。\n\n    “诸位议员，议会山是联邦正义的最后堡垒，为了赢得这场与帝国人的战争，为了维护民众的最大正义，在此我请求各位举起你们的手，通过国土安全。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "快的语速说道：“国家安全顾问先生说，议会山是联邦正义的最后堡垒，你们坐在这里是民众赋予你们的权利，那为什么不能够拿出时间听一听真正前线官兵的心声？”\n\n    警卫已经冲上了主席台，最前面的警卫抽出了腰间的电击棍，有警卫抓住他的轮椅，有警卫粗暴地抓住他的衣领，想要把他唯一剩下的两只手扭到背后铐上。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "主光幕忽然亮了起来！\n\n    光幕画面质量很差，只能看到几张模糊的面孔在晃动，但画面左上角清清楚楚出现了联邦新闻频道的台标，台标下面有两个清楚的小字：直播！\n\n    整个议会山一片哗然，满足了愤怒咒骂情绪刚刚坐下的帕派议员们，震惊地再次站起，仿佛看到了鬼一般，四处搜寻着可能的监控头。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "各通道口的警卫冲向主席台，坐在轮椅上的达文西仿佛根本没有注意到危险，盯着台下黑压压的议员人群，用奇快的语速说道：“国家安全顾问先生说，议会山是联邦正义的最后堡垒，你们坐在这里是民众赋予你们的权利，那为什么不能够拿出时间听一听真正前线官兵的心声？”\n\n    警卫已经冲上了主席台，最前面的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "投票是代表民众赋予议员的政治权利，举起手来或是放下手去代表了他们的态度，然而在现在的议会山中，有些议员百无聊赖地着手指，有些议员疲惫不堪地枕在手臂上睡觉，有些议员拿着手机在玩游戏。\n\n    国家安全顾问正在对国土安全进行条疏说明，帕派议员正在一脸正经地提问质询，偶尔响起热烈的掌声，但在",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "枕着手臂睡觉的议员猛地坐直，正拿着手机玩游戏的议员下意识抬起头来。\n\n    本来死气沉沉的议会山内骤然发出一阵惊呼，有几名帕派议员震惊地站起身来，迟疑片刻确认此人的身份后，开始大声呼喊警卫。\n\n    各通道口的警卫冲向主席台，坐在轮椅上的达文西仿佛根本没有注意到危险，盯着台下黑压压的议员人群，用",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "坐在高高主席台最上方，那位三年来仿佛一直在昏沉欲睡，除了流程必须发言外几乎从来没有开过口的老人，忽然缓缓睁开了眼睛　小说t-xt天堂　  　\n\n\n\n第四卷星光流年",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "着说道：“联邦新闻频道正在直播会场！全联邦都看着你们怎样对待一位残疾少校！议员先生们，看来你们真的不担心会被选民抛弃！”\n\n    没有谁相信这名军官的威胁，确实此时主席台前后有联邦新闻频道设置的十二个摄像机位，但这是议会山的视频资料录制惯例，今天并没有安排新闻直播。\n\n    就在这个时候，议会山",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "就在这个时候，坐在高高主席台最上方，那位三年来仿佛一直在昏沉欲睡，除了流程必须发言外几乎从来没有开过口的老人，忽然缓缓睁开了眼睛　小说t-xt天堂　  　\n\n\n\n第四卷星光流年",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "邦第一军区新十七师现任师长李封上校，我身旁的军官均是新十七师军官。”\n\n    “我不知道达文西少校进入议会山想要说些什么。”\n\n    “我只知道他肯定不是叛乱军官。”\n\n    “我的话说完了。”\n\n    简单的几句话说完后，视频邮件结束，议会山主光幕画面回到了联邦新闻频道的直播画面，也就是说",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "角清清楚楚出现了联邦新闻频道的台标，台标下面有两个清楚的小字：直播！\n\n    整个议会山一片哗然，满足了愤怒咒骂情绪刚刚坐下的帕派议员们，震惊地再次站起，仿佛看到了鬼一般，四处搜寻着可能的监控头。\n\n    画面渐渐清晰，露出了一张眉眼清俊却异常暴戾的脸，这张脸的旁边，还有七八名穿着联邦军装的军官",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

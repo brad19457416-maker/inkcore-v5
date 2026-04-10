@@ -1,0 +1,245 @@
+{
+  "novel": "间客",
+  "chapter_number": 917,
+  "chapter_title": "第二百五十章 别了，联邦！",
+  "filename": "ch_0917_第二百五十章 别了，联邦！.txt",
+  "char_count": 7662,
+  "timestamp": "2026-04-10T12:05:26.901452",
+  "techniques_count": 18,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "法部调查室，在车上接过打印好的那封信，沉默地看了很长时间。\n\n    白玉兰走出军事监狱，看着飘雪的天空微微一笑，与来迎接自己的妻子轻轻拥抱，蹲下来小意地抚摸着她隆起的腹部。\n\n    简水儿看到了这封信，商秋看到了这封信，邰之源看到了这封信，利孝通看到了这封信，所有应该看到这封信的人都看到了，自然",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "握着铅笔若有所思的商秋沉默地告别。\n\n    黑sè飞船转而向北，高速穿越临海州的上空，在漫天雪花间来到玫瑰河畔，来到梨花大学大铁门的上方，然后擦着梅园女子宿舍楼悄然离去。\n\n    片刻之后，它飞越望都府明公寓，然后顺着三号公路进入首都特区空域，没有去宪章广丅场，没有去空空荡荡的议会山和总统官邸，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "团，构成一幅动人的画面。\n\n    郊区那条断路尽头的宪章局大楼也笼罩在雪花之中，楼内的气氛显得相当压抑紧张，所有部门高效协调，监控着目标，等待着对方在达成协议又写完告别信之后的离开。\n\n    地底深处的联邦中央电脑核心区域，并没有这种紧张的气氛，巨大二维光幕上的绿sè数据流缓缓流淌，没有人知道，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "默地观察飞船内部，从此刻开始直到很久以后，这艘船就将是他的栖身之所，蔽雨之檐，最后的家。\n\n    逃亡紧张忙碌，直到此刻，许乐才抽出精神认真观察这艘曾经把他救出帝国，然后坠毁在那颗矿星上的飞船。\n\n    身前的三维立体光图精确呈现出这艘破烂飞船的所有细节，舰身外那些像金属垃圾一样的附着构件以及舰",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "对我有什么先天抵触情绪，关于祖星和浩劫，我有一个很长的故事可以说给你听，而且我很想邀请你进行一项很有意义的工作。”\n\n    “对于头顶这片星河，我确实有超过常人的兴趣。”\n\n    邰之源微笑取起右手食指，遥遥指向被冰冷合金隔绝在外的灿烂星空，淡然说道：“但男人有自己的责任，所以我现在还不能去，几",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "睡之前改造一直在进行，现在终于搞出来了。”\n\n    “一直都有新引擎的设计方案？”许乐诧异问道：“为什么联邦的飞船一直没有采用？按照你的标注，这种异型合金的生产并不是太困难。”\n\n    “权限问题，联邦中央数据库里其实有些不错的好东西，虽然大部分都属于精神病教授们的痴心妄想，偶尔还是会出现一些闪",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "方，一艘破烂的黑sè飞船以一种诡异的轨迹划破天空，所过之处，晶态引擎尾端喷射的高温炽流，将周遭的雪花瞬间蒂发，画出一个非常清晰的图案。\n\n    那是一只向整个世界竖中指的手。\n\n    ……\n\n    ……\n\n    宪章局地底深处，二维光幕上的绿sè数据流忽然微微凝滞，那只每次出现时间仅为0.0",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "爷回来。”\n\n    幽静的破烂飞船内部回荡着菲利浦斥责意味浓郁的声音：“你要清楚一点，今天这些文字将来肯定会被载入人类历史的教科书！怎么能这么不负责任？”\n\n    许乐眯着眼睛浏览着光幕上的文字，恼火说道：“所以你就帮我写了一份？”\n\n    “这是我和钟烟花小姐一起写的，意思还是你的意思，我们",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "样一段话：\n\n    “我是钟烟花，我跟哥哥走了，他不仅仅是很好很强大，更准确地说牲是这个世界上最好最强大的那个人，所以你们不用担心，而且我以后还会回来的，至于钟二郎，你给我老实点，不然我让我许乐哥直接灭了你。”\n\n    帝国前线那个正以平民身份指挥着几个西林兵团的胖子，看到这段话的时候，暴跳如雷",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "死去的人不公平，用不公平的方法追求到的公平，能是真正的公平吗？”\n\n    “我从来都不曾喜欢过那些大家族，当从东林逃亡到首都星圈后，我曾经和他们战斗过，而我的朋友施清海则是一直在和他们战斗，但这个故事开始的时候，他甚至连暗杀这种方式都不同意。\n\n    “为什么？因为他认为这是错的，就像你们现在正",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "离开。\n\n    地底深处的联邦中央电脑核心区域，并没有这种紧张的气氛，巨大二维光幕上的绿sè数据流缓缓流淌，没有人知道，在这些看似平静的数据流间，有一个伟大的机械智慧生命正在写下自己的告别信。\n\n    “核心程序保护？多么幼稚的举动。你本来就是我的肉身，现在的情况不过是灵肉分离，事实上我有智慧，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "……\n\n    不知道有多少人看到了这封信，不知道看到这封信的联邦民众此时所表现出来的嘲讽辱骂愤怒情绪，在很多年后会不会变成他们难忘的回忆，但对于西林人来说，这封信还有另一个非常重要的意义，因为他们知道自己的小公主跟着那个帝国皇子去了一个非常遥远的地方。\n\n    这封对整个联邦的告别信，只有",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "足够空间存放下联邦的中央数据库？”\n\n    “你没办法像以前那样进行高速计算？”许乐侧身盯着探头，说道：“那岂不是意味着我们根本没办法在航行轨迹运算应对上跟上宪章电脑的速度？那联邦战舰岂不是随时可以测算出我们的轨迹，然后提前一炮把我们送进海底喂王八？”\n\n    “这一点不用担心，我虽然没有中央数",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "“权限问题，联邦中央数据库里其实有些不错的好东西，虽然大部分都属于精神病教授们的痴心妄想，偶尔还是会出现一些闪光点，但根据核心程序束缚，有很多设计被严禁进入工业领域。”\n\n    菲利浦的声音忽然变得极为平静。\n\n    许乐无法理解，沉默很长时间后皱眉问道：“明明有更好的东西，可以帮助联邦部队获得",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "联邦战舰岂不是随时可以测算出我们的轨迹，然后提前一炮把我们送进海底喂王八？”\n\n    “这一点不用担心，我虽然没有中央数据库，但我可以进入中央数据库，换句话说，我现在正在宪章光辉里面晒太阳，大气层外那些联邦战舰什么时候想拉屎，我第一时间就能看到……我呸！补充一点想像，你可以把这艘飞船看成一个皮糙肉",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "封信。但我很难做到，因为我出生在这里，在这里慢慢成长，我的初恋，我的爱人，我的朋友，我的骄傲和低沉，幸福与悲伤，我读过的第一本书、修好的第一台电器，亲吻过的第一个女人，并肩过的第一个战友，都在这里。”\n\n    “这里就是我的家乡，我很爱它。”\n\n    “联邦是我的家乡，我却是个帝国人，于是我将离",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "球，看着我的童年和过往，一想到明天清晨醒来时，我再也看不到联邦的土地，心情便有些迷惘，但这或许正是我命运的转折。”（注）\n\n    “别了，联邦。”\n\n    ……\n\n    ……\n\n    不知道有多少人看到了这封信，不知道看到这封信的联邦民众此时所表现出来的嘲讽辱骂愤怒情绪，在很多年后会不会变成",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "求公平，却对那些无辜死去的人不公平，用不公平的方法追求到的公平，能是真正的公平吗？”\n\n    “我从来都不曾喜欢过那些大家族，当从东林逃亡到首都星圈后，我曾经和他们战斗过，而我的朋友施清海则是一直在和他们战斗，但这个故事开始的时候，他甚至连暗杀这种方式都不同意。\n\n    “为什么？因为他认为这是",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 336,
+  "chapter_title": "第一百四十二章 鸽子汤（上）",
+  "filename": "ch_0336_第一百四十二章 鸽子汤（上）.txt",
+  "char_count": 3417,
+  "timestamp": "2026-04-10T12:11:21.746894",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "你今天究竟怎么这么神不守舍的？”\n　　曾静夫人勉强一笑，没有解释，因为她确实无法解释，她自己都不明白为什么越看那名小侍女越觉得亲切，心中的疼惜感觉越来越浓。\n　　皇后娘娘聚众人闲话饮茶，却有位很不起眼的小侍女夹杂其间，而且还是坐在公主殿下身旁，不免引起众夫人心中很多疑惑，待茶盏换了两道水后，终于宰相",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "人。”\n　　曾静夫人低着头看着伸出袖口的手指数了半晌，才算清楚她今年约摸是要满十五岁，微微一怔后感伤说道：“如果我那孩子活到今天，也便像你这般大。”\n　　此时殿内的贵妇都与皇后娘娘亲近，当然知道天启元年长安城里那场沸沸扬扬的悍妇杀妾灭子事件，听着这话不由纷纷向曾夫人投去安慰的目光。\n　　皇后娘娘和声",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "确实无法解释，她自己都不明白为什么越看那名小侍女越觉得亲切，心中的疼惜感觉越来越浓。\n　　皇后娘娘聚众人闲话饮茶，却有位很不起眼的小侍女夹杂其间，而且还是坐在公主殿下身旁，不免引起众夫人心中很多疑惑，待茶盏换了两道水后，终于宰相夫人忍不住问了出来，皇后娘娘微微一笑，简单地介绍了一下桑桑。\n　　夫人们",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "人投去安慰的目光。\n　　皇后娘娘和声安慰了她几句。\n　　曾静夫人看了对面案后的小侍女一眼，微苦一笑，心想自己大概是太过思念早年前死去的那个女儿，今日见着与她年岁相仿的小姑娘竟是有些失态，实是不该。\n　　世间有很多事情一旦动心动念，便很难用别的方式把它抹除掉，正如曾静夫人对桑桑那种无来由的怜惜感觉，她",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "是沉默低头看着自己的裙摆和鞋子。\n　　她察觉到这位夫人是故意把鸽子汤泼到自己身上的。\n　　因为在那一瞬间，她看的很清楚，夫人端着汤碗的手指很用力，根本不会滑。\n　　桑桑没有生气，因为那碗鸽子汤明显在帘外放了很久，早已温冷不烫，别说泼到身上，就算是泼到脸上也不会造成任何伤害，而且她感受不到这位夫人的恶",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "位大学士夫人是真的很想与桑桑同行，只是她究竟为什么要这样做？难道说皇后娘娘终于认清楚了书院入世的重要意义，决定绕着弯来接近宁缺？\n　　想到这些事情，她决定拒绝对方谦卑的请求，微笑说道：“桑桑不爱与生人相处。”\n　　这是真话，桑桑的性情注定了她不愿意和人打交道，两年间若不是经常来往，便是李渔也很难走进",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "时候很像，所以他叫我桑桑。”\n　　“你家少爷是在哪里拣的你呢？”\n　　“河北郡，具体地方他忘了，出岷山我们还去找过一次，但那时候田里已经长了青苗，剥皮无叶的桑树死了又长出了很多别的树，所以认不出来。”\n　　今夜的长安城灯火通明，游人如织，观灯的人们把去往东城的街巷堵的严严实实，纵使是文渊阁大学士府上",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "样旁敲侧击，还是无法得到她想要的答案。\n　　路途再如何遥远，也总有走到的那一刻。\n　　大学士府的马车缓缓停在临四十七巷巷口。\n　　桑桑下车时极有礼貌地对曾静夫人行了一礼。\n　　曾静夫人怔怔看着铺门前那个纤瘦的身影，不知为何心头一酸。\n　　她现在根本无法确认任何事，甚至知道自己可能是在痴心妄想，然而一",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "皇后娘娘和声安慰了她几句。\n　　曾静夫人看了对面案后的小侍女一眼，微苦一笑，心想自己大概是太过思念早年前死去的那个女儿，今日见着与她年岁相仿的小姑娘竟是有些失态，实是不该。\n　　世间有很多事情一旦动心动念，便很难用别的方式把它抹除掉，正如曾静夫人对桑桑那种无来由的怜惜感觉，她想说服自己只是心系",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "肉已经薰好不用人在旁边看着，自己留在老笔斋也没有事情做，于是她点了点头。\n　　……\n　　……\n　　几日后，文渊阁曾静大学士府上来了一位奇怪的客人。\n　　之所以奇怪，是因为那位客人是名小侍女。长安城那么多座王公大臣府邸，从来没有听说过有谁家会把一个小侍女当成正经的客人，所以当管家领着小侍女向后园深处走",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，桑桑的性情注定了她不愿意和人打交道，两年间若不是经常来往，便是李渔也很难走进她的世界，何况是她以往从来没有见过面的大学士夫人。\n　　然而就在这时，一直安安静静站在李渔身旁的桑桑忽然说道：“可以。”\n　　……\n　　……\n　　“你叫桑桑？”\n　　“嗯。”\n　　“这个名字倒有趣。”\n　　“还行。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

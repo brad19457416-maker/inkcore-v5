@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 760,
+  "chapter_title": "第一百二十三章 一夜长大或腐朽（下）",
+  "filename": "ch_0760_第一百二十三章 一夜长大或腐朽（下）.txt",
+  "char_count": 3803,
+  "timestamp": "2026-04-10T12:05:17.562381",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "在道将军。\n\n    李在道没有说话，端起面前的茶杯轻轻啜了一口。\n\n    “国防部的调查没有什么危险性，但有一件事情我必须告知诸位，协会的档案室前天被人入侵，似乎某些人对那里面的东西很感兴趣。”崔聚冬忽然开口说道。\n\n    “是谁？”\n\n    “现在的嫌疑对象叫施清海，一名青龙山的间谍，非常",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "流，我们将要迎接一场宏大的庶民的胜利。”\n\n    西林落日州，纬二区老宅。\n\n    正在经历人生第一次初潮的钟烟花小姑娘，完全没有了先前自诩的冷静，她蜷缩在沙一角，身上搭着件厚厚的毛毯，因为小腹的阵阵疼痛而小脸苍白，可怜兮兮，这才知道原来并不能指望书本知识和智商就能应对人生的每一道关口。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "历史轨道上，伴随着战争而迅强大，并且开始逐渐展露自主意志，趋向激进的联邦军队，本应该在这两位颇具学者风度的大佬控制下，平稳而缓和地进入下一个时代，然而如今看来，似乎现实并不如此。\n\n    第二天覆盖着军旗的黑棺被专机运回了费城，李在道却出人意料地没有回去，而是乘坐专车前往都特区北城的陆军会议中心。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "有宇宙最粗神经的许乐也很不冷静，幸亏当时正在通电话的商秋，听到了那声尖叫，然后在他的恳求下以最快的度来到了钟家老宅。\n\n    商秋这时候正在厨房里忙碌，按照工程师的职业习惯，她用量杯精确烹煮红糖水，用卡尺和眼睛计算小女孩儿需要多大型号的女性用品，极有条理地安排着一切事情。\n\n    将一切处理完后",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "义潮流，我们将要迎接一场宏大的庶民的胜利。”\n\n    西林落日州，纬二区老宅。\n\n    正在经历人生第一次初潮的钟烟花小姑娘，完全没有了先前自诩的冷静，她蜷缩在沙一角，身上搭着件厚厚的毛毯，因为小腹的阵阵疼痛而小脸苍白，可怜兮兮，这才知道原来并不能指望书本知识和智商就能应对人生的每一道关口。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "被烙上丑陋的印记，也许会被那些文人轻佻地批评为盲日激进的殉道者，但只有你我才清楚，我们在做什么，我们为什么这样做。”\n\n    “诸位，一个新的时代正在我们面前缓缓拉开帷幕，联邦迎来了有史以来最好的变革良机。我们要做的，就是为了联邦而用力地抓住这个机会，并且毫不动摇。”\n\n    拜伦副总统继续平静",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "的退让。”\n\n    “我赞同李将军的表态。”\n\n    拜伦副总统双手扶着桌子，有些困难地站起来，自嘲地摸了摸滚圆的肚子，望着会议室内诸人平静说道：“诸位，我们不是无恶不作的罪犯，我们也不是不惜一切代价谋求利益的商人，我们只是一些想替联邦做些实在事的人。”\n\n    副总统的表情凝重起来，沉声说道",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "野，他是有才干的人，与帝国的战争需要他贡献能力，而且这容易引起那位夫人的猜疑。”\n\n    会议室内众人若有所思，缓缓点头。\n\n    “邹部长或许不能成为我们的同路人，但联邦需要他。”李在道低头继续说道：“诸位，我们不是阴谋家，尤其事涉联邦根本利益的地方，我们甚至应该做出主动的退让。”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "我们也不是不惜一切代价谋求利益的商人，我们只是一些想替联邦做些实在事的人。”\n\n    副总统的表情凝重起来，沉声说道：“在历史上我们或许会被烙上丑陋的印记，也许会被那些文人轻佻地批评为盲日激进的殉道者，但只有你我才清楚，我们在做什么，我们为什么这样做。”\n\n    “诸位，一个新的时代正在我们面前",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的亲自碰头。时间对于这些大人物来说非常宝贵，对那位刚刚举行完葬礼的老爷子表示了最诚挚的哀悼和慰问后，马上进入了正题。\n\n    “按照五年规划，我们一直在试图影响议会的三级选举，但现在的情况回馈并不太好口那些家族和政治流派对于议会的操挖力度太大，在媒体这条线上，他们拥有的能量也相当惊人，所以我们提出",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "啪的一声立正敬礼。\n\n    会议室内所有人都站了起来，最后是坐在正中间那位慈眉善目的胖老头儿，此人缓缓起身，用力握住李在道的手，沉声说道：“请保重身体。”\n\n    “如同父亲曾经说过的那样，为了联邦，我们应该锻炼身体，争取健康的工作更多年。”\n\n    李在道握着他的手，说道：“副总统阁下，我一",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "估计也顶不住太久，这才是我关心的重点。”\n\n    “许乐上校看样子已经放弃对此事的追查，我们还需要担心什么？”选举委员会的大人物下意识要看了一眼安静的李在道将军。\n\n    李在道没有说话，端起面前的茶杯轻轻啜了一口。\n\n    “国防部的调查没有什么危险性，但有一件事情我必须告知诸位，协会的档案",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "人都足以在某些方面影响联邦大局。\n\n    宪章局代局长崔聚冬站了起来，伸出双手握住他的手，轻声诚恳说道：“请节哀……”\n\n    第二军区副司令站了起来，啪的一声立正敬礼。\n\n    会议室内所有人都站了起来，最后是坐在正中间那位慈眉善目的胖老头儿，此人缓缓起身，用力握住李在道的手，沉声说道：“请",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "逐渐展露自主意志，趋向激进的联邦军队，本应该在这两位颇具学者风度的大佬控制下，平稳而缓和地进入下一个时代，然而如今看来，似乎现实并不如此。\n\n    第二天覆盖着军旗的黑棺被专机运回了费城，李在道却出人意料地没有回去，而是乘坐专车前往都特区北城的陆军会议中心。\n\n    铁门处并宪兵举枪齐胸，向将军",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "变成长胜十七师的师长，再变成威震宇宙的的联邦军神，他所承受的荣光与压力与日俱增，然而非常遗憾的是，他从来没有办法在战场上展现出与这种荣光压力相衬的能力。\n\n    如果换成别的二代人物，在这种完全可以令人疯狂的失落感压榨下，或许会自暴自弃甚至可能变的癫狂放纵。\n\n    但李在道没有，他很平静地接受",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

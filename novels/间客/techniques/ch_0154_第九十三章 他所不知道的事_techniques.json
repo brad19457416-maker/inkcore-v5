@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 154,
+  "chapter_title": "第九十三章 他所不知道的事",
+  "filename": "ch_0154_第九十三章 他所不知道的事.txt",
+  "char_count": 3372,
+  "timestamp": "2026-04-10T12:04:45.665041",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "古怪的黑梦究竟是怎么回事。如果说这些事情的发生，和自己颈后地芯片有关，那他就必须弄明白这块伪装芯片的秘密。联邦在这方面最顶尖地地方，就是联邦科学院以及果壳机动公司，\n\n    今天他的表现以及事后造成的轰动，与他一直以为保持的行事作风完全相背。因为他知道在像果壳机动公司这样的尖端企业之中，以他的能力",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "这名白发老人家走进会议室时，数十名考生，还沉浸在听到许乐名字所带来的震惊中，忽然听到这么大的声音，众人好奇地望了过去，不知道这位突然出现在果壳机动公司会议室的长者，为什么会喊出许乐的名字？\n\n    有些考生甚至开始猜想，是不是许乐先前在考试中作了弊，此时被公司查出来了？也对，如果不是作弊，这个蹲",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "数十名考生，还沉浸在听到许乐名字所带来的震惊中，忽然听到这么大的声音，众人好奇地望了过去，不知道这位突然出现在果壳机动公司会议室的长者，为什么会喊出许乐的名字？\n\n    有些考生甚至开始猜想，是不是许乐先前在考试中作了弊，此时被公司查出来了？也对，如果不是作弊，这个蹲坑兵出身的旁听生，怎么可能通过",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "吓住了。年轻人去那种死气沉沉地地方。保准你三天就想调出来，而且我看过周教授的推荐信。你的动手能力才是最强的，工程部才是最适合你的部门。”\n\n    此时会议室里的人都已经傻眼了，尤其是台上那几名考官更是苦笑不已，哪里会想到今年的春季招募，居然惊动了公司里的两大部门，最关键的是，这两大部门居然为了一个",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "就是联邦科学院以及果壳机动公司，\n\n    今天他的表现以及事后造成的轰动，与他一直以为保持的行事作风完全相背。因为他知道在像果壳机动公司这样的尖端企业之中，以他的能力，根本谈不上藏拙，要在无数优秀的同行之中爬升，要在极可能短的时间内。接触到联邦的技术核心。他必须全面地发挥自己的能力。\n\n    只",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "钟楼街背后，和维子他们一起玩的，自从认识了封余大叔，开始修理家电之后，就再也没有踢过了。\n\n    来到停车场区，许乐按动了手中的钥匙，不远处一辆黑色的汽车自动点火，发出轻微的呜鸣欢迎声。他看了一眼停车场上方写的字样。忍不住笑了笑，想起了那个在区里结识的年轻人。\n\n    黑色地汽车没有任何标志，是",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "事主管何塞先生眉头皱了起来，一言不发，狠狠地瞪了两眼身旁的秃顶考官。\n\n    那位秃顶考官愁眉苦脸说道：“何主管，研究所最近也急缺人手，尤其是这位，这两天一直在人事部呆着骂娘，不是我故意透露，考核的成绩他肯定看见了。”\n\n    这时候一名考官向会议室里的考生介绍道：“这位是本公司研究所的沈教授。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "甚至有些是联邦科学院的数据库中都没有的东西，而且这些图片也不是大叔留在芯片中，而是一个伟大的庞然数据存在，为了唤醒昏迷中的他，而采用的第二类联系方式。\n\n    他所不知道的是，他是这个宇宙中运气最好的逃犯小＿说txt天'堂",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "椅上，许乐闭着眼睛，似是要睡着了。进入果壳机动公司。一方面是因为这是他一直以来的理想以及向某人承诺的将来。更重要的原因，是因为他需要解决一些十分困扰他的问题。\n\n    他脑子里地那些画面太奇怪了，有很多张结构图根本不知道是什么用途，今天在考核之中，找到了一张极为类似地结构图。令他坚定了自己的决心。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "名考生，还沉浸在听到许乐名字所带来的震惊中，忽然听到这么大的声音，众人好奇地望了过去，不知道这位突然出现在果壳机动公司会议室的长者，为什么会喊出许乐的名字？\n\n    有些考生甚至开始猜想，是不是许乐先前在考试中作了弊，此时被公司查出来了？也对，如果不是作弊，这个蹲坑兵出身的旁听生，怎么可能通过考核",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "暗的灯光下紧握着扶手，心里的感觉有些异样，临海体育馆地下停画场地碎尸血水机甲，一直是他脑海中一段比较压抑的记忆。\n\n    自动履带式通道。带着他的身体在停车场里前行，他眯着眼睛想着，最后一次踢足球还是什么时候的事了？好像是六七年前在钟楼街背后，和维子他们一起玩的，自从认识了封余大叔，开始修理家电之",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "个时地目光，不禁有些复杂，这一切都是因为站在周玉身边的那个家伙地缘故。\n\n    一头金发的朴志镐，缓缓走到第一军事学院众人面前，先对周玉微微颌首打了个招呼，然后死死地盯着长相普通的许乐，沉默片刻后问道：“我依然不明白，研究所和工程部是因为什么看中了你。”\n\n    安达厌恶地看了这人一眼，粗声粗气",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "绝的智慧果实与研究成果。只是这个高高在上，地位尊崇的研究所，向来只是与各大院校的教授们签订合作协议，从来没有听说过经由人事部门进行招募。这位老教授怎么会忽然出现在会议室？\n\n    “谁是许乐？”研究所来的沈教授，根本没有理会那位考官的介绍，也没有理会何塞主管地眼光，对着台下的考生们大声喊道。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 137,
+  "chapter_title": "第七十六章 伪劣产品害死人？",
+  "filename": "ch_0137_第七十六章 伪劣产品害死人？.txt",
+  "char_count": 3373,
+  "timestamp": "2026-04-10T11:53:35.151498",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "抖已经能够被他成功地控制在皮肤之下。当他熟睡或昏迷时。依然在不停地自我运行着。\n\n    这是许乐地秘密。而不是癫痫所引发地病症。\n\n    不顾医院专家们地劝阻。他坚持去除了夜晚睡眠时所有地监控设备。拔掉了身上所有地电极。不然如果真被别人发现了自己肌原纤维痉挛地真正原因。不知道会引出多大地麻烦来。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "有地监控设备。拔掉了身上所有地电极。不然如果真被别人发现了自己肌原纤维痉挛地真正原因。不知道会引出多大地麻烦来。\n\n    这些天。许乐一个人孤独而沉默地对抗着眼眶里地画面。他告诉自己。这一切都是幻觉。吓不倒我……\n\n    然而渐渐习惯了这种随着意志出现的画面后，就算不是幻觉。他也有些麻木了，毕竟",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "块皮肤。\n\n    他沉默许久之后，确认应该是这块芯片出了什么问题。当自己体内那股热流化为巨大的能量爆发出来后，让这块芯片受到了某种损害，受损芯片不受控制释放出来的脉冲或是电流，让自己的大脑皮层出现了异常放电，才会让自己在昏迷后进入了那个奇怪的黑色梦中，并且深刻地烙印在了自己的脑海里，才会让那些画面",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "也没有复发过，至少医生再也没有听到铃声，听到他自己报告再次出现幻觉。\n\n    虽然事实上幻觉一直都存在。\n\n    当结构图变成了矿坑的图画时，许乐便知道事情大了，这绝对不是什么癫痫，这些像神迹一样出现在自己眼前的画面，好像是有意识一般，能够随着自己强烈的情绪意愿而出现消失。\n\n    许乐那时在",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "院见面。\n\n    然而就在他想给张小萌打电话，确认对方什么时候能到京州时，他的手机却收到了一个来自陌生号码的短信。\n\n    “我是二十七杯酒，小心张小萌。　小说-txt天堂",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "时间拖延了许久，直到前几天，许乐对于大脑异常发电，所造成的诡异现象麻木了，而且确实压抑不住对张小萌的思念，两个人才约好了，十四号那天在医院见面。\n\n    然而就在他想给张小萌打电话，确认对方什么时候能到京州时，他的手机却收到了一个来自陌生号码的短信。\n\n    “我是二十七杯酒，小心张小萌。　小说",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "难道要从手镯里重新换一块芯片，再次开始全新的人生？可是大脑受的损害已经成了现实，再换芯片有用吗？自己将来会不会因为大脑的异常放电变成真正的白痴？虽然不是癫痫，但好像现在的状况比癫痫更可怕！\n\n    许乐盯着雪白的天花板，五官痛苦地微微扭曲，在心里不停地对封余大叔咒骂，伪劣产品害死人啊。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "想到了被医院监控到地所谓“肌肉痉挛”是什么意思。那是体内那股力量在自我进行修复。也就是许乐无比熟悉地颤抖。只不过那些颤抖已经能够被他成功地控制在皮肤之下。当他熟睡或昏迷时。依然在不停地自我运行着。\n\n    这是许乐地秘密。而不是癫痫所引发地病症。\n\n    不顾医院专家们地劝阻。他坚持去除了夜晚睡",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "医生们啧啧称奇，如果不是知道这位病人的来历有些古怪，背景有些惊人，他们或许真会动请许乐配合他们研究的念头。\n\n    那些插在许乐身体上的管子早就已经拨走，不过入院一个月的时间，那些军用枪械在他身体上留下的贯穿伤，便基本上好了，毕竟没有伤到骨头，那些被高速旋转弹头撕裂烧焦的肌肉纤维，已经修复如初，只",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "林大区。于是，那幅从宇宙中俯瞰东林星矿坑的图画。便出现在了他的眼前。\n\n    夜半无人时，许乐强行压抑下心中的恐惧与不安，沉默地再次进行了很多次实验，发现随着自己地意愿足够强烈，便会有和自己意愿相关的一些画面出现在眼前，比如那山、那狗、那女人。\n\n    大脑皮层灰质神经元地异常放电。是绝对不会受",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "在眼前，比如那山、那狗、那女人。\n\n    大脑皮层灰质神经元地异常放电。是绝对不会受到意愿控制地。从来没有听说过癫痫病人。可以像调取资料库一般。让自己脑子里地放电按照自己地想法来……除非他在吸毒。\n\n    究竟发生了什么事情？许乐沉默地想了很多天都没有想明白。既然确定了不是癫痫所引起地幻觉。他再",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "某种损害，受损芯片不受控制释放出来的脉冲或是电流，让自己的大脑皮层出现了异常放电，才会让自己在昏迷后进入了那个奇怪的黑色梦中，并且深刻地烙印在了自己的脑海里，才会让那些画面出现在自己的眼前……\n\n    可问题是，难道说芯片里面本身就存储着那些东西？自己究竟应该怎样摆脱这种局面？难道要从手镯里重新换",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "novel": "将夜",
+  "timestamp": "2026-04-10T12:11:34.978479",
+  "progress": {
+    "total": 50,
+    "processed": 50,
+    "failed": 0
+  },
+  "statistics": {
+    "categories": {
+      "character": 9,
+      "scene": 33,
+      "emotion": 3,
+      "pacing": 1,
+      "plot": 46,
+      "theme": 8
+    },
+    "top_techniques": [
+      [
+        "环境描写",
+        30
+      ],
+      [
+        "悬念设置",
+        19
+      ],
+      [
+        "高潮爆发",
+        14
+      ],
+      [
+        "危机开场",
+        13
+      ],
+      [
+        "群像描写",
+        8
+      ],
+      [
+        "哲学思辨",
+        8
+      ],
+      [
+        "情绪爆发",
+        3
+      ],
+      [
+        "氛围营造",
+        3
+      ],
+      [
+        "快节奏",
+        1
+      ],
+      [
+        "内心独白",
+        1
+      ]
+    ]
+  },
+  "recent_results": [
+    {
+      "chapter": "第1041章 第五十章 天空与大地之间，是唐小棠",
+      "file": "ch_1041_第五十章 天空与大地之间，是唐小棠.txt",
+      "status": "success",
+      "techniques_count": 16,
+      "techniques": [
+        {
+          "name": "危机开场",
+          "category": "plot",
+          "example": "铁棍落下，便要将小渔生生砸死。\n　　小渔落在地上，脸色苍白，毫无血色，先前涌出的那些红晕，早被当下的危险逼散，但她的眼睛里，却没有太多惧意。\n　　唐小棠神情宁静，似乎也猜到会有别的什么事情将要发生。\n　　果然，有异变发生。\n　　一朵黑色的桃花，忽然在广场的空中盛放。\n　　那朵黑桃并无实质，纯由天地元",
+          "analysis": {
+            "definition": "在文本中使用危机开场技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 3
+        },
+        {
+          "name": "群像描写",
+          "category": "character",
+          "example": "流露出强烈的敌意，更多的却是震撼不解。\n　　她对唐小棠的敌意很好理解，她只是不解，千里颠沛流离，新教众人在道门的追杀下艰难度日，真正倚仗的强者就是唐小棠一人，她是如何撑到现在的？她曾经受的那些伤去了何处？那具小小的身躯里究竟有多少力量？\n　　唐小棠确实很疲惫。\n　　离开临康城后的这些天里，她带着众人",
+          "analysis": {
+            "definition": "在文本中使用群像描写技法",
+            "scenario": "适用于character类场景",
+            "effect": "增强character表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 6
+        }
+      ],
+      "timestamp": "2026-04-10T12:11:34.964832"
+    },
+    {
+      "chapter": "第1042章 第五十一章 他不是一个人",
+      "file": "ch_1042_第五十一章 他不是一个人.txt",
+      "status": "success",
+      "techniques_count": 14,
+      "techniques": [
+        {
+          "name": "危机开场",
+          "category": "plot",
+          "example": "她手里的铁棍变了方向，不再击落，而是横于身前，如大江上著名的风景，那片黑色崖石前的铁栏，把滔滔江水的危险拦在人类身前。\n　　隆庆的拳头落在铁棍上。\n　　啪的一声！已经弯折的铁棍再次从中间弯折，弯的更加厉害，形成一道曲线，似乎只要再被孩童吹一口气，便会真正折断。\n　　唐小棠的胸口也出现了一道曲线。",
+          "analysis": {
+            "definition": "在文本中使用危机开场技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 3
+        },
+        {
+          "name": "群像描写",
+          "category": "character",
+          "example": "声闷响，那里的地面，再次被砸的微微下陷。\n　　脚步声响起，很有节奏。\n　　隆庆从坑底走了出来，出现在众人眼前。\n　　他的脸色有些苍白，唇有些青，身上有些血渍，神情却很平静。\n　　广场上一片死寂。\n　　所有人的目光都落在他的身上，无论是剑阁弟子还是新教信徒，或是西陵神殿方面的神官执事，人们的神情都很震",
+          "analysis": {
+            "definition": "在文本中使用群像描写技法",
+            "scenario": "适用于character类场景",
+            "effect": "增强character表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 5
+        }
+      ],
+      "timestamp": "2026-04-10T12:11:34.966318"
+    },
+    {
+      "chapter": "第1043章 第五十二章 真实地活着",
+      "file": "ch_1043_第五十二章 真实地活着.txt",
+      "status": "success",
+      "techniques_count": 16,
+      "techniques": [
+        {
+          "name": "环境描写",
+          "category": "scene",
+          "example": "此时他终于写完了这篇游记，搁笔于案上，然后对着纸上未干的墨迹吹了几口气，摊开晾晒，正好对着清晨的天空，便是要给天看。\n　　他要让上天看一看这篇游记，他要让上天看一眼游记里记载着的真实的人间，他要上天明白人间究竟想要什么，不想要什么。\n　　隆庆停下脚步，看着案上那些纸，隐隐不安。\n　　叶苏站起身来",
+          "analysis": {
+            "definition": "在文本中使用环境描写技法",
+            "scenario": "适用于scene类场景",
+            "effect": "增强scene表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 8
+        },
+        {
+          "name": "哲学思辨",
+          "category": "theme",
+          "example": "难，也曾和摊贩谈价。\n　　更多年前游历诸国时的体悟，在长安城里才真正开花，所谓勘破生死，才有了真正的意义，他获得了很多，而那些所得，在青峡前随着君陌的一剑，正式破壳而出，又随着临康城里那条陋巷的污水味道渐淡而逐渐成形。\n　　这就是新教教义形成的脉络，总结起来简单，实际上复杂，新教的教义建立在西陵教典",
+          "analysis": {
+            "definition": "在文本中使用哲学思辨技法",
+            "scenario": "适用于theme类场景",
+            "effect": "增强theme表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 4
+        }
+      ],
+      "timestamp": "2026-04-10T12:11:34.967706"
+    },
+    {
+      "chapter": "第1044章 第五十三章 我要看见太阳",
+      "file": "ch_1044_第五十三章 我要看见太阳.txt",
+      "status": "success",
+      "techniques_count": 13,
+      "techniques": [
+        {
+          "name": "环境描写",
+          "category": "scene",
+          "example": "说道：“真实是客观，不依心意而变。”\n　　叶苏指向身后地平线上那轮红色的朝阳，说道：“太阳每天都挂在天空里，落下之后又会再升起来，它可是客观的？”\n　　隆庆说道：“太阳自然是客观的。”\n　　叶苏微笑问道：“那你可曾看过它？”\n　　隆庆正准备应答，忽然皱眉不言，细细想来，他才明白这个问题的真义，生活在",
+          "analysis": {
+            "definition": "在文本中使用环境描写技法",
+            "scenario": "适用于scene类场景",
+            "effect": "增强scene表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 6
+        },
+        {
+          "name": "哲学思辨",
+          "category": "theme",
+          "example": "的那一天，太阳熄灭后，才会真正被人类看到吧。\n　　隆庆明白了叶苏这句话的意思，却不明白这段预言有什么意义，他眯着眼睛，看着天边的朝阳，沉默了会儿，然后摇了摇头。\n　　没有意义的事情不需要想太多，他现在要做的事情，是杀死叶苏，至于那段话是圣人的预言还是疯子的胡言乱语，同样没有意义。\n　　“你马上就会死",
+          "analysis": {
+            "definition": "在文本中使用哲学思辨技法",
+            "scenario": "适用于theme类场景",
+            "effect": "增强theme表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 4
+        }
+      ],
+      "timestamp": "2026-04-10T12:11:34.968642"
+    },
+    {
+      "chapter": "第1045章 第五十四章 漫天黄沙里的告别",
+      "file": "ch_1045_第五十四章 漫天黄沙里的告别.txt",
+      "status": "success",
+      "techniques_count": 14,
+      "techniques": [
+        {
+          "name": "危机开场",
+          "category": "plot",
+          "example": "层叠叠的沙丘，不知多少骑兵被移动的沙流吞噬！\n　　就算没有被吞噬的骑兵，在飞舞的黄沙里也遇到了不尽的危险，到处都能听到凄厉的惨叫，到处都能听到人与战马互相撞击的沉闷响声。\n　　即便是像南海少女小渔这样的知命境强者，竟是也无法抵挡河山盘的威力，那些来自各处道观的神官执事，纷纷毙命，她也昏迷在了黄沙之中",
+          "analysis": {
+            "definition": "在文本中使用危机开场技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 3
+        },
+        {
+          "name": "高潮爆发",
+          "category": "plot",
+          "example": "生。\n　　在书院后山那些有趣而可怕的人物里，范悦是一个相对低调的人，他入门很早，排序很前，却只是洞玄巅峰境界，和李慢慢、君陌完全不是一个层级，三师姐余帘虽说那些年表现的也一直只是洞玄境，但当她把西陵神殿掌教熊初墨打成废物之后，谁都知道那只是表象罢了，而他却是真正的洞玄境。\n　　当然这并不重要，夫子收",
+          "analysis": {
+            "definition": "在文本中使用高潮爆发技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 3
+        }
+      ],
+      "timestamp": "2026-04-10T12:11:34.970135"
+    },
+    {
+      "chapter": "第1046章 第五十五章 熊熊圣火，焚我残躯",
+      "file": "ch_1046_第五十五章 熊熊圣火，焚我残躯.txt",
+      "status": "success",
+      "techniques_count": 13,
+      "techniques": [
+        {
+          "name": "环境描写",
+          "category": "scene",
+          "example": "哭声渐大，渐渐汇成一道洪流，直入天穹。\n　　叶苏忽然说道：“当永夜来临，太阳的光辉将被尽数遮掩，天空与大地陷入黑暗之中，人们将为之欢欣鼓舞，因为那才是真实地活着。”\n　　此时他在火里，承受着痛苦的洗礼。\n　　他平静重复自己的预言。\n　　因为他不想信徒们哭，人们因自己而悲痛。\n　　小院外的那些新教",
+          "analysis": {
+            "definition": "在文本中使用环境描写技法",
+            "scenario": "适用于scene类场景",
+            "effect": "增强scene表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 7
+        },
+        {
+          "name": "哲学思辨",
+          "category": "theme",
+          "example": "被神殿骑兵粗鲁地拦住打倒，一时间哭声震天。\n　　“其实你我都清楚，如最开始的时候我说过的那样……没有意义，你的这些追随者的痛苦，那些女子的哭声，一切都没有意义。”\n　　隆庆看着叶苏说道：“从昨夜到今晨，发生的这些事情没有任何意义，我需要这个结局，你也在等待这个结局，何苦？”\n　　叶苏没有看他，看着场",
+          "analysis": {
+            "definition": "在文本中使用哲学思辨技法",
+            "scenario": "适用于theme类场景",
+            "effect": "增强theme表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 4
+        }
+      ],
+      "timestamp": "2026-04-10T12:11:34.971490"
+    },
+    {
+      "chapter": "第1047章 第五十六章 圣贤从来不寂寞",
+      "file": "ch_1047_第五十六章 圣贤从来不寂寞.txt",
+      "status": "success",
+      "techniques_count": 12,
+      "techniques": [
+        {
+          "name": "悬念设置",
+          "category": "plot",
+          "example": "名以前只能仰望的大修行者，神情平静，全无惧意。\n　　一切都在观主的计算之中――酒徒再如何不安，在发现真相之前，他必然会从昊天的立场出发，帮助道门杀死叶苏。\n　　因为他和屠夫很贪，仿佛是无数代人类贪念的集合，他们不止要永生，还想要永恒，而永恒只能在昊天神国里寻觅，神国没有了，他们怎么办？\n　　事实上，",
+          "analysis": {
+            "definition": "在文本中使用悬念设置技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 5
+        },
+        {
+          "name": "群像描写",
+          "category": "character",
+          "example": "空最深处。\n　　晦暗的天空被照亮了一块区域，不及太阳那般明媚炽烈，却要更真实一些，因为跪在地上的万千人群，都能看清楚那里有什么。\n　　――那里有湛蓝的天空，有晦暗的云，有相对的黑暗和真实的光明。\n　　那片光域忽然再次黯淡下来，迅速回复成原先的模样。\n　　柴堆上的熊熊烈火，已经升腾至半空，仿佛要将天空",
+          "analysis": {
+            "definition": "在文本中使用群像描写技法",
+            "scenario": "适用于character类场景",
+            "effect": "增强character表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 5
+        }
+      ],
+      "timestamp": "2026-04-10T12:11:34.973194"
+    },
+    {
+      "chapter": "第1048章 第五十七章 只恨前路有一人",
+      "file": "ch_1048_第五十七章 只恨前路有一人.txt",
+      "status": "success",
+      "techniques_count": 17,
+      "techniques": [
+        {
+          "name": "高潮爆发",
+          "category": "plot",
+          "example": "感慨，更没有感伤，一直在沉默里反思，在沉默里计算，计算叶苏的死，会对人间的局势造成怎样的影响。\n　　最终她计算的结果是，影响应该偏向书院希望的那方面。\n　　所以她说，叶苏的死讯也可能是好消息，就像那道袅袅升起的炊烟，看着有些寂寥，实际上背后隐藏的是活着需要的烟火味道。\n　　余帘的表现很冷酷，是的，她",
+          "analysis": {
+            "definition": "在文本中使用高潮爆发技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 3
+        },
+        {
+          "name": "环境描写",
+          "category": "scene",
+          "example": "稚，看着约十二三岁，一双乌黑的马尾辫在背篓外的寒风里轻轻摆荡，很是可爱。\n　　数年前在长安，少女跳到天空里斩断一道彩虹，然后抱着李慢慢跳了下来，摔断了双腿，从那之后她便懒得走路，最早的时候只爱坐轮椅，到了荒原便开始坐在唐的身上，哪怕现在伤基本好了，也不肯下来。\n　　她说这样显得自己比较威猛，从很多年",
+          "analysis": {
+            "definition": "在文本中使用环境描写技法",
+            "scenario": "适用于scene类场景",
+            "effect": "增强scene表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 5
+        }
+      ],
+      "timestamp": "2026-04-10T12:11:34.974587"
+    },
+    {
+      "chapter": "第1049章 第五十八章 望天",
+      "file": "ch_1049_第五十八章 望天.txt",
+      "status": "success",
+      "techniques_count": 14,
+      "techniques": [
+        {
+          "name": "悬念设置",
+          "category": "plot",
+          "example": "第五十八章 望天\n　　整整一夜的紧张对峙，对宁缺来说，毫无疑问带来极大的压力，衣裳湿透又被寒风冻硬再被汗湿，不知道重复了多少次。\n　　观主离开了桃山，忽然出现在长安城前，自然令人震撼，但令他感到恐惧的是，对方雪山气海被废，为什么能够复原如初？\n　　是的，虽然",
+          "analysis": {
+            "definition": "在文本中使用悬念设置技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 5
+        },
+        {
+          "name": "高潮爆发",
+          "category": "plot",
+          "example": "削弱，新教却不见得被压制。\n　　这是书院最大的不解，但按照简大家的方式去思考，这却是某种佐证――再往最终的结果推，道门根基被动摇，昊天……会变弱。\n　　这便是结果。\n　　不去理会因果之间的联系，不去思考起始与结局之间的过程，不用猜测观主的用意，只要把眼睛盯着结果，便能接近真实。\n　　观主希望昊天变弱",
+          "analysis": {
+            "definition": "在文本中使用高潮爆发技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 3
+        }
+      ],
+      "timestamp": "2026-04-10T12:11:34.976249"
+    },
+    {
+      "chapter": "第1050章 第五十九章 深渊底，潭水畔",
+      "file": "ch_1050_第五十九章 深渊底，潭水畔.txt",
+      "status": "success",
+      "techniques_count": 19,
+      "techniques": [
+        {
+          "name": "悬念设置",
+          "category": "plot",
+          "example": "自己二人去哪里？\n　　陈七猜到了事情的真相，却更加震撼不解，叶红鱼做为裁决大神官，自然知晓幽阁最大的秘密，那些掌教都不知道的秘密，也只有她能够让整座幽阁都保持沉默，只是她为什么要暗中把自己和由贤放走？\n　　通道终于走到了尽头，黑衣执事按动一块青砖，解除了机关，取出道剑，极为谨慎地拔开前方数株带着致命",
+          "analysis": {
+            "definition": "在文本中使用悬念设置技法",
+            "scenario": "适用于plot类场景",
+            "effect": "增强plot表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 6
+        },
+        {
+          "name": "环境描写",
+          "category": "scene",
+          "example": "衣执事目光暗示的那样，稍后从桃山峰顶跳下来，穿云破雾直接坠落到此间？\n　　桃山峰顶距离地面，仿佛要与天空一般高，绝壁间有无数凶险，深渊底的雾瘴同样也很可怕，无论谁跳下来都必死无疑。\n　　桑桑能够不死，因为她是昊天，宁缺能够不死，因为桑桑跟着他跳了下来，最后在落地的时刻，将他紧紧地抱在了怀里。\n　　叶",
+          "analysis": {
+            "definition": "在文本中使用环境描写技法",
+            "scenario": "适用于scene类场景",
+            "effect": "增强scene表现",
+            "applicability": "网络小说"
+          },
+          "confidence": 0.95,
+          "match_count": 6
+        }
+      ],
+      "timestamp": "2026-04-10T12:11:34.977679"
+    }
+  ]
+}

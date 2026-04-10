@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 399,
+  "chapter_title": "第二百零四章 世间最强的……",
+  "filename": "ch_0399_第二百零四章 世间最强的…….txt",
+  "char_count": 3529,
+  "timestamp": "2026-04-10T12:11:21.805794",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第二百零四章 世间最强的……\n　　裁剪得当的黑色书院院服，在暖意十足的春风中轻轻摇摆，黑发紧束，然后结了个极为简洁干练的髻，脸颊微瘦，较以前清俊些许，宁缺出现在众人眼前时，便是这样的形象，显得格外神清气爽。\n　　观战的人群中自然有很多书院前院的学生，由贤等人，更是与宁缺相",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "暖意十足的春风中轻轻摇摆，黑发紧束，然后结了个极为简洁干练的髻，脸颊微瘦，较以前清俊些许，宁缺出现在众人眼前时，便是这样的形象，显得格外神清气爽。\n　　观战的人群中自然有很多书院前院的学生，由贤等人，更是与宁缺相当熟稔，所以看到那宁缺时，忍不住高声喝彩起来，被这些书院学生的气氛所感染，民众变得更加兴",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "垄内垄外，两个世界。\n　　垄内是战斗的世界，不容打扰。\n　　……\n　　……\n　　书院侧门四周响起一片压抑的惊呼，然后陷入死寂一般的安静中。\n　　官道侧那数十辆马车，也被死寂的气氛所笼罩。\n　　马车里的官家小姐们吃惊地紧紧掩住了唇。\n　　马车里的各宗派修行者们，沉默地看着柳亦青，不知该做如何反应。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "上满是希冀和崇拜的神情，而包括神殿天谕司司座程立雪在内的很多人，脸色变得凝重起来。\n　　为了观看这场战斗，世间各大修行宗派都来了人，除了月轮国白塔寺的苦行僧，因为他们已经被唐帝的一道旨意尽数驱出了国境。\n　　这些修行宗派的人们，对那位本来籍籍无名、却忽然间赢得极大名声的柳亦青很感兴趣，想要知道剑圣柳",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "第二百零四章 世间最强的……\n　　裁剪得当的黑色书院院服，在暖意十足的春风中轻轻摇摆，黑发紧束，然后结了个极为简洁干练的髻，脸颊微瘦，较以前清俊些许，宁缺出现在众人眼前时，便是这样的形象，显得格外神清气爽。\n　　观战的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "银白如雪的发丝，静静看着山坡下的书院侧门，忽然开口问道：“何师兄，你觉得谁会获胜？”\n　　何明池微笑说道：“当然是宁缺。”\n　　程立雪异道：“为何如此笃定。”\n　　何明池说道：“因为他是夫子的学生。”\n　　程立雪骤然明悟，为自己先前的判断而感到有些好笑，说道：“那确实。”\n　　……\n　　……\n　　宁",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "些修行宗派的人们，对那位本来籍籍无名、却忽然间赢得极大名声的柳亦青很感兴趣，想要知道剑圣柳白的弟弟，究竟拥有怎样的境界实力，但他们真正想看的，还是稍后宁缺在这场战斗中的表现。\n　　书院乃是唯一与尘世相通的不可知之地，与西陵神殿遥相抗衡，在隐约了解其余不可知之地的那些人心中，书院的真实顶尖力量，甚至要",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "但如果南晋剑阁的实力随着柳亦青的成长，变得更加强大，那么神殿对剑阁的影响力便会相对变得更加弱小，万一将来主客易位，神殿如何自安？\n　　“原来你竟是剑圣大人藏了多年的一把宝剑。”\n　　程立雪看着远处的柳亦青，声音微涩说道：“如此看来，就算宁缺是夫子的亲传弟子，今日也不可能是你的对手了。”\n　　……",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "服，在暖意十足的春风中轻轻摇摆，黑发紧束，然后结了个极为简洁干练的髻，脸颊微瘦，较以前清俊些许，宁缺出现在众人眼前时，便是这样的形象，显得格外神清气爽。\n　　观战的人群中自然有很多书院前院的学生，由贤等人，更是与宁缺相当熟稔，所以看到那宁缺时，忍不住高声喝彩起来，被这些书院学生的气氛所感染，民众变得",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "有多强大？\n　　世人皆知夫子很高，却不知究竟有多高，有极少数曾经与书院大先生或二先生朝过面，事后均自感慨不已，却未曾有半分细节流露。\n　　数十年来，书院中人竟再也没有在世间展露过自己的锋芒。\n　　之所以如此，是因为轲先生之后，书院再无入世之人。\n　　直到宁缺的出现。\n　　轲先生从人世间消失之后，西陵",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "不敬，哪怕传说中这位强者遭天诛而死，可是即便连西陵神殿也不敢明着对其进行任何指责。\n　　众人远离宗门来到书院，便是想要通过这次难得的机会，亲眼确认书院二层楼的真正实力，而为了避免人世间再出现一位轲先生，他们更想看到书院的失败。\n　　书院史上最弱天下行走的称谓，从西陵神殿道痴之口传出，早已传遍了整个修",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "是宁缺。”\n　　程立雪异道：“为何如此笃定。”\n　　何明池说道：“因为他是夫子的学生。”\n　　程立雪骤然明悟，为自己先前的判断而感到有些好笑，说道：“那确实。”\n　　……\n　　……\n　　宁缺站在石阶上，看着远处那些兴奋的前院同窗，笑了起来，向他们挥了挥手，然后望向侧门旁坐在蒲团上的那个男子。\n　　那",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "所了解的更加强大，一抹忧色渐渐浮上他的眉宇。\n　　西陵神殿当然不希望书院又出现一个轲先生似的人物，但同时他们也不希望南晋剑阁再出一位世间第一强者剑圣柳白。\n　　柳白是神殿首席客卿，南晋也是神殿在俗世里最大的力量，但如果南晋剑阁的实力随着柳亦青的成长，变得更加强大，那么神殿对剑阁的影响力便会相对变得更",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "是战斗的世界，不容打扰。\n　　……\n　　……\n　　书院侧门四周响起一片压抑的惊呼，然后陷入死寂一般的安静中。\n　　官道侧那数十辆马车，也被死寂的气氛所笼罩。\n　　马车里的官家小姐们吃惊地紧紧掩住了唇。\n　　马车里的各宗派修行者们，沉默地看着柳亦青，不知该做如何反应。\n　　他们想到剑圣柳白之所以敢让自",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

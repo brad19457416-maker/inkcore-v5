@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 276,
+  "chapter_title": "第八十二章 入魔（七）",
+  "filename": "ch_0276_第八十二章 入魔（七）.txt",
+  "char_count": 4226,
+  "timestamp": "2026-04-10T12:11:21.726041",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "将剑意化成世间所有道法，这房间里的樊笼便是如此。”\n　　一剑幻化成世间万千道法！\n　　宁缺震惊无语，心想这等境界自己要修多少年才能触碰到？\n　　老僧微笑说道：“遇着这样的人，其实真的很无奈。”\n　　“轲浩然生的不如我好看，骑的那头蠢驴哪及我的座骑神骏，他的脚好出汗所以脱了鞋便臭，却偏生喜欢坐着便去抠",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第八十二章 入魔（七）\n　　忽然间，老僧两缕极长的白色眉毛无风而飘，不是飘然而仙，而是莫名暴躁起来，眼神暴肩，枯瘦手掌用力搓揉着少女的发丝，喝道：“世间哪有道理可讲？”\n　　“我是裁决大神官，曾坐墨玉神座，我是魔宗大祭者，可选宗主，我是佛宗山门护法，可命万僧，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，又哪里有资格和我讨论对世界的改造？”\n　　宁缺沉默片刻后说道：“你既然行遍天下追寻改变世界的方法，为什么始终没有去书院？我想当年的书院应该不会比你曾经学习的这些地方差劲才是。”\n　　老僧沉默很长时间后说道：“书院已经有了一个叫轲浩然的家伙。”\n　　宁缺盯着他的眼睛说道：“所以根本不是改变世界。你只",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "然看破烂柯寺之事，也追了过来，当时我并不为意，总想着集全魔宗之力总能把他杀死，甚至还有些欣欣然于他的来到，准备迎接他的死亡。”\n　　“在那之前我没有和轲浩然交过手，我知道他很强，但我总以为你就算是天下第一强者那又如何？然而我终究还是没有想到他会这么强。”\n　　老僧冷漠说道：“因为他强，所以他胜。这种",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "呆了些时日，才发现西陵神殿全部都是一群怯懦胆小的白痴。”\n　　他忽然低头望去，只见叶红鱼的眼眸已经被愤怒的火焰所占据，心知是嘲讽西陵神殿让这少女感到愤怒，不由微嘲一笑说道：“可怜的孩子，难道这些话不对吗？世间亿万昊天教徒只知神殿不知知守观，桃山上那几座白殿里的坐着的家伙但凡有些勇气有些骨气也应该知道",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "新回到身上，若有所思缓声说道：“不错，这个世界总还是有些道理的，只不过道理的高度不一样。在我看来你我存在于这个世界的方式，便是自身对世界认识方法的集合，当年坟茔一夜苦雨，我便一直在苦苦寻求认识真实世界的本原，最终改变自己存在于世间的方式，最终想要奢望改变这个世界，寻找到那个已经不可能回来的世界。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "个世界的方式，便是自身对世界认识方法的集合，当年坟茔一夜苦雨，我便一直在苦苦寻求认识真实世界的本原，最终改变自己存在于世间的方式，最终想要奢望改变这个世界，寻找到那个已经不可能回来的世界。”\n　　“烂柯寺悟道辩难，西陵神殿掌教叹我妙言如莲，请我替中原正道诸派入魔宗为探，然而他却不知道，我其实从生下来",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "很了不起的人。”\n　　老僧自嘲一笑，说道：“那你可知道轲浩然会多少功法？”\n　　宁缺沉默。\n　　老僧缓缓摇头，说道：“他只会一种。”\n　　宁缺惊讶说道：“一种？”\n　　老僧平静说道：“轲浩然只会使剑，从最开始像孩子打架般的木片剑，到最后一剑破云洞天的剑，都是他的浩然剑。”\n　　宁缺望向房间四周墙壁上",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "你不觉得呼吸极不畅快？人活天地间理所当然就要吃肉，吃猪吃狗吃鸡吃天地，哪有道理可讲！”\n　　宁缺忽然说道：“但这里面并不包括吃人。”\n　　老僧回复沉默，不知道过了多长时间，慈悲的气息重新回到身上，若有所思缓声说道：“不错，这个世界总还是有些道理的，只不过道理的高度不一样。在我看来你我存在于这个世界的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "生的不如我好看，骑的那头蠢驴哪及我的座骑神骏，他的脚好出汗所以脱了鞋便臭，却偏生喜欢坐着便去抠脚，他脾气也不好，就为了一碗红烧肉甚至和夫子对骂了整整三天三夜，就这样一个人，却偏偏世人只看他。与他并肩同游时，世人眼中只有他，无论我做出多少惊天之事，世人眼中还是只有他。”\n　　老僧笑容微涩，抬起左手在胸",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

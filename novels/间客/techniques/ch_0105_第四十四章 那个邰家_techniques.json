@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 105,
+  "chapter_title": "第四十四章 那个邰家",
+  "filename": "ch_0105_第四十四章 那个邰家.txt",
+  "char_count": 3638,
+  "timestamp": "2026-04-10T11:53:35.111390",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "舞会现场又是一阵大哗，人们的目光跟随着张小萌的离去。那道光束也极不识趣地跟随着张小萌的离去。众人本以为这将是梨花大学双月节舞会历史上又一幕将被牢记多年的浪漫故事，但谁也没有想到，故事的女主角竟然就这样沉默地离开了。\n\n    看着随着光束渐行渐远地蓝衣女孩儿，注视着这幕的人们，总觉得自己是在",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "许乐沉默片刻后，望着张小萌露在小礼服外的柔滑双肩，盯着这女孩儿可爱的锁骨，忽然想到了锁清秋这三个字，说道：“我不知道你的秘密，如果你接近邰之源有什么重要而必要的目的，或许我可以帮你转述。”\n\n    “我也不会跳舞。”张小萌垂在腰侧的双手微紧握着，声音有些清淡，“而且和我一起跳舞，会给你带来麻烦。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "真正像普通人一样说话聊天的时间并不多。许乐不知道修束基金会是什么东西，更不知道邰家在联邦中代表着什么意义，他不知道邰之源的历史，但总觉得此时沙发中的邰之源和平时自己夜晚里认识的那个邰之源不是同一个人。\n\n    夜晚的邰之源是一个有些骄傲，有些冷漠，有些无聊的普通少年，而此刻的邰之源，却像是一个天生",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "张小萌露在小礼服外的柔滑双肩，盯着这女孩儿可爱的锁骨，忽然想到了锁清秋这三个字，说道：“我不知道你的秘密，如果你接近邰之源有什么重要而必要的目的，或许我可以帮你转述。”\n\n    “我也不会跳舞。”张小萌垂在腰侧的双手微紧握着，声音有些清淡，“而且和我一起跳舞，会给你带来麻烦。”\n\n    许乐抬起",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，拍了拍走到身前的许乐的双肩，以表示朋友的安慰。中年人望着许乐笑了笑。\n\n    就在这时，一位侍者来到了三人的身前，非常有礼貌地向许乐发出了邀请。乐惊讶地看着身边中年人，问道：“叔叔，你是什么时候上来的？”\n\n    侍者在一旁保持着平静的礼貌，他只是代表少爷发出邀请，至于那些长相难看的中年人是怎",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "力，并不怎么担心自己的安全，反而是说起了另一个话题：“忽然想到，如果邹郁屈服于你的威胁，如果不是忽然出现了这一幕，会不会是张小萌上了二楼？”\n\n    “我不习惯评价业余人士的能力。\\”施清海正视前方，神情平静。\n\n    “不，我很欣赏麦德林同志的安排。”中年人微笑说道：“越是业余，越容易成功……",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的叔叔向里走去。这是一间极大的套房，地面上铺着仿毛地毯。四周的摆设家具颇有古意，看不到太多现代的电子风格，一垂帘，一盏灯，都显得那些地雅致。\n\n    就在套房的最深处。一张极大的沙发上，坐着一个面色微白地年轻人。或者称他为少年更合适一些，因为每次许乐看见他的时候，总觉得他地身体非常虚弱，身材有些瘦",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "走。他转过头，温和笑着望着许乐说道：“重新认识一下吧，许乐，我叫邰之源。”\n\n    场间的气氛终于轻松了些，许乐笑着说道：“我当然知道，我也猜到你家里肯定挺有钱，但没想到有钱到这种程度……我听说过修束基金。”\n\n    “不过我想，你肯定不知道我真正的身份。”邰之源看着他平静说道：“修束基金只是给",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "搞什么气氛！”\n\n    这句话里的情绪很不对劲，有一种掩藏在平静之下地怒意，光束似乎也感到了害怕，瞬间熄灭。整个大厅陷入了黑暗。只有头顶不知多少万公里之外的那一对明亮圆月，将清晖洒了下来。\n\n    灯光重新亮起。优美的舞曲再次响起，梨花大学的双月节舞会再次继续，侍者端着酒杯与食物恭谨地穿行其间，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "他身旁的中年人望着越来越近的许乐，微微一笑。这位**军的间谍头目很相信老鹰的办事能力，并不怎么担心自己的安全，反而是说起了另一个话题：“忽然想到，如果邹郁屈服于你的威胁，如果不是忽然出现了这一幕，会不会是张小萌上了二楼？”\n\n    “我不习惯评价业余人士的能力。\\”施清海正视前方，神情平静。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "第四十四章 那个邰家 \n\n    不是所有故事都有美好的结局，不是每个童话的最后，王子公主都会永远地幸福生活在一起。】今天双月节舞会两束银月光束下，相对无言的这一对男女，本身就不是什么王子和公主，而且他们之间的故事有些复杂，上苍在刻意制造名为误会和不巧的障碍，最最关键的是，他们本身就是行走在不同人生",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

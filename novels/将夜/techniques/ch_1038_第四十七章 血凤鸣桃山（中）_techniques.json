@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1038,
+  "chapter_title": "第四十七章 血凤鸣桃山（中）",
+  "filename": "ch_1038_第四十七章 血凤鸣桃山（中）.txt",
+  "char_count": 3732,
+  "timestamp": "2026-04-10T12:11:34.958544",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "面缓慢地碾压过来。\n　　裁决神殿里那道霸道、不可阻挡的力量，变得更加清晰而直接。\n　　熊初墨的手掌，最终破开了叶红鱼最后残留的剑意，扇开那些圣洁的光焰，落到了她的肩上，实实在在地印了下去！\n　　噗的一声闷响。\n　　叶红鱼的右肩处衣料尽碎，露出赤裸的肌肤。\n　　她的肩在炽热的光焰与恐怖的力量里，依然溢",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "“奉天斩！”\n　　他是西陵神殿之主，他的声音便是雷鸣。\n　　深夜的桃山，雷鸣响彻峰巅谷底，震醒大地泥土深处冬眠的生物，惊了夜穹里那些不再挤出雪花的厚云，直至来到夜穹深处不知方位的神国。\n　　夜穹向着地面缓慢地碾压过来。\n　　裁决神殿里那道霸道、不可阻挡的力量，变得更加清晰而直接。\n　　熊初墨的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "熊初墨站在神辉之前，无情地扼住那只火凤的咽喉，炽热的道殿里回荡凄厉的鸣啸――那啸声越来越厉，越来越愤怒，越来越痛苦。\n　　火凤愤怒地挣扎！\n　　无数炽白的光浆从它的身体上剥落，落在地面，点燃一片无源的火海，那道肃杀的剑意，隐藏在它的身体里，不停暴发！\n　　熊初墨脸色骤然苍白，神情却依旧漠然，瘦矮的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，她的眼神还是那般的漠然。\n　　修道如痴，难道真的能痴狂到无视生死？\n　　下一刻，熊初墨才明白叶红鱼为什么如此平静。\n　　因为她不会让他的手掌像当年那样，如此轻易地落在自己的身体上。\n　　她的右肩上绽开一道伤口，就如身躯上别的地方一样，鲜血淋漓，裁决神袍四裂，然而就在血水之下，在伤口深处，有金线闪耀",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "火凤来的如此之快，快到前无来者。\n　　他的动作如此缓慢，却抢在了火凤之前。\n　　他的神情凝重，手指也沉重到了极点。\n　　知其，守其，为天下溪。\n　　知守观绝学，天下溪神指。\n　　中年道人的天下溪神指，比起当年的陈皮皮，不知高出多少层次。\n　　一指出，天下皆宁！\n　　裁决神殿里熊熊燃烧的昊天神辉，仿佛",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "断，不可绝。\n　　嗤的一声轻响，熊初墨将要触到她肩头的食指上，多出了一道细细的红线，血水从线里溢出，瞬间便见白骨森然，然后断绝。\n　　熊初墨的食指，如熟透的果实般，落下枝头。\n　　熊初墨的脸色变得异常苍白，眼瞳深处，涌出无尽的痛楚。\n　　他瘦削的脸庞上，涌现出无尽愤怒。\n　　然后，瞬间尽数归为平静。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "残破的裁决神袍，如枯叶般卷起，裹住她的身躯。\n　　一丝剑意，都不再泄出。\n　　甚至连生机都不复存在。\n　　前一刻，还像是一把剑的她，这一刻，变成了无知无识的顽石。\n　　就像是多年前，魔宗山门外明湖底那些布满青苔的顽石。\n　　那些顽石上刻着两道剑痕。\n　　更多年前，那些剑痕是轲浩然留下的。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "剑意被熊初墨的手掌生生拍碎！无数细碎的剑意，激射而飞，尽数落在了叶红鱼的身上，血红色的裁决神袍上，出现无数裂口，里面隐隐有血水渗出。\n　　这便是恐怖的反噬。\n　　叶红鱼的脸色很苍白，眼眸深处的星辰流失灭亡的过程，骤然加速。\n　　血红色的右袖在天启的力量之前，尽数化作虚无，露出她如玉般的手腕，剑意已",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，炽热的道殿里回荡凄厉的鸣啸――那啸声越来越厉，越来越愤怒，越来越痛苦。\n　　火凤愤怒地挣扎！\n　　无数炽白的光浆从它的身体上剥落，落在地面，点燃一片无源的火海，那道肃杀的剑意，隐藏在它的身体里，不停暴发！\n　　熊初墨脸色骤然苍白，神情却依旧漠然，瘦矮的身躯，在那道磅礴力量的加持下，仿佛天神般威严无",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "深夜的桃山，雷鸣响彻峰巅谷底，震醒大地泥土深处冬眠的生物，惊了夜穹里那些不再挤出雪花的厚云，直至来到夜穹深处不知方位的神国。\n　　夜穹向着地面缓慢地碾压过来。\n　　裁决神殿里那道霸道、不可阻挡的力量，变得更加清晰而直接。\n　　熊初墨的手掌，最终破开了叶红鱼最后残留的剑意，扇开那些圣洁的光焰，落到",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "昊天的一条狗？\n　　有人试图做出解答，但那些答案都是猜测，熊初墨依然站在万丈光幕之后，无比强大，扼住命运和火凤的咽喉，令人觉得不公的继续无敌。\n　　熊初墨的巨掌继续前移，桃山上方的夜穹，随着他的动作，仿佛也向地面靠近了一分，一道难以想象的巨大力量，拍了下来。\n　　火凤一声凄鸣，光羽四散，那道自它身躯",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "肩之上。\n　　瞬息间，他想起很多，回忆起很多，眼神微变，眼瞳更深，如豆，如豆般的油灯，有些幽幽，有些满足，有些贪，有些叹。\n　　掌落，她便死了。\n　　即便她是叶红鱼，被昊天的力量击实，也必然要死。\n　　唯一令熊初墨有些不解的是，她的眼神还是那般的漠然。\n　　修道如痴，难道真的能痴狂到无视生死？",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 967,
+  "chapter_title": "第一百四十章 杀佛与陈年老坛",
+  "filename": "ch_0967_第一百四十章 杀佛与陈年老坛.txt",
+  "char_count": 3389,
+  "timestamp": "2026-04-10T12:11:27.611084",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "道：“日子，就是毒。”\n　　宁缺懂了，不知该如何回答，沉默片刻后说道：“走吧。”\n　　这一次他没有用疑问句，因为他说的走，不是离开棋盘世界，而是离开小院，或者也要离开朝阳城，他要去给桑桑治病解毒。\n　　就像很多年前那样。\n　　在小院里生活了很多年，自然留下了很多回忆，也有很多家居必备的物件儿，宁缺整",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "能不能帮着看看，写个方子。”\n　　大婶看看桑桑，悲悯说道：“这毒无药可救，不如归去。”\n　　宁缺指着天空，说道：“归不去如何办？”\n　　大婶说道：“死便是解脱。”\n　　“这话倒也有几分道理。”\n　　宁缺笑着说道，然后抽出鞘中铁刀，砍向菜摊后的大婶。\n　　菜摊上堆满了青菜，菜叶上满是露水，看着很是新鲜",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "情微变，牵着桑桑的手，向街那头奔去。\n　　他的速度非常快，根本没有时间回头去看燃灯古佛是生是死，只是拼命地奔跑，直到跑到长街尽头，才停下脚步。\n　　桑桑的脸色很苍白，眉头皱的极紧，似极痛苦。\n　　看着她繁花青衣下摆上的那滴金液，宁缺才知道，还是没有避过。\n　　“下次站到我身后，佛光便落不到你身上。”",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "话，只是看着他微微笑，左手拿着根山药，右手拿着把细芹菜，两样都是菜，也是药。\n　　宁缺忽然笑了出来，说道：“难道您就是传说中的药师佛？”\n　　大婶微笑说道：“不错。”\n　　宁缺想了想，说道：“药师佛能治病，我家娘子患了重病，应该是中了毒，不知道您能不能帮着看看，写个方子。”\n　　大婶看看桑桑，悲悯说",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "”\n　　宁缺指着天空，说道：“归不去如何办？”\n　　大婶说道：“死便是解脱。”\n　　“这话倒也有几分道理。”\n　　宁缺笑着说道，然后抽出鞘中铁刀，砍向菜摊后的大婶。\n　　菜摊上堆满了青菜，菜叶上满是露水，看着很是新鲜。\n　　按道理，宁缺的铁刀，应该会很轻易地把菜摊劈成两半，把菜叶劈成无数片，把那些露",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "”\n　　宁缺下意识里再次望向遥远的东方，却有隐隐畏惧，说道：“往南走。”\n　　桑桑苍白的脸颊上，忽然出现两抹不健康的红晕，说道：“你要去见她？”\n　　宁缺怔了怔，才明白她在说什么，笑着说道：“这个世界的南边没有大河国。”\n　　桑桑说道：“可你习惯性地要去南边。”\n　　宁缺不解，问道：“所以？”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "菜，菜叶上满是露水，看着很是新鲜。\n　　按道理，宁缺的铁刀，应该会很轻易地把菜摊劈成两半，把菜叶劈成无数片，把那些露珠都劈成湿润的水沫。\n　　但没有。\n　　因为菜摊变成了一片原野，摊上的青菜变成了郁郁葱葱的植物，大婶左手的山药变成了果枝，右手里的细芹菜变成了佛钵。\n　　卖菜大婶变成了真正的药师佛，发",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，显得有些痛苦。\n　　……\n　　……\n　　把卖菜的人都杀了，自然没办法买菜，回到小院，宁缺的心情有些沉重，尤其是想着最后那幕画面，更是不安。\n　　不管是真的药师佛，还是假的药师佛，总之在他和桑桑的面前，就像青板僧变成的掩面佛一样，没有太强的抵抗能力。\n　　但他们死后散发的佛息，对桑桑却似乎能够造成伤",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "光明，照亮身周无数里的原野，彩幡飘动愈疾，原野上的植物快意地生长变高。\n　　宁缺和桑桑站原野间，双腿瞬间被青藤缠住，再也无法离开。\n　　药师佛宣了声佛号，缓缓倾斜手中的佛钵，钵中泛着药香的黑汁淌到地面，化作一条河水，向着宁缺二人扑面而来。\n　　药是用来治病救人的，也可以用来杀人，良药在某些时候，可以",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "板僧变成的掩面佛一样，没有太强的抵抗能力。\n　　但他们死后散发的佛息，对桑桑却似乎能够造成伤害，如果以后再遇到这些佛怎么办？他们必须尽快离开这个世界。\n　　“得想办法把你身体里的毒解掉。”他看着桑桑说道。\n　　桑桑脸色有些苍白，说道：“如果解不了怎么办？”\n　　宁缺不想她焦虑，笑着说道：“解不了毒，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "野，彩幡飘动愈疾，原野上的植物快意地生长变高。\n　　宁缺和桑桑站原野间，双腿瞬间被青藤缠住，再也无法离开。\n　　药师佛宣了声佛号，缓缓倾斜手中的佛钵，钵中泛着药香的黑汁淌到地面，化作一条河水，向着宁缺二人扑面而来。\n　　药是用来治病救人的，也可以用来杀人，良药在某些时候，可以变成最厉害的毒药，闻着药",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "快意地生长变高。\n　　宁缺和桑桑站原野间，双腿瞬间被青藤缠住，再也无法离开。\n　　药师佛宣了声佛号，缓缓倾斜手中的佛钵，钵中泛着药香的黑汁淌到地面，化作一条河水，向着宁缺二人扑面而来。\n　　药是用来治病救人的，也可以用来杀人，良药在某些时候，可以变成最厉害的毒药，闻着药河里的异香，宁缺只觉得胸口一阵",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

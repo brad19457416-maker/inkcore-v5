@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 343,
+  "chapter_title": "第一百四十八章 比刀更重，比箭更快",
+  "filename": "ch_0343_第一百四十八章 比刀更重，比箭更快.txt",
+  "char_count": 3582,
+  "timestamp": "2026-04-10T12:11:21.759308",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "宁缺斟酌着用词，说道：“有些轻了。”\n　　在荒原上他经历了很多场战斗，这三把朴刀帮助他在与马贼群的对峙间收获了很多飞起的头颅，然而当他面对林零、隆庆、叶红鱼以至莲生大师这样的修行强者时，朴刀所能发挥的作用便显得极小，便是上面刻着的符线也用处不大。\n　　和元十三箭以及锦囊比起来，朴刀对他的帮助已经越",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "以说固执，每一步就像尺子量出来那般精确，头上那顶高高的冠帽在微风中不颤一丝。\n　　宁缺看着他的背影，心想二师兄为什么总喜欢在亭子里呆着？\n　　这种问题断然是得不到答案，或者说得到答案也没胆子到处去说去，他耸耸肩，背着沉重的行囊，走进那间雷声火浪终日不歇的打铁铺。\n　　白色蒸汽间，穿着青色学院冬服的四",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "便踏上栈桥向湖心亭走去，姿式稳定甚至可以说固执，每一步就像尺子量出来那般精确，头上那顶高高的冠帽在微风中不颤一丝。\n　　宁缺看着他的背影，心想二师兄为什么总喜欢在亭子里呆着？\n　　这种问题断然是得不到答案，或者说得到答案也没胆子到处去说去，他耸耸肩，背着沉重的行囊，走进那间雷声火浪终日不歇的打铁铺。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“那位可是大师兄认做干妹妹，邀请来长安城玩的，和我可没有什么关系。”\n　　二师兄看了他一眼，寒声说道：“难道她要嫁给大师兄？”\n　　这不是误会而是赤裸裸的嘲笑讥讽，宁缺的脸皮再厚终也是禁不住了，只好学着那些姑娘们的模样，低头看着自己擦出前襟的鞋尖。\n　　“去做你的事吧。”\n　　二师兄说完这句话，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "每一步就像尺子量出来那般精确，头上那顶高高的冠帽在微风中不颤一丝。\n　　宁缺看着他的背影，心想二师兄为什么总喜欢在亭子里呆着？\n　　这种问题断然是得不到答案，或者说得到答案也没胆子到处去说去，他耸耸肩，背着沉重的行囊，走进那间雷声火浪终日不歇的打铁铺。\n　　白色蒸汽间，穿着青色学院冬服的四师兄还坐在",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "很重的刀。\n　　那把刀最好能比唐小棠拿着的那把血色弯刀更大更重。\n　　宁缺看着朴刀细长而熟悉的刀身，压抑住心头的不舍。\n　　“麻烦师兄把这三把刀合成一把。”\n　　……\n　　……\n　　有些师兄在弹琴唱歌，有些师兄在下棋挠头，有位师兄在葬花流泪，有位师姐在窗畔描簪花小楷，读书人还在山洞外读书而没好脾气，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的铁锤。\n　　听着脚步声，二位师兄停下手中的工作，回头望去，发现是宁缺回来了，他们脸上的神情顿时变得激动起来，问道：“箭好不好用？刀呢？”\n　　宁缺本以为二位师兄之所以如此激动是因为与自己久别重逢，没有料到他们竟是连一点嘘寒问暖的意思都没有，只关心他们凝结在刀箭上的心血结晶，不由苦恼一笑，然后深深鞠",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，十几位姑娘从栏边探出头来，兴奋地挥舞着手中的手帕，喊着他的名字。\n　　看着这画面，宁缺不由想起当初第一次进红袖招前所受的调戏嘲笑画面，大乐张开双臂，仿佛要把楼上所有姑娘都抱进怀里，喊道：“我想死你们啦！”\n　　……\n　　……\n　　水珠儿从婢女手中接过热毛巾，搭到他的脸上，恼火说道：“那些浪蹄子以前",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "巾响起：“我时刻欢迎她们把我给吞了。”\n　　水珠儿嘲讽说道：“看来这次出门大半年竟是把心也弄野了，简大家当年说的话还在，谁敢真的吞了你，你就别想这等好事了。”\n　　宁缺从榻上直起身体，擦了把脸，把毛巾扔给婢女，看着水珠儿蹙眉问道：“我说好姐姐，那条禁令到底啥时候能解除啊？”\n　　水珠儿把他推回榻上，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "的问题得不到解答，宁缺根本不敢在书院后山修行，不管是二师兄传授的飞剑，还是七师姐传授的飞针，不然他很担心体内浩然气动，一股黑气从自己头顶喷薄而出直冲云宵，惹来书院某个镇山神兽直接把自己镇了。\n　　所以他在后山里百无聊地逛着，躺在草甸上看了会二师兄那只大白鹅喂鱼后，终于有些呆不下去，直接出了书院坐着马",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "琴唱歌，有些师兄在下棋挠头，有位师兄在葬花流泪，有位师姐在窗畔描簪花小楷，读书人还在山洞外读书而没好脾气，陈皮皮不知道死在了大山里的哪一处，大师兄不知在哪里慢条斯理游山，他想问些重要的问题却找不着人。\n　　因为那个极重要的问题得不到解答，宁缺根本不敢在书院后山修行，不管是二师兄传授的飞剑，还是七师姐",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

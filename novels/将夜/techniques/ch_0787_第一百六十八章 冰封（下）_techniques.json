@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 787,
+  "chapter_title": "第一百六十八章 冰封（下）",
+  "filename": "ch_0787_第一百六十八章 冰封（下）.txt",
+  "char_count": 2354,
+  "timestamp": "2026-04-10T12:11:27.156498",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "莲生，这两个人都是那个年代最巅峰的存在，都能与观主分庭抗礼不落下风。\n　　此时他陷入了有生以来最大的危险，在距离死亡最接近的时刻，已经无数次拯救他的浩然气和意识碎片，再次暴发。\n　　宁缺忽然开始颤抖起来，睫毛上的霜和脸上的雪片片碎裂，然后如利箭一般激射而走，露出真实的容颜。\n　　一口鲜血从他的唇间喷",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "晴空万里，忽然间有雪飘落，这便是万里雪飘。\n　　厚重的雪片，像芦苇烧后的灰般飞舞不停，占据了整片天空，遮住了青天的颜色。城市里温度急剧降低，寒冷至极，檐边的冰棱寒意逼人，湖冰被冻的发出咯吱异响，巷口的井水开始结冰。\n　　宁缺站在风雪中，黑色院服上积着厚厚的雪，就像是一座雪桥，因为承载了太多雪的重",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "却顾不得自已，赶紧把怀里的小女孩气抱紧了些，又把被褥扯到小女孩身上。\n　　乡下孩子看着那个城里孩子，愤怒不已，却紧握着拳头不敢动手。\n　　因为城里孩子手里提着两把刀。\n　　一把柴刀，一把菜刀。\n　　一把柴刀，一把菜刀。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "雪片带着的寒意，穿透厚重的院服，直抵皮肤，瞬间把宁缺冻僵，睫毛上的霜和脸上的雪粉极厚，像极了当年第一次化妆的桑桑。\n　　寒冷到了极点，所有的运动便停止。被寂灭之意占据身心的宁缺，如同跌入最深的冰窖，他冷的无法颤抖，冷的无法呼吸，甚至就连思维都快要被冰凝。\n　　他就像巷口的井一般被冰封。\n　　此时",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "眼杵，得到了无数倍的放大或者说具象化，笼罩了长安城。\n　　雪片带着的寒意，穿透厚重的院服，直抵皮肤，瞬间把宁缺冻僵，睫毛上的霜和脸上的雪粉极厚，像极了当年第一次化妆的桑桑。\n　　寒冷到了极点，所有的运动便停止。被寂灭之意占据身心的宁缺，如同跌入最深的冰窖，他冷的无法颤抖，冷的无法呼吸，甚至就连思维都",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "：“就多要一壶热水，又有多难？”\n　　今天特别寒冷，屋檐上挂着冰棱，就连灶房的热气都飘不了多远。少年担心母亲的老寒腿，向前院讨要热水，结果只端回来了一壶，还被前院那个少年说了几句，想着如今的遭遇，他的情绪非常糟糕。\n　　便在这时，柴房门被咯吱一声推开。一个少年出现在门口，只见他穿着一件紧实的棉袄，神",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "降落的寒冷，不甘而且暴戾。\n　　宁缺的浩然气继承自小师叔，意识碎片继承自莲生，这两个人都是那个年代最巅峰的存在，都能与观主分庭抗礼不落下风。\n　　此时他陷入了有生以来最大的危险，在距离死亡最接近的时刻，已经无数次拯救他的浩然气和意识碎片，再次暴发。\n　　宁缺忽然开始颤抖起来，睫毛上的霜和脸上的雪片片",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "寒冷，不甘而且暴戾。\n　　宁缺的浩然气继承自小师叔，意识碎片继承自莲生，这两个人都是那个年代最巅峰的存在，都能与观主分庭抗礼不落下风。\n　　此时他陷入了有生以来最大的危险，在距离死亡最接近的时刻，已经无数次拯救他的浩然气和意识碎片，再次暴发。\n　　宁缺忽然开始颤抖起来，睫毛上的霜和脸上的雪片片碎裂，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "座桥，长安城借他的刀攻击观主，此时，来自观主的寂灭，被饕餮吞噬，进入宁缺的体内，再通过阵眼杵，得到了无数倍的放大或者说具象化，笼罩了长安城。\n　　雪片带着的寒意，穿透厚重的院服，直抵皮肤，瞬间把宁缺冻僵，睫毛上的霜和脸上的雪粉极厚，像极了当年第一次化妆的桑桑。\n　　寒冷到了极点，所有的运动便停止。被",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "能断掉。\n　　在这场战斗中，他就是一座桥，长安城借他的刀攻击观主，此时，来自观主的寂灭，被饕餮吞噬，进入宁缺的体内，再通过阵眼杵，得到了无数倍的放大或者说具象化，笼罩了长安城。\n　　雪片带着的寒意，穿透厚重的院服，直抵皮肤，瞬间把宁缺冻僵，睫毛上的霜和脸上的雪粉极厚，像极了当年第一次化妆的桑桑。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "来，风雪辟易。\n　　“我曾看过你的书帖，与世人不同，我并不喜欢，因为你不会拙笔，而那个字的一撇一捺太沉重，必须用拙笔。”\n　　宁缺有些困难地抬起手臂，擦掉下颌上的血，说道：“以后若还有机会，我一定会记住您的教诲，学习如何行拙。”\n　　“没有以后了。”\n　　观主感知到身后的风雪里，有两道身影正在高速前",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "拙笔，而那个字的一撇一捺太沉重，必须用拙笔。”\n　　宁缺有些困难地抬起手臂，擦掉下颌上的血，说道：“以后若还有机会，我一定会记住您的教诲，学习如何行拙。”\n　　“没有以后了。”\n　　观主感知到身后的风雪里，有两道身影正在高速前来。\n　　他知道那是书院那对强大的师兄妹。\n　　他并不在意。\n　　这座城都",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "维都快要被冰凝。\n　　他就像巷口的井一般被冰封。\n　　此时他的身躯里，只有腹部那滴晶莹剔透的液体还在缓缓转动，虽然转动的速度已经变得极为缓慢，似乎随时可能停止。那滴液体散发出来的气息，拥有挣破一切束缚的骄傲，无论是寒冷还是寂灭。\n　　此时他的识海已经变成冰雪覆盖的海洋，只有海底最深处的淤泥底，有块碎",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "出，染红了宁缺身下的白雪。\n　　他此时只能以一种极难看的姿式勉力坐着，再没有什么力量挥刀。\n　　观主说道：“机巧乃小道。”\n　　宁缺明白观主是在评述先前那场战斗，他承认观主说的很对。\n　　无论是示敌以弱，还是诱敌近身，对于真正的战斗来说都不入大道。\n　　“你现在的境界，距离真正的大道还有很遥远的一段",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

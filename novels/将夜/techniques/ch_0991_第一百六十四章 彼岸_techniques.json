@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 991,
+  "chapter_title": "第一百六十四章 彼岸",
+  "filename": "ch_0991_第一百六十四章 彼岸.txt",
+  "char_count": 3320,
+  "timestamp": "2026-04-10T12:11:27.642943",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "最终的结局是分离，我不应该说这么多。”\n　　春风拂动青衣，上面的繁花渐渐盛开，青狮踩云而行，大船向着天空远处那道金线缓慢而去，她在船首不再看他。\n　　宁缺看着天空里那艘大船，看着她的背影，脸色苍白说道：“你知道我不喜欢死，直到那天，渭城查无此人，那些人都死了，我以为你也死了，后来，皇后娘娘也从这里跳",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "那道金线便是彼岸。\n　　无数光明涌至眼前，桑桑下意识地眯了眯眼睛。\n　　神国的门被夫子毁了，她也是第一次通过这种方法回去，这种感觉有些陌生，但她知道不会出错。\n　　因为她来自神国，她的彼岸自然便是神国。\n　　她闭上眼睛，准备开始与神国里的自己相见，然后融合。\n　　当她睁开眼睛时，看到的是一片葱郁的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，甚至有些疯癫。\n　　桑桑站在船首，看着下方城墙上的男子，神情平静，没有像从前那样，因为对方的不敬而愤怒，或者因为对方的存在而厌憎。\n　　她觉得这种平静的感觉非常好，非常强大，哪怕可能是自以为平静，但终究是平静，平静之后是静穆，静穆便是永恒。\n　　她以为自己能够保持平静，但看着宁缺苍白的脸色，看着他",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "她静静看着宁缺，忽然问道：“不痛吗？”\n　　宁缺看了眼胸口，看着深入骨肉的刀锋，挤出一道凄惨的笑容，说道：“男人，应该要对自己狠点儿。”\n　　桑桑喃喃说道：“但还是会痛啊。”\n　　宁缺手指用力，把铁刀向胸口里插的更深些，数十颗汗珠淌过苍白的脸颊，抬头看着她说道：“我是纯爷们儿。”\n　　桑桑看着他怜惜",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "桑桑站在船首，看着下方城墙上的男子，神情平静，没有像从前那样，因为对方的不敬而愤怒，或者因为对方的存在而厌憎。\n　　她觉得这种平静的感觉非常好，非常强大，哪怕可能是自以为平静，但终究是平静，平静之后是静穆，静穆便是永恒。\n　　她以为自己能够保持平静，但看着宁缺苍白的脸色，看着他胸膛间不停流淌出的鲜",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "些变形，连道裂痕都没有产生。\n　　很痛，宁缺的心非常痛，但没有碎。\n　　他很震惊，很迷惘，不明白这是为什么。\n　　桑桑站在船首，微笑不语。\n　　在棋盘世界的最后数十年时光里，从红杉林到那座山峰的峰顶，她离开神躯，一直住在他的心里，他的心早已变得无比强大。\n　　宁缺自己都不知道这种改变，她知道。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "心，怎能不痛，只是他的心本来就极痛，已经变得麻木了。\n　　“是啊，只要是人就会痛。”\n　　怜惜的神情瞬间消逝，桑桑面无表情说道：“你是人，体内天然有贪嗔痴三毒，棋盘千年，情根深种，我的毒没有了，你的毒呢？”\n　　宁缺看着她，再次笑起来，笑声愈发淡漠。\n　　“在人间游历，你一直想要我明白什么是情，什么",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "而其间却隐藏着天都不能忽视的意志与决心。\n　　桑桑沉默了很长时间，然后微笑说道：“你说的有道理，既然最终的结局是分离，我不应该说这么多。”\n　　春风拂动青衣，上面的繁花渐渐盛开，青狮踩云而行，大船向着天空远处那道金线缓慢而去，她在船首不再看他。\n　　宁缺看着天空里那艘大船，看着她的背影，脸色苍白说道",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "手微微颤抖，刀锋在胸间拉出一条更长的口子，鲜血像瀑布般淌落，说道：“在西陵神殿，我全身的血肉被你割了无数刀，无数次，早就习惯了，没什么新鲜，现在想来应该要感谢你。”\n　　桑桑问了三句他痛吗，他始终没有回答，刀锋入心，怎能不痛，只是他的心本来就极痛，已经变得麻木了。\n　　“是啊，只要是人就会痛。”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "接受，而是施予，人皆有不忍人之心，你对我付出的越多，便越不忍伤我。”\n　　桑桑看着他平静说道：“我要离开，你要阻止我便只有自尽一条道路，那样我便会死去，你真的忍心这样做？”\n　　宁缺大笑说道：“你说的不全面，情与爱不是单方面的接受也不是单方面的施予，而是共同度过，我确实不舍得让你去死，难道你就舍得看",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "，自然不受任何威胁。\n　　宁缺自杀，桑桑便会死去，但昊天还会活着。\n　　绝望的神情，出现在他的脸上，同时还有一道狠意，用力握掌！\n　　他的掌心里是那颗鲜红的、正在跳动的心脏。\n　　他现在浩然气接近大成，身躯坚硬如铁，最关键的是，桑桑挥袖便能医白骨，想要自杀是件非常困难的事情。\n　　随桑桑游历人间的那",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 526,
+  "chapter_title": "第一百六十八章 菊花夜市空袭及鸣枪事件(再中)",
+  "filename": "ch_0526_第一百六十八章 菊花夜市空袭及鸣枪事件(再中).txt",
+  "char_count": 3356,
+  "timestamp": "2026-04-10T12:05:08.559502",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的身后，恶狠狠地盯着四周，震慑着随时有可能爆发的对许乐的攻击。\n\n    因为枪械管制，夜市斗殴的军人们身上基本都没有什么枪。然而那名额头一直渗血的二军区军官却是冷冷盯着许乐，缓缓将军装拉开一角，露出自己的枪套，说道：“我也有枪，但我一直没动。”\n\n    这名军官缓缓取出手枪，用枪口挠了挠被血水刺",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "过去，作为十七师的门脸，他生的极为魁梧，此时骤然发飙，气势极为惊人。\n\n    不料在他动拳头的那一瞬间，却被熊临泉生生抱住了，熊临起比他矮了半个头，力量却更胜于他。\n\n    “怎么？想发飙？”那名军官往地上吐了口唾沫，骂咧咧道：“我捧，真当老子不敢连你们这几十个家伙一起揍？妈逼的雇佣军！”",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "控制，只怕在宪兵赶到之前，便会闹出人命来。\n\n    如果政府军和青龙山之间真的发生了难以收场的恶性冲突，在某些有心人的操作下，可能会影响到联邦难得的大和解局面，冰冷的锋芒会指向帕布尔总经及他身旁的高官，而且必定会影响到军方对帝国的胜利军事行动。\n\n    这些大尺度下关于政治和联邦利益方面的衡量，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "感受到了身周无数人的敌意目光，瞪圆了双眼，呼啦一声来到许乐的身后，恶狠狠地盯着四周，震慑着随时有可能爆发的对许乐的攻击。\n\n    因为枪械管制，夜市斗殴的军人们身上基本都没有什么枪。然而那名额头一直渗血的二军区军官却是冷冷盯着许乐，缓缓将军装拉开一角，露出自己的枪套，说道：“我也有枪，但我一直没动",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "我们长官？你们打之前的时候，他应该就在这块儿喝酒。”\n\n    这名军官浑身酒精味道，黝黑的脸上因为愤怒和亢奋而通红一片，听到熊临教的大声问话，恼火地转头吼道“吼什么吼！没看见老子们马上要赢了，哪看见过什么人？”\n\n    熊临泉没能找着许乐，电话又打不通，心里面万分担心，哪里肯刻此罢休，攀着他的肩",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "联邦利益方面的衡量，许乐懂得，但让他做出冒险决定，抢先平息事态的存接原因，只老夜市甲的趾和随时有可能出现的死亡。\n\n    无论意识形态和政治理念有何不同，无论当年在口环山四州里，双方流了多少的血，但在西林大区，在与帝国人做战的时刻，他认为大家的血应该流在前线，而不应该干调在内斗与旧仇之中。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "大声吼出像上面那样的自保话语。\n\n    此时葫花夜市群殴现场，政府军方面已经取得了明显的优势，青龙山那些战士们被压制到了夜市一角，七组挤出了满身臭汗，伴着不参战的口号和乱七八糟的防护设备，居然成功地挤了进去，靠近了早已一片狼籍，满是章鱼腿与泥土的食盘转台。\n\n    转台旁边，几名政府军军官正拍着",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "她和那名侍者老老实实地呆在挡板下，许乐从转台下钻了出来，浑身一颤若泥鳅般钻过那些五官兴奋扭曲的士兵，来到熊临泉之前，沉声说道：“把枪给我。”\n\n    熊临泉和队员们惊讶兴奋地看着他，不知道他是从什么地方冒出来的，居然身上一点伤也没有，正准备上前拍肩嘘寒离开之际，忽然听到了这句话，一时间没有反应过来",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "为枪械管制，夜市斗殴的军人们身上基本都没有什么枪。然而那名额头一直渗血的二军区军官却是冷冷盯着许乐，缓缓将军装拉开一角，露出自己的枪套，说道：“我也有枪，但我一直没动。”\n\n    这名军官缓缓取出手枪，用枪口挠了挠被血水刺激的有些发痒的额头，望着许乐不屑说道：“他们说你是长官，那你应该很清楚，打架",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "顺手拾起泥地上散落着的烧烤用小铁锅，或是拣起断成两截的桌板，挡在自己的头上身侧以防止无处不在的危险，同时诚意十足地大声吼出像上面那样的自保话语。\n\n    此时葫花夜市群殴现场，政府军方面已经取得了明显的优势，青龙山那些战士们被压制到了夜市一角，七组挤出了满身臭汗，伴着不参战的口号和乱七八糟的防护设",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "我们是来找人的！”\n\n    “我们绝对中立！”\n\n    “不要误伤！”\n\n    因为担心自家主管许乐被群殴的人海吞没，几十名七组队员鼓起勇气，跟着脏话连连的熊临泉向混乱的夜市中间地带挤了过去。他们一路顺手拾起泥地上散落着的烧烤用小铁锅，或是拣起断成两截的桌板，挡在自己的头上身侧以防止",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "面，身上多了很多个泥脚印，这一路挤过来，终究还是挨了几脚乱的。他凑到一名正在破口大骂的军官耳边，大声说道：“兄弟！兄弟！有没有看见我们长官？你们打之前的时候，他应该就在这块儿喝酒。”\n\n    这名军官浑身酒精味道，黝黑的脸上因为愤怒和亢奋而通红一片，听到熊临教的大声问话，恼火地转头吼道“吼什么吼！",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

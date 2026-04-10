@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 186,
+  "chapter_title": "第一百二十五章 蓝光",
+  "filename": "ch_0186_第一百二十五章 蓝光.txt",
+  "char_count": 3355,
+  "timestamp": "2026-04-10T12:04:45.709145",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "不明白。利家七少爷有什么需要我地。而且你又能给我什么？朴志镐能背叛你。那是因为利家大少爷能给他带来更大地利益。与我合作。对你又有什么好处？你毕竟是利家地人。”\n\n    “我听过那段录音。知道眼下联邦科学院想得到实验室里地那些数据。我希望你阻止这一\n\n    利孝通说道：“那些数据对于联邦新一代机甲",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "他不敢有丝毫大意。\n\n    “曾哥，我和这位朋友有些话要谈。”利孝通将手里的文件夹递给许乐，态度很轻松随意，就像根本没有看到许乐手中那把依然带着血腥意的长刀。\n\n    曾哥沉默片刻，衣裳里那根如枪一般锐利无俦的气势缓缓敛去，他对着利孝通微微点头，用沙哑而怪异颤抖的声音应道：“是，少爷。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "乐看着此人放下了，退出了房间，心神才真正的放松下来，接过了利孝通手中的文件夹。这名叫曾哥的保镖身上的危险味道太浓，时而如枪，时而如狮，令人寒毛警惕而立。\n\n    文件夹里是几张照片和一个音频文件。照片应该是远距离偷拍的，拍摄的内容是在首都某幢高层建筑中，一头金发的朴志镐正在和一名男子说话，拍摄者应",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "地带，这方面帮不了你。”\n\n    “这只是第一次的合作，我相信以后还有机会。”利孝通说道：“如果有将来的话，我要求的不多，希望你能找机会让我见见邰之源。”\n\n    许乐若有所思，许久之后轻轻地点了点头。\n\n    距离那个时间段还有八个小时的时候，许乐来到了第一军事学院，进入了果壳研究所三部区域",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "这是许乐第一次联邦核心地带，尝试使用这种仪器，果壳研究所里藏着联邦的无所机密资料，监控防御毫无疑问是最强的地带，居然在这件蓝光小仪器下变成了废物。\n\n    走到熟悉的实验室门口，许乐抹去了额头上沁出发丝的冷汗，深深地吸了一口气。\n\n    宪章光辉遍布联邦，联邦的人们，包括那些心思极为缜密的大人物",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "曾哥沉默片刻，衣裳里那根如枪一般锐利无俦的气势缓缓敛去，他对着利孝通微微点头，用沙哑而怪异颤抖的声音应道：“是，少爷。”\n\n    许乐看着此人放下了，退出了房间，心神才真正的放松下来，接过了利孝通手中的文件夹。这名叫曾哥的保镖身上的危险味道太浓，时而如枪，时而如狮，令人寒毛警惕而立。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "这是许乐第一次联邦核心地带，尝试使用这种仪器，果壳研究所里藏着联邦的无所机密资料，监控防御毫无疑问是最强的地带，居然在这件蓝光小仪器下变成了废物。\n\n    走到熟悉的实验室门口，许乐抹去了额头上沁出发丝的冷汗，深深地吸了一口气。\n\n    宪章光辉遍布联邦，联邦的人们，包括那些心思极为缜密的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "响了董事会。关于研究所的事情。我无法接触到一些比较核心的地带，这方面帮不了你。”\n\n    “这只是第一次的合作，我相信以后还有机会。”利孝通说道：“如果有将来的话，我要求的不多，希望你能找机会让我见见邰之源。”\n\n    许乐若有所思，许久之后轻轻地点了点头。\n\n    距离那个时间段还有八个小时",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "到了第一军事学院，进入了果壳研究所三部区域。此时夜已经深了，然而研究所里还有几个实验室通明。搞研究地人们，有时候总会在黑夜里忘记了白天地美。\n\n    许乐取出电子匙卡，进入了核心区域，然后顺着安静的长廊，向着实验室走去。在最后一道扫描通道前。他缓缓地停住了脚步，将手伸进了军装的口袋中，握紧了那件冰",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "许乐若有所思，许久之后轻轻地点了点头。\n\n    距离那个时间段还有八个小时的时候，许乐来到了第一军事学院，进入了果壳研究所三部区域。此时夜已经深了，然而研究所里还有几个实验室通明。搞研究地人们，有时候总会在黑夜里忘记了白天地美。\n\n    许乐取出电子匙卡，进入了核心区域，然后顺着安静",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "加密电话，拔了几个电话，沉默一阵之后，微笑着说道：“朴志镐那边的消息，我能帮你拖延一阵时间，免得那边马上反应过来。我得到的风声是，明天早上十点钟，果壳董事会的书面命令便能出来，你那间实验室就保不住了，你还有九个小时的时间。”\n\n    “知道了。”许乐说道：“问题在于只有九个小时。我没有能力把那些数",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "没有看到许乐手中那把依然带着血腥意的长刀。\n\n    曾哥沉默片刻，衣裳里那根如枪一般锐利无俦的气势缓缓敛去，他对着利孝通微微点头，用沙哑而怪异颤抖的声音应道：“是，少爷。”\n\n    许乐看着此人放下了，退出了房间，心神才真正的放松下来，接过了利孝通手中的文件夹。这名叫曾哥的保镖身上的危险味道太浓",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "坐回沙发上的利孝通。\n\n    “利修竹，三林联合银行副总裁，也是我的大哥。”利孝通的面情有些阴沉，说道：“朴志镐是我的人，结果却与他混在了一起，所以先前我说你杀的好。”\n\n    许乐这时候保持着沉默，看着面前这位七大家的二代子弟。心中生出了重重的警惕。朴志镐与那位利家大少的联系，居然全部被这人查",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "经在数万年的历史中，习惯了技术的力量，养成了一种思维上的惰性。\n\n    这种惯性与惰性为许乐在这个社会里的潜伏与游走提供了无穷的便利。一旦技术被破除，许乐似乎隐隐捕捉到了封余大叔那种自由的感觉。\n\n    输入密码，打开实验室的大门，许乐顺手从旁边的金属消防匣中取出一把沉重的太平斧，沉默着走了进去",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "许乐看着利孝通地时候，利孝通地脑海里也在快速运转。自幼的经历，让他养成了一种极好的习惯，从来不会轻视任何一个人，虽然那夜在青山路口处与朴志镐的交谈中，他对邰家那位太子爷表示了不屑。但那其实只是一种掩饰。\n\n    七大家里历史最悠久，地位最崇高，实力最隐秘的邰家，忽然要走上前台，利孝通怎",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

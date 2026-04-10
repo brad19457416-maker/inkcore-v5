@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 983,
+  "chapter_title": "第一百五十六章 人间春雷，佛国拈花",
+  "filename": "ch_0983_第一百五十六章 人间春雷，佛国拈花.txt",
+  "char_count": 3414,
+  "timestamp": "2026-04-10T12:11:27.631924",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，春雷鸣于云间，空气有些干燥。\n　　光打雷不下雨，这事情透着诡异，大师兄站在皇宫正殿前的石阶上，看着天空里越来越密集阴沉的云层，觉得有些不解。\n　　忽然间，厚重的阴云里生出一道极粗的闪电，轰鸣声中向着城中某处劈落，惊神阵自然生出感应，散发清光。\n　　大师兄身影微淡，瞬间来到万雁塔下，看着被这道闪电劈",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，双手合什，闭目颂经，苦苦支撑，然而却撑不住刹那，便破碎成了无数光点，在船上消失。\n　　下一刻，那佛来到峰顶的菩提树间，坐在如蒲团的菩提叶上，随风上下摇摆，眉间流露出大彻大悟之意，对着宁缺礼拜致意。\n　　至此时，有两位佛被宁缺以佛愿接来峰顶，变成了他的信徒，高下各一，开始闭目虔诚颂经，颂的是宁缺，赞",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "一道佛识，从山崖最深处来，进入他的心里。\n　　“我已经成佛了。”宁缺对那道佛识说道。他的神情很轻松，就像在和某个老熟人说话，说最家常的那些话。\n　　佛说道：“我在众生里，你寻不到我，杀不死我，便成不了佛。”\n　　这里的佛，说的是天上地下唯一真佛。\n　　宁缺知道确实如此，就如同在昊天的世界里无法",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "里生出一道极粗的闪电，轰鸣声中向着城中某处劈落，惊神阵自然生出感应，散发清光。\n　　大师兄身影微淡，瞬间来到万雁塔下，看着被这道闪电劈垮的寺庙，看着那座变得焦黑的佛像，隐约明白了些什么。\n　　他来到城墙上，向四野望去，只见云层仿佛要遮盖整片大陆，不时有闪电落下，让大地间某处生出黑烟。\n　　黑烟起处，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "处天坑底的战争还在持续，起义农奴已经发展到数万之众，在原野里与贵族武装还有悬空寺的僧兵，进行着惨烈的战斗。\n　　原野间箭声大作，惨嚎声此起彼伏，到处都在流血，到处都是死亡，便在这时，天空里的阴云里忽然落下一道极粗壮的闪电。\n　　那道闪电准确地劈中了峰顶的大雄宝殿，只听得喀喇一声巨响，宝殿塌了一半，殿",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "棋盘天元位置上，出现了一道细线，这道细线其实是个裂缝，裂缝非常小，如果不仔细去看，根本无法发现它的存在。\n　　某天，脑海里忽然传来一声轻响。\n　　宁缺睁开眼睛，望向那艘依然在向彼岸航行的大船，沉默了很长时间，然后伸手到眉间摘下那株菩提树，微微一笑。\n　　那株菩提树已经生长的极为茂密，青青团团的叶子",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "君陌横铁剑于胸前，以礼意拒七念及戒律院诸长老于数里之外，看着峰顶冒出的黑烟，漠然道：“佛祖败了，你们难道还能胜？”\n　　连续十数日的春雷之后，便是一场连续十余日的春雨，今年的春雨并不淅沥，显得极为暴烈，不停冲洗着被闪电肆虐过的大地。\n　　雨水落在残破的佛殿上，落在残破的佛像上，落在那些脸色苍白的僧人",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的那天近了。\n　　锤声亦如春雷，汗落如雨。\n　　某天，棋盘上忽然传来一声轻响。\n　　棋盘天元位置上，出现了一道细线，这道细线其实是个裂缝，裂缝非常小，如果不仔细去看，根本无法发现它的存在。\n　　某天，脑海里忽然传来一声轻响。\n　　宁缺睁开眼睛，望向那艘依然在向彼岸航行的大船，沉默了很长时间，然后伸手",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的樱花开了，荒原上野草里的小野花开了，那棵梨树却没有开花。\n　　“这到底是梨树还是铁树？”书院后山的人们，围在湖畔那棵梨树下，看着毫无反应的树桠，和那些恹恹的树叶，很是恼火。\n　　这三年时间里，他们想尽了一切办法，都没有办法打开佛祖棋盘，看来只能等着梨树开花结果才能进入棋盘，然而按照大师兄的说法，这",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "悦的笑容。\n　　“师兄笑了！”后山诸人很是吃惊。\n　　这些年，大师兄忙于国政，筹备战事，教导新君，又牵挂棋盘里宁缺的生死，很是辛苦，很久没有这样放松的笑过。\n　　人间处处春雷绽放，依然没有落雨。\n　　烂柯寺的前三殿，都已经被雷劈垮，佛像倒塌，就如瓦山顶峰的残砾，满山满谷的石头，一夜时间便生出了青苔，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "界里无法杀死昊天，那么在佛祖的世界里自然也无法杀死佛祖，连找到他都不可能。\n　　“何必这么严肃呢？我从来不认为佛位的传承和俗世帝位的传承那样，一定必须要经过血腥的屠杀，后浪对前浪的折磨。”\n　　宁缺笑着说道：“你是佛，不妨碍我成佛，因为我不想统治你的世界，我不是昊天，对杀死你也没有兴趣，我想要的只是",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "也无法保持沉默。\n　　一道佛识，从山崖最深处来，进入他的心里。\n　　“我已经成佛了。”宁缺对那道佛识说道。他的神情很轻松，就像在和某个老熟人说话，说最家常的那些话。\n　　佛说道：“我在众生里，你寻不到我，杀不死我，便成不了佛。”\n　　这里的佛，说的是天上地下唯一真佛。\n　　宁缺知道确实如此，就如同在",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

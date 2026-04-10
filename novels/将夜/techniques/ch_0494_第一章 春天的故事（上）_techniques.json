@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 494,
+  "chapter_title": "第一章 春天的故事（上）",
+  "filename": "ch_0494_第一章 春天的故事（上）.txt",
+  "char_count": 3598,
+  "timestamp": "2026-04-10T12:11:21.791472",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，气的浑身颤抖，满脸通红，然而很奇怪的是，没有任何人敢拦在她的身前，敢对她出手。\n　　叶红鱼走进神官人群中，神官们面露惊恐之色退避，让开一条通道，仿佛一片绿叶落入血腥肃杀的血湖，湖水分开向岸边退去，根本不敢沾到那片绿叶。\n　　终于，她从神殿外走到了珠帘前。\n　　她停下脚步，平静望去，只见帘后裁决大神",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "大神官这句话后，她微微一笑。\n　　就在美丽面容展露笑颜的这一瞬间，叶红鱼的眼前出现了很多画面。\n　　风雪中的雁鸣湖上，宁缺在那柄强大的铁枪下，不可思议地抽出朴刀，然而以刀为剑，理所当然于是不可阻挡地刺进了夏侯的腹部。\n　　西陵神殿的石屋里，昏黄的灯光照耀下，她撕开信封取出信纸，纸上那道拙劣的剑，变成",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "红衣神官喝斥她放肆，又岂能让她有丝毫动容？\n　　她向神殿深处走去。\n　　那些穿着如血神袍的裁决司神官愤怒到了极点，气的浑身颤抖，满脸通红，然而很奇怪的是，没有任何人敢拦在她的身前，敢对她出手。\n　　叶红鱼走进神官人群中，神官们面露惊恐之色退避，让开一条通道，仿佛一片绿叶落入血腥肃杀的血湖，湖水分开向",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "极的声音，从大殿深处响起，巨大的声浪撞击着黑色巨石砌成的墙壁，粉碎成无数细碎而刺耳、有如锋利钢针般的存在，瞬间来到她的身前，笼罩住了她的身体。\n　　“你是第一个叛离神殿，还敢回来的人，是来领受责罚的吗？”\n　　如万根钢针般的威严声音，刺入耳膜，叶红鱼微微蹙眉，却没有什么反应，只是神情漠然地望向神殿深",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "头上的青痕，看到了书院轲先生留下的两道剑痕。\n　　无数画面在叶红鱼的眼前快速闪过。\n　　那两道剑痕，最终汇为一道，落在黄纸上，落在雪湖上，落在她的眼里，落在她的心里，进入她腰畔的剑鞘里。\n　　叶红鱼抽剑出鞘。\n　　便是这把剑。\n　　然后她一剑刺向珠帘。\n　　刺向裁决大神官。\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "纪年，而真正能够被民众记住，并且在日常生活中能够有效使用的纪年，千年以来便只有两种。\n　　时光流逝，来到了大唐天启十六年，也就是西陵大治三千四百四十七年，在这一年的春天里，发生了很多故事。\n　　道痴叶红鱼，在离开西陵神殿整整一年之后，终于回来了，她在无数惊恐目光的注视下，杀死了陈八尺，然后走进了黑色",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "很多羞辱，如今她恢复、甚至拥有了更加强大的实力，那么她便拥有了不再被羞辱的资格，然而曾经的那些事情，难道就这样被裁决大神官一句话抹掉，就如同从来没有发生过？\n　　对于裁决神殿之外的人们来说，这是难以想像的事情，但对裁决神殿的人来说，这是很理所当然的事情，那些穿着红袍的神官，听着裁决神座的谕令，迅速停",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "容的人。\n　　听到裁决大神官这句话后，她微微一笑。\n　　就在美丽面容展露笑颜的这一瞬间，叶红鱼的眼前出现了很多画面。\n　　风雪中的雁鸣湖上，宁缺在那柄强大的铁枪下，不可思议地抽出朴刀，然而以刀为剑，理所当然于是不可阻挡地刺进了夏侯的腹部。\n　　西陵神殿的石屋里，昏黄的灯光照耀下，她撕开信封取出信纸，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "音，从大殿深处响起，巨大的声浪撞击着黑色巨石砌成的墙壁，粉碎成无数细碎而刺耳、有如锋利钢针般的存在，瞬间来到她的身前，笼罩住了她的身体。\n　　“你是第一个叛离神殿，还敢回来的人，是来领受责罚的吗？”\n　　如万根钢针般的威严声音，刺入耳膜，叶红鱼微微蹙眉，却没有什么反应，只是神情漠然地望向神殿深处。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "者残忍，渐渐交汇在一起，变得极为整齐，就像雷霆般回荡在幽静的黑色神殿里。\n　　当年叶红鱼还是道痴时，从来没有在珠帘前跪过，哪怕帘后是裁决神座。后来她不是道痴时，曾经在珠帘前下跪过一次，那次下跪是裁决神殿刻意施予她的压力和无限羞辱。从那天开始，她就发誓，除非能够再次获得不下跪的力量，那么自己绝对不会再",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "做完。\n　　她是这样想的，于是便这样做了。\n　　她静静向裁决神殿里走去，青色的道衣在黑色光滑的地面上缓缓飘动，就如同行走在沉沉黑夜里的一片绿叶，毫不起眼却又非常夺目。\n　　一名裁决司的神官站在石柱旁，看着她厉声喝道：“放肆！”\n　　又有裁决司神官暴怒喝道：“放肆！”\n　　更多的神官涌了出来，红色的教",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "尊重，低头代表服从。\n　　裁决大神官微微抬头，冷酷而强大的目光透过珠帘，落在她的身上，平淡而不容置疑说道：“跪下。”\n　　这道声音并不如何响亮，却让那些陷入惘然情绪中的红袍神官们清醒过来，想明白了很多事情，尊严被轻视被挑衅而生的愤怒不满，顿时压倒了前些年道痴这个名字留给他们的积威。\n　　就算你遇着机",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

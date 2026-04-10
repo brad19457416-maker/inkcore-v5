@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 577,
+  "chapter_title": "第八十一章 佛祖的笔记",
+  "filename": "ch_0577_第八十一章 佛祖的笔记.txt",
+  "char_count": 3305,
+  "timestamp": "2026-04-10T12:11:26.665385",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第八十一章 佛祖的笔记\n　　秋雨凄迷佛殿寒，宁缺站在殿外廊下，看着高远的天空，说道：“在魔宗山门里，莲生大师曾经说过，魔宗修的是自身，自为一世界，所以才会为天道所不容。”\n　　“而您先前说，修行者破五境后，便有机会创造属于自己的新规则，其实也便是拥有自己的世界，和魔宗的理",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第八十一章 佛祖的笔记\n　　秋雨凄迷佛殿寒，宁缺站在殿外廊下，看着高远的天空，说道：“在魔宗山门里，莲生大师曾经说过，魔宗修的是自身，自为一世界，所以才会为天道所不容。”\n　　“而您先前说，修行者破五境后，便有机会创造属于自己的新规则，其实也便是拥有自己的世界，和魔宗的理念并没",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "宁缺看着那壶不再冒热雾的茶，忽然说道：“但黑夜已然来临，这时候再找到冥王之子，对我们的世界也没有任何意义。”\n　　“黑夜还没有来临，现在能够感到的一切，那是应劫的征兆，而且就算冥界已经知道了我们的位置，如果没有冥王之子的身体为通道，也很仅过来。”\n　　“所以……拯救世界的前提，就是杀死冥王之子？”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "“有件事情，我一直想不明白。”\n　　宁缺说道：“就算传说变成现实，黑夜来临，冥界入侵人间，但冥王为什么要提把他的儿子扔到我们这个世界里来，如果说是先锋，太过可笑，如果说是锻炼，准备让他将来继位，那就更加可笑。”\n　　“传闻冥王生于时间之始，终于时间之终，与昊天光影相照，有无上威能，不动亦不灭，故",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "变得平静了很多。\n　　他忽然注意到桑桑眉眼间一片宁静，整个人的气质，似乎也发生了某种变化，不由微异，心想难道学佛真的有这么多好处？\n　　桑桑继续去读佛经。大概是急着把病治好，免得让宁缺担心的缘故，她真的很用功，按照佛家普通观念来看，这等精进执念，对学佛并不见得有好处，甚至可能是极大的障碍，但奇妙的是",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的规则，确认那是真实还是虚假的世界。”\n　　说到此时，歧山大师沉默了很长时间，轻声宣了几道佛号，强自压抑住疲惫，继续说道：“这个世界的冥王之子如果醒来，冥王便会知道人间在昊天光辉里的具体位置，然后便将以冥王之子为座标，降临人间。”\n　　宁缺看着那壶不再冒热雾的茶，忽然说道：“但黑夜已然来临，这时候再",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "突破昊天对人类的限制。”\n　　宁缺想着小师叔遇天诛而死，又想着人类修行史上不知道有多少了不起的人物，最终悄无声息地融化在天道里，心寒愈盛，微涩道：“昊天不去管冥界入侵，却总盯着人间，真是令人不解且烦恼。”\n　　歧山大师笑道：“便是此言此思，已是对昊天的极大亵渎，若你不是书院弟子，若不是在佛寺里发论，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "提到过冥界入侵这件事情。”\n　　“佛法里把冥界入侵称为末法年代，在某些古经上又称作大寂灭，殊为惨怖之将来，世间之所以有悬空寺，有烂柯寺，都与此有关。”\n　　“您是说盂兰节会祭冥界的仪式？还是传说中的万丈佛光？”\n　　“其实烂柯寺最重要的使命，便是寻找冥王之子。”\n　　宁缺说道：“大师，你知道我现在对",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "本薄经书的基本上，做的伪装。\n　　他用稳定的双手，谨慎地把佛经夹层破开。\n　　十余张黄旧不堪的书页，出现在他的眼前。\n　　这些书页不知道是用什么材料做成的，当时的书者也不知道用的是什么墨水，看颜色和感觉，只怕已经经历了数千数万年的时间，黄旧不堪，却没有任何损耗，被他拿在手里，也没有崩散成灰的征兆。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "塞到他手里时，脸上的神情很复杂，有些欣慰，有些解脱，又显得极为严肃凝重。\n　　不知道过了久，他再一次缓缓翻开手中的佛经。\n　　佛经里面的经文并不如何深奥难解，是某位前代高僧讲述破知见障的方法。\n　　然而在红暖的暮光里，发黄的经书里面，隐隐透出别的字迹。\n　　这卷佛经有夹层。\n　　宁缺仔细地检查了一遍",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "。\n　　宁缺坐到窗边，借着暮光，也开始读佛经。\n　　古寺读经，是很自然的事情，他在心里这样安慰自己，同时也是对坚持谤佛的二师兄默默解释。\n　　他学佛自昨日始，虽然不像桑桑那般有佛缘，但确实悟性较普通人强上不少，看经书的速度很快，遇着有什么疑难处，便去请教歧山大师……\n　　啪的一声。\n　　宁缺忽然把手",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "“……”\n　　清静微寒的佛殿前，不断响起宁缺和歧山大师的声音。\n　　殿前殿后没有任何人，所以也不需要担心被谁听去。\n　　佛殿深处，桑桑不知何时从禅定中醒来，捧着一卷佛经在认真地看着。\n　　她身前身后的地板上，全部是佛经。\n　　那些佛经有的比较老旧，书页边缘泛着黄，有的佛经则是新印出来的，还在洒发着油",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "光把他给镇了？”\n　　大师笑着说道：“就算忍耐，也还是想知道忍的是什么东西吧？佛祖并未经过前次的末法时代，我想他涅的时候，也肯定在好奇冥王会怎么做。”\n　　“有件事情，我一直想不明白。”\n　　宁缺说道：“就算传说变成现实，黑夜来临，冥界入侵人间，但冥王为什么要提把他的儿子扔到我们这个世界里来，如果说",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "黑色的棉袄，裹着她瘦瘦小小的身子。\n　　微黑的长发，垂落在她的肩头。\n　　她认真看着佛经，眉眼间一片宁静之色，根本没有听见殿外的声音。\n　　……\n　　……\n　　第二天暮时。\n　　宁缺走进禅房，在窗畔的铜盘里，燃起一柱心香。\n　　桑桑放下佛经，抬头看着他开心地笑了起来，露出那两颗洁白的门牙。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "说道：“道门典籍里说修行乃是昊天赐予人类的礼物，然而若往尽头看去，无论是道门长生的痴念，还是佛宗想要抵达彼岸的念想，或是魔宗不朽的狂思，其实都是想要一步步突破昊天对人类的限制。”\n　　宁缺想着小师叔遇天诛而死，又想着人类修行史上不知道有多少了不起的人物，最终悄无声息地融化在天道里，心寒愈盛，微涩道：",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

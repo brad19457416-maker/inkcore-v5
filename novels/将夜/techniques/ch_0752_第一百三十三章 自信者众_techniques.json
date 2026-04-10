@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 752,
+  "chapter_title": "第一百三十三章 自信者众",
+  "filename": "ch_0752_第一百三十三章 自信者众.txt",
+  "char_count": 3353,
+  "timestamp": "2026-04-10T12:11:27.116615",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "身体微倾，一道幽暗的箫声，透管而出，如水。\n　　就在此时，一道苍老的声音在原野上响起。\n　　那道声音瞬间穿过原野，来到青峡出口处，如令。\n　　……\n　　……\n　　原野南方的军营中，那座神辇的幔纱微微飘拂。\n　　一道苍老的声音，在神辇里响起，充满了神圣庄严的气息，令人心生敬畏。\n　　“在旷野中，准备启",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "构织而成的樊笼阵。\n　　每一道铁剑落下，便有数十甚至上百道剑光破碎消失，只要再给他一些时间，他可以很轻松地把这道樊笼斩破，然后击败叶红鱼。\n　　然而此时铁骑已至，青峡处琴箫之声已绝，如果他仍将心意放在樊笼上，那么青峡处的师弟师妹们，必然会被铁骑碾压。\n　　他不能允许这样的事情发生。\n　　他不能在樊笼",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "到的手段破阵而出，但他肯定为此付出了极大的代价，对于这一点叶红鱼非常自信。\n　　她最自信的事情，便是战斗。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "。\n　　更准确来说，都在叶红鱼的计算之中――无论是骄傲的君陌，还是冷静的君陌，都会选择直接出剑，击败最强的她。\n　　于是她成功地让君陌出剑的时间延迟了片刻。\n　　片刻时间过后，万道剑光已成樊笼，君陌即便想要变招，已经无法做到。\n　　她一出便是万剑，始终不归一剑，主动迎合对手的心意与战机，并且有能力把",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "光线，他整个人仿佛都燃烧起来，根本看不清楚火焰里的真实画面。\n　　下一刻，那柄宽直的铁剑，重新出现在人们的视野里。\n　　那道铁剑斩破盔甲表面的无数道剑光与摩擦而生的火焰，斩破原野间肃杀的空气，斩破那些呼啸的风，落向叶红鱼的面门！\n　　随着铁剑挥出，二师兄的身影也从火焰里显现出来。\n　　他没有向前走去",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "官看着膝前的教典，神情漠然，继续说道：“原野里的种子，是昊天赐予子民的粮食，山谷里的声音，是昊天通过风发出的召唤指引，向堕落之地进军，凡昊天所吩咐信徒的，你们必照样行了。”\n　　十余名红衣神官虔诚地重复着这段教典。\n　　天谕大神官又道：“以声音惑乱心意，妄替昊天发出召唤指引的，都是罪人，与留下的罪民",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "事物，能够打断这道苍老的声音。\n　　北宫未央的脸色骤然苍白，眼眸里生出几抹恐惧的神情，双臂无法控制地颤抖起来，古琴上的数根琴弦从中断裂！\n　　西门不惑境界稍弱，于是显得更加痛苦，闷哼一声，鲜血从唇间涌进箫管，再从底端淌出，瘫坐到了地上！\n　　正在原野间狂奔，向青峡处发起冲锋的西陵神殿联军骑兵，也听到",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的惩罚。”\n　　……\n　　……\n　　琴弦上刚刚蹦出几个声音，箫管里刚刚流淌出一小段乐曲，便被那道神奇出现在青峡处的苍老声音所打断。\n　　书院诸弟子都博览群书，只听了几个字，便听出那是西陵教典故盟书里的伐罪文，四师兄神情剧变，拿起手中的沙盘，准备扬沙把这段教谕打乱。\n　　然而昊天的教谕是没有具体呈现的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "青峡之战已经开始了很长时间，西陵神殿的两位大人物始终没有真正出手，却没想到此时这两位西陵大神官竟是同时出手！\n　　二师兄脸上的神情变得越发凝重。\n　　即便强大骄傲如他，也不敢说独自一人面对两名西陵大神官，更关键的问题在于，今日青峡之战，不是强者之间的对决，而是一场大军之间的攻防。\n　　此时他正挥着",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "幽暗的箫声，透管而出，如水。\n　　就在此时，一道苍老的声音在原野上响起。\n　　那道声音瞬间穿过原野，来到青峡出口处，如令。\n　　……\n　　……\n　　原野南方的军营中，那座神辇的幔纱微微飘拂。\n　　一道苍老的声音，在神辇里响起，充满了神圣庄严的气息，令人心生敬畏。\n　　“在旷野中，准备启程，凡要过去的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "？\n　　青峡出口处的篷下，北宫未央与西门不惑静静看着身前的古琴与洞箫，听着越来越清晰的密集蹄声，双手缓缓落在弦上或是扶住箫管。\n　　北宫未央指尖微颤，一道渺茫的琴声，离弦而去，如箭。\n　　西门不惑身体微倾，一道幽暗的箫声，透管而出，如水。\n　　就在此时，一道苍老的声音在原野上响起。\n　　那道声音瞬间",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "神辇里传出的声音，然后重复祝祷，声音回复不停。\n　　神辇里，天谕大神官看着膝前的教典，神情漠然，继续说道：“原野里的种子，是昊天赐予子民的粮食，山谷里的声音，是昊天通过风发出的召唤指引，向堕落之地进军，凡昊天所吩咐信徒的，你们必照样行了。”\n　　十余名红衣神官虔诚地重复着这段教典。\n　　天谕大神官又",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

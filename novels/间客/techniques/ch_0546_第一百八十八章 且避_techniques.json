@@ -1,0 +1,245 @@
+{
+  "novel": "间客",
+  "chapter_number": 546,
+  "chapter_title": "第一百八十八章 且避",
+  "filename": "ch_0546_第一百八十八章 且避.txt",
+  "char_count": 6854,
+  "timestamp": "2026-04-10T12:05:08.593148",
+  "techniques_count": 18,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "军方一道不惜余力地栽培此人，自然是有所期望。在联邦未来的政治版图中，总统阁下与七大家、官僚政客们毫无疑问会不停发生诸多利益方面的纠葛，而许乐此人必然是会站在帕布尔总统一面。\n\n    过往多年间对总统先生的绝佳印象，特赦及麦德林事件中这位联邦政治家所展现的卓绝政治操守和决断能力，这两年次数极少但印象",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "容。”\n\n    许乐说道，然后两个人轻轻握手，就此告别。\n\n    西林落日州风平浪静，首都特区的人们却很难保持如此的气度，政府官员和管理委员会的议员们，被西林方面的激烈反应弄的焦头烂额，愤怒地开始调查，究竟是谁愚蠢到居然试图用把狙击枪就去暗杀那头老虎。\n\n    如果说这场针对钟司令的暗杀更像是",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "要结束，除非联邦把帝国灭了，但我们的制度又不可能学习帝国人将他们的子民一样如猪狗般圈养，因为我们这个社会里总是存在着不分敌我的所谓泛宇宙人道主义狗屎……所以帝国人会造反，我们会继续杀帝国人，直到杀光。又或者帝国把联邦灭了，把我们当鱼一样溺死在温水缸里。”\n\n    “除了这两种情况，就没有别的可能？",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "为没有事实证据，然而这两年亲自经历过的一些事情，让他隐隐感觉到，联邦的青壮派军官中，确实正在产生某种危险的思潮，这种思潮并未浮出海面，只是在发酵酝酿。\n\n    想建立军政府？在联邦中没有这种可能性，经历了长久的认真思考，基于工程师清晰的逻辑思维和对联邦政治架构的了解，和那七半几万字的第一宪章，许乐",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "席勒的剧本中，所有的战争总是有结束的那一刻，那些神话中的王国为一朵玫瑰花荒唐地战斗了六百多年，但战争最终还是要结束。”\n\n    “那是戏剧。”钟瘦虎毫不客气地纠正道，继而说道，“即便席勒的描绘是历史上真实发生过的事情，也无法拿来做为范本，不要忘记那些可笑的骑士战争中，双方被俘的贵族只需要花些金币便",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "行能够影响宇宙大势的钟司令，思考问题的方式和角度是那样的犀利而且深入。\n\n    他甚至自然生出一个念头。钟瘦虎和杜少卿被很多好事者称为一生宿敌，然而以今日观之，杜少卿如何能够战胜这样看似学穷酸腐，实则冷酷锦利的人物？\n\n    今夜烟花散后，有云自东方徐来，遮住清亮大气层上方的繁星，窗外的落日州街",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "抢我老婆的关系？”\n\n    许乐怔然无语，既然对方掌掌联邦总司令已然将话题转至当年第一军事学院里的风云情事，他自然不方便再说什么。\n\n    钟瘦虎微抬下颌，不驯说道，“我很厌惮杜少卿，所以我会压死他一辈子。区区一个少将师长居然用中校当随侍官，我就要用上校，只要我不死，前线总司令便永远只可能是我，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "走法律的路子还是官方渠道，他总要对方为此付出代价，哪怕他是西林老虎最疼爱的侄儿。\n\n    可钟瘦虎离去前，问了一句他与小西瓜关系如何，又说了两个怎么办，如同一桶冰水浇入满是酒意的脑袋，许乐顿时清醒无比，终于明白为什么西林老虎如此人物，会有钟子期这样的二货继承人，一丝对世家智谋或册谋的深深寒意，占据",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "非联邦把帝国灭了，但我们的制度又不可能学习帝国人将他们的子民一样如猪狗般圈养，因为我们这个社会里总是存在着不分敌我的所谓泛宇宙人道主义狗屎……所以帝国人会造反，我们会继续杀帝国人，直到杀光。又或者帝国把联邦灭了，把我们当鱼一样溺死在温水缸里。”\n\n    “除了这两种情况，就没有别的可能？“许乐挠着",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "这是林家对这名不成材继承人的严厉惩罚，但从另外一个角度上来说，软禁也是家族的长者们，非常担心那名年轻中校又会上演一次麦德林恐怖事件。\n\n    而正在议会山大厦里慷慨陈辞，以获取议会女工作人员仰慕神秘眼光的南明秀，则是被青龙山**军四科工作人员，用最快的速度带回了，悲哀地回到了他极力想摆",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "三分冷峻说道，“我尊重你在某些方面用来自丨慰或者自我催眠的想法，不过还是想提醒你，你的那位帕布尔总统将来被军官们赶下台时……记着今天我们的谈话。”\n\n    你的总统，从上次大选始，许乐似乎总能在很多场合听到这种说法，只不过因为场合的不同，这种说法代表的含义也大不相同。施公子这般说是他得意于自己影响",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "首都特区的人们却很难保持如此的气度，政府官员和管理委员会的议员们，被西林方面的激烈反应弄的焦头烂额，愤怒地开始调查，究竟是谁愚蠢到居然试图用把狙击枪就去暗杀那头老虎。\n\n    如果说这场针对钟司令的暗杀更像是个笑话，那么真正的那场针对许乐的暗杀，则令无数人感到惴惴不安，尤其是知道内情的某些人，确认",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "到自己的家乡，死的都是下层的农夫猎人。”\n\n    “而联邦与帝国间的战争，是种族之战，连战俘都极少出现，从上到下，双方死了多少人，流了多少血？最关键的是，我们那位伟大的联邦军神……曾经亲手杀死他们的皇帝陛下。”\n\n    “这又如何？”许乐疑惑地看着他。\n\n    “帝国皇帝维系他的统治，首先便在",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "还是满布阴影的政治现实，让他有此想法。\n\n    “我也很欣赏您。”他想到栖霞州里的小姑娘，忽然开口压抑问道，“可您不会是在托孤吗？”\n\n    钟瘦虎怔了怔，旋即嚣张无比地大笑起来，“不要过于高估自己，也不要低估一个在宇宙里存活了数万年的家族实力，尤其是……不要低估我。”\n\n    许乐有些尴尬地",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "帝国痛入骨髓，从此再也不敢轻启战端，联邦才能获得真正的和平。”\n\n    “天真。”钟司令毫不客气地马上做出评价。\n\n    许乐挠了挠头，他知道这种想法有些天真，然而自浩劫之后，联邦一直和平地在这片宇宙间生存发展，除了百慕大方面的海盗之外，根本没有遇过任何真正的战争。\n\n    “在席勒的剧本中，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "后一个问题，你认为联邦与帝国间的战争，要进入到什么时期才能真正结束？”\n\n    听到这个问题，许乐缓缓坐直满是汗水的身体，有些惊讶地望着对方。\n\n    持续近百年的战争，怎样才能结束？这是一个看上去比宇宙星河更加宏观而复杂的问题，面对着亿万计凶恶而残忍的帝国侵略者，面对着那位疯狂好战的帝国皇帝陛",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，许乐并有愕然沉默继而反省，最后羞愧的得出某种结论，而是蹙着那双浓如重墨，直如静刀的眉毛，非常认真地说道，“我有位兄弟已经拿到了麦德林参与恐怖袭击的证据，而且我们交给了联邦方面，但是联邦的法律在那时已经失去了效果，我才会亲自出手。”\n\n    “而且我杀麦德林之前，亲口问过他，他也承认了。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "司令这种传说中的人物相对饮酒闲话整夜。\n\n    这场谈话对于他来说极为重要，更熟悉机器或枪械的他，从来都没有足够的敏锐度以看清迷雾般的联邦政治面，今夜钟瘦虎看似随心无意的议论，却让他豁然开朗，明白了很多东西。\n\n    这些以及最后那句话，让许乐觉得这头西林老虎果然不是一般人物，更不是自己能够比拟",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

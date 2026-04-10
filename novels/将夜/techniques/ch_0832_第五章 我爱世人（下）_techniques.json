@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 832,
+  "chapter_title": "第五章 我爱世人（下）",
+  "filename": "ch_0832_第五章 我爱世人（下）.txt",
+  "char_count": 3357,
+  "timestamp": "2026-04-10T12:11:27.270601",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "了，而且年轻了十几岁的样子。\n　　那名中年道人惊愕无比。房间里的昊天信徒们，则早已跪到了地面上，对着天空不停地叩拜祷告，用哭一般的声音感谢昊天的恩赐。\n　　老道在人们的搀扶下艰难坐起身，想着这一生虔诚奉道，艰难救济世人，终于有了回报，双手向天老泪纵横道：“神爱世人啊！”\n　　在道观西南数里外，桑桑牵",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "神爱世人，只爱她想爱的世人。\n　　昊天依然无情。\n　　……\n　　……\n　　隆冬时节，桑桑牵着大黑马来到宋国都城，穿过繁华的街巷，来到一家不起眼的小酒楼前，她忽然感觉到很饿。\n　　那些酒足够她在人间行走更长时间，这种饥饿的感觉与身体无关，而是心理上的感受。她厌憎并且逐渐开始警惕这种感受。\n　　但她还",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "成最细微的粒子。\n　　大黑马前蹄屈起，似在谦卑地行跪，在严寒的天气里，鬃毛里的汗水不停冒着热雾，明显紧张到了极点。\n　　当桑桑的目光落在它身上后，它愈发紧张。\n　　它犹豫了片刻，小心翼翼在她手背上又舔了一下。\n　　桑桑静静看着它。\n　　大黑马拼命地摇着尾巴，露出乞怜讨好的神情。\n　　挑着烧饼担子的小",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "后，它愈发紧张。\n　　它犹豫了片刻，小心翼翼在她手背上又舔了一下。\n　　桑桑静静看着它。\n　　大黑马拼命地摇着尾巴，露出乞怜讨好的神情。\n　　挑着烧饼担子的小贩，个子生的非常矮，从旁边经过，还在不停呦喝着，浑然不知自已刚刚与死亡擦肩而过。\n　　桑桑看着大黑马，说道：“不怕死？”\n　　大黑马恨不得把头",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "好大一场暴雪，把宋国都城笼罩其中，街道上传来惊呼声和走避声，酒楼栏上瞬间积上了雪，很是寒冷。\n　　她愤怒，所以天降暴雪。\n　　她在断峰间醒来，走到雪海上时，看了一眼牡丹鱼。\n　　她最开始时，一步便是千里，然后便开始变慢。\n　　酒徒这所以无法避开她，不是因为她够快，而是因为她是规则，酒徒无论利用什么手",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "么敢看行人的眼睛，那少妇则是与四邻不停打着招呼。\n　　桑桑看着那边说道：“人类的爱恨是如此卑贱可笑的存在，却被他们虚伪地视作信仰，这样的世人有什么值得你去爱的？”\n　　大黑马低着头，不敢表示反对意见，但并不赞同她的话。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "道观西南数里外，桑桑牵着大黑马行走在林间。\n　　大黑马看着她的背影，眼里全是疑惑的神情，它想不明白她为什么要做这两件事情，记得宁缺以前说过，天道无形更无情，人间的子民信徒，在她眼中应如蝼蚁一般，那么她为什么要管这些事？\n　　……\n　　……\n　　在某座深山里外，桑桑遇到了一户人家。这家人有老有少，一共",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "大腿根上滑过，然后砍在支着面摊篷子的粗毛竹上。\n　　可能倒下的太猛，或者是刀太快，那名同伴的大腿根处出现了一个大口子，鲜血狂喷，粗毛竹从中断开，刺进另外一名地痞的胸口。\n　　场间一片混乱，待人们清醒过来时，发现那三名地痞都死了。\n　　一名地痞浑身都是自已喷出来的血，一名地痞的胸窝被戳穿，拿着刀的那名",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "蝼蚁成了亲，并且感受到了其中的美好，你感受到了充分的人间的美好，那么你会不会有那么一丝想要留在人间的念头？这些年来，你想尽一切办法要找到我，邀我上天一战，但你有没有想过，其实我也很想邀你来人间做客？”\n　　她睁开眼睛，眼眸里没有一丝情绪。\n　　天空里忽然落下好大一场暴雪，把宋国都城笼罩其中，街道上传",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的大腿根处出现了一个大口子，鲜血狂喷，粗毛竹从中断开，刺进另外一名地痞的胸口。\n　　场间一片混乱，待人们清醒过来时，发现那三名地痞都死了。\n　　一名地痞浑身都是自已喷出来的血，一名地痞的胸窝被戳穿，拿着刀的那名地痞则是在混乱中误伤了自已的腹部，肠子流了一地。\n　　很血腥的画面，很令人震撼的变化，无论",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的房梁上垂落，洒在了老道的身上。\n　　老道脸上的脓疮以肉眼可见的速度缩小，然后消失，满头枯槁的白发竟瞬间变得乌黑无比，他的病不但好了，而且年轻了十几岁的样子。\n　　那名中年道人惊愕无比。房间里的昊天信徒们，则早已跪到了地面上，对着天空不停地叩拜祷告，用哭一般的声音感谢昊天的恩赐。\n　　老道在人们的搀",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "没过过好日子，要知道人间不知有多少好吃的东西，有多少好玩的东西，这些天你就跟着我享享福吧。”\n　　她缓缓闭上眼睛，想起那人在泗水畔对她说过另外一些话。\n　　“我带你吃人间最好吃的烤羊腿，带你吃宋国最考究精致的十八碟，我带你吃草原最鲜美的涮羊肉，我带你吃了牡丹鱼，生蚝汤，我带你去看了雪峰，泛舟海上，苔",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "并且逐渐开始警惕这种感受。\n　　但她还是走进了这家小酒楼，走上安静的三层楼，没要菜单便点了十八个菜，同时要了一盆冰镇的甜芋泥。\n　　这家酒楼她来过，那些菜名没有记错，餐前的甜点也没有忘记，所有的一切，都和上次来时一模一样。\n　　没有过多长时间，冰镇芋泥便送了上来，然后十八盘冷热荤素搭配得宜的菜，也流",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "看热闹的民众，还是面摊父女二人，都脸色苍白至极，无法醒过神来。\n　　“给我煮面。”\n　　桑桑看着摊主说道，然后微微皱眉，发现不止香菜末没有，便连辣椒油也已经打翻，顿时没了吃面的兴趣，牵着大黑马离开了面摊。\n　　她走到街对面卖烧饼的汉子身前，想要买两块烧饼，不知为何又改了主意。便在这时，她听到面摊传来",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "海上，苔原镜湖，还让你和宁缺成亲洞房。”\n　　“我带你吃遍人间美食，带你赏遍人间美景，我让你体会到做为人最大的快乐，我甚至还顺手让你体会了一下更深的情感。”\n　　“在你眼里，人类都是蝼蚁，如今你却与蝼蚁成了亲，并且感受到了其中的美好，你感受到了充分的人间的美好，那么你会不会有那么一丝想要留在人间的念",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "里外，桑桑遇到了一户人家。这家人有老有少，一共十四口，以烧炭为生，日子过的有些辛苦，却自有一份平静的幸福。\n　　没有谁知道，这家的老太爷当年是魔宗的一名低级执事，在魔宗覆灭之后便逃进了深山，娶了当地的女子开枝散叶，然而他终究没法忘记自已的出身，在子女稍大些之后，便开始传授他们魔宗功法，那些功法自然谈",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

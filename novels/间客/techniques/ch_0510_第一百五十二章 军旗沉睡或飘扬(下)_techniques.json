@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 510,
+  "chapter_title": "第一百五十二章 军旗沉睡或飘扬(下)",
+  "filename": "ch_0510_第一百五十二章 军旗沉睡或飘扬(下).txt",
+  "char_count": 3596,
+  "timestamp": "2026-04-10T12:05:08.530003",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "陶防弹背心上，军服上绽开几个焦糊的破洞，啪啪啪，又有几颗帝国人的子弹射击在他的头盔上，透明的步兵头盔瞬间如蛛网般裂开。\n\n    此时的萧十三楼还活着，林子里的七组队员们，甚至还能看到这个家伙苍白的脸上流露出一丝农民特有的憨厚里夹着狡黠的后怕笑容。\n\n    这是众人最后一次看见这名农夫儿子的笑容。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "对方的喉骨，血水混着骨渣溅了起来。\n\n    ……\n\n    ……\n\n    一直蹲在林子里的是顾惜风，他是七组最了不起的电控专家，也是最生猛的爆破专家和环境专家。他蹲在地面，当然不可能是被炮火震骇地无助画圈圈，而是在收集战友们离去前扔给他的高效**。\n\n    十根看上去有些粗短的手指，在这一刻就",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的七组队员们，快速地取下腰间的高效**，向着林子里一个正在蹲着的家伙扔去。\n\n    然后他们用沉默压抑悲伤和愤怒，或背或扶，带着所有受伤的战友，快速无比地向着林后山地纵深方向撤退。\n\n    锡朋没有撤。作为七组主官许乐的传令兵，他这两个月里已经习惯了自己的角色，一条条清晰的指令按照七组事先战斗布",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "们，快速地取下腰间的高效**，向着林子里一个正在蹲着的家伙扔去。\n\n    然后他们用沉默压抑悲伤和愤怒，或背或扶，带着所有受伤的战友，快速无比地向着林后山地纵深方向撤退。\n\n    锡朋没有撤。作为七组主官许乐的传令兵，他这两个月里已经习惯了自己的角色，一条条清晰的指令按照七组事先战斗布署的安排发",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "锡朋没有撤。作为七组主官许乐的传令兵，他这两个月里已经习惯了自己的角色，一条条清晰的指令按照七组事先战斗布署的安排发布了下去，按照他的阴沉，怯弱，自私，他本不应该留下。\n\n    但他觉得今天自己的腿有些沉重，太多战友的生命和鲜血，让他的嘴唇很干，胸膛里那团焦灼的火，烧的他浑身轻轻颤抖，有一种入伍之",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "如果不能修复宪丨章局那个愚蠢至极的错误，宪丨章光辉无法重临163行星，原定于傍晚发动的联邦总攻，将出现极大的问题，那面鲜艳的联邦军旗或许要被迫再次沉睡。\n\n    就在他快速思考退路的时候，忽然听到林子里响起白玉兰一声怒嚎：“十三！”\n\n    他眼瞳一缩，扭头望去。\n\n    …………",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "家，也是最生猛的爆破专家和环境专家。他蹲在地面，当然不可能是被炮火震骇地无助画圈圈，而是在收集战友们离去前扔给他的高效**。\n\n    十根看上去有些粗短的手指，在这一刻就像是钢琴名家的手一般，顾惜风仅用一只左手，便将散落身边的零散**完成了电控联结，同时他的左手却在工作台上快速地进行着计算，计算着",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "看见不远处的这幅惨烈画面，他哭嚎着站了起来，拖着受伤严重的左膝，一瘸一拐，疯癫一般向着那边冲了过去，同时右手拎起卡宴轻机枪向着河滩对面发泄一般疯狂开火。\n\n    离他不远的白玉兰铁青着脸，毫不犹豫地一脚将他踹倒在地，拖着不停挣扎哭喊的他，贴着不平的地面快速地向林后退去。\n\n    帝国皇家的黑槿花",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "用力按住刘佼腹部凄惨不堪的血肉豁口，不去看那些微黑的血从指缝里流出，瞪着眼睛望着刘佼苍白的面容，大声说道：“挺着！”\n\n    河滩对岸的帝**队被达林旋转机炮暂时压制，但从下游摸过来的那些帝**人，却终于冲破了七组的防线。许乐回首望着林子边缘影影绰绰的帝国人身形，心情有些冰凉。\n\n    他并不是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "队员们，甚至还能看到这个家伙苍白的脸上流露出一丝农民特有的憨厚里夹着狡黠的后怕笑容。\n\n    这是众人最后一次看见这名农夫儿子的笑容。\n\n    下一刻，高速的帝国锐兔榴弹轰到了他的身前脚下。\n\n    河滩处的空气骤然震荡爆炸，萧十三楼强壮的身躯，就像是一个灌满了红色颜料的布袋，被炸的横直向后飞",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

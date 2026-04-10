@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 895,
+  "chapter_title": "第六十八章 这种感觉",
+  "filename": "ch_0895_第六十八章 这种感觉.txt",
+  "char_count": 3365,
+  "timestamp": "2026-04-10T12:11:27.404106",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "无识，这是很简单的道理，像余帘和唐这样的魔宗强者都是如此，宁缺的意识无法伤害她，却可以触动她，轻柔的风虽然吹不散湖面上结成的冰，却可以把莲花摇撼成柔美的画面。\n　　意识有些不清的宁缺，完全凭借着本能，不停地用意念亲近着她，抚摸着她，随着目光轻移，似风一般钻进她的衣襟，涌进她的领口，轻轻地缭绕着她丰满",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "在不停地抚摸着自己的身体，显得那样放肆而可恶。\n　　她的脸色变得异常雪白，目光变得异常寒冷，这是因为愤怒，但她的两颊上缘却悄悄出现了红晕，目光明亮的仿佛透明的宝石，将衣料绷的极紧的圆圆的大腿都微微颤抖起来，这是因为她都无法控制的反应。\n　　那双手变得越来越放肆，在她神圣的身躯上不停地游走，无论再隐秘",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "雪海畔那个木屋中，那夜虽然有些痛，但确实有。\n　　她知道这是什么感觉，人类往往喜欢把这种感觉赋予很多意义，披上很多件美丽的衣裳，比如爱情比如生命的渴望，事实上就是低级生物才会拥有的生理快感，像人类这样的低级生物之所以无法摆脱这种生理快感的诱惑，那是因为他们需要这种生理快感来帮助不断繁衍后代。\n　　她",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，有些宁静，有些烦躁，有些湿润，有些干渴，有些欢喜，有些恐惧。\n　　对桑桑来说，这种感觉很怪异，有些陌生，但不是从未遇见过。在她的人间记忆里，以往被宁缺把小脚抱在怀里摸着睡觉时偶尔有过，最近的记忆则是发生在雪海畔那个木屋中，那夜虽然有些痛，但确实有。\n　　她知道这是什么感觉，人类往往喜欢把这种感觉赋",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。\n　　她醒来，负手向露台走去。\n　　宁缺注意到繁华青衣内那具丰满的身躯有些微微颤抖，知道今夜的这场战斗，自己总算撑了下来。\n　　“你先把我的伤治好，血流多了总是要死的，我死了你连寡妇都当不成，必然是要给我陪葬的，可不能不小心。”\n　　他看着她有些孤单的背影，默默说道。\n　　此时晨光渐至，露台上可以",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "人，跟我走吧，不要忘了成亲之后，我们还没有度过蜜月。”\n　　“你以为这样就能威胁我？”\n　　“如何？难道你还能一直跳着走？”\n　　宁缺的回答有些莫名其妙，桑桑却能听懂，很多年前在渭城的时候，宁缺说起过他的那个世界有种叫电影的东西。\n　　她醒来，负手向露台走去。\n　　宁缺注意到繁华青衣内那具丰满的身躯",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "能够无耻到这种程度，哪怕已经被阉了，居然还有精神意淫自己！\n　　宁缺清晰地感知到她意识里的厌恶情绪，自嘲地笑了笑，然后他看着她严肃地解释说道：“这是一场战争，我会不择手段。”\n　　他的声带已经被割断，他的声音等于是用肺叶强行挤压出来的，再加上痛苦导致的喘息声，非常沙哑难听，而且模糊不清，就像是两块粗",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "神殿夜空里的几抹流云被震的烟消云散，千里之外的宋国海面上卷起一道恐怖的风暴，海岸长堤上奇形怪状的柱石瞬间被淹没。\n　　天子一怒便有万里流血，昊天一怒则是人间毁灭，但她不能让人间毁灭，她甚至不能把激怒她的那个人类杀死，于是她更加愤怒。\n　　宁缺悬在神殿空中，不停滴着血，看上去就像是刚刚屠宰完的生猪，桑",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "她知道这是什么感觉，人类往往喜欢把这种感觉赋予很多意义，披上很多件美丽的衣裳，比如爱情比如生命的渴望，事实上就是低级生物才会拥有的生理快感，像人类这样的低级生物之所以无法摆脱这种生理快感的诱惑，那是因为他们需要这种生理快感来帮助不断繁衍后代。\n　　她是昊天，她不需要繁衍后代，她是高级的规则生命，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "冷，眼眸却越来越明亮，她的双腿紧紧的闭着，她的双手紧紧地握着，她的感觉越来越明显。\n　　这种感觉有些温暖，有些麻痒，有些不安，有些心慌，有些宁静，有些烦躁，有些湿润，有些干渴，有些欢喜，有些恐惧。\n　　对桑桑来说，这种感觉很怪异，有些陌生，但不是从未遇见过。在她的人间记忆里，以往被宁缺把小脚抱在怀里",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "居然还有精神意淫自己！\n　　宁缺清晰地感知到她意识里的厌恶情绪，自嘲地笑了笑，然后他看着她严肃地解释说道：“这是一场战争，我会不择手段。”\n　　他的声带已经被割断，他的声音等于是用肺叶强行挤压出来的，再加上痛苦导致的喘息声，非常沙哑难听，而且模糊不清，就像是两块粗糙的石头在磨擦，每说一个字都要带出一",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "当成人类亵玩。\n　　昊天如何能够不愤怒？\n　　她暴怒挥拂衣袖，光明神殿里微寒的秋风狂暴地肆虐而起，像无数根细锐的钢刺般，刺穿宁缺的骨头，刺进他的内脏。\n　　血水四溅，宁缺奄奄一息，他睁着眼睛，意识模糊地看着桑桑默道：“如果你不想认输，那就杀了我，你不是说过，每次死亡都是久别重逢？那么就让我们一起死吧",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "有一双能令所有女子迷醉的双手。\n　　他轻轻抚着她的颈，指尖滑过她的肩，在她的胸脯上轻轻画着圈，偶尔又离开，调皮地揉着她弹嫩的耳垂，最后悄悄落在她的臀上。\n　　光明神殿里连一丝风都没有，桑桑的繁花青衣上连一丝皱纹都没有，但她清晰地感觉到，那道细微的恼人的秋风正在青衣里游走，那双无形的手正在不停地抚摸着",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，她的双手紧紧地握着，她的感觉越来越明显。\n　　这种感觉有些温暖，有些麻痒，有些不安，有些心慌，有些宁静，有些烦躁，有些湿润，有些干渴，有些欢喜，有些恐惧。\n　　对桑桑来说，这种感觉很怪异，有些陌生，但不是从未遇见过。在她的人间记忆里，以往被宁缺把小脚抱在怀里摸着睡觉时偶尔有过，最近的记忆则是发生在",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 498,
+  "chapter_title": "第五章 桑桑的病",
+  "filename": "ch_0498_第五章 桑桑的病.txt",
+  "char_count": 3438,
+  "timestamp": "2026-04-10T12:11:21.798092",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "出事，等老十一过来便妥了。”\n　　宁缺不明白师姐这句话的意思，如果老师肯出手，桑桑自然不会出事，只是为什么要等十一师兄？\n　　……\n　　……\n　　晨光渐至，笼罩书院后山，落在草庐檐上那些如金似玉的草丝上，然后反射到更远处的山林，花树包围的草甸上一片光明。\n　　宁缺和陈皮皮等人站在草庐外，等待着里面的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "医人，不过看着桑桑的变化，顿时多了很多企盼。\n　　“寒意攻心，有些危险，我只能拿针先镇压住。”七师姐说道。\n　　宁缺的到来惊醒了书院后山湖畔所有人，大师兄也出现在远处，只是他的动作还是那般缓慢，似乎什么事情都不能让他觉得焦虑和着急。\n　　七师姐看着大师兄，不知想到什么，神情变得放松不少，喊道：“师兄",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "机造反，也不知最近你又怎么欺负她，让这小姑娘罕见的心神失守，才有了如今的危险。”\n　　宁缺沉默无言，心想果然全部都是自己的错，只是桑桑性情恬静甚至有些木讷，能让她心神失守的事情……难道是订亲？\n　　“老师，既然是先天虚寒，那怎么去病根？”\n　　夫子喝了一口莲子粥，满意地点点头，说道：“先前便说过，治",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "正确的。\n　　他抱着桑桑跑进云雾，来到书院后山崖坪上，对着湖那面发出一声大喊，尚在睡梦中的师兄师姐们骤然惊醒，纷纷出院迎了过来，走在最前面的是七师姐，七师姐临睡前正在绣一幅扑蝶猫，到夜深时才和衣胡乱入睡，此时发髻上还插着根绣花针，脸上还带着倦意与被人吵醒的恼怒。\n　　当她看到宁缺惶恐的神情和他怀里的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "知道师姐除了阵法绣花，居然还会用针医人，不过看着桑桑的变化，顿时多了很多企盼。\n　　“寒意攻心，有些危险，我只能拿针先镇压住。”七师姐说道。\n　　宁缺的到来惊醒了书院后山湖畔所有人，大师兄也出现在远处，只是他的动作还是那般缓慢，似乎什么事情都不能让他觉得焦虑和着急。\n　　七师姐看着大师兄，不知想到什",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "师你何必发这么大脾气？”\n　　夫子和宁缺的对话，早已让草庐里的弟子们想要发笑，待听着宁缺最后这句话，人们终究是没有忍住笑出声来。\n　　大师兄没有笑，他看着榻上的桑桑，脸上写满了担忧与怜惜。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "有向宁缺问话，只是看了看桑桑的苍白脸色，便从髻间抽出那根绣花针，闪电般在她颈间刺了四记。\n　　针落入风，桑桑轻嗯一声，依旧紧蹙着眉头没有醒来，但脸上的苍白颜色却淡了几分，重新现出了原本的淡淡黑色。\n　　“师姐……怎么样？”\n　　宁缺看着七师姐颤声问道，他以前根本不知道师姐除了阵法绣花，居然还会用针医",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "吓得有些发软，痛苦地低下头去，把她抱的更紧一些。\n　　桑桑已经很久没有犯病了，更准确来说，从离开渭城来到长安之后，她便再也没有犯过病，而今天她却病的如此厉害，竟是比宁缺记忆里的每次病都要来的可怕，所以他很恐惧，第一时间做出决定，没有抱着她去医馆，而是抱着她登上马车，向着城南的书院奔去。\n　　书院没有",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "隔着厚厚的被褥，他也能感到桑桑的身体变得越来越冷。\n　　终于找到以前备好的小酒壶，他没有任何犹豫，用颤抖的手指拧开壶盖，递到桑桑的唇边，一股浓烈的酒香弥漫在车厢里。\n　　桑桑紧闭着眼睛，疏疏的睫毛微微颤动，脸色苍白，略带灰色的嘴唇也紧紧抿着，牙关紧咬，宁缺从酒壶里倒出的烈酒，根本没有办法进入她的嘴，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "攻心，有些危险，我只能拿针先镇压住。”七师姐说道。\n　　宁缺的到来惊醒了书院后山湖畔所有人，大师兄也出现在远处，只是他的动作还是那般缓慢，似乎什么事情都不能让他觉得焦虑和着急。\n　　七师姐看着大师兄，不知想到什么，神情变得放松不少，喊道：“师兄，把老十一从山上揪过来，不过可得快些。”\n　　大师兄怔了",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "怒。\n　　当她看到宁缺惶恐的神情和他怀里的桑桑后，顿时明白发生了什么事情，面上的倦意与恼怒顿时化作了凝重。她没有向宁缺问话，只是看了看桑桑的苍白脸色，便从髻间抽出那根绣花针，闪电般在她颈间刺了四记。\n　　针落入风，桑桑轻嗯一声，依旧紧蹙着眉头没有醒来，但脸上的苍白颜色却淡了几分，重新现出了原本的淡淡",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "山，凭着自己做的一手好饭菜和安静性情得到所有人的喜爱与怜惜，此时知道她病的极重，书院弟子们不禁都非常担心，唐小棠甚至已经急的红了眼眶，反而宁缺却比先前要平静了很多。\n　　因为老师已经醒了，这时候正在草庐里，他相信哪怕桑桑已经有一只脚踏进了冥界，老师也有能力把她拉回来。\n　　就在这个时候，王持从草庐里",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "事吧？”\n　　王持说道：“七师姐金针压脉很及时，我给她煎了副药，应该能稍退寒意，没有什么大干系，只是以后要注意保暖，可不敢受什么风寒。”\n　　宁缺听着这话，顿时放松下来，忽然觉得自己的腿有些软。\n　　王持忽然想到一件事情，看着他疑惑问道：“小师弟，桑桑这病乃自娘胎里带来，过去这些年想来也病发过很多次",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "寺那小和尚的医术便是为师也佩服，你自己看去不去。”\n　　宁缺无奈说道：“去便是了，老师你何必发这么大脾气？”\n　　夫子和宁缺的对话，早已让草庐里的弟子们想要发笑，待听着宁缺最后这句话，人们终究是没有忍住笑出声来。\n　　大师兄没有笑，他看着榻上的桑桑，脸上写满了担忧与怜惜。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "人站在草庐外，等待着里面的消息。从去年春天开始，桑桑便开始经常进出书院后山，凭着自己做的一手好饭菜和安静性情得到所有人的喜爱与怜惜，此时知道她病的极重，书院弟子们不禁都非常担心，唐小棠甚至已经急的红了眼眶，反而宁缺却比先前要平静了很多。\n　　因为老师已经醒了，这时候正在草庐里，他相信哪怕桑桑已经有一",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

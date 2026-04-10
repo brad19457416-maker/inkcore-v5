@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 698,
+  "chapter_title": "第六十二章 暴凤暴雨送人归",
+  "filename": "ch_0698_第六十二章 暴凤暴雨送人归.txt",
+  "char_count": 3372,
+  "timestamp": "2026-04-10T12:05:08.616202",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "重新开始上路。\n\n    狂暴的风雨击打着挡风玻璃，车里的人们说话需要把音量提的更大一些，大概是一路逃亡对人们生理心理上造成的损耗太大，大家都觉得有些累，不想与大自然的怒吼做对抗，再也没有人说话。\n\n    一路沉默，只有刺鼻的烟雾弥漫于车厢之内，偶尔顺着车窗的间隙飘散出去，瞬间便被窗外的狂风暴雨抽",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "果联邦军队里的人都有像你这么好的枪法，我看这场仗……我们真的没办法打下去。”\n\n    在都城郊区与众人汇合的黑帮首领木恩先生，望着前排联邦年轻人湿漉漉的发鬓，想到先前雨中那令人敬畏的射击画面，不由感慨说道。\n\n    许乐低着头，认真地检查手中的枪械弹药，回答道：“至少，我们现在是盟友，您不用担心",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "声）说了几句凌晨发射之类的话。\n\n    直至此时，许乐才大致明白了抵抗组织的计刮，下意识里抬头望向天空，目光穿越厚厚的水泥层，似乎看到了一艘后勤飞船，此时已经架到了火箭上，于风雨之中等待发射。\n\n    “为了送你离开，都城贫民区里已经死了很多人。这一路上你亲眼看到我们死了多少人。而你没有看到的是",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "抗，再也没有人说话。\n\n    一路沉默，只有刺鼻的烟雾弥漫于车厢之内，偶尔顺着车窗的间隙飘散出去，瞬间便被窗外的狂风暴雨抽打的一干二净，不留痕迹。\n\n    怎样才能离开天京星？许乐并不知道帝国地下抵抗组织的计钊，身为一个联邦人，他一路保持着沉默，跟着这些战士们周折向南。\n\n    在逃亡的过程中",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "声打燃火苗，认真说道：“成千上万的人因为你死去，而你将来很简单的一个动作，便有可能让他们的死变得毫无价值。如果真有那一天，我们这些人没有办法去让你补偿什么，但你一定要记住，那成千上万条冤魂会一直飘在你的脑袋后面。”\n\n    许乐深深地吸了一口香烟，取下烟卷时，过滤嘴粘下了一抹带血的唇边，痛的他微微",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "影和被雨水冲涮的血水，证明了战斗的残酷。\n\n    一颗呼啸的子弹自身边擦过，许乐的眼眨毛却没有丝毫颤抖，他双手持枪稳定地站在风雨中，快速而极富节奏感地抠动着扳机，每一颗子弹从枪管射出，穿越暴雨，便会击中一名帝**人。\n\n    帽檐无法挡住倾盆而下的雨水，雨水顺着他的脸颊快速淌下，对视线造成了一些",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "人汇合的黑帮首领木恩先生，望着前排联邦年轻人湿漉漉的发鬓，想到先前雨中那令人敬畏的射击画面，不由感慨说道。\n\n    许乐低着头，认真地检查手中的枪械弹药，回答道：“至少，我们现在是盟友，您不用担心这些，对吧？”\n\n    木恩耸耸肩，没有再说什么，有些头痛地看着身上那件已经被雨水淋的不像样子的囊皮",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "组织下一任领袖的帝国男人，望着许乐的眼睛，啪的一声打燃火苗，认真说道：“成千上万的人因为你死去，而你将来很简单的一个动作，便有可能让他们的死变得毫无价值。如果真有那一天，我们这些人没有办法去让你补偿什么，但你一定要记住，那成千上万条冤魂会一直飘在你的脑袋后面。”\n\n    许乐深深地吸了一口香烟，取",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "与众人汇合的黑帮首领木恩先生，望着前排联邦年轻人湿漉漉的发鬓，想到先前雨中那令人敬畏的射击画面，不由感慨说道。\n\n    许乐低着头，认真地检查手中的枪械弹药，回答道：“至少，我们现在是盟友，您不用担心这些，对吧？”\n\n    木恩耸耸肩，没有再说什么，有些头痛地看着身上那件已经被雨水淋的不像样子的",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的血红光芒，将窗上怀草诗那张普通的脸颊映的格外漠然。\n\n    她负手肃然站在舷窗之前，身后是无数台沉重高大的狼牙机甲，这是帝国运往前线的第二批机甲　小＿说txt天'堂",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "由感慨说道。\n\n    许乐低着头，认真地检查手中的枪械弹药，回答道：“至少，我们现在是盟友，您不用担心这些，对吧？”\n\n    木恩耸耸肩，没有再说什么，有些头痛地看着身上那件已经被雨水淋的不像样子的囊皮大衣，低沉地骂了几句什么了\n\n    一直没有说话的齐大兵，此时已经检查完了枪械，点燃了一根香",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "许乐坐在副驾驶位上，用衣袖胡乱擦拭掉脸上的雨水，没有流露出什么情绪，为了将他送离天京星，离开都城的一路上，不知道有多少抵抗组织的人为此付出了生命，看的多了并不代表麻木，他只是把这种沉甸甸的感觉放在了内心的最深处。\n\n    “许乐上校，如果联邦军队里的人都有像你这么好的枪法，我看这场仗…",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "地之间所有事物之上，将迦马海岸上的黄沙轰击出无数或深或浅看上去凄楚不堪的洞，水雾太腾茫茫一片，遮住了宁静海湾往日柔美的容颜。\n\n    这里是天京星南半球最著名的皇室避暑圣地，在这个暴风雨来袭的初夏日子里，军人和工作人员们都被迫停留在了室内，于是他们没有注意到，在海湾北向那道青山之后的山谷内，有一场",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "他们走到哪个城市，哪片山野，总能看到一些衣衫褴偻的游击队员前来接应，或是忽然发现一家咖啡馆的老板伸出温暖的双手。\n\n    而且有一件事情一直令他百思不得其解，一路都在战斗奔波，可是按道理应该正在疯狂追杀自己的帝**队，却没有掌握住自己这一行人的行踪。\n\n    半夜，三辆军车驶入了一处戒备森严的后",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

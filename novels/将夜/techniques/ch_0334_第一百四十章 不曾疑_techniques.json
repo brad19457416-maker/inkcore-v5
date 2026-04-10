@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 334,
+  "chapter_title": "第一百四十章 不曾疑",
+  "filename": "ch_0334_第一百四十章 不曾疑.txt",
+  "char_count": 3231,
+  "timestamp": "2026-04-10T12:11:21.744129",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "么东西。\n　　“为什么您如此坚持？”他还是忍不住问道。\n　　许世眯眼回忆往事，脸上深刻的皱纹就像是被雨水冲涮过的黄土般沟壑毕现，声音微哑说道：“因为书院曾经出现过一个轲疯子，我不想世间再出现一个宁疯子，但凡是疯子都有可能让整个大唐替他们殉葬。”\n　　说完这句话，老将军剧烈地咳嗽起来，痛苦地咳嗽声回荡",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "皇后正在轻拍他的后背，听到这句话右手微僵，天枢处诸葛无仁，向来对她逢迎有加，这在宫里从来都不是秘密，然后她继续拍背，平静说道：“知道了。”\n　　皇帝看着她的眼睛，沉默片刻后说道：“土阳城那边，朝廷已经去书训斥，无诏调兵乃是大罪，却不知夏侯这次准备如何向朕解释。”\n　　皇后娘娘睫毛微眨，事涉最疼",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "…\n　　……\n　　“书院入世会让很多人感到警惕不安，比如那些以守护大唐为终生使命的军方将领，因为他们第一次发现世间有武力很难解决掉的威胁。”\n　　“但对于长安城里另外一些人来说，书院入世是他们宝贵的机会，因为他们可以借助书院的力量或者说态度，来争取一些他们没有把握拿到手的东西。”\n　　公主府的乌檐残",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "默无语。\n　　许世寒声说道：“生老病死这都是昊天安排给人类的命运，如果夫子没有离世，自然不需要我们多担心，然则如果夫子离世，你们一定不能把长安城和帝国的安危交到宁缺手中，我不管你们用什么方法，也要把那个阵眼抢回来。”\n　　王景略依旧沉默，先前何明池的那柄黄油纸伞并没有完全隔绝他的倾听，而且他事先便知",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第一百四十章 不曾疑\n　　王景略摇了摇头，说道：“然而帝国千年书院亦千年，如果真会发生什么事情，几百年前已经发生，想来不会专门留到我们这个年代。”\n　　许世说道：“那是因为书院千年以来只出现了一位夫子，也只有夫子才能教出那些有能力动摇我大唐国",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "角露出一丝笑意，然后弯着腰声剧烈地咳嗽起来。此时亲王已经出宫，宫中再无旁人，身为一国之君终于不再需要压抑自己，所以咳嗽声显得格外痛楚或者说痛快。\n　　金黄色的帷幕微荡，皇后娘娘端着药汤走了出来，缓缓坐到他身旁，伸出丰腴的手臂轻拍他的后背，温婉说道：“把药喝了吧。”\n　　大唐宫中这对夫妻，实在是数千年",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "那个年轻胖子随意施出的天下溪神指，低头沉默无语。\n　　许世寒声说道：“生老病死这都是昊天安排给人类的命运，如果夫子没有离世，自然不需要我们多担心，然则如果夫子离世，你们一定不能把长安城和帝国的安危交到宁缺手中，我不管你们用什么方法，也要把那个阵眼抢回来。”\n　　王景略依旧沉默，先前何明池的那柄黄油纸",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "，据天枢处眼线回报，甚至神殿有意让那名小婢女继承光明神座之位。那名小婢女是唐人，又是宁缺的侍女，如果日后她真能继承光明大神官之位，对帝国总是有好处的。”\n　　“那也得看宁缺那小子愿不愿意。”\n　　皇帝沉思片刻后摇了摇头，挥手示意李沛言退下。\n　　……\n　　……\n　　黯淡的冬日天光映照着地面那些光滑可",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "请辞吧。”\n　　皇后正在轻拍他的后背，听到这句话右手微僵，天枢处诸葛无仁，向来对她逢迎有加，这在宫里从来都不是秘密，然后她继续拍背，平静说道：“知道了。”\n　　皇帝看着她的眼睛，沉默片刻后说道：“土阳城那边，朝廷已经去书训斥，无诏调兵乃是大罪，却不知夏侯这次准备如何向朕解释。”\n　　皇后娘娘睫毛微眨",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "为他们可以借助书院的力量或者说态度，来争取一些他们没有把握拿到手的东西。”\n　　公主府的乌檐残雪下是一片楠木搭建的露台，台间搁着个铜火盆，李渔静静看着火盆里的炭火，开始对皇子李珲圆认真讲述一段还没有发生的故事。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "皇后忽然说道：“亲王殿下说不解军方因何震怒，在我看来，只怕是朝野间很多人开始警惕书院，警惕夫子离去之后的书院，陛下当注意这股暗流。”\n　　在钦天监做出那道夜幕遮星国将不宁的评鉴之前，大唐御书房里，经常能够看到皇后娘娘替陛下审阅奏章的画面，在那之后，李渔公主与草原金帐单于定亲的舆论压力让皇后娘娘",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "再需要压抑自己，所以咳嗽声显得格外痛楚或者说痛快。\n　　金黄色的帷幕微荡，皇后娘娘端着药汤走了出来，缓缓坐到他身旁，伸出丰腴的手臂轻拍他的后背，温婉说道：“把药喝了吧。”\n　　大唐宫中这对夫妻，实在是数千年来皇朝帝后里的异数，他们感情深厚无间，自前皇后病逝之后便生活在了一处，再也没有分开，如今皇宫里",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

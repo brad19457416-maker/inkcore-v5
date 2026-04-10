@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 465,
+  "chapter_title": "第二百六十九章 授业",
+  "filename": "ch_0465_第二百六十九章 授业.txt",
+  "char_count": 3283,
+  "timestamp": "2026-04-10T12:11:21.733205",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "教，说道：“果然有理。”\n　　瘦道人叹息说道：“我离开西陵也已经有二十三年，虽然在唐国不及在别国那般风光，但守着这座小道观倒也快活，听说其余诸国，道人们横征暴敛，神殿派出的使官更是骄纵豪奢，如此哪里能让世人真心敬畏昊天？只徒剩个畏字罢了，那些道人哪里是昊天的代言人，完全是昊天之耻。”\n　　事涉昊天道",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "道观石阶前这片尴尬。\n　　叶苏看着陈皮皮微笑说道：“我与老师有些时日未见，想来他应该还在南海，至于我为什么来长安，自然有别的原因。”\n　　陈皮皮好奇问道：“师兄，什么原因？”\n　　叶苏说道：“我来看夏侯。”\n　　稍一停顿后，他看着陈皮皮平静说道：“顺便看一看宁缺。”\n　　他是知守观的传人，昊天道门的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "着雨水，走到人群外围，他仰首眯眼，看着檐上那个身影，没有用多长时间，便认出对方的脸，本来半眯着的眼睛骤然圆睁，眼圈泛红，泪水刷的一声便流了下来。\n　　他看着屋顶上的叶苏，颤声喊道：“师兄！”\n　　叶苏在屋顶上，正在用竹绳扎紧檐柱里有些分开的木棍，听着下方人群外响起的声音，缓缓转过头来。\n　　他看着人",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "有整修瓦檐，突然遭到大雨袭击，便开始漏水。\n　　吃完面条后，秋雨渐停，瘦道人带着叶苏和观里两个小道童来到街巷里，开始帮助街坊们排水修檐。\n　　叶苏做过很多事情，比如一剑光寒世间，在生命里嘲笑冥界的使者，在云端之上无视红尘里的所有琐碎，但他没有修过被秋雨浇坏的屋檐，所以当他顺着楼梯爬到屋顶，开始收拣替",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "默望着或远或近的民宅与坊市，默默感受着自己的道心，发现自己已经僵化了十余年的境界，竟然真的发生了某种颤抖，出现了一道裂缝，不由震撼无语。\n　　长安城果然不是一般的城。\n　　便在这时，藉藉无名的小道观，再次迎来了一位客人。\n　　这名客人是位穿着青色道袍的少女。\n　　叶红鱼看着石阶上的兄长，身体难以抑止",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "或远或近的民宅与坊市，默默感受着自己的道心，发现自己已经僵化了十余年的境界，竟然真的发生了某种颤抖，出现了一道裂缝，不由震撼无语。\n　　长安城果然不是一般的城。\n　　便在这时，藉藉无名的小道观，再次迎来了一位客人。\n　　这名客人是位穿着青色道袍的少女。\n　　叶红鱼看着石阶上的兄长，身体难以抑止的轻轻",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "街头的画面。\n　　一个圆滚滚的身影，从雨水化成的水汽里走了出来。\n　　陈皮皮顺着石街，踩着雨水，走到人群外围，他仰首眯眼，看着檐上那个身影，没有用多长时间，便认出对方的脸，本来半眯着的眼睛骤然圆睁，眼圈泛红，泪水刷的一声便流了下来。\n　　他看着屋顶上的叶苏，颤声喊道：“师兄！”\n　　叶苏在屋顶上，正",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "但其实细细想去，真挑不出什么错处。\n　　于是他沉默了很长时间。\n　　石阶下那几只麻雀，因为场间气氛的压抑沉静，反而醒过神来，啾啾尖鸣两声，扑扇着翅膀，连飞带跑躲到了秋树的阴影中。\n　　叶苏从沉默中醒来，看着瘦道人面无表情说道：“请继续指教。”\n　　瘦道人看着他笑了笑，说道：“其实唐人至少九成以上都是",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "来，啾啾尖鸣两声，扑扇着翅膀，连飞带跑躲到了秋树的阴影中。\n　　叶苏从沉默中醒来，看着瘦道人面无表情说道：“请继续指教。”\n　　瘦道人看着他笑了笑，说道：“其实唐人至少九成以上都是昊天道门的信徒，只不过和南晋宋国那些地方的信徒不同，他们很没有耐性来参加宣教活动，所以如果要加强他们对昊天的信仰，宣教并",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "六十九章 授业\n　　叶苏自幼便在知守观里修道，其后周游诸国，也只见道门备受尊崇，总以为这是自然之事，从来没有想过，信仰居然还可以这样去理解。\n　　他本想一掌把这名亵渎教义的道人拍死，然而，他忽然想道，瘦道人的这番话虽然难听，但其实细细想去，真挑不出什么错处。\n　　于是他沉默了很长时间。\n　　石阶下那",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "声喊道：“师兄！”\n　　叶苏在屋顶上，正在用竹绳扎紧檐柱里有些分开的木棍，听着下方人群外响起的声音，缓缓转过头来。\n　　他看着人群外那个胖胖的年轻人，惯常没有任何情绪的脸上浮现出一丝极为真诚的笑容，开心说道：“你来了？”\n　　陈皮皮看着屋顶上的叶苏，泪流满面说道：“师兄……你这是怎么了？难道你也被逐",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

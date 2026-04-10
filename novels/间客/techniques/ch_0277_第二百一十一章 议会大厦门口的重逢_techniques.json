@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 277,
+  "chapter_title": "第二百一十一章 议会大厦门口的重逢",
+  "filename": "ch_0277_第二百一十一章 议会大厦门口的重逢.txt",
+  "char_count": 3431,
+  "timestamp": "2026-04-10T12:04:51.171820",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "直接转身离开，他来过了，并且看到了，确认了，那便行了。\n\n    他落寞地走下了石阶，然后被一群穿着风衣，手拿黑色雨伞的司法部官员拦住了道路。\n\n    都特区的上空有云且厚，只不过深秋时节下雨的概率很少，所以街上的行人和石阶上下的记们都没有带雨伞。所以这些穿着风衣，拿着黑色雨伞的官员显得格外醒目。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "并且还要求召开这一次特别的听证会议。\n\n    光屏中。锡安议员皱了皱眉头。阻止了张小萌地回答。继续说道：“一个对联邦没有任何忠诚度可言。反复无常地女人。你地证词究竟有几分可信？”\n\n    “我忠于联邦。只不过并不忠于联邦政府。”\n\n    ……\n\n    ……\n\n    车载反雷达设备早已开启。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。\n\n    “你曾经是一位归北，据你自述现在还是**军的一名间谍，我不理解，你为什么会冒着被逮捕的危险回到Ｓ１，并且还要求召开这一次特别的听证会议。\n\n    光屏中。锡安议员皱了皱眉头。阻止了张小萌地回答。继续说道：“一个对联邦没有任何忠诚度可言。反复无常地女人。你地证词究竟有几分可信？”",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "表何种意味情绪的红晕。\n\n    “你曾经是一位归北，据你自述现在还是**军的一名间谍，我不理解，你为什么会冒着被逮捕的危险回到Ｓ１，并且还要求召开这一次特别的听证会议。\n\n    光屏中。锡安议员皱了皱眉头。阻止了张小萌地回答。继续说道：“一个对联邦没有任何忠诚度可言。反复无常地女人。你地证词究竟",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "轻笑了笑，并没有回答实际的内容，却用她的沉着与诚恳完美地展现了山中**军的形象。\n\n    许乐隔着人群，静静地看着石阶中央的女孩儿，已经很久没有如此近距离地看着她了，以前他曾只隔着一张餐桌的距离看着她，以前他曾不曾有距离地看着她，可如今隔着人群，就像隔了一片星河那般遥远。\n\n    张小萌变得成熟",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "报着此间的情况，做着即时新闻连线，场面混乱不堪。\n\n    许乐穿过那些沉重的摄像机，快步走上石阶，来到议会大厦的门口，被门外的警戒线和如临大敌的上百名军警拦了下来。在警戒线的外面，除了那些记之外，还有一些不知为何而来的激动人士。\n\n    四周皆激动，许乐抹了抹额头的汗水，在这深秋寒冷的日子里，他",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的交通平时并不会如此繁忙，如此拥挤，不知道是不是那些游行示威队伍防碍了交通，也妨碍了人们的交流。许乐愤怒地挤出那些举着标语的青年学生，等他跑到议会大厦石阶下时，时间已经过去了很久。\n\n    议会大厦前面挤满了闻讯而来的新闻媒体，只有被允许的几家大型电视台拥有直播听证会的权利，多达数百名记和摄像师，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "。\n\n    张小萌的眼眸中闪过一丝惊讶，一丝无措，一丝歉疚，一丝伤感，一丝不安，一丝喜悦，无数情绪最终只是汇成了一滴泪珠缓缓从眼角流了下来。\n\n    许乐静静地看着她在人群中流泪，本来无比繁杂激动的情绪，顿时变得通透平静起来。\n\n    人群中有一名记大声问了一个问题，正怔怔流泪的张小萌醒过神来",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "权力机构的石阶上，隔着人群与嘈杂的声音，许乐和张小萌的眼光碰触到了一起，在这一刻，除了他们之外的任何存在似乎都不再存在。\n\n    张小萌的眼眸中闪过一丝惊讶，一丝无措，一丝歉疚，一丝伤感，一丝不安，一丝喜悦，无数情绪最终只是汇成了一滴泪珠缓缓从眼角流了下来。\n\n    许乐静静地看着她在人群中流泪",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "关心的事情有关，所以他没有出门，一边默默感念着体内的力量流淌，一边等待着听证会召开。然而当新闻画面上出现那个清丽女孩儿时，许乐不知道自己的等待是不是正确。\n\n    那个女孩儿剪短了自己的头，穿着更加朴素，表情更加平静。她望着镜头的方向微微一笑，她走进了会场，她走上了主席台，她把手放在了大宪章上，她",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "景前，语速匆忙地向频道主管汇报着此间的情况，做着即时新闻连线，场面混乱不堪。\n\n    许乐穿过那些沉重的摄像机，快步走上石阶，来到议会大厦的门口，被门外的警戒线和如临大敌的上百名军警拦了下来。在警戒线的外面，除了那些记之外，还有一些不知为何而来的激动人士。\n\n    四周皆激动，许乐抹了抹额头的汗",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "艰涩困难。\n\n    四周的闪光灯好亮，张小萌紧紧握着拳头，所以先前她才会比他更晚一些看到对方，那一瞬间，她本以为自己看错了。\n\n    ……\n\n    ……\n\n    军女战士忽然来到都特区，在议会山做证，这是联邦历史中开天辟地的头一遭。记和民众们先前都在关注着听证会现场的进程，对石阶上这位年轻女",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "冷静沉稳的目光有些游离，似乎想要在人群中寻找什么，然后那双目光落在自己的脸上。\n\n    在联邦最高权力机构的石阶上，隔着人群与嘈杂的声音，许乐和张小萌的眼光碰触到了一起，在这一刻，除了他们之外的任何存在似乎都不再存在。\n\n    张小萌的眼眸中闪过一丝惊讶，一丝无措，一丝歉疚，一丝伤感，一丝不安，",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "眼眸中闪过一丝惊讶，一丝无措，一丝歉疚，一丝伤感，一丝不安，一丝喜悦，无数情绪最终只是汇成了一滴泪珠缓缓从眼角流了下来。\n\n    许乐静静地看着她在人群中流泪，本来无比繁杂激动的情绪，顿时变得通透平静起来。\n\n    人群中有一名记大声问了一个问题，正怔怔流泪的张小萌醒过神来，缓缓回过头去，这回头",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

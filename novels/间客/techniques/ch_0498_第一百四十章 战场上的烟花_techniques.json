@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 498,
+  "chapter_title": "第一百四十章 战场上的烟花",
+  "filename": "ch_0498_第一百四十章 战场上的烟花.txt",
+  "char_count": 3467,
+  "timestamp": "2026-04-10T12:04:59.271154",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "样，然而不知道为什么，他眯着眼睛，听着枪炮声，嗅着淡淡焦糊的硝烟味道，并没有什么慌乱感觉，似乎充满了危险的战场本来就是他那颗大心脏最熟悉的地方。\n\n    他用左手在防弹背心边缘拉出一条细索，索头是约指甲大小的视频收纳器，轻轻搁在被炮弹震起的浮土上。\n\n    半秒钟后，单丘头盔前方那块小小的超薄光",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "这两个半星系，便是3320行星系，163行星系，以及半颗5460星球。\n\n    宪历六十年代末尾爆发的这场战争，这次命名为胜利的好大军事行动，所必须达成的战略目标，便是要将帝国入侵者，从他们占据了数十年的这两颗半行星上赶出去。\n\n    要达到这个战略目标，并且尽可能地减少军事资源的恐怖投入和士",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "帝国士兵身上骤现几个弹孔，重重地摔倒在地面。\n\n    ……\n\n    ……\n\n    子弹在头顶的天空里划过灼热的微白线条，密集无比，清脆而恐怖的枪声，钻入人们的耳朵。\n\n    手指传来清晰地反震感觉，根本顾不上去观察射击后的结果，许乐左脚深深地在浮土里一蹬，一声闷响，每一块土砾都被震的结实无比",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "想中的效果，帝国装甲小队的队形分毫未乱，冲锋的速度保持的极快，根本无视身边同伴的倒下死亡，眼看着便要来到缓坡下方。\n\n    许乐提着枪又开始转移射击地点，找到一个不起眼的草垛子，眯着眼睛盯着光屏，在通话系统里问道：“空中支援什么时候到？”\n\n    “还有两分钟。”耳麦里传来白玉兰冷静快速的回答。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "个战略目标，并且尽可能地减少军事资源的恐怖投入和士兵的死亡数字，联邦军事当局首先要做的事情，当然毫无疑问是重新构织重层电子监控网络，让宪章的光辉重新照破西林边陲的黑暗，让躲在这三课行星上的帝国远征军变成阳光下并不新鲜的黑点，躲无可躲，逃无可逃。\n\n    自战火从5460行星燃起之后，联邦军方开始加",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "组的运气并不好。\n\n    在抵达163行星之后，他们马上投入到了修补宪章光辉的工作之中，今天是他们第一次执行监控网络铺设任务。暂时归入西林第三战区指挥部管辖的他们，清晨时离开临时空运转接点，用了半天的时间，在指定区域内忙乱地完成了设备安装。\n\n    然而谁也没有想到，就在回程的路途上，在距离轻型",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "然而在这片草甸缓坡之上，枪林弹雨之中，却像是天长地久一般漫长。正当许乐一边射击一边默然思考后路时，却骤然听到向旁草垛里传出一声暴喝。\n\n    “跑！”\n\n    熊临泉壮猛无俦地从草垛里站了出来，震起无数草丝，大吼一声，粗壮双臂端着的达林机炮高速旋转，喷出六道艳丽的烟花小＿说txt天'堂",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "…\n\n    ……\n\n    子弹在头顶的天空里划过灼热的微白线条，密集无比，清脆而恐怖的枪声，钻入人们的耳朵。\n\n    手指传来清晰地反震感觉，根本顾不上去观察射击后的结果，许乐左脚深深地在浮土里一蹬，一声闷响，每一块土砾都被震的结实无比，而他的身体则是借着这道反震力，诡异无比地变成一道灰线，顺",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "出现了缓坡下方的图像。\n\n    有十一辆帝国重装甲战车，高速向着阵地上冲了过来，轰鸣阵阵，大地微微颤抖，而在战车队形中间，有上百名帝国远征军的士兵端着冰冷的机械，沉默而令人窒息地开始冲锋。\n\n    帝国的轻型装甲小队。\n\n    许乐看着这一幕，心情变得略微紧张，无声地骂了几句脏话。他下意识舔了",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "位。\n\n    在缓坡西方的一块大石后，许乐抹了抹脸上的汗水混着的烟尘，将身体缩成一团，几颗战场上无意义散射的子弹，刚刚击中了他身旁的大石，溅出几粒星火。\n\n    他将手中的枪械探出石头，开始拼命开火，通过步兵头盔上的视界，清晰地看到，大部分的子弹落在了装甲车上，只有一名帝国士兵的大腿被射出了几个",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，沉默而令人窒息地开始冲锋。\n\n    帝国的轻型装甲小队。\n\n    许乐看着这一幕，心情变得略微紧张，无声地骂了几句脏话。他下意识舔了舔发干的嘴唇，发现唇边那些星球上的泥土竟有些甜，不知道是本来如此，还是因为沾染了战友血水的原因。\n\n    今天七组第一次深入交战区侧方，安装低频监控装备的工作进",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "则是借着这道反震力，诡异无比地变成一道灰线，顺着简易工事平移五米。\n\n    他重重地摔落地面，几乎同时，一台帝国装甲车机炮轰鸣，对准他原先所在的那片浮土开始射击，一片密集的弹雨，嗤嗤而来，直接将那片掀成了烂泥潭。\n\n    如果先前那一刻许乐稍有迟疑，兴奋于枪枪毙命的战果，骄傲于自己从白玉兰处学到",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "方。\n\n    许乐提着枪又开始转移射击地点，找到一个不起眼的草垛子，眯着眼睛盯着光屏，在通话系统里问道：“空中支援什么时候到？”\n\n    “还有两分钟。”耳麦里传来白玉兰冷静快速的回答。\n\n    两分钟看上去是很短的时间段，然而在这片草甸缓坡之上，枪林弹雨之中，却像是天长地久一般漫长。正当许乐",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "了一道简易工事，而在缓坡后方则是一片草原，如果让帝国的庄家小队发动了速度上的优势，七组这一百多名士兵命运堪忧。\n\n    急促地呼吸了几次，背靠浮土的许乐脸色便得有些苍白，眼眸却是越来越亮，倏忽间半蹲起身，朝着缓坡下连续扣动了扳机。\n\n    零点五秒钟之内，半个弹匣的子弹被他射了出去，枪火串出黑洞",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

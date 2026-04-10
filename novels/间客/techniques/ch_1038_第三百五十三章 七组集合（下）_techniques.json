@@ -1,0 +1,258 @@
+{
+  "novel": "间客",
+  "chapter_number": 1038,
+  "chapter_title": "第三百五十三章 七组集合（下）",
+  "filename": "ch_1038_第三百五十三章 七组集合（下）.txt",
+  "char_count": 5875,
+  "timestamp": "2026-04-10T12:05:26.959328",
+  "techniques_count": 19,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "又是一通训斥。\n\n    想着那名妇女尖酸刻薄的嘴脸，出租车司机忍不住摇了摇头，摇下车窗玻璃，希望晨风能把味道全部吹走。\n\n    因为战争的缘故这两年联邦的物资供应非常紧张，使用混合动力的出租车，无论加灌氢气或是使用电力站充能价钱都在不停的飞涨。\n\n    跑出租的师傅们想要维持收入，除了绕远路宰",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "时，一名身材魁梧的男人走了过来，很直接自我介绍道：“我黑鹰。”\n\n    刘佼缓缓眯起眼睛，看着对方说道：“有什么事？”\n\n    那名男人看着他说道：“我们想招你。”\n\n    刘佼沉默片刻后摇了摇头，低声回答道：“我在白水干了太多年，已经干腻了，不要再来找我。”\n\n    “在七组和新十七师和在",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "摇了摇头，摇下车窗玻璃，希望晨风能把味道全部吹走。\n\n    因为战争的缘故这两年联邦的物资供应非常紧张，使用混合动力的出租车，无论加灌氢气或是使用电力站充能价钱都在不停的飞涨。\n\n    跑出租的师傅们想要维持收入，除了绕远路宰生客这种常见手段外，也不得不愈发注意节省每日的支出。\n\n    所以虽",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "四个手写的字，还有一个不起眼却非常清晰的花押。\n\n    任何执行联邦政府私活的雇佣小队，都有自己的秘密标识，七组也不例外，而且这种秘密标识一直延续到整体编进联邦部队，进入新十七师。\n\n    那个花押正是七组的秘密标识，除了队员自己之外，本应该没有任何外人能够知道，此时却出现在名片上。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "声哭泣，看上去十分凄惨。\n\n    轮胎高速旋转，带起两道激烈的水花，呼啸离开湖湾码头这片偏僻巷口，瞬间消失在雨夜之中。\n\n    黎明到来，黄色出租车安静地停在港都某处社区外，那位面容普通的司机默默看着社区大门，看了一下时间，掐熄手中烟卷，然后往车厢内喷了些空气清新剂。\n\n    他每天清晨负责接",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "没有人知道，他们已经开始在默默的准备，准备迎接分别三年的战友兄弟，准备迎接新的命令，准备战斗。\n\n    七组，已经**。\n\n    ……\n\n    ……\n\n    （噢噢，写的真嗨劈啊，我忽然很担忧，这时候搞的这么嗨，后面情节不嗨了怎么办？你们到时候不要骂我，记着这章就好，合什。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "房间里传出孩子的呼喊声，白玉兰面色剧变，赶紧打开露台窗户，把还有一半的烟卷扔了出去，然后扯下一块毛巾拼命地扇动，希望能够把烟味扇走。\n\n    “爸爸，你又抽烟了！”\n\n    三岁的儿子抱着一把玩具枪，气鼓鼓地瞪着他，手指头放在扳机上，似乎随时可能射出惩罚的子弹。\n\n    白玉兰尴尬笑了笑，蹲下",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "喊叫道，刘佼怔一怔后，轻言细语回答道：“洗***。”\n\n    浑身名牌的妇人脸色变得异常苍白，举起颤抖的手臂指着他的脸，咆哮道：“你不想干活啦！”\n\n    刘佼不再理她，拎着蓝色防脱毛抹布坐进出租车，伴着尖锐的轮胎磨擦声，就这样扬长而去。\n\n    那名妇人目瞪口呆站在街边，不知道发生了什么，让",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "有钱的退伍军官，却不知道那些更细节的东西。\n\n    没有说不代表从来不会想起，不会想念，那是白玉兰人生前半段所有的光荣与骄傲，其实他一直很想通过叙述重温那段回忆，却找不到合适的谈话对象。\n\n    “你知道这种机甲的编号吗？”他看着儿子试探问道。\n\n    儿子大声回答道：“知道，是mx！”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "十七师。\n\n    那个花押正是七组的秘密标识，除了队员自己之外，本应该没有任何外人能够知道，此时却出现在名片上。\n\n    名片背面那四个手写的字是：\n\n    “**待命。”\n\n    ……\n\n    ……\n\n    刘佼看着那四个字，看着那个花押，瞬间想过无数过往，硝烟弥漫的战场和香烟弥漫的营",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "微发白，***着自己的腹部，想起那些很久没有见到的家伙曾经嘲讽自己有了一个风湿关节胃，唇角忍不住露出自嘲的笑容。\n\n    他叫刘佼，前七组队员。\n\n    刘佼已经退伍多年，并没有参加过那次首都春雨夜中针对姜睿医师的打脸活动，但上个月他从某位队员电话里得知此事，并且知道那名医师现在正在港都，所以他",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "七组队员无论在前线或是退伍，始终是联邦政府监控的对象，像昨夜那般痛揍没有背景的医生无所谓，但想要重新进入像黑鹰这种地方，非常麻烦。\n\n    黑鹰主管脸上的惋惜之情非常诚挚：“太可惜了。”\n\n    然后他取出一张名片递了过去，说道：“如果以后情况有变，请直接拨打这个号码，我的分部现在直属邹小姐管理",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "不错。\n\n    想着昨夜那个在雨水里痛苦翻滚的医生，刘佼愉快地笑了起来，然后注意到社区大门的铁栅栏缓缓打开。\n\n    小雇主和他那位难缠的母亲就要出来了，刘佼摇了摇头，打开空调，自己却拿了一块抹布走下车。\n\n    就在他准备把出租车擦的更干净时，一名身材魁梧的男人走了过来，很直接自我介绍道：“",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "片，经过后期处理的画面上看不到太多鲜血和残肢，只有联邦部队的英勇和帝国敌人的怯懦愚蠢，所以白玉兰并不担心才三岁的儿子会被这些战地纪录片薰陶成变态杀手。\n\n    但他非常不理解这么小的孩子不爱看动画片，却天天抱着玩具枪对着战地纪录片兴奋不已，难道这就是所谓的强大生物标记遗传作用？\n\n    “我的好",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "错，店里的姑娘格外漂亮。\n\n    像这样过着不错生活的队员还有很多，退伍后的他们正在缓慢地重新融入社会，融入本来属于他们的圈子。\n\n    两年前，江锦在家族支持下开了连锁电影院，然后他想请和自己同批退伍的某名老队员去做经理。\n\n    那名老队员却说，以前在部队里老子是你的头儿，现在你居然想当我",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "黑鹰主管脸上的惋惜之情非常诚挚：“太可惜了。”\n\n    然后他取出一张名片递了过去，说道：“如果以后情况有变，请直接拨打这个号码，我的分部现在直属邹小姐管理，她非常看重你，这是她的电话。”\n\n    邹小姐应该就是望都公寓里那位部长千金？刘佼用两根手指夹着名片，皱眉望着那名黑鹰主管的背影，很随意",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "多年的家居生活，没有工作，如果换成别的男人或者会非常不适应，肯定会有些失落寂寞感觉，但白玉兰从来没有这些感觉，他很适应甚至享受。\n\n    十六岁不到就开始拿起枪械杀人放火替政府卖命做私活虽然不能说是无恶不作但却可以说饱经风霜惯看狂风骤雨打的花枝零落，这种经历过于丰富的男人一旦回到世俗平静的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“**待命。”\n\n    ……\n\n    ……\n\n    刘佼看着那四个字，看着那个花押，瞬间想过无数过往，硝烟弥漫的战场和香烟弥漫的营房。\n\n    他的眉毛挑了挑，眼眸骤然明亮，唇角神经质般牵动，似乎想要笑，却又硬生生把这抹笑意压制下去，最后变成双唇间轻扬吹出的一连串口哨。\n\n    “我说那",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "么不适应和抵触情绪。\n\n    淡蓝色的烟雾弥漫在露台间，白玉兰微笑望着窗外的雪花，满意于此时身旁的温暖，当年身上那股特殊的闺柔阴冷气息早已被家庭与亲人******成了温和。\n\n    他下意识里抬起挟着烟卷的手，想用大拇指把额头细碎发丝掀起，手指什么都没有碰到，才发现原己早就已经把头发剪的短且清爽",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

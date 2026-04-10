@@ -1,0 +1,37 @@
+{
+  "novel": "间客",
+  "chapter_number": 467,
+  "chapter_title": "第二章，因为我无法保证数量，我还很担心不能保证质量。",
+  "filename": "ch_0467_第二章，因为我无法保证数量，我还很担心不能保证质量。.txt",
+  "char_count": 170,
+  "timestamp": "2026-04-10T12:04:59.217339",
+  "techniques_count": 2,
+  "techniques": [
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "第二章，因为我无法保证数量，我还很担心不能保证质量。\n\n    这月间客应该是有封推，偏生却是最忙的一个月，想着次封推也是如此，很是头痛，如果是月底封推该有多好？\n\n    我本是那伟大勤奋的人儿，奈何却被充实却繁杂的无数琐事折腾回了",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "也是如此，很是头痛，如果是月底封推该有多好？\n\n    我本是那伟大勤奋的人儿，奈何却被充实却繁杂的无数琐事折腾回了一个废柴。\n\n    或许，这……就是生活 ＷＷw.xiＡosＨuotxt.ＣＯＭ\n\n\n\n第三卷西林的征途",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

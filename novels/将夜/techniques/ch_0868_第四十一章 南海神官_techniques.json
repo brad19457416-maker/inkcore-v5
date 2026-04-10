@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 868,
+  "chapter_title": "第四十一章 南海神官",
+  "filename": "ch_0868_第四十一章 南海神官.txt",
+  "char_count": 3307,
+  "timestamp": "2026-04-10T12:11:27.371155",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "袅袅而终。\n　　“六百年了。”天谕院院长看着祭坛前的这十几个人，脸色苍白说道：“已经过了六百年，你们为什么还要回来？”\n　　站在那些人最前面的是位老人，面容黝黑，上面有极深的皱纹，就像被重物压久了的皮革，生着短而疏的胡须，眼神宁静，看上去就像是位阅尽人间悲欢离合的老农，因为淡淡海腥味，则更像位老渔夫",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "渐渐演变成了权力的争斗。\n　　那位光明大神官的境界高深莫测，无论修道境界还是辩难，以一敌三竟也不落下风，神殿内部也随之发生了极为激烈的斗争。\n　　卫光明逃离幽阁，桃山死伤无数，在这之前，六百年前那场因为修订教典而引发的内乱，便是西陵神殿历史上最惨烈的一段历史。\n　　那场神殿内乱太过恐怖，以至于影响到",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "教典刑罚，诛杀叛教者及魔宗修行者，都拥有极大的权柄。唯独光明大神官没有具体事务，然而却是地位最超然的存在。\n　　光明大神官都被视为距离昊天最近的凡人，在三大神座里隐隐排在首位，甚至拥有不下于掌教的威望，甚至有种说法，在三千多年前的大治元年之前，西陵神殿根本没有掌教，掌教的出现，就是因为道门内部试图压",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "千年以降，西陵神殿最了不起的三个人，全部出自光明神殿，第一位便是带着天书明字卷远赴荒原传道，却最终开创明宗的那位光明大神官。最近的那位，便是被囚禁在幽阁十余年最后与颜瑟一同死去的卫光明。\n　　剩下的那位，便是六百年前光明神殿的主人。那位光明大神官，自幼精研西陵教典，备受尊崇，得赴知守观阅三卷天",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "句话说，这些人都是他的亲族，按道理来说，南海来人救了他的性命，而且又是他的亲人，他这时候应该表现的更激动些，至少也应该流露出些感激的神情。\n　　陈皮皮没有，他只是静静看着这些南海来人，因为他哪怕什么都不记得，也依然记得这些在艰难海上传道的人，除了传道之外什么都不在乎，对待自己和对待别人都像海水那样冷",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，拉出一道柔滑神圣的长音，才袅袅而终。\n　　“六百年了。”天谕院院长看着祭坛前的这十几个人，脸色苍白说道：“已经过了六百年，你们为什么还要回来？”\n　　站在那些人最前面的是位老人，面容黝黑，上面有极深的皱纹，就像被重物压久了的皮革，生着短而疏的胡须，眼神宁静，看上去就像是位阅尽人间悲欢离合的老农，因",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "位，甚至拥有不下于掌教的威望，甚至有种说法，在三千多年前的大治元年之前，西陵神殿根本没有掌教，掌教的出现，就是因为道门内部试图压制光明一系的产物。\n　　千年以降，西陵神殿最了不起的三个人，全部出自光明神殿，第一位便是带着天书明字卷远赴荒原传道，却最终开创明宗的那位光明大神官。最近的那位，便是被囚禁在",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "以为南海光明一脉早已断了传承。\n　　谁能想到南海大神官还有传人，而且重新回到了桃山！\n　　祭坛四周的人们神情极度震撼，尤其是神殿里知晓这段往事的神官和执事们，脸上的表情更是复杂至极，时隔六百年，这些人居然真的回来了！\n　　不是所有人都不知道南海大神官一脉并未断了传承，比如叶红鱼就很清楚，陈皮皮的母亲",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "来人的颂祭声还在持续，看着这些人戴的笠帽和身上淡淡的鱼腥味，天谕院院长终于猜到了这些人是何来历，脸色骤然间变得更为苍白，再没有任何犹豫，唇角渗血，厉声喝道：“言之命从！断！”\n　　这声断喝是西陵教典降世篇里的段首第一句，融入了他知命境的修为和数十年颂读经典所得，自然非同寻常。\n　　祭坛前的颂祭声终于",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "在榻旁煮茶，隆庆在湖对岸的草屋里看天书。\n　　中年道人把茶分好，轻轻搁到榻旁。\n　　观主用新生的手指缓缓取过茶盏，浅浅饮了口。\n　　中年道人看着桃山方向，沉默很长时间后说道：“可惜了。”\n　　观主知道师弟说的可惜有两层意思。\n　　夫子在泗水畔登天那日，自天上落下一脚，踩塌了观后的青山蚁窟，道门隐世高",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "意修订？当时的裁决、天谕两位神座和掌教都反对他的做法，认为他走上了歧路，最终学术上的分歧渐渐演变成了权力的争斗。\n　　那位光明大神官的境界高深莫测，无论修道境界还是辩难，以一敌三竟也不落下风，神殿内部也随之发生了极为激烈的斗争。\n　　卫光明逃离幽阁，桃山死伤无数，在这之前，六百年前那场因为修订教典而",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "是道门一属，但不要忘记当年南海大神官离开桃山时发下的誓言。”\n　　赵南海面无表情说道：“我南海一脉，从来没有奢望过你们这些居住在桃山上的腐朽者愿意认错，但你们既然敢召开光明祭，自然说明昊天已经降下神迹，我们从南海归来，又哪里违背了誓言？”\n　　天谕院院长不知该如何回答。\n　　颂祭暂停，西陵教典奉天篇",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "订，并且将他和效忠于他的十余名红衣神官请出桃山，但承认他一脉的正统地位。\n　　那位光明大神官就此飘然离开桃山，远赴南海传道，发下大愿，除非昊天降下神迹或是道门认错，他终生不踏陆地一步！\n　　在那之后，南海上偶尔传来消息，有人乘舟浮于海，在各小岛之间来回，给那些尚未开发的野人传道。消息不断地传回陆地，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

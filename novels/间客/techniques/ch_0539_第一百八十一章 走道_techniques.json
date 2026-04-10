@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 539,
+  "chapter_title": "第一百八十一章 走道",
+  "filename": "ch_0539_第一百八十一章 走道.txt",
+  "char_count": 4011,
+  "timestamp": "2026-04-10T12:05:08.581789",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "都非常明\n\n    白，所以用强悍的铁般神经控制着自己哪怕最微小的动作…\n\n    整个空间里充满着压抑紧张的气氛，无论是七组还是穿着西林军服\n\n    的人们都无法确定对方的真实身份，士其是忽然出现在此地的意图。\n\n    冰冷的汗水从双方众人的后背渗了出来，打湿了硬陶防弹衣下方\n\n    的丝质",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "些莫名其妙的信\n\n    心，尤其是想到某些联邦大人物冷血地试图暗杀许乐，许乐的生命处于\n\n    危险之中，这副闺秀身躯里隐藏着的疯瘾意味便自然奔涌而出。\n\n    所以他没有回客顾惜风的问题，伸出两根手指比了一十战术动作\n\n    ，然后往喷气雾剂去除烟味和别的身体异味二队员们同样如此，同时",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "是因为某种隐隐兴奋，兴奋于未知的片刻时间之后，不安于这\n\n    种职业扮演。\n\n    诱旭，毫无疑问是世界上最危险的工作，钓鱼的蚯蚓，诱公牛的\n\n    少年，激帝国人的简水儿，都是如此。\n\n    许乐愿意做诱饵，是自己的主动选择，他有无所不能的联邦电脑帮\n\n    助，对方也有联邦里的大人物",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "息地出现。\n\n    几乎问时，双方毫不犹豫地举起了手中的枪械瞄准了对方，瞄准\n\n    了微光之中突然出现的身体，很奇妙的是，或许双方都不愿意惊动什\n\n    么，哪怕是如此整齐快速的动作，依然没有发出任何声音。\n\n    没有人抠动扳机。\n\n    昏暗的狭窄走道里，两群全副武装的人们持枪对峙，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "第一百八十一章 走道 \n\n    涛厢甲的十组队员们听到白玉兰的话后，同时怔住不动些\n\n    职业专家每次执行任务时，绝对不会留下有迹可循的强烈个人风格\n\n    和刺杀设计，而大楼里那位在多年杀人档案中只留下背影，近乎传奇的\n\n    专家，也完全没有类似的行事手法",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "目光，伸出舌尖舔了\n\n    舔嘴唇，低声说道，“不要这么看我，我不是妖怪，头儿才是。”\n\n    众人交流拟定计划的时候，他的余光其实一直没有离开过远处那\n\n    几辆西林军车，心里那抹紧张总是挥之不去，某种直觉让他决定直接\n\n    从地下停车场进入大楼内部，而不要与那些西林军人发生任何接触二",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "们听到白玉兰的话后，同时怔住不动些\n\n    职业专家每次执行任务时，绝对不会留下有迹可循的强烈个人风格\n\n    和刺杀设计，而大楼里那位在多年杀人档案中只留下背影，近乎传奇的\n\n    专家，也完全没有类似的行事手法。队员们想不明白，为什么老白如\n\n    此坚定地认为，对方一定藏在楼上的房间里",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "处那\n\n    几辆西林军车，心里那抹紧张总是挥之不去，某种直觉让他决定直接\n\n    从地下停车场进入大楼内部，而不要与那些西林军人发生任何接触二\n\n    地下停车场电梯间旁，七组队员们已经乔装打扮成了路人，他们沉\n\n    就地整理着枪械，只有熊临炎依然一脸冷峻地提着大提琴箱，没有什",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "！\n\n    这一群穿着西林军装的特种兵，明显也没有预料到，居然有人从走\n\n    道那头悄无声息地出现。\n\n    几乎问时，双方毫不犹豫地举起了手中的枪械瞄准了对方，瞄准\n\n    了微光之中突然出现的身体，很奇妙的是，或许双方都不愿意惊动什\n\n    么，哪怕是如此整齐快速的动作，依然没有发出",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "路人般的汉子，目光盯着他们手中的枪械，尤其是排头熊临\n\n    炎和白玉兰手中的大枪，心中无比震惊，暗想这种火力也太他妈的暴\n\n    了，，\n\n    令人窒息的气氛中，白玉兰屏息住的呼吸终于再次平缓开始，他向\n\n    着对面的军人们比了一个手式，盯着他们深青色的军风衣，试探性质\n\n    地用",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "。\n\n    先前黑车行驶入路口，才真的是最佳的狙击位置，许乐那时候以为\n\n    对方会开枪，甚至盼望着对方开枪，因为他清楚这十世界上能打透部家\n\n    黑车的远程武器基本没有什么，这是当年临海州体育馆一台军用机甲证\n\n    明过的事情。\n\n    令他有些失望的是，大楼里的杀人专家比他想像的",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "息监控的顾惜风眉头一皱，捂着耳朵认真\n\n    地听了几秒钟，然后抬起头望着白玉兰，用一种古怪的语气说道“正\n\n    面监控发回来消息，红外远距离遥感没发现…力里有人，光学检查也没\n\n    发现窗口处有枪。”\n\n    一直低着头的白玉兰，迎着车中队员们的奇异目光，伸出舌尖舔了\n\n    舔嘴唇",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "最佳姿式和状态，时不时他的耳朵会微微一动，\n\n    倾听着房间外走道里的声音，令他安心的是外界一直安静。\n\n    阴暗的通道里，自感应节能灯一直没有亮，然而八名七组队员如\n\n    司幽灵一般，悄无声息地摸了过来，渐渐靠近…驯房间门口。\n\n    黑色的大提琴箱安静地躺在走道尽头，戴着步兵头盔的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

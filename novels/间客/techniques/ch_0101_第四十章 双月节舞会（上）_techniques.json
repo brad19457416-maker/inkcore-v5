@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 101,
+  "chapter_title": "第四十章 双月节舞会（上）",
+  "filename": "ch_0101_第四十章 双月节舞会（上）.txt",
+  "char_count": 3453,
+  "timestamp": "2026-04-10T11:53:35.108148",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "上的红色晚礼服。然而那两道温柔多情清纯的目光，却让邹郁觉得自己浑身**，十分难受。\n\n    不知道为什么，身边带着一位**军要犯的施清海应该低调，此时却偏偏表现的如此嚣张，“不过你还是要管好你身边这些狗……当然，小萌不包括在内。”\n\n    这群年轻男女本就不是什么善类，尤其是当孙家大少吃了个大亏",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "乐一个终生残疾的刑罚，眼神都有些不屑冰冷和怜悯，只是在邹郁的压制下，此时才没有马上算帐，保持着些微的风度。此时听到施清海咄咄逼人，分寸不让的言辞进攻，他们快要忍不住了。\n\n    “只有狗，才会懂有教养的狗的礼仪问题。”施清海望着这些人笑着说道：“其实我有时候真的不明白你们这些二世祖，骂不过人，打也",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "一个安静又偏僻的地方。\n\n    “我真不知道自己为什么要来。”许乐微垂眼帘，喝了一口杯子里的香槟，心想校长为了这次舞会倒真是砸下了不少钞票。\n\n    “我倒真希望你今天没有来。”施清海忽然很认真地说了一句话，然后郑重将自己的叔叔交给许乐管理，优雅地端着香槟杯，往酒会另一处安静而显眼的地方走去。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "模仿孤独，这太肉麻。”\n\n    许乐苦涩地笑了笑，先前把那个人打了一顿。本以为接下来就是一场剧烈的冲突。但没想到对方居然会强行忍下那口气。他摇头说道：“我发现我的性格有问题，以前总以为自己是个很能隐忍的人。但来到梨花之后，却发现很多事情我都没法忍。”\n\n    “每个人都是有底线的，如果不是孙家村",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "乐队的声音此刻忽然大了起来，掩住了他们两个人的谈话。乐声落处，一身庄重服装的梨花大学校长，出现在了二楼的麦克风前面，面带微笑地审看了一番楼下密密麻麻的年青学生们，心头生出欣慰之情，说道：“欢迎大家……”\n\n    校长致辞的时候，施清海和邹郁同时回到了舞会当中。许乐看着身边的施清海，注意到",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "曲终于响起，像流水一样漫过舞厅，虽然此时人已经相当多了，但舞厅里依然显得比较空旷。优美的曲调声抚慰着人们寂寞的心灵，催促着他们的脚步随之舞动。\n\n    许乐一直看着远处议员公子身边的张小萌，眼睛微微眯着。身旁的中年人忽然开口说道：“刚才就说过，她今天晚上的舞伴一定是你。”\n\n    许乐苦涩一笑说",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "想到对方居然会强行忍下那口气。他摇头说道：“我发现我的性格有问题，以前总以为自己是个很能隐忍的人。但来到梨花之后，却发现很多事情我都没法忍。”\n\n    “每个人都是有底线的，如果不是孙家村地儿子触到你的底线，以你那老实地性情，怎么可能暴发？”施清海微笑说道：“呆会儿舞会结束后，你小心一点儿，不过他",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "他们心里早就已经判了许乐一个终生残疾的刑罚，眼神都有些不屑冰冷和怜悯，只是在邹郁的压制下，此时才没有马上算帐，保持着些微的风度。此时听到施清海咄咄逼人，分寸不让的言辞进攻，他们快要忍不住了。\n\n    “只有狗，才会懂有教养的狗的礼仪问题。”施清海望着这些人笑着说道：“其实我有时候真的不明白你们这些",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "气也好。”\n\n    便在此时，一直沉默微笑看着少年人闹剧的那位中年人，忽然也抬起头看起了天，片刻后悠然叹息道：“你们看天上那两轮月亮……真像是一对美极了的丰乳啊。”\n\n    许乐和施清海愕然抬头，只见幽蓝的夜空上，两轮皎洁的圆月逐渐靠近，掩去了四周穹空处的繁星光晖，两轮明月浑圆洁白，如果真往那处",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "密麻麻的年青学生们，心头生出欣慰之情，说道：“欢迎大家……”\n\n    校长致辞的时候，施清海和邹郁同时回到了舞会当中。许乐看着身边的施清海，注意到他的嘴唇上有一处血渍，马上联想到后花园里发生了什么不堪入目的事情，惊讶万分叹息道：“色胆原来真的可以包天……只是她怎么会跟你出去？”\n\n    施清海低",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "还没出气，呆会儿舞会上由得你闹。这时候不要堵在门口丢人现眼。”\n\n    “丢人现眼地是你们，我并不担心什么。”施清海望着她温和一笑，却是拉着许乐的手臂往旁边让出两个身位。“呆会儿舞会上我请你跳舞，希望你不要拒绝。”\n\n    邹郁面色变幻片刻。不知道在想什么，对身边的同伴们说了几句什么。那群人神色",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "的表现不错，我发现自己忽然有些欣赏你了。”施清海眉目含情且含笑，看着邹郁身上的红色晚礼服。然而那两道温柔多情清纯的目光，却让邹郁觉得自己浑身**，十分难受。\n\n    不知道为什么，身边带着一位**军要犯的施清海应该低调，此时却偏偏表现的如此嚣张，“不过你还是要管好你身边这些狗……当然，小萌不包括在",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "言辞进攻，他们快要忍不住了。\n\n    “只有狗，才会懂有教养的狗的礼仪问题。”施清海望着这些人笑着说道：“其实我有时候真的不明白你们这些二世祖，骂不过人，打也打不过人，除了投了个好胎，你们这辈子还有什么用？不要想着用那种眼光来威胁我，邹侑做不到的事情，难道你们能做到？不要忘记，联邦是个法治社会，是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "辈子还有什么用？不要想着用那种眼光来威胁我，邹侑做不到的事情，难道你们能做到？不要忘记，联邦是个法治社会，是个讲理的地方，真把我惹烦了，让联邦电视台来曝曝你们的德性，想必你们家里一定会很失望。”\n\n    “施清海，够了！”听到这个流氓官员再次提到自己的哥哥。邹郁嫩脸一沉，冷声斥道：“如果你觉得还没",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "爱情，或许今天晚上的舞会有很多幸运儿，也有很多失败者，但向着自己的爱情努力地伸出过手，这已经足够他们日后回忆许久。\n\n    波廷舞曲终于响起，像流水一样漫过舞厅，虽然此时人已经相当多了，但舞厅里依然显得比较空旷。优美的曲调声抚慰着人们寂寞的心灵，催促着他们的脚步随之舞动。\n\n    许乐一直看着远",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "挑衅。\n\n    说来也确实奇妙，许乐和施清海这一个组合，用来对付这些二世祖。确实极有杀伤力，小门房性格平稳。但事到临头却是二话不说便会动手，施公子又生着一张足以令人吐血的嘴，所谓文武双全，指的便是这对儿了吧。\n\n    舞会还没有开始，轻曼地音乐已经从建筑里响了起来。许乐收回了投往那件淡蓝色小礼服",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 438,
+  "chapter_title": "第二百四十二章 敛雷",
+  "filename": "ch_0438_第二百四十二章 敛雷.txt",
+  "char_count": 3366,
+  "timestamp": "2026-04-10T12:11:21.790342",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "和绝望。\n　　他的舌头没了。\n　　他的嘴里只有血与肉的碎糜。\n　　看着陈八尺的嘴里不停向外淌着脓血，众人惊恐万分，有人忍不住发出了惊呼，几名神殿骑兵下意识里想要上前，却忽然醒悟过来，这肯定是马车里神座大人的惩罚，颤抖着停下了脚步。\n　　车中再次响起天谕大神官的声音。\n　　“不该说话。”\n　　“不会说",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "道门在世间无上威严的所在。\n　　那座最高最圣洁的白色道殿，属于西陵神殿掌教。\n　　人们不知道天谕神座为什么先去见裁决神座，然后又要去面见掌教大人，同样他们也无法亲眼看到那座圣洁白殿里发生了什么，只是听到了无数道雷声从那座白色神殿里响起，响彻整座桃山。\n　　……\n　　……\n　　白色神殿最深处有一道光幕",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "对这个世界的统治。\n　　有一道人影落在这道圣洁的神辉光幕之上。\n　　光幕上的人影极为高大，仿佛脚踩着大地，头顶着青天，将天与地强行分开。\n　　那道人影说的每个字，都是一道雷。\n　　那便是昊天道门在世间的最高统治者，西陵神殿掌教大人。\n　　天谕大神官对着光幕上的巨大人影，微微躬身行礼。\n　　一道声音从",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "然生出了极为强烈的反感。\n　　使团的马车已经各自散去，只剩下天谕神座的黑金马车，缓缓驶上神殿最高处，来到那座黑色庄严的神殿之外。\n　　那辆马车在巨大宏伟的神殿前，显得格外渺小而孤单，然而看着这辆马车的人，无论是哪座神殿的执事，都流露出了震惊和敬畏的神情。\n　　敬畏的是马车里的神座。\n　　震惊的是天谕",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "不是背叛。”\n　　车中响起一声叹息。\n　　程立雪感觉到了天谕神座失落而伤感的心情，于是他的情绪也变得愤怒而伤感起来，如雪絮般的头发飘舞的愈发快速，面无表情看着跪在马车前的陈八尺，寒声说道：“自去领受责罚。”\n　　陈八尺霍然抬头，望向程立雪，如果不是眼睛上缠着绷带，应该能够看到他眼中的怨毒神情。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "么。\n　　他们只是听到了风声，狂暴的风声，比宋国东海畔的飓风还要恐怖的风声，仿佛是无数个巨人在咆哮着战斗。\n　　暴风从神殿里席卷而出，吹的石阶上的碎砾击打着石柱，啪啪作响，人们惊恐畏怯地跪在地面上，却根本无法稳住身形。\n　　不知道过了多长时间，风声停了，风也停了。\n　　天谕大神官从裁决神殿里走了出来",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "光芒微微撼动，然后变成了九霄之上的雷声。\n　　天谕大神官看着那个巨大的身影，平静说道：“道痴是神殿的将来，那些愚蠢的人居然把她逼走，这是我所不能接受的事情，掌教大人您对此事保持了沉默，在我看来也是很愚蠢的行迳。”\n　　西陵大神官地位尊崇特殊，然而当面直指掌教大人愚蠢，依然是难以想像的事情，更令人难以",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "着的。”\n　　光明大神官从幽阁桃离，引发西陵神殿一场极大的震动，有很少一些人知道，这位被称作数百年来最强光明神座的老人，在逃离之时，推倒了裁决大神官以本命神力构筑的樊笼。\n　　但几乎没有人知道，那位老人推倒了樊笼，给裁决大神官带来了极大的伤害，过去了这么长时间，裁决大神官依然无法离开墨玉神座。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "是哪座神殿的执事，都流露出了震惊和敬畏的神情。\n　　敬畏的是马车里的神座。\n　　震惊的是天谕神座居然出现在裁决神殿之前。\n　　要知道无数年来，西陵神殿地位最为尊贵的三位大神官，绝对不会进入别的神殿，因为对彼此的尊重和自身的骄傲。\n　　人们跪在神殿石阶前，跪在石柱旁，跪在道路旁，惴惴不安看着那辆马车，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "有继续向前。\n　　他是来找人说话的，所以他要走进裁决神殿，但如果他再继续往神殿里面走，那么珠帘后那个脾气暴燥的家伙，肯定认为他是来找人打架的。\n　　西陵大神官也是人，是人，就一定会有情绪。\n　　天谕大神官看着极远处珠帘后神座上那个人影，说道：“我去了一趟南晋，带回了某人的骨灰。”\n　　神殿深处的珠帘",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "没有什么着甲不行礼的说法，他们赶紧下马跪倒马车之前。\n　　陈八尺的神情变得极为难看，在侍从的帮助下，缓缓跪倒。\n　　“叶红鱼离开裁决司，不代表她就背叛了神殿。”\n　　“因为离开，并不是背叛。”\n　　车中响起一声叹息。\n　　程立雪感觉到了天谕神座失落而伤感的心情，于是他的情绪也变得愤怒而伤感起来，如雪",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "于是他的情绪也变得愤怒而伤感起来，如雪絮般的头发飘舞的愈发快速，面无表情看着跪在马车前的陈八尺，寒声说道：“自去领受责罚。”\n　　陈八尺霍然抬头，望向程立雪，如果不是眼睛上缠着绷带，应该能够看到他眼中的怨毒神情。\n　　去年在荒原王庭上，便是程立雪让他领受了痛苦的棘杖之刑，此时他双眼已瞎，明明是叶红鱼",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

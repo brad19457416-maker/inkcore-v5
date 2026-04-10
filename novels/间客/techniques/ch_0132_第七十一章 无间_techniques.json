@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 132,
+  "chapter_title": "第七十一章 无间",
+  "filename": "ch_0132_第七十一章 无间.txt",
+  "char_count": 3526,
+  "timestamp": "2026-04-10T11:53:35.145621",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "水儿还有很多地方可以去，可是她这几天都会抽时间来医院一趟。她认为对方是为了保护自己而陷入了生死难料的危险境地，而且不知道为什么，和这个年轻男人在一起，她地心情会变得平静许多。\n\n    昏迷中的年轻男人，像有一种舒神安眠的作用。连着几天，简水儿都会在阳光中睡去，她偶尔会静静地看着对方平凡的脸庞，因为",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的，非常可爱，比先前的打扮显得可青涩了许多。\n\n    “我叫简水儿。”她对着病床上那个年轻人微笑着说道。\n\n    许乐忍不住大声笑了起来，觉得这个回答真的很妙，人生能有许多想像，但谁能想像过简水儿会亲自介绍自己是简水儿？要知道联邦以百亿计的公民中，不认识简水儿这张可爱脸庞的人，绝对要比不认识席格",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的铃声在很久之后平息，他才将手机揣回上衣口袋，继续朝着双汇街的方向走去。\n\n    手机显示的号码很陌生，虽然号码数字排列的很漂亮，就像是一乎乐曲一般，但是施清海没有接陌生电话的习惯，尤其是当前这种紧张的时刻，任何一次不需要的联络，或许都会让他身陷万劫不复之地。\n\n    凌晨时分，联邦调查局向各下",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，一旦真的出现，他又怎会有丝毫不着边际的野望。\n\n    电话那头传来张小萌惊喜地声音，接着便是极力压抑的哭泣声。在这一刻。许乐的心里再也没有旁地人，连简水儿也没有，只有那个在临海等着自己消息地女人。是的。她本来就是我的女人，而且是个喜欢自己地傻女人。\n\n    紧接着他的眼眸里却出现了一丝复杂的情",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "我叫许乐。”他的声音有些沙哑，不知道是好几天没有通过口腔补充水分的关系，还是在停车场一战中爆发的太厉害，震伤了声带，还是……说因为他看见面前这个联邦偶像，从骨头里感到了紧张。\n\n    简水儿那头蓬乱的紫发已经被梳的很整齐，很随意地扎了个辫子，只是因为头发太短的缘故，小辫子显得非常短，在头",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "水儿。”她对着病床上那个年轻人微笑着说道。\n\n    许乐忍不住大声笑了起来，觉得这个回答真的很妙，人生能有许多想像，但谁能想像过简水儿会亲自介绍自己是简水儿？要知道联邦以百亿计的公民中，不认识简水儿这张可爱脸庞的人，绝对要比不认识席格总统的人少许多。\n\n    笑声戛然而止，因为牵动了身体上无处不",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "身体上无处不在的伤势，许乐感到了痛苦。于是轮到简水儿不好意思地笑了起来，因为她很清楚这个叫许乐的家伙为什么发笑，而她确实也已经很久没有做过自我介绍了，除了在星云奖做颁奖嘉宾的时候。\n\n    只是不知道为什么，听到对方的自我介绍后，她下意识里回答了一句。\n\n    笑声之后，便是沉默。当许乐醒过来的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "那边的病房里正在演出一场豪门家族感恩夜会地戏码时，临海州的大街却刚刚苏醒，来往于各个公司与政府机构的人们，一边吃着早餐，一边忽然行走。\n\n    施清海站在街边，懒洋洋地靠在电话亭上，吃着面包夹生菜，红红的番茄酱就像将要凝固的血水一样，从他薄薄的唇角流了出来。他看着不停响动的手机，没有接通的意思，直",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "身一礼，说道：“再见。”\n\n    许乐此时正在担心施清海，下意识里嗯了一声。完全没有留意到简水儿的离去。过了不久。病房的门被推开，一大批穿着白外衣的医生涌了进来。最中间的是一位官员模样的人。\n\n    这名官员走到病床前，对吃惊的许乐深深一礼，鞠躬超过了九十度，郑重说道：“少爷明天就到。”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，刚才是简水儿亲自打开手机递给了自己，金属面上还残留着简水儿手指的余温……\n\n    他的心头一荡，马上在心里骂了自己两声。在男女方面，他是一个很老实的家伙，至少他认为自己现在是有女朋友的，而且最的是……虽然在河西州郊外的青树下，他敢大声说要娶简水儿做老婆，但那是因为当时他认为简水儿一辈子都不可能出",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "救了自己。\n\n    许乐没有注意到这一点，却想到自己昏迷了这么久，临海州那几个关心自己的人，说不定担心成什么模样，一丝焦虑浮现在他的眉宇之间。\n\n    简水儿看出他的想法，笑着说道：“是不是想通知你的朋友？放心，我们已经通知邰家了。”\n\n    许乐有些不好意思地笑了笑，他的身体依然不能移动，只",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "魄的战斗。\n\n    战斗中许乐的强硬与迅捷给简水儿留下了深刻的印象，她虽然见过许多军中地强者。可是一向很厌恶那些人。但不知道为什么，她并不厌恶许乐的气息。\n\n    许乐是一个并不怎么喜欢说话的人。除非必要的情况下，他宁肯选择沉默，沉默地学习，沉默地练习，沉默地出手。只有在最亲近的人面前，他的话语",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第七十一章 无间 \n\n    我叫许乐。”他的声音有些沙哑，不知道是好几天没有通过口腔补充水分的关系，还是在停车场一战中爆发的太厉害，震伤了声带，还是……说因为他看见面前这个联邦偶像，从骨头里感到了紧张。\n\n    简水儿那头蓬乱的紫发已经被梳的很整齐，很随意地扎了个辫子，只是因为头发太短",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

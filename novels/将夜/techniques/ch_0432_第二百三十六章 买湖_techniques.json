@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 432,
+  "chapter_title": "第二百三十六章 买湖",
+  "filename": "ch_0432_第二百三十六章 买湖.txt",
+  "char_count": 3333,
+  "timestamp": "2026-04-10T12:11:21.778276",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "先生，但怎么会不知道十三先生便是老笔斋的主人宁大家？\n　　褚由贤在台上说出那句话后，楼阁间先是安静了瞬间，然后骤然响起喝彩声，兴奋的叫好声。\n　　南晋皇商双手紧紧握着栏杆，脸色因为愤怒而变得异常苍白，狠狠盯着楼下的褚由贤，喝道：“你又是何人！”\n　　褚由贤单手执扇，另一手覆在手背，朝着四周团团一礼，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "后，楼阁间先是安静了瞬间，然后骤然响起喝彩声，兴奋的叫好声。\n　　南晋皇商双手紧紧握着栏杆，脸色因为愤怒而变得异常苍白，狠狠盯着楼下的褚由贤，喝道：“你又是何人！”\n　　褚由贤单手执扇，另一手覆在手背，朝着四周团团一礼，说道：“本人东城褚由贤，乃是宁先生的代表。”\n　　然后他望向三楼西阁，看着那个表",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "那些纸张看着都有些新，上面的字迹端正，谈不上出色，更不能与老笔斋里的书帖相提并论，然而这些纸张的实际价值，其实也相当不菲。\n　　这些纸张都是房契和地契。\n　　几名皱纹深重的赌坊老管事，正在对这些房契地契进行核算统计，鱼龙帮帮主齐四爷站在一旁忧心忡忡地盯着。\n　　老管事们手中的算盘珠子拔动的极快，在安",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的房契地契，做为长安城第一大帮派的首领，自然有无数下属帮他做这件事情，只是到了此时，他依然不明白宁缺为什么要购入这些房产。\n　　“雁鸣湖畔偶尔逛逛便好，住在那里可不适宜。”\n　　他皱着眉头说道：“即便要住，也不至于要把湖畔所有的院子全都买下来，价钱再低，合起来还是笔极大的数目。”\n　　桑桑说道：“我",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "那张湖岸新修三进宅院的房契，说道：“还差四万一千四百六十二两银子。”\n　　齐四爷神情微异看了她一眼，心想这些管事都是赌坊里最厉害的算帐行家，他们都还没有算出来，你这数目又是从哪里得来的？\n　　桑桑知道他在想什么，没有解释，平静等待。\n　　过了些时间，赌坊老管事们终于完成了复杂的计算，领头那位管事，仔",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "了，但总不能做的太过分，扔蛇放鼠这种事情，如果让人捅到朝廷里，朝二哥回来后我不好交待，所以这大概便是最终的价钱了。”\n　　原来桌上这些房契地契是雁鸣湖畔的民宅契据。\n　　雁鸣湖新近才由朝廷工部疏浚完成，多年积的湖泥还堆在沙石山附近，隔得近些便臭味扑鼻，据说一直要到明年夏天才能稍微好些。\n　　因为这个",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "最为响亮。\n　　边塞军营有他的名声在流传，长安城街巷里百姓议论着书院侧门的那一刀，此时一石居楼阁里的人们，不知道什么大先生二先生，但怎么会不知道十三先生便是老笔斋的主人宁大家？\n　　褚由贤在台上说出那句话后，楼阁间先是安静了瞬间，然后骤然响起喝彩声，兴奋的叫好声。\n　　南晋皇商双手紧紧握着栏杆，脸色",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "热进行当中时，小侍女桑桑正在西城银勾赌坊后院幽静的书房里，对着桌上的那堆纸张发怔。\n　　自从两年前春风亭一夜后，长安城的黑道便被鱼龙帮只手掌控，这家原属西城大佬的赌坊里的书房，成了鱼龙帮的库房。\n　　桌上那些纸张看着都有些新，上面的字迹端正，谈不上出色，更不能与老笔斋里的书帖相提并论，然而这些纸张的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "说。\n　　“宁大家，稍候！”\n　　“十三先生，等等……我家大人有请！”\n　　人们走出院落，穿过青林，来到杨柳湖岸，看着静湖远方那个越来越远的小船，挥舞着手臂喊着，想要宁缺回来。\n　　小船在安静的湖面上悠悠而去，远远只能看到一个穿着黑色衣衫的身影从乌蓬里走了出来，对着这边拱手致意，然后上岸而去。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "位手中，大家应该知道，宁大家有权利自行挑选买家。”\n　　南晋皇商想起了先前在阁中桌上看到的文书，强行压抑住心中的怒意，胸口微微起伏，说道：“即便宁大家有自行挑选买家的权利，那也应该是由宁大家自己挑选，怎能由这个谁也不知道是不是真的代表来行使权利？”\n　　“先前才发生的事情，难道就传到了老笔斋？难道宁",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "狠狠盯着楼下的褚由贤，喝道：“你又是何人！”\n　　褚由贤单手执扇，另一手覆在手背，朝着四周团团一礼，说道：“本人东城褚由贤，乃是宁先生的代表。”\n　　然后他望向三楼西阁，看着那个表情难看的南晋皇商，笑着说道：“鸡汤帖卖谁都可以，就是不卖给你们南晋人，有意见？”\n　　南晋皇商气的浑身颤抖，怒斥道：“哪",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "图的是清静，还有些更重要的原因，只不过那些原因没有必要让别人知道。\n　　桑桑看着对岸的房屋，问道：“以后我们就住这里？”\n　　宁缺点点头，说道：“入冬后，这片湖会冻的比较结实。”",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "先生二先生，但怎么会不知道十三先生便是老笔斋的主人宁大家？\n　　褚由贤在台上说出那句话后，楼阁间先是安静了瞬间，然后骤然响起喝彩声，兴奋的叫好声。\n　　南晋皇商双手紧紧握着栏杆，脸色因为愤怒而变得异常苍白，狠狠盯着楼下的褚由贤，喝道：“你又是何人！”\n　　褚由贤单手执扇，另一手覆在手背，朝着四周团团",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

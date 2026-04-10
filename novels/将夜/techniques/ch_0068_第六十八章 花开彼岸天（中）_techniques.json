@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 68,
+  "chapter_title": "第六十八章 花开彼岸天（中）",
+  "filename": "ch_0068_第六十八章 花开彼岸天（中）.txt",
+  "char_count": 3513,
+  "timestamp": "2026-04-10T12:11:11.980180",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "”\n　　宁缺自书案后走了出来，拱手一礼疑惑问道：“这位将军，您认得朝大哥？”\n　　在临四十七巷，在春风亭，无论朝小树怎样表现意气干云，宁缺始终不肯认那兄弟二字，此时此刻他却毫不在意把大哥二字自然说出口，正是为了自保，至于反问则是反守为攻，反正目的是要把对方的注意力从御书房转移到别的地方。\n　　矮胖侍",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "着他想起昨夜那场春雨里的杀戮，想起老朝对这少年评价，看宁缺便顺眼了些，话锋忽转微笑问道：“昨天夜里你为什么要去帮老朝？”\n　　“我收了五百两银子。”宁缺很诚实地回答道。\n　　没有谁会为了五百两银子，就去替一个刚刚相识的人出生入死，更何况那个人还是一个十六来岁、即将入书院学习的少年，徐崇山不相信他的解",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "他带着温和笑容看着宁缺，说道：“放心吧，你能进书院便进，从书院出来后，终归还不是替朝廷效力，二者并不冲突。”\n　　“您还没说我需要做些什么。”宁缺坚持问道。\n　　“鱼龙帮被摆到了明处，但长安城的江湖已经不再有任何问题。”徐崇山微微皱眉说道：“你的任务很简单，就是搜集情报，具体任务以后再说。”\n　　江",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "人炫耀这事儿，不然我灭了你！”\n　　宁缺跟着一路埋怨唠叨的侍卫头子离开了御书房，向西侧稍转了两步，便来到了不远处的春和殿侍卫值日房内。\n　　在阴暗的房间中，他终于知道，面前这位矮胖和气、一口河北道腔调，每个字都仿佛带着股大葱味儿的家伙居然就是大唐宫廷侍卫副统领徐崇山，也正是朝小树昨夜所说要他今天来见",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "吭不响就一头钻进了御书房！你丫难道真以为自己是啥书坛圣手！你丫真以为陛下请你来赏字儿！”\n　　徐崇山愤怒地指着宁缺的鼻子低声咆哮，唾沫星子满天飞溅。\n　　宁缺有些窘迫地揉了揉鼻子，暗自想着陛下倒是没有请自己来赏字儿，但我已经在御书房里写了幅字儿，你又能拿我怎么嘀？想到此节，想到那张压在书架最角落里的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "他像一个被陛下藏书迷花眼的可爱小书生般转过头来，揉了揉眼，看着门口处那位矮胖侍卫头子，满脸惘然说道：“我奉旨入宫觐见，不知有何问题？”\n　　那名矮胖的侍卫头子微微一怔，大概他从未想像过，有人在御书房内被人抓个正着，却还能如此坦然如此平静，脸上不由露出莫名其妙的神情，痛苦地用手捂着额头，愤愤自言",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "弄斧那厮，杜康看见铺前卖酒那厮，夫子看见门前晒书那厮，尤其是发现那厮在世俗间别方领域乃是最神圣至高的存在时，他们会不会打从内心最深处生出如宁缺这般的痒来？\n　　我要做一木鸟告诉那厮飞机的雏形是这样嘀，我要酿一壶美酒告诉那厮亡国的佳酿是这样嘀，我要写几篇唠叨话告诉那厮这才是心灵高汤，我要续写几个字告诉",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "是不是要对书院下手？\n　　手掌里握着的侍卫牌子被汗水浸的有些湿，但他知道这些事情不容自己拒绝，只希望日后事情的走向和自己的想像并不一样。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "“不是拒绝不拒绝的问题。”宁缺无奈说道：“问题是朝廷需要我做什么？我又能做什么？最关键的是，我马上就要参加书院入院试了。”\n　　听到书院二字，徐崇山脸色微微一变，不是因为别的原因，而是做为侍卫处的老人，他很清楚朝小树当年遭遇了一些什么，也正是因为那些往事，如今这一批的暗侍卫拥有了当年不曾有的待",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "构气势，一时间竟有些不舍将这张纸毁掉，于是准备待字纸干透后收进衣袖，悄悄带出宫去，然而就在此时，一直安静无声的御书房外，忽然响起一道愤懑的低吼声。\n　　“那个混帐东西跑哪儿去了！”\n　　宁缺一惊，抬头望去时只见御书房的门一只手推开。\n　　他眼瞳微缩，反应奇快地手指头微微一弹，搁在晾纸台上的墨纸轻飘飘",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

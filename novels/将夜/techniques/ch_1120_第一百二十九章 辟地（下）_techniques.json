@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1120,
+  "chapter_title": "第一百二十九章 辟地（下）",
+  "filename": "ch_1120_第一百二十九章 辟地（下）.txt",
+  "char_count": 4455,
+  "timestamp": "2026-04-10T12:11:34.944029",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "唰唰两下。\n　　一撇一捺。\n　　还是当年的那个字吗？\n　　观主望向不再湛蓝、被光明照耀的苍白无比的天空，却发现那里什么都没有。\n　　宁缺写的那个字，没有落在天空里，而是落在大地上。\n　　开天的目的是什么？是辟地。\n　　他要辟地。\n　　……\n　　……\n　　极西荒原的天坑外，数百万农奴，正在唐的带领下",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "―文字本身就是有力量的。这就是读书人最终明白的道理，也是宁缺想要告诉观主的话。\n　　宁缺握着那支并不存在的笔，在长安城外的墨香书海里蘸饱了墨，悬腕提肘，很随意地在空中写了两笔，显得有些潦草。\n　　观主沉默不语，他知道宁缺要写的那个字，必然是人类历史上从未出现过的大符，他已经做好了思想准备，却没想到他",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第一百二十九章 辟地（下）\n　　人类为什么能够成为万物之灵？无论宁缺来的那个世界，还是这个世界，对于这点有很多的解释。有人说是因为学会了用火，有人说是因为学会了使用工具，人之异于禽兽者几希，唯重义者耳，这是小师叔和君陌的看法，而有更多的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "就此不再。\n　　无数人抬头望向渐渐阴暗的天空。\n　　人类本能里畏惧夜晚，但当只剩下光明的时候，他们很期待夜的到来。\n　　于是夜便来了。\n　　忽然之间，天昏地暗。\n　　夜晚，就这样降临人间。\n　　世界一片安静。\n　　……\n　　……\n　　桑桑在他怀里转过身，看着夜空，有些惘然。\n　　即便是她，也想象不到",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的光明瞬间消失？\n　　他又一次想起当年在烂柯寺的那局棋。当时棋盘里的规则，化作无数圣洁的光点，满世界追杀桑桑，和现在的画面何其相似？\n　　当时他撑开了大黑伞，帮助他和桑桑避过了那场劫难。\n　　大黑伞是黑夜的一片，现在的世界只剩下光明的白昼，谁来遮住这些光线？\n　　……\n　　……\n　　临康城里一片闷热",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，而有更多的人认为，最重要的区别在于文字，因为只有文字才能传承――文字本身就是有力量的。这就是读书人最终明白的道理，也是宁缺想要告诉观主的话。\n　　宁缺握着那支并不存在的笔，在长安城外的墨香书海里蘸饱了墨，悬腕提肘，很随意地在空中写了两笔，显得有些潦草。\n　　观主沉默不语，他知道宁缺要写的那个字，必",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "明年这里就会变成肥沃的土壤，收成应该很好，只是种惯了青稞，要种那种麦子，也不知道自己究竟能不能种好，人们这样想着。\n　　但终究是开心的事情――在地面看到的太阳果然和地底下不一样，这么近，那么热――于是人们开心地歌唱起来，舞蹈起来。\n　　从这里向东两千余里，便到了大唐北疆的渭城，城外的荒原在那场大战里",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。\n　　这道深渊迅速地向东南方向蔓延。\n　　深渊是大地的裂缝。\n　　地面正在开裂。\n　　那道裂缝瞬间来到渭城，将那满是罪恶与血腥的原野吞噬。\n　　那道裂缝直抵烂柯寺，最终入海。\n　　同样的裂缝，出现在岷山，直抵雪海寒域。\n　　就像有人拿着一根树枝，在沙地上写字。\n　　这是宁缺在写字，他在写符。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "皮皮静静看着笼罩在光明里的长安城，微微一笑，解下头顶的神冕，带着新教的十三门徒和山下的数万新教信徒，缓缓坐了下来。\n　　他们开始颂读经文。\n　　那是新教教典的最后一卷经文，是宁缺写的，字句浅显易懂，讲述的意愿与渴望又是那样的直接，人们要走出幽暗的山谷，去到更广阔的世界。\n　　这道笔画，最终落在烂柯寺",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "随意地在空中写了两笔，显得有些潦草。\n　　观主沉默不语，他知道宁缺要写的那个字，必然是人类历史上从未出现过的大符，他已经做好了思想准备，却没想到他写的这般随意简单。\n　　唰唰两下。\n　　一撇一捺。\n　　还是当年的那个字吗？\n　　观主望向不再湛蓝、被光明照耀的苍白无比的天空，却发现那里什么都没有。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "事情。\n　　这道深渊迅速地向东南方向蔓延。\n　　深渊是大地的裂缝。\n　　地面正在开裂。\n　　那道裂缝瞬间来到渭城，将那满是罪恶与血腥的原野吞噬。\n　　那道裂缝直抵烂柯寺，最终入海。\n　　同样的裂缝，出现在岷山，直抵雪海寒域。\n　　就像有人拿着一根树枝，在沙地上写字。\n　　这是宁缺在写字，他在写符。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "她是叶苏当年在这里收的女学生。\n　　她是新教的信徒。\n　　叶苏死后，她回到了临康城，暗中传道，同时默默怀念老师。\n　　她开始颂读纸上的字句。\n　　那是叶苏临死前说的一段话。\n　　“当永夜来临，太阳的光辉将被尽数遮掩，天空与天地陷入黑暗之中，人们将为之欢欣鼓舞，因为那才是真实地活着。”\n　　……",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "荒，看着遥远的北域，看着宁缺简单两笔，便把整个世界切出两道裂缝，沉默了很长时间。\n　　然后他望向宁缺说道：“当年你在长安城里写出这个字的时候，我就对你说过，你的笔画错了……今天你错的更离谱，连方位都没有摆正。”\n　　很多年前，颜瑟大师与卫光明在长安城北的无名山上同归于尽，在生命的最后一刻，他看到了很",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

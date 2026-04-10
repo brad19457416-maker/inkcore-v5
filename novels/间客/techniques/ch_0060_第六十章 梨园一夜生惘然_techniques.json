@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 60,
+  "chapter_title": "第六十章 梨园一夜生惘然",
+  "filename": "ch_0060_第六十章 梨园一夜生惘然.txt",
+  "char_count": 3253,
+  "timestamp": "2026-04-10T11:53:35.115945",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的放在网络上，放在图书馆里，任联邦公民随意查阅。\n\n    宪章局的工作流程，中央电脑的权限，都不是秘密。大概只有这种程序的绝对透明，才能让联邦公民们允许第一宪章的存在？许乐有时候会在心里这样思考。\n\n    了解的越多，未知的越少，恐惧也就越来越少，他停止了对文件的检索，盯着手腕上的金属手镯陷入了",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "局的工作流程，中央电脑的权限，都不是秘密。大概只有这种程序的绝对透明，才能让联邦公民们允许第一宪章的存在？许乐有时候会在心里这样思考。\n\n    了解的越多，未知的越少，恐惧也就越来越少，他停止了对文件的检索，盯着手腕上的金属手镯陷入了沉思。能够做出伪装芯片，足以将近百年来的所有星云奖获得者全部打翻",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "面的文档。这是一个关于第一宪章精神的宣传论坛，上面有关于第一宪章的所有东西。如今的许乐，早已经从那种逃亡的恐慌中摆脱出来，颈后的伪装芯片似乎完全可以躲过第一宪章的光辉，然而他依然有些不放心，总想要对第一宪章了解的更多一些。从两个月前开始，他就开始在进行这一项工作，在首都星圈的网络上流连许久，他才愕然",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "容易发现的波动正沿遁着某种特定的途径前行，折回，最后绕回原点，形成一个通道，然后继续开始，这些波动和颤抖越来越清晰分明，却又越来越不起眼，似乎将要潜伏到他的皮肤之下，肌肉关节之中，再也不肯让人看见……\n\n    ……\n\n    ……\n\n    梨花大学的生活一成不变，每天许乐都会去课堂旁听，饥渴地吸",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "维走上完全不同的一条道路。\n\n    从理智出发，许乐清楚自己这个举动实在是谈不上明智，如果联邦方面将来怀疑到什么，那么通过金融监控系统，极容易从李维那里查到自己……可是许乐就是无法眼看着自己的朋友在远方受苦受难，更何况对方还是因为自己的原因才被抓进了监狱，在他看来，这个世界上总有很多事情更重要，当",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "与那个小女孩儿见面，除非他想找死。如果将来有一天他真的需要拔通那个电话，那只能说明在他的生活里，已经出现了比死亡更加可怕的问题。\n\n    梨花大学被封了几十年的西直门在前几天被重新打开了，由于路途更近的缘故，学生们都选择从西直门出校。本来就没有多少人经过的后门现在变得更为冷清，几个小时或许都不可能",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "了金属抽屉里放好，他想起了飞船上那个可爱的小女孩儿。\n\n    这张名片是钟家夫人给他的，一联想到七大家这种遥远而恐怖的存在，许乐的心情便变得有些怪异。老板便是死在第四军区的手上，而且西林的军人有不少知道自己的长相——如果人生没有什么天大的变故，那么他一定不可能去拔打名片上的那个电话，这一生大概也不",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "更为冷清，几个小时或许都不可能出现一个人影，只有那些梨树陪伴着门房里孤单的少年。此时夜已深了，春天的风悄悄地平息下来，许乐在梨树的影子中走到铁门中间，将铁门锁好，又回到房间内刷卡记时，这才关闭了所有的照明设备，打开了自动监控鸣叫器，走回了卧室。\n\n    在黑暗里，穿着一身单内衣的许乐蹲了半个小时的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "到门房里和自己说话？\n\n    这时候的许乐早忘记了那封推荐信的事情事情，只是敏感地判断出，校长大人来到后门，一定是为了查看什么，然而为什么自己什么都没有发现？他下意识地看了一眼窗外wＷw．xiＡoshＵotxt.cＯm",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "怨念来，不过不知道为什么，连着好些天没有看见那家伙，许乐竟还有些不习惯了。\n\n    他们两个人一直担心的报复，那一对生性冷酷兄妹的报复，并没有如期到来。但许乐依然是小心谨慎地留在校园之内，一步都不踏出铁门。如果这种平静的生活就此持续下去，许乐肯定会非常满足，他已经购买了一张暑假期间的机票，要去那个",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "础却也是他最欠缺的部分。四年的修理工生涯，让他的实践能力异常强悍，然而机修师封余不知道出于什么考虑，从来没有教过他理论方面的知识。如今的许乐处于一种尴尬的境地之中，知其然却不知其所以然，梨花大学课堂上教授们枯燥的基础理论教学，恰好满足了他这方面的需要，所以他过的异常充实，只等待着下学期便要开始的实验",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "如今的许乐处于一种尴尬的境地之中，知其然却不知其所以然，梨花大学课堂上教授们枯燥的基础理论教学，恰好满足了他这方面的需要，所以他过的异常充实，只等待着下学期便要开始的实验课，来验证他理论与实践结合之后的成果。\n\n    施清海不知道最近在忙些什么，只是有天中午过来打了个招呼便消失不见。许乐知道这个流",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

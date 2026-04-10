@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 633,
+  "chapter_title": "第十四章 谈情分，说是非",
+  "filename": "ch_0633_第十四章 谈情分，说是非.txt",
+  "char_count": 4501,
+  "timestamp": "2026-04-10T12:11:26.792497",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "强行压制。\n　　“你们的话能代表西陵神殿的态度？”七枚大师问道。\n　　那名苍老的红衣神官淡然说道：“为什么不能？”\n　　裁决神座叶红鱼不在朝阳城，裁决司的人还在赶来朝阳城的途中，几名地位尊贵的道门客卿更是远在葱岭之间设防，此时的月轮国皇宫里，道门便是这三位红衣神官地位最高，他们说的话自然可以代表神殿",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "上，佛殿四周全部都是人，黑压压的一大片，无论是老人还是孩子还是数量最多的朝阳城著名闲汉，都对着湖心岛愤怒地喊叫着骂着。\n　　因为恐惧所以愤怒，尤其是先前宁缺逃亡时撞死了人，这消息早已在人群中传开，于是人们愈发惊恐，也就愈发愤怒，情绪互相感染，近乎癫狂。\n　　如果先前不是皇宫里传出命令，派了数十名军卒",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "四章 谈情分，说是非\n　　安静的皇宫内，七枚大师静静看着那三名苍老的红衣神官，看了很长时间，忽然开口说道：“冥王的女儿不是光明的女儿。”\n　　为首那名苍老红衣神官缓声说道：“不知大师此言何意，我们只是觉得上天有好生之德，哪怕是冥王的女儿，昊天也会愿意给她时间反省悔悟。”\n　　七枚大师是悬空寺尊者堂首",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "在微微颤抖，身体内外都受了些伤，真正重的那些伤，还是在小院外与罗克敌及七枚大师的战斗中造成的，在街上逃亡虽然被砸的有些痛，实际上没有什么事，然而此时想着先前在街上的遭遇，细思竟渐生极大恐惧。\n　　庵堂里安静无比，能够清晰地听到湖对岸传来的呼喊声、咒骂声甚至还有哭声，曲妮玛娣沉默不语，陆晨迦忽然问道：",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "神官根本无法影响大局。\n　　……\n　　……\n　　皇宫某处露台上，一名红衣神官看着远处白塔寺里黑压压的人群，伤感说道：“自神座被囚，我光明神殿日渐衰败，便是连一个知命境的大修行者都找不出来，面对当前的局面，我们能够改变什么？”\n　　另一名红衣神官黯然说道：“先前说出那番话，哪怕之后什么都不做，也已经违",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "情。”\n　　“喜欢有什么下流？不要忘记你连儿子都生过。”宁缺说了一句，然后望向窗外的佛寺园景，“这里风景不错，一时半会儿也没有人敢进来，不聊天做什么？”\n　　曲妮玛娣大怒。\n　　宁缺不再理她，默默想着别的事情。\n　　他知道曲妮玛娣说的是对的，这间庵堂孤悬湖心岛上，四面八方都被民众包围，等若是个死地，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "流逝，湖对岸嘈杂的声音始终没有平静过，黑色的乌鸦在庵堂外盘旋飞舞，不时发出难闻的叫声，气氛变得越来越紧张。\n　　直到此时，大师兄依然没有出现。先前在西城外门，他感知到的那道充斥着悲悯意味、却强大的令人窒息的气息，却已经出现在不远处。\n　　宁缺的神情变得极为凝重，知道不能再继续等下去，如果让那道气息的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "的身份虽然尊贵，但要用她们性命来换桑桑的命，不要说佛道两宗那些强者，只怕月轮国的所有国民甚至月轮国主最终都会同意。\n　　他选择进入庵堂拖延时间，其实和当初在烂柯寺里的选择非常相似，在这种临近死亡的时刻，他下意识里把希望寄托在书院身上。\n　　他在等待大师兄出现。\n　　今天朝阳城里闹出这么大动静，想来有",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "在烂柯寺里的选择非常相似，在这种临近死亡的时刻，他下意识里把希望寄托在书院身上。\n　　他在等待大师兄出现。\n　　今天朝阳城里闹出这么大动静，想来有可能惊动大师兄，让大师兄猜到自已的位置，而白塔寺如此著名，大师兄脑海里的地图，肯定有这里的定点。\n　　……\n　　……\n　　时间渐渐流逝，湖对岸嘈杂的声音始",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的气息，却已经出现在不远处。\n　　宁缺的神情变得极为凝重，知道不能再继续等下去，如果让那道气息的主人来到自已身前，就算大师兄出现，只怕也无法改变局面。\n　　他走到曲妮玛娣和陆晨迦身前，用了两张符纸再配合浩然气，暂时把她们的雪山气海封锁住，然后用绳索系住她们的两只手，像牵羊一般牵出庵堂。\n　　曲妮玛娣",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "去，他已经隐隐猜到，这涉及到西陵神殿内部的争斗倾轧，身为佛宗大师，他不想参与到这种争斗之中，而且首座马上就要到了，他相信这三名红衣神官根本无法影响大局。\n　　……\n　　……\n　　皇宫某处露台上，一名红衣神官看着远处白塔寺里黑压压的人群，伤感说道：“自神座被囚，我光明神殿日渐衰败，便是连一个知命境的大",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "里，我也要把光明之女救出去！”\n　　……\n　　……\n　　逃进白塔寺，闯入庵堂，制住曲妮玛娣和陆晨迦以为人质，这是宁缺备用计划里最后也是最不想动用的那一个，正如曲妮玛娣和皇宫里那些大人物们的看法不样，这种举动等若是把自已陷进了死地。\n　　但他需要争取时间休息以及等待，他此时非常疲惫，握着刀柄的右手一直",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第十四章 谈情分，说是非\n　　安静的皇宫内，七枚大师静静看着那三名苍老的红衣神官，看了很长时间，忽然开口说道：“冥王的女儿不是光明的女儿。”\n　　为首那名苍老红衣神官缓声说道：“不知大师此言何意，我们只是觉得上天有好生之德，哪怕是",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 169,
+  "chapter_title": "第一百零八章 机会",
+  "filename": "ch_0169_第一百零八章 机会.txt",
+  "char_count": 3533,
+  "timestamp": "2026-04-10T12:04:45.685263",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "合一，那是十分困难及遥远的事情，暂时的挫折根本算不得什么，许乐微微偏头，看着自己记录下来的那些数据，心想自己现在需要一个真的拟真系统来进行改造，或者……如果能有一台真实的军用机甲。那就更好了。\n\n    机甲操控拟真系统，早已经被联邦专家们抛弃，已经好几十年没有这么方面的课题组。那些扔在仓库里的拟真",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "刚刚出门，他便愕然地看见了邹郁。\n\n    这位眉眼清秀、眼中却满是冷意的未婚妈妈捧着小腹，望着他愤怒的说道：“你知道现在几点了吗？ ＷＷw.xiＡosＨuotxt.ＣＯＭ",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "眸里的认真神情松驰了下来，放弃了思考。\n\n    至少有百分之二十的成功率，这已经足够高了，毕竟这是第一次实验，而且使用的也不是真正的拟真系统，只是一个备用地信号采集器。\n\n    许乐明白。如果将来他真要使用这种前所未见的方法操控机甲或者是别的机械设备，在人类联邦社会里，获得专属于自己的技能，那他",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "拟真系统。当天是怎样做到的呢？许乐眯着眼睛，开始不停地回忆在图书馆区里的练习以及最后那一场捧腹而走的战斗……渐渐的，他眼眸里的认真神情松驰了下来，放弃了思考。\n\n    至少有百分之二十的成功率，这已经足够高了，毕竟这是第一次实验，而且使用的也不是真正的拟真系统，只是一个备用地信号采集器。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "改造地想法。此刻依然显得有些不着边际。痴人说梦。\n\n    但是他有信心。因为除了这间实验室里无比庞大地数据库。还有那些联邦最先进地设备之外。他地脑子里还有无数希奇古怪、但明显很先进地结构图纸……在他看来。这些图纸是封余大叔通过颈后地芯片留给自己地。自己体内那股强大地神秘力量也是大叔留给自己地。从很",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "量去控制机甲地知识。\n\n    许乐沉默地看完了数据。然后将那这些数据全部毁掉。事情牵涉到他体内三大秘密之一。他可不想被联邦政府将自己和封余大叔联系起来。\n\n    便在此时。操作间外地光屏桌面。忽然响起了柔和地提示音。许乐微微一怔。将自己身上军服地扣子系好。走出了操作间。此时那些能够隔绝所有电子监",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "这是第一次实验，而且使用的也不是真正的拟真系统，只是一个备用地信号采集器。\n\n    许乐明白。如果将来他真要使用这种前所未见的方法操控机甲或者是别的机械设备，在人类联邦社会里，获得专属于自己的技能，那他必须在两个方面同时进行改进，一方面是自己体内神秘力量调用时的熟练程度，而更重要的方面。则是他必须",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "但是他有信心。因为除了这间实验室里无比庞大地数据库。还有那些联邦最先进地设备之外。他地脑子里还有无数希奇古怪、但明显很先进地结构图纸……在他看来。这些图纸是封余大叔通过颈后地芯片留给自己地。自己体内那股强大地神秘力量也是大叔留给自己地。从很简单地逻辑便能判断出。里面肯定有关于如何使用这种力量去控",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "验室里地研究人员。能够提供一些可行地思路。\n\n    许乐迅速地看完了这封电子邮件，陷入了思考之中，进入果壳研究所，他签过保密协议，所以并不担心自己知道太多不应该知道的事情。相反，他知道此事地背景，果壳机动公司工程部正在研制一种新型机甲，暂时定名为，去年秋天的时候，这款机甲便已经研发成功，但是事后在",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "前所未见的方法操控机甲或者是别的机械设备，在人类联邦社会里，获得专属于自己的技能，那他必须在两个方面同时进行改进，一方面是自己体内神秘力量调用时的熟练程度，而更重要的方面。则是他必须弄清楚，拟真系统通过皮肤上地颤抖识别这种能力的工作原理，从而对拟真系统进行改进。\n\n    想要真正地做到人机合一，那",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "。\n\n    许乐迅速地看完了这封电子邮件，陷入了思考之中，进入果壳研究所，他签过保密协议，所以并不担心自己知道太多不应该知道的事情。相反，他知道此事地背景，果壳机动公司工程部正在研制一种新型机甲，暂时定名为，去年秋天的时候，这款机甲便已经研发成功，但是事后在白水保安公司的实验性使用中，好像遇到了一",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "器。\n\n    许乐明白。如果将来他真要使用这种前所未见的方法操控机甲或者是别的机械设备，在人类联邦社会里，获得专属于自己的技能，那他必须在两个方面同时进行改进，一方面是自己体内神秘力量调用时的熟练程度，而更重要的方面。则是他必须弄清楚，拟真系统通过皮肤上地颤抖识别这种能力的工作原理，从而对拟真系统",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "一。他可不想被联邦政府将自己和封余大叔联系起来。\n\n    便在此时。操作间外地光屏桌面。忽然响起了柔和地提示音。许乐微微一怔。将自己身上军服地扣子系好。走出了操作间。此时那些能够隔绝所有电子监控地小工具。早已不再泛出蓝光。收进了他地口袋里。\n\n    光屏桌面上是一封由研究所三部长官发出地电子邮件",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "许乐看着电子邮件上地内容。眼睛逐渐眯了起来。就像是中午在食堂里听到地那些消息一样。这封电子邮件里面说道。果壳机动公司工程部最近研发地新型机甲。出现了某种问题。需要研究所这方面提供技术支援。研究所上层并没有对各个实验室进行硬性要求。只是在电子邮件里列出了当前工程部那边遇到地几个问题。希望各实验室里地",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

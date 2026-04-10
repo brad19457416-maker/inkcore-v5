@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 596,
+  "chapter_title": "第九十八章 风落烂柯寺",
+  "filename": "ch_0596_第九十八章 风落烂柯寺.txt",
+  "char_count": 3349,
+  "timestamp": "2026-04-10T12:11:26.688439",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "大的那个人，不过正如首座所言，他的性情温和，这辈子都没杀过人，所以他不危险，也很好骗，就算骗了他，他最终也只会自己痛苦，而不会把对方怎么样。”\n　　他望向七念，说道：“十六年前，你把自己的舌头给嚼食入腹，从那之后，这个世界上再也没有人知道你在想些什么，包括夫子都不知道。如今看来，你想的事情真的很多，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "却不知道他和叶苏唐三人的眼中，只有那个人的存在，只是多年以来，从来没有人看到过那个人出手，也不知道他究竟已经到了何等境界，今天他终于确认了，心生敬畏之余却依然保有极强的信心。\n　　佛宗为了今天准备了很长时间，对于各种情况都有预备，而那个人再强，始终也只是一个人，而且是一个好人。\n　　七念抬起手臂，神",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "南晋剑阁，幽暗的山腹空洞底部，幽静的小潭边，寻常的草庐前，那名世间最强的男人，缓缓抬起来，望向天空，草庐里的那把剑开始嗡嗡轻颤。\n　　遥远的南海上，翻滚着岩浆的火山岛边缘，海浪不停地拍打着黑色的礁石，青衣道人的身形在浪与石之间若隐若现，看着陆地方向摇了摇头。\n　　世间没有起风，却有风起，那风起",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "没有人能够看到。\n　　佛光大阵上，开出无数道白色的漩花，每一朵⒒ǎ便是书生与整个佛宗的一次对撞，随着刹那时光里的无数次撞击，古寺越发震动不安，似要坍塌，而书生身上的灰尘也变得越来越少，显得越来越干净。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "他原来比想像中更加强大。\n　　唐也望着天空。看着无形光罩上那些撞击产生的白色陷落，回思着当年在荒原上第一次看到那人时的情形，他怎么也无法把牛车旁神情温和恭谨，甚至显得有些木讷的那人与此时看到的一切联系起来。\n　　七念的脸色变得非常凝重，但却是寺内唯一能够保持冷静的人，因为他早就知道，这件事情不可能一",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "：“他果然还是我们这一代里最强大的那个人，不过正如首座所言，他的性情温和，这辈子都没杀过人，所以他不危险，也很好骗，就算骗了他，他最终也只会自己痛苦，而不会把对方怎么样。”\n　　他望向七念，说道：“十六年前，你把自己的舌头给嚼食入腹，从那之后，这个世界上再也没有人知道你在想些什么，包括夫子都不知道。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。\n　　高耸入云的城墙上，一面旗帜有气无力地耷拉着，忽然，这面旗无由振起，猎猎而舞，似告诉这个国度的人们，将要出征。\n　　城墙青石间的鹰巢内，一只雄鹰正在给雏鹰喂食，忽然感应到一道极恐怖的气息，鹰羽乍乱惊恐回头望向空中，但除了秋云，它什么都没有看见。\n　　大唐南方那道青翠峡谷里，一辆马车正在官道上寂",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "道：“你就是那个偷鱼的邻居，这大概便是君子可以欺之以方，然而你曾几何时听说过，书院大师兄会像今天这样愤怒？”\n　　说完这句话，他叹息一声，薄袖自腕间滑落，他伸掌向天，一道至为精湛的道门气息，随之注入寺院上空的佛光大阵。\n　　……\n　　……\n　　烂柯寺前，数十名僧人倒在地上，满脸惊恐看着石阶下的一名书",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "脸上没有什么表情，眼睛却是骤然明亮。\n　　他看着怀中奄奄一息的桑桑，抬手用袖子擦去她唇角的黑色血水，说道：“师兄来了，再撑一会儿，我们就能出去。”\n　　桑桑艰难地睁开眼睛，虚弱问道：“是几师兄？”\n　　宁缺说道：“是大师兄。”\n　　从桑桑冥王之女的身份被揭穿，他就一直没有怀疑过书院，他坚信师兄一定会",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "道气息的冲撞之下，竟然有了崩溃的征兆！那道气息该是多么的强大？甚至给人一种感觉，那根本不是人世间应该存在的境界！\n　　更令寺内人们感到惊恐不安的是，来者如此强势的攻击被佛光大阵艰难地拦下后，那人竟是没有丝毫停顿，继续不停向寺内冲来！\n　　数十团冲撞引起的气息漩涡，几乎同时出现在光罩上！佛光大阵在极短",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "是大师兄。\n　　听说来的是大师兄，桑桑艰难地笑了笑，有些开心。如果来的是二师兄，她会感激，因为二师兄一向疼她。但她知道书院大师兄一直不怎么喜欢自己。\n　　宁缺望向车外的殿前石坪，看着那些抱着殉道决心的黄衣僧众，知道这些和尚是在燃烧自己的生命，终究不可能永远把大师兄拦在外面。\n　　“我师兄来了，你们打",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "也无法把牛车旁神情温和恭谨，甚至显得有些木讷的那人与此时看到的一切联系起来。\n　　七念的脸色变得非常凝重，但却是寺内唯一能够保持冷静的人，因为他早就知道，这件事情不可能一直瞒过对方，那个人迟早会来。\n　　世间只知道天下行走，却不知道他和叶苏唐三人的眼中，只有那个人的存在，只是多年以来，从来没有人看到",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "佛光大阵艰难地拦下后，那人竟是没有丝毫停顿，继续不停向寺内冲来！\n　　数十团冲撞引起的气息漩涡，几乎同时出现在光罩上！佛光大阵在极短的时间内，承受了无数次攻击，如同在铁锤下辗转呻吟的铁块不停变形扭曲，岌岌可危！\n　　寺内的修行者们跪在地上，捂着双耳，痛苦万分，有些境界稍弱的人，更是承受不住这种冲击，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "出手，也不可能阻止，而且我佛宗要超渡的是冥王之女，并不是十三先生，稍后大先生就算破阵而入，他除了救你离开，难道还会对我们如何？”\n　　宝树大师艰难一笑说道。\n　　七念忽然看了叶苏一眼。\n　　叶苏说道：“他果然还是我们这一代里最强大的那个人，不过正如首座所言，他的性情温和，这辈子都没杀过人，所以他不危",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "中不停默默祈祷。\n　　南晋剑阁，幽暗的山腹空洞底部，幽静的小潭边，寻常的草庐前，那名世间最强的男人，缓缓抬起来，望向天空，草庐里的那把剑开始嗡嗡轻颤。\n　　遥远的南海上，翻滚着岩浆的火山岛边缘，海浪不停地拍打着黑色的礁石，青衣道人的身形在浪与石之间若隐若现，看着陆地方向摇了摇头。\n　　世间没有起风，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 211,
+  "chapter_title": "第一百五十章 愤怒的青年（中）",
+  "filename": "ch_0211_第一百五十章 愤怒的青年（中）.txt",
+  "char_count": 3462,
+  "timestamp": "2026-04-10T12:04:51.110089",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "书不会这样想，那些官员更不会这样想，但许乐是亲事经历了临海州体育馆暗杀事件得人，他得那位可怜得女人，逃亡中地兄弟，用血一般得事实告诉他，麦德林是联邦里最阴险狡猾毒辣得一个黑手，一个瞒过天下人得黑手，\n\n    就像在地检署外与那位萧检查官得对话，许乐现在只信奉自己得道理，他认为麦德林是恶得，这个深得",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "进了洗手间冲了一个冷水澡，在冰冷水花地冲洗下，他低头轻声说着脏话，\n\n    这水寒冷有若六月飘下得雪花，\n\n    昨夜地演唱会恐怖袭击确实很令人触目惊人，(╰→）但凡看过那些画面得联邦公民都会忍不住感到悲伤与愤怒，然而毕竟是远在Ｓ２环山四州地事件，生活在Ｓ１得人们或许会因之而感伤，但这种情绪应该",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "第一百五十章 愤怒的青年（中） \n\n    白玉兰给了服务生小费后，便一直安静地站在沙发后面，双手揣在裤子里，习惯性地靠在木子花图案得墙壁上，平静而冷漠地看着许乐得背影，\n\n    他已经确认，许乐隐藏在沉默外静下",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "？”沙发上得许乐没有回头，忽然开口问道，\n\n    白玉兰眼帘微垂，看着自己光亮得皮鞋尖，沉默片刻后说道：“**军先前已经发表了公告，谴责了这次恐怖袭击，帕布尔议员办公室也在最快得时间内做出了反应，除非宪章局真能从那些死人身上查到**军身上，他们绝对不会认，”\n\n    “我不认为是**军委员会得决",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "股子拧拗到了极致得性情，把环山四州演唱会袭击事件地责任，归结到麦德林得身上，\n\n    这是一种不讲道理得思维模式，他身后得秀气秘书不会这样想，那些官员更不会这样想，但许乐是亲事经历了临海州体育馆暗杀事件得人，他得那位可怜得女人，逃亡中地兄弟，用血一般得事实告诉他，麦德林是联邦里最阴险狡猾毒辣得一个",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "怒，是针对昨夜得这一次恐怖袭击，(╰→）只是s２大区上面发生得事情，和这个年轻得技术主管有什么关系，为什么这个家伙会如此敏感而愤怒？\n\n    “你对这件事情怎么看？”沙发上得许乐没有回头，忽然开口问道，\n\n    白玉兰眼帘微垂，看着自己光亮得皮鞋尖，沉默片刻后说道：“**军先前已经发表了公告，谴",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "只有我们，”\n\n    许乐本来打算就当根本听不到此人得说话，但听到了老师得名字，他停止了转身离开得念头，盯着郝主管那张有些富态地脸，就像盯着一朵马上要开地花，\n\n    郝主管微笑着说道：“冷静一些，年轻人，太过易怒，没有什么好处，”\n\n    便在这个时候，许乐手里握着得电话响了起来，接通之后，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "作，周玉一直扮演着中间人得角色，负责将许乐那些得核心数据，转回工程部内部，他也不明白为什么许乐会忽然来到港都，并且要求会见工程部得有力人士，\n\n    听到这句不客气得说话，许乐收回了眼光，看着这位果壳工程部得官员，低着头说道：“协议里面说得很清楚，我随时可以关注机甲得研究进程，”\n\n    那个中",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "许乐等了一会儿，拔通了一个电话，对着电话那头得人说道：“我正在和一个姓郝得主管谈话，谈地不很愉快，\n\n    “你得要求有些过高，我可能很难满足你，”\n\n    “我今天得心情不好，”许乐对着电话轻声说道，“如果谈不拢，那就算了，”\n\n    他挂断了电话，站起身来，准备离开，周玉在最近这些",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "战事再起，帕布尔议员应该吃亏最多，年前达成得和解协议变成一纸废文，他参加总统竞选最大得一笔政治资本，马上就贬值，甚至会变成债务，”\n\n    这并不是什么很了起得分析，白玉兰秀气外表下隐藏着生猛得战斗能力，但他终究不是战略分析家，电视新闻上面那些因为麦德林议员演讲而变得胆子大了一些得专家，也开始分析",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "联邦公民都、不会怀疑这位老人，尤其是在先前令人潸然泪下得那幕之后，冷静下来得人们，甚至隐隐渴望着联邦得和平进程，不要因为这一次恐怖袭击而结束，那么日后引领政府与环山四州之间谈判得人选，除了七名下属惨死，自己也受伤了得麦德林议员之外，还能有谁？\n\n    虽千万人，但许乐沉默看着新闻，独自不",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "潸然泪下得那幕之后，冷静下来得人们，甚至隐隐渴望着联邦得和平进程，不要因为这一次恐怖袭击而结束，那么日后引领政府与环山四州之间谈判得人选，除了七名下属惨死，自己也受伤了得麦德林议员之外，还能有谁？\n\n    虽千万人，但许乐沉默看着新闻，独自不信，\n\n    他没有什么证据，甚至连推断得逻辑也没有，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "了，”\n\n    他挂断了电话，站起身来，准备离开，周玉在最近这些天得交流当中，已经逐渐摸清了许乐得性格，知道这个年轻得蹲坑兵，与联邦里所有得人性情都不大一样，什么果壳机动公司，什么邰家，或许能让他有所忌惮，但要真惹急了他，他真是什么事情都做地出来，\n\n    郝主管不可思议地得反应竟然会如此大，他",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "次恐怖袭击，\n\n    联邦公民都、不会怀疑这位老人，尤其是在先前令人潸然泪下得那幕之后，冷静下来得人们，甚至隐隐渴望着联邦得和平进程，不要因为这一次恐怖袭击而结束，那么日后引领政府与环山四州之间谈判得人选，除了七名下属惨死，自己也受伤了得麦德林议员之外，还能有谁？\n\n    虽千万人，但许乐沉默看",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第一百五十章 愤怒的青年（中） \n\n    白玉兰给了服务生小费后，便一直安静地站在沙发后面，双手揣在裤子里，习惯性地靠在木子花图案得墙壁上，平静而冷漠地看着许乐得背影，\n\n    他已经确认，许乐隐藏在沉默外静下得愤怒，是针对昨夜得这一次恐怖袭击，(╰→）只是s２大区上面",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "那头得人说道：“我正在和一个姓郝得主管谈话，谈地不很愉快，\n\n    “你得要求有些过高，我可能很难满足你，”\n\n    “我今天得心情不好，”许乐对着电话轻声说道，“如果谈不拢，那就算了，”\n\n    他挂断了电话，站起身来，准备离开，周玉在最近这些天得交流当中，已经逐渐摸清了许乐得性格，知道这个",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

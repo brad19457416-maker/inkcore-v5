@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 966,
+  "chapter_title": "第一百三十九章 中毒",
+  "filename": "ch_0966_第一百三十九章 中毒.txt",
+  "char_count": 3362,
+  "timestamp": "2026-04-10T12:11:27.609990",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "没有死。\n　　桑桑看着黑暗的天穹上那些代表规则的光线，观察片刻后说道：“这个世界的规则没有崩塌，那么为什么没有死亡？”\n　　宁缺无法解释这个问题。\n　　桑桑说道：“你知道什么是涅吗？”\n　　宁缺说道：“佛法最高境界，便是涅。”\n　　桑桑说道：“涅，是一种状态。”\n　　“什么状态？”\n　　“宁静寂灭，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百三十九章 中毒\n　　天空虽然是黑暗的，却有光。\n　　桑桑举着大黑伞，双脚站在光明里，身体在黑暗中。\n　　她闭着眼睛，睫毛不眨，静穆有若神明。\n　　她在思考一个问题：佛祖再强，也强不过夫子，强不过人间，那他究竟用了什么手段",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "得很奇怪，过了这么多年，她一直没有变老。”\n　　宁缺说道：“无数年来，信佛之人，死后留下的觉识，都会来到这个棋盘里，这里是真正的佛国，他们是死人，自然不会变老。”\n　　桑桑说道：“但你也没有变老。”\n　　宁缺心想确实如此，已经过去了至少数百年，自己没有老，也没有死。\n　　桑桑看着黑暗的天穹上那些代表",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "棋盘里，这里是真正的佛国，他们是死人，自然不会变老。”\n　　桑桑说道：“但你也没有变老。”\n　　宁缺心想确实如此，已经过去了至少数百年，自己没有老，也没有死。\n　　桑桑看着黑暗的天穹上那些代表规则的光线，观察片刻后说道：“这个世界的规则没有崩塌，那么为什么没有死亡？”\n　　宁缺无法解释这个问题。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "是佛祖说的极乐。”\n　　她说道：“你说这里是佛国，没有错，这里就是真正的极乐世界，如果你我没有醒来，最终也会成为这个世界的一部分。”\n　　宁缺看着街上的行人，忽然觉得浑身寒冷，他和桑桑真的险些成为这个世界的一部分，到那时生不知生死不知死，到底是极乐，还是极悲？\n　　这就是涅的真义，天佛皆能算，佛涅，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "于湖畔徜徉，于巷间撑伞，看烟雨古寺，风雪边关，是为贪。\n　　小院里的争吵，菜场里的血海，渐远的身影，愤怒地质问，生与死的对抗，那些暴躁的情绪，低落的心情，是为嗔。\n　　剩下的那些画面，都起于贪嗔，或引出贪嗔，那就是痴。\n　　贪嗔痴，便是佛门说的三毒。\n　　大乘义曰：“贪者，以迷心对于一切顺情之境，引",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "不到佛，佛却能算天，佛并没有跳出因果，却能看透因果，顺势而行。\n　　因果，就是因为所以，也是书院讲的道理。\n　　因为宁缺当年在河北道畔拣到那个女婴，因为夫子收宁缺为徒，因为宁缺想让桑桑变成人类，因为他们相爱，所以才到了如今。\n　　“我们终究还是醒来了，佛祖还能用什么方法来杀你？”宁缺说道：“他既然涅",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "在，更得感谢我把它补好。”\n　　宁缺指着大黑伞，笑着说道：“新三年，旧三年，缝缝补补又三年，这把黑伞将来肯定会成为我们的传家宝。”\n　　有大黑伞在身边，他们不用担心被那些代表规则的光线发现，但是怎么离开呢？吃完晚饭后，他们开始思考这个问题。\n　　在棋盘里已经过了很多年，宁缺和桑桑都不怎么着急，至少表",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "毒让桑桑变得非常虚弱，她没有能力挥手便破了这局，那么接下来的事情，必然还会很麻烦。\n　　在街巷拥挤的人群里穿行，宁缺忽然停下脚步，望向遥远东方某处，青板僧死前也望着那里，然而那里什么都没有。\n　　回到小院，宁缺做了顿丰盛的晚餐，最诱人食欲的，还是那碗青红泡椒和嫩姜，当然，他没有忘记桑桑最喜欢吃的醋泡",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，便是涅。”\n　　桑桑说道：“涅，是一种状态。”\n　　“什么状态？”\n　　“宁静寂灭，不知生死，清凉寂静，恼烦不现，众苦永寂；具有不生不灭、不垢不净、不增不减，远离一异、生灭、常断。”\n　　桑桑说道：“这就是涅，也就是成佛。”\n　　宁缺想起在瓦山佛祖石像前，桑桑曾经提起过那只姓薛的猫，说道：“涅如果",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "年，她中的毒已经很深，不知不觉间已经变得极为虚弱，虚弱到无法离开，那么迎接她的将是什么。\n　　“不用担心。”\n　　宁缺把她搂进怀里，低声说道：“就算佛祖能杀了你，你也能回昊天神国……也许某一天，你会想起我和书院，到时候……”\n　　他说不下去了，如果桑桑真的用死亡来回归，那么便不可能有那个时候，昊天就",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "宁缺说道：“佛法最高境界，便是涅。”\n　　桑桑说道：“涅，是一种状态。”\n　　“什么状态？”\n　　“宁静寂灭，不知生死，清凉寂静，恼烦不现，众苦永寂；具有不生不灭、不垢不净、不增不减，远离一异、生灭、常断。”\n　　桑桑说道：“这就是涅，也就是成佛。”\n　　宁缺想起在瓦山佛祖石像前，桑桑曾经提起过那只",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "变得极为虚弱，虚弱到无法离开，那么迎接她的将是什么。\n　　“不用担心。”\n　　宁缺把她搂进怀里，低声说道：“就算佛祖能杀了你，你也能回昊天神国……也许某一天，你会想起我和书院，到时候……”\n　　他说不下去了，如果桑桑真的用死亡来回归，那么便不可能有那个时候，昊天就是昊天，人间不再会有桑桑。\n　　佛祖",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

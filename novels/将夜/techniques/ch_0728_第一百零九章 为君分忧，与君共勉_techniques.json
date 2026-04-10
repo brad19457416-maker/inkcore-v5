@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 728,
+  "chapter_title": "第一百零九章 为君分忧，与君共勉",
+  "filename": "ch_0728_第一百零九章 为君分忧，与君共勉.txt",
+  "char_count": 4398,
+  "timestamp": "2026-04-10T12:11:27.030569",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "知太后娘娘。”\n　　在当前局势下，为了避免大唐分裂，避免朝中诸臣、将士和百姓在两派之间做出选择，毫无疑问这是最妥当的安排。\n　　大殿上响起大臣们的颂扬声，说的无外乎便是这些内容。\n　　就在这时，一道声音响了起来。\n　　于是整座大殿变得安静无比。\n　　因为说话的人是宁缺。\n　　“你说你只有一个弟弟。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "心里悄然发生，只不过我自已没有查觉到。”\n　　“前年出使烂柯寺的路上，我看到了大唐南方的原野，那里的风景很美，那里的人很好，大唐真的是一个很好的地方，我喜欢它，我不想它受到伤害。但现在它被伤害的很重，甚至快死了。”\n　　宁缺看着她说道：“我相信有很多愚蠢的错误不是你犯的，是他犯的，所以我想知道他准备",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "道：“为什么想一见面便杀死我？因为我篡改了父皇的遗诏？还是因为你发现我不是你想像中的那种人，失望所以愤怒？”\n　　“虽然当年在篝火堆旁，你安安静静听我讲了一夜的童话，但我从来没有把你当成童话里的公主，一个远嫁荒原，还能安然回归的女人，怎么可能是简单的人物，这方面不存在失望，所以我不会因此而愤怒。”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，但我从来没有把你当成童话里的公主，一个远嫁荒原，还能安然回归的女人，怎么可能是简单的人物，这方面不存在失望，所以我不会因此而愤怒。”\n　　宁缺说道：“至于篡改遗诏，在别人眼中看来大逆不道，但其实我真不怎么在意，我的冷酷现实程度，要远远超过你和世人的想象。”\n　　“如果你帮助李珲圆夺了皇位之后，真的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第一百零九章 为君分忧，与君共勉\n　　御书房里一片安静。宁缺沉默了很长时间，然后缓声说道：“失望总是难免的，不过还没有到绝望。”\n　　李渔笑了笑。\n　　与先前凄清可怜的笑容相比，这抹笑容里自嘲的情绪更浓。\n　　她说道：“这还真是出乎我的意料，我以为你已经对我绝望透顶。”\n　　“从梧州",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "：“失望总是难免的，不过还没有到绝望。”\n　　李渔笑了笑。\n　　与先前凄清可怜的笑容相比，这抹笑容里自嘲的情绪更浓。\n　　她说道：“这还真是出乎我的意料，我以为你已经对我绝望透顶。”\n　　“从梧州到长安，包括我进长安城，你都没有动用大军。”\n　　宁缺望向皇宫朱墙，说道：“我欣赏这点，又或者你现在已经",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "然后他看着依然处于极度震惊状态下的群臣，说道：“刚才听诸位大人说了很多道理，比如选择，比如团结，很是忧虑，那么我便替诸位大人解忧。”\n　　“皇帝陛下现在已经死了，那么先帝只剩下一个儿子，皇位只能由他来继承，除非亲王殿下对这张椅子也感兴趣。”\n　　宁缺望向站在勋贵队列之首的亲王李沛言。\n　　李沛言的脸",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "称呼不同，这便代表着不同的态度。\n　　御书房再次陷入沉默。\n　　宁缺忽然说道：“让他先退位，别的事情以后再说。”\n　　李渔摇头说道：“我不可能让陛下退位，因为那意味着死亡。”\n　　宁缺说道：“现在很多人都知道陛下把皇位传给了谁，你们姐弟二人，不可能再欺骗下去。”\n　　李渔寒声说道：“你们没有遗诏，而",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "不是你想像中的那种人，失望所以愤怒？”\n　　“虽然当年在篝火堆旁，你安安静静听我讲了一夜的童话，但我从来没有把你当成童话里的公主，一个远嫁荒原，还能安然回归的女人，怎么可能是简单的人物，这方面不存在失望，所以我不会因此而愤怒。”\n　　宁缺说道：“至于篡改遗诏，在别人眼中看来大逆不道，但其实我真不怎么",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第一百零九章 为君分忧，与君共勉\n　　御书房里一片安静。宁缺沉默了很长时间，然后缓声说道：“失望总是难免的，不过还没有到绝望。”\n　　李渔笑了笑。\n　　与先前凄清可怜的笑容相比，这抹笑容里自嘲的情绪更浓。\n　　她说道：“这还真是出乎我的意料，我以",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "“从小时候柴房杀人开始，我便变得自私冷酷，除了桑桑我谁也不关心，直到去了渭城，才有了改变，而后进入书院，有些变化一直在我的内心里悄然发生，只不过我自已没有查觉到。”\n　　“前年出使烂柯寺的路上，我看到了大唐南方的原野，那里的风景很美，那里的人很好，大唐真的是一个很好的地方，我喜欢它，我不想它受",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第一百零九章 为君分忧，与君共勉\n　　御书房里一片安静。宁缺沉默了很长时间，然后缓声说道：“失望总是难免的，不过还没有到绝望。”\n　　李渔笑了笑。\n　　与先前凄清可怜的笑容相比，这抹笑容里自嘲的情绪更浓。\n　　她说道：“这还真是出乎我的意料，我以为你",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，要远远超过你和世人的想象。”\n　　“如果你帮助李珲圆夺了皇位之后，真的能够让大唐千秋万代，黎民百姓幸福安乐，那么说不定我还可能支持你们，然而现实并非如此。”\n　　听着他的这番话，李渔的眼睛里渐渐重新流露出一些明亮，看着他认真说道：“以前你答应过，在这件事情上……支持我。”\n　　宁缺说道：“错，我当",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

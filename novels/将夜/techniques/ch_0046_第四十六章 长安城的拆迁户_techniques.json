@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 46,
+  "chapter_title": "第四十六章 长安城的拆迁户",
+  "filename": "ch_0046_第四十六章 长安城的拆迁户.txt",
+  "char_count": 2297,
+  "timestamp": "2026-04-10T12:11:03.433989",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "意赔付，而我们只对你有一个要求，那就是……马上搬走。”\n　　这些条件真是不错，宁缺感慨望着这群汉子，心想长安城果然不愧是天子脚下的首善之区，就算搞拆迁都搞的这么大气。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "己提过一嘴，转过身来望着那汉子温和回答道：“不知这位大哥有何见教。”\n　　“相信小老板你现在应该知道为什么临四十七巷就只有你一家铺子开着的。”那名汉子很直接地开口提出条件，“你的租铺合同我直接拿二百两银子买断，你自去寻别的铺子，这中间如果有什么损失，你也可以提出来，如果合理我们也愿意赔付，而我们只对",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，御史死于交通事故总比死在妓女床上更符合朝廷的预期。\n　　至于杀人的感觉？他没有太多感觉。他在大唐的人生开始于一场谋杀，成长于无数场谋杀，他杀过的人很多，用过的杀人方式更多，比今天这种方式更残忍血腥的也不少。杀人后会感觉到恐惧恶心欲呕甚至会怕黑？这种情况只可能出现在那些整日浸淫诗文间的书生身上，至于",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "杀人方式更多，比今天这种方式更残忍血腥的也不少。杀人后会感觉到恐惧恶心欲呕甚至会怕黑？这种情况只可能出现在那些整日浸淫诗文间的书生身上，至于他，虽然也将参加书院的入院试，但他骨子里终究不是书生。\n　　――他是杀老猎户的猎户，他是杀小马贼的马贼，他是天生的杀人者。\n　　但今天杀死的这人终究是大唐高官，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "在临四十七巷里呆了两日，去市坊里打听了一下长安城里发生的有趣事，他发现御史张贻琦之死果然没有引发太多风波，只是引来长安百姓们的无数八卦和群嘲，关于青楼侧门发生的事情，出现了无数个版本，但大部分的讲述者，都倾向于把御史的死亡和惧妻倒霉联系起来。\n　　正如宁缺所料，御史府那位强悍的夫人现如今正在长安府衙",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "府认可的那种。\n　　桑桑的小脸上露出警惕神情，右手下意识伸到身后，紧紧握住大黑伞的中段。宁缺却是毫不紧张，看着远处树下两名长安府的衙役，注意到对方手中一应链铁手板都没带，便猜到了这群精壮汉子的来历。\n　　精壮汉子领头那人约摸三十岁左右，他并没有如宁缺想像那般上来就一通暴吼辱骂再命令手下冲进老笔斋来一",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "子，这中间如果有什么损失，你也可以提出来，如果合理我们也愿意赔付，而我们只对你有一个要求，那就是……马上搬走。”\n　　这些条件真是不错，宁缺感慨望着这群汉子，心想长安城果然不愧是天子脚下的首善之区，就算搞拆迁都搞的这么大气。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "不打算动手了，等张贻琦的事情安静些再说，另外我也要准备准备入院试。”\n　　“在渭城的时候，少爷你经常担心不等复仇开始，那些老家伙就抢先病死老死。”\n　　“但既然已经等了十几年，相信昊天老爷总不可能连几十天都不给我。”\n　　……\n　　……\n　　复仇是一项综合工程，尤其是当你只是一个小人物，而你复仇的目",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "垃圾扔掉，哪里想到自己的小侍女偷偷藏了起来。\n　　又安静了很长时间，宁缺忽然叹息了一声，带着些许遗憾说道：“昨儿夜里听你写的那首诗倒也没觉着不妥，可今儿当着那家伙面念出来时，总感觉哪里有些不对，嗯，仔细琢磨感觉有些傻气。”\n　　这说的自然是那首“我从哪里，要取你的命”，单调的重复，刻意地加深，粗拙愚",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "妓女床上更符合朝廷的预期。\n　　至于杀人的感觉？他没有太多感觉。他在大唐的人生开始于一场谋杀，成长于无数场谋杀，他杀过的人很多，用过的杀人方式更多，比今天这种方式更残忍血腥的也不少。杀人后会感觉到恐惧恶心欲呕甚至会怕黑？这种情况只可能出现在那些整日浸淫诗文间的书生身上，至于他，虽然也将参加书院的入院",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的那夜宁缺写的丧乱贴，宁缺以为那张纸早就已经混着垃圾扔掉，哪里想到自己的小侍女偷偷藏了起来。\n　　又安静了很长时间，宁缺忽然叹息了一声，带着些许遗憾说道：“昨儿夜里听你写的那首诗倒也没觉着不妥，可今儿当着那家伙面念出来时，总感觉哪里有些不对，嗯，仔细琢磨感觉有些傻气。”\n　　这说的自然是那首“我从哪",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

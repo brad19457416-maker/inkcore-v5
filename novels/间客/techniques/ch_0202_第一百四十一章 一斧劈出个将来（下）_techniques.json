@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 202,
+  "chapter_title": "第一百四十一章 一斧劈出个将来（下）",
+  "filename": "ch_0202_第一百四十一章 一斧劈出个将来（下）.txt",
+  "char_count": 11183,
+  "timestamp": "2026-04-10T12:04:51.082206",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "公子便要掏出七百万来，这样大的赌注，即便是当年林半山亲自压阵地时候，也不多见。\n\n    山丘那边的人群，向着利孝通和许乐这边投来了异样的眼光，能够一掷千金买个爽利的人不多，也只有山丘高地上的这两拔人才有这种实力。\n\n    只是那边的人根本没有想到自己的手中的职业赛车手会输，那位副议长公子甚至认为",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "此时他也不需要知道。\n\n    “林半山说过，开门便要见山，见山自己便是山，便可自岿然不动，任八面来风。”\n\n    利孝通放下刀叉，看着桌子对面地许乐说道：“所以我就开门见山的说了，我不理会家族与你。与你身后那位夫人之间有什么问题，我想与你建立起某种私人的友谊，这便是我今天专程请你前来的原因。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，图个开门红。”\n\n    “如果我赌输了，你一样会继续投资我。”许乐笑着说道：“那我们赌车又有什么意义？”\n\n    “万一赢了呢？”\n\n    就在此时。山丘高地旁边地一群人忽然喧闹了起来，似乎是下了大注，又极有信心，所以那些公子哥正在高声地叫喊着什么。就像利孝通说的那样，联邦里处处都有规矩，公",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "道我是谁，我们也没有说过话。”利孝通看了那边一眼，对许乐说道。\n\n    联邦管理委员会副议长，毫无疑问是最有权力的大人物之一，即便是利孝通也不愿意去招惹对方那个白痴儿子。许乐看了那边一眼，马上收回了眼光。\n\n    “下面那辆白色地跑车是他的，听说车手是从专门请过来的职业车手，赢的红利倒谈不上太多",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "江山震撼过地心。本不应该被利孝通这三层空楼所震慑。但他毕竟骨子里还只是一个小人物。而且今天来此地。是第一次以平等地身份。与联邦里地大人物们正面对话。所以他有些不适应。\n\n    夜访青藤园。许乐手中地刀没有斩落利孝通地大好头颅。一方面是他知道朴志镐不是这位利家七少爷派来地。另一方面也是因为那个一直沉",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "露出一丝天然的优越感。这本来应该是世家子弟们骨子里藏着的东西，利孝通却能藏地如此之好，许乐默默想着，心想利修竹那位正牌继承人，只怕真地要小心一些才是。\n\n    许乐一直沉默，利孝通却没有什么意见，他指着公路上的那些跑车，笑着说道：“青山公园路口与你第一次见面，我就知道你不喜欢富家子们飙车，视人命如",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "通决定要和这个年轻少尉建立私人友谊，自然需要相处，看看彼此的性情，一席饭是远远不够地，所以他带着许乐来到了首都西郊，这处不要命的飙车党的天堂圣地。\n\n    “我知道你的女朋友死了半年了。”利孝通看了一眼身旁许乐的脸色，平静说道：“我在十三大道有很多产业。那些高级妓女都要看我的脸色，可你不愿意接受，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "要见山，见山自己便是山，便可自岿然不动，任八面来风。”\n\n    利孝通放下刀叉，看着桌子对面地许乐说道：“所以我就开门见山的说了，我不理会家族与你。与你身后那位夫人之间有什么问题，我想与你建立起某种私人的友谊，这便是我今天专程请你前来的原因。”\n\n    在青藤园的夜晚里，利孝通便曾经向许乐表示过",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "第一百四十一章 一斧劈出个将来（下） \n\n    首都特区十三大道公寓楼林立，高级公寓桔黄色灯光笼罩的大门外，出租车时停时走，捧着花的女士，表情落寞地进出其间。街畔时能看见卷着报纸匆忙行路的中年男人，被几条大狗遛的步履蹒跚的老",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "七少爷投资。”\n\n    “你低估自己了。”利孝通静静地看着他，说道：“没有数据，你还有这个人，可以轻松地突破青藤园地防御，突破研究所的三层扫描，这样深不可测的家伙，我可不能随便放过。”\n\n    “当然，我肯定不会把你当成一个杀手来投资。”\n\n    曾哥依然平静而沉默地站在利孝通的身后，就凭这一",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "议长，毫无疑问是最有权力的大人物之一，即便是利孝通也不愿意去招惹对方那个白痴儿子。许乐看了那边一眼，马上收回了眼光。\n\n    “下面那辆白色地跑车是他的，听说车手是从专门请过来的职业车手，赢的红利倒谈不上太多。因为赔率低的有些可怜。毕竟这里是野赛，没有人敢奢望能够赢职业车手。”\n\n    利孝通指",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "竟是你家里人很不喜欢地那类人。”许乐说道。\n\n    “我喜欢就行了。”利孝通小口抿着杯中地香槟酒，缓缓说道：“我们利家向来是做生意的，我那位大哥这些年顺风顺水，家里老头子们都很喜欢他，居然由得他越界……却不知道越界越深，风险越大，我却不想这样做，做生意只为谋财，何必管那些东西。”\n\n    许乐感",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "许乐为什么就知道赛图里是一个不怕死，更不怕让人死的疯狂家伙？明明那个车手长的如此秀气，就像一个**般温柔平静。\n\n    “联邦里不讲道理的事情很多，但巧合的事情也很多。”许乐看着正在向山丘上走来的秀气男人，低着头说道：“也许你都不相信，这个人我今天才见过，他是我的秘书。”\n\n    车手能拿多少钱",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "面包香味吸引过来的野猫，在公寓旁的铁栏杆下伏低身子，散放着楚楚可怜的眼神。\n\n    这是一座充满了权力味道的都市，十三大道的公寓租金极高，住户大多数都是联邦政府里的工作人员，或者是大公司的上层主管，也只有这些人才会不在乎每年支付给局饲养宠物所需要的大笔税金。\n\n    最近这些年，联邦的高级妓女们",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "许乐默然无语，他不知道利孝通提到张小萌的死有没有什么深意，那些隐藏在联邦政治黑幕之后的生死别离，他从来没有忘记，他强力夺取沈老教授留下来的数据，此时与利家七少站在一起，一方面是要替沈老教授争取他应得地荣誉，另一方面他也是要为自己的计划做安排。\n\n    很奇妙的是。利家七少爷这个人虽然钱多的可以砸",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

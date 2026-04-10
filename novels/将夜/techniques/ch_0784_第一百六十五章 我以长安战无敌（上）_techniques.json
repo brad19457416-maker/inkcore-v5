@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 784,
+  "chapter_title": "第一百六十五章 我以长安战无敌（上）",
+  "filename": "ch_0784_第一百六十五章 我以长安战无敌（上）.txt",
+  "char_count": 2318,
+  "timestamp": "2026-04-10T12:11:27.153650",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "够，观主始终能够寻觅到落脚处，然后在他修好惊神阵之前，看到了他。\n　　宁缺和观主隔着一条十几里的、被风雪笼罩的长街，遥遥相见。\n　　在长安城里穿行，观主受了很多伤，道衣染血，但没有倒下。\n　　他们并没有相遇，但已经相见。\n　　一朝相见，便已经分出了胜负。\n　　宁缺知道自已输了。\n　　莫山山看了他一眼",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "肯定马上转身离开，但今天他没有这样做。\n　　这与勇气无关，只与信心有关。\n　　因为他相信自已能够获得最终的胜利。\n　　因为这里是长安城。\n　　……\n　　……\n　　隔着十几里的风与雪，观主向街那头看了一眼。\n　　宁缺手中的阵眼杵，忽然变得滚烫无比，掌面与杵面接触的地方，发出滋滋的响声，伴着青烟生起，有",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "与杵面接触的地方，发出滋滋的响声，伴着青烟生起，有焦味刺鼻。\n　　从晨时到现在，这一眼是宁缺和观主的第一次真正接触，只有凭借惊神阵的力量，他才能不被观主的目光敛没心神。\n　　惊神阵的力量经由阵眼杵散发至街道中，护住他的身与心，阵眼杵是通道，承受了难以想象数量的天地气息，急剧升温。\n　　这种灼烧的痛苦",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，笼罩了他的身体。\n　　长街那头，又有刀痕破雪而至。\n　　寒风先至，观主青袖拂动，身躯迎风便涨，仿佛瞬间变大了无数倍，要冲破天穹。\n　　事实上，他还是站在街上，还是那个普通道人。\n　　只是他的身上散发出一道宏大如海、无边无量的气息。\n　　宁缺的刀痕到了。\n　　长安城到了。\n　　天地气息狂暴的变化着，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "话音落处，他抽刀斩落。\n　　他识海里的念力散溢出身，经由手中紧握的阵眼杵，传到长安城的四面八方，来到东城三百六十五道街巷的宅落里，来到那些经历了无数年风雨雪霜的青砖旧石间，来到西城五片湖泊，来到那些亭榭楼台。\n　　一道沧桑苍凉的气息，从那些砖缝石隙间散发出来，从冰雪覆盖的湖水深处、从亭榭楼台的地",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "眉尾，断眉就像是断掉的河堤，血像溢出河堤的水般，从那道细线里缓慢淌出。\n　　他看着长街那头，神情渐趋凝重。\n　　他忽然抬起手掌，缓慢自面前拂下，似古佛拂面自哀，又像是宋国古戏里那些变脸的戏法，想要把这张脸抹去。\n　　观主缓缓落下的手掌，没有把那些鲜血抹掉，也没有让细线般的伤口变成一道金线，只是让断眉",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "刀痕，斩不痛不痛之人。\n　　再恐怖的狂澜，落在汪洋里，只是一隅的画面。\n　　寂灭以及无量。\n　　观主同时施出两个五境之上，并且让二者形成完美的统一。\n　　……\n　　……\n　　风雪再静。\n　　观主平静前行。\n　　宁缺的刀痕，在他的身上，只留下了一些极细微的痕迹。\n　　有睫毛落下，有衣袂断，布鞋上多了条",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "溢出身，经由手中紧握的阵眼杵，传到长安城的四面八方，来到东城三百六十五道街巷的宅落里，来到那些经历了无数年风雨雪霜的青砖旧石间，来到西城五片湖泊，来到那些亭榭楼台。\n　　一道沧桑苍凉的气息，从那些砖缝石隙间散发出来，从冰雪覆盖的湖水深处、从亭榭楼台的地基深处缓慢升腾而起。\n　　陈旧的梁木吱吱作响，青",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "起手掌，缓慢自面前拂下，似古佛拂面自哀，又像是宋国古戏里那些变脸的戏法，想要把这张脸抹去。\n　　观主缓缓落下的手掌，没有把那些鲜血抹掉，也没有让细线般的伤口变成一道金线，只是让断眉与睫毛上多了一层寒霜。\n　　一道寂灭的气息，笼罩了他的身体。\n　　长街那头，又有刀痕破雪而至。\n　　寒风先至，观主青袖拂",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "就算在长安城内，你依然太过弱小。”\n　　十余里外传来观主的声音，风雪掩之不住。\n　　宁缺看着风雪那头说道：“在长安城里，我无所不知，所以你一直追不上我，我现在想试一下，可不可以做到无所不能。”\n　　话音落处，他抽刀斩落。\n　　他识海里的念力散溢出身，经由手中紧握的阵眼杵，传到长安城的四面八方，来到东",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

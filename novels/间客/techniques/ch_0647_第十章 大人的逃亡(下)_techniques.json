@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 647,
+  "chapter_title": "第十章 大人的逃亡(下)",
+  "filename": "ch_0647_第十章 大人的逃亡(下).txt",
+  "char_count": 3442,
+  "timestamp": "2026-04-10T12:05:08.616303",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "余的帝**人则是快散开。地下车库的灯光骤然全部熄灭，一片黑暗中，低沉强劲的多引擎合奏声猛然响起，划破寂静与压抑的气氛。\n\n    就在叛军合围街区之前，桃瘴机甲高破开大门，在白昼之下化身一道幽冥意味十足的影子，碾碎水泥路面，撞飞拦虢的战车，呼啸着狂奔而走，度迅疾，气势壮烈，根本不像是逃亡，而是骄傲的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "致能够想明白，于是真正困扰他的问题，便只剩下今天这场暗杀掀开帷幕时的那记枪声。\n\n    为什么联邦秘密研的 ac会出现在帝国境内？会出现在那些刺杀者的手中？\n\n    许乐沉默思考很久，只能想到一个解释，那就是这几十年来，联邦从来没有停止过对帝国的渗透，甚至可能在暗中与帝国某些势力合作。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "登上机甲，而其余的帝**人则是快散开。地下车库的灯光骤然全部熄灭，一片黑暗中，低沉强劲的多引擎合奏声猛然响起，划破寂静与压抑的气氛。\n\n    就在叛军合围街区之前，桃瘴机甲高破开大门，在白昼之下化身一道幽冥意味十足的影子，碾碎水泥路面，撞飞拦虢的战车，呼啸着狂奔而走，度迅疾，气势壮烈，根本不像是逃",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第十章 大人的逃亡(下) \n\n    的地下停车场，凶险的枪械与逃亡，这种事曾相识的***\n\n    让许乐感觉有些不舒服。\n\n    帝国内部势力的倾轧，和他这个联邦军人没有任何关系，自进入地下车库后，他一直沉默",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "剧本，只是没有想到粗劣剧本，会有这样一个看上去理所当然轻描淡写却脆辣至极的结局。\n\n    帝 **人们鄙夷地看 了眼躺在血泊中的碓1徒军官，走向地下车库侧方，拉开外面的水泥墙壁伪装，然后用力扯下一大片蓝色的电子防尘布。\n\n    哗的一声，一台黑青色帝国新式机甲于纷飞的烟尘间露出真容，护甲泛着幽幽",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "静，双肩自然内缩，明白在失血的情况下，那人应该感觉到有些寒冷。\n\n    人类抵抗寒冷的方法除了衣物颤抖之外，还有睡眠，虽然这种睡眠往往是致命的，可本能里的选择总是难以抗拒。\n\n    风还在吹着桑树梢，沙沙沙沙，单调轻和催人入眠。\n\n    许乐一  动不动，他沉默地看着那边，数着对方的呼吸频率，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "是真正困扰他的问题，便只剩下今天这场暗杀掀开帷幕时的那记枪声。\n\n    为什么联邦秘密研的 ac会出现在帝国境内？会出现在那些刺杀者的手中？\n\n    许乐沉默思考很久，只能想到一个解释，那就是这几十年来，联邦从来没有停止过对帝国的渗透，甚至可能在暗中与帝国某些势力合作。\n\n    夜渐深，星渐移",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "有些落寞地承认，身旁这名帝**官确实水平远胜自己。\n\n    承认不如对方，不代表就要永远认输，他的性格决定了想法，尤其是想到身旁的帝**官如果真是传说中那人的话，败在此人手上也算不得什么丢脸，在这一刻，他无比想念自爆于那艘旗舰上的黑色m x t……\n\n    深夜的桑海，像是巨人王国里的阴森草原，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "昏暗的座舱内，只有监控光幕上的青色桑海可以舒缓一下紧张的神经和有些干涩的双眼，那些柔嫩的细枝，风中凌乱的树叶，在光幕上高后掠，渐要变成无数道青绿色的线条，可以推断出机甲此时的度是何等 惊人。\n\n    许乐微垂眼帘，不再去看光幕上一成不片近半小时的桑海画面，余光谨慎地落在身旁那名帝**官的身上",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "*\n\n    让许乐感觉有些不舒服。\n\n    帝国内部势力的倾轧，和他这个联邦军人没有任何关系，自进入地下车库后，他一直沉默地站在后方，看着这一切生，努力听着那些难以听清的帝国话。\n\n    刺杀，内奸，他觉得这些帝国人的对话很像一出拙劣的剧本，只是没有想到粗劣剧本，会有这样一个看上去理所当然轻描",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "弱地亮了三下，许乐沉默片刻，在心中叹息了一声，轻轻摇了摇头。\n\n    十几米外的那棵桑树下，怀草诗缓缓睁开双眼，眼眸异常明亮，看着许乐哑声说道：“我一直以为你是聪明人，现在看起来，似乎判断出了些问题。\n\n    他说话的声音压的极低，林间休憩的夜鸟依然在黑甜梦中，未被惊动，但他知道许乐应该能听清自",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "种频率配合起来，就变得那般强悍……\n\n    不用午夜梦回醒来，有时候许乐私底下分析自身，感到有些小满足小得意的，除了机修方面的天赋外，最引以为傲的逼真是操桩机甲的水准，短短几年时间，即便不说打遍军中无敌手，也至少是没有谁敢耒挑贼他，然而战舰一战，今日一看，他不得不有些落寞地承认，身旁这名帝**官确",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "一声，轻轻摇了摇头。\n\n    十几米外的那棵桑树下，怀草诗缓缓睁开双眼，眼眸异常明亮，看着许乐哑声说道：“我一直以为你是聪明人，现在看起来，似乎判断出了些问题。\n\n    他说话的声音压的极低，林间休憩的夜鸟依然在黑甜梦中，未被惊动，但他知道许乐应该能听清自己的话。\n\n    “敌人的敌人不见得是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

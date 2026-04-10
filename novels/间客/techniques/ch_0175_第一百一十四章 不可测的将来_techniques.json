@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 175,
+  "chapter_title": "第一百一十四章 不可测的将来",
+  "filename": "ch_0175_第一百一十四章 不可测的将来.txt",
+  "char_count": 3564,
+  "timestamp": "2026-04-10T12:04:45.694552",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "邦最新一代的机甲，便能成功。”\n\n    许乐认真地听着，这是他早已经得出来的判断，只是不明白老教授为什么要说这个。\n\n    “这份学术报告上记得签我的名字，我的名字要签在最前面。”沈老教授说道。\n\n    许乐微微皱眉，他清楚沈老教授不是一个贪慕学术虚名的人，不然也不可能躲在这间实验室里这么多年",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "依然无法完全平息心中的激动，当沈老教授上了二楼的办公室后，他马上回头，盯着光屏桌面上的那团乱麻，有些紧张地搓了搓手，马上开始进行数据记录和核对。\n\n    他很害怕这团乱麻马上消失在眼前。\n\n    有了轨迹图，便需要对型机甲双引擎的通过环节进行改造。接下来则需要发挥许乐在机械设计方面的天赋，即便对",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "甲引擎容纳室的构造进行根本性的改变，还需要很多时间。但最重要，最困难的环节通了，联邦新一代机甲研制的最终成功，想必是指日可待的事情。\n\n    因为明白此事的重要性，所以许乐震惊的久久无语，半晌后才回过神来，恭敬地说道：“沈教授，您回来了。”\n\n    在医院了住了好些天，他一直不知道沈老教授究竟得",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "地主设计者，只是从很多年前，他将自己的全部精力都放在量子可测动态这个看似绝路的研究方向之后，才渐渐从人们的视线中消失。\n\n    人生最后的这些年头，这位老教授的研究并没有取得突破性的进展，他并没有太多的失望，联邦数万年的历史早就证明了，要想要基础理论上获得某种跳跃式地革命开拓，要不就是需要几代人甚",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "数公式，会为联邦带来怎样的震动。\n\n    许乐向来是一个十分冷静的人，但此时依然无法完全平息心中的激动，当沈老教授上了二楼的办公室后，他马上回头，盯着光屏桌面上的那团乱麻，有些紧张地搓了搓手，马上开始进行数据记录和核对。\n\n    他很害怕这团乱麻马上消失在眼前。\n\n    有了轨迹图，便需要对型",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "将自己的全部精力都放在量子可测动态这个看似绝路的研究方向之后，才渐渐从人们的视线中消失。\n\n    人生最后的这些年头，这位老教授的研究并没有取得突破性的进展，他并没有太多的失望，联邦数万年的历史早就证明了，要想要基础理论上获得某种跳跃式地革命开拓，要不就是需要几代人甚至十几代人不倦地研究，要不就是",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "第一百一十四章 不可测的将来 \n\n    光屏桌面上的电子束构图已经渐渐稳定下来，如一团麻，繁复而稳定。\n\n    虽然许乐清楚，事先预测到电子束逸散轨迹，并不代表解决了所有问题，首先需要计算核对，还要经过一系列的研判，最关",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "乐地研究方向究竟在哪里。\n\n    点开了那封电子邮件。沈老教授才知道自己住院的日子里。果壳公司内部出现了一些问题，再联想到先前在光屏桌面上所看到的电子束逸散轨迹捕捉图。他明白了一些什么。\n\n    “年轻人，还是对那些沉重笨拙的金属东西感兴趣。”沈老教授叹了一口气。\n\n    沈老教授当年曾经是联",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "来某些不可测的将来……\n\n    “学术成果，是联邦里最容易被抢走的果实。”不出所料，沈老教授认真而自嘲地加了一句话小＿说txt天'堂",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "略微放松了一些。才有多余地精神。将疑惑和震惊地目光重新投回二楼。心里不禁想着。这个躲进小楼。不理联邦风云变化地老教授。究竟是怎样地一个人？\n\n    当许乐在思考沈老教授地时候。这位联邦顶尖地科学家。也正对着电脑光屏。手扶着身前地拐杖。思考着楼下那个年轻文职少尉地事情。光屏上面闪动地数据。是沈老教授",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "许乐向来是一个十分冷静的人，但此时依然无法完全平息心中的激动，当沈老教授上了二楼的办公室后，他马上回头，盯着光屏桌面上的那团乱麻，有些紧张地搓了搓手，马上开始进行数据记录和核对。\n\n    他很害怕这团乱麻马上消失在眼前。\n\n    有了轨迹图，便需要对型机甲双引擎的通过环节进行改造。接下来则",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "过往地岁月中，那些助理研究人员在完成沈老教授交待的工作之余。也会一时兴起，进行一些自己的研究，但从来没有人能够像许乐这般，将所有的时间都投入了进去。光屏上面的记录清晰地展现了，沈老教授不在的这些天里，许乐是在怎样勤奋地工作。\n\n    尤其是当他看到许乐曾经进入过那棵中间的索引树。认真地学习自己",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "记录清晰地展现了，沈老教授不在的这些天里，许乐是在怎样勤奋地工作。\n\n    尤其是当他看到许乐曾经进入过那棵中间的索引树。认真地学习自己研究的量子可测动态理论时，老教授的脸上闪过了一丝欣慰的笑容。\n\n    他从来没有见过如此年轻的研究人员，能够在枯燥单调的研究生涯里依然表现的如此平静，这是一个异",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "是指日可待的事情。\n\n    因为明白此事的重要性，所以许乐震惊的久久无语，半晌后才回过神来，恭敬地说道：“沈教授，您回来了。”\n\n    在医院了住了好些天，他一直不知道沈老教授究竟得了什么病，但此时看见老教授脸上的疲惫神色，他知道老人的身体并没有完全恢复。\n\n    沈老教授嗯了一声，便向着二楼",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

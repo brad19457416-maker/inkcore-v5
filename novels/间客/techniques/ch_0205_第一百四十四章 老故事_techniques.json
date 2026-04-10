@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 205,
+  "chapter_title": "第一百四十四章 老故事",
+  "filename": "ch_0205_第一百四十四章 老故事.txt",
+  "char_count": 3594,
+  "timestamp": "2026-04-10T12:04:51.090704",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "奇快的速度。更关键的是，这种速度里挟着地那股气势。\n\n    白玉兰忽然间感觉到了战场上才能感觉到的危险，二话不说，手臂锐利前斩。````身体却往后退去。\n\n    嗤嗤嗤三声，许乐的身体就像是凭借本能一般闪躲。启动之时。他双腿快速移动，上半身却异常稳定，此时冲到了白玉兰地身前，他的两只脚却像是生了",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "生活，我要穿名牌衣服，开名牌跑车，上最好的女人，这都需要钱。”\n\n    许乐默然，实在不知道白玉兰究竟是一个什么样的人。\n\n    这时候一个护士走了过来，看着吸烟的许乐，大声训斥了几句。许乐不好意思地站了起来，连声道歉，将烟头用脚尖踩熄，又一时间找不到垃圾箱，只好捏在了指尖。\n\n    白玉兰静",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "些莫名其妙。莫名其妙的地打了一架，受了一些伤。却没有把对方真正的打服，难道这就是联邦军人的作派。许乐心想，幸亏自己只是一个文职军人。\n\n    陆军总医院地走廊尽头，玻璃窗此时被人打开，楼下花园地深春气息一下子透了进来。\n\n    许乐点燃了一根烟，沉默地吸着。\n\n    白玉兰袖着双手靠在走廊墙壁",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "看上去竟有些令人眼花。\n\n    嗤的一声，白玉兰手中那柄秀气的军刺，斜斜地劈了下来，化作一道流光，第一次发出了令人恐惧的声响。\n\n    在这个动作的同时，白玉兰的眼瞳急缩，穿着皮鞋的脚尖一点地面，整个人弓了起来，向后快速退去。\n\n    他知道许乐这个技术主管有些问题。所以今天才必须试探对方一下",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的裂口，只有肩上那条裂口，在缓慢地渗着血珠。\n\n    白玉兰抬起头来。细声细语说道：“你是吃什么长大地？”\n\n    许乐愣了愣，说道：“牛肉？”\n\n    白玉兰自嘲微笑，手指挽了个花，将军刺收到腰间那个隐秘的鞘中。转身向着军械库外走去。先前许乐最后一击，力量实在太大。他挡在脸侧的左臂竟似要断裂",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "地抖动起来，震起地面几缕灰尘，以一种不可思议的速度，带动整个身躯向白玉兰压了过去。\n\n    双腿的颤抖痕迹，实际上是在快速移动，只是移动的速度太快，看上去竟有些令人眼花。\n\n    嗤的一声，白玉兰手中那柄秀气的军刺，斜斜地劈了下来，化作一道流光，第一次发出了令人恐惧的声响。\n\n    在这个动作",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "卡里有两千万。”\n\n    白玉兰沉默了很久，大概也被这个数字震了一下心弦，他在联邦之中也算是高收入人群，加上这些年冒险接的私活儿，再加上下午许乐给他的那张一百二十万的支票，也存了能有五百万，但他对于金钱的态度向来是极为尊敬，越多越好。\n\n    他接过那张轻飘飘又很沉重的银行卡，平静说道：“成交。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "便好。\n\n    然而此时许乐的肩头却忽然间耸了起来，右臂由外而内，横横的砸了过来。\n\n    一声沉重的闷响，回荡在幽暗的军械库中。\n\n    白玉兰低着头，秀气的眉头皱着，平静地站着，右手握着的秀气军刺上带着一点血迹，而他的右腿却在不停地颤抖。\n\n    许乐站在他地身前。身上的衣服多了七八道细",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "刺，不知道他是什么时候把这东西变到了手中，听着这些不咸不淡的话，他没有什么比较激烈的情绪，只是两只脚缓缓地蹭着水泥地面移开，脚掌实实在在地踏在了地面上。\n\n    他把头一偏，深吸一口气，双腿快速地抖动起来，震起地面几缕灰尘，以一种不可思议的速度，带动整个身躯向白玉兰压了过去。\n\n    双腿的颤抖",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "中那柄秀气的军刺，斜斜地劈了下来，化作一道流光，第一次发出了令人恐惧的声响。\n\n    在这个动作的同时，白玉兰的眼瞳急缩，穿着皮鞋的脚尖一点地面，整个人弓了起来，向后快速退去。\n\n    他知道许乐这个技术主管有些问题。所以今天才必须试探对方一下，但没有想到对方雷霆一动，居然会有如此奇快的速度。更",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第一百四十四章 老故事 \n\n    我有一个绰号，叫玉兰油。~~~~”\n\n    白玉兰细声细语地说道。那枝秀气的军刺，在他秀气的手指间翻飞舞蹈，寒光如流萤，破空却无声。\n\n    “我十五岁下限参军，打了这么十年仗，会操作一百三十四项装备，所以在军中，他们都认为我是个老兵油子。”\n\n    白玉",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的地方很多。”\n\n    许乐蹲在他的面前，用手抹了抹肩膀上流下来的细细血渍，说道：“公司的薪金福利一向不错，加上你还有一份军队的俸禄可以拿，实在是用不着接什么私活儿。”\n\n    就在实验联邦新一代型机甲的重要任务中，身边这个第七小组的战斗主管，居然还敢接私活儿，不知道是该说这个秀气男人要钱不要命",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "右手上的寒芒在身前画出了三个一字。\n\n    就在最后那个一字的笔画末端，军刺锋利的尖端，悄无声息地来到了许乐颈动脉的旁边一寸之地，似乎随时可能放出如瀑布一般的鲜血来。\n\n    白玉兰在军中的外号叫玉兰油，不仅是因为他年纪虽轻，却已经是个老兵油子，更因为联邦军方以前的同僚们，都很清楚这个秀气男人杀",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "年仗，会操作一百三十四项装备，所以在军中，他们都认为我是个老兵油子。”\n\n    白玉兰的声音依然很温柔，他是在提醒许乐一些什么，毕竟对方是名义上的技术主管，总不可能真的一刀捅了，只是军队里有军队的规矩，第七小组被放逐到这水泥森林边缘的农场总部中，依然要按照他们的规矩做事。\n\n    而且白玉兰对面",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1100,
+  "chapter_title": "第一百零九章 你看",
+  "filename": "ch_1100_第一百零九章 你看.txt",
+  "char_count": 3654,
+  "timestamp": "2026-04-10T12:11:34.960968",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百零九章 你看\n　　“你看，道理其实从来都是人世间最简单的东西，水往下流，云往天空，有光明就有黑暗，该换的时候，自然就要换。”\n　　观主看着宁缺，神情平静地做着解释。\n　　宁缺沉默了会儿，说道：“为什么以前你没有这样想？”\n　　“道门毕竟是昊天的道门，就像灵魂是人的灵魂，平静安",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的弟子，他在临康城的陋巷里悟出新的道路，创建新教，写下那些发人深省的文字，告诉我可以这样去想，从某种意义上来说，他才是我的老师。”\n　　观主的目光落到桑桑身上，说出下面这段很重要的话。\n　　“新教与道门的教义其实并不冲突，只不过是不同时间段的真理，无数年来，人类处于莽荒时期，需要您的庇护，然而人类终",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "是我的老师。”\n　　观主的目光落到桑桑身上，说出下面这段很重要的话。\n　　“新教与道门的教义其实并不冲突，只不过是不同时间段的真理，无数年来，人类处于莽荒时期，需要您的庇护，然而人类终究在成长，千年之前出现了夫子，出现了那位开创明宗的光明大神官，有轲浩然、有莲生，也有我，种种事由都证明，人类已经成长",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "暗，该换的时候，自然就要换。”\n　　观主看着宁缺，神情平静地做着解释。\n　　宁缺沉默了会儿，说道：“为什么以前你没有这样想？”\n　　“道门毕竟是昊天的道门，就像灵魂是人的灵魂，平静安宁生活着的时候，谁会想到杀死自己以换取新的灵魂？”\n　　观主的手指轻轻搓弄着那片青叶，有清新悦耳的声音响起，伴着他的话",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "桑的手落在了他的肩头，一道温暖甚至可以说炽热的力量，进入他的身躯，瞬间补满先前写符耗空的念力，提升至巅峰状态。\n　　“1989，0309。”\n　　桑桑神情漠然，说了两个数字，就像前些天在风雪里指路，又像前些年在凛冬之湖畔指方位，也像更早前在岷山里那样。\n　　只不过声音不再像小时候那般清稚了，而且这一",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "指向对岸的观主。\n　　观主平静看着他，如桑桑一般负着双手，并不警惕，在为他就在门槛上，随时转身便可以离去，元十三箭再如何强，也射不中他。\n　　那些门是天地气息的夹层里的缝隙，是山野间烂漫开放的那些花朵，每朵花就是一道缝隙，一扇门，根本无法确定观主会从哪扇门进。\n　　宁缺看着对岸，感受着弓弦在唇角轻微",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "突，只不过是不同时间段的真理，无数年来，人类处于莽荒时期，需要您的庇护，然而人类终究在成长，千年之前出现了夫子，出现了那位开创明宗的光明大神官，有轲浩然、有莲生，也有我，种种事由都证明，人类已经成长到最开始的时候自己都想象不到的地步，人类已经长大，不再需要你的庇护，他们有足够的能力自己守护自己，不需",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，观主从画的最深处走出，走到真实的世界里。\n　　桑桑缓缓站起身，背着双手，面无表情看着他。\n　　观主感慨说道：“你看……如果能够静穆不变，那该多美。”\n　　山野间无数鲜花盛开，无数青藤生长，无数青树招展，只是瞬间，春意便浓的稠密难言，直令人艰于呼吸。\n　　宁缺感觉如沐春风，却有些要溺毙的感觉。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "经成长到不需要昊天的程度，他们早就已经站了起来，甚至有的人可以自由地飞翔，不同的地方在于，我们书院以为人类需要去更广阔的天地，而道门依然认为要留在原地。”\n　　观主说道：“多年前我说过，这是理念差异，无法解决，我以为永恒来自平静肃穆之美，而夫子和他的弟子却总以为变化才是永恒。”\n　　宁缺说道：“变化",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "到桑桑身上，说出下面这段很重要的话。\n　　“新教与道门的教义其实并不冲突，只不过是不同时间段的真理，无数年来，人类处于莽荒时期，需要您的庇护，然而人类终究在成长，千年之前出现了夫子，出现了那位开创明宗的光明大神官，有轲浩然、有莲生，也有我，种种事由都证明，人类已经成长到最开始的时候自己都想象不到的地",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "无声息。\n　　很奇怪，他瞄准的明明是一棵正在倾覆的大树，离观主的位置偏差极远，但观主的神情却变得极为凝重起来。\n　　观主的身影消失在天地里，完全地消失，这是无距，他进入了天地气息的夹层，也是清静，因为没有留下任何痕迹，连风都没有。\n　　直到此时，铁箭的嗡鸣声才在寒潭四侧传播开。\n　　一道清晰的箭道，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "：“你看……如果能够静穆不变，那该多美。”\n　　山野间无数鲜花盛开，无数青藤生长，无数青树招展，只是瞬间，春意便浓的稠密难言，直令人艰于呼吸。\n　　宁缺感觉如沐春风，却有些要溺毙的感觉。\n　　桑桑依然负着双手，神情漠然，眼睛却微微眯起。\n　　无量花海无量春，每朵花每缕春意，都是至高至强的杀意。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，凌厉的刀意不复存在，那幅破落的画渐渐被修补完毕，观主从画的最深处走出，走到真实的世界里。\n　　桑桑缓缓站起身，背着双手，面无表情看着他。\n　　观主感慨说道：“你看……如果能够静穆不变，那该多美。”\n　　山野间无数鲜花盛开，无数青藤生长，无数青树招展，只是瞬间，春意便浓的稠密难言，直令人艰于呼吸。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "观主的目光落到桑桑身上，说出下面这段很重要的话。\n　　“新教与道门的教义其实并不冲突，只不过是不同时间段的真理，无数年来，人类处于莽荒时期，需要您的庇护，然而人类终究在成长，千年之前出现了夫子，出现了那位开创明宗的光明大神官，有轲浩然、有莲生，也有我，种种事由都证明，人类已经成长到最开始的时候自",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "宁缺看着对岸，感受着弓弦在唇角轻微的颤动，有汗珠淌落，却无所觉。\n　　桑桑的手落在了他的肩头，一道温暖甚至可以说炽热的力量，进入他的身躯，瞬间补满先前写符耗空的念力，提升至巅峰状态。\n　　“1989，0309。”\n　　桑桑神情漠然，说了两个数字，就像前些天在风雪里指路，又像前些年在凛冬之湖畔指方位",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "明就有黑暗，该换的时候，自然就要换。”\n　　观主看着宁缺，神情平静地做着解释。\n　　宁缺沉默了会儿，说道：“为什么以前你没有这样想？”\n　　“道门毕竟是昊天的道门，就像灵魂是人的灵魂，平静安宁生活着的时候，谁会想到杀死自己以换取新的灵魂？”\n　　观主的手指轻轻搓弄着那片青叶，有清新悦耳的声音响起，伴",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

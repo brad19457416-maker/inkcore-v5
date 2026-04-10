@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 465,
+  "chapter_title": "第一百零九章 这，就是战争(上)",
+  "filename": "ch_0465_第一百零九章 这，就是战争(上).txt",
+  "char_count": 3857,
+  "timestamp": "2026-04-10T12:04:59.215617",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "声数道明亮的光柱亮了起来，无数山峰顶部的石缝中，岩层里，铁七师事先设置的高亮度探照灯，瞬间照亮了整片天空和绵延的山谷地带。\n\n    深黄色的山体岩面，终于在明亮的灯光下显出了真实的颜色，山谷外的帝国月狼机甲大队被强光照射，无以遁形，而山谷缓坡之，联邦军方的山地平射榴炮密集阵也脱去了伪装，密密麻麻的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "甲群的通话系统，一直没有响起洛夫校充满霸气而粗\n\n    音，包括三个机甲中队长在内的所有帝官，心中危险的兆头道联邦人并不是在撒谎。\n\n    而此时，铁七师的第一波炮火攻势已经到了。\n\n    “暴散趋避！”月狼机甲大队第一中队长，沉声布了命令。\n\n    一百零四台青黑色的月狼机甲，倏的一声顺着",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "相关地战术推演早已完成。师部下辖各级作战单位。对于此次伏击地战术细节了然于心。他本不应该如此紧张。但这是铁七师第一次战场。真实地战场环境与演习终究有太大地区别。更何况帝国远征军地后备强攻大队一万多人。此时也已经在赶来地路。\n\n    留给铁七师地时间已经不多。幸亏台黑色x于简单话语间。干净利",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "推演早已完成。师部下辖各级作战单位。对于此次伏击地战术细节了然于心。他本不应该如此紧张。但这是铁七师第一次战场。真实地战场环境与演习终究有太大地区别。更何况帝国远征军地后备强攻大队一万多人。此时也已经在赶来地路。\n\n    留给铁七师地时间已经不多。幸亏台黑色x于简单话语间。干净利落地将帝国机甲大队",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "现联邦的埋伏，早就在帝国司令部的战术推演之中，所以虽然看着那些密密麻麻冲过来的联邦战车士兵，帝国的军人们依然能够保持镇定，就连那些呼啸而来，尖戾无比的破空密集炮火，他们都坚信自己的高速机甲能够避开大部分的战损。\n\n    真正令帝人们感到不寒而栗的是最开始的那个声音，那句话。他们不知道说话的人，是联",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "合适的距离。\n\n    轰！轰！轰！\n\n    铁七师的密集火恐怖地落到了地面，轰炸的整个大地都开始颤抖起来，无数吨泥土被掀起震散，树火燃烧倾倒，巨石崩裂！\n\n    然而帝国机甲群凭借着高速的机动性却避过了大部分的正面伤害，黑青色的机甲们高速脱离密集弹着点，躲进了山体与巨树之后，用这种天然的掩体，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "……\n\n    ……\n\n    铁七师的第一轮密集炮火，并没有能够给帝国的高速机甲群来来什么真正意义的损失，相反却给了帝国的军人们强烈的信心，依据火力计算，山脉里确实只有一个联邦机械师，区区一个师，难道可以挡住自己的铁流冲击？\n\n    在那两条截然相反的路途中，月狼机甲大队毫不犹豫地选择了后，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "变！\n\n    军官们非常清楚，那台掠过岭下的月狼四代机甲里，是帝国的王牌机师洛夫，面对这样一位强，难道那台黑色x只用了这么短的时间，便结束了机战，杀死了对方？\n\n    要知道此刻，师和许乐的通话声似乎还回荡在安静的峰顶，回荡在他们的耳边。\n\n    事情生的太快，快到军们有些反应不过来，愕然地望",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "这种信任，并不是生在生死与共的兄弟之间，而是生在天性相逆，仇怨极深的两个人之间中意味，令人感慨。\n\n    杜少卿不会理会下属们的心中在想些什么，表情冷峻地挥了挥手，示意部队开始做准备，然后接通了战地大功率通话系统，对着收音设备说道：“洛夫已经死了。”\n\n    ……\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "面打交道。\n\n    师部里杜少卿的声音平静低沉，然而下一刻，黄山岭寂寞岭一线无数奇崛山峰谷地之中，瞬间响起巨大的声音！\n\n    “洛夫已经死了。”\n\n    联邦战地通话系统这句话通过大功率的扬声设备，传了出去轰然响彻山脉之间，将安静的南半球夜空震的片片破碎晰地传到了山谷外缘警惕待援的帝国月狼机",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "“我师现在需要的是时间，必须一击成功，不能让这堆机甲拖到后面那一万多人过来。”杜少卿墨镜下的双眼缓缓闭住，说道：“只论胜负，不计生死……”\n\n    “这，就是战争”……\n\n    请君杀我。\n\n    这章改了又改，还是不怎么满意。写的时候，一直在家里对领导狂嚎想死……昨的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "极点的攻防血战做支援，根本无法前来支援，所以铁七师竟是放弃了常用的照明弹，而是选择了探照灯，将这天地同时照亮，无论敌我！\n\n    铁七师那位铁血师长，在临战一刻，毫不犹豫地放弃了伏击，选择了堂堂正正的歼灭战，只看帝国人敢不敢来。这片山谷，因为探照灯的照射，变成了明亮的演唱会舞台，就像是几个小时前那",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的心中在想些什么，表情冷峻地挥了挥手，示意部队开始做准备，然后接通了战地大功率通话系统，对着收音设备说道：“洛夫已经死了。”\n\n    ……\n\n    ……\n\n    他说的是帝国语，非常标准的帝国语。\n\n    从很久以前，整个铁七师便开展了相关方面的培训因为他们知道自己总有一天要前线，要与帝国人",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 496,
+  "chapter_title": "第三章 春天的故事（下）",
+  "filename": "ch_0496_第三章 春天的故事（下）.txt",
+  "char_count": 3811,
+  "timestamp": "2026-04-10T12:11:21.794899",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "桑桑在那头轻声说道：“不知道。”\n　　宁缺发现她根本不像自己听到消息时那样震惊，不由自嘲一笑，心想桑桑果然不是自己这种凡人，说道：“听说杀死裁决之后，她紧接着重伤了罗克敌，如果不是掌教发话，她也会把那人给杀了。”\n　　桑桑轻轻嗯了一声。\n　　宁缺说道：“我本以为自己已经追上了她，哪能想到她一下",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "……\n　　隆庆第一次进入这个山洞，看见这名只剩下半截的老道时，震惊到了极点，怎样想也想不明白此人究竟是怎么活下来的。后来他知道，这位老道数十年来只饮洞中的泉水，不吃任何食物，用这种方法把失去的下半身全然抛却，当然人类的身体依然会产生某些废弃物，他暗想这位老道定然是以极恐怖的修为，强行把这些废弃物",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "如从前，后院的卧房里用具齐备，桑桑烧了热水，二人洗漱完毕之后，便上床准备睡觉。\n　　时值春意浓时，夜风不凉甚至已经有了些隐隐的燥意，一只野猫趴在院墙上，看着夜穹里的星星，发着凄厉如婴啼的叫春声。\n　　那声音着实有些难听，宁缺根本无法入睡，睁着眼睛看着头顶的房梁，忽然开口说道：“你知道吗？叶红鱼杀了裁",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "观！有什么资格来陪我说话！你就是个废话！我也是个废物！这座山里藏着的全他妈的是一群废物！”\n　　老道愤怒地在雪白的毛皮间挪动，只剩下半截身体的他动起来显得特别滑稽，又特别悲惨，就像是只虫子在蠕动。\n　　他凄厉的喊叫声回荡在山洞里，一道难以形容的恐怖气息，瞬间弥漫在所有空间里，压迫着能够接触到的所有事",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的夜明珠，而且建造者竟是把这等宝物当作灯烛来使用。\n　　隆庆以前来过此洞，所以还能保持平静，要知道他第一次进入这条山洞里，便眼前的画面震撼的完全说不出话来，要知道，即便他自幼生活的燕国成京皇宫，似这等质量的夜明珠，最多也只能找出数颗而已。\n　　青山崖壁间看似简陋甚至凄惨的山洞，里面则是别有洞天，石壁",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "自己，只不过是气息随着愤怒而自然外泄些许，然而只是便是如此，却已经拥有如此强大的威力，如果那老道真的全力施展自己的修为，只怕人世间真的没有谁能够抵挡。\n　　隆庆喘息了片刻，渐渐回复了平静，他擦掉唇边的鲜血，把扁担压到肩上，背起箱包，继续向山崖上方走去。\n　　这座青山里有很多洞窟，洞窟里住着很多道门的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "发着凄厉如婴啼的叫春声。\n　　那声音着实有些难听，宁缺根本无法入睡，睁着眼睛看着头顶的房梁，忽然开口说道：“你知道吗？叶红鱼杀了裁决大神官。”\n　　桑桑在那头轻声说道：“不知道。”\n　　宁缺发现她根本不像自己听到消息时那样震惊，不由自嘲一笑，心想桑桑果然不是自己这种凡人，说道：“听说杀死裁决之后，她",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，这些夜明珠浑圆无瑕，晶莹夺目，大若鸡卵，若放在世间必是最珍稀最贵重的宝物，然而知守观后这座青山里有无数山洞，这条山洞里便有无数这种珍贵的夜明珠，而且建造者竟是把这等宝物当作灯烛来使用。\n　　隆庆以前来过此洞，所以还能保持平静，要知道他第一次进入这条山洞里，便眼前的画面震撼的完全说不出话来，要知道，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "珠，而且建造者竟是把这等宝物当作灯烛来使用。\n　　隆庆以前来过此洞，所以还能保持平静，要知道他第一次进入这条山洞里，便眼前的画面震撼的完全说不出话来，要知道，即便他自幼生活的燕国成京皇宫，似这等质量的夜明珠，最多也只能找出数颗而已。\n　　青山崖壁间看似简陋甚至凄惨的山洞，里面则是别有洞天，石壁间雕花",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "特别滑稽，又特别悲惨，就像是只虫子在蠕动。\n　　他凄厉的喊叫声回荡在山洞里，一道难以形容的恐怖气息，瞬间弥漫在所有空间里，压迫着能够接触到的所有事物。\n　　……\n　　……\n　　青藤骤乱，隆庆喷着血从山洞里飞了出来，重重地摔落在石坪边缘，险些掉了下去，他看着幽暗的洞口，想着先前感受到的那股恐怖气息，眼",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "在软塌之前，显得无比谦卑，无法掩饰心中对老道的敬畏甚至是没有原因的恐惧，然后这些情绪又尽数化作了某种渴望，对修行道路尽头未知的近神之境的渴望，对强大的渴望。\n　　他以为自己终于明白了观主让自己来知守观做杂役的原因，做杂役才能来青山洞窟，才能遇见像老道这样站在修行界最高处的人物。\n　　然而事情的发展，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "就像是只虫子在蠕动。\n　　他凄厉的喊叫声回荡在山洞里，一道难以形容的恐怖气息，瞬间弥漫在所有空间里，压迫着能够接触到的所有事物。\n　　……\n　　……\n　　青藤骤乱，隆庆喷着血从山洞里飞了出来，重重地摔落在石坪边缘，险些掉了下去，他看着幽暗的洞口，想着先前感受到的那股恐怖气息，眼眸里满是震惊和恐惧的神",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "宁缺说道：“我本以为自己已经追上了她，哪能想到她一下又把我甩的如此遥远……她如今是西陵大神官，以后要动起手来，我打不过她，又没有办法用你光明大神官的身份压她，可怎么办？”\n　　桑桑说道：“那就不打。”\n　　宁缺沉默片刻后忽然说道：“你爸说如果让你跟着我去烂柯寺，路途遥远，再用侍女身份不对，要我",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "那些道门前辈境界不一，但都是极强大的人物，却都像先前那位老道一样受过极惨重的伤，身有残疾，所以他们的脾气都不好。\n　　当年究竟是谁，能够把如此多道门前辈重伤成这样？要知道这些道门前辈数十年前有些已经逾过了五境，那岂不是说，重伤他们的那人的修行境界还要更高，而且高的不止一层楼两层楼？\n　　这个问题的答",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。\n　　然而事情的发展，并不完全符合隆庆的美好想像。像具干尸般的老道，面无表情看着跪在榻前的他，嘴唇缓缓翕动，干哑的声音仿佛像沙漠正午阳光晒至滚烫的两块石头在磨擦，难听到了极点。\n　　“你太弱了。”\n　　隆庆有些没有听清楚这句话，下意识里抬起头来，却迎上了榻上那位老道充满了癫狂暴戾情绪的眼眸，触着老",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

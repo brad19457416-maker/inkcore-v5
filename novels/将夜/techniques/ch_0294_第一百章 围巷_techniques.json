@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 294,
+  "chapter_title": "第一百章 围巷",
+  "filename": "ch_0294_第一百章 围巷.txt",
+  "char_count": 4464,
+  "timestamp": "2026-04-10T12:11:21.762517",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "长安城，忽然开口说道：“你相信冥界入侵的传说吗？”\n　　黄杨僧人合什沉默片刻，摇了摇头。\n　　一阵夜风拂过，皇帝陛下咳了起来，咳嗽声越来越大，最后竟是痛楚地弯下了腰，他挥手驱走那些闻声而来的太监宫女，从袖中取出手绢轻轻擦拭了一下唇角，看着深沉的夜色，说道：“朕只希望如果冥界不是传说，要来便早些来。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "总是不打，难道还要我等上一夜？”\n　　陈皮皮见他动作，心知二师兄有些不耐烦把时间耗在这些他所以为没有意义的等待之上，准备进老笔斋，顿时悚然一惊，汗水顿时再次湿透衣背。\n　　此时的老笔斋里，光明大神官和颜瑟大师如此恐怖的人物正处于对峙之中，如果二师兄再加入进去，谁知道会闹出多大的风波，这片街巷还能留下",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，顿时悚然一惊，汗水顿时再次湿透衣背。\n　　此时的老笔斋里，光明大神官和颜瑟大师如此恐怖的人物正处于对峙之中，如果二师兄再加入进去，谁知道会闹出多大的风波，这片街巷还能留下几片残瓦？\n　　想到此节，他再也顾不得平日里对二师兄的敬畏，顾不得二师兄最厌憎别人乱了自己的风仪衣着，伸手一把死死抓住二师兄的广",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "现出不悦的神情，说道：“到底都是些老人家，做起事情来总是这么拖泥带水不干脆，既然都坚持自己是对的，那最终终究还是要靠拳头讲道理，哪里用得着叙这么长时间的旧？如此粘乎，实在当不上君子二字。”\n　　陈皮皮擦了擦额头上残着的冷汗，哪里敢有意见。\n　　二师兄那双绝对笔直眉头忽然蹙了起来，轻轻掀起长衫前襟一振",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "年，所以并不知道那些久远的故事，那个大唐天子与魔宗少女之间的故事，所以听着这番话，忧虑之余深感不解，心想难道连夫子都无法彻底除掉陛下体内的虚寒之症？\n　　……\n　　……\n　　当陈皮皮走出铺门，临四十七巷里燃烧的火色瞬间消失，只剩下一顶高高的古冠，于是他捂着脑袋走了过去，老老实实站在了对方的身后。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "夏侯大将军，更关系到西陵神殿和更神秘的源头。\n　　然而当年谋划此事的光明神座，今日已经叛离神殿，亲自来到长安城，大唐帝国的君臣哪里会容得他再次安然离去？\n　　像今天这种大场面，长安府衙和鱼龙帮之流，根本没有资格出现。\n　　这些大人物带着各自下属，面无表情坐在巷口巷尾的大伞之下，因为不知道老笔斋里面局",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "总得想些法子把这些时间熬乏过去。”\n　　皇城深处的御书房内，大唐帝国皇帝陛下李仲易看着身前的棋盘恼火说道，这盘棋白天时便开始，但到了深夜却还未入中局，实在令他感到有些不耐。\n　　黄杨僧人苦涩一笑，应道：“陛下，到了光明神座和颜瑟大师这等境界，已经要算是世外之人，无论我等在世间如何警惕应对，和那边着实",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "注：我实在想不出来怎样说服二师兄，为这个理由花了一个多小时，还是想不出来，这么二的人我没法说服他……为什么干脆不要他出现？那不行，这种场合书院总要来个站得稳的，陈皮皮不中。）",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，已经要算是世外之人，无论我等在世间如何警惕应对，和那边着实没有太大关系。”\n　　今夜长安城气氛紧张压抑，除了临四十七巷那间铺子，皇宫自然是守卫最森严的地方，依规矩既然国师李青山不在，黄杨僧人身为御弟便会寸步不离陛下左右。\n　　皇帝陛下伸手将身前的棋子拂乱，走出御书房站在残雪花树之前，静静看着黑夜下",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，大唐帝国的君臣哪里会容得他再次安然离去？\n　　像今天这种大场面，长安府衙和鱼龙帮之流，根本没有资格出现。\n　　这些大人物带着各自下属，面无表情坐在巷口巷尾的大伞之下，因为不知道老笔斋里面局势如何，所以没有人走过去。\n　　有人早已注意到老笔斋对门灰墙之下坐着一个戴高冠的怪人，站着一个极胖的年轻人，但",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，长安城还能暂时保持和平状态，可依照二师兄您这连衣衽方向都要归类到真理里去并且坚持不辩不明不打不明的性子，一旦进到老笔斋那还有不惊天动地打上一场的道理？\n　　更何况你以为十二师弟我先前没有瞧见你故作严肃庄重神情时，那眸子里却在燃烧着兴奋的火焰？你以为十二师弟我不清楚你是被夫子和大师兄压了太多年这两年",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "都无法彻底除掉陛下体内的虚寒之症？\n　　……\n　　……\n　　当陈皮皮走出铺门，临四十七巷里燃烧的火色瞬间消失，只剩下一顶高高的古冠，于是他捂着脑袋走了过去，老老实实站在了对方的身后。\n　　二师兄看着老笔斋紧闭的铺门，神情冷漠而平静，眼眸里却隐隐然雀跃着兴奋的火焰，就仿佛他头上那根在暮色里快燃烧起来的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "先前的咳嗽声，眉头微微蹙起，看着皇帝的背影忧虑说道：“陛下身体虚寒之症发作，还是回屋吧。”\n　　皇帝缓缓摇头说道：“夫子曾经说过，我体内的虚寒症并不严重，只要能压制住那便无法跳出来造反，若我不能压制，那便是我的命。”\n　　黄杨虽是大唐御弟，但毕竟不像国师李青山那般与皇帝陛下相处多年，所以并不知道那些",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "来。”\n　　黄杨僧人听出陛下这句话里隐着的不祥意味，联想到先前的咳嗽声，眉头微微蹙起，看着皇帝的背影忧虑说道：“陛下身体虚寒之症发作，还是回屋吧。”\n　　皇帝缓缓摇头说道：“夫子曾经说过，我体内的虚寒症并不严重，只要能压制住那便无法跳出来造反，若我不能压制，那便是我的命。”\n　　黄杨虽是大唐御弟，但",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“旧瓮有油，灰容易粘在壁上。”\n　　颜瑟大师轻拂道袖，大笑着向老笔斋外走去：“我这辈子道袍上总是油污一片，从来没有嫌弃过，难道还会在意死后变成的几捧灰会不会被油污弄脏？”\n　　……\n　　……\n　　（注：我实在想不出来怎样说服二师兄，为这个理由花了一个多小时，还是想不出来，这么二的人我没法说服他……为",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

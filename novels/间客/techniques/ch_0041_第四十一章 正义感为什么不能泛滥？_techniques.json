@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 41,
+  "chapter_title": "第四十一章 正义感为什么不能泛滥？",
+  "filename": "ch_0041_第四十一章 正义感为什么不能泛滥？.txt",
+  "char_count": 3517,
+  "timestamp": "2026-04-10T11:53:11.043538",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第四十一章 正义感为什么不能泛滥？ \n\n    因为第四军区特种机甲小组的全体受伤，此时古钟号上负责搜寻工作的军人，全部来自西林军校。这些年纪在二十岁以下的年轻士官们，本身就是天子骄子，每个人都拥有极为优良的能力和成绩",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "情绪无比低沉，骄傲也变成了烦燥。\n\n    在这些西林军校士官中，周瑾是公认的领袖，因为他的个人实力最强，领导能力最强，包括此时此刻，突袭救人的计划也是他一手安排。\n\n    周瑾今年二十岁，长相俊朗，年轻的面容上带着浓郁的军人色彩，他看着自己枪口下的那个年轻人，眉头微皱。对方应该不是什么专业人士，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "胖子船长一脸阴沉地走了进来，看到被军校生们安全保护着的小女孩身影，才略微松了一口气，紧张地来到了小女孩儿的身边，确认对方有没有受到什么伤害。\n\n    “不要打哥哥！”小西瓜的声音透过白毛巾尖声叫了起来，清脆的童音因为愤怒而显得格外刺耳，她一下子掀起了头上的雪白毛巾，愤怒地瞪着那些将许乐压",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的西林军校士官生没有给许乐任何辩解的机会，在最短的时间内确认了许乐的身上没有携带武器，伴随着周瑾阴沉愤怒的声音，四名军校生同时扑了过去。\n\n    ……\n\n    ……\n\n    在枪械的压制下，许乐被击倒在地，他先前那刻听清楚了那名似乎是领头的军人的话语，不敢冒险。无数个拳头同时落在了他的身体上，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“居然还是个退伍的军人。”胖子船长抬起手腕，等待着信息确认的内容，抬起头来，阴厉地看着许乐说道：“依照联邦太空器管理条例，在这艘太空飞船上，我有权力行使限度内执法权，我将以绑架幼童罪逮捕你。”\n\n    绑架幼童罪是联邦里的重罪，可判处七年以上有期徒刑，直至死刑。许乐舔了舔嘴唇上的裂口，抬",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "船长语塞，认真地看着许乐那张诚恳老实的脸，似乎是想分辩出这样的人，在这个世界上是不是还真的存在。\n\n    船长离开后，房间里再次安静了起来，被软禁在房间里的许乐看着自己额头上的枪管，对那几名年轻的军人说道：“能不能把枪收起来？我不是罪犯，而且我最讨厌被人用枪指着头。”\n\n    士官们的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "，这才能够被安排访问东林大区。如今的他们，每个人都有足够的实力进入第四军区的精锐特种兵大队，而他们的将来，则注定要在联邦与帝国的边境线上沐浴战火，不断晋升，身周的环境以及成长历程，让他们的骨子里都带着一股骄傲。然而这些天里，小姐的下落一直寻找不到，严重的挫败感让他们的情绪无比低沉，骄傲也变成了烦燥。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "……\n\n    啪的一声脆响，周瑾心头一沉，发现手腕上一阵生痛，手也抓了一个空，眉头再皱，暗想这个人的擒拿技好奇怪，竟是看不出来对方是怎么伸的手。\n\n    许乐坐在床边，小臂一抬，直接挡住了这名军人伸过来的手，右手一环将小西瓜挡在了背后，警惕地注视着对方，问道：“你们是什么人？”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "全的选择。看着这一记强劲有力的肘尖直接击中了目标的脖子，西林军校的士官们同时在心里松了一口气，就算是一向谨慎的周瑾表情也略放松了些，枪口微垂，往前踏了一步，准备在罪犯倒地之前，将小姐与他隔绝开来。\n\n    在这些西林骄子的眼中，任何人的后脑生生挨了王猛一记肘击，都只可能有昏厥倒地的下场。然而令他们",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "话。如果你拿不出来她家人的管理委托书，我就有怀疑你的权利。”许乐发现舌头上有些甜，这才发现刚才那些军人们下手多么的黑。\n\n    “可以，这些我都可以给你，但你怎么解释你这么多天的行为？就算你是无意之中碰到了小姐，可是难道你不清楚，这种事情应该交给工作人员处理，而不是你自己把她藏起来？”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，而且为了保护他身边的小女孩儿，他必须保持镇定。他的一只手将小西瓜环在身后，护的严严实实的，手指夹着雪白毛巾的一角，让毛巾依然搭在小西瓜的头上，免得让她看到这些冰冷的枪口而害怕。\n\n    许乐提出了问题，却没有人回答这个问题。因为在这一群骄傲的士官生眼中，这个年轻人是绑架小姐的罪犯，是让自己这些人",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。”\n\n    胖子船长一脸阴沉地走了进来，看到被军校生们安全保护着的小女孩身影，才略微松了一口气，紧张地来到了小女孩儿的身边，确认对方有没有受到什么伤害。\n\n    “不要打哥哥！”小西瓜的声音透过白毛巾尖声叫了起来，清脆的童音因为愤怒而显得格外刺耳，她一下子掀起了头上的雪白毛巾，愤怒地瞪着那些将",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "道你不清楚，这种事情应该交给工作人员处理，而不是你自己把她藏起来？”\n\n    胖子船长的十指交插，缓缓地说道。其实他的心里在放松之余，也觉得这件事情实在是太荒唐了。先前小西瓜的拼命反抗之后，场间的人们终于大致明白了小姐失踪之后，究竟发生了什么事情。西林方面的人自然也就明白了，那个被他们一开始视为*",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "个罪犯击昏或者击倒，才是最安全的选择。看着这一记强劲有力的肘尖直接击中了目标的脖子，西林军校的士官们同时在心里松了一口气，就算是一向谨慎的周瑾表情也略放松了些，枪口微垂，往前踏了一步，准备在罪犯倒地之前，将小姐与他隔绝开来。\n\n    在这些西林骄子的眼中，任何人的后脑生生挨了王猛一记肘击，都只可能",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "等待着信息确认的内容，抬起头来，阴厉地看着许乐说道：“依照联邦太空器管理条例，在这艘太空飞船上，我有权力行使限度内执法权，我将以绑架幼童罪逮捕你。”\n\n    绑架幼童罪是联邦里的重罪，可判处七年以上有期徒刑，直至死刑。许乐舔了舔嘴唇上的裂口，抬起头来盯着这名自称船长的胖子，看着他脸上的血丝，嘲笑说",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

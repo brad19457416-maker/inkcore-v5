@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 995,
+  "chapter_title": "第四章 青衣少年",
+  "filename": "ch_0995_第四章 青衣少年.txt",
+  "char_count": 2306,
+  "timestamp": "2026-04-10T12:11:27.647572",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "上的柳亦青，声音微颤说道：“你今夜要死了。”\n　　他的声音有些微颤，是因为有些紧张，他从来没有真正的战斗过，但他并不畏惧，因为他知道自己绝对不会输，在昊天的世界里。\n　　柳亦青没有说话，他很清楚，无论这个少年怎么数，最后都必然是一个死字，因为他虽然不能视物，但知道对方是谁。\n　　皇城四周的人们也知道",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "着他，说道：“我们这一代人，从来不用言语或神情来表现自信，我们习惯见面拔刀。”\n　　因为长年劳役，被风吹日晒，横木立人显得并不稚嫩，与年龄有些不符，但他的神情依旧天真，笑起来显得有些残忍。\n　　“当年那个人把你砍成了瞎子，我今夜会把你砍成死人，过些天遇到他时，我会先把他砍瞎，也算是替你了个心愿。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "役凡人，修行界再也无法像以往那样高高在上，于是人间的人便变得越来越多。\n　　所谓千年圣人出，便是这个道理。\n　　随着夫子离开人间，很多事情再次发生改变，再也没有谁能够阻止修行者重新统治这个世界，至少在长安城能够看到的疆土之外。\n　　数年前，柳亦青单剑入宫，杀了当时的南晋皇帝，便是这种改变的明证，一个",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "脚步声相和，或是相战。\n　　随着行走，青衣少年的身后不停响起金属磨擦声，十三把细长的刀缓缓探出刀鞘，出现在人们的视线里。\n　　那些刀就像花瓣，他便站在花中间。\n　　他停下脚步，抬头向夜穹望了一眼，因为这个动作，火光照亮了他的脸颊，平凡的眉眼被耀的很清晰，脸色有些苍白。\n　　同样是脸色苍白，城墙上南晋",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "相和，或是相战。\n　　随着行走，青衣少年的身后不停响起金属磨擦声，十三把细长的刀缓缓探出刀鞘，出现在人们的视线里。\n　　那些刀就像花瓣，他便站在花中间。\n　　他停下脚步，抬头向夜穹望了一眼，因为这个动作，火光照亮了他的脸颊，平凡的眉眼被耀的很清晰，脸色有些苍白。\n　　同样是脸色苍白，城墙上南晋小皇帝",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的对手。\n　　柳亦青看着夜色，说道：“那么，来吧。”\n　　夜色如水般静谧，那道声音没有响起，也没有人走出来。\n　　赵思守的脸色有些难看，干瘦黝黑的皱纹里有些不甘，但他没有出手，因为他听到皇城里传来一道脚步声。\n　　皇城四周的所有人都听到了那道脚步声。\n　　那道脚步声很稳定，很有节奏，那双脚上穿着的鞋",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "显得更加苍白，他看着辇上的柳亦青，声音微颤说道：“你今夜要死了。”\n　　他的声音有些微颤，是因为有些紧张，他从来没有真正的战斗过，但他并不畏惧，因为他知道自己绝对不会输，在昊天的世界里。\n　　柳亦青没有说话，他很清楚，无论这个少年怎么数，最后都必然是一个死字，因为他虽然不能视物，但知道对方是谁。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "着一朵金色的大花，他看着那朵金花，神情很是虔诚狂热，目光里仿佛蕴着极高温的火焰。\n　　他伸手摘花瓣，同时喃喃念道：“死，不死，死，不死……”\n　　摘一片花瓣，说一声死，再摘一片，说一声不死，最后一片花瓣离开花茎，落在地面上，同时他说了声死。\n　　青衣少年有些高兴，像孩童一样天真的高兴，脸颊显得更加苍",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "然是南海一脉的知命境强者，是赵南海的儿子，但不是他真正的对手――不是他的对手。\n　　柳亦青看着夜色，说道：“那么，来吧。”\n　　夜色如水般静谧，那道声音没有响起，也没有人走出来。\n　　赵思守的脸色有些难看，干瘦黝黑的皱纹里有些不甘，但他没有出手，因为他听到皇城里传来一道脚步声。\n　　皇城四周的所有人",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "能够看到的疆土之外。\n　　数年前，柳亦青单剑入宫，杀了当时的南晋皇帝，便是这种改变的明证，一个崭新的时代来临了，他是第一个掀起帷幕那角的人。\n　　人间失去了守护者，规则开始崩坏，新时代将会重新变得原始蛮荒而血腥，每个人都有机会用自己的力量讲述自己的道理。\n　　强者是这个新世界的主人，柳亦青是强者，他",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "苍白，他看着辇上的柳亦青，声音微颤说道：“你今夜要死了。”\n　　他的声音有些微颤，是因为有些紧张，他从来没有真正的战斗过，但他并不畏惧，因为他知道自己绝对不会输，在昊天的世界里。\n　　柳亦青没有说话，他很清楚，无论这个少年怎么数，最后都必然是一个死字，因为他虽然不能视物，但知道对方是谁。\n　　皇城四",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "节奏，在与那道脚步声相和，或是相战。\n　　随着行走，青衣少年的身后不停响起金属磨擦声，十三把细长的刀缓缓探出刀鞘，出现在人们的视线里。\n　　那些刀就像花瓣，他便站在花中间。\n　　他停下脚步，抬头向夜穹望了一眼，因为这个动作，火光照亮了他的脸颊，平凡的眉眼被耀的很清晰，脸色有些苍白。\n　　同样是脸色苍",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

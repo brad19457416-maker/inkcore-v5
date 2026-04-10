@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 941,
+  "chapter_title": "第二百七十四章 今天你穿内裤没有？",
+  "filename": "ch_0941_第二百七十四章 今天你穿内裤没有？.txt",
+  "char_count": 3434,
+  "timestamp": "2026-04-10T12:05:26.945986",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的疑惑，许乐放下手中的六星刀和烙铁，看着桌上散落的高清播放器零件，低声回答道：“当时我正处于生命里最危险的时刻，重伤昏迷，身陷帝国罗网之中，随时有可能死去，而大妈她没有任何理由收留我，结果她却不问理由地收留了我。\n\n    许乐回过头来，望着床上的少女微笑说道：“让人从绝望中看到希望的地方，就是天堂",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "今天的少女穿着一件高敞领的黑s裙装，梳着椭圆的小髻，露出洁白的脖颈，和衣领一衬显得格外醒眼，微凉的晨风吹起几络发丝，很漂亮，有一种青涩的ìng感感觉。\n\n    “要讨大妈欢心嘛。”钟烟花格格笑着说道。\n\n    许乐笑着说道：“没必要这么客气。”\n\n    听到这句话，钟烟花缓缓低下头，情绪显得不",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的兄长    “我为他感到骄傲。”\n\n    苏珊大妈转身搅抖锅中的杂烩粥，又擦了擦眼角，她也不知道为什么，被生活磨砺的足够粗糙的神经，今天却变得如此纤细敏感，仿佛回到衣食无忧，幸福美好的童年。\n\n    热腾腾香啧啧的杂烩锅吃完，安静的小院亮起柔眼的灯光，许乐把钟烟花赶去洗碗，苏珊大妈拗不过他，只",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "香，眼睛眯眯笑着，不雅地啪嗒着嘴，就是搁在桌下的双腿明显有些紧张。\n\n    “我带妹妹去逛逛街，她第一次来天京星。”许乐接过大妈替过来的热毛巾擦了擦嘴，说道：“下午我去市场接您，还是老门面吗？”。\n\n    “是啊。”\n\n    苏珊大妈笑呵呵地答道，因为他这句话而高兴起来。\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "而大妈她没有任何理由收留我，结果她却不问理由地收留了我。\n\n    许乐回过头来，望着床上的少女微笑说道：“让人从绝望中看到希望的地方，就是天堂，这座小院对于我来说，就是天堂。”\n\n    阁楼安静片刻后，又响起他难得的感慨声。\n\n    “那今rì记本你刚才也过了，你所不知道的事情是，这今rì记本",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "帝**官，在险恶的太空里过了七年岁月，然后深埋在5460冰川下的万人坑里，直到那一年我和商秋发现它的存在，然后被我带到了帝国。”\n\n    钟烟花吃惊地看着他。\n\n    “我遇着亚瑟，然后在帝国被亚瑟的妹妹所救，这是缘份还是命运？我在这小院里至少学习到了一点，人类或许有高贵有卑劣之分，但这和人种真",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "看到希望的地方，就是天堂，这座小院对于我来说，就是天堂。”\n\n    阁楼安静片刻后，又响起他难得的感慨声。\n\n    “那今rì记本你刚才也过了，你所不知道的事情是，这今rì记本随着那个曾经年轻骄傲坚毅温和的帝**官，在险恶的太空里过了七年岁月，然后深埋在5460冰川下的万人坑里，直到那一年我和商",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "特别香，依旧梳着发髻的钟烟花看上去吃的挺香，眼睛眯眯笑着，不雅地啪嗒着嘴，就是搁在桌下的双腿明显有些紧张。\n\n    “我带妹妹去逛逛街，她第一次来天京星。”许乐接过大妈替过来的热毛巾擦了擦嘴，说道：“下午我去市场接您，还是老门面吗？”。\n\n    “是啊。”\n\n    苏珊大妈笑呵呵地答道，因为他",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。”钟烟花格格笑着说道。\n\n    许乐笑着说道：“没必要这么客气。”\n\n    听到这句话，钟烟花缓缓低下头，情绪显得不是那么高昂，她一脚踢飞拦在面前的一块石头，在心中默默埋怨道，真是一个大笨蛋。\n\n    没有走多远，那片白s院落便在道路那边安静地等待着他们，这片院落看上去非常普通，但看延展极远",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "诉苏珊大妈，正是自己发现了她兄长的遗体，也正是他把那本rì记带回帝国，然后经由怀草诗的手，送还至这个温馨平静的小院。\n\n    在付出两个碗破碎的惨重代价后，钟烟花终于笨拙地完成了清洁工作，有些尴尬地槎着发红的小手，讷讷然坐回客厅的椅中，看到这幕后好奇地凑了过去。\n\n    “我们打会儿牌吧？”许乐",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "”\n\n    钟烟花吃惊地看着他。\n\n    “我遇着亚瑟，然后在帝国被亚瑟的妹妹所救，这是缘份还是命运？我在这小院里至少学习到了一点，人类或许有高贵有卑劣之分，但这和人种真的无关，苏珊大妈和她的兄长亚瑟都是帝国人，但他们都是高贵善良的人。”\n\n    他回过身去，拿起六星刀和微探头烙铁，重新开始专",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "为那边的事情重要，我们会先去大师范府。”\n\n    许乐双肩微微一沉，没有回头，沉默片刻后说道：“我离开了这么多年，真的有些害怕，我害怕她死了。”\n\n    第二天的早餐是辣糊面茶加豆沙包，在苏珊大妈疼爱的眼神下，许乐吃的特别香，依旧梳着发髻的钟烟花看上去吃的挺香，眼睛眯眯笑着，不雅地啪嗒着嘴，就是",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

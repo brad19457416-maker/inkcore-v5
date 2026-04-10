@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 398,
+  "chapter_title": "第二百零三章 大热闹",
+  "filename": "ch_0398_第二百零三章 大热闹.txt",
+  "char_count": 3474,
+  "timestamp": "2026-04-10T12:11:21.804329",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "觉的宁缺，小书童目瞪口呆，半天才醒过神来，颤声问道：“小先生，你……你……要做什么？”\n　　宁缺笑着说道：“我要活吃了你，赶紧给我倒碗酱油，再配点辣根。”\n　　小书童大惊，又有些不好意思，微羞说道：“小先生，我可不好吃，少爷经常说我不爱洗脚，身上是臭的。”\n　　宁缺怔了怔，哈哈大笑起来，说道：“成成",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "院门口的南晋人，今天当被挑战的书院十三先生破关出洞的消息传到长安城后，无数人都过来看热闹。\n　　毫无疑问，这是一场大热闹。\n　　不远处山坡上有条青石铺成的官道，道畔密集停着数十辆马车，想来长安城里有些府上的小姐，也无法禁受这场热闹的诱惑，来到了此间。\n　　数十辆马车中，更多的当然还是那些尊贵之人，他",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "是今天，侧门外围拢了逾千民众，如果不是朝廷反应神速，派出羽林军前来维持秩序，只怕清幽草林早就被兴奋的人群踩到稀烂。\n　　普通世人很少能够见到修行者，更何况是修行者打架，长安城因为强者云集，所以城中的百姓在这方面的见识稍微多一些，但像这种可以近距离观看的机会却依然是极为罕有。\n　　有人挑战书院一事，已",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "一辈子就躲在书院里不出去，终究是要打的，那么晚打不如早打。\n　　因为在崖洞里闭关三月，破洞而出得闻春风，得见野花，他此时无论身体还是精神状态，都处于最饱满完美的时刻。\n　　甚至隐隐约约和在荒原大明湖畔破境后的感觉有些相似。\n　　……\n　　……\n　　南晋剑圣柳白之弟与书院十三先生宁缺的决斗，因为等待的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "方缓慢移去，照耀着庭院。\n　　换好崭新的黑色院服，请小书童帮忙梳头，宁缺看着铜镜里的自己，很是满意，心想果然随便来个人都比桑桑的头梳的要好。\n　　向小书童道过谢，宁缺便离开了小院。\n　　虽然他真的不想和那个剑圣柳白的弟弟打上一场，但他更清楚，对方在书院外坐等三月，绝对不会中途撤走，自己总不可能一辈子",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "这场热闹的诱惑，来到了此间。\n　　数十辆马车中，更多的当然还是那些尊贵之人，他们不可能像普通百姓一样拼命向前挤，更不可能像有些百姓那般不顾身份，冒着风险爬上杨树，而且越爬越高，只为寻找到一个最佳的观看位置。\n　　这些身份尊贵的人里面包括大唐帝国的相关官员，还有军方的几位将领，自然少不了那些闻风而至的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "便再次折回，行走的线路，是一条笔直的线条，没有丝毫偏差。\n　　回头时，它看到了大黑马垂头丧气的模样，愤怒地叫了两声，声音很严厉。\n　　大黑马顿时像是看到了宁缺一般，恐惧地连忙抬起头来，扮演出高傲优雅的模样，它又想讨好大白鹅，咧着厚唇皮，所以显得格外滑稽。\n　　站在草甸上方的四人怔怔看着这幕画面。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "神殿使团。\n　　天谕大神官不在车中，书院二层楼学生和柳白亲弟之间的决斗，还远远不足以让这位大人物屈尊出现。\n　　车中坐着位须容皆雪，容貌却很年轻的男子。\n　　西陵神殿天谕司司座程立雪。\n　　程立雪在神殿中的位置甚至要隐隐高过隆庆皇子一筹，与赴荒原之前的道痴叶红鱼可以并排而坐，也是位极重要的大人物。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "丛里屈着前膝闭目养神的老黄牛说道。\n　　果不其然，大白鹅带领着大黑马和小雪狼完成了四次来回队列前进，来到了老黄牛身前不远处，恭敬地低下了自己高傲的头颅。\n　　老黄牛缓缓睁开眼睛，看了一眼它，轻轻上下摇晃了一下牛首，然后似乎觉得这件事情太无聊，转过身去嚼了口草，然后继续养神。\n　　宁缺看着那头把青草嚼",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "程立雪想着在荒原王庭上的那次相遇，也忍不住笑了起来，说道：“那确实是个极有趣的人，不过我想他应该马上就要到了。”\n　　不是就要到了，而是已经到了。\n　　书院侧门被人从里面缓缓推开。\n　　一道黑色的身影出现在世人眼前。\n　　一片欢呼。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "纶。”\n　　“这名字不错，就是显得太文气了些，得改。”\n　　宁缺挥手说道：“你说话的声音总是这般细，以后就叫小蚊子吧，听着可爱。”\n　　小书童笑了笑，又去接了桶热水，然后很认真地说道：“小文子这个名字不错，不过许家纶这三个字是少爷起的，我这时候去问问他？”\n　　宁缺一惊，脑袋沉到水下，险些呛着，连连",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的，我这时候去问问他？”\n　　宁缺一惊，脑袋沉到水下，险些呛着，连连说道：“可不敢告诉他，你家少爷那脾气，你又不是不知道。”\n　　洗完澡，宁缺真的就在二师兄的小院里美美地睡了一觉，待他醒来时，太阳已然过了中天，向西方缓慢移去，照耀着庭院。\n　　换好崭新的黑色院服，请小书童帮忙梳头，宁缺看着铜镜里的自",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "黑马和小雪狼完成了四次来回队列前进，来到了老黄牛身前不远处，恭敬地低下了自己高傲的头颅。\n　　老黄牛缓缓睁开眼睛，看了一眼它，轻轻上下摇晃了一下牛首，然后似乎觉得这件事情太无聊，转过身去嚼了口草，然后继续养神。\n　　宁缺看着那头把青草嚼成沫，却不吞进腹中，反而厌恶地呸出来的老黄牛，看着老老实实站在它",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "孩子，连宁缺这般荒唐的要求也不知该如何拒绝，竟是老老实实去灶房烧了一大锅热水。\n　　热雾蒸腾间，宁缺满足地躺在大木桶里，看着忙着找毛巾的小书童，问道：“说起来，我还一直不知道你的名字。”\n　　小书童把毛巾搁在桶洞，轻声细语回答道：“我叫许家纶。”\n　　“这名字不错，就是显得太文气了些，得改。”",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

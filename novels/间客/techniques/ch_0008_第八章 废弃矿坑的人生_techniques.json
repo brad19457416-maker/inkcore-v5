@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 8,
+  "chapter_title": "第八章 废弃矿坑的人生",
+  "filename": "ch_0008_第八章 废弃矿坑的人生.txt",
+  "char_count": 2580,
+  "timestamp": "2026-04-10T11:53:11.019477",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "对于每一个机修技师的双眼来说，都是一种折磨。而且他往往一旦专心与金属芯片的世界后，便会有些忘记时间的存在，所以此刻的双眼都有些发红。\n\n    “去休息一下，看看风光，舒缓一下眼部的肌肉。”封余揉了揉花白的头发，很满意于许乐的速度和专心。在这大半年里，香兰大道修理铺的事情基本上都是许乐在这个偏僻的矿",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，我就知道老板你不是一般人。”\n\n    封余有些吃惊，忍不住笑了起来，回头举手似乎想要打他的脑袋，最终却只是揉了揉许乐黑黑的乱发，说道：“你真是个疯子，谁会想到去量那个东西？”\n\n    “大概是直觉？”许乐很开心地笑了起来，“我就是觉得那扇门有些什么说不出来的怪异，刚好那时候手头有一笔钱，所以去",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "问道。\n\n    封余站起身来，看着废弃矿坑下方和草原间的一条绵绵无尽头的金属隔离网，脸色异常难看，悲痛说道：“我这一辈子，最讨厌联邦两条法律，其中一条，就是那个该死的野生动物保护法。”\n\n    许乐忍着笑，仰脸问道：“还有一条呢？”\n\n    “第一宪章。”\n\n    说完这句最嚣张的话后，他便",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“征兵考试报名，如果是机修士官的话……政府只报销百分之四十。”许乐看着大叔的背影，鼓起勇气说道：“只有两年时间了，我总要存些钱。”\n\n    这句话的潜台词自然是希望修理铺老板能给自己发些薪水。然而封余头也没回，直接拒绝：“当初是你哭着喊着要我教你，我有想过向你收学费吗？”\n\n    真是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "金属事物，在空中不停地摆动，时不时撞在那个大屁股上，发出令人厌烦的声音。\n\n    他一直不理解封余为什么要把自己塑造成这种形象，然而封余对他说，剑客手中的剑，枪神手里的枪，从来不会离身。他们这些机修技师，自然不能让工具离开自己的身体……其实许乐明白，这位大叔只是觉得这副翘臀风铃的风姿格外男人，可以",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "与金属芯片的世界后，便会有些忘记时间的存在，所以此刻的双眼都有些发红。\n\n    “去休息一下，看看风光，舒缓一下眼部的肌肉。”封余揉了揉花白的头发，很满意于许乐的速度和专心。在这大半年里，香兰大道修理铺的事情基本上都是许乐在这个偏僻的矿坑里进行操作，而封余只需要呆在铺子里，每到周末才来指点一下，渐",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "渴望的关于机修方面的知识和实践经验。\n\n    虽然修理电器对于他的理想，那个成为战舰机修辅官或者是进入首都星圈谋求美好生活的理想，没有丝毫帮助，但至少许乐从那个小小的修理铺里，获得了很多平静和满足。\n\n    许乐也不算是封余的雇工，因为封余从来没有给他发过薪水，只是在冰柜里留下了足够的食物，从待",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "此时披着暮色凝成的光芒，缓缓地从树林里游荡而出，向着矿坑的方向行了过来。\n\n    许乐和封余两个人同时停止一切思维和行动，只是怔怔地看着这几头野牛，眼中散发出一种叫做贪婪的目光。\n\n    “大叔，我们已经半年没吃到新鲜的牛肉了。”许乐吞了一口口水，试探着问道。\n\n    封余站起身来，看着废弃矿",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "理铺的时光。\n\n    他和封余的关系有些古怪，不是学生与老师的关系，但是他确实从封余的身上学到他最渴望的关于机修方面的知识和实践经验。\n\n    虽然修理电器对于他的理想，那个成为战舰机修辅官或者是进入首都星圈谋求美好生活的理想，没有丝毫帮助，但至少许乐从那个小小的修理铺里，获得了很多平静和满足。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "他一直不理解封余为什么要把自己塑造成这种形象，然而封余对他说，剑客手中的剑，枪神手里的枪，从来不会离身。他们这些机修技师，自然不能让工具离开自己的身体……其实许乐明白，这位大叔只是觉得这副翘臀风铃的风姿格外男人，可以吸引那些寂寞少妇的目光。\n\n    天时已经晚了，东林大区上方的光芒渐渐黯",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "防盗器，看来先前在沙发上的那个判断，真是没有错。\n\n    几头雄壮的野牛，此时披着暮色凝成的光芒，缓缓地从树林里游荡而出，向着矿坑的方向行了过来。\n\n    许乐和封余两个人同时停止一切思维和行动，只是怔怔地看着这几头野牛，眼中散发出一种叫做贪婪的目光。\n\n    “大叔，我们已经半年没吃到新鲜的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "第八章 废弃矿坑的人生 \n\n    进行完最后一项微焊操作，许乐满足地取下了罩在脸上的深色防护镜，将操作间内所有修复好的成品，按照上面的标签分门别类，整齐地放入金属格栅之中，摁动按钮，运出操作间外。[阅读文字版，请上]这些修理好的货物明天清晨的时候，便要送回香兰大",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

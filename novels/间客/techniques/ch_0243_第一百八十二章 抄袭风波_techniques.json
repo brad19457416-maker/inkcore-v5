@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 243,
+  "chapter_title": "第一百八十二章 抄袭风波",
+  "filename": "ch_0243_第一百八十二章 抄袭风波.txt",
+  "char_count": 5538,
+  "timestamp": "2026-04-10T12:04:51.237494",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "么。\n\n    被记者告知了网络上的消息之后。沈教授沉默了很久才抬起了头来。脸上挂着一丝淡淡的微笑。说道：“我不方便说些什么。”\n\n    就在这一刻。他知道许乐。这个父亲临终前最喜欢的学生。终于开始为地下的父亲寻求一些什么。他的心情平静之中带着一丝安慰。\n\n    “沈教授。沈老教授当年与林院长之",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "雨间向着校园内走去。步伐平静。他就像他的父亲一样。对于那些不公虽然愤怒。却更愿意把时间和精力投入到有意义的研究当中。而不是像个怨妇一样悲哀一生。一个严谨的学者。不会在没有证据的前提下。发表任何意见。\n\n    果壳工程师这个ld已经变成了联邦网络上的名人。只是无论怎样人肉搜索。都无法找出这个ld背后",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "是一夜之间。星之天空包括联邦公共网络上。任何关于新式机甲的讨论都被一扫而空。联邦政府基于保护新式机甲秘密的理由。得到了大部分民众的宽容。毕竟这不是在讨论哪家饭馆的菜做的更好吃。但也正因为此。那些关于林远湖院长涉及抄袭的指控。也在这种理由下被严格控制了起来。\n\n    一阵秋雨一阵凉。一辆黑色的汽车缓",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "机构。林院长是深得民望的学术界领袖。这样的机构和学者居然会抄袭？\n\n    一石激起千层浪。整个星的天空讨论区顿时充满了各式各样的贴子。有一部分人直接将对联邦生活的不满发泄出来。想都没有想一下。便开始用激烈的语气。痛骂联邦科学院的无耻。有一部分自以为冷静的民众。则开始字斟句酌地发表意见。认为这件事情",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "联邦科学院和林院长的无耻诬蔑。我们会保留起诉造谣者的权利。”\n\n    记者挂断了电话之后摇了摇头。心想你凌晨五点还这么快接电话。明显是没有睡着。看来也必然是被果壳机动公司研发成功的消息。和网络上指控抄袭的流言扰的无法入睡。居然还能笑的如此爽朗。\n\n    不知道是这位记者没有遵循私下谈话的原则。还",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "岸滩涂上随手一揉便能做出来的东西。拙美的泥人或许带着孩子天真的美感。但绝对无法帮助联邦军队在与帝国的战斗中获取太多利益。这个最高精复杂的人形机械。需要长时间的研发。”\n\n    “mx机甲的研制。果壳公司早在三十年前就有了初步意向在做了长期的准备工作后。于十二年前正式立项。无数专家学者技术人员投入青",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "着又有人查到。那份敢于刊登林远湖教授涉嫌抄袭的学术期刊。就在当年便被联邦学术委员会收回了资助与权限。最终落了个关门散人的下场。\n\n    至此。沈裕林这个曾经辉煌过的名字。曾经的星云奖得主。再次进入了公众的视野。民众们在网络上查到。沈老教授在那件事情之后。便离开了联邦科学院。进入了果壳机动公司研究所",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "一种当事者的口。用花边小报的语气。描述着所谓的联邦学术界**。这是一种典型的黑幕文学格式。但凡清醒的人们。一定会觉得这封公开信里有很多问题。只是这名工程师的公开信里提到的事情太具有爆炸性。以至于深层次的问题没有人去考虑。\n\n    这个工程师的公开信一共三千七百字。没有一个字用来指控联邦科学院抄袭。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "但加上他们的热情与想像力。便已经形成了一个关于学霸打压异己。无耻夺取他人学术果实的故事。\n\n    愤怒的人们愈加愤怒。沉默的人们也开始发表一极富※推理色彩的长文。就连那些尖酸刻薄的阴谋论者。在消停几个小时之后。也开始重新蹦了出来。只是他们这次的目标已经指向了联邦科学院。甚至是联邦政府。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "说的是。我们该做的事情已经做成功了。我相信我们比联邦科学院在机甲方面的研发更扎实。只要据理力争。联邦将来的机甲标准肯定是用我的。何必在这个时候多起事端？”\n\n    “科学院那台紫海的瞬间输出功率应该比我们大。”商秋在一旁回答道：“不过这不是关键。稳定性方面我一直有怀疑。”\n\n    说完这句话。商",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "是这位记者没有遵循私下谈话的原则。还是有好事者模拟了这位新闻发言人的口吻。总之网络新闻发布板上。再次出现了与这次谈话内容极为相似的贴子。\n\n    后面有无数民众的回贴。\n\n    “我好怕怕呀……”\n\n    “先前我的发言是被人盗号所致。本人不承担任何法律上的责任……”\n\n    “老子住在百慕",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "权限。最终落了个关门散人的下场。\n\n    至此。沈裕林这个曾经辉煌过的名字。曾经的星云奖得主。再次进入了公众的视野。民众们在网络上查到。沈老教授在那件事情之后。便离开了联邦科学院。进入了果壳机动公司研究所。在学术界里消失了十余年的时间。至于他后来具体在研究什么方面。却没有人能够查到。\n\n    凡",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "风衣的领子。遮住了自己那张俊美从容的面庞。走进了酒店。\n\n    通过专用贵宾电梯直抵顶楼。推开那扇沉重的门。罗秘书站起身来迎接他。利修竹没有理会他。将风衣挂在了衣架上。微微一笑说道：“明天有没有把握？”\n\n    “我们已经拿到了果壳的技术参数。他们全面落于下风。明天的会议没有任何问题。”罗秘书轻",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "要据理力争。联邦将来的机甲标准肯定是用我的。何必在这个时候多起事端？”\n\n    “科学院那台紫海的瞬间输出功率应该比我们大。”商秋在一旁回答道：“不过这不是关键。稳定性方面我一直有怀疑。”\n\n    说完这句话。商秋看了许乐一眼。\n\n    其实场间的所有人都心知肚明。昨天晚上将消息发出去的人。一",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "的。我父亲最后十几年的研究成果。按照与联邦政府之间的协议。归属权在我父亲手中。联邦只有使用权。而这种权力现在已经移交到我父亲那名学生的手中。移交的过程我和律师亲眼见证。如果需要的话。我愿意再次重复以上的说明。”\n\n    记者随身的微小录音笔。忠实地记录了这几句话。又有一名记者很急迫地问道：“关于林",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "专家学者技术人员投入青春汗水。才在去年秋天研发出来第一代的原型机。而我们知道。你们也知道。联邦科学院从来就没有过类似的计划。他们只是今年才忽然开始的。所以论起先来后到。浪费联邦资源的。应该是联邦科学院。而不是我们果壳公司。”\n\n    “更令我不明白的是。联邦科学院启动了新式mx机甲的研发项目后。只",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "林远湖院长涉及抄袭的指控。也在这种理由下被严格控制了起来。\n\n    一阵秋雨一阵凉。一辆黑色的汽车缓缓地停在了首都特区宪章广场边的酒店前。利修竹下车后竖起了风衣的领子。遮住了自己那张俊美从容的面庞。走进了酒店。\n\n    通过专用贵宾电梯直抵顶楼。推开那扇沉重的门。罗秘书站起身来迎接他。利修竹没有",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

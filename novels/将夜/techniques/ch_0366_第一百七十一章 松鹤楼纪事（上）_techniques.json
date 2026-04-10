@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 366,
+  "chapter_title": "第一百七十一章 松鹤楼纪事（上）",
+  "filename": "ch_0366_第一百七十一章 松鹤楼纪事（上）.txt",
+  "char_count": 3405,
+  "timestamp": "2026-04-10T12:11:21.736768",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "只有一张银票，但掌柜清清楚楚看到了银票的面额，再想到先前在自己眼前挥舞的那一厚叠银票，顿时吓了一跳，心想随身带着这么多银票的豪客已然不是普通豪客，绝对是松鹤楼得罪不起的角色，哪里还敢多话，老老实实接过银票，极恭谨地把宁缺迎进楼里，把他安置进二楼一个临窗的雅间。\n　　各色佳肴吃食流水价端进雅间，搁在桌",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "知道最后的两名客人都坐到了露台上，有些疑惑不解于他们的不惧寒，却还是极为细心地命人在露台边缘挑起了防风灯。\n　　昏暗的灯光笼罩着露台，宁缺把那人看的清楚了些，只见那人身穿着一件极名贵的绛色狐裘，容颜清矍，下颌有须随夜风轻飘，似极了长安城大富作派，但身上的气息却又透着股说不清道不明的感觉，尤其是此人明",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "如此。\n　　宁缺才知道原来松鹤楼里居然还有客人。听着那道略显苍老的声音，知道那人年纪应该不小，他笑着说道：“我倒不觉得难听，俗也有俗的好处，比如这时候酒上心头，想不起别的曲子，这曲子却能一下浮现出来。”\n　　隔壁雅间那位客人好奇问道：“这曲子可有名？”\n　　“求佛。”宁缺回答道：“如果没记错的话，应",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "们总能通过各种方法证明，原来这些东西真的是很要命的一些玩意儿。”\n　　他举起春泥酒瓮，对着夜空里并不存在的那轮明月，说道：“没有就会不习惯，就像这片夜空，无论是十四年前的夜空还是现在的，无论是渭城的夜空还是长安城的夜空，只要没有月亮，我就不高兴。”\n　　老人来了兴趣，看着他问道：“月亮……又是什么东",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "候已经醉的有些厉害，竟是没有听清楚这句话。\n　　他看着夜空里的繁星，感慨说道：“我有时候真觉得自己的性格有些问题，每当不高兴的时候，我就想去杀些人。”\n　　老人看着他很认真地说道：“你的性格没有问题。”\n　　宁缺微微一怔，看着他喜悦说道：“你这样认为？”\n　　老人嘲讽说道：“但你的脑子有问题。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "闻酒里都有股黄州泥的味道。\n　　“这是用来贮酒，又不是用来磨墨写字的，怎么能用黄州泥呢！”\n　　老人愤怒地挥舞着手臂，花白的胡须在夜风中乱飞。\n　　老人的声音越来越大，传进宁缺的耳中，他侧头看着愤怒的对方，感慨说道：“真是对生活有要求的人，但你这样不累吗？”\n　　老人蹙眉看着他不悦说道：“既然活着当",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "体少了很重要的一部分。”\n　　宁缺转头看着椅中的老人嘿嘿笑着说道：“你可不要嫌我说的酸腐骚情，要知道为什么世上总会有这些话语？因为事后人们总能通过各种方法证明，原来这些东西真的是很要命的一些玩意儿。”\n　　他举起春泥酒瓮，对着夜空里并不存在的那轮明月，说道：“没有就会不习惯，就像这片夜空，无论是十四",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "上吗？以前从来没有见过，也没有听人说过。”\n　　“月亮是一种会发光的东西，有时是圆的，有时是弯的，它出现在黑夜里，有时候也会在白天偷偷出来逛逛，很漂亮。月亮这个东西可以做很多事情，比如遮遮太阳，搞搞潮水，变变狼人……”\n　　宁缺看着老人的神情，叹息说道：“我知道你不会相信真有这种东西，你不要这样看着",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "直在想，如果没有我那她该怎么办啊，然后又变成，如果没有她我该怎么办啊？我依然能活着，说不定还能活的更轻松，但什么才是轻松？习惯了，如果习惯被打破，就不可能轻松，因为你总会觉得你生命里少了一些很重要的东西，总觉得你的身体少了很重要的一部分。”\n　　宁缺转头看着椅中的老人嘿嘿笑着说道：“你可不要嫌我说的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "色如霜沉如铁的模样，可以想像那些话大概不是什么好话，更可能是脏话。\n　　未曾相对，相邻饮酒，老少二人同时长吁短叹起来。\n　　宁缺叹的是人生。\n　　虽然他在大唐的人生还不到二十年，但两世为人又经历了这么多的蹉磨，总有很多可以感慨的地方，比如河北郡大旱人比鬼狠、岷山里人比兽狠、草原上人比狼狠，又比如最难",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第一百七十一章 松鹤楼纪事（上）\n　　夜已深了，松鹤楼也打烊了，楼里的人们正在收拾清扫，听着宁缺的要求，为难地表示了拒绝，然而此时的宁缺哪里肯离开，他从怀里取出厚厚一叠银票，思考片刻后还是只抽出了一张递到掌柜身前。\n　　昨日离开老笔斋时，他怀抱着找不着桑桑便再也不回去的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "深了，松鹤楼也打烊了，楼里的人们正在收拾清扫，听着宁缺的要求，为难地表示了拒绝，然而此时的宁缺哪里肯离开，他从怀里取出厚厚一叠银票，思考片刻后还是只抽出了一张递到掌柜身前。\n　　昨日离开老笔斋时，他怀抱着找不着桑桑便再也不回去的心态，所以把最重要的身家全部带在了身边，除了元十三箭当然还有这些银票。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "吃食流水价端进雅间，搁在桌上，宁缺坐在窗畔，看着被白日冬雪抹过一遍从而格外清新的夜空，手里捉着只酒杯缓缓地饮着酒。\n　　芽菜蒸肉就着春泥瓮中的小酒，越喝越有，宁缺眼睛渐渐眯了起来，看着夜空里的繁星，想着这两日里的纠结事，拿着手中筷子轻敲酒瓮，哼唱道：“我们还能不能能不能再见面，我在佛前苦苦求了好几千",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "着他不悦说道：“既然活着当然要好好活着。”\n　　宁缺沉默片刻后，微涩一笑说道：“那是因为你老人家生活幸福，所以你不知道，有些时候，只要能活着便是世上最大的幸事。”\n　　老人像驱赶蚊子一般挥挥手，似乎是要把宁缺这番阵词滥调以及话语里透着的自怜自艾恶心感觉全部驱出露台。\n　　宁缺此时酒意上涌，只是下意识",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

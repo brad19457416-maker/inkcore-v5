@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 919,
+  "chapter_title": "第九十二章 我想我是海",
+  "filename": "ch_0919_第九十二章 我想我是海.txt",
+  "char_count": 2362,
+  "timestamp": "2026-04-10T12:11:27.491601",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "解释的唯一主宰，是统治这个世界的唯一真神，但他知道这是错的。\n　　在宋国那间酒楼里，夫子拿着筷子指着天空说过，昊天是客观的规则集合，它的生命便是规则持续的惯性。\n　　那么这个世界的客观规则，是从什么时候开始拥有生命的呢？\n　　如果说昊天是客观意志，那么最开始的时候，是谁让它醒来？\n　　这毫无疑问是世",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "从什么时候开始拥有生命的呢？\n　　如果说昊天是客观意志，那么最开始的时候，是谁让它醒来？\n　　这毫无疑问是世界上最难以回答的问题，即便是西陵神殿学识最渊博的神学教习，都没有办法也不敢做出回答。\n　　书院对此自然有过分析，只是没有结论，以宁缺现在的境界，也不可能得出真实的答案，但她是他的本命，所以他懂",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "则，海水里有风雨里也有，她站在海天之间，却到处都是。\n　　这场旅行的目的地在哪里，她不知道，宁缺带她来到人间，是想让她体会，想要加深她与人间之间的羁绊，她选择与他一道离开桃山，除了要证明天道不可违，也是想要寻找到离开人间的方法。\n　　她选择来大河，便是想体会把她留在人间最深的那个情字，只是依然不够。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "人类恐惧海底和海那边的世界，所以选择让你来保护他们。”\n　　宁缺把手里的贝壳扔进海中，看着海洋深处，说道：“而当人类的好奇心，或者说对自由的渴望超过恐惧后，他们便想造船、甚至徒手游泳，也要游过你这片海，去看看海底和海那边究竟有什么。”\n　　桑桑沉默不语。\n　　她的存在，并不是她自己的选择，而是人类的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "造船、甚至徒手游泳，也要游过你这片海，去看看海底和海那边究竟有什么。”\n　　桑桑沉默不语。\n　　她的存在，并不是她自己的选择，而是人类的选择，如果要改变这个世界，突破规则的束缚，那么她会面临怎样的结局？\n　　宁缺转身来，静静看着她，然后把她抱进怀里。\n　　桑桑面无表情，任由他抱着。\n　　宁缺说道：“",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "去看海，所以她来到海边，然后说了这样一句话：“海是没有形状的，风怎样吹，浪花便会怎样。”\n　　这是她第一次对宁缺谈及自己，谈及身为昊天的自己。\n　　宁缺明白她的意思，心情变得有些复杂。\n　　对于道门信徒们来说，昊天是不能形容、不能解释的唯一主宰，是统治这个世界的唯一真神，但他知道这是错的。\n　　在宋",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第九十二章 我想我是海\n　　风是狂风，雨是暴雨，自南海深处而来，无数雨水磅礴而落，沙滩上顿时变得一片泥泞，碧蓝的海水也因为不安而渐渐变深。\n　　大黑马从海里奔回，想要去沙滩后方的树下避雨，却发现宁缺和桑桑站在海边没有动，它想了想又走了回来，在二人身后默默站着，雨水",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "西陵神殿骑兵，在离南海约十余里的田野间，黑压压的一片，片刻后，这些骑兵也重新启程，带着满身风尘，缓缓而行。\n　　瓦山离海不远，入春极早。\n　　宁缺和桑桑来到瓦山前那座小镇时，道旁的树枝里已经生出很多新叶，虽然不像更南海的大河那样花树四季不败，但翠翠嫩嫩的很是喜人。\n　　数年前，烂柯寺遭遇劫难，半",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "来保护他们。”\n　　宁缺把手里的贝壳扔进海中，看着海洋深处，说道：“而当人类的好奇心，或者说对自由的渴望超过恐惧后，他们便想造船、甚至徒手游泳，也要游过你这片海，去看看海底和海那边究竟有什么。”\n　　桑桑沉默不语。\n　　她的存在，并不是她自己的选择，而是人类的选择，如果要改变这个世界，突破规则的束缚",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

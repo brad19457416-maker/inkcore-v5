@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 92,
+  "chapter_title": "第三十一章 自信的强者",
+  "filename": "ch_0092_第三十一章 自信的强者.txt",
+  "char_count": 3337,
+  "timestamp": "2026-04-10T11:53:35.155839",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "着拇指，得意而伪装冷酷地回视着被对战室墙壁隔绝的万人目光，他甚至希望梨花大学那些只会骂人的学生目光越愤怒越好，因为对方反正不敢来打，便只有被自己轻视的资格。\n\n    此时主通讯已经因为他的对骂而关闭，他不知道此时对战室外面的无数人都已经变得安静沉默下来，所以当他听到机甲内部的系统合成声说到对战请求",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "精确打击，在一道青烟之后，正式停止工作。\n\n    安静的对战室内响起了系统的声音，黑色原型机甲毫无疑问地成为了胜利者。许乐操控着机甲退后了五米，他还以为此时只有自己和对面那台蓝黑色机甲在对战室内，根本不知道刚才发生的一切，已经落在了无数人的眼中。\n\n    综合馆里的欢呼声口哨声早已经像沸腾的海洋",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "是他职业军人生涯开端的一笔无法抹去的污迹，这个污迹伴随着他的一生，时不时地会被人提起，因为后来联邦的人们都知道，他对面那个黑色的机甲里的许乐，还只是一个第一次参加真实对战的菜鸟。】\n\n    那时候，安达操控着蓝黑色的机甲，还在万人注视下倒立着拇指，得意而伪装冷酷地回视着被对战室墙壁隔绝的万人目光，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "甲的输出动力已经到达了百分之八十的数值，在指触式光屏上的指令输入，变成了机甲合金拳不知疲惫，渐要超越风声的狂暴出击，而在黑色机甲的拳下，蓝黑色机甲不停地颤抖，明明没有受到真实的不可逆的损坏，却永远也站不起来，只能**地被痛扁。\n\n    咔的一声脆响，蓝黑色机甲机械腿根部的护甲终于裂开了一条小缝隙，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "情况怎么样了，大家伙儿使点儿劲砸月票吧……）秀军官生安达来说，宪历六十六年的梨花大学之行，是他职业军人生涯开端的一笔无法抹去的污迹，这个污迹伴随着他的一生，时不时地会被人提起，因为后来联邦的人们都知道，他对面那个黑色的机甲里的许乐，还只是一个第一次参加真实对战的菜鸟。】\n\n    那时候，安达操控着",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "随着他的一生，时不时地会被人提起，因为后来联邦的人们都知道，他对面那个黑色的机甲里的许乐，还只是一个第一次参加真实对战的菜鸟。】\n\n    那时候，安达操控着蓝黑色的机甲，还在万人注视下倒立着拇指，得意而伪装冷酷地回视着被对战室墙壁隔绝的万人目光，他甚至希望梨花大学那些只会骂人的学生目光越愤怒越好，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "截然不同的两种情绪。周玉眯着眼睛看着光幕上那个略显呆滞的黑色机甲，对身旁那些愤愤不平，指责梨花大学搞突然袭击，那台机甲玩偷袭的同伴们说道。“我们都知道最大的漏洞在哪里，可是我们谁会想到去利用这个漏洞？没有，因为这样操作的难度太大……虽然今天的对战没有远程武器系统加入，让黑色机甲这种操作的可能性大了许",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "，然而全手动操控，在近身格斗里面等于是半个残废。\n\n    像灰尘一样的小卷发飘荡在机甲的操作舱中，同时飘荡着安达的愤怒吼叫。他这一辈子没有这么窝囊过，明明对方的操作水平也不过如此，除了最开始的突击速度快到有些可怕之外，其余不过平平，看上去甚至还有些愚痴，只知道傻傻地让机甲出拳砸，而根本不知道应该攻",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "甲的振荡每每在关键时刻，影响到平衡感应仪的重新校准，让自己根本没有办法进行有效的操作！就这样输给一个社会大学学生操控的原型机？安达这时候自杀的心都有了，痛苦无比地揪着自己头上的卷发，愤怒地盯着那台看上去有些笨拙的黑色机甲。\n\n    “当然不会是凑巧，虽然这台黑色原型机甲的操作并不如何强悍，但无论是",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "对战练习，双方总是要习惯性地交流一下，如果关系不好，可能也会用机语表示几句对对方家人的亲切问候，可还从来没有谁，会像一个泼妇一样，上来就揪着对方干仗。\n\n    那台黑色的机甲就这样做了，而且做的很彻底，沉默而壮烈地扑了过来。在安达毫无反应的情况下，一脚狠狠踹中了蓝黑色机甲的机械腿根部。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "己轻视的资格。\n\n    此时主通讯已经因为他的对骂而关闭，他不知道此时对战室外面的无数人都已经变得安静沉默下来，所以当他听到机甲内部的系统合成声说到对战请求被接受后，发了发呆，才想到去看第三视野光屏。\n\n    他看见了一台黑色的机甲，也看到了那台黑色机甲竖起来的中指。于是安达开始习惯性的疯狂和愤",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "看着光幕上那个略显呆滞的黑色机甲，对身旁那些愤愤不平，指责梨花大学搞突然袭击，那台机甲玩偷袭的同伴们说道。“我们都知道最大的漏洞在哪里，可是我们谁会想到去利用这个漏洞？没有，因为这样操作的难度太大……虽然今天的对战没有远程武器系统加入，让黑色机甲这种操作的可能性大了许多，可是我们谁都不能保证自己输入",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

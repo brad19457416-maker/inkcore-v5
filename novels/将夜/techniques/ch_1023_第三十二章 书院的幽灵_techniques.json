@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1023,
+  "chapter_title": "第三十二章 书院的幽灵",
+  "filename": "ch_1023_第三十二章 书院的幽灵.txt",
+  "char_count": 3276,
+  "timestamp": "2026-04-10T12:11:34.935555",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "很快便重新稳定下来，那些隐藏在黑暗里，准备配合唐人行动的年轻人，也在神殿执事们的搜捕下纷纷死去，或者逃亡。\n　　现在他的神辇离开阳州城，自然是向北方而去。\n　　长安城就在那个方向。\n　　崇明也在看着长安城，只不过是不同的方向，从成京城望过去，长安在西方，在太阳落下的地方。\n　　如今他已经不再是当年那",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "复强大？\n　　这个困扰着燕国君臣，也令神殿感到极度警惕的问题，随着荒原上更多信息的回流，得到了最接近真相的答案。\n　　有个幽灵。\n　　有个幽灵在荒原上飘荡，身影很娇小，却像魔王一般恐怖，无论是漫天的风雪还是噬人的黄沙，都无法阻止那个幽灵。\n　　左帐王庭法力最强横的大祭司，两年前惨死在月牙海畔，紧接着",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "们离开地狱之前，他不会停止。\n　　……\n　　……\n　　宋国都城邻着海，时已初冬，依然相对温暖，雪花从天空落下，被海风吹的轻颤数下便会融化，很难引起人们的注意。\n　　就像广场前方那名正在传道的男人一样，他穿着很普通的神袍，拿着一卷西陵教典，和普通的神官没有任何区别。\n　　只是他传道的内容，与西陵神殿的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "者，便能改变一场战争的结局。\n　　直到余帘在荒原上开始杀人，直到她用了数年时间杀死了数百名道门强者，人们才渐渐相信，这种事情真的发生了。\n　　这是很令人心寒的一件事情。\n　　崇明很心寒，身体也很寒冷，下意识里紧了紧衣领，收回望向长安城的目光，望向荒原深处，却发现更冷了些。\n　　有风从荒原来，寒冽至极",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "身影很娇小，却像魔王一般恐怖，无论是漫天的风雪还是噬人的黄沙，都无法阻止那个幽灵。\n　　左帐王庭法力最强横的大祭司，两年前惨死在月牙海畔，紧接着又有数名祭司莫名暴毙，到了现在，根本没有祭司敢走出王庭范围。\n　　每隔一段时间，草原深处便会传来骑兵小队覆灭，或是某位军中强者变成血肉堆的恐怖消息。\n　　草",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，有些则是落到地面下方，地面之下依然有世界，那里是阴暗的天坑。\n　　这时候是白天，又有积雪的反光，按道理世界应该是光明的，至少要比别的时候更光明些，然而此时的天坑底部世界，却比别的时候更加阴晦，如同黑夜一般，画面很是模糊。\n　　之所以如此，是因为地底世界的原野到处都在燃烧，因为热泉而经年不冻的青稞田",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "安十载的崇明太子，而是燕国高高在上的皇帝陛下，但对那座城的感情没有发生任何变化。\n　　没有怀念，没有感慨，只有无比的厌憎以及……畏惧。\n　　在他身后，数年前被唐军毁掉的燕国皇宫正在重建，依靠从唐国拿到的战争赔款，美仑美奂的宫殿群不停从废墟里新生――此时的燕国都城，热火朝天，欣欣向荣，从官员到民众都很",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "帐王庭法力最强横的大祭司，两年前惨死在月牙海畔，紧接着又有数名祭司莫名暴毙，到了现在，根本没有祭司敢走出王庭范围。\n　　每隔一段时间，草原深处便会传来骑兵小队覆灭，或是某位军中强者变成血肉堆的恐怖消息。\n　　草原上不断有人死去，包括西陵神殿前去救援的强者，隆庆带到王庭的那些堕落统领，也无法摆脱那只幽",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "民众都很骄傲。\n　　他却还在畏惧。\n　　他在长安城里生活了很多年，他知道唐国是多么的强大，他知道唐人从来不会忘记仇恨，他知道李渔在想什么。\n　　他更知道，如果唐国真的缓过劲来，那么燕国根本无法抵挡对方的铁骑，身后这片刚刚重建好的宫殿，会在很短的时间内，重新变成一片废墟，而李渔绝对会给他难以忘记的报复",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "他的意料。\n　　为什么？为什么数年前荒人部落已经被神殿联军打残了，还能苟延残喘到现在？甚至还似乎开始慢慢恢复强大？\n　　这个困扰着燕国君臣，也令神殿感到极度警惕的问题，随着荒原上更多信息的回流，得到了最接近真相的答案。\n　　有个幽灵。\n　　有个幽灵在荒原上飘荡，身影很娇小，却像魔王一般恐怖，无论是漫",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "佛光，带领人们离开地狱之前，他不会停止。\n　　……\n　　……\n　　宋国都城邻着海，时已初冬，依然相对温暖，雪花从天空落下，被海风吹的轻颤数下便会融化，很难引起人们的注意。\n　　就像广场前方那名正在传道的男人一样，他穿着很普通的神袍，拿着一卷西陵教典，和普通的神官没有任何区别。\n　　只是他传道的内容，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "官没有任何区别。\n　　只是他传道的内容，与西陵神殿的神官明显有些不同。\n　　叶苏看着黑压压的信徒们，说道：“我们每个人都有罪，犯着不同的罪，所以我们需要……赎罪？”\n　　“如果要赎罪，究竟应该寄希望在神国，还是自身？伟大的昊天，自然会响应我们的呼唤，但你我又曾做过什么？”\n　　“不要说自己什么都不能",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

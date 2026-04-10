@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 532,
+  "chapter_title": "第一百七十四章 天赋",
+  "filename": "ch_0532_第一百七十四章 天赋.txt",
+  "char_count": 3557,
+  "timestamp": "2026-04-10T12:05:08.570541",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "离开西林，并不是难事，只怕除了宪章局之外，没有任何部门或组织能够查到踪迹。\n\n    接下来，许乐与众人又商量了很多对策，准备迎接马上就要到来的新闻洪水，刚从战场归来，又要开始作战，只是此次作战的对象变作了无孔不入，无处不在的舆论，众人感觉非常不愉快\n\n    “夜总会的事情可以大肆宣传一下，这可以",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百七十四章 天赋 \n\n    黑色汽车悄无声息地滑进了营房，沉重的大门在身后紧闭。听到风声的兰晓龙等几名军官迎了上来，走进了办公室。因宿醉难消，他们的脸上满是倦色，眼睛里全是血丝，听明白女子单身公寓外发生的事情后，脸色变得严肃难看起来。\n\n    没有过多长时间，许乐紧握着的军用手机嘀",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "他自承与青龙山之叶张小萌是老情人……所以这件丑闻或新闻具备了足够的爆炸力，将联邦民众们炸的津津乐道，愤怒忧郁。\n\n    落日州军营里几乎所有人人手一份报纸，包括七组队员在内，他们放肆嘲笑着许乐的不谨慎，却没有把这件事情看的太重，并不知道这件车情可能带来的麻烦。\n\n    新闻媒体的报道刚刚出来，许",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "亲信，所以才能这么快就查到一些所以然，但依然无法查到那媒体是从哪里获得的情报来源。\n\n    利修竹为什么要这么做？\n\n    许乐睁开眼睛，困惑地思考着，要把自己变成一颗臭鸡蛋，就是因为铁算利家依然没有放弃和费城李家联姻？利修竹依然一心搁在国民少女的身上？\n\n    可是因为简水儿，邹郁，张小萌这",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "黑沉，拍着桌子吼道。\n\n    房间里一片沉默，熊临泉等人互视一眼，然后低下头来，强忍着狂笑的冲动，心想头儿倒真是厚颜无耻，撒谎也能撒的如此理直气壮。\n\n    许乐无奈地摇了摇头，拿起电话走出大门，开始向远在首都星圈的某位夫人求助。\n\n    ………………\n\n    ………………\n\n    第二天",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "闻洪水，刚从战场归来，又要开始作战，只是此次作战的对象变作了无孔不入，无处不在的舆论，众人感觉非常不愉快\n\n    “夜总会的事情可以大肆宣传一下，这可以帮助树立你的正面形象，许教官的无数学生都是战斗英雄，这个感觉很帅的。”兰晓龙叼着电子笔杆，皱眉说道：“关键是昨天夜里，你总得给个话，认还是不认？”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "常不愉快\n\n    “夜总会的事情可以大肆宣传一下，这可以帮助树立你的正面形象，许教官的无数学生都是战斗英雄，这个感觉很帅的。”兰晓龙叼着电子笔杆，皱眉说道：“关键是昨天夜里，你总得给个话，认还是不认？”\n\n    “认个屁！什么事都没发生，我认什么？”许乐的表情黑沉，拍着桌子吼道。\n\n    房间",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "定，想杀自己的人，与那些世家公子，首都星圈的政客们脱离不了关系，利修竹此举或许是为了掩饰什么，又或是将来事败之后，觅一个置身事外的理由。\n\n    “我们从来都不是喜欢挑事儿的人，关键是有人总喜欢把狗屎一样的事儿糊在我们脸上。”\n\n    兰晓龙沉着声音说道，窗外刚刚起床的七组队员们三三两两在晒太阳",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "最大的篇幅报道着前线战事，在三颗沦陷星上联邦政丨府军正在一步步迈向胜利，胜利军事行动的总攻两天之后，进入计划中的缓坡时间段。\n\n    但他们的第三版上，忽然爆出某位年轻中校的花边新闻！\n\n    因为联邦第一宪章严格保护公民**的关系，媒体上没有一张照片出现那幢公寓楼的画面，也没有一句话牵涉到金碧",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "然爆出某位年轻中校的花边新闻！\n\n    因为联邦第一宪章严格保护公民**的关系，媒体上没有一张照片出现那幢公寓楼的画面，也没有一句话牵涉到金碧辉煌夜总会那位女孩儿，新闻标题虽然格外耸动，字语却严格地避开了嫖娼二字，只是用暧昧的言语及生动的推理描写，将读者的情绪一步步勾进某种地沟里。\n\n    联邦",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "宪章局之外，没有任何部门或组织能够查到踪迹。\n\n    接下来，许乐与众人又商量了很多对策，准备迎接马上就要到来的新闻洪水，刚从战场归来，又要开始作战，只是此次作战的对象变作了无孔不入，无处不在的舆论，众人感觉非常不愉快\n\n    “夜总会的事情可以大肆宣传一下，这可以帮助树立你的正面形象，许教官的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "务处军官们愕然，接过这位黑衣中年人递过来的名片。\n\n    看到纯植物长纤维名片上的贺荷二字后，众人同时神情一肃，怎么也想不明白，就是一个例行调查，居然会引动这位西林最出名最难惹的大律师。\n\n    “我们只是请许乐中校配合内务处的调查，不需要什么律师吧？”内务处军官有些难堪说道。\n\n    “许乐",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "从来都不是喜欢挑事儿的人，关键是有人总喜欢把狗屎一样的事儿糊在我们脸上。”\n\n    兰晓龙沉着声音说道，窗外刚刚起床的七组队员们三三两两在晒太阳，大树下锡朋不停低头抽着烟。\n\n    许乐忽然想到公寓楼里那位女孩儿，眼睛眯的很厉害，也不避讳房间里几名可靠的下属，直接对白玉兰说道：“我呆会儿给那个女",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "场律政电视剧的内容？\n\n    “贺荷大律师，我想提醒您，许乐中校是现役军官，我们有要求他配合调查的权力。而且这是军方内部事宜……”\n\n    贺荷面无表情拦话道：“你是想说我是民法律师，不能参与军事法庭的内容？你当初在学校怎么学的”\n\n    “我不是这个意思。”军官强忍着怒意，说道：“许乐中校涉",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "不了关系，利修竹此举或许是为了掩饰什么，又或是将来事败之后，觅一个置身事外的理由。\n\n    “我们从来都不是喜欢挑事儿的人，关键是有人总喜欢把狗屎一样的事儿糊在我们脸上。”\n\n    兰晓龙沉着声音说道，窗外刚刚起床的七组队员们三三两两在晒太阳，大树下锡朋不停低头抽着烟。\n\n    许乐忽然想到公",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "夫人求助。\n\n    ………………\n\n    ………………\n\n    第二天联邦所有的电视媒体保持着安静，而所有的平面媒体和电子媒体则是闹翻了天。\n\n    这些媒体绝大多数的版面依然用最大的篇幅报道着前线战事，在三颗沦陷星上联邦政丨府军正在一步步迈向胜利，胜利军事行动的总攻两天之后，进入计划中的缓",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

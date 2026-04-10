@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 1046,
+  "chapter_title": "第三百六十章 事来如春风拂面，事去如碧水无波",
+  "filename": "ch_1046_第三百六十章 事来如春风拂面，事去如碧水无波.txt",
+  "char_count": 3646,
+  "timestamp": "2026-04-10T12:05:26.975945",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "上奔跑根本没有一刻停顿，军靴踏破壁，身动如风，最轻微的反震力，便能让他的身体高速弹起再次***，仿佛天空红色晚云中有一双无形的巨手，抓着他的双肩不停向上提。\n\n    疗养院大楼很高，残破的墙面很难行，与地面垂直的着脚面很恐怖，然而在身法鬼魅的许乐面前，这些都不是障碍，从他出现在河畔颓垣断树间，到此",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "骤然响起噗噗噗三声闷响！\n\n    三颗来自河对岸的子弹，撕裂空气，精确无比在他身躯上开出三个血洞，瞬间狙毙此人。\n\n    另一名小眼睛特战军人闷哼一声，右脚在地面重重一蹬，奇快无比闪入角落，借助金属文件柜挡住身体。\n\n    子弹射中金属文件柜，发出恐怖的啪啪脆响，柜体不停颤动，却没有被击穿，这",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "地面上的人，也很容易被流弹击中，四壁敞通的楼层内到处都是中弹后的惨呼与惊恐的尖叫。\n\n    在这种危险紧张局面下，楼内没有一个人注意到许乐正在楼外奔跑，事实上也没有谁能够想到，居然有人能够在垂直墙面，所以即便有人余光瞥到有黑影自窗外掠过，也只会认为是惊恐后产生的幻觉。\n\n    陈春雷上校冒着极大",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "养院大楼方向再次启动全方位火力压制，做为正面火力基群，他们的掩护射击非常重要。\n\n    然而在这样紧张的时刻，纪律素质非常优秀的队员当中，居然有好几名杀人时眼睫不屑动的汉子，睁大眼睛张大双嘴，像见鬼一般盯着那边，完全忘记了射击。\n\n    那根一点没点燃的烟卷缓缓自山炮唇角滑落，滚落到脚底滚烫的弹",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "中，激起无数金色的水花。\n\n    河水并不湍急却足够深，第四快速反应旅某营官兵一边忙着救战友，一边愤怒地寻找过河方法，眼睁睁看着远处那座山间子弹呼啸出梅林，却没有任何办法。\n\n    桥对面某树梅枝下，白玉兰点燃唇间的香烟，望着河那边的敌人微微一笑，大拇指下意识里想要去拂额前荡着的发丝，却再次拂空",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "束。\n\n    脸色苍白的他浑身颤抖走到窗边，看着悬崖似的断壁，盯着河畔那几个身影，脑中忽然闪过一个念头。\n\n    “不！不能就这样结束！”\n\n    他站在窗边，大声呼喊着，近乎疯狂地挥动手臂示意部属追击，再也不在意对面梅山上狠辣的狙击步枪。\n\n    梅山枪声稍疏，在严令之下，疗养院大楼下面几",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "。\n\n    高速下坠！\n\n    虚弱的伍德记者紧紧闭着眼睛，不让自己发出丢脸的尖叫，鲍勃主编却是拼命挣着眼睛，瞪着高速扑来的地面，他相信许乐不会让自己死，但就算下一刻就要死，他也想要完整体会此时神奇的感受。\n\n    那晚风吹来清凉，呼啸拂打在脸上，主编先生的花白头发在风中凌乱不堪。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "院大楼内却是另一番场景，凌厉恐怖的达林机炮弹雨，对这幢大楼中间一片区域造成了极大的伤害。\n\n    无数拳头大小的开花弹孔出现在墙壁上，虽然不是刻意寻找有生力量进行狙灭，但如此猛烈的射击，就算是匍匐在地面上的人，也很容易被流弹击中，四壁敞通的楼层内到处都是中弹后的惨呼与惊恐的尖叫。\n\n    在这种",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的战斗部队已经做好出击准备，马上就将对河对面的梅山发起突击。\n\n    然而他的脸色依然苍白，不知道为什么，这两个好消息并没有让他情绪变得平静下来。\n\n    或许是因为猜到梅山里那些枪手的身份，从而联想起某个小眼睛男人，虽然他并不知道就在此时，那个小眼睛男人正在他身后的垂直墙壁向，可他依然强烈不安",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "大楼很高，残破的墙面很难行，与地面垂直的着脚面很恐怖，然而在身法鬼魅的许乐面前，这些都不是障碍，从他出现在河畔颓垣断树间，到此时快要到达顶层，也不过就是眨几次眼睛的时间。\n\n    熊临泉如钢铁铸成的粗壮双臂上，肌肉强悍突出，双手间的六管达林机炮依然不停高速嗡鸣旋转，数千发子弹向对面大楼倾泄而出，追",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "！\n\n    陈春雷上校瞪圆了双眼，看着刚刚走到河畔的许乐三人，他不相信那个小眼睛男人能够这样轻松的离开，有深河挡在前方，就算你无所不能，我拿士兵的命去填也要填死你！\n\n    晚风渐趋轻柔，河水渐趋平静，金光渐趋黯淡，如一面仿古铜铸的镜。\n\n    忽然间！\n\n    河水开始猛烈翻滚，白色的浪头",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "一句话，并不需要太长的时间。\n\n    顶层最深处的那间囚室内，负责看押鲍勃主编和伍德记者的两名军人同时端起手中的枪，对准二人的身体。\n\n    靠近墙外的那名小眼睛特战军人，食指搭在扳机上似乎下一刻狠狠按下，房间里骤然响起噗噗噗三声闷响！\n\n    三颗来自河对岸的子弹，撕裂空气，精确无比在他身躯",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "烟卷缓缓自山炮唇角滑落，滚落到脚底滚烫的弹壳堆中，发出一阵焦糊香味，他望着楼面上许乐的身影，声音微哑问道：“头儿刚才没听到我唱歌嘲笑他吧？我可不想被这么个怪物盯上。”\n\n    ……\n\n    ……\n\n    梅树间的七组队员们陷入了震惊，河对岸的疗养院大楼内却是另一番场景，凌厉恐怖的达林机炮弹雨，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "不屑动的汉子，睁大眼睛张大双嘴，像见鬼一般盯着那边，完全忘记了射击。\n\n    那根一点没点燃的烟卷缓缓自山炮唇角滑落，滚落到脚底滚烫的弹壳堆中，发出一阵焦糊香味，他望着楼面上许乐的身影，声音微哑问道：“头儿刚才没听到我唱歌嘲笑他吧？我可不想被这么个怪物盯上。”\n\n    ……\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "微一笑，大拇指下意识里想要去拂额前荡着的发丝，却再次拂空，于是开始把玩那把秀气的军刺，明亮刀芒在冬日温暖如春的风中细腻画着图案。\n\n    负责断后的只有他一个人，这场战斗注定他最后撤离，自然也是最为危险，所以……必须只有他一个人。\n\n    插前排……\n\n    ……\n\n    收到该营营长焦急回",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

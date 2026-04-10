@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 483,
+  "chapter_title": "第一百二十五章 锋利",
+  "filename": "ch_0483_第一百二十五章 锋利.txt",
+  "char_count": 3393,
+  "timestamp": "2026-04-10T12:04:59.245596",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "远去的车队，脸色苍白，想到那些端枪的汉子，想到先前脖子的那把刀……他能清晰地感觉到，先前如果真的发生冲突，那把刀真会把自己的颈动脉割开，而那些卡宴机枪和那把达林真的敢开火！\n\n    钟家少爷的后背涌出无数颗细小的寒粒，忍不住打了一个寒颤，原本的愤怒与复仇的心态，被那股寒意击碎的满地都是。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "郎，郎心不如铁，他的目光却如铁，冷且强硬，竟似要把鼻梁的宽幅墨镜片都震出裂纹来。\n\n    钟子期正愤怒于国民少女的嘲讽，忽然感受到这一双目光，无来由地感到浑身一寒。片刻后，他毫不示弱地缓缓抬起头来，冷冷地直视许乐的双眼。\n\n    在很多人看来，甚至是在他自己看来，依仗着钟家那头老虎的宠爱，毫无疑",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，冷冷地直视许乐的双眼。\n\n    在很多人看来，甚至是在他自己看来，依仗着钟家那头老虎的宠爱，毫无疑问他是西林钟家唯一的继承人，这种身份让他有太多骄傲与狂妄的资格，当日在金星酒店，就连李封这个真正的疯子，都不敢把自己一枪崩了，更何况是面前这个年轻的中校。\n\n    那日之后，钟子期十分用心地查了一",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "钟家军人，轻轻伸手将枪管拨开，向自己的军车走去。\n\n    “真是一场好戏。”兰晓龙微笑看着这一幕，心想七组的家伙们终于明白要提头儿出头，应该要摆出怎样的阵势，而国防部那些大老们一定很喜欢今天这场略显俗套的剧目。\n\n    “收队。”他收敛心神，笑着向钟子期敬了一个军礼，挥手示意端着无数把大枪，时刻",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "人员，有几个人的手已经伸进了黑色正装里面，伸手的动作很自然寻常轻松，就像是摸烟一样。\n\n    场间众人谁都知道这些人摸的肯定不是烟，而是那些锐利的杀人武器，偏生他们没有刻意遮掩，只是面无表情地做了出来，一股足够的震慑力，就随着伸手入怀的简单动作喷薄而出。\n\n    联邦严格管制枪械，除了西林钟家这",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "叔都认不出你是谁。”\n\n    许乐不是装酷的人，他这句话也并没有刻意从牙缝里逼将出来，带着落日州的风，只是很平直简单地叙述一个道理，因为简单而显得格外可信。\n\n    人有名字，树有影子。换成是一位普通的联邦中校说出这样一句话来，钟子期只会觉得荒谬到极点，放肆的捧腹大笑，然后面色一肃把这名中校整治",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "保镖在身旁，钟子期并不担心自己的安全，反而有些羞愧于先前被许乐的冷冽目光震住，表情微沉盯着许乐，冷冷说道：“许乐中校……”\n\n    许乐根本没有听他的说话，眯着的眼眸里亮光渐渐敛去，前牵住简水儿的手，干净利落地转身，向着黑色汽车走去。\n\n    钟子期脸色剧变，这种被无视的羞辱，实在已经到了他以及",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "许乐不是装酷的人，他这句话也并没有刻意从牙缝里逼将出来，带着落日州的风，只是很平直简单地叙述一个道理，因为简单而显得格外可信。\n\n    人有名字，树有影子。换成是一位普通的联邦中校说出这样一句话来，钟子期只会觉得荒谬到极点，放肆的捧腹大笑，然后面色一肃把这名中校整治到生死不知。\n\n    然而",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "跟着走了来，警惕地注视着四周七组的战斗人员，有几个人的手已经伸进了黑色正装里面，伸手的动作很自然寻常轻松，就像是摸烟一样。\n\n    场间众人谁都知道这些人摸的肯定不是烟，而是那些锐利的杀人武器，偏生他们没有刻意遮掩，只是面无表情地做了出来，一股足够的震慑力，就随着伸手入怀的简单动作喷薄而出。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。\n\n    然而说出这句话的是许乐，于是这句段位极低，极没有趣味的粗俗威胁，从薄薄的双唇里吐出来，瞬间变成冷冽到极点的5460极北冰川阴风，呼啸着在阔平的停机起降坪刮过，让所有人都感到了无穷寒冷。\n\n    许乐此人拥有与李疯子抗衡的个人战斗力，又有像林半山一样不守规矩的恶名。首都星圈那些千世家族",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "钟子期正愤怒于国民少女的嘲讽，忽然感受到这一双目光，无来由地感到浑身一寒。片刻后，他毫不示弱地缓缓抬起头来，冷冷地直视许乐的双眼。\n\n    在很多人看来，甚至是在他自己看来，依仗着钟家那头老虎的宠爱，毫无疑问他是西林钟家唯一的继承人，这种身份让他有太多骄傲与狂妄的资格，当日在金星酒店，就连李",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "身后，他们都是西林军区退役的特种尖兵，实力异常强悍。\n\n    有这样一群厉害保镖在身旁，钟子期并不担心自己的安全，反而有些羞愧于先前被许乐的冷冽目光震住，表情微沉盯着许乐，冷冷说道：“许乐中校……”\n\n    许乐根本没有听他的说话，眯着的眼眸里亮光渐渐敛去，前牵住简水儿的手，干净利落地转身，向着",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "底气便在于此，虽然再愤怒的他，也不可能堂而皇之调两个营来把许乐灭在当场，但自幼成长于军区大院里的剽悍性格，却让他有了在许乐面前拔枪的冲动。\n\n    他眼神冷戾地看着许乐，那神情似乎是在说，你来揍我，你来揍我。\n\n    ……\n\n    ……\n\n    来的不是许乐的拳头，而是一把秀气的军刀。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "“收队。”他收敛心神，笑着向钟子期敬了一个军礼，挥手示意端着无数把大枪，时刻准备开枪的七组队员们离开。\n\n    烟尘在风中弥漫挥散，钟子期捂着肚子，怔怔地看着远去的车队，脸色苍白，想到那些端枪的汉子，想到先前脖子的那把刀……他能清晰地感觉到，先前如果真的发生冲突，那把刀真会把自己的颈动脉割开，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 803,
+  "chapter_title": "第一百八十四章 放声而笑（上）",
+  "filename": "ch_0803_第一百八十四章 放声而笑（上）.txt",
+  "char_count": 2381,
+  "timestamp": "2026-04-10T12:11:27.234001",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "最精细的黄沙。\n　　盘中有河山，每粒沙便是大好河山里的一座山峰，一座石桥。\n　　黄沙狂舞于青峡之前，天空被遮掩，原野间变得昏暗无比。\n　　西陵神殿骑兵，杀进了黄沙之中，便迷了眼，误了道。\n　　黄沙之中，不时传来凄厉的惨叫，还有重物撞击的声音。\n　　不知过了多长时间，黄沙渐渐飘落。\n　　青峡之前回复平",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "看着像铁流般涌来的骑兵，看着那些隐现于空中的剑光，举起了河山盘。\n　　四师兄的脸色变得极度苍白，脸颊瞬间瘦削了不少。\n　　他把自已的念力尽数灌注进河山盘中。\n　　河山盘是沙盘，里面是最精细的黄沙。\n　　盘中有河山，每粒沙便是大好河山里的一座山峰，一座石桥。\n　　黄沙狂舞于青峡之前，天空被遮掩，原野间",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，发现平日里的下属，大部分都已经死去，但是她和他们最终还是获得了胜利。\n　　南方的青峡外，也已到了最危险的时刻，君陌手握铁剑，神情疲惫，有如深秋的青山，静美依然，奈何黄叶将落。\n　　书院后山弟子都站在他的身后，看着原野上再次掀起的烟尘，听着铁蹄的声音，沉默不语，等待着最后那一刻的来临。\n　　木柚伸出",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "刀早已断成了两截，她擦掉脸上的血水，向战场四周望去，发现平日里的下属，大部分都已经死去，但是她和他们最终还是获得了胜利。\n　　南方的青峡外，也已到了最危险的时刻，君陌手握铁剑，神情疲惫，有如深秋的青山，静美依然，奈何黄叶将落。\n　　书院后山弟子都站在他的身后，看着原野上再次掀起的烟尘，听着铁蹄的声音",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "到手中的河山盘变得轻了很多，他稍一感知，震惊发现沙盘河山里竟再也找不到那道虚剑的踪影！\n　　青峡前的人们，并不知道长安城究竟发生了什么，但观主的虚剑消失，只有一种可能，那就是观主死了，或者废了。\n　　四师兄很清楚书院在长安城的准备，知道师兄师姐和小师弟，正在想尽一切办法杀死观主，但他其实对此并没有抱",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "时即便是他，也艰难地走出铁篷。\n　　既然同门，自然应该同生，而且共死。\n　　西陵神殿联军的骑兵，再次来到青峡前。\n　　七日时间，书院诸弟子不知打退了西陵神殿联军多少次冲锋，无论是他们还是神殿联军方面，对这种画面都已经熟悉到有些厌烦。\n　　这一次想必会有些不一样。\n　　这一次大概会是最后一次。\n　　便",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "观主败了。”\n　　他的声音之所以沙哑，除了在那道虚剑下苦苦支撑数日所产生的疲惫，更多是因为难以抑止的激动和不可置信所带来的惘然。\n　　书院诸人都听到了这句话。\n　　一片安静。\n　　忽然，君陌举起铁剑指向原野，放声大笑起来。\n　　北宫未央放声大笑，乱拔琴弦。\n　　西门不惑放声大笑，用箫管拍打着手掌。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "了很多，他稍一感知，震惊发现沙盘河山里竟再也找不到那道虚剑的踪影！\n　　青峡前的人们，并不知道长安城究竟发生了什么，但观主的虚剑消失，只有一种可能，那就是观主死了，或者废了。\n　　四师兄很清楚书院在长安城的准备，知道师兄师姐和小师弟，正在想尽一切办法杀死观主，但他其实对此并没有抱太大希望。\n　　因为",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，来到青峡之前。\n　　他们走了数日数夜，不眠不休，终于走到了这里。\n　　镇南军到了，这就够了。\n　　出现在青峡之前的是一只疲敝之师。\n　　但没有任何人敢否认，他们是一只威武之师。\n　　便在这时，南方的原野间，传来鸣金的声音。\n　　西陵神殿联军的骑兵们，看着青峡前那些唐军，神情极为复杂，有些不甘，有些",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "河山盘里的虚剑消失无踪，那么无论他相信或是不相信，都表明长安城里肯定发生了什么事情。\n　　他声音微哑说道：“观主败了。”\n　　他的声音之所以沙哑，除了在那道虚剑下苦苦支撑数日所产生的疲惫，更多是因为难以抑止的激动和不可置信所带来的惘然。\n　　书院诸人都听到了这句话。\n　　一片安静。\n　　忽然，君陌举",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "渐渐飘落。\n　　青峡之前回复平静，原野间多了很多骑兵和战马的尸体。\n　　河山盘并不能改变书院弟子们的命运。\n　　因为神殿联军，在稍一整队之后，准备再次发起冲锋。\n　　便在这时，莽莽群山间，忽然走出来了一个唐兵。\n　　这名唐兵看上去非常狼狈，蓬头垢面，浑身泥土，盔甲早已不知何时被扔到山涧里，衣服也被山",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "产生的疲惫，更多是因为难以抑止的激动和不可置信所带来的惘然。\n　　书院诸人都听到了这句话。\n　　一片安静。\n　　忽然，君陌举起铁剑指向原野，放声大笑起来。\n　　北宫未央放声大笑，乱拔琴弦。\n　　西门不惑放声大笑，用箫管拍打着手掌。\n　　六师兄憨厚一笑，把手里的铁锤握的更紧了些。\n　　王持微微一笑，鬓",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

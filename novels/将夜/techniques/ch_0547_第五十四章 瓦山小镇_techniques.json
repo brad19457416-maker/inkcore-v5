@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 547,
+  "chapter_title": "第五十四章 瓦山小镇",
+  "filename": "ch_0547_第五十四章 瓦山小镇.txt",
+  "char_count": 3258,
+  "timestamp": "2026-04-10T12:11:26.571571",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "他记忆中的某些画面重叠起来，片刻后他想起，在自己曾经做过的数个梦中，他曾在荒原那头看见了三道黑色的旋风烟尘。\n　　那三道黑色的烟尘透着冷酷与幽暗的味道，仿佛是黑夜的一部分，此时细细想来，还真与那日隆庆与堕落骑士身上透出的意味相似。\n　　宁缺越发觉得隆庆当日说的话也许是真的，那个学会吃人并且爱上吃人的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "浑霸道，也禁不住这等豪奢夸张的做法，脸色变得越来越憔悴。\n　　桑桑没有劝阻他，因为她知道劝阻没有任何意义，也不会产生任何效果，如果现在病的是宁缺，她也会做同样的事情，而宁缺也不会劝阻她。\n　　她每天看着窗外秋日风景，或者是窗畔宁缺的脸，小脸上露着平静的微笑，对她来说，现在只要是风景都好看，哪怕秋风秋",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "这个女人，她既然说会亲自去杀隆庆，那么隆庆必然难逃一死。\n　　看着窗外的秋色，回忆起那场秋雨里的血腥战斗，破庙前的堕落骑士幽冥般的身影和穿着一身黑色道衣的隆庆，忽然与他记忆中的某些画面重叠起来，片刻后他想起，在自己曾经做过的数个梦中，他曾在荒原那头看见了三道黑色的旋风烟尘。\n　　那三道黑色的烟尘透着",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "然想起来自己是在追哥哥，惊叫一声站了起来，正在她有些害怕的时候，她那约摸七八岁的哥哥不知道什么时候从人群里挤了回来，看着她嘿嘿得意笑着，然后从腰间掏出两块铜板塞到了她的小手里。\n　　于是石池里的红鱼不再那般安宁，水花微溅，池畔附着的经年青苔，都有了剥落的痕迹，街道上不时响起兄妹二人失望的叹息和惊喜的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "话本来就不多，现在愈发的沉默。\n　　她不知道烂柯寺那位长老能不能治好自己奇怪的病，不知道自己还有没有将来，如果有会是怎样的将来，这种不知道所产生的惘然恐惧，便是沉默的原因。\n　　宁缺明白她现在的心情，却没有说什么，因为他知道桑桑的性情。\n　　看似温和实则倔强的桑桑，从来都不喜欢被安慰，因为这些年她和",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "他修好最后一根铁箭时，车厢外传来了嘈杂的人声。\n　　桑桑掀起窗帘，向前方望去，只见南方的丘陵间，突兀出现了数座形状方正怪异的山峰，那些山峰顶部平直如削，看上去就像是屋檐上的黑瓦。\n　　瓦山到了。\n　　……\n　　……\n　　在昊天的世界里，佛宗千年沉默，闭门修行，偶有入世，也是甘为道门的附庸，更多的是以",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "上奔跑追逐，有女童气喘吁吁追着自己的兄长，小脸上满是委屈的神情，忽然在道畔的石池里看到了数百尾红鱼，马上蹲了下来，睁大眼睛看着那些平静游动的鱼儿，早就忘了自己要找到哥哥哭上一场。\n　　站在石池旁的中年男人，看着女童笑了笑，递过一根细木棍，细木棍那头绑着个只有茶盅大小的细网兜。女童看了看身后正在摸钱的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的淡然。\n　　这里是后山，如果要往烂柯寺去，从这条山道上去，永远无法抵达正殿。\n　　但黑色马车此时正缓缓向山道上去。\n　　宁缺带着桑桑来瓦山，本来就不是要去烂柯寺，他是要去后山找人。\n　　烂柯寺后的幽山里，住着避世隐居的数代佛宗大德。\n　　宁缺要找的便是其中一位。\n　　便是他已经听人提起过无数次的那",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "座，这时候应该正在捕杀隆庆的道路上，按道理来说，哪怕不是朋友，仅仅出于感激，他也应该表示出一定程度的担心，但他并没有。\n　　宁缺对叶红鱼有绝对的信心――如今的隆庆皇子确实非常恐怖，那场秋雨之战里，如果不是命好，他只怕早便死了――但他始终认为年轻一代的修行者里，最恐怖的还是叶红鱼这个女人，她既然说会亲",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "原因。\n　　宁缺明白她现在的心情，却没有说什么，因为他知道桑桑的性情。\n　　看似温和实则倔强的桑桑，从来都不喜欢被安慰，因为这些年她和宁缺是拼了命才活下来的，所以她知道无论遇到什么情况都不能软弱，越软弱越容易死，而如果因为被安慰而感动，那便是软弱的开端。\n　　宁缺没有安慰她，只是更多地把她抱在怀里，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，也显得并不凄厉绝望，而带着解脱的淡然。\n　　这里是后山，如果要往烂柯寺去，从这条山道上去，永远无法抵达正殿。\n　　但黑色马车此时正缓缓向山道上去。\n　　宁缺带着桑桑来瓦山，本来就不是要去烂柯寺，他是要去后山找人。\n　　烂柯寺后的幽山里，住着避世隐居的数代佛宗大德。\n　　宁缺要找的便是其中一位。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "要做的就是享受节日的气氛。\n　　瓦山下的小镇里已经有很多游客，这些游客不知来自何方，脸上都带着相同的幸福笑容，大人们微笑着彼此问好，在那些传说中的千年老屋里游玩欣赏，孩子们在街道上奔跑追逐，有女童气喘吁吁追着自己的兄长，小脸上满是委屈的神情，忽然在道畔的石池里看到了数百尾红鱼，马上蹲了下来，睁大眼睛",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

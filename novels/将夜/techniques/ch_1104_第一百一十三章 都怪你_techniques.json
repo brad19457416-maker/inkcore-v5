@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1104,
+  "chapter_title": "第一百一十三章 都怪你",
+  "filename": "ch_1104_第一百一十三章 都怪你.txt",
+  "char_count": 3450,
+  "timestamp": "2026-04-10T12:11:34.916992",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "你就应该做到你承诺的事情，和我一起回长安，不管你怎么回，哪怕死了，也要回。\n　　房间里忽然拂起一阵微风，墙壁上的积尘被拂落，然后吹至角落。\n　　一个人出现在符阵外。\n　　桑桑抬头望去，发现不是宁缺，神情微惘，然后平静如前。\n　　酒徒看着她，却无法保持平静，先前在战斗里受了伤，一直有些轻微地呕血，此时",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "传送阵，都需要消耗极其恐怖数量的珍稀资源，所以人间传送阵的数量极少，而且渐渐变成鸡肋一样的存在，战略意义变得越来越弱。\n　　桑桑对于今日的局面早已推算出来，自然也做了很多准备，气泡上面的那些光点便是人间的传送阵位置，其中有些传送阵甚至已经废弃了数万年之久，除了她根本没有任何人类知晓，哪怕是观主也不知",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。\n　　桑桑抬头望去，发现不是宁缺，神情微惘，然后平静如前。\n　　酒徒看着她，却无法保持平静，先前在战斗里受了伤，一直有些轻微地呕血，此时看着她，心神激荡之下，唇角又有血溢了出来。\n　　当初在小镇里见到她，在南海那座岛上见到她，他跪在了她的身前，以额触地，浑身颤抖，谦卑到了极点，因为她让他感到恐惧。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "唇角又有血溢了出来。\n　　当初在小镇里见到她，在南海那座岛上见到她，他跪在了她的身前，以额触地，浑身颤抖，谦卑到了极点，因为她让他感到恐惧。\n　　他在人间躲了她无数年，那份恐惧便缠绕了他无数年，让他的精神日渐朽坏，直入骨髓，根本无法摆脱。\n　　此时，他的身体也在微微颤抖，明明知道她现在已经变得很虚弱",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "军来说，宁缺给他们留下的印象太深刻，一片忙乱里，只是看了眼，便确认了他的身份，他们虽然不知道十三先生为什么会忽然出现在这里，却下意识里开始听从他的命令，在将领们的指挥下，开始向城外撤去。\n　　宁缺站在陡峭的石阶下，抬头望向贺兰城上方正在逐渐倾塌的箭楼，感觉到了什么，双腿发力，像道轻烟一般向上疾掠。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "给他们留下的印象太深刻，一片忙乱里，只是看了眼，便确认了他的身份，他们虽然不知道十三先生为什么会忽然出现在这里，却下意识里开始听从他的命令，在将领们的指挥下，开始向城外撤去。\n　　宁缺站在陡峭的石阶下，抬头望向贺兰城上方正在逐渐倾塌的箭楼，感觉到了什么，双腿发力，像道轻烟一般向上疾掠。\n　　……",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "见到她，他跪在了她的身前，以额触地，浑身颤抖，谦卑到了极点，因为她让他感到恐惧。\n　　他在人间躲了她无数年，那份恐惧便缠绕了他无数年，让他的精神日渐朽坏，直入骨髓，根本无法摆脱。\n　　此时，他的身体也在微微颤抖，明明知道她现在已经变得很虚弱，硬接观主那座山脉一击后，再也没有什么战斗力，可是……他还是",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，有些不解。\n　　以前没有人能打破她的世界，即便无敌于人间的剑圣柳白，也只能把剑刺进她的世界，让剑锋来到她的身前一尺，便变成了岁月化成的灰。\n　　但现在，酒徒如此疯疯癫癫的一剑，便轻易地破开了她的世界。\n　　她的眉蹙的更紧了些，因为不悦，也因为痛楚。\n　　痛楚的感觉，她曾经有过，却从未像此时这般真切",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "池塘里。\n　　是的，就是这种美妙的感觉，那些曾经的卑微与恐惧，都变成了近乎疯狂的快意与凌虐渴望，想到马上这一切都会变成真实的，他的身体再次颤抖起来。\n　　这一次不再是因为恐惧，而是因为兴奋。\n　　酒徒大声笑着，甚至笑出泪来，声音依然像旧铜器摩擦那般难听，仿佛真的有无数铜屑被磨成粉末，堆在他的身前，像",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "先生推倒在池塘里。\n　　是的，就是这种美妙的感觉，那些曾经的卑微与恐惧，都变成了近乎疯狂的快意与凌虐渴望，想到马上这一切都会变成真实的，他的身体再次颤抖起来。\n　　这一次不再是因为恐惧，而是因为兴奋。\n　　酒徒大声笑着，甚至笑出泪来，声音依然像旧铜器摩擦那般难听，仿佛真的有无数铜屑被磨成粉末，堆在他",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "和桑桑不见得需要七日，或者便能回到长安城，他要做的事情，只是尽力而为。\n　　观主看着手里剑，神情平静说道：“夫子教你以仁爱，本以为你与君陌的性情不同，未料到，你终究还是书院的弟子。”\n　　大师兄静静看着他，插在肋间那柄壶中剑，不知何时落在他的身后的地面上，他说道：“书院弟子向您请教。”\n　　简短谈话",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "房间里死寂一片。\n　　天地间死寂一片。\n　　桑桑低头，望向自己的小腹，看着那把锋利的剑，看着那里缓缓渗出的血水，微微蹙眉，似乎有些意外，有些不解。\n　　以前没有人能打破她的世界，即便无敌于人间的剑圣柳白，也只能把剑刺进她的世界，让剑锋来到她的身前一尺，便变成了岁月化成的灰。\n　　但现在，酒徒如此",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

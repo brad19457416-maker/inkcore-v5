@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 347,
+  "chapter_title": "第二十九章 毕业日（下）",
+  "filename": "ch_0347_第二十九章 毕业日（下）.txt",
+  "char_count": 4650,
+  "timestamp": "2026-04-10T12:04:59.261744",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "七小组成员一直稀稀松松站着，听到许乐这句感慨，包括兰晓龙少校在内，所有人都精神为之一振，点头如捣蒜，心想你在课堂上装酷那小样儿，谁瞧不出来是假的？台上那位师长大人却不是装酷，那是真酷。\n\n    如果此时正在群山中冒着枪林弹雨，指挥部队作战的军官生们听到许乐的感慨，想必也会生出相同的看法。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "得压倒性的胜利，而且杜少卿也没有亲自指挥，可是看着此时的态势，他总觉得不妙。\n\n    军演指挥部里众人大概也有与他相同的感觉，虽然这些职业军官们早就习惯了铁七师在军演中的不可战胜，但今天参演的另一方是联邦重点培养的优秀军官，专门为了迎接与帝国间的惨烈战争，结果还是打成这样……\n\n    场间位阶最",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "演帝国部队地铁七师。此时在军演中已经取得了先手。强行攻下了１92220345区域一处高地。占据了相当大地优势。在这个过程中。军官生一方地部队虽然提前推演出了对方地战术意图。但却无法阻拦铁七师地推进。只能眼睁睁看着自己地侧方被撕开了一道大口子。\n\n    铁七师是一支格外强悍地部队。他们习惯了胜利。却",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "次军演他肯定是留在了联合纵队指挥营地里，负责整个纵队地指挥。\n\n    想到周玉正在指挥联合纵队，在寂静岭生生挡住了铁七师冷酷恐怖的攻势，又想到与自己关系无比深切的mx机甲，在此次军演中必将大放光彩，许乐便是一块石头，也不禁感到了一丝自豪与骄傲。\n\n    可惜他无法从此次军演中学到指挥部队的能力，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "由。\n\n    周玉和花小司是军官中的焦点人物，因为在此次军演中，周玉负责全局战术推演，花小司负责最危险的那次突袭，两个人是最大的功臣。\n\n    花小司的眉毛都挑了起来，说不出的愉悦，周玉却依旧是那副温润君子模样，微笑应答。\n\n    便在此时，略显混乱的队伍忽然安静了下来，因为负责视察总结的将军",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "设定了五个战术目标，在mx机甲大放光彩和军官生们精确冷静的指挥下，联合纵队在演习后半段内，强势反扑，最终凭借着攻击群最后时刻的力，完成了其中的两个。而以常规姿态出战的铁七师，则一如既往地强悍，这支铁血部队完全无视在演习后段遭受到的意外打击，沉默地甚至有些平静地完成了三个战术目标。\n\n    铁七师的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "人，看着三十七块光幕上不停闪过的专业名词和术语，以及不停减少增加的数值曲线，完全看不明白，此时的军演究竟进展到了哪一步。\n\n    兰晓龙看了一眼他地侧脸，看出他的尴尬，压低声音解释了几句。许乐这才大概了解了此时军演的态势展。\n\n    扮演帝国部队地铁七师。此时在军演中已经取得了先手。强行攻下了１",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "感觉。\n\n    ……\n\n    ……\n\n    许乐微感忧虑地看着光幕，听着兰晓龙详细地讲解，十分担心山里面那些学员。虽说今天的铁七师扮演帝国部队，按道理来说军演指挥部不会让他们获得压倒性的胜利，而且杜少卿也没有亲自指挥，可是看着此时的态势，他总觉得不妙。\n\n    军演指挥部里众人大概也有与他相",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "昏头脑。只会因此而产生绝对地信心与勇气。这样一支恐怖地部队。却一直没有上过西林正面战场。长久地不满与愤怒之下。铁七师团长到普通士兵。心中都有一股火焰。每次参加联邦军演时。他们都想要把这种火焰喷吐出来。如此方能不会焚坏自己地脏腑。\n\n    他们把每一次军演都当成真正地战斗。将整个部队地遗憾。用兄弟部",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "乐微感忧虑地看着光幕，听着兰晓龙详细地讲解，十分担心山里面那些学员。虽说今天的铁七师扮演帝国部队，按道理来说军演指挥部不会让他们获得压倒性的胜利，而且杜少卿也没有亲自指挥，可是看着此时的态势，他总觉得不妙。\n\n    军演指挥部里众人大概也有与他相同的感觉，虽然这些职业军官们早就习惯了铁七师在军演中",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "分割突袭，烟火阵阵。\n\n    军演指挥厅里地将领们看着光幕，不由齐齐出了惊叹，这是联邦新式mx机甲第一次在大型战斗中展露真实的威力，完全推翻了众人以往对机甲笨重强大的固有印象，并且取得了非常明显的战果。\n\n    特种机甲营匹马当先的那台黑色mx机甲，战术动作极为标准，凌厉生辣至极。\n\n    许",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "些军官，并没有给军方丢大脸。\n\n    ……\n\n    ……\n\n    军演结束之后，各参战部队陆续离开了基地，许乐看着遮天蔽日的那些军机运输舰，不禁有些纳闷，都说联邦晶矿资源匮乏，但为一场军演，便能从s2数千人过来，看来联邦为了准备与帝国间的战争，真的是不惜任何代价。\n\n    旋即他转过头来，看",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "当先的那台黑色mx机甲，战术动作极为标准，凌厉生辣至极。\n\n    许乐眯着眼睛看着这台机甲的动作，马上便判断出里面地机师肯定是花小司，他教了他们两个多月，对这些军官们的机甲动作熟悉到可以在脑中复放，自然能够通过某些动作习惯和细节，判断出机师是谁。\n\n    花小司是机甲考核地并列第一名，自然要担任",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "场第一线，他看了很久才现周玉并不在这八台mx机甲之中，转念一想便明白，周玉虽然操控机甲非常厉害，但他同时也是战术推演里的第一名……仅比阿源要差一些，此次军演他肯定是留在了联合纵队指挥营地里，负责整个纵队地指挥。\n\n    想到周玉正在指挥联合纵队，在寂静岭生生挡住了铁七师冷酷恐怖的攻势，又想到与自己",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "起来，说不出的愉悦，周玉却依旧是那副温润君子模样，微笑应答。\n\n    便在此时，略显混乱的队伍忽然安静了下来，因为负责视察总结的将军已经走了过来，令大家完全意想不到的是，走过来的人居然是铁七师师长杜少卿。\n\n    场间顿时变得鸦雀无声，军官们挺直胸膛，双眼情绪微显热烈，如果能得名将杜少卿之赞扬，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "毕业日（下） \n\n    乐看着杜少卿，想到对方职业军官似乎天然的冷酷画奇峰却画成小山坡的尴尬，不禁轻声感慨了一句。『小说齐全更新超快』这声感慨声音虽低，却还是落在了他身旁第七小组成员的耳中。\n\n    从军演列队开始，第七小组成员一直稀稀松松站着，听到许乐这句感慨，包括兰晓龙少校在内，所有人都精神",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

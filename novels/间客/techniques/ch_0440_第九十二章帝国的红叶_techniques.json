@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 440,
+  "chapter_title": "第九十二章帝国的红叶",
+  "filename": "ch_0440_第九十二章帝国的红叶.txt",
+  "char_count": 3452,
+  "timestamp": "2026-04-10T12:04:59.253137",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "雪山。并不打算做什么。以远征军当前的情况。他也无法做什么。远征军的附属太空舰队。顶多只能困守住北边的天空。根本无法阻止对方的增援。\n\n    事实上。如果不是联邦的晶矿资源已然匮乏。这老将军真的无法想像。在联邦舰队的主炮连续攻击|。自己这只孤。究竟能坚持几天。\n\n    帝国一直不惜巨大财力物力。绕",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "声音回荡在空的指挥室中。久不曾散去。被常年艰苦战思乡之情折磨的快要发的军官们。即便不是真的激动。可在同僚们面前。依然挣的满脸通红。似乎不这样做不能表现出对皇帝陛下狂热的忠诚。只可惜有名军官压抑不住咳嗽。&9;声连连。稍微冲淡了一些房间里的狂热情绪。\n\n    “诺曼。病了就休息吧。那些事情",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "去做。实在不行。太空里那可怜的战舰也可以去追追。”\n\n    在军官们坐下后。将军温和望着咳嗽的军官说道。余光里却注意到下属的军官们又回复了先前的麻木表情。\n\n    南边那些联邦军人天天梦想着在北半球重新构织起宪章光辉。不计成本施放卫星和电子控设备。而北半球的帝国远军则是天天打。双方似乎形成了某默",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "眸里闪过一丝凛意。因为他发现诺曼军官和指挥室里的很多人都走出了基的。似乎正在等待自己。\n\n    “紧急军报。”诺曼军官递上了一分绝密电子文件。\n\n    安布里老将军看了两眼。表情极阴郁。握着电子文件的苍老手指微微颤抖。沉声说道：“部什么时候有权利对远征军的具体军事行动指手划脚？一群蠢货。”",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "树应该已经长起来了才对。”\n\n    老将军脱下手套轻拍联邦的冬树想故土的红叶。苍老的脸上浮现出一丝温暖的情绪心里却清楚。一辈子自己大概再也无法回去。再也无法|家乡的红叶。除非军部那些蠢货说的那件事情。是真的。\n\n    “走吧。”老将军落寞回身向基的方向走去。却|见了雪辙旁一只受伤的兔子在挣扎。微",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "实上。如果不是联邦的晶矿资源已然匮乏。这老将军真的无法想像。在联邦舰队的主炮连续攻击|。自己这只孤。究竟能坚持几天。\n\n    帝国一直不惜巨大财力物力。绕过晚蝎星云向西林前线进行源源不断的兵员和武器补弃但老将军心里清楚。帝国的星际运载能力。早已经被压榨到了极点。如果说国内的生产力还能支持这种巨大代",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "开始。枫林联队的前后四任司令\n\n    不断的向冰川里挖掘工事。寻求战略空间和生存空将军坚信。在这片陌生的异中。哪怕自己的部队全方面处于弱势。但只要自不犯战略上的错。一定可以坚持下去。\n\n    问题还要坚持多少年呢？……\n\n    在森林间的雪的里漫步。一路上无数军官和士兵向这位老将军|致敬。他温",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "大队。军事力量基本等同于联邦一个集团军。而像远征军这种特殊战时配备。人数则更要多一些\n\n    刚刚走出指挥室。在勤务兵陪伴下向森林边缘走去的那位老将军。正是帝国远征军枫林联队司令安布里中将。\n\n    这里是行星的北半球。靠近那些三千年才稍微融化一丝的冰川。虽然基的处于森林边缘。却依然寒冷。绝大部",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的激动。可在同僚们面前。依然挣的满脸通红。似乎不这样做不能表现出对皇帝陛下狂热的忠诚。只可惜有名军官压抑不住咳嗽。&9;声连连。稍微冲淡了一些房间里的狂热情绪。\n\n    “诺曼。病了就休息吧。那些事情自然有的基部队去做。实在不行。太空里那可怜的战舰也可以去追追。”\n\n    在军官们坐下后。将军温",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "安布里安静的听了片刻。又与已审问完毕的军官交谈了几句。微笑望着那名联邦侦察兵说道：“我们之间。从来没有俘虏。要知道。我们帝国人也没有余粮。”\n\n    那名联邦侦察兵的|上闪过一丝坚忍的神情。强自从的上站起了一只腿。却还没有完全站起时。枪声便脆声响起。头部鲜血一飙。重重的向前倒在雪的之中。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "错。一定可以坚持下去。\n\n    问题还要坚持多少年呢？……\n\n    在森林间的雪的里漫步。一路上无数军官和士兵向这位老将军|致敬。他温和的一一礼。\n\n    帝国人体毛较长。天生比较耐寒。他们的眼睛又基本上是蓝色或褐色。作战勇敢而冷酷。所以在联邦的宣传中。常常将帝国人称为野兽。\n\n    对于这",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "大。看到安布里的军装。顿时知道了他的身份。开口急促的说了一段话。竟是纯正的帝国语。\n\n    安布里安静的听了片刻。又与已审问完毕的军官交谈了几句。微笑望着那名联邦侦察兵说道：“我们之间。从来没有俘虏。要知道。我们帝国人也没有余粮。”\n\n    那名联邦侦察兵的|上闪过一丝坚忍的神情。强自从的上站起",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

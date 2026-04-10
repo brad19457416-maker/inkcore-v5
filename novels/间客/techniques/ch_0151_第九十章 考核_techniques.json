@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 151,
+  "chapter_title": "第九十章 考核",
+  "filename": "ch_0151_第九十章 考核.txt",
+  "char_count": 3473,
+  "timestamp": "2026-04-10T12:04:45.661342",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "图书馆区里背下了所有系列以前机甲图纸的许乐，没有经受过正统的学院教育。对于这些系统的知识命题，十分的陌生。\n\n    果壳机动公司是一家军方色彩十分浓郁的公司，虽然所有的机动系教授，都公认机甲的设计制造修理，足以涵盖整个联邦社会机器构造的绝大部分范畴，但是招募考试地试题范围，却不可能全部局限在机甲方",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "地旁听生。就是黑色机甲里的操控者！\n\n    “如果我是你。就不要在那个叫许乐地人面前太过嚣张。不然将来你要挖个洞钻下去。”周玉盯着安达地双眼。说道：“不要说我没提醒你。实习地时候你也进过果壳机动公司地地下层。知道那下面全部是合金。我只担心你会挖不动。”\n\n    此言一出。围拢在周玉身旁地一院学生",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "郁政府军方背景的果壳机动公司，自然是这项计划的首选。只不过果壳机动公司的董事会，终究是**于政府外的存在，所以这项全面人才计划的实行，并不以国防部长官们的意志为准绳，三大军事学院的毕业，依然要经过果壳机动公司的**考核。\n\n    周玉是第一军事学院理所当然的王牌，在同学们中拥有极高的威信，当他离开",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第九十章 考核 \n\n    蹲坑兵！你说这世道究竟是怎么了？我们辛辛苦苦在魔鬼教官的皮鞭下熬了四年半，别人只要去服一年半的兵役，再去什么狗屎大学旁听一年半，就能和我们一起考试。”\n\n    “大概修理电器在行，机甲中枢芯片组的三十七截面图，都能把",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "一直被大脑皮层的异常放电，眼眸里时不时会出现的那些光怪陆离的画面所困扰，此时一见到似曾相识的结构图，思绪便不由回到了那个恼人地夜晚。\n\n    这张结构图，应该是某种大型设备上的动力传输设计图，但与简水儿遗忘在医院里的那张图纸不同。不是电源动力输出。而是更大功率的能量瞬时输出装置。题目要求答题者，找",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "”\n\n    “梁外十二处安装的伺服马达，会造成多大的平衡流失？”\n\n    “负一万三千米的深海火山岩环境下，耐压舱使用何种材质，才能做到性价比最高？\n\n    “平台……”\n\n    “晶矿在十级单位光照下的电子跃层规律异变趋势为以下……”\n\n    前两页的试题，已经涵盖了工程学相关的十几个研",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "为了准备迎接帝国的侵略，国防部从几年前便开始实行全面人才计划，三大军事学院的优秀毕业生，在正式进入军队之前，都会在各大机动公司里进行培训与工作。本应直接进入军队从初级军官做起的周玉，也正是这个全才计划的一分子。\n\n    拥有浓郁政府军方背景的果壳机动公司，自然是这项计划的首选。只不过果壳机动",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "后一道题，因为最后一页光屏上干干净净，只有一道题和一张图纸。\n\n    许乐微微一怔，眼眸里闪过一丝紧张之色。因为现在他最担心地便是主观题，最后一页只有一道题，居然占了四十分，很明显是一道大题，如果这道题涉及的是现代军用机甲的某些结构设计推演，他怎么可能在这么短的时间内，找到可行的方向？",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "周玉是第一军事学院理所当然的王牌，在同学们中拥有极高的威信，当他离开餐桌的时候，一院的毕业生们几乎同时放下了食盘，跟上了他的脚步，从而也听到了他与许乐的那几句对话。\n\n    “别理那个傻叉了，周玉，下午考核的时候，你可得拉兄弟一马，操控机甲没问题，背线路图也行，万一真要搞什么务虚设计，我可没那个",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "地双眼。说道：“不要说我没提醒你。实习地时候你也进过果壳机动公司地地下层。知道那下面全部是合金。我只担心你会挖不动。”\n\n    此言一出。围拢在周玉身旁地一院学生们。不禁哗然。他们不明白周玉怎么会对那个人有如此高地评价。心中也不怎么相信。\n\n    周玉看着四周同学地脸部表情。似笑非笑说道：“如果",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“如果我是你。就不要在那个叫许乐地人面前太过嚣张。不然将来你要挖个洞钻下去。”周玉盯着安达地双眼。说道：“不要说我没提醒你。实习地时候你也进过果壳机动公司地地下层。知道那下面全部是合金。我只担心你会挖不动。”\n\n    此言一出。围拢在周玉身旁地一院学生们。不禁哗然。他们不明白周玉怎么会对那个人有",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "动公司是一家军方色彩十分浓郁的公司，虽然所有的机动系教授，都公认机甲的设计制造修理，足以涵盖整个联邦社会机器构造的绝大部分范畴，但是招募考试地试题范围，却不可能全部局限在机甲方面的题目，涵盖的学科范围非常宽广。\n\n    那些公式许乐背的很熟，那些参数也是深深镌刻在他脑海中，不可能忘记，问题在于，梨",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "数也是深深镌刻在他脑海中，不可能忘记，问题在于，梨花大学毕竟是一所民间大学，有很多联邦的高阶资料，他从来没有接触过，尤其是像流动力学以及二阶物理学这种民间机动设备很少能用到的学科，在他的脑子里更是空白。\n\n    联邦的教育资源已经在尽量地往公平的方向在走，但是限于民间大学与军事院校地差别，有很多资",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "“大概修理电器在行，机甲中枢芯片组的三十七截面图，都能把那小子绕成白痴！”\n\n    周玉安静地看着许乐消失在走廊处的背影，听到身旁的议论声和轻蔑评论声，表情依然纹丝不动，五年的军事学院生活，让这位优秀的军官生，拥有极好的自律与控制，所以他才能如此平静。\n\n    为了准备迎接帝国的侵略，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

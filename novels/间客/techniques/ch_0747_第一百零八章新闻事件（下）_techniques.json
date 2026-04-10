@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 747,
+  "chapter_title": "第一百零八章新闻事件（下）",
+  "filename": "ch_0747_第一百零八章新闻事件（下）.txt",
+  "char_count": 3655,
+  "timestamp": "2026-04-10T12:05:17.614366",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百零八章新闻事件（下） \n\n    孕花从蚀月招牌旁不停除落“穿着黑煮厚风衣的炮勃本编联山德记者。顶着风雪冲出大门，在报社同事们惊愕的目光中，钻进了墨绿色的\n\n    车。\n\n    军车向着都南郊的军事机场驶去。\n\n    车厢中的伍德看了一眼鲍勃嘴唇里叼着的细烟卷，感",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "伍德耸耸肩，取出一根蓝河烤烟点燃，说道：“整个联邦难道不都是这样？不过你有没有想过，元帅为什么这时候会安排这场专访？”\n\n    炮勃微微蹙眉，看着窗外越来越近的军用机场建筑和隐藏在建筑里的飞机，说道：“我也觉得这件事情有些怪异，或许，，和今天生在许乐身上的新闻有关。”呼啸的空气吹的停机",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "老兵愤怒地揍成了猪头。”\n\n    炮勃主编呵呵笑出声来，根本不在意高行驶车辆的摇晃，带着一丝回忆的感慨，带着一丝说不出的意味，眯着眼睛感慨说道：“你不明白元帅对我们这些二三十年代的人来说意味着什么。作为最需要保有**精神的新闻记者，我本不应该崇拜任何人，但刚才那位军官说我们可以采访元帅时，我才现。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "许，，和今天生在许乐身上的新闻有关。”呼啸的空气吹的停机坪上白絮乱上九天。强大的推动力带动着高飞行器瞬间撕破冰冷的冬日长空。向费城方向驶去，短暂的十丹分钟之后。只来得及携带简单采访设备，甚至连专业相机都忘了拿的两名著名记者，便来到了那座联邦最著名的湖畔庄园中。\n\n    费城李家的安全措施异常严密，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "元帅的画像烧了。”\n\n    “噢，那时候元帅还不是元帅。是师长，就和许乐现在一样，是联邦重点培养的战斗英雄偶像。”\n\n    “那个蠢货被我们学生和坐轮椅的老兵愤怒地揍成了猪头。”\n\n    炮勃主编呵呵笑出声来，根本不在意高行驶车辆的摇晃，带着一丝回忆的感慨，带着一丝说不出的意味，眯着眼睛感慨说",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "垂青，这是为何？\n\n    一个修真界的小菜鸟，却享尽了仙皇至尊也梦寐以求的艳福，，！\n\n    请大家多多支持。）（未完待续小.说。t。xt-天/堂",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "费城方向驶去，短暂的十丹分钟之后。只来得及携带简单采访设备，甚至连专业相机都忘了拿的两名著名记者，便来到了那座联邦最著名的湖畔庄园中。\n\n    费城李家的安全措施异常严密，联邦第一军区的直属安全部队散布在建筑四周，强悍的精锐军人目光锐利警惧地注视着任何动静，无论是田畦里没有什么声息的蛙还是池中被寒",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "长，就和许乐现在一样，是联邦重点培养的战斗英雄偶像。”\n\n    “那个蠢货被我们学生和坐轮椅的老兵愤怒地揍成了猪头。”\n\n    炮勃主编呵呵笑出声来，根本不在意高行驶车辆的摇晃，带着一丝回忆的感慨，带着一丝说不出的意味，眯着眼睛感慨说道：“你不明白元帅对我们这些二三十年代的人来说意味着什么。作为",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "烟丝。\n\n    “你很紧张。”\n\n    伍德揉着酸痛的膝盖，盯着主编手指间落下的碎烟丝，不可置信说道：“我从来没有想过，联邦最出名冷静甚至是冷酷的主编先生，居然也有采访前紧张的时候。要知道你采访过前后三任总统，居然还会在意这些？”\n\n    “总统经常接受采访，但元帅自从回到费城之后，再也没有接",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "他们非常清楚，自己看到的这一切，绝对就是历史，而且大概是历史上永远不会被遗忘的时间点，只要联邦还存在，这一幕就会永远被记录在联邦教科书中，”\n\n    身为新闻记者，能够出现在历史的现场，那是最大的殊荣，更何况是这样的历史，但是这两位出色新闻记者的心中，没有一丝职业兴奋，也没有一丝期盼，只有无穷",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "被遗忘的时间点，只要联邦还存在，这一幕就会永远被记录在联邦教科书中，”\n\n    身为新闻记者，能够出现在历史的现场，那是最大的殊荣，更何况是这样的历史，但是这两位出色新闻记者的心中，没有一丝职业兴奋，也没有一丝期盼，只有无穷无尽的紧张怅然不安与恐惧。\n\n    “坐吧。这是单向玻璃，不过是对我单向",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "低声骂了两句脏话，他将纤细的烟卷在指间拧断，下意识里搓成纷舞落下的烟丝。\n\n    “你很紧张。”\n\n    伍德揉着酸痛的膝盖，盯着主编手指间落下的碎烟丝，不可置信说道：“我从来没有想过，联邦最出名冷静甚至是冷酷的主编先生，居然也有采访前紧张的时候。要知道你采访过前后三任总统，居然还会在",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "练习时，曾经做过清洁兼职，后来十四岁时，短暂干过一段时间费城东苑广场的草坪修剪。后来我参军入伍，从那以后，这几十年的时间，我一直在当兵，再也没有干过别的。”\n\n    “新兵网入伍，我们班长在演习中摔死了，上级很愤怒，不知道为什么就挑中我这个新兵蛋子接了班长的职位。从班长到排长，再到连长营长，团长师",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "“你很紧张。”\n\n    伍德揉着酸痛的膝盖，盯着主编手指间落下的碎烟丝，不可置信说道：“我从来没有想过，联邦最出名冷静甚至是冷酷的主编先生，居然也有采访前紧张的时候。要知道你采访过前后三任总统，居然还会在意这些？”\n\n    “总统经常接受采访，但元帅自从回到费城之后，再也没有接受过采访",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "紧闭的木门，身前光滑深色乌暗的名贵木的板。犹豫着不知道是不是应该踩上去。踩了上去，带着前所未有的紧张缓缓推开了这扇门。\n\n    没有什么充满星际科幻味道的变形金属机甲，没有无数交头接耳拟定太空战略的大人物，门后只有一间房。\n\n    空空荡荡的一间房，房的尽头有一张床，床上铺设着厚实但看上去便感觉",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "“作为一名狂热的崇拜者，我曾经两次来费城旅游，还通过期刊了解过李氏庄园的构造。这里的冬天比都要温暖很多，尤其是这片湖。你别看着蓝水清湛透着冽意；实际上里面混着大量的高山温泉，水温非常令人愉悦\n\n    炮勃主编和伍德记者跟随韩少东军官，接受了严苛的安全检查，向着庄国里面走去，一路所见紧张肃厉景",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

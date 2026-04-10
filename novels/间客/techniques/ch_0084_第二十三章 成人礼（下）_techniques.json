@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 84,
+  "chapter_title": "第二十三章 成人礼（下）",
+  "filename": "ch_0084_第二十三章 成人礼（下）.txt",
+  "char_count": 3410,
+  "timestamp": "2026-04-10T11:53:35.145621",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "察觉到对方可能还有些经济实力，说道：“请您放心，我会安排一个牌，只是价格会贵一些。”\n\n    许乐心想邰之源那小子家里不知道有多少钱，自然不会在乎这个，便点了点头。前台小姐开始对着通讯器低声安排，许乐耳朵有些尖，听到了通讯器那头似乎传来了一阵笑声，紧接着却是一阵压低了的惊呼。\n\n    “我一直以",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "身睡衣，脸上脂粉未画，大部分人的脚上还穿着拖鞋，看上去要有多家居便有多家居，只是她们眉眼间的那些憔悴风尘味道暴露了她们的真实职业。\n\n    饶是如此，这些姑娘们依然称得上的眉清目秀，睡衣遮掩不住地身材更是曼妙有方。许乐只扫了一眼，便觉得眼睛被晃地不行，暗想施清海果然不愧是花间圣手，给自己指的星辰会",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "看见和接触到果然不一样，身周的女孩儿们都围了过来，那些大腿和胸前的白嫩时不时地掠过他的眼帘，许乐的嘴瞬间就觉得有些渴了。\n\n    但他还记得邰之源那边的事情，有些不可思议地想着，加了两个钟，这就是三个多小时了，从清晨到中午？那小子初识人事儿，不会……不知收敛，最后精尽人亡吧？只是许乐这时候确实顾不",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "一阵压低了的惊呼。\n\n    “我一直以为这么早，还没有开始上班。”许乐自幼便在孤儿群里生活，本就是社会最底层的人，对于从事性服务工作的女人，没有任何轻视鄙夷的念头。他对前台小姐温和笑着说道：“没想到还有牌。”\n\n    前台小姐看见许乐诚恳的笑容，又看到对方无比熟练的表现，越发觉得这个年轻人不止堕",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "划策，只是由于肩上的软嫩和耳畔的香风，许乐哪里能有平时的冷静，不过半个小时，就已经连输了好几把。好在大家都是打着玩，也没输多少钱。\n\n    一边打牌一边闲聊一边等邰之源，许乐忽然觉得这样度过一个下午倒也是蛮舒服的。通过与那些小姐们的聊天，他也间接知晓了一些这个行业里的细节，也知道了身后腻着自己的露",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "学破处，还要挑选临海最贵的会所，确实不怎么多见。一念及此，这位小姐马上察觉到对方可能还有些经济实力，说道：“请您放心，我会安排一个牌，只是价格会贵一些。”\n\n    许乐心想邰之源那小子家里不知道有多少钱，自然不会在乎这个，便点了点头。前台小姐开始对着通讯器低声安排，许乐耳朵有些尖，听到了通讯器那头",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "然称得上的眉清目秀，睡衣遮掩不住地身材更是曼妙有方。许乐只扫了一眼，便觉得眼睛被晃地不行，暗想施清海果然不愧是花间圣手，给自己指的星辰会所果然美女无数，只不知道那个和邰之源在一起地牌又会漂亮成什么模样。\n\n    想到邰之源，许乐心里咯噔一声，暗叫糟糕，心想那小子不会是找不到自己就先走了吧？他带着歉",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "女孩儿们建议道：“反正你们也没事儿？要不然……打扑克？”\n\n    于是临海最高级的会所小姐休息室里出现了一个很妙的场景，一个年轻的男学生，陪着那些小姐们开始认真地打起扑克牌来。那个叫做露露的姑娘一直半趴在许乐的身后，为他出谋划策，只是由于肩上的软嫩和耳畔的香风，许乐哪里能有平时的冷静，不过半个小时",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "强烈的挫败情绪。他这时候坐在只有三张沙发地休息室里。等待着邰之源的战败，然而身处此等环境之中，要说不紧张是不可能的，所以他的茶水喝的极快，已经去了一次洗手间。[]\n\n    因为时间还太早地缘故，占地极大的会所根本没有什么客人。他们这两个学生是唯一的客人。而那些忙碌了一夜的小姐们，此时都在她们自己的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "们这两个学生是唯一的客人。而那些忙碌了一夜的小姐们，此时都在她们自己的宿舍里休息，所以星辰会所里一片安静。过了一些时间，许乐终于适应了这种感觉，在一片安静之中。再也抵挡不住积了几夜的困倦，靠在沙发上沉沉入睡。\n\n    将他从睡眠中惊醒过来地。是无数只麻雀，那些麻雀就在他的耳边不停地叽叽喳喳，响个不",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

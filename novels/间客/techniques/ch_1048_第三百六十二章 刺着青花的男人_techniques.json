@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 1048,
+  "chapter_title": "第三百六十二章 刺着青花的男人",
+  "filename": "ch_1048_第三百六十二章 刺着青花的男人.txt",
+  "char_count": 3592,
+  "timestamp": "2026-04-10T12:05:26.979125",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "集会台上那位满脸通红的女性演讲者，用夸张而专业的肢体语言和声撕力竭却不失诚恳的声音，大声向着绍灰色的天空做着控诉，台下数万名愤怒的集会民众挥舞着拳头，做着响亮的回应。\n\n    游丵行集会向来是一种极为漫长的娱乐活动，因为过于漫长，民众的热情很容易被严寒天气和枯躁重复逐渐消耗，然而沉默行军指挥部近乎",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "战斗需要不一样的武器．因为参加战斗的人们所擅长的事情总是不一样。\n\n    有人会端着枪丵械大喊冲向危险的敌营，比如七组；有人会皱着眉头执笔在纸上不停抄写，比如鲍勃与伍德；有人在指挥部中看似沉默平静丵坐著，实际上却是不惜身体竭尽思虑安排好所有的策略．比如邰之源。更多的普通人选择用自己的双脚投出选票，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "重启古钟号调查！”\n\n    “调查前线阴谋！”\n\n    “废除爱国者法案！”\n\n    “结束由秘密警丵察绕治的世界！”\n\n    “帕布尔总统下台！”\n\n    集会台上那位满脸通红的女性演讲者，用夸张而专业的肢体语言和声撕力竭却不失诚恳的声音，大声向着绍灰色的天空做着控诉，台下数万名愤怒的集",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "份，因为在他们的远程摄像系统中，那两张消瘦的脸是如此清晰。\n\n    “鲍勃主编！伍德记者！他们怎么来到了这里？”\n\n    集会现场的民众们也认出了那两个中年男人的身份，他们震恢兴奋地扭头告诉身旁同伴，如警丵察总暑的官员们一样，并不清楚这两名被政府以爱国者法案名义逮捕的新闻名人，为什么会忽然出现在",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "责执行军纪的相关宪兵部门超到此地时，坐在轮椅上的达文西早已悄无声息的消失。\n\n    依旧沉浸在悲伤愤怒情绪中的民众，有意无意阻挠著政府方面的行动，甚至极为挑衅的把那些宪兵撞来撞去，就像是一片愤怒的海洋戏弄著孤弹的渔船。\n\n    “交出鲍勃主编！”\n\n    “交出伍德记者！”\n\n    “解散联",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "站在树下，他安静倾听那个女子清亮迷人，充满宁静坚毅情绪的歌声，心中感受难以言语，就像去年第一次听到那首为他而作的流年。\n\n    歌声渐去渐远，许乐再次压低帽檐，沉默转身，向与热闹人群形成群明对比的寂静街区走去。\n\n    把鲍勃和伍德送到邸之源的手中，七组就地解散撤离，分成三个部分去执",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "那首为他而作的流年。\n\n    歌声渐去渐远，许乐再次压低帽檐，沉默转身，向与热闹人群形成群明对比的寂静街区走去。\n\n    把鲍勃和伍德送到邸之源的手中，七组就地解散撤离，分成三个部分去执行彼此的任务。\n\n    他相信那个身材瘦弱经常咳嗽的家伙，肯定有办法能够保住鲍勃伍德的安全，所以放心地离开。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "“宪章万岁！”\n\n    “七组万岁！”\n\n    夜色缓缓降临，雪花趁著阳光最黯淡的时节拼命落下，气温又低了几度，然而乔治卡林艺术中心前的氛围却已经变得无比狂热，兴奋的民众们围若鲍勃主编和伍德记者，不停呼喊着口号。\n\n    沉默行军到了最后的战斗阶段，力图废止爱国者法案的善良人们，迎来",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "逮捕的新闻名人，为什么会忽然出现在集会现场。\n\n    震天般的欢呼响彻艺术中心门前。\n\n    在人群的最外围，脸色铁青的首都特区警丵察总著署长望着脸色更为难看的联合调查部门某高级官员，愤怒说道：“你们是不是疯了？要我们这时候逮捕他们？”\n\n    “我知道他们是逃犯．但请你睁大眼睛看一看，现场有",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "邦之间的故事，以后有机会的时候，我们能不能聊一下？”\n\n    ……\n\n    ……\n\n    雪花缓缓飘落在乔治卡林艺术中心，负责执行军纪的相关宪兵部门超到此地时，坐在轮椅上的达文西早已悄无声息的消失。\n\n    依旧沉浸在悲伤愤怒情绪中的民众，有意无意阻挠著政府方面的行动，甚至极为挑衅的把那些宪",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "也没办法选择自己的死亡。”\n\n    “就是这个道理。”许乐望着两名瘦弱的新闻人，停顿片刻后忽然开口说道：“关于帝国与联邦之间的故事，以后有机会的时候，我们能不能聊一下？”\n\n    ……\n\n    ……\n\n    雪花缓缓飘落在乔治卡林艺术中心，负责执行军纪的相关宪兵部门超到此地时，坐在轮椅上的达",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "因为晕机而头脑昏沉的伍德记者恰到好处加了一句评论：“也没办法选择自己的死亡。”\n\n    “就是这个道理。”许乐望着两名瘦弱的新闻人，停顿片刻后忽然开口说道：“关于帝国与联邦之间的故事，以后有机会的时候，我们能不能聊一下？”\n\n    ……\n\n    ……\n\n    雪花缓缓飘落在乔治卡林艺术中心，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "钱，回头踩著小板凳开始找烟，许乐的目光落在货架玻璃上，用反光望向走出门口的魁梧男人，注意到此人低头一瞬间，颈后露出了狰狞的刺青花瓣。\n\n    “谢谢。”\n\n    接过香烟，许乐低身拣起脚边一个沉重的黑色长盒，动作极为随意，似乎是州才自己带进来的。\n\n    他提着黑色长盒走出了便利商店，消失在首",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "够保住鲍勃伍德的安全，所以放心地离开。\n\n    寂静的街区里寒风渐起，格外刺骨，现在的许乐自然不用担心被低温冻伤或是感冒，依然下意识里翻起衣领挡住了脖颈，然后把双手放在唇边呵了口热气。\n\n    两旁建筑内有明亮温暖的民居，里面传来小孩子欢快的玩闹声、猫儿争斗时的呜咽声，有黑着灯的房间，不知道那些",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "“就是这个道理。”许乐望着两名瘦弱的新闻人，停顿片刻后忽然开口说道：“关于帝国与联邦之间的故事，以后有机会的时候，我们能不能聊一下？”\n\n    ……\n\n    ……\n\n    雪花缓缓飘落在乔治卡林艺术中心，负责执行军纪的相关宪兵部门超到此地时，坐在轮椅上的达文西早已悄无声息的消失。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "或是感冒，依然下意识里翻起衣领挡住了脖颈，然后把双手放在唇边呵了口热气。\n\n    两旁建筑内有明亮温暖的民居，里面传来小孩子欢快的玩闹声、猫儿争斗时的呜咽声，有黑着灯的房间，不知道那些房间的主人现在去了哪里，是不是正在乔治卡林艺术中心门前的人群中。\n\n    前方拐角处有一家不起眼的便利商店，门上",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

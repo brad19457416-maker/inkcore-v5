@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 762,
+  "chapter_title": "第一百二十五章 天凉好个秋",
+  "filename": "ch_0762_第一百二十五章 天凉好个秋.txt",
+  "char_count": 3575,
+  "timestamp": "2026-04-10T12:05:17.566332",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，不止古钟号的案子，还有临海州体育馆地下停车场的暴杀，还有木谷庄园里那个枪手，这些年他所经历的事件，最终都隐隐指向了那片笼罩在联邦上空的阴森乌云。\n\n    若那片乌云已经锈蚀了整个联邦机器，那么许乐只能操控身下这台永不生锈的小白花mxt，去做些事情。\n\n    ……\n\n    有十几台mx机甲正在",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百二十五章 天凉好个秋 \n\n    傍晚红日，小山清风，初秋时节，白色的mxt机甲安静地平蹲其中，如同一尊正在思考什么哲学问题的雕像。\n\n    舱门依然开启，许乐坐在合金舱壁边缘，双脚悬空于五米高的空中，就如同坐在学校三楼窗边的调皮学生，他的身体很放",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "这会是一个美好的秋天\n\n    （状态回来了点，下工作日三章，我有感觉，应该会写的很不错，期待中，搓手，不负公子不负君，所以要认真。　ww　w　.　xia　oshu　otxt.co　m",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "听到这话，溪边十几名西林军人同时怔住了，因为那部纪录片的缘故，七组里那些成员的名字和强悍的战斗能力，早已经得到了联邦民众和士兵们的公认，如果说七组对那个男人真有如此高的评价……\n\n    “这还是人吗？”\n\n    从某个角度看，施清海无疑是这个宇宙中最完美的男人，接受过联邦最精英的教育，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "出现了异常扭曲。\n\n    她感到有些头痛，揉了揉额角，低头重新观察数据显示光幕上的曲线，半晌后摇头说道：“有反应，单位截面电荷异常非常清楚，但对于信息传递没有任何意义，只是一些杂波罢了。”\n\n    许乐轻轻嘘了口气，松开了紧握的数据线裸头，抬起左臂擦拭了一下额头上的汗。\n\n    “这是怎么回事",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "观察数据显示光幕上的曲线，半晌后摇头说道：“有反应，单位截面电荷异常非常清楚，但对于信息传递没有任何意义，只是一些杂波罢了。”\n\n    许乐轻轻嘘了口气，松开了紧握的数据线裸头，抬起左臂擦拭了一下额头上的汗。\n\n    “这是怎么回事？”\n\n    对于天才工程师而言，刚才看到的所有画面，都会令商",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "孙子。”\n\n    “说绕口令呢？要按这么说着，许乐上校可是军神亲自挑的接班人，如果李疯子更强，军礼为什么不挑自己亲孙子当接班人，却挑了个外人?”\n\n    “这话就没意思了，许乐上校的那个叛国贼老师，是军神的亲弟弟，这关系也外不到哪里去。”\n\n    ……\n\n    坐在小白花mxt座舱门边缘抽烟",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "在不停地散某种热量，不，因为感受不到温度，那应谋是某种能量，这种能量让那轮红日自西方投射而来的光线都出现了异常扭曲。\n\n    她感到有些头痛，揉了揉额角，低头重新观察数据显示光幕上的曲线，半晌后摇头说道：“有反应，单位截面电荷异常非常清楚，但对于信息传递没有任何意义，只是一些杂波罢了。”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "起了什么，一拍大腿说道：“你是说青龙山那个联络官。”\n\n    “就是他，青龙山联络官施清海。”机师感慨万分，说道：“人就是青龙山的泥腿子，还是一文职，结果生生把整个十七师的脸都削了半截。”\n\n    “夸张了巴？那可是十七师。”有人笑着说道。\n\n    “不夸张，七组你们应该都知道，牛逼不？”“确",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "除了生孩子。\n\n    最近这些天，施清海却感觉到某种和生孩子极为相近的喜悦，因为几年来的调查，马上就要出果实了，沉甸甸的那种。\n\n    这会是一个美好的秋天\n\n    （状态回来了点，下工作日三章，我有感觉，应该会写的很不错，期待中，搓手，不负公子不负君，所以要认真。　ww　w　.　xia",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "才看到的所有画面，都会令商秋产生强烈的研究渴望，她盯着许乐的眼睛，很直接问道。\n\n    “以后我会慢慢解释给你听，放心吧，机会很多的，我还会做很多次这种实验，我也不会放心让别的技术人员替我做监控。”许乐笑着说道：“至于这个实验，是老爷子在费城的时候嘱咐我做的。”\n\n    只要还有继续接触研究的机",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "救比侯显东强，开车比刘佼还快，在军校里的成缋比兰晓龙还高。”\n\n    听到这话，溪边十几名西林军人同时怔住了，因为那部纪录片的缘故，七组里那些成员的名字和强悍的战斗能力，早已经得到了联邦民众和士兵们的公认，如果说七组对那个男人真有如此高的评价……\n\n    “这还是人吗？”\n\n    从某个角度看",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "而言，刚才看到的所有画面，都会令商秋产生强烈的研究渴望，她盯着许乐的眼睛，很直接问道。\n\n    “以后我会慢慢解释给你听，放心吧，机会很多的，我还会做很多次这种实验，我也不会放心让别的技术人员替我做监控。”许乐笑着说道：“至于这个实验，是老爷子在费城的时候嘱咐我做的。”\n\n    只要还有继续接触",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "洼地进行常规训练，他们隶属于西林军区特种机甲大队第四**小队，在训练间隙的休息时间，这些优秀的联邦军人们，望着远处山峰上那台醒日的白色mxt机甲，陷入了激烈的争论之中。\n\n    他们身为联邦军方机师，非常清楚那台mxt机甲采用了双引擎涡轮增压技术的天才构思，但很可惜因为荷载过大的缘故，这种功率强悍",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "从某个角度看，施清海无疑是这个宇宙中最完美的男人，接受过联邦最精英的教育，优秀的成绩可以进入三一协会，又接受了青龙山反【{zheηgfu}】军的间谍培养。他智商极高，情商也高，而且英俊潇洒，生着一双秀美的桃花眼，待人温和有礼，如果愿意，他可以风度十足，迷倒十六至六十的全部女性。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "香烟叼在嘴里，望着自己，等着自己把mxt机械臂前端滚烫的枪管伸过去，为他们点烟。\n\n    多么有趣温暖而充满了男人味道的军旅生活，已经很长时间没有重温过，看眼下的局面，他甚至不知道自己还有没有机会重新回到师里。\n\n    等待啊等待，不在等待中暴，那就只能在等待前暴，真要等到大选结束，总统获胜，李",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

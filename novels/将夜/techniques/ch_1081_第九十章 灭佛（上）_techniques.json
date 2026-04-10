@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1081,
+  "chapter_title": "第九十章 灭佛（上）",
+  "filename": "ch_1081_第九十章 灭佛（上）.txt",
+  "char_count": 3238,
+  "timestamp": "2026-04-10T12:11:34.932043",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "再不理智的人，都不会这样认为。\n　　观海僧不会这样认为，宁缺也不会，他甚至已经隐约猜到了事情的真相，但他没有任何办法，只有这样被动地应着棋子――猜到观主的想法，不代表能看透他的布局，宁缺只能用最简单的应对，去破解那复杂的那个局面。\n　　最简单的便是生死，刀剑相隔，便是两个世界。\n　　他只希望自",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "望自己的速度够快，快到观主成功之前，人间已然改变，那么到时候，就算观主的局成功，或者也会变得没有任何意义。\n　　……\n　　……\n　　想改变人间的人很多。夫子、佛陀、轲浩然、莲生，他们都做过这样的尝试，或者失败，或者还在路上，像酒徒和屠夫这样的人不想人间改变，这本身也是一种影响或者说改变，所有的前提都",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "？”\n　　屠夫没有回答，只是握着刀的手紧了两分。\n　　他手里的这把刀就是答案，那把刀沉重如山，锋利如风，从人类历史的最开始到可以看见的最后，都是最恐怖的一把刀。\n　　就像轲浩然曾经倒提着的那把青钢剑。\n　　宁缺神情渐肃，右手没有伸到身后握住铁刀的刀柄。\n　　他的铁刀很强大，但和屠夫手里的刀依然差距太",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "合什么。\n　　山道最前方，君陌手执铁剑，看着已然身受重伤的七念，脸上没有任何表情，他往日里穿的衣裳在战斗里毁坏，不知在哪里拣了件僧衣，他新生的头发依然灰白，所以没有蓄起，发茬极短，映照着远处的火光，似一尊佛。\n　　不远处的一颗菩提树下，黄扬大师已然闭上眼睛远逝，做为一名唐人，在书院与佛国之间不知如何",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "你也已杀了太多人。”\n　　宁缺转身望向他，说道：“又错，你佛从来不曾慈悲过，他普度众生，教他们学佛，最终修的只是一个更小的极乐世界，他要的不过是度过永夜，甚至追寻更多，比永恒更多，人间如何，佛何曾真正在意过？”\n　　观海僧说道：“照你如此说法，那我们修佛数十年，究竟在修什么？”\n　　宁缺说道：“佛经",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "就在西陵神殿终于反应过来，派出大批强者试图狙杀，或者至少暂时困住宁缺的时候，谁都没有想到，他已经悄然来到瓦山。\n　　瓦山前那座小镇还像前些年那样，民众依然靠着石头刻佛维持着生计，盂兰节早就没有了，烂柯寺的香火也早已不如当年，好在那尊佛祖像垮塌后崩落的无数精美石块，还足以刻上数百年不止。\n　　清晨时分",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，就像叶苏在新教教典里说却没有说明的那样，人人都是昊天，那么人间自然是佛国，也是神国。”\n　　观海僧感慨一叹，看着他苍白瘦削的脸颊，说道：“那你呢？这样继续杀将下去？你撑不了太长时间。”\n　　佛祖像废墟里，有些野花，花是黄色的，和当年那朵花很像。\n　　宁缺看着那朵花，看着掩在山林里的山道，想着桑桑在",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "进来，你如何杀我？”\n　　屠夫没有回答，只是握着刀的手紧了两分。\n　　他手里的这把刀就是答案，那把刀沉重如山，锋利如风，从人类历史的最开始到可以看见的最后，都是最恐怖的一把刀。\n　　就像轲浩然曾经倒提着的那把青钢剑。\n　　宁缺神情渐肃，右手没有伸到身后握住铁刀的刀柄。\n　　他的铁刀很强大，但和屠夫手",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "（上）\n　　宁缺静静看着他，没有半点惧意。\n　　过了很久，屠夫把刀搁回案板上，手却未离刀柄。\n　　他说道：“我不在乎你杀人，但我在乎永恒，你和书院里的任何人，都不要再进西陵，否则我也会杀人的。”\n　　宁缺说道：“我已经进来，你如何杀我？”\n　　屠夫没有回答，只是握着刀的手紧了两分。\n　　他手里的这把",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "观海僧说道：“我佛慈悲，已经死了太多人，你也已杀了太多人。”\n　　宁缺转身望向他，说道：“又错，你佛从来不曾慈悲过，他普度众生，教他们学佛，最终修的只是一个更小的极乐世界，他要的不过是度过永夜，甚至追寻更多，比永恒更多，人间如何，佛何曾真正在意过？”\n　　观海僧说道：“照你如此说法，那我们修佛数十年",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "依然靠着石头刻佛维持着生计，盂兰节早就没有了，烂柯寺的香火也早已不如当年，好在那尊佛祖像垮塌后崩落的无数精美石块，还足以刻上数百年不止。\n　　清晨时分，瓦山四周落了一场雨，海风让山顶本就比内陆更凉些，于是明明还在夏天，却有了些秋天的感觉。\n　　“仿佛当年。”\n　　宁缺站在佛祖石像残躯的前方，看着青山",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "缺向桃山方向靠近一分，他的目光便会锋利一分，宁缺远离桃山方向一分，他的目光便会平静一分，就像一把旧刀缓缓入鞘。\n　　便在这道目光的注视下，宁缺走出小镇。\n　　他回首望去，只见蓝天白云之下，峰间数座神殿，苦夏小镇里，肉铺如前，不由沉默不语，思考了很长时间。\n　　他不是屠夫的对手，也不知书院里可有人能打",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 143,
+  "chapter_title": "第八十二章 逃亡",
+  "filename": "ch_0143_第八十二章 逃亡.txt",
+  "char_count": 3608,
+  "timestamp": "2026-04-10T11:53:35.159189",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "许乐是在安慰自己。这个世界已经习惯了第一宪章的无所不在，哪怕是施清海这样擅于将自己强大的能力，隐藏在风流外表下的专业人士，在宪章局的光辉下，依然没存逃脱地野望。\n\n    他只是不明白，为什么宪章局会插手到联邦调查局搜捕**军间谍地事情中？\n\n    腕表的光屏上正在播放着新闻，许乐和施清海静静看着",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第八十二章 逃亡 \n\n    如果联邦调查局的那名官员知道，让他百思不得其解的答案，其实不过是一个小小的意外而造成，他一定会恨不得吐血身亡。\n\n    许乐被医疗塑泥密封住的右腿，在这一场逃亡的旅途中，起了绝对重",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，为了尽快结束关于临海体育馆暗杀事件，给政府所带来的冲击波，那位**军的叛徒以及某些势力为了掩盖某些真相各方力量在这一刻找到了合力的出口，互相完美地配合，隐藏了追捕施清海的真实罪名，而用恐怖主义分子的名义，获得了宪章局的权限配合。\n\n    他们必须抓住施清海，或者杀死施清海。\n\n    “政府原来",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "施清海像变戏法一样，从身边拉出一张超薄的光屏，光屏上出现了一些暗红色地小光点。许光怔怔地看着这一幕，心想特工果然是特工，身边随时都会有这种高科技的东西。\n\n    超薄光屏似乎是某种探测设备，许乐没有见过，看上面的标尺单位，应该笼罩着这幢楼房四周五百米的距离。施清海在选择这个逃生点的时候。应该在外面",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "好卡在了座位与油门之间，化身成为动作电影里常演的男主角手中的方向盘锁、或其余的用来顶油门的硬东西……第一次开汽车的他，再如何在机器方面有天才，也不可能让那辆民用越野车，化身成为要速度不要命的疯狂怪兽，在联邦调查局的包围圈中，杀出了一条血路。\n\n    人天生都是怕死的，没有谁敢一直把油门踩死到底，光",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "人要抓你，但也许还有人想杀你。”许乐想到在东林地时候，联邦军方毫无先兆地对修理铺发起的攻击，心情有些沉重。\n\n    小心翼翼地走过两条街道，在出口处，他们两个人遇到了盘查，那是几名穿着黑色正装，耳朵里别着乳白色耳麦，恨不得向全天下地人宣布自己是特工的几个家伙。\n\n    “能不杀人，就不杀人，我不",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "开……早知道是现在这种状况。早上我就不该和你见面。”\n\n    施清海漂亮地脸上闪过一丝歉意，苦笑着说道：“本以为就凭调查局里那些同事。应该查不到我地踪迹，没想到那些想要我死的人，居然申请到了宪章局地权限。”\n\n    “你确认宪章局在帮助追捕者定位？”许乐的脸色变得有些难看，因为自从逃离东林大区之",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "外。此时他们二人已经远离了那辆救了他们性命，又险些害死他们的民用越野车，装扮成两个普通的联邦上班族，来到了临海某条街巷的小楼房里。昏暗的房间内。\n\n    “调查局把通话频道调了。”施清海小心地鼓捣着一个小型接收设备，“幸亏我藏在内网里的那些东西，他们一时还没有来得及清除干净。”\n\n    许乐半躺",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "我过来的……那他们怎么知道你的行踪？”许乐轻轻揉着腰部。眯着眼睛望着施清海。\n\n    “所以我必须马上离开……早知道是现在这种状况。早上我就不该和你见面。”\n\n    施清海漂亮地脸上闪过一丝歉意，苦笑着说道：“本以为就凭调查局里那些同事。应该查不到我地踪迹，没想到那些想要我死的人，居然申请到了宪",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "准确定位封余以及许乐。而此时，他们二人与宪章局的中央电脑处于同一个星球上，信息的传递回馈可以视为基本同时。所以许乐不明白，这已经过去了好些时间，为什么还没有人破门而\n\n    其实这只是因为他不了解，当年曾经发生在大叔和他身上的追捕，属于整个联邦难得一见地第一序列事件，动用整个联邦的电子监控网络，耗",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

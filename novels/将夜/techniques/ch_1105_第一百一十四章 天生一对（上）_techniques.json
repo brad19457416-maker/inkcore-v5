@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1105,
+  "chapter_title": "第一百一十四章 天生一对（上）",
+  "filename": "ch_1105_第一百一十四章 天生一对（上）.txt",
+  "char_count": 3417,
+  "timestamp": "2026-04-10T12:11:34.918360",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "最近都城里势头渐盛的新教，想起那些传说里产妇胎血是最污秽的说法，这些神官和执事们以为自己猜到了事情的真相。\n　　新教想要亵渎道门供奉的昊天！\n　　“妖孽！”\n　　一名最虔诚的老年神官，愤怒地冲到桑桑身前，指着她的脸骂道：“我要把你烧死！你这个不要脸的贱货！”\n　　桑桑闭着眼睛在休息，听着声音，艰难地",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "自己猜到了事情的真相。\n　　新教想要亵渎道门供奉的昊天！\n　　“妖孽！”\n　　一名最虔诚的老年神官，愤怒地冲到桑桑身前，指着她的脸骂道：“我要把你烧死！你这个不要脸的贱货！”\n　　桑桑闭着眼睛在休息，听着声音，艰难地睁开眼睛，望向那些围着自己、神色可怖的人类，微怔片刻后，才知道这些人骂的是自己。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "勉强站立，谁来阻止酒徒这道明显凝聚毕生修为的一剑？\n　　没有人能阻止。\n　　但可以被打断。\n　　一声压抑了很长时间、却依然雄浑肃穆的狮哮，响彻整座贺兰城！\n　　青狮化作一道清光，狠狠地撞在壶中剑的侧面！\n　　两道黑影，从清光里闪电般踢出，重重地踢中酒徒的胸腹！\n　　酒徒一剑刺空，又遭重击，闷哼一声，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的昊天神辉。\n　　一道异香浓郁的酒水，从酒徒腰间的壶里喷涌而出，形成一道无量厚的瀑布，滔滔酒水落水，瞬间便将铁刀上的神辉浇熄。\n　　酒徒看着他寒声说道：“难道你还以为能伤到我？”\n　　宁缺没有说话，低头用左肩撑着摇摇欲坠的桑桑。\n　　酒徒的剑，摩擦着他的手掌，向桑桑身体里缓慢刺入。\n　　她的血流的越",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "坍塌！\n　　无数烟尘被激震而起，渐要掩盖峡谷上方的天空。\n　　刚刚撤出贺兰城的唐军，回首望向自己曾经战斗生活过的地方，看着这幕有如神迹天罚般的画面，震撼的久久无法言语。\n　　整整过了半日时间，烟尘才渐渐敛没。\n　　雄奇无比的贺兰城，现在只剩下了半截残城，看着异常凄凉。\n　　那座隐藏在密室里的传送阵，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "自己最虔诚的信徒，所以她设计神将的时候，也是按人类的形象设计。\n　　现在，她浑身是血躺在道殿里，被道人们用污言秽语辱骂。\n　　是啊，她已经不再是昊天了。\n　　一声狮哮，响彻道殿。\n　　青狮摇摆间，身形骤然变大，变成一头雄壮威武的青色巨狮，冷冷地盯着那些道人，等着主人的命令。\n　　那些神官道人哪里见过",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "响起！\n　　密室被震垮，箭楼被震塌，整座贺兰城都在坍塌！\n　　无数烟尘被激震而起，渐要掩盖峡谷上方的天空。\n　　刚刚撤出贺兰城的唐军，回首望向自己曾经战斗生活过的地方，看着这幕有如神迹天罚般的画面，震撼的久久无法言语。\n　　整整过了半日时间，烟尘才渐渐敛没。\n　　雄奇无比的贺兰城，现在只剩下了半截残",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "错，不是月亮惹的祸。\n　　你什么，你什么，你什么，你才什么。\n　　这是青年男女间常见的对话，但很少会出现在宁缺和桑桑之间，无论是曾经的少年与女童，名义上的主仆，还是后来的夫妻时段。\n　　桑桑说这句话的时候，脸上没有什么表情，没有幽怨，更不是撒娇，似乎只是在阐述一件客观事实，然而宁缺却觉得她在幽怨，她",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "是照着人间道殿的样式修建的，只不过更华美纯净。\n　　道官她很熟，她受过无数代神官道人的供奉，她曾经以为人类都是自己最虔诚的信徒，所以她设计神将的时候，也是按人类的形象设计。\n　　现在，她浑身是血躺在道殿里，被道人们用污言秽语辱骂。\n　　是啊，她已经不再是昊天了。\n　　一声狮哮，响彻道殿。\n　　青狮摇",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "有感觉到他的眼神，疯狂地笑着，眉眼都扭曲了起来：“你看到没有？她……她真的不行了。”\n　　眉眼扭曲的同时，他手里的剑也在扭曲，宁缺的掌心被割破出一大道口子，鲜血淌流的更加迅猛，如洪水一般。\n　　那把酒壶里不知藏着多少把剑，每把剑都是酒徒的本命，以烈酒淬炼无数年，锋利至极，以至于连他的身体强度也顶不住",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "到了宋国。\n　　宁缺没能一道到这里，也是相同的原因，她先前确认了宁缺的方位，知道他没有什么事情，不再担心，心情也终于放松了下来。\n　　忽然间，她的眉紧蹙起来。\n　　她看着腹上插着的那把剑，确认那种一阵一阵如潮涌来的痛楚与此无关，而是来自腹内更深的地方，想必是来自那个该死的胎儿。\n　　她很疲惫，缓缓坐",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "间的壶里喷涌而出，形成一道无量厚的瀑布，滔滔酒水落水，瞬间便将铁刀上的神辉浇熄。\n　　酒徒看着他寒声说道：“难道你还以为能伤到我？”\n　　宁缺没有说话，低头用左肩撑着摇摇欲坠的桑桑。\n　　酒徒的剑，摩擦着他的手掌，向桑桑身体里缓慢刺入。\n　　她的血流的越来越多，滴在地面那些繁复华美的符线上，符线明亮",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "青狮狗在旁不安地来回看着，不知道主人发生了什么事情。\n　　大黑马瞪圆了眼睛，显得极度紧张，它在人类社会里生活的时间更长，看出女主人明显是要生了，低嘶一声，向道殿外狂奔而去。\n　　这时，道殿外忽然响起嘈杂的人声和密集的脚步声。\n　　桑桑靠着柱子，疲惫地坐着，鬓间尽是汗珠，那把刺伤小腹的剑，还在不停地",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "此时清光更盛，光幕中那些身影正在急速虚化！\n　　酒徒的脸色变得更加苍白，他很清楚，如果让昊天活着离开，意味着什么，他绝对不允许自己错过这个机会。\n　　一声厉啸，冲破密室的残墙，直上天穹。\n　　酒徒明明还站在原地，但身影却骤然高大起来，瞬间百倍，直至千倍万倍！\n　　轰隆巨响连绵不断响起！\n　　密室",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "种一阵一阵如潮涌来的痛楚与此无关，而是来自腹内更深的地方，想必是来自那个该死的胎儿。\n　　她很疲惫，缓缓坐到地面上，苍白的脸颊上，神情依然漠然，过往如星空般的眼睛里，却多了很多惘然与不安。\n　　青狮狗在旁不安地来回看着，不知道主人发生了什么事情。\n　　大黑马瞪圆了眼睛，显得极度紧张，它在人类社会里生",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

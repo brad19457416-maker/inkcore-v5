@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 970,
+  "chapter_title": "第三百章 活着（上）",
+  "filename": "ch_0970_第三百章 活着（上）.txt",
+  "char_count": 3595,
+  "timestamp": "2026-04-10T12:05:26.916796",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "编机械师，无视帝国方面在此地布下的层层屏障，以不要命的姿态发起连绵不绝的攻势，密集的导弹撕裂灰潆潆的天空，数百架近空战机呼啸着俯冲然而远离或者拖着火尾坠落。\n\n    奋这种恐怖鹄战争环境中，即便想镂条野狗那样活下去，也不容易。\n\n    谢德卡布丹诺维奇是萨热市一个普通的老钟表匠，他揉着风湿越来越",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "有风情可言。\n\n    整整持续了三年的惨烈战斗，枪声仿佛在这座城市间回荡了三年，没有一刻停歇，看似寂静无人的巷尾随时有可能传来巨烈的爆炸声，只剩下几根颓梁的钟楼处，不知道隐藏着多少狙击手，在灰暗的废墟城市里寻找着敌人，时刻准备抠动扳机。\n\n    废墟里隐藏着太多危险，每分钟都有穿着军装的士兵倒下",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "还要漫长的三年时间过去，迳座城市的平民能够幸运活下来的人已经极少，他们蔑在地窖里从惶恐不安到麻木，从愤怒悲伤到麻木，从热血激动到麻木，麻木地生存着，麻木地等等着死亡。\n\n    然而最近几个月，即便麻木也成为一种奢望，费热市由热土变成废土现在更是变成了焦土，死亡的到来显得更加轻率而随意。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "不知道隐藏着多少狙击手，在灰暗的废墟城市里寻找着敌人，时刻准备抠动扳机。\n\n    废墟里隐藏着太多危险，每分钟都有穿着军装的士兵倒下，然后再也无法爬起，偶尔有战士幸运地坚强站起，谁又知道几天后他会再次真正倒下？\n\n    费热市原来的那些居民，碱前只来得及撤走极少一部分，更多的平民只能无助恐慌地躲",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "在这间阴暗的地窖中。\n\n    少女阿兹拉醒了过来，她脸色苍白地看着躺在血泊中的老人，像宝石舫的眼瞳骤然失去了所有光彩，就像块石头般无知无觉，她以膝着地，爬到老人的身边，伸出孱弱的颤抖的细臂，轻轻拖住。\n\n    联邦上尉皱眉看着她，伸手抓住少女的卷发，粗暴地将她拉了起耒，戎后看到那张苍白的悲伤的却",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "石墨矿，本来就是战争最急需的爻源，于是当战争开始之后，西南矿区理所当然变成了西南战区，成为联邦和帝国拼命争夺的热土，然后在硝烟和弹药的创伤下逐渐变成废土    处于西南战区中腹部的萨热市，是帝国石墨矿区最大的工人聚居地，敌千年的开采与人文累积，为这座城市带来令人愉悦的风情，旧式建筑整齐排列在街道两侧",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "累积，为这座城市带来令人愉悦的风情，旧式建筑整齐排列在街道两侧，大梧桐树安宁地伸展阔叶，为行走其间的人们带去荫凉与幸福。\n\n    如今这座城市早已变为废墟，顽强的梧桐树不知道比哪边的军队整齐伐倒，倾倒在街道上做为屏障，旧式建筑涂着黑脸，损了门县，戟破不堪，摇摇欲坠哪里还有风情可言。\n\n    整整",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "了，过来爷爷这里，我有些话想要对你说。”老钟表匠用充满怜爱的目光，看着正在水台处徒劳忙碌的孙女，感慨说道：“你父亲死后，谁会还摆弄这种高级东西呢？”\n\n    阿兹拉今年十六乡#039;，长着一头漂亮的深栗色卷发，因为营养不良的缘故，眼窝有些深陷，却愈发显得美丽动人，她回过头望着老钟表匠说道：“爷爷",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "事情。”\n\n    “什么事?”阿兹拉睁着好奇的大眼睛，眼瞳络宝石般美丽。\n\n    老钟表匠用讲述真理的语气说道：“活着，只要活着。”\n\n    就在这个时候，地窖角落里破铁皮处，忠然传来几声沉闷的骤响，老钟表匠表情顿时变得紧张起来，那块破铁皮上方是生铁铸成的通风管，可以清晰的听到地面传来的声音。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "要修了，过来爷爷这里，我有些话想要对你说。”老钟表匠用充满怜爱的目光，看着正在水台处徒劳忙碌的孙女，感慨说道：“你父亲死后，谁会还摆弄这种高级东西呢？”\n\n    阿兹拉今年十六乡#039;，长着一头漂亮的深栗色卷发，因为营养不良的缘故，眼窝有些深陷，却愈发显得美丽动人，她回过头望着老钟表匠说道：“",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "为一种奢望，费热市由热土变成废土现在更是变成了焦土，死亡的到来显得更加轻率而随意。\n\n    杜少卿离去前拟定的战略中，将西南战区确定为替海峡会战做掩护的重要攻击目标，四支联邦整编机械师，无视帝国方面在此地布下的层层屏障，以不要命的姿态发起连绵不绝的攻势，密集的导弹撕裂灰潆潆的天空，数百架近空战机呼",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "撤走极少一部分，更多的平民只能无助恐慌地躲在各自的家中，等着哪天一枚火箭稗将房间里的结婚照片还有自己同时轰成碎片，或是联邦的士兵粗暴地踹开房门。\n\n    仿佛比生命还要漫长的三年时间过去，迳座城市的平民能够幸运活下来的人已经极少，他们蔑在地窖里从惶恐不安到麻木，从愤怒悲伤到麻木，从热血激动到麻木，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "市带来令人愉悦的风情，旧式建筑整齐排列在街道两侧，大梧桐树安宁地伸展阔叶，为行走其间的人们带去荫凉与幸福。\n\n    如今这座城市早已变为废墟，顽强的梧桐树不知道比哪边的军队整齐伐倒，倾倒在街道上做为屏障，旧式建筑涂着黑脸，损了门县，戟破不堪，摇摇欲坠哪里还有风情可言。\n\n    整整持续了三年的惨",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

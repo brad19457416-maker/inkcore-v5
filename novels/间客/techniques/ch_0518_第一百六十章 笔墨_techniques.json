@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 518,
+  "chapter_title": "第一百六十章 笔墨",
+  "filename": "ch_0518_第一百六十章 笔墨.txt",
+  "char_count": 3523,
+  "timestamp": "2026-04-10T12:05:08.543584",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "式羞辱宪章局的荣耀。\n\n    “你胆敢触犯第一宪章。”\n\n    牛得录被医疗师抬出了房间，在场的众人稍微平静了些，却不是冷静，而是开始有时间思考接下来的问题。一名面容清秀的宪章局女官员盯着许乐，用不可思议的语气说了上面那句话，就像是理所当然地判了他死刑。\n\n    军官们沉默担忧地望向许乐，心想",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "宪章光辉。\n\n    只是在他看来，宪章光辉和宪章局根本就是两码事，宪章局终究只是一个服务中央电脑的秘密机构。他曾经无数次沐浴在那片光辉中与那个存在闲聊打趣，畅游过沧海的人怎会惧怕倘过小河沟，心态不同，他根本无法像一般人那般敬畏宪章局。\n\n    听到那个眉清目秀的女官员说出那句话，他没有畏惧，只是",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，用不可思议的语气说了上面那句话，就像是理所当然地判了他死刑。\n\n    军官们沉默担忧地望向许乐，心想就算你的身后站着费城李家和国防部，可是触犯了第一宪章，谁能救你？毕竟你还不是联邦新一代的军神。\n\n    从浩劫至今日，数不清的岁月里，没有人能够挑战宪章局并且获得胜利，事实上，基本上就从来没有人",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "第一百六十章 笔墨 \n\n    虽然用尖刻微嘲不入流的言语攻击在表露愤怒，但许乐的脸部表情一直像石头般冷静，谁都不曾想到，毫无预兆，突如其来，他忽然动手，似发疯般将牛得录打倒在地，再用军靴踩上无数脚让其不得翻身。\n\n    许乐的拳脚就像是安装了刚性弹簧的机械臂，呼呼",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "更关键的是宪章局的权限和与公民颈后芯片间的不可言联系，让所有人都下意识里惧怕或者强行遗忘宪章局的存在，一旦相逢，七大家也要暂避其锋。\n\n    在场的人们从来没有看到过、听说过，事实上是联邦所有人都没有听说过有人曾经像许乐这样，以如此血腥的方式挑战宪章局的地位，以如此暴戾的方式羞辱宪章局的荣耀。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "的剧目。\n\n    军官们拦在许乐的身前，只是不想让他真把牛得录打死，却也不可能真的逮捕他，只是有些担心。\n\n    宪章光辉庇佑联邦无数年，宪章局这个机构在联邦中是个极为特殊的机构，政丨府和议会都无法对那座道路尽头的大楼指手划脚，即便是历任总统先生和军神李匹夫都要给予宪章局足够的尊重\n\n    更",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "许乐的拳脚就像是安装了刚性弹簧的机械臂，呼呼作响狂轰而下，如同训练时击打沙袋一般平静，狂风暴雨般的拳脚攻击，打的牛得录脸上鲜血横流，身上骨肉砰砰作响，场面看上去极其残忍。\n\n    牛得录惨嚎阵阵，恐惧凄厉的声音泛滥于数据中心之内，却也只是哭喊了三秒钟不到，便昏死了过去。\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "宪章局的尊严骄傲在此刻暂时压倒了对许乐身上权限的迷惘疑惑恐惧，她看着许乐带着血渍的右手，愤怒地说道：“这下你满意了？“\n\n    许乐没有回头，深色军装内紧绷的身体微微起伏，你不是因为疲累而喘息，只是因情绪波动而动。\n\n    “嗯，满意了。”\n\n    这两句对话听上去似乎颇有席勒中期荒诞喜",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "过去。\n\n    ………………\n\n    ………………\n\n    震惊无措惊恐愤怒，无数种复杂的表情出现在宪章局官员们的脸上。这一切发生的太快，快到他们根本反应不过来，自己的同事便被揍的不成人形。纵使有反应快些的官员，也被许乐疯狂般的攻击和与疯狂截然相反冷静的平静所呈现出的冷酷所震慑住，浑身寒冷，不",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "反应。\n\n    “这和我又有什么关系哩？”\n\n    看到老家伙的回答，他忍不住自嘲微涩一笑，却在走出房门前停住了脚步，回头望向室内众人\n\n    宪章局官员们因为他的一回首而顿时紧张起来，不知道这个疯子会不会再扑上来打人，那些奉命而来的宪兵更是下意识里微微抬起枪口。\n\n    “我们组里那名卷发",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "主任眯着眼睛，看着许乐挺直了微佝的身躯，愤怒的浑身颤抖，双手紧握。\n\n    她不是在学许乐或愤怒或紧张时的特有表情，而是眼镜早已碎成一地玻璃片，近视让她视线有些模糊，不眯眼无法看清眼前发生的一切啊——许乐对自己下属毫不留情的凶恶打击，和满地鲜血，依然透过眼眸，直刺内心。\n\n    宪章局的尊严骄傲",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "厚，也不可能脱逃军纪制裁和牢狱之灾。\n\n    牛得录昏迷在地上，军官们走上前去，拦在了许乐的身前，同时高声传呼战舰医疗师前来抢救伤员。\n\n    白副主任眯着眼睛，看着许乐挺直了微佝的身躯，愤怒的浑身颤抖，双手紧握。\n\n    她不是在学许乐或愤怒或紧张时的特有表情，而是眼镜早已碎成一地玻璃片，近",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "让所有人都下意识里惧怕或者强行遗忘宪章局的存在，一旦相逢，七大家也要暂避其锋。\n\n    在场的人们从来没有看到过、听说过，事实上是联邦所有人都没有听说过有人曾经像许乐这样，以如此血腥的方式挑战宪章局的地位，以如此暴戾的方式羞辱宪章局的荣耀。\n\n    “你胆敢触犯第一宪章。”\n\n    牛得录被医",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "不是大叔那类人，有些兄弟朋友漂亮的未发生关系姑娘加战友，在战场上浴血亢奋，看看电视小说，这种日子他很满足，所以他并不准备无缘无故地抛开一切，去反抗宪章光辉。\n\n    只是在他看来，宪章光辉和宪章局根本就是两码事，宪章局终究只是一个服务中央电脑的秘密机构。他曾经无数次沐浴在那片光辉中与那个存在闲聊打",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

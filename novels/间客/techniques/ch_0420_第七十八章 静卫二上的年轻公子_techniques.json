@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 420,
+  "chapter_title": "第七十八章 静卫二上的年轻公子",
+  "filename": "ch_0420_第七十八章 静卫二上的年轻公子.txt",
+  "char_count": 3623,
+  "timestamp": "2026-04-10T12:04:59.223566",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "简水儿专属工作团队早已低着头回去了自己的房间，战舰上的军人和七组的那些家伙，都从沙发上站了起来，众人刻意保持着沉默，笔挺站立目视前方，军姿庄严，啪啪啪啪地鼓着掌像在欢迎一位前来视察的首长，又像是欢迎一位血战大胜归来的不世名将。\n\n    能摘下联邦里最鲜嫩欲滴地一花。和打了一场大胜仗没有什么区别",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "团队，在主星只不过停留三天，不知道来不来得及。”\n\n    “当然来得及。”年轻公子哥摊开双手，望着天空中的恒星与阔大的主星边缘，深吸了一口气，无比陶醉道：“我一直被关在西林这个土地方，不能去首都星圈……如今既然简水儿来了，我当然要给她最热情的欢迎，然后让她永远地留在我的身边。”\n\n    下属本想",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "会不会没有一个人能够发现战舰中控系统的报警声，从而自己会被撞的翻一个大跟头。\n\n    这是极富像征意义的一幕简水在联邦内最鲜明的形象，便是那位穿着深褐色中校制服的少女战舰指挥官，而今天她真的坐在了舰长的位置上，记者们如果拍到这张照片，相信一定能在港都换一套大公寓。\n\n    这绝对违背联邦军例，但",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "极小的舞台上，为大家唱了三首歌。\n\n    看到国民少女来到眼前，军官们惊为天人的同时，站在小舞台下拼命的拍照，却集体变得羞涩起来，没有人敢靠近她。\n\n    紧接着，他们听到了简水儿语调俏皮而又可爱的一番解释，才真正地相信，她并没有与那名小眼睛安全主管间发生什么。很奇妙，同样的解释，许乐说出来没有",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "么？”\n\n    熊临泉要老实一些，说道：“头儿不是说这是误会？”\n\n    “误会个**。”兰晓龙愤怒说道：“咋不让我去和简水儿误会个一夜？再说你没看那厮刚才笑的多么**！”\n\n    ……\n\n    ……\n\n    被人误会与国民少女简水儿之间发生了什么情事，这是最美妙的一种误会。正如兰晓龙所言",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "来向这些人解释什么，这是他昨天小心翼翼的一个请求，相信从今天起，应该没有人会再来烦自己……然而不知道为什么，听到那番解释的心中又有些淡淡的悔意。\n\n    晚会之后，简水儿又登上舰最高一层的控制大厅，又引发了一场骚动在当值的军官们虽然无法脱离自己的岗位，却依然忍不住时时回头，望着坐在舰长座位上的紫发",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "传出过任何绯闻，从十六岁以后，她的私生活依然神秘或洁白，名利场里的任何事物，都没有影响到她，更不可能出现什么狗血的感情故事。\n\n    在这样的大环境下，战舰生活区无数人亲目眼睹，掐表证实，许乐……这名看着去普通平凡的年轻安全主管，居然在众目睽睽之下，进入了简水儿的闺房，甚至过了一夜，时间长达……十",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "大家不要误会。”\n\n    没有人理他兰晓龙目不斜视，用固定的节奏鼓着掌，压低声音对身旁七组的汉子们感慨道：“虽说跟着这种头儿出去混，肯定很有脸，但……好白菜都让他给拱了，咱们混什么？”\n\n    熊临泉要老实一些，说道：“头儿不是说这是误会？”\n\n    “误会个**。”兰晓龙愤怒说道：“咋不让我",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "情的欢迎，然后让她永远地留在我的身边。”\n\n    下属本想劝说一些什么，但想到这位少爷冷酷而野蛮的性格，再想到祖宅那位现在又已经去了前线，只好默然地闭上了嘴，开始同情那位红遍宇宙的国民少女。\n\n    ……\n\n    ……\n\n    （提前说好的两章哈，今天平安夜，陪领导吃饭看电影去……这次没说某",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "考虑这些问题。\n\n    这场战舰上的风波，终于由于一场晚会而告终。\n\n    简水儿走下核心楼层，来到休息区与众同乐，甚至还站在极小的舞台上，为大家唱了三首歌。\n\n    看到国民少女来到眼前，军官们惊为天人的同时，站在小舞台下拼命的拍照，却集体变得羞涩起来，没有人敢靠近她。\n\n    紧接着，他",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "地的纪录。\n\n    人们震惊地发现，国民少女大概是真的……恋爱了，如果不是身在战舰之上，他们肯定会马上将这个爆炸性的新闻，与所有的家人好友分享，然后整个联邦或许都会乱成一团。\n\n    然而只有当事人才知道实情并不是这样，红酒夜话之后，许乐和他所保护的简水儿之间，确实变得熟稔亲近了很多，然而只不过",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "众同乐，甚至还站在极小的舞台上，为大家唱了三首歌。\n\n    看到国民少女来到眼前，军官们惊为天人的同时，站在小舞台下拼命的拍照，却集体变得羞涩起来，没有人敢靠近她。\n\n    紧接着，他们听到了简水儿语调俏皮而又可爱的一番解释，才真正地相信，她并没有与那名小眼睛安全主管间发生什么。很奇妙，同样的解",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "的岗位，却依然忍不住时时回头，望着坐在舰长座位上的紫发少女。\n\n    站在简水儿后的许乐此刻甚至很担心，如果前面出现一颗陨石，会不会没有一个人能够发现战舰中控系统的报警声，从而自己会被撞的翻一个大跟头。\n\n    这是极富像征意义的一幕简水在联邦内最鲜明的形象，便是那位穿着深褐色中校制服的少女战舰",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "倚在门边地叶小桐舰长敬了个礼着脸解释道：“不要误会。”\n\n    叶小桐舰长端起咖啡杯喝了一口，耸肩说道：“我只是来看热闹的用向我解释什么。”\n\n    许乐转身望着休息区里的众人，尴尬苦笑说道：“大家不要误会。”\n\n    没有人理他兰晓龙目不斜视，用固定的节奏鼓着掌，压低声音对身旁七组的汉子们感",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "怀安慰，无数大叔聊以自慰，无数大妈稍感欣慰却又有些着急的是，国民少女从来没有传出过任何绯闻，从十六岁以后，她的私生活依然神秘或洁白，名利场里的任何事物，都没有影响到她，更不可能出现什么狗血的感情故事。\n\n    在这样的大环境下，战舰生活区无数人亲目眼睹，掐表证实，许乐……这名看着去普通平凡的年轻安",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "人遇到许乐当天凌晨遇到的那个场面，除了羞怒之外，想必内心深处难免也会生出小小得意，几分说不清道不明的甜蜜感觉。\n\n    虽然事后反省，许乐知道这种思想实在有些不对，至少没有顾及到简水儿的感受和清誉，然而他转念一想，若是相亲，被误会一下又怕什么？\n\n    所谓男人或者男生啊。\n\n    在此后的旅",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 200,
+  "chapter_title": "第一百三十九章 一斧劈出个将来（上）",
+  "filename": "ch_0200_第一百三十九章 一斧劈出个将来（上）.txt",
+  "char_count": 3577,
+  "timestamp": "2026-04-10T12:04:45.725275",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "机甲与银色之间的对抗，烟雾弥漫间的对话，这些回忆都在许乐的脑海中。\n\n    那次机甲对战里周玉极有风度的表现给他留下的印象极好，他隐约觉得周玉已经知道了那台捧腹而走的原型机甲内是自己，但既然对方一直没有直接问过，他也没有承认什么。\n\n    邰之源潜，施清海遁，许乐除了身边那位未婚妈妈之外，在首都",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "清海遁，许乐除了身边那位未婚妈妈之外，在首都星圈里孤单的一塌糊涂，如果说孤独的人是可耻的，那许乐毫无疑问可耻到人神共愤的程度。\n\n    他是一个年轻人，自然也有与人交往的精神需要，加上对周玉的印像一向极好，所以春初招募考试别后，二人虽然未曾再见过面，但也有过几次通话联系。\n\n    许乐让开自己身",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "那和电子围墙那头只识低头吃草的野牛没有什么区别。\n\n    他在想这林园，想桌上美食，想窗外风景，想日后，他想地清楚，所以他曲起腿来，拈着酒杯。隐约间又变成了当年那个街道上的孤儿。\n\n    望都的府明公寓没有人进来过。布置在单元楼四周的监视设备，确认了安全。邹郁的预产期在七月末。已经搬回了西山大院",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，所以请放心，我会很好地配合你。”\n\n    被周玉直接提到了往事，想着当年梨花大学里两台机甲之间的战斗，许乐看着周玉地双眼，忍不住自嘲地笑了起来，没什么英雄相惜，两个人只是发现彼此有些意气相投。\n\n    “我现在在工程部办公室，安达被特招做了机甲试机师。”周玉放下酒杯，侧身望着许乐，沉默许久之后",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "不知为何，看着面前这个比自己大不了两岁的年轻军官，许乐却觉得心情变得放松了许多。\n\n    他与周玉第一次相见是在梨花大学的综合馆机甲对战室内，黑色机甲与银色之间的对抗，烟雾弥漫间的对话，这些回忆都在许乐的脑海中。\n\n    那次机甲对战里周玉极有风度的表现给他留下的印象极好，他隐约觉得周玉已经知道",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "”\n\n    被周玉直接提到了往事，想着当年梨花大学里两台机甲之间的战斗，许乐看着周玉地双眼，忍不住自嘲地笑了起来，没什么英雄相惜，两个人只是发现彼此有些意气相投。\n\n    “我现在在工程部办公室，安达被特招做了机甲试机师。”周玉放下酒杯，侧身望着许乐，沉默许久之后说道：“说来说去，还是你这个东林",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "离唇，看似极温和，实则极快速地将杯中酒饮尽，与许乐手中的酒杯同时放到桌上。\n\n    “我也没想到，进入研究所几个月地时间，你就惹出了这么多事。”周玉饮完杯中酒后，才将军帽放到了身边的桌上，微转身体，看着许乐平静说道：“我来的意思，你应该很明白。”\n\n    此时竹居桌畔流水之侧有三人。邹郁是邰夫人",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的那些数据，如果要变成实实在在的新一代机甲，中间还需要很多人的努力。\n\n    迫于对方的压力，许乐马上便要被调离果壳本部，被发配到果壳机动公司下属的白公保安公司，他的数据则要送到果壳机动公司工程部，这中间便需要一个渠道。\n\n    虽然利家与联邦科学院已经不再管他，但对方一定会盯着许乐，许乐如果直",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "周玉将红泥酒杯放到唇边，微起手腕。杯沿不离唇，看似极温和，实则极快速地将杯中酒饮尽，与许乐手中的酒杯同时放到桌上。\n\n    “我也没想到，进入研究所几个月地时间，你就惹出了这么多事。”周玉饮完杯中酒后，才将军帽放到了身边的桌上，微转身体，看着许乐平静说道：“我来的意思，你应该很明白。”",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "个月地时间，你就惹出了这么多事。”周玉饮完杯中酒后，才将军帽放到了身边的桌上，微转身体，看着许乐平静说道：“我来的意思，你应该很明白。”\n\n    此时竹居桌畔流水之侧有三人。邹郁是邰夫人一手调教出来的女子，加上她家庭的关系，许乐与周玉的谈话根本不需要避着她。\n\n    许乐手指轻轻握着酒杯，陷入了",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "无疑问可耻到人神共愤的程度。\n\n    他是一个年轻人，自然也有与人交往的精神需要，加上对周玉的印像一向极好，所以春初招募考试别后，二人虽然未曾再见过面，但也有过几次通话联系。\n\n    许乐让开自己身边的位置，给周玉斟满了一杯酒。\n\n    机修师像是主刀的医生一般，最需要的便是双手的稳定，他是一",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "便会显得格外可怕。\n\n    就像此时，林园内美仑美奂，无音乐烦耳，却有流水淙淙可以清心，用餐谈话的人们，或者说人物。衣着简约而名贵合体，举手投足间优雅而安静，唯有他身边的许乐，穿着一件不知道什么牌子，大概也没花多少钱，还有很多皱纹的休闲衫，就这样坐在林园最贵的竹居隔间中。\n\n    坐便坐了，还曲",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，无音乐烦耳，却有流水淙淙可以清心，用餐谈话的人们，或者说人物。衣着简约而名贵合体，举手投足间优雅而安静，唯有他身边的许乐，穿着一件不知道什么牌子，大概也没花多少钱，还有很多皱纹的休闲衫，就这样坐在林园最贵的竹居隔间中。\n\n    坐便坐了，还曲着一条腿，捏着酒杯的手放在膝头之上，微低着头。像极了电",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

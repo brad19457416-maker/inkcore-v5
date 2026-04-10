@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 382,
+  "chapter_title": "第一百八十七章 囚而养之（上）",
+  "filename": "ch_0382_第一百八十七章 囚而养之（上）.txt",
+  "char_count": 2456,
+  "timestamp": "2026-04-10T12:11:21.770472",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "身体上。\n　　……\n　　……\n　　不知道过了多长时间，宁缺醒了过来。\n　　他沉默看着崖洞外那片湛蓝的天空，若有所思。\n　　山崖绝壁流云间，天地元气无处不在，青树静水游鱼里，依然有天地元气，那么进入人类的身体，依然还是天地元气，如此思考，昊天道门挥手而至的昊天神辉和魔宗强者身躯内的真气，又有什么本质的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "但桑桑依然感觉到，宁缺正在发生着某种变化。\n　　因为她能感觉到身周的空间里，似乎有某种很淡渺的存在，甚至比风更加淡渺的存在，正在缓慢向着宁缺的身体靠拢而去，山崖绝壁间的晨雾，仿佛也感受到某种召唤，飘进洞中轻轻覆在宁缺的身体上。\n　　……\n　　……\n　　不知道过了多长时间，宁缺醒了过来。\n　　他",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，走入崖洞后便瞬间文静的有若案上的绢布。\n　　宁缺没有浪费任何时间，简单行过礼后，便拿出这些天里记载疑问的纸张，认真请教自己在阅读当中所遇到的疑难。\n　　余帘略一思忖后开始解答，言语简洁甚至过于简单，显得有些惜字如金，然而便是这些简略的回答，却往往能落在最要害的地方，直接让宁缺凝滞的思绪骤然开朗，轻",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "时间，简单行过礼后，便拿出这些天里记载疑问的纸张，认真请教自己在阅读当中所遇到的疑难。\n　　余帘略一思忖后开始解答，言语简洁甚至过于简单，显得有些惜字如金，然而便是这些简略的回答，却往往能落在最要害的地方，直接让宁缺凝滞的思绪骤然开朗，轻而易举看到雾中新的道路。\n　　最后宁缺犹豫片刻后，开始请教那卷",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "作虚无。\n　　十天的时间很快便过去，三师姐余帘翩然而至，宽松的院服在悬崖绝壁间鼓荡如旗，走入崖洞后便瞬间文静的有若案上的绢布。\n　　宁缺没有浪费任何时间，简单行过礼后，便拿出这些天里记载疑问的纸张，认真请教自己在阅读当中所遇到的疑难。\n　　余帘略一思忖后开始解答，言语简洁甚至过于简单，显得有些惜字如",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "地元气。\n　　这道气息擦着宁缺的肩头飞过，悄无声息落在坚硬的崖洞岩壁上，发出嗤的一声轻响，洞壁上顿时出现一个漆黑的浑圆小洞。\n　　那小洞竟不知有多深。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "是保护，是修补。\n　　养气便是对吸纳进身躯里的天地气息，进行上述的这些动作。\n　　宁缺按照书中所述，进入了一种近乎冥想的状态，却不像冥想那般深沉，依然与真实的世界保留着丝缕不断的联系。\n　　这种联系便是呼吸，或者说吐纳。\n　　崖洞里的空气，依遁着呼吸的节奏，进入他的肺部，然后再从口鼻处回到外部，空气",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "在那两卷书的帮助下，宁缺对浩然气的掌握越来越深刻，身躯里的浩然气养蓄的越来越精纯，越来越雄浑，同时他对天地元气的运转规律以至存在道理有了更多的理解，甚至在符道上都有了明显的进益。\n　　他隐约察觉到解决夫子这道难题，破开禁制离开崖洞的关键所在，却始终还是无法抓住那根线头，怎样也想不明白，如何能够",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "吸纳天地元气转换为浩然气的过程始终缓慢并且，此时终于发现能够主动修行浩然气，从而强大变成一种可控制可期待的事情，震惊然后开始喜悦，这便是惊喜。\n　　夜已深沉至极浓处，便是晨光将起时，崖洞里桑桑在一旁打着瞌睡，宁缺盘膝而坐，认真地呼吸吐呐着每一口空气。\n　　他感受着天地元气涌入自己的身体，就像嗜酒的酒",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "坐在崖洞外借着天光绣花的桑桑，以为师姐此时之所以沉默，是因数有书院外人在场，有些不便。\n　　余帘微笑说道：“老师既然让这小姑娘陪着你，便不介意她在旁一同听讲，而且所谓养气看似魔宗功法，但这崖洞远在云端世外，何必在意？”\n　　……\n　　……\n　　第二天，陈皮皮喘息着爬上了崖坪。\n　　宁缺自然对他好生嘲",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

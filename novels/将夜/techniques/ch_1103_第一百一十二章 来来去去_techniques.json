@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1103,
+  "chapter_title": "第一百一十二章 来来去去",
+  "filename": "ch_1103_第一百一十二章 来来去去.txt",
+  "char_count": 3397,
+  "timestamp": "2026-04-10T12:11:34.915102",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "断了。\n　　宁缺的眉心被剑刺出一蓬血水，这一次，他的眼睛真的被染红。\n　　虽然受到了那道剑的隔绝，他最终还是成功地攻击到了酒徒，虽然最后残留的力量，已经无法直接将酒徒的头砸碎。\n　　酒徒暴怒厉啸，难掩痛楚。\n　　厉啸骤止，因为他们已经落到了地面。\n　　轰的一声异响，崖石乱飞，烟尘弥漫。\n　　宁缺的身",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "个人间？\n　　只是他没有想到自己依然回来的晚了，他没有听到观主说的那句话，自然没有想到那句话对酒徒的意义，他也没有想到像酒徒这种层级的大修行者，居然会如此无耻，会如此阴险地对大师兄进行偷袭。\n　　看到大师兄流血，看到那柄残留在他身体里的壶中剑，他仿佛感同身受，痛的愤怒到了极点，红了双眼，哪里还顾得了",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "时山崖间有四个人。\n　　观主、大师兄、酒徒还有宁缺。\n　　桑桑已经进了贺兰城。\n　　虽然没有人知道她为什么一定要入贺兰城，但很显然，她有信心，只要进入贺兰城，便能摆脱观主和酒徒的追缀，成功回到长安。\n　　“杀了她。”\n　　山崖间响起观主的声音，平静而坚定，没有任何犹豫。\n　　这句话是对酒徒说的。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "身体，除了叶红鱼，根本没有谁是他的对手。\n　　问题在于，论修行境界，他与酒徒的差距极大，如果是正常的战斗，他连靠近对方身边都做不到，如何攻击？此时靠着偷袭以及大师兄那记天下溪神指的本命，他极难得地与对方靠在了一处，他当然要珍惜这种机会。\n　　珍惜，自然手段尽出！\n　　在向地面落下的数百丈距离里，足够",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "桑桑在佛祖棋盘里双修数千年，他的身躯格外强大，从脚趾头到腑脏，都很难被致命地伤害，当初在长安城头看着离去的桑桑，他想捏破自己的心脏都很困难，更何况是被敌人所伤？\n　　他还没有修到传说中的魔宗不朽，但现在的他就是蒸不烂、煮不熟、捶不匾、炒不爆、响一粒铜豌豆，你可以战胜他，却很难杀死他，所以他又可以是一",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "此阴险地对大师兄进行偷袭。\n　　看到大师兄流血，看到那柄残留在他身体里的壶中剑，他仿佛感同身受，痛的愤怒到了极点，红了双眼，哪里还顾得了山崖近在眼前？\n　　他抱着酒徒，像块石头般轰向山崖。\n　　酒徒脸色苍白，做为无距境的大修行者，他最忌讳的事情，便是被武道巅峰强者或者像宁缺余帘这样的魔道强者近身，而",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "徒召引并且重构了数百层天地气息，这看似简单，实际上展现了难以想象的强大境界！\n　　坚硬的山崖前方忽然出现一道无形的沼泽。\n　　宁缺抱着酒徒，像颗流火的石头，轰进了这片沼泽里。\n　　一声巨响，在山崖间响起，因为撞击不是很脆，所以不是轰的一声，而是嗡的一声，听上去就像是一把重锤，击打在厚厚的纸上。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "大师兄流血，看到那柄残留在他身体里的壶中剑，他仿佛感同身受，痛的愤怒到了极点，红了双眼，哪里还顾得了山崖近在眼前？\n　　他抱着酒徒，像块石头般轰向山崖。\n　　酒徒脸色苍白，做为无距境的大修行者，他最忌讳的事情，便是被武道巅峰强者或者像宁缺余帘这样的魔道强者近身，而此时，他被宁缺偷袭锁死，如何能够避开",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "带着酒徒的身体，再次向着坚硬的崖石地面坠落！\n　　坠落之势极速！\n　　同时，他用双臂扼住酒徒的咽喉，骤然发力，前额狠狠地砸向酒徒的后脑，右膝阴险地提起，袭向酒徒的会阴！\n　　他最擅长近身战，生生打死阿打，轰死横木，直至在那条怒河畔杀死隆庆，他最后靠的都是身体，除了叶红鱼，根本没有谁是他的对手。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "更密的裂缝，借着巨大的反震力，带着酒徒的身体，再次向着坚硬的崖石地面坠落！\n　　坠落之势极速！\n　　同时，他用双臂扼住酒徒的咽喉，骤然发力，前额狠狠地砸向酒徒的后脑，右膝阴险地提起，袭向酒徒的会阴！\n　　他最擅长近身战，生生打死阿打，轰死横木，直至在那条怒河畔杀死隆庆，他最后靠的都是身体，除了叶红鱼",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "居然……敢偷袭我？”\n　　他的声音也极其冷漠，仿佛不是人类。\n　　因为他此时已经愤怒到极点。\n　　他从来没有想过，自己居然会被一个未能逾越五境的后辈，逼到如此狼狈的境地，更令他愤怒的是，自己真的险些被对方杀了！\n　　这一切，他认为都是因为宁缺是偷袭，不然凭什么？\n　　宁缺真的没见过这么无耻的人。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "天地气息，被他浩瀚的念力召引而至，层层叠叠铺在他面前的空气里。\n　　每层天地气息都很薄，比纸还薄，但无数层天地元气叠加起来，就像无数张纸叠加在一起，非但拥有了厚度，而且极能卸力。\n　　在如此短的时间里，酒徒召引并且重构了数百层天地气息，这看似简单，实际上展现了难以想象的强大境界！\n　　坚硬的山崖前方",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

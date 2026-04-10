@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 836,
+  "chapter_title": "第一百九十章 我的战斗二",
+  "filename": "ch_0836_第一百九十章 我的战斗二.txt",
+  "char_count": 3474,
+  "timestamp": "2026-04-10T12:05:17.616447",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "设置好了 延伸近三百米的四道火力封锁线，在更远的青葱大树间，红外线感应仪也已经开始工作，当有叶片被秋风吹落时，便会响起嘀嘀的排除异响。\n\n    至此这间军事法庭已经被检查完毕，铁七师官兵确认里面是干净的，至于如果审判当天有人想从外面冲进来，他必将面临联邦部队最高效的火力封锁网。\n\n    高大的落",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "了南相家宣布接过钟家小公主的保护权外，便再也没有任何重要的事情生。\n\n    这种沉就很诡异，而且很危险，那些家族似乎是在等着某些事情生，在等待着某种一击即杀的机会。\n\n    政府很容易地便把七大家的沉就和消失的许乐联系起来，令人感到不安的紧迫感回荡在各机构各部门之中，联邦调查局，宪章局以及相关战",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "第一百九十章 我的战斗二 \n\n    两句对话，一瞬间。\n\n    父子二人同时明白了很多事情。李封终于明白为什么在过往这些年里，那个西林如虎的男人会要求在外界尤其是在费城面前保持距离感，李在道则是极快地 捕捉到李封的愤怒由何而来，震惊地现原来他和那",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "百名精锐军人分成三个小组，仔细到挑剔地审查着各处的安全设施，包括法庭下方的地下 通道。\n\n    军人们近乎一厘米一厘米地检查着幽暗湿漉的通道墙壁，尤其是那些可以通往地面的门阀更是重中之重，直到确认没有任何入痕迹，他们才贴上高分子材料构成的封条，并且负责任地签上自己的姓名。\n\n    法庭内部的十几",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "行一场例行的安全检查，只是今天的检查显得格外严密。\n\n    紧接着，一批乘坐装甲军车而来的野战部队来到法庭区，进行第二轮的安全检查，这些 隶属于铁七师的精锐军人，面无表情地将刚 刚完成自己工作的联邦调查局特工们请出相关区域，至于原本负责此地安控工作的法警，则早已不知道去了哪里。\n\n    铁七师来",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "往这些年里，那个西林如虎的男人会要求在外界尤其是在费城面前保持距离感，李在道则是极快地 捕捉到李封的愤怒由何而来，震惊地现原来他和那个死在古钟号上的男人间竟有如此深厚的感情。\n\n    李封没有质问办公桌后的父亲，那场古钟号大爆炸和他有什么关系，因为他知道那只是徒然，只是用极其复杂的情绪看着他。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "十章 我的战斗二 \n\n    两句对话，一瞬间。\n\n    父子二人同时明白了很多事情。李封终于明白为什么在过往这些年里，那个西林如虎的男人会要求在外界尤其是在费城面前保持距离感，李在道则是极快地 捕捉到李封的愤怒由何而来，震惊地现原来他和那个死在古钟号上的男人间竟有如此深厚的感情。\n\n    李封",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "露台上微笑接了一个电话。\n\n    那幢漆着小眼睛图案的建筑之中，响起兴奋的喊叫：“目标确定，许乐会出现在空港！不够嗨，所以写的慢，但一直在写，希望能越写越嗨，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "李在道缓缓合拢自己双手，徽8着头若有所思地看着指 间的皱纹，似乎在消化最令自己骄傲的儿子给予自己最沉重的心理打击。\n\n    片刻后他抬起头来，极具智慧和决断力地中断关于古钟号和那头老虎的争论，脸上没有一丝表情冷漠说道：“你应该已经看到总统先生和我签署的命令，那就准备做战吧。”“做战？”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "他才是我父亲。”李封的眼光仿佛要燃烧起来，盯着办公桌后的他，极深处有极复杂的感情。\n\n    李在道缓缓合拢自己双手，徽8着头若有所思地看着指 间的皱纹，似乎在消化最令自己骄傲的儿子给予自己最沉重的心理打击。\n\n    片刻后他抬起头来，极具智慧和决断力地中断关于古钟号和那头老虎的争论，脸上没有一丝",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "第一百九十章 我的战斗二 \n\n    两句对话，一瞬间。\n\n    父子二人同时明白了很多事情。李封终于明白为什么在过往这些年里，那个西林如虎的男人会要求在外界尤其是在费城面前保持距离感，李在道则是极快地 捕捉到李封的愤怒由何而来，震惊地现原来他和那个死在古钟号上的男人间竟有",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "以我很愤怒。”\n\n    李在道沉就打量着自己的儿子，眉尖微挑，颇堪捉摸地捕捉着他最真实的情绪，悠然说道：“我是你父亲。”\n\n    “现在我更希望他才是我父亲。”李封的眼光仿佛要燃烧起来，盯着办公桌后的他，极深处有极复杂的感情。\n\n    李在道缓缓合拢自己双手，徽8着头若有所思地看着指 间的皱纹",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，在我的春春期成长阶段，有一个强大的男人背影一直在眼前，我向他学习，试图赶上甚至越他。\n\n    我从来没有想过，那个如此强大的男人，居菇女因为如此恶心的阴谋而死亡，所以我很愤怒。”\n\n    李在道沉就打量着自己的儿子，眉尖微挑，颇堪捉摸地捕捉着他最真实的情绪，悠然说道：“我是你父亲。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

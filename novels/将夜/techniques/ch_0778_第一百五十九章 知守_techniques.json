@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 778,
+  "chapter_title": "第一百五十九章 知守",
+  "filename": "ch_0778_第一百五十九章 知守.txt",
+  "char_count": 3459,
+  "timestamp": "2026-04-10T12:11:27.147672",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "总习惯于用手里的粉笔当武器那样，他自然也想起了这些年里自已时常接触的那些事物。\n　　大师兄动念，便有风从城北呼啸而至，卷起街道上的残雪，拂动街道两旁的宅院废墟与垮塌的檐，拂动能够遇到的一切事物。\n　　瓦片颤动发出低沉的撞击声，如石钟，有酒楼的破幡在寒风中飘舞，嘶啦作响，如断弦的琴，风从断垣缝隙里穿过",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "么事情？”\n　　大师兄说道：“我现在能够追上您。”\n　　观主说道：“前些天是我在追你，现在你要追我，意义何在？”\n　　大师兄说道：“只要能够追上您，那么便有一起离开的机会。”\n　　观主说道：“我明白你的意思，遗憾的是现在你受了很重的伤，你很难再追上我，而且最关键的是，你没有力量。”\n　　他看着这对书",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "他多年前便迈过了那道门槛，真正的万法皆通，学贯道佛魔，实势之强更在莲生之上，堪称千年以来的道门最强者。\n　　不幸的是，他的和夫子轲浩然二人生活在同一个年代，而那两个人则是万年难遇，所以他才被迫沉寂低调了这么多年。\n　　现在的人间已经没有夫子，早已没有轲浩然，他便是人间最高崛的那座山峰，最强大的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "如箫。\n　　这些残破的感伤的悲伤的声音，合在一起，便是一首如泣如诉的曲子，曲声并不悠扬，只是幽哀不尽来到了观主的身前。\n　　观主停步望向街对面，神情微凝，出指。\n　　大师兄伸手向街旁的巷坊，把城南无数道街巷，变成了棋枰之上的纵横棋路，他便是棋枰畔的弈道高手，瞬间把那道指意切割成无数碎片。\n　　观主拂",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "着这个普通的道人，想着那个普通的名字，神情渐肃――道门领袖把魔宗功法修行的比自已这个宗主还要强大，这究竟是一个怎样的人？\n　　“这是昊天的世界，我遵循昊天的规则，于是所有昊天的规则便能为我所用，除非你们现在拥有了挑战昊天的能力，不然永远不可能战胜我。”\n　　观主看着风雪对面的二人，平静说道：“你们二",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "通符道，所以没有继承惊神阵，但他能够运用这座阵里的天地气息。\n　　当木棍落下时，那堵千年城墙没有再次出现在街上，只是发出啪的一声轻响。\n　　朱雀大街上空的云层里，也随之发出一声轻响。\n　　然后是巨响，无数声巨响。\n　　无数道闪电，从云层里钻出，然后劈落长街，向观主的身体劈去。\n　　这些闪电非常密集，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "下，他除了哭还能做什么呢？\n　　观主负手从他身旁走过，没有看他一眼，脸上也没有什么表情。\n　　大师兄感慨说道：“能哭出来也好，不至于郁郁。”\n　　余帘却眉头微蹙，看着街那头说道：“我们还没死，书院还没亡，哭什么哭？”\n　　观主正在缓步走来，来自昊天的力量灌注到他的身躯里，让他变得越发强大，但余帘说的",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "不尽来到了观主的身前。\n　　观主停步望向街对面，神情微凝，出指。\n　　大师兄伸手向街旁的巷坊，把城南无数道街巷，变成了棋枰之上的纵横棋路，他便是棋枰畔的弈道高手，瞬间把那道指意切割成无数碎片。\n　　观主拂袖一卷，把那些纵横棋道卷乱，再出指。\n　　大师兄松手把木棍扔到身前的湿街上。\n　　他不通符道，所",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。\n　　大师兄伸手向街旁的巷坊，把城南无数道街巷，变成了棋枰之上的纵横棋路，他便是棋枰畔的弈道高手，瞬间把那道指意切割成无数碎片。\n　　观主拂袖一卷，把那些纵横棋道卷乱，再出指。\n　　大师兄松手把木棍扔到身前的湿街上。\n　　他不通符道，所以没有继承惊神阵，但他能够运用这座阵里的天地气息。\n　　当木棍",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，平静说道：“你们二人能够给我带来如此多的麻烦，已经超出我的想象，甚至让我觉得有些佩服。”\n　　“李慢慢，如果你不是愚蠢到在这七天时间内消耗太多，如果你不是愚蠢到前面数十年都不想学打架，或者你可以尝试一直拖着我。”\n　　“林雾，如果数日前你没有与熊初墨战上一场，或者今日雪街之上，你真能找到一些机会来",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "他除了哭还能做什么呢？\n　　观主负手从他身旁走过，没有看他一眼，脸上也没有什么表情。\n　　大师兄感慨说道：“能哭出来也好，不至于郁郁。”\n　　余帘却眉头微蹙，看着街那头说道：“我们还没死，书院还没亡，哭什么哭？”\n　　观主正在缓步走来，来自昊天的力量灌注到他的身躯里，让他变得越发强大，但余帘说的也没",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 945,
+  "chapter_title": "第一百一十八章 贪",
+  "filename": "ch_0945_第一百一十八章 贪.txt",
+  "char_count": 4521,
+  "timestamp": "2026-04-10T12:11:27.525474",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。\n　　走在烟尘里，也是走在旧路上。\n　　宁缺和桑桑在这座城里生活过很长一段时间，他曾经背着她在这里逃亡，很多街巷都留下过他的足迹，也留下过很多被他杀死的民众的血迹，只是近三年时间过去，那些血迹早就已经看不见了。\n　　……\n　　……\n　　在悬空寺崖坪上进入棋盘，出来时便到了朝阳城，看似不可思议，实际",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "。\n　　宁缺微怔，把碗筷放进盆里，擦净手上的水，追到她的身旁。\n　　站在溪旁的树林里，她背着手，看着天空沉默不语。\n　　宁缺看着树上那个拳印，发现不过半年时间，因为树皮重生的缘故，竟变得浅了很多，自然也显得淡了很多。\n　　他的心情变得淡起来，终究是要离开吗？\n　　桑桑说道：“在一起，不是就真的在一起",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "了光。\n　　桑桑就是这个世界的上帝，她说要喝茶，自然就要有茶――明明她可以变出无数种好茶来，但不知道为什么，她偏要宁缺去买。\n　　宁缺确实有些累，但也有些高兴，因为他知道，桑桑这样的表现，证明她与人间的联系越来越深，她越来越像人类。\n　　当天夜里，他敲开了朝阳城最大那间茶庄的门，用二两银子买了七十四",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "半斤猪头肉，很简单便解决了晚饭。\n　　桑桑看着碗里剩下的几片猪头肉，忽然说道：“菜太少。”\n　　宁缺心想日子过久了，谁家耐烦天天弄一桌子菜？他很自然地转了话题：“明天弄些好吃的，对了，今天的戏觉得好看吗？”\n　　桑桑脸上没有表情，起身向院外走去。\n　　宁缺微怔，把碗筷放进盆里，擦净手上的水，追到她的",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "条佛祖开辟的空间通道，这张棋盘便是开启这条空间通道的钥匙。\n　　当年宁缺和桑桑从东南隅的烂柯寺，直接来到西荒深处的悬空寺外，今日则是从悬空寺，直接来到了朝阳城里。\n　　二人此时在朝阳城里行走，看起来自然是为了寻找佛祖的踪迹中，但其实，无论桑桑还是宁缺都很清楚，佛祖不可能在这座城里。\n　　在人间，便不",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "天，而不再是拥有桑桑这个名字的她，她将不再是她。\n　　她想继续是她，她想继续拥有桑桑这个名字，更令她愤怒和不安的是，她竟然想继续和他在一起，就这样在小院里过下去。\n　　青菜肥肉白米饭，清茶对弈闲看天，这样的体验不是很糟糕。\n　　于是她不想佛祖，不想书院，不想道门，不想神国，不理人间，只要这样的日子持",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "响，竟是所有寺庙都在鸣钟，宁缺听的清楚，最响亮的钟声，来自城北方向，应该是白塔寺里那座古钟。\n　　行人们有的正在吃凉粉，有的正捧着蕉叶吃手抓饭，有的正在看猴戏，各种喜乐，听着钟声，赶紧放下手中的事情，向最近处的寺庙走去。\n　　有些人无法离开，直接跪在街道上，双手合什祈祷不停。耍猴戏的汉子，也诚惶诚恐",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "在一棵树上看见了一个很深的拳印。\n　　当年他要照顾病重的桑桑，要时刻警惕佛道两宗的追杀，时刻都在焦虑紧张的情绪里，在快要支撑不住的时候，他到溪边想对着树砸拳发泄一番，却哪里想到他的拳头是那样的硬，一拳就险些把那棵给砸断了。\n　　看着树上的拳印，宁缺笑了起来，他很高兴这棵树没有断，也很高兴自己的拳印也",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "上了很多灰尘，抹在柴房窗缝里的腻子已经干裂剥落。\n　　桑桑看着破旧的小院，有带着湿意的风从院后飘来，瞬间便所有房屋里的灰尘带走，小院顿时变得十分干净。\n　　她推开柴房的门，想了想，没有进去，转身走进卧室，躺到了床上，现在她不再是冥王之女，自然不需要躲着谁。\n　　“晚上多做些青菜吃。”她说道。\n　　宁",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "桑也没有说，二人看起来，是真的在寻找佛祖，而既然是寻找，那么自然需要时间。\n　　“先找个地方住下，再慢慢找。”他说道。\n　　桑桑没有说话，沉默便是她表示同意，如果她要反对，会直接开口说话，或者把宁缺千刀万剐，以此来表明自己的态度。\n　　城北某处嘈杂的街区里，有栋很幽静甚至显得死寂的院子，正是二人以前",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "来越像人类。\n　　当天夜里，他敲开了朝阳城最大那间茶庄的门，用二两银子买了七十四种各国最出名的茶叶，同时还打包了好些套名贵的茶具。\n　　喝了三天茶，桑桑忽然又说道：“要下棋。”\n　　于是宁缺屁颠屁颠地到处去搜刮最好的棋具，只是这一次要满足桑桑的要求比较麻烦，因为下棋这种事情总是需要对手的。\n　　“你",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "二人看起来，是真的在寻找佛祖，而既然是寻找，那么自然需要时间。\n　　“先找个地方住下，再慢慢找。”他说道。\n　　桑桑没有说话，沉默便是她表示同意，如果她要反对，会直接开口说话，或者把宁缺千刀万剐，以此来表明自己的态度。\n　　城北某处嘈杂的街区里，有栋很幽静甚至显得死寂的院子，正是二人以前住过的那个小",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "喝了三天茶，桑桑忽然又说道：“要下棋。”\n　　于是宁缺屁颠屁颠地到处去搜刮最好的棋具，只是这一次要满足桑桑的要求比较麻烦，因为下棋这种事情总是需要对手的。\n　　“你水平太差。”桑桑看着满棋盘的白子，对他说道。\n　　身为男人，最恨的事情，就是下棋打牌的时候输给自己的女人，宁缺这时候心情本来就极度不爽",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

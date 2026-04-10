@@ -1,0 +1,76 @@
+{
+  "novel": "将夜",
+  "chapter_number": 425,
+  "chapter_title": "第二百三十章 不要脸之争，以及吹牛",
+  "filename": "ch_0425_第二百三十章 不要脸之争，以及吹牛.txt",
+  "char_count": 1710,
+  "timestamp": "2026-04-10T12:11:21.765595",
+  "techniques_count": 5,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "有想到，言语之后等待自己的果然是这样一个局面。\n　　看着王景略从怀中取出由天枢处核发的挑战公证书，他心想这真是毫无新意，果然又是要打一场，真的很俗套。\n　　而且如果说一开始许世便准备用军中强者，直接把自己打落尘埃，那么以他的威望地位，何必还要与自己说那么多话？\n　　难道许世还真指望用言语让自己感动涕",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "一开始许世便准备用军中强者，直接把自己打落尘埃，那么以他的威望地位，何必还要与自己说那么多话？\n　　难道许世还真指望用言语让自己感动涕零，深感悔悟从而向军部投案自首，承认那些人是自己杀的？这种想法也很俗套。\n　　不过不管这件事情俗或不俗，王景略已经站在了身前，神情很温和，眼神很坚定，想打一架的意思很",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "景略，任何敢自称知命以下第一人的家伙，都值得警惕，而且他从师傅颜瑟处，听说过一个故事。\n　　两年前春风亭雨夜时，他在横二街杀人，王景略在街心马车里等待，两人本来应该相遇，却被一道井字神符切割开来。\n　　“我学会井字符了。”\n　　宁缺看着王景略很高兴地说道，不像是炫耀，而像是报喜。\n　　王景略喜不起来",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，我对大师感激不尽，你何必拿大师来羞辱我。”\n　　宁缺说道：“我说的是真话，哪里是想羞辱你，话说既然大家怎么说都有些缘份，何必非要打？”\n　　王景略举着手中那张纸，叹息说道：“这是我大唐军方十年来从天枢处办的第一份挑战许可文书，你说不打可能吗？”\n　　宁缺望向许世，嘲讽说道：“推动外人来挑战我倒也罢",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，两人本来应该相遇，却被一道井字神符切割开来。\n　　“我学会井字符了。”\n　　宁缺看着王景略很高兴地说道，不像是炫耀，而像是报喜。\n　　王景略喜不起来，神色愁苦说道：“我被陛下踢到大将军麾下，据说也是颜瑟大师的意思，我对大师感激不尽，你何必拿大师来羞辱我。”\n　　宁缺说道：“我说的是真话，哪里是想羞",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

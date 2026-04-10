@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 777,
+  "chapter_title": "第一百四十一章 又一波",
+  "filename": "ch_0777_第一百四十一章 又一波.txt",
+  "char_count": 3580,
+  "timestamp": "2026-04-10T12:05:17.590391",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "安慰人盅惑人。\n\n    就好像联邦军方这几年最出名的那两个人，他们的年龄相差很大，阶层相差不行事作风更是截然不同，根本无法接受甚至是厌憎对方的作派，然而随着岁月的演变，他们虽然依然厌帐对方的作派，可不得不承认，对方身上自有某种能够吸引旁观者目光的人格魅力。\n\n    当然二人的人格魅力绝对没有什么",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "这里的两咋。巨型扭率空洞通往帝国，根本无法完全布防，而更前下方的扭率空洞则是通往百慕大三角星域，毫无疑问面临着最复杂的局面，所以这里的太空检查站最多，等级也是最高。\n\n    穿过扭率空洞的所有飞行器都必须停泊在巨型的太空检查站，飞行器接受整船扫描，同时所有生物体必须进入检查站内部接受扫描，为了防止",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，其中也包括新十七师师长于澄海。\n\n    “于叔，怎敢劳动您亲自出来。”\n\n    李在道望着专程来到营地正门处迎接自己的故人，加快步伐前迈数步。然后伸出双手。\n\n    于澄海师长笑了笑，没有说什么。\n\n    接下来二人在地办公室里进行了一场时间极长的谈话。由于是私人会面，不涉及任何军”女务事",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "联邦参谋联席会议主席兼第一军区司令员李在道将军，平静望着桌后的杜少卿，双手稳定地交错搁在腹前，说道：“当年我介绍你加入协会的时候，你很直接地向我表示过。在很多方面并不赞同家父的战术理念。”\n\n    杜少卿望着桌面上的墨镜，不一语。\n\n    李在道平静望着桌上墨镜的另一面，继续说道：“但我很",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "皱了起来。大概还需要四十分钟才能进行完扫描程序，时间并不长，他却等的有些焦蕊\n\n    并不像很多人担心忧虑的那样，他会因为友人的逝去而冲动疯狂，至少他自认为自己很冷静，只是想完成一次送别的旅行，然而这趟旅行看来无法真正的平静。\n\n    战舰离开落日州不久，他便接到了总统官邸办公室主任布林亲自打来",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "眉微微拧动。似一把在归鞘和出鞘间挣扎的利剑。\n\n    “有很多事情，我们并不愿意看着他生，但历史上无数次的失败。尤其是前些日子议会山前血的事实和惨痛的教告诉我们，这一场波澜壮阔的大变革，绝对不能允许有任何的温情脉脉和犹豫。”\n\n    李在道回过身来，望着他平缓说道。\n\n    杜少卿看着他，忽然",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "是种很玄的东西“很难说清楚那穷竟是与质旺处甲式的混合体，还是纯粹的外在容貌与神情的结合效果，但又确实存在，它可以说服人吸引人安慰人盅惑人。\n\n    就好像联邦军方这几年最出名的那两个人，他们的年龄相差很大，阶层相差不行事作风更是截然不同，根本无法接受甚至是厌憎对方的作派，然而随着岁月的演变，他们虽",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "那些怒火全部淋熄于雨水之中。\n\n    现在慈眉善目的副总统阁下和西门谨都已经死了，死在议会止”此复出现在他办公室里的是另一个人，一个令杜少卿感到有些疲惫，不怎么想面对的人。\n\n    联邦参谋联席会议主席兼第一军区司令员李在道将军，平静望着桌后的杜少卿，双手稳定地交错搁在腹前，说道：“当年我介绍你",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "地注视着大厅那头的走廊。\n\n    走廊中，有几十名小学生正在好奇地打量着太空检查站里的一切。兴奋而紧张的议论着什么，全密封强化塑玻隔把走廊和大厅完全分隔开来，却没能隔断孩子们叽叽喳喳像鸟儿一样的声音。\n\n    小学生们依次走进走廊尽头那间透明操作间。一只锐化二型机械臂快地将一条条类金属手镯安装在",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "等级也是最高。\n\n    穿过扭率空洞的所有飞行器都必须停泊在巨型的太空检查站，飞行器接受整船扫描，同时所有生物体必须进入检查站内部接受扫描，为了防止帝国人尤其是那些百慕大的流民潜入联非，扫描程序规定的非常严苛而细致。\n\n    许乐端着咖啡杯站在舷窗边，看着窗下脚下深不见底的黑色宇宙，眉头不引人注",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "武冷厉的眉宇间多了几抹说不出来的怅然。为了那个或许伟大的目标，他和他的部队已经在某些线条上退了又退，日后会退至何方，会不会是黑不见底的深渊？\n\n    离开铁七师驻都特区办公楼后。李在道并没有回家，而是紧接着赶往望都南向的警备区二营地。\n\n    从前线轮战回归 的十七机械师驻扎于第一军区南方基地，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "刻后，回答道：“你是我所教过的最优秀最骄傲的学生，你比老虎还要更加骄傲。你从未真的把我当成老师，自然从来也没有真正相信过我。”\n\n    “但既然当年有人能说服你加入到这项伟大的事业之中，那么我正确与否不重要，只要你相信你愿意相信的那个人是正确的，这就够了。”\n\n    房门关上了，杜少卿坐回椅上，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "联邦需要你的时候，当命令到达的时候，你和你的部队要确保行进在正确的道路上。”\n\n    杜少卿从桌后缓缓站起，抬起右臂，荆旨并拢斜指鬓角，默然敬了一个军礼。\n\n    看着李在道的背影，他忽然开口说道：“施清海死了，许乐肯定会回来，至少，，会回来看一眼。”\n\n    李在道停在门口，片刻后回答道：“",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

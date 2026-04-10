@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 480,
+  "chapter_title": "第二百八十四章 向来不是一人战",
+  "filename": "ch_0480_第二百八十四章 向来不是一人战.txt",
+  "char_count": 2403,
+  "timestamp": "2026-04-10T12:11:21.761613",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "侯的眼睛骤然明亮，宛如若星辰。\n　　只听得一声轰鸣，铁箭与他手掌摩擦所带起的火花瞬间敛灭，湖堤之上狂风大作，寒柳尽碎，混入雪中一道狂舞。\n　　伴着恐怖的冲击力，夏侯的身体向后倒掠而去。\n　　他的双足像铁柱一般踩在堤岸里，竟是硬生生犁出了两道极深的沟壑，如果不是雁鸣湖水已然结冰，湖水便会随之倒灌而入。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "这个道理。\n　　自从知道宁缺对自己的敌意之后，夏侯一直在警惕等待传说中的元十三箭，他思考了很长时间，最终得出了一个结论，只要自己奔跑起来，那么元十三箭便对自己没有任何威胁。\n　　坚硬的军靴，踩裂湖冰，来到雪湖上。\n　　那处有枯荷被冻凝在水中，早已死亡，积着雪，看上去是那般的凄惨。\n　　就在夏侯踩倒一",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "进他的身体。\n　　夏侯的眼睛骤然明亮，宛如若星辰。\n　　只听得一声轰鸣，铁箭与他手掌摩擦所带起的火花瞬间敛灭，湖堤之上狂风大作，寒柳尽碎，混入雪中一道狂舞。\n　　伴着恐怖的冲击力，夏侯的身体向后倒掠而去。\n　　他的双足像铁柱一般踩在堤岸里，竟是硬生生犁出了两道极深的沟壑，如果不是雁鸣湖水已然结冰，湖",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "着，斩碎枯荷，然后像雨般落在冰面上。\n　　锋利的铁片附着在他的身上。\n　　他身体表面的天地元气，在最危险的那刹那，挡住了绝大部分爆炸的威力和锋利铁片的切割，但依然有十几片锋铁，楔进了他的身体。\n　　夏侯坚硬的肌肤上出现了很多道伤口，鲜血开始流淌。\n　　便在这时。\n　　第二枝铁箭到了。\n　　突兀而毫无",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "面迸裂，枯荷尽伏，火光大作，气浪狂卷。\n　　夏侯如山般的身体，竟被震的高高飞起。\n　　火光气浪之中是无数道凄厉的尖啸，嗤嗤作响。\n　　那些没有被爆炸气浪震伏的枯荷，如同被锋利的刀芒切过，纷纷断裂，变成了无数道极碎的屑片。\n　　夏侯重重落到雪湖之上，溅起一蓬雪花。\n　　他的双膝微弯，军靴已破，但身体竟",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "荷被冻凝在水中，早已死亡，积着雪，看上去是那般的凄惨。\n　　就在夏侯踩倒一枝枯荷的时候，旁边几株枯荷颤抖了一下，仿佛重新获得了某种生机，然后便是轰的一声巨响。\n　　冬湖冰面迸裂，枯荷尽伏，火光大作，气浪狂卷。\n　　夏侯如山般的身体，竟被震的高高飞起。\n　　火光气浪之中是无数道凄厉的尖啸，嗤嗤作响。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "没有这种速度快，即便宁缺射出的符箭速度更快，却没有办法射中如此快的目标。\n　　在战场上，这是很简单的道理。\n　　夏侯和宁缺都曾身经百战，他们很清楚这个道理。\n　　自从知道宁缺对自己的敌意之后，夏侯一直在警惕等待传说中的元十三箭，他思考了很长时间，最终得出了一个结论，只要自己奔跑起来，那么元十三箭便对",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "雁鸣湖冰冻的极为结实，即便承载着他的身体和高速所带来的冲击力，依然没有破碎，只是每当他脚步踏下时，会出现几道不起眼的裂缝。\n　　坚硬的湖冰下方是水，感受到冰面上如山般的重量，开始震荡不安，发出沉闷而诡异的响声。\n　　就如同鼓槌重重地敲打着战鼓，发出咚咚的沉闷响声。\n　　这片冬湖便是他的战鼓。\n　　他",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "最终得出了一个结论，只要自己奔跑起来，那么元十三箭便对自己没有任何威胁。\n　　坚硬的军靴，踩裂湖冰，来到雪湖上。\n　　那处有枯荷被冻凝在水中，早已死亡，积着雪，看上去是那般的凄惨。\n　　就在夏侯踩倒一枝枯荷的时候，旁边几株枯荷颤抖了一下，仿佛重新获得了某种生机，然后便是轰的一声巨响。\n　　冬湖冰面迸",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，宁缺也懂这个道理，更何况夏侯一身魔宗功法强悍至极，身体的强度，完全不是隆庆皇子可以相提并论，所以他从来没有指望，单靠元十三箭便射死夏侯。\n　　好在雁鸣湖里有一片莲田。\n　　暮春之时，宁缺在把雁鸣湖畔所有宅院都买了下来，把雁鸣湖变成了自家后园的湖，他在湖里种了很多荷花。\n　　盛夏之时，他与桑桑泛舟湖",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "入。\n　　铁箭的箭簇刺破了他体表的天地元气层，刺破了衣衫，刺破了肌肤，留下一道并不深的伤口，一滴鲜血缓缓渗出。\n　　夏侯抬起头来，望向雁鸣湖南岸，黝黑如铁的脸庞泛过一丝苍白，然后他开始咳嗽，有血水从唇角溢出。\n　　雪夜冰湖上方，有一条空虚通道，里面没有雪，直至此时，雪才重新落入，然后被箭道的余韵绞成",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

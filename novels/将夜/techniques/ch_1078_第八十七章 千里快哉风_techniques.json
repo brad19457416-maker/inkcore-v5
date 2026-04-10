@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1078,
+  "chapter_title": "第八十七章 千里快哉风",
+  "filename": "ch_1078_第八十七章 千里快哉风.txt",
+  "char_count": 3365,
+  "timestamp": "2026-04-10T12:11:34.925223",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "得来真正的昊天！”\n　　横木立人暴怒地喝道，声音如连绵的春雷，在阳州城内外炸响，他将自己的境界提升至巅峰，继续向宁缺指间拈着的小花轰去！\n　　他的身形骤然间变的极为高大！\n　　他披散着头发，浑身散发着白色的热雾，看上去就像是从远古走来的天神，如果不是肃穆的神情里有很多愤怒，或者会更像。\n　　“她不是",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "安，漆黑如夜的眼瞳深处涌出极浓的警惕。\n　　如他这种程度的强者，心意动便是天地动，阳州城内飓风再起，天空里的云层绞动不安，天地气息变得极为紊乱。\n　　横木立人借风而掠，瞬间来到宁缺的身前，燃烧着熊熊圣火的右拳，化作一道明丽的流火，如天外来的陨石般，轰向宁缺的面门！\n　　暮春也是初夏，除却那些被悬挂在",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "动便是天地动，阳州城内飓风再起，天空里的云层绞动不安，天地气息变得极为紊乱。\n　　横木立人借风而掠，瞬间来到宁缺的身前，燃烧着熊熊圣火的右拳，化作一道明丽的流火，如天外来的陨石般，轰向宁缺的面门！\n　　暮春也是初夏，除却那些被悬挂在桥间树头的死者，阳州城内外的风景极好，野草青幽，野花盛开，被薄雾染成",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "模样。\n　　不是佛祖，不是明王，而是桑桑。\n　　这就是他千年修成的佛。\n　　横木立人说自己为了昊天而战斗。\n　　宁缺说自己也是如此，而且他为了她已经战斗了无数年，以至于到了现在，他也可以让她为自己战斗。\n　　熊熊燃烧的昊天神辉，依然缭绕着横木立人的拳头，光明无限，他的脸颊被照耀的异常苍白，眼睛里满是",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "是天地动，阳州城内飓风再起，天空里的云层绞动不安，天地气息变得极为紊乱。\n　　横木立人借风而掠，瞬间来到宁缺的身前，燃烧着熊熊圣火的右拳，化作一道明丽的流火，如天外来的陨石般，轰向宁缺的面门！\n　　暮春也是初夏，除却那些被悬挂在桥间树头的死者，阳州城内外的风景极好，野草青幽，野花盛开，被薄雾染成烟花",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "熊熊燃烧的昊天神辉，依然缭绕着横木立人的拳头，光明无限，他的脸颊被照耀的异常苍白，眼睛里满是不安和愤怒不甘的情绪。\n　　天启是昊天的赐予。\n　　他如何能够用昊天赐予自己的力量去伤害昊天？\n　　那是亵渎。\n　　“那又如何！没有信仰之力，你如何请得来真正的昊天！”\n　　横木立人暴怒地喝道，声音如连绵的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的鬃毛，表示自己无碍。\n　　“我忘了莲生说过的那句话的顺序，是欲修魔先修佛，还是欲修佛先修魔，但其实道理都一样，只有金刚不坏才能不沾尘埃。”\n　　宁缺把手上的血水擦在院服的前襟上，望向街对面的横木立人，说道：“你对我很了解，却似乎不知道我修的时间最长的是什么。”\n　　在修行的世界里，他最先接触的是符",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，这件事情让他觉得有些不可思议――宁缺浑身是血，伤口处处绽裂，就连心脏都明显破了，却还能站立着，这是为什么？\n　　大黑马奔至宁缺身边，低首凑到他的右手旁，让他把手搁到颈上，助他能够站稳，宁缺轻轻摸了摸它的鬃毛，表示自己无碍。\n　　“我忘了莲生说过的那句话的顺序，是欲修魔先修佛，还是欲修佛先修魔，但其",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "慢了下来，无法落到宁缺的身上。\n　　宁缺没有变成一尊佛，他请出的是身外法像。\n　　一座似有若无的佛，出现在他身后。\n　　那佛没有宽额大耳，而是个微显丰腴的女子模样。\n　　不是佛祖，不是明王，而是桑桑。\n　　这就是他千年修成的佛。\n　　横木立人说自己为了昊天而战斗。\n　　宁缺说自己也是如此，而且他为了",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "宁缺当年在长安城里，对信仰没有任何了解，之所以能够利用阵眼杵写出那两道符，是被动接受了长安城里唐人们无畏的信念。\n　　现在他对信仰的了解极深，没有长安城，没有足够的力量写出那道符，却可以凭借佛法获得足够的力量，再次斩出千万刀。\n　　横木立人或者能挡住他的刀。\n　　但没有办法挡住他的千万刀。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "桑桑在一起。\n　　桑桑一直在他的身体里，在他的心上，他的身心早已拥有了某种神性，从这方面说，他修佛的同时，也是在修魔，早已极致。\n　　棋盘世界里的千年往事，是他最不想记起的回忆，除了大师兄隐约知道一些，其中的细节他没有与任何人说过，道门视他为大敌，收集了无数情报，却也不知道，现在的他，除了那些震撼世",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "怎么能和其他被你杀死的废物一样！”\n　　宁缺回头看了他一眼，说道：“你总说自己是她的儿子，问题在于我从来不记得和她生过你，怎么让我承认这件事情？”\n　　黑马挟起烟尘，向阳州城南而去。\n　　横木立人艰难地看着他的背影，惘然若失，终于明白，然后死去。\n　　烟花五月，宁缺再杀一人。\n　　唐军下阳州。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "理都一样，只有金刚不坏才能不沾尘埃。”\n　　宁缺把手上的血水擦在院服的前襟上，望向街对面的横木立人，说道：“你对我很了解，却似乎不知道我修的时间最长的是什么。”\n　　在修行的世界里，他最先接触的是符道，然后是浩然气，接着是莲生的魔宗功法，最后才在烂柯寺里观尊者像学佛。\n　　可事实上，他修佛的时间最长",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

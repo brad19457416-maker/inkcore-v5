@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 362,
+  "chapter_title": "第一百六十七章 杀人杀己皆因悲悯，骂佛笑佛皆因小脚",
+  "filename": "ch_0362_第一百六十七章 杀人杀己皆因悲悯，骂佛笑佛皆因小脚.txt",
+  "char_count": 3758,
+  "timestamp": "2026-04-10T12:11:21.729338",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "注来尝试撼动这种不讲规矩的规矩。\n　　对陈皮皮来说，眼前血淋淋的画面和武僧左手间那些粉色的肠子，毫无疑问是一场极为震撼的教育，这种震撼或许无法改变书院教育让他形成的关于规矩之类的看法，却已经足以让他怔住了一瞬间。\n　　一瞬间便已经足够。\n　　因为只需要一瞬间，中年僧人和宁缺之间的战斗便结束了。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "随气之所遁，所有接触着的莲花瓣均自碎去。\n　　然而漫天风雨漫天花，莲花的数量太多，又哪里完全都隔绝在天空之上？\n　　莲花朵朵开放，瓣瓣落下，落在他的脸上，落在他的身上，切割开他的棉袄，钻进他的皮肤，把他身上的血肉片片刮落离骨。\n　　无尽的痛楚潜进骨髓之中，然后向着身体每一处炸开，最终汇进宁缺的脑中，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "脚，想起这些年无数个夜里自己在被窝中被那双洁白如莲的小脚踹了无数次，他的心窝便变得酸痛起来，然后开始愤怒。\n　　“我不想理会你有多少杀死我的理由，但你既然知道我入了魔，又搞出这么多双我家桑桑的脚来踹我，我就一定会杀死你。”\n　　他从身后抽出大黑伞打开。\n　　黑伞如一朵黑色的莲花，在漫天洁白的莲花间显",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "一场极为震撼的教育，这种震撼或许无法改变书院教育让他形成的关于规矩之类的看法，却已经足以让他怔住了一瞬间。\n　　一瞬间便已经足够。\n　　因为只需要一瞬间，中年僧人和宁缺之间的战斗便结束了。\n　　中年僧人的强大，便在于一念之间可以降魔除妖。\n　　陈皮皮的指尖在长安城的晨风中微微颤抖。\n　　此时那名中年",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "尖。\n　　他瞪大眼睛看着眼前这幕，不知道对方想要做什么。\n　　陈皮皮没有杀过人，甚至没有进行过真正的战斗，没有见过战斗里的生死决绝，更没有看过如此血腥的画面。\n　　他这辈子就是前些天在长安府冬园里与王景略战过一场，凭峙着修行境界上难以逾越的森严界壑，赢的潇洒随意。\n　　陈皮皮一直以为修行者之间的战斗",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "袄，钻进他的皮肤，把他身上的血肉片片刮落离骨。\n　　无尽的痛楚潜进骨髓之中，然后向着身体每一处炸开，最终汇进宁缺的脑中，令他识海震荡如潮，痛苦到了极点。\n　　以精血饲佛，乃是佛宗强大法门。\n　　然而漫天花雨之后满脸血水的石佛，实际上走的是舍身成佛的意思。\n　　舍身成佛，暂造一莲花净土，净化一应妖邪秽",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "像数千个人身上的血口。\n　　一道极为强大的威压，从石佛处荡开，传遍整个空间。\n　　石佛肃穆的脸上满是无数道细微的伤口，浸泡在血水之中，本应是狰狞血腥之像，反而却显得愈发悲悯，仿佛旧庙里的金漆脱落后只留下斑驳沧桑。\n　　石佛脸上的血越来越稠，无上悲悯意越来越浓，天地间所有的血腥战乱分离伤害，一应负面情",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "一种怎样值得尊敬或者说值得恐惧的精神气魄？\n　　武僧脸色苍白无比，他神情淡然看着陈皮皮，声音微微颤抖说道：“自剖心肠，请十二先生明白规矩。”\n　　这两名来自月轮国的僧人，为今日长街相遇确实做了极其充分的准备，他们很清楚历史上的书院二层楼，向来不是一个讲规矩的地方，于是他们不惜用自己的生命为赌注来尝试",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，然而他知道那场无形的战斗已经结束了，便等若说宁缺已经死了，如果小师弟死了，他再做任何事情又能有什么意义。\n　　陈皮皮的脸颊颤抖了起来，显得格外痛苦。\n　　他决定稍后把身前这两名僧人全部杀死。\n　　虽然他已经隐隐猜到那名中年僧人的来历有问题。\n　　虽然他这辈子还从来没有杀过人。\n　　但如果用大师兄的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "那件宽大的院服无风而飘，抬起右臂便要遥遥一指点过去的时候，那名始终沉默守护在中年僧人身旁的干瘦武僧，出现在他的手指之前，那张仿佛由精钢雕刻而成的脸容漠然无情绪。\n　　陈皮皮的修为境界极高，那名武僧竟然能比他更快反应过来，只能说明对方早有准备，早就知道那名中年僧人会动用精血饲佛如此大慈悲大残忍的佛宗神",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "稍后把身前这两名僧人全部杀死。\n　　虽然他已经隐隐猜到那名中年僧人的来历有问题。\n　　虽然他这辈子还从来没有杀过人。\n　　但如果用大师兄的话来说怎么看都不会短命的宁缺就这样短命的死了。\n　　那么这个世间哪里还有什么必须遵守的原则或规矩？\n　　……\n　　……\n　　世间最快的事物不是雾不是雨不是风而是闪",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

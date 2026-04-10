@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 295,
+  "chapter_title": "第一百零一章 一步山崖",
+  "filename": "ch_0295_第一百零一章 一步山崖.txt",
+  "char_count": 3282,
+  "timestamp": "2026-04-10T12:11:21.764189",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "往年更寒冷，却已经好些天没有落过雪，树根下的残雪一日复一日地向灰色里去，然而就在铺门吱呀一声推开时，天空飘飘落下雪来。\n　　二师兄抬头看了一眼天，然后望向对面刚刚开启的铺门。\n　　巷口处一辆黑色的马车自风雪中缓缓驶来，全金属打造的沉重车身，碾压的巷间青石板微微颤动，轮间发出类似雷鸣般的低轰。\n　　颜",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "明大神官感慨说道。\n　　他右手探出棉袖在风雪中轻轻一挥，来自东方的晨光瞬间把枯瘦的右手映成洁白如玉的存在，无数粒微弱的光点从他的指间散出，像萤火虫一般飞至空中。\n　　山石间渗透出来的强大符意与这些蕴着圣洁气息的神辉光点一触，并没有产生恐怖的结果，而是亲近地依偎在一起，缓缓从山顶向着山崖下飘落，逐渐形",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，所以决意要将这种恩赐收回来，你非要追寻什么黑夜的影子，冥王的儿子……其实和昊天的光辉有关系吗？其实最终你信的是自己而不是昊天。”\n　　光明大神官叹息说道：“其实过往数十年间，我一直在思考一个问题，为什么神殿历史上那些无比优秀的光明神座，最后往往会离开桃山，为什么被称作最接近昊天的人，最后往往会选择",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "实最终你信的是自己而不是昊天。”\n　　光明大神官叹息说道：“其实过往数十年间，我一直在思考一个问题，为什么神殿历史上那些无比优秀的光明神座，最后往往会离开桃山，为什么被称作最接近昊天的人，最后往往会选择走一条昊天并不赞赏的路？千年之前开创魔宗的那位祖师如此，数百年前叛教的那位前辈如此，最终我也走上了",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "抬头看了一眼天，然后望向对面刚刚开启的铺门。\n　　巷口处一辆黑色的马车自风雪中缓缓驶来，全金属打造的沉重车身，碾压的巷间青石板微微颤动，轮间发出类似雷鸣般的低轰。\n　　颜瑟大师和光明大神官走出铺门，坐进马车。\n　　片刻后，一个瘦弱的身影也走出了老笔斋。\n　　桑桑左臂抱着新瓮，右臂抱着旧瓮，显得有些沉",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。\n　　“多年不见山字符。”光明大神官感慨说道。\n　　他右手探出棉袖在风雪中轻轻一挥，来自东方的晨光瞬间把枯瘦的右手映成洁白如玉的存在，无数粒微弱的光点从他的指间散出，像萤火虫一般飞至空中。\n　　山石间渗透出来的强大符意与这些蕴着圣洁气息的神辉光点一触，并没有产生恐怖的结果，而是亲近地依偎在一起，缓",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "似乎已经背叛了昊天，但我终究修的是神术，昊天的光辉会赐予我看透世间一切的双眼和无穷无尽的力量，白昼的战斗我有优势。”\n　　颜瑟大师摇头说道：“长安城是我的主场，我这双脚曾经踏遍城内的街巷，游遍城外的大好河山，这座山便是我的一道符，所以你并没有太大优势。”\n　　光明大神官笑了笑，说道：“无论如何，还是",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "着东方在两层云夹层里平静微笑的红色朝阳，问道：“跨出那一步的感觉怎么样？”\n　　向前跨出去一步，便要进入下层缭绕在山间的白云，或是走入温暖的光辉中。\n　　光明大神官走到他身旁，并肩望向远处的朝阳，说道：“当年在宋国海堤旁你与柳白一战后，我见红日渐落，心有所感，却也只跨出去了半步。”\n　　“无论一步半",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第一百零一章 一步山崖\n　　晨光来临，长安城缓缓从睡梦中苏醒。\n　　老笔斋门被推开，临四十七巷里的那些大人物们顿时警醒。\n　　今年较往年更寒冷，却已经好些天没有落过雪，树根下的残雪一日复一日地向灰色里去，然而就在铺门吱呀一声推开时，天空飘飘落下",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "瑟大师拔开脸上一道雪枝，叹道：“不知稍后是新瓮填满，还是旧瓮变重。”\n　　光明大神官走在他身旁，微笑说道：“全看昊天安排。”\n　　颜瑟大师把雪水揩在道袍上，说道：“其实都填满也不错。”\n　　光明大神官点点头，说道：“两瓮并排安放，也算是做个邻居。”\n　　颜瑟大师转头看了他一眼，负袖于身后继续拾阶上行",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "很长时间后轻声说道：“曾经到过，然后被打落尘埃，剥夺了与昊天亲近的机会。”\n　　颜瑟大师怔怔看着他，感慨说道：“能破五境那是何等样的大机缘，世间多少修行者穷尽一生都无法接触，你居然十几年前便走到了这一步，难怪观主当年看遍桃山还是认为你是道门中的第一人。”\n　　光明大神官轻声叹息说道：“曾经见过，结果",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "官感慨说道。\n　　他右手探出棉袖在风雪中轻轻一挥，来自东方的晨光瞬间把枯瘦的右手映成洁白如玉的存在，无数粒微弱的光点从他的指间散出，像萤火虫一般飞至空中。\n　　山石间渗透出来的强大符意与这些蕴着圣洁气息的神辉光点一触，并没有产生恐怖的结果，而是亲近地依偎在一起，缓缓从山顶向着山崖下飘落，逐渐形成一道",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "两个老人看着身前这片将整座山笼罩起来的彩虹罩，感受着其间的融洽意味和强大，很满意地点了点头，然后同时望向身后那个沉默低着头的小姑娘。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "思考这个问题思考了很长时间，便是先前登山时每一步都还在想，直至此时看着前方云海里升起的红日，看到那片温暖的红光，我才明白，原来那是因为坐在光明神座上的人……信的是光明。”\n　　颜瑟大师沉默，他听懂了光明大神官这句话的意思。\n　　信奉光明，昊天并不一定代表光明。\n　　此时二位老人已经登临到了无名山顶，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

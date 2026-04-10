@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 774,
+  "chapter_title": "第一百三十七八章 广场上（下）",
+  "filename": "ch_0774_第一百三十七八章 广场上（下）.txt",
+  "char_count": 4348,
+  "timestamp": "2026-04-10T12:05:17.585111",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "电话走到他身旁，杜少卿平静接过电话，听看来自高层的直接命令，脸上的表情却没有任何变化。\n\n    “为什么还没有行动？你难道不知道处置突恐怖事件，最需要的就是时间？现在网上已经闹翻了，应急预案根本无法应付谣言的传播度。\n\n    杜少卿沉默地听着电话那头某位主任的厉声质询，没有开口说话。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "生，每当想到这点的时候，鼻粱边那几粒可爱的雀斑便会格外明亮。\n\n    然后这个故事真的生，却又如此突然的结束，她看到电视，奔来广场，看着他在阳光下面微笑，然后看着被推进救护车的那个黑袋开始哭泣，她不知道他是谁，他是做什么的，为什么要遇见自己，她不知道自己为什么哭的如此伤心。\n\n    她叫黄丽，陆",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，向警戒线那边走去。\n\n    广场四周的军警们呼叫着支援，快地冲了过来，几个人试图将邹郁更快地拉离危险地带，却被她那平静到有些冷漠的表情震住，没有一个人敢伸手。\n\n    数十名军警翻过栏杆，围住石阶上那个正在熟睡的英俊男人，他们手里的【炝】丅械早已上膛，紧张地瞄准他的身体。\n\n    一个联邦调",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的膝盖，泪珠终于溢出眼眶，滴答滴答落在地面上，和身后那个男人流的血混在了一起。\n\n    警戒线外的人群出一阵低呼，看着那个被挟持的漂亮女孩开始哭泣，不由一阵担心。\n\n    铁七师官兵以为人质将要崩溃，紧张地随时准备突袭，然而广场一角的最高长官，却一直沉默坐在情侣椅上，没有出任何指令，在阳光下缓慢",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "走的更稳当一些。”\n\n    沉默【pian】刻后，施清海抿着嘴唇，轻轻吹了口气，把额前飘着的头吹的风中凌乱，露出迷人微笑说道：“这些都是闲事儿，下面是正经有些事情要麻烦你帮我去做。”\n\n    “你知道我有很多女朋友，不过她们不需要你去管，但我前两天欠了一个小护人的人情，你一定要记着帮我还，帮我去",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "有放弃，可爱而天真地想着报复，不是复合，她善良而充满幻想，曾经设想过如果像电影那样，一个联邦特工忽然来到自己的身边，会不会有一段浪漫的故事生，每当想到这点的时候，鼻粱边那几粒可爱的雀斑便会格外明亮。\n\n    然后这个故事真的生，却又如此突然的结束，她看到电视，奔来广场，看着他在阳光下面微笑，然后看",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "但难道死在议会山里的人们就不重要？你再拖延时间，就意味着犯罪！”\n\n    “身为一名军人。”杜少卿缓缓戴上那副墨镜，站起身来，对电话那头平静说道：“我一直认为议会山里的那些政客们，都是渣子。”\n\n    某主任在电话那边沉默【pian】刻后，肃然说道：“包括西门上校？”\n\n    宽幅墨镜下，明显",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "血水从鼻子里流了出来，滴答滴答落在邹郁的胸前，落在地面上。\n\n    被他抱着的邹郁低着头，抱着微微颤抖的膝盖，泪珠终于溢出眼眶，滴答滴答落在地面上，和身后那个男人流的血混在了一起。\n\n    警戒线外的人群出一阵低呼，看着那个被挟持的漂亮女孩开始哭泣，不由一阵担心。\n\n    铁七师官兵以为人质将",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "上面的人，拜伦我杀了，保尔森被我打了两【炝】。”他困倦之意十足，认真数着人头，继续对着邹郁手中的电话说道：“还有些事情没有做完，就交给你继续做。”\n\n    “我是走上了绝路，所以才会把事情做的这么绝，让那些老头子们无路可走，你不是我，你可以走的更稳当一些。”\n\n    沉默【pian】刻后，施清海",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "出一阵低呼，看着那个被挟持的漂亮女孩开始哭泣，不由一阵担心。\n\n    铁七师官兵以为人质将要崩溃，紧张地随时准备突袭，然而广场一角的最高长官，却一直沉默坐在情侣椅上，没有出任何指令，在阳光下缓慢地一口一口品啜着粗烟草的滋味。\n\n    椅后的勤务校官拿着电话走到他身旁，杜少卿平静接过电话，听看来自",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "厥的西门谨，被坚硬的金属丝吊起，撞破玻璃窗，吊在了议会山大楼的外墙上，随着春风轻轻摆荡。\n\n    同时有三封早已经设置好的加密资料，自主激输送程序，向西林向官邸向议会山里某间办公室里开始传输。\n\n    西门谨死了，死后变成议会山大楼外摆荡的惊叹号，因为施清海承诺过，有些东西要让人看见。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "人流的血混在了一起。\n\n    警戒线外的人群出一阵低呼，看着那个被挟持的漂亮女孩开始哭泣，不由一阵担心。\n\n    铁七师官兵以为人质将要崩溃，紧张地随时准备突袭，然而广场一角的最高长官，却一直沉默坐在情侣椅上，没有出任何指令，在阳光下缓慢地一口一口品啜着粗烟草的滋味。\n\n    椅后的勤务校官拿",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，没有人注意到他递了个小东西过去。\n\n    春日阳光多妩媚，就像生命里那些女子，施清海满足地感觉着温暖与宁静的困意，紧贴着邹郁的后背，正准备说一句非常倒悍的话来结束这场春日里的传奇演出，余光却不经意间瞥到远处围观人群里有人在哭泣。\n\n    他现在的视力偶尔会有些模糊，但有时候却比以往显得更清晰，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "警戒线外的人群出一阵低呼，看着那个被挟持的漂亮女孩开始哭泣，不由一阵担心。\n\n    铁七师官兵以为人质将要崩溃，紧张地随时准备突袭，然而广场一角的最高长官，却一直沉默坐在情侣椅上，没有出任何指令，在阳光下缓慢地一口一口品啜着粗烟草的滋味。\n\n    椅后的勤务校官拿着电话走到他身旁，杜少卿平静接",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

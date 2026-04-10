@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 375,
+  "chapter_title": "第一百八十章 山崖之上望长安",
+  "filename": "ch_0375_第一百八十章 山崖之上望长安.txt",
+  "char_count": 3356,
+  "timestamp": "2026-04-10T12:11:21.753999",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "青苔剧烈摇晃。\n　　走出峡谷，迎面便是一道绝壁，湍急的潭水雀跃着、争先恐后地向悬崖外涌了过去，碧蓝的天空被悬崖切成上下两半，中线便是这道水线。\n　　桑桑紧紧握着宁缺的手，看着眼前的风景，说不出话来。\n　　曲径通幽到最后，陡然而现绝境。\n　　山风呼啸劲吹，站在悬崖畔瀑布边，看着瀑布向绝壁下垂落，却听不",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "屋里没有提及。”\n　　道畔有一株歪着的老梅。\n　　梅花自桑桑微黑的小脸旁掠过，让她脸上的神情显得愈发紧张起来，声音压的更低了些，说道：“老师说过你是冥王的儿子。”\n　　宁缺恼火说道：“不要提你那个神棍老师，我说过我不是。”\n　　桑桑担心说道：“但书院要把你关起来，会不会和这件事情有关。”\n　　宁缺不",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的一片，就像是蓝色的瓷盘，非常美丽，宁缺和桑桑踩着水田里的石头，向那片蓝色走去。\n　　随着行走，峡谷骤然急束，乱石间的水流顿时变得湍急起来，哗哗乱响，白浪渐生，冲得石上的青苔剧烈摇晃。\n　　走出峡谷，迎面便是一道绝壁，湍急的潭水雀跃着、争先恐后地向悬崖外涌了过去，碧蓝的天空被悬崖切成上下两半，中线便",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "自己，让自己避过这个劫数，然而听着三师姐的话，才知道自己只是在痴心妄想，苦笑着叹息一声，随她走出草屋来到竹椅前。\n　　余帘师姐对唐小棠说道：“你随我来，我给你安排住处。”\n　　唐小棠高兴地点了点头，和桑桑挥手告别，说道：“看样子以后我会一直呆在书院里，到时候你来找我玩啊。”\n　　桑桑点了点头。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "是谁都能像当年小师叔那样。\n　　余帘收拾好案上的笔墨纸砚，向草屋外走去，路过宁缺身边时停下脚步，轻声说道：“既然老师的决定无法挽回，便带着你家侍女随老师去吧，不要让老师在前面等的时间太长。”\n　　宁缺此时也正看着远处夫子的身影，祈祷着夫子几声大笑之后便忘了自己，让自己避过这个劫数，然而听着三师姐的话",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "而他清楚这是妄想，而且就算真的逃离书院，那将意味着这些年的辛苦尽数化为泡影，他和桑桑将重新回到黯淡的人生里。\n　　跟随着那件飘舞的黑色罩衣，二人来到瀑布下方。\n　　瀑布下是一面静潭，向着崖坪方面没有任何出水口，看模样与镜湖并不相通，溢出来的潭水，顺着右前方一片低洼的乱石流出。\n　　宁缺牵着桑桑踩上那",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "缺抬头望去，只见夫子的身影正在绝壁间飘掠而上，时而在东时而在西，竟是无论怎样专注去观察，都无法确定他究竟在山崖的那一处。\n　　宁缺牵着桑桑的手，开始向上走去，二人自幼在岷山里生活，对悬崖峭壁自有一套攀爬手段，对脚下的绝壁和天空视而不见。\n　　越往山崖上方去，青树渐无绿意渐少，这里没有静湖草屋，没有笑",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "桑的小手，沉默地向前行走，速度非常慢。\n　　前方山道间那件黑色的罩衣迎风飘舞，时而消失在密林里，时而出现在银瀑畔，夫子看似走的极快，却始终停留在他们的视野里。\n　　绕过二师兄的小院，再走些时间便近了那道银色的瀑布，四周林间瀑声如雷，空气里全部是极细碎的水星，笼成一片凉雾，让呼吸都变得清新起来。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "是人类最完美的杰作。\n　　宁缺看着暮色中的长安城，一时间百感交集，很长时间说不出话来，良久之后才轻声感慨说道：“长安城……这时候真的很好看。”\n　　夫子说道：“长安城一直都很好看。”\n　　宁缺说道：“当初修建长安城的那些人肯定很了不起吧。”\n　　夫子掀开身畔的食盒，拿出小酒瓮斟满酒杯，很随意说道：“",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "片刻后说道：“是的，我被老师惩罚囚禁在后崖闭关，我不知道自己什么时候能够破关出来。”\n　　桑桑看着他担心说道：“那可怎么办呢？”\n　　宁缺看着她。\n　　她摇了摇头，说道：“我肯定要和你在一起。”\n　　宁缺想了想后说道：“那先看看情形吧，如果我在后崖被困的时间太长，你就先回学士府，想来没有人会拦你。”",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "唐小棠说道：“你随我来，我给你安排住处。”\n　　唐小棠高兴地点了点头，和桑桑挥手告别，说道：“看样子以后我会一直呆在书院里，到时候你来找我玩啊。”\n　　桑桑点了点头。\n　　唐小棠开心跟着余帘向崖坪方向走去，开心蹦跳着就像个不安分的石头，余帘则是文静恬淡地像是棵秀树，两个年龄相差颇大的女子，身材同样娇",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "想着来时的路径，他确认这里应该是大山的西面，难怪过往两年间在长安城通往书院的官道上没有看到过，从来不知道有这样一片山崖。\n　　山崖绝壁看似陡峭不可攀爬，实际上其间隐着极窄的石径，宁缺抬头望去，只见夫子的身影正在绝壁间飘掠而上，时而在东时而在西，竟是无论怎样专注去观察，都无法确定他究竟在山崖的那",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "绕过二师兄的小院，再走些时间便近了那道银色的瀑布，四周林间瀑声如雷，空气里全部是极细碎的水星，笼成一片凉雾，让呼吸都变得清新起来。\n　　宁缺的呼吸却变得有些急促，他很想牵着桑桑的手就此转头离开，然而他清楚这是妄想，而且就算真的逃离书院，那将意味着这些年的辛苦尽数化为泡影，他和桑桑将重新回到黯淡的人",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

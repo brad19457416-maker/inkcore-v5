@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 810,
+  "chapter_title": "第一百九十一章 断弩断刀断念想",
+  "filename": "ch_0810_第一百九十一章 断弩断刀断念想.txt",
+  "char_count": 3249,
+  "timestamp": "2026-04-10T12:11:27.242253",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "颅一般，折断堕落，紧接着弩箭的箭枝也段段破裂，在空中就散开。\n　　数十道弩箭，根本没有办法逾越露外的风雪，变成无数段残片，随风雪而散，然后缓缓落下，和树头落下的枯枝没有任何区别。\n　　弩箭的碎片落在薄雪上，发出啪啪的乱响，露台内外的人们，早已被这幕画面震惊，直到听到声音，才醒过神来。\n　　锃锃两声，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，然后缓缓落下，和树头落下的枯枝没有任何区别。\n　　弩箭的碎片落在薄雪上，发出啪啪的乱响，露台内外的人们，早已被这幕画面震惊，直到听到声音，才醒过神来。\n　　锃锃两声，数名唐军厉喝声中，自腰间抽出佩刀，向宁缺的头顶斩去。\n　　宁缺倚在拐上，看都没有看这几把刀，只是依然静静看着华山岳。\n　　华山岳觉得",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "树看着那些唐军问道：“你们刚从前线回来？”\n　　露台上很是安静，没有人回答他的这个问题，因为不知道他为什么要问这个问题。\n　　宁缺知道，朝小树这个问题是说给自已听的，他看着这些唐军脸上的风霜，沉默片刻后，右手重新握住拐杖，把身体倚了上去。\n　　他看着华山岳说道：“再怎么想，都是痴心妄想。”\n　　华山",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "任何同情。\n　　华山岳和五十余名来自固山郡的唐军，被缴械上枷带出公主府，等待他们的是军部的大牢，至于最终要付出什么代价，现在还没有人知道。\n　　事后看来，这场营救确实显得太过痴心妄想，被评价为丧心病狂也没有什么问题，但事实上，华山岳不愧为唐军将领青壮派领袖，他并不像此次计划所展现出来的这般无能，事先",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "段破裂，在空中就散开。\n　　数十道弩箭，根本没有办法逾越露外的风雪，变成无数段残片，随风雪而散，然后缓缓落下，和树头落下的枯枝没有任何区别。\n　　弩箭的碎片落在薄雪上，发出啪啪的乱响，露台内外的人们，早已被这幕画面震惊，直到听到声音，才醒过神来。\n　　锃锃两声，数名唐军厉喝声中，自腰间抽出佩刀，向宁",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，还是你在草原上的影响力，都不会影响我和皇后娘娘做决定。”\n　　李渔盯着他的眼睛，收在袖中的双手微微颤抖。她能够想到宁缺看明白自已的想法和依靠，却没有想到，宁缺在知道这一切后，还显得如此冷淡。\n　　如今举世伐唐，除了西陵神殿，真正能够威胁到大唐的，便是自北方南侵的金帐王庭骑兵，大唐如果想要彻底解决来",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "自已听的，他看着这些唐军脸上的风霜，沉默片刻后，右手重新握住拐杖，把身体倚了上去。\n　　他看着华山岳说道：“再怎么想，都是痴心妄想。”\n　　华山岳看着身旁那几名倒在血泊里的下属，沉默了很长时间，然后收回一直捂着小蛮眼睛的右手，望向宁缺说道：“想，有时候或者会比较可笑，但你可以杀了我，也没有办法阻止我",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "有些腻了？”\n　　宁缺说道：“安安静静呆在这个园子里，虽然景致有些单调，但总比死了好，你应该明白这个道理，为什么却偏要不死心？”\n　　“我说过，被幽死和被杀人，我宁肯选择后者，而且华山岳不顾身家性命也来救我，我还能做些什么？难道向你告密？”\n　　李渔看着他微微嘲弄说道：“在御书房里那个夜晚，你曾经对",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "硬的刀身便随着一声清脆的鸣响，断成了两截，接下来断裂的是他们握着刀柄的手。\n　　两道非常清晰的刀痕，出现在他们的胸腹之上，鲜血缓缓从那两道刀痕里渗出来，逐渐蔓延，伤口也渐渐向两边分开，变得越来越恐怖。\n　　宁缺没有抽刀，便在这些唐军的身上斩了两刀，刀伤只在身前，刀意却浸透至后背，唐军身后的披风随风而",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "你可以杀了我，也没有办法阻止我想这件事情。”\n　　说这句话的时候，他脸上的神情很复杂，有些遗憾，有些自嘲，有些不甘，为了救李渔离开长安城，他做了很缜密的安排，然而谁能想到，在这个下着微雪的夜里，冷清了好些日子的公主府，居然迎来了宁缺和朝小树这样两个客人。\n　　……\n　　……\n　　冷清了很长时间的公主",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "般无能，事先拟定的计划堪称完美。\n　　初回长安便以雷霆之势动手，各个环节都有准备，只要他能够带着李渔走出公主府，那么无论是巡城司还有侍卫处，都不可能阻止他们离开长安，而如果真让他带着李渔回到固山郡，谁知道此后的大唐会变成什么太极拳？\n　　只可惜他的运气实在是差的有些厉害，谁都没有想到，朝小树要去见李",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "一片通明，街道两头围了很多民众，看着那边的动静指指点点，议论纷纷，基本上没有什么好听的话。\n　　战局紧张，大唐子弟还在前线浴血奋战，结果那些达官贵人还要在长安城里闹出这么多事情，没有谁会对失败者投予任何同情。\n　　华山岳和五十余名来自固山郡的唐军，被缴械上枷带出公主府，等待他们的是军部的大牢，至于最",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的李渔遮在了身后。\n　　他先前说过，夜色里有三十具神侯弩，这并不是撒谎，随着他的侧身，安静的府园里，骤然响起极凄厉的破空之声。\n　　雪花乍破，数十道弩箭从院墙旁的树间闪电般射出，直指露台上的宁缺。\n　　园内落下的雪花很稀，此时却仿佛骤然间密集起来，并且上面被附着了一道很诡异的力量，形成无数道锋利的线",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

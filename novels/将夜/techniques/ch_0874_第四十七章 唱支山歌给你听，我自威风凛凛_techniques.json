@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 874,
+  "chapter_title": "第四十七章 唱支山歌给你听，我自威风凛凛",
+  "filename": "ch_0874_第四十七章 唱支山歌给你听，我自威风凛凛.txt",
+  "char_count": 3534,
+  "timestamp": "2026-04-10T12:11:27.378346",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "压南海诸人，两千护教骑兵已然集结成阵，即便因为地形的缘故无法冲锋，依然不是如此境界的人能够闯破，所以众人虽然有些好奇闯山者的身份，却不再担心，有些西陵神官更是不免嘲弄想着，也不知道是哪里来的疯子野修，连最外围的那些骑兵都打不过，居然还想闯进桃山一举成名，真真是痴心妄想至极。\n　　既然闯山者不用担心，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第四十七章 唱支山歌给你听，我自威风凛凛\n　　听闻有人闯山，祭坛四周的人不免震惊，因为这山不是别的山，而是桃山，但片刻后他们的情绪便平静了下来。\n　　烟尘渐盛，交战之声渐骤，战况看似激烈，反而说明闯山之人已经陷入苦战，那里还只是桃山戒",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "地深呼吸；祭坛上，陈皮皮痴痴望着那处，端着水碗的右手微微颤抖起来。\n　　他们知道闯山的人是谁，也知道为什么要唱歌，因为荒人都喜欢唱歌，尤其是在绝死战斗之前，总喜欢以歌壮志。\n　　还有人望着烟尘起处。\n　　桑桑站在光明神殿前，负手看着山下，此时山上空无一人，那两名侍女在偏殿内，她的身影显得有些孤单。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，很明显西陵神卫已经获得了绝对的优势，天谕院院长脸上的神情稍微好转了些，西陵神殿的神官和执事们也觉得轻松了很多，纷纷想着这下应该没事了。\n　　就在这时，闯山者的歌声再次响了起来，这道像荒原一样有青嫩水草有血腥屠戮的歌声，仿佛具有某种魔力，祭坛四周再次安静，山前的战斗再次变得激烈起来。\n　　前坪最外围",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的右手微微颤抖起来。\n　　他们知道闯山的人是谁，也知道为什么要唱歌，因为荒人都喜欢唱歌，尤其是在绝死战斗之前，总喜欢以歌壮志。\n　　还有人望着烟尘起处。\n　　桑桑站在光明神殿前，负手看着山下，此时山上空无一人，那两名侍女在偏殿内，她的身影显得有些孤单。\n　　她看着那处，眼里没有任何情绪。\n　　……",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "的实力如何。\n　　尤其像金帐国师或佛宗七念这样的强者只是向烟尘起处望了一眼，便已经确认，那人最多洞玄巅峰的水准。\n　　先前叶红鱼准备命令裁决神殿直接碾压南海诸人，两千护教骑兵已然集结成阵，即便因为地形的缘故无法冲锋，依然不是如此境界的人能够闯破，所以众人虽然有些好奇闯山者的身份，却不再担心，有些西陵",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "什么表情；人群中，宁缺怔怔望着那处，开始缓慢地深呼吸；祭坛上，陈皮皮痴痴望着那处，端着水碗的右手微微颤抖起来。\n　　他们知道闯山的人是谁，也知道为什么要唱歌，因为荒人都喜欢唱歌，尤其是在绝死战斗之前，总喜欢以歌壮志。\n　　还有人望着烟尘起处。\n　　桑桑站在光明神殿前，负手看着山下，此时山上空无一人，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "起处，听着清美却又充满铁血意味的歌声，仿佛看到无数铁骑，正在万里荒原间奔驰冲锋。\n　　忽然间，歌声里出现了一个不和谐的声音，那是沉闷剧烈的撞击声，只见一匹神骏的战马被震至半空之中，然后骤然间被撕裂成十余块血肉，无数鲜血从空中洒落，像雨水一般落在地面上，啪啪的声音传至很远。\n　　祭坛四周的人们听到了那",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "忽然间，歌声里出现了一个不和谐的声音，那是沉闷剧烈的撞击声，只见一匹神骏的战马被震至半空之中，然后骤然间被撕裂成十余块血肉，无数鲜血从空中洒落，像雨水一般落在地面上，啪啪的声音传至很远。\n　　祭坛四周的人们听到了那声沉闷的撞击，听到了那匹战马在空中的惨嘶，听到了血水落下的声音，甚至听到了战马强健的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，即便因为地形的缘故无法冲锋，依然不是如此境界的人能够闯破，所以众人虽然有些好奇闯山者的身份，却不再担心，有些西陵神官更是不免嘲弄想着，也不知道是哪里来的疯子野修，连最外围的那些骑兵都打不过，居然还想闯进桃山一举成名，真真是痴心妄想至极。\n　　既然闯山者不用担心，场间关注的重点依然还是落在白石祭坛上",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "撕裂时的声音。\n　　沉闷的撞击声越来越密集，渐要连在一起，这一次再没有人认为那名闯山者是陷入苦战，因为人们听的很清楚，这些撞击声有些闷，有些破，说明每次撞击都是闯山者手中的兵器砸破了一名神殿骑兵的盔甲。\n　　那些撞击声很沉闷，可以想见来人手中的兵器应该很钝重，只是人们依然很难理解，神殿骑兵身上的盔甲",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "阻挡地向桃山而来。\n　　祭坛四周忽然安静下来，再没有人说话，直到过了很长时间，一名神殿裁决司执事匆匆来到场间，报道：“有人闯桃山！”\n　　最开始时示警的便是这位黑衣执事，当时他的声音很大，但很平静，说的是有人闯山，此时他说有人闯桃山时，声音却有些急惶。\n　　有人闯山是陈述事实及敌人的意愿，有人闯桃山",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "兵则是直接倒在血泊里，无法被前坪上的人们看见，那道烟尘缓慢而不可阻挡地向桃山而来。\n　　祭坛四周忽然安静下来，再没有人说话，直到过了很长时间，一名神殿裁决司执事匆匆来到场间，报道：“有人闯桃山！”\n　　最开始时示警的便是这位黑衣执事，当时他的声音很大，但很平静，说的是有人闯山，此时他说有人闯桃山时，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "她从长安城不远千里、风尘仆仆而来。\n　　她狼狈不堪，却威风凛凛。\n　　她看着巨辇里的西陵掌教，问道：“谁敢说我书院无人？”\n　　她望向祭坛前的南海少女，问道：“谁敢抢我的男人？”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

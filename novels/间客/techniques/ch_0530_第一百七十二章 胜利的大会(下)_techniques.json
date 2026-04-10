@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 530,
+  "chapter_title": "第一百七十二章 胜利的大会(下)",
+  "filename": "ch_0530_第一百七十二章 胜利的大会(下).txt",
+  "char_count": 3427,
+  "timestamp": "2026-04-10T12:05:08.565657",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "两枚勋章，想要晋上校，那是没什么机会了？”\n\n    “为什么？”有一名七组队员表达自己的疑惑不解，心想凭着赫雷所在自动兵团立下的战功，火线晋升应该是很常见的事情。\n\n    “很简单。”周玉微笑着插了一句话“因为我们的教官还只是个中校。七组在，肥上铺网干的很漂亮，按道理他应该会晋升，问题是他实在太",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "们生感到有些吃惊，难道这两人以前便见过？周箭自嘲所笑，将当年古钟舰上发生的故事简略提了一遍，又引起了众人的诸多感慨，他们望向许乐的目光，变得更加怪异起來。\n\n    ～许教官当年只是一个蹲蚊”兵？\n\n    白玉兰往桌上的杯子里倒满了酒，周玉赶紧说了声谢谢，坐在许乐身旁低声说道：“我可能要被调到铁七",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "梢微微一挑，看着这名叫做周谨的军官，想到了多年以前逃离东林大区的那趟旅程，沉就刹那后，伸出手去，微笑说道“你好，又见面了。”\n\n    周蟾看着这张朴实的面容，有些吃恒地摇头感慨道：“听周玉提起过你几次，最近这半年也常在电视上听到许乐这叮，名字，心里总觉得有些怪异，但没想到居然真的是你当年古钟号上的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "了联邦英雄。”\n\n    几年前许乐逃离东林大区，因为收留小西瓜的缘故，与西林军校的学生们发生了一段冲突。事隔几年之后，周寿愕然确认其人身上发生了如此大的变化，震惊之意十分真实。\n\n    周玉和四周的军官们生感到有些吃惊，难道这两人以前便见过？周箭自嘲所笑，将当年古钟舰上发生的故事简略提了一遍，又",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "“很简单。”周玉微笑着插了一句话“因为我们的教官还只是个中校。七组在，肥上铺网干的很漂亮，按道理他应该会晋升，问题是他实在太年轻，而且国防部慧要顾忌一下媒体，所以这次不可能轮到他。”\n\n    “这下我不是吃亏了？”赫雷咕哝着说道，忽然摇摇晃晃地站了起來，一屁股坐到许乐和露露姑娘的中间，抱着",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "赫雷说道：“而且我估封这次嘉奖大会，你顶多得两枚勋章，想要晋上校，那是没什么机会了？”\n\n    “为什么？”有一名七组队员表达自己的疑惑不解，心想凭着赫雷所在自动兵团立下的战功，火线晋升应该是很常见的事情。\n\n    “很简单。”周玉微笑着插了一句话“因为我们的教官还只是个中校。七组在，肥上铺网干",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "前。\n\n    许乐眉梢微微一挑，看着这名叫做周谨的军官，想到了多年以前逃离东林大区的那趟旅程，沉就刹那后，伸出手去，微笑说道“你好，又见面了。”\n\n    周蟾看着这张朴实的面容，有些吃恒地摇头感慨道：“听周玉提起过你几次，最近这半年也常在电视上听到许乐这叮，名字，心里总觉得有些怪异，但没想到居然",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "敢揍那些王八蛋的宪章局官员。”\n\n    赫雷瞪大了双眼大声虽叹，四周的军官们的情绪也无比激昂，开始拼命地拍打酒桌表示兴奋，然后开始像某此动物般放肆地嚎叫着。\n\n    许乐接了摇头，懒得理会这些人的发疯，他眯着眼睛数了很久，总觉得除了那些正在前线杀敌的家伙之外，还应该少了两三个人。然而就在他问话之",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "周玉过去，很好理解，但他不能理解西林这边怎么会同意。\n\n    周玉端起酒杯來，平静的表情中带着一丝沉重，低声说道“国防部直接下的合令，压力太大。”\n\n    许乐拿起手中的酒杯与他轻碰了碰，一饮而尽，舔了舔有些刺麻的嘴唇，摇头微笑说道：“我想还是莫愁后山的意思吧，铁七师确实有前途阴些。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "他茶起满满的酒杯，缓缓喝光，然后揉了揉鼻子说道：“再拿一百瓶好酒。”\n\n    满座军官俱静，同时举杯，整齐无比地将杯中酒一饮而光。\n\n    夜惩会里一地狼籍，一片热闹，七组新队员们坐在外围抱着姑娘喝酒，时不时望向那边，眼里时不时闪过一丝羡慕，他们羡慕老队员们和这些部队里的长官们居然能打成一",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "许乐拿起手中的酒杯与他轻碰了碰，一饮而尽，舔了舔有些刺麻的嘴唇，摇头微笑说道：“我想还是莫愁后山的意思吧，铁七师确实有前途阴些。”\n\n    周玉见他一言点出了事情的要害，忍不住低头自嘲一笑，仰起脖颈将杯中酒清了，吐了口酒气，喃喃说道“身不由己。”\n\n    许乐与周玉平时一直有邮件联系，此时",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "然的气氛。\n\n    此地只宜烈酒ｘ壮歌ｘ战斗，不宜红粉。\n\n    军官们酒后纵情倾淡，讲述着彼此离开基地后的人生轨迹，回到各自部队，拉赴前线，参加惨烈的战斗，许乐坐在众人正中间沉就听着，听着这些曾经的学生立下的战功，知道他们如今大部分人获得了晋升，被酒精黄染有些开怀的心脏里，很自然地生出很多骄傲",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的军官巾却已经无声无息地死了，或许他牺牲的地方，离当时的自己并不遥远。\n\n    他茶起满满的酒杯，缓缓喝光，然后揉了揉鼻子说道：“再拿一百瓶好酒。”\n\n    满座军官俱静，同时举杯，整齐无比地将杯中酒一饮而光。\n\n    夜惩会里一地狼籍，一片热闹，七组新队员们坐在外围抱着姑娘喝酒，时不时望向那",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "经的学生立下的战功，知道他们如今大部分人获得了晋升，被酒精黄染有些开怀的心脏里，很自然地生出很多骄傲满足的情绪。\n\n    晋级最快的是赫雷，这个此时喝了多酒，只会傻笑的三十几岁的中校团长，他的部队承担了极为沉重的任务，在巫２。上面打的极苦也极漂亮。其余的军官中已经有了新团长，有师部的参谋，更多的是",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

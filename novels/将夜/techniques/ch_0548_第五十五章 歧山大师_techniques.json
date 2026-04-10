@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 548,
+  "chapter_title": "第五十五章 歧山大师",
+  "filename": "ch_0548_第五十五章 歧山大师.txt",
+  "char_count": 2158,
+  "timestamp": "2026-04-10T12:11:26.572767",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "能保持低调？要做哪些准备？\n　　黑色马车被他做了一些外表上的改装，看着还是那么黑，只是变得脏了很多，风尘仆仆隐现油腻，竟有了些大黑伞的感觉。\n　　大黑马也被他披头盖脸洒了一身土，甚至还被他用土褐色的树漆，在身上乱七八糟涂了好大几片，哪里还有在荒原上的潇洒模样，看着狼狈至极。\n　　这就是宁缺做的准备，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "年前，大陆南方遇着一次极恐怖的洪灾，大河咆哮泛滥，浊浪淹没无数良田，各国江堤接连破毁，倒灌大泽，情形危险至极。\n　　当时还是烂柯寺住持的歧山大师，率寺中僧众，携着数十车多年积蓄的粮食与药物，出瓦山救灾，沿途施粥散药，救得灾民无数，歧山大师操劳成疾，又在处理灾民遗体时染上尸毒，险些重病不起。\n　　承蓄",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的人物，自然都有与众不同的一方面，宁缺不知道这位歧山大师有什么特殊的喜恶，一位德行高洁的佛宗前辈，按道理来说性情应该慈悲温和，但他还是很谨慎地提醒自己要保持足够的尊敬，并且做好准备。\n　　怎样才能保持低调？要做哪些准备？\n　　黑色马车被他做了一些外表上的改装，看着还是那么黑，只是变得脏了很多，风尘仆",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "病不起。\n　　承蓄了无数河流的大泽，逐渐快要支撑不住，尤其是南晋康州方向的大堤，更是危在旦夕，于某夜出现了溃堤的前兆。\n　　歧山大师当时正在康州，见此情形，丝毫不恤重病之身，脱去僧衣纵身入湖，以难以想像的修为境界和意志力，拦在那段将要崩溃的长堤前，坚持了整整一夜。\n　　第二日清晨，南晋剑阁以及西陵神",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，反而愈发真挚，即便数十年后，依然如此。\n　　当年宋国莲生公子丧妻，于雨夜作一悼文，便开始周游天下，来到瓦山借宿烂柯寺，于后殿静卧之时，偶然听着一老僧言及佛宗故事，始明佛理。\n　　那老僧便是歧山大师。\n　　又数年后，莲生自极西荒原归来，身赋悬空寺真义，拒绝西陵神殿邀请，在一老僧前轻抚头顶断青丝，正式",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。\n　　谁敢比我惨？\n　　如果真有人敢比他和桑桑惨，他大概真的让那人惨不忍睹。\n　　就在这时，山道上缓缓行来一位年轻僧人。\n　　那僧人面色黝黑，神情宁静从容。\n　　然而当他看到山道口处那辆看着残破不堪的黑色马车和与传闻全不相像的大黑马，脸上的宁静从容，顿时被打碎成无数片惊愕，然后落了一地。\n　　他走",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "结庐隐居两年，当时他的修为境界，早已远远超过了歧山大师，然而他却极为尊重对方，半师半友视之。\n　　又某年盂兰节大会，魔宗血洗烂柯寺，杀尽与会的正道修行者，对寺中僧人却极少伤害，如今想来，自然也是因为歧山大师。\n　　宁缺带着桑桑来烂柯寺，自然不是为了参加盂兰节会，也不是要代表大唐与诸国商讨荒人南下，甚",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "畏的身世，而是因为他高洁的德行。\n　　数十年前，大陆南方遇着一次极恐怖的洪灾，大河咆哮泛滥，浊浪淹没无数良田，各国江堤接连破毁，倒灌大泽，情形危险至极。\n　　当时还是烂柯寺住持的歧山大师，率寺中僧众，携着数十车多年积蓄的粮食与药物，出瓦山救灾，沿途施粥散药，救得灾民无数，歧山大师操劳成疾，又在处理灾",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "大黑马，脸上的宁静从容，顿时被打碎成无数片惊愕，然后落了一地。\n　　他走到马车前，隔窗看着宁缺，无奈说道：“这如何瞒得过家师？家师又哪里是这等人，需要十三先生费这样的心思？”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

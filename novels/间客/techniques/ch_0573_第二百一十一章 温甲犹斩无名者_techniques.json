@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 573,
+  "chapter_title": "第二百一十一章 温甲犹斩无名者",
+  "filename": "ch_0573_第二百一十一章 温甲犹斩无名者.txt",
+  "char_count": 3411,
+  "timestamp": "2026-04-10T12:05:08.557451",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "短短的一段话，被咳嗽打断了好几次，商秋担心问道：“你还顶不顶得住？”\n\n    房间里的众人沉默而担忧地望着许乐，大家都知道他已经好几天没有睡觉，而且在修复工作的间隙，他甚至还要和白玉兰熊临泉二人，分别操控机甲去拦截帝国人越来越疯狂的进攻，如此高强度甚至是恐怖的消耗，即便是铁人大概也会倾",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，纷纷用力握紧了拳头，心头生出沉甸甸的成就感。\n\n    许乐将成串工具挂回腰带，任由这些金属工具若风铃一般拍打臀部，微笑说道：“换成短波收纳器，没想到还……咳咳……真的管用。”\n\n    剧烈的咳嗽让他弯下了腰，用拳头使劲地捂着嘴唇也无法止住，反而让咳嗽声变得像打闷鼓一般难听。白玉兰担忧地看着他，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "帝国远征军余部，只要再集结两千人的力量，在残存的机甲协助下发起一次集团冲锋，青龙山最后的高地便会极其危险。\n\n    但很奇怪，帝**队的指挥层似乎发生了某种分歧，也许正是栗明团长那天所推算的局面，也许是因为某些偶发事件，清晨之后，帝国方面的攻击迟缓了下来。\n\n    “如果能联系让（上）那两个营，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "但此刻精神似乎又回到她体内丝毫，让声音显得清亮起来。\n\n    听到她的声音，营房内的人们暴发出一阵压抑下来的喝彩声，忙碌修复指挥系统的大家，纷纷用力握紧了拳头，心头生出沉甸甸的成就感。\n\n    许乐将成串工具挂回腰带，任由这些金属工具若风铃一般拍打臀部，微笑说道：“换成短波收纳器，没想到还……咳",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "人，因为他们对许乐有一种绝对甚至是盲目的信心。但青龙山官兵们虽然见过许乐操控机甲战斗，却依然被这一幕激动的难以自己，看着操作台前那个十分普通的背影，心情复杂异样到了极点。\n\n    房间外的暴风雪中，那台帝国狼式机甲无声无息地卧于风雪之中，电火花点燃的液油火苗，瞬间便被暴雪压息，谁也未曾预料到，在此",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "心头生出沉甸甸的成就感。\n\n    许乐将成串工具挂回腰带，任由这些金属工具若风铃一般拍打臀部，微笑说道：“换成短波收纳器，没想到还……咳咳……真的管用。”\n\n    剧烈的咳嗽让他弯下了腰，用拳头使劲地捂着嘴唇也无法止住，反而让咳嗽声变得像打闷鼓一般难听。白玉兰担忧地看着他，将手中的水杯和药片递了",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "了极点。\n\n    房间外的暴风雪中，那台帝国狼式机甲无声无息地卧于风雪之中，电火花点燃的液油火苗，瞬间便被暴雪压息，谁也未曾预料到，在此刻，又有另一件事情发生了。\n\n    ……\n\n    … www.dxsxs.com",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "有全时连接，所以你们这边扫描持续的时间要久一些。”\n\n    短短的一段话，被咳嗽打断了好几次，商秋担心问道：“你还顶不顶得住？”\n\n    房间里的众人沉默而担忧地望着许乐，大家都知道他已经好几天没有睡觉，而且在修复工作的间隙，他甚至还要和白玉兰熊临泉二人，分别操控机甲去拦截帝国人越来越疯狂的进攻",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "道：“让机步兵连准备肩扛火箭弹，如果那台机甲真想冲过来。”\n\n    “我去吧，如果让帝国人发现，真进入近战阶段，我们还没动用电磁束炸弹，他们肯定会明白。”\n\n    许乐掀开门帘走了过来，脸色有些不健康的苍白：“营外那台机甲不是月狼机甲大队的残余，应该是是那位安将军的近卫机甲班级成员。”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "。”\n\n    白玉兰微低着头，默然注视着脚尖，团部里所有人都知道许乐的精力损耗太大，身体非常差，按道理他应该主动请战，只是他清楚自己揣在裤兜里的双手，从上次战斗结束之后，便在一直颤抖。\n\n    艰苦的连续战斗，他们几个人幸运的没有受重伤，但身体已经到了崩溃的边缘。\n\n    栗明神情一肃，正准备",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。\n\n    他倒是听说过，当年在帝国本土之上，双方部队死战难解之时，确实有过这种颇具古意的机甲挑战出现，然而眼下的局面是帝国人占据绝对优势，对方居然嚣张或愚蠢地来做机甲挑战，这是在发什么疯？\n\n    “确认是一台？而不是像前几次那样机甲混编分队的进攻？“他皱着眉头确认道，这几天时间里，已经有些焦",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "乔加……”\n\n    黑青色的帝国机甲骄傲冷静地站在原地不动，机甲外扩音设备，传来座舱内机师充满强关压迫意味的宣告声。\n\n    丑陋的mxt没有回答，只是沉默着一直加速。\n\n    青龙山官兵们再也听不到他们信赖的引擎嗡鸣声，只能看到一道雪线在延伸。\n\n    雪线前端狠狠地撞到那台黑青色机甲身上",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "凉。双方的军官们也走出各自的营地，通过视频光幕沉默地观看这一场难得一见的机甲对战。\n\n    mxt缓缓走出了青龙山部队所在的高地，然后逐渐加速，向着雪原中央驶去，充满了节奏感的引擎嗡鸣声，穿透风雪，进入所有人的耳朵。\n\n    与许乐一同工作很长时间的机修连战士们，终于忍不住担心冲出了营房，站成一",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 665,
+  "chapter_title": "第四十六章 永不消失的冬天",
+  "filename": "ch_0665_第四十六章 永不消失的冬天.txt",
+  "char_count": 2227,
+  "timestamp": "2026-04-10T12:11:26.889851",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "。\n　　尤其是随着桑桑而来的乌云和十几只黑鸦，让留守在部落里的老弱妇孺更是恐惧，经常能够看到有人对着天空和桑桑所在帐蓬上的那些黑鸦叩首，那名荒人妇女最开始甚至不敢回自已帐蓬，直到看久了才稍微习惯了些。\n　　今天的午饭是肉汤加面饼，肉汤里有很多肉，只怕要比部落里所有妇孺碗里的肉加起来还要多一些，至于面",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "是给邻居分了，然后走进内帐，把刚刚醒来的桑桑扶起，撕拼泡入汤中，喂她吃了几口。\n　　桑桑的小脸不再像逃亡旅途中那般苍白，回复了以往的微黑肤色，但她的病并没有好，反而变得更加沉重，也没有什么食欲，摇头说道：“不吃了。”\n　　“那再喝几口汤。”\n　　宁缺把汤碗端到她唇边，小心翼翼喂她喝汤。\n　　桑桑忽然",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "已的办法。\n　　他先前对皇子李珲圆说，再强大的武器也需要在正确的时刻使用，才能发挥作用，此时站在世间最强大的惊神阵间，他沉默想着，再强大的武器也需要掌握在正确的人手中，才能生出真正的意义。\n　　世间只有唯一真神昊天，长安城这座大阵名为惊神，那便是对昊天的亵渎，何明池认为，这座大阵唯一的意义，就是应该",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的那些符纹击杀，因为除了身揣国玺的皇帝陛下和拥有阵眼枢的执阵人，没有人能够进到这里。\n　　何明池能够来到这里，自然有他自已的办法。\n　　他先前对皇子李珲圆说，再强大的武器也需要在正确的时刻使用，才能发挥作用，此时站在世间最强大的惊神阵间，他沉默想着，再强大的武器也需要掌握在正确的人手中，才能生出真正",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "作用，此时站在世间最强大的惊神阵间，他沉默想着，再强大的武器也需要掌握在正确的人手中，才能生出真正的意义。\n　　世间只有唯一真神昊天，长安城这座大阵名为惊神，那便是对昊天的亵渎，何明池认为，这座大阵唯一的意义，就是应该被毁去。\n　　……\n　　……\n　　春意渐深，即便是荒原极北处，也终于有了暖意，山林",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "几口。\n　　桑桑的小脸不再像逃亡旅途中那般苍白，回复了以往的微黑肤色，但她的病并没有好，反而变得更加沉重，也没有什么食欲，摇头说道：“不吃了。”\n　　“那再喝几口汤。”\n　　宁缺把汤碗端到她唇边，小心翼翼喂她喝汤。\n　　桑桑忽然咳嗽起来，不是被汤水呛着，她最近这些天咳的非常厉害。\n　　咳声回荡在帐蓬",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "另觅帐蓬居住，春意渐绿原野，而他和桑桑的帐蓬四周的地面却依然冰冻着，如同另一个世界。\n　　宁缺现在最忧虑的最恐惧的最惘然的最无奈的，便是桑桑的病。\n　　如果没有办法治好桑桑的病，那么就算荒人能够战胜西陵神殿的联军，就算他能够天下无敌，也没有任何意义。\n　　所以他不停地刻苦修行学习，让自已变得更强大是",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "春意渐深，即便是荒原极北处，也终于有了暖意，山林渐绿，青草渐长，然而只有等盛夏到来，大概才会有青葱一片的景象。\n　　宁缺和桑桑在荒人部落里已经住了很长一段日子，在这些天里，除了照料桑桑的病，他最主要做的事情，便是不停地写字写符，修行浩然气与刀法。\n　　荒人部落深处后方，数万名强大的荒人战士正在南方",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "是安宁那道阴寒气息。\n　　越来越多的寒意从她瘦小的身体里渗透而出，无论烈酒还是符火，都很难让她感受到温暖，被褥和衣衫都冷的像是冰屑，整间帐蓬就像是冰窖一般酷寒逼人。\n　　荒人妇女十数日前便已经另觅帐蓬居住，春意渐绿原野，而他和桑桑的帐蓬四周的地面却依然冰冻着，如同另一个世界。\n　　宁缺现在最忧虑的最",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "像逃亡旅途中那般苍白，回复了以往的微黑肤色，但她的病并没有好，反而变得更加沉重，也没有什么食欲，摇头说道：“不吃了。”\n　　“那再喝几口汤。”\n　　宁缺把汤碗端到她唇边，小心翼翼喂她喝汤。\n　　桑桑忽然咳嗽起来，不是被汤水呛着，她最近这些天咳的非常厉害。\n　　咳声回荡在帐蓬里，久久未歇，她的神情显得",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

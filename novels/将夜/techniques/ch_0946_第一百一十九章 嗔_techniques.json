@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 946,
+  "chapter_title": "第一百一十九章 嗔",
+  "filename": "ch_0946_第一百一十九章 嗔.txt",
+  "char_count": 5480,
+  "timestamp": "2026-04-10T12:11:27.526801",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的宇宙，却最终寂灭，那他的到来，便是给这个世界带来了冥王的阴影。\n　　这种推想让他身体很寒冷，下意识愤怒起来，看着桑桑喊道：“你总是什么都要赢，哪怕是讨论，你也从来没有认输过哪怕一次，为什么？”\n　　桑桑静静看着他，神情微悯。\n　　她的神情让他更加愤怒，走到树下重重一掌拍下，枝头的黑鸦低头看了他一眼",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "情绪，然而这句话却像是雷霆般在朝阳城的上空炸响，惊的无数万人抬头望天。\n　　“你的那个世界到处充满着危险，正在燃烧的太阳，随时可能爆炸，随时可能熄灭，而绝大多数地方，都寒冷的有若幽冥。无论是脆弱的普通人，还是相比强健的修行者，都不可能在那个世界里生存下去。”\n　　宁缺说道：“恒星的寿命有很多亿年，怎",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "世界里，那么神国和人间究竟有什么区别？”\n　　桑桑说道：“现在你的老师在那里。”\n　　宁缺说道：“你为什么一定要阻止老师，为什么一定要阻止我们？难道你就不想知道，在这个世界的外面究竟有什么？”\n　　“这是我的世界，我是这个世界的规则，我的存在来源于这个世界独一无二的特性，你们想要破坏这个世界的特性，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的菜摊全部变成了血泽，那些菜贩凄惨的死去。\n　　“够了！”\n　　宁缺在菜场门口停下，前方的街道上满是人群，他不敢向前再走一步，他只能转身，望向桑桑愤怒地喊道。\n　　菜场里到处都是血，已经淹过了他的鞋底。\n　　桑桑在血海里走来，脸上没有任何情绪。\n　　看着这幕画面，宁缺的身体颤抖起来。\n　　然后，他渐",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，而我能活下来，何尝不是因为我要养活你？什么是本命？这就是本命。”\n　　桑桑抬头，看着渐被夜色侵袭的天空，没有说话，树枝上栖着的黑鸦，微微偏头望着院子里的二人，似想弄清楚当前的情形。\n　　“小师叔是你杀的，但我那时候还没有出生，所以我可以不去理会，但……老师的死，我再也没有办法说和自己没有关系。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的脸，按照自己的心意形成的高大身躯，都让她并不怎么愉快，所以此时，她看着宁缺眼睛里的那个女子，觉得很陌生，而且有些惘然。\n　　“为什么要这样做呢？”\n　　“就算是为了人类，当然，最主要是为了我，请你留下来。”\n　　桑桑眼中的他眼中的自己的那张普通的脸，忽然间破碎成无数片光影，再也无法重新聚拢在一处，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "说道：“这对我没用。”\n　　桑桑说道：“我想试试，而且，如果死的是唐人呢？”\n　　宁缺没有说话，开始紧张。\n　　因为她已动念。\n　　动念便是嗔。\n　　嗔是愤怒。\n　　而愤怒，来自不同。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "桑桑说道：“即便是亿亿亿年，对于需要永恒延续的生命来说，都只是很短的时间，更何况你的那个世界，最终必然会走向寂灭，什么都剩不下来。”\n　　宁缺沉默了很长时间，说道：“或者，还能剩下些回忆？”\n　　桑桑的言语没有给温情留下一方寸的生存空间：“没有温度，什么都没有。寂灭，便是终结，没有永恒，那便是",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的眼睛说道：“变成人类，然后我们一起活着，一起修行，一起买菜，一起吃饭，一起做很多事情。”\n　　桑桑来到人间后，从来没有照过镜子，她按照人类最中庸的面容拟成的脸，按照自己的心意形成的高大身躯，都让她并不怎么愉快，所以此时，她看着宁缺眼睛里的那个女子，觉得很陌生，而且有些惘然。\n　　“为什么要这样做呢",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "小院，他跟在她的身后。\n　　初春微寒，院里那棵树依然没有发出太多枝叶，她走到那棵树下，看着轻颤的寒枝说道：“既然不是，那你就让我走。”\n　　既然宁缺认为在一起只是生活，不是他想把她留在人间的方法，那么当她想要离开时，他便不应该拦阻。\n　　“你随时可以走。”宁缺在她身后说道。\n　　桑桑看着树桠，扑扇声",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "我们？难道你就不想知道，在这个世界的外面究竟有什么？”\n　　“这是我的世界，我是这个世界的规则，我的存在来源于这个世界独一无二的特性，你们想要破坏这个世界的特性，那我便不能存在。”\n　　桑桑看着他的眼睛，平静说道：“这是我与你老师以及书院之间最根本的矛盾，无法解决，如果你坚持，就是要我死。”\n　　“",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "在了隆庆的身上，最终还是由桑桑接过了这个名字。\n　　现在的他自然知道，根本没有冥王，昊天就是冥王，但同时他又必须承认，在某种程度上桑桑说的是对的。\n　　他曾经生活过的那个世界，相对于这个世界而言是那样的寒冷，那样的动荡，那样的危险，就像是冥王的国度。\n　　他从那个世界来到这里，把那个世界的信息带到了",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "醒来，听到她的下句话才知道是因为自己。\n　　“我现在能够理解，对世界之外的想象与好奇，是人类本能里的渴望，但那些人里恰好不应该包括你，因为你本来就不是这个世界的人。”\n　　桑桑看着他说道：“你来自世界之外，你很清楚外面的世界有什么，从二十年前开始，你就一直在给我讲述那个世界，我没有忘记，而且我现在在",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "“变成人类，然后我们一起活着，一起修行，一起买菜，一起吃饭，一起做很多事情。”\n　　桑桑来到人间后，从来没有照过镜子，她按照人类最中庸的面容拟成的脸，按照自己的心意形成的高大身躯，都让她并不怎么愉快，所以此时，她看着宁缺眼睛里的那个女子，觉得很陌生，而且有些惘然。\n　　“为什么要这样做呢？”\n　　“",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "自己的身体渐渐变得寒冷起来，说道：“那个世界……很美丽，很生机勃勃，也数不尽的真实的太阳，到处充满了温暖。”\n　　“你在撒谎。”\n　　桑桑的声音还是那样的平静，没有一丝多余的情绪，然而这句话却像是雷霆般在朝阳城的上空炸响，惊的无数万人抬头望天。\n　　“你的那个世界到处充满着危险，正在燃烧的太阳，随时",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

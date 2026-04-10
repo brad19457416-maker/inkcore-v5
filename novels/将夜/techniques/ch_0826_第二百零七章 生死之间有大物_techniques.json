@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 826,
+  "chapter_title": "第二百零七章 生死之间有大物",
+  "filename": "ch_0826_第二百零七章 生死之间有大物.txt",
+  "char_count": 3289,
+  "timestamp": "2026-04-10T12:11:27.262208",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "说道：“不错，但当时没有直接杀死他，所以我以为自已失败了，却没有想到，他没有责怪我，还替我隐瞒了很多真相。”\n　　宁缺沉默不语，他虽然知道陛下是个重情重义之人，但依然无法理解，当年他为什么会做这样的选择。\n　　“到了这时候，我才发现原来他真的喜欢上了我，于是我开始欲拒还迎，把在明宗里学到的那些本事，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "院后山的师兄师姐们，也没有人想明白酒徒转述的这句话究竟有何深意。\n　　众人分析良久，发现如果仅从字面意义推论，在西陵教典里有过类似的阐述：人间所有生命的死亡并不是终结，而是回归到昊天神国的光辉里。问题在于，有资格说出这句话的人，只能是昊天本身。\n　　皇后看着他问道：“你依然认为不是她？”\n　　宁缺说",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "话，知道这句话的皇后娘娘还有书院后山的师兄师姐们，也没有人想明白酒徒转述的这句话究竟有何深意。\n　　众人分析良久，发现如果仅从字面意义推论，在西陵教典里有过类似的阐述：人间所有生命的死亡并不是终结，而是回归到昊天神国的光辉里。问题在于，有资格说出这句话的人，只能是昊天本身。\n　　皇后看着他问道：“你",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "不会相信。”\n　　宁缺看着她说道：“做好准备进宫，小蛮我会送到书院学习。”\n　　……\n　　……\n　　转眼间，长安城春意已深，却依然阴雨绵绵。\n　　百姓们还没有完全从皇后娘娘离开的悲痛里摆脱出来，朱雀大道上等着颁赏令的将士们手臂上还缠着白布。\n　　羽林军在皇宫前肃穆列阵，庄严雅乐响彻宫庭，朝廷文武百官",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "上，直到他再也离不开我，甚至决定迎我进宫。”\n　　皇后微笑说道：“当时我以为自已赢了，结果没有想到，最终是我输了，因为我在他的身上放了太多心思，所以不知不觉间，原来我也喜欢上了他，就像他无法离开我一样，我也没有办法离开他。”\n　　“陛下是这个世界上最疼我的两个男人之一。”\n　　“我帮他处理过一段时间",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "零七章 生死之间有大物\n　　世间每一次死亡都是久别重逢。\n　　这句话有些晦涩，非常文艺，不像此时的春风，更像深春时长安会刮上几天的夹着沙粒黄土的春风。\n　　宁缺想了很长时间，都没有想明白这句话到底是什么意思，甚至连一丝头绪都没有，于是愁城愈愁。\n　　不得出长安是他现在最忧愁的事情，这座城便是他的愁城",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "最忧愁的事情，这座城便是他的愁城，他坐困愁城，所以每天都坐在高高的城墙发呆。\n　　环佩轻响，皇后娘娘来到此间，走到他身前，轻轻揉了揉他的头，怜惜说道：“还没有想明白那句话的意思？”\n　　从书院辈份算，皇后应该要喊宁缺小师叔，但她毕竟比宁缺年龄大，从陛下那边看怎么都算是长辈，尤其是从去年秋天开始，她和",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "……\n　　……\n　　转眼间，长安城春意已深，却依然阴雨绵绵。\n　　百姓们还没有完全从皇后娘娘离开的悲痛里摆脱出来，朱雀大道上等着颁赏令的将士们手臂上还缠着白布。\n　　羽林军在皇宫前肃穆列阵，庄严雅乐响彻宫庭，朝廷文武百官身着朝服，在太监的指引下鱼贯而入，钟声渐渐响响。\n　　这一天，大唐新君正式登基",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "我操劳过度。”\n　　“我有能力处理国务，但我真的不喜欢，我就喜欢和他在一起说说笑笑，打打闹闹，耍些小脾气，做些吃食，仅此而已。”\n　　“他离开了，因为很多年前我在他身上种下的伤，所以我必须撑着，一直平静着，从荒原回到长安，直到把他的身后事处理好。”\n　　“我想我处理的不错，见到陛下时，相信他会满意，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "事，宁缺看的仔细，发现是自已以前讲过的那些故事。\n　　听到这句话，她有些没有反应过来，过了很长时间才缓缓抬头，苍白的脸上满是惘然的神情：“为什么？”\n　　“如果我说是殉情，不知道你会不会相信。”\n　　宁缺看着她说道：“做好准备进宫，小蛮我会送到书院学习。”\n　　……\n　　……\n　　转眼间，长安城春意",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "“我帮他处理过一段时间的国事，传闻中是因为惹了些议论，他才不让我继续处理，只有我知道，那是因为他担心我操劳过度。”\n　　“我有能力处理国务，但我真的不喜欢，我就喜欢和他在一起说说笑笑，打打闹闹，耍些小脾气，做些吃食，仅此而已。”\n　　“他离开了，因为很多年前我在他身上种下的伤，所以我必须撑着，一",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，所以每天都坐在高高的城墙发呆。\n　　环佩轻响，皇后娘娘来到此间，走到他身前，轻轻揉了揉他的头，怜惜说道：“还没有想明白那句话的意思？”\n　　从书院辈份算，皇后应该要喊宁缺小师叔，但她毕竟比宁缺年龄大，从陛下那边看怎么都算是长辈，尤其是从去年秋天开始，她和宁缺从荒原南归长安，同甘共苦，彼此间早已足够",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

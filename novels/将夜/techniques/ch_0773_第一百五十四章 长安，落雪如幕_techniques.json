@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 773,
+  "chapter_title": "第一百五十四章 长安，落雪如幕",
+  "filename": "ch_0773_第一百五十四章 长安，落雪如幕.txt",
+  "char_count": 3542,
+  "timestamp": "2026-04-10T12:11:27.141844",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "排进各处百姓宅中，长街之上行人寥寥，沿街的商铺酒楼大多已经关闭，早已没有平日人气鼎沸的模样，肃冷的冬风在街中来回吹拂，显得格外冷清。\n　　南门外的块垒大阵能起的作用非常微渺，虽然可以对观主进行一些拦阻，但已经确认不可能在短时间内，把堵塞的惊神阵冲开，那么他还能从哪里调动如此多的天地元气，来修复这座惊",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "不由很是愕然，然后上前行礼。\n　　他是颜瑟大师的徒弟，南门观的道人称他为师兄。\n　　宁缺摆摆手，示意众人不要理自已。\n　　他一个人走进幽静的道殿，站在墙壁下，看着那些油彩绘成的教典故事，还有那些像神话一般的传说，沉默了很长时间。\n　　把人间的气息，转变成真实的力量，宗教最擅长做这种事情。\n　　这也就",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "落发呆。\n　　便在这时，有片雪花飘落，落在他的身上。\n　　他想起了那年的雪。\n　　想起了雪湖上的那场战斗。\n　　桑桑撑着大黑伞，站在风雪中，唱歌给雪湖听。\n　　如果桑桑还在，如果大黑伞还在，如果铁箭还在，他真的很有信心，就算不能把堵塞的长安城贯通，也能借助惊神阵杀死那个男人。\n　　然而桑桑已经死了。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "较的便是年月，他活的比我和师兄长，自然也就比我们强，师兄虽然天赋过人，但性情太温和，就算学会了打架，最终也不可能是他的对手。”\n　　她没有对自已做出评价，亦是一种默认，宁缺还想到了一个很麻烦很关键的问题，三师姐现在身上还带着伤，可能是很重的伤。\n　　西陵神殿掌教乃是逾五境的至强者，虽然她是最神秘强大",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，继续寻找。\n　　他在白雾里书写，在落雪里书写，在渐渐积雪的地面上书写。\n　　因为疲惫与紧张，他的手颤抖的越来越严重。\n　　二字符的两个笔画，有时候会变得有些歪斜。\n　　……\n　　……\n　　长安城的下了一场雪。\n　　这是天启十八年的第一场雪，初雪。\n　　黑夜渐退，晨光渐至。\n　　城中的街道与檐瓦，都",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第一百五十四章 长安，落雪如幕\n　　余帘继续说道：“此人至南海后又有奇遇，虽然无人知晓细节――因为老师见到还是小孩子的皮皮时，曾经感叹光明有后。”\n　　宁缺微怔，说道：“六百年前在南海失踪的那位光明大神官？”\n　　余帘说道：“不错，我始终认为他",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "了很长时间，还是觉得有些不甘心，问道：“师兄和师姐联手，难道还不能胜过他？”\n　　“老师说过一句话，人生就是一场修行。”\n　　余帘说道：“……那么修行有时候比较的便是年月，他活的比我和师兄长，自然也就比我们强，师兄虽然天赋过人，但性情太温和，就算学会了打架，最终也不可能是他的对手。”\n　　她没有对自",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "了很多。”\n　　宁缺看着南门前那些石头，沉默了很长时间，还是觉得有些不甘心，问道：“师兄和师姐联手，难道还不能胜过他？”\n　　“老师说过一句话，人生就是一场修行。”\n　　余帘说道：“……那么修行有时候比较的便是年月，他活的比我和师兄长，自然也就比我们强，师兄虽然天赋过人，但性情太温和，就算学会了打架",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，南面的城墙上覆着浅浅的一层薄雪。\n　　看上去就像是一片白色的幕布。\n　　忽然间。\n　　城墙薄雪间，出现了一只脚印。\n　　此处距离地面约有数十丈，苍鹰能筑巢，人不能至。\n　　但却多了一只脚印。\n　　瞬间后。\n　　数百丈外的城墙薄雪间，又多出了一只脚印。\n　　紧接着，有一双脚印出现在其后。\n　　这两个",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "指，继续书写，继续寻找。\n　　他在白雾里书写，在落雪里书写，在渐渐积雪的地面上书写。\n　　因为疲惫与紧张，他的手颤抖的越来越严重。\n　　二字符的两个笔画，有时候会变得有些歪斜。\n　　……\n　　……\n　　长安城的下了一场雪。\n　　这是天启十八年的第一场雪，初雪。\n　　黑夜渐退，晨光渐至。\n　　城中的街",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，出现了一只脚印。\n　　此处距离地面约有数十丈，苍鹰能筑巢，人不能至。\n　　但却多了一只脚印。\n　　瞬间后。\n　　数百丈外的城墙薄雪间，又多出了一只脚印。\n　　紧接着，有一双脚印出现在其后。\n　　这两个脚印分别属于两个人。\n　　熬冬的老鹰，被城墙上的脚步声惊醒。\n　　它警惕地望向遥远的空中。\n　　明",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "：“你师颜瑟当年曾经说过，每个人的想法其实都是一道符，只是太过弱小微渺，所以无法感受得到，而当所有人同时写一道符时，这道符便有可能显现出来，甚至变成伟大。”\n　　……\n　　……\n　　宁缺明白了些什么。\n　　原来还真有可能，寻找到一种手段召集能够与天地相抗衡的人间之力，如果他能够寻找到那道力量，便能疏",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "……\n　　……\n　　宁缺在长安城里四周行走，就像当年那个夏天，他悟符之初那般。\n　　所以他再次来到万雁塔寺，登上了万雁塔。\n　　站在塔顶小窗旁，看着安静的长安城，他请教道：“人的思想，真的可以变成具体的力量吗？如果可以，需要经由怎样的途径？”\n　　“思想本身没有力量，但一旦展现出来，便可能显现",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "当年那个夏天，他悟符之初那般。\n　　所以他再次来到万雁塔寺，登上了万雁塔。\n　　站在塔顶小窗旁，看着安静的长安城，他请教道：“人的思想，真的可以变成具体的力量吗？如果可以，需要经由怎样的途径？”\n　　“思想本身没有力量，但一旦展现出来，便可能显现出某种力量，正如皇帝陛下的圣旨，如果只是脑中的一个想法",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

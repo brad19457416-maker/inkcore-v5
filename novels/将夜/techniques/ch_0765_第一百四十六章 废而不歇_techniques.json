@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 765,
+  "chapter_title": "第一百四十六章 废而不歇",
+  "filename": "ch_0765_第一百四十六章 废而不歇.txt",
+  "char_count": 3383,
+  "timestamp": "2026-04-10T12:11:27.131003",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "昊天对我的惩罚。”\n　　叶红鱼神情微变。\n　　叶苏忽然大笑起来，说道：“都到了这种时刻，还想这些没有意义的事情做什么？一战我打的很是快活，便足够了。”\n　　叶红鱼说道：“只有胜利，才能让我感到快乐。”\n　　“那是你和宁缺，不是我们这些人。”\n　　叶苏微笑说道：“像我和君陌这种人，终究还是有些老派。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "知道叶苏的骄傲，所以只说了声：“珍重。”\n　　叶苏闻言大笑，神情很是开怀，说道：“周游诸国修道多年，最终破废之秋，能得君陌道声珍重，也算没有辜负自已。”\n　　说完这句话，他转身离开青峡。\n　　二师兄看着那个有些落寞的背影，手中的铁剑缓缓插进身畔的原野里。\n　　随着这个动作，他的盔甲上出现了无数道裂缝",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "鱼的双拳确实已经握紧，她确实很愤怒，听到这句话后，她更加愤怒，甚至愤怒的身体都颤抖起来，血色神袍在秋风中轻颤。\n　　他是她的兄长，是她这一生最敬爱的人，是她的偶像，是她从童年到现在一直苦苦追赶的目标，她永远望着他的背影，想追却始终无法追上，哪怕她已经成了裁决大神官，却还是那个跟在兄长身后哭喊的小姑娘",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "要往东去？”\n　　叶苏虽然没有看到，但也猜到裁决神袍里的那两双手已经握成了拳头，感觉到了她此时心里的愤怒，因此而觉得温暖。\n　　他笑着说道：“已然成了废人，哪里还治的好？”\n　　叶红鱼的双拳确实已经握紧，她确实很愤怒，听到这句话后，她更加愤怒，甚至愤怒的身体都颤抖起来，血色神袍在秋风中轻颤。\n　　他",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "长得偿所愿，堪称快意，而且正如叶苏离开前所说，这时候柳白该出手了。\n　　因为刚刚战胜叶苏的君陌，毫无疑问是最强大的君陌。\n　　……\n　　……\n　　二师兄坐在篷下，静静看着原野方向。\n　　残留在他身上的盔甲碎片，被木柚细心地拣了出来。然后她解下头盔，开始替他重新梳头，只是动作明显有些生疏。\n　　王持左",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "假于物也，这便是人之所以为人的根本，怎么能称之为外物？”\n　　很简单的几句话，让叶苏思考了很长时间，感慨说道：“我本以为你方正守礼，古板严谨，不识圆融，今日才知原来你才是真正的通达。”\n　　二师兄说道：“礼者理也，经过审慎思考，确定某个规则有道理，那么就算千万人在前，也能够不退一步，这就是守礼。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "笑着伸出手去，摘下叶红鱼的神冕，然后把她的满头黑发揉的像鸟窝一样乱，显得很孩子气。\n　　叶红鱼的身体骤然紧绷，她非常不适应这个动作。\n　　这么多年，叶苏从来没有对她做过这般怜爱的动作。\n　　她很紧张，又觉得很温暖，很满足。\n　　于是她顺从地低下头来。\n　　叶苏离开了。\n　　直到过了很长时间，叶红鱼才",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "“保护好他。”\n　　她面无表情说道，然后转身向青峡处走去。\n　　她并不愤怒，因为这是一场公平的战斗，兄长得偿所愿，堪称快意，而且正如叶苏离开前所说，这时候柳白该出手了。\n　　因为刚刚战胜叶苏的君陌，毫无疑问是最强大的君陌。\n　　……\n　　……\n　　二师兄坐在篷下，静静看着原野方向。\n　　残留在",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。\n　　二师兄看着那个有些落寞的背影，手中的铁剑缓缓插进身畔的原野里。\n　　随着这个动作，他的盔甲上出现了无数道裂缝，然后片片崩落，焦黑色的金属碎片，看上去就像是长安城常见的碎瓦。\n　　片刻之后，二师兄的脚旁堆满了盔甲的碎片，衣裳早已被鲜血浸透。\n　　……\n　　……\n　　原野北方是青山青峡，南方是连",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "。”\n　　二师兄说道：“借车船行千里，凭刀火始耕种，人之异于禽兽者几希，唯善假于物也，这便是人之所以为人的根本，怎么能称之为外物？”\n　　很简单的几句话，让叶苏思考了很长时间，感慨说道：“我本以为你方正守礼，古板严谨，不识圆融，今日才知原来你才是真正的通达。”\n　　二师兄说道：“礼者理也，经过审慎思",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "青峡，南方是连绵十余里的军营。\n　　叶苏没有往北走，也没有往南走，而是往东走，顺着青山不停行走，便会来到大泽畔，乘船过大泽，便能来到宋国，再过去便是大海。\n　　他不知道自已为什么要往那个方向行走，只是隐约觉得东海处或者说宋国方向，有什么事情或者人在吸引自已。\n　　在原野某处，叶苏被拦住了去路。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的身体骤然紧绷，她非常不适应这个动作。\n　　这么多年，叶苏从来没有对她做过这般怜爱的动作。\n　　她很紧张，又觉得很温暖，很满足。\n　　于是她顺从地低下头来。\n　　叶苏离开了。\n　　直到过了很长时间，叶红鱼才抬起头来，依然眷恋着先前的感受。\n　　她看着渐渐消失的背影，眼眸深处的伤感一现即隐。\n　　十余",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "也算没有辜负自已。”\n　　说完这句话，他转身离开青峡。\n　　二师兄看着那个有些落寞的背影，手中的铁剑缓缓插进身畔的原野里。\n　　随着这个动作，他的盔甲上出现了无数道裂缝，然后片片崩落，焦黑色的金属碎片，看上去就像是长安城常见的碎瓦。\n　　片刻之后，二师兄的脚旁堆满了盔甲的碎片，衣裳早已被鲜血浸透。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "叶苏虽然没有看到，但也猜到裁决神袍里的那两双手已经握成了拳头，感觉到了她此时心里的愤怒，因此而觉得温暖。\n　　他笑着说道：“已然成了废人，哪里还治的好？”\n　　叶红鱼的双拳确实已经握紧，她确实很愤怒，听到这句话后，她更加愤怒，甚至愤怒的身体都颤抖起来，血色神袍在秋风中轻颤。\n　　他是她的兄长，是她",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第一百四十六章 废而不歇\n　　叶苏问道：“依凭外物，能在修行路上走到最后吗？”\n　　二师兄说道：“道门讲究道法自然，这本就是错的。”\n　　叶苏微微一怔，请教道：“为何这般说？”\n　　“什么是外物？如果说你我一身之余皆是外物，那么盔甲是外物，剑是外物，天地之间的气息都是外物，然则谁都在用。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "二师兄看着那个有些落寞的背影，手中的铁剑缓缓插进身畔的原野里。\n　　随着这个动作，他的盔甲上出现了无数道裂缝，然后片片崩落，焦黑色的金属碎片，看上去就像是长安城常见的碎瓦。\n　　片刻之后，二师兄的脚旁堆满了盔甲的碎片，衣裳早已被鲜血浸透。\n　　……\n　　……\n　　原野北方是青山青峡，南方是连绵十余",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

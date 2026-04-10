@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 129,
+  "chapter_title": "第六十八章 黑色梦中",
+  "filename": "ch_0129_第六十八章 黑色梦中.txt",
+  "char_count": 3681,
+  "timestamp": "2026-04-10T11:53:35.141127",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "了东林大区星球上空那层昏红色的人工尘埃，出现了尘埃下那些可见的露天矿坑，那些矿坑曾为人类文明做出了巨大地奉献。如今安静地躺在青色的草原中，看上去像是星球的枪伤痕迹，有一份惊心动魄地美丽。\n\n    许乐觉得很熟悉，心很酸，却下意识里生出了抵触的情绪。随着他的情绪，他大脑皮层里的细微反应，黑色梦中的画",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "将面临着第一序列事件后续当事者所将遭受地严厉打击。\n\n    这一刻。是许乐逃亡以来最关键地一刻。最危险地一刻。或许就在下一秒。尚在黑梦中地他。就将面临无处不在地追捕与扑杀。就像封余大叔当年那样。\n\n    中央电脑的程序在这一刻微微停滞片刻，然后给出了它认为最符合逻辑的判断。\n\n    “否定。”",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "慧结晶，无比发达的监控方式，无比机械的程序伸展，最终让中央电脑得出了一个机械而可笑，却又是最可能接近真相的判断。\n\n    不得不说，许乐地运气在这一刻起了最至关重要的作用。而随着中央电脑第二类联系程序的激活，更奇妙的事情，开始在他的身上发生。\n\n    无数的画面，开始通过芯片向他的脑海里灌输，虽",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "起，东林孤儿许乐死，上林退伍年轻士兵许乐生。\n\n    这个世界里没有人知道，就在许乐替换芯片的那一瞬间，遥远的首都星圈星球，特区郊外宪章局地下无比深的核心区域里，那台联邦中央电脑曾经做出过如下的反应。\n\n    “公民编号：420500481信息节点消失，姓名：许乐，备注：联邦4427计划目标2,",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "常用的植物人这个词。\n\n    无比先进的人类科技智慧结晶，无比发达的监控方式，无比机械的程序伸展，最终让中央电脑得出了一个机械而可笑，却又是最可能接近真相的判断。\n\n    不得不说，许乐地运气在这一刻起了最至关重要的作用。而随着中央电脑第二类联系程序的激活，更奇妙的事情，开始在他的身上发生。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "事件。在中央电脑的运行优先等级中。属于绝对优先。\n\n    宪章的光辉试图分出一点点，靠近像尘埃一样存在于这个世间的许乐。所以那些白色光符的字句，开始不断地重复又重复，出现在那个黑暗背景的空间里，出现在他地眼前……却得不到任何回应，因为他无法做出任何回应。\n\n    “建立主动联系。是否接受？”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "新定位那片已经受损的信息节点，尝试与对方构成主动联系模式。\n\n    在中央电脑的记录中，历史上曾经出现过七十二个异常情况或疑似异常情况，这些情况全部属于第一序列事件。在中央电脑的运行优先等级中。属于绝对优先。\n\n    宪章的光辉试图分出一点点，靠近像尘埃一样存在于这个世间的许乐。所以那些白色光符",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "与前者信息重迭，进入异常情况的可能性更低，可是这台中央电脑依然沉默而忠实地执行着程序，不停地通过遍布无数星系的庞大网络，不停试图重新定位那片已经受损的信息节点，尝试与对方构成主动联系模式。\n\n    在中央电脑的记录中，历史上曾经出现过七十二个异常情况或疑似异常情况，这些情况全部属于第一序列事件。在",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "了无数抹明媚的色彩，那是女人。各式各样的女人，穿着学生制服、长着虎牙，梳着马尾辫的女学生，穿着礼服，缓缓行走的贵妇，穿着网球裙，用裸露的大腿。散播着青春气息的少女……\n\n    成熟的、青涩的、明媚地、羞涩的、阳光的、柔弱的、穿着衣服的、轻衫半解的、一丝不挂的、全裸且摆着媚惑姿式的……女子随着那些光",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "下一步地地程序激活。如果判断许乐是拒绝了主动联系。按照异常情况处理程序一。中央电脑将会建立观察体系。同时在最短地时间内。生成一份情况报告。交给联邦政府以供参考。\n\n    毫无疑问。如果宪章局里真地出现了关于许乐地详细报告。一定会引起很多人地怀疑。这个伪装身份地过去。历史。都将被挖出来。在联邦无孔不",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "“主动联系建立失败。判断对方是否拒绝。”\n\n    陷于昏迷与梦境中地许乐。并不知道自己已经与人类社会里最尖端地科技文明。开始了某种接触。他只是在梦中怔怔地看着面前不停消失。又不停凝结地光符。然后发现那道光符消失不见。刹那间。一种叫做失落地情绪。竟开始在这片空间里开始蔓延。\n\n    光符消失。其",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "黑色梦中。出现了东林大区星球上空那层昏红色的人工尘埃，出现了尘埃下那些可见的露天矿坑，那些矿坑曾为人类文明做出了巨大地奉献。如今安静地躺在青色的草原中，看上去像是星球的枪伤痕迹，有一份惊心动魄地美丽。\n\n    许乐觉得很熟悉，心很酸，却下意识里生出了抵触的情绪。随着他的情绪，他大脑皮层里的细微",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。”\n\n    “警告：此为一级序列事件之外延。”\n\n    “严重警告：百分之三十可能性，公民许乐进入异常情况，编号为第72，公民许乐进入异常情况，编号为第72。”\n\n    “应对：自主搜寻，如能寻找到，主动建立联系，如目标拒绝，则建立观察体系，提交报告供政府参考。”\n\n    “异常情况处理程",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

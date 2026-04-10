@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 425,
+  "chapter_title": "第八十三章 春雷(上)",
+  "filename": "ch_0425_第八十三章 春雷(上).txt",
+  "char_count": 3328,
+  "timestamp": "2026-04-10T12:04:59.233489",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "在西林的岁月里，西林钟自然要暗照拂这位少年天才军官，李封与钟家的年轻人们并不陌生。\n\n    钟子期压抑心头那丝令他非常不愉快的紧张，冷冷地着李封，他很清楚面前这个煞星并不是真的疯子，所以他确定对方根不敢对自己动。\n\n    “是不是被我了？”钟子期冷笑声，着近在咫尺的李封道：“你要喜欢简水儿你就明",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "帝国王牌机师。\n\n    如此壮烈骁勇战功，谁人能比？\n\n    此时金星酒店宴会厅，李疯子与钟子期对峙，钟家的那些亲眷，政客，军官们十分紧张，却没有人敢质问什么。\n\n    钟家是西林的土皇帝，但所有人清楚，这位年轻军官在西林军民心目的地位。\n\n    入伍近六年，除了开始曾经在２环山四州呆过两个",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "一晒太阳。在这种不错的下午茶环境，听简水儿唱两歌，再微带一丝自矜与这位国民少女合个影，将来便可以与人风轻云淡地拿出来炫耀一番：瞧瞧，就连简水儿来西林了，也得先巴结姐一番。\n\n    可惜她表现的太激进和没有风了一些，而且她选择的餐桌实在是离正门太近了些，所以那道如春雷般绽放的暴喝声，就直接响在她的耳",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "绝大部分客。只不过是了一眼。便认出了他地身份只是浑噩间有些没想明白是简水儿地欢迎酒会。这个恐怖地疯子为什么会出现。\n\n    ……\n\n    ……\n\n    那钟家姐被这一声暴喝。吓地肝胆欲裂。脸色苍白颗脆弱而骄傲地千金心肝。早就随着面前碎开地玻璃杯片片碎去。她蹙眉恐惧望着前方地钟子期。颤着声音寻找",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "……\n\n    在西林的岁月里，西林钟自然要暗照拂这位少年天才军官，李封与钟家的年轻人们并不陌生。\n\n    钟子期压抑心头那丝令他非常不愉快的紧张，冷冷地着李封，他很清楚面前这个煞星并不是真的疯子，所以他确定对方根不敢对自己动。\n\n    “是不是被我了？”钟子期冷笑声，着近在咫尺的李封道",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "以为自己想明白了什么，微嘲冷笑道：“难道你准备替她出头？这世道真的是很奇怪，堂堂军神人，居然也想学大人们争风吃醋？”\n\n    李封听到这句话，眉毛渐渐地竖了起来，眼睛里生起一股冷漠的笑意，似乎听到了什么特别好笑的事情。\n\n    ……\n\n    ……\n\n    李封，军神李匹夫的独孙，十二岁入伍，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "眸里的笑意却显得有些残忍。\n\n    一在旁注意这一幕的许乐心头猛地一跳，从这抹笑意品出了李封真正的愤怒。他不知道李疯子此时难以控制的愤怒从何而来，然而着钟家二少爷那张强自镇定的脸，依然止不住微微感慨，这子和林斗海有的一拼，堪称是联邦七大家里不成器的两个败家玩意儿……\n\n    李封渐敛了笑容，清稚",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "子！把我堂妹吓晕过去，显得你很有能耐？”钟子期此时心情正在烦燥之时忽然被突如其来的李疯子闹场，是恼怒问道：“你来胡闹什么？”\n\n    李封脸色一沉，向着他走了过去，步幅极大，只不过瞬间，便冲到了钟子期的身前，居高临下盯着这位钟家少爷的双眼，从牙齿缝里憋出寒声：“你我来闹什么？”\n\n    钟子期只",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "处海景，又能晒一晒太阳。在这种不错的下午茶环境，听简水儿唱两歌，再微带一丝自矜与这位国民少女合个影，将来便可以与人风轻云淡地拿出来炫耀一番：瞧瞧，就连简水儿来西林了，也得先巴结姐一番。\n\n    可惜她表现的太激进和没有风了一些，而且她选择的餐桌实在是离正门太近了些，所以那道如春雷般绽放的暴喝声，就",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "正的愤怒。他不知道李疯子此时难以控制的愤怒从何而来，然而着钟家二少爷那张强自镇定的脸，依然止不住微微感慨，这子和林斗海有的一拼，堪称是联邦七大家里不成器的两个败家玩意儿……\n\n    李封渐敛了笑容，清稚的五官无情绪，举起来，毫不犹豫，扇了钟子期一个耳光。\n\n    耳光响亮。\n\n    钟子期左脸",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "李疯子闹场，是恼怒问道：“你来胡闹什么？”\n\n    李封脸色一沉，向着他走了过去，步幅极大，只不过瞬间，便冲到了钟子期的身前，居高临下盯着这位钟家少爷的双眼，从牙齿缝里憋出寒声：“你我来闹什么？”\n\n    钟子期只感觉一阵烈风扑面而来，然后李疯子的身体便像一座高山遮住了自己的视线，感受着那股凶意",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "害，紧张万分地去摸腰间的佩枪。他们当然不敢把军神老人家唯一的亲孙子当场击毙，可如果没有枪的话，他们很担心李封会一巴掌一巴掌地把钟二郎扇死！\n\n    然而李封根没有给他们机会，潇洒自如地从腰畔掏出佩枪，喀嗒一声膛，冷冷地对准了钟子期的眉心，回头对着那些紧张的军官们道：“谁前一步，我就崩了他。”",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 693,
+  "chapter_title": "第五十七章 万般情绪一句话",
+  "filename": "ch_0693_第五十七章 万般情绪一句话.txt",
+  "char_count": 3700,
+  "timestamp": "2026-04-10T12:05:08.609252",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "巨大的压力，毅然将赶赴前线的日期无限期推后，真实的原因是什么，而此时很明显殿下对于自己的行动力产生了疑问。\n\n    “那里的地形复杂，建筑密集，最关键的是居民太多……”将军压低声音，恭谨无比地解释道：“而且第九区的民众向来不怎么听话，参谋部正在拟定最好的方案。”\n\n    帝国统治阶层口中的第九区",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "隅，像烂疮般令人恶心却又无法割除的贫民区。\n\n    怀草诗眉尖微蹙，就这样静静地看着将军，整个会场寂静无声，气氛越来越压抑，直到众人快要承受不偻这种压力时，她冷漠开口说道：\n\n    “从来没有什么完美的方案。”\n\n    “能够杀死许乐的方案，就是好方案，我只关心冉果，不关心过程里会死多少人。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，他应该还停留在都城范围之中。”\n\n    随着光幕上档案资料的滚动，主持此次会议的那位高级将官沉声说道：“有一点可以提醒一下诸位，这个背叛者的身上可能带着一点皇族血统，这一点正在由徽章管理局进行确认，但是……根据殿下的英明指示，此次行动可以不考虑这点。”\n\n    安静的会场内，数十名纪律严明的军",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "除的贫民区。\n\n    怀草诗眉尖微蹙，就这样静静地看着将军，整个会场寂静无声，气氛越来越压抑，直到众人快要承受不偻这种压力时，她冷漠开口说道：\n\n    “从来没有什么完美的方案。”\n\n    “能够杀死许乐的方案，就是好方案，我只关心冉果，不关心过程里会死多少人。”\n\n    “关于齐大兵的事情",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "矿坑之中……\n\n    “我当然活着，老子永远活着。”\n\n    工具悬在被翘臀撑饱蓝色工装裤后，于风中凌乱丁当响的大叔老板，在那个秋日矿坑离别之际，很随意地把那副不可思议的手镯扔给他，很胡乱地取下少年戴了很多年的廉价手表，然后讲了很多很复杂很文学化的话。\n\n    那些交待许乐不曾忘记，但记忆最深",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "能满足他的要求，或许这个人真的会疯。\n\n    许乐看着他，没有任何动作。\n\n    “这表对我很有意义，请你还给我。”齐大兵压抑着内心的愤怒，尽可能地放低姿态。\n\n    许乐用两根手指拎起那块廉价的手表，放在他的眼前，却没有递给他的意思，而是用极为认真的语气，一字一句说道：“这是我的手表。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "他一直以为自己是大叔唯一的学生，所以当现在帝国还有齐大兵这样一个人存在时，反感郁闷和逆反的情绪骤然高涨，下意识里便要将对方打击至沉沦。\n\n    将手表放下口袋里收好，他不再理会身后齐大兵怪异而恼怒的神情，一个人走出楼外，孤单地站在栏杆边，望着并方渐要深沉的夜色，久久沉默不语。\n\n    他此",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "“把手表还给我！”\n\n    齐大兵拦在他的面前，虽然没有拔出衣服里的手枪，但看他焦燥而愤怒的表情，如果许乐不能满足他的要求，或许这个人真的会疯。\n\n    许乐看着他，没有任何动作。\n\n    “这表对我很有意义，请你还给我。”齐大兵压抑着内心的愤怒，尽可能地放低姿态。\n\n    许乐",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "迹难看的文字。\n\n    三十七宪历，六十一东，九月三日，未来的联邦机修师许乐。\n\n    “这是我第一次**操作微刻蚀机床后，做的第一件纪念品。”许乐面无表情地望着他：“你现在难道还认为这是你的？”“你什么时候认识那个人的？”许乐低头望手表，淡然问道。\n\n    “六岁。”齐大兵冷冷回答道：“他在",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "军，整个会场寂静无声，气氛越来越压抑，直到众人快要承受不偻这种压力时，她冷漠开口说道：\n\n    “从来没有什么完美的方案。”\n\n    “能够杀死许乐的方案，就是好方案，我只关心冉果，不关心过程里会死多少人。”\n\n    “关于齐大兵的事情，我所知道的一切都已经告诉了你。至于这块手表，是几年前我那",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "白，你们一个是帝国人，一个是联邦人，难道以前见过面？”\n\n    现在的身份是帝国人啊。许乐眯着眼睛走出房间，唇角带着一丝说不清道不明的怪异笑容，事实上那抹意味并不全然是笑。\n\n    “把手表还给我！”\n\n    齐大兵拦在他的面前，虽然没有拔出衣服里的手枪，但看他焦燥而愤怒的表情，如果许乐不能满",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第五十七章 万般情绪一句话 \n\n    摊开的掌心里安静躺着一只手表，这是一款旧式的廉价电子手表，出自某个不出名的轻机械加工厂，表盘上面刻着很多道，却没有任何数字。\n\n    虽然廉牟却又非常耐用，细长的指针在电池微弱电流的作用下，不知疲倦地绕着圈行走",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "我！”\n\n    齐大兵拦在他的面前，虽然没有拔出衣服里的手枪，但看他焦燥而愤怒的表情，如果许乐不能满足他的要求，或许这个人真的会疯。\n\n    许乐看着他，没有任何动作。\n\n    “这表对我很有意义，请你还给我。”齐大兵压抑着内心的愤怒，尽可能地放低姿态。\n\n    许乐用两根手指拎起那块廉价的",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

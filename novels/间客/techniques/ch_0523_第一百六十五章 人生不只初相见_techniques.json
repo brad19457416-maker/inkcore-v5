@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 523,
+  "chapter_title": "第一百六十五章 人生不只初相见",
+  "filename": "ch_0523_第一百六十五章 人生不只初相见.txt",
+  "char_count": 3737,
+  "timestamp": "2026-04-10T12:05:08.552733",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "临海欢场的一段传奇。\n\n    可露露却一直担心这个再没有任何音讯的姐妹，许乐听出了她问话中的诚挚，心想这位女孩儿的性情真是不错，斟酌片刻后，笑着说道：“据我所知，她过的很不错。”\n\n    因为有所感慨，许乐连着喝了好几杯烈酒，醺然之意大作，腹中却感觉有些饥饿，很想吃些什么。\n\n    他的右手不",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "可想到那种画面，那颗隐性大男子的心脏便开始不愉快起来。\n\n    他牵着露车的手站了起来，对房间里的众人说道：“我们要去吃夜宵，你们慢慢玩。”\n\n    七组汉子们一阵愕然，怔怔看着许乐拖着那位漂亮女孩儿离开房间，看着房门紧闭，才明白发生了什么，瞬间爆发了一阵强烈的欢呼声。\n\n    一直沉默坐在阴",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，她强抑紧张主动坐到许乐的身边，却不想让对方流露出一丝同情自己的情绪，所以回答的格外认真，强扮着某种风轻云淡。\n\n    许乐本身是社会最底层的矿工孤儿，少年时随着大叔出入各种疗养中心，被那些姐姐们调戏惯了，怎会有居高临下流露同情的心思？“那还真不错。”\n\n    他很认真地回答道，接着毫不犹豫地将",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "沉默片刻，看了一眼他身旁的女孩儿，轻声说道：“注意影响。”\n\n    五分钟后，许乐和露露手牵着手，来到了距离夜总会不远处的一家夜市。\n\n    因为海风有些微燥？是在战场上见了太多的生离死别？又或许是在远离家乡的前线，偶遇再相见的旧日姑娘，夜晚的落日州没有人会认识他……他放肆地牵着女孩儿的手，软软",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "必再也不会如当年那般聊发真正的少年狂。\n\n    露露浅浅抿了一口酒，注意到房间里其他人的诧异表情和压抑气氛，心中难免紧张，微仰着头看了许乐一眼。\n\n    从临海州会所里的普通姑娘，变成了金碧辉煌夜总会里的红牌小姐，想来这些年混的不错，事实上当年她就生的极为好看清媚，只是少女时脾气太硬，才一直无法",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "外室，虽然只有几个人知道她那位恩客的真实身份，但她已然是临海欢场的一段传奇。\n\n    可露露却一直担心这个再没有任何音讯的姐妹，许乐听出了她问话中的诚挚，心想这位女孩儿的性情真是不错，斟酌片刻后，笑着说道：“据我所知，她过的很不错。”\n\n    因为有所感慨，许乐连着喝了好几杯烈酒，醺然之意大作，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“最近过的怎么样？”许乐认真看着她的双眼问道。\n\n    因为他的态度，露露感觉无比温暖，抿唇甜笑说道：“在夜总会里做，当然要比在星辰会所里强多了，只是西林离家太远，很难回家，偶尔……觉得太无聊，没想到今天居然能看见一个认识的人。”\n\n    那是人生偶然相逢，极久远的小故事，如果不是去年联邦所有",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "七少爷拖着去一些高级会所，看多了那些小明星舞台下的妩媚风情甚至是淫丨亵，虽未曾真的尝过肉味，却也并不陌生这种状况，稍一沉默，便知道是因为自己在包厢里，队员们有些放不开。\n\n    他更不愿意让露露留在这里，虽然她绝不是他的谁，可想到那种画面，那颗隐性大男子的心脏便开始不愉快起来。\n\n    他牵着露",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "七组汉子们一阵愕然，怔怔看着许乐拖着那位漂亮女孩儿离开房间，看着房门紧闭，才明白发生了什么，瞬间爆发了一阵强烈的欢呼声。\n\n    一直沉默坐在阴影中的白玉兰拉开身旁女孩儿放在大腿根处的手，对身旁几名老队员使了个眼色。\n\n    夜总会大厅里的队员们，看着许乐拖着一名女孩儿往建筑外走去，在酒",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "七组汉子们一阵愕然，怔怔看着许乐拖着那位漂亮女孩儿离开房间，看着房门紧闭，才明白发生了什么，瞬间爆发了一阵强烈的欢呼声。\n\n    一直沉默坐在阴影中的白玉兰拉开身旁女孩儿放在大腿根处的手，对身旁几名老队员使了个眼色。\n\n    夜总会大厅里的队员们，看着许乐拖着一名女孩儿往建筑外走去，在酒精的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "第一百六十五章 人生不只初相见 \n\n    房门紧闭，豪华包厢里的乐曲声再次响了起来，却没有人唱歌，在烟草与酒水的混合气氛中，七组队员和身旁的红牌姑娘们窃窃私语，看似聊的无比热络，纵情欢愉，实际上他们的眼或心都一直瞄",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "道，接着毫不犹豫地将自己的联系方式告诉了她。\n\n    露露明显被他的举动惊的有些呆住了，这个年轻人难道不知道自己和他是两个阶层的人，难道他不是应该为了避免麻烦，和自己保持距离？\n\n    许乐说话的语气很认真，留下联络方式的动作很自然，女孩儿被他流露本性的举动温暖的无以复加，仰着头怔怔地看着他，半",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "心脏便开始不愉快起来。\n\n    他牵着露车的手站了起来，对房间里的众人说道：“我们要去吃夜宵，你们慢慢玩。”\n\n    七组汉子们一阵愕然，怔怔看着许乐拖着那位漂亮女孩儿离开房间，看着房门紧闭，才明白发生了什么，瞬间爆发了一阵强烈的欢呼声。\n\n    一直沉默坐在阴影中的白玉兰拉开身旁女孩儿放在大",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "望着许乐苦笑说道。\n\n    “不用了。”许乐笑着摇摇头，“只是去吃吃宵夜。”\n\n    众人的心里同时伸起了一根中指，白玉兰平静说道：“不要忘记上次国防部和联邦调查局发过来的消息，百慕大那两名专家要杀你，在落日州是他们唯一的机会。”\n\n    一直像温顺小羊羔般依偎在许乐身边的露露，惊讶地抬起头来",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "却不想让对方流露出一丝同情自己的情绪，所以回答的格外认真，强扮着某种风轻云淡。\n\n    许乐本身是社会最底层的矿工孤儿，少年时随着大叔出入各种疗养中心，被那些姐姐们调戏惯了，怎会有居高临下流露同情的心思？“那还真不错。”\n\n    他很认真地回答道，接着毫不犹豫地将自己的联系方式告诉了她。",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "娘，变成了金碧辉煌夜总会里的红牌小姐，想来这些年混的不错，事实上当年她就生的极为好看清媚，只是少女时脾气太硬，才一直无法出头，这些年渐渐斩断了青春的尾巴执拗，整个人显得安静柔顺了很多，却也不知是不是沧桑磨砺出来的表像。\n\n    “这边挺正规的，东家待我们也不差，直接上的二级医保，每年都还负责一趟来",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "……\n\n    “最近过的怎么样？”许乐认真看着她的双眼问道。\n\n    因为他的态度，露露感觉无比温暖，抿唇甜笑说道：“在夜总会里做，当然要比在星辰会所里强多了，只是西林离家太远，很难回家，偶尔……觉得太无聊，没想到今天居然能看见一个认识的人。”\n\n    那是人生偶然相逢，极久远的小故事，如果不",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

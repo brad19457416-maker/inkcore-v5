@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 16,
+  "chapter_title": "第十六章 他从山中来，带着小姑娘",
+  "filename": "ch_0016_第十六章 他从山中来，带着小姑娘.txt",
+  "char_count": 2538,
+  "timestamp": "2026-04-10T12:11:03.401839",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "军中所学，可你今年不过十五六岁，当年渭城募军时只怕还是个小孩儿，边军又凭什么要收你入营？”\n　　宁缺心想你丫也就是个十六岁的丫头，还不一样远嫁草原，正准备随意唬弄几句时，桑桑不知何时悄无声息走了过来，坐到了他的身旁。\n　　看着静静依在身边的真正的小丫头，他心情微柔，看着身前飘起的火苗，回忆说道：“殿",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第十六章 他从山中来，带着小姑娘\n　　一场血腥惨烈的战斗结束，活下来的人望向宁缺的目光，对他的态度默然间发生了一些极微妙的变化。离开渭城这些天的旅途中，他们或者尊重宁缺做向导的本事，真要遇着某些大事件、重要决断时，宁缺在侍卫们的眼中也不过就是块大些的石",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "村里的农妇还是深宫里的怨妇。\n　　大唐帝国最尊贵的公主殿下，只要认为某个底层军卒在嘲笑自己，她都应该愤怒，然而现在这位公主殿下的感受是，和对方坐在一起，坐在火堆旁，便会感受到放松的安全感，感受到被保护着的感觉。\n　　她喜欢这种感觉，却不喜欢这种感觉是因为宁缺而出现的。所以反而有些莫名其妙的羞恼，微微",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "走了过来，坐到了他的身旁。\n　　看着静静依在身边的真正的小丫头，他心情微柔，看着身前飘起的火苗，回忆说道：“殿下应该知道桑桑这丫头是我小时候在路边拣的，那时候我们都还很小，误打误撞闯进了茫茫岷山，就在快要饿死渴死的时候，我们碰到了一个老猎户。”\n　　他抬起头来，看着公主清丽的容颜，说道：“老猎户不是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "寨却沉默离开。\n　　在李渔眼中，宁缺的那张脸再也没有先前那般可恶了，她蹙眉问道：“山里如此凶险，你们为什么不去找官府？我大唐对于孤寡的怃恤应该做的极好。”\n　　宁缺低下头拣起一根焦柴，低声说道：“活着，其实在人少的地方反而更容易些。”\n　　很简单的一句话，却不知道隐藏着多少生存艰辛与血泪，李渔怔怔看",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "旁，便会感受到放松的安全感，感受到被保护着的感觉。\n　　她喜欢这种感觉，却不喜欢这种感觉是因为宁缺而出现的。所以反而有些莫名其妙的羞恼，微微眯着眼睛看着他的侧脸，说话的语调刻意变得冷淡很多。\n　　“刚才敌袭时，看你动作似乎是想去马车里救本宫？”\n　　本宫是什么宫？大明宫？离下宫？反正那时候真正的本宫",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "笑意，右手拇指轻轻在食指腹纹上缓缓摩娑，然而最后也只是摇了摇头。\n　　车厢旁点燃了两个火堆，虽然密林风厉，好在腐叶上承着夜露，倒不担心会引起麻烦的火灾。侍卫首领和伤员们聚拢在一个火堆旁，将另一个位置更好的火堆留给殿下、老人和小男孩儿，即便是现在这种狼狈状况，依然没有忘记尊卑之分。\n　　绑扎用药进食，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "缓缓摩娑，然而最后也只是摇了摇头。\n　　车厢旁点燃了两个火堆，虽然密林风厉，好在腐叶上承着夜露，倒不担心会引起麻烦的火灾。侍卫首领和伤员们聚拢在一个火堆旁，将另一个位置更好的火堆留给殿下、老人和小男孩儿，即便是现在这种狼狈状况，依然没有忘记尊卑之分。\n　　绑扎用药进食，草原上的蛮子忍不住战后的饥渴，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "什么要杀死那名老猎户，他没有解释，不会向这位身份尊贵并不曾体会世界底层最阴暗污秽部分的公主殿下解释，以后这辈子大概也不会向任何人解释，他只是溺爱地揉了揉桑桑的小脑袋，把她揽进了怀里。\n　　……\n　　……\n　　（不得不承认，我还是写这种章节会更感觉到幸福啊。）",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "缺做向导的本事，真要遇着某些大事件、重要决断时，宁缺在侍卫们的眼中也不过就是块大些的石头而已，但现在人们无论做什么事情，都会下意识里去征询他的意见。\n　　禀报公主殿下批准，侍卫首领听从了宁缺的意见，没有立即撤出北山道口，而是决定全体伤员就地休养待命，希望北山道南麓的接应部队能够在天亮时赶到。\n　　虚",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "姑娘\n　　一场血腥惨烈的战斗结束，活下来的人望向宁缺的目光，对他的态度默然间发生了一些极微妙的变化。离开渭城这些天的旅途中，他们或者尊重宁缺做向导的本事，真要遇着某些大事件、重要决断时，宁缺在侍卫们的眼中也不过就是块大些的石头而已，但现在人们无论做什么事情，都会下意识里去征询他的意见。\n　　禀报公主",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "在天亮时赶到。\n　　虚弱的老人吕清臣静静望着火堆旁的少年，脸上泛起一丝笑意，右手拇指轻轻在食指腹纹上缓缓摩娑，然而最后也只是摇了摇头。\n　　车厢旁点燃了两个火堆，虽然密林风厉，好在腐叶上承着夜露，倒不担心会引起麻烦的火灾。侍卫首领和伤员们聚拢在一个火堆旁，将另一个位置更好的火堆留给殿下、老人和小男孩",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "了揉桑桑的小脑袋，把她揽进了怀里。\n　　……\n　　……\n　　（不得不承认，我还是写这种章节会更感觉到幸福啊。）",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

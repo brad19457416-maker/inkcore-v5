@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 716,
+  "chapter_title": "第七十九章 再见林园",
+  "filename": "ch_0716_第七十九章 再见林园.txt",
+  "char_count": 3626,
+  "timestamp": "2026-04-10T12:05:17.564742",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第七十九章 再见林园 \n\n    这是一个秘密，一个很大的秘密    利缘宫老人深深地吸了一口气，因为岁月而显得干瘪的胸膛无法像年轻人那样夸张的弹起，但稍充裕些的氧气让他的情绪快速的平静下来，这个秘密只属于联邦最顶层廖廖可数的三四个人，莫愁后",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "迈尔斯要退休，军方这个关键的位置，一定不能落到激进派的手中，无论是二军区还是三军区……都要断了他们的念头。”\n\n    “我们应该选择谁？\n\n    “李在道将军。\n\n    首都星图以富庶闻名宇宙，而sl首都特区，自然是将金成权力的味道凝聚最真切的所在，在这座联邦政治中心城市的四郊，遍布着各式各样",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，然后才会进入政府内部或是议会山走程序。\n\n    位于宪章广场北面草坡后方，敢和总统官邸做邻居的流风坡会所，毫无疑问是这些会所里的顶级存在，然而即便是这座莫愁后山的私人产业，在这些年里也无法夺去林园的夺目光彩。\n\n    除却那位已经渐要成为传奇的林园主人，除却比如李疯子和许乐初相逢，便咽血对战…",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "宁静职业的侍者们，眉眼间忍不住有些情绪波动，往日里只在楼后办公区漠然注视厅间宾客的高级主管，早已亲自来到大厅，时而看一眼手中报纸上那篇鲍勃主编的欢迎辞，时而紧张地看着一眼竹居。\n\n    林园高级主管将报纸卷到身后，看着面前的女服务员们厉声叮嘱道：“许乐上校结束新闻发布会后，直接前往官邸与总统共进晚",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，目光橄垂，淡然说道：“x3军事计划结束之后，联邦部队就会停止进攻的步伐，你就算现在赶回去，没有任何意义。”\n\n    许乐抬起头来，笔直的浓墨之眉纹缇蹙起，沉声说道：“停战!为什么？”\n\n    16977小游戏 每天更新好玩的小游戏，等你来发现Ｗww.xiaoshＵotxt.cＯm",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "厉声叮嘱道：“许乐上校结束新闻发布会后，直接前往官邸与总统共进晚餐，那么今天中午，将是他回到联邦后的第一次私人正餐，他选择了林园，是我们的荣幸，你们必须拿出十万分的专业精神，不准要签名，拿出你们的专业精神来，不准尖叫，不准低呼!”\n\n    竹居内，流水畔，有红木几横亘正中。\n\n    青色竹叶编成",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "高级私人会所和奢华难以形容的园林府邸，联邦无数关系亿万人利益的重大决定，往往就是在这些灯光昏暗，气氛闲适的交际场所里拟定，然后才会进入政府内部或是议会山走程序。\n\n    位于宪章广场北面草坡后方，敢和总统官邸做邻居的流风坡会所，毫无疑问是这些会所里的顶级存在，然而即便是这座莫愁后山的私人产业，在这",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "怕那个人是站在自己身前的亲生儿子。\n\n    “费城的支持不需要是显性的。”老人咳嗽了两声，沙哑低沉说道：“如果我的记忆力没有出问题，一年多前许乐在芑蔻3320布网，已经显露了那些隐藏助力的冰山一角。这次他从帝国逃回来，更是被中央电脑直接确定为第一序列事件。”\n\n    “你长这么大，听说过第一序列",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "递过来的香烟，同样怔了怔，才有些不习惯地接了过来，纤细的手指有些僵硬地夹着烟卷，说道：“但事实是，当人们发现你还活着的时候，同时马上就发现，你又开始在惹事。\n\n    “我哪里有惹什么事？”许乐啪的一声打燃手中的军用金属打火机，凑到她那双迷人的红唇之前。\n\n    “现在还有人敢惹j*少卿吗？就连军",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "后办公区漠然注视厅间宾客的高级主管，早已亲自来到大厅，时而看一眼手中报纸上那篇鲍勃主编的欢迎辞，时而紧张地看着一眼竹居。\n\n    林园高级主管将报纸卷到身后，看着面前的女服务员们厉声叮嘱道：“许乐上校结束新闻发布会后，直接前往官邸与总统共进晚餐，那么今天中午，将是他回到联邦后的第一次私人正餐，他选",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "有些不习惯地接了过来，纤细的手指有些僵硬地夹着烟卷，说道：“但事实是，当人们发现你还活着的时候，同时马上就发现，你又开始在惹事。\n\n    “我哪里有惹什么事？”许乐啪的一声打燃手中的军用金属打火机，凑到她那双迷人的红唇之前。\n\n    “现在还有人敢惹j*少卿吗？就连军方的那几位大佬，对着这位少",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "，才有些不习惯地接了过来，纤细的手指有些僵硬地夹着烟卷，说道：“但事实是，当人们发现你还活着的时候，同时马上就发现，你又开始在惹事。\n\n    “我哪里有惹什么事？”许乐啪的一声打燃手中的军用金属打火机，凑到她那双迷人的红唇之前。\n\n    “现在还有人敢惹j*少卿吗？就连军方的那几位大佬，对着这位",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "种选择做背书工作。”\n\n    “现在我的疑问是，那些激进派究竟掌握了多少力量。”利修竹\n\n    忧虑问道。\n\n    “杜少卿看似没有什么政治倾向，但谁知道一直默默站在他身后的那些人会有什么想法？”老人低声说道：“我老了，没有足够的精力去处理这些事情，明天，你代表我去邀请议山会那几位老朋友……还",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "该选择谁？\n\n    “李在道将军。\n\n    首都星图以富庶闻名宇宙，而sl首都特区，自然是将金成权力的味道凝聚最真切的所在，在这座联邦政治中心城市的四郊，遍布着各式各样的高级私人会所和奢华难以形容的园林府邸，联邦无数关系亿万人利益的重大决定，往往就是在这些灯光昏暗，气氛闲适的交际场所里拟定，然后",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "颜上闪过她特有的嘲讽尖刻感觉，“那个不讲理的家伙回来了，他们的日子会过的有些艰难。”\n\n    “我从来都不会高估自己。”许乐取出烟盒放在桌上，点燃一根香烟，怔了怔后，不知道为什么，又取出一根香烟递了过去，耸肩说道：“上次在别有山庄能吓退林家，那是因备我手里有枪，而且看上去有些悍不畏死。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

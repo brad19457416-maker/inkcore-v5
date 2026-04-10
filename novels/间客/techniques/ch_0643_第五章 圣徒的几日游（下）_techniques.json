@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 643,
+  "chapter_title": "第五章 圣徒的几日游（下）",
+  "filename": "ch_0643_第五章 圣徒的几日游（下）.txt",
+  "char_count": 3341,
+  "timestamp": "2026-04-10T12:05:08.610382",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的日期。\n\n    下午时分，两个瘦削的年轻人以及他们身旁上百名伪装的便衣军人所组成的奇怪参访队伍，来到了离阪星桑植州立大学。\n\n    根据帝国皇帝当年的特殊法令，离阪星成为了帝国境内位移实行无差别教育的行政星球，也就是说，在这颗星球上，无论你是贵族还是平民，甚至是最底层的农奴，只要你们的子女足够",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "第五章 圣徒的几日游（下） \n\n    站在桑树海边的小缓坡上，听到身旁年轻帝**官没有一丝愤怒的火气，只有淡淡的轻蔑嘲讽意味的问话，许乐那双如墨般浓重的双眉似要挑起，却终究在一阵急促的咳嗽声中回复了平静。\n\n    “已经过去了几十年的时间，还要争论是由谁挑起的战争，没有太大的意义。”许乐",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "急促的咳嗽声中回复了平静。\n\n    “已经过去了几十年的时间，还要争论是由谁挑起的战争，没有太大的意义。”许乐隔着丝质上衣\n\n    ，揉了揉痒的肩处伤口外围，忽然说道：“不过如果我没记错，当年是你们阴险地炸毁了联邦的科考船。”\n\n    关于是哪方引起了这场血腥而旷日持久的宇宙战争，谁应该承担开",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "够的证据，不过现在他已经基本上能够猜测出，此人在帝国内的身份地位相当崇高。\n\n    于是他更不明白为什么此人要带着自己这个必死的囚犯，持续这带着荒谬气息的观光游览，难道帝国人真的只是想让联邦打造出来的英雄人物，当着整个宇宙承认联邦的罪恶？这种推测是在没有任何道理。\n\n    如果许乐知道帝国政坛水",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "变不了某种趋势——随着越来越多的平民子弟进入各所新式大学，这颗星球空气里的气氛变得越来越活跃，或者说危险。\n\n    当然，这些因为解除了更多知识而变得更有能力更加自信的年轻人们，对于赐予自己这一切的皇帝陛下无比忠诚，无比狂热。\n\n    桑植州立大学最大的建筑一楼中央，挂着帝国皇帝陛下怀夫差的巨幅",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "标准帝国贵族用语，他能勉强听懂大部分。\n\n    桑植州立大学的职位历史教授，并不知道今天下方听课的人群中，多了两名身份特殊的年轻听众，他更不会奢望此刻所讲授的历史会对将来的历史产生什么影响，他只是按照帝国皇家教育署拟定的标准教材，向帝国的青年们讲述联邦人的残忍与阴险。\n\n    “对于联邦这种由商",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "历史教授，并不知道今天下方听课的人群中，多了两名身份特殊的年轻听众，他更不会奢望此刻所讲授的历史会对将来的历史产生什么影响，他只是按照帝国皇家教育署拟定的标准教材，向帝国的青年们讲述联邦人的残忍与阴险。\n\n    “对于联邦这种由商人控制的无耻政客联合体来说，什么能够让他们不惜耗费巨额军费累动一场长",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "堂帝国的历史课，对他而言，确实是另一个角度去看待当年的战争起源，尤其是关于晶矿导致战争的说法，他还是第一次听说。\n\n    那个能够控制政丄府的家族，自然便是莫愁后山的邰家。\n\n    “席勒说过，人们有各自的是非。”他把烟卷掐灭，握在拳心，望着那名黑帝**官说道：“而且我不是圣徒，虽然怕死但也不是",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，可没有人能够想到，在帝国大学里，居然能够有这么多平民学生在宽松的氛围下讨论学术问题。\n\n    他一向认为联邦对帝国最大的优势不在于经济，而在于教育、科技以及最根基的思维方式，如今帝国似乎正在不声不响地作出改变，以帝国恐怖的人口基数，想要追上这种差距，或许并不是太难的事情。\n\n    怀草诗注意到",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "过热闹的学术战争产生。\n\n    怀草诗冷冷地看了他一眼，出人意料地没有就此表意见，而是接（着）走下山坡，背对着桑海市区里走去。\n\n    许乐有些不舍地最后看了一眼如海的青青桑林，听着那些曼妙的沙沙声，转身跟上。\n\n    ……\n\n    ……\n\n    接下来怀草诗又去了另外几个地方，在这个过程",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "忍气吞声地通过了法例，将离阪星确认为跨种族教育试点区域。\n\n    饶是如此，当第一名农奴的儿子满脸紧张畏惧地走进离阪星黄山矶学院大门时，依然需要荷枪实弹的帝国士兵保护。\n\n    当日，黄山矶学院院长愤而辞职，接下来的一念间，离阪星上的贵族们纷纷将自己的后代送到了别的星球，他们宁肯花费巨额的财富，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "热。\n\n    桑植州立大学最大的建筑一楼中央，挂着帝国皇帝陛下怀夫差的巨幅画像，学生每每经过，都会马上停止激烈的学术辩论，满脸严肃地立正敬礼。\n\n    许乐收回望向那幅画像的目光，听着后方传来的争吵声，眉头不由微微皱起，他的帝国语并不好，只能勉强听出那几名学生似乎是在讨论引擎输出功率可监控的问题",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "间，也被白白浪费一空。为什么？因为控制联邦政权的商人中的某一家享有法定的晶矿资源采掘权，并且凭借这种权力谋得了大量的利益。如果联邦研出新型能源，这个家族的特殊地位将荡然无存，他们不可能允许这种情况的生。”\n\n    “为什么联邦政丄府会允许这种事情生？因为你们永远不要忘记，那个政丄府实际上就是被控制",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "到这他走上了三楼。\n\n    三楼顶头的会议室里正在进行一场历史大课，数百名衣着朴素的帝国年轻人，正安静而饥渴地听讲台上的教授讲课。\n\n    课件播放设备，逐行扫描过滤光幕，就是激光点触笔，这些在许乐眼中显得未免有些寒酸，不要说第一军事学院或者梨花大学相比，就算是与她老家东林的大学条件相比，帝国方",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "要争论是由谁挑起的战争，没有太大的意义。”许乐隔着丝质上衣\n\n    ，揉了揉痒的肩处伤口外围，忽然说道：“不过如果我没记错，当年是你们阴险地炸毁了联邦的科考船。”\n\n    关于是哪方引起了这场血腥而旷日持久的宇宙战争，谁应该承担开启恶魔之匣的责任，联邦和帝国中无论青年还是老年历史学家，都有各自坚",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

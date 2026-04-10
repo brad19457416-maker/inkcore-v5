@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 603,
+  "chapter_title": "第一百零五章 残寺乱山人不见",
+  "filename": "ch_0603_第一百零五章 残寺乱山人不见.txt",
+  "char_count": 2178,
+  "timestamp": "2026-04-10T12:11:26.754704",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "烂柯寺，人们用了很长时间才从震惊中苏醒过来，那些幸存的寺中僧人更是忍不住放声痛哭，有僧人看着那顶在秋风秋雨里依然笔直挺立的高冠，悲愤到了极点却也惊恐到了极点。\n　　曲妮玛娣依然抱着宝树的尸体，已然年老的她，先是失去儿子，然后失去这一生唯一的男人，便等若失去了所有的希望，看着君陌的背影，悲痛嘶声骂道：",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "出的那些伤口，想着这些书院弟子的狠厉霸道，声音微涩说道：“书院果然都是一群疯子，然而全无敬畏的你们，难道可以寻觅到真正的平静吗？”\n　　曲妮玛娣先前说出那句话，以为接下来便会死去，却没有料到君陌竟是理都不再愿意理她，不由生出极大难受痛苦。\n　　她忽然看见书痴莫山山沉默站在人群外围，恨声说道：“莫山山",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "看看大河国和书圣如何护你！”\n　　听着这话，莫山山脸色苍白，先前在殿内出手，纯粹是看着宁缺和桑桑陷入危险时，她下意识里的行为，根本没有思考什么，此时想着如果桑桑真是冥王之女，日后冥界入侵人间世毁灭，自己又该如何自处？\n　　“山山，你过来。”\n　　便在此时，大师兄的声音响了起来。\n　　莫山山微微一怔，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "名其实并不如何熟悉的书生，想着两年前从荒原到长安的旅途，心头微温，依言走了过去。\n　　大师兄看着场间众人，说道：“山山是我的义妹。”\n　　很简单的一句话，却有很丰富的隐藏含义，当着所有人的面，大师兄说书痴是自己的义妹，那么这便是担保，又或者说是威胁。\n　　今日之后，谁要是敢对莫山山或是墨池苑不利，那",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "尸体，已然年老的她，先是失去儿子，然后失去这一生唯一的男人，便等若失去了所有的希望，看着君陌的背影，悲痛嘶声骂道：“你们这群疯子！你以为书院真的就天下无敌吗？”\n　　君陌没有转身，他从袖中取出一张洁白无尘的手绢，缓慢而认真地拭去唇角溢出的鲜血，说道：“我书院本就天下无敌。”\n　　曲妮玛娣没有想到自己",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "就天下无敌吗？”\n　　君陌没有转身，他从袖中取出一张洁白无尘的手绢，缓慢而认真地拭去唇角溢出的鲜血，说道：“我书院本就天下无敌。”\n　　曲妮玛娣没有想到自己会听到这样的回答，怔了怔后，疯狂地笑了起来，怨恨地诅咒道：“就算你书院天下无敌，也只能在天下无敌！总有一天，天会睁眼收了你们！就像当年收了浩然然",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。”\n　　唐知道他说的不用担心是指自己不用担心书院对妹妹的教育，点头致谢。\n　　君陌又道：“若小师弟出现在荒原，麻烦你把他送回长安。”\n　　唐说道：“若冥王之女同行，我不能保证我不出手。”\n　　君陌眉头微挑，不再多言。\n　　“走吧。”\n　　大师兄对他说道，然后带着莫山山向山下小镇方向走去。\n　　君陌",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "胁。\n　　今日之后，谁要是敢对莫山山或是墨池苑不利，那便等于是挑衅书院，而在今日烂柯寺毁灭，佛宗遭受沉重打击的背景下，谁敢再对书院有丝毫不敬？\n　　君陌忽然望向唐说道：“你不在荒原，来此地做甚？”\n　　唐说道：“我来看看。”\n　　君陌问道：“你来看什么？”\n　　今日早些时候，叶苏曾经问过唐相同的问题",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "第一百零五章 残寺乱山人不见\n　　看着瞬间被毁的烂柯寺，人们用了很长时间才从震惊中苏醒过来，那些幸存的寺中僧人更是忍不住放声痛哭，有僧人看着那顶在秋风秋雨里依然笔直挺立的高冠，悲愤到了极点却也惊恐到了极点。\n　　曲妮玛娣依然抱着宝树的尸体",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "了，他说道：“我来看你杀人。”\n　　君陌点点头，说道：“我书院不喜杀人，若可杀人时很会杀，所以你不用担心。”\n　　唐知道他说的不用担心是指自己不用担心书院对妹妹的教育，点头致谢。\n　　君陌又道：“若小师弟出现在荒原，麻烦你把他送回长安。”\n　　唐说道：“若冥王之女同行，我不能保证我不出手。”\n　　君",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "，纯粹是看着宁缺和桑桑陷入危险时，她下意识里的行为，根本没有思考什么，此时想着如果桑桑真是冥王之女，日后冥界入侵人间世毁灭，自己又该如何自处？\n　　“山山，你过来。”\n　　便在此时，大师兄的声音响了起来。\n　　莫山山微微一怔，看着那名其实并不如何熟悉的书生，想着两年前从荒原到长安的旅途，心头微温，依",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "让自己高兴的事，这就是区别。”\n　　……\n　　……\n　　行走在瓦山小镇里的青石道上，感觉着身旁传来的温暖可靠气息，莫山山的情绪渐渐安宁下来，不再像先前那般惘然。\n　　这时她才发现，原来自己手里一直拿着个匣子，正是先前宁缺和桑桑突围时，那辆黑色马车里扔给自己的那个匣子。\n　　她打开匣子，发现匣内的绒棉",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

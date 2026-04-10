@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 747,
+  "chapter_title": "第一百二十八章 平静的来源（上）",
+  "filename": "ch_0747_第一百二十八章 平静的来源（上）.txt",
+  "char_count": 3356,
+  "timestamp": "2026-04-10T12:11:27.054012",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "见的品种。\n　　听着师兄们的赞赏，他有些不好意思地摇了摇头。\n　　便在这时，二师兄走进了篷里。\n　　众人赶紧上前，帮助六师兄一道把他身上沉重的盔甲卸下。\n　　众人想着先前叶红鱼在阵前邀战，师兄只淡淡回了句你不是我的对手，便让对方退下，纷纷赞叹师兄气度潇洒。\n　　二师兄平静说道：“那小姑娘厉害，要打赢",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "西门不惑恍然，连声说道：“不错不错，小师弟最擅长做这种事情。”\n　　四师兄和六师兄也纷纷点头，心想书院若要杀遍天下，舍小师弟其谁？\n　　二师兄没有说话。\n　　王持在菜板旁说道：“凉菜拌好了，有没有带芝麻？”\n　　二师兄说道：“吃饭吧。”\n　　这时候众人忽然闻到一股淡淡的糊味。\n　　七师姐叫唤了",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "得很不安。\n　　青峡出口外的阵法已成，与二师兄和各有要务的师兄弟相比，她的主要工作便是负责后勤，很是轻松，结果这样都没有做好。\n　　片刻后，不安变成了恼怒，她嗔怒说道：“六师兄这炉子是用来打铁炼剑的，温度太高，哪里适合做饭？”\n　　二师兄眉头微挑，不悦斥道：“此言无理，无礼。”\n　　七师姐怔了怔，生",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的药意，瞬间在他们的胸腹间弥漫开来，先前那些烦闷躁狂的感受一扫而空，二人觉得舒服了很多，这才明白师兄为什么要打自已。\n　　“像你们这样拼命，坚持不了多长时间。”\n　　四师兄说道：“夜里好生休息一下。”\n　　北宫未央说道：“多谢师兄出手相助。”\n　　四师兄说道：“我那一掌不是关键，十一的药才是真正的好",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "吐出血来，正自惘然，还没有来得及恼怒质问师兄何意，便被王持塞了两颗丸药进嘴里。\n　　一道清新的药意，瞬间在他们的胸腹间弥漫开来，先前那些烦闷躁狂的感受一扫而空，二人觉得舒服了很多，这才明白师兄为什么要打自已。\n　　“像你们这样拼命，坚持不了多长时间。”\n　　四师兄说道：“夜里好生休息一下。”\n　　北",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "炉，她和王持一道动手，做起来并不复杂。\n　　南方原野间，西陵神殿联军也开始收营垒灶做饭，看样子今日的战斗真的是暂时告一段落，炊烟处处升起，气氛终于变得平静了些。\n　　青峡出口处的气氛却反而变得凝重起来，二师兄为首，诸弟子站在他身后，看着南方那些源源不绝的粮车，脸上的神情变得非常难看。\n　　给西陵神殿",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "么多年，早以唐人自居，甚至表现的要比四师兄等人更为愤怒。\n　　四师兄举着沙盘计算了片刻，说道：“如果将来要收复清河郡，至少要杀二十万人，才能把诸阀势力清除干净，才能真正把这口气出掉。”\n　　听着要杀死二十万人……北宫与西门脸上的神情骤然一僵。\n　　他们是把生命奉献给音律的雅士，这辈子便是连鸡都没有杀",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，先前那些烦闷躁狂的感受一扫而空，二人觉得舒服了很多，这才明白师兄为什么要打自已。\n　　“像你们这样拼命，坚持不了多长时间。”\n　　四师兄说道：“夜里好生休息一下。”\n　　北宫未央说道：“多谢师兄出手相助。”\n　　四师兄说道：“我那一掌不是关键，十一的药才是真正的好东西。”\n　　王持自幼爱思辩、爱花",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "自极南海岛，并不是土生土长的唐人，但在书院生活了这么多年，早以唐人自居，甚至表现的要比四师兄等人更为愤怒。\n　　四师兄举着沙盘计算了片刻，说道：“如果将来要收复清河郡，至少要杀二十万人，才能把诸阀势力清除干净，才能真正把这口气出掉。”\n　　听着要杀死二十万人……北宫与西门脸上的神情骤然一僵。\n　　他",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "觉得舒服了很多，这才明白师兄为什么要打自已。\n　　“像你们这样拼命，坚持不了多长时间。”\n　　四师兄说道：“夜里好生休息一下。”\n　　北宫未央说道：“多谢师兄出手相助。”\n　　四师兄说道：“我那一掌不是关键，十一的药才是真正的好东西。”\n　　王持自幼爱思辩、爱花草、爱医人，医术不敢称天下无双，但所研",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "么了？”\n　　北宫叹息一声，没有说什么，西门不惑擦掉泪水，感动说道：“师兄，入门这么多年，今天还是你第一次表扬我。”\n　　二师兄沉默片刻，然后认真说道：“以后我会多表扬你们。”\n　　七师姐看着西门不惑像鸡爪般的双手，打趣说道：“晚上炖鸡爪子给你吃。”\n　　西门不惑疑惑问道：“为什么要吃炖鸡爪？”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "糟糕？”\n　　青峡出口处响起一阵欢愉的笑声。\n　　水已烧开，米已淘好，七师姐开始做晚饭。\n　　书院后山诸人，此番前来青峡，做了些准备，带足了米食和咸菜，而且有现成的火炉，她和王持一道动手，做起来并不复杂。\n　　南方原野间，西陵神殿联军也开始收营垒灶做饭，看样子今日的战斗真的是暂时告一段落，炊烟处处升",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "求稳妥，那便是最大的不妥，今日战局明朗，神殿方面却不停出动骑兵，就是想把我们逼进峡内……虽然我不知道进入青峡后，他们会有怎样的手段，但不到最后关头，我不愿意退这一步。”\n　　“为什么？”\n　　“因为只要退出一步，便可能退更多步。”\n　　四师兄转过身来，望向南方原野间黑压压连绵不知多少里的联军军营，说",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，所以才会对你嚷嚷，你不要怪她。”\n　　二师兄微微皱眉，说道：“有什么委屈？”\n　　四师兄说道：“她担心你才会失态，结果还要被你训斥，这就是委屈。”\n　　二师兄闻言微怔，沉默很长时间后说道：“没有必要。”\n　　四师兄不再说这件事情，因为书院后山弟子们私下议论这件事情已经议论了好几年，却始终没有议论出",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "杀过，虽说今天有千余重骑死在他们的琴箫之声下，但实在无法想象自已要做去血洗屠杀的事情。\n　　篷下一片安静。\n　　书院弟子守青峡，为的是长安城，是大唐，便是杀再多人，他们也无所谓，然而如果将来真有一日，需要他们举起屠刀……\n　　北宫忽然笑了起来，说道：“不是还有小师弟嘛。”\n　　西门不惑恍然，连声说道",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

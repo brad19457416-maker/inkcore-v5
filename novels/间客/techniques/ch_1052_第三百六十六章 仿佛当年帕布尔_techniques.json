@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 1052,
+  "chapter_title": "第三百六十六章 仿佛当年帕布尔",
+  "filename": "ch_1052_第三百六十六章 仿佛当年帕布尔.txt",
+  "char_count": 3503,
+  "timestamp": "2026-04-10T12:05:26.900409",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "十的女士拥有一头淡金sè的大波浪卷发，她抽泣着走上前来，张开双臂给了主编先生一个温暖的拥抱，引来旁边众人夸张的笑声和伍德脸上一丝诡异的笑容。\n\n    用颤抖的手指替鲍勃披上风衣，然后她从盒中取出一根高级粗烟草，小心翼翼放进鲍勃嘴里。\n\n    鲍勃主编点燃粗烟草，狠狠地吸了两口然后递给身旁怨念无穷",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "说，则更像是黑夜重新笼罩了大地。\n\n    万民欢腾庆祝的场面并没有在所有城市里发生，在某些地方，有愤怒的帕布尔主义者走上jiē头，挥舞着拳头抗议，就连那位最高法院德高望重的何**官，网络和媒体上甚至极为罕见地出现了批评质疑的声音。\n\n    但至少在被沉默行军队伍占据的拉比大道两侧，在人头攒动的最",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "但至少在被沉默行军队伍占据的拉比大道两侧，在人头攒动的最高法院大楼四周，没有出现任何理念冲突与派别之分，无数的人兴奋地跳跃，呼喊着口号，欢迎他们心中勇敢的英雄。\n\n    表情阴鹜守候在警戒线外的联合调查部门官员，已经在民众剧烈的嘘声与骂声中狼狈离开，爱国者法案废除，联邦zhèngfǔ再",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "废止，对于某些联邦民众来说，就像太阳驱散了阴霾，而对于另外的某些联邦民众来说，则更像是黑夜重新笼罩了大地。\n\n    万民欢腾庆祝的场面并没有在所有城市里发生，在某些地方，有愤怒的帕布尔主义者走上jiē头，挥舞着拳头抗议，就连那位最高法院德高望重的何**官，网络和媒体上甚至极为罕见地出现了批评质疑的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "鲍勃主编点燃粗烟草，狠狠地吸了两口然后递给身旁怨念无穷的伍德望着自己女秘书脸上的泪痕微笑说道：“不要哭了，会让人看笑话的。”\n\n    丽斯带着哭腔应了声，然后擦去脸上的泪痕，很自然地走到他身旁站住，认真问道：“回报社？”\n\n    鲍勃主编和伍德记者下意识里对视一眼，然后望向拉比大道另",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "在这场战争的大背景下，任何牵涉到帝国的因素都会变得敏感而危险起来听到这名记者的质问，人群骤然安静无数双目光落到邰之源的脸上。\n\n    邰之源微微眯眼，目光微寒盯着那名记者，发现对方并未退缩，反而带着某种挑衅神情，隐约猜到zhèngfǔ方面正在寻找合适时机宣扬自己和那位帝国皇子许乐曾经的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "着某种挑衅神情，隐约猜到zhèngfǔ方面正在寻找合适时机宣扬自己和那位帝国皇子许乐曾经的友谊来做为最强有力的反制手段。\n\n    “达文西是叛乱分子？”\n\n    邰之源冷冷盯着对方声音变得锋利而更加强硬：“那他是一个在前线坚持做战四年的叛乱分子，还是一个双腿被炸断将要终生残疾的叛乱分子？”",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "fǔ哪个序列的部门？”\n\n    “爱国者法案已经被废除，那么拥有危险高权限的联合调查部门，就失去了存在的所有由，必须马上解散。”\n\n    邰之源的回答很简单直接，并且强硬有力。\n\n    一名男记者挤到人群最前方，举着手中的录音笔大声问道：“昨夜沉默行军集huì时，前七组军官达文西出现在演讲台上",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，对前线战事造成了极大的危害，那名叫达文西的叛乱军官，爱国者法案的废除，帝国人，还有这场沉默行军之间究竟有没有什么关朕？”\n\n    在这场战争的大背景下，任何牵涉到帝国的因素都会变得敏感而危险起来听到这名记者的质问，人群骤然安静无数双目光落到邰之源的脸上。\n\n    邰之源微微眯眼，目光微寒盯着那",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "尔主义者走上jiē头，挥舞着拳头抗议，就连那位最高法院德高望重的何**官，网络和媒体上甚至极为罕见地出现了批评质疑的声音。\n\n    但至少在被沉默行军队伍占据的拉比大道两侧，在人头攒动的最高法院大楼四周，没有出现任何理念冲突与派别之分，无数的人兴奋地跳跃，呼喊着口号，欢迎他们心中勇敢的英雄。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "就能代表真正的zìyoú？\n\n    身周数万民众嘈杂的欢呼声让这两位被称为联邦新闻界良心的中年男人同时皱起眉头，想到联合调查部门囚房恐怖的噪音想起那段黯无光泽的囚禁时光。\n\n    还没有获得真正的zìyoú，因为不能回到报社坐在桌前写社论做调查，一旦他们离开这片嘈杂与沉默行军完全不符的人海，便极",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "拂着。\n\n    寒风之中，邰之源瘦削的身体显得格外单薄，脸sè愈发苍白，围绕在他身边的人们不禁有些担心，这位年轻的议员先生再次咳嗽之后会不会倒下。\n\n    跑政治线的记者都知道邰议员的身体不好，但新闻界没有任何人知道他身体越来越差的真实原因。不过对于他们来说，怜惜是狂热民众的情绪，却绝对不是他们",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "尔总统。”\n\n    他转头望向伍德，微笑拍了拍他的肩头，说道：“不用回报社，拿起笔来，依然可以报复社会。”\n\n    ……\n\n    ……\n\n    宪历七十六年一月份的雪时降时歇，谁也不知道晶莹的雪huā什么时候会再次从铅灰sè的云层里落下，只有寒冽的风一如即往不停地吹拂着。\n\n    寒风之中",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "中勇敢的英雄。\n\n    表情阴鹜守候在警戒线外的联合调查部门官员，已经在民众剧烈的嘘声与骂声中狼狈离开，爱国者法案废除，联邦zhèngfǔ再也无法对那两位新闻人采取强制措施。\n\n    伍德主编和鲍勃记者高举双手，像英雄般高昂着头颅，在震耳欲聋的欢呼声中走了出来，在迎接人群最前面，是他们最熟悉的报",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "所以他们高举着话筒和录音笔，没有丝毫停顿地不断连续发问。\n\n    邰之源举起双手下压，示意周遭人群安静些，然后对面前的邮报记者表情严肃回答道：“鲍勃主编和伍德记者虽然已经摆脱不公正亦不名誉的丑陋指控，zhèngfǔ必须为此正式道歉解释，但关于二人在联合调查部门审讯过程中所遭受的残酷不人道待遇，zh",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "专职秘书，这位年近四十的女士拥有一头淡金sè的大波浪卷发，她抽泣着走上前来，张开双臂给了主编先生一个温暖的拥抱，引来旁边众人夸张的笑声和伍德脸上一丝诡异的笑容。\n\n    用颤抖的手指替鲍勃披上风衣，然后她从盒中取出一根高级粗烟草，小心翼翼放进鲍勃嘴里。\n\n    鲍勃主编点燃粗烟草，狠狠地吸了两口",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

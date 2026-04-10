@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 922,
+  "chapter_title": "第二百五十五章 乡村少女教师",
+  "filename": "ch_0922_第二百五十五章 乡村少女教师.txt",
+  "char_count": 3495,
+  "timestamp": "2026-04-10T12:05:26.911638",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "护卫尸体和鞋底粘稠的血水，紧紧握着拳头，抿紧嘴唇，用布满血丝的眼睛，瞪着庄园大门上那具在旋翼掀起的巨风中摇晃不定的尸体    星光下，那个被挖掉了死状极其凄惨的苍白身躯，是他的儿子。\n\n    在最短的时间内，这位贵族老爷从管家处大致了解了最近两天发生的一些事情，因为近乎疯狂的愤怒，被酒色淘空了的苍",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "子。\n\n    在最短的时间内，这位贵族老爷从管家处大致了解了最近两天发生的一些事情，因为近乎疯狂的愤怒，被酒色淘空了的苍老身躯开始不受控制的颤抖，嘴唇同样如此，似乎在喃喃说着无比怨毒的诅咒。\n\n    四十年前修改后的帝国蓄奴法，严禁任何贵族滥杀奴隶，但奴隶毕竟是贵族们的私有财产，即便真的杀了，最",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "。\n\n    越落后的地方压迫越严重，下层民众的生活越艰辛，无论联邦还是帝国，无论东林还是离阻，人类社会总是逃不出这个规律，桑枯镇周边同样如此，那几个拥有少量私兵队伍的土地主，用手中的皮鞭和帝国的法律严苛压榨着自己的雇工和奴隶，毫不客气地把丝绸业衰败的后果转嫁到那些可怜人的身上。\n\n    初春的某",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "打自己的奴隶和雇工，至少不敢得意洋洋地公开施刑，而那些在他们眼中能够像猴子一样爬树采桑业的童工，则是第一次有勇气拒绝了主人家的使唤，而是拿起破旧的书包走进了学校。\n\n    导致这种改变发生的原因很多，除了那位拥有一头顺直浅栗色头发的少女教师，能够向各位文化程度并不高的地主老爷，完整而流利地背颂皇帝",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "个小姑娘的浅栗色头发是染的，染的并不好，本质应该是”黑色。”\n\n    听到黑色两个字，巴依老爷身体骤然一冷，拧着花白的眉尖。恶狠狠看着忠心而能干的管家，说道：“继续说\n\n    “既然是黑发染成的浅栗色，那么褐色的眼瞳也可能是戴了伪装瞳片，本身也极有可能是黑色\n\n    管家能够感受到老爷此时心中",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "要活的”。\n\n    管家小心翼翼说道：“因为公学的关系，那两个异乡人和桑枯镇的那些小地主发生了一些冲突，结果他们却没有被赶走。”\n\n    “你究竟想说什么！”巴依老爷霍然转身，冲着他愤怒地吼叫。\n\n    “那两个异乡人虽然刻意掩饰，但还是被有些人听出了他们的贵族腔，尤其是镇上那个理发的妇女曾经",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "四十年前修改后的帝国蓄奴法，严禁任何贵族滥杀奴隶，但奴隶毕竟是贵族们的私有财产，即便真的杀了，最终贵族也只需要奉上一笔赔款和罚金，顶多再接受一些很轻的刑事责罚，所以在贵族们的眼中，无论是那些逃奴还是那些贱民的幼女，和一只畜牲没有任何区别。\n\n    残酷的统治必然会引来激烈的反抗，奴隶贱民们的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "他们的贵族腔，尤其是镇上那个理发的妇女曾经不小心说漏了嘴，那个小姑娘的浅栗色头发是染的，染的并不好，本质应该是”黑色。”\n\n    听到黑色两个字，巴依老爷身体骤然一冷，拧着花白的眉尖。恶狠狠看着忠心而能干的管家，说道：“继续说\n\n    “既然是黑发染成的浅栗色，那么褐色的眼瞳也可能是戴了伪装瞳片",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "公学的关系，那两个异乡人和桑枯镇的那些小地主发生了一些冲突，结果他们却没有被赶走。”\n\n    “你究竟想说什么！”巴依老爷霍然转身，冲着他愤怒地吼叫。\n\n    “那两个异乡人虽然刻意掩饰，但还是被有些人听出了他们的贵族腔，尤其是镇上那个理发的妇女曾经不小心说漏了嘴，那个小姑娘的浅栗色头发是染的，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "幽静的尽头是间破旧不堪的学校，这里就是给了那些少年少女们懵懂希望和难得温暖的桑枯镇公学。\n\n    无数年森严的阶层分隔，让这种响应陛下教育改革而建立的公学，没有任何贵族子弟的身影，更麻烦的是，拥有足够知识的教师往往都有贵族身份，他们根本不愿意给这些贱民甚至是奴隶子弟上课，而那些极少数接受过完善教育",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "就是杀死我可爱儿子的凶手？”\n\n    巴依老爷看着被缓缓放下来的儿子尸首，眼角不停抽搐，咬着牙寒声说道：，“那你还等什么？马上派人去把那两个人给我抓回来！我要活的”。\n\n    管家小心翼翼说道：“因为公学的关系，那两个异乡人和桑枯镇的那些小地主发生了一些冲突，结果他们却没有被赶走。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "诚态度抬起头来，看着讲台上那个年龄甚至比自己还小的少女教师。\n\n    “上课之前有句话要先说一下，以后不要去图书馆看了科幻，就跑来问我什么三体运行规律之类的问题。”\n\n    少女教师今天穿着一件很普通的衣裳，袖口套着防磨套，她看着下面的学生们，可爱地耸耸肩：“虽然这是我十三岁时就已经解决了的问题",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "了？那个公学已经没有人”你是说那两个。异乡人，就是杀死我可爱儿子的凶手？”\n\n    巴依老爷看着被缓缓放下来的儿子尸首，眼角不停抽搐，咬着牙寒声说道：，“那你还等什么？马上派人去把那两个人给我抓回来！我要活的”。\n\n    管家小心翼翼说道：“因为公学的关系，那两个异乡人和桑枯镇的那些小地主发生了",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "经历。\n\n    桑林之中有条幽静的尽头是间破旧不堪的学校，这里就是给了那些少年少女们懵懂希望和难得温暖的桑枯镇公学。\n\n    无数年森严的阶层分隔，让这种响应陛下教育改革而建立的公学，没有任何贵族子弟的身影，更麻烦的是，拥有足够知识的教师往往都有贵族身份，他们根本不愿意给这些贱民甚至是奴隶子弟上",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

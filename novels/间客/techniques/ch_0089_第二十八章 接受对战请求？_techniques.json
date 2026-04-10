@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 89,
+  "chapter_title": "第二十八章 接受对战请求？",
+  "filename": "ch_0089_第二十八章 接受对战请求？.txt",
+  "char_count": 3271,
+  "timestamp": "2026-04-10T11:53:35.151419",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "手镯上的资料光屏输出系统，在区呆了很多个夜晚，他确认这里没有任何监控设备，才敢放心地使用他这个最大的秘密。手中粗劣的高能塑料外壳中排列着密密麻麻的芯片组和激活仪，看上去实在谈不上精细高端。许乐认真地检查着上面的每一条金属线路，满意地点了点头。\n\n    大部分的工作已经完成，或许过不了多久，许乐手中",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "听着那个电子合成声。\n\n    “对战训练请求，是否接受？”电子合成声响起。\n\n    许乐愣了愣，心想邰之源难道又回来了？只是为什么今天不是用光屏显示虚拟场景，机械臂还自动安装了半透明的护甲。难道是要进行真实训练？一想到这种可能性，他忽然觉得有些兴奋，那股一直被他压抑着的火焰开始升腾起来。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "开拓星河的蛮荒时代，在与帝国的血火战争中，第一军事学院涌现出了无数的名帅悍将，不论是在军方还是在联邦社会中，都拥有其为崇高的地位。\n\n    哪怕这间军事学院也出过施清海这样的高分低德流氓官员，形象也不会稍微黯淡一分。\n\n    施清海看着综合馆一处安静的区域，微微眯了眯眼，荷枪实弹的士兵，正保护着",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "多台机甲，不是谁都有机会亲眼睹这个被称为最具有艺术暴力美感的战争机器，梨花大学里的学生们，无比羡慕和激动地看着那两台被从头蒙到脚的机甲，如果不是害怕那些端着枪的士兵，或许他们真会偷偷过去摸一把。\n\n    施清海盯着那边看的原因自然和这些学生不同，他虽然不是机动系的学生，但在第一军事学院里读了四年书",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "乐无比震惊地看着自己身前，本来空无一物的操作舱表面，被安装上了一块半透明的舱门护甲，然后他听到了一个陌生的电子合成声：“驾驶员。请就位。”\n\n    操作舱的座位自动伸出固定带，将许乐的身体牢牢地束在了座位上，他此时已经从先前的惊慌中摆脱了出来，确认自己可以随时离开固定带，稍微放下了一些心，好奇地侧",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "然是联邦首都特区郊外的第一军事学院。在开拓星河的蛮荒时代，在与帝国的血火战争中，第一军事学院涌现出了无数的名帅悍将，不论是在军方还是在联邦社会中，都拥有其为崇高的地位。\n\n    哪怕这间军事学院也出过施清海这样的高分低德流氓官员，形象也不会稍微黯淡一分。\n\n    施清海看着综合馆一处安静的区域，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "觉得有些兴奋，那股一直被他压抑着的火焰开始升腾起来。\n\n    初识男女之事滋味。却在情感上遭受了重大地挫折。年轻地逃犯许乐。心里早就已经憋了很久很久。在星辰会所里又等了邰之源几个小时。被那些香风薰地他快要醉了。体内地火却一直没有一个宣泄地渠道。哪怕专注于工作半个夜晚。也没有办法平息他所有地情绪。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "已经完成，或许过不了多久，许乐手中这块粗糙的仪器便能再次发出蓝光，他可以再次自由地越过那道电子围墙，进入那些蛮荒的野生动物保护地带，在的监视下，沉默地进行屠牛工作。\n\n    唯一的问题就是有几个受到管制的元件，许乐一时间根本找不到任何途径去获取，关于这些事情，网上那些黑市也不能获得他的信任。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "臂还自动安装了半透明的护甲。难道是要进行真实训练？一想到这种可能性，他忽然觉得有些兴奋，那股一直被他压抑着的火焰开始升腾起来。\n\n    初识男女之事滋味。却在情感上遭受了重大地挫折。年轻地逃犯许乐。心里早就已经憋了很久很久。在星辰会所里又等了邰之源几个小时。被那些香风薰地他快要醉了。体内地火却一直",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "黑色原型机甲后方那些像彩带一样飘浮着地数据线。动力线倏地一声全部收回了厚重地墙壁之中。平台地控制设行缓缓地将机甲转了过来。\n\n    许乐隔着半透明地机甲操作舱护罩。怔怔地看着渐渐分成两块地墙壁。这才知道原来区后方。竟然是一道全部由合金铸成地出口。\n\n    大门打开。在明亮地白色光芒中。无比阔大地",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "果。许乐此时很想操作着身下巨大地合金机甲和随便一个人大打一场。他想了会儿。挠了挠头。胡乱对着一个地方说道：“好地。”\n\n    随着他表示了同意。黑色原型机甲后方那些像彩带一样飘浮着地数据线。动力线倏地一声全部收回了厚重地墙壁之中。平台地控制设行缓缓地将机甲转了过来。\n\n    许乐隔着半透明地机甲",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

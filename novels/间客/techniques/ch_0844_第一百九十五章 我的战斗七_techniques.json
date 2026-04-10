@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 844,
+  "chapter_title": "第一百九十五章 我的战斗七",
+  "filename": "ch_0844_第一百九十五章 我的战斗七.txt",
+  "char_count": 3909,
+  "timestamp": "2026-04-10T12:05:17.628201",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。\n\n    办公室厚重的大门打开，圆桌尽头的帕布尔总统微笑着站起身来，对桌旁的政丅府阁员们说道：“紧急会议看来必须暂停，我们的小鱼儿看来有比联邦事务更紧急的问题需丅要我解决。”\n\n    圆桌旁的大人物们响起一阵会意或应景的宽厚笑声。\n\n    “亲爱的小鱼儿，这么晚了不睡觉，有什么重要的事吗？”",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "没有现藏在地板下的许乐？”\n\n    都特区唯一那栋进行了三层信息屏蔽的建筑内部，小眼睛部队某位成员愤怒而无助地指着光幕上的资料，无力地挥舞着手臂，低声恼火说道：“怎么解释这一切？除非我们承认他不是人。”\n\n    “他当然不是人。”另一名成员满脸失望情绪摇着头，看着开始播放的战场监控说道：“如此强",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "了三层信息屏蔽的建筑内部，小眼睛部队某位成员愤怒而无助地指着光幕上的资料，无力地挥舞着手臂，低声恼火说道：“怎么解释这一切？除非我们承认他不是人。”\n\n    “他当然不是人。”另一名成员满脸失望情绪摇着头，看着开始播放的战场监控说道：“如此强大而不可战胜，怎么可能是正常人类。\n\n    “放弃这些",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "可战胜，怎么可能是正常人类。\n\n    “放弃这些没用的文艺腔调感慨，宇宙里至今没有现任何异能生物的存在。”\n\n    联邦调查局官员铁青着脸打断了众人泄失落震惊情绪的行为，沉声说道：“现在最紧要的任务是，我们必须计算出许乐的下一个目标在哪里，就算不能设伏擒杀，也必须保证那些大人物的安全。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "兵虽然看着粗鲁不堪，但谁都知道他们检查战场不可能犯错，对军事法庭事先进行的检查既然动用了生命探测仪，为什么没有现藏在地板下的许乐？”\n\n    都特区唯一那栋进行了三层信息屏蔽的建筑内部，小眼睛部队某位成员愤怒而无助地指着光幕上的资料，无力地挥舞着手臂，低声恼火说道：“怎么解释这一切？除非我们承认他",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "码。\n\n    总统官邸三楼，帕黛儿小姐枕头边的电丅话响了，现在抱着大绒熊也很难睡着的她慢慢转过头，紧张地看了很长时间才接通，用细细颤抖的声音说出一个字。\n\n    “喂？”\n\n    ……\n\n    ……\n\n    “帕黛儿小姐，您的父亲正在召开非常重要的会议，这时候不方便打扰。您知道的，总统先生",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "起。\n\n    情报组做了信号驳接，许乐的声音开始回荡在代表联邦权力的椭圆大厅内，回荡在这些掌握联邦命运的大人物耳中，这些话也说给那些并不在场的人。\n\n    “老爷子说过，某些人总会被扫进历史的垃圾箱里。施清海却说，垃圾不会自己走进垃圾箱，需丅要我们去扫。现在的我赞同后者。”\n\n    “总统先生",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "身干净清爽的衣服，重新回到了地面。\n\n    穿过前些天曾经生一场激战的地下通道，他望向斜斜石径上的山麓百货小商店，犹豫片刻放弃原有的计划，担心政丅府事后的追查会给小山老板带来麻烦。\n\n    在街畔某间商店，他买了一个不算便宜也不算贵的电丅话，然后拨通了一个号码。\n\n    总统官邸三楼，帕黛儿小",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "始播放的战场监控说道：“如此强大而不可战胜，怎么可能是正常人类。\n\n    “放弃这些没用的文艺腔调感慨，宇宙里至今没有现任何异能生物的存在。”\n\n    联邦调查局官员铁青着脸打断了众人泄失落震惊情绪的行为，沉声说道：“现在最紧要的任务是，我们必须计算出许乐的下一个目标在哪里，就算不能设伏擒杀，也",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "些没用的文艺腔调感慨，宇宙里至今没有现任何异能生物的存在。”\n\n    联邦调查局官员铁青着脸打断了众人泄失落震惊情绪的行为，沉声说道：“现在最紧要的任务是，我们必须计算出许乐的下一个目标在哪里，就算不能设伏擒杀，也必须保证那些大人物的安全。”\n\n    “现在统计出来可能被许乐上校袭击目标，已经扩",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "令人震惊的是她所说的内容。\n\n    椭圆办公厅里的人们震惊地站了起来，安全部门快做出反应，情报组则马上开始追踪信号来源。\n\n    听到女儿的话，帕布尔总统身体微微一僵，却仍然望着她笑了笑，然后缓缓站直身体，将电丅话放到唇边，说道：“许乐上校，我很不欣赏你的举动。\n\n    电丅话那头的人应该明白",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "组则马上开始追踪信号来源。\n\n    听到女儿的话，帕布尔总统身体微微一僵，却仍然望着她笑了笑，然后缓缓站直身体，将电丅话放到唇边，说道：“许乐上校，我很不欣赏你的举动。\n\n    电丅话那头的人应该明白总统先生的愤怒来自何处，不是针对莱克上校的死，而是因为这个电丅话影响到了自己患病的女儿。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "处地下水道的金属门阀忽然开始无声地转动，悄无声息地露出一个人头。\n\n    此地的监控头早就因为店主担心被拍下违法证据而拆掉，没有任何人能够看到这幕有些诡异的画面。\n\n    在地下道深处那个有冰柜有电视的温暖小窝做了简单的包扎，许乐换了一身干净清爽的衣服，重新回到了地面。\n\n    穿过前些天曾经",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "充分的准备。”\n\n    他耸了耸肩，说道：“安排装备获取相关情报拟定目标都需丅要时间，我相信许乐会进入一长段时间的沉默期，这也意味着我们可以休息一下，洗个澡什么，这大概是我们今天收获的唯一好消息。”\n\n    房间里响起一连串椅腿移动碰撞和疲惫的呵欠声，官员最后补充了一句：“根据上级指示，今天军事",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "拍下违法证据而拆掉，没有任何人能够看到这幕有些诡异的画面。\n\n    在地下道深处那个有冰柜有电视的温暖小窝做了简单的包扎，许乐换了一身干净清爽的衣服，重新回到了地面。\n\n    穿过前些天曾经生一场激战的地下通道，他望向斜斜石径上的山麓百货小商店，犹豫片刻放弃原有的计划，担心政丅府事后的追查会给小",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

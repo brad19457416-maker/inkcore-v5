@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 956,
+  "chapter_title": "第一百二十九章 携手",
+  "filename": "ch_0956_第一百二十九章 携手.txt",
+  "char_count": 4458,
+  "timestamp": "2026-04-10T12:11:27.597847",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "测，君陌用铁剑把首座和棋盘撬离了崖坪，李慢慢带着首座和棋盘来到了天上。\n　　从山崖里跌落的人很多，从天空里落下的人很少，数年前在长安城里，曾经有三个人从地面打到天空上，然后再从天空落下，最后的结果是，余帘身为魔宗至强者，亦是身受重伤，那么首座呢？\n　　首座正抱着棋盘从云中坠落，向地面而去，他肉身成佛",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "首座砸在东峰这些怪石上，会不会流出血来。\n　　但酒徒这时候已经到了，他没有理会君陌的铁剑，拼着受伤的危险，以无距离开地面，同样来到了天空里，来到大师兄的身前。\n　　酒徒坚信，只要自己愿意付出一些代价，便没有道理比对方慢――他修行了无数万年，怎么可能比不过一个只修行了数十年的人？\n　　无距境，也不能在",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "闷的轰隆声。\n　　崖壁下方的原野上，无论是那些正在放牧农民，还是那些正在开会筹划如何镇压叛乱农奴的贵人们，都听到了这道声音。\n　　无数人走出帐篷，望向远方的崖壁，眼神很是惘然。\n　　轰隆声越来越响亮，离崖壁表面越来越近。\n　　忽然间，崖壁某处暴射出无数石块，落在下方的原野和湖泊里，打的水花乱溅，泥土",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "慢慢和君陌根本没有办法，但事实推翻了他的猜测，君陌用铁剑把首座和棋盘撬离了崖坪，李慢慢带着首座和棋盘来到了天上。\n　　从山崖里跌落的人很多，从天空里落下的人很少，数年前在长安城里，曾经有三个人从地面打到天空上，然后再从天空落下，最后的结果是，余帘身为魔宗至强者，亦是身受重伤，那么首座呢？\n　　首座正",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "带着沉重如山的首座来到天上，已然非常辛苦，正在向着东峰落下，他此时应该放手，然而酒徒在侧，他放手没有意义。\n　　不放手又能怎么办？\n　　寒风里，大师兄看着酒徒，忽然笑了笑。\n　　这笑容并不决然，但却是决然的邀请。\n　　他带着首座，向着遥远的天坑边缘的崖壁飞去。不是真正的飞，他要带着首座进入崖壁深处，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "到此时，他终于有了反应。\n　　他还是没有睁眼，但双唇微微颤抖，似准备要说话。\n　　很奇怪，这不是君陌第一次尝试要把他撬离地面，先前他始终不闻不问，为什么这时候忽然有了反应？\n　　君陌没有理他，将一身霸道境界，尽数灌注于铁剑之中。\n　　首座唇动，用苍老而沙哑的声音说道：“如是我闻……”\n　　他警惕，是",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "底的碎石之间。\n　　一声长啸，无数鲜血从君陌的身上喷溅而出，打在坑底的崖壁岩石之上。\n　　首座如山般沉重的身躯，被他再次强行撬起。\n　　依然只有一丝，但依然够了。\n　　大师兄和首座再次消失，下一刻，他们来到了东峰之上的天空里。\n　　东峰上有无数嶙峋怪石，乃是悬空寺无数代高僧苦修碾压而成，其硬度强逾钢",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "语言来做准确地描绘，但发生的时间非常短，从酒徒欲起，到君陌出剑，到大师兄归来，再到酒徒逃走，只不过是瞬间，当崖坪上战斗的时候，首座还在空中坠落。\n　　无数层云被撞破，首座的银眉被风吹的向着天空飘起，不停颤抖摆荡，就像是烈风里的军旗，但他依然闭着眼睛，神情平静。\n　　佛祖的棋盘被他抱在怀里。\n　　地底",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "。\n　　崖坪上一片死寂，然后忽然爆出一声巨响。\n　　秋风乱拂，酒徒唇角溢血，披头散发，脸色苍白，双手颤抖不安，身体也跟着颤抖起来，再也无法镇住铁剑。\n　　他一声怪啸，转身便走。\n　　他的声音很苍老，很难听，像锈蚀的青铜器在摩擦。他的这声叫啸更加难听，就像是锈蚀的青铜器被砸扁了，显得那般凄凉。\n　　崖",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "但双唇微微颤抖，似准备要说话。\n　　很奇怪，这不是君陌第一次尝试要把他撬离地面，先前他始终不闻不问，为什么这时候忽然有了反应？\n　　君陌没有理他，将一身霸道境界，尽数灌注于铁剑之中。\n　　首座唇动，用苍老而沙哑的声音说道：“如是我闻……”\n　　他警惕，是因为猜到了书院二人准备做什么――大师兄和君陌要",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "是震撼无比，某人展现出来的境界，已经远远超过当初长安一战时的水准，甚至已经超出了他的想象。\n　　“李慢慢，你真要成为最快的那个人吗？”\n　　酒壶在秋风里轻颤，醇香渐溢，酒徒的身形骤然虚化，便要破碎空间，去到九霄云上，助首座一臂之力。\n　　他刚才没有出手，那是因为他相信，以首座金刚不坏的佛门神通，李慢",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "君陌手里的铁剑。\n　　木棍落在铁剑上，悄然无声。\n　　这就像是打铁，君陌的铁剑是把铁锤，被酒徒压制的同时，也把酒徒这块坚硬的铁块压在了下方，然后木棍变成第二把铁锤落下。\n　　崖坪上一片死寂，然后忽然爆出一声巨响。\n　　秋风乱拂，酒徒唇角溢血，披头散发，脸色苍白，双手颤抖不安，身体也跟着颤抖起来，再也",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "洞口。\n　　这条洞很深，直入崖壁数里。\n　　君陌站在原野间的坑底，看着远处崖壁上的洞，微微皱眉，有些担心。\n　　酒徒落在他的身旁，看着他说道：“李慢慢死了。”\n　　坑底响起一阵咳嗽声。\n　　大师兄出现在君陌身旁，看着酒徒说道：“有些幸运，我没死。”\n　　他的棉袄上多了很多道口子，正在溢血。\n　　酒徒",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "得绝望。\n　　如果就这样砍下去，想砍到首座重伤，那要砍多少剑？\n　　要砍多少年？\n　　但书院里的人们从来不会这样想。\n　　君陌握着铁剑，一剑一剑向首座的头顶砍下去，似永远不会觉得累。\n　　大师兄扶着首座的双肩，神情平静，似永远不会觉得累。\n　　肉身成佛又如何？\n　　只要你开始流血，那就行，那代表着你",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "。\n　　君陌站在原野间的坑底，看着远处崖壁上的洞，微微皱眉，有些担心。\n　　酒徒落在他的身旁，看着他说道：“李慢慢死了。”\n　　坑底响起一阵咳嗽声。\n　　大师兄出现在君陌身旁，看着酒徒说道：“有些幸运，我没死。”\n　　他的棉袄上多了很多道口子，正在溢血。\n　　酒徒看着他，神情有些惘然，说道：“怎么这",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

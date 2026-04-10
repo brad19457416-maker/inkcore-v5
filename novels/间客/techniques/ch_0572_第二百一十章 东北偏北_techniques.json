@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 572,
+  "chapter_title": "第二百一十章 东北偏北",
+  "filename": "ch_0572_第二百一十章 东北偏北.txt",
+  "char_count": 3572,
+  "timestamp": "2026-04-10T12:05:08.555587",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "……\n\n    雪原冰川中的交战区域，依然暴雪狂舞，在战场深腹部，靠近帝国人阵线的一片雪丘上，积雪被风吹压的近手坚硬如冰，缭乱雪花污染的视界中，看不到任何异样，只有一块黑色石砾般的东西，浅浅浮在雪丘前方，似乎是被异地的狂风席卷而来，无奈搬家至此。\n\n    只有凑近这块黑色石砾眼前看，大概才能看出石",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "秀气眉毛骂了一句无声的脏话，从身旁的装备袋中取出一瓶喷霎剂”小心翼翼地喷到雪洞的周围，超低温的液氮，瞬间让刚刚有松软迹象的雪壁，骤然坚挺起来。\n\n    这个动作他已经做了很多次，方能小心翼翼地维持这片雪丘外表没有丝毫变化，然而有一件事情令无畏的施公子感到极为恼怒，他在先遣团团部中搜了半夜，居然也没",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "无疑问是后者的代言人，然而现在看来，似乎……他自己做出了某种改变，在铁七师中大量部署新式mx机甲，在战斗中创造一切条件以发挥mx机甲群的超强攻击力，这种指挥理念的转变，在先前那句话中一览无遗。\n\n    “遵守纪律，东方沛没有做错，这个问题我不想再谈。”杜少卿低头望向电子地图，淡漠说道：“但既然一开",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "腹地移动，在头顶交错而过的子弹间，在无数人的眼皮底下，向前向前，蔑视死神及帝国人地再向前，悄无声息地来到这片雪丘之中。\n\n    很难想像这九公里的路途，施清海是怎样潜过来的，又是怎样没有让任何人发现自己的行踪，如此生猛，实在令人匪夷所思。\n\n    雪洞中，他忽然又睁开了双眼，蹙着极好看的秀气眉毛",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "性的mx机甲，会对这场战争带来怎样的改变，然而见效似乎并不显著。\n\n    在这扣分歧中，杜少卿毫无疑问是后者的代言人，然而现在看来，似乎……他自己做出了某种改变，在铁七师中大量部署新式mx机甲，在战斗中创造一切条件以发挥mx机甲群的超强攻击力，这种指挥理念的转变，在先前那句话中一览无遗。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "们这些家伙有什么用？”\n\n    “这片区域的地磁暴太厉害，长波通讯全断，那个侧涛波信号一直没有重新出现。”电控连连长表情郁闷地解释道。\n\n    “向我解锋有什么用？我们是偷偷出来支援的，或者说我们是违抗军令过来的，如果说我们找不到那支被伏的青龙山部队，我们将会成为最大的笑话门\n\n    赫雷并不",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "在是太不刻算，不太壮观，太没有美感。\n\n    所以他开始向帝国腹地移动，在头顶交错而过的子弹间，在无数人的眼皮底下，向前向前，蔑视死神及帝国人地再向前，悄无声息地来到这片雪丘之中。\n\n    很难想像这九公里的路途，施清海是怎样潜过来的，又是怎样没有让任何人发现自己的行踪，如此生猛，实在令人匪夷所",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "嗝屁了，我在掏枪自杀前，绝对会先毙了你们！”\n\n    履带装甲车在雪地上微微起伏，车厢内的气氛十分压抑，一团的电控兵们十分郁闷，面对着这种大自然的暴虐，人类总是容易显得无能为力，事实上他们根本不相信，技术总监许乐的两台机甲能够在这片雪域中找到青龙山被困部队，除非他们运气好。\n\n    赫雷发泄了一",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "百一十章 东北偏北 \n\n    本次战役结束之后，我会向国防部建议中止东方沛的权限。”杜少卿面无表情说道：“你不用替他说情。”\n\n    西门瑾没有替东方沛求情，因为很清楚自己立志追随的师长拥有怎样坚忍冷厉的性情，一旦他做出了某个决定，除非更高级别的将军直接用军令压制，那么他便不会做出任何更改。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "弹出的光幕，看着光幕上那位穿着红色红衣的清媚女子和女子怀中那个虎头虎脑的小家伙儿，英俊的脸上闪过一丝满足的情绪。\n\n    ……\n\n    ……\n\n    二十几台未作伪装的Ｍx机甲夹杂在更多的雪地装甲群中，无数音色不同的引擎轰鸣声混在一处，震的全金属机身表面的积雪簌簌直下。\n\n    这支钢铁丨凝",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

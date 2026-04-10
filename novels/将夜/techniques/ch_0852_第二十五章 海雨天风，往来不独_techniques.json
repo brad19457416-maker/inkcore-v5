@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 852,
+  "chapter_title": "第二十五章 海雨天风，往来不独",
+  "filename": "ch_0852_第二十五章 海雨天风，往来不独.txt",
+  "char_count": 3356,
+  "timestamp": "2026-04-10T12:11:27.353022",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "下一刻他便可能会被绝壁震出去，再无任何着手处，直接破雾而出，生生被摔死。\n　　在绝境之前，宁缺做出了最强硬和最迅速的反应，闷哼一声，体内的浩然气毫不吝惜地狂暴释出，双手猛然前探，就像两把锋利的刀，狠狠地刺进坚硬的崖壁里！只听得两声碎响，坚硬如铁的手臂在崖壁里割破约两丈长的破口，终于停住了下坠之势，让",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第二十五章 海雨天风，往来不独\n　　夜深人静，大黑马跑回光明神殿，不敢嘶鸣，却是不停地摇头晃脑，蹄声显得格外轻快，被露水打湿的鬃毛舞动不停。\n　　忽然间，它感觉到有人正在看自己，愕然回首望去，便看到了神殿深处那个高胖的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "到那些声响。\n　　从第一个夜晚开始，她就站在栏边静静地看着这幕画面，她看着他从桃花里跃至绝壁，看着他危险下坠，看着他艰难向上攀爬，看着他夜夜等待在马厩东边，看着他赶在晨光来临之前悄无声息回到崖下。\n　　她没有做任何事情，只是这样沉默地看着，直到今夜此时，她看到绝壁上那个男人抬起头来，望向自己所在的神",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "般的人类没有任何资格思念她，所以她认为这是对自己的大不恭，甚至应该称之为亵渎。\n　　她意识里的厌憎与愤怒再次难以抑止地暴发出来。\n　　正如那个男人眼神里的思念难以抑止地暴发出来。\n　　狂风起于千里之外的宋国海上，经高远夜穹呼啸而至，吹的神国上空的夜云震撼不安，如绳下的棉花一般弹动，似随时可能被扯开。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "备从绝壁里抽出双手，情愿以堕崖死亡为代价，也要逃离这片恐怖绝壁和云雾的时候，忽然间有片光明在他的眼前出现。\n　　他以为自己出现了幻觉，然而下一刻，却发现这并不是幻觉，眼前阴冷幽黑的绝壁，真的变的明亮起来！\n　　桃山上空的夜云，被来自千里外风暴海的飓风吹散，露出那轮恰是圆满状态的月亮，银色的月光洒落山",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "死。\n　　在绝境之前，宁缺做出了最强硬和最迅速的反应，闷哼一声，体内的浩然气毫不吝惜地狂暴释出，双手猛然前探，就像两把锋利的刀，狠狠地刺进坚硬的崖壁里！只听得两声碎响，坚硬如铁的手臂在崖壁里割破约两丈长的破口，终于停住了下坠之势，让他在绝壁上停了下来。\n　　他并没有摆脱绝境，虽然现在紧紧地抓着绝壁，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "把身上的露水冲的干干净净。\n　　桑桑没有惩罚它的不忠，负手走到殿后露台的栏旁，看着在绝壁间像片树叶般缓缓飘落的年轻男人，沉默不语。\n　　这几夜都有云遮月，西陵神国里莽莽群山的颜色都变得有些深，而且非常安静，只有神殿下方的绝壁间，偶尔会有些极微小的声音。\n　　除了她没有人能够听到那些声响。\n　　从第一",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "知道他看不到自己，她能看到他眼神里的东西。那个男人眼中的东西名为去念。不是去除一切意念，而是把自己的思念送往彼处去，换句话来说，他正把他的思念送到光明神殿的露台上。\n　　她便是被思念的对象，她是昊天，像蝼蚁一般的人类没有任何资格思念她，所以她认为这是对自己的大不恭，甚至应该称之为亵渎。\n　　她意识里",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "姓罗，绝壁便是阳台下，那么栏边的女孩自然应该是瘦且黑小的。\n　　他看着那处笑了笑，把那些思念与对未知命运的惘然尽数收回识海深处，敛神静意，顺着绝壁继续向下方行去。\n　　便在这时，一阵极为狂暴的山风从高空呼啸而至，带着海水的腥味重重地落在他的身上，他的脸上感受到了一股浓郁的湿冷寒意，与先前隐隐约约感受",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "体内渗去，没有鲜血流出，他却感觉到了清晰地痛苦和清楚的切割感觉，随着雾丝的侵入，他觉得自己仿佛正在把无数万把锋利的小刀不停地割着。\n　　在这个时刻，宁缺对长安一战里的观主敬畏到了极点，因为他终于明白被千万刀临身是怎样的感觉，那是怎样的痛苦。\n　　紧接着发生了更不可思议的事情，随着他的双手深入绝壁，这",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "云雾，被月光驱散开来，他趁着这个稍纵即逝的时机，静气凝神，重新晋入禅定境界，右手结出去念手印，便准备离开。\n　　就在这个时候，他忽然看到身旁绝壁上的那道石窗。\n　　那日他在对面的崖畔看到过这道石窗，只是绝壁上不时有云雾缭绕，又有阵法掩蔽，所以他没有进行仔细地观察。此时云雾被月光驱散，他重新晋入禅定境",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "不知道是虚弱还是别的原因造成的。\n　　……\n　　……\n　　月光没有热度，洒落在宁缺身上时，他却觉得有温暖从体表渗入体内，便是那颗狂暴跳动的心也变得安静了很多。\n　　绝壁间缭绕着的云雾，被月光驱散开来，他趁着这个稍纵即逝的时机，静气凝神，重新晋入禅定境界，右手结出去念手印，便准备离开。\n　　就在这个时",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

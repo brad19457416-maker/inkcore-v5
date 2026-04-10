@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 356,
+  "chapter_title": "第三十六章 破营（下）",
+  "filename": "ch_0356_第三十六章 破营（下）.txt",
+  "char_count": 6822,
+  "timestamp": "2026-04-10T12:04:59.195380",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "因，不禁感慨无语。\n\n    十七个繁复精密而艰难的区域高速趋避，实际上只花了很短的时间，观看军演的众人只觉得眼前花了几花，那台黑色机甲瞬间脱离了平射榴弹的火力覆盖范围，挣破了山谷间的烟尘，似一尊自天外来的幽冥杀神般，继续向着山下冲了过去！\n\n    无论是最初被狙击，还是此后躲避榴弹射击线路的艰难",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，在高速甚至快要失速地坠落过程中，黑色机甲的主炮扫射，依然成功地对近卫营的近距阵控火力阵线，造成了极大地伤害。\n\n    然而指挥大厅里的人们，根本来不及去判断近卫营地战损情况，便现黑色机甲的主炮在这一轮狂烈地扫射之后……飞了起来，就像是一块被震开地破铜烂铁，呼啸着向着面前的平射榴弹群中疾射而去！",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "但超频状态毕竟对机甲系统是一种过负荷的承载，无论是设计还是使用，都不会奢望能够永远保持在这种疯狂而又危险地状态之中。\n\n    许乐是设计又是使用，自然比谁都清楚这一点。\n\n    他不知道铁七师近卫营的阵控火力被布置的如何森严，但他绝对不会轻视杜少卿一造出来的铁血部队和那位西门瑾。所以他需要将超频",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的整个山坡狼狈一片，甚至还鬼使神差地替黑色机甲，挡住了好几枚袭向它坚硬身躯的平射榴弹！\n\n    这究竟是运气还是什么？\n\n    ……\n\n    ……\n\n    “机甲战损百分之二十三。”\n\n    指挥大厅里的军事参谋目瞪口呆地看着光幕上的画面，调出了数据，确认黑色机甲在铁七师的第二轮平射中依然",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "繁复精密而艰难的区域高速趋避，实际上只花了很短的时间，观看军演的众人只觉得眼前花了几花，那台黑色机甲瞬间脱离了平射榴弹的火力覆盖范围，挣破了山谷间的烟尘，似一尊自天外来的幽冥杀神般，继续向着山下冲了过去！\n\n    无论是最初被狙击，还是此后躲避榴弹射击线路的艰难过程中，黑色机甲始终没有做出丝毫减速",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，距离那些在帝国星球原野上征战的日子，已经过去很多年了。\n\n    在蓝池峰陡坡于漫天平射榴弹中不停颤抖，用妖异高速身法避开伤害，带着股冷冽之间继续加速前行的黑色机甲，比起当年那位姓李的师长操控，很明显还有极大的差距，他开的是mx，师长开的是m37，却依然没有达到师长当年那种一夫闯关，江河让路的境界",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "着眼睛看着光幕，在如此高速状态下强行进入超频状态，却没有因为构件地高速溅射而\n\n    甲本身的平衡出现任何问题，许乐的机控水平，难道了这种水准？\n\n    黑色机甲出现在峰顶时，杜少卿只是脸上偶现阴沉，马上回复自然。黑色机甲以那种壮勇无:的态势向营地冲去下时，他依然安坐沙，冷酷依然，墨镜放在手边动",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "第三十六章 破营（下） \n\n    是当年，不是老师长。\n\n    迈尔斯上将霍然起身，感慨万分望着光幕上的黑色机甲，片刻后便醒过神来，距离那些在帝国星球原野上征战的日子，已经过去很多年了。\n\n    在蓝池峰陡坡于漫天平射榴弹中不停颤抖，用妖异高速身法避开伤害，带着股冷冽之间继续加速前",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "前方陡坡上，黑色机甲身上生的一切，却远远快于他的解说。\n\n    伴随着清脆的金属碰撞或脱离声，无数沉重的构件从黑色机甲的机身上脱落弹出。在最初的设计中，这种脱离本来就带有一定的弹出初速，以避免损伤机甲自身，而此时黑色机甲本就携着近乎失控的速度在往山下冲，那些被剥离机身的沉重构件，也同时带上了恐怖的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "速，以避免损伤机甲自身，而此时黑色机甲本就携着近乎失控的速度在往山下冲，那些被剥离机身的沉重构件，也同时带上了恐怖的速度，竟变成了不停地向外溅射！\n\n    有的固件高速弹射到空中，有的则是弹射到身前，随着黑色机甲的持续下冲，机身上不停有构件溅射而出，这一幕看上去极为怪异，就像是一块坚硬的黑色巨石，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "应该猜到这名机师就像先前那般，肯定隐藏着许多惊喜，但亲眼目睹这种高速近乎失控的疯狂冲击，众人依然无比担心。\n\n    被疯狂的黑色mx机甲正面冲击，山谷里的铁七师指挥部依然一片平静，空中无形的电波在快速地流转，所有地军人冷漠平静地继续自己手头的工作，就像没有看见这一幕。伴随着清晰的电机滋滋声，平射榴",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "度极快的黑色机甲，似乎瞬间又把速度提升了几分，长达千米的蓝池山陡峰，竟是马上便要触底！\n\n    “进入超频状态！”他大声喊道。\n\n    指挥大厅里有很多人曾经观摩过卡琪峰的战斗，当他们看到黑色机甲剥离构件时，便已经猜到黑色机甲准备进入超频，令他们震惊的是黑色机甲进入超频状态的方式！\n\n    迈",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "石。\n\n    光幕上的画面在这一瞬间似乎也被消了音，山谷营地的现场似乎也被消了音，只有一片死一般的安静。\n\n    冒着火焰的密集平射榴炮群徒劳地试图抬起炮管，仍旧在不停炸开地反步兵地雷，爆轰的声音似乎也消失了，只有一朵朵的小蘑菇在陡坡上升起，然后消散成沙尘暴云。\n\n    死寂般的安静中，就像机",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“伽工主炮自动脱落！”\n\n    军演指挥大厅地参谋们再也无法保持那种冷静机械的声音，震惊地大声报告道。\n\n    “远程武器系统自动脱落！”\n\n    “板式覆带脱落！”\n\n    “隐藏修理臂脱落！”\n\n    １区固件脱落！”\n\n    “辅助平衡仪弹出！”\n\n    军事参谋的声音急",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

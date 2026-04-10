@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 854,
+  "chapter_title": "第二十七章 花前月下（下）",
+  "filename": "ch_0854_第二十七章 花前月下（下）.txt",
+  "char_count": 3671,
+  "timestamp": "2026-04-10T12:11:27.355315",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "只要神殿里那两个白衣女童说句话，你便可以帮我，即便是叶红鱼也不敢稍作阻拦。”\n　　陆晨迦低头说道：“为什么。”\n　　隆庆说道：“因为她知道帮你就是帮我，只要能够让书院和宁缺不痛快的事情，她肯定愿意做，因为这可能便是她最大的厌憎。”\n　　陆晨迦说道：“你为什么不直接去光明神殿？所有人都知道，如果要在人",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "声问道：“牛逼不？”\n　　陈皮皮这才知道书院的计划竟是如此，不由觉得好生荒唐，细细想来，却又觉得很有道理，但最后他还是摇了摇头。\n　　和书院的计划无关，他只是不同意宁缺补充的救他出幽阁的内容，书院的计划越有道理，他越不能接受自己会打乱那个计划。\n　　看见他摇头，宁缺没有说什么，直接竖起了中指。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "回来后的那段时间虽然一直没有见人，但所有人都知道他受了难以复原的重伤，然而桃花开后那日，掌教神辇重新出现，人们看着幔纱后那道光芒万丈的身影，才发现他的伤竟然全部都好了，威势更胜从前。\n　　从春天开始，西陵神殿发生了很多变化，却仿佛没有任何人看到，有些人是感知不到这种层级的变化，有些人则是不敢感知。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "在幽阁里却像能看到外面发生的所有事情，可惜……现在的你只不过是个废物。”\n　　陈皮皮说道：“虽然我的脾气一向挺好，但不是完全没有脾气，而且哪怕瞎子也能看出来，你没有资格说我是废物。”\n　　隆庆微笑说道：“你的雪山气海已毁，不是废物能是什么？”\n　　陈皮皮神情不变，笑眯眯说道：“连你这个真废物，被宁缺",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的那段时间虽然一直没有见人，但所有人都知道他受了难以复原的重伤，然而桃花开后那日，掌教神辇重新出现，人们看着幔纱后那道光芒万丈的身影，才发现他的伤竟然全部都好了，威势更胜从前。\n　　从春天开始，西陵神殿发生了很多变化，却仿佛没有任何人看到，有些人是感知不到这种层级的变化，有些人则是不敢感知。\n　　“",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "挺好，但不是完全没有脾气，而且哪怕瞎子也能看出来，你没有资格说我是废物。”\n　　隆庆微笑说道：“你的雪山气海已毁，不是废物能是什么？”\n　　陈皮皮神情不变，笑眯眯说道：“连你这个真废物，被宁缺一箭射穿，都能重新练回来，难道本天才还做不到？”\n　　隆庆说道：“即便你练回来，你依然是个废物。”\n　　陈皮",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "走去，宁缺向绝壁下落去。\n　　有月光照拂，笼罩绝壁幽阁的云雾低了很多，露出了那些像蚁穴般的石窗，宁缺来到陈皮皮所在的囚室前，又扯了扯绳索。\n　　大黑马不再继续向前行走。\n　　宁缺担心被云雾吞噬，攀不住绝壁直接摔死，现在被大黑马用绳索系着，应该放心，但看着脚下不远的云雾，依然心有悸意。\n　　他不敢再看",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "叹息说道：“看来你真被宁缺欺负成幼稚病了。”\n　　隆庆说道：“如此幼稚的谈话，确实没有继续的必要，你马上就要在光明祭上被圣火烧死，我何必再来羞辱你。”\n　　“我还是想听听你为什么说我是废物。”\n　　陈皮皮神情微变，站到隆庆身前说道。他想挡住此人，不让窗外的宁缺看到他在说什么，然而他的动作晚了。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "些像蚁穴般的石窗，宁缺来到陈皮皮所在的囚室前，又扯了扯绳索。\n　　大黑马不再继续向前行走。\n　　宁缺担心被云雾吞噬，攀不住绝壁直接摔死，现在被大黑马用绳索系着，应该放心，但看着脚下不远的云雾，依然心有悸意。\n　　他不敢再看脚下，直接望向石窗里。\n　　陈皮皮在石窗里笑眯眯地看着他。\n　　只有光线能够穿",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "程便变得有趣起来，神殿里的人们都很聪明，是真正的聪明，所以他们不会死在聪明上。”\n　　隆庆看着陆晨迦说道：“有些事情可以猜一猜，而且我想证实，我需要进幽阁一趟。现如今裁决神殿始终盯着我，叶红鱼把我的人全部清除，我没有任何机会，但你不一样，我想请你帮我这个忙。”\n　　他现在的神情语气要比当年温和的多，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "有云遮蔽，便跳向对面的绝壁。\n　　双手以佛宗真手印落在绝壁之上，禅定去念不理绝壁上传来的阵意，然后他缓缓松开右手，握住从绝壁上方垂下的那根绳索。\n　　绳索很长很结实，一头在绝壁上方的那道崖坪上，系在大黑马的颈间，另一头垂落绝壁，被宁缺紧紧地系在自己的腰间。\n　　他轻轻扯动绳索，向高处的崖坪上发去信号",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 971,
+  "chapter_title": "第一百四十四章 天人合一谁能敌",
+  "filename": "ch_0971_第一百四十四章 天人合一谁能敌.txt",
+  "char_count": 4370,
+  "timestamp": "2026-04-10T12:11:27.616469",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "虚弱的马上就要死去，一滴神力，对人间来说，便是一片沧海，因为她是天。\n　　宁缺用的便是那片沧海，他用天空来命令这片天地，所以才能写出这道天符――这就是真正的天人合一，谁能敌？\n　　无数红杉树倒塌，森林尽毁，数百里方圆内，只见烟尘不见佛，只闻鹰啸兽嚎，不闻经声，佛光仍盛，诸佛已死。\n　　宁缺望向远方，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "岸还有四百丈距离，以他现在的境界，很难在如此暴烈的风雨里一息奔出如此之远，但他想尝试一下。\n　　就算最终还是会落水，只要能够离岸边近些，想要摆脱这条诡异的大河，也容易些，而且他应对如此之快，应该会出乎那些敌人的想象，打乱对方的部署――然而他没有想到，反而是敌人的反应超出了自己的想象。\n　　河面被暴雨",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "面，数十道白影在铁刀之前，纷纷断裂，然而他的前掠之势也被终止，不得不重新落回船上。\n　　看似应对的很轻松，宁缺的心情却有些沉重，他想不明白，那数十道白影是什么，竟然能够承受如此大的力量，强行把自己拉了回来。\n　　脚边传来啪啪的声音，他低头望去，才发现那数十道白影都是鞭子，都是白骨做的鞭子，更令人心寒",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "能是上游的山洪进入河道，可能是暴雨太烈，掀起河底的沉泥，应该是很正常的事情，可河水浑的如此之快，颜色瞬间变的如墨一般，很不正常。\n　　天上的云很黑，落下的雨水也很黑，黑如墨汁，河水也变成了墨汁，开始散发淡淡的墨臭，然后是各种腥秽的臭味，非常古怪。\n　　宁缺没有任何犹豫，伸手收起大黑伞，把桑桑的身体重",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "是被雨水击的噼啪作响，他明知道神体应无恙，但看着这幕画面，还是觉得很心疼，解下大黑伞撑在了桑桑上方，心想至少要保住她如花的容颜。\n　　好吧，船舷上刻着朵花，桑桑的脸长的如此普通，实在谈不上如花般娇艳，宁缺笑着想道，用力挥动双桨，让木船如箭般穿行于风雨之中。\n　　红杉树干很宽很厚，木船很大很结实，雨水",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "天，是天符。\n　　人间从来没有出现过如此强大的符，颜瑟大师没有写出来过，王书圣没有写出来过，往前追溯无数万年，也没有出现过。\n　　宁缺现在是知命境巅峰，是很强大的神符师，但按道理来说，他没有逾过五境，无论如何，也不可能写出这道符来。\n　　但现在桑桑在他的身体里，她哪怕虚弱的马上就要死去，一滴神力，对",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "船浆，沉默地划船，直到划到河面三分之一处才停下。\n　　佛祖的棋盘世界，充满了佛光，也充满了恶意，只有来到这条清澈大河的中间，他才觉得有了些安全感，才敢把桑桑从背上解下。\n　　他把桑桑的身体抱在怀里，伸手到她鼻端，发现已经没有呼吸，但他知道她没有死，这具身躯本来就可以很长时间不用呼吸。\n　　他怀里的身",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "用绳子仔细绑好，然后用微颤的手抽出铁刀，对准河面。\n　　先前在岸边，他完成造船后，收刀时手也有些微微颤抖，这时候拔刀也在颤抖，因为他很累，从桑桑开始做恶梦后，他就没有睡过觉。\n　　忽然间，木船缓缓下降，向河水里沉去。\n　　宁缺看着船内，没有看到漏水，那么敌人必然在河水里。\n　　河水本来十分清澈，在岸",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "做这些事情，我就杀了你。”\n　　宁缺吓了一跳，看着怀里她的脸，有些不安地问道：“你醒了？”\n　　桑桑说道：“我本来就没有睡着……你是不是很希望我永远醒不过来？这样你就可以随便羞辱我的身体，而且还把她娶回家。”\n　　躺在宁缺怀里的桑桑，闭着眼睛，双唇不动，仿佛沉睡的神明，但她却在说话，这让他感觉有些奇",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "书圣没有写出来过，往前追溯无数万年，也没有出现过。\n　　宁缺现在是知命境巅峰，是很强大的神符师，但按道理来说，他没有逾过五境，无论如何，也不可能写出这道符来。\n　　但现在桑桑在他的身体里，她哪怕虚弱的马上就要死去，一滴神力，对人间来说，便是一片沧海，因为她是天。\n　　宁缺用的便是那片沧海，他用天空来",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "觉得浑体通泰，很是安心，所以快活，正准备与她再斗斗嘴，忽然想到这事，埋怨说道：“你既然能够离开神躯，为什么不早这么做？何至于被那些佛光伤的这么重。”\n　　桑桑与他互为本命，才能合为一体。\n　　但她毕竟是昊天，当初在桃山光明祭时，宁缺夺了掌教的天启，她只是给了他一道神力，他便被撑的到处流血，如果全盛时",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "有一个更重要的原因。\n　　她进入他的身体，便是真正的身心合一，她与他之间的牵绊，将会强大的难以形容，将来她要离开，便会变得无比困难。\n　　她的沉默，让宁缺觉得有些不解，又有些隐隐不安，他想了想，想不明白，笑着伸手在她的脸上轻轻拍了拍，然后拾起双桨继续划船。\n　　木船向着河对岸缓缓而行，就在船首刚刚划",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "两刀。\n　　数百里。\n　　三千佛。\n　　这甚至已经不能称为神符，其威如天，是天符。\n　　人间从来没有出现过如此强大的符，颜瑟大师没有写出来过，王书圣没有写出来过，往前追溯无数万年，也没有出现过。\n　　宁缺现在是知命境巅峰，是很强大的神符师，但按道理来说，他没有逾过五境，无论如何，也不可能写出这道符来",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "奇怪的状态中，像是沉睡，不知道什么时候能够醒来。\n　　昊天的神奇手段，是他所不能了解的事情的，他有些担心，却不是太过担心，所以才有心情，用手去捏她的鼻子。\n　　这个动作很亲昵，是小夫妻间常见的动作，只不过他和桑桑这对夫妻有些与众不同，平时桑桑醒着的时候，他哪里敢做这些。\n　　他早就想做这些事情了，他",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "。\n　　两刀。\n　　数百里。\n　　三千佛。\n　　这甚至已经不能称为神符，其威如天，是天符。\n　　人间从来没有出现过如此强大的符，颜瑟大师没有写出来过，王书圣没有写出来过，往前追溯无数万年，也没有出现过。\n　　宁缺现在是知命境巅峰，是很强大的神符师，但按道理来说，他没有逾过五境，无论如何，也不可能写出",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "隐不安，他想了想，想不明白，笑着伸手在她的脸上轻轻拍了拍，然后拾起双桨继续划船。\n　　木船向着河对岸缓缓而行，就在船首刚刚划过河面正中间那条无形的线时，对岸东方的原野上，忽然飘来了一大片黑云。\n　　那片黑云飘到大河上方，便不再继续飘行，云里蕴藏着的湿意，变作雨水哗哗落下，一时间电闪雷鸣，风雨大作。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

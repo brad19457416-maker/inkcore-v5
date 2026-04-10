@@ -1,0 +1,232 @@
+{
+  "novel": "将夜",
+  "chapter_number": 715,
+  "chapter_title": "第九十六章 崤山夜雨，清河水红",
+  "filename": "ch_0715_第九十六章 崤山夜雨，清河水红.txt",
+  "char_count": 4669,
+  "timestamp": "2026-04-10T12:11:27.014076",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "恼火，自已反而开心地笑了起来，安慰说道：“不用担心，我堂堂镇国大将军，走在大唐国境里，难道还能有什么危险？”\n　　便在这个时候，帐外传来了紧急军情。\n　　……\n　　……\n　　金帐王庭大军南下！\n　　西陵神殿诰令天下伐唐！\n　　军帐里一片死寂，王景略脸色很难看，许世的脸上也早已没有了笑容，回复到大唐军",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "夜色中的山林，缓缓眯起了眼睛。\n　　营帐里的近卫们，听到了盔甲与剑鞘撞击的微声，极为警惕地走出帐来，来到大将军的身边，低声询问发生了什么事情。\n　　许世没有回答，只是静静看着夜山。\n　　他很想像先前支走王景略一样，支走这些近卫。\n　　但也正像他先前对王景略说的那样，这些近卫是皇帝陛下赐给他的私军，忠",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "病将死的老家伙深入唐境冒险，许某也不禁生出些飘飘然之感。”\n　　许世的声音就像寒冷的钢铁，一字一字破风而去，落在黑暗的山林里，在巨辇之前炸响：“但我还是想知道，今夜究竟谁能活着。”\n　　说完这句话，他忽然咳了两声。\n　　……\n　　……\n　　王景略正在夜林里疾行。\n　　忽然他停下了脚步，抬头向上空望去",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "着强大的凝聚力，而清河郡更是被他们经营的像是一块铁板，无论长安城怎样试图分化剥离，都只能触及最外层的存在，而无法深入到清河郡的核心地带。\n　　如今的清河郡及阳关城，从城守到州军将领，再到逾千名中低阶官员，或者便是诸阀子弟，或者便是与诸阀有切身利害关系的人。\n　　就连朝廷严厉看管的大唐水师，也被清河群",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "许世的声音就像寒冷的钢铁，一字一字破风而去，落在黑暗的山林里，在巨辇之前炸响：“但我还是想知道，今夜究竟谁能活着。”\n　　说完这句话，他忽然咳了两声。\n　　……\n　　……\n　　王景略正在夜林里疾行。\n　　忽然他停下了脚步，抬头向上空望去。\n　　今夜有云，无夜，天穹一片漆黑。\n　　此时忽然落起雨来，雨",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "：“而且你要弄清楚，我虽然已经老了，但不是那么好杀的，世上有资格来杀我的人，没有几个。”\n　　王景略心想确实是这个道理，扳着指头数来数去，还真找不出来谁，能真正威胁到老人家，老人家虽然很老了，但还是很强的老人家。\n　　……\n　　……\n　　军情要紧，王景略要带回许世大将军的最新军令，还要协同镇南军将领",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "坚毅，转身向北方狂奔而去。\n　　他不回镇南军。\n　　他要用最快的速度回长安城。\n　　他要告诉长安城的人们。\n　　许世大将军死了。\n　　那个杀死大将军的可怕强者，正在向长安城而去。\n　　而清河郡……叛了。\n　　……\n　　……\n　　清河郡的风景明秀雅致，民宅白墙黑檐，高低互现，清溪石桥，与大唐别处的壮阔",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "严厉的父亲，便出现在他们的面前，把他们拖回族祠，令他们跪在祖宗牌位面前，开始讲述很多年前清河郡亡国的悲痛历史，声泪俱下的怀念着旧日的荣光。\n　　年轻的清河郡人，对那段历史没有忘记，但他们更爱大唐，他们更爱做一个骄傲的唐人，所以父辈们的话，对他们并没有什么力量。\n　　然而……难道他们能举起手中的刀剑，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "情，无法相信眼前看到的画面。\n　　然而就在他们准备发出自已声音的时候，他们苍老的祖父、严厉的父亲，便出现在他们的面前，把他们拖回族祠，令他们跪在祖宗牌位面前，开始讲述很多年前清河郡亡国的悲痛历史，声泪俱下的怀念着旧日的荣光。\n　　年轻的清河郡人，对那段历史没有忘记，但他们更爱大唐，他们更爱做一个骄傲",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "片死寂，王景略脸色很难看，许世的脸上也早已没有了笑容，回复到大唐军方首领应有的威严与沉稳。\n　　“你马上回镇南军。”\n　　许世看了一眼帐外黑沉的崤山，说道：“如果新帝和殿下没有犯糊涂，这时候让镇南军北上的军令，便应该已经到了。”\n　　王景略微微一怔，说道：“那您呢？”\n　　许世说道：“既然举世伐唐，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "崤山下。\n　　就在他离开崤山后不久，许世穿好军靴，认真地穿好盔甲，然后走出了军帐，看着夜色中的山林，缓缓眯起了眼睛。\n　　营帐里的近卫们，听到了盔甲与剑鞘撞击的微声，极为警惕地走出帐来，来到大将军的身边，低声询问发生了什么事情。\n　　许世没有回答，只是静静看着夜山。\n　　他很想像先前支走王景略一样，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "钟大俊挥了挥手。\n　　城守府里响起暴怒的斥问声，和痛苦地受伤声。\n　　鲜血染红了青石板。\n　　几乎同时。\n　　清河郡诸姓，邀请大唐水师诸将，前往富春江畔某处，商议战事。\n　　鲜血染红了富春江。\n　　……\n　　……\n　　清河郡诸阀再如何势大，也不可能把忠于朝廷的官员和将领校尉一网打尽，所以在那个阳光",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "王景略有些恼火地说道。\n　　许世现在确实像孩子，见他恼火，自已反而开心地笑了起来，安慰说道：“不用担心，我堂堂镇国大将军，走在大唐国境里，难道还能有什么危险？”\n　　便在这个时候，帐外传来了紧急军情。\n　　……\n　　……\n　　金帐王庭大军南下！\n　　西陵神殿诰令天下伐唐！\n　　军帐里一片死寂，王景",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "违反了，谁敢治我的罪！”\n　　“得得，您就当我没说，怎么现在脾气越来越大了。”\n　　王景略有些恼火地说道。\n　　许世现在确实像孩子，见他恼火，自已反而开心地笑了起来，安慰说道：“不用担心，我堂堂镇国大将军，走在大唐国境里，难道还能有什么危险？”\n　　便在这个时候，帐外传来了紧急军情。\n　　……",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "黯淡。\n　　他跪倒在雨水里，撕心裂肺地喊道：“不！”\n　　直到此时，他才知道，将军先前已经隐约看到了命运的走向，所以才会让自己回镇南军，实际上是让自己避开这场惊天之战。\n　　春风亭雨夜后，王景略从军，便一直在许世将军麾下。这些年来，他像子侄般服侍着将军，自幼便习惯了孤单的他，开始喜欢上军营的嘈乱，他",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "皓首老人复杂的神情，崔老太爷微微一笑，说道：“你们也不用提前便开始伤感，只要战事进行的顺利，李家为了日后的打算，说不定非但不敢对我们族中子弟痛下杀手，甚至还要好好供养着。”\n　　“只是战事真的能够顺利进行吗？”\n　　“道门筹谋多年，唐人骄横奢浮，如今东北边军覆灭，金帐王庭南下，掌教大人亲自出手，许世",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "因病来山中休养，哪里违反了唐律军纪？就算违反了，谁敢治我的罪！”\n　　“得得，您就当我没说，怎么现在脾气越来越大了。”\n　　王景略有些恼火地说道。\n　　许世现在确实像孩子，见他恼火，自已反而开心地笑了起来，安慰说道：“不用担心，我堂堂镇国大将军，走在大唐国境里，难道还能有什么危险？”\n　　便在这个时",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

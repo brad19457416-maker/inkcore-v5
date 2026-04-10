@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 744,
+  "chapter_title": "第一百二十五章 筑篱打铁",
+  "filename": "ch_0744_第一百二十五章 筑篱打铁.txt",
+  "char_count": 3442,
+  "timestamp": "2026-04-10T12:11:27.050626",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "后飞向二师兄的身体。\n　　剑速虽快，剑锋虽厉，却全无杀意。\n　　一道飞剑飞至二师兄身前时，忽然减速，最终悬停在他的身前，剑身微微颤抖，就像是很听话的乖孩子，做错事后等着被惩罚的模样。\n　　二师兄伸手握住剑柄，把这道飞剑摘了下来，把它插进身前的土地。\n　　摘这个字非常准确，因为他不是在夺，也不是在抢，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "柳亦青脸色苍白，胸襟前全部是吐出的血水。\n　　他的身体摇摇欲晃，险些摔倒。\n　　这时候他才明白，为什么自已的诡剑，能够瞒过二师兄的眼睛。\n　　那是因为这些书院弟子，根本不在乎自已的诡剑。\n　　……\n　　……\n　　“你这道诡剑不错。能在这么短的时间内，晋入知命境，你也很不错，但真正不错的，还是先前",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "二师兄没有选择出剑。\n　　他选择出手。\n　　他出了一只手。\n　　一只手就足够了。\n　　然而，青峡处的战斗，并没有就此结束。\n　　南晋剑阁那柄大剑是六剑合一。\n　　此时有五柄剑插在二师兄身前的土地里，还有一柄剑不见踪影。\n　　柳亦青盘膝坐在原野间，一声清啸。\n　　血水渗出蒙着他眼睛的白布，念力疾出。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "兄沉默看着那柄大剑，脸上没有任何多余的情绪，只是平静。\n　　那柄大剑则变得越来越不平静，原野间观战的人们，甚至隐隐从那把剑剑身的摆荡挣扎里，感受到了恐惧的情绪。\n　　大剑颤抖的越来越厉害，剑体渐渐出现裂痕，然后重新裂开！\n　　只听得嗤嗤数声，数道剑影在数十丈高的空中显露出身影，然后化作数道剑虹，依循",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "看着就像是剑做成的篱笆。\n　　那五把剑曾经是一柄大剑，来自南晋剑阁，由剑圣柳白打造而成，学的是夫子的风采，效的是前贤气度，威力自然不凡。\n　　但遇到二师兄后，这柄大剑只能重新裂开，然后乖巧老实地被摘下。\n　　然后做成了一堵篱笆。\n　　……\n　　……\n　　那几名剑阁弟子，看着远处青峡处的画面，极度震惊",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "遥遥指向破空而至的那柄大剑。\n　　数缕极淡的气息，从指间释出。\n　　那柄大剑似乎感觉到了些什么，开始颤抖起来，然后上下左右不停地摆荡，幅度越来越大，如同被绳索缚住的人，在不停地挣扎。\n　　二师兄沉默看着那柄大剑，脸上没有任何多余的情绪，只是平静。\n　　那柄大剑则变得越来越不平静，原野间观战的人们，甚",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "战的人们，甚至隐隐从那把剑剑身的摆荡挣扎里，感受到了恐惧的情绪。\n　　大剑颤抖的越来越厉害，剑体渐渐出现裂痕，然后重新裂开！\n　　只听得嗤嗤数声，数道剑影在数十丈高的空中显露出身影，然后化作数道剑虹，依循着极圆融的轨迹，先后飞向二师兄的身体。\n　　剑速虽快，剑锋虽厉，却全无杀意。\n　　一道飞剑飞至二",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "出。\n　　一道极缥渺的剑影，出现在青天之上，然后瞬间消失无踪，下一刻出现时，已经穿过了二师兄的位置，来到了青峡前的金属篷前！\n　　剑阁方面，根本没有奢望，靠这一柄大剑，便能击败二师兄。\n　　从一开始，他们的目的，便是要用这柄剑隐藏最后的那道剑影。\n　　柳亦青双眼被宁缺砍瞎之后，剑心反而变得极为纯凝沉",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "开合，夹住那道飞剑，搁到熊熊燃烧的火炉上。\n　　幽蓝的高温火焰瞬间把剑身上裹着的符纸烧化。\n　　一把沉重的铁锤高高抡起，然后重重砸下。\n　　砰的一声脆响。\n　　那道黯淡细秀却坚韧无比的诡剑，被砸的跳了起来，就像是吃痛不住一般。\n　　这是六师兄在打铁。\n　　这是六师兄在炼剑。\n　　这是他重复了一辈子的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "间，一声清啸。\n　　血水渗出蒙着他眼睛的白布，念力疾出。\n　　一道极缥渺的剑影，出现在青天之上，然后瞬间消失无踪，下一刻出现时，已经穿过了二师兄的位置，来到了青峡前的金属篷前！\n　　剑阁方面，根本没有奢望，靠这一柄大剑，便能击败二师兄。\n　　从一开始，他们的目的，便是要用这柄剑隐藏最后的那道剑影。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "”\n　　二师兄望着南方某处，面无表情说道。\n　　……\n　　……\n　　南方西陵神殿联军营中。\n　　那辆安静的马车还是很安静。\n　　半晌后，车厢里传来一道有些寂寥的声音。\n　　“愈战愈强，这才是君陌，既然要战个痛快，自然要先等你战出兴致，不然岂不是辜负了你我之间这一战？”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "诡剑不错。能在这么短的时间内，晋入知命境，你也很不错，但真正不错的，还是先前那柄大剑。”\n　　二师兄说道：“柳白的想法很好，老师的人间之剑，只需要撷其剑意一缕，便能横扫人间，遗憾的是，你们这些人的修为境界稍弱了些，如果是六个知命境的剑师，我要应付起来会困难很多。”\n　　柳亦青在同门的搀扶下，艰难地站",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

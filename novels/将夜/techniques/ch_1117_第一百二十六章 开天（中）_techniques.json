@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1117,
+  "chapter_title": "第一百二十六章 开天（中）",
+  "filename": "ch_1117_第一百二十六章 开天（中）.txt",
+  "char_count": 2418,
+  "timestamp": "2026-04-10T12:11:34.939315",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "有些意思。”\n　　他伸手去接这张纸，动作很缓慢，郑重如山。\n　　真的很缓慢，就像一座山在移动，又像是天空在云的上方转过，不知道过了多久，指尖才与微糙的芽纸边缘接触。\n　　轰的一声轻响，微黄的纸张燃烧起来。\n　　纸张慢慢燃烧，火苗向着两面蔓延，边缘尽成灰烬，直至将要烧到他们的手指，观主没有放手，读书人",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "真的是很重要的一个东西，无论是读书，还是修行。\n　　读书人没有说话，看着手上那张燃烧的字纸。\n　　“为什么这卷书不在长安城里呢？嗯，那时候还无法确定宁缺能不能回到长安城，他不在的长安城，确实不如书院安全。”\n　　观主看着读书人平静说道：“李慢慢把那卷天书交给你保管，很正确，可惜没有意义，因为……书生",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "城，确实不如书院安全。”\n　　观主看着读书人平静说道：“李慢慢把那卷天书交给你保管，很正确，可惜没有意义，因为……书生最终百无一用。”\n　　话音落下，纸张燃烧完毕，读书人的手指里什么都没有剩下，灰烬缓缓落下，落在他的鞋上，观主的手指里，却还有一角黄纸残片。\n　　胜负已分，读书人看着桌上如山般的书籍，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，却还有一角黄纸残片。\n　　胜负已分，读书人看着桌上如山般的书籍，如海般的砚池，沉默了很长时间，人生第一次对读书这种事情产生了怀疑。\n　　观主负手走进崖洞，看着崖洞两侧高约十余丈的书架，看着上面密密麻麻，浩瀚难阅的千万册书籍，轻轻挥动衣袖。\n　　一阵清风自青衣袖间出，在崖洞里并不缓慢却轻柔的吹拂，那",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "全。”\n　　观主看着读书人平静说道：“李慢慢把那卷天书交给你保管，很正确，可惜没有意义，因为……书生最终百无一用。”\n　　话音落下，纸张燃烧完毕，读书人的手指里什么都没有剩下，灰烬缓缓落下，落在他的鞋上，观主的手指里，却还有一角黄纸残片。\n　　胜负已分，读书人看着桌上如山般的书籍，如海般的砚池，沉默",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "道这名老书生在书院后山呆了多少年，没有人知道他姓甚名谁，今年究竟有多大，从轲浩然开始直到宁缺，后山的人们只知道老书生一直在这里看书抄书读书背书，风雨不辍，万事难扰。\n　　书院称他为读书人，他是书院的读书人。\n　　观主站在书桌前，看着那名老书生，闻着刺鼻的墨味与黄州芽纸的味道，沉默了很长时间，忽然笑了",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "读书人醒过来，抬头望向他，神情有些惘然，不知道他在说什么，然后更清醒了些，因为被打扰读书而莫名愤怒，眉毛乱动。\n　　观主没生气，比划说道：“一卷很旧的书。”\n　　读书人想了想，提起手里半秃的毛笔在砚里蘸饱了墨汁，然后在黄州芽纸上认真地写了一个字，落笔郑重如山。\n　　那个字墨迹淋漓，意满神足。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "州芽纸的味道，沉默了很长时间，忽然笑了起来，有些感慨。\n　　这才是书院。\n　　“你好。”观主对读书人说道。\n　　读书人像是没有听到，左手拿着卷旧书，右手提着根半秃的毛笔，嘴里喃喃念着什么，偶尔落笔在纸上写几个字，似是在做批注。\n　　观主加大声音问道：“老先生，您有没有看见一卷旧书？”\n　　读书人醒过",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "观主站在书桌前，看着那名老书生，闻着刺鼻的墨味与黄州芽纸的味道，沉默了很长时间，忽然笑了起来，有些感慨。\n　　这才是书院。\n　　“你好。”观主对读书人说道。\n　　读书人像是没有听到，左手拿着卷旧书，右手提着根半秃的毛笔，嘴里喃喃念着什么，偶尔落笔在纸上写几个字，似是在做批注。\n　　观主加大声音问道",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "“我是怎么产生的？”\n　　“你？你是你妈生的。”\n　　“现在不是说笑话的时候。”\n　　“我现在有些紧张。”\n　　宁缺沉默片刻后说道：“你得允许我说些笑话。”\n　　桑桑面无表情说道：“我不允许。”\n　　“好吧……如果你是说昊天，它是规则的集合体，产生于混沌之间。”\n　　“不对，我是客观规则与人类主观",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "有意义，因为……书生最终百无一用。”\n　　话音落下，纸张燃烧完毕，读书人的手指里什么都没有剩下，灰烬缓缓落下，落在他的鞋上，观主的手指里，却还有一角黄纸残片。\n　　胜负已分，读书人看着桌上如山般的书籍，如海般的砚池，沉默了很长时间，人生第一次对读书这种事情产生了怀疑。\n　　观主负手走进崖洞，看着崖洞",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "道：“轲浩然说我们是狗，莲生说我们是狗，书院里的人，还有很多人，都说我们道门是狗，是昊天的一条狗，但从来没有人想过，这条铁链事实上拴在彼此的颈上，人类是昊天的狗，昊天何尝不是人类的一条狗。”\n　　他望向宁缺身旁的桑桑，说道：“我们供奉你，让你拥有无尽的岁月以至永恒，那么你就应该甘于永恒的寂寞，在神国",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "不缓慢却轻柔的吹拂，那些书籍上积着的灰被尽数拂落，然后送至角落里，剩下一片干净。\n　　观主踏阶而上，来到第四层的一排书架前，从里面抽出一本书，就像是一个想看书的人随意抽出一本书来看，没有做任何挑选。\n　　那本书就是天书明字卷。\n　　……\n　　……\n　　长安城的雪停了，风也静，云层尽散，红日照耀人间。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

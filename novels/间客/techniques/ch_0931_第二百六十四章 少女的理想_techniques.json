@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 931,
+  "chapter_title": "第二百六十四章 少女的理想",
+  "filename": "ch_0931_第二百六十四章 少女的理想.txt",
+  "char_count": 2366,
+  "timestamp": "2026-04-10T12:05:26.929338",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "时间的沉默后，怀年诗轻轻擦拭唇角，望着许乐似笑非笑说道：“这就是你的教育成果。”\n\n    这是许乐第一次听到小西瓜的心声，大概明白这是她在见到怀草诗这个宇宙最强大的女人后，所激发的真实意愿，一时间有些无言以对。\n\n    “不过我很欢迎。”\n\n    怀草诗看着少女，平静说道：“我谨代表帝国，欢迎",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "一潭臭不可闻的污泥塘里，或许会长出洁白的莲花，但更多的还是培养出蛆虫和腐烂的生物。”\n\n    许乐心想这真是一个很好的比喻，他不知道该如何反驳，所以笑了笑，把杯子里的冷茶喝掉，心情依旧平静，那个小女孩儿是他的孩子，只有他能确定该如何陪着姑娘长大成人。\n\n    简陋图书馆旁边是简陋的教室，室内的椅",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "以当她在这场谈话后半段忽然抛出这个问题时，许乐愣了很长时间才反应过来，挠着愁苦的头发，回答道：“丫头将来是要领导西林的人，至少在精神层面，所以她必须学会坚强，这是我所认为正确的教育方式，关于那些问题，我并不担心……很少人知道，我-十二岁的时候就开始杀人，我自幼生长在联邦最残酷的环境之中，看多了肮脏黑",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "通的女人，这个穿着帝**装看上去完全不像女人的女人，在这个宇宙里拥有怎样的力量。\n\n    “做一个最强的女人，感觉怎么样？”\n\n    她放下手中的刀叉，望着怀草诗极为认真问道：“再强的女人，将来总是要嫁人的，那样我们该怎么办？\n\n    这是很突兀甚至显得有些没礼貌的问话，但怀草诗却没有什么不悦",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "反应，她轻轻搁下手中锋利的剪刀，平静看着这位帝国皇宫的总管大人，说道：我从生下来的那天开始，就一直被人们叫小公主，你觉得我会在乎郡主这个称呼？”\n\n    副总管有些尴尬地笑了笑，说道：“西林一隅，如何能够和疆土广阔的帝国相提并论？”\n\n    钟烟花眼睛缏眯，笑的无辜的像双月上的小白兔，耸耸肩后忽",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "面前他面庞上的滥暖阳光，不知道是在疼惜幼弟当年在东林的悲苦童年，还是想到了别的什么，略一停顿后「摇头说道：“像你这样的人，本就不多见，看多了黑暗的画面，并不见得会让人一定向往阳光，如同一潭臭不可闻的污泥塘里，或许会长出洁白的莲花，但更多的还是培养出蛆虫和腐烂的生物。”\n\n    许乐心想这真是一个很",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "“小郡主，您应该劝太子殿下回宫，只有这样，您可以不用像现在这样四处奔波，可以享有刚才所说的全部美丽的人生。”\n\n    听到这句话，钟烟花终于有了反应，她轻轻搁下手中锋利的剪刀，平静看着这位帝国皇宫的总管大人，说道：我从生下来的那天开始，就一直被人们叫小公主，你觉得我会在乎郡主这个称呼？”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "音如何臬软，钟烟花始终没有任何反应，只是淡淡然地修理着整齐的发梢，看都没有看他一眼。\n\n    “您难道会不喜欢小郡主这个身份吗？无论出现在哪里，您都将拥有整个帝国三人之一的无上荣光，没有人敢反对您，没有人敢违逆您的意旨。”\n\n    在苍老副总管的眼中，钟烟花始终只是一个懵懂的少女，强自压抑住心中",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "敢反对您，没有人敢违逆您的意旨。”\n\n    在苍老副总管的眼中，钟烟花始终只是一个懵懂的少女，强自压抑住心中的不快，微笑劝诱道：“小郡主，您应该劝太子殿下回宫，只有这样，您可以不用像现在这样四处奔波，可以享有刚才所说的全部美丽的人生。”\n\n    听到这句话，钟烟花终于有了反应，她轻轻搁下手中锋利",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "要领导西林的人，至少在精神层面，所以她必须学会坚强，这是我所认为正确的教育方式，关于那些问题，我并不担心……很少人知道，我-十二岁的时候就开始杀人，我自幼生长在联邦最残酷的环境之中，看多了肮脏黑暗的杀戮，我以为，只有看多了这些，才能知道某些东西的可贵。”\n\n    怀草诗微微蹙眉，看着面前他面庞上的",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "头发，在锐利的刀锋之下嗤嗤而断，盯着锋利的剪刀尖，少女的眼睛眨都没有眨一下，异常平静，伫由细碎的发丝缓缓落下。\n\n    在她的身前，一位脸上涂着白粉，看上去慈眉善目的老人家，正在低声说着什么，慈祥的味道在此人细腻的眉眼上连着份古怪，他的态度很谦卑，但偶尔间眼眸里会飘过几丝真正大人物才能拥有的傲意。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

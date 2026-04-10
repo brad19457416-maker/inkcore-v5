@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 650,
+  "chapter_title": "第十三章 错抽丝",
+  "filename": "ch_0650_第十三章 错抽丝.txt",
+  "char_count": 3455,
+  "timestamp": "2026-04-10T12:05:08.621696",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "攻之前，秒杀此人，或者擒住对方做人质。\n\n    然而这没有任何意义，这些叛军机甲敢于冒着满门抄斩的危险，加入此次刺杀行动，自然早就已经将生与死放在了考虑范围之外。\n\n    平静的对话，保持一位殿下的风度，反而能够让紧张的局面暂时得到一些缓解。但她清楚，正如面前这名贵族军官所言，如果她不投降，磨房",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "一个穿着黑色丝质外衣的年轻贵族，轻轻抚摩着玉蚕的身体，略显阴沉的脸颊忽然抽*动了一下，冷声说道：“陛下已经老了，已经糊涂了，但帝国与皇族，没有道理为他的老且糊涂付出代价。”\n\n    数十年来，在左天星域中，没有任何人敢这样评价高高在上的皇帝陛下，那些偏远星球上的贫民起义者，或许曾经在烈火",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "显得玉蚕身躯浑圆憨喜，全然没有一般虫类带给人们的恶心感。\n\n    桑树和蚕对这颗星球有着重要的象征意义，所以当这处庄园重新裴修时，帝国最著名的雕刻大师选择它为雕刻对象，得到了庄园主人及所有贵族们的赞赏。\n\n    一个穿着黑色丝质外衣的年轻贵族，轻轻抚摩着玉蚕的身体，略显阴沉的脸颊忽然抽*动了一下",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "望着庄园外的夜空，抬臀冷笑说道：“看看这颗星球吧，皇帝居然让那些贱民和我们在同样的校园里同食同学，他究竟想做什么？难道他忘了皇族高贵的血统，忘了贵族盟誓？”\n\n    “还有这次的猎杀计划。”他的脸上泛起一丝冷笑“帝国最有可能改变宇宙局势的三项技术突破，居然被他用在杀死一名联邦司令上，再想想前年西林",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "行动，自然早就已经将生与死放在了考虑范围之外。\n\n    平静的对话，保持一位殿下的风度，反而能够让紧张的局面暂时得到一些缓解。但她清楚，正如面前这名贵族军官所言，如果她不投降，磨房前这些军用机甲总是会动的。\n\n    怀草诗耳廓微颤，听着身后被流水声覆盖住的那些细微杂声，默默计算着时间，不知道能不",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "雕的是春蚕，白色的弯曲下方是一片薄翠玉拟成的桑叶，相衬之下显得玉蚕身躯浑圆憨喜，全然没有一般虫类带给人们的恶心感。\n\n    桑树和蚕对这颗星球有着重要的象征意义，所以当这处庄园重新裴修时，帝国最著名的雕刻大师选择它为雕刻对象，得到了庄园主人及所有贵族们的赞赏。\n\n    一个穿着黑色丝质外衣的年轻",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，在左天星域中，没有任何人敢这样评价高高在上的皇帝陛下，那些偏远星球上的贫民起义者，或许曾经在烈火并愤怒地宣讲过类似的话语，不过他们腥臭的头颅已经堆在了古老的城墙，他们的尸体被烧成飞灰，扔进了臭水坑。\n\n    年轻贵族说了这样一句话后，却依然显得十分平静，望着庄园外的夜空，抬臀冷笑说道：“看看这颗",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "宇间露出一丝惨淡的阴影，旋即骄傲仰头，在心中自言自语道：即便不能如何，但只要杀死他指定的继承人，相信将来的帝国或许还能走回正确的老路上。\n\n    就在这个时候，他手腕上的腕表微艇震动了一丝，他低头一看，唇角泛起一丝怪异的笑意，淡然说道：“总督大人，通知你一个好消息，你可以不用担心我对你动刑逼问卫星",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "上搞跨种族教育，搞阶层大和睦运动，想要在亿万贱民面前扮演仁爱与公平的君王形象，又怎么会容忍这把刀继续出现在人们的面前，提醒那些贱民，皇族曾经杀过他们多少亲人？”\n\n    “你在胡说什么？”柯保宁总督盯着年轻贵族，大声说道：“卡顿郡王为帝国牺牲于战场之上，这和陛下又有什么关系？”\n\n    “死于战",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "白你的意思。”柯保宁总督沉声说道。\n\n    “卡顿叔叔为帝国，为陛下做了多少事？”年轻贵族带着一丝感慨说道：“当年整个帝国的西星线，全部被他的部队染红，为了帝国的稳定，他杀了无数的贱民，却只得到了一个屠夫的绰号，那些恨他入骨的人，谁能想清楚，他其实只是一把刀，刀……却一直握在陛下的手中。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "中年人是柯保宁，帝国著名的开明派贵族重臣，权势极盛的离阪星总督，因为长袖善舞的能力与迷人的风度，此人在贵族圈中风评极佳，而且在离阪星的平民阶层中，也拥有很强的号召力。\n\n    然而这十几个昼夜中，柯保宁总督已经很难保持自己的风度，他沉着脸，盯着面前这名年轻贵族，说道：“说到疯狂，陛下不顾",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "艇震动了一丝，他低头一看，唇角泛起一丝怪异的笑意，淡然说道：“总督大人，通知你一个好消息，你可以不用担心我对你动刑逼问卫星权限了，因为……我们的殿下已经被包围。”\n\n    黑夜中的红色磨房并不黯淡，反而显得有些醒目，当怀草诗那张没有任何表情的寻常容颜出现在红磨房窗口处时，更加醒目，引来四周包围机甲",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "推测毫无根据。”柯保宁总督厉声说道：“我不允许你如此抵毁殿下的人品！”\n\n    “像太阳一样燃烧，温暖整个帝国，是当年少女时期的殿下。这些年她很少出现在人们的面前，谁知道她变成什么样了？对于一位未来的女皇陛下而言，什么样的残忍与狠辣是她做不出来的？”年轻贵族冷漠说道。\n\n    柯保宁连续深呼吸才",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

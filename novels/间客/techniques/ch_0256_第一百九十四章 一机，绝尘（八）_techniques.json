@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 256,
+  "chapter_title": "第一百九十四章 一机，绝尘（八）",
+  "filename": "ch_0256_第一百九十四章 一机，绝尘（八）.txt",
+  "char_count": 4464,
+  "timestamp": "2026-04-10T12:04:51.100565",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "紫海机甲最后连续遭到重创，引擎爆机，已经成了一堆废物，最后一道维生系统也开始渐渐失去作用，危险正在逼近，李疯子却似乎根本不在乎这些。\n\n    先前的战斗中，紫海一直占优攻击，他的身体没有受什么伤，那张清嫩的面容上，闪过一丝怪异的神情，薄唇微启，喃喃自语说道：“**。”\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "没能直接参与到最高层的谈话之中。此时的小会议室内，参谋长联席会议主席兼第一军区司令员迈尔斯上将，毫无疑问是军方的绝对代表人物。\n\n    他说的话，便代表了军方的态度。\n\n    迈尔斯上将神情复杂地看了一眼林远湖，说道：“实际上，军方对此次新式机甲测试，最看重的便是超频状态下的性能指标。”(未完待",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "一阵脚步声。联邦总统席格先生，终于结束了一场重要的会议，赶到了此地。\n\n    然而战斗已经结束了，众人纷纷站立向总统阁下行礼。商秋却是注意到跟随总统先生一起走进来的何塞主管，她眯了眯眼睛，总觉得何塞主管的眼光里有些什么潜在的意味。\n\n    ……\n\n    ……卡琪峰顶的战斗已经结束，联邦近太空舰",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "高速的紫海攻势，成功地重创对方。\n\n    这是封余教给许乐十个姿式里三个姿式的合成，被小白花机甲在瞬间内施展了出来。\n\n    机械臂前端高速转动的链齿刀，从紫色的机甲里拔了出来，带起一路火花，画出一道凄惨的伤口，这个动作很快，但看上去却显得格外的缓慢。\n\n    丧失了动力的紫海机甲似乎已经没有",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "“**！”果壳工程部的技术人员们虽然想不清楚，但眼看着自己公司的小白花获得了最后的胜利，他们早已经激动地跳了起来，互相鼓掌欢呼，用脏话发泄着兴奋与心头的紧张。\n\n    商秋是极少数几个能够预见今日情景的人之一，在先前紫海功率红柱猛然下\n\n    候，她已经情不自禁地说过一句**，此时却能稳定t|",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "“强辞夺理！”科学顾问根本懒得与此人争辩什么稳定性方面的问题，直接说道：“那今天安排这次对战有什么意义？”\n\n    席格总统忽然抬起头来，看了林远湖一眼，淡淡说道：“院长，你有什么意见？”\n\n    林远湖布满老人斑的双手平静地放在桌子上，沉默片刻后说道：“常态作战下，紫海占据绝对优势。超频状态",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "着自己公司的小白花获得了最后的胜利，他们早已经激动地跳了起来，互相鼓掌欢呼，用脏话发泄着兴奋与心头的紧张。\n\n    商秋是极少数几个能够预见今日情景的人之一，在先前紫海功率红柱猛然下\n\n    候，她已经情不自禁地说过一句**，此时却能稳定t|心的笑容涌上她素净的面庞，虽然从最开始的时候，就知道紫",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "国家安全顾问皱了皱眉头，他知道自己率先发言并不是一个好的选择，然而事情的发展完全出乎他的意料，为了将来的政治前途，他只有违背总统阁下的暗示，继续站在科学院这一边。\n\n    总统科学顾问有些不可思议地看了他一眼，不明白事实就摆在眼前，紫海机甲进入超频状态才两分多钟便爆机了，联邦怎么可能采用这种标准",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "撑。\n\n    面前两米处地紫海机甲忽然间颤了颤。然后就像断了线地傀儡般向着地面倒下。在最后一刻。强大地李封中校依然卸掉了小白花一条左机械腿。小白花却是伤害到了紫海地总成系统。此时地紫海双核心引擎已爆。关节微引擎动力散灭。已成死物。\n\n    眼看他人造了台若高楼般地机甲。眼看这机甲垮了。就在卡琪峰",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，喃喃自语说道：“**。”\n\n    ……\n\n    ……\n\n    旧月基地里的数数声，在紫海机甲出现问题的那一瞬间便戛然而止了，现实发生的画面，让那些以费城军神为荣的联邦军人们感到了不可思议。大厅内的人们盯着光屏，看着小白花机甲最后那连续的狠辣攻击，脸上的表情异常惊愕。\n\n    当最后那台紫色",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "为机师地他。并没有什么成就感可以用来夸耀自己。\n\n    小白花机甲地机载电脑开始报警。总成系统已经进入崩坏边缘。\n\n    ……\n\n    ……\n\n    旧月重力比Ｓ１要小很多，但先前威猛无俦、看上去不可战胜的紫海机甲轰然倒塌在风化岩石之中，震起一地烟尘，却显得格外沉重。所有看到这一幕的人，心中",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "眼看他人造了台若高楼般地机甲。眼看这机甲垮了。就在卡琪峰顶地烟尘下。\n\n    闷热地操控舱内。许乐缓缓地推开头盔。急促而沉重地大口呼吸着。抹去唇边地鲜血。看着不远处如同一堆破铜烂铁般地紫海机甲。知道对方再也没有什么战斗力。这才真正地放下心来。没有继续去追击。\n\n    一抹淡淡地兴奋与惘然涌上心头",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "而小白花机甲依然拖着一条残破的机械腿勉强站着时，旧月基地里的变得更为安静，像死一般的安静。，然后几乎同时爆出一阵惊呼与咒骂。\n\n    “**！”\n\n    楼上房间里的白玉兰，摇了摇头，看了一眼身边表情极为难看的宪章局官员，放在裤兜里的拳头紧紧地握了握，吐了一口闷气。\n\n    ……\n\n    …",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "然从最开始的时候，就知道紫海机甲最大的隐患，但先前李疯子那种压制性的打法，成功地重创了小白花，她一直担心了这么久，终于放下了心来。\n\n    下意识里，商秋回头望去，想看一看科学院的那些教授以及林远湖院长的表情如何。\n\n    ……\n\n    ……\n\n    联邦军方总装基地的机修工程师们，虽然也异",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "潜台词",
+      "category": "dialogue",
+      "example": "率先发言并不是一个好的选择，然而事情的发展完全出乎他的意料，为了将来的政治前途，他只有违背总统阁下的暗示，继续站在科学院这一边。\n\n    总统科学顾问有些不可思议地看了他一眼，不明白事实就摆在眼前，紫海机甲进入超频状态才两分多钟便爆机了，联邦怎么可能采用这种标准，国家安全顾问先生为什么还要如此执着",
+      "analysis": {
+        "definition": "在文本中使用潜台词技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "情绪与未知的惘然混合在一起，令他们的表情无比黯然**。\n\n    商秋看着这些画面，唇角绽放出甜美而满足的笑容，然而紧接着她发现，看台上那位原本愕然的林远湖院长，此时竟又平静地坐了回去，心里不禁咯噔了一声。\n\n    看台上那些联邦政府以及军方的大人物们，都为旧月卡琪峰顶那场突然的大逆转而震惊，他们",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "中，紫海一直占优攻击，他的身体没有受什么伤，那张清嫩的面容上，闪过一丝怪异的神情，薄唇微启，喃喃自语说道：“**。”\n\n    ……\n\n    ……\n\n    旧月基地里的数数声，在紫海机甲出现问题的那一瞬间便戛然而止了，现实发生的画面，让那些以费城军神为荣的联邦军人们感到了不可思议。大厅内的人们盯",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

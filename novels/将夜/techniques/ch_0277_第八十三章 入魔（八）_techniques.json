@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 277,
+  "chapter_title": "第八十三章 入魔（八）",
+  "filename": "ch_0277_第八十三章 入魔（八）.txt",
+  "char_count": 4279,
+  "timestamp": "2026-04-10T12:11:21.727654",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "！”\n　　宁缺沉默片刻后问道：“数十年时光，你是靠什么食物撑下来的？”\n　　老僧身下的骨山有被干燥微风吹干的陈年尸身，有白色的骨骸。\n　　宁缺目光落在上面，忍不住皱起眉头。\n　　莫山山随着他的目光望去，发现骨尸山下有很多骨屑，那些骨屑似是野兽啃食留下的痕迹，忽然间她想明白了一些事情，身体骤然僵硬，脸",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，掌心却依然死死控制着叶红鱼。\n　　……\n　　……\n　　隔绝天地气息的裁决阵，对修行者而言是最恐怖的存在，因为没有天地元气，绝大多数道术都完全无法施展，尤其是莲生大师先前那一眼里蕴着的无上境界，直接创伤修行者的识海，让他们根本无法用意识控制自己的身体，处于这种境况里的修行者，就像是失去了毛笔的书家，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "癫狂笑声渐止，如鬼火般的双眸看着他的脸。\n　　宁缺偏头看石墙，沉默片刻后说道：“大概是小时候遇见太多危险的缘故，我是一个很缺乏安全感的人，有事无事时我总喜欢想如果我出了事怎么办？谁把那桑桑养大？如果桑桑出了事怎么办？我该怎么才能说服自己继续活下去？”\n　　“如果有人像你曾经做过的那样对付桑桑，我会痛",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "太快，莫山山完全没有任何心理准备，此时看着宁缺倒在血泊之中，眼眸里满是担忧神色，却没有办法靠过去看他究竟怎么样了。\n　　宁缺看着她的神情，艰难以手撑地慢慢挪了过去，与她相背而坐，又痛苦地咳了两声，喘息着虚弱说道：“暂时还不会死，但这下真动不了了。”\n　　老僧看着他，越看越是欢喜，惋惜说道：“如此美材",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "试，才能知道人肉不好吃这个道理。\n　　然而老僧听懂了他的话，苍老的面容上浮现出诧异的神色，怨毒的眼神瞬间变回悲悯慈爱，赞叹感慨说道：“书院果然还是书院，佩服。”",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "身体的控制能力居然强到了这等程度？”\n　　老僧略感诧异看着半跪在地面上的宁缺，两道白眉缓缓飘起，低声感慨说道：“荒人虽然体魄强健，但在意识与身体的主辅关联上较诸你竟还有所不如，想不到这一代的书院行走竟是个修魔的上好材料，可惜了，真是太可惜了。”\n　　宁缺受伤严重，再也无法握紧手中的刀柄，身体摇晃两下",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "说什么，先前的那连番质问，已经把他积累数十年的怨恨之意稍微抒解了些，他现在有更重要的事情做。\n　　他缓缓低头，把枯干的双唇温柔移向掌心下的少女。\n　　叶红鱼冷冷看着老僧，赤裸的肌肤上却抑止不住生出些畏惧的小突起，眼睁睁看着自己被撕扯成碎片缓慢吃掉，谁都无法完全驱除心中的恐惧。\n　　幽寂无声的昏暗房间",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "然而问题是你不能吐。”\n　　老僧的眼眸里失去了所有的光泽，像石像般麻木回忆着这数十年残酷的人生，喃喃说道：“再强大的修行者也不能完全不饮不食，你需要吃些东西，哪怕是很难吃的东西，如果你把食物吐出来，那你就会死亡。”\n　　老僧忽然尖声凄厉喊道：“我知道这种活法比死亡更残酷，被轲浩然幽禁在此地的时候，我",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "老僧看着他，越看越是欢喜，惋惜说道：“如此美材良资，如果不是书院弟子，我真想将一身衣钵传给你，看看日后你究竟能到哪一步。”\n　　宁缺曾经真的以为自己是修道天才，但这辈子历经千辛万苦才踏入修行道，一入修行道便见着太多真正的强者，还有二师兄陈皮皮这等怪胎，又遇书痴道痴这些天才少女，才渐渐断了那等痴念，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "之前！\n　　这根纯白的粗壮腿骨，不知道是当年哪位魔宗强者的遗存，灵魂早失却强悍犹在，与刀芒猛烈相撞，出现一个极大的豁口，竟没有从中断开！\n　　整座房间都是小师叔当年布下的樊笼阵法，朴刀上两位师兄刻置的符文无法吸附到任何天地元气，他竟根本无法正面对抗老僧念力直接控制的那根骨头！\n　　宁缺闷哼一声，刀锋",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "吃的那些人肉，或是为了谋划，更多是为了自己的强大，难道你以为我就是一个喜欢吃人肉的变态疯子？难道你以为人肉真的很好吃？”\n　　老僧想着数十年前那袂飘过魔殿的青衣，神经质一般笑了起来：“轲浩然把我封在这个与世隔绝的地狱之中，就是想逼我吃人肉，后来又有一个家伙来过这里，无论我怎样苦苦哀求他，他也不肯放了",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "他们根本无法用意识控制自己的身体，处于这种境况里的修行者，就像是失去了毛笔的书家，失去了七弦琴的音律大家，徒有其识却丧失了所有能力，想必会陷入完全的绝望之中。\n　　但宁缺和世间绝大多数修行者都不一样，他刚刚学会修行，过往十余年来挣扎于生死边缘时，他依靠的从来不是什么道法飞剑而是自己的身体和身后的三把",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "太想想听到声音，耳膜会变得无比敏锐，你甚至能听到身边那些尸体腐烂的声音，而那些腐尸肚子胀气炸开的声音进入你耳中，就像是一道惊雷！”\n　　老僧凄厉的声音在幽静的房间里来回震荡，如同无数道连绵不断的惊雷。\n　　“房间里的尸体都腐烂了，或者变成了干尸，于是连这些声音都没有了，前一刻还令你作呕的声音在下一刻",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "问，已经把他积累数十年的怨恨之意稍微抒解了些，他现在有更重要的事情做。\n　　他缓缓低头，把枯干的双唇温柔移向掌心下的少女。\n　　叶红鱼冷冷看着老僧，赤裸的肌肤上却抑止不住生出些畏惧的小突起，眼睁睁看着自己被撕扯成碎片缓慢吃掉，谁都无法完全驱除心中的恐惧。\n　　幽寂无声的昏暗房间里忽然响起一道清冽的啷",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 758,
+  "chapter_title": "第一百三十九章 何事秋风落黄叶",
+  "filename": "ch_0758_第一百三十九章 何事秋风落黄叶.txt",
+  "char_count": 3359,
+  "timestamp": "2026-04-10T12:11:27.122750",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "披散在肩头，不再如当年的瀑布，直似极美的笔触。\n　　宁缺静静看着她，忽然抬头向天上望去。\n　　深秋的天空，高而辽远，清淡到了极点。\n　　他忽然觉得，昊天……不，应该是天上的老师，感受到自已此时的焦虑与不安，所以把她送到了长安城，送到了自已的面前。\n　　然后他收回望天的目光，看着那个如画的女子，微微一",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "有个说法，阵师或者无法成为符师，但符师必然都是非常优秀的阵师。\n　　宁缺是非常有天赋的符师，但不知道为什么，他在阵法方面的天赋却糟糕透顶，当年初入书院后山，帮着七师姐布置舞集阵法多日，他没有半点长进，这些年他刻苦研习操控惊神阵，也没有任何进步。\n　　如今四师兄和七师姐都不在书院，他便想问人都不知道何",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "容。\n　　围城同样不可取，只要长安城还在，大唐诸郡，尤其是近京地区的反抗便不会停止，唐人的反抗精神，战斗到最后一刻的决心，便能一直持续。\n　　对唐人来说，长安城永不陷落是心理定式，近乎真理，根本不需要理由。没有多少人知道，最根本的原因是一座名为惊神的大阵。\n　　那是站在修行界最顶端的人物才知道的事实",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "来说，大唐开国以来，它根本没有经历过一次考验。\n　　但没有人对此产生过怀疑，因为长安城是唐人最后也是最强大的信心来源，只要这座城还在泗水南方的平原上矗立，唐人的脸上便能保有笑容。\n　　围城同样不可取，只要长安城还在，大唐诸郡，尤其是近京地区的反抗便不会停止，唐人的反抗精神，战斗到最后一刻的决心，便能",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "行界最顶端的人物才知道的事实。\n　　如今惊神阵出现了问题，长安城不再像千年里那般坚不可摧，如果有大军来到，如果有强大的修行者进入城中，那该怎么办？\n　　现在暂时只有极少数人知道这个问题，其中就包括宁缺。\n　　看着下方的密集民宅与四通八达的街道，他的眉眼间写满了疲惫与忧虑。\n　　他拿着炭笔，在图纸上不",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "是第四处堵塞，你感知一下箭楼正下方的天地气息。”\n　　莫山山闭上眼睛，疏而长的睫毛在白皙的肌肤上微微颤抖。\n　　片刻后她睁开双眼，眼眸里的情绪有些复杂，震撼而且不安。\n　　“好……强大的阵法。”\n　　宁缺收手，那片银杏叶向桥下的护城河里飘落，河水流速极缓，此时河面上已经积满了黄色的美丽树叶，多了这一",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "进入小楼地底，也想不明白，道门究竟用了什么手段，居然能够把惊神阵计算的如此清楚。\n　　现在想来，只能说道门为了这一刻做了非常充分的准备。\n　　道门准备了千年时间，不知凝合了多少道门先贤强者的智慧与能力，虽然依然及不上夫子，没有办法直接毁掉惊神阵，但终究还是成功地干扰了惊神阵的运转，并且显得极为强硬，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "唐人的反抗精神，战斗到最后一刻的决心，便能一直持续。\n　　对唐人来说，长安城永不陷落是心理定式，近乎真理，根本不需要理由。没有多少人知道，最根本的原因是一座名为惊神的大阵。\n　　那是站在修行界最顶端的人物才知道的事实。\n　　如今惊神阵出现了问题，长安城不再像千年里那般坚不可摧，如果有大军来到，如果有",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "道，最根本的原因是一座名为惊神的大阵。\n　　那是站在修行界最顶端的人物才知道的事实。\n　　如今惊神阵出现了问题，长安城不再像千年里那般坚不可摧，如果有大军来到，如果有强大的修行者进入城中，那该怎么办？\n　　现在暂时只有极少数人知道这个问题，其中就包括宁缺。\n　　看着下方的密集民宅与四通八达的街道，他",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "长的时间。\n　　如果夫子没有登天，这也是很简单的事情，他只需要挥一挥衣袖，便能把大陆之上，云海之下的无数天地气息召唤来长安城。\n　　但人间已无夫子。\n　　如今的人间，再也没有人能够施出这样的手段。\n　　那么……这座大阵真的再也没有办法修复了吗？\n　　长安城就此洞开吗？\n　　……\n　　……\n　　阵眼杵",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "皇帝陛下留给他的，这便意味着，守护长安以至大唐，是他无法逃避的责任。\n　　这是无上的荣耀，也是世间最沉重的负担。\n　　但这整件事情最荒唐的地方在于……宁缺不是阵师。\n　　颜瑟大师曾经说过，阵就是大符，符就是小阵。修行界一直有个说法，阵师或者无法成为符师，但符师必然都是非常优秀的阵师。\n　　宁缺是非常",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "少数人知道这个问题，其中就包括宁缺。\n　　看着下方的密集民宅与四通八达的街道，他的眉眼间写满了疲惫与忧虑。\n　　他拿着炭笔，在图纸上不停地涂绘，看着城中那些气息堵塞的地方，思考修复或者说浚通的方法，只是越思考越，脸色越难看。\n　　三师姐给他留了七天时间，如今已经过去了两天多，他非但没有想出好的解决方",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

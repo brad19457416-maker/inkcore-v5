@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 949,
+  "chapter_title": "第一百二十二章 敲骨",
+  "filename": "ch_0949_第一百二十二章 敲骨.txt",
+  "char_count": 3281,
+  "timestamp": "2026-04-10T12:11:27.530369",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "七念知道这场叛乱与以往无数年里的无数场叛乱最大的区别是什么，以前地底世界的叛乱只是农奴们本能里的愤怒，而现在这场叛乱，农奴们非常清楚他们想要的是什么，所以他们才会表现的如此坚定如此勇敢。\n　　有个人把希望带给了农奴们，同时给他们指出了一条明确的方向，同时那个人还与农奴们站在一起，在战场上永远冲杀",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "巨峰不到两百里的地方！\n　　佛国的根基虽然现在看来，还没有可能被真正动摇，但悬空寺已经感觉到了强烈的危险，僧人们不能允许那些叛乱者登上神山。\n　　佛宗行走七念，在悬空寺里也是超一流的强者，自叛乱渐盛后，他便坐镇在上峰必经的那条山道上，颇有某人当前在青峡前一夫当关，万夫莫开的威势，然而随着叛军渐近，他",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "两百里的地方！\n　　佛国的根基虽然现在看来，还没有可能被真正动摇，但悬空寺已经感觉到了强烈的危险，僧人们不能允许那些叛乱者登上神山。\n　　佛宗行走七念，在悬空寺里也是超一流的强者，自叛乱渐盛后，他便坐镇在上峰必经的那条山道上，颇有某人当前在青峡前一夫当关，万夫莫开的威势，然而随着叛军渐近，他再也没有",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "凝重――他的眼力更好，很清楚地看到，那些箭并没有箭簇，而是绑着棱状的石头。\n　　草甸上方忽然起了一阵风，这风有些诡异，因为不像自然里的风方向难测，乱拂不停，而仿佛受了命令，笔直向着部落骑兵吹过去。\n　　没有尾羽的箭，在这样暴烈的风里，也能飞行，更不需要什么准头，在风中变得越来越快，甚至变成了道道呼啸",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "这支从崖畔一直打到峰前的叛军，始终带着老弱病残的家眷和同族的孤儿，从军事的角度上来看这很愚蠢，也很令人生畏。\n　　七念走到前方，贵人们面带虔诚狂热之色，不停亲吻他踩出来的脚印，他没有理会这些人，静静看着远方的草甸。\n　　站在他右手方的戒律院长老，看着那片晨光里的草甸，看着那些衣衫褴褛却神情喜乐的奴隶",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，七念的神情便变得凝重起来，笠帽阴影下的眼神愈发坚定，正是因为知道那个人便在叛军中，他才会离开峰前，来到这片战场，他知道，三名戒律院的长老不见得拦得住对方。\n　　面对那个人，无论悬空寺显得怎样谨慎都不为过，七念甚至很肯定，如果首座不是在崖坪上春秋不动，今次肯定会亲自出手。\n　　远处满是烟尘的战场上，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的方向，同时那个人还与农奴们站在一起，在战场上永远冲杀在前。\n　　想到那个人的名字，七念的神情便变得凝重起来，笠帽阴影下的眼神愈发坚定，正是因为知道那个人便在叛军中，他才会离开峰前，来到这片战场，他知道，三名戒律院的长老不见得拦得住对方。\n　　面对那个人，无论悬空寺显得怎样谨慎都不为过，七念甚至很肯",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。”\n　　随着这声冷酷的判决，惨烈的战斗再次开始，数个大部落联合召集的千名骑兵，向着对面的叛军冲去，马上的骑兵们挥舞着雪亮的弯刀，口里喊着污秽的言语，布满血丝的眼睛里满是残忍的神情。\n　　部落骑兵的装备，自然要比那些叛乱农奴强上无数倍，尤其是冲在最前方的两百余名骑兵，更是全身盔甲，和敌人形成了鲜明的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "农奴们非常清楚他们想要的是什么，所以他们才会表现的如此坚定如此勇敢。\n　　有个人把希望带给了农奴们，同时给他们指出了一条明确的方向，同时那个人还与农奴们站在一起，在战场上永远冲杀在前。\n　　想到那个人的名字，七念的神情便变得凝重起来，笠帽阴影下的眼神愈发坚定，正是因为知道那个人便在叛军中，他才会离开",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "对于战斗来说，装备确实很重要，但真正重要的，永远是人，农奴们没有盔甲，没有锋刀，但他们有勇气，有渴望，有骨头。\n　　看着如铁流般涌来的骑兵，农奴们脸色苍白，却一步不退，他们端起手里的竹矛，哪怕双手颤抖的像是在抖筛，却没有谁放下逃走。\n　　噗哧，看似脆弱的竹矛刺穿了看似坚硬的盔甲！\n　　喀喇，竹矛",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "越来越不利的局面，那名戒律院长老的眼里再也没有悲悯的神情，只剩下愤怒与冷酷。\n　　七念沉默片刻，然后说道：“我佛慈悲。”\n　　“我佛慈悲！”\n　　一百余名来自悬空寺西峰的僧兵单手合什，齐声同宣佛号，他们的声音里没有慈悲意，只有冷漠与坚毅。\n　　伴着这声佛号，僧兵们手里的铁棍重重插入原野间。\n　　仿佛",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

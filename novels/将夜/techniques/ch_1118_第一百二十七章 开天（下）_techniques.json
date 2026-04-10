@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1118,
+  "chapter_title": "第一百二十七章 开天（下）",
+  "filename": "ch_1118_第一百二十七章 开天（下）.txt",
+  "char_count": 3453,
+  "timestamp": "2026-04-10T12:11:34.940827",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百二十七章 开天（下）\n　　天外有天。\n　　湛蓝的天空外，是神国。\n　　这道从神国传来的雷声无比恢宏，仿佛在向整个人间宣告着什么。\n　　宋国东方的海面上，骤然生起千年未有的巨大风暴。\n　　瓦山落下暴烈的一场雨。\n　　西陵神殿的天空里，隐隐有电痕闪现。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "安城墙下铺上了浅浅的一层。\n　　万箭不能沾衣。\n　　万箭静于风里。\n　　这个世界的物理规则，在先前那瞬间，仿佛失去了作用。\n　　虽然只是瞬间，也是极难想象的事情。\n　　谁能如此完美地掌握规则、利用规则？\n　　以前的桑桑可以。\n　　现在的观主也可以。\n　　那道在人间与神国之间的铁链，被他握在了手中。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "着在空中淌落的那些光浆，他想起多年前在烂柯寺，桑桑和歧山大师下的最后那盘棋，在棋盘世界里，桑桑被规则追杀不停。\n　　现在的观主，代表的就是规则。\n　　规则不可改变，所以拥有绝对的力量，哪怕是惊神阵也只能苦苦支撑，而无法做出有效的反击，因为长安城在这个世界里。\n　　在世界之中，便要服从世界的规则。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "。\n　　观主这时候，已经展开了他先前取出的第一卷天书：“天”字卷。\n　　离开桑桑的那道金色残影，或者最终会变成天字卷上的一幅图？\n　　有了七卷天书，观主破开青天，拥有了由客观规则意识集合而成的神威，他想要成为新的昊天，还需要神格。\n　　什么是神格？\n　　神格不是力量核心，而是基本属性，用最简单的话来",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "不见底的海洋，从极北方雪峰那面的黑海，到南方碧蓝如琉璃的静海，再到风暴海，都是如此。\n　　忽然间，有无数云从天空里垂落，像瀑布一般流淌到海上，如真似幻的云雾与海面相接，形成四道不见尽头的云墙。\n　　那道来自神国的雷声，变得更加低沉，似有些哀怜。\n　　观主取出第三卷天书。\n　　这卷天书已经没有书的形状",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "黑的碎末，又像是被太阳烤了无数万年的沙砾。\n　　是的，这是“沙”字卷。\n　　大地上所有的沙砾，都开始缓缓流动起来，荒原中部的沙漠，泥塘边缘的干地，风徐徐拂过，所有沙面都变成了吞噬一切的深渊。\n　　即便是光线，仿佛也要被吞噬。\n　　观主站在风中，黑发飘舞，神情平静，仿佛神明。\n　　神国的雷声已经低沉近",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "她说道：“来吧。”\n　　他没有什么表情，声音也没有什么情绪起伏，却显得有些怜悯。\n　　桑桑的身体微微颤抖起来。\n　　她那件陈旧的青花布衣，也随之颤抖起来。\n　　她的身体每颤抖一下，脸色便苍白一分，青衣表面便会溢出几粒金色的尘粒。\n　　那些金色尘粒，隐隐约约是一个人影。\n　　金色的残影，来自她身体何处",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "威。\n　　观主什么事情都没有做，只是握着天字卷，静静看着天空。\n　　雷声渐渐低沉，仿佛那个至高无上的存在，也感到了恐惧。\n　　观主很平静，取出第二卷天书。\n　　这卷天书有些残破，已经缺少了很多页。\n　　“落”字卷。\n　　世界的边缘处，是深不见底的海洋，从极北方雪峰那面的黑海，到南方碧蓝如琉璃的静海，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "然间掀起波澜，那七间茅草屋在湖面的倒影，忽然正了过来！\n　　取出“开”字卷时，湛蓝天空的最深处，忽然出现了一道裂缝，其间隐隐可见由纯净光明构成的宫殿，那里便是神国！\n　　取出“日”字卷时，天空里那轮太阳，骤然间变得异常明亮，无数道光线四处散射，同时神国里那些完美庄严的宫殿，也随之更加明亮！\n　　取出",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "神何以成为神，神何以称为神，用很不准确地模糊描述来说，就是资格。\n　　从另外一种角度来阐述：人之所以为人，有人格，神之所以为神，有神格，神格便是神的人格，是超越客观意志之上的存在。\n　　当然，这里的超越，也有可能是坠落。\n　　桑桑拥有觉醒的主观意识。\n　　她便拥有着昊天的神格。\n　　观主现在要做的事",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "射回陆地，光线折射重叠，更是让整个人间明亮的无法直视。\n　　更没有人能直视那轮太阳。\n　　观主飘起，来到与城墙齐高的位置，看着她说道：“来吧。”\n　　他没有什么表情，声音也没有什么情绪起伏，却显得有些怜悯。\n　　桑桑的身体微微颤抖起来。\n　　她那件陈旧的青花布衣，也随之颤抖起来。\n　　她的身体每颤抖",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "宫殿，那里便是神国！\n　　取出“日”字卷时，天空里那轮太阳，骤然间变得异常明亮，无数道光线四处散射，同时神国里那些完美庄严的宫殿，也随之更加明亮！\n　　取出“明”字卷时，整个世界……一片光明！\n　　……\n　　……\n　　七卷天书，七个字。\n　　“日”。\n　　“落”。\n　　“沙”。\n　　“明”。\n　　“",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "让整个人间明亮的无法直视。\n　　更没有人能直视那轮太阳。\n　　观主飘起，来到与城墙齐高的位置，看着她说道：“来吧。”\n　　他没有什么表情，声音也没有什么情绪起伏，却显得有些怜悯。\n　　桑桑的身体微微颤抖起来。\n　　她那件陈旧的青花布衣，也随之颤抖起来。\n　　她的身体每颤抖一下，脸色便苍白一分，青衣表",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

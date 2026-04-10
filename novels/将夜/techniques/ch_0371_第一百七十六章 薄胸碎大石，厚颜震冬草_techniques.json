@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 371,
+  "chapter_title": "第一百七十六章 薄胸碎大石，厚颜震冬草",
+  "filename": "ch_0371_第一百七十六章 薄胸碎大石，厚颜震冬草.txt",
+  "char_count": 3336,
+  "timestamp": "2026-04-10T12:11:21.746882",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "腿旁的那只白狗，白狗摇了摇头。\n　　南城门街道上一片安静，鸦雀无声，人们看着条凳上一动不动的小姑娘，心想莫不是被生生砸死了吧？有些人的脸上露出了不忍的神情。\n　　……\n　　……\n　　便在这时，只见那小姑娘极为利落地从条凳上翻身而起，掸掉身上的灰尘石屑，看着身旁那汉子恼火说道：“当日在破庙里挑你就是看",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "小姑娘从皮袄襟前一个破洞里找到那颗硌的自己有些慌的石砾扔掉，走到那潦倒汉子身旁，拍着自己的小胸脯，对众人笑着解释道：“谢谢大家关心，不过真没事儿，我打小便是练过的。”\n　　拍胸的动作显得极为豪迈，但她是个年纪尚幼的小姑娘，手掌也小胸脯也小，这动作便自然多了几分可爱，惹来众人一番善意的笑声。\n　　……",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "想着夫子还在书院等着见自己，宁缺实在是没有时间与唐小棠再多说什么，用极快的语速交待完这些事情后，像阵风似地向南门外跑去。\n　　唐小棠一手握着碎银子，一手握着钥匙，看着宁缺匆忙的背影，想要告诉他自己有地方去，然而却晚了，只好可爱地耸了耸肩。\n　　……\n　　……\n　　这些天大黑马一直扔在书院后山里野着，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "年明宗那么多前辈都藏在中原，也没见出什么事。”\n　　宁缺看着小姑娘稚气犹存的脸，不知该说什么好，强行压抑下心头的怒意，认真解释说道：“现在已经不是当年，确实没有什么人能想到居然还会有魔宗余孽敢在光天化日下出现，但你刚才做了些什么？居然玩胸口碎大石！等你在长安城里出了名，你以为天枢处还会查不到你的来历",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "陈皮皮担忧说道：“别说锤子落下去，看着这么大块石头也要把这小姑娘压死了，这可不行，得赶紧拦着，太危险。”\n　　说完这话，他便往人群里挤去，想要阻止这件事情的发生，然而还没有等他走过去，条凳上的那个小姑娘似乎瞪了身旁的男人一眼，那男人仿佛受到了极大的惊吓，双手一软，铁锤便落了下来！\n　　迸的一声闷",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "生命力倔强的冬草和生命力更为倔强的虫儿，不时拍打着他的脸颊，他眯着眼睛狂奔，没有用多长时间，便来到了南郊的书院侧门。\n　　不远处的官道上，有车队正在缓缓向南驶去。\n　　宁缺看着那处，猜到车队里面应该是离开长安城的大河国少女们。\n　　看着渐行渐远的车队，他沉默了很长时间，然后转身向书院里走去。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "说话利落干净，长安城百姓先前见着她胸口碎大石，已是佩服到了极点，这时见她小模样讨喜，哪里还有不掏钱的道理，不多时她手中那顶皮帽里便塞满了铜板。\n　　小姑娘捧着一帽子沉甸甸的铜板，笑的愈发开心。\n　　还有一些好心的长安城百姓把那潦倒汉子好一通教训，说道无论如何穷困，也不能让自家年幼的妹子做这等危险事情",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "……\n　　陈皮皮张着嘴，瞪着眼睛，像个受惊过度的白痴般看着场间那个小姑娘，说道：“这小娘皮真狠，难道不担心把胸砸扁了将来没办法奶孩子？”\n　　他的目光落在小姑娘的身前，恍然道：“反正也没有什么胸。”\n　　宁缺微微低头看了一眼陈皮皮的胸部。\n　　陈皮皮知道他是在说自己因为胖所以胸部大，羞愧地转过头",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "张着嘴，瞪着眼睛，像个受惊过度的白痴般看着场间那个小姑娘，说道：“这小娘皮真狠，难道不担心把胸砸扁了将来没办法奶孩子？”\n　　他的目光落在小姑娘的身前，恍然道：“反正也没有什么胸。”\n　　宁缺微微低头看了一眼陈皮皮的胸部。\n　　陈皮皮知道他是在说自己因为胖所以胸部大，羞愧地转过头去。\n　　宁缺望向场",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "…\n　　在朱雀大街侧向的一条静巷中，宁缺低头看着身前的唐小棠，感慨说道：“我在想你是不是疯了，居然会出现在长安城。”\n　　在南门胸口碎大石的小姑娘自然是唐小棠，除了这位魔宗少女，世间还有哪个小姑娘能够拥有如此非人的身体强度？\n　　唐小棠抬头看了他一眼，说道：“我哥让我来长安的。”\n　　宁缺怔了怔，说",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "着他的脸颊，他眯着眼睛狂奔，没有用多长时间，便来到了南郊的书院侧门。\n　　不远处的官道上，有车队正在缓缓向南驶去。\n　　宁缺看着那处，猜到车队里面应该是离开长安城的大河国少女们。\n　　看着渐行渐远的车队，他沉默了很长时间，然后转身向书院里走去。\n　　然后他看见一位小姑娘站在道旁的深深冬草间。\n　　这",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "…\n　　陈皮皮张着嘴，瞪着眼睛，像个受惊过度的白痴般看着场间那个小姑娘，说道：“这小娘皮真狠，难道不担心把胸砸扁了将来没办法奶孩子？”\n　　他的目光落在小姑娘的身前，恍然道：“反正也没有什么胸。”\n　　宁缺微微低头看了一眼陈皮皮的胸部。\n　　陈皮皮知道他是在说自己因为胖所以胸部大，羞愧地转过头去。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "凳腿下的白狗无聊地趴在自己的前腿上。\n　　“胸口碎大石？”\n　　陈皮皮看着人群里的这幕画面，不可思议说道。宁缺也有些吃惊。话说胸口碎大石这种把戏，在长安城里已经很少见到，因为太过俗套，然而玩胸口碎大石的居然是个小姑娘，这便极为少见了。\n　　陈皮皮担忧说道：“别说锤子落下去，看着这么大块石头也要把这小",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "人真的挺好啊，一路上到处都有人指路，还有人帮我找官府，我要饭的时候，有好几次他们都煮新的饭菜给我吃，从来就没有人害我，而且你不也对我挺好，从来没有想过要杀我。”\n　　宁缺对除魔卫道没有任何兴趣，更何况他现在也已入魔，换句话说与身前这小姑娘才是同类，又哪里会有什么敌意杀意。\n　　思忖片刻，他从怀中掏出",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

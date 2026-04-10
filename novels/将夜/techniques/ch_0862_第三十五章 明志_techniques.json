@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 862,
+  "chapter_title": "第三十五章 明志",
+  "filename": "ch_0862_第三十五章 明志.txt",
+  "char_count": 3324,
+  "timestamp": "2026-04-10T12:11:27.364464",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "得后悔。我不曾缺少勇气，面对强大的敌人也敢于拔剑。我也从来没有失去过冷静，确认数十年来的人生过的很有价值，真的没有虚度。”\n　　他平静而温和的声音，回荡在幽静的崖洞里，与那些坚硬如剑身的石壁撞击，变得异常肯定，就像是金属在撞击。\n　　柳白的眼睛越来越明亮，越来越觉得这个人真的很有意思，问道：“我想我",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "动过。\n　　朝小树的手里只剩下了半截残剑，身前洒落着四道剑片，先前他一剑化五，其中四道挡了柳白四剑，最终还是输了。\n　　朝小树脸色微白，胸前鲜血斑斑，但他的眼睛却很明亮，神情非常满足，因为他接下了四剑，最重要的是他的人生再没有什么遗憾。\n　　柳白看着他，忽然眯眼问道：“唐人对自己都这么狠？”\n　　柳",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "举世之敌，他还敢来这里。\n　　程子清看着那名青衫男子，缓声说道：“朝先生请进。”\n　　青衫男子正是春风亭老朝，朝小树。\n　　……\n　　……\n　　剑阁建在如剑般的山崖间。\n　　崖后的山体中空，里面隐着幽潭，只有最上方的洞口能够洒落天光，潭畔修了座草屋，剑圣柳白便住在这间草屋之中。\n　　朝小树走进崖洞时",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "能修行，只能做一个普通人，然而秋风徐来，他却觉得神清气爽。\n　　……\n　　……\n　　朝小树离开南晋，来到宋国与燕国交界处的一座小镇。他在镇上买了个院子，在临街处租了个房子，做起了书画生意。\n　　随后两名来自远乡的少年也来到了镇上，被他请作帮工，书画铺的生意迅速走上正轨。没有过多长时间，就连县城里的贤",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "志\n　　木柚看着君陌的头，右手紧紧攥着衣裳，用力地咬了咬嘴唇才清醒过来，颤声说道：“你这是要做什么？难道你真的要修佛？”\n　　君陌在井畔刚洗完头，清澈的井水在头顶淌落，打湿了衣裳。听着身后传来的声音，他没有转声，说道：“读读佛经亦无妨。”\n　　木柚颤声说道：“你如此尊重师兄，可便是师兄要你多读佛经，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "到了镇上，被他请作帮工，书画铺的生意迅速走上正轨。没有过多长时间，就连县城里的贤达名流，都知道小镇上出现了一位雅商。人们只知道那商人来自长安，行事潇洒，有古风而无傲气，长袖善舞却不舞金风，来往迎客却不欺穷贱，如清风般令人心旷神怡。\n　　虽说不欺穷贱，即便是乞丐上门，朝小树也会施舍银两，甚至亲手斟茶，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "作帮工，书画铺的生意迅速走上正轨。没有过多长时间，就连县城里的贤达名流，都知道小镇上出现了一位雅商。人们只知道那商人来自长安，行事潇洒，有古风而无傲气，长袖善舞却不舞金风，来往迎客却不欺穷贱，如清风般令人心旷神怡。\n　　虽说不欺穷贱，即便是乞丐上门，朝小树也会施舍银两，甚至亲手斟茶，然而这等雅事生意",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "是逾过了半步，到了这种境界，对于世间诸事自有不可言说的神奇感应。\n　　当他的剑意侵袭进朝小树身体的那瞬间，他便知道了唐人的想法。\n　　朝小树看着他微笑说道：“像我这样狠的唐人还有很多，若南晋与大唐联手，剑阁与书院并肩，或者会狠的连天都感到害怕。”\n　　柳白沉默不语。\n　　朝小树起身施礼，然后走出剑阁",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，天光终于从剑庐崖洞上方洒落，落在那方寒潭之上，隐藏在水草里的鱼儿，欢快地游了出来，贪图这为时不久的温暖。\n　　片刻后，这些鱼儿惊恐地躲回水草深处，因为崖洞里的天光，被数道惊艳的剑光所压制，凌厉的剑意仿佛要把潭水切成无数细块。\n　　四声极为清脆的声音响起，然后一切归于安静。\n　　柳白坐在潭边，仿佛没",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第三十五章 明志\n　　木柚看着君陌的头，右手紧紧攥着衣裳，用力地咬了咬嘴唇才清醒过来，颤声说道：“你这是要做什么？难道你真的要修佛？”\n　　君陌在井畔刚洗完头，清澈的井水在头顶淌落，打湿了衣裳。听着身后传来的声音，他没有转声，说道：“读读佛经亦无妨。”\n　　木柚颤声说道：“你如此尊重师兄，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "原因？”\n　　君陌点了点头，走到她身前说道：“多看两天便习惯，你不要难过。”\n　　“剃了也好，说不定以后新长出来的头发便能变回黑的。”\n　　木柚破涕为笑，下意识伸手去摸君陌的头。\n　　君陌极重礼数，平时里根本不会让师弟师妹们接触自己的身体，更不要说让他们摸自己的头，他此时他却没有避开。\n　　只是很明",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "下方却看不到鱼钩。\n　　朝小树走到柳白身后，施礼相见。\n　　柳白没有回头，说道：“听闻大先生钓鱼时，从来不用鱼钩，所以我也想跟着他学学，只是钓了这么多天始终没有鱼上来，你却来了。”\n　　朝小树说道：“剑圣何须向旁人学？”\n　　柳白把竹竿放到一旁，摇头说道：“任何人都应该向旁人学习，便是夫子当年也曾经",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "数道惊艳的剑光所压制，凌厉的剑意仿佛要把潭水切成无数细块。\n　　四声极为清脆的声音响起，然后一切归于安静。\n　　柳白坐在潭边，仿佛没有动过。\n　　他身旁的古剑，已经归鞘，仿佛也没有动过。\n　　朝小树的手里只剩下了半截残剑，身前洒落着四道剑片，先前他一剑化五，其中四道挡了柳白四剑，最终还是输了。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

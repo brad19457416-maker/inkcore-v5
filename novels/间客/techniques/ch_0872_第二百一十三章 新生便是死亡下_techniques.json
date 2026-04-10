@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 872,
+  "chapter_title": "第二百一十三章 新生便是死亡下",
+  "filename": "ch_0872_第二百一十三章 新生便是死亡下.txt",
+  "char_count": 3446,
+  "timestamp": "2026-04-10T12:05:17.595450",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的银白色机甲并没有任何动作，至少在最开始的几秒钟时间内，小白花微微转动上方的探测仪望向秋季淡而辽阔的天空，仿佛在代替里面那个小眼睛男人出神地观看。\n\n    从那场黑梦开始，许乐通过颈后的芯片和那个家伙斗嘴闲聊呆，并且一起战斗，从某种意义上来说，他们血肉相连、灵魂相通。在这一刻，他非常清楚地知道，那",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "只是沉就，没有任何动作。\n\n    极远处大气层边缘，数枚导弹正在高驶来，更远处的大气层外，刚刚完成紧急检修的联邦战舰开始进行晶态跃迁引导，准备第二记主炮射。\n\n    小白花机甲四周敏十平公里的无人山野间，一百余台黑色m灯机甲从秋林中，基坑里 缓缓站起，泛着金属光泽的沉重机甲，瞬间撕破天地间的宁静",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "被迫坠毁在某颗荒芜矿星上，不知道通过什么方法，飞般完成了 g 我修复，重新启动，在离开帝国之后来到他陌生而好奇的百慕大三角星域，重新操持起了打家劫舍的旧工作。\n\n    直至先前某刻，三翼舰内部响起一道冰冷机械的声音。\n\n    “根据宪章核心定律最高附加条款，禁止进行任何物理操作。”\n\n    三",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "新生便是死亡下 \n\n    听哦那艘破烂金属飞船嚣张无比的回答，走私船内的商人和武装分子们面面相觑，心想男人的东西你不要，女人的东西你也不要，你他妈到底想要什么？\n\n    想到那艘破烂金属 飞船可怕的度，强悍的撞击力和不知道有多厚的外甲，还有对方极为怪异的要求，已经在先前十几次撞击中头破血流的众人",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "可怕的度，强悍的撞击力和不知道有多厚的外甲，还有对方极为怪异的要求，已经在先前十几次撞击中头破血流的众人，忽然间想起了某个最近几个月流传在百慕大星域中的传言，连续几批走私巨商都声称 自己在航道间遭受了抢劫，实施抢劫的飞船无比强大，然而那艘飞船的主人却拥有最令百慕大民众痛恨的恶趣味，对方好像对机械类的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "后中弹被迫坠毁在某颗荒芜矿星上，不知道通过什么方法，飞般完成了 g 我修复，重新启动，在离开帝国之后来到他陌生而好奇的百慕大三角星域，重新操持起了打家劫舍的旧工作。\n\n    直至先前某刻，三翼舰内部响起一道冰冷机械的声音。\n\n    “根据宪章核心定律最高附加条款，禁止进行任何物理操作。”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，密密麻麻悬着公民编号的光点在大楼里在山林里保持着那一刹那的姿式，无数画面像雪片一样的在脑海中飞舞，瞬间占据所有。\n\n    许乐记得这些画面，在医院病床上的黑梦中，在果壳公司的春季招募考场上，在狐狸堡垒监狱的黑牢内，在充满硝烟与死亡的战场上。在这一刻这些画面重新泛滥于眼前，仿佛是在做回忆总结又或者",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的宇宙空间里。\n\n    正准备乘坐逃生舱离开的走私商人和武装分子们，现了那艘破烂金属飞船的异样，在紧张沉就很长时间之后，有人推测道：“对方是不走出了什么问题？”“能有什么问题？”“不知道，也许是失去动力？老板，我看我们要不要试着溜走，看那艘破烂飞船的样子，应该启动不了了。“如果那个可恶的家伙又是在",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "根据我在你面前那点儿浅薄的知识，只有完整的**自主意识才会做梦，才会睡觉，你有这些感觉很美好，说不定将来哪天，你可以有个女朋友什么的。”“为什么不是会有一个男朋友？”老东西疑惑问道。“因为菲利浦明显是个男人的名字。”\n\n    老东西很模糊不清地咕哝了一句什么，然后很少见的继续抒着文艺青年般的感慨：",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "在巨大利润的诱惑以及那艘破烂飞船沉就静止的鼓励下，人们重矫回到自己的岗位，驾驶着走私飞船缓缓向三翼舰飞去，时刻做着谄媚解释的心理准备。然而三 翼舰没有任何反应，就那样安静的悬浮在太空之中。“看样子是真出了问题，老板，我们赶紧走！”有人兴奋地叫喊道。\n\n    走私 商人深深地吸了一口乇，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "律最高附加条款，禁止进行任何物理操作。”\n\n    三翼舰内部所有数据归零，归于沉寂，舰身在剧 烈的颤抖和痛苦挣扎之后，就这样安静的悬浮在幽暗的宇宙空间里。\n\n    正准备乘坐逃生舱离开的走私商人和武装分子们，现了那艘破烂金属飞船的异样，在紧张沉就很长时间之后，有人推测道：“对方是不走出了什么问题",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，凑到走私商人身旁，看着光幕里那个仿佛在跳舞一般高穿行停顿，向众人烛曜恐怖机动性的破烂飞船，压低声音说道：“投降吧，听说前两年这艘飞船一直在左天星域，就连帝国里那些有战舰护航的家伙，都没有任何还手的机会。”\n\n    走私商人身体微微一震，没有花多少时间便毅然决然光荣的投降，既然对方允许自己进入逃生",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "出神地观看。\n\n    从那场黑梦开始，许乐通过颈后的芯片和那个家伙斗嘴闲聊呆，并且一起战斗，从某种意义上来说，他们血肉相连、灵魂相通。在这一刻，他非常清楚地知道，那个老东西，不，应该叫他菲利浦走了。\n\n    刚有名 字就走了，仿佛刚诞生便逝去，许乐的身体开始感觉寒冷，完全没有注意到四周山野里震撼",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "些不自信说道：“我总觉得……这个家伙死了。”\n\n    武装分子们听不明白这句话，商人自己也不明白，为什么自己会这样说，安静悬浮在太空里的金属飞船本来就不是活的，何来死去。然而看着那艘破烂不堪的飞船，他忽然觉得从那处传来的死寂味道令自己非常不舒服，甚至有些忧伤，非常想再听见那个嚣张而滑稽的声音。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "空间里高翻腾，连续做出无数不可思议的飞行动作，然而看上去并没有太多炫耀的意味，反而更像是一个人类大脑同时被无数根钢针刺入，正在抱着头痛苦地挣扎！\n\n    这艘破烂的金属飞船，正是运送许乐进入帝国的那艘宪章局三翼舰，这艘飞船名义上还隶属于联邦宪章局，实际上早就已经成为老东西意识分枝控制的玩具。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "老东西很模糊不清地咕哝了一句什么，然后很少见的继续抒着文艺青年般的感慨：“正因为美好，所以惧怕，我很担心以后再也没有办法做梦了。”“不会的，你做梦的次数肯定是我的无限倍。”\n\n    许乐像个电脑之友，非常耐心地做着解答，就像在安慰一个刚 刚在某个阴雨天开始学会思考死亡的孩子。\n\n    “许 备o",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "是慑服于他的威严感，主动把船开的更近一些，我想以那个家伙的得瑟劲儿，应谋很喜欢听到这种解释，再说了，从来没听行家说过这艘飞船杀过人。\n\n    在巨大利润的诱惑以及那艘破烂飞船沉就静止的鼓励下，人们重矫回到自己的岗位，驾驶着走私飞船缓缓向三翼舰飞去，时刻做着谄媚解释的心理准备。然而三 翼舰没有任何反",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

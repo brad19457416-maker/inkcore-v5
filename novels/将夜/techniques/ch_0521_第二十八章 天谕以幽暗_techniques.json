@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 521,
+  "chapter_title": "第二十八章 天谕以幽暗",
+  "filename": "ch_0521_第二十八章 天谕以幽暗.txt",
+  "char_count": 3766,
+  "timestamp": "2026-04-10T12:11:26.538670",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，带着难以想像的强大境界，从山崖间的无数洞口里喷涌而出。\n　　山峰表面覆着的青藤骤然碎裂，如利箭般向天空和大地疾射。\n　　大地颤抖不安，整个世界似乎都要毁灭了。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "岂是我们这些凡人能够猜忖的？”\n　　隆庆看着他毫无情绪说道：“我们只需要接受，并且赞美，就在先前那一瞬间，我想要更多的你，甚至全部的你，而昊天感受到了我的愿望，所以，你就必然要把全部的自己奉献给我。”\n　　半截道人凄厉说道：“我不愿意。”\n　　隆庆说道：“你无法阻止我，因为我领受的是昊天的谕示。”",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "的五官。\n　　片刻后，他的身体便要被这片黑色的泥潭所吞噬，而轻若无质的灵魂，虽然能够穿过这些淤泥，却最终会进入无尽深渊，承受亿万年的孤独。\n　　那便是死亡。\n　　……\n　　……\n　　半截道人愈发佝偻、甚至明显肉眼都能看出缩小了一圈的身体，难以控制的剧烈颤抖起来，他看着隆庆，眼睛里满是惊恐愤怒和惘然，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "一点？”\n　　半截道人知道他此时已经那种近乎本能的癫狂状态中醒来，没有料到他居然敢如此说话，不由愈发愤怒。\n　　然而他的愤怒来不及转为暴烈的火焰，便已经被惊惧和惘然所取代。\n　　先前他手掌化作山峰落下，击断了隆庆数根肋骨，却没能离开对方的胸膛，而是沾着血水，深深地陷进了隆庆的胸口里。\n　　隆庆的胸口",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "隆庆缓缓抬头，看着近在咫尺的老道，淡然说道：“既然已经开始，何必就此结束，既然已经吸了这么多，为什么不再多吸一点？”\n　　半截道人知道他此时已经那种近乎本能的癫狂状态中醒来，没有料到他居然敢如此说话，不由愈发愤怒。\n　　然而他的愤怒来不及转为暴烈的火焰，便已经被惊惧和惘然所取代。\n　　先前他手",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "，只是他此时的一身修为已经快要尽数离散，笑声显得格外沙哑无力：“果然是个狠而无情的家伙，罢罢罢，无论将来你能走到哪一步，让你重获新生的还是我何某人的修为，无论名字是否留下，当你纵横世间之时，那都是在传播我的光彩。”\n　　隆庆微笑说道：“正是如此。”\n　　半截道人不再说话，平静地等待死亡，然而下一刻，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的血肉仿佛要活过来，令人感觉十分恶心又十分寒冷。\n　　隆庆身体上的这个洞，就像是一个泥潭，泥潭里面有无数丈深的淤泥，那些淤泥无比粘稠，泥潭最下方则是幽暗的无尽深渊。\n　　半截道人觉得自己此时正在这片泥潭里挣扎，无数有毒的瘴气不断渗进毛孔，冰冷秽臭的黑泥渐要掩埋他的五官。\n　　片刻后，他的身体便要被这",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。\n　　片刻后，他的身体便要被这片黑色的泥潭所吞噬，而轻若无质的灵魂，虽然能够穿过这些淤泥，却最终会进入无尽深渊，承受亿万年的孤独。\n　　那便是死亡。\n　　……\n　　……\n　　半截道人愈发佝偻、甚至明显肉眼都能看出缩小了一圈的身体，难以控制的剧烈颤抖起来，他看着隆庆，眼睛里满是惊恐愤怒和惘然，他不知",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "以你且安心地去死吧。”\n　　半截道人在空中挥舞的手臂变得僵硬起来，片刻后他疲惫地收回手，痛苦地低着头沉重地喘息着，说道：“是啊……我明明知道……你是个坏透了的家伙……我为什么还要给你暗算的机会……大概……我真的早就不想活了……我只是想找一个继承人，帮助我完成我的心愿。”\n　　他抬起头来，头颅缩小了很",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "你好大的胆子！”\n　　隆庆仍然没有什么反应。\n　　刚刚出生的幼兽，个人实力自然极为弱小，然而对乳汁的渴望以及由此而蓬勃释放出的生命浓度却正好处于最强烈磅礴的时刻。\n　　隆庆此时就是幼兽，他闭着眼睛，陶醉地、平静地、贪婪地、饥渴地、天真地不停吮吸着自己能够吮吸到的一切。\n　　他衣襟上插着那朵黑桃花愈来",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，隆庆左胸的肋骨连断五根，一口鲜血从他口中喷出，打湿了胸前那朵黑色的桃花，然后他醒了过来。\n　　隆庆缓缓抬头，看着近在咫尺的老道，淡然说道：“既然已经开始，何必就此结束，既然已经吸了这么多，为什么不再多吸一点？”\n　　半截道人知道他此时已经那种近乎本能的癫狂状态中醒来，没有料到他居然敢如此说话，不由",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "从他口中喷出，打湿了胸前那朵黑色的桃花，然后他醒了过来。\n　　隆庆缓缓抬头，看着近在咫尺的老道，淡然说道：“既然已经开始，何必就此结束，既然已经吸了这么多，为什么不再多吸一点？”\n　　半截道人知道他此时已经那种近乎本能的癫狂状态中醒来，没有料到他居然敢如此说话，不由愈发愤怒。\n　　然而他的愤怒来不及",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 908,
+  "chapter_title": "第二百四十一章 最后一课",
+  "filename": "ch_0908_第二百四十一章 最后一课.txt",
+  "char_count": 3471,
+  "timestamp": "2026-04-10T12:05:26.883348",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "就在这个时候，会议室沉重的合金门顺畅滑开，强行中断一项重要行程的帕布尔总统匆匆走了进来，挥手制止众人起身敬礼的举动，用浑厚有力的嗓音说道：“按照中央电脑的计划执行。”\n\n    会议室内的将军官员们微做一怔，表情各不相同，马上开始开始执行战斗计划。总统先生双手扶在桌 面，沉就看着头顶的光幕，神情",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "另外除了你这个疯子变态姐姐外，你以为还有哪个帝国人能用到这些数据？”\n\n    就在这个时候，远处的天空里传来低沉嗡鸣的声音，如同几台大铜琴在一处空旷的房间内同时奏鸣，许乐的眼睛眯了起来，没有回头，知道有无数枚导弹正撕裂雾空，向身后那棵冬树飞去。\n\n    走在破烂小车两边的封余和怀草诗神色漠然，没",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "望此人不要出现，结果那个人还是来了 ！\n\n    “做艿一个联邦人，我当然清楚那四今日标有怎样的重要意义，但我必抵提醒你们一点。”\n\n    安全顾问先生指着光幕上的电子地图，近乎咆哮说道：“保护区紧靠着莫愁后山 ！目 标方位距离庄园直线距离还不到七公里 ！那里是政府就认的邰家区域 ！ 导弹和战舰攻",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "到了分别的时刻，令人有些惘然和不知所措的是，这次的分别是他自己坚持的后果，而且他甚至无法清晰说出自己为什么要如此坚持。\n\n    封余取下唇间的烟卷，抬头看 了一眼不远处的那道陡崖，惯窜嚣张冷漠或者说欠抽的沧桑脸上，忽然现出一丝罕见的感慨。\n\n    “老头子说他已经入了这场赌局，并且必将获胜，大抵",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，但机修师余逢不能以常理论，没有导弹扩大覆盖面，攻击非常可能失败。”\n\n    就在这个时候，会议室沉重的合金门顺畅滑开，强行中断一项重要行程的帕布尔总统匆匆走了进来，挥手制止众人起身敬礼的举动，用浑厚有力的嗓音说道：“按照中央电脑的计划执行。”\n\n    会议室内的将军官员们微做一怔，表情各不相同",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "些数据？”\n\n    就在这个时候，远处的天空里传来低沉嗡鸣的声音，如同几台大铜琴在一处空旷的房间内同时奏鸣，许乐的眼睛眯了起来，没有回头，知道有无数枚导弹正撕裂雾空，向身后那棵冬树飞去。\n\n    走在破烂小车两边的封余和怀草诗神色漠然，没有回头，走在最前方的大师范却回头看了一眼，只见原本众人所在",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "“按照中央电脑的计划执行。”\n\n    会议室内的将军官员们微做一怔，表情各不相同，马上开始开始执行战斗计划。总统先生双手扶在桌 面，沉就看着头顶的光幕，神情异常凝重。\n\n    莫愁后山的夫人刚刚做了 了一个令他震动的决定，开放晶矿联合体，面对着这种让步，政府必须做出相应的回应，议会山需要很长的时",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "第二百四十一章 最后一课 \n\n    总统官邸地下会议室内，激烈的争吵还在继续，国 家安全顾问先生愤怒地拍打着桌面，对面前的宪章局官员吼叫道：\n\n    “日标总共就是四个人，结果我们要出动三艘战舰！还有几百枚烈火导弹就这么直接轰过去？这是谁他妈定的方案？宪章电脑是不走出问题？”\n\n    “先生",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "日标有怎样的重要意义，但我必抵提醒你们一点。”\n\n    安全顾问先生指着光幕上的电子地图，近乎咆哮说道：“保护区紧靠着莫愁后山 ！目 标方位距离庄园直线距离还不到七公里 ！那里是政府就认的邰家区域 ！ 导弹和战舰攻击意味着什么？难道是想向邰夫人宣战？ 还是政府已经做好准备向七大家全体宣战？”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "军一直保持着沉就，若有所思地看着面前的行动计划，电子笔轻轻划弄着，不知道在想些什么。\n\n    此刻出现在湿地中央的那个沧桑男人，是他的亲叔叔，是扶棺一夜之后他在这个世界上最警惕忌惮的人物，他曾无数次希望此人不要出现，结果那个人还是来了 ！\n\n    “做艿一个联邦人，我当然清楚那四今日标有怎样的重",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "哨，仿佛要替身后这场恐怖大爆炸做伴奏。\n\n    走到一畦无名小水洼处，许乐看着车旁的大叔，忍不住 感慨道：“大叔，我必须承认你的自恋很有道理，确实够生猛。”\n\n    “这就算生猛？我生猛的时候比这生猛多了，纯海鲜！”封余看着他嘲讽说道：“要对付那台破电脑，并不走了解它就够了，更关键的是要了解那些",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的人，这看上去是很简单的道理，但许乐根清楚，要利用这种手段找到那些光辉之间的缝隙是多么困难的事情，因为人类思维模式的复杂程度，甚至远在宪章电脑之上。\n\n    “这件事情并不难。”封佘看着他冷漠说道：“等你像我一样把这种判断变成某种模糊的本能，就没有任何问题，不过既然你坚持不上我的船，那么日后如果被",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "冷冷环视四周，声音沙哑说道：“你们只会考虑联邦和帝国间的战争，我却更担心联邦会不会因为迳次攻击，正式进入内战。”\n\n    会议室内一片沉就，籍军和官员们非常清楚安全顾问先生担忧的事情非常可怕，但如果眼睁睁看着帝国公壬与匕在眼前而不动攻击，联邦不可能允许这种局 面生。一直沉就的李在道忽然开口说道：“",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "有力的嗓音说道：“按照中央电脑的计划执行。”\n\n    会议室内的将军官员们微做一怔，表情各不相同，马上开始开始执行战斗计划。总统先生双手扶在桌 面，沉就看着头顶的光幕，神情异常凝重。\n\n    莫愁后山的夫人刚刚做了 了一个令他震动的决定，开放晶矿联合体，面对着这种让步，政府必须做出相应的回应，议",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "他取出手帕擦拭着额头上的汗水，冷冷环视四周，声音沙哑说道：“你们只会考虑联邦和帝国间的战争，我却更担心联邦会不会因为迳次攻击，正式进入内战。”\n\n    会议室内一片沉就，籍军和官员们非常清楚安全顾问先生担忧的事情非常可怕，但如果眼睁睁看着帝国公壬与匕在眼前而不动攻击，联邦不可能允许这种局 面生。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "冷漠说道：“等你像我一样把这种判断变成某种模糊的本能，就没有任何问题，不过既然你坚持不上我的船，那么日后如果被那台破电脑追的要死要活时，可千万不要哭着喊着要大叔。”\n\n    许 乐一直沉就认真地听着，然后笑了起来，知道大叔今天给自 己上了最重要的一课，然后笑容渐渐敛去，知道刚刚重逢便又到了分别的时",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "手中，都只是破工具。”\n\n    封余大叔伸手从正在推车的许乐身上摸出那盒三七牌香烟，抽出一根点燃，慢慢走着，慢慢聊着，浑不在意正在倒数的时间，和可能马上就将到来的恐怖袭击，轻蔑淡然的神情无比强大生猛。\n\n    “有种学说，人类在浩劫之前正式起源的关键节点，就是学会了使用工具，在我看来，非常遗憾或",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

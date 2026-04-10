@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 866,
+  "chapter_title": "第三十九章 乐天的祭品",
+  "filename": "ch_0866_第三十九章 乐天的祭品.txt",
+  "char_count": 3700,
+  "timestamp": "2026-04-10T12:11:27.369023",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "十三年蝉的三先生全部到场，也不见得能够在桃山讨得半点便宜，更何况像七念和国师已经隐隐猜到光明神殿里的秘密，神殿内部的人更是知道酒徒和屠夫的存在，这根本不是书院所能抗衡的。\n　　无知故无畏这句话永远有它的道理，尤其是充满宗教义味的桃山，和这些祭坛近处的大人物不同，数万名从桃花雨中醒来的虔诚信徒们，根本",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "有些猜疑不定。\n　　金帐国师望向天谕院院长，微笑说道：“给他喝些水，想来也无妨。”\n　　在荒原里势力最强大的金帐王庭，改变信仰，成为长生天的信徒，和中原一样沐浴在昊天的光辉之中，这是道门无数年来最大的成功，去年秋天开始的战争，能够险些把唐国逼入绝境，最重要的原因也在于此。\n　　西陵神殿依循唐国南门观",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "祭坛确实很暖和，甚至有些烫屁股，陈皮皮歪了歪身子，把左边屁股露给后面的掌教看，然后敞开衣襟开始扇风。\n　　“这见鬼的秋老虎。”\n　　他用袖子擦了擦额头上的汗，看着祭坛下方的一名西陵神卫嚷道：“看样子你们还在等人，能不能给我整点儿水喝？”\n　　那名西陵神卫脸上的神情很僵硬，他从来没有见过这样的死囚",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，却不知道什么时候来，这种等待毫无疑问是一种精神上的折磨，所以他们神情凝重，沉默不语，这种沉默在某种意义上也代表了人间对书院的尊重甚至是敬畏，只不过当事件发展到现在这种阶段，虽然敬畏，已经没有人会相信书院还能胜利。\n　　桃山前坪有柳白的剑，有掌教和裁决，有金帐国师和王庭大将，有佛宗七念，这些都是至强",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "参加光明祭的重要宾客们，离白石祭坛很近，都听到了陈皮皮的这句话，神情俱变。观海僧单掌合什，默宣佛号，心想这位仁兄果然不愧是宁缺的师兄，便是行事风格都是同样的……难以形容。\n　　七念默然想着，果然不愧是书院门徒，临死之际依然如此悍猛。燕皇崇明蹙眉想着，此人明明不是唐人，为何说话行事看上去和唐人并无两样",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "这是光明祭，这是神圣的祭坛，所有人都等着看他被烧死，但他却没有一点身为祭品的自觉，或痛哭流涕忏悔，或紧张到脸色苍白，或像史上所有大魔头那样怒斥苍天然后被雷劈死，他坐到了祭坛上。\n　　陈皮皮觉得站着太累，而且刚才从幽阁里被押出来时，被阴寒气息冻的有些难受，祭坛被秋日烘的暖洋洋的，所以坐着应该舒服些，所",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第三十九章 乐天的祭品\n　　白石祭坛近处的人们知道书院一定会来，却不知道什么时候来，这种等待毫无疑问是一种精神上的折磨，所以他们神情凝重，沉默不语，这种沉默在某种意义上也代表了人间对书院的尊重甚至是敬畏，只不过当事件发展到现在这种阶段，虽然敬",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "书院讲究理所当然的道理，后山弟子们最喜欢因为所以，而且习惯把这四字用在任何地方，他这时便因为羞愧所以愤怒起来。\n　　他卷起袖子往祭坛下走去，对着勒布大声骂道：“如果我家老爷子没废，伸根小手指头就碾死你，我那几位师兄师姐随便来一个也能打的你哭爹喊娘，你在我面前有什么资格充大头蒜？有本事你现在就打死我！",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "陈皮皮蹙眉，是因为他没有找到宁缺的身影，然后喜悦于没有看到君陌和叶苏，他最敬爱的两位师兄和唐小棠没有出现。\n　　蹙眉和喜悦，这两种不同的情绪，表明了宁缺和其余人之间隐约的差别，这种情绪很难形容，如果勉强为之，大概就是下面这段话。\n　　你我是师兄弟也是兄弟，我救过你的命，你也得来救我的命啊，虽然在石窗",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "海，不知试了多少种方法。\n　　然而裁决司在这方面拥有无比丰富的经验，执掌裁决司的那个女人更是清楚他的性格，他根本没有任何机会成功，至于看上去最可行的自毁雪山气海……他的雪山气海已经被毁了，还能怎么毁第二遍？\n　　陈皮皮蹙眉，是因为他没有找到宁缺的身影，然后喜悦于没有看到君陌和叶苏，他最敬爱的两位师兄",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "还在等人，能不能给我整点儿水喝？”\n　　那名西陵神卫脸上的神情很僵硬，他从来没有见过这样的死囚，明明马上便要死了，却看不到任何惧意，还想着要喝水。\n　　前来参加光明祭的重要宾客们，离白石祭坛很近，都听到了陈皮皮的这句话，神情俱变。观海僧单掌合什，默宣佛号，心想这位仁兄果然不愧是宁缺的师兄，便是行事风",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "信守承诺吧？”\n　　勒布大将被他这句话憋的脸色不善。\n　　陈皮皮看着他轻蔑地摇了摇圆乎乎的食指，继续说道：“不要以为我现在打不过你就想来羞辱我，若我还是当年……”\n　　勒布脸色愈发难看，上前踏了一步，然后退回国师身旁。\n　　陈皮皮看着他的右脚在坚硬的地面上踩出的印迹，心想个娘咧，就算自己雪山气海没废",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

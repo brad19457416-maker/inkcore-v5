@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 578,
+  "chapter_title": "第八十二章 夜观石尊者像有感",
+  "filename": "ch_0578_第八十二章 夜观石尊者像有感.txt",
+  "char_count": 3386,
+  "timestamp": "2026-04-10T12:11:26.666628",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "佛祖预知的那样，会在这次永夜时重新出现？\n　　……\n　　……\n　　暮光渐黯，夜色渐至，宁缺离了禅房，来到烂柯寺后院塔林外的一处草舍前，静静听着草舍后的溪声松涛，然后推门而入。\n　　歧山大师并不意外他的到来，微笑说道：“可有所得？”\n　　宁缺没有回答这个问题，问道：“不是说佛祖的笔记已经遗失？”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "明字，在于明字中的月字，在于这个世界上从来没有看到过、便是夫子也感到惘然的那个事物。\n　　但明字卷上为什么会记载有月亮？这个世界无数年前曾经有过月亮，却离奇消失？然后如佛祖预知的那样，会在这次永夜时重新出现？\n　　……\n　　……\n　　暮光渐黯，夜色渐至，宁缺离了禅房，来到烂柯寺后院塔林外的一处草舍前",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "气，顺着那些似有若无的通道，向着身体各处输送。\n　　他日夜修行浩然气，勤奋不辍，对于浩然气的运行毫不陌生，然而，他发现此时浩然气的运行似乎和以前有了很大的区别。\n　　最大的区别在于，他体内的浩然气不再像以前那般强横不羁，而是变得安宁柔顺了很多，哪怕是最细微的气丝，只要他意念一动，都能完全掌握。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "美感。\n　　这个姿式与石尊者像的手式并不相同，甚至没有丝毫相同之处，然而就在他左手食指落在掌背的那一瞬间，一道与石像几乎完全相同的肃杀气息便出现了。\n　　宁缺腹内那滴浩然气凝成的露珠，开始缓缓旋转，释出一道又一道纯厚的浩然气，顺着那些似有若无的通道，向着身体各处输送。\n　　他日夜修行浩然气，勤奋不辍",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "永字八法。\n　　当初他尚不能修行，却想要看书院前贤文字，强行弄出了这样一个拆字的法门，一路昏迷吐血，最终证明虽有些用处，但用处真的不大。\n　　在他能够修行之后，尤其是进入洞玄境之后，永字八法对修行来说，更是变成了鸡肋，已经有很长时间，都消失在他的生活里。\n　　此时面对佛祖笔记，他动用永字八法，其实也",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "我并不认为这是你的责任，然而如今你既然替书院入世，我便要替世间考虑，为了将来的人世间不被你掀起血雨腥风，莫怪我非要让你学佛。”\n　　宁缺心情渐静，说道：“除了疯子没有人喜欢杀人。我不是疯子，所以我也不喜欢，以往杀人是因为不杀人便要死，如果能够不杀人依然可以活下去，那自然最好，我很喜欢，怎会怪大师。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "后院塔林外的一处草舍前，静静听着草舍后的溪声松涛，然后推门而入。\n　　歧山大师并不意外他的到来，微笑说道：“可有所得？”\n　　宁缺没有回答这个问题，问道：“不是说佛祖的笔记已经遗失？”\n　　歧山大师说道：“没有人看得懂的笔记，便等于遗失。这本笔记我已经看了近百年的时间，始终没有看懂，希望你能看懂。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "无论夫子还是二师兄，对佛宗都有诸多嘲讽，但这只是代表书院本身的性情，并不意味着佛宗是可以被无视的存在。\n　　能够阅读佛祖笔记，不是谁都能遇到的大机缘，宁缺在感慨庆幸之余，还是有些不甘，不知道是不是当年在旧书楼看书时的记忆太过深刻，看着笔记上佛祖亲手留下的寻常笔迹，他下意识里用起了永字八法。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "我知道你前半生过的极苦，所以我并不认为这是你的责任，然而如今你既然替书院入世，我便要替世间考虑，为了将来的人世间不被你掀起血雨腥风，莫怪我非要让你学佛。”\n　　宁缺心情渐静，说道：“除了疯子没有人喜欢杀人。我不是疯子，所以我也不喜欢，以往杀人是因为不杀人便要死，如果能够不杀人依然可以活下去，那自然最",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "本身的性情，并不意味着佛宗是可以被无视的存在。\n　　能够阅读佛祖笔记，不是谁都能遇到的大机缘，宁缺在感慨庆幸之余，还是有些不甘，不知道是不是当年在旧书楼看书时的记忆太过深刻，看着笔记上佛祖亲手留下的寻常笔迹，他下意识里用起了永字八法。\n　　当初他尚不能修行，却想要看书院前贤文字，强行弄出了这样一个拆",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "者像有感\n　　“既然日月相应，有日便应有月。”\n　　“日月轮回，光明交融，月便应在夜里。”\n　　“然无数劫来，万古长夜不见月。”\n　　“这便违了生生不息自然之理。”\n　　“夜临，月现，此句中的夜，指的当不是每个寻常的夜，而是永夜。”\n　　“永夜之末法时代，方有月现，自然复生。”\n　　“如此方不寂灭，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "猜到了自己的来历？\n　　……\n　　……\n　　歧山大师带着宁缺走出草舍，来到山林里。\n　　山溪在松林间缓缓流淌，连绵秋雨之后，夜空放晴，星光清幽，落在松溪之上，分散出无数细碎的银屑，非常美丽。\n　　看着夜景，宁缺下意识里想起两句诗。\n　　明月松间照，清泉石上流。\n　　他转身望向大师，问道：“大师，你为",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "活下去，那自然最好，我很喜欢，怎会怪大师。”\n　　……\n　　……\n　　不想桑桑从佛经上分心，更不想她担心自己，宁缺没有告诉她佛祖笔记的事情，走进烂柯寺后殿，点燃一盏铜灯，继续认真观看。\n　　十几页纸的佛祖笔记，除了对未来的预言，还记载着一些他对世界的认识，更重要的是他认识世界的方法，比如他对黑暗与光",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "息自然之理。”\n　　“夜临，月现，此句中的夜，指的当不是每个寻常的夜，而是永夜。”\n　　“永夜之末法时代，方有月现，自然复生。”\n　　“如此方不寂灭，世界另有出道。”\n　　“既然如此，静侯长夜到来便是，何苦强行逆天行事。”\n　　“莫非这天也在等着夜的到来？”\n　　“还是说它在恐惧夜的到来？”\n　　“",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "佛祖看来，这一次的永夜与人间过往遇到的无数次永夜都不相同，然后他又想起，老师似乎不相信冥界入侵，但却从来没有否定过永夜将会到来，甚至曾经提到过有位屠夫有位酒徒，曾经生活在上次的永夜里。\n　　这一次永夜与以往最大的区别，大概便在于那个明字，在于明字中的月字，在于这个世界上从来没有看到过、便是夫子也感到",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "动，都能完全掌握。\n　　浩然气在体内运行三周，宁缺只觉浑身舒畅，诸多感知美不胜收，竟没有忍住发出一声满足的叹息，飘荡在安静的夜殿里。\n　　然后他望向下一座石尊者像。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

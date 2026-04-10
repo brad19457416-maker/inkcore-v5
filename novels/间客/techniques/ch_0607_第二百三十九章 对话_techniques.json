@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 607,
+  "chapter_title": "第二百三十九章 对话",
+  "filename": "ch_0607_第二百三十九章 对话.txt",
+  "char_count": 3496,
+  "timestamp": "2026-04-10T12:05:08.543422",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "郜郁安静地听了很久很久，先前准备到竖的细眉平伏下来，她沉默片刻后，平静回答道：“其实，我一直有一个疑问。”阅读～小  说t  xt 天,堂",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "许乐认真地思考了很久。然后抬起头认真说道：“这些事情我真的想不明白。”\n\n    郜郁微微一笑。心想大概正是这种想不明白或者懒得去想，才是这家伙能让总统先生在内的很多人喜欢的真正原因吧？正这般想着，听到他紧接而至的下一个话题，她心中那抹温暖的感觉顿时化作乌有，一抹恼怒与无味盈荡漂亮的眼眸。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "复行动险些让整个联邦事态失控\n\n    “总统阁下和军方主战派，与控制联邦议会的那些家族们，距离正面冲突的危险。只差了很小的一段距离。虽然万幸最终事态没有激化她望着他的额头，严肃说道：“但我可以明确地告诉你,今天上午，总统官邸签署的某项重要法案，出乎所有人意料。被议会山直接否决，，就是因为你。”",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "总统阁下和军方主战派，与控制联邦议会的那些家族们，距离正面冲突的危险。只差了很小的一段距离。虽然万幸最终事态没有激化她望着他的额头，严肃说道：“但我可以明确地告诉你,今天上午，总统官邸签署的某项重要法案，出乎所有人意料。被议会山直接否决，，就是因为你。”\n\n    许乐抬起头来。\n\n    关于这些",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "你冒着激怒七大家的危险。只是去寻求一个心情舒畅。”\n\n    郜郁说到此处，忍不住摇了摇头，说道：“人们都在猜测，你这样疯狂地挑衅林家。是不是代表了费城老爷子或者说是总\n\n    “至此，事态等级迅上升。那方面认为政府方面是借用你的报复行动强势宣告。意图逼迫他们退让，如此一来，这种退让便不再仅仅是家",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的星云奖颁奖，就是一种造势，你同意出席，在很多人看来，就代表着费城老爷子的意思。只是这种造势走的是春雨入土的套路，点滴积河。一旦势成，纵使那些家族想反对，议会山也不可能冒着被狂热选民抛弃的危险，当面跳出来做什么。”\n\n    “这是双方都能接受的相对温和的角力。”\n\n    “而你做的事情。却忽然把",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "哑解释道：“我只是想恐吓一下那些大人物，希望能震住对方，让他们不要再像落日州那样不停地试图暗杀我，让人生少些麻烦而已”真的从来没有想过，事情会闹这么大，影响这么远。”\n\n    白玉、兰曾经感慨过，许乐最了不起的能力，就是能把最复杂的事情简单化，然而今天听到这席话，他有些微寒地现，那些贯彻多年的简单",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "队，冷眼旁观\n\n    “双方之间的矛盾冲突，现在被前线的胜利和民众的狂热情绪所掩盖，但谁也说不准，将来什么时候会暴。联邦政府和军方，绝对不希望将来远征帝国时。自己的大本营里还不安稳，所以他们希望借着当前的势头，提前将这些反对意见压制下去。\n\n    “那天晚上的星云奖颁奖，就是一种造势，你同意出席",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。所以我相信他那张嘴里的甜言蜜语可以三百万字不重样，可以迷倒无数女人。就算是最真挚的山盟海誓。他在和陌生女人上床前，都可以重复无数遍。”\n\n    “但只有说到你的时候，没有这些，只有拙劣的掩饰。在那一玄，连我这种家伙，都抓住了他这个花间圣手最大的命门。”\n\n    “我以前肯定是站在他一方，现在我",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "郁放下手中的餐具。漂亮的眼睛里闪过一丝恼意。说道：“你以为我有这么多帝国时间陪你闲聊？”\n\n    瞬间许乐感觉到一股熟悉的凛烈味道从桌对面女生乌黑秀间那朵鲜红大红里逼将出来。他赶紧低头快切割带血丝却没什么肉丝的煎二号肉块，以免将这女子激怒到真正的爽。\n\n    “你究竟有没有自觉？为了你和你部下的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "周，流火还有两针疫苗没有打，结果我这时候却跑来陪你吃饭郜郁放下手中的餐具。漂亮的眼睛里闪过一丝恼意。说道：“你以为我有这么多帝国时间陪你闲聊？”\n\n    瞬间许乐感觉到一股熟悉的凛烈味道从桌对面女生乌黑秀间那朵鲜红大红里逼将出来。他赶紧低头快切割带血丝却没什么肉丝的煎二号肉块，以免将这女子激怒到真",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "吓一下那些大人物，希望能震住对方，让他们不要再像落日州那样不停地试图暗杀我，让人生少些麻烦而已”真的从来没有想过，事情会闹这么大，影响这么远。”\n\n    白玉、兰曾经感慨过，许乐最了不起的能力，就是能把最复杂的事情简单化，然而今天听到这席话，他有些微寒地现，那些贯彻多年的简单逻辑，因为身份地位背景",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "还是以前的他。我不会劝你们在一起，可现在的他，我觉得很有必要再次向你认真介绍一下。”\n\n    郜郁安静地听了很久很久，先前准备到竖的细眉平伏下来，她沉默片刻后，平静回答道：“其实，我一直有一个疑问。”阅读～小  说t  xt 天,堂",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "是这家伙能让总统先生在内的很多人喜欢的真正原因吧？正这般想着，听到他紧接而至的下一个话题，她心中那抹温暖的感觉顿时化作乌有，一抹恼怒与无味盈荡漂亮的眼眸。\n\n    “施公子真是个不错的人，虽然我知道他的身份确实有问题，郗部长很难同意，不过恋爱自由。这官司可以打到最高法院去，相信你父亲可不愿意被何英",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

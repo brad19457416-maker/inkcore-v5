@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 396,
+  "chapter_title": "第二百零一章 如果真有天道",
+  "filename": "ch_0396_第二百零一章 如果真有天道.txt",
+  "char_count": 3413,
+  "timestamp": "2026-04-10T12:11:21.801018",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "不会对蚂蚁投予丝毫怜悯与关注，而当那些蚂蚁里有几只忽然抬起头来望向它，甚至开始生出薄如羽翼的双翅飞向天空，试图挑战它时，它的意识和意志又怎会允许这种事情发生？”\n　　“如果真有天道，那么天道无形，更加无情。”\n　　……\n　　……\n　　宁缺看着站在崖畔夜风中飘然若仙的老师，思考着这连续三句如果真有天道",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "便不再继续，那么你必然不可能成为现在的宁大家。”\n　　“老师，我觉得你这时候就是在取笑我。”宁缺笑着说道。\n　　他想起自己多年来苦苦求索能够踏上修行之路的方法，捧着太上感应篇茶饭不思时，也曾被渭城里的人们取笑过，而自己并没有放弃，才最终有了今天。\n　　然后他想起自己和桑桑颠沛流离、凄苦不堪的一生，确",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "新的疑惑，如果小师叔当年便是那只生出双翼的蚁蚂，想要飞上天穹，因为触动了天道的尊严则遭天诛而死，那他为什么要这样做？\n　　人世间亿万蚂蚁，肯定有不只一只曾经抬起头来，向着天空望过一眼，漫长的岁月里，肯定有很多人曾经试图飞向那天湛湛青天。\n　　那些人都去了哪里？像小师叔一样壮烈地死去，还是真的如西陵教",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "惜没有虫子。”\n　　棒子老虎鸡是最简单的酒拳，但宁缺知道夫子当然不是此时想要饮酒，才会说出这句话，他心想这种简单甚至粗浅的形容，想必便是老师此生对昊天的认知，只不过言俗意深，他暂时还无法了解。\n　　夫子先前的话，解开了他心中某些疑惑，却又生出了一些新的疑惑，如果小师叔当年便是那只生出双翼的蚁蚂，想要",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "笑，说道：“这些天辛苦了。”\n　　宁缺揖手弯腰，对着师兄师姐们行礼，说道：“师兄师姐辛苦了。”\n　　众人高兴围了过来，向他表示祝贺。\n　　十一师兄送给他一束野花，桑桑有些不乐意。\n　　九十两位师兄开始弹琴吹箫，好不得意。\n　　五八两位师兄发现自己什么事情都做不成，总不能这时候拉着宁缺去下棋，只好不停",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "第二百零一章 如果真有天道\n　　夫子问道：“你有没有想过天道是怎样的一种存在？”\n　　宁缺想了想，对于天道这种虚无缥渺的存在，自己还真没有什么概念。\n　　“没有，您刚才不是说过，当世人思考的时候，昊天总是在发笑？”\n　　“但有些时候，即便被取笑，我们依然要思考，如果婴儿迈",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "自然便能骗得过人，不要让人伤到你的身体，谁会知道你身体的古怪？”\n　　宁缺沉默不语，心想修行者之间的战斗变化无端，凶险异常，就算自己境界增进不少，又哪里能够确保不让对方的本命剑之类接触到自己的身体？就算是道痴叶红鱼，想必也不敢夸下如此海口。\n　　夫子看着他的眼睛，沉默片刻后说道：“当年师弟离开这个崖",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "求索能够踏上修行之路的方法，捧着太上感应篇茶饭不思时，也曾被渭城里的人们取笑过，而自己并没有放弃，才最终有了今天。\n　　然后他想起自己和桑桑颠沛流离、凄苦不堪的一生，确认自己一直以来禀持的看法是正确的，那么苍天肯定没有一双始终俯瞰着人间悲欢离合的眼睛，因为命运对待世人并不公平。\n　　所以他思考片刻后",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "去了哪里？像小师叔一样壮烈地死去，还是真的如西陵教典里记载的那些羽化故事一般，回到了昊天光辉的怀抱，进入了完美的永恒？\n　　如果说当年小师叔的境界，已经不允许他再在浊世里继续停留，那么他为什么没有选择进入永恒，而是选择对天道发起挑战？\n　　仅仅是因为骄傲吗？\n　　可老虎再如何凶猛骄傲，也不会无缘无故",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "吐血，七师姐上前疼爱地掐了掐他的脸蛋，险些掐出血来。\n　　二师兄站在远处，脸色有些难看，看着宁缺有些紧张的目光，却还是点了点头，唇角甚至挤出了一些极为罕见的笑容。\n　　……\n　　……\n　　今日书院后山一片欢声笑语，四面透风的大草舍内，饭菜香气四溢，七师姐和唐小棠桑桑主厨，弄了好丰盛的筵席。\n　　筵席",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，忽然坚定说道：“但老师你不是蚂蚁。”\n　　夫子大声笑起来，笑声中满怀壮阔之意。\n　　这道笑声自崖畔骤然升起，直刺高远冷漠的天穹夜色，崖壁间的云海恐惧乱流，直至夫子的笑声渐远，云层才恢复了平静。\n　　夫子站在崖畔，看着夜星乱云，沉默很长时间后，忽然感慨说道：“棒子老虎鸡，可惜没有虫子。”\n　　棒子老",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "堪的一生，确认自己一直以来禀持的看法是正确的，那么苍天肯定没有一双始终俯瞰着人间悲欢离合的眼睛，因为命运对待世人并不公平。\n　　所以他思考片刻后回答道：“天道是很虚无的存在。”\n　　夫子对他的回答有些满意，说道：“昊天有没有生命，我们不积善成德，有没有具体的形态，我们不知道，昊天在哪里，我们依然不知",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "道：“后山里你可是第一个挑黑色的人，小师弟果然有眼光，男要俏，一身皂，说的就是这个道理，某些笨人可是从来都不明白。”\n　　站在夫子身后的二师兄严肃莫名。\n　　大师兄看着正把黑色院服往身上套的宁缺，忍不住轻声一叹。\n　　夫子轻捋胡须，看着宁缺问道：“为什么要选黑的？”\n　　宁缺在桑桑的帮助下，把斜襟布",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "拍马屁，他觉得好生遗憾。\n　　站起身来，从三师姐手中接过一盏温茶，宁缺走到夫子身前双手奉上，夫子接过缓缓啜了一口，拜师礼便正式完成，显得非常简单。\n　　七师姐抱着一堆衣服走了过来，问道：“小师弟，选个颜色。”\n　　宁缺微微一怔，望向师姐怀中，才发现她抱着的都是书院院服，时逢春日，自然都是应时的春服，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 350,
+  "chapter_title": "第一百五十五章 花落",
+  "filename": "ch_0350_第一百五十五章 花落.txt",
+  "char_count": 3346,
+  "timestamp": "2026-04-10T12:11:21.772321",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "下自己那招攻势，必然是用了书院某种绝学，那等绝学只怕与不器意等级相同，自己贸然发问岂不是在窥探书院的秘密？\n　　宁缺笑着摇摇头，扶着他向殿外走去。\n　　其实只有他自己知道当时是怎样应下那滴雨珠的。\n　　他什么都没有做。\n　　他只是低了低头，让那滴雨珠落到了自己的额头上，然后渗入发间。\n　　那滴雨珠确",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "有些白发苍苍的老道，不免联想到很多年前那个姓轲的书院疯子，骑着小黑驴进入长安城之后掀起的那些血雨腥风，情绪很是复杂。\n　　道殿的大门一直紧闭，也没有人敢凑到窗前窥视。\n　　观战的人们只看到殿内火势大作，燥意顺着窗缝喷出，紧接着便是哗哗雨声，有水自门下淌出，再接着便是一股寒意自殿内传来，竟似要把殿外",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "书院不器意。”\n　　观海僧还在诚恳地复盘，检讨先前的战斗。\n　　他的态度越诚恳，宁缺越觉得有些脸烫，心想自己当时在大街上不肯与你战斗，哪里是担心以强凌弱挫了你的锐气，全然是担心自己大输特输挫了自己的锐气。\n　　宁缺伸手把他扶了起来。\n　　观海僧道了声谢，然后略带惘然说道：“只是我还是有些想不明白，先",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第一百五十五章 花落\n　　雾未散，一道身影却穿雾而过，来到观海僧的身前，在他眼眸里留下道黯淡的影子，让这位佛门青年强者始终宁静的眼眸，终于出现了紧张的痕迹。\n　　看着破雾而至的宁缺，观海僧做了两件事情：合什的双掌分开，右手的拇指向掌心摁去，由明王印转为心",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "以想像，连续四道符文各有想法，依序而至，便像一篇大好文章起承转合美不胜收，最后那招弃符用拳更是明悟了战斗的真义，此时想来我竟想向先生挑战，果然有些自不量力，难怪先生开始时那般犹豫，想来是不想让我挫了锐气。”\n　　宁缺最后确实手下留情了，以他现在体内浩然气的充沛程度，身体的强度，那一拳曾经把谷溪的头颅",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "事情：合什的双掌分开，右手的拇指向掌心摁去，由明王印转为心印，左手由竖立转为横向，掌面向前以明王印的最强姿态直接面向宁缺，同时他胸腹骤然微缩，深深吸气便要道出佛偈。\n　　随着两个佛宗手印相辅而出，他身周的雾气骤然大乱，乳白色的云雾透着极微弱的殿外暮光，仿佛要在不同的空间区域里凝出不同的花，而当那声佛",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "空间距离才能体现出来，而此时宁缺与他之间的距离不足一尺，近在眼前。\n　　当那些美丽的天地之息花从雾中缓缓飘落时，当观海僧的双手还在掐指结手印时，宁缺只做了一个最简单的动作，一拳砸到这名僧人的脸上。\n　　两道鲜血喷溅而出。\n　　一阵痛苦的咳嗽声中，观海僧左手的心印和右手的明王印都散了，那些自雾中飘落的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "到一件事情，不解道：“我总觉得你在道殿里施出的那三道符有些问题，以你现在的修行境界和对符道的理解，按道理无法写出那般强大的符，我在见到魔宗山门外的块垒大阵之前，写的符也不过这般。”\n　　以她的身份境界，自然有资格以自己的修为来衡量别的符师。\n　　宁缺这才想到身旁的少女对符道的了解要远在自己之上，不由",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "身影却穿雾而过，来到观海僧的身前，在他眼眸里留下道黯淡的影子，让这位佛门青年强者始终宁静的眼眸，终于出现了紧张的痕迹。\n　　看着破雾而至的宁缺，观海僧做了两件事情：合什的双掌分开，右手的拇指向掌心摁去，由明王印转为心印，左手由竖立转为横向，掌面向前以明王印的最强姿态直接面向宁缺，同时他胸腹骤然微缩，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "然而宁缺的脸向来极厚，尤其是入魔之后，他的脸愈发厚了。\n　　……\n　　……\n　　南门道观正殿外的道人们一直沉默注视着殿内。\n　　这是书院新一代弟子入世后的第一场战斗。\n　　有些白发苍苍的老道，不免联想到很多年前那个姓轲的书院疯子，骑着小黑驴进入长安城之后掀起的那些血雨腥风，情绪很是复杂。\n　　道殿",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "穿雾而过，来到观海僧的身前，在他眼眸里留下道黯淡的影子，让这位佛门青年强者始终宁静的眼眸，终于出现了紧张的痕迹。\n　　看着破雾而至的宁缺，观海僧做了两件事情：合什的双掌分开，右手的拇指向掌心摁去，由明王印转为心印，左手由竖立转为横向，掌面向前以明王印的最强姿态直接面向宁缺，同时他胸腹骤然微缩，深深吸",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "向掌心摁去，由明王印转为心印，左手由竖立转为横向，掌面向前以明王印的最强姿态直接面向宁缺，同时他胸腹骤然微缩，深深吸气便要道出佛偈。\n　　随着两个佛宗手印相辅而出，他身周的雾气骤然大乱，乳白色的云雾透着极微弱的殿外暮光，仿佛要在不同的空间区域里凝出不同的花，而当那声佛偈的第一个音节从他胸腹间响起时，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "右手的拇指向掌心摁去，由明王印转为心印，左手由竖立转为横向，掌面向前以明王印的最强姿态直接面向宁缺，同时他胸腹骤然微缩，深深吸气便要道出佛偈。\n　　随着两个佛宗手印相辅而出，他身周的雾气骤然大乱，乳白色的云雾透着极微弱的殿外暮光，仿佛要在不同的空间区域里凝出不同的花，而当那声佛偈的第一个音节从他胸腹",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，检讨先前的战斗。\n　　他的态度越诚恳，宁缺越觉得有些脸烫，心想自己当时在大街上不肯与你战斗，哪里是担心以强凌弱挫了你的锐气，全然是担心自己大输特输挫了自己的锐气。\n　　宁缺伸手把他扶了起来。\n　　观海僧道了声谢，然后略带惘然说道：“只是我还是有些想不明白，先生当时是如何避过我指尖弹出的那滴雨珠的，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "了。\n　　云消雾散，道殿回复幽静空旷。\n　　宁缺缓缓收回拳头。\n　　观海僧擦掉脸上的血水，沉默片刻后说道：“我输了。”\n　　残冰融化成的雪水，在乌黑的木地板缝里缓缓流淌，隐有叮咚清脆声音。\n　　观海僧抬起头来，感慨说道：“十三先生果然不愧是神符师传人，符道运用之妙难以想像，连续四道符文各有想法，依序",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

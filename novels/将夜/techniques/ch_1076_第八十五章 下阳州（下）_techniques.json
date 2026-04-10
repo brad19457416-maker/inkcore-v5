@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1076,
+  "chapter_title": "第八十五章 下阳州（下）",
+  "filename": "ch_1076_第八十五章 下阳州（下）.txt",
+  "char_count": 4362,
+  "timestamp": "2026-04-10T12:11:34.922126",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "一道极细的裂缝。\n　　就在羽箭落在城门的那瞬间，宁缺动了。\n　　一声蛮横的嘶鸣，撕破阳州城外的宁静的天空！\n　　大黑马没有人立，低着头，后蹄重重地蹬在地面上，松软的田野竟被它蹬的震起了两蓬极夸张的泥雨，和一大片烟尘！\n　　泥雨烟尘相继而起，遮住后方让唐军的眼睛，迷住他们的视线，待烟尘渐敛，他们重新望",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "欲偷袭，他虽然不是剑阁弟子，却也学了些剑阁的剑意，讲究身前一尺，所以他紧紧地握着剑。\n　　他想把剑在最强大的时刻递出去。\n　　大黑马撞向他的身体。\n　　那名南晋剑师没有来得及出剑，因为大黑马来的太快，快到超出他的想象和所有的计算，甚至比他的剑还要快上无数倍。\n　　身前一尺？\n　　他的剑刚刚出鞘，便被",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "时一片骚动，到处都有人影晃动，沉重盾牌移动的声音，险些要把人的耳朵震聋。那些神情傲然的红衣神官，脸色瞬间变得极度苍白，挥舞着手臂，尖声喊着：“速速报与神座！”\n　　白海昕数年前便亡于青峡之前，现在出任南晋主帅的将领，是他的妻弟董微，平日在部属面前表现的极为沉稳自信的董微，此时早已躲到了三层盾牌的后方",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "虽然他是书院十三先生，在唐国军民心中拥有难以想象的崇高地位，但那个人是横木立人，是昊天的儿子。\n　　人们只希望宁缺能够战胜、或者哪怕是拖住横木立人，在唐军铁骑确定胜势之前，不让横木影响到战场上的具体走势。\n　　宁缺仿佛察觉不到人们的眼光，静静看着阳州城，看着城外的田野，田野间的官道，道畔两侧的青青离",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "道。\n　　宋谦等人被横木立人伤的太重，再如何吃药也无法这么快便站起来，被留在青峡里养伤，今日跟着宁缺来到战场上的书院弟子只有王持一人。\n　　王持摇头，说道：“繁花之期，已是五月。”\n　　宁缺想起自己离开长安城的时候，似乎正在落雪，时间走的未免太快了些，不禁有些感慨，说道：“哪有精力去记这些事情。”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "王持说道。\n　　王持有些担心地看着他，说道：“如果不成，别逞强。”\n　　宁缺笑了笑，轻提缰绳，大黑马缓缓提蹄，踩着肥沃的原野而行，一路野草折腰、野花碎裂，向着阳州城而去。\n　　一骑至阳州城下，引来数十枝稀稀拉拉的羽箭。\n　　大黑马看着城墙上那些敌人，神情很是无谓，大概觉得很没有意思，宁缺也没有避，看",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "表现的极为沉稳自信的董微，此时早已躲到了三层盾牌的后方，看着城墙下宁缺肩上的那道铁弓，身体难以抑止地颤抖着，声音也颤抖地极为厉害：“十三先生稍待！神座大人马上便来！”\n　　整个人间都知道宁缺的强大与可怕，就像唐人担忧横木立人的强大一样，宁缺的名字对唐国的敌人来说，也有某种恐怖的威慑力，现在幸亏那把铁",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "神子，隆庆根本没有资格和自己相提并论，如果不是看在隆庆一直很沉默的份上，他早就要把这个尊号变成唯一的存在。\n　　“宁缺，我会来城外会你。”\n　　横木立人看着北方缓声说道，有些稚的声音凝结成束，激起辇前的万重幔纱，破空而飞掠十余里地，在城外的田野上空像春雷般炸响。\n　　轰！\n　　阳州城上很多士兵被这道",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "我和你去过很多地方，战过很多敌人，但事实上，我们从来没有上过真正的战场，我是骑兵出身，你是战马出身，难道不觉得遗憾？”\n　　大黑马很想说自己并不遗憾，却不敢，而且感受着那些药丸在身躯里逐渐散发的效用，它觉得自己的血液正在不断地升温，很想去狂野地冲刺一把。\n　　这就是热血的感觉？\n　　它想起上次有这种",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "…\n　　羽箭深深地扎在厚重的城门里，随着这种速度极为恐怖的震动，相接触的地方开始变得酥软，下一刻甚至出现了一道极细的裂缝。\n　　就在羽箭落在城门的那瞬间，宁缺动了。\n　　一声蛮横的嘶鸣，撕破阳州城外的宁静的天空！\n　　大黑马没有人立，低着头，后蹄重重地蹬在地面上，松软的田野竟被它蹬的震起了两蓬极夸张",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "花之期，已是五月。”\n　　宁缺想起自己离开长安城的时候，似乎正在落雪，时间走的未免太快了些，不禁有些感慨，说道：“哪有精力去记这些事情。”\n　　时间，本是最重要的事物，只是他北赴荒原，南来清河，要杀很多很难杀的人，要做很多很难下决定的事，那些，似乎真的比时间更重要。\n　　“十一师兄，我先行一步。”宁",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "！”\n　　“十三先生！”\n　　“书院来了！”\n　　认出宁缺，阳州城头顿时一片骚动，到处都有人影晃动，沉重盾牌移动的声音，险些要把人的耳朵震聋。那些神情傲然的红衣神官，脸色瞬间变得极度苍白，挥舞着手臂，尖声喊着：“速速报与神座！”\n　　白海昕数年前便亡于青峡之前，现在出任南晋主帅的将领，是他的妻弟董微",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "极有条理，很明显他们也很清楚，只要横木立人在，联军便立于不败之地，阳州永远不会陷落，那么还有什么需要担心的？\n　　唐营中军帐前，数十骑在草甸上看着阳州城的方向，事实上那些将领都在看宁缺，这场战争现在看来，关键就在于他与横木之间的胜负。\n　　没有人相信宁缺能杀死横木立人，虽然他是书院十三先生，在唐国军",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "无法这么快便站起来，被留在青峡里养伤，今日跟着宁缺来到战场上的书院弟子只有王持一人。\n　　王持摇头，说道：“繁花之期，已是五月。”\n　　宁缺想起自己离开长安城的时候，似乎正在落雪，时间走的未免太快了些，不禁有些感慨，说道：“哪有精力去记这些事情。”\n　　时间，本是最重要的事物，只是他北赴荒原，南来清",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "。”\n　　大黑马马首微点，表示赞同。\n　　他说道：“我和你去过很多地方，战过很多敌人，但事实上，我们从来没有上过真正的战场，我是骑兵出身，你是战马出身，难道不觉得遗憾？”\n　　大黑马很想说自己并不遗憾，却不敢，而且感受着那些药丸在身躯里逐渐散发的效用，它觉得自己的血液正在不断地升温，很想去狂野地冲刺",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

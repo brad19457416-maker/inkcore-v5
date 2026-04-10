@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 324,
+  "chapter_title": "第一百三十章 每个人的颈间都有一根链子",
+  "filename": "ch_0324_第一百三十章 每个人的颈间都有一根链子.txt",
+  "char_count": 3302,
+  "timestamp": "2026-04-10T12:11:21.725143",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "中原与荒人之战开春后便将开始，我需要留在土阳城盯着这场战事。”\n　　大师兄盯着他的眼睛，似乎想要听到为什么他要盯着这场战事的原因。\n　　夏侯眼帘微垂，手指轻轻抚着茶盏，说道：“毕竟我也曾经是一名荒人。”\n　　大师兄起身向园外走去，在门前忽然停下脚步，说道：“不准去西陵。”\n　　……\n　　……\n　　将",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "陛下和神殿都乐意看到我安然归老，尤其是书院已经表态，这个世界上还有谁敢来杀我，没有人会允许有这种变数存在。”\n　　谷溪想起迎对方入园时后背感受到的如芒般的目光，沉默思考很长时间后低声说道：“那个十三先生有古怪，至少应该查一查。”\n　　夏侯微讽看了他一眼，问道：“如果查到他便是那个人，又能如何？”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "先生却对我有如此浓郁的杀意，他很想我死。”\n　　随着这句话出口，书房里的肃杀之意大作。\n　　身为武道巅峰强者，对气机的敏锐程度何等样恐怖，夏侯能清晰地察觉到大师兄的真实来意，自然无论宁缺如何遮掩，也能体会到他目光里的杀心，更何况当时在冬园宴上，宁缺根本没有掩饰过自己的真实心意。\n　　谷奚看了窗外一眼",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "有后续。\n　　他有些无奈地笑了笑，忽然问道：“夏侯算苍鹰还是蚂蚁？”\n　　大师兄叹道：“他本应是荒原天空上的一只苍鹰，只可惜被自己套上了一道索链，从那之后他便变成了猎人驯养的牧羊犬，然后他便再也无法挣脱。”\n　　宁缺沉默片刻后说道：“成为神殿客卿的强者，是不是身上都系着一根链子？”\n　　大师兄认真回",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "毫强大气息的书生，只用了简简单单一句话，便让帝国最强大的夏侯大将军甘愿放弃手中的权势荣华归老，不由好感慨。\n　　夏侯与皇后娘娘之间的兄妹关系令他震惊，然而今日所见所闻里能够体会到的书院和大师兄的强大，则更加令震惊，忍不住问道：“大师兄，你究竟有多强？”\n　　大师兄正捧着那卷书在看，听着宁缺的问题，缓",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "园里的风轻拂便飘摇直上铅云消失不见。\n　　夏侯此时的感觉便是如此，当把归老那句话说出口后，他顿时觉得轻松了很多，识海与目光同时清明了很多，发现原来这本来就是最正确的选择。\n　　在道魔帝国之间挣扎反复，即便是强大如他也感到身心俱疲，他一直苦苦思索怎样才能突破这种僵局，直至此时他才明白，若自己抛弃世间荣",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "江湖，更何况大先生亲自来到土阳城，隐隐里更代表了书院的意思。\n　　“大先生果然宽厚。”夏侯看着大师兄说道：“秋末回京我便辞去所有官职。”\n　　大师兄看着他摇了摇头，缓声说道：“太晚。”\n　　夏侯微微眯眼，看着他的脸沉默了很长时间后，沉声说道：“大先生，我毕竟是帝国大将军，麾下亲信无数，我总要安排他们",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "说知守观观主能教出叶苏这样的徒弟，那他又该如何强大？然而这些人永远不会……至少到现在为止都不曾在人间出现过，那么他们便是俯瞰蚂蚁的苍鹰，虽然强大但并不会伤害到你。”\n　　宁缺好奇问道：“知守观究竟是什么地方？”\n　　大师兄认真回答道：“知守观是一座道观。”\n　　宁缺认真等着听后续，然而没有后续。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "局。\n　　无论西陵神殿还是长安城皇宫里的陛下，都会默允自己离开纷争的朝堂与修行江湖，更何况大先生亲自来到土阳城，隐隐里更代表了书院的意思。\n　　“大先生果然宽厚。”夏侯看着大师兄说道：“秋末回京我便辞去所有官职。”\n　　大师兄看着他摇了摇头，缓声说道：“太晚。”\n　　夏侯微微眯眼，看着他的脸沉默了很",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "有一根链子\n　　有很多事情在做出决定之前，总显得那般沉重，然而一旦做出决定，那些事情的重量仿佛会在一瞬间之内失去，被园里的风轻拂便飘摇直上铅云消失不见。\n　　夏侯此时的感觉便是如此，当把归老那句话说出口后，他顿时觉得轻松了很多，识海与目光同时清明了很多，发现原来这本来就是最正确的选择。\n　　在道魔帝",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "铅云消失不见。\n　　夏侯此时的感觉便是如此，当把归老那句话说出口后，他顿时觉得轻松了很多，识海与目光同时清明了很多，发现原来这本来就是最正确的选择。\n　　在道魔帝国之间挣扎反复，即便是强大如他也感到身心俱疲，他一直苦苦思索怎样才能突破这种僵局，直至此时他才明白，若自己抛弃世间荣华富贵，如夫子当年所说",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "将军可以归老，我却必须要回西陵复命，也不知是否还有机会与先生相见。”\n　　夏侯看着他说道：“不须太过担心，长安城里的陛下和那些文武官员，只要我肯和平交出手中的兵权，他们不会再做任何计较，至于神殿方面，这毕竟是书院的提议，相信他们也不会为了一个退役的将军与书院发生太大争执。”\n　　谷溪点了点头。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。”\n　　夏侯微微眯眼，看着他的脸沉默了很长时间后，沉声说道：“大先生，我毕竟是帝国大将军，麾下亲信无数，我总要安排他们的后事，而且中原与荒人之战开春后便将开始，我需要留在土阳城盯着这场战事。”\n　　大师兄盯着他的眼睛，似乎想要听到为什么他要盯着这场战事的原因。\n　　夏侯眼帘微垂，手指轻轻抚着茶盏，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "天神辉照耀世间，只要生活在昊天的世界里，便总有些规矩需要去遵守，你我幸而生在书院，相对要自由很多，也幸福很多。”\n　　很简单的一段话，却让宁缺心头微动。\n　　这段话里那些规矩和自由之类的词汇，让他隐约间感觉到了一些什么，尤其是最后那句生在书院相对自由很多也幸福很多，更是让他生出很多想法。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

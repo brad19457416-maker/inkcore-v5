@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 525,
+  "chapter_title": "第三十二章 昊天的影子",
+  "filename": "ch_0525_第三十二章 昊天的影子.txt",
+  "char_count": 3431,
+  "timestamp": "2026-04-10T12:11:26.543558",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "淤泥腐叶虽软，隆庆身上依然有很多骨头折断，但真正的痛苦并不是肉身上的伤害，而是体内那两道正在不停冲突的强大气息。\n　　来自半截道人的天启境气息，在他昏迷时，不再有意志束缚，咆哮着从识海、从他身体各处喷涌而出，变成了无数把锋利的钢刀，不停地刮着他的骨头，切削着他的肌肉，更试图把他的雪山气海轰成废墟",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "叫着在林间荡来，蹲在隆庆的身体旁边，骚首弄姿，呼啸唤伴，然后很无聊地离去。\n　　有枯叶飘落。\n　　有风起，枯叶再次飞起。\n　　隆庆依旧坐着，无知无觉，与周遭融为一体。\n　　此时，即便是修行者仔细感知，也无法将他分离出来。\n　　而这，正是晋入知命境最明显的象征。\n　　又不知过了多长时间。\n　　隆庆睁开",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "破坏毁灭又不断修复重生的过程，极为痛苦。\n　　昏迷时倒无所谓，此时醒来之后，这些痛苦便成为了最真切的存在，隆庆的脸瞬间变得雪白一片，一声极为凄惨的嘶吼，从渗着血的牙齿里迸将出来，在幽静的谷底林间传的极远。\n　　因为痛楚太过剧烈，隆庆险些刚醒过来，便再次昏迷过去，但他清楚此时的清醒对自己有多么重要：如",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "修复重生的过程，极为痛苦。\n　　昏迷时倒无所谓，此时醒来之后，这些痛苦便成为了最真切的存在，隆庆的脸瞬间变得雪白一片，一声极为凄惨的嘶吼，从渗着血的牙齿里迸将出来，在幽静的谷底林间传的极远。\n　　因为痛楚太过剧烈，隆庆险些刚醒过来，便再次昏迷过去，但他清楚此时的清醒对自己有多么重要：如果昏迷在充满毒",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，逃亡的人，现在只剩下了十几人，骑兵统领们也只有五人还苟活着。\n　　这些曾经在西陵神殿拥有无上荣光的人们，如今成为了罪人，像狗一样在西陵神国境四周的山林里逃亡。\n　　几乎每天都有人死去，几乎每天都有重伤的人被抛弃，他们不知道逃亡要逃亡多久，更令他们心生绝望的是，他们不知道这场逃亡的尽头是什么，哪怕是",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "停改造着他的身体。\n　　又不知过了多长时间，谷底的密林里始终天光晦暗，不知是晨还是暮，隆庆的身体微微颤抖，哇的一口喷出血来。\n　　匪夷所思的是，这口血竟是黑色的！\n　　不知道是不是因为这些带毒雾瘴的原因，还是因为别的什么，隆庆身体里的血变成了黑色，看上去像是墨汁，又像是泥沼里的腐水！\n　　多日前，在",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，如果自己真是传说中的天谕之人，承载着昊天最隐晦的意志，那么昊天便不会让自己随随便便死去。\n　　自己果然没有死，这个事实让他生出无穷信心，同时也生出很多惘然和恐惧，因为他也不知道自己接下来的人生应该怎样走。\n　　淤泥腐叶虽软，隆庆身上依然有很多骨头折断，但真正的痛苦并不是肉身上的伤害，而是体内那两道",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "袂角，不时漏过几缕暮光。\n　　逃亡者们都曾经在西陵神殿生活过很长时间，看着崖畔的男子，觉得自己的眼前出现了某种幻象，仿佛看到了昊天的影子。\n　　又或者是看到冥王的影子。\n　　连日逃亡，他们的神经已经绷紧到快要断裂，选择的宿营地极为偏僻隐密，然而他们没有想到，居然这样还被人发现，被人悄无声息地靠近。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "昊天最隐晦的意志，那么昊天便不会让自己随随便便死去。\n　　自己果然没有死，这个事实让他生出无穷信心，同时也生出很多惘然和恐惧，因为他也不知道自己接下来的人生应该怎样走。\n　　淤泥腐叶虽软，隆庆身上依然有很多骨头折断，但真正的痛苦并不是肉身上的伤害，而是体内那两道正在不停冲突的强大气息。\n　　来自半截",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "走。\n　　又有面若厉鬼的山猴，怪叫着在林间荡来，蹲在隆庆的身体旁边，骚首弄姿，呼啸唤伴，然后很无聊地离去。\n　　有枯叶飘落。\n　　有风起，枯叶再次飞起。\n　　隆庆依旧坐着，无知无觉，与周遭融为一体。\n　　此时，即便是修行者仔细感知，也无法将他分离出来。\n　　而这，正是晋入知命境最明显的象征。\n　　又",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "间，也已经无法做到。\n　　想着逃亡之初，对着漆黑夜色默默许下的愿望，紫墨脸上流露出极痛苦地神情，喃喃说道：“只要能够活下来，我愿意把自己的生命与灵魂都奉献给冥王，不惧万世沉沦，然而……这是何等样的妄自尊大啊，冥王又如何会在意你我这些蝼蚁，你即便想奉献，又哪里能够接近这样伟大的存在？”\n　　“凡俗想要",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

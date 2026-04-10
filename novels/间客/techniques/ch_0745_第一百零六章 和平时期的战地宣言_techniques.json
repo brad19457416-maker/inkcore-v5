@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 745,
+  "chapter_title": "第一百零六章 和平时期的战地宣言",
+  "filename": "ch_0745_第一百零六章 和平时期的战地宣言.txt",
+  "char_count": 3485,
+  "timestamp": "2026-04-10T12:05:17.611370",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "不得不提前把莱克上校掀了出来。施清海最早提出关于西林军区内部的疑问，许乐在中央电脑的帮助下慢慢靠近了真相，查到了莱克上校在其中扮演的阴险卑劣角瑟(河)。\n\n    震惊而愤怒的许乐，在计划中为莱克上校准备了富有战场意味的惩罚，按照部队里对背叛者的惩罚习惯……如今无论莱克上校是被判死刑，或是无期徒刑，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "前的许乐是他们崇拜的传奇人物，哪怕现在正在接受调查，或许将要成为囚犯，那种令他们有些眩晕的传奇感依然存在，所以他很好奇，为什么许乐上校今天吃完饭后会有兴趣聊些看似完全无关的东西。\n\n    “我想说的是，战争，战场，战友，部队，这些东西对一个人的影响。”许乐的眉头渐渐皱了起来，用一种不愿意回忆的口吻",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "那么你所指控我的那些事情，自然都是闲事。”\n\n    “我必须提醒你，你只是被保释。”总四科主任强行压抑着内心的失落和愤怒，寒寒细声说道：“我们有足够的证据，相信几天之后，我会在军事监狱里面见你。”\n\n    “没有这种可能性。”\n\n    许乐看着他的脸平静说道，这个回答非常简洁明了，甚至有些蛮不",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "耸耸肩，不明白他为什么会忽然问这个问题。\n\n    “我上过前线。”许乐忽然笑了笑，看着他说道。探员心想，整个联邦都知道，而且也看过你在前线的样子，所以这是一句废话。\n\n    许乐若有所思，蹙眉继续说道：“宪历六十五年以后，国防部的后勤保障进入历史上最好的那个阶段，但你知道的，在战场上谁能保证所有",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "张看了一眼正走过来的顶头上司，忍着笑反驳了一句，然后站到了许乐身后。\n\n    “反正你们见过的生死瞬间太少，所以总习惯把事情想的太复杂。”许乐说道。\n\n    “很复杂吗？”那位脸骨变形从而显得格外阴森的总四科主任，缓缓走到许乐面前，冷声说道：“我很想知道，你又从战场上悟出了什么简单的道理。”",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "保障进入历史上最好的那个阶段，但你知道的，在战场上谁能保证所有补给都能准时到达？那是不可能的事情，在战斗激烈的时候，食品补给中断是很常见的事情，那时候弹药比压缩饼干要重要的多。”\n\n    他低头看着面碗里残存的几根粘乎乎像肠子似的面条，看着精致瓷盘中州开始渗出血丝的鱼头，说道：“所以在能吃饭哪的时",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "队正在等待着他，还有无数的记者正在等待着他。\n\n    在某些有心人的刻意安排下，联邦新闻媒体已经闻风而动，此是（河）件一旦暴，整个联邦想必都会陷入不可思议的震惊情绪之后，原本视许乐为子弟为英雄的民众眼眸里，会投射出怎样复杂的情绪？\n\n    被指控为联邦通辑犯的他现在暂时被保释，获得宝贵的几瞬自由",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "样子，所以这是一句废话。\n\n    许乐若有所思，蹙眉继续说道：“宪历六十五年以后，国防部的后勤保障进入历史上最好的那个阶段，但你知道的，在战场上谁能保证所有补给都能准时到达？那是不可能的事情，在战斗激烈的时候，食品补给中断是很常见的事情，那时候弹药比压缩饼干要重要的多。”\n\n    他低头看着面碗",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "乐在中央电脑的帮助下慢慢靠近了真相，查到了莱克上校在其中扮演的阴险卑劣角瑟(河)。\n\n    震惊而愤怒的许乐，在计划中为莱克上校准备了富有战场意味的惩罚，按照部队里对背叛者的惩罚习惯……如今无论莱克上校是被判死刑，或是无期徒刑，只怕都是一种解脱。\n\n    而且在计划了中，莱克上校应该是最后才把揪",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "不得门口两名同事复杂难言的目光，第一时间冲进洗手间，取出口袋里的一卷软纸，敲响紧闭的隔间大门，喘息着说道：“纸拿过来了，还有什么需要？”\n\n    “没有，谢谢。”一只手从蹲位里伸了出来，将卷纸接了过去，然后再次关上。\n\n    这名联邦调查局探员此刻才有时间解开领带，抹掉额头上的汗珠，平伏着急喘慢",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "讲理，会不会被关入军事监狱，是法院判决的事情，可他的态度就是这样直接。\n\n    “告诉你身后那些大人们。”他停顿片刻后，认真说道：“我刚才说的战地道理，其实可以换一个方式来说。”\n\n    “杀了我，或者，赶紧死。”\n\n    留下这句平静却又辣劲儿十足的话，许乐从青年探员手中接过军帽，仔细认真戴",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "惯把事情想的太复杂。”许乐说道。\n\n    “很复杂吗？”那位脸骨变形从而显得格外阴森的总四科主任，缓缓走到许乐面前，冷声说道：“我很想知道，你又从战场上悟出了什么简单的道理。”\n\n    许乐静静看着他，忽然开口说道：“我在战场上学会的道理是，除了生死的事儿，世界上一切事情都是闲事儿。”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "着洗手间里时不时响起的轻微撞击声，守在门外的探员蹙着眉头问道：“应该没问题吧？”\n\n    “不用太担心。”那名探员脱下黑瑟(河)正装，敞开衣领，摇头回答道：“他若想要逃，我们这几个人哪里拦得住？”\n\n    “那这是什么声音？”\n\n    探员将黑瑟(河)正装揉作一团夹在腋下，侧头认真听了很久，疑",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "厕所为什么还是习惯用卷纸。”另一名探员耸肩说道。\n\n    许乐在马桶上坐了很长时间，冰冷的白瓷变得温暖起来，他的心情却还是那么冰冷，有一句著名台词非常适合形容他此时的感觉：真他吗（河）的像狗屎一样的人生啊……，当然，这里没有狗屎。\n\n    眯着眼睛的他，百无聊赖地将卷纸扔向门板，看着它完全不符合",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "，而且也看过你在前线的样子，所以这是一句废话。\n\n    许乐若有所思，蹙眉继续说道：“宪历六十五年以后，国防部的后勤保障进入历史上最好的那个阶段，但你知道的，在战场上谁能保证所有补给都能准时到达？那是不可能的事情，在战斗激烈的时候，食品补给中断是很常见的事情，那时候弹药比压缩饼干要重要的多。”",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

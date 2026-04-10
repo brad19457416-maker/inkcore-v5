@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 473,
+  "chapter_title": "第二百七十七章 这不是书上写的故事",
+  "filename": "ch_0473_第二百七十七章 这不是书上写的故事.txt",
+  "char_count": 2818,
+  "timestamp": "2026-04-10T12:11:21.749644",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "个传言。\n　　所以此时，当皇城前的人们听到宁缺轻声说出这句话后，不由被震撼的难以言语，完全无法相信，心想你若不是林光远的遗孤，那你为什么要做这些事情？\n　　夏侯看着黑伞下的宁缺，眉头微蹙，不知道在想些什么。\n　　宁缺低头看着雪上那些如梅花般的血点，仿佛看到了十五年前柴房里地面上的那些血点，脸上露出莫",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "低头看着雪上那些如梅花般的血点，仿佛看到了十五年前柴房里地面上的那些血点，脸上露出莫名的笑容。\n　　风雪骤散骤拢，渐骤渐急。\n　　宁缺抬起头来，看着众人问了三个问题。\n　　“为什么你们都以为我是将军的儿子？”\n　　“我为什么一定要是将军的儿子？”\n　　“为什么你们都希望我是将军的儿子？”\n　　众人还",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "手掌继续向雪地上淌落，他脸上的神情很平静，叙说的也很平静，不是冷漠，是真正的平静。\n　　然而这种毫不激动的平静，却让看到宁缺面容的所有人，都感到了一股寒意从脚底生起，然后僵冻了全身。\n　　这种平静很可怕。\n　　桑桑没有害怕，只是感受着他此时的感受，悲伤着他此时的悲伤，寒冷着他此时身心的寒冷，下意识里",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "们都希望我是将军的儿子？”\n　　众人还处于极度的震惊之中，根本无法回答他的问题。\n　　宁缺自嘲一笑，说道：“很遗憾，我真的不是。”\n　　“我的父亲不是宣威将军，不是校尉，不是属官，甚至也不是文员，他只是将军府的门房，而且是二门的门房，便是连门包都拿不到多少。”\n　　“我的母亲自然不是将军夫人，她只是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "前的人们听到宁缺轻声说出这句话后，不由被震撼的难以言语，完全无法相信，心想你若不是林光远的遗孤，那你为什么要做这些事情？\n　　夏侯看着黑伞下的宁缺，眉头微蹙，不知道在想些什么。\n　　宁缺低头看着雪上那些如梅花般的血点，仿佛看到了十五年前柴房里地面上的那些血点，脸上露出莫名的笑容。\n　　风雪骤散骤拢，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "带着兵马杀进将军府时，我正和少爷还有管家躲在通议大夫府的柴房里。”\n　　夏侯面色沉郁说道：“我的下属最终还是追到了柴房，并且看到了两具死尸，我当时确认林光远的公子已经死去，所以我一直很疑惑于你的身份，现在不再疑惑，我开始好奇你当时是怎么做的。”\n　　宁缺看着周遭的风雪，似乎在回忆什么，微笑说道：“昊",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "前柴房里地面上的那些血点，脸上露出莫名的笑容。\n　　风雪骤散骤拢，渐骤渐急。\n　　宁缺抬起头来，看着众人问了三个问题。\n　　“为什么你们都以为我是将军的儿子？”\n　　“我为什么一定要是将军的儿子？”\n　　“为什么你们都希望我是将军的儿子？”\n　　众人还处于极度的震惊之中，根本无法回答他的问题。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "宁缺的声音平静而坚定，述说着自己当年的想法，就如同在讲述太阳必将每天升起，流水必往下流这些万世不变的真理。\n　　他继续说道：“所以在管家试图骗我脱下衣服、自己去拿那把柴刀的时候，我抢先把柴刀拿到了手里，然后捅进了他的肚子。”\n　　“捅了不只一刀。”\n　　宁缺回忆着当年的事情，皱眉说道：“好像是五刀。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "房外的人。”\n　　他沉默片刻后继续说道：“少爷……也就是将军的公子，并不知道当时发生了什么，只是看着一向最疼爱的管家躺在血泊里，他像发疯了似的向我冲了过来，想要打我，想要咬我。”\n　　他摇头说道：“我当时也很慌乱，拿着柴刀乱舞，不知怎地便划破了他的脖子，然后他捂着脖子向后倒退，便倒在了柴堆上。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "流传开来。\n　　所有人都相信，宁缺便是宣威将军林光远的儿子，当年灭门惨案的遗孤，在世间蛰伏多年，终于进入书院一朝得势，便要展开血腥的复仇。甚至皇帝陛下和夏侯，以至书院后山很多师兄师姐都相信这个传言。\n　　所以此时，当皇城前的人们听到宁缺轻声说出这句话后，不由被震撼的难以言语，完全无法相信，心想你若不",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "死？”\n　　“凭什么我要去死？”\n　　风雪落宫门，众人俱沉默。\n　　没有人能够回答这个问题，于是一片安静，只有宁缺的声音还在大雪里飘着，并且飘的越来越高，越来越冷。\n　　……\n　　……\n　　“我只是一个门房的儿子。”\n　　“但我要活着。”\n　　“我要活下去。”\n　　宁缺的声音平静而坚定，述说着自己当",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "感受着他此时的感受，悲伤着他此时的悲伤，寒冷着他此时身心的寒冷，下意识里伸手握住他的手，想要给他一些温暖。\n　　“我知道，书上都是这样写的。”\n　　宁缺平静说着：“被夺走皇位的王子远走他乡，然后回国复仇，被奸臣陷害的大臣家逃出了一位少爷，多年之后他考中状元，得到陛下恩宠，然后重新翻案。”\n　　他望向",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 718,
+  "chapter_title": "第八十一章 有间公寓",
+  "filename": "ch_0718_第八十一章 有间公寓.txt",
+  "char_count": 3368,
+  "timestamp": "2026-04-10T12:05:17.568394",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "声轻响，一封军方的加密电子邮件出现在许乐的手机中。\n\n    许乐低头看了一眼手机，站起身来替邹郁取风衣，说道：“找个安全的地方，有件事情我需要你帮我判断一下。”\n\n    “这么急着走？”都郁看了一眼桌边还剩下的五瓶红酒。\n\n    “我明天清晨出，只有一晚上的时间……”许乐走到桌边，习惯性地扶着",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "么呢？”\n\n    许乐眯着眼睛，微笑望着邹郁，眼眸里的如往年一样的亮光却没有太多笑意，低声而坚定地说道：“可是我还是必须做些什么。”\n\n    不等邹郁开口，他抬起右臂阻止，继续说道：“放心，我不是一个冲动的人，这件事情冲动也解决不了任何问题口我想过，钟家对西林的行政权力和经济控制力被联邦削弱分食",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "伙，居然马上就要接触到真实的历史了。”\n\n    邹郁不知道他去费城见军神老爷子，是要探究怎样的历史真相，也没有询问答案的想法，因为不想让他为难，只是沉默片刻后，终究是没有忍住，犹豫说道：“很少见你笑的如此放浪，看来……真是件大事。”\n\n    乘坐着那辆没有任何标识的黑车，沿着那条熟悉的二号公路，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "反在很多对事物看法上保有着那位夫人教诲出来的冷漠尖刻现实主义气息，但听到许乐这句话后，没有嘲讽，没有愤怒，只是平静，因为她所认识的许乐，从几年前那间公寓里开始，便一直不停地对这个世界表达着不妥协的态度，而且很奇妙的是，他还一直活着，并且活的越来越精彩。\n\n    邹郁没有问许乐，如果最高法院的官司打",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "美丽，充满了坚定生活理念的未婚妈妈。\n\n    恰在此时，帮郁也同时回头，二人对视一眼，带着一丝回忆感慨笑了起来，当年正是在这个路口，知道自己怀孕，情绪濒临崩溃的邹郁看见黑车，以为车中坐的是都之源，拦下黑车后纵情放肆一哭，哭的撕心梨肺，墨雨淌下精致的脸颊，也哭出了她和许乐一段奇异的温暖相处岁月。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "口袋，解释道：“她替我安排好了去费城。”\n\n    “你要去见军神大人？”邹郁瞪圆了双眼，妩媚的眉眼骤然间变得娇憨了不少。\n\n    “嗯，我有些很重要的故事，想请那位老爷子证实一下。”许乐拍了拍胸膛，笑着说道：“知道吗？像我这样一个家伙，居然马上就要接触到真实的历史了。”\n\n    邹郁不知道他去",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "了！当我没问，我明知道你这个蠢货的答案会是什么。\n\n    许乐呵呵笑了两声，心里明白她的恼怒是因为担心自己，继续说道：“先别理我，只是政府和军队里有人试图掩盖这一切，我现在的问题是，我竟然完全没有办法找出那些人是谁。”\n\n    邹郁望着他，蹙眉说道：“我对军方派系的了解不少，你是希望我能帮你找个",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "友友的帝国种子接触不到相关情报，政府或者军方有人把情报卖了出去，我要查出来是谁……”\n\n    邹郁缓缓放下手中的筷子，用右手拇指轻轻将唇角的饭粒粘下，借着这些小动作化解着心头的震惊，从许乐的语毛中，她知道这件事情不是玩笑，也不是什么阴谋论者的无聊椎论。\n\n    “焦哥……焦秘书自杀后，案子唯一的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "举起红酒杯，为那位敢让军神李匹夫黯然神伤的**官祝福，就在这时，嘀的一声轻响，一封军方的加密电子邮件出现在许乐的手机中。\n\n    许乐低头看了一眼手机，站起身来替邹郁取风衣，说道：“找个安全的地方，有件事情我需要你帮我判断一下。”\n\n    “这么急着走？”都郁看了一眼桌边还剩下的五瓶红酒。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "你好不容易活着回来，难道不和他们聚一下，还有你那几个女人呢？”都郁疑惑问道：“究竟是什么事情如此重要紧张？”“简水儿的电子邮件。”许乐将手机放入口袋，解释道：“她替我安排好了去费城。”\n\n    “你要去见军神大人？”邹郁瞪圆了双眼，妩媚的眉眼骤然间变得娇憨了不少。\n\n    “嗯，我有些很重要的故",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "城那位都不敢以势压他，谁又敢对他做手脚。”\n\n    “希望**官长命百岁。”\n\n    桌旁两个人同时举起红酒杯，为那位敢让军神李匹夫黯然神伤的**官祝福，就在这时，嘀的一声轻响，一封军方的加密电子邮件出现在许乐的手机中。\n\n    许乐低头看了一眼手机，站起身来替邹郁取风衣，说道：“找个安全的地",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "阻止，继续说道：“放心，我不是一个冲动的人，这件事情冲动也解决不了任何问题口我想过，钟家对西林的行政权力和经济控制力被联邦削弱分食，其实对联邦是件好事，而且说实话，这些权力本来就是钟家先天应该拥有的东西。\n\n    “但钟司令死的时候，把小西瓜交给了我，那么，只要我还活着，任何人都别想伤害到她，也别",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的如此放浪，看来……真是件大事。”\n\n    乘坐着那辆没有任何标识的黑车，沿着那条熟悉的二号公路，离开高楼林立的都特区，冬天的风顺着车窗吹了进来，吹的都郁鬓角的那朵小红花微微颤抖，吹的她如花般的容颜轻笑荡漾。\n\n    行经某处路口时，握着方向盘的许乐下意识回头，看着身旁正在散亮光的女子，眯着的眼",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "中坐的是都之源，拦下黑车后纵情放肆一哭，哭的撕心梨肺，墨雨淌下精致的脸颊，也哭出了她和许乐一段奇异的温暖相处岁月。\n\n    “酒喝多了，可是还没有吃饱……”邹郁用纤细手指轻轻按在红唇之上，咽下一个酒嗝，睁着眼睛望着他。\n\n    于是车至望都青年，许乐在旁边的菜场买了些新鲜的蔬菜，邹郁在道旁小店挑",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

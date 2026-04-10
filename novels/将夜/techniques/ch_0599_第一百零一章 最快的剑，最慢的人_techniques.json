@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 599,
+  "chapter_title": "第一百零一章 最快的剑，最慢的人",
+  "filename": "ch_0599_第一百零一章 最快的剑，最慢的人.txt",
+  "char_count": 3263,
+  "timestamp": "2026-04-10T12:11:26.691897",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，把手伸到身前空中。\n　　幽暗的山腹，最顶处洞口漏下的天光，忽然暗了暗。\n　　草屋檐下垂着的草丝，无风而动。\n　　幽静小潭里的水，无风而纹。\n　　一剑自天外飞回，从山顶洞口里化作流光而归，落在柳白的手中。\n　　大师兄揖手为谢。\n　　柳白静静看着他，问道：“你们要护冥王之女，有没有想过冥界入侵怎么办？",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "以沉默，不明白先前那一刻究竟发生了什么，剑圣柳白蓄势已久的一剑，眼看着便要杀死黑色马车里的冥王之女，为什么又忽而飞走！\n　　剑来剑去，实在太匆匆。\n　　……\n　　……\n　　片刻之前，大师兄站在烂柯寺一处偏殿的梅边，手掌落在一口大钟上，钟声已经止歇，这是他破掉的最后一口大钟。\n　　正如宁缺所期望所推算",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "幽深的道路上渐行渐远，然后佛光收敛到棋盘上，一切回复如初。\n　　烂柯后寺一片安静，绝对的安静。\n　　众人震惊所以沉默，不明白先前那一刻究竟发生了什么，剑圣柳白蓄势已久的一剑，眼看着便要杀死黑色马车里的冥王之女，为什么又忽而飞走！\n　　剑来剑去，实在太匆匆。\n　　……\n　　……\n　　片刻之前，大师兄站",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "冥王之女降临，即便是世间最强大的那个男人，也没有办法再继续保持沉默了。\n　　在书院和佛道魔三宗战至最紧张的时刻，还能如此强势地插手的人，自然只有那位在南晋剑阁关闭清修的世间第一强者：剑圣柳白。\n　　剑圣柳白的剑自然是世间最强之剑，他既然起念杀人，冥王之女再无幸理，七念默宣一声佛号，缓缓低下头去。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "所当然，从而显得异常强大的剑势，他知道这把飞剑的主人是谁。\n　　他知道面对这把飞剑再做任何事情都没有意义，所以他只是把桑桑紧紧地抱在怀里，然后沉默地看着车厢里愈来愈盛的清静佛光。\n　　……\n　　……\n　　烂柯寺里的人们震惊地看着那道天外来剑，七念默宣一声佛号，叶苏双眉微挑，唐面色微沉，他们都猜到了这",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "做到，有因为于是有所以，这就是这把剑的道理。\n　　有道理，所以这自天外飞来的一剑，在云层之上的高空里瞬间横穿大陆南方的江河山川，理所当然地破云而出，理所当然地穿过秋雨，理所当然地无视烂柯寺里人们震惊的目光，理所当然地要杀死桑桑。\n　　宁缺曾经在一张纸上看过一把剑，他见过甚至学习过这种因为理所当然，从",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "念默宣一声佛号，叶苏双眉微挑，唐面色微沉，他们都猜到了这把飞剑的来历――面对冥王之女降临，即便是世间最强大的那个男人，也没有办法再继续保持沉默了。\n　　在书院和佛道魔三宗战至最紧张的时刻，还能如此强势地插手的人，自然只有那位在南晋剑阁关闭清修的世间第一强者：剑圣柳白。\n　　剑圣柳白的剑自然是世间最强",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "剑圣柳白。\n　　剑圣柳白的剑自然是世间最强之剑，他既然起念杀人，冥王之女再无幸理，七念默宣一声佛号，缓缓低下头去。\n　　然而紧接着，谁都没有想到的事情发生了。\n　　就在那道天外飞剑眼看着便要破黑色马车而入，把桑桑连着宁缺一道刺死之时，忽然间急剧地颤抖起来，剑尖骤抬，然后紧贴着黑色马车的车尾，猛然向上",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "事情发生了。\n　　就在那道天外飞剑眼看着便要破黑色马车而入，把桑桑连着宁缺一道刺死之时，忽然间急剧地颤抖起来，剑尖骤抬，然后紧贴着黑色马车的车尾，猛然向上飞掠而去，嗤的一声擦落佛殿几块黄瓦，迎秋雨而上，没入云中不见！\n　　黑色马车进入了清静的佛光世界，在那条幽深的道路上渐行渐远，然后佛光收敛到棋盘上",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "是一步之遥，如果用绳尺去计算，那么绝对是不多不少，整好一尺。\n　　柳白看着身前的书生，忽然笑了起来，说道：“李慢慢，你明明是最快的那个人，为什么要叫慢慢呢？”\n　　大师兄说道：“因为慢，所以才能快。”\n　　“因为所以，我最喜欢这种道理。”\n　　柳白伸手在潭里掬起寒水洒在身前地上，缓声说道：“我身前一",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "破掉的最后一口大钟。\n　　正如宁缺所期望所推算的那样，大师兄在破掉佛光大阵后，应该会在最短的时间里，出现在后寺殿前，出现在黑色马车之前。\n　　然而他却没有动。\n　　秋雨中的烂柯寺，大师兄的境界最高，所以他比寺中其余人都更早感知到了那道剑，甚至在那把剑刚刚飞离剑庐的时候，他就已经感知到了。\n　　大师兄",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "地是我的世界？”\n　　大师兄说道：“如果你有剑在手，身前一尺才是你的世界，但你的剑不在。”\n　　柳白感慨一叹，把手伸到身前空中。\n　　幽暗的山腹，最顶处洞口漏下的天光，忽然暗了暗。\n　　草屋檐下垂着的草丝，无风而动。\n　　幽静小潭里的水，无风而纹。\n　　一剑自天外飞回，从山顶洞口里化作流光而归，落在",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "若书院治不好她，到那时，我书院诸弟子站在人间世的最前方迎战，或者胜了冥界，或者全部死光，那便再也不用担心怎么办。”\n　　“依然很有道理。”\n　　柳白说道：“只是我有件事情依然想不明白，夫子如果出手，想要护住冥王之女，何至于演变成当前这种局面？难道说冥界入侵的事情，依然不能让夫子稍起凡心？天下皆曰可杀",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "渺然而过，直刺车厢里的桑桑。\n　　宁缺的识海一阵刺痛，桑桑睁开双眼，脸色苍白，此时黑色马车已经有一半进入清静佛光里，然而却似乎便要到此为止。\n　　霸道无匹都不足以形容这柄自天外而来的剑的气势，这把剑，或者更准确说这把剑的主人，给人一种强烈的感觉，因为他想做某件事情，就他便一定能够做到，有因为于是有所",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 982,
+  "chapter_title": "第一百五十五章 慈航的船，无理的佛",
+  "filename": "ch_0982_第一百五十五章 慈航的船，无理的佛.txt",
+  "char_count": 3443,
+  "timestamp": "2026-04-10T12:11:27.630746",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "叩首的信徒，有娇媚而端庄的天女，有奇异的金花玉树，那些都是他的佛国。\n　　原野上的佛与菩萨们抬头望向天空，随着这个动作，有极淡渺的气息从他们的身上散溢，向那些光线里融去――气息是觉识，随光线来到天穹，然后洒落在峰顶，进入宁缺的身体。\n　　佛与菩萨震惊异常，宁缺能够夺走这些觉识，表示他能够接收这个世界",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "信仰，这表明他正在成佛，将要成佛。\n　　在他们看来，此人当然是伪佛，这种行为自然是亵渎。\n　　极端的愤怒在原野间暴发，众佛神情悲壮开始抵抗，有佛持金刀割面，有佛撕耳，鲜血乱流，佛光大盛，佛威大盛。\n　　已经深入金色池塘的青狮，发出一声低沉的吼叫，带着无尽佛威向前踏出一步，大地震动裂开，生出一道极深的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "向着佛山前行，金色池塘间的佛祖禁制早已变弱，此时被船首碾过，伴着无数细碎的脆响，就像烈日下的冰雪一般瞬间破灭，无数青莲与柳树，被碾压成泥地里的碎木，然后被巨舟的阴影遮盖，再也无法看到，至于那些蛙声和蝉鸣，更是不知去了何处。\n　　大船缓慢向前，来到山脚下的那条大河里，河岸崩塌，浪涛冲天而起，河水一半是",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "眼睁睁看着自己成佛、夺走佛祖的信仰，让众生意归于己身，他没有提前做安排，是因为他知道自己不是一个人在战斗。\n　　桑桑的身体被他放在一旁，大黑伞上方撑开。\n　　忽然间，桑桑睁开了眼睛！\n　　那对细长的柳叶眼里，一片光明。\n　　数十年间，她醒来过数次，但她一直没有睁过眼，因为她始终是在宁缺的心里，没有回",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "地间，大船上，佛声大作：“菩提本非树，明镜亦非台，本来……”\n　　“本来？……本来我就不是来与你们讲道理的，我不是大师兄，如果你们愿意听我讲道理也罢了，若不愿听，佛家自有棒喝手段，我要与你们说的道理很简单，你们必须听，若不听便要来受棒打刀斫。”\n　　宁缺看着众佛说道：“我是唯一真佛，你们须信我。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "她，也无法完全阻止那艘大船，大船确实变得慢了很多，但依然在继续向前，向着山崖撞去。\n　　“众生意……果然有些意思。”\n　　青衣微振，她的身影在峰顶消失。\n　　下一刻，她来到了大船上。\n　　青狮一声怒哮，鬃毛如剑，欲噬。\n　　桑桑看了它一眼。\n　　青狮气势骤敛，露出畏怯神态，颤抖着转过头去。\n　　桑桑",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "天穹极近，宁缺盘膝闭目坐在佛顶上，仿佛只要伸手，便能把这片黑暗的天捅破。\n　　他上方的黑暗天穹里忽然出现了一个亮点，起始很黯淡，骤然变得异常明亮，紧接着化作数千道光线，顺着天穹的孤度向原野的四面八方散去。\n　　光线里有很多画面不停闪现，有虔诚叩首的信徒，有娇媚而端庄的天女，有奇异的金花玉树，那些都是",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "面的原野便是船身，随着船首向前，原野及站在原野上的人，也随着被带进船中。\n　　数十年来，极乐世界里的无数众生自四面八方赶来此地，原野间的佛与菩萨数量根本无法数清，黑压压的至少有数百万之众。\n　　数百万佛与菩萨，现在都在大船之上！只闻经声阵阵，法器破碎变成最纯净的佛息，船身散发无尽佛光，正是大地之舟！",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "们抬头望向天空，随着这个动作，有极淡渺的气息从他们的身上散溢，向那些光线里融去――气息是觉识，随光线来到天穹，然后洒落在峰顶，进入宁缺的身体。\n　　佛与菩萨震惊异常，宁缺能够夺走这些觉识，表示他能够接收这个世界的信仰，这表明他正在成佛，将要成佛。\n　　在他们看来，此人当然是伪佛，这种行为自然是亵渎。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "醒了过来。\n　　那次面壁，意味着他的修佛之旅正式开始，也正是那次面壁，他体悟到了莲生大师曾经的经历，同时心里种下了一粒菩提子。\n　　进入棋盘后，他在白塔寺里听晨钟暮鼓，修了无数年佛，在这极东方的佛祖像上，又修了数十年佛，佛法渐深。\n　　那粒菩提子早已不在他的心头，已经上了他的眉头。\n　　桑桑手指轻触",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的吼叫，带着无尽佛威向前踏出一步，大地震动裂开，生出一道极深的裂缝。\n　　以裂缝为线，原野西面的地面缓缓升起，然后向前滑动，一寸一寸地覆盖到东面的地面上，就像一艘大船要比幽暗的海底冲出来！\n　　大船没有船尾，后面与地面相连，于是整片西面的原野便是船身，随着船首向前，原野及站在原野上的人，也随着被带进",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "睡便是进入宁缺的身体。\n　　宁缺醒了过来。\n　　他看着离山崖越来越近的那艘巨船，看着船上的佛与菩萨，说道：“身是菩提树，心如明镜台……”\n　　他要讲佛法与众生听，奈何众生自不愿听。\n　　众生还要辩倒他，要揭露他伪佛的面目，于是天地间，大船上，佛声大作：“菩提本非树，明镜亦非台，本来……”\n　　“本来",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

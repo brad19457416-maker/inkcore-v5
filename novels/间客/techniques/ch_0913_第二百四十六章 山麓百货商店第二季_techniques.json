@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 913,
+  "chapter_title": "第二百四十六章 山麓百货商店第二季",
+  "filename": "ch_0913_第二百四十六章 山麓百货商店第二季.txt",
+  "char_count": 4582,
+  "timestamp": "2026-04-10T12:05:26.893231",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "特别放松，甚至可以说是舒服？\n\n    老板看着年轻男人动容的脸，说道：“因为我这间小店，阳光能进，风雨能进，人能进，就是宪章光辉不能进。”\n\n    许乐挠了挠头，表情难掩震惊，沉就很长时间后，忽然皱着眉头疑惑问道：“七大家里有姓李的吗？您不会告诉我，您是费城李家流落在外的又一位猛人？”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "一旦上去，那就再也下不来了，但留下来也很傻逼，除了连累那些像你一样不在乎我是帝国人的家伙外，没有任何意义。”\n\n    滋溜一口喝干杯中满是焦糊味道的劣质白酒，他表情痛苦地舔了舔嘴唇，望着李小山老板说道：“从上次逃亡到这次逃亡，其实之前我还逃过很多次，我是真的很累了，不想再逃了，但问题是我不想坐别人",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "乐不知道该说些什么。\n\n    “最后送你一句话。”老板看着他，微笑说道：“大浩劫之后，五人小组飞船来到这片星域之间，宇宙里没有联邦，同样，我相信左天星域那边的情况差不多，之前也没有什么帝国。”“最开始的时候，没有什么联邦人，也没有什么帝国人，只有人。所以你也用挣扎于自己是联邦人还是帝国人，只要做个",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "转身离开。\n\n    头发花白的男老板放下手里端着的泡面碗，没有清点钞票，看着刚要走出门口的许乐嘲讽说道：“现在越来越没有礼貌了，以前至少也知道喊一声小山老板。\n\n    许乐的背影微僵，转过头摘下帽子，看着他微涩说道：“为什么每次你都能认出我？”\n\n    “我开了一辈子的商店，也没遇见哪个逃犯敢",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "礼貌了，以前至少也知道喊一声小山老板。\n\n    许乐的背影微僵，转过头摘下帽子，看着他微涩说道：“为什么每次你都能认出我？”\n\n    “我开了一辈子的商店，也没遇见哪个逃犯敢像你这样三番五次回我这里买东西，甚至明知道那次总统发布告时，我就已经认出了你。像你这种逃犯实在是很少见，自然不容易忘记。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "我这里没有中央电脑的眼睛，至于那些历史上的故事，下次有机会我再讲给你听。”\n\n    许乐捂着额头，感慨道：“您这事儿太悬乎，不整明白，实在是不舒服，说到下次，今天我从您运儿走出去后，估计再也没有下次了。“你可以留下来。”\n\n    老板看着他，轻描淡写说道：“如果你真的没有地方去，那就留下来好了，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第二百四十六章 山麓百货商店第二季 \n\n    百货商店，是一个很奇妙的地方，至少对于许乐来说充满逃亡色彩的青年岁月里，只有这间隐藏在城市邻山石径尽头的小店，还有帝国天京星贫民区里的小院，能够给他带来真正的放松感觉，而前者与后者最大的区别在于，小院里的善良母子是放松感觉的源头，百货商店却是从墙壁甚",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "板呼哧呼哧吞食碗中的烂面，继续含糊不清的训斥：“如果你真拿了船票，上了那条船，按照正常途径发展下去，将来临死的时候，你会不会后悔？”\n\n    许乐认真地想了想，然后回答道：“会，虽然还没有发生，但至少现在的我会。”\n\n    年青的男人在落日下提前后悔年老时还没有发生的结局，这是很妙的一种说法，老",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "了一个酒嗝，然后说道：“放了老白……别逼好人发飒啊。\n\n    （下一章大概零点半左右。好书推荐：《巅峰战技》，东方玄幻类的升级流爽文，书号1兀勘瓯，o讲述主角依据前世的人体工程学知识「开创属于自己的武道修习之路。）\n\n    16977小游戏 每天更新好玩的小游戏，等你来发现　小＿说txt天'堂",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "“有句话叫白首如新，倾盖如故。你或许听不懂这句话的意思，大概就是说有的人相伴一生还是那么陌生，有的人只是停下汽车聊两句便可以成为一生相投，如老友一般。”\n\n    李小山老板看着他，面无表情说道：“当然我们之间没有这种交情，不过在我看来，你勉强算一个有趣的家伙，所以愿意抽出宝贵的时间和你",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "宪章光辉不能进。”\n\n    许乐挠了挠头，表情难掩震惊，沉就很长时间后，忽然皱着眉头疑惑问道：“七大家里有姓李的吗？您不会告诉我，您是费城李家流落在外的又一位猛人？”\n\n    “别扯这种没有营养价值的蛋。”老板抹了一把嘴唇上的汤水「说道：“我和那些大人物可没有什么关系。”\n\n    许乐觉得今日",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "觉，而前者与后者最大的区别在于，小院里的善良母子是放松感觉的源头，百货商店却是从墙壁甚至空气中渗透着轻松平静。\n\n    今天没有买学生露营用的能量棒，他从货架深处取下一瓶劣质的白酒和两袋花生米，向门口那方收银台兼小饭桌走去，低头沉就掏出口袋里的零钞，放在老板的面前，转身离开。\n\n    头发花白的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "谓请教其实不过是内心郁结情绪的发泄罢了，不等对方回答，他摇了摇头，自嘲说道：“我这辈子其实很少，不，从来没有对什么事儿后悔过，但这时候真的有些后悔，我觉得这种情绪很陌生，很……别扭。”\n\n    老板李山小山将杯沿送至唇边，缓慢无声吸干杯中酒液，没有发出一丝声响，然后拈起两粒花生米和一块豆腐干扔进嘴",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "是很妙的一种说法，老板哈哈大笑道：“那你还想什么。”\n\n    “我想离开，我想有条自己的船。”许乐缓缓转动手指间的酒杯，眯着眼睛望着老板，目光显得格外明亮，诚挚说道：“您能不能帮我。\n\n    “这个真没有。”老板像舞剑一样挥动着筷子，汤汁四溅“这是先祖传下来的笑话。我研究了半辈子也不知道究竟好笑",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，没有发出一丝声响，然后拈起两粒花生米和一块豆腐干扔进嘴里，啪叽啪叽极不讲究地用力嚼着，然后发出一声满足的叹息。\n\n    他看着满脸愁苦的许乐嘲讽说道：“人真是一种不容易满足的动物。你当年只是一个东林孤儿，现在变成帝国皇子，能够肆无忌惮地吃肉，人生还有何事不适意？”“这和我一位大叔的说法很像。”许",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

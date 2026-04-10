@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 792,
+  "chapter_title": "第一百五十七章花一样的春天（五）",
+  "filename": "ch_0792_第一百五十七章花一样的春天（五）.txt",
+  "char_count": 3445,
+  "timestamp": "2026-04-10T12:05:17.616278",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "望中那个能平衡局面的人。”\n\n    他抬起头来，望着部夫人平静说道：“相反，他会让联邦局势变得更加危险和复杂，而很可惜的是，他拥有这种能力。”\n\n    “不。”部夫人笑了笑，回答道：“根据我的观察，那个小眼睛男生现在已经成熟，或者说庸俗多了，对于你我对于联邦来说，这都是一个非常好的转变。”",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "对不简单，这意味着联邦军方的激进势力。会在日后的联邦政局中，对七大家采取怎样的姿态，而这种姿态又毫无疑问会直接影响到今后若干年的联邦，然而面对这个承载了无数意味的问题，李在道将军的回答，竟是那样的平静而简洁。\n\n    “当然。”\n\n    人去露台空，深春山色浓，部夫人微眯着眼，望着怀抱里的湖光让",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "自己与那位恐怖袭击凶犯之间的关系，这些在情感上多多少少有些倾向许乐的记者们，满是忧虑不解地望着台上，心想你难道不明白这样做，等于是在挑战联邦民众的心理底线？\n\n    再如何忧虑不解，新闻记者们也必须按照职业要求，用最快的度编好简写新闻，布各自的报社或是电视台，紧接着，来自三林记者抓住空隙，抢先提问",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的尖锐疑问，当新闻布会召开后，戴着墨镜的许乐在噼啪闪光灯照耀下，走进乔治卡林文化艺术中心会议室的那一瞬间，来自都特区日报的伍德记者，毫不犹豫，并且毫不理会主席台上聊作主持人的顾惜风，大声问道：\n\n    “许乐上校！根据我的消息，议会山恐怖袭击事件嫌疑犯施清海的尸体，于昨天晚上被你和你的队员强行带离",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "么其实都殛甲七，重要的是他本就不应该说。”\n\n    李在道端起面前的黑卷叶茶喝了口，片刻后继续温和说道：“这一点再次证明，从来不坐跷踹，板的他，哪怕拥有再好的基础，哪怕家父和您同时看好他，他也不可能成为您期望中那个能平衡局面的人。”\n\n    他抬起头来，望着部夫人平静说道：“相反，他会让联邦局势",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "可闻的叹息，淡淡自嘲问道：“你相信他的承诺吗？”\n\n    “导军人变成政客，他们的承诺也就没有任何意义。”沈离安静地站在部夫人的身后，扮演着数年不变的角色。\n\n    部夫人的眉尖微微蹙起，声音微寒说道：“我喜欢更直接一些的回答，而不是这种戏剧腔调的东西。”\n\n    沈秘书敏锐地查觉到夫人的情绪",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "改了又改，媒体方面却没有任何怨言，带着兴奋和紧张，等待着那个本身已经够资格成为新闻事件的联邦英雄闪亮登场。\n\n    极少数拥有最敏感嗅觉，或者是拥有最强大情报来源的新闻记者，隐约猜到了这场新闻布会可能和十几天前议会山那场震惊全宇宙的恐怖袭击有关，联邦副总统拜伦先生和两位议员的葬礼刚刚举行完毕，整个",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "等待着那个本身已经够资格成为新闻事件的联邦英雄闪亮登场。\n\n    极少数拥有最敏感嗅觉，或者是拥有最强大情报来源的新闻记者，隐约猜到了这场新闻布会可能和十几天前议会山那场震惊全宇宙的恐怖袭击有关，联邦副总统拜伦先生和两位议员的葬礼刚刚举行完毕，整个联邦还处于哀悼期，许乐上校他究竟想做什么？或者说，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。\n\n    这个问题很简单，却又绝对不简单，这意味着联邦军方的激进势力。会在日后的联邦政局中，对七大家采取怎样的姿态，而这种姿态又毫无疑问会直接影响到今后若干年的联邦，然而面对这个承载了无数意味的问题，李在道将军的回答，竟是那样的平静而简洁。\n\n    “当然。”\n\n    人去露台空，深春山色浓",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "眼睛，带着丝非常淡，甚至快要淡到嗅不出来的嘲弄说道：“不然依照他当年硬顶着我的压力也要去杀麦德林的作风，现在就算你身边有十几台战斗机甲，他也敢傻乎乎提着几把枪就跑遍整个联邦去追杀你。”\n\n    这一段话连续性极强，杀伤力极大，李在道微微一怔，脸颊上流露出自嘲的微涩笑容，身为如今的联邦军方第一人，却",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "新闻布会的消息时，都感到非常不可思议，虽然新闻布会的时间改了又改，媒体方面却没有任何怨言，带着兴奋和紧张，等待着那个本身已经够资格成为新闻事件的联邦英雄闪亮登场。\n\n    极少数拥有最敏感嗅觉，或者是拥有最强大情报来源的新闻记者，隐约猜到了这场新闻布会可能和十几天前议会山那场震惊全宇宙的恐怖袭击有",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "喝了口，片刻后继续温和说道：“这一点再次证明，从来不坐跷踹，板的他，哪怕拥有再好的基础，哪怕家父和您同时看好他，他也不可能成为您期望中那个能平衡局面的人。”\n\n    他抬起头来，望着部夫人平静说道：“相反，他会让联邦局势变得更加危险和复杂，而很可惜的是，他拥有这种能力。”\n\n    “不。”部夫人",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，许乐居然会直接承认自己与那位恐怖袭击凶犯之间的关系，这些在情感上多多少少有些倾向许乐的记者们，满是忧虑不解地望着台上，心想你难道不明白这样做，等于是在挑战联邦民众的心理底线？\n\n    再如何忧虑不解，新闻记者们也必须按照职业要求，用最快的度编好简写新闻，布各自的报社或是电视台，紧接着，来自三林记",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "目光骤然间变得极为锐利。\n\n    这个问题很简单，却又绝对不简单，这意味着联邦军方的激进势力。会在日后的联邦政局中，对七大家采取怎样的姿态，而这种姿态又毫无疑问会直接影响到今后若干年的联邦，然而面对这个承载了无数意味的问题，李在道将军的回答，竟是那样的平静而简洁。\n\n    “当然。”",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "他本就不应该说。”\n\n    李在道端起面前的黑卷叶茶喝了口，片刻后继续温和说道：“这一点再次证明，从来不坐跷踹，板的他，哪怕拥有再好的基础，哪怕家父和您同时看好他，他也不可能成为您期望中那个能平衡局面的人。”\n\n    他抬起头来，望着部夫人平静说道：“相反，他会让联邦局势变得更加危险和复杂，而很",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "淡淡自嘲问道：“你相信他的承诺吗？”\n\n    “导军人变成政客，他们的承诺也就没有任何意义。”沈离安静地站在部夫人的身后，扮演着数年不变的角色。\n\n    部夫人的眉尖微微蹙起，声音微寒说道：“我喜欢更直接一些的回答，而不是这种戏剧腔调的东西。”\n\n    沈秘书敏锐地查觉到夫人的情绪有些糟糕，老",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

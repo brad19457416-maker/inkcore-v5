@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 805,
+  "chapter_title": "第一百六十七章 杀死自己上",
+  "filename": "ch_0805_第一百六十七章 杀死自己上.txt",
+  "char_count": 3350,
+  "timestamp": "2026-04-10T12:05:17.570995",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "颗星，黯淡星光之下，五人小组的仿古铜雕像与军神雕像对望无言，春夜如昨，夜风如常。\n\n    参与此次秘密军事行动的部队迅脱离宪章广场，由备用军事匣道，穿过地面的民用建筑，有时行经半高架承重桥，尽可能安静地向郊外的营地行去。\n\n    有一支车队从总统官邸处驶来，刚刚经过财政部大楼，驶出了宪章广场的范",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "那么在生命落幕之前，就绝对不会退场。\n\n    简短的叙话和情况通报之后，将军们率领自己的直属部队快离去，草坪外又只剩下了李在道和杜少卿二人。沉就很短的时间，李在道将军微微蹙眉，望着已经恢复平静的街道，开口说道：“其实，总统先生的那些顾虑，只是他替自己寻找的理由罢了，杀或者不杀，只 在——念之间，有",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "作优先。\n\n    一名铁七师近卫营中尉，看着幽暗装甲车厢底部被束缚在十字合金架上的小眼睛男人，强行压抑着心中的震惊与惘-然不安，紧紧握着手中的大火力短管枪械，默然想着，难道部队提前进行的这些改造，都是因为面前这个家伙？\n\n    联邦军人都知道这个家伙是如何了不起岭人物，对于机械电控系统的研究，更",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "乘坐装甲车马-去，车内多了十余名根本没有办法逃离的七组队员。先前充斥着紧张肃然气息的宪章广场，几乎是瞬间回复安静冷清。\n\n    沿街建筑门口还有几名少尉军官正微笑与居民们解释着什么，告诉大家反恐演习结束的好消息，同时双手送上国防部特别准备的大礼包，居民们对清梦被扰表示了大度的宽容。\n\n    偶尔",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "的灯光，沉就片刻后，他说道：“我需要总统先生的命令。”\n\n    “我们是军人，在战场上有临机处断的权力。而只要许乐在的地方，往往就是战场。”\n\n    李在道平静而富有压迫感的目光，直接穿透墨镜的镜片，落在杜少卿的眼上，继续说道：“杀死一个深受民众爱戴的联邦英雄，注定是会写在历史上的罪名，如果你坚",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "这句话的意思很明显，在他看来，帕布尔总统没有同意把许乐立即处决，和那些家族可能借势而为的危险无关，甚至和许乐身上令人百思不得其解的宪章第一序列权限无关，纯粹是今日之我看着往日之我的某种情绪在起作用。\n\n    再如何老辣沉着的阴谋家，年轻时大抵都有热情天真，经常热血愤怒的时间段，帕布尔总",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "看着往日之我的某种情绪在起作用。\n\n    再如何老辣沉着的阴谋家，年轻时大抵都有热情天真，经常热血愤怒的时间段，帕布尔总统如此，那李在遥自己呢？\n\n    “许乐是一个极度危险的人物，因为权限的问题，他的危险性甚至过协会所有成员的评估，在我看来，或许还在七大家隐藏。 力量之上，因为……他的危险太直",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "白硌牙齿，笑的眼睛都眯了起来。不知道是什么时间。\n\n    联邦第一军区位于都郊区的某转进基地一角，出现了一些非常诡异的画面，军械库沉重的合金门缓缓开启，十余台联邦最行进的黑色mx 机甲集体启动，在这深夜里缓缓驶出，浑身上下透着股极为肃杀的气息。\n\n    铁七师自帝国前线归来后，没有 回到53，而",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "许乐行动当中最关键的任务，然而进入官邸之后，他一句话都没有说过。\n\n    李在道看了他一眼，微笑着感慨道：“要消灭掉年轻时那个充满热情而天真热血的自己，确实是个很艰难的决定。”\n\n    这句话的意思很明显，在他看来，帕布尔总统没有同意把许乐立即处决，和那些家族可能借势而为的危险无关，甚至和许乐身",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“许乐是一个极度危险的人物，因为权限的问题，他的危险性甚至过协会所有成员的评估，在我看来，或许还在七大家隐藏。 力量之上，因为……他的危险太直接。”\n\n    李在道将军面无表情继续说道：“我们的事业无法承受这种风险，在简单直接的暴力手段面前，我们不能有丝毫退让。”\n\n    “少卿，把这件事情处理",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "力量之上，因为……他的危险太直接。”\n\n    李在道将军面无表情继续说道：“我们的事业无法承受这种风险，在简单直接的暴力手段面前，我们不能有丝毫退让。”\n\n    “少卿，把这件事情处理好勺”他望着杜少卿，说道：“不要考虑太多影响的问题，只要离开总统官邸和广场的范围，任何意外的死亡都能找到一个合适",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "间。\n\n    联邦第一军区位于都郊区的某转进基地一角，出现了一些非常诡异的画面，军械库沉重的合金门缓缓开启，十余台联邦最行进的黑色mx 机甲集体启动，在这深夜里缓缓驶出，浑身上下透着股极为肃杀的气息。\n\n    铁七师自帝国前线归来后，没有 回到53，而是留在了 s1，于是这个基地就成为了这支铁血",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "清。\n\n    沿街建筑门口还有几名少尉军官正微笑与居民们解释着什么，告诉大家反恐演习结束的好消息，同时双手送上国防部特别准备的大礼包，居民们对清梦被扰表示了大度的宽容。\n\n    偶尔掉落的青青树叶在街道上滚动，夜穹上挂着寂廖可数的几颗星，黯淡星光之下，五人小组的仿古铜雕像与军神雕像对望无言，春夜",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "草坪外又只剩下了李在道和杜少卿二人。沉就很短的时间，李在道将军微微蹙眉，望着已经恢复平静的街道，开口说道：“其实，总统先生的那些顾虑，只是他替自己寻找的理由罢了，杀或者不杀，只 在——念之间，有时候并不需要考虑太多。”\n\n    杜少卿没有接话，戴上了墨镜保持着沉就，事实上这个夜晚他和他的铁七师承担",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

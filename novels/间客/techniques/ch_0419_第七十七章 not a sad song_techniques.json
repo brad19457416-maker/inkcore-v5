@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 419,
+  "chapter_title": "第七十七章 not a sad song",
+  "filename": "ch_0419_第七十七章 not a sad song.txt",
+  "char_count": 3722,
+  "timestamp": "2026-04-10T12:04:59.221739",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "会。”\n\n    他抬起头来。有些勉强地笑了笑。说道：“事实上我能够记得今天是你地生日和这件事情有很大地关系。三年前地今天。也是我决定离开东林地日子。”\n\n    简水儿像个孩子般坐在圈椅中，薄毯搭在她的香肩之上裸的双足缩进了连身麻衣的下摆。她偏着脑袋，颇感兴致地望着许乐出了这个男子最后这句话里所夹",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "山作证的姑娘，比如那位未婚先孕的部长千金。\n\n    “我前几天认真想了想。”简水儿俏皮地挑挑眉毛，说道：“你和那位部长千金一直没结婚，但国防部好像也没有人把你就地正法……看来那件事情是误传，要不就是你在替某些人背黑锅。”\n\n    不得不说，这位国民少女在亲近的人面前时常会流露出娇憨的那一面，但毕",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "如果不是喝的太多，许乐一定不说出上面这番话，然而就在此刻，他的脑海中隐隐传来一个声音：“为什么不能呢？”\n\n    这个声音很是虚无缥缈，转瞬即逝，酒后的他并没有注意到，同样，已经喝了很多红酒，脸颊红润的简水儿，也没有从这段话里听出什么不一样的东西。\n\n    “十六岁生日我记得很清楚。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "人更是在沙上已经沉沉睡去。\n\n    “来了！出来了！”有人高声叫道，本来安静无比的生活区顿时惊醒，众人揉着眼睛，看向了舷梯处。\n\n    一名战舰军官站起来，看着手中的军用计时器，大声说道：“十五小时三十三分……四十二秒！”\n\n    从许乐走进简水儿的房间开始，战舰上的好事们便开始计时，很多人甚",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "之余，极富眼光。\n\n    在许乐的意念当中，椅中的少女陪伴了他整个青春期，如同一道长大，在度过了最初见到梦中偶像的激动与尴尬之后，那份深植于脑海中的亲近渐渐占据所有，他沉默了片刻，抬起头来说道：“关于我……或许是一个很长的故事，不知道你有没有兴趣一直听下去。”\n\n    简水儿没有回这句话，直接又",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "等不下去了，如果让太空战舰上的人现许乐清晨才离开小姐的房间……这事情传出去后国民少女的清誉怎么办？她将来在文艺圈还怎么混？\n\n    她取出备用的钥匙，打开房门一开微放下心来，因为小姐正醉意可爱地靠在床上睡觉她所担心的许乐正在窗边看着宇宙里的星辰呆，双手捧着一杯红酒房间的地毯上居然有九个空瓶子。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "……\n\n    ……\n\n    故事这里开始，第一次正式讲述自己所有经历的许乐，缓慢而认真地将自己来到都星圈后的所有事情都讲述了一遍，包括那个戴黑框眼镜的女孩儿，联邦调查局那位只喜欢抽三七牌香烟，有资格进三一协会的的公子间谍１区机甲对战室里没有吃过葱油饼的世家太子，在二号出城高速公路上拦着黑色汽车",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "在许乐的意念当中，椅中的少女陪伴了他整个青春期，如同一道长大，在度过了最初见到梦中偶像的激动与尴尬之后，那份深植于脑海中的亲近渐渐占据所有，他沉默了片刻，抬起头来说道：“关于我……或许是一个很长的故事，不知道你有没有兴趣一直听下去。”\n\n    简水儿没有回这句话，直接又摸出了第三瓶戛桐",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "因为她从来不会问“以后呢？”“然后呢？”“接下来呢”这些话。也不会掩着嘴巴做惊恐状。对这个离奇壮丽地人生故事出无限赞叹。\n\n    许乐也并不需要这些。他只是需要倾吐。需要一个安静而信任亲切喜爱地听众低着头。用双手捧着红酒杯。哑声说道：“我决定逃离东林地时候。那天阳光很好。房间里地灰尘很多。就像无数",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "端着一杯热腾腾的咖啡，微笑举杯，对许乐表示祝贺。\n\n    ……\n\n    ……\n\n    （下一章马上一起，今天白天抓着头赶出来的两章，这章修过，下章来不及修改了，马上出门，如果有些糙的话，大家见谅。）(未完待续，如欲知后事如何，请登陆idian，章节更多，支持作，支持正版阅读！ www/xiao",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "直听下去。”\n\n    简水儿没有回这句话，直接又摸出了第三瓶戛桐红酒，笑眯眯地将桌上两个杯子斟满，同时微微偏头，掀起耳畔的紫色蓬，俏皮地搓了搓耳垂，做了一个洗耳恭听的可爱模样。\n\n    许乐挠挠头，尽量让自己要被那青葱指尖轻搓白玉耳垂的画面所诱惑，略一停顿后说道：“回都星圈的第一天，在离开机场的",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "还怎么混？\n\n    她取出备用的钥匙，打开房门一开微放下心来，因为小姐正醉意可爱地靠在床上睡觉她所担心的许乐正在窗边看着宇宙里的星辰呆，双手捧着一杯红酒房间的地毯上居然有九个空瓶子。\n\n    ……\n\n    ……\n\n    在桐姐杀人的目光中，许乐有些难堪地揉了揉眉角，走出了房门。事实上他的酒量",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "越来越亮。许乐这张普通平凡地面容。线条变得越来越清晰。\n\n    国民少女偶像是一个好地倾听。因为她从来不会问“以后呢？”“然后呢？”“接下来呢”这些话。也不会掩着嘴巴做惊恐状。对这个离奇壮丽地人生故事出无限赞叹。\n\n    许乐也并不需要这些。他只是需要倾吐。需要一个安静而信任亲切喜爱地听众低着头",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "太空战舰落地窗外地星辰依然挥散着万古不变地淡光。宇宙地背景似乎一直没有改变过。\n\n    简水儿一直安静地着。偶尔喝一口杯中地红酒句话都没有说。微眯着地眼睛里却越来越亮。许乐这张普通平凡地面容。线条变得越来越清晰。\n\n    国民少女偶像是一个好地倾听。因为她从来不会问“以后呢？”“然后呢？”“接下",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

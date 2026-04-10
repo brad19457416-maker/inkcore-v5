@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 795,
+  "chapter_title": "第一百五十九章 花一样的春天（七）",
+  "filename": "ch_0795_第一百五十九章 花一样的春天（七）.txt",
+  "char_count": 3401,
+  "timestamp": "2026-04-10T12:05:17.620484",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "送伍德记者离开乔治卡林基金会艺术中心时，黄昏还没有 来得及完全褪去，街畔的桃花在 浓郁的春风和黄金般的温暖里笑着，许乐觉得有些刺眼，正准备戴上墨镜的时候，却看见一个自己完全没有想到的女孩儿出现在了自 己面前，于是那幅宽大的墨镜有些滑稽地僵硬在了他的下颌前。\n\n    她穿着不起眼的淡灰色运",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "现在，官邸方面现在应该承受着极大的压力，我们所需要做的是配合总统先生的步伐和节奏。”\n\n    许乐说道：“刚刚生了议会山这件事情，民众情绪很激动，帝国前线还有 几十万联邦士兵，都星图这边不能乱。”\n\n    “据我所知，除了参加拜伦副总统的葬礼之外，官邸方面以提高安全等级为理由，帕布尔先生已经有十",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "及观看甚至来不及喘息，竟是没有留出让美好释放的机会。\n\n    说起来真的很奇妙，这竟是许乐和帘水儿第一次像真正恋人那样散步，只是看似宁静恬美的恋爱场景，却不得不裹胁着那些七组队员像雪球一样渡缓滚动，令人无言。\n\n    而且就在这样极为难得，应该被好好珍惜的散步中，青年男女的谈话，依然不可避免地与",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "些改变，虽然话依然不是大多，但总不像当年那么沉就。”\n\n    她看了一眼身后街畔阴影里的七组队员，感慨地摇了摇头：“而且你显得自信了很多，就这么一些伙伴，就敢宣称联邦军方最有力量的男人正在畏惧你。”\n\n    “以前因为你那个无良老爹的关系成了联邦逃犯，一天到晚紧张的就像一坨凝固的屁，当然比较沉就",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "情绪当然会好很多，人的心情一好，就愿意多说话。”\n\n    “至于自信，李在道将军当然是个很优秀，很危险的人物，但只要我不会愚蠢地把自己放进死巷子里，我想不出来他有什么方法能够控制住我。\n\n    许乐那双浓如 墨的眉毛再次皱了起来，唇角紧紧抿着向上翘着，用手指着前方那几幢高层建筑，说道：“你看，我",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "们所需要做的是配合总统先生的步伐和节奏。”\n\n    许乐说道：“刚刚生了议会山这件事情，民众情绪很激动，帝国前线还有 几十万联邦士兵，都星图这边不能乱。”\n\n    “据我所知，除了参加拜伦副总统的葬礼之外，官邸方面以提高安全等级为理由，帕布尔先生已经有十几天没有在公众场所出现过。伍德记者吸了。烟",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "向上翘着，用手指着前方那几幢高层建筑，说道：“你看，我很清楚危险在哪里，所以这些危险对于我来说，并不存在。”\n\n    “我不是很理 解你想说的问题。”连衣帽的阴影中，那双清扬的眉毛好看地蹙着，她望着慕光中的那几幢建筑，有些不解地自嘲笑了笑。\n\n    然后她转过头来，非常认真地看着许乐的脸，端详着",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "信有很大一部分因素是因为，他一直在筹谋，当军神逝世后，李家怎样才能继续保有当前的地位，或者说荣撑。“为什么会忽然谈 到这个？”他疑惑地望着简水儿。\n\n    “现在这种危险敏感的局面，我们都没有办法去缓解，大概只有在某种情况下，他才会部分放弃计划，比如不杀死你，而是试图收伏你，至少不至于下一秒钟，整",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "更像是自言自 f6的话没有必要说太多，就像以前那样，做事总是比说话要更重要些。\n\n    送伍德记者离开乔治卡林基金会艺术中心时，黄昏还没有 来得及完全褪去，街畔的桃花在 浓郁的春风和黄金般的温暖里笑着，许乐觉得有些刺眼，正准备戴上墨镜的时候，却看见一个自己完全没有想到的女孩儿出现在了自 己面前，于",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "联邦军方最有力量的男人正在畏惧你。”\n\n    “以前因为你那个无良老爹的关系成了联邦逃犯，一天到晚紧张的就像一坨凝固的屁，当然比较沉就。”许乐说道。\n\n    简水儿插了一句话：“我知道部队是怎么回事儿，不过对于你这种新奇的粗话形容还是感到佩服。”\n\n    许乐笑着继续说道：“后来你那位堂兄，还",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "处负 责狙击安控任务的队员们，通过自 己的双眼或是远程望远镜，看着那只穿过许乐臂弯的纤纤玉手，忍不住同时在心中轻轻叹息一声，羡慕嫉妒不得不恨。许乐微涩笑道：“最近这事儿有些麻烦。”\n\n    “虽然我们这场恋爱开展的确实有些过于清淡，甚至都没有怎么见过面。”简水儿很可爱地耸耸肩，抱着他的手更紧了些，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "你坚持站在他的对立圣上，那么我对你只有一个忠告，面对他再怎样小心谨慎都不过分。”\n\n    “不用太担心，我这些天一直在努力学习摆脱冲动派的色彩。”许乐抬头望着街道正中间那轮扁扁的红松，蹙着眉头却有笑意“相反我认为你那位堂兄现在应该正在烦恼，他更需要小心谨慎。“我们认识几年了 ？”活水儿静静望着他的",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "你女朋友的话，事情越麻烦，你就越应该告诉我。”“这确实是我的问题。”许乐 有些惭愧说道：“大概是因为从来没有正经谈过恋爱的关系，所以考虑的不周全。”“我原谅你。”\n\n    简水儿微微仰头，漂亮的下巴带着丝嘲讽，水一微的瞳子反耀着晚霞。然后两个人开始沿着都南城的街道散步，四周两百米范围内，更远处的高",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "大的墨镜有些滑稽地僵硬在了他的下颌前。\n\n    她穿着不起眼的淡灰色运动风衣，就像当年离开空港，在无数士兵欢呼中前往西林开演唱会时那样，连衣帽严严实实地遮住她的头脸，遮住早已由紫变黑，由短变长的秀，帽影中偶尔一瞥的精致眉眼依然能够令所有人惊艳。\n\n    军神李匹夫盛大的葬礼和雕像落成仪式之后，简",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "让美好释放的机会。\n\n    说起来真的很奇妙，这竟是许乐和帘水儿第一次像真正恋人那样散步，只是看似宁静恬美的恋爱场景，却不得不裹胁着那些七组队员像雪球一样渡缓滚动，令人无言。\n\n    而且就在这样极为难得，应该被好好珍惜的散步中，青年男女的谈话，依然不可避免地与这春暮风景极为不协调，尤其是简水儿",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "伍德记者离开乔治卡林基金会艺术中心时，黄昏还没有 来得及完全褪去，街畔的桃花在 浓郁的春风和黄金般的温暖里笑着，许乐觉得有些刺眼，正准备戴上墨镜的时候，却看见一个自己完全没有想到的女孩儿出现在了自 己面前，于是那幅宽大的墨镜有些滑稽地僵硬在了他的下颌前。\n\n    她穿着不起眼的淡灰色运动风衣，就像",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

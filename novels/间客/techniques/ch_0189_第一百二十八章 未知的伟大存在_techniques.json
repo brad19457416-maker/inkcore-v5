@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 189,
+  "chapter_title": "第一百二十八章 未知的伟大存在",
+  "filename": "ch_0189_第一百二十八章 未知的伟大存在.txt",
+  "char_count": 3625,
+  "timestamp": "2026-04-10T12:04:45.712346",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "似乎有智慧，能回答，然而却不知道是怎样的存在。\n\n    机修师封余，宪章局第一序列事件当事者，毫无疑问是联邦这一百年来最大的妖物，可即便是这个妖物。面对着少年许乐时，也深为赞叹此人的冷静更在其机修天赋之上。\n\n    一般人面临此境，只怕早已惊恐厥倒在地，而许乐却依然死死地站着。思考着。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "监控下，将那些数据毁掉。\n\n    然而那些字符的主人，却像是一个律师那般，有理有节地做出了回应。一瞬间，许乐怔住了，想到了某种可能性，想到了自己的赌注，下意识里认为，这个入侵自己大脑的古怪存在，说不定真是无所不能的。\n\n    “法律文书，我存在望都府明公寓房的电脑中。”\n\n    只需要几句话，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "什么东西？\n\n    能够在瞬间确认自己留在望都公寓里的电子法律文书，能够无视联邦中央数据库的防御，轻松转移甚至修改实验室里这些做过电子保全的数据，能够将这些数据通过某种神奇的手段，传进自己的大脑……\n\n    那个东西能够入侵自己的大脑，能够做出这么多匪夷所思的事情，如此机械却又像是有生命的回应，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "身陷绝望之中。却忽然再次进入黑梦。遇着未知，这可能是一个变数。可能是一个机会，可能是无穷的危险。可他依然赌了。赌的如此决然，以至于他浑然没有在意，进入黑梦那一刹那，自己内心深处所涌起的抵触情绪。\n\n    许乐不是一个赌徒，相反他从来不愿意赌什么，只是此时此刻，他已经全盘皆输，除了自己地生",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "任何异样。谁也不知道，在中央电脑地核心区域里，人类机械文明地最高智慧，开始不停地运转，进行逻辑判断，最终却只能归于混沌，给出了自己的结论。\n\n    黑梦中，那行白色字符变化。\n\n    “请问我有什么可以帮助您地吗？”\n\n    这是一行长长的白色字符，飘荡在许乐眼前地黑色背景之中，虽然无声无息，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的一切是他最为恐惧和向往的。对于孩子来说，房间之外的一切，是他最为恐惧和向往的，对于远古的人类而言，山那边的一切，是他最为恐惧和向往的，对于现代联邦的公民而言，黑幕天域尽头的宇宙，是他最为恐惧和向往的。\n\n    人类最恐惧的精神指向，最向往好奇的领域，都在未知。\n\n    许乐此时便正陷于这种极端",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "研究所三部数十公里之外的深深地层之下，那台光辉遍布宇宙的中央电脑光屏上，发生了一阵令人心神摇晃的波面颤抖。\n\n    中央电脑的数据流依然如此稳定，宪章局的工作人员没有查觉到任何异样。谁也不知道，在中央电脑地核心区域里，人类机械文明地最高智慧，开始不停地运转，进行逻辑判断，最终却只能归于混沌，给出了",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，不知道在黑梦中能不能显现出来，他盯着那行白色字符，忽然想到了沈教授这些数据的重要性，在脑海里大声地说道。\n\n    无数的字符，无数的数字，无数的难以理解的以图画形式呈现的模型与公式，变幻着微绿色的光芒。从天而降，如流水瀑布一般，时而轻柔，时而狂暴地落下。沿着许乐的眼帘落下。\n\n    这些全部是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "第一百二十八章 未知的伟大存在 \n\n    我知道写现阶段许乐这样一个“好人”，在这个时代是会被鄙视且无视的，然则没有料到，居然连无视也不能得，偶有所馈竟不止鄙视。\n\n    仅仅是想正常一点儿，居然也能被骂变态，不止许乐变态",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "上要被逮捕，再也无法阻止联邦科学院和铁算利家他们那个无耻地协议。\n\n    身陷绝望之中。却忽然再次进入黑梦。遇着未知，这可能是一个变数。可能是一个机会，可能是无穷的危险。可他依然赌了。赌的如此决然，以至于他浑然没有在意，进入黑梦那一刹那，自己内心深处所涌起的抵触情绪。\n\n    许乐不是一个赌徒，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "第一百二十八章 未知的伟大存在 \n\n    我知道写现阶段许乐这样一个“好人”，在这个时代是会被鄙视且无视的，然则没有料到，居然连无视也不能得，偶有所馈竟不止鄙视。\n\n    仅仅是想正常一点儿，居然也能被骂变态，不止许乐变态，我这个写他的作者也变态了，照顾朋友的女人，便是事先心存了不",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "他浑然没有在意，进入黑梦那一刹那，自己内心深处所涌起的抵触情绪。\n\n    许乐不是一个赌徒，相反他从来不愿意赌什么，只是此时此刻，他已经全盘皆输，除了自己地生命之外，根本没有什么可失去的，此时不赌，更待何时？\n\n    许乐并不知道，当他在脑海里选择了接受主动联系之后，距离果壳机动公司研究所三部数",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "不能显现出来，他盯着那行白色字符，忽然想到了沈教授这些数据的重要性，在脑海里大声地说道。\n\n    无数的字符，无数的数字，无数的难以理解的以图画形式呈现的模型与公式，变幻着微绿色的光芒。从天而降，如流水瀑布一般，时而轻柔，时而狂暴地落下。沿着许乐的眼帘落下。\n\n    这些全部是沈老教授实验室里的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的家伙，押出实验室门外。\n\n    就在一行人神情严峻地走出实验室时，被夹在两名宪兵中间的许乐，终于缓缓地醒了过来，他的瞳孔渐渐回复正常，苍白的脸色却一时间没有好转。\n\n    许乐的眼眸里闪过一丝惘然，一丝喜悦，一丝坚狠……和一丝恐惧。\n\n    沈老教授实验室里的数据已经全部转移进了他的大脑，而",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

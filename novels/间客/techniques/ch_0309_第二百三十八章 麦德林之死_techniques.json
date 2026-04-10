@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 309,
+  "chapter_title": "第二百三十八章 麦德林之死",
+  "filename": "ch_0309_第二百三十八章 麦德林之死.txt",
+  "char_count": 3324,
+  "timestamp": "2026-04-10T12:04:59.194311",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "个平凡地小人物。他此时甚至不知道麦德林地真实身份。他这个小人物地所作所为对于这个联邦来说。将会带来多大地影响。\n\n    他用左手举起了枪。然后抠动了扳机。\n\n    入楼后地一切本来都是按照计划在走。只是中间出了一个极大地问题。但从许乐处理安全屋一事来看。在拥有了足够情报地前提下。他是一个很冷静。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "麦德林递过去自己的笔，准备用沙哑的声音开始谈判。\n\n    许乐看着递到自己面前的笔，心头微感愕然，暗想自己是不是应该说声谢谢？自己此时要杀他，他还想着给自己找一个趁手的家伙？面对死亡如此平静，如此风轻云淡，虽则这位员是个不可饶恕的家伙，可依然让他生出了些许感慨。\n\n    谁也不知道，就连日后联邦",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "前，沙哑着声音说道：“我~，你应该很需要这”\n\n    直至此时，麦德林议员还在思考这个叫许乐地人，为什么要来杀自己。如果是为了那个叫张小萌的女孩儿报仇，可是张小萌并没有死，这位老辣地议员怎么也没有想到，许乐杀他只是为了某些在他看来，在联邦大人物看来，很不值得一提的旧事，比如临海，比如演唱会。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "己地枪里还有一颗子弹。最后一颗子弹。\n\n    然后这一枪却没有响，第七小组军械库里的彪悍枪械，终于第一次出现了问题，却出现在这最关键的时刻。许乐含糊不清地咕哝了一句什么，唇角的鲜血正在，将手中的枪扔到了地上。\n\n    在这一刻，麦德林议员已将涣散的眼神迅疾合拢，重现光彩，他一生经历的生死瞬间太多",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "中的枪扔到了地上。\n\n    在这一刻，麦德林议员已将涣散的眼神迅疾合拢，重现光彩，他一生经历的生死瞬间太多，但哪一刻也没有先前许乐对着他眉心抠动扳机时，更加惊心动魄。只是当这一刻消失，老辣而心神强硬地麦德林，准备抓住这最后的机会。\n\n    他并没有试图掏出口袋里的枪进行射击，因为先前发生的一幕幕",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "窃窃私语，议论这样一个学生怎么能够坐进最豪华地包厢，这些女孩儿有的人后来变成了尸体，就在许乐带着之源逃亡的路上，曾经亲眼看到。他又想到了环山四州那场演唱会，想到那些才六七岁便已经死去的孩子，以及孩子们那些死亡沉睡时依然天真稚嫩的脸，还有他们的亲人家人，宪章广场上那些廖廖可数的人。\n\n    许乐一直",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "上悬挂的大钢球，呼啸着擂了过去。\n\n    再坚固的安全屋设计，大概也从来没有想过，会有人的身体能够爆发出这种重型机械的力量。于是在许乐的拳头面前，透明的玻璃门滋滋裂开，微白的裂痕就像蜘蛛网一样四散，然后碎裂成乱七八~后现代图面，最后便成无数破碎的脆玻璃，丁丁当当落了下来。\n\n    如千堆雪堆积于",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的折断的右手腕，也开始传来阵阵剧痛。\n\n    许乐艰难地移动着酸涩痛楚生硬的身体，靠着旁边的墙壁，缓缓:坐了下来。\n\n    ……\n\n    ……\n\n    遥远的s1１星球首都特区，人山人海的议会山前，参加总统就职仪式地人们，激动地看着石阶上个面色黝黑的总统先生，帕布尔总统的演讲已经进入到了尾声",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "…\n\n    ……\n\n    遥远的s1１星球首都特区，人山人海的议会山前，参加总统就职仪式地人们，激动地看着石阶上个面色黝黑的总统先生，帕布尔总统的演讲已经进入到了尾声，那些排山倒海而来的辞句，那些铿锵有力的话语，那些并没有太多繁复辞藻，却格外有力量地承诺，就像是无数钟声，击打在这些对联邦新一届政",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "爱，那一刻他的心里大概会想到电影里的同行者，那些大鼻子或小鼻子的情圣来为自己加油。参加高中联考的年轻人们，一定会想无数优秀的前代师兄或是学校最牛地作弊高手来为自己打气。西林前线坑道中最后一名军人抱着集束炸弹，悍不畏死地冲向身前密密麻麻的帝国战车时，肯定会想到很多英雄人物，比如李匹夫。见义勇为者，想想",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "惯地要用很多精神上地事情来提升自己地勇气或是信心。许乐也是一个常人。他也不例外。然而当他踩过玻璃雪。来到麦德林议员身前地时候。他却什么也没有想。\n\n    三有青年许乐。没有想面前地麦德林看上去已经像是风烛残年地老人。那老态龙钟愕然绝望地神情就像任何一个值得同情地家伙般让人心里发颤。他没有想自己杀死",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "，如此风轻云淡，虽则这位员是个不可饶恕的家伙，可依然让他生出了些许感慨。\n\n    谁也不知道，就连日后联邦的历史书也不知道，这其实只是一个误会。\n\n    许乐的脸上没有丝毫表情，或许只有这样，才能稳住自己的心情。他取过了那只笔，然后沉默着刺了下去。\n\n    黑色的名贵水，前端是坚硬的合金尖头，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "拳太狠，太重，就像是重型拆卸机上悬挂的大钢球，呼啸着擂了过去。\n\n    再坚固的安全屋设计，大概也从来没有想过，会有人的身体能够爆发出这种重型机械的力量。于是在许乐的拳头面前，透明的玻璃门滋滋裂开，微白的裂痕就像蜘蛛网一样四散，然后碎裂成乱七八~后现代图面，最后便成无数破碎的脆玻璃，丁丁当当落了下",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "方面拥有强大不可匹敌的恐怖实力。\n\n    麦德林伸出一直握在手中地那只笔，递到了许面前，沙哑着声音说道：“我~，你应该很需要这”\n\n    直至此时，麦德林议员还在思考这个叫许乐地人，为什么要来杀自己。如果是为了那个叫张小萌的女孩儿报仇，可是张小萌并没有死，这位老辣地议员怎么也没有想到，许乐杀他只",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

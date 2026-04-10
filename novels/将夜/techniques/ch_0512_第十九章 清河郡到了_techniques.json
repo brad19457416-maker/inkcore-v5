@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 512,
+  "chapter_title": "第十九章 清河郡到了",
+  "filename": "ch_0512_第十九章 清河郡到了.txt",
+  "char_count": 3157,
+  "timestamp": "2026-04-10T12:11:26.527703",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "最好的房间。\n　　把大黑马交给客栈伙计，他嘱咐那伙计千万不要喂这憨货豆包之类的干粮，那伙计震惊无语，心想果然是豪客，居然养的马娇贵的连豆包都不能吃。\n　　宁缺倒不是怕大黑马吃坏肚子，而是怕它嫌伙食不好发脾气。要知道这憨货如今吃习惯了新鲜瓜果外加黄精山参之类大补的东西，哪里瞧得上什么豆包，至于草料更是",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "白墙黑檐，高低有致，若隐若现在青树水车之间，并不显得单调，反而别样静美。\n　　黑色马车继续向南，沿途风景越来越安静，溪河越来越多，清池石桥常见，农田相对变得少了些，幽静的庄园却多了不少。\n　　原来已经到了清河郡。\n　　清河郡有座大城，号称大唐南原第一城，名为阳关，这座池城地势虽不险要，却在极关键的交",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "马车一路看来，竟是挑不出这座城丝毫毛病，但他有些执拗地认为，此间与长安城比较起来，总差了些东西，至于究竟差些什么，他才懒得去琢磨。\n　　便在这时，桑桑走了马车。\n　　宁缺问道：“银子寄了？”\n　　桑桑点了点头。\n　　宁缺说道：“确认用的是朝廷文书联寄？”\n　　桑桑说道：“能省五两银子，当然不会忘。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "到了\n　　出了青峡，便来到大唐帝国真正的南方。原野上阡陌纵横，花树渐繁，溪河平流，安静向南而去，直至最终汇入著名的大泽。\n　　因为有北面群山和青峡的存在，所以哪怕南晋军力强大，水师更是天下闻名，大唐却没有在南方平原上布置重兵。\n　　于是这片同样富庶的原野，比北方少了些壮阔，多了些明秀雅致的气息，道路",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第十九章 清河郡到了\n　　出了青峡，便来到大唐帝国真正的南方。原野上阡陌纵横，花树渐繁，溪河平流，安静向南而去，直至最终汇入著名的大泽。\n　　因为有北面群山和青峡的存在，所以哪怕南晋军力强大，水师更是天下闻名，大唐却没有在南方平原上布置重",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "野上阡陌纵横，花树渐繁，溪河平流，安静向南而去，直至最终汇入著名的大泽。\n　　因为有北面群山和青峡的存在，所以哪怕南晋军力强大，水师更是天下闻名，大唐却没有在南方平原上布置重兵。\n　　于是这片同样富庶的原野，比北方少了些壮阔，多了些明秀雅致的气息，道路两旁的民宅也是如此，大多是白墙黑檐，高低有致，若",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "清河郡崔阀老太爷的百岁寿辰，大概是崔姓想着红袖招难得出趟长安城，便邀其于寿宴上以歌舞助兴，却似乎中间出现了一些问题。\n　　……\n　　……\n　　清河郡诸大姓，绵延数千年，甚至长于大唐国祚，向来极受世人尊敬，除了钟姓，其余诸姓并不居住在阳关城内，而是居住在富春江畔的庄园里，富春江两岸名园处处，默然证明着",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "得去琢磨。\n　　便在这时，桑桑走了马车。\n　　宁缺问道：“银子寄了？”\n　　桑桑点了点头。\n　　宁缺说道：“确认用的是朝廷文书联寄？”\n　　桑桑说道：“能省五两银子，当然不会忘。”\n　　宁缺满意说道：“那便好。”\n　　自从离开渭城之后，更准确地说，从老笔斋开张，然后开始挣到很多银子后，他二人每月都会",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "想果然是豪客，居然养的马娇贵的连豆包都不能吃。\n　　宁缺倒不是怕大黑马吃坏肚子，而是怕它嫌伙食不好发脾气。要知道这憨货如今吃习惯了新鲜瓜果外加黄精山参之类大补的东西，哪里瞧得上什么豆包，至于草料更是看都不会看一眼。\n　　本来这憨货骨子里就是一吃货，这一年又被那头老黄牛给带进了沟里，开始像夫子一样讲究",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "业，而钟姓只不过是清河郡诸大姓里最不起眼的一个门阀。\n　　大唐南方的这些高姓大阀，拥有良田万顷，财富无数，而真正能够令得这些门阀绵延长久的却是对教育的重视。\n　　这些门阀最为注重教化传承，逾千年的底蕴风华，不知出了多少名士。大唐朝廷官员不说，多年前的历任皇后不说，甚至还曾经出过数任西陵大神官，如今还",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第十九章 清河郡到了\n　　出了青峡，便来到大唐帝国真正的南方。原野上阡陌纵横，花树渐繁，溪河平流，安静向南而去，直至最终汇入著名的大泽。\n　　因为有北面群山和青峡的存在，所以哪怕南晋军力强大，水师更是天下闻名，大唐却没有在南方平原上布置重兵。\n　　于是这片同样富庶的原野，比北方少了些壮阔，多了些明",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

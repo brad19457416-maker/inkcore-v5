@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 820,
+  "chapter_title": "第二百零一章 那人说了一句话",
+  "filename": "ch_0820_第二百零一章 那人说了一句话.txt",
+  "char_count": 2346,
+  "timestamp": "2026-04-10T12:11:27.253778",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "数年的酒徒和屠夫出现了。\n　　世间的局势必然会因此发生极剧烈的变化，明亮的前路骤然黯淡。\n　　晴朗的天空里下起了雨，春雨寒冷刺骨。\n　　宁缺抬头望向灰鞯奶炜眨沉默了很长时间。\n　　他走进黑色马车，在车厢角落里看到了一个黑匣子。\n　　黑匣子很眼熟，就算现在有些变形，他依然不可能忘记，因为匣子里的事物，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "光。\n　　酒徒的神情没有变化，说道：“若你修行到了某种境界，便能明白，所谓荣辱之类的情绪其实没有任何意义。”\n　　“那什么才有意义？”\n　　“永恒，是生命存在唯一的意义，或者说唯一应该追求的目标。”\n　　酒徒看着青天说道：“为了抵达彼岸，实现这个目标，完成生命的意义，我们愿意为之付出任何代价，何惧做",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "后拿起残茶，碗中金色的茶水轻起涟漪，不是因为有春雨误落，而是因为她的手有些不稳。\n　　这是她见过的最危险的宁缺，虽然他似乎什么都没有做，神情平静，语气沉稳，但事实上他已经愤怒到了暴发的边缘。\n　　如果她没有办法让他冷静下来，那么先前，宁缺真的有可能会不顾一切，调动惊神阵的力量把她杀了，或是真地把她强",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "然后轻轻掀开――铁弓依然在，锋利的箭簇泛着寒光，仿佛一直在等着他。\n　　……\n　　……\n　　黑色马车来到雁鸣湖畔，被紧急调来拉车的数匹骏马神情委顿至极。\n　　春雨把车厢壁上的灰尘洗去不少，符阵却始终没有开启。\n　　柳亦青一直抱剑守在院门处，听着车轮碾地的声音，缓缓站起身来。\n　　宁缺提着黑匣走下马车",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "亦青忽然感受到一股慑人的杀意。他蒙在眼睛上的白布带已经被春雨打湿，此时却骤然干燥，不由心神剧震，右手猛然握住剑柄。\n　　宁缺看都没有看他一眼，就这样从他的身前走过，根本不在意这名剑阁知命境强者随时可能拔剑，神情平静的令人心悸。\n　　柳亦青没能拔出剑来，因为他的手腕上出现道道裂痕，如龟裂的土地一般渗出",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "缺沉默片刻，眼前那株梅花在雨水的浇打下，渐从灵动变得疲惫，说道：“你应该很清楚，没有退路的时候便只好拼命。”\n　　叶红鱼说道：“你们还有退路，李家还有位亲王殿下。”\n　　宁缺看着那株梅花，说道：“我操你妈。”\n　　他的声音很平静，语气很温和，却流露出来非常坚定的决心。\n　　叶红鱼神情不变，说道：“我",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "低着头，鲜血从他的手腕间不停滴落，与檐上落下的雨水一道，不停发出轻微的啪啪声。\n　　“好可怕的杀意与愤怒。”\n　　……\n　　……\n　　没有人能用肉眼看出来宁缺在愤怒，在他的眉眼间更看不到什么杀意。他此时就像是一口废井，始终无人问津，静的看不到有多深。\n　　叶红鱼在廊下看雨中的梅花，手里捧着碗清茶。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "手？二师兄说的对，和夫子与小师叔相比，你们真的就是懦夫，不过懦夫总比狗要好一些。”\n　　宁缺看着酒徒说道，这简单的一句话里其实是三个问题，不停递进，就像是三把刀又像是三记热辣的耳光。\n　　酒徒的神情没有变化，说道：“若你修行到了某种境界，便能明白，所谓荣辱之类的情绪其实没有任何意义。”\n　　“那什么",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "殿来长安与书院谈判的人，自然是掌教。”\n　　宁缺说道：“掌教大人已经是个废人。”\n　　“或者你说的是真相。”\n　　叶红鱼看着他说道：“但掌教回神殿后，便再也没有人见过，所以就算他已经是个废人，他的话依然有效用。”\n　　“他说的有道理，书院的态度会有所变化。”宁缺走到石窗畔，看着那丛在料峭春雨里愈发灵",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "道：“为了抵达彼岸，实现这个目标，完成生命的意义，我们愿意为之付出任何代价，何惧做狗？你应该庆幸今天出现在长安城外的是我而不是屠夫，不然谁知道会发生什么？”\n　　宁缺说道：“既然是做狗，当年你们就应该去西陵当看门狗。”\n　　这句话很刻薄，酒徒的神情依然没有任何变化，平静说道：“永恒的前提是存在，存在",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "就是你们得到的承诺？”\n　　酒徒没有回答他的这个问题，指着城门洞前的车厢，说道：“这是还给你的东西，同时有人还有句话要我转述给你听。”\n　　宁缺说道：“什么话？”\n　　酒徒说了一句话，神情平静甚至有些木讷，明显这句话是背下来的，没有混入一丝他自已的理解或感情。\n　　然后他转身离开，酒壶在春风里轻轻摇",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "开，酒壶在春风里轻轻摇摆，让宁缺想起大师兄腰间以前那只木瓢，甚至就连走路的姿式都和大师兄很像。\n　　某年在书院后山，大师兄在前面的山道间行走，看似极慢，宁缺在后面加快脚步跟着，却怎么追也追不上。\n　　他看着酒徒离去的背影，脸色有些苍白，心情震荡，没有留意此人离开之前代人转述的那句话。\n　　数月战火连",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "数月战火连绵，唐国和书院付出极大代价才终于稳定住局势，甚至隐隐已经看到明亮的前路，然而就在这时，隐世无数年的酒徒和屠夫出现了。\n　　世间的局势必然会因此发生极剧烈的变化，明亮的前路骤然黯淡。\n　　晴朗的天空里下起了雨，春雨寒冷刺骨。\n　　宁缺抬头望向灰鞯奶炜眨沉默了很长时间。\n　　他走进黑色马车，在",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "雨把车厢壁上的灰尘洗去不少，符阵却始终没有开启。\n　　柳亦青一直抱剑守在院门处，听着车轮碾地的声音，缓缓站起身来。\n　　宁缺提着黑匣走下马车，向院里走去。\n　　柳亦青忽然感受到一股慑人的杀意。他蒙在眼睛上的白布带已经被春雨打湿，此时却骤然干燥，不由心神剧震，右手猛然握住剑柄。\n　　宁缺看都没有看他一",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

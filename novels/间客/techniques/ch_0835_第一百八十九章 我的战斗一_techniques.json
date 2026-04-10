@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 835,
+  "chapter_title": "第一百八十九章 我的战斗一",
+  "filename": "ch_0835_第一百八十九章 我的战斗一.txt",
+  "char_count": 3533,
+  "timestamp": "2026-04-10T12:05:17.614998",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "有被帝国制式导弹击中的焦糊痕迹，看到这个细节的空港官兵们震惊无比，这艘战舰带回来的人究竟要执行什么样紧急的任务，竟然连如此重的破损都来不及修复，居然冒着如此大的风险跨越无数光年高回来。\n\n    有些变形的舱门被液压机械强行推开，一个身形魁梧的联邦上校走了出来，他的脚步异常沉稳，年轻英秀的眉眼间没有",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "郁微笑说道：“虽然他还有很多秘密，相信你和我都不知道，但我相信拥有那些秘密的他，现在的都特区没有谁能轻松地杀死他。”\n\n    简水儿沉默很长时间后，望养她平静说道：“我今天来，是因为一件事情。如果你能见到他，麻烦你告诉他……李封回来了。”\n\n    ……\n\n    ……\n\n    都郊区的军用空港",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "哪里，但正如刚才所说，既然造物主选择让他耀眼，那么他没那么容易死掉。”邹郁微笑说道：“虽然他还有很多秘密，相信你和我都不知道，但我相信拥有那些秘密的他，现在的都特区没有谁能轻松地杀死他。”\n\n    简水儿沉默很长时间后，望养她平静说道：“我今天来，是因为一件事情。如果你能见到他，麻烦你告诉他……李",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的人，而现在要杀他的是是李在道将军。”\n\n    “我是李家的人，李在道是我的堂兄。”简水儿摘下运动风衣的帽子，黑sè的马尾辫弹了出来，一荡一荡，微仰着的清丽脸颊上莫名流露着沉稳的傲意，“但我更是他的未婚妻。”\n\n    邹郁握着特制花剪的手微微一僵，旋即微笑回答道：“原来是以这个身份来质问我……不",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "势逼人，可以把人逼成废人，也可以把粗糙的汉子逼成多愁善感的诗人，尤其是当他们现自己对很多事情，甚至连愤怒都显得有些无能为力，那么除了感慨和忧郁，便再难生出更多的情绪。\n\n    战舰角落里或蹲或站着很多十七师官兵，有队员也有几名曾经在作训基地里的军官生。\n\n    赫雷团长从大熊嘴里抢过烟卷，啪啪点",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "还有那些天在陆军总医院出现的奇怪军人，还有现在依旧放在抽屉里的那厚厚一包钱，她推开白玉兰，有些惊慌地说道：“你……你……你真是那个七组的人，那你……你说的那个愚蠢的家伙……是不是许乐？”\n\n    白玉兰平静看着妻子，温和说道：“我以为你早就知道……虽然我已经退伍，但那个家伙终究是我的战友，同时他还",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "柔软，渐渐的却僵硬起来，联想起以前在病房里听他说过的那句话，结婚后的某些细节，还有那些天在陆军总医院出现的奇怪军人，还有现在依旧放在抽屉里的那厚厚一包钱，她推开白玉兰，有些惊慌地说道：“你……你……你真是那个七组的人，那你……你说的那个愚蠢的家伙……是不是许乐？”\n\n    白玉兰平静看着妻子，温和",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "把粗糙的汉子逼成多愁善感的诗人，尤其是当他们现自己对很多事情，甚至连愤怒都显得有些无能为力，那么除了感慨和忧郁，便再难生出更多的情绪。\n\n    战舰角落里或蹲或站着很多十七师官兵，有队员也有几名曾经在作训基地里的军官生。\n\n    赫雷团长从大熊嘴里抢过烟卷，啪啪点燃自己的粗烟草，有些含混不清说道",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "更生猛的家伙，哪怕……和整个联邦作战，他也不会出事。”\n\n    不会出事，其实这些正在奔赴战场的男人们想说的是，不能出事。\n\n    ……\n\n    ……\n\n    “他没有联丅系过我，但我能想像出他的处境，但我想他应该联丅系过你，虽然对于这一点我并不愉快，但我还是请求你告诉我，他现在究竟在哪里。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "到十几米外，然后猛地踩死油门，轰鸣着向空港外狂奔而去。\n\n    五分钟后，这辆墨绿sè的军车呼啸看来到四十公里之外的一幢军事建筑，军车没有减，在宪兵瞪目结舌的注视下，直接撞断了大门处的合金杆，然后伴着令人耳裂的刹车尖鸣和满大院都能闻到的轮胎焦糊味，停在了石阶之前。\n\n    第一军区特种警卫团的军",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "盯着电子文件上面父亲一如从前自律而严谨的签名字迹，忽然眉头皱了起来，因为长途奔波而略有些下陷的眼窝里骤然暴出极寒冷的光芒。\n\n    啪的一声脆响，他在电子文件上签上自己的姓名后，狠狠地将电子笔扎进屏幕中，屏幕片片碎裂，并不锋利的笔尖深深锲进李在道将军签名之中。\n\n    秋风起兮，李封大步走向墨绿",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "白玉兰平静看着妻子，温和说道：“我以为你早就知道……虽然我已经退伍，但那个家伙终究是我的战友，同时他还是我的老板。”\n\n    从前线归来后，他像是一个没有任何犀利过往的普通秀气男人，做着家庭妇男的工作，然而当那件事情生后，无论是去黑市买鸡还是在厨房里切西兰花时，他一直在等待着某个人的电丅话，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "不清说道：“也不知道教官现在怎么样。”\n\n    熊临泉狠狠地吐了口唾沫，把烟卷接了过来，说道：“我从来没有见过比头儿更生猛的家伙，哪怕……和整个联邦作战，他也不会出事。”\n\n    不会出事，其实这些正在奔赴战场的男人们想说的是，不能出事。\n\n    ……\n\n    ……\n\n    “他没有联丅系",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "明星，只是狡黠的演员，“如果你再参与下去，不知道造物主会不会嫉妒，但我会嫉妒的。”\n\n    邹郁 缓缓放好花剪，抬起头来静静看着对方，沉默一言不。\n\n    一位是曾经的国民偶像，曾经迷倒全宇宙的雄xìng生物。一位是红衣千金，曾经迷倒李封和利孝通这样厉害的雄xìng生物，此时平静相对而坐，二人间",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

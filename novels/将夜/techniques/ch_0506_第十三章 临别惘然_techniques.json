@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 506,
+  "chapter_title": "第十三章 临别惘然",
+  "filename": "ch_0506_第十三章 临别惘然.txt",
+  "char_count": 3443,
+  "timestamp": "2026-04-10T12:11:26.520277",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "说道：“小师弟，这是世间以为已经佚失的灞陵散曲琴谱，极为珍贵，你可不能再送师兄不靠谱了。”\n　　宁缺心想自己拿个琴谱做什么？魔宗圣女唐小棠现在喊自己小师叔，自己难道还可能在旅途上遇着位圣姑？但他转念想着这琴谱如果真的珍贵，那应该能卖不少银子，便毫不犹豫地接了过来。\n　　“琴谱算不什么谱？靠谱靠谱，你",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "天幕之上。\n　　夫子站在草庐外，半佝着身子，眯着一只眼睛，正对着一个筒状的铁制物事在看，不知道铁筒里究竟有什么。\n　　大师兄走到夫子身后，问道：“老师，你在看什么？”\n　　“我在看星星……嗯，应该说观星，这样比较雅。”\n　　夫子示意他过来看看，说道：“这是老六和十三作出来孝敬我的，他们给取了个名字叫",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "桑桑，维护书院棋道天下第一这个重任……就交给你了。”\n　　……\n　　……\n　　书院在长安城南郊，不用担心城门关闭的问题，所以为了避暑，直到太阳西斜，夜色将临的时候，宁缺和桑桑才动身。\n　　看着那辆黑色的马车渐渐隐入山腰云雾之中，二师兄的眉头微微蹙起，总觉得今日的气氛有些怪异，隐藏着某些自己无法看清楚",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "师兄看着黑色马车离开，沉默片刻后转身离开，暮色照在他旧棉袄上，隐隐可以看到一些微尘，似乎棉袖在微微地颤抖。\n　　二师兄回头望着山道上大师兄的背影，心头微有所动，追了上去。\n　　大师兄走的很慢，但不知为何，却很难被他追到。\n　　……\n　　……\n　　大师兄走到草庐时，夕阳将将熄灭。\n　　夜色笼罩山谷，繁",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "人，而你小师弟不同，他不爱世上任何人，只爱一人，所以在杀死夏侯之后，他这一生都必将心意舒畅，谁也不知将来能走到哪一步，而你却不得不承受挣扎抉择的痛苦，如果你不能看破这份痛苦，那么所得必有所限。”\n　　场间一片安静。\n　　很久之后，干净而温和的笑容再次出现在大师兄脸上，他说道：“老师，我愿意一直这样焦",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "桑当然也跟在他的身旁，他们出发的时间正在今日。\n　　除了大师兄要随夫子游历，书院后山的弟子们都很少会出现在人世间，这些痴人固守在自己的世界里才会觉得幸福，而且对他们来说，后山已经足够大，根本不需要去红尘里沾惹什么是非。\n　　正是基于这种理念，他们对需要入世修行的小师弟非但没有什么羡慕，反而非常同情，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "不什么谱？靠谱靠谱，你知道靠字何解？靠便是棋之术语，所以靠谱一词说的便是棋谱。”\n　　五师兄傲然走到众人中间，带来了无尽的酸臭味，也不知道已经有多少天没有洗澡，七师姐忍不住蹙着眉头唠叨了两句，他却毫不在意。\n　　“烂柯寺又不是什么龙潭虎穴，哪里值得吹这般悲凉的曲子，便是悲壮也是可笑，不过那座破寺以棋",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "六和十三作出来孝敬我的，他们给取了个名字叫观星镜，但我先前试了试，星星还是那个星星，不过却能把远处的风景放大，拉到近处，我看倒不如见望远镜为好。”\n　　大师兄把眼睛凑到铁筒前看了看，发现确实如老师所说，铁筒视野里的星星没有变大，但如果看远处星光下的山峦，则会显得清楚放大很多。\n　　“真是有趣的事物，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "烧肉，便要和我对骂三天三夜的家伙……早就已经死了，不然我很想问问他会如何做。”\n　　不知何时，二师兄来到草庐，一直静静站在旁边，听着老师和师兄的对话，始终没有开口，直到此时终于忍不住说道：“老师，虽然我听不懂你和大师兄在说些什么，但我想我能猜到小师叔会怎么做。”\n　　夫子神情微异，抚须问道：“你小师",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "第十三章 临别惘然\n　　烂柯寺远在东南，路途遥远，而且没有人愿意把时间弄的太紧张，所以虽然说盂兰节会的时间在秋天，但唐国准备参与盛会的游客和使团，大部分都提前了一定时间，选在初夏这些天前后出发。\n　　书院是最先收到烂柯寺请柬的地方，派出宁缺做代表，已经康复的桑桑当然也跟在他的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "不能不要这么不靠谱？”\n　　大黑马这时候心情也很恼火，只不过没有人理会它，大白鹅正在镜湖里故作深沉地慢慢游着，小白狼半蹲在唐小棠的腿边，听着她和桑桑满是不舍的谈话，微微偏着狼头，似懂非懂的模样。\n　　一曲萧瑟曲罢，北宫未央走上前来，从怀中取出一叠薄薄的纸，依依不舍递了过去，说道：“小师弟，这是世间以",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "礼物。\n　　听着悲凉的箫声琴声，宁缺从大黑马嘴里硬生生抢回半根黄精，看着正自眉飞色舞的二位师兄，恼火说道：“这是送行还是送葬？能不能不要这么不靠谱？”\n　　大黑马这时候心情也很恼火，只不过没有人理会它，大白鹅正在镜湖里故作深沉地慢慢游着，小白狼半蹲在唐小棠的腿边，听着她和桑桑满是不舍的谈话，微微偏着",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "再如何插科打挥，老师最疼爱的徒弟始终还是大师兄，老师很少会批评大师兄，像此时这般严厉的训斥，更是几乎从来没有出现过。\n　　大师兄沉默很长时间后说道：“若无明日忧，便有今日愁。”\n　　夫子说道：“人当为今日愁，不必为明日忧。”\n　　大师兄说道：“老师若不是忧虑人世前景，为何要让小师弟去烂柯寺？”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "除了大师兄要随夫子游历，书院后山的弟子们都很少会出现在人世间，这些痴人固守在自己的世界里才会觉得幸福，而且对他们来说，后山已经足够大，根本不需要去红尘里沾惹什么是非。\n　　正是基于这种理念，他们对需要入世修行的小师弟非但没有什么羡慕，反而非常同情，所以当宁缺启程之时，就像两年前他去荒原时那样，所",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

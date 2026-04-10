@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 707,
+  "chapter_title": "第八十八章 成京之战（下）",
+  "filename": "ch_0707_第八十八章 成京之战（下）.txt",
+  "char_count": 2244,
+  "timestamp": "2026-04-10T12:11:27.002410",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "发出沉闷的声音，血水从灰甲里流淌出来。\n　　街道两侧的楼里，出现了更多的燕军，他们开始向唐军射箭。箭雨骤然狂暴，有唐骑的盔甲边缘，竟同时射进了数枝羽箭。\n　　不时有建筑倒塌，横亘在街面上，变成重骑兵难以逾越的障碍。有骑兵连同座骑，整个被倒塌的建筑掩埋，再也无法站起。\n　　这确实是一场伏击。\n　　但不",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "……\n　　伏袭在城市各处发生。\n　　唐军遭受了极为沉重的打击，然而他们依然无畏地冲锋着，带着被背叛的愤怒，带着同袍牺牲的悲痛，挥舞着手中的朴刀，突刺着手中的长矛，继续冲锋。\n　　东北边军锋营，在长街上面对最艰难的局面，数量最多的敌人，那些如潮水般涌来的敌人，那些射术恐怖的草原蛮骑，似乎怎样杀都杀不光",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "散开，那便等于是让他们送死，来为其余的骑兵营争取脱困的时间。\n　　“我们已经败了。”\n　　冼植朗看着众人说道：“那就要败的漂亮一些，如果此战之后，你们当中还有活着的人，记得给公主殿下带句话。此战败在信任二字，如今已然举世伐唐，那么大唐除了相信唐人，再也不能相信任何人。”\n　　说完这句话，他看了那名燕",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，看着依然保持着冲锋阵势的唐军，不再后退。\n　　黑压压的草原骑兵也不再后退。\n　　混乱的街面上，忽然出现了更多的绊马索，缠绕住大唐重骑的马蹄。\n　　唐骑重重摔倒在地，沉重的盔甲与坚硬的地面相撞，发出沉闷的声音，血水从灰甲里流淌出来。\n　　街道两侧的楼里，出现了更多的燕军，他们开始向唐军射箭。箭雨骤然",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "里。\n　　那名燕将惨然一笑，抽刀自尽。\n　　冼植朗向酒楼下走去。\n　　数十名身负朴刀的唐军，从夜色里走出来，警惕地注视着四周，他们很明白既然中伏，那么大将军肯定是敌人首先要除掉的人。\n　　不过冼植朗不想等着被燕人来杀。\n　　他的第三条军令，已经表明了他的选择。\n　　他将带着近卫营去东面的那座王府。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "不再后退。\n　　混乱的街面上，忽然出现了更多的绊马索，缠绕住大唐重骑的马蹄。\n　　唐骑重重摔倒在地，沉重的盔甲与坚硬的地面相撞，发出沉闷的声音，血水从灰甲里流淌出来。\n　　街道两侧的楼里，出现了更多的燕军，他们开始向唐军射箭。箭雨骤然狂暴，有唐骑的盔甲边缘，竟同时射进了数枝羽箭。\n　　不时有建筑倒塌",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "出沉闷的声音，血水从灰甲里流淌出来。\n　　街道两侧的楼里，出现了更多的燕军，他们开始向唐军射箭。箭雨骤然狂暴，有唐骑的盔甲边缘，竟同时射进了数枝羽箭。\n　　不时有建筑倒塌，横亘在街面上，变成重骑兵难以逾越的障碍。有骑兵连同座骑，整个被倒塌的建筑掩埋，再也无法站起。\n　　这确实是一场伏击。\n　　但不是",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "陵的骑兵，只配给我们提马靴，没有想到，在我临死前，居然迎来了这样一个机会。”\n　　锋营将领笑声渐敛，缓缓举起朴刀，说道：“谁愿陪我杀一场？”\n　　他身后的数百唐骑齐声应命，毫不畏怯，只有拼死的战意。\n　　……\n　　……\n　　酒楼上。\n　　冼植朗看着夜色中的城市，双手紧紧握着微凉的栏杆，指节微微发白。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "出来。\n　　街道两侧的楼里，出现了更多的燕军，他们开始向唐军射箭。箭雨骤然狂暴，有唐骑的盔甲边缘，竟同时射进了数枝羽箭。\n　　不时有建筑倒塌，横亘在街面上，变成重骑兵难以逾越的障碍。有骑兵连同座骑，整个被倒塌的建筑掩埋，再也无法站起。\n　　这确实是一场伏击。\n　　但不是唐军和燕军联手对草原骑兵的伏击",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "？\n　　唐军将领看着不停倒下的部属，声音寒冷的就像是岷山上的雪，看着街道两侧的燕军和对面的草原骑兵，说道：“把他们全部杀光，我们就能出去。”\n　　……\n　　……\n　　伏袭在城市各处发生。\n　　唐军遭受了极为沉重的打击，然而他们依然无畏地冲锋着，带着被背叛的愤怒，带着同袍牺牲的悲痛，挥舞着手中的朴刀，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

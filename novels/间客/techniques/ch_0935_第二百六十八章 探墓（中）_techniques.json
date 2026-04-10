@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 935,
+  "chapter_title": "第二百六十八章 探墓（中）",
+  "filename": "ch_0935_第二百六十八章 探墓（中）.txt",
+  "char_count": 2452,
+  "timestamp": "2026-04-10T12:05:26.935187",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "不得不说这是一种莫大的无奈和悲哀，站在野草稀疏的坟前，许乐脸上没有什么情绪，心中却不知在回荡着怎样的感慨    在今日之前，他始终坚持把自己看成东林那个普通美满家庭的一员，父亲叫做许树才，母亲叫做黄杨，妹妹是最可爱的小先艺，直到亲眼看到了这座毫不起眼的墓，隔着厚厚的泥土望着里面那个沉睡多年的不知名宫",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "钟烟花睁着大大的眼睛，好奇的看着那座荒坟，知道坟中人的身份后，便有些莫名其妙，难以解释的紧张情绪，像溪间白石般滑嫩的手，紧紧攥着许乐的衣袖，忽然间她抬起头来，望着他的眼睛，征询道：“我们拜一拜？”\n\n    许乐点了点头，钟烟花弯下腰，将地面草丛里的石子捡起扔掉，然后回身抓着他那只厚实有",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "统，战死在前线的军人，无论是将军还是普通的炊事兵，通常都会埋葬在他们牺牲的星球之上，着将证明他们为之战斗为之流血的地方，都是联邦。\n\n    如今联邦部队深在帝国腹部，杜少卿不容质疑说道必须把墨花星球打下来，让这颗令无数联邦青年死亡的星球，变成联邦的一部分，也正是基于这种传承已久的铁血理念。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "年我带着七师天天军演，必须承认无限渴望过战争开始，然而现在我不知道这场战争还要持续多久，我们才能获得最终的胜利。”\n\n    “你我都清楚，就算x星系的晶矿开始发挥作用，以联邦目前的舰队运载能力和部队数量，也没有办法全面击溃帝国，更不要说打进天京星，俘虏他们的皇帝。”\n\n    “但我们必须打下去。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "血一般的暮色从铁一般的天穹漏了下来，映在这位铁血名将的面颊上，他的眼睛没有眯，望着面前的墓群，漠然说道：“就算只是为了埋在我们面前的28373名联邦战士，我们也必须打下去，至少这颗墨花星球必须成为联邦的领土。”\n\n    战地墓群白色栅栏外，一台黑色的联邦军用机甲正处于待发状态，高大机甲腰部的双引",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "敌司令肯定是他来做，而且他肯定会做的比你更好。”\n\n    “在你心中，钟瘦虎一直是个像父亲般的角色存在，所以明显影响了你判断的准确性。”\n\n    杜少卿负手于后，望暮色天穹下的血战野原，平静说道：“在这种环境之下，没有任何人能够比我做的更好，就算你祖父复活也是如此。”\n\n    李封沉默片刻，很",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "是最可爱的小先艺，直到亲眼看到了这座毫不起眼的墓，隔着厚厚的泥土望着里面那个沉睡多年的不知名宫妃，才骤然感受到某种难以割断的联系感，东林童年记忆和美好的家庭记忆依旧，除此之外，又多了些别的牵绊。\n\n    钟烟花睁着大大的眼睛，好奇的看着那座荒坟，知道坟中人的身份后，便有些莫名其妙，难以解释的紧张情",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "“这场战争已经打了三年，如果从西林反击算起，已经超过了五年。当年我带着七师天天军演，必须承认无限渴望过战争开始，然而现在我不知道这场战争还要持续多久，我们才能获得最终的胜利。”\n\n    “你我都清楚，就算x星系的晶矿开始发挥作用，以联邦目前的舰队运载能力和部队数量，也没有办法全面击溃帝国，更不",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "星球上不多的收获之一。”\n\n    杜少卿戴上军帽，望了一眼在暮风中轻轻摆脱的白色纸卷，问道：“如果日后有证据，证明古钟号爆炸是你父亲所为，你会怎么做？　小＿说t-x-t＿天/堂",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "方，都是联邦。\n\n    如今联邦部队深在帝国腹部，杜少卿不容质疑说道必须把墨花星球打下来，让这颗令无数联邦青年死亡的星球，变成联邦的一部分，也正是基于这种传承已久的铁血理念。\n\n    “这些年委屈你了，因为我的缘故，你必须留在司令部当一个保镖样的角色，寸步不离我身旁。”\n\n    杜少卿目光落在",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的站在战地坟场之前，戴着黑色小羊皮手套的双手负在背后，笔挺的军装和肩上的金星，仿佛钢铁铸成一样，于暮风中纹丝不动。\n\n    他看着这些倒在异国他乡的士兵墓堆，冷峻的表情上偶尔露出几丝疲惫，那双英眉依旧挺直，如刚出鞘的剑，只有他最亲近的近卫战士，才能看到两道英眉间的那几丝银白。\n\n    因为某些敌",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，寸步不离我身旁。”\n\n    杜少卿目光落在李封肩章上，看着那几颗花，皱眉说道：“以你的能力，一旦进入战区独当一面，无论李主席怎么压制，哪怕仅仅靠军功章来堆，也能把你肩章上堆出一颗金星来。”\n\n    李封指头微屈，将烟头弹向远方，魁梧高大的身躯显得格外平静，沉默片刻后回答道：“不委屈，当年我从你",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "腰，将地面草丛里的石子捡起扔掉，然后回身抓着他那只厚实有力温暖的手掌，像带孩子一样，牵着他走到坟前，缓缓地跪了下来\n\n    因为大气层中尘粒过多的原因，墨花星球的暮色如同被血涂抹了三十遍的金属装甲片，艳红之中透着股令人心寒的灰冷，光线自落日处浸过草原，洒在密密麻麻的坟墓之上，形成某种生硬肃杀悲壮的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "拜？”\n\n    许乐点了点头，钟烟花弯下腰，将地面草丛里的石子捡起扔掉，然后回身抓着他那只厚实有力温暖的手掌，像带孩子一样，牵着他走到坟前，缓缓地跪了下来\n\n    因为大气层中尘粒过多的原因，墨花星球的暮色如同被血涂抹了三十遍的金属装甲片，艳红之中透着股令人心寒的灰冷，光线自落日处浸过草原，洒在",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

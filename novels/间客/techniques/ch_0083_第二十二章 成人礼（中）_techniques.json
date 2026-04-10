@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 83,
+  "chapter_title": "第二十二章 成人礼（中）",
+  "filename": "ch_0083_第二十二章 成人礼（中）.txt",
+  "char_count": 3416,
+  "timestamp": "2026-04-10T11:53:35.144440",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "星辰会所与那些不对外经营的私人会所相比，肯定算不上多么了不起，但是在公众会所领域里，毫无疑问是整个临海最高级的地方。两个年轻学生模样的人，在早晨八点多钟的时候，走进了星辰会所。\n\n    负责接待的前台小姐大感吃惊，心想现在的年轻人真是了不得，自己连牙都还没刷，居然就有客人上门了。她有些",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "个人是从那个区出来，以为对方比自己起的更早，不免生出了一些敬佩的表情。就在这种表情之中，许乐和绿色军风衣中邰之源，悄悄地离开了图书馆区，踏上了寻找女人的路。\n\n    “看样子还真是在做贼。”前几天下了场雪，天气有些冷，许乐将围巾系的更紧了一些，看着身边沉默的邰之源，心里生出无限好奇，居然还要乔装打",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "这么严？\n\n    穿过梨花大学的清晨，沿路无数女学生正在晨运或是吃早饭，许乐揉了一把有些疲惫的脸，说道：“上林的男女比例和东林恰恰相反，女多男少，你要真想早日脱离处男之身，赶紧谈个恋爱吧。”\n\n    邰之源整张脸都在雨帽之中，只能看到下半张脸，微笑着嗅着校园里的气息，在微微秋风里看着自在行走的学",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "两个年轻学生模样的人，在早晨八点多钟的时候，走进了星辰会所。\n\n    负责接待的前台小姐大感吃惊，心想现在的年轻人真是了不得，自己连牙都还没刷，居然就有客人上门了。她有些奇怪，心想这两个少年是不是走错了地方？\n\n    邰之源平静而极感兴趣地扫视着会所里的装修与布置，心里比较满意这间会所的品味，尤",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "相关法例的通过，那些议员们已经争执了六百年，想必将来还会不停地争论下去。\n\n    但是这个行业已经存在，并将永远存在下去。议员们在没有办法通过决定性法案之前，只有通过了不少的附加条例，对这个行业加以规范，比如营业时间，比如从业人员体检次数，比如税额计算方式，比如疾病防控教育，比如营业场所与学校及z",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "一直在争论这个行业究竟将往何处去。联邦管理委员会为了相关法例的通过，那些议员们已经争执了六百年，想必将来还会不停地争论下去。\n\n    但是这个行业已经存在，并将永远存在下去。议员们在没有办法通过决定性法案之前，只有通过了不少的附加条例，对这个行业加以规范，比如营业时间，比如从业人员体检次数，比如税",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "选个温柔老练的，另外在房间里准备一些吃的东西。”\n\n    许乐很担心以邰家小子长年失眠孱弱的身体，第一次做这种事情会不会乐不知归，翻来覆去，搞的自己再次昏迷过去，很细心地加了一个要求小-说-t-xt-天.堂\n\n\n\n第二卷上林的钟声",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "出无限好奇，居然还要乔装打扮才敢出来，难道这小子家里看的这么严？\n\n    穿过梨花大学的清晨，沿路无数女学生正在晨运或是吃早饭，许乐揉了一把有些疲惫的脸，说道：“上林的男女比例和东林恰恰相反，女多男少，你要真想早日脱离处男之身，赶紧谈个恋爱吧。”\n\n    邰之源整张脸都在雨帽之中，只能看到下半张",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "太空风格的综合馆，同时发现了今天综合馆这里热闹异常。无数的重型运载车穿行其间，学校里的工作人员，正在紧张地布置着会场，一片极大的横幅被拉了起来。上面的字迹被布遮着，无法看到。\n\n    “明天的双月节舞会，看样子真地很盛大。”许乐的心情忽然低落了下来，张小萌大概会和那位议员公子一起参加舞会，他自然不",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "年小时候和邹郁打闹的童年。\n\n    两个人沉默地走过一片树林，经过梨花大学充满了太空风格的综合馆，同时发现了今天综合馆这里热闹异常。无数的重型运载车穿行其间，学校里的工作人员，正在紧张地布置着会场，一片极大的横幅被拉了起来。上面的字迹被布遮着，无法看到。\n\n    “明天的双月节舞会，看样子真地很",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "“我不去。”许乐略一停顿后平静地说道：“我只是一个旁听生。不去也没有人说我。”\n\n    “是不是担心看见移情别恋地前女友？”邰之源温和地笑道：“我劝你还是去一下。也许会有什么惊喜等待着你。”\n\n    许乐摇了摇头。这几天已经让他确认张小萌下定了决心。虽然他依然认为这件事情有古怪。他依然不甘心。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "永远不会败落地两大行业。在联邦，卖淫行业从来没有合法化，从皇权时期到宪历时期，一直到最近的联邦，人类社会一直在争论这个行业究竟将往何处去。联邦管理委员会为了相关法例的通过，那些议员们已经争执了六百年，想必将来还会不停地争论下去。\n\n    但是这个行业已经存在，并将永远存在下去。议员们在没有办法通过",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "区哪个国度里，这门行业永远是那样的兴盛发达，和政治一起成为了永远不会败落地两大行业。在联邦，卖淫行业从来没有合法化，从皇权时期到宪历时期，一直到最近的联邦，人类社会一直在争论这个行业究竟将往何处去。联邦管理委员会为了相关法例的通过，那些议员们已经争执了六百年，想必将来还会不停地争论下去。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "以为对方比自己起的更早，不免生出了一些敬佩的表情。就在这种表情之中，许乐和绿色军风衣中邰之源，悄悄地离开了图书馆区，踏上了寻找女人的路。\n\n    “看样子还真是在做贼。”前几天下了场雪，天气有些冷，许乐将围巾系的更紧了一些，看着身边沉默的邰之源，心里生出无限好奇，居然还要乔装打扮才敢出来，难道这小",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "庶地域，则被称为会所。\n\n    初雪已化的临海州，显得格外的干净和清冽。一辆计程车停在了临海州一条安静的街道旁。\n\n    星辰会所与那些不对外经营的私人会所相比，肯定算不上多么了不起，但是在公众会所领域里，毫无疑问是整个临海最高级的地方。两个年轻学生模样的人，在早晨八点多钟的时候，走进了星辰会所",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "“就这个吧。”许乐指了指单子上面的一行，然后压低声音诚恳说道：“我朋友还是……那个，帮着选个温柔老练的，另外在房间里准备一些吃的东西。”\n\n    许乐很担心以邰家小子长年失眠孱弱的身体，第一次做这种事情会不会乐不知归，翻来覆去，搞的自己再次昏迷过去，很细心地加了一个要求小-说-t-xt-天",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

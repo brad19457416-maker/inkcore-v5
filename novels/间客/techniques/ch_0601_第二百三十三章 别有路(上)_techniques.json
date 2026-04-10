@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 601,
+  "chapter_title": "第二百三十三章 别有路(上)",
+  "filename": "ch_0601_第二百三十三章 别有路(上).txt",
+  "char_count": 3422,
+  "timestamp": "2026-04-10T12:05:08.532296",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "多年，身周往来多是邸之源、利孝通这样的人物，自然清楚很多在寻常公民看来不可理喻的事情，对于社会顶层的人们来说，或许只是一个眼神子意的问题。\n\n    南科州拥有引最大的一片湿地保护区，漫漫青草尽头，则是以风光优美而著称的静海。他们今天要去的地方，是静海之畔、密林草甸交错间的一片安静庄园。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "来说，或许只是一个眼神子意的问题。\n\n    南科州拥有引最大的一片湿地保护区，漫漫青草尽头，则是以风光优美而著称的静海。他们今天要去的地方，是静海之畔、密林草甸交错间的一片安静庄园。\n\n    黑车驶入没有任何招牌的庄园大门，事先进行过繁琐权限代码确认的他们，没有受到任何查询。\n\n    这片庄园",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "他应该是觉得现在还不到他出面的时刻。”\n\n    简水儿看着玻璃杯清水中不停旋转的三梗金菊花，微笑着说道：“事实上，官邸和国防部安排了昨天晚上那场表演，对于这件事情已经有了很大的帮助。你出面了，我也唱歌了，总统先生应该会满意\n\n    白机实木的淡淡清香，弥漫在落地窗包围的别居小楼内，这里只有他们三",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "间的真正关系，更何况是其他人。”\n\n    “这个话题打住许乐灌了一杯咖啡，说道：“以前就说过，这是秘密，我不能告诉你。\n\n    简水儿听着这话，淡淡一笑，妍丽无比，落地窗内外的天海清光，瞬间都似乎被她的身体吸引了过去。\n\n    部之源的眼眸里闪过一丝赞叹，旋即望着许乐平静说道：“你为什么要帮总",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "部之源却不同，莫愁后山与费城之间的关系起始于数十年前，关系复杂而纠结，那位夫人很早就知道了简水儿的存在，他自然也清楚，只是此时看这位美丽的大明星不肯明言，他自然也懒得说破。\n\n    “帕布尔总统把你和你的部属全部推上了前台，这种手法相信就算政治噢觉迟钝如你，也会明白其中的意思。\n\n    他轻轻",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "如你，也会明白其中的意思。\n\n    他轻轻擦拭了一下唇角，喝了口清水后平静说道：“如果此后联邦中真出现了反战的潮流，不论是哪个。,“俊披起的潮流。你的意丑都会变得非常重要六”\n\n    许乐点菜的时候，很没有品味地点了一大盘自主创意菜 里海鱼子酱拌贡米饭，外加一大壶加塔咖啡。这时候正在哗啦哗啦吃着",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "长林间道路左手方海滩建筑群中，隐隐有笑声与音乐声传来。 许乐眯着眼睛往那边望了一眼，没有回答部之源的感慨，继续平稳地开着车，车顺着平坦的道路，掠海畔直上草甸山坡林间，再也听不到那些杂声。只有初鸣的蝉与晚起的鸟，与车胎低沉绵软的磨擦声做着合声。\n\n    山坡顶处是一片人工修剪却依然自然的草坪，再往前",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第二百三十三章 别有路(上) \n\n    酬岩二天火车抵达了南科州。许乐三人走出车站时。那辆收肯孙识的黑色汽车已经安静地等待了很长时间。\n\n    当年的他。想必会对这种灵异般的画面感到不寒而栗，然而在都星圈生活多年，身周往来多是邸之源、利孝通这样的人物，自然清楚很多在寻常公",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "了一大盘自主创意菜 里海鱼子酱拌贡米饭，外加一大壶加塔咖啡。这时候正在哗啦哗啦吃着，忽然听到两位友人瞬间将话题牵引到了如此大的层面上，不由被噎了一下，咳了咳后鼓着腮帮说道：“我的意见很重要？。\n\n    “因为你和七组现在已经是民众心目中的偶像级人物。”部之源微讽说道：“虽然你们是被偶像，但这已经事",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "别有路(上) \n\n    酬岩二天火车抵达了南科州。许乐三人走出车站时。那辆收肯孙识的黑色汽车已经安静地等待了很长时间。\n\n    当年的他。想必会对这种灵异般的画面感到不寒而栗，然而在都星圈生活多年，身周往来多是邸之源、利孝通这样的人物，自然清楚很多在寻常公民看来不可理喻的事情，对于社会顶层的人",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "都星圈生活多年，身周往来多是邸之源、利孝通这样的人物，自然清楚很多在寻常公民看来不可理喻的事情，对于社会顶层的人们来说，或许只是一个眼神子意的问题。\n\n    南科州拥有引最大的一片湿地保护区，漫漫青草尽头，则是以风光优美而著称的静海。他们今天要去的地方，是静海之畔、密林草甸交错间的一片安静庄园。",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "十分认真地赞美，他忍不住愁眉难开看了一眼面前黑糊糊的鱼子拌饭，不曾矫情的同情两位娇子娇女没有普通人的幸福生活，只是感慨原来自己骨子里还是一个穷小小子。\n\n    “郁子现在过的怎么样？你们到底什么时候结婚？”部之源忽然间眉尖微挑，意趣古怪地问了一句。\n\n    听到这句话，简水儿的眼眸微亮，静静地看",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "novel": "间客",
+  "chapter_number": 327,
+  "chapter_title": "第十三章 联邦最大的一座山",
+  "filename": "ch_0327_第十三章 联邦最大的一座山.txt",
+  "char_count": 7774,
+  "timestamp": "2026-04-10T12:04:59.226933",
+  "techniques_count": 18,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "头，低头微垂眼帘，强自保持着自己的镇定。他知道祖父能够傲视宇宙\n\n    ，因为这本来就是费城李家的秘密，只是他也是第一原来祖父可以将体内那种力量，运用的如此神奇，可以不凭借自己的身体，而是通过别的媒介放出去。\n\n    李封低垂的眼眸里闪过一丝惘然，父亲没有进入修身地道路，自己大概是距离祖父最近的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "章光辉的奇人，原来这个宇宙里真有如此生猛的人物，一念及此，李封望着许乐的眼神便不禁变得有些怪异起来，心想这个家伙的运气未免也太好了些，居然能够被叔爷收为学生。\n\n    许乐的表情一如既往的平静甚至有些憨意，但冰冷的汗水早已经打湿了囚服后背，粘粘的有些不舒服。\n\n    问完这两个问题之后，军神李匹",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，微佝着身体，向\n\n    室外走去。\n\n    看着走过自己身边的老爷子身影，许乐感觉就像有一阵罡风吹拂而过，风速极慢，却蕴着无穷的威势。他知道自己此时应该站起来，但心中那些震惊与庆幸地复杂情绪，让他的腿有些软。\n\n    关于芯片置换的事情，他撒了一个弥天大谎，结果居然能够骗过联邦军神，许乐脸色",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "随着这位老人的移动而移动，军事监狱的军人们大概从来没有想过，自己居然能够亲眼看到联邦军神的容颜，他们激动的难以自持，面容微红，持枪敬礼的手微微颤抖。\n\n    老爷子才是一座真正的山，一座沐浴在阳光下的山。\n\n    ……\n\n    ……\n\n    许乐有些木讷地站在审讯室内，目送那如山般的背影远去",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "便只有你能做到，我只是想知道，是他帮助的你，还是你自己完成的这一切，如果是前，你对联邦军方便没有任何意义，如果是后，我想军队需要你这样地人才。”\n\n    这是很低级的威胁与利诱，然而从联邦军神的嘴里说出来，却顿时变得一样了，因为这位老爷子才有足够地资格说出这样的话，并且做出自己的承诺。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "逃离东林大区后，做为一名逃犯，许乐没有什么机会可以与人谈及自己的过去，今天在这位老爷子面前，才第一次没有任何心理障碍的缓缓叙述，难免沉浸。正处于沉浸温馨状态之中，却被陡然一问惊破了心境，下意识抬起头来，对上了老爷子那双眼睛。\n\n    老爷子的双眼在这一刻再也没有什么感慨、怀念，更谈不上什么温",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "崛壮阔的一座高山，从今往后，只怕再也没有人能够用私下里的动作来对付自己，就算是邰夫人，或许也只有强行压抑下对自己的敌意。\n\n    局势的变化太快，谁能够琢磨清楚其中滋味？\n\n    ……\n\n    ……\n\n    从这一天起，许乐在倾城军事监狱里的生活，变得与以前完全不一样了。虽然他依然被严格的安",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "生愉悦之意。老爷子脸上淡淡的欣赏没有维持多久，便化作了一片平静，望着许乐说道：“你那位老师曾经犯下很危险地过错，你自然是不会信的，但你既然相信他不会背叛联邦，那我对你地将来，也只有这一个要求。”\n\n    “不要背叛联邦，能做到吗？”老爷子静静地看着许乐，苍老浑浊的眼眸里亮起一颗星，神光凝然而威严。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "许乐说道：“你那位老师曾经犯下很危险地过错，你自然是不会信的，但你既然相信他不会背叛联邦，那我对你地将来，也只有这一个要求。”\n\n    “不要背叛联邦，能做到吗？”老爷子静静地看着许乐，苍老浑浊的眼眸里亮起一颗星，神光凝然而威严。\n\n    许乐今日进入审讯室后，因为见着这位大人物，心情便一直有些",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。\n\n    长廊两旁的军人持枪敬礼，目光就像穹顶的光线一样，随着这位老人的移动而移动，军事监狱的军人们大概从来没有想过，自己居然能够亲眼看到联邦军神的容颜，他们激动的难以自持，面容微红，持枪敬礼的手微微颤抖。\n\n    老爷子才是一座真正的山，一座沐浴在阳光下的山。\n\n    ……\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "为一名逃犯，许乐没有什么机会可以与人谈及自己的过去，今天在这位老爷子面前，才第一次没有任何心理障碍的缓缓叙述，难免沉浸。正处于沉浸温馨状态之中，却被陡然一问惊破了心境，下意识抬起头来，对上了老爷子那双眼睛。\n\n    老爷子的双眼在这一刻再也没有什么感慨、怀念，更谈不上什么温暖慈祥，只是平静如镜，坚",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "谎。”\n\n    ……\n\n    ……\n\n    审讯室里一片令人窒息的沉默，李匹夫安静地看着许乐，说道：“能够换一个全新的身份，除了你老师之外，便只有你能做到，我只是想知道，是他帮助的你，还是你自己完成的这一切，如果是前，你对联邦军方便没有任何意义，如果是后，我想军队需要你这样地人才。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "奇，可以不凭借自己的身体，而是通过别的媒介放出去。\n\n    李封低垂的眼眸里闪过一丝惘然，父亲没有进入修身地道路，自己大概是距离祖父最近的人，然而什么时候才能到达这种境界？宇宙里还有别的人能够如此强大吗？那位没有见过面，却被父亲敬畏无比的叔爷……能不能做到这一点？\n\n    各有各的惘然，许乐并不",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "觉就像是一个很普通地老头。但此刻当他忽然问之时。一股惊天地气势便从他地身上喷涌而出。让人觉得他地身躯瞬间高大威猛了起来。最可怕地是。他枯干双唇里说出来地沙哑声音。竟忽然间变得如此洪亮。在安静地审讯室里反复碰撞。轰隆隆有若春雷一般。似永无止歇之意。\n\n    你会换芯片吗？这个问题听上去简单而直白。就",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "老人，对于那个数十年义绝的兄弟，恨意渐褪，怀念渐生，从而有这一番对话与回忆。在讲述封余大叔东林生活的同时，许乐也难以自抑地浸入到少年时期的回忆之中，或悲或喜，大部分是平淡的学习修理锻炼看书，却是他最珍惜的一段时光。\n\n    逃离东林大区后，做为一名逃犯，许乐没有什么机会可以与人谈及自己的过去，今天",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "抬起头来，对上了老爷子那双眼睛。\n\n    老爷子的双眼在这一刻再也没有什么感慨、怀念，更谈不上什么温暖慈祥，只是平静如镜，坚冷如冰，锋利如刀，破开了审讯室的空间，深深地扎进了许乐的眼眸里！\n\n    过往只在文学作品中见过目光锋利如刀的说法，许乐今天才知道，原来这种形容是真的，这个世界上真的有人的",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "泥的共舞，让他拥有了最诚恳可亲可信的外表甚至是性情，然而外表与性情的核心部分，骨子里他依然保留着联邦社会最底层的小狡黠与手段。\n\n    为了活下去，借着阳光憨厚地遮掩，撒一个弥天大谎，瞒过芸芸众生，又算什么难事？\n\n    军神李匹夫不是众生之一，只可惜数十年来，他和那位夫人以及宪章局，只知道那个",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的容颜，半晌后才用沙哑地声音回答道：“当然。”\n\n    这个当然的回答说的理所当然，理直气壮，许乐从来未曾相信过大叔真是一个与帝国勾结的叛徒，他自己更是从来没有想过背叛联邦，再一个当然，当然，在他的心中，联邦与政府完全是两码事。\n\n    听到这个回答，老爷子沉默了片刻，唇畔的纹路愈深刻，幽幽说道",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 364,
+  "chapter_title": "第一百六十九章 圆寂的大师",
+  "filename": "ch_0364_第一百六十九章 圆寂的大师.txt",
+  "char_count": 3690,
+  "timestamp": "2026-04-10T12:11:21.732733",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "道：“幕后黑手？反正我又不关心这些。”\n　　宁缺忽然停下脚步，抬头看了一眼被冬树树枝切割成碎片的灰暗天空，陈皮皮神情微异，随他抬头向天空望去，却没有看到任何奇怪的东西。\n　　宁缺沉默望天很长时间后，忽然笑了起来，看着陈皮皮说道：“我入魔了。”\n　　陈皮皮没有去看他的眼睛，依旧看着天，讥讽说道：“这笑",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "皮在没有成为他的十二师兄之前就对他很好，是他在长安城里队除了桑桑之外最亲密的同伴，在对方已经隐约猜到真相之后，他实在是无法再继续隐瞒这件事情，并且他很确实很想知道陈皮皮会怎么对侍自己。\n　　对于这件事情，陈皮皮的应对方法很简单，沉默片刻确实无法继续装傻之后，他开始充愣：“我没有听到你在说什么。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "皮皮摇了摇头。\n　　宁缺忽然问道：“你就不想知道那个幕字究竟是什么意思？”\n　　陈皮皮耸耸肩，无所谓说道：“幕后黑手？反正我又不关心这些。”\n　　宁缺忽然停下脚步，抬头看了一眼被冬树树枝切割成碎片的灰暗天空，陈皮皮神情微异，随他抬头向天空望去，却没有看到任何奇怪的东西。\n　　宁缺沉默望天很长时间后，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，慢条斯理挑着辣汁腌渍的螺丝肉，看着宁缺的神情不禁有些担心，暗想小师弟的识海莫不是在先前与中年僧人的战斗中受了重创，被莲花净土里的佛意度化成了傻子？\n　　“师兄，能不能帮我做件事情。”\n　　宁缺收回望向窗外的目光，看着陈皮皮很认真地拜托道。\n　　陈皮皮怔了怔，问道：“什么事情？”\n　　“这件事情是这",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "也沉默，他沉默的原因比较简单，因为陈皮皮沉默，他想起了七念是什么人，也比较具体地理解了自己杀死道石，最终触怒的是怎样等级的对手。\n　　“我今天心情不好。”\n　　宁缺最后总结道：“他撞我刀口上，那就算他运气不好。”\n　　……\n　　……\n　　长安街头。\n　　一双手捧起地面上的那颗头颅。\n　　这双手肤色黝",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "更多的时候握着一根铁杖，随着飘动的僧衣行走世间。\n　　这手属于白塔寺一名普通苦行僧。\n　　苦行僧双手颤抖捧着那颗头颅，跪在包子铺前那具无头僧尸前，用了很长时间，才把头颅和身体拼凑安好。\n　　那名干瘦武僧的尸体也已经找到，被平放在中年僧人盘膝遗体的身旁，肠子已经被塞回腹中，被符箭射穿的胸口，显得异常恐",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "和，嫩唇微启轻声应道我从来处来，长老震惊，轻挥僧袖抱婴入寺。\n　　长老为男婴赐名道石，以为其有宿慧，日后定为佛宗大德，不料随着年岁渐长，男婴归于平庸，渐籍然无名，却时常得宫中贵人照拂。\n　　道石僧精勤苦修，十二岁便离寺云游，十六岁时归都城，于城中贫民窟远眺前方皇城有所感，渐入莲花净土，然而依然无名。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "常做的那样。\n　　陈皮皮学着大师兄的模样，慢条斯理挑着辣汁腌渍的螺丝肉，看着宁缺的神情不禁有些担心，暗想小师弟的识海莫不是在先前与中年僧人的战斗中受了重创，被莲花净土里的佛意度化成了傻子？\n　　“师兄，能不能帮我做件事情。”\n　　宁缺收回望向窗外的目光，看着陈皮皮很认真地拜托道。\n　　陈皮皮怔了怔，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "么。”\n　　宁缺凑到他耳边大声喊道：“我入魔啦！”\n　　陈皮皮唬了一跳，赶紧拿手去捂他的嘴，前后左右紧张地查看了一番，斥道：“又不是什么光彩的事情，你喊这么大声想让整座长安城都听见？”\n　　宁缺说道：“我主要要想确认你能听清楚。”\n　　陈皮皮掏了掏耳朵，烦闷说道：“刚才那名武僧剖腹喷出的血进了我的耳",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "归来时间不长，却已经在月轮国佛门里获得了极大的尊重，今晨十三先生不止杀了他，还把他的头颅斩落，只怕会同时激怒月轮国和佛宗。”\n　　宁缺说道：“我这两天面临着一个很麻烦的事情，那件事情牵涉到我的世界毁灭或者重生，在这种时候，别说那名中年僧人有可能是曲妮玛娣的私生子，就算曲妮玛娣这老太婆自己来了，我也会",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "里他经常做的那样。\n　　陈皮皮学着大师兄的模样，慢条斯理挑着辣汁腌渍的螺丝肉，看着宁缺的神情不禁有些担心，暗想小师弟的识海莫不是在先前与中年僧人的战斗中受了重创，被莲花净土里的佛意度化成了傻子？\n　　“师兄，能不能帮我做件事情。”\n　　宁缺收回望向窗外的目光，看着陈皮皮很认真地拜托道。\n　　陈皮皮怔",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的情形，并且找到了人。\n　　宁缺请何明池坐下，给他倒了一杯茶，说道：“我记得唐律里关于挑战这类事情，从来都是尽可能尊重双方意见。”\n　　何明池有些拘谨地与陈皮皮见礼，犹豫片刻后说道：“但唐律一直都不允许生死决斗，而且决斗需要在官府备案。”\n　　宁缺说道：“这种事情哪里说的准的，至于备案，我这时候向你",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "色渐现。\n　　诵经声随风而起，飘荡于晨街之中。\n　　很多长安城百姓在长街两头旁观，随着经声若有所感，纷纷低头。\n　　雪花纷纷扬扬落了下来，覆在铺门外那两具僧人身上，似乎想要掩盖住他们颈间和身上的血渍，这是今年冬天长安城最后一场雪。\n　　……\n　　……\n　　数十年间，月轮国白塔寺长老于晨时推门而出，见",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "得。”\n　　二人大眼瞪小眼，然后忍不住笑了起来。\n　　彼此心里都明白，这件事情算是真的过去了。\n　　走出侧巷，街畔有一间茶楼，宁缺饥渴奔走一夜，早已疲惫不堪，与那位中年僧人瞬息一战更是受了极重的伤，精神已经濒临崩溃的边缘，看见茶楼外的大茶壶，嗅着里面传来的点心味道，便再也无法走动道。\n　　坐在茶楼二",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "旁，肠子已经被塞回腹中，被符箭射穿的胸口，显得异常恐怖。\n　　苦行僧手持铁杖，跪在两具僧人的遗体前，缓缓低头。\n　　街道上，十余名来自月轮国的苦行僧，也随之跪下，低头合什。\n　　初冬有风自街那头无由而起，吹得僧衣飘飘，十余名苦行僧黝黑的脸庞上露出戚容，然后悲愤神色渐现。\n　　诵经声随风而起，飘荡于晨",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "老于晨时推门而出，见寺外路石上有一婴儿，长老俯身观注良久，微笑问那婴儿你从哪里来，婴儿眸若点漆，安宁柔和，嫩唇微启轻声应道我从来处来，长老震惊，轻挥僧袖抱婴入寺。\n　　长老为男婴赐名道石，以为其有宿慧，日后定为佛宗大德，不料随着年岁渐长，男婴归于平庸，渐籍然无名，却时常得宫中贵人照拂。\n　　道石僧精",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "novel": "将夜",
+  "chapter_number": 185,
+  "chapter_title": "第一百八十五章 石在溪中走",
+  "filename": "ch_0185_第一百八十五章 石在溪中走.txt",
+  "char_count": 3474,
+  "timestamp": "2026-04-10T12:11:12.036923",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "进清潭的轰鸣声，宁缺推开篱笆走进小院，警惕挥手把那只大白鹅赶跑，看着走出来的二师兄，忍不住皱起眉头，心想简大家昨日那般称呼二师兄，莫非他真对简大家做过什么禽兽或禽兽不如之事？\n　　二师兄递过几本书，说道：“前日在崖洞那边翻到几本兵甲刻符旧术，想着你最近热衷于在兵器上刻符，应该有需要，所以喊你过来拿走",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "轻一拍，然后并拢上翻，掌心间已经看不到符纸，只能看到半掬清水。\n　　就着掌中清水洗了把脸，迎着树旁清风，微湿的脸颊感到清凉怡人，他满足地叹息了一声，旋即无奈地叹息了声，摇头自言自语说道：“帅则帅矣，当个魔术师逗女子开心也已经绰绰有余，然而若要用来打架，则好像没有什么用处。”\n　　颜瑟大师做为神符师，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "他嘻哈外表下的蓝调本质，生死关头的无数次考验，让他习惯于无时无刻防备着背后射来的冷箭，将来可能遇到的危险。\n　　“如果……现在夏侯站在树那边，你能怎么办？”\n　　宁缺看着那棵大青树，很认真地询问着自己，然后他陷入了长时间的沉默，思绪在符道与武技之间不停周转组合，寻找着强大自身战斗力的方法。\n　　不知",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "师兄的打铁房。\n　　今天进入房间后，他没有第一时间抡起沉重的铁锤替六师兄当帮工，而是走到阴暗的角落，来到四师兄身前，躬下身体说了几句话。\n　　四师兄的眉头微微皱起，点了点头，站起身来，带着他向屋外走去。\n　　屋后是那道清溪，肥美的各色锦鲤，近乎一动不动地在水中缓慢游动，就仿佛是被凝住在溪水里的玉鱼雕",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "简姨？”\n　　看二师兄神情，很明显他与简大家相识，宁缺在心里喝了一声彩，暗想隐藏在书院黑暗历史幕后的真相，难道真的要被自己挖出来了？\n　　“不要瞎想什么。”二师兄蹙眉说道：“简姨当年曾和小师叔相熟，算是长辈。”\n　　宁缺微微一怔，没有想到事实的真相和自己猜测的几个答案都搭不上。这是他在书院后山里第二",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。她把小草从楼上唤下来，走到后园一处僻静地方，她看着小草欲言又止，细细的手指不停绞弄着衣角，显得极为紧张。\n　　“这么神秘兮兮做什么？”小草睁着眼睛看着她问道：“出什么事了？”\n　　桑桑迟疑很长时间后，压低声音说道：“昨天夜里……少爷忽然问我多大了。”\n　　小草困惑地揉了揉脑袋，问道：“然后呢？”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "二师兄用院规痛打五十大板的心理准备，然而他没有想到，二师兄听到小陌陌三字时，并没有暴怒而起，只是身体骤然僵硬，表情显得有些茫然，似乎在回忆什么。\n　　良久之后，二师兄盯着他的眼睛，沉声问道：“你见过简姨？”\n　　看二师兄神情，很明显他与简大家相识，宁缺在心里喝了一声彩，暗想隐藏在书院黑暗历史幕后的真",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的轰鸣声，宁缺推开篱笆走进小院，警惕挥手把那只大白鹅赶跑，看着走出来的二师兄，忍不住皱起眉头，心想简大家昨日那般称呼二师兄，莫非他真对简大家做过什么禽兽或禽兽不如之事？\n　　二师兄递过几本书，说道：“前日在崖洞那边翻到几本兵甲刻符旧术，想着你最近热衷于在兵器上刻符，应该有需要，所以喊你过来拿走去看看",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "上的符文先刻好了，紧接着，宁缺也完成了自己的工作，两个人对视一眼，把石头放在溪畔的平地上。\n　　二人缓缓闭上双眼，开始感知触摸激发自己在石面上刻下的符文。\n　　只见溪畔两颗圆石上一阵风起，石下的蚂蚁与竹叶簌簌而动。\n　　然而石头还是安静地坐在溪畔，就像溪中那些懒且肥的锦鲤一般，藏在水车叶片下的阴影中",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "浅溪忽然微微荡漾起来，溪底那颗圆石四周似乎有极细的气流喷溅而出，扰的水草轻轻摇摆，然后圆石微微颤抖起来，看上去就像要走起来一般。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "子这般好，天天在书院和长安城里快活，可依然没有忘记居安思危。\n　　苦难的日子造就了他嘻哈外表下的蓝调本质，生死关头的无数次考验，让他习惯于无时无刻防备着背后射来的冷箭，将来可能遇到的危险。\n　　“如果……现在夏侯站在树那边，你能怎么办？”\n　　宁缺看着那棵大青树，很认真地询问着自己，然后他陷入了长时",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "难的日子造就了他嘻哈外表下的蓝调本质，生死关头的无数次考验，让他习惯于无时无刻防备着背后射来的冷箭，将来可能遇到的危险。\n　　“如果……现在夏侯站在树那边，你能怎么办？”\n　　宁缺看着那棵大青树，很认真地询问着自己，然后他陷入了长时间的沉默，思绪在符道与武技之间不停周转组合，寻找着强大自身战斗力的方",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "缺学着他的模样拿起一块圆石，用耐水浸的颜料笔在石上仔细画着，随着笔尖的移动，数道前后贯通复杂的线条，出现在石面上。忽然间他觉得有些棘手，不知该怎样继续，忍不住抬头向四师兄怀中的石头看了一眼。\n　　“师兄，你那条线画的有问题吧？风符怎么能刻这么宽？”\n　　四师兄头也未抬，说道：“石头太重，你想借风息浮",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "溪畔，就像溪中那些懒且肥的锦鲤一般，藏在水车叶片下的阴影中，根本不肯动弹一线。\n　　宁缺和四师兄几乎同时睁开眼睛，大眼瞪着小眼，傻眼。\n　　“痴心妄想。”四师兄叹息说道：“能让重物腾空而起，需要无数符文组成阵法，才能做到，你想用如此小的符达到相同的效果，真是……痴心妄想。”\n　　宁缺遗憾说道：“我本",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "近乎一动不动地在水中缓慢游动，就仿佛是被凝住在溪水里的玉鱼雕像。\n　　书院的天是晴朗的天，书院的鱼是幸福的鱼，虽然需要提防那些鸟儿的突袭，但至少它们不用辛苦四处觅食，每天到了定点，便会有只大白鹅来给它们喂食。老爷鱼做久了自然也便胖了懒了。\n　　水车吱吱呀呀转动，将溪水不停汲入竹管，然后送入打铁房中。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“这么神秘兮兮做什么？”小草睁着眼睛看着她问道：“出什么事了？”\n　　桑桑迟疑很长时间后，压低声音说道：“昨天夜里……少爷忽然问我多大了。”\n　　小草困惑地揉了揉脑袋，问道：“然后呢？”\n　　“没有然后。”桑桑摇了摇头，蹙着眉尖想了半天后继续说道：“我总觉得少爷现在有些怪怪的，前些日子他还经常说我",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "离开，而是看着他的脸欲言又止，迟疑良久后终是忍不住试探问道：“二师兄，有没有人喊过你小陌陌？”\n　　为人严肃方正，极讲究仪度姿态的二师兄，无论怎么想像，也无法与小陌陌这类名号联系在一起。宁缺鼓足勇气说出来时，已经做好被二师兄用院规痛打五十大板的心理准备，然而他没有想到，二师兄听到小陌陌三字时，并没有",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

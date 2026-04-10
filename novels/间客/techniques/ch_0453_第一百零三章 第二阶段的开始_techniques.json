@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 453,
+  "chapter_title": "第一百零三章 第二阶段的开始",
+  "filename": "ch_0453_第一百零三章 第二阶段的开始.txt",
+  "char_count": 3503,
+  "timestamp": "2026-04-10T12:04:59.199374",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "了无数倍。”\n\n    “既然如此，让我们把饵食吃了，顺把鱼线拉断报……我很想知道，这位敢一个人踏上逃亡路的机师，是怎样狂妄的一个人，还是说……他是一个疯子？”\n\n    老将军看着消失于野间的那台黑色机甲，微微一笑，淡淡嘲讽里透着一股绝对的自信，命令道：“开始第二阶段计划。”\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "色机甲却正在启动，隐约可以看到开启的舱\n\n    —帝国远征军的必杀目标——那位漂亮的联邦国民头，向天空挥手致意。\n\n    安布里老将军浑浊的双眼渐渐透过一丝凛冽之意，直到此刻，他才觉得联邦军队可能是将那位明星做为了诱饵。如果这种猜测是真的，帝国的军队会迎来怎样的厄运？\n\n    正如他并不明白陛",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "甲消失的某处。\n\n    机械营瞄准重型卡车的榴炮和更强大的威力武器，因为卡车的轰然倒塌，目标的高速离去，自然地解除了开火状态。\n\n    头发花白的少将神情复杂地站在公路中央，经过了艰巨的思想挣扎，他终究没有让自己的下属动武，把胆大包天的许乐拦下来。\n\n    “给我接通指挥部，不……直接接通国防",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "结果，现在应该被他们保护的两个人却把他们甩了。\n\n    在最短的时间内，泽丘空东北方向三十公里处，寂静公路上发生的事情，便传到了5460~邦指挥部和正在太空中的联邦舰队处。\n\n    洪予静少将缓取下军帽，用手指地梳理了一下头发。\n\n    她并不如何担心那七艘帝国夜战舰，她统领下的舰队马上就要脱",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "开战的最初时刻向南方的防御阵地上砸下了所有的家当。\n\n    蓄养了十年之久的武器与军员意志，在那一瞬间汹涌而出，打了联邦人一个措手不及。用远征军统帅安布里老将军的话来说，在堂堂正正之师面前，任何阴谋都来不及发酵，便会被帝国的铁流碾成粉末！\n\n    但当帝国的铁甲洪流进攻到南半球第二道及第三道防御",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "太空中的联邦舰队处。\n\n    洪予静少将缓取下军帽，用手指地梳理了一下头发。\n\n    她并不如何担心那七艘帝国夜战舰，她统领下的舰队马上就要脱离第二引力范围，到那时，帝国的战舰再如何悍勇不畏死，也无法威胁到自己的战舰此次计划中最重要的一环，似乎发生了些许变化。\n\n    南半球指挥部基地，纳尔逊",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "了些许变化。\n\n    南半球指挥部基地，纳尔逊中将表情严峻地听着战情回报默片刻后说道：“替那台机甲全力解决来自空中的威胁，地面上的问题……就只有交给那位年轻人了。”\n\n    ……\n\n    ……\n\n    “电子干扰持续时长剩余时。和联邦人清理那些小东西地时间必须马上计算出来。”\n\n    北半",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "来。\n\n    “给我接通指挥部，不……直接接通国防部！”他快步走到军车旁，让副官接通军事卫星电话，愤怒地吼叫道：“告诉邹应星，那小子把小姐劫走了，如果小姐出了事情，我唯他是问。”\n\n    七组的汉子们端着沉重的武器，表情沉重地开始准备撤离。\n\n    白玉兰秀气的眉皱的极紧，与身旁的兰晓龙互视一",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "要的一环，似乎发生了些许变化。\n\n    南半球指挥部基地，纳尔逊中将表情严峻地听着战情回报默片刻后说道：“替那台机甲全力解决来自空中的威胁，地面上的问题……就只有交给那位年轻人了。”\n\n    ……\n\n    ……\n\n    “电子干扰持续时长剩余时。和联邦人清理那些小东西地时间必须马上计算出来。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "帝国远征军的攻势顿时变得更加暴烈，他们不计代价的快速向南突袭，一路铁甲碾过，不去占据任何具有战略意义的高地工事，甚至连自己的重伤员都暂时留下，只是为了保证自己的突进速度！未完待续，如欲知后事如何，请登陆com，章节更多，支持作者，支持正版阅读～小  说t  xt 天,堂\n\n\n\n第三卷西林的征途",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "迎来怎样的厄运？\n\n    正如他并不明白陛下那条全力追杀联邦国民少女的旨意，他也无法想明白联邦军方究竟凭什么敢用这样一个诱饵，事实上，就连联邦军队的指挥官们，也都不清楚其中的奥秘。\n\n    这是帝国与联邦军队之间的殊死战争，更是联邦那位军神与帝国皇帝陛下，在某些故事之间的心意气势比拼。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "南半球没有近轨卫星地帮助。帝队地电子监控大部依赖于被他们称为小东西地微型无人电控飞机。所以画面经常会出现变形模糊。\n\n    “三颗变轨卫星已经被联邦人击落了两颗。”诺曼军官对计算台下达了命令后起电话对远方地电子部队大声吼叫道：“不管计算结果怎么样。南三十二度角方位地电子干扰。你们一定要给我坚持住！",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "间的距离极为遥远，但从他们的进攻路线上，可以清晰地判断出，最后将要抵达的区域，非常一致。\n\n    同时，帝国远征军，一直沉默守候在分界线后的整整一个全机械化大队，顺着那片焦土，压了上来！\n\n    至此，除了留守的少许部队外，5460星上的枫林联队，竟是把所有的强攻部队，全部推展到了南半球的范围之",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "出来。”\n\n    北半球帝国远征军地环形基地中。阔地地下指挥厅内。四十几块大型光幕上显示南方黑夜里无数残酷壮烈地战斗画面。在南半球没有近轨卫星地帮助。帝队地电子监控大部依赖于被他们称为小东西地微型无人电控飞机。所以画面经常会出现变形模糊。\n\n    “三颗变轨卫星已经被联邦人击落了两颗。”诺曼军官",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

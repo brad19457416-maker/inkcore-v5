@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 41,
+  "chapter_title": "第四十一章 莲花瓣上滚烫的水珠儿",
+  "filename": "ch_0041_第四十一章 莲花瓣上滚烫的水珠儿.txt",
+  "char_count": 2134,
+  "timestamp": "2026-04-10T12:11:03.428079",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "银锭递了过去，笑着说道：“这可不是什么大红包，但你陪我聊了这么时间也不能白聊，你可别瞧不起我，不知道为什么，我就觉得和你说话特痛快。”\n　　宁缺心想那是自然，你要和客人们说话总要讲究一个风情谈吐，哪能像陪我这般如村里大婶子斜歪在榻上，三句半便要说两句脏话，不过他也极喜欢水珠儿姑娘爽利谈吐以及……清丽",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "小草喊了声：“祖奶奶说了，谁都不许做他生意！”\n　　“啊？有这事儿吗？”\n　　宁缺悚然一惊回首望去，心想以那位简大家在天下风月行里的地位，若这话传出去，只怕整个长安城的青楼将来都不会做自己生意了，这可如何使得？\n　　婢女小草得意望着他说道：“难道祖奶奶没那意思？”\n　　宁缺无言，心想难怪史书上都说皇",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "般的香气此时仿佛都还在。\n　　想起斯景，此时便有些热，抱着桑桑的小脚觉得更热，待膝盖顶到那处此时虽瘦日后必丰的地方时，更是觉得被褥里热的不行。\n　　人总要长大的，总这般下去也不是个事儿，宁缺掀开被窝坐了起来，望着被吵醒的丫头，笑着说道：“长安比边城热的早，看来得提前分床了。”\n　　小桑桑揉着眼睛，迷",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "往常那样宁缺抱着那双小脚，脑子里却在回忆今夜在红袖招的所见所闻，先想了一阵御史张贻琦的事情，后来脑中出现更多的却是水珠儿那张宜喜宜嗔的小粉脸，还有那身如水般荡漾的细脂嫩肉，尤其是最后被她搂进怀里揉头那阵，脸畔柔软弹嫩的触感和如兰般的香气此时仿佛都还在。\n　　想起斯景，此时便有些热，抱着桑桑的小脚觉得",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "也不能白聊，你可别瞧不起我，不知道为什么，我就觉得和你说话特痛快。”\n　　宁缺心想那是自然，你要和客人们说话总要讲究一个风情谈吐，哪能像陪我这般如村里大婶子斜歪在榻上，三句半便要说两句脏话，不过他也极喜欢水珠儿姑娘爽利谈吐以及……清丽面容和丰腴身子，倒也并不矫情，接过银锭说道：“就算是姐姐送我的见面",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "了，谁都不许做他生意！”\n　　“啊？有这事儿吗？”\n　　宁缺悚然一惊回首望去，心想以那位简大家在天下风月行里的地位，若这话传出去，只怕整个长安城的青楼将来都不会做自己生意了，这可如何使得？\n　　婢女小草得意望着他说道：“难道祖奶奶没那意思？”\n　　宁缺无言，心想难怪史书上都说皇帝不可怕，惯于假传圣旨",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "问随意听听，其实耳朵早就竖了起来，不停过滤着那些穿进耳朵的名字，忽然间他的手指微微一僵。\n　　“我就从来没见过这么怕老婆的人，四五品的官儿，居然每次来楼子里玩还要乔装打扮，而且那家伙死没用，就嘴上功夫还行，真不亏是铁嘴能言的御史大……”\n　　御史大人铁嘴能言的评价，居然被青楼女子们刻薄的用在此处，宁",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "御史大人铁嘴能言的评价，居然被青楼女子们刻薄的用在此处，宁缺想到在张府门口看到张贻琦那几位妾侍满足的神情，脑海中顿时浮现出一位白发御史整天趴在妾侍腿间辛苦万分的画面，险些把嘴里的果子喷了出来，呛的连声咳嗽。\n　　水珠儿那句评价刚出口便觉得不妥，本指望这少年可能听不懂话中隐指，却没想到他反应如此",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "那丰腴姑娘弄的心驰神迷，变成了一个走不动道的呆头鹅。小婢女愈发不喜，盯着那名丰腴却又不失清秀的女子，说道：“水珠儿，这可是祖奶奶交待下来的话，你难道敢不听？”\n　　水珠儿是红袖招正当红的姑娘，虽然连续两年都没能参加花魁竞选，但凭那张清秀小脸和满身水漾般白脂，行情向来极为红火。可即便是她也不敢反抗简大",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

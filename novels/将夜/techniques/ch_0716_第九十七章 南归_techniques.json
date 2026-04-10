@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 716,
+  "chapter_title": "第九十七章 南归",
+  "filename": "ch_0716_第九十七章 南归.txt",
+  "char_count": 4330,
+  "timestamp": "2026-04-10T12:11:27.015666",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "走了没有多长时间，他看到了远处天边蒙着白雪的山川，便向那边走去，这一走又走到了黑夜，走到了月亮爬上天空。\n　　这样的日子重复了一段时间，他依山南行，夜夜看月，偶尔会忽然发起脾气，叉着腰对着那轮明月骂个不停。\n　　宁缺知道老师应该还活着，只是换了一种方式存在，还在天上与贼老天战斗，那轮月亮的阴晴圆缺",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "缺泪流满面，直到发现自己的哭声比远处传来的狼嚎还要难听，才有些窘迫地止住。\n　　清醒过后，饥饿的感觉瞬间占据他的身心，空荡荡的肠胃就像是书院后山崖洞口的天地元气，不停挤压折磨着他。\n　　通过清晰而可怕的饥饿感，他确认自己已经昏迷了很多天，难怪身体虚弱的厉害。从身边的草地里找到几株可以食用的野草，和着",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "破建造之初便做了相应符阵改造的贺兰城，至于那些没有攻城器械的草原骑兵，别说数千骑，就算来数万骑也没有意义。\n　　……\n　　……\n　　大雨停止之后，还没有等贺兰城里的人们做出决定，金帐王庭的骑兵有那四辆古怪的华丽马车便来到了城下。\n　　贺兰城已经被围多日，城里的气氛很是低落压抑。\n　　此时城中还有逾万",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "任何惧怕，然而如今镇北军一部也在贺兰城中，城中的粮草本来就已经濒临枯竭，这时候被敌人围城，便显得非常危险。\n　　“依末将看来，必须早下决心，经由山缺折向东荒，然后绕行燕北，回到国内，只有这样，才不至于被生生困死在这里。”\n　　汗青看着站在城墙畔的皇后娘娘沉声说道。\n　　皇后娘娘摇头说道：“金帐王庭单",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "横，能与草原直接交流的祭司，才有资格被称为大祭司，被赋予珍贵的金属圆盘。\n　　宁缺很难理解，金帐王庭为什么一次出动了三名珍稀的大祭司，而且看最后那辆马车里的老人，只怕地位还要在这三名大祭司之上！\n　　“难道说贺兰城里有什么长安城的重要人物？”\n　　他不认为这些草原骑兵和大祭司是在攻打贺兰城，因为大祭",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "决定，金帐王庭的骑兵有那四辆古怪的华丽马车便来到了城下。\n　　贺兰城已经被围多日，城里的气氛很是低落压抑。\n　　此时城中还有逾万大唐铁骑，还有黄杨大师这样的高人，还有数名军中强者，按道理来说，怎么也不可能被数千草原骑兵便围住。\n　　但这却是事实。\n　　镇北军铁骑在金帐骑兵刚刚抵达城下的时候，便出城发",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "粮草不济，就算赶回去又能起什么作用。”\n　　“你们错了。镇北军留在贺兰城，没有粮草，便是大唐的负担与牵挂，而如果我们能够南归，找到粮草，我们便是令敌人畏惧的力量。”\n　　她缓声说道：“我不知道长安城有没有想到这一点，我也不知道北大营的粮队是被王庭烧毁还是根本没有来，但很明显，金帐王庭单于很清醒地看到",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "时城中身份最尊贵的便是皇后娘娘，陛下辞世前遗诏已经说明由六皇子继位，将领们自然唯娘娘马首是瞻，然而在众人看来，娘娘毕竟是个弱质女子，她又能想出什么办法？\n　　皇后娘娘微微一笑，仿佛想起了很久以前的一些回忆。\n　　然后她轻声说道：“我想试一试。”\n　　……\n　　……\n　　无论是汗青还是那两名镇北军将领",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "……\n　　大雨停止之后，还没有等贺兰城里的人们做出决定，金帐王庭的骑兵有那四辆古怪的华丽马车便来到了城下。\n　　贺兰城已经被围多日，城里的气氛很是低落压抑。\n　　此时城中还有逾万大唐铁骑，还有黄杨大师这样的高人，还有数名军中强者，按道理来说，怎么也不可能被数千草原骑兵便围住。\n　　但这却是事实",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "存在，还在天上与贼老天战斗，那轮月亮的阴晴圆缺，大概便是战斗的具体呈现。\n　　但他还是觉得很伤感，很愤怒。\n　　因为月亮怎么看，也不像是老师。\n　　“面如满月，那是形容漂亮的公子哥，哪里像你？”\n　　宁缺抽出朴刀，一面嘲笑着夜空里的老师，一面把刚逮到的一只雪兔开膛剖腹剥皮。元十三箭和别的武器，全部随",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "他的身上，只有那把朴刀，有时候偶尔会担心大黑马现在怎么样。\n　　把免子清理干净以后，他举到身旁空中，说道：“别烤糊了。”\n　　他在喊桑桑去烤兔子。\n　　但现在没有桑桑了。\n　　他低着头，沉默了很长时间，然后又喊了一声。\n　　“桑桑。”\n　　……\n　　……\n　　清晨醒来，宁缺在山脚下继续南行。\n　　那",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "一次。”\n　　皇后娘娘依然摇了摇头，说道：“前面已经试过两次，既然失败，便不要再试，这些将士的生命，日后应该有更重要的用处，不要白白牺牲在这里。”\n　　贺兰城头一片沉默。\n　　究竟该怎么办？此时城中身份最尊贵的便是皇后娘娘，陛下辞世前遗诏已经说明由六皇子继位，将领们自然唯娘娘马首是瞻，然而在众人看来",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "难度。\n　　“杀死那三名祭司就够了。”\n　　皇后娘娘看着城下，看着草原骑兵后方那四辆华美的马车，眼睛缓缓眯了起来，从唇间流出的声音，仿佛也变得冷了几分。\n　　一直沉默在旁的黄杨大师，忽然微笑说道：“或者，我去试一试。”\n　　皇后娘娘摇头说道：“草原蛮人的射术太好，大师过去太危险。”\n　　一名镇北军将",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "走到了黑夜，走到了月亮爬上天空。\n　　这样的日子重复了一段时间，他依山南行，夜夜看月，偶尔会忽然发起脾气，叉着腰对着那轮明月骂个不停。\n　　宁缺知道老师应该还活着，只是换了一种方式存在，还在天上与贼老天战斗，那轮月亮的阴晴圆缺，大概便是战斗的具体呈现。\n　　但他还是觉得很伤感，很愤怒。\n　　因为月亮",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

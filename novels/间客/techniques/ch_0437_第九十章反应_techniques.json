@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 437,
+  "chapter_title": "第九十章反应",
+  "filename": "ch_0437_第九十章反应.txt",
+  "char_count": 3372,
+  "timestamp": "2026-04-10T12:04:59.249672",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "饭？事情这么多。一时间总是做不完。”\n\n    张小萌用一根指尖轻轻顶起鼻梁上黑框眼镜。抬起头来笑着说道：“。你不用担心我。我没事儿。”\n\n    她如今是龙山驻首都星圈的言人。私下还有更重要的任务。每天的工作极为繁。然而她的眼光穿透眼镜落在文件档案上。根本没有移动过。其实一在听着电视里播放的新闻。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "让您在白水公兼职？我们都看过您的履历。觉您成为简水儿小姐的全主管。有些不可思议。您是不是在执行军方的秘密任务。还是说。”\n\n    所有的记者其实一都等着问最后这个问题。所以此时除了那名记者勇敢的大声提问。一绝对的安。无数的闪光灯闪灯。无数的话筒放在许乐的面前。\n\n    “。您和简水儿|姐真的在恋",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "|。这些跑军事线的记者们。只用了半天的时间。便首都星圈某些门里。拿到了足够多的情报。\n\n    许乐心想这个消息实在是太过夸张自己只不过是突入了铁七师近卫营的营部如果单独面对着满编机配备的整个近营。自己只有落荒而逃的份儿。他本想解释几句但想到桐姐的1。只好说了一句无可奉告。便低头继续前行。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "外一个向。利孝通正他那个满是鲜花的房间里吃晚餐。光屏上的声音极为响亮。他的表情极为开怀。将往日里那些雪梅般的冷厉气息一扫而光。\n\n    他举起红酒。笑望着新闻中狼狈不堪的许乐。笑道：“比我想像的还要快一些。这杯酒敬你。也敬我那位真正狼狈大哥。”\n\n    议会大厦火通明。静石厅方向一整排办公室。如",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "也看到了先前那些画面。\n\n    他小口轻啜了一口酒水。艰难的保持着脸部表情的平静。没有让心中真实的愤怒情绪流露出来。他的父。那位喜欢戴小圆帽的老人经常劝说他要走下大楼。站在的面去看这个世界。然而他今天却发现无论自己站在哪里。原来心里都是一样的悬空不安。\n\n    在高耸的三林行楼另外一个向。利孝通",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "心的猜测这个年人的身份。此时从这些记者的嘴道了更多的内容。\n\n    军方冉冉生起的未之星。将来有成为联邦英雄。和一位受到全体联邦公民喜爱的国民少女。这真是天造的设的一对。这是一个温暖而美好甚至体面的爱情故事。\n\n    体面。很。\n\n    都特区三林联邦银行顶层。利修竹关掉了电视。端着一",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "一台新式机甲。就成功的突破了铁七师的近卫营。关于个消息您什么感想要发表吗？要知道铁七师最近十年间参加无数军演。从来有失败过。”\n\n    很明显。不止最开那名武器期刊记者做足了功|。这些跑军事线的记者们。只用了半天的时间。便首都星圈某些门里。拿到了足够多的情报。\n\n    许乐心想这个消息实在是太过",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。嘈杂的现场因为他的动作。忽然变的安静了下来。但在沉默片刻后。他终究什么话也没有说。\n\n    一片寂静中。终于有记者再次鼓起勇气问道：“身为联邦最年轻的中校。国防部为什么还让您在白水公兼职？我们都看过您的履历。觉您成为简水儿小姐的全主管。有些不可思议。您是不是在执行军方的秘密任务。还是说。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "一时间总是做不完。”\n\n    张小萌用一根指尖轻轻顶起鼻梁上黑框眼镜。抬起头来笑着说道：“。你不用担心我。我没事儿。”\n\n    她如今是龙山驻首都星圈的言人。私下还有更重要的任务。每天的工作极为繁。然而她的眼光穿透眼镜落在文件档案上。根本没有移动过。其实一在听着电视里播放的新闻。想着先前记者提到",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "意宣传新闻界和联邦民众对许乐绝对不会产生这么大的兴趣。因为无论是机甲还是别的什么事迹。对于一般的世俗社会而言。总有些遥远。但事情牵扯到国民少女简水儿。那就不一样了。新闻界和民众会自发的发掘与许有关的一切。\n\n    李封在前线执行秘密任务。简水儿无法联系上。她偏着头想了一会儿。终于拨通了李在道的电话",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "甲。就成功的突破了铁七师的近卫营。关于个消息您什么感想要发表吗？要知道铁七师最近十年间参加无数军演。从来有失败过。”\n\n    很明显。不止最开那名武器期刊记者做足了功|。这些跑军事线的记者们。只用了半天的时间。便首都星圈某些门里。拿到了足够多的情报。\n\n    许乐心想这个消息实在是太过夸张自己只",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "还没有大到不要命的指认许乐是李匹夫的私生子。尖着声音问道：“而且据说帕布尔总统也非常欣赏您曾经邀请您进入总统官邸。参加过第一家庭的晚宴？”\n\n    “您是紫星勋章的的者。为什没有见您佩戴？”\n\n    许乐默然到。那是一次普通的晚饭罢了。至于勋章。难道要天天戴在身上告诉的路人。自己曾经做过什么？",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "许乐身体微僵。抬起头来。在四周闪光灯里。寻找着提问记者的容颜。嘈杂的现场因为他的动作。忽然变的安静了下来。但在沉默片刻后。他终究什么话也没有说。\n\n    一片寂静中。终于有记者再次鼓起勇气问道：“身为联邦最年轻的中校。国防部为什么还让您在白水公兼职？我们都看过您的履历。觉您成为简水儿小姐的全",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "起的未之星。将来有成为联邦英雄。和一位受到全体联邦公民喜爱的国民少女。这真是天造的设的一对。这是一个温暖而美好甚至体面的爱情故事。\n\n    体面。很。\n\n    都特区三林联邦银行顶层。利修竹关掉了电视。端着一杯淡色的酒水安静的转过头去。隔着透明的玻璃幕墙。望着联邦里的万家灯火。心想一定有很多人和",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

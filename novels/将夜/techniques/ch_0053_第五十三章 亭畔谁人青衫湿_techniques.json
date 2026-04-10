@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 53,
+  "chapter_title": "第五十三章 亭畔谁人青衫湿",
+  "filename": "ch_0053_第五十三章 亭畔谁人青衫湿.txt",
+  "char_count": 3267,
+  "timestamp": "2026-04-10T12:11:11.953761",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "做事向来有规有矩，我不打算把你们杀死在自己家门口，让你们的父母妻儿伤心欲绝。”\n　　略一停顿，他看着众人平静说道：“不过今夜之后，你们别想还在长安城内有家。”\n　　你们别想还在长安城内有家。\n　　简简单单的一句话，让场间众人脑海中顿时出现很多画面――春风亭老朝这五个字就是信义保证，他说不动众人亲眷便",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "街巷，看不到任何冒雨行走的路人，甚至连婴啼声都没有，仿佛除了风雨和被肃杀之意笼罩的街巷外，其余的都不存在，静到要死。\n　　从临四十七巷走到春风亭，距离并不是太远，两个人像散步的游客般慢悠悠走着，也没走多久便走进了这片静街暗巷里。\n　　前方的春风亭隐藏在夜色里，隐藏在风雨声中，只能模糊看到一处破旧的小",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "右手上举伸向后背斜指雨云的刀柄。\n　　朝小树缓缓伸手握住腰畔剑柄，就在修长手指与沾着雨水剑柄相握的一瞬间，只见他身上那件青衫微微一振，无数雨滴被弹落成细微水粉，如迷鞯奈怼\n　　温和微笑的中年男子骤然变得杀意凛然，仿佛变成了另外一个人，身周那些凄寒雨丝仿佛感受到了一些什么，摇晃倾斜沉默避开，再没有一滴",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第五十三章 亭畔谁人青衫湿\n　　绝大多数长安人都知道，基于某个没有人知晓的缘故，春风亭老朝向来不怎么愿意提及自己帮派的名称：鱼龙帮，他更愿意把这个长安第一大帮叫做春风亭。很多人猜测这是因为他自幼住在春风亭横二街的关系，敌人们则是暗自嘲讽，认为丫就是杀人太多黑钱捞的太多坏事做的太多又",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "”\n　　“你也不用再试探我有没有后手，我可以告诉你，春风亭兄弟没有一个人会来春风亭四周，齐老四不在，难道你们不觉得奇怪？不用奇怪，他和兄弟们已经去了你们的家，相信这时候，南城东城还有你猫叔的外宅那里已经开始不清静了吧。”\n　　随着这句话响彻破旧小亭周遭，雨中人群顿时变得更加骚动，他们在这里围朝小树，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "别想还在长安城内有家。”\n　　你们别想还在长安城内有家。\n　　简简单单的一句话，让场间众人脑海中顿时出现很多画面――春风亭老朝这五个字就是信义保证，他说不动众人亲眷便肯定不会动――然而微寒春雨夜，家中老父老母病妻幼儿被人粗鲁地赶出家门，紧接着自己经营多年的宅院铺子被那些鱼龙帮的青衫汉子变成废砾，谁能",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，他更愿意把这个长安第一大帮叫做春风亭。很多人猜测这是因为他自幼住在春风亭横二街的关系，敌人们则是暗自嘲讽，认为丫就是杀人太多黑钱捞的太多坏事做的太多又不乐意别人说他粗鄙，于是硬要把自己、自己帮派和春风亭这个看似很雅的名字联系在一起。\n　　春风亭地处东城贫民区，建筑破烂不堪，从白昼到夜间充斥着小摊小",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "和宁缺二人，隐藏在夜色风雨中的敌人不再隐藏自己的行踪，伴着连续不断的脚步声，靴底踏浅泊的啪嗒声，利刀缓缓抽出刀鞘的磨擦声，数百名脸色肃然的江湖汉子从亭后从巷中从宅侧走了出来。\n　　春风亭老朝和宁缺站在离破烂小亭不远的地方，静静看着四面八方涌出来的黑压压人群。朝小树微微一笑，没有问身后少年怕不怕这种无",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "一笑，没有问身后少年怕不怕这种无趣的问题，抬起手臂抹了一把脸上的雨水，指着人群最中间某个微胖的中年人说道：\n　　“这个人叫蒙老爷，南城当家，他身旁那个剃光头的大汉叫宋铁头，蒙老爷是宋铁头的大哥，宋铁头就是那天去你铺子闹事的那个谁谁谁的大哥。”\n　　随着青衫中年男子一抬臂，雨夜围击的人群骤然一阵骚动，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

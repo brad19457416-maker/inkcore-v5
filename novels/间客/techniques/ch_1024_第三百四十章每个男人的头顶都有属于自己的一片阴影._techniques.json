@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 1024,
+  "chapter_title": "第三百四十章每个男人的头顶都有属于自己的一片阴影.",
+  "filename": "ch_1024_第三百四十章每个男人的头顶都有属于自己的一片阴影..txt",
+  "char_count": 2802,
+  "timestamp": "2026-04-10T12:05:26.934284",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。\n\n    所以他不屑做任何保留，施出自己最擅长的近身技，务求一击致命，在腰侧夹指突拳骤然出击的那瞬间，他仿佛已经看到对手喉骨尽碎，喷血倒地的画面。\n\n    啪啪啪三声清脆击打声几乎同时响起，瘦高拳师的膝尖狠狠顶中对方小腿外侧的痛觉神经束集结点，掌刀重重劈进对方腋窝下方，然后右脚借势往前一踏，蓄",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "拳师眼瞳骤然猛缩，不明白面前这个魁梧男人没有倒下去，自己狠辣无比的三连击明明准确无比落在对方要害上，为什么对方却没有丝毫反应？就在这时，左腕骨处传来清晰而可怕的痛楚感觉，瘦高拳师脸色剧变，这才发现自己必中的左拳竟是砸在了对方比钢铁还要坚硬的胸部！\n\n    呼啸拳风声起的那刹那，整个会场数百人中，没",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "惊猜测此人的身份。\n\n    孤儿帮的包厢里已经乱成了一团，几个人兴奋又有疑惑地看着阴影间那个身影，心想这个人是谁，为什么他会替胡狮上场，他为什么要帮自己？\n\n    李维站在栏杆旁，望着那处若有所思，总觉得那个身影有些眼熟，好像在哪里见过一般。\n\n    终究是赢了，结束之后总能明白究竟发生了什么",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "场间一片喧哗，观众们震撼于拳台上的血腥场面，以及那名魁梧男人的悍冷气息，而顶层两边包厢里的人们，却是在震惊猜测此人的身份。\n\n    孤儿帮的包厢里已经乱成了一团，几个人兴奋又有疑惑地看着阴影间那个身影，心想这个人是谁，为什么他会替胡狮上场，他为什么要帮自己？\n\n    李维站在栏杆旁，望",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "侏儒看见巨人也不会太过吃惊，不停追拍，因为对他来说，街上走过的每个普通人都是巨人。\n\n    但顾惜风看见施清海就会吃惊，因为他是真正的电脑高手，胡狮看见这个人也吓了一跳，因为他本身就足够魁梧，却平生第一次看见如此魁梧的男人。\n\n    因为过于震惊，胡狮完全忘记阻止对方，憨憨傻傻看着那个魁梧汉子走",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "往不会过于吃惊或者轻易流露出倾慕神情，因为对他来说，会重构工作台系统的人都是高手。\n\n    同样的道理，侏儒看见巨人也不会太过吃惊，不停追拍，因为对他来说，街上走过的每个普通人都是巨人。\n\n    但顾惜风看见施清海就会吃惊，因为他是真正的电脑高手，胡狮看见这个人也吓了一跳，因为他本身就足够魁梧，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "风看见施清海就会吃惊，因为他是真正的电脑高手，胡狮看见这个人也吓了一跳，因为他本身就足够魁梧，却平生第一次看见如此魁梧的男人。\n\n    因为过于震惊，胡狮完全忘记阻止对方，憨憨傻傻看着那个魁梧汉子走上拳台，不可置信地***了***眼睛。\n\n    牵涉到林半山在百慕大最重要基业、两条最关键货运线路",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "是近战的最佳体格。\n\n    瘦高拳师不知道孤儿帮这边换了人，他也并不在意这些细节，做为军人隐藏身份来到百慕大，他需要做的事情很简单，那就是打倒面前所有人。呼的一声，瘦高拳师快速错步上前，左膝顶向对面那名魁梧男人的小腿外侧，右掌化刀劈向对方腋窝，最致命的攻击却是隐藏在腰畔，是隐而未发的一拳。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "拳骤然出击的那瞬间，他仿佛已经看到对手喉骨尽碎，喷血倒地的画面。\n\n    啪啪啪三声清脆击打声几乎同时响起，瘦高拳师的膝尖狠狠顶中对方小腿外侧的痛觉神经束集结点，掌刀重重劈进对方腋窝下方，然后右脚借势往前一踏，蓄势已久的左拳猛然击出！\n\n    拳头狠辣无比地击中对方喉部！\n\n    不对！",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "尔专员的安全工作，但今天这件事情事关联邦利益，拜托了。”\n\n    官员看着面前那个头发花白的男人，说道：“敌方那名拳师的身份还在查验当中，应该马上就会有结果。”\n\n    “没有必要。”中年男人缓缓系好绷带，转过身看着官员，傲然说道：“交战之前，我从不关心对手。”官员尴尬地笑了笑，鼓起勇气问道：“",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "里很想知道，面对那个家伙，您有多少信心。”\n\n    “信心？”中年男人皱眉不悦望着他，嘲笑说道：“从来没有败过的人，我的信心向来有些盲目。”\n\n    他叫田行天，出身费城修身馆，被联邦政府特赦离开狐狸堡垒太空监狱后，加入小眼睛特战部队，现在担任地勤副指挥官。\n\n    自信与骄傲来自于过往的战绩",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "人，说道：“敌方那名拳师的身份还在查验当中，应该马上就会有结果。”\n\n    “没有必要。”中年男人缓缓系好绷带，转过身看着官员，傲然说道：“交战之前，我从不关心对手。”官员尴尬地笑了笑，鼓起勇气问道：“包厢里很想知道，面对那个家伙，您有多少信心。”\n\n    “信心？”中年男人皱眉不悦望着他，嘲笑",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

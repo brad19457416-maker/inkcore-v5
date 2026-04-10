@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 763,
+  "chapter_title": "第一百四十四章 木已成舟",
+  "filename": "ch_0763_第一百四十四章 木已成舟.txt",
+  "char_count": 3599,
+  "timestamp": "2026-04-10T12:11:27.128654",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "来接这道铁剑。\n　　这片稻田是他的规则。\n　　在铁剑出青峡之前，他已经负起双手，衣袖微拂。\n　　有清风自袖间出，金黄色的稻谷被拂的轻轻颤动，时而弯腰。\n　　宽直的铁剑，进入稻海。\n　　稻海渐分，如湖水，如海水，如青山里的苍松。\n　　田垄上的野草染着血。\n　　没有收割的秋稻染着血。\n　　铁剑过处，野草",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "五境，却在昊天世界的既定规则中，寻找到自已最强大的信念，从而让那些规则变成他专属的规则。\n　　从某种意义上来说，这种手段已经超出了五境的范畴。\n　　叶苏双眉渐平，意渐平。\n　　他已经出了剑，现在该轮到二师兄出剑了。\n　　他看着青峡处，挥动双臂，衣袖轻拂，负在身后，平静说道：“请。”\n　　二师兄出剑。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "水浸的发黑，悄悄潜入泥。\n　　泥土间，生出绿色的稻叶。\n　　稻叶向着空中伸展，似要结实。\n　　极短的瞬间内，这片稻田经历了收割、死亡以及重生。\n　　稻田的生死别离，就这样在人们的眼前上演。\n　　这个过程非常连续，生死循环变成完美的圆融，找不到任何清晰的分界线。\n　　在稻田里飞行的铁剑，也没有找到那条",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "才能在昊天的世界里创造属于自已的规则。\n　　二师兄没有越过五境，却在昊天世界的既定规则中，寻找到自已最强大的信念，从而让那些规则变成他专属的规则。\n　　从某种意义上来说，这种手段已经超出了五境的范畴。\n　　叶苏双眉渐平，意渐平。\n　　他已经出了剑，现在该轮到二师兄出剑了。\n　　他看着青峡处，挥动双臂",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "伸展，似要结实。\n　　极短的瞬间内，这片稻田经历了收割、死亡以及重生。\n　　稻田的生死别离，就这样在人们的眼前上演。\n　　这个过程非常连续，生死循环变成完美的圆融，找不到任何清晰的分界线。\n　　在稻田里飞行的铁剑，也没有找到那条分界线。\n　　铁剑依然沉默前行。\n　　稻海生稻，骤疾，哗哗而响。\n　　有",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "经负起双手，衣袖微拂。\n　　有清风自袖间出，金黄色的稻谷被拂的轻轻颤动，时而弯腰。\n　　宽直的铁剑，进入稻海。\n　　稻海渐分，如湖水，如海水，如青山里的苍松。\n　　田垄上的野草染着血。\n　　没有收割的秋稻染着血。\n　　铁剑过处，野草寸裂成屑，飞扬而起，落在稻田间。\n　　沉甸甸的稻穗，随剑意而落。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "着血。\n　　铁剑过处，野草寸裂成屑，飞扬而起，落在稻田间。\n　　沉甸甸的稻穗，随剑意而落。\n　　失去沉重负担的稻杆猛然挺直腰身，把稻叶弹至空中。\n　　稻穗向地面坠落，尚未坠到地面，稻谷便剥离而出，随稻叶一道飞舞。\n　　稻谷上的麸皮裂开，露出浑圆晶莹的米粒。\n　　米粒在秋风里四处洒扬，如珍珠反射着阳光",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "。\n　　他已经出了剑，现在该轮到二师兄出剑了。\n　　他看着青峡处，挥动双臂，衣袖轻拂，负在身后，平静说道：“请。”\n　　二师兄出剑。\n　　他的剑更简单。\n　　宽直的铁剑，离开他的右手，离开青峡。\n　　铁剑距离原野地面约一人高，缓慢地向着稻田飞去。\n　　从青峡到稻田，中间有一段距离，那片土地染满了血。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "道的一剑之前，亦不能避。\n　　他只能举剑相迎。\n　　……\n　　……\n　　远处南方原野间，柳白在马车畔缓缓站起身来，看着青峡处那道铁剑，说道：“这一剑终于有些意思了。”\n　　青峡之战持续了两天多，这位当世第一强者始终没有出手，因为他一直等着君陌晋入最强的状态，不然便没有意思。\n　　此时看着这道铁剑，他",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 761,
+  "chapter_title": "第一百四十二章 二师兄的规矩（上）",
+  "filename": "ch_0761_第一百四十二章 二师兄的规矩（上）.txt",
+  "char_count": 4421,
+  "timestamp": "2026-04-10T12:11:27.126629",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "入侵者里实力最强大的神殿护教骑兵与草原精锐，不知去了何处。\n　　朝小树看着西方的山林，想着先前平原郡紧急送来的军报，脸上仿佛蒙了一层霜气，说道：“他们去长安了。”\n　　东疆义勇军连续作战，后勤支援困难，已经疲惫到了极点，能够在昨日这场大战中，击溃草原骑兵大部，已然是超水平的发挥。\n　　此时就算知道隆",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "”\n　　宁缺揖手行礼，转身离开。\n　　由南门往长安城里去，必然要经过那条著名的朱雀大道。\n　　深秋的天空，时而高远，时而晦暗，全看有没有云遮住天空。\n　　当宁缺顺着朱雀大道向北走去时，有云自城外飘来，遮住了天空里的阳光，洒向一大片阴影，让城中的温度变得低了些。\n　　朱雀大道上的那些石制绘像，也因为光",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "下虽是精锐，但绝对不可能攻下长安城。”\n　　这正是朝小树面若寒霜的原因。\n　　明明没有任何意义，隆庆为什么愿意舍弃如此多的部队，只为了争取时间直突长安？只有一种解释，隆庆坚信当他的骑兵抵达时，长安城必破。\n　　……\n　　……\n　　青峡在莽莽青山前。\n　　青山之前是平原。\n　　这片平整肥沃的原野，大半",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "虽然没有言语，却仿佛能心灵相通。\n　　相看无言，只有情绪和思绪在他与朱雀之间回荡。\n　　“你只是知命巅峰。”\n　　宁缺看着被雨水打湿后显得愈发灵动的朱雀绘像，在心中默默想着：“对观主这样的强者，又有什么用呢？”\n　　……\n　　……\n　　杨二喜喘息着收回草叉，拄着草叉站在原野间休息。\n　　他的身前是一",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "叶苏浑身上下都是问题，这让他非常不悦，甚至有些失望。\n　　叶苏感受到了对方此时的情绪，不禁笑了起来，心想君陌果然是传说中的性情，微笑说道：“你那套早已不合时宜，更何况这是战争。”\n　　二师兄说道：“时宜者，宜于时也，种稻收粮，千秋事也，岂能因时势而移。”\n　　叶苏渐渐敛了笑容，说道：“你又如何能控制",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "山说道：“我想用石头把这道城门堵死。”\n　　用石头堵死城门，听上去没有什么问题，但宁缺知道，单纯物理意义上的封堵，对长安城里的天地气息流没有任何意义，所以他马上明白了她的意思，想起了魔宗山门外大明湖底的无数块顽石，想起那座名为块垒的阵法。\n　　“有没有把握？”他问道。\n　　莫山山摇头说道：“没有把握",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "伞已经不在身边，大黑马也已经不在身边，马车已经不在身边。\n　　桑桑，也不在。\n　　宁缺想着当年和桑桑第一次看到它时的感受，想着自已浑身是血倒在它身前的旧事，沉默不语，心里的情绪非常复杂。\n　　夫子带着他和桑桑，在人间进行最后一次游历的时候，曾经回过一次长安，那时朱雀曾经现身，出现在黑色马车里。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "不等他把话说完，宁缺说道：“既然有湖石，那是最好不过，侍郎大人有什么主意，不妨对莫姑娘直言，现在时间紧张，不是客套的时候。”\n　　户部侍郎闻言应下。\n　　莫山山又道：“我需要数百块万斤以上的重石，可搬得动？”\n　　户部侍郎说道：“工部库房里的器械正在往这处运，莫要说万斤以上，就算是十万斤重石，也能从",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "义上的封堵，对长安城里的天地气息流没有任何意义，所以他马上明白了她的意思，想起了魔宗山门外大明湖底的无数块顽石，想起那座名为块垒的阵法。\n　　“有没有把握？”他问道。\n　　莫山山摇头说道：“没有把握，但想不出来别的方法，你对我说过，最后的方法就是最好的方法，所以我想试一试。”\n　　这确实是宁缺经常说",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "个时辰里，得到了完美的展现，没有用多长时间，由工部和天枢处领头，数名阵师和三千多名临时征调的民夫，便来到了南门处，尽数归由莫山山指挥调动。\n　　莫山山问道：“至于需要三万多块石头，我们到哪里找这么多石头？”\n　　宁缺望向城内的民宅，说道：“实在不行就拆房子。”\n　　奉旨前来的户部侍郎听着这话，沉默片",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "门，听上去没有什么问题，但宁缺知道，单纯物理意义上的封堵，对长安城里的天地气息流没有任何意义，所以他马上明白了她的意思，想起了魔宗山门外大明湖底的无数块顽石，想起那座名为块垒的阵法。\n　　“有没有把握？”他问道。\n　　莫山山摇头说道：“没有把握，但想不出来别的方法，你对我说过，最后的方法就是最好的方",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "带着骁骑营出了长安，直赴东疆与草原骑兵作战，在随后的这些天里，不断有自愿前来的退伍兵汇入他们的队伍，同时还有自燕境撤回的东北边军残兵被收拢，军员数量越来越多。\n　　现在这支军队的人数已经超过了三万人，被朝廷正式命名为义勇军，只是因为装备尤其是战马缺少的缘故，相对草原骑兵依然处于弱势。\n　　就在昨日，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "处也正好是惊神阵的生门，正对着朱雀大街，如果要堵死，自然便是要把这门封死，至于方法……”\n　　莫山山说道：“我想用石头把这道城门堵死。”\n　　用石头堵死城门，听上去没有什么问题，但宁缺知道，单纯物理意义上的封堵，对长安城里的天地气息流没有任何意义，所以他马上明白了她的意思，想起了魔宗山门外大明湖底的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "踏着疲惫的步伐向西方的山林间走去。\n　　就在这片原野间，新筑了两千多座坟，很小很简陋的坟。\n　　唐军从来不会扔下任何一个同伴，无论是生还是死。\n　　战争期间无法做到，也会在战后尽最大可能寻回同伴的遗体。\n　　不过这里本来就是大唐的国土，战士埋在这里，也等于是埋在家乡。\n　　听说皇帝陛下回到长安城的时",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "遇，究竟谁更强一线？\n　　青山之前的原野间，所有的目光都看着那片稻田，看着那柄木剑。\n　　天地间一片安静，只有战马轻嘶，有些不安地轻轻踢着蹄。\n　　这两天多时间，始终处于随时准备出击状态的骑兵，纷纷下马，因为他们知道这场战斗容不得自已这些凡人插手，那是只属于强者的尊严之战。\n　　神辇里，叶红鱼沉默看",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "身把那几处堵塞冲开。\n　　莫山山给长安城开出的这个药方很简单，粗暴至极，实在很难想象出自这样一个清美温柔的少女手中，如果被她医治的是真正的人，在服下这剂药后，绝对会诸窍流血而死，但如果服这剂药的是长安城，会不会不一样？\n　　宁缺沉默了很长时间，问道：“堵在哪里？怎么堵？”\n　　“这道线的出口是南门，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

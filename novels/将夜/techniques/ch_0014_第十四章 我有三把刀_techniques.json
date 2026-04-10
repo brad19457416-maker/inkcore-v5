@@ -1,0 +1,102 @@
+{
+  "novel": "将夜",
+  "chapter_number": 14,
+  "chapter_title": "第十四章 我有三把刀",
+  "filename": "ch_0014_第十四章 我有三把刀.txt",
+  "char_count": 3046,
+  "timestamp": "2026-04-10T12:11:03.399965",
+  "techniques_count": 7,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "火光之中婢女看着宁缺的脸，做如是想法。\n　　……\n　　……\n　　一生都在夜色中杀人的刺客，是对危险最敏感的生物，那名婢女都能感受到宁缺平静专注神情下隐藏着的凶险，两名黑衣刺客盯着跃过火墙的少年身影时，更是下意识里感觉到了紧张，甚至比当年他们刺杀燕军游骑时更加紧张，握着长剑的手有些莫名其妙的僵硬",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "意识里感觉到了紧张，甚至比当年他们刺杀燕军游骑时更加紧张，握着长剑的手有些莫名其妙的僵硬。\n　　呼啸风声中，宁缺跃入二人中间，身上棉袍被灼燃的衣角，在夜色密林间带出数道微弱火线。\n　　两把带着锈迹的长刀自肩后闪电拔出，像风雨般挥洒了过去，林间骤然响起一连串极为刺耳的金属刀锋碰撞声，劲风起处，燃烧的棉",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "着藏在那处的贵人，浑身上下陷入一片寒冷，他们受伤极重，根本无力赶来支援，只能眼睁睁看着那道炽热的火墙瞬间把那里的一切吞噬，发出绝望的嚎叫。\n　　然而他们并没有看到，那把大黑伞并没有被烧毁，高温炽烈的火舌喷吐在油腻粘乎的黑伞布面上之后，很奇异的变得微弱起来，这把黑伞的伞面是用什么材料制成的，能像黑色天",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "面是用什么材料制成的，能像黑色天幕般遮住繁星，同样也能够挡住烈火！\n　　在大大的黑伞下方，瘦小的桑桑紧张地低着头，闭着眼，抿着唇，两只小手紧紧握着伞柄，抵挡着近在咫尺的恐怖火焰，握着伞柄头的左手一时绷紧，一时又无措地放松，显得极为紧张，又像是心里正在挣扎着什么。\n　　婢女也在黑伞之下，微卷的发丝荡在",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "在战场上却表现的十分强悍，甚至有过成功刺杀修行者的战例。\n　　一般人都不知道夏侯将军麾下神秘的刺杀组究竟是怎样的建制，但宁缺知道。\n　　他知道夏侯麾下的刺客组惯常是三个人一起行动。\n　　所以从很小的时候开始，他的后背上一直背着三把刀。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "身旁，双手握住伞柄用力一错，那把和她瘦小身体相比夸张巨大的黑伞忽的一声被撑了开来，如同一道漆黑的天幕出现在已经入夜的北山道密林中，挡住了繁星。\n　　两颗火油弹落在地面，迅速燃烧起来，蓬勃的火焰把地面上的落叶卷起，然后这些树叶让火势变得更加旺盛，顿成熊熊之势根本无法阻挡。\n　　车队四周还活着的侍卫和草",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "双膝，滚过落叶，在林间滚了极远极远。\n　　当年在大唐与燕国的战争中，夏侯将军率领的先锋部队曾经刺杀过无数燕国游骑，那些神秘的刺杀组由精锐军士组成，并没有修行者，然而在战场上却表现的十分强悍，甚至有过成功刺杀修行者的战例。\n　　一般人都不知道夏侯将军麾下神秘的刺杀组究竟是怎样的建制，但宁缺知道。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

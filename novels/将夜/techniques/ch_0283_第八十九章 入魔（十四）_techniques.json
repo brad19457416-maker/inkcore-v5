@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 283,
+  "chapter_title": "第八十九章 入魔（十四）",
+  "filename": "ch_0283_第八十九章 入魔（十四）.txt",
+  "char_count": 2400,
+  "timestamp": "2026-04-10T12:11:21.740682",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "震动起来，没有崩裂，却崩落上镶在其间的亿万颗星星，那些星星划破长空，拖着长长的尾巴砸向他身前的荒原，大地痛苦地呻吟颤抖，冬树与霜草被溅起的泥土掩盖，或被高温焚烧成灰。\n　　他知道这幅画面代表着什么。\n　　自夜穹坠落的亿万颗星星是莲生大师的精神力量。被轰击呻吟痛苦的荒原和草树是他的识海。当荒原和草树被",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "老僧看着缓慢向自己胸口深入的刀锋，眼眸里涌出不可思议的神色。\n　　他的精神力量触碰到宁缺的身体，便瞬间消失无踪，就仿佛是泥牛入海一般，而且这种流失的速度竟是无比惊人，不过霎时，他的识海竟已空了大半！\n　　以魔功吸纳天地元气，靠的便是精纯的念力操控，此时识海里念力渐枯，那些荡漾飘拂在魔殿里的天地元气",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，首先变得恐怖强大的便是精神力量。\n　　这些天地气息同时也被宁缺所吸纳，然后转换成自己身体里的元气，最终变成他以前从未体验过的强大力量。\n　　最终比较的依然还是时间，就看宁缺能不能抢在老僧回复到足够强大之前，自己变得足够强大，把对方彻底杀死。\n　　所以宁缺没有用锦囊里符，没有用元十三箭，因为这些手段",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "在这种情况下，他最相信，也只能相信自己身后的三把刀，那三把从岷山杀到渭城从渭城杀到春风亭、曾经杀死无数敌人的朴刀。\n　　然而很可惜的是，吸纳天地元气乃是魔宗手段，莲生大师身为魔宗前代元老，无论是对这等手段的妙诣还是境界都远在宁缺之上。\n　　对战双方本身境界差距太大，时间也会变得不再公平，宁缺没能一",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "第八十九章 入魔（十四）\n　　老僧凄厉地尖叫一声，如白莲花般夹住刀锋的双手骤然高速颤抖起来。\n　　一股实质力量顺着刀锋暴涌而上，与宁缺灌注到刀锋里的浩然剑骤然相遇。\n　　轰的一声巨响！\n　　昏暗的魔殿内尘土大作，骨山颓然垮塌，那些断骨和骨屑就像是垃圾一样，被狂风卷起四处飘舞，击打着",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，然而在绝望的情绪深处，依然隐藏着强烈的不甘和想要把这些星星全部击碎的强烈渴望。\n　　仿佛冥冥中某个存在感应到了他的强烈的不甘心和渴望，一抹极淡的影子缓慢蔓延过来，越过他的头顶，覆盖住了他的全身。\n　　他看着身前那片阴影以及阴影中更深的自己的影子，霍然转身。\n　　身后的荒原上什么都没有。\n　　只有一",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "冒着被天诛的风险，刚刚继承小师叔的衣钵，眼看着可以死里求活，结果却落入如此绝望境地，马上便将死去，难道说这真是命运？真是昊天的诅咒？\n　　他的心情一片寒冷，甚至感到了真正的绝望，然而在绝望的情绪深处，依然隐藏着强烈的不甘和想要把这些星星全部击碎的强烈渴望。\n　　仿佛冥冥中某个存在感应到了他的强烈的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "亿万颗星星不停撞击着荒原，并且变得越来越密集，渐渐要把宁缺的身躯湮灭。\n　　而就在这座黑色雕像出现之后，那些坠落的繁星，仿佛看到火焰的飞蛾受到了无种无形力量的强烈吸引，纷纷朝着黑色雕像斜掠过来。\n　　先前声势惊人的星星，撞击到巨大的黑色雕像上，微弱的像是不起眼的萤火。\n　　亿万颗星星，便是一群",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "腰间一眼。\n　　一声极轻微的磨擦声。\n　　就像是湖风轻柔拂过莲叶。\n　　锋利的刀锋割断几根手指，断指缓缓落下。\n　　纯洁的白莲花，瓣瓣脱落。\n　　宁缺闷哼一声，手中的朴刀暴烈向前刺出，伴着沛然莫御的浩然剑意，雪亮的刀锋噗哧一声捅进了老僧的胸口，直接贯穿了他的心脏。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "莲生大师的残破身躯，助他以恐怖的速度恢复境界实力，首先变得恐怖强大的便是精神力量。\n　　这些天地气息同时也被宁缺所吸纳，然后转换成自己身体里的元气，最终变成他以前从未体验过的强大力量。\n　　最终比较的依然还是时间，就看宁缺能不能抢在老僧回复到足够强大之前，自己变得足够强大，把对方彻底杀死。\n　　所以",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "寒冷，甚至感到了真正的绝望，然而在绝望的情绪深处，依然隐藏着强烈的不甘和想要把这些星星全部击碎的强烈渴望。\n　　仿佛冥冥中某个存在感应到了他的强烈的不甘心和渴望，一抹极淡的影子缓慢蔓延过来，越过他的头顶，覆盖住了他的全身。\n　　他看着身前那片阴影以及阴影中更深的自己的影子，霍然转身。\n　　身后的荒原",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "的风险，刚刚继承小师叔的衣钵，眼看着可以死里求活，结果却落入如此绝望境地，马上便将死去，难道说这真是命运？真是昊天的诅咒？\n　　他的心情一片寒冷，甚至感到了真正的绝望，然而在绝望的情绪深处，依然隐藏着强烈的不甘和想要把这些星星全部击碎的强烈渴望。\n　　仿佛冥冥中某个存在感应到了他的强烈的不甘心和渴望",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "魔功吸纳天地元气，靠的便是精纯的念力操控，此时识海里念力渐枯，那些荡漾飘拂在魔殿里的天地元气自然不再进入他的身体，而是向着宁缺的身体飘去！\n　　老僧清晰地感受到双手间的刀锋上传来的力量骤然增大。\n　　他瞪着眼睛看了宁缺一眼，然后低头看了他腰间一眼。\n　　一声极轻微的磨擦声。\n　　就像是湖风轻柔拂过莲",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "看见了老僧冷漠的眼睛。\n　　二人目光的相遇并没有像先前气息在刀锋上相遇时那般，产生摧毁般的效果，而是温柔宁静仿佛一颗露珠自莲叶上滚落，落入湖面荡起一丝涟漪。\n　　水波荡开，便是一个新的世界。\n　　……\n　　……\n　　夜空里传来莲生大师悲悯的声音。\n　　“这是我的世界。”\n　　宁缺看着夜穹上镶嵌着的亿",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

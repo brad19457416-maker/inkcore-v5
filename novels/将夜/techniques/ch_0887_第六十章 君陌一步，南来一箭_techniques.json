@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 887,
+  "chapter_title": "第六十章 君陌一步，南来一箭",
+  "filename": "ch_0887_第六十章 君陌一步，南来一箭.txt",
+  "char_count": 4520,
+  "timestamp": "2026-04-10T12:11:27.394470",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "了数百块血肉，在崔园里洒的遍地都是。\n　　因为书院的缘故，崔老太爷一生隐忍低调，把自己的修行境界当成秘密保守到了百岁之后，直到今日君陌来到崔园，他觉得那个机会终于到了。他想给书院一个意外，想一展自己隐忍多年的锋芒，想一吐压抑多年的怨气。\n　　于是他没有意外地死了。\n　　从始至终，他都没有与君陌交手的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "程度，依赖于修行者自身的境界，像酒徒屠夫这种境界的大修行者，自然能感知的更为清楚，像王景略这样的洞玄巅峰，却只能猜到大概。\n　　猜到大概，对他来说就足够了，在他和宁缺的约定当中，只要感知到这件事情，那么便是发动的时刻。\n　　王景略一直注视着场间的所有动静，看着这幕画面，心里咯登一声，知道自己终于找到",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "变得有些苍白。\n　　肉铺后面吊在铁钩上的半片大白猪忽然动了起来，屠夫手里的杀猪刀也颤抖起来，明明没有风，却有呼啸的风声响起。\n　　屠夫握着刀，看着西陵神国的方向，明白了一些事情。\n　　于是他用最快的速度提起厚实油腻的刀，两手握住，把自己的脸护的严严实实，无论风还是什么都不可能渗进去。\n　　吊在铁钩上",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，直到今日君陌来到崔园，他觉得那个机会终于到了。他想给书院一个意外，想一展自己隐忍多年的锋芒，想一吐压抑多年的怨气。\n　　于是他没有意外地死了。\n　　从始至终，他都没有与君陌交手的机会。\n　　因为君陌没有出手，只是向前走了一步。\n　　他只需要走一步，对手便要展露全部的境界。\n　　因为他是君陌。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "君陌的时候轻敌，就算是柳白这时候再与君陌战上一场，也必然要把他当成最强大的敌人。\n　　崔老太爷的气息猛然提升，直至知命巅峰！\n　　他看着君陌微笑说道：“是不是有些意外？”\n　　君陌看着他说道：“我意外于你的愚蠢。”\n　　狂风乍起，富春江水乱，崔园小溪翻滚如沸，秋莲如死鱼而覆。\n　　一箭自南方来。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "巅峰的强者！虽然富春江畔的大阵被那名书院女子随手破去，老太爷依然有信心把君陌斩于溪畔！\n　　王景略在人群里脸色变得异常苍白。\n　　他看到二先生出现，不由震惊，紧接着发现崔老太爷便是自己一直苦苦寻找的那名知命境强者，更是惊愕莫名。\n　　按照宁缺的计划，这时候他应该出手了，只是要让一名知命境强者释出全部",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。\n　　因为书院的缘故，崔老太爷一生隐忍低调，把自己的修行境界当成秘密保守到了百岁之后，直到今日君陌来到崔园，他觉得那个机会终于到了。他想给书院一个意外，想一展自己隐忍多年的锋芒，想一吐压抑多年的怨气。\n　　于是他没有意外地死了。\n　　从始至终，他都没有与君陌交手的机会。\n　　因为君陌没有出手，只是",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "国的方向，脸色忽然变得有些苍白。\n　　肉铺后面吊在铁钩上的半片大白猪忽然动了起来，屠夫手里的杀猪刀也颤抖起来，明明没有风，却有呼啸的风声响起。\n　　屠夫握着刀，看着西陵神国的方向，明白了一些事情。\n　　于是他用最快的速度提起厚实油腻的刀，两手握住，把自己的脸护的严严实实，无论风还是什么都不可能渗进去",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "躲避昊天数万年时间，可以想见境界何其高深，隐匿的手段何其强大。\n　　知命境的修行者，对于命途前方可能出现的转折，都会产生某种近乎直觉的感应，更何况是像酒徒和屠夫这样层次的人。\n　　当宁缺举起铁弓瞄准小镇时，酒徒和屠夫第一时间便感知到了，并且做出了自己的应对，酒徒准备走，屠夫举起了自己的屠刀。\n　　观",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "是如何出现的。\n　　崔园里响起急促的示警声，四处响起刀鞘碰撞之声，庭园池塘间，隐隐有一道极古老的阵意缓缓释出。\n　　宋阀老者缓缓抬起头来，望向溪畔的这对男女。\n　　……\n　　……\n　　君陌没有看这名宋阀老者，虽然他清楚对方就是小师弟寻找的知命之一，但不是他要找的人，他要找的那个人更加强大。\n　　汝阳",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "张念祖有些紧张问道：“有没有看出什么问题？”\n　　“不要说话。”李光地脸上的神情很紧张，盯着他说道：“也不要想着拿纸和笔记，用脑子记住便好。”\n　　张念祖紧紧地闭上了嘴，再也不说这个问题。李光地在心里默默回忆先前看到的那幕画面，隐约猜到屠夫的弱点应该便是在脸上。\n　　被黄草纸包住的四根猪蹄，被",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "风险，自然是射不死对方，却激怒对方。\n　　对此他难免会觉得有些遗憾，却也不是太甚，因为书院想尝试，却从来没有失去过冷静，有愿望但不是野望。\n　　而且书院对酒徒和屠夫早有安排。\n　　宁缺手中的铁箭，此时瞄准了西北方向，那里应该是清河郡。\n　　铁箭缓移之时，桃山前坪的气氛变得愈发紧张。\n　　到此时，依然",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

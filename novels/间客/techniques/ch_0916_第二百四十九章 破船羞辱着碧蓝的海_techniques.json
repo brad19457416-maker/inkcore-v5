@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 916,
+  "chapter_title": "第二百四十九章 破船羞辱着碧蓝的海",
+  "filename": "ch_0916_第二百四十九章 破船羞辱着碧蓝的海.txt",
+  "char_count": 3429,
+  "timestamp": "2026-04-10T12:05:26.899565",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "联邦最优秀的飞行员，也不可能做也如此不可思议的操作。”\n\n    一名联邦少将表情严肃地看着长桌旁的众人，说道：“自发现日标后，联与卜中央电脑一直在进行全程监控，但目标的速度实在太过可怕，现有的跟踪导弹根本追不上它，而大气层外的战舰主炮，甚至无对它进行锁定，自然谈不上摧殁。”\n\n    应急指挥中心",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "名奇妙的风，忽然间有人指着天上疑惑的问道：“那是什么？”\n\n    环形礁上的人们惊愕抬头，看着碧蓝天空里那道白线，根本来不及做出任何撸测，那道白线便来到了他们的眼前，然后呼啸而过，没有看清任何细节。\n\n    海水开始急剧不安地摇荡，强风袭来，钓客们的帽子被吹起，落入远处的浪花之中，女眷们或长或短",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "压，跑到52星球直接杀了那位曾经深受全联邦民众爱戴的麦德林议员。他敢一个人坐着一艘飞船穿越空间运道去追杀一支帝国舰队。他敢为了死去的钤老虎和那些无辜的人和整个联邦开战。\n\n    宇宙里没有什么事情是他不敢做的，自然也包括操控那艘破烂的飞船，直接和官邸或者议会山同归于尽。这很没道理，却是坚硬的事实。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "香甜味道的椰香面包，表示最真诚的安慰。半小时后。\n\n    “像这么可爱的小东西，又没有什么危害性，为什么就不能留下她，居然还要我花这么大力气剪缉画面，搜索古老诗句来说服你。真不知道你这个家伙的石脑袋里装了些什么东西，难道和我的脑袋里一样都是冰冷的电子元件？\n\n    自医院黑梦以来，菲利浦终于在和",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "最顶层的大人物，也包括军方很多将领，所有人的表情现在都非常严肃，他们盯着巨幅光幕上的画面，不知谅怎样压抑掉心中的震撼表绪。\n\n    画面由宪章局提供，联邦中央电脑调用大气层外三十几颗高轨军事卫星，才能够清晰地捕捉到日标，那道在碧蓝海面上破风破浪而去的线条，是那样的笔直缓慢，可一想到这是s1星球全景",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "速却要发动攻击，那军方将如何应对？”\n\n    所有人的目光向长桌尽头望去，有些不明白这句话的意思，心想既然军方和宪章局已经研判清楚，目标飞船不可能在这种速度下进行攻击，为什么还会有这种担心？\n\n    “不减速我们无摧毁它，它也无启用武器系统攻击联邦，但如果它的攻击并不使用武器系统，而是就这样撞过",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "的战舰主炮，甚至无对它进行锁定，自然谈不上摧殁。”\n\n    应急指挥中心大厅深在地底，可以承受战舰最强大主炮的攻击，此时的长桌旁坐着的全部是联邦政府最顶层的大人物，也包括军方很多将领，所有人的表情现在都非常严肃，他们盯着巨幅光幕上的画面，不知谅怎样压抑掉心中的震撼表绪。\n\n    画面由宪章局提供",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "么？”\n\n    环形礁上的人们惊愕抬头，看着碧蓝天空里那道白线，根本来不及做出任何撸测，那道白线便来到了他们的眼前，然后呼啸而过，没有看清任何细节。\n\n    海水开始急剧不安地摇荡，强风袭来，钓客们的帽子被吹起，落入远处的浪花之中，女眷们或长或短的花裙被风刮起，露出或迷人或粗壮的双腿，惊起一片尖",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "已经提速。\n\n    联邦将军们的肩章金星闪烁，表情却是异常黑沉，对于宪章局的指责，他们没有做出任何愤怒的反抗，虽然知道这是联邦政府官僚而迟缓的体系所造成的问题，但身为军人只能眼睁睁看着那艘破烂飞船在自己的国土上烛耀，那么他们的回应除了沉默默只剩下击毁对方。\n\n    “q前唯一的好消息是，根据计算",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "劝说你两句，居然不准我吟诗作对？这是我的船，我想让谁上，就让谁上。”\n\n    许乐一想还确实是这个道理，极为挫败的低下了倔犟的脑袋，钟烟花望着他呵呵一笑，拍拍他后背，然后递上满是香甜味道的椰香面包，表示最真诚的安慰。半小时后。\n\n    “像这么可爱的小东西，又没有什么危害性，为什么就不能留下她，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的机械臂高高抬起，宛若高贵的头颅骄傲抬起，声音格外轻佻，然而当探头捕捉刹剖控台处那个小姑娘的身影时，骤然变得尖细紧张惶恐起来。“我的小姑奶奶，这可不能乱拆！如果拆坏了你哥都修不好！我们得掉进海里去喂王八！\n\n    北国已然寒冬，临海州更是风雪呼啸，而靠近赤道的热浪岛依然是一片炽热气息，无论是沙滩上",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "这句话的意思，心想既然军方和宪章局已经研判清楚，目标飞船不可能在这种速度下进行攻击，为什么还会有这种担心？\n\n    “不减速我们无摧毁它，它也无启用武器系统攻击联邦，但如果它的攻击并不使用武器系统，而是就这样撞过来，像块石头一样撞向议会山或者是总统官邸，那我们应该怎么办？”\n\n    长桌尽头沉就",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "蓝的海 \n\n    对于所有这些毫无察觉的许乐，松开捂住耳朵的双手，沉就片刻后对着面前的探头严肃认真说道：“你是一个很好的煽情诗人，我给你面子，同意她留下来，不过我有个条件，以后再也不准未经允许就吟诗，尤其是不断的重复重复又复重那种。\n\n    菲利浦嘲笑说道：“痴心妄想。\n\n    许乐浓眉微乱，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "刻后对着面前的探头严肃认真说道：“你是一个很好的煽情诗人，我给你面子，同意她留下来，不过我有个条件，以后再也不准未经允许就吟诗，尤其是不断的重复重复又复重那种。\n\n    菲利浦嘲笑说道：“痴心妄想。\n\n    许乐浓眉微乱，慌张说道：“你不答应？”\n\n    那根纤细的机械臂剧烈的上下摇晃，仿佛菲",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "办？”\n\n    长桌尽头沉就了很长时间的帕布尔总统，看着所有人平静问道：“我很清楚飞船里那个男人的性格，我相信他敢这样做。”\n\n    大厅内刚刚松缓一些的气氛，随着总统先生平静的话语，骤然变得再次紧张，甚至比先前更要紧张。在场的所有官员和将领，都非常清楚目标飞船里的许乐曾经做出过的那些事情。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "毁目标！”\n\n    大厅内沉闷压抑的气氛因为这段话而稍微放松了些，椅腿与地面的摩擦声，喝茶的声音在安静很久之后开始响起，就在这个时候，长桌尽头忽然传来一道浑厚有力却又显得有些疲惫的声音。“如果那艘飞船不减速却要发动攻击，那军方将如何应对？”\n\n    所有人的目光向长桌尽头望去，有些不明白这句话的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

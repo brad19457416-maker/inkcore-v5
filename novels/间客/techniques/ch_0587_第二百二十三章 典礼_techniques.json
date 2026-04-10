@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 587,
+  "chapter_title": "第二百二十三章 典礼",
+  "filename": "ch_0587_第二百二十三章 典礼.txt",
+  "char_count": 3353,
+  "timestamp": "2026-04-10T12:05:08.577774",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "紧地闭着嘴巴。\n\n    他此时并没有意识到，站在两位大佬身后进行极有私密意义的聊天，这一幕会给在场众人带来怎样的震动，这种震动不仅仅是某些传言的印证，更意味着将来的某些问题。\n\n    “我宣布，胜利军事行动取得了最圆满的胜利！从这一刻起，再也没有帝国侵略者能够站在我们自己的土地上！”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "是总统先生特批的那把\n\n    笔挺的军服，年轻而充满坚毅感觉的容颜，真的可以配上帅气两个字。只是今天空港之中，有无数联邦官兵抵达，他们两个人很自然地湮没在人群之中。\n\n    大部分的参战部队已经回到各自星球之中，西林本土的军人只怕早就已经开始回家享用十豆泥炖肉片的美味小今天能出现在联邦欢迎庆典仪",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "这一批将要参加欢迎庆典的参战部队，从巨大的战舰下方走了出来，很多战士看着眼前的一幕，脸上流露出惊喜与紧张的神情。\n\n    许乐也是他们中的一员，但他对于联邦在此刻表现出来的热情并不感到吃惊惶恐，鼻粱上的墨镜反射着正午清丽的阳光，他的左手拖着那个简水儿专程送来的箱子，缓步从战舰下腹部的履带通道处走了",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "天都没有赢得这枚勋章。联邦部队里的人们，很清楚许乐中校在这次胜利军事战役中所扮演的重要角色，清楚他在战斗中所展现出来的优良表现。可是看到紫辰勋章挂于其胸前，依然难免感到震惊。\n\n    在授勋之时，帕布尔总统黝黑的脸上没有任何多余的情绪，他平静看着许乐，整理他的勋章绶带，厚唇微启压低声音说道：小家伙",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "景怪话。但我必须说出这一点。”总统先生微笑着说道：“请大家保有相当程度的耐心。”\n\n    仍然没有进入帝国本土的时间表，联邦政界还在犹豫，甚至在这样盛大的典礼现场，总统先生就此坦承此点 听到这几句话，站在主席台上的联邦军方很多人目光微垂。这些将军或英雄们，最希望的便是联邦能尽快打到帝国本土去。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "名不认识的上尉军官身后，向主席台上走去。\n\n    很有纪律感的授勋，除了让停机坪上的官兵们感到兴奋激动之外，并没有什么特别的地方，直到帕布尔总统亲自将一枚紫辰勋章挂到了许乐军装的左胸处。\n\n    紫辰是联邦军方最高荣誉，即便是在前线战绩最为显赫的李疯子。直到今天都没有赢得这枚勋章。联邦部队里的人",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "授勋之时，帕布尔总统黝黑的脸上没有任何多余的情绪，他平静看着许乐，整理他的勋章绶带，厚唇微启压低声音说道：小家伙，联邦欠你的东西，这次都还给你了\n\n    许乐没有回答什么，作为当事人，他当然非常清楚这枚代表最高荣誉的紫辰勋章，主要是奖励自己刺杀麦德林小从而阻止了帝国一格大阴谋的酬劳，总统先生和国防",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "好低头望着军靴上的浮尘，紧紧地闭着嘴巴。\n\n    他此时并没有意识到，站在两位大佬身后进行极有私密意义的聊天，这一幕会给在场众人带来怎样的震动，这种震动不仅仅是某些传言的印证，更意味着将来的某些问题。\n\n    “我宣布，胜利军事行动取得了最圆满的胜利！从这一刻起，再也没有帝国侵略者能够站在我们自",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "来，没有一个人鼓掌，官兵们看着主席台上那些模糊的人影，心情有些复杂难明，甚至产生某些不怎么好的预兆，难道满是荣光的欢迎庆典上。居然会出现准场的迹像？\n\n    就在此时，没有任何人能够想到的西林军区司令钟瘦虎。很认真地鼓起掌来，迈尔斯上将面容不变开始鼓掌，然后国防部长部应星以及第一军事学院院长李在道",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "后进行极有私密意义的聊天，这一幕会给在场众人带来怎样的震动，这种震动不仅仅是某些传言的印证，更意味着将来的某些问题。\n\n    “我宣布，胜利军事行动取得了最圆满的胜利！从这一刻起，再也没有帝国侵略者能够站在我们自己的土地上！”\n\n    就在这个时候。伯布尔总统终于开始了他的致辞，律师出身的总统，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "部分的参战部队已经回到各自星球之中，西林本土的军人只怕早就已经开始回家享用十豆泥炖肉片的美味小今天能出现在联邦欢迎庆典仪式上的官兵只是少数，但这里的少数是一种比较概念，三万余名联邦官兵拢在一处，仍是黑压压的一片蔓延整片停机坪，感觉壮观非常。\n\n    各全部队的军事主官严厉而肃杀的军令声响起，数万各",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "（状态一般，主要是真累着了，今天铲墙皮，写的时候睡着了好几次，错字应该非常多，原谅我没力气改，因为人这时候很糊涂。双倍大约还有半天，最后再认莫地召唤大家投间客几张月票，感激不尽。）（未完待续小!说!txt!天.堂\n\n\n\n第三卷西林的征途",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "尤其是当这四名军方巨头做出清晰的反应后。接受检阅的参战部队和政府、议会山的高官们，都用力地鼓起掌来，刹那之间，掌声雷动直冲上天。\n\n    典礼结束，许乐正准备带着离开时，忽然一句话飘进了耳朵：“过两天来家里吃饭。”\n\n    国防部长部应星站在主席台的最前列，头也未回，根本没人能确定这句话是不是他",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "少卿师长。\n\n    授勋的仪式一直持续到最后，站在方队最前方的钟瘦虎，才面无表情地走上了主席台小臂缓缓指头，第二拇指尖标准地对齐帽檐。\n\n    做为领导整个联邦反攻行动的最高军事长官，钟司令理所当然要拥有不一样的出场方式。\n\n    帕布尔总统望着这个被联邦政治圈视为仇敌，不共戴天的西林军阀。沉",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "为仇敌，不共戴天的西林军阀。沉默片刻后，出乎在场数万名官兵的意料，很自然地张开了双手，与对方来了一次温暖而真挚的拥抱。\n\n    “辛苦了。”帕布尔总统将一个方型的沉香木盒递到钟瘦虎的手中。微笑说道：“联邦对你已是赏无可赏，这只是一件我私人的礼物。以表达我那个家庭中的女性角色，对于您指挥艺术的赞叹",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

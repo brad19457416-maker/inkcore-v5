@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 833,
+  "chapter_title": "第一百八十八章 道路下",
+  "filename": "ch_0833_第一百八十八章 道路下.txt",
+  "char_count": 3529,
+  "timestamp": "2026-04-10T12:05:17.612057",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "和应该加几件红外保暖内衣。\n\n    都郊区的军用空港同样寒风肆虐，停机坪上的西林特别部队战士们盯着天空中逐渐清晰的飞船轮廓，心情紧张而沉重，根本没有在意自己穿着的单薄军装。\n\n    帝国前线联邦部队接连遭受了几次沉重的打击，而隶属于第四军区的西林部队承受了最大的损失，前线部队的士气和心态出现了一",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "做完这一切，他才用肘尖顶住头顶的门阀缓慢地钻了出去，又经过近六：1米的小 倾斜角 管道爬行，才真正来到地面。\n\n    擦着茂密的绿色植物推开建筑内部的电工房门，借着夜色的掩护，他悄无声息走进大厅，用最快的度打量了一下这间军事法庭的内部枸造。\n\n    请老东西暂时替代法庭内部的监控镜头，他从审判",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "下，很严肃地感慨道：“所以，你要多讨好我啊。\n\n    南相美终于忍不住笑出声来，捂着嘴低声说道：“为什么要讨好你？”\n\n    “他是我的监护人，要聚老婆总得问下我的意见。”钟烟花可爱的皱着鼻尖，小女孩儿用成*人的口吻叹息道：“当然如果我再大几岁，那我肯定一个都不同意。”\n\n    南相美抱着枕头",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "队，穿过西林特殊部队，缓慢驶到飞船下方。\n\n    古钟号公司飞船舱门开启，钟烟花眯着眼睛看着熟悉又陌生的s1大地，顺着自动舷梯走了下来，她的身后背着双肩小书包，怀里依旧抱着那个陈旧的娃娃。\n\n    深蓝色名贵汽车车厢开启，南相美望着缓缓走来的钟烟花，秀丽的容颜上浮现出真挚的微笑，和声说道：“欢迎",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "都郊区的军用空港同样寒风肆虐，停机坪上的西林特别部队战士们盯着天空中逐渐清晰的飞船轮廓，心情紧张而沉重，根本没有在意自己穿着的单薄军装。\n\n    帝国前线联邦部队接连遭受了几次沉重的打击，而隶属于第四军区的西林部队承受了最大的损失，前线部队的士气和心态出现了一些极危险的变化，他们这支多年前",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "连遭受了几次沉重的打击，而隶属于第四军区的西林部队承受了最大的损失，前线部队的士气和心态出现了一些极危险的变化，他们这支多年前由联邦议会特批可以驻守都星图的部队自然也难免愤怒。\n\n    没有任何军职但在西林部队中威望极高的田大棒子，已经乘坐战舰前往帝国前线，处理前线部队的问题，代表西林方面和政府争",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，深夜里两今年龄相差颇多的女生-，居然还在抱着枕头津津有味地聊着什么话题。\n\n    “我喜欢你的 性格，很温柔，而且你与『的很秀气，没有让人讨厌的杀伤力。”\n\n    钟烟花睁着宝石般明亮的眼睛，乱开眼前飘拂的丝，盯着身边的南相美，说道：“像简水儿和邹郁长的就太有杀伤力，所以我不喜欢。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的缘故，联邦各大区的罢工大游行逐渐进入了尾声，都特区街道上少了很多愤怒的示威者，回到正常生活工作中的人们开始重新关心今天的晚餐和应该加几件红外保暖内衣。\n\n    都郊区的军用空港同样寒风肆虐，停机坪上的西林特别部队战士们盯着天空中逐渐清晰的飞船轮廓，心情紧张而沉重，根本没有在意自己穿着的单薄军装。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "是因为这个原因还是因为天气忽然寒冷的缘故，联邦各大区的罢工大游行逐渐进入了尾声，都特区街道上少了很多愤怒的示威者，回到正常生活工作中的人们开始重新关心今天的晚餐和应该加几件红外保暖内衣。\n\n    都郊区的军用空港同样寒风肆虐，停机坪上的西林特别部队战士们盯着天空中逐渐清晰的飞船轮廓，心情紧张而沉重",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "。\n\n    深蓝色名贵汽车车厢开启，南相美望着缓缓走来的钟烟花，秀丽的容颜上浮现出真挚的微笑，和声说道：“欢迎你的到来。”\n\n    家族之间没有什么真正的友谊，尤其是七大家里其余的家族和西林钟家之间，钟家向来是七大家内的一个另类存在。当联邦政府试图削弱甚至消灭钟家的时候，那些大家族保持着沉就，甚",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "家族之间没有什么真正的友谊，尤其是七大家里其余的家族和西林钟家之间，钟家向来是七大家内的一个另类存在。当联邦政府试图削弱甚至消灭钟家的时候，那些大家族保持着沉就，甚至极为冷酷地加入了分食的盛宴，南相家从来没有表现出对西林特别的回护。但家族里的人们之间有真正的友谊，当许乐消失在茫茫夜色之中，田大榉",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "“不过到现在为止，我还是更喜欢商秋一些。”钟烟花将光溜溜的小腿缩进崭新的睡裙下，很严肃地感慨道：“所以，你要多讨好我啊。\n\n    南相美终于忍不住笑出声来，捂着嘴低声说道：“为什么要讨好你？”\n\n    “他是我的监护人，要聚老婆总得问下我的意见。”钟烟花可爱的皱着鼻尖，小女孩儿用成*",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "过来，同时快拉动卷成一团的红地毯快向审判台方向卷动。\n\n    在木地板遮住所有视线，黑暗来临的前一瞬间，许乐透过法庭宽阔的落地窗，看着拉比大道的景观灯，看着 青林间代表联邦法律公平正义的天平雕像和沉重的石制宪章大典，缓缓眯起7 眼睛。\n\n    红色，的地毯柔顺地卷动，快盖住了木地板，重新变成先前",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "宽阔的落地窗，看着拉比大道的景观灯，看着 青林间代表联邦法律公平正义的天平雕像和沉重的石制宪章大典，缓缓眯起7 眼睛。\n\n    红色，的地毯柔顺地卷动，快盖住了木地板，重新变成先前的模样，谁也无法看出有什么异样。\n\n    四天后，这条红毯将是接受军法审判的莱克上校通往自由的道路，他肯定想不到，在",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "身经百战，百炼成精。\n\n    他悬挂在空中，耐心等待着润滑液体顺着管道逐渐滋润多年未曾摩擦的机簧，同时谨慎地消除四周的痕迹，小心翼翼地重新融合管线，从包里取出湿灰刻意无序地涂了两把。\n\n    做完这一切，他才用肘尖顶住头顶的门阀缓慢地钻了出去，又经过近六：1米的小 倾斜角 管道爬行，才真正来到地",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "的是另一个问题。\n\n    “在他面前就叫叫，在他背后我喜欢叫他名字。”钟烟花甜甜地一笑，说道：“你以后可不要告诉他，对了，回答我刚才那个问题。南相美静静地靠着棉软的枕头，像清幽河水般的黑流淌羊来，出神说道：“当然不……你呢？”\n\n    “我？”钟烟花像是听到了一个最好笑的问题，眼睛笑的弯成两轮可",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "两今年龄相差颇多的女生-，居然还在抱着枕头津津有味地聊着什么话题。\n\n    “我喜欢你的 性格，很温柔，而且你与『的很秀气，没有让人讨厌的杀伤力。”\n\n    钟烟花睁着宝石般明亮的眼睛，乱开眼前飘拂的丝，盯着身边的南相美，说道：“像简水儿和邹郁长的就太有杀伤力，所以我不喜欢。\n\n    南相美蹙",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

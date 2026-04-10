@@ -1,0 +1,89 @@
+{
+  "novel": "间客",
+  "chapter_number": 1041,
+  "chapter_title": "第三百五十五章 飞越疯人院（下）",
+  "filename": "ch_1041_第三百五十五章 飞越疯人院（下）.txt",
+  "char_count": 1044,
+  "timestamp": "2026-04-10T12:05:26.965599",
+  "techniques_count": 6,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "联邦的一位著名精神分析学专家发表过自己的观点，在他的论文中讲到：“天才的发生是由于自己和环境之间激烈冲突的结果，在这一点上与神经症和精神病相似，但天才解决上述冲突的方式不同，其症状及后果是对社会有益的，并受到社会尊重。研究表明，天才人物较常人更不易发生精神病、体质虚弱和畸形等情况。”\n\n    事实",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "帝国人，被迫背井理想，远走帝国。\n\n    三年前，一个男人因为某个东西活了过来，而被冰冷的针管注射进入的氯丙嗪侥幸每变成白痴，但身体却变成了如今的摸样。\n\n    三年后，那个远走他乡的男人带着他幸存的弟兄们回到了联邦，不是为了证明自己是联邦英雄还是异国太子。只是为了往死沙场的兄弟，为了复仇。所以",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "境之间激烈冲突的结果，在这一点上与神经症和精神病相似，但天才解决上述冲突的方式不同，其症状及后果是对社会有益的，并受到社会尊重。研究表明，天才人物较常人更不易发生精神病、体质虚弱和畸形等情况。”\n\n    事实上贝得曼就是这样的人。在听到许乐的话后，贝得曼挑起细细的眉毛，但也许是在精神病医院这种地方",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "蠢味道。\n\n    好像在纠结于间接于害自己在精神病院呆上三年的男人对自己的夸赞。\n\n    房间里一片死寂，然后响起了男人轻快的笑声。\n\n    沉默过来想到某些感到毅然的贝得曼天真快活地笑了起来，即使是精神病院里的病人都能瞧得出他笑容里隐藏的某种极度的兴奋。\n\n    “你需要我，不，应该说是那",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "有的愚蠢味道。\n\n    好像在纠结于间接于害自己在精神病院呆上三年的男人对自己的夸赞。\n\n    房间里一片死寂，然后响起了男人轻快的笑声。\n\n    沉默过来想到某些感到毅然的贝得曼天真快活地笑了起来，即使是精神病院里的病人都能瞧得出他笑容里隐藏的某种极度的兴奋。\n\n    “你需要我，不，应该",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "易死。哈哈”\n\n    “你想让我帮它对付那条小巷地下的另外一个“家伙”.对不对？”贝得曼揪着头发，说道。\n\n    许乐看着他说道：“你说的没错，整个联邦，只有你能办到这点，所以我需要你的帮助。”\n\n    贝得曼没有再说什么，率先走出门去。许乐看着他的背影，随后走了出去。\n\n    三年前，一个",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

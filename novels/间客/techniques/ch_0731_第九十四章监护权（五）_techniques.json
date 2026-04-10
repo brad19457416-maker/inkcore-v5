@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 731,
+  "chapter_title": "第九十四章监护权（五）",
+  "filename": "ch_0731_第九十四章监护权（五）.txt",
+  "char_count": 2355,
+  "timestamp": "2026-04-10T12:05:17.590999",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "军人，全部都可以证明，钟司令牺牲之前，将他女儿交给了许乐。”\n\n    钟子期表情阴沉，钟家老太爷们愤怒地用力跺着拐杖，女法官漠然的表情下不知隐藏着怎样的情绪。\n\n    萧文静眉梢微概，淡然继续说道：“这份音频档案，帕布尔总统先生。也于第一时间收听，我不认为有谁能够质疑这份音频档案的真实性。所以”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "理会对方律师团的反应，余光里甚至连那些十几位大律师霍然起导的动作都没有任何影子。望着庭上的女法官平静说道：“当时在磐石舰上的新十七师全体官兵，加上联邦舰队相关军人，全部都可以证明，钟司令牺牲之前，将他女儿交给了许乐。”\n\n    钟子期表情阴沉，钟家老太爷们愤怒地用力跺着拐杖，女法官漠然的表情下不知",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "头上的汗珠，沉声说道。\n\n    萧文静打断说道：“我可以接受你们的质疑，但这对庭上的判断没有太大的意义。”\n\n    法庭那密密的座位后方，那片一直没有引起太多人注意的阴暗角落里。有大约十来位看似普通的民众正在旁听然而其实所有人都知道，这十来位民众代表着谁，他们代表着联邦政府、军方、那几个恐怖的家",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "人都知道，这十来位民众代表着谁，他们代表着联邦政府、军方、那几个恐怖的家族。\n\n    这并不是什么秘密，或者说他们也没有想过这能成其为一个秘密，最后方那位戴着方巾式圆帽的男子。正是总统官邸办公室主任布林，连他都来了，遑论其余。\n\n    当许乐出现在法庭之后，布林主任便一直将面日隐藏在阴影之中，中",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "第九十四章监护权（五） \n\n    大胡若卷的席律师霍然起身，眼角里蕴积的忧虑瞬间变作强烈的自主应激反应，声音被揉合碾压的无比尖利，挥舞着手臂，在法庭上大声喊道。\n\n    先前播放的那段音频，那段由国防部保存了一年多，进行了足够的权限认证的音频，说明了某个问题。由此推延开去，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "最后方那位戴着方巾式圆帽的男子。正是总统官邸办公室主任布林，连他都来了，遑论其余。\n\n    当许乐出现在法庭之后，布林主任便一直将面日隐藏在阴影之中，中途似乎打过一个电话，总体而言，没有表达过任何可以让西林钟家争执双方真实抓住的倾向。\n\n    此宏，当那位卷中年女法官望向布林主任时，依然望到的是",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "手。\n\n    钟家老宅一行人走出法庭，穿越那片青色的绿地，走出约七百米之后，来到了媒体采访区之前，无数的闪光灯咔嚓响于冬日的空中，话筒像枪管一样逼到了面前。\n\n    “许乐上校，我们很想知道。争夺钟烟花小姐的监护权，这，是不是悄表了费城方面的明确态度？”\n\n    许乐紧紧牵着小女孩儿的手。没有",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，右手紧紧抓住了许乐的手。\n\n    钟家老宅一行人走出法庭，穿越那片青色的绿地，走出约七百米之后，来到了媒体采访区之前，无数的闪光灯咔嚓响于冬日的空中，话筒像枪管一样逼到了面前。\n\n    “许乐上校，我们很想知道。争夺钟烟花小姐的监护权，这，是不是悄表了费城方面的明确态度？”\n\n    许乐紧紧",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "分眉眼的他。\n\n    “我认再万律师的意见，这一份音频文件，并不能说明，”女法官瞥了庭下一眼，有些紧张地开口说道。\n\n    许乐没有想到在联邦之中居然真的有人敢把事情做的如此之丑，如此之嚣张，听着法官的话，他的眼睛渐渐眯了起来，他那双如墨般的浓眉渐渐挑了起来，那身笔挺的上校军装里蕴着的肃杀气息渐",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "音斥道：“你是在威胁法庭？”\n\n    萧文静没有回答这个严厉的质询，已经沉默安静了一段时间的许乐。缓缓抬起头来，盯着席上那位高高在上的女法官，问道：“是，那又如何？”\n\n    法庭一片哗然，那方的律师团抓住机会开始表演群情激昂的戏码，钟家老太爷们和钟子期微微抿唇。觉得似乎事情越来越有意思，然而谁",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "十一岁的小西瓜，不，我们应该称呼她为钟烟花，没有像小女孩儿那样雀跃欢腾，穿着白袜的两只脚同时蹦起，双手比刮着剪刀般的稚样儿。而是很开怀地仰小脸儿笑着，右手紧紧抓住了许乐的手。\n\n    钟家老宅一行人走出法庭，穿越那片青色的绿地，走出约七百米之后，来到了媒体采访区之前，无数的闪光灯咔嚓响",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "第九十四章监护权（五） \n\n    大胡若卷的席律师霍然起身，眼角里蕴积的忧虑瞬间变作强烈的自主应激反应，声音被揉合碾压的无比尖利，挥舞着手臂，在法庭上大声喊道。\n\n    先前播放的那段音频，那段由国防部保存了一年多，进行了足够的权限认证的音频，说明了某个问题。由此推延开",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "联邦新闻媒体，认真说道：“不，这只代表我个人的态度。”\n\n    略一停顿后，他望着面前飞落的那片惹雪枯叶，缓声说道：“而这也可以代表李封上校的态度。但我必须说的是，这只是我们私人的态度，与军神没有任何关系。”\n\n    “归根结底，这是钟司令生前最后的态度。”他认真说道：“我尊重这一点，并且将实践",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

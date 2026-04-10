@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1088,
+  "chapter_title": "第九十七章 河的两岸（上）",
+  "filename": "ch_1088_第九十七章 河的两岸（上）.txt",
+  "char_count": 3339,
+  "timestamp": "2026-04-10T12:11:34.943303",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "就不敢做些别的有趣的事情！”\n　　屠夫走到出肉铺门槛，拾起地上那柄刀，看着被秋雨切割成无数细条的灰暗天空，说道：“等你们活的足够久了，也会像我们一样小心。”\n　　君陌一直没有怎么说话，此时听到他的这句慨叹，开口说道：“那样小心的活着，活的越久，或者越没意思。”\n　　说完这句话，他带着余帘向镇外走去，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "助拳，还是阴恻的窥视，就算他押注在那边，你来桃山，自然是想跟着被观主抛弃的道门下注，我很不理解的是，为什么你们就没一个愿意跟着我书院下注？”\n　　屠夫嘲讽说道：“因为书院没有昊天。”\n　　余帘面无表情看着他，看了很长时间，然后说道：“难道道门有？不要忘记两边下注，最容易两头落空。”\n　　屠夫沉默片刻",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "岸（上）\n　　中年道人没有笑，没有说话，只是静静站在一旁，仿佛余帘的看重、君陌的沉默对他来说没有任何意义。\n　　便在这时，雨水变得小了些，街上再次传来蹄声与车轮碾压道石的声音，镇那头的烤红薯铺关了，白发苍苍的老人家和中年男人父子俩坐着牛车冒微雨而行，在肉铺前稍作停留，儿子捧了两个热糊糊的烤红薯出来。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "小镇在宋燕之交，出了小镇不远，便进入燕境，在这里有一条与泗水平行的河流，由北向南流入大泽，再入大河，最终入海。\n　　宁缺骑着大黑马，在河东岸的田野丘陵间疾走。\n　　时值初冬，河水湿意被凝，常见雾气深重，尤其晨时，极不似人间。\n　　宁缺觉得在雾里看到了自己的倒影。\n　　河上的雾，仿佛变成了一面镜子。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "着石像继续向北行走。\n　　他无法确知具体的位置，但知道在北方。\n　　小镇在宋燕之交，出了小镇不远，便进入燕境，在这里有一条与泗水平行的河流，由北向南流入大泽，再入大河，最终入海。\n　　宁缺骑着大黑马，在河东岸的田野丘陵间疾走。\n　　时值初冬，河水湿意被凝，常见雾气深重，尤其晨时，极不似人间。\n　　宁",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "要忘记两边下注，最容易两头落空。”\n　　屠夫沉默片刻，说道：“如果我杀死你们，可以站在河岸上等着结局出现，无论谁胜，对我都没有任何坏处。”\n　　余帘说道：“你一定要看到结尾？”\n　　屠夫说道：“是的。”\n　　余帘带着几分恨其不争的神色说道：“果然已经腐朽不堪！除了旁观，除了像条狗一样地等着，就不敢做",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "满头银发的程立雪，在雪树乡召集天谕神殿旧属，已然快要接近，他望着桃山上那座自幼生长的天谕神殿，沉默而感慨。\n　　南方，无数秀剑闪出剑光，阴晦的山谷里，无数被雨打湿的树木迎剑而断，血色肃杀的神辇和梨花白的王辇，在数万大河军的拱卫下，缓缓靠近桃山，沿途遇到的西陵神殿执事们，连话都不敢说。\n　　桃山已然被",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "只能进不能出，不是他太霸气，而是书院现在有说这句话的资格。\n　　令人感到震惊不解的是，书院方面并没有马上开始向桃山发起进攻，或者与小镇上的屠夫有关系，似乎还因为别的一些什么原因。\n　　书院好像在等什么。同时也有很多人注意到，在这样重要、甚至可以说是最后的时刻，宁缺居然不在，而隆庆竟也不在。\n　　……",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "上开始向桃山发起进攻，或者与小镇上的屠夫有关系，似乎还因为别的一些什么原因。\n　　书院好像在等什么。同时也有很多人注意到，在这样重要、甚至可以说是最后的时刻，宁缺居然不在，而隆庆竟也不在。\n　　……\n　　……\n　　之前的某日，宁缺在烂柯寺里结束了自己看石头破裂的修行感悟过程，看着雨中殿前那数百个桑桑",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "门能否存续，观主不关心，你更没道理关心。”\n　　前一刻说红薯及手帕，下一刻便谈道门与人间，生活与神圣从来都不那么容易统一和谐，所以她的言行便显得有些可爱。\n　　今日小镇落秋雨，她似乎刻意让自己在往可爱的路子上走。\n　　屠夫微微挑眉，说道：“你这后辈如何能懂？”\n　　余帘看了看四周，发现街边没有垃圾桶",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "狗一样地等着，就不敢做些别的有趣的事情！”\n　　屠夫走到出肉铺门槛，拾起地上那柄刀，看着被秋雨切割成无数细条的灰暗天空，说道：“等你们活的足够久了，也会像我们一样小心。”\n　　君陌一直没有怎么说话，此时听到他的这句慨叹，开口说道：“那样小心的活着，活的越久，或者越没意思。”\n　　说完这句话，他带着余",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "剑光，阴晦的山谷里，无数被雨打湿的树木迎剑而断，血色肃杀的神辇和梨花白的王辇，在数万大河军的拱卫下，缓缓靠近桃山，沿途遇到的西陵神殿执事们，连话都不敢说。\n　　桃山已然被围，西陵神殿危在旦夕。君陌说，自此刻起，桃山只能进不能出，不是他太霸气，而是书院现在有说这句话的资格。\n　　令人感到震惊不解的是，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "个热糊糊的烤红薯出来。\n　　余帘和君陌接过烤红薯，点头致意，老人家抹掉白发上的雨珠，轻拍黄牛的粗颈，说道：“今后想再在镇上吃就难了。”\n　　他家一直在桃山前的小镇烤红薯，烤了整整千年时间，由祖辈传到当代，从未断了传承，除了替书院看着神殿动静，最重要的原因是夫子喜欢吃他家的烤红薯，还必须是原来的炉子，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

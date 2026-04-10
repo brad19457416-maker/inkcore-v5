@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 779,
+  "chapter_title": "第一百四十三章是这样的（中）",
+  "filename": "ch_0779_第一百四十三章是这样的（中）.txt",
+  "char_count": 3717,
+  "timestamp": "2026-04-10T12:05:17.593399",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，似乎越来越年轻的老管家悄然无声出现在他左眼瞳中，或者说同样是出现在他的脑海里。\n\n    身后传来人群劫后余生的欢呼声，耸乐笑了笑。他从一人手中接过杯咖啡，对着面前的星空，又或是对着玻璃上反射的自己容颜，实际上却是对着那个无所不能的伟大存在说道：“当你拒绝了我上次的请求之后，我就一直在想，所谓的第",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "怒地大声吼叫道：“后勤你们这帮废物！赶紧把舱门关上！”\n\n    十五个松甲释放舱内，生着极为类似的危险状况，有的是后支架锁死，有的是维生系统直接失效。有的是辅助飞翼自动脱落，像一坨废铁般狠狠砸向金属墙壁，溅出无数火花，有的机甲甚至管线注液出现了严重的问题，靠着太空的舱房内喷射出无数的深色粘稠液体。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "怒骂声，感觉浑身寒冷，根本无法解释。自然只有保持沉默。\n\n    三艘战舰全体机甲释放失败。主持此项秘密军事任务的满桂上校脸上的表情愈难看，被铁青色涂成黑色金属雕像般的眉眼间涌起混杂隐惧不安的某种愤怒不甘。\n\n    光幕上那艘来自西林的次羽级战舰。正保持着极高的巡航度，向着前方飞行，眼看着便要穿过",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "手中接过杯咖啡，对着面前的星空，又或是对着玻璃上反射的自己容颜，实际上却是对着那个无所不能的伟大存在说道：“当你拒绝了我上次的请求之后，我就一直在想，所谓的第一序列安全权限，究竟包括哪些方面，我应该怎样才能把这种权限利用好\n\n    “所以你根本不在乎那几艘战舰的攻击，甚至你在等待着他们的攻击。你也",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "越来越多急促呼吸声响起，联邦军官们眼瞳里写满了不安。恐惧地扫视着昏暗的战舰内部。似乎在寻找什么神秘的存在。\n\n    满桂舰长后背是满是冷汗，他双手紧握着扶手，胸膛急剧地起伏，觉得有一个幽灵正在自己的头顶盘旋。\n\n    那个幽灵，悄无声息地控制了三艘联邦轻羽级战舰。\n\n    那艘古钟公司战舰上的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "光幕漆黑一片，看不到任何数据曲线，甚至看不到一个光点。\n\n    除了舰内维生系统之外，所有装备仪器瞬间关闭，战舰变成了一个没有生命的金属堆砌物。\n\n    一片安静，死一般的安静。\n\n    安静里，越来越多急促呼吸声响起，联邦军官们眼瞳里写满了不安。恐惧地扫视着昏暗的战舰内部。似乎在寻找什么神秘",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "种权限利用好\n\n    “所以你根本不在乎那几艘战舰的攻击，甚至你在等待着他们的攻击。你也不会主动去进入防御或者躲避，因为你想知道，在你的生命受到威胁时，我会用什么样的手法来保证你的安全\n\n    联邦中央电脑沉默片刻后，说道：“因为上次在西林老宅，我说过自杀不能解决问题，所以你这次是在用别人的枪逼",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "又出警报。面前舱门外的真空宇宙，此时毫无疑问等于是一片地狱！\n\n    他猛地推起头盔，对着通讯系统愤怒地大声吼叫道：“后勤你们这帮废物！赶紧把舱门关上！”\n\n    十五个松甲释放舱内，生着极为类似的危险状况，有的是后支架锁死，有的是维生系统直接失效。有的是辅助飞翼自动脱落，像一坨废铁般狠狠砸向金",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "统直接失效。有的是辅助飞翼自动脱落，像一坨废铁般狠狠砸向金属墙壁，溅出无数火花，有的机甲甚至管线注液出现了严重的问题，靠着太空的舱房内喷射出无数的深色粘稠液体。\n\n    最危险的情况生在右手第二间释放舱内，那台黑已经开始启动后，才现弹射装置右滑道卡阀没有降下，如果程序继续进行下去。下一刻这台机甲便",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "舰上又生了更加令人震惊的事情，依照指挥舱命令开始准备机甲强行登舱作战的舰载机甲室那边，传来了数道焦虑紧张，充斥着惊慌情绪的回报声。\n\n    “注液程序失效！重复：注液程序失效！”\n\n    “后支架无法展开，辅助飞翼自动录离，不明原因，警告！释放舱门保持关闭状态，维生系统指示灯闪烁警告中！”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "二十几秒钟后，光幕上的各项技术参数曲线忽然完全归零，十五个机甲释放舱内的弹射装置自动收回，同时舱门缓缓关闭，总算是没有生机毁人亡的悲剧，然而释放机甲以对那艘西林飞船起攻击的任务，也不得不被迫终止。\n\n    战舰后勤部门的技术军官们愕然站起，看着沉默的工作台光幕，看着那些逐渐归零的技术参数曲线，听",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "二十几秒钟后，光幕上的各项技术参数曲线忽然完全归零，十五个机甲释放舱内的弹射装置自动收回，同时舱门缓缓关闭，总算是没有生机毁人亡的悲剧，然而释放机甲以对那艘西林飞船起攻击的任务，也不得不被迫终止。\n\n    战舰后勤部门的技术军官们愕然站起，看着沉默的工作台光幕，看着那些逐渐归零的技术参数",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的心情糟糕到了极点，这一点很容易理解，无论是再怎样坚毅的军人，看到先前那幕细束空间弹四散飘移如断线破风筝般爆成无用烟火的诡异画面。大概都会陷入某种莫名不安情绪之中，这种无法用理智去分析解释的事情，往往伴随着强烈的恐惧。\n\n    紧接着，战舰上又生了更加令人震惊的事情，依照指挥舱命令开始准备机甲强行",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 97,
+  "chapter_title": "第三十六章 GU店的年轻人们",
+  "filename": "ch_0097_第三十六章 GU店的年轻人们.txt",
+  "char_count": 4605,
+  "timestamp": "2026-04-10T11:53:35.162208",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "大学的双月节舞会，只是那些学生里的富家子女们早就已经订好了礼服，今天忽然出现的几批客人，却不知道是因为什么原因如此着急。\n\n    “时间急不急，和我并没有什么关系，希望你们能够帮我办到。”一个冷漠而骄傲的声音在店里响了起来。\n\n    那是一群正在挑选礼服的年轻男女，说话的是一位约摸二十岁的年轻男",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "出两倍的价钱。”\n\n    那个男人愿意出十倍价钱，许乐却只愿意出两倍，相同的话就这样刺了回去，说明性格沉稳温和的年轻人，偶尔刻薄起来，也具有相当强大的杀伤力。\n\n    听到这句话，那一群年轻的男女同时呆住了，似乎没有想到居然有人会用这样平静而嘲讽的语气回赠自己。那个漂亮的骄傲女生，更是气的眼中寒",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "注视着店外地空气，就像那里随时会冒出一个一掷千金的富家子来。\n\n    叮咚一声脆响，门口那个颇有古风地小铜铃响了起来，穿着合身制服的女服务人员们同时精神一振，笑容更加温和，迎向前去。然而当她们看到进来的那个年轻人后，笑容却难以自抑地僵了僵，险些难以保持住一向被严格遵守着的礼仪形象。[]",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "图缓和一些气氛。许乐却只是摇了摇头，说道：“施清海订的两套衣服，拿出来给我看看。”\n\n    这是他第一次走进真正属于有钱人的地方，尤其是想到呆会儿这两套衣服就要花自己几万块钱，许乐想到卡里只剩下三十几万，便有些发呆。听到那名女员工的话，换谁都会生气，但许乐却不想理会什么，毕竟不是拍频道的电视剧，难",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "局特工地眼，居然把自己的身材记得如此清楚。\n\n    窗外飘着地雪渐渐大了，许乐微感担忧地看了一眼，心想施清海不知道被什么工作耽搁了，希望不要太过麻烦。\n\n    “非常适合您。”为了弥补店员工缺失而一路亲自陪伴的女经理，非常简短而礼貌地给出了评语，让人听着就心生愉悦之感。\n\n    “我还要等一位",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "机甲确实有快感，但终究不是他的人生奋斗目标。联邦与帝国之间的战争平息了十几年，一个和平渐渐成为习惯的时代，许乐并不打算入伍参军，自然不认为成为一名操控机甲的机师是自己将来的选择。\n\n    或许是因为老板大叔的遭遇以及自己的被迫流亡，还有来到首都星圈后所看到的像邹氏兄妹那样的特权阶级，让许乐对联邦政",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "息了十几年，一个和平渐渐成为习惯的时代，许乐并不打算入伍参军，自然不认为成为一名操控机甲的机师是自己将来的选择。\n\n    或许是因为老板大叔的遭遇以及自己的被迫流亡，还有来到首都星圈后所看到的像邹氏兄妹那样的特权阶级，让许乐对联邦政府没有太多的好感和信任感，与之相比较，他其实对以麦德林议员为首的*",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "成为一名操控机甲的机师是自己将来的选择。\n\n    或许是因为老板大叔的遭遇以及自己的被迫流亡，还有来到首都星圈后所看到的像邹氏兄妹那样的特权阶级，让许乐对联邦政府没有太多的好感和信任感，与之相比较，他其实对以麦德林议员为首的**方观感要好许多。当然，如果将来帝国再次悍然入侵联邦，许乐也不会因为自己",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "了一眼，险些被那道强烈的饥饿感击昏。\n\n    封余大叔传给他的那套奇怪动作和体内神秘力量，除了那种颤抖太过显眼外，最大的弊端大概便是每次动用力量之后的饥饿感。先前从区狂奔而出，一直处于紧张状态下的许乐，并没有感觉到这点，此时真正的放松下来，顿时明白了饥肠漉漉四个字果然是干瘦无比，清汤寡水，写出来要",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，忽然注意这名清秀的员工眼神不起眼地在自己手中的油饼上滑过，才发现了自己的不合适，带着歉意地笑了笑，说道：“不好意思，太饿了。”\n\n    那名女员工极为勉强地笑了笑，没有接话，然而她的表情已经隐隐流露出了不欢迎的意思。许乐忍不住在心里叹息了一声，沉默片刻后说道：“我是来拿衣服的。”\n\n    “拿",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "狈离开的画面，只是开心地笑了笑。】他的兴趣始终还是停留在机修方面，驾驭机甲确实有快感，但终究不是他的人生奋斗目标。联邦与帝国之间的战争平息了十几年，一个和平渐渐成为习惯的时代，许乐并不打算入伍参军，自然不认为成为一名操控机甲的机师是自己将来的选择。\n\n    或许是因为老板大叔的遭遇以及自己的被迫流",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第三十六章 GU店的年轻人们 \n\n    许乐应该得意，但他没有得意，应该有的兴奋也不如人们普遍认为的那样强烈，他看着光屏上最后那个黑色机甲狼狈离开的画面，只是开心地笑了笑。】他的兴趣始终还是停留在机修方面，驾驭机甲确实有快",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "力量，除了那种颤抖太过显眼外，最大的弊端大概便是每次动用力量之后的饥饿感。先前从区狂奔而出，一直处于紧张状态下的许乐，并没有感觉到这点，此时真正的放松下来，顿时明白了饥肠漉漉四个字果然是干瘦无比，清汤寡水，写出来要人性命……\n\n    光屏上的画面回到了校内网的论坛上，一个被管理员标红了的帖子进入了",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "许乐也不会因为自己对政府的厌恶就逃的远远的，他必然会尽自己身为一名联邦公民的义务。\n\n    只是一瞬间，许乐就从画面上的黑色机甲联想到自己很多年以后的人生，这种走神对于他来说，除了进行机修工作时，倒极少出现。腹中忽然传来一阵极为响亮的鸣叫声，许乐苦着脸朝下方看了一眼，险些被那道强烈的饥饿感击昏。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "金的富家子来。\n\n    叮咚一声脆响，门口那个颇有古风地小铜铃响了起来，穿着合身制服的女服务人员们同时精神一振，笑容更加温和，迎向前去。然而当她们看到进来的那个年轻人后，笑容却难以自抑地僵了僵，险些难以保持住一向被严格遵守着的礼仪形象。[]\n\n    因为随着微雪进来的年轻人，穿着一件大学城里常见",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "子逃出了自己的卧室，想到那位女生的脸，竟似是一瞬间就饱了。\n\n    临海州最繁华的商业区里有一条最安静的街道，繁华与安静并不矛盾。所谓闹中取静是一种格调，闹中生静则代表着某种散发着钞票油墨气息的清高。这条约摸两百米长的安静街道上。云集了联邦里最出名地奢侈品商店，装潢清雅却蓄着贵气的门脸。人数并不多",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

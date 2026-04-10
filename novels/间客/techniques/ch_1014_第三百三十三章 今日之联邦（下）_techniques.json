@@ -1,0 +1,245 @@
+{
+  "novel": "间客",
+  "chapter_number": 1014,
+  "chapter_title": "第三百三十三章 今日之联邦（下）",
+  "filename": "ch_1014_第三百三十三章 今日之联邦（下）.txt",
+  "char_count": 7229,
+  "timestamp": "2026-04-10T12:05:26.916856",
+  "techniques_count": 18,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "官员。\n\n    间客吧时不时广而告之，朵朵女王有号外。\n\n    这一天，联邦商务部首席助理笛卡尔秘密飞抵百慕大，然而百慕大空港的欢仰仪式如此盛大，美女与鲜花列队相仰，相信怎样也无法保守真正的秘密。\n\n    不过笛卡尔并不介意，官员真正的秘密总是在民众目光看不到的地方。\n\n    比如当天晚餐时",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "取出一盆染料，倒在了他的身上。\n\n    “打死这各死不悔改的七大家走狗！”\n\n    深冬白雪覆盖大地，安静而美丽的梨花大学校园，被嘈乱和狂热占据，楼道之间回荡着学生们的口号声。\n\n    “打倒七大家！”\n\n    “帕布尔总统万岁！”\n\n    ……\n\n    ……\n\n    宪历七十五年最后",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "她用力地打了钱承同一个耳光。\n\n    声音仿佛像是战鼓，有些不知所措的学生们把心中的哑然化作羞恼，愤怒地把钱承同推倒在地上，不知道是谁从课堂里取出一盆染料，倒在了他的身上。\n\n    “打死这各死不悔改的七大家走狗！”\n\n    深冬白雪覆盖大地，安静而美丽的梨花大学校园，被嘈乱和狂热占据，楼道之",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "有什么样的险恶用心，我们愿意接受您回到正确的生活之中，承认您是位优秀的讲师。”\n\n    钱承同望着人群外那名面容憨厚的男学生，认出他曾经上过自己工程原理课，微微一笑表示感谢信任，却依然没有开口答应这些学生们的要求。\n\n    沉默激怒了学生们，尤其是最前方某位抿着薄唇倔犟盯着他的女学生，她激动尖声",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "承同副教授自嘲笑了笑，说道：“为什么要接受修束基金会的资助？现在当然要说我不知道它有什么背景没有任何意义，不过就算当年高三时知道这是邰家的基金会，我也一样会接受。”\n\n    “因为我很穷。”\n\n    “免费的第一军事学院我考不上，二院三院不在s1，我穷的就连路费都承担不起，我只能报考梨花大学。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "人他叫什么名字？”\n\n    “他叫利孝通。”\n\n    官员默默看着女人神经质般重复那个刚才还无比陌生的名字，知道这件事情终于办妥，心情骤然轻松，微笑着揉了揉眉心，向下属吩咐道：“安排证人洗个澡，化些淡妆，然后做正式笔录。”\n\n    ……\n\n    ……\n\n    在很多同事和学生的眼中钱承同是",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "主席竞选依然失败，直到最近一年校园里的各式集会变得越来越容易激动，她仿佛骤然找到自己发光发彩的舞台，瞬间成为所谓风云人物。\n\n    钱承同静静看着她狂热的表现，想起来那封情书上同样狂热的辞句，忍不住微笑着说道：“我不认错。”\n\n    围攻他的学生听到他开口说话，变得安静了一些。\n\n    钱承同",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "年致辞中，帕布尔总统说道，联邦现在最大的敌人就是野蛮凶残的帝国人以及隐藏在阴影中的家族，所面临的最大危险是那些险恶的思湘，比如投降主义，比如黑幕论，比如腐朽的贵族享乐主义。\n\n    为了战胜那些看似强太的敌人，在联邦实现真正的民zhǔzìyoú与和píng，民众必须从根本上自觉阻止这些险恶思潮的侵",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "所未有的力度缩减zhèngfǔ预算。\n\n    所有人都必须做出自己的贡献，携手共度艰难，为了联邦的最终胜利，没有任何人有资格享有特权。\n\n    联邦食品yào品管理局是zhèngfǔ及宪章局共管部门，在联邦并不如何出名，实际上却握有大量的权力，包括合成肉在内的所有食品监管和药物监管，都必须经过这",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "藏着极微妙的得意。\n\n    电话响起，他接通之后并没有说话，只是笑了笑。\n\n    “哥哥，我已经进入联合医药董事会。”\n\n    食品方面因为有宪章局存在，我们的韦布局长无法插手太深，但每年产值高达数万亿的医药行业，将从今天开始为他提供源源不断的酬劳。\n\n    ……\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "醉，这是很常见也很有效的审讯手法，官员平静望着心神已经失控的女人，缓缓低下头，在她耳旁像魔鬼一样轻柔说道：“想看到自己可爱的女儿？想回家照顾生病的女儿？想给她做一碗热腾腾的饭菜？你需要再认真的回忆一下，几年前你丈夫何友友有没有和这个人见过面。”\n\n    打印出来的照片放在女招待柔斯面前桌上，照片明",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "承诺毕业后在同等条件下，优先为基金会工作。”\n\n    学生们开始躁动起来。\n\n    钱承同副教授自嘲笑了笑，说道：“为什么要接受修束基金会的资助？现在当然要说我不知道它有什么背景没有任何意义，不过就算当年高三时知道这是邰家的基金会，我也一样会接受。”\n\n    “因为我很穷。”\n\n    “免费",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。”\n\n    官员默默看着女人神经质般重复那个刚才还无比陌生的名字，知道这件事情终于办妥，心情骤然轻松，微笑着揉了揉眉心，向下属吩咐道：“安排证人洗个澡，化些淡妆，然后做正式笔录。”\n\n    ……\n\n    ……\n\n    在很多同事和学生的眼中钱承同是个很优秀的人，他以黎明州朕考第七高分考入梨",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "崽子，就算在家里活活饿死，大概也没有邻居会报警，更没有人会好心到翻窗进去看看。”\n\n    官员眉梢缓缓挑起，用叹息表达自己的同情，随着他的叹息，仿佛一幕画面出现，某个病弱的小女孩儿奄奄一息躺在潮湿的被中，最后变成具干枯尸体，短小尸体眼眶深深陷下，某种不知名的虫子在爬进爬出。\n\n    柔斯明明知道",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，她真的不想按照官员们的交待去陷害那个并不认识的男人，然而整整一夜的审讯让她的精神濒临崩溃，对女儿的思念和那种最大的恐惧让她说不出任何反对的话，只有痴痴傻傻点了点头，颤声喃喃问道：“家里没有珍珠项链。”\n\n    “这个自然可以从你家里搜出来。”\n\n    “可是……这个男人他叫什么名字？”",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "宪历七十五年最后一天，韦布局长顶着风雪前往港都参加一个重要的朕席会议，看来他的新年注定无法在温暖家中渡过，然而防弹汽车后座上的他脸上，找不到任何不快的情绪，平静皱纹里隐藏着极微妙的得意。\n\n    电话响起，他接通之后并没有说话，只是笑了笑。\n\n    “哥哥，我已经进入联合医药董事会。”",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "联邦食品yào品管理局是zhèngfǔ及宪章局共管部门，在联邦并不如何出名，实际上却握有大量的权力，包括合成肉在内的所有食品监管和药物监管，都必须经过这个部门的核准。\n\n    食品yào品管理局前任局长因为与南相家之间的亲密关系，在苦苦支撑两年半之后，终于因为一件极不起眼的过失，被总统官邰冷",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "不应该由报社记者完成。”\n\n    稽一停顿，他继续平静说道：“如果林同学指的是邰夫人，我必须要诺我从来没有见过邰夫人这种大人物。不错，我确实接受过修束基金会的资助，并且签过协议承诺毕业后在同等条件下，优先为基金会工作。”\n\n    学生们开始躁动起来。\n\n    钱承同副教授自嘲笑了笑，说道：“为",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

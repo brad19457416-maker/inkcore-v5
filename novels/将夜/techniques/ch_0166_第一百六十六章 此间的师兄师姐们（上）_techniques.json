@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 166,
+  "chapter_title": "第一百六十六章 此间的师兄师姐们（上）",
+  "filename": "ch_0166_第一百六十六章 此间的师兄师姐们（上）.txt",
+  "char_count": 3384,
+  "timestamp": "2026-04-10T12:11:11.999216",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "瓶颈，无论是大师兄还是二师兄都寻不到好的法子，最后老师决定让她绣花，这一绣便是两年，也不知道那段瓶颈究竟过了没有。”\n　　宁缺心中的震撼一直在持续，只是表面上他极好地保持住了平静，这是他第一次进入书院二层楼，对于很多事情根本没有任何概念，比如绣花与阵法有什么关系？但正因为完全没有任何概念，他知道自己",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "到了自己的来历，沉默片刻后说道：“庄严、肃穆或者神圣，其实都不是美丽。”\n　　他微笑继续说道：“欢迎来到真正的书院。”\n　　宁缺笑着回答道：“看来你是我今天的导游。”\n　　陈皮皮没有听说过导游这个词，但猜到大概是什么意思，笑了笑，领着他向崖坪间走去。一路走过青青田野与草甸，踩着微湿的田垄，走上一道木",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "走了出来，两名男子面容英俊神情平静，身上穿着的学院春服为白色，明显经过改造，袍袖及下摆非常宽大，被春风一拂飘然若仙，哪里像是学生，更像是仙风道骨的隐士。\n　　拿着洞箫的九师兄看着陈皮皮没好气说道：“什么叫我自己都说不清楚？”\n　　陈皮皮笑着说道：“那你说说，你们在书院这么多年究竟修了些什么玩意儿？”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "道：“比你原来住的那个地方还要美丽？”\n　　陈皮皮看着他，不知道他是不是猜到了自己的来历，沉默片刻后说道：“庄严、肃穆或者神圣，其实都不是美丽。”\n　　他微笑继续说道：“欢迎来到真正的书院。”\n　　宁缺笑着回答道：“看来你是我今天的导游。”\n　　陈皮皮没有听说过导游这个词，但猜到大概是什么意思，笑了",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "进入后山之前，这花在山中自行开落千万年，与你我之心又有什么关系？若无人入后山，若无人观此花，此花便不存在？”\n　　宁缺哑然无语，沉默很长时间后转头无辜地看了陈皮皮一眼。\n　　陈皮皮的目光比他还要无辜，意思是说你若答不清楚，便不好离开。\n　　十一师兄王持目光温柔看着他，等待了很久没有等到答案，脸上却也",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "第一百六十六章 此间的师兄师姐们（上）\n　　“我第一次来时，也像你一样，被这里的美丽震的无法言语。”\n　　不知何时，陈皮皮站到了宁缺的身边。\n　　宁缺转头看了他一眼，问道：“比你原来住的那个地方还要美丽？”\n　　陈皮皮看着他，不知道他是不是猜到了自",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "行者连自己修行法门都不知道的？”\n　　陈皮皮摇头解释说道：“老师从来不给他们布置功课，只是让他们由着性子鼓捣这些没用玩意儿，我进书院多少年，便听他们吹弹了多少年，哪见过他们做别的。”\n　　春林里琴萧之声骤歇，簌簌摩擦声起，二名男子从林子里走了出来，两名男子面容英俊神情平静，身上穿着的学院春服为白色，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。”\n　　宁缺疑惑问道：“难道二位师兄音律之道水准极差？”\n　　“二位师兄若在世间绝对是第一流的音律大家。”\n　　陈皮皮正色说道，旋即眉梢苦楚地垂了下来，继续说道：“可再了不起的音律大家，若翻来覆去连续弹奏一首曲子上千遍让你听，你就会知道其中的痛苦了。”\n　　如果让自己连着吃一千碗酸辣面片汤会不会腻",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "等到答案，脸上却也没有什么不悦神色，自行温和解释道：“依我看来，在你我见到这花之前，花与你我之心各自寂静，你我来看这花时，花在心头显现绽放，此花存在于否，便在于显现之刻。”\n　　宁缺微微张唇，依旧哑然无语，神情非常无辜。\n　　陈皮皮被这厮无辜的神情弄得有些内疚，咳了两声后说道：“十一师兄，小师弟第一",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "意，颜瑟大师又说你有神符师潜质，而且听闻你是长安城里最近出名的书家，既然如此，想必你对艺术颇有造诣，日后你我要好生切磋切磋才是。”\n　　宁缺赶紧恭谨行礼，心里却苦涩想着，自己哪里懂音律这些东西，至于俗或不俗……能感知天地元气那当然应该用来提升自身境界，然后学习打架的本事，这二位师兄竟是把全部的修为与",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "：“日后若师兄们要吹箫给我听，我躲开便是了，又有什么问题？”\n　　“这些年来，没有一位师兄师姐愿意安安静静听他们的演奏，他们只能天天面对面吹箫弄琴，一个人道洋洋哉，一个人道巍巍乎，互为知音互拍马屁，早已无聊到了极点，差的便是一个听众，你既然答应了他们，那今后在后山便等着天天被拉去当听众吧。”\n　　宁",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "陈皮皮一眼。\n　　陈皮皮的目光比他还要无辜，意思是说你若答不清楚，便不好离开。\n　　十一师兄王持目光温柔看着他，等待了很久没有等到答案，脸上却也没有什么不悦神色，自行温和解释道：“依我看来，在你我见到这花之前，花与你我之心各自寂静，你我来看这花时，花在心头显现绽放，此花存在于否，便在于显现之刻。”",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 1047,
+  "chapter_title": "第三百六十一章 最强的集体",
+  "filename": "ch_1047_第三百六十一章 最强的集体.txt",
+  "char_count": 3593,
+  "timestamp": "2026-04-10T12:05:26.977702",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "“我永远不会承认。”邰之源笑容渐敛，拿起白色丝绢轻拭唇角，说道：“这是我欠你的人情。”\n\n    “为什么你不肯欠他的人情？”邹郁问道。\n\n    邰之源平静回答道：“因为未来的联邦总统永远不能欠未来的帝国皇帝人情。”\n\n    邹郁没有再说什么，直接走出门外。城市里灌满了寒冷的空气，身后传来越来越",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "轮椅上的达文西表情庄严，举起右手满是死难战友身份牌的行军背囊，伸出左手对准铅灰一片的高远天空。\n\n    雪花再次开始飘落，有一朵最晶莹的落在他的指尖。\n\n    “为了天上的光辉，为了那些死去的以及活着的，他们去了另一个地方，去做他们应该做的事情，去夺回那些原本就应该属于他们的光荣。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "是阴谋是杀害，更是背叛。”\n\n    “我和我的战友们不接受这种背叛，所以我冒着被政府逮捕甚至暗杀的危险来到这里，而他们……”\n\n    轮椅上的达文西表情庄严，举起右手满是死难战友身份牌的行军背囊，伸出左手对准铅灰一片的高远天空。\n\n    雪花再次开始飘落，有一朵最晶莹的落在他的指尖。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "第三百六十一章 最强的集体 \n\n    栖霞州州长府邸。\n\n    州长夫人半靠在沙发上，像木头人一般看着电视光幕上的画面，平日气度雍容的她，此时显得份外憔悴，脸上的精致妆容早被无声流淌的泪水冲成乱糟糟的色块。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "下，这所谓的回报究竟是什么？”\n\n    “难道就是把我最疼爱的儿子变成残废！”\n\n    州长先生愤怒地咆哮道，然后用力地挂断电话，回头望向客厅里的电视光幕，看着轮椅上的儿子，忍不住***了***心口，扶着栏杆才没有摔倒。\n\n    ……\n\n    ……\n\n    首都特区，乔治卡林艺术中心前。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "府邸寒风拂动的露台上，栖霞州州长脸色铁青，拨通了联邦总统官邸的电话。\n\n    接通之后，他寒声说道：“布林主任，我想总统先生和你应该都很清楚，这些年我和栖霞州的选民给了他多大的支持，你们曾经承诺过会给予适当的回报，那么我现在想向你请教一下，这所谓的回报究竟是什么？”\n\n    “难道就是把我最",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "邹郁站在他身旁，并不意外他知道许乐回到联邦的消息，但对于这个问题，她并不打算回答。\n\n    邰之源自嘲微笑，转而问道：“他和七组在做什么？”\n\n    邹郁指着远处台上的达文西，平静回答道：“刚才他已经回答了这个问题，他们在做他们应该做的事情。”\n\n    邰之源望着她的侧脸，注意到她今天的打扮特",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "是同胞，但很奇异的是，运输机内的队员们情绪似乎没有受到任何影响，没有任何心理负担。\n\n    七组男人们的爱憎非常简单直白。\n\n    他们曾经那样的热爱这个联邦，所以愿意抛头颅洒热血冲锋在前撤退在后不惧牺牲谈笑杀敌，壮烈在胸。\n\n    然而看起来现在这个联邦并不怎么爱他们，甚至恨不得他们去死，事",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "谋是杀害，更是背叛。”\n\n    “我和我的战友们不接受这种背叛，所以我冒着被政府逮捕甚至暗杀的危险来到这里，而他们……”\n\n    轮椅上的达文西表情庄严，举起右手满是死难战友身份牌的行军背囊，伸出左手对准铅灰一片的高远天空。\n\n    雪花再次开始飘落，有一朵最晶莹的落在他的指尖。\n\n    “",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "邦政府，那么搞掉它。\n\n    “在南郊盯着的时候一定要非常小心。”\n\n    许乐做完机油清洗，把沉重的达林机炮递给大熊，对队员们说道：“铁七师可不是小眼睛这种业余爱好者。”\n\n    从业余爱好者这种评价，便大抵能看出以许乐为首的七组，对那个小眼睛特战部队的轻蔑态度。\n\n    那支隶属联合调查",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "答道。\n\n    “注意安全。”许乐说道：“我没有把握宪章电脑是不是会一直处于现在的状态，如果有情况马上撤。”\n\n    玉兰还是只说了一个字。\n\n    许乐从他上衣口袋里掏出烟盒，问道：“失败了？”\n\n    玉兰犹豫片刻，多解释了一句：“她怀着的时候，我是真一根烟都没抽。”\n\n    “家里老",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "德以后的安全，就交给你了。”\n\n    邹郁开始穿戴黑色小羊皮手套，说道：“不管你乐不乐意接手，担不担心军方表态，我们都会把他们交给你。”\n\n    邰之源轻轻咳了两声，微笑回答道：“果然是这个答案，既然你们如此坚持，我没有理由不继续下去。”\n\n    邹郁走到门旁，忽然回头望着他认真说道：“你应该",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "的故事，艺术中心门前所有人都感到了那种深入骨髓的痛苦与寒冷，于是有人收拢双拳抱在怀里仿佛要多给他一些温暖，有人捂住脸想要不看到他的痛苦。\n\n    像冬日海洋般漫无边际的死寂，被零星掌声打破，然后迅速变成掌声与呐喊声的夏日海洋，民众望着轮椅上的青年军官挥舞着手臂，噙着泪珠表达着安慰。\n\n    集会",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "则会特意打扮的漂亮些，一如出嫁时。”\n\n    邰之源没有询问，知道有下文。\n\n    “鲍勃和伍德以后的安全，就交给你了。”\n\n    邹郁开始穿戴黑色小羊皮手套，说道：“不管你乐不乐意接手，担不担心军方表态，我们都会把他们交给你。”\n\n    邰之源轻轻咳了两声，微笑回答道：“果然是这个答案，既",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "似嘟着索吻的甜密糖果，又像是倔犟不肯从枝头坠落的红果。\n\n    “改变风格了？很漂亮，很符合你凛冽性子。”\n\n    邹郁微笑回答道：“从小到大，你很少赞美我的容颜，但这并不足以让我说更多。”\n\n    邰之源笑了笑。\n\n    这时邹郁接到一个电话，电话的内容让那双如浓墨柳叶蹙着的眉渐渐松开，望",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "集会现场东面是沉默行军临时指挥部，数百名黑鹰武装保镖散布在四周，邰之源望着已经开始沸腾的人海，缓缓开口问道：“许乐在哪里。”\n\n    邹郁站在他身旁，并不意外他知道许乐回到联邦的消息，但对于这个问题，她并不打算回答。\n\n    邰之源自嘲微笑，转而问道：“他和七组在做什么？”\n\n    邹郁",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

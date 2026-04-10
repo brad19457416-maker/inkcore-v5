@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 733,
+  "chapter_title": "第一百一十四章 一步杀一人",
+  "filename": "ch_0733_第一百一十四章 一步杀一人.txt",
+  "char_count": 3495,
+  "timestamp": "2026-04-10T12:11:27.037433",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "有可能是六十个。\n　　六百个。\n　　六千个。\n　　甚至更多。\n　　再如何仁爱，只要杀的人多了，最终也就会不忌惮于杀人。\n　　七枚大师的脚，再也无法落下去。\n　　……\n　　……\n　　就在这个时候，一双脚落在了地面上。\n　　那双脚上是很普通的青布鞋。\n　　但出现时，鞋底便踩死了在稠血里挣扎很长时间",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "地吹拂过每个人的心头，嘈乱的军营顿时变得平静无比。\n　　唐军将士没有几个人知道这名书生是谁，但不知道为什么，看到他的身影，将士们便觉得无比安宁，充满了信任的感觉。\n　　果然，七枚停下了脚步。\n　　谁能让他停下？\n　　自然是书院。\n　　大唐真正强大的力量，是书院。\n　　虽然那名书生神情温和，看似没有什",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "认为是骄傲的流露，如果是从宁缺嘴里说出来，绝对会刻意平静，却一定要让对方听出自已的嘲讽轻蔑意味，从而愤怒欲狂。\n　　但他慢条斯理说出这七个字，却是真正的平静，只是在简单陈述事实，令听到的人，根本无法生出任何不悦的情绪。\n　　“贫僧的境界，自然不如大先生。”七枚大师看着大师兄和声说道：“但大先生境界再",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "时候，大师兄忽然说了一句话。\n　　“月轮国皇帝死了。”\n　　……\n　　……\n　　这是对战至今，大师兄第一次在七枚还没有迈步的时候，便以无距境界杀人。这意味着什么？意味着虽然只剩下六步，但将不会再只死六个人。\n　　有可能是六十个。\n　　六百个。\n　　六千个。\n　　甚至更多。\n　　再如何仁爱，只要杀的人",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "八步。\n　　月轮国主帅死。\n　　倒数第七步。\n　　悬空寺戒律堂继任首座死。\n　　七枚大师的脚步越来越沉重。\n　　每迈出一步所需要花的时间，也越来越多。\n　　在他还没有迈出第六步的时候，大师兄忽然说了一句话。\n　　“月轮国皇帝死了。”\n　　……\n　　……\n　　这是对战至今，大师兄第一次在七枚还没有迈步",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "位置有些细微的变化。\n　　战场遥远的西方，葱岭之下的月轮国军营里，一名大将倒地而死。\n　　一片惊呼，人们围了过去。\n　　只见那名大将的身上看不到任何伤痕，神情宁静，仿佛睡着一般。\n　　……\n　　……\n　　七枚大师知道对方已经出手，左眉微微挑起。\n　　他再向前一步。\n　　大师兄静静看着他，有风拂起他的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "变形，即便肉身成佛，如今也只是座摇摇欲坠的泥胎佛像。\n　　七枚大师跌坐于地，重伤不能再起。\n　　鲜血缓缓从大师兄的棉袄里渗了出来，染红他的肩头。\n　　就在先前那瞬，他把真正学会打架后的第一击，用在了七枚大师的身上，而也就是在那瞬间，他也险些被青衣道人重伤。\n　　青衣道人静静看着他，说道：“你境界不如",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "着七枚大师问道，他的神情很诚挚，是单纯而认真地请教。\n　　七枚大师沉默了很长时间，然后轻宣一声佛号，说道：“佛祖涅，夫子登天，不动明王光落人间，天意难违，此为明证。”\n　　大师兄有些意外，也有些遗憾，叹息说道：“原来如此，没想到老师的离去，竟会对佛宗产生这样的影响，想必他也没有想到。”\n　　七枚大师",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "。”\n　　青衣道人是知守观观主陈某。夫子离开人间之后，他和悬空寺讲经首座，便是这个世界上最至高无上的存在。\n　　如果他早些出现，大师兄自然没有办法杀死那么多人。\n　　大师兄不想杀人，所以说他来晚了。\n　　青衣道人看着他淡然说道：“因为想看看夫子以仁恕之道教出来的学生，究竟能杀多少人，所以出来的晚了些",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "他的腰间依旧系着根木瓢，却看不到那卷旧书。\n　　此时场间一片混乱，当这名书生出现后，却如一道春风温暖和煦地吹拂过每个人的心头，嘈乱的军营顿时变得平静无比。\n　　唐军将士没有几个人知道这名书生是谁，但不知道为什么，看到他的身影，将士们便觉得无比安宁，充满了信任的感觉。\n　　果然，七枚停下了脚步。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "光落人间，天意难违，此为明证。”\n　　大师兄有些意外，也有些遗憾，叹息说道：“原来如此，没想到老师的离去，竟会对佛宗产生这样的影响，想必他也没有想到。”\n　　七枚大师说道：“此亦为一明证。”\n　　大师兄望着草鞋前一只被稠血粘住、不停挣扎的蚂蚁，想了想后抬起头来，看着他平静说道：“我书院想试试。”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "来，染红他的肩头。\n　　就在先前那瞬，他把真正学会打架后的第一击，用在了七枚大师的身上，而也就是在那瞬间，他也险些被青衣道人重伤。\n　　青衣道人静静看着他，说道：“你境界不如我，却没有想到，在无距的道路上，你走的竟然比我还要更平稳些。”\n　　大师兄说道：“观主这些年来走的太快，自然不怎么稳当。”",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "他的腰间依旧系着根木瓢，却看不到那卷旧书。\n　　此时场间一片混乱，当这名书生出现后，却如一道春风温暖和煦地吹拂过每个人的心头，嘈乱的军营顿时变得平静无比。\n　　唐军将士没有几个人知道这名书生是谁，但不知道为什么，看到他的身影，将士们便觉得无比安宁，充满了信任的感觉。\n　　果然，七枚停下了脚步。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

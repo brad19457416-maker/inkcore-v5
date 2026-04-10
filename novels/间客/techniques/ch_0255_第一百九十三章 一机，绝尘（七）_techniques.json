@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 255,
+  "chapter_title": "第一百九十三章 一机，绝尘（七）",
+  "filename": "ch_0255_第一百九十三章 一机，绝尘（七）.txt",
+  "char_count": 4522,
+  "timestamp": "2026-04-10T12:04:51.097278",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "１８０秒，竟长的有如太空航行一般难熬。\n\n    还有三十七秒钟的时间，小白花机甲却已\n\n    最危险的边缘，许乐默然地操控机甲做出了一个进击t知道即便不服，今日也是要败了。\n\n    然而就在这个时候，一直疯癫如醉虎、气势逼人，占据绝对优势的紫海机甲，一个标准的左旋步侧击动作，却忽然间显得有些不",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "老教授心血的实验数据，没有想起虎山道那个姓朴的军官，没有想起环山四州演唱会上的那些断肢残体，没有想起雨夜里的**董事，没有想起两天前被宪章局逮捕的白玉兰。\n\n    因为这些不需要想起，全部都深埋于他的脑海之中，从东林到Ｓ１，联邦这个社会曾经展现在他面前的不公，黑暗，阴谋，一直都在。\n\n    许乐",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "什么。讲几分道理。争两三口气。\n\n    这个家伙。在东林大区被人用冰冷地枪管顶着头也不曾惧怕。只是愤怒；遇着铁拳。不曾龟缩。而是勇敢地逃了出去——且没有胆怯地离开。而是去找封余。\n\n    这个家伙。在地下停车场看着黑色地机甲也不曾胆怯。反而狠狠地踹了一脚；遇着大人物地欺压。不曾让步。而是勇敢地站",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "用阴谋诡计。那么他便会一直跑下去。直到超过对方。拿到冠军。然后再冷冷地回过头来。看那些人一眼。问一句为什么。讲几分道理。争两三口气。\n\n    这个家伙。在东林大区被人用冰冷地枪管顶着头也不曾惧怕。只是愤怒；遇着铁拳。不曾龟缩。而是勇敢地逃了出去——且没有胆怯地离开。而是去找封余。\n\n    这个家",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "么可能生气到亲自上阵？\n\n    宪章局官员的脸色微沉，不再说话，转头看着光屏中他也很感兴趣的对战，心想这个秀气男人只怕已经气到疯了，不然怎么会说出这样一句话来。\n\n    ……\n\n    ……\n\n    有些人参加联邦极限长跑。到最后腿了。身体虚脱了。却依然要倔犟地甩开医护人员地手。一拐一拐地向着",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "这位天才女工程师的脏话，惊醒了指挥大厅里很多人，就如同有人指挥一般，三方面的工程师，专家教授们，同时发出了一声惊呼，合在一处，竟似巨浪滔天一般，充斥着整个指挥大厅。\n\n    看台上一直在和国家安全顾问先生轻声聊天的林远湖，为了向联邦里的人们显示自己的信心，这几十秒钟他一直没有去看光屏上那场乏味",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "观战大厅一侧的二楼房间中，宪章局那名官员揉着自己还在隐隐作痛的小腹，看着身旁低头不语的白玉兰，冷笑着说道。他并不知道那些军人是因为费城李家的关系，才会如此狂热地支持联邦科学院的紫海机甲。\n\n    基地里的军人依照宪章局的要求，将白玉兰逮捕之后，其实一直将他关押在基地内部。\n\n    事涉联邦机甲测",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "么他便会一直跑下去。直到超过对方。拿到冠军。然后再冷冷地回过头来。看那些人一眼。问一句为什么。讲几分道理。争两三口气。\n\n    这个家伙。在东林大区被人用冰冷地枪管顶着头也不曾惧怕。只是愤怒；遇着铁拳。不曾龟缩。而是勇敢地逃了出去——且没有胆怯地离开。而是去找封余。\n\n    这个家伙。在地下停车",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，李疯子操控的紫海机甲疯狂之中带着冷漠意味，没有任何漏洞可抓，然而此时紫色机甲的漂亮左旋前击动作，却出现了问题。\n\n    对于苦苦煎熬等待了一百多秒的许乐来说，这种异动无疑代表着他最好的机会，虽然他不明白为什么紫海机甲出问题的时间，比他所推算的时间要快了三十七秒，但他知道自己必须抓住这个机会。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "在不服与挣扎的边缘时刻，头盔中紫海机甲的动作每一处异常，都会像是一个刺激性的信号，通过双眼进入许乐的大脑。只不过先前那么长的时间中，李疯子操控的紫海机甲疯狂之中带着冷漠意味，没有任何漏洞可抓，然而此时紫色机甲的漂亮左旋前击动作，却出现了问题。\n\n    对于苦苦煎熬等待了一百多秒的许乐来说",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "大厅里没有人能够反应过来，包括果壳那些工程师，都只是呆呆地盯着光屏，以为自己眼花了。\n\n    然而紧张了很久的商秋，却比谁的反应都快，高高地举起了自己的右手，握成了一个拳头，拳头里抓着一支笔，她兴奋地大声叫嚷道：“**！”\n\n    这位天才女工程师的脏话，惊醒了指挥大厅里很多人，就如同有人指挥一",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "其实一直将他关押在基地内部。\n\n    事涉联邦机甲测试，宪章局再超然于联邦的政治架构之外，也不可能马上就对白玉兰如何。更何况这件事情的背后，还隐藏着很多东西，那位官员既然已经完成了某些势力的请求，将果壳原来安排的机师留了下来，自然也不愿意再多事。\n\n    白玉兰缓缓地抬起头来，安静地透过房间的玻",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "员既然已经完成了某些势力的请求，将果壳原来安排的机师留了下来，自然也不愿意再多事。\n\n    白玉兰缓缓地抬起头来，安静地透过房间的玻璃门，看着光屏上那场惊心动魄的机甲之战，沉默了很久。他在心里想到，如果此时是自己在操控小白花，最开始或许能比许乐完成的要好一些，但此时在紫海狂暴的攻击下，他一定不愿意",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "宪章局逮捕的白玉兰。\n\n    因为这些不需要想起，全部都深埋于他的脑海之中，从东林到Ｓ１，联邦这个社会曾经展现在他面前的不公，黑暗，阴谋，一直都在。\n\n    许乐倒是经常会想起施清海走之前留给自己的那一封信，面对着社会的不公，有的人想要成为施加不公者，有的人沉默承受，还有些人想改变一些什么。没有",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "地男人。但并不会这样去做。他不惹事儿。不怕事儿。也不想引人注目。但如果是他在跑道上面跑地时候。同行地人们却要使绊。要用阴谋诡计。那么他便会一直跑下去。直到超过对方。拿到冠军。然后再冷冷地回过头来。看那些人一眼。问一句为什么。讲几分道理。争两三口气。\n\n    这个家伙。在东林大区被人用冰冷地枪管顶着",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

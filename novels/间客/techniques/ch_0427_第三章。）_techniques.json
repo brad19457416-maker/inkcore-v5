@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 427,
+  "chapter_title": "第三章。）",
+  "filename": "ch_0427_第三章。）.txt",
+  "char_count": 3848,
+  "timestamp": "2026-04-10T12:04:59.235737",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "国民少女的酒会，虽然稍嫌霸道了一些（其实他们并不觉得这是霸道），但这和你李封又有什么关系？如果真是如众人猜测的那般李疯子是在争风吃醋，结果一声喝吓晕了钟家千金，打了钟二郎两耳光，此时竟敢掏枪，威胁要杀人……这也太没道理了。\n\n    李封地眉尖拧了拧。望着钟子期问：“你要一个道理？”\n\n    子期",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "嘴里却是不肯停歇。\n\n    西林军官们有些麻木地将昏迷中的钟子期抬走，稍一查看便知道二少爷没事儿，心想今儿算是见了新鲜事儿了，二少爷居然被人挤兑的只有挨打的份儿，而自己居然能亲眼看到军神老人家的私生子……\n\n    场面一片混乱，许乐眯着眼睛望着这一幕，不由感慨李疯子果然是个凶娃娃，明明事情已经解",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "不定会亲自将李封交到西林人手中。\n\n    “凭什么毙我？”钟子期已经受到李疯子毫不遮掩的杀意，强自压抑着情绪，抓着枪管咆哮道：“你今天给我说不出个道理，这官司打到费城去也是我赢！”\n\n    在场的所人看来，今天西林钟家为二少爷举办了一场欢迎国民少女的酒会，虽然稍嫌霸道了一些（其实他们并不觉得这是",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "但西林与首都星圈不同，这里是联邦与帝国交战的最前线，这里习惯比较拳头的大小。西林钟家也与别的世家有本质上的不同，钟家世代掌控联邦第四军区，家族男丁基本上都上过战场，钟子期虽然一直没有机会，但也曾经就读于西林军校，并不像别的世家子弟那般，看到带着强硬军人作风的李疯子，便会吓的像小白兔，四处逃窜。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "家让李封喊此人小叔，这岂不是从某个层面证实了那个传言。\n\n    无数双目光投向了许乐，个惊天流言，难道今天便要水落石出？然而紧接着，众人又将目光望向了钟子期，因为他们发现二少爷的脸色异常难看。\n\n    李封望着冷冷问道：“打你，这个理由充不充分？”\n\n    花了很长时间，钟子期从震惊中醒神来，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "躺在餐桌上。眼睛看着天花板。冷哼一声。许乐此时地电话终于通了。他低声说了几句什么。眯眼看着宴会厅里地冲突心李疯子不好收场。准备往那边走去解决问题。却发现桐姐不知何时走到了自己身边。\n\n    “很热闹啊。”桐姐无奈说道：“小姐让下来看看情况。不过看来应该不用了。”\n\n    李封悬腕握枪。再次用力下",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "……\n\n    许乐算是见识了那位温柔钟夫人在家族内部的权威，只不过是一个越星电话，宴会厅里骄傲和愤怒的钟家人们，顿时满脸惊惧，再也不敢生事，作鸟兽散，散的格外彻底，终于让金星酒店清静了起来。\n\n    “不要自作多情，我是为你出头。”李封目视前方冷漠说道：“我只是找一个发飙的由头。”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "好收场。准备往那边走去解决问题。却发现桐姐不知何时走到了自己身边。\n\n    “很热闹啊。”桐姐无奈说道：“小姐让下来看看情况。不过看来应该不用了。”\n\n    李封悬腕握枪。再次用力下。用枪口把钟子期地脑袋狠狠地按在餐桌上。正准备讲出自己地道理时眼角余光却看到了桐姐。看到了桐姐微微皱眉摇了摇头。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "都星圈，有很多在联邦上层发生的事件，他们知道的要晚很多，许多细节也不甚明了。但宪历六十八年，联邦军队出现了一名李封之后最年轻的中校军官，这种很轰动的新闻，自然很多人都知道。\n\n    不用关心什么mx机甲，和铁七师之间的争斗，西林军民们最关心那个沸沸扬扬的传闻。军方内部一直传说，那名许乐中校有可能是",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "上过战场，钟子期虽然一直没有机会，但也曾经就读于西林军校，并不像别的世家子弟那般，看到带着强硬军人作风的李疯子，便会吓的像小白兔，四处逃窜。\n\n    钟子期此时被冰冷的枪管抵住眉心，依然敢对李疯子咆哮，除了家族的勇武猛虎之气遗泽外，更重要的是，整个西林钟家都很清楚，他们替联邦镇守边陲，付出了多少。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "上。正准备讲出自己地道理时眼角余光却看到了桐姐。看到了桐姐微微皱眉摇了摇头。\n\n    钟家那头老虎一向对李封照顾有加。他不可能真地把钟子期毙了。然而此时要讲出一个道理来。桐姐却摇头表示了某人地态度。李封眉梢一拧。忽然想到先前在酒店外听到地那句话。\n\n    “如果我说出道理来，你怎么说？”他居高临",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "矩矩地军礼，大声说道：\n\n    “中校李封，见过小姑。”\n\n    刚走进门口的许乐表情一凝，双眼缓缓眯起，看似平静，心中却若有一道春雷炸开。(未完待续，如欲知后事如何，请登陆idiancomm，章节更多，支持作者，支持正版阅读！ＷＷＷ.xiＡosＨuoＴＸＴ.com\n\n\n\n拉月票，推荐票……",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "呆若木鸡的钟家亲眷们点点头，然后下台。\n\n    ……\n\n    ……\n\n    许乐算是见识了那位温柔钟夫人在家族内部的权威，只不过是一个越星电话，宴会厅里骄傲和愤怒的钟家人们，顿时满脸惊惧，再也不敢生事，作鸟兽散，散的格外彻底，终于让金星酒店清静了起来。\n\n    “不要自作多情，我是为你出头。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

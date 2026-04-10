@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 683,
+  "chapter_title": "第六十四章 万里之行只为吃",
+  "filename": "ch_0683_第六十四章 万里之行只为吃.txt",
+  "char_count": 3349,
+  "timestamp": "2026-04-10T12:11:26.912303",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "十四章 万里之行只为吃\n　　羊肉吃着不像羊肉，但终究还是肉，有肉吃，终究还是幸福的事情，所以夫子烦恼愤怒之后，还是只有继续吃肉，只不过吃的时候，不停哀声叹气，看着手里的羊肉叹气，看着桑桑叹气，看着天空叹气。\n　　桑桑不理解这是怎么了，宁缺也不理解，拍了拍她的肩膀，示意没有什么事，挪到夫子身旁，低声问",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，甚至宁缺现在以为，夫子非人也。\n　　黑色马车在宋国都城繁华的大街上缓缓行驶，道观周遭围满了黑压压的人群，在为荒原上的圣战祷告，他们还不知道那场圣战的结局，更不知道那场战争最关键的人，现在已经来到了宋国，来到了他们的身旁。\n　　当黑夜消褪，光明渐隐，碧空白云重现之后，宋国的人们从地上站起身来，生活以",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "烦恼愤怒之后，还是只有继续吃肉，只不过吃的时候，不停哀声叹气，看着手里的羊肉叹气，看着桑桑叹气，看着天空叹气。\n　　桑桑不理解这是怎么了，宁缺也不理解，拍了拍她的肩膀，示意没有什么事，挪到夫子身旁，低声问道：“老师，是不是这件事情很麻烦？”\n　　他说的事情，自然是指夫子救下桑桑，与昊天战斗这件事情。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "看到这个过程，它却是看的清清楚楚。\n　　明明眼前是一片青草，而当前蹄落下时，便落在了青石板路上，这种瞬间万里的转换，直接让它吓到四蹄发软。\n　　……\n　　……\n　　有很多在正常人看来，永远不可能做到的事情，只要夫子出手，那便没有什么不可能，比如桑桑病重难愈，宁缺浑身是伤，现在都好了。\n　　有很多无法",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "感知识之类的东西，都是活着的附属品，必须把这个顺序弄明白。”\n　　宁缺想了想后说道：“但活着总得有些意义，不然也没什么意思。”\n　　夫子说道：“当然得要有点儿追求，但你首先得活着，才有资格去寻找意义。”\n　　“绝对的利己？反对所有牺牲？”\n　　“我说的活着，不是一个人的活着，而是很多人的活着。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "对所有牺牲？”\n　　“我说的活着，不是一个人的活着，而是很多人的活着。”\n　　“好像很复杂……老师您究竟想教我些什么？”\n　　“我想告诉你，既然活着是最重要的事情，那么吃饭就是世间头等大事。”\n　　宁缺摸了摸肚子，心想才吃烤羊腿，又要吃什么？\n　　还没等他把这件事情想明白，夫子已经拿起菜单，点了十八",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "么？”\n　　“我想告诉你，既然活着是最重要的事情，那么吃饭就是世间头等大事。”\n　　宁缺摸了摸肚子，心想才吃烤羊腿，又要吃什么？\n　　还没等他把这件事情想明白，夫子已经拿起菜单，点了十八个菜。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "：“这便是棠棠那只小白狼的父母。”\n　　桑桑这才知道，为何先前那只雪原母狼会流露出那样的神色，想必是思念远在书院后山的孩子，心中的酸楚意味变得更浓。\n　　……\n　　……\n　　雪狼夫妻离开之后，黑色马车也离开了那个离世而居的牧人部落。带着羊肉香脂的马蹄，在青草原野上时落时起，留下的蹄印里，引来了很多蚂",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "到夫子身旁，低声问道：“老师，是不是这件事情很麻烦？”\n　　他说的事情，自然是指夫子救下桑桑，与昊天战斗这件事情。\n　　夫子神情黯然说道：“当然很麻烦。”\n　　宁缺闻言微惧，颤声说道：“桑桑不会有事吧？”\n　　夫子闻言大怒，痛斥道：“你只会关心自已老婆，就一点不关心我这个老师？孝顺是什么意思懂不懂？",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "不是这件事情很麻烦？”\n　　他说的事情，自然是指夫子救下桑桑，与昊天战斗这件事情。\n　　夫子神情黯然说道：“当然很麻烦。”\n　　宁缺闻言微惧，颤声说道：“桑桑不会有事吧？”\n　　夫子闻言大怒，痛斥道：“你只会关心自已老婆，就一点不关心我这个老师？孝顺是什么意思懂不懂？她都吃了药了还能有什么事？怕她会",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "礼，然后用充满威严的目光，看了自已的妻子一眼。\n　　那只浑体雪白的雪原巨狼，有些不舍地离开桑桑身边，来到夫子身前行礼。\n　　夫子看着这只公狼身上乱糟糟的毛皮，便知道这几年，狼群南下之后在荒原上的日子并不好过，伸手轻轻抚摸它的头顶。\n　　那只瘦弱公狼一动不动任由夫子抚摸，身体微微颤抖，显得非常激动，非",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "鬓毛随风而舞，似要竖立起来。\n　　一只巨大的雪原巨狼和一只相对极为瘦小的普通公狼，从草甸北方的雪丘里缓缓走来，看都没有看一眼草甸里昏死的羊，继续前行。\n　　大黑马露出白牙，对着远处那两只狼发出暴烈的嘶吼，它很清楚雪原巨狼多么恐怖，也知道那只看似瘦弱的普通公狼则更加可怕。\n　　但既然夫子在旁，它便认为",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "那只瘦弱公狼一动不动任由夫子抚摸，身体微微颤抖，显得非常激动，非常幸福。夫子看着说道：“也不知道以后还能不能见到你，所以让你过来。”\n　　桑桑这时候走了过来，听着夫子的话，不知为何，觉得有些心酸。\n　　夫子看着她说道：“这便是棠棠那只小白狼的父母。”\n　　桑桑这才知道，为何先前那只雪原母狼会流露",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "心的是肉，我现在吃肉没滋味了！”\n　　宁缺抬起袖子，擦掉脸上的唾沫星子和油花星子，悻悻然想着，老师的脾气越来越大，莫不是先前和光明神将打那一架累着了？\n　　一念及此，他哪里还有什么不满，赶紧和桑桑一起小意服侍夫子吃肉喝酒。\n　　盛汤的时候，桑桑轻声安慰他道：“都说老小老小，人年纪老了，脾气就会变得和",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "第六十四章 万里之行只为吃\n　　羊肉吃着不像羊肉，但终究还是肉，有肉吃，终究还是幸福的事情，所以夫子烦恼愤怒之后，还是只有继续吃肉，只不过吃的时候，不停哀声叹气，看着手里的羊肉叹气，看着桑桑叹气，看着天空叹气。\n　　桑桑不理解这是怎么了，宁缺也不理解，拍了拍她的肩膀，示意没有什么",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

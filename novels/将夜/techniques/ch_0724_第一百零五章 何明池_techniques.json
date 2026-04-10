@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 724,
+  "chapter_title": "第一百零五章 何明池",
+  "filename": "ch_0724_第一百零五章 何明池.txt",
+  "char_count": 2251,
+  "timestamp": "2026-04-10T12:11:27.026412",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "不喜欢乱，所以这场混乱无论以什么方式结束，必然会很快结束。”\n　　“殿下，这时候再做口舌之争还有什么意义呢？”\n　　何明池看着她微笑说道：“就像掌教大人给您的那封亲笔信里所说，您是应劫之人，唐国的这场大劫便落在你的身上，您的私心和贪欲便是这场大劫的所有起因，您自已根本无法跳出劫前，那么便投降吧。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "激荡不安，脸色苍白喃喃问道：“你是神殿的人，你居然是西陵神殿的人……那你先前为何要在御花园里救我？你为什么要救大唐的皇帝？”\n　　何明池看着他怜悯说道：“像陛下如此荒唐的皇帝，对我道门来说便是最好的朋友，您活着那当然比死了更有价值。”\n　　“虽然最近殿下的表现，令所有人都感到有些意外，但您的能力还是",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，也已经离开，这场混乱一旦开始，便谁也无法结束。”\n　　李渔说道：“看来神殿确实不了解我们唐人的行事风格，我们不喜欢乱，所以这场混乱无论以什么方式结束，必然会很快结束。”\n　　“殿下，这时候再做口舌之争还有什么意义呢？”\n　　何明池看着她微笑说道：“就像掌教大人给您的那封亲笔信里所说，您是应劫之人，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的姿态，无疑是对榻畔那对姐弟最大的羞辱。\n　　走出宫殿，借着黎明前最深沉的夜色，他走到了御花园深处，来到那幢小楼前，抬头看了一眼将落雨的天，将黄纸伞撑开。\n　　黄纸伞先前徐崇山连击两拳，已经破损的很严重，撑开之后，看着有些滑稽，但伞面此时透出的那道气息，却是那般的神圣庄严。\n　　随着撑伞的动作，小楼",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "自已错了，但已经做了能怎么办！我怎么会知道他是道门的人！李青山那个老贼骗了我们！”\n　　李渔气的浑身颤抖，脑海里一片晕眩，险些昏倒。\n　　“姐姐，姐姐。”\n　　李珲圆从榻上爬起身来，用没有受伤的手，紧紧抓住她的手，颤着声音说道：“现在没有别的办法了，我们只能向神殿投降。”\n　　李渔看着他，忽然发现自",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "摇了摇头，说道：“书院撑不住大唐，那我就只好继续撑着，一直撑到撑不住为止。”\n　　“撑不住了。”因为紧张恐惧和惘然，李珲圆的声音就像是压扁了的麻布，极为嘶哑难听，“就算镇南军不去北方，也要绕过崤山才能到青峡，西陵神殿的大军现在已经过了大泽，马上便要过青河郡，马上就要直逼长安……”\n　　李渔无力地低着",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的麻布，极为嘶哑难听，“就算镇南军不去北方，也要绕过崤山才能到青峡，西陵神殿的大军现在已经过了大泽，马上便要过青河郡，马上就要直逼长安……”\n　　李渔无力地低着头，说道：“长安城破不了。”\n　　李珲圆颤声说道：“他们不用破，只用把长安城围住，城里这么多人，哪里有粮食可以吃？”\n　　李渔抬起来，伸手轻",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，殿下也应该没有什么能力留下我。”\n　　说完这句话后，何明池转身向殿外走去，他的速度并不快，似乎毫不担心李渔喊来侍卫，这种平静的姿态，无疑是对榻畔那对姐弟最大的羞辱。\n　　走出宫殿，借着黎明前最深沉的夜色，他走到了御花园深处，来到那幢小楼前，抬头看了一眼将落雨的天，将黄纸伞撑开。\n　　黄纸伞先前徐崇",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第一百零五章 何明池\n　　李渔过了很长时间，才转过身去，动作显得有些迟缓，是因为疲惫。她看着何明池说道：“看来今夜长安城的混乱，也是你一手造成的。”\n　　“不错。”\n　　何明池说道：“如今长安城就像个虚弱的病人，我最忌惮的朝小树，也已经离开，这场混乱一旦开始，便谁也无法结束。”\n　　李渔说道：“看",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "降吧。”\n　　李渔说道：“你虽然假扮唐人这么多年，但还是和神殿一样不了解我们唐人……在我们的世界里，从来没有投降这两个字。”\n　　何明池鼓起掌来，掌声清脆，说道：“掷地有声，却空洞无物。昊天不可战胜，道门永世长存，夫子都死了，先帝也驾崩了，就凭现在的唐国，还能做些什么？我答应过家师，要让唐人少流些血",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "已经做了能怎么办！我怎么会知道他是道门的人！李青山那个老贼骗了我们！”\n　　李渔气的浑身颤抖，脑海里一片晕眩，险些昏倒。\n　　“姐姐，姐姐。”\n　　李珲圆从榻上爬起身来，用没有受伤的手，紧紧抓住她的手，颤着声音说道：“现在没有别的办法了，我们只能向神殿投降。”\n　　李渔看着他，忽然发现自已根本不认识",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "有任何自信能去书院里取东西。\n　　不过他取不到，不代表世上没有人能够取到。\n　　……\n　　……\n　　安静的宫殿里，响起一声清脆的耳光声。\n　　李珲圆捂着红肿的脸颊，唇角淌下一道鲜血。\n　　他恐惧地看着自已的姐姐，哭着嘶喊道：“我知道自已错了，但已经做了能怎么办！我怎么会知道他是道门的人！李青山那个老",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

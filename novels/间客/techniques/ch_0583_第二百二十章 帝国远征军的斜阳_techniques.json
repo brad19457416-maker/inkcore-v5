@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 583,
+  "chapter_title": "第二百二十章 帝国远征军的斜阳",
+  "filename": "ch_0583_第二百二十章 帝国远征军的斜阳.txt",
+  "char_count": 3546,
+  "timestamp": "2026-04-10T12:05:08.572734",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "不是要惩罚东方沛见死不故，而是为了惩罚他在临阵指挥时的愚蠢，同时敲打这些下屑在事涉自己时因枉热而显得危险的冲动。\n\n    从一名中校团长变成了中狡勤务兵，在别人看来或许是极在的屈辱，但东方沛却全然没有这种概金，能够像十年前那样重新跟在师长的身边，他觉得很开心。\n\n    铁七师就是由这样的一群人组",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "泥扑向不见已久的南方。\n\n    最大的三片平原已成汪洋，南半球丘陵区的夏季却下起雪来，覆盖数千公里天空的阴沉云层被烈风席表的丝丝根起，卷成奇形怪状的模样，窑集的巨大闪电在云中不停闪动，将阴沉湿冷的天撕扯的柔不堪弄，其后雷声轰鸣砸下，让整个大地都开始颤抖。\n\n    在这种地狱般的环境中，唯一能够让",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "殴打一名可恶的同袍军官？\n\n    联邦的胜利来的如此突然，突然到没有几个人做好了思想准备，食堂里的众人僵硬了很久，才醒过神来，纵情欢呼声代替了咒骂，不停被扔至半空中的军帽代替了先前的椅腿桌面，所有官兵兴奋地握拳叫嚷着，与身边能够捉到的第一个人热情拥抱，互拍后背。\n\n    长时间的欢呼之后，军人们",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "问父亲，你当时在做什么，难道说当时自己正在尽情殴打一名可恶的同袍军官？\n\n    联邦的胜利来的如此突然，突然到没有几个人做好了思想准备，食堂里的众人僵硬了很久，才醒过神来，纵情欢呼声代替了咒骂，不停被扔至半空中的军帽代替了先前的椅腿桌面，所有官兵兴奋地握拳叫嚷着，与身边能够捉到的第一个人热情拥抱，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "模样，窑集的巨大闪电在云中不停闪动，将阴沉湿冷的天撕扯的柔不堪弄，其后雷声轰鸣砸下，让整个大地都开始颤抖。\n\n    在这种地狱般的环境中，唯一能够让留守联邦官兵们感到有些阳光灿烂的，就只有另外两个星系战场不时传来的好消息，当然，至于轶七师的官兵们心情有多复杂，就不为外人所知。\n\n    如同新十七",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "事行动打的如此惨烈，然而就这样传束了？帝国人就这样被赶出了联邦？以后孩子们要问父亲，你当时在做什么，难道说当时自己正在尽情殴打一名可恶的同袍军官？\n\n    联邦的胜利来的如此突然，突然到没有几个人做好了思想准备，食堂里的众人僵硬了很久，才醒过神来，纵情欢呼声代替了咒骂，不停被扔至半空中的军帽代替了",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "邦输送了无数将星的十七师，绝对不会把铁七师放在眼中，侦是争勇斗狠都不屑去做，然而因为那个叫杜少卿的人出现，两个王牌师侦开始对等起来。\n\n    因为地位相近，那些经年已久的历史思怨，才会找到合适的舞台重新上演，在地面战丰中，两支部队之间的隐性磨擦便一直不断，妆军功比战绩这些看似幼菲但在军营中最为重要",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "然而在这颗行星地表和太空中，铁七师的身边还有新十七师一一继承了军神部队光荣历史的新组部队，从进入前线后，侦开始释芒四射，连战连捷，气势大威。\n\n    如果换成以前，拥有李匹大老师长，向联邦输送了无数将星的十七师，绝对不会把铁七师放在眼中，侦是争勇斗狠都不屑去做，然而因为那个叫杜少卿的人出现",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "他想借此对某些方面做出交持以平息事瑞，也不是要惩罚东方沛见死不故，而是为了惩罚他在临阵指挥时的愚蠢，同时敲打这些下屑在事涉自己时因枉热而显得危险的冲动。\n\n    从一名中校团长变成了中狡勤务兵，在别人看来或许是极在的屈辱，但东方沛却全然没有这种概金，能够像十年前那样重新跟在师长的身边，他觉得很开心",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "响联邦反帝国的第一战，我师许乐中校如果不帮忙，你们这些枪能打响吗？？\n\n    既然提到到了许乐，所以后面的争吵自然展为：\n\n    我师有五级王牌机师，我师有许乐中校。\n\n    我师有多少台最新式的mx机甲，我师有许乐中校。\n\n    我师在十几年前的军演和毕业日军演中都赢了你师，我师只出动许乐",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "……\n\n    正激烈之时，忽然间食堂堂角落里的扬声器响了起来，听着扬声器里的声音，斗殴双方鄂然缓缓住手，下意识扔掉手中的桌椅或是筷子，怔怔地看着扬声器。\n\n    扬声器里并不是杜少卿冷咧的怒斥，也不是正在睡觉的许乐中校恳言相请，而是太空战舰转来的最新战报。\n\n    “联邦都队已经全境收复3",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "有所盼，唇盾泛起一丝自信的微笑。\n\n    “师长，有什么高兴的事情吗？”站在房间角落里的东方沛好奇问道。\n\n    联邦部队都知道，少卿师长有一对忠诚无比的下属，那就是近卫营营长西门谨和强攻团团长东方沛。如今西门谨因为某些原因被捉前调离前线，撤回都星圈，而东方沛则是因为青龙山都队遇伏一事，身上的军",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

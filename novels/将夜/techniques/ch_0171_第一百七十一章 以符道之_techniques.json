@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 171,
+  "chapter_title": "第一百七十一章 以符道之",
+  "filename": "ch_0171_第一百七十一章 以符道之.txt",
+  "char_count": 4513,
+  "timestamp": "2026-04-10T12:11:12.009927",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "枯叶间的脉络是符，留在大道泥地上的车辙是符，野兽体内的血管是符，水流动的轨迹是符，风拂动的流痕是符，大地干裂的缝隙上符，云在碧空也是符。”\n　　极简单的话，极清楚的说法，宁缺听的震惊无语，半晌说不出话来，按照颜瑟大师的说法，世间一切痕迹都是符，这种理念已经完全超出了他的思维境界！\n　　沉默很长时间后",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "“然而人类无论修行还是研习符道，已然超出人在天地间的原本使命，也就是说超出了生存的需要，所以真正意义上的符道必然是来源于自然，却一定要高于自然。”\n　　宁缺沉默倾听，隐隐然觉得大师这番讲述虽然说的是符道，却蕴含着很多了不起的道理。\n　　颜瑟大师将杯中残茶饮尽，看着他继续说道：“来于自然却高于自然",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "但比水更轻……更空，更像是风，但不可能是风。”\n　　颜瑟大师看着车厢旁的宁缺，眉头缓缓蹙起，问道：“为什么不可能是风？”\n　　宁缺沉默片刻后回答道：“因为……符纹上的元气流淌太有规律，仿佛按照某种既定的路线在走，就像是在某个完整的系统之内，而风是空气的流淌，不应该这么规律。”\n　　颜瑟大师紧蹙着的眉",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "道何如？至高大道虚无缥缈，如何去寻？符道二字的意思其实很简单，那就是以符道之。”\n　　以符道之？宁缺心想这是什么意思，却怎么也想不明白。\n　　“符是什么？符是纹路，是线条，是痕迹。”\n　　颜瑟大师渐渐敛了笑容，神情严肃看着他说道：“蛇过沙堆爬行的轨迹是符，枯叶间的脉络是符，留在大道泥地上的车辙是符，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "东西――那层东西很薄很薄，就像是一层无形的膜间隔在指头与车厢板之间。\n　　稍一分念，感知到的那层薄膜瞬间消失不见。\n　　宁缺沉默片刻，进入自己最擅长的冥想状态，重新开始用念力感知天地元气最细微的变化，果不其然，那层无形的薄膜再次出现在他的手指与车厢板间。这一次他的准备更加充分，感知更加细腻，竟清晰地",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "受不到丝毫颠簸，而软索前方那匹孤伶伶的骏马，也不知道怎样载的动这多重量。\n　　颜瑟看着他脸上的神情，说道：“你似乎在思考什么事情。”\n　　宁缺转过头来，看着这位浑身污脏的老道士，犹豫片刻后问道：“我在想，这辆马车上面刻的是什么符，居然能够让重量减轻，简直就像是魔法一样。”\n　　他没有问马车上是不是刻",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "片刻，进入自己最擅长的冥想状态，重新开始用念力感知天地元气最细微的变化，果不其然，那层无形的薄膜再次出现在他的手指与车厢板间。这一次他的准备更加充分，感知更加细腻，竟清晰地感觉到那层薄膜正在缓慢地流淌。\n　　颜瑟大师的声音在他的耳畔响了起来：“你感觉到什么。”\n　　宁缺认真感受，沉默很长时间后认真回",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "层无形的膜间隔在指头与车厢板之间。\n　　稍一分念，感知到的那层薄膜瞬间消失不见。\n　　宁缺沉默片刻，进入自己最擅长的冥想状态，重新开始用念力感知天地元气最细微的变化，果不其然，那层无形的薄膜再次出现在他的手指与车厢板间。这一次他的准备更加充分，感知更加细腻，竟清晰地感觉到那层薄膜正在缓慢地流淌。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "在长安城某处道观外看着某位老道演戏法般烧了张符，宁缺没有更多的了解，但坐在这辆材质由精钢铸造本应极为沉重的马车里，他隐约感觉到自己已经身处符道的世界之中――无论这辆马车行驶的多迅疾，车厢里的人竟是感受不到丝毫颠簸，而软索前方那匹孤伶伶的骏马，也不知道怎样载的动这多重量。\n　　颜瑟看着他脸上的神情，说",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，基本上是不可能完成的任务。\n　　不过颜瑟大师既然要他去感受，想来应该是种考核。\n　　他沉思片刻后，缓缓闭上双眼，抬起手臂用指尖轻轻拂过那些深刻入钢的符饰。\n　　忽然间他的眉头皱了起来。\n　　先前他睁眼去看时，车厢板上的繁复纹饰没有任何异样，此刻当他闭上眼睛，用念力操控天地元气去感知时，却发现自己的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "：“来于自然却高于自然之符，必须经过几个过程：临摹，会意，归纳，简化，提纯，赋意趣。所谓符，便是人类无数年来从自然之符中学习并且提取精华的那些线条痕迹。”\n　　宁缺替大师将茶杯斟满，坐回原地请教道：“那什么是道？”\n　　“道就是知道。”\n　　“让谁知道？”\n　　“让天地元气知道。”\n　　宁缺怔然，不",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

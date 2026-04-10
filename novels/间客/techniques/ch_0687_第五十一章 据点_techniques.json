@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 687,
+  "chapter_title": "第五十一章 据点",
+  "filename": "ch_0687_第五十一章 据点.txt",
+  "char_count": 3290,
+  "timestamp": "2026-04-10T12:05:08.597252",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "这些大汉身形魁梧，肌肉达，手里不停拨弄着明显违禁的重火力枪械，更令人警惧的是这些人身上所散出来的那股危险气息，那股不怎么把人命当回事儿的狂热气息。\n\n    许乐在意的是这些人目光里所流露出来的情绪，厌恶、轻蔑、嘲讽、残忍……这种情绪他很熟悉，在西林战场上，他经常能够看到帝**人对联邦人投射出相同的",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "精锐部队的捕杀，他依然能够好好地活着，并且努力地奔走着。\n\n    只是奔走总需要目标，他的目标毫无疑问是回到联邦，回到家乡。原先他将全部的希望，都寄托在大师范府中可能有的飞船以及某艘可能存在的越当前技术水平的飞船之中，只可惜这些本就有些虚无缥渺的希望，被那个疯狂的文艺中年全部撕成了碎片，甚至还险些",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "大师范，而是用这种近乎顽童玩笑的方式，将大师范赤身**的吊了起来？\n\n    大师范囚禁他和怀草诗，最终是想让他们赤身**相枕而眠，那个让大师范变成可怜倒悬男的人，这种处理方式看上去……更像是对大师范这种疯狂企图的嘲弄和报复。\n\n    对，就是报复，是站在自己和怀草诗立场上的报复！\n\n    阴暗",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "路了，那个神秘势力留下一条路，那么好，便简单地走上去便好，再怎样凶险的阴谋诡计，大概也没有帝国皇室的愤怒恐怖。\n\n    更何况那个深藏在他心中的猜想，也需要与那个神秘势力接触加以印证。\n\n    轻轻敲醒沉睡的院门，过了片刻，有一个面无表情的中年大婶把他带了进去。看着这个似乎并不怎么欢迎自己的大婶",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "大的反对派力量，要知道去年的贵族叛乱有那位亲王殿下的参予，结果在帝国恐怖的独裁机器之下，也只能得到个风吹雨打烟尘散的可怜下场。\n\n    不解的疑问还有很多。\n\n    如果那个神秘势力真的是站在皇室的对立面，为什么当时他们没有杀死怀草诗，甚至没有帮助自己杀死怀草诗的一丝痕迹？为什么他们没有杀死大师",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "他的目标毫无疑问是回到联邦，回到家乡。原先他将全部的希望，都寄托在大师范府中可能有的飞船以及某艘可能存在的越当前技术水平的飞船之中，只可惜这些本就有些虚无缥渺的希望，被那个疯狂的文艺中年全部撕成了碎片，甚至还险些因此而丧命。\n\n    虚无缥渺的希望都不复存在了，怎样才能回家？现在该去哪里？",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "了那个看似疯癫但绝对不简单的大师范，然后这个神秘势力居然能够留下一台狼牙机甲，并且让严密的帝国包围圈出现了一道裂缝！\n\n    依照许乐掌握的历史知识分析，像白槿皇朝这样的集权帝国内部，无论如何也不可能出现如此强大的反对派力量，要知道去年的贵族叛乱有那位亲王殿下的参予，结果在帝国恐怖的独裁机器之下，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "暗地下道中傻笑爬行的许乐，此时真的很像一只皮毛上挂满了黑泥的大老鼠，所以哪怕单身处于帝国之中，面临着无数精锐部队的捕杀，他依然能够好好地活着，并且努力地奔走着。\n\n    只是奔走总需要目标，他的目标毫无疑问是回到联邦，回到家乡。原先他将全部的希望，都寄托在大师范府中可能有的飞船以及某艘可能存在的越",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，我都不怎么看好你们……”\n\n    就在这时候，一直坐在椅中背对他的那个男人微笑着开口说道：“不用担心我们的纪律性，虽然包括我在内的所有人，都很讨厌联邦人，但…………他们是我的兄弟，没有经过我同意，这里不会有任何人出卖你。”\n\n    男人站起身来，望着许乐微微一笑，继续说道：“另外在这里你也不再",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "够看到帝**人对联邦人投射出相同的目光。\n\n    “看来，你们很清楚我的身份……”他站在场地中间，说道：“而且你们似乎并不欢迎我，不过说实话，不管你们是什么来历，想和我怎么合作，我都不怎么看好你们……”\n\n    就在这时候，一直坐在椅中背对他的那个男人微笑着开口说道：“不用担心我们的纪律性，虽然",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "大，强大到他甚至有些不敢相信。\n\n    在无数帝国部队的重重包围中，那个神秘势力居然能够悄无声息地进入大师范府，没有惊动任何人就制伏了那个看似疯癫但绝对不简单的大师范，然后这个神秘势力居然能够留下一台狼牙机甲，并且让严密的帝国包围圈出现了一道裂缝！\n\n    依照许乐掌握的历史知识分析，像白槿皇朝",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

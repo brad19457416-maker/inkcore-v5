@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 780,
+  "chapter_title": "第一百四十四章 是这样的（下）",
+  "filename": "ch_0780_第一百四十四章 是这样的（下）.txt",
+  "char_count": 2615,
+  "timestamp": "2026-04-10T12:05:17.595063",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "最 隐秘的敌人是李在道，震惊之余有些许失落，但更多的却是知晓答案之后的平静有力，有很多曾经想不明白的疑问，至此迎刃而解。\n\n    来自西林的战舰坚定地向都星圉飞去，无论遇到怎样的阻碍，只要继续飞，那么总有飞到的那一天，对于现在的许乐来说，他最担心的事情其实是怕布尔总统的安全。\n\n    按道理论，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "死人太 多，战友们经常在自己眼拼死去，所以这次小爷死了，我居然没有太伤心，也没有什么愤港到不可抑止的愤怒。”\n\n    “是这样的，我感觉自己回都星圈，就真的只是来送他一程。”许乐耸耸肩，认真说道：“这种平静甚至让我觉得有些不可思议和羞愧。”\n\n    中央电脑平静答复道：“根据我的观察，其实你的伤",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "说我成熟，也可以说我有了老朽气。”许乐用力皱着眉头，望着前面被自己军靴追赶踩踏，却一直踩不死的影子，说道：“也许是因为在前线看到的死人太 多，战友们经常在自己眼拼死去，所以这次小爷死了，我居然没有太伤心，也没有什么愤港到不可抑止的愤怒。”\n\n    “是这样的，我感觉自己回都星圈，就真的只是来送他一",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "续飞，那么总有飞到的那一天，对于现在的许乐来说，他最担心的事情其实是怕布尔总统的安全。\n\n    按道理论，军方激进派再如何丧心病狂，也不可能冒着这样的风险去针对联邦的民选总统，但许乐见过那些人做过大多不可理喻的事情，尤其是他最近这段时间一直没有办法与总统先生直接联系，总是被那位官邸办公室主任隔阻在",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "。\n\n    “实在是难以想像。”有些笨拙地吹去茶杯上的热气与浮渣，小心翼翼喝了一口，许乐在心中默然感慨道，怎样也无法将那位满身学者风度的将军和激进派领袖联系起来。\n\n    李在道，联邦军神李匹夫的独子，在联邦内部矛盾逐渐显现的宪历七十年代初，被包括许乐、莫愁后山在内的很多人认为是能够带领联邦部队",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "着窗外亘古不变又似乎随时在变的太空景致，双手捧着微烫清茶的他沉就思考着，从最近选段时间的事情，比如长风基地不通行证，尤其是那三艘不惜一切代价也要杀灭，自己看来，激进派在联邦军方的势力显得越来越强，这一点看上去似乎有些不符合逻辑。\n\n    他从上衣口袋里摸出电话，看着那封施清海自宪章广场的短信，浓墨",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "舰坚定地向都星圉飞去，无论遇到怎样的阻碍，只要继续飞，那么总有飞到的那一天，对于现在的许乐来说，他最担心的事情其实是怕布尔总统的安全。\n\n    按道理论，军方激进派再如何丧心病狂，也不可能冒着这样的风险去针对联邦的民选总统，但许乐见过那些人做过大多不可理喻的事情，尤其是他最近这段时间一直没有办法与",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "内部矛盾逐渐显现的宪历七十年代初，被包括许乐、莫愁后山在内的很多人认为是能够带领联邦部队和缓步入变革时代的最佳对象，所以非常乐意看到他接过迈尔斯上将那两个最重要的军事职务。军神李匹夫也是这样认为并且安排的。\n\n    然而造物主似乎真的很喜欢开玩笑，这位满身学者风度的温和派将军，居然摇身一变，就成了",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "队员们走去，o\n\n    背着双肩背包的年轻军官，自万里之外归来，一路披星尘日影，站舷窗之前一摇头，无数弹痕如破风筝乱飞，一低，联邦战舰变成没有动力的破铜烂铁，挺直了身躯，没有流泪，为的就是给朋友送行或是问一个道理。是的，当时的情况就是这样的。\n\n    （这章 只有两千多 了，写的大吃力，不知道为",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "双肩军用背包，仔细地检查完装备后，背了起来，用力地系了胸前的纤维拉带。\n\n    几分钟后，他一个人离开了这艘次羽级战舰，顺着幽深的地下通道向旧月基地里走去，全合金拼接的地下通道反射着幽白的光芒，将旧月地表的寒冷与真空隔绝在外，也把所有声音隔绝在外。“几年前和李疯子在卡琪峰顶做试机战时，我好像走过这",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

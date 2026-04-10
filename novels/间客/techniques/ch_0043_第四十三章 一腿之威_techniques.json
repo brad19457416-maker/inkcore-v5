@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 43,
+  "chapter_title": "第四十三章 一腿之威",
+  "filename": "ch_0043_第四十三章 一腿之威.txt",
+  "char_count": 3349,
+  "timestamp": "2026-04-10T11:53:11.045234",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "顿时僵住。\n\n    ……\n\n    ……\n\n    房间里拳脚破风之声骤然而起，骤然而停，不过是转瞬间的功夫，许乐的身边便已经倒下了三人。啪啪啪啪，两个进步，双手一封一错，干净利落地欺身而入，再次打倒两人，许乐双腿一错，退回了床边，警惕地扫视着四周。转瞬间击倒五人，本已受了伤的他已经感到了疲惫，因",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "讽说道：“这小兔崽子，害老子担了这么久的心，被打一顿算是轻的了。”\n\n    “对了，那小子叫许乐？为什么这名字总听着有些耳熟，像是在哪里听过一样。”胖子船长打了个呵欠，回头看了不远处的房间一眼。\n\n    这些天他将那些西林军校的高材生骂的狗屎不如，那些骄傲的年轻军官心里早就窝了火，和许乐单独呆在",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "跟在他身边的秘书却是心头一惊。他很清楚自己服务的船长看上去只是个普通的胖子，但实际上，当年是第四军区最强悍的特种尖兵，而且不是莱克他们那种特种机甲小队成员，是真正的军区暗中王牌，深得司令大人的信任倚重，不然军区也不可能将古钟号交给他管理，也不会放心让船长送小姐去首都星上学。就说先前那一腿，秘书清楚，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "：“一般的人才，虽然宝贵，但哪里都有，真正的天才却是难找，那小子既然不是司令想找的好材料，留他也没有意义。”\n\n    “哪种天才？”秘书不懂。\n\n    “老李家那种。”船长苦涩地笑了声，“咱联邦修身的天才，似乎都在他家。”\n\n    秘书笑着说道：“那可不是，谁让他家老爷子是那位。 ＷＷw.xi",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "傲的年轻军官心里早就窝了火，和许乐单独呆在一起，这么长的时间过去，房间里想来已经**烧了许久——船长心想，那个小伙子大概已经被揍成了猪头，该去结束这一切了，不然万一军校里那些吃屎长大的学弟真的一旦没收住手，打出个好歹来，明天怎么向小姐交待？\n\n    船长推开了舱门，带着秘书走了进去，然后脸上的神情",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，再也抓不住，只能悲哀地等待着被这粗腿扫中的结果。\n\n    本能，依旧是熟悉成了本能的反应，在这最危险的关头，让那道神奇的颤抖，从许乐每一对缠绕成丝的肌肉纤维里发出，汇聚成一股巨大的力量，传递到他的手臂上，手指上……然而在同一瞬间，理智，机修师封余最欣赏他的冷静起了作用，他放弃了体内的颤抖，释放了",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，带着秘书走了进去，然后脸上的神情顿时僵住。\n\n    ……\n\n    ……\n\n    房间里拳脚破风之声骤然而起，骤然而停，不过是转瞬间的功夫，许乐的身边便已经倒下了三人。啪啪啪啪，两个进步，双手一封一错，干净利落地欺身而入，再次打倒两人，许乐双腿一错，退回了床边，警惕地扫视着四周。转瞬间击倒五人",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "等待着被这粗腿扫中的结果。\n\n    本能，依旧是熟悉成了本能的反应，在这最危险的关头，让那道神奇的颤抖，从许乐每一对缠绕成丝的肌肉纤维里发出，汇聚成一股巨大的力量，传递到他的手臂上，手指上……然而在同一瞬间，理智，机修师封余最欣赏他的冷静起了作用，他放弃了体内的颤抖，释放了力量，任由船长的粗腿扫了",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "门？哈哈哈哈……”\n\n    秘书没有笑，船长也收了笑声，咳了两声后说道：“大概在东林呆久了，这小子性格也像东林人一样，就是块石头，性子太直太倔，必须磨磨他的性子，磨柔和一些。要让他知道，这个世界，不是一个劲儿地往前顶，就能有光明未来的。”\n\n    “你要让他知道实力权力为先？这是在毒害有志青年。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "长冷漠地制止了她的话语，缓缓地走到许乐的身前，看着这个蹲在地上，像无辜白兔一样蒙着头的少年，心里泛起无数的疑惑，这个少年究竟是什么人？十八岁的退伍军人并不少见，可是能够在这么短的时间内击倒五名军校优秀士官，这就太不可思议了。要知道西林军校虽然不是联邦最顶尖的军事学院，可是里面的优秀士官随便放到哪个部",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，挡在了那条恐怖粗腿的前方。\n\n    忽然从一名肥胖船长变身为冷面粗壮杀人机器，忽然而至的那条腿很轻松地震荡起恐怖的呼啸声，挟着令人震惊的力量，非常轻松地突破了许乐勉强挡在最前面那只手臂，以肉眼也看不清楚的速度，扫到了许乐护在面门前的最后一只手臂。\n\n    一片残影里，除了船长和许乐两个人之外，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "了一跳，马上解释道：“嫌疑人出手伤人，我们……”\n\n    没有等她说完，船长冷漠地制止了她的话语，缓缓地走到许乐的身前，看着这个蹲在地上，像无辜白兔一样蒙着头的少年，心里泛起无数的疑惑，这个少年究竟是什么人？十八岁的退伍军人并不少见，可是能够在这么短的时间内击倒五名军校优秀士官，这就太不可思议了。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "一些。要让他知道，这个世界，不是一个劲儿地往前顶，就能有光明未来的。”\n\n    “你要让他知道实力权力为先？这是在毒害有志青年。”秘书不赞同地摇了摇头，“难怪你要那些军校生看管他，只怕呆会儿那年轻人要被揍惨，就算要让他知道现实的恐怖，也没必要让他头破血流，小姐问起来怎么办？你说司令对他也感兴趣，他",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "然那股强大的力量，足以将许乐踢的吐血昏迷。沉默片刻之后，胖子船长皱了皱眉头，缓缓收回右腿，头也不回地走出了房间。\n\n    “那小子水准不错，不过……很可惜不是那种天才。”胖子船长懒洋洋地走在走廊中，语气里似乎有些遗憾。\n\n    这个评语似乎很一般，一直跟在他身边的秘书却是心头一惊。他很清楚自己服",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "后说道：“大概在东林呆久了，这小子性格也像东林人一样，就是块石头，性子太直太倔，必须磨磨他的性子，磨柔和一些。要让他知道，这个世界，不是一个劲儿地往前顶，就能有光明未来的。”\n\n    “你要让他知道实力权力为先？这是在毒害有志青年。”秘书不赞同地摇了摇头，“难怪你要那些军校生看管他，只怕呆会儿那年",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“难道这小子新兵的时候被人走过后门？哈哈哈哈……”\n\n    秘书没有笑，船长也收了笑声，咳了两声后说道：“大概在东林呆久了，这小子性格也像东林人一样，就是块石头，性子太直太倔，必须磨磨他的性子，磨柔和一些。要让他知道，这个世界，不是一个劲儿地往前顶，就能有光明未来的。”\n\n    “你要让他知道实",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

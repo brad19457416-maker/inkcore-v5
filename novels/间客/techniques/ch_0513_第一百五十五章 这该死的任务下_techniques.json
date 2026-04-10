@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 513,
+  "chapter_title": "第一百五十五章 这该死的任务下",
+  "filename": "ch_0513_第一百五十五章 这该死的任务下.txt",
+  "char_count": 3590,
+  "timestamp": "2026-04-10T12:05:08.536041",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "微有杂噪，。一个略显慌乱的女人声音回答道：“耐心一些，应该……来得及。”\n\n    “只是操作规范，为什么这么大？难道你们蠢到把全部文件打包发了过来，赶紧分割了！”许乐愤怒地质问道。\n\n    远在太空战舰中的那位宪丨章局白副主任有些恼羞成怒，冷冰冰说道：“这是一级权限文件，铺网操控只有临时部分授权",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "……\n\n    ……\n\n    幽暗间只有眯着的双眼异常明亮的许乐，并没有时间去感慨先前一路上的危险恐惧，他用军刺快速地将那些落叶腐质扒拉开，在那面高强度合金面板上输入了控制密码——这个基地的物理掩饰应该是别的小组做的活儿，那些同行的手法很老道，却无法瞒过他的眼睛，他甚至比腕表电侦更早一步发现目",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "落叶烂果腐质，非常绵软，他一屁股坐了下来，很困难地慢慢让呼吸平静，让身躯里令人发疯般的酸楚渐渐散去，同时通过腕表上的定位系统，确认了这里便是自己苦苦寻觅的地方。\n\n    山谷里一片幽暗，只有林梢最高处的枝叶偶尔能反射几道远处的金光，他没有做任何休整，从腰间拨出军刺，眯着眼睛盯着腕表上的微弱电子信号",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "。”\n\n    “只是操作规范，为什么这么大？难道你们蠢到把全部文件打包发了过来，赶紧分割了！”许乐愤怒地质问道。\n\n    远在太空战舰中的那位宪丨章局白副主任有些恼羞成怒，冷冰冰说道：“这是一级权限文件，铺网操控只有临时部分授权，我们没有权限，看都没有办法看，当然不能分割。”\n\n    “蠢货！",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "动的进度条，在心中有些怅然地想道，只可惜这颗沦陷星上的宪丨章网络还没有启动，就连最底层的监控网络都不存在。\n\n    此时哪怕有一道东林大区围困野牛的电子围墙，许乐也相信自己能够联络上那台万能的中央电脑，想到此节，他疲惫的脸上闪过一丝狠色，呼的一声从背包里取出备用的小静农能量棒，连在了卫星电话上。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。”\n\n    看来军用卫星电话里，果然有能够监控人类芯片的核准芯片，许乐知道自己赌赢了一半，他强行压抑下内心的激动，在脑海中快速说道：“铺网基点问题，你自己查，然后把技术操作手册给我，用最快的方法。”\n\n    联邦中央电脑快速地在他左眼里浮现一行字符：“这是一级权限绝密文件，你知道，我只是台可怜",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "增涨，许乐却根本不在乎这个，他盯着电话，在心中默默地呼叫道：“老东西，找到我！”\n\n    大概只是刹那之后，就像是星星眨了一下眼，他的左眼视界里出现了一个白色的光点字符。\n\n    “在。”\n\n    看来军用卫星电话里，果然有能够监控人类芯片的核准芯片，许乐知道自己赌赢了一半，他强行压抑下内心的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "怕暴露自己的踪迹，很嚣张，实际上却是一种绝望前最后的疯狂。\n\n    帝国话他听不懂，但他知道帝国人拼命撒在山脉里的无数支蚂蚁部队，真的很有作用，更令人头痛的是，联邦攻击的时间正在一步一步逼近。\n\n    “如果老东西在就好了。”许乐重新趴回地面，就像观察穴居动物起居的生物学家般，死死地盯着死死不动",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "行打开通道，开始进行联络。\n\n    此时距离约定的五分钟信号湮灭期还有三分多钟，电话那头传来战舰上人们的惊呼声，还有那个令人生厌的女官员紧张的尖锐怒斥：“你会曝露方位！我命令你马上关闭通道。”\n\n    就算许乐不主动关闭通道，太空中的指挥舰也能强行关闭通道，他盯着电话，用一种平静到令人心悸的口气",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "用袖子擦去脸上的汗水，黑糊糊的脸上露出体力将蝎的苍白颜色，他的唇间依然叼着那枝干瘪难看的香烟，被风干的唇早已裂开，渗出的鲜血混着灰尘涂抹在过滤嘴上，看着非常狼狈。\n\n    他从未如此这般不惜命地奔跑过。\n\n    这场在落矶山脉中与时间的赛跑，榨干了他体内所有的精神与力量，更可怕的是，原本被联",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "开，用了十几秒钟的时间，简单的几根金属丝，许乐强行加大了卫星电话的功率，信息片段强行穿过厚厚大气层，来到太空中的太空战舰，逆行打开通道，开始进行联络。\n\n    此时距离约定的五分钟信号湮灭期还有三分多钟，电话那头传来战舰上人们的惊呼声，还有那个令人生厌的女官员紧张的尖锐怒斥：“你会曝露方位！我命令",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "在大山里四处搜寻。\n\n    明明知道联邦正在准备大动作，却抓不到头绪，明明知道宪丨章网络这道绞索正缓缓落下，却不知道绞刑架的位置，帝国侵略者的指挥官和士兵们已经疯了，他们就像是找不到屋中厉鬼，只能听到鬼嚎的可怜女人，紧张地攥着剪刀在空气中胡乱激烈乱舞，却只能打到空气……\n\n    帝国人派出了残存",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "边用数据线连接着卫星电话，许乐看了一眼腕表，等着数字的跳动到某个约定的格数，毫不犹豫地按下电话按钮,说道：“开始传输数据……”\n\n    为了防止帝国电控部队监控到异常信号，确保这处基点的安全，他与太空战舰宪丨章局小组间的通讯每五分钟才开通一次，并且每次的时长严格控制在一分钟之内。\n\n    光屏上",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "默默地呼叫道：“老东西，找到我！”\n\n    大概只是刹那之后，就像是星星眨了一下眼，他的左眼视界里出现了一个白色的光点字符。\n\n    “在。”\n\n    看来军用卫星电话里，果然有能够监控人类芯片的核准芯片，许乐知道自己赌赢了一半，他强行压抑下内心的激动，在脑海中快速说道：“铺网基点问题，你自己",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "这一点。\n\n    ……\n\n    ……\n\n    幽暗间只有眯着的双眼异常明亮的许乐，并没有时间去感慨先前一路上的危险恐惧，他用军刺快速地将那些落叶腐质扒拉开，在那面高强度合金面板上输入了控制密码——这个基地的物理掩饰应该是别的小组做的活儿，那些同行的手法很老道，却无法瞒过他的眼睛，他甚至比腕表电",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

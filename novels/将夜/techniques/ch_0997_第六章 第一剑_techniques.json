@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 997,
+  "chapter_title": "第六章 第一剑",
+  "filename": "ch_0997_第六章 第一剑.txt",
+  "char_count": 2290,
+  "timestamp": "2026-04-10T12:11:27.649534",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "点，柳亦青以剑摧城，自然便再无法抵挡。\n　　轰的一声，皇城南向的城墙终于塌了，无数砖石落到地上，令到大地震动，无数烟尘升起，直向夜穹而去。\n　　这道崩塌的城墙，这些崩坏的砖石，上面都刻着南晋的历史，这些尘埃，都是历史的尘埃，充满了令人感伤的味道。\n　　烟尘令整个世界都变得昏暗起来，唯有那团昊天神辉，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "木立人的脸色有些苍白，神情有些惘然，清澈而坚定的眼眸里，写满了愤怒和不解，以及浓郁的羞辱感。\n　　“为什么？”他看着柳亦青问道。\n　　柳亦青隔着白布看着他，没有说话。\n　　横木立人知道柳亦青是个瞎子，但不知道为什么，他觉得此时白布下那双眼睛里写满了嘲弄和同情的情绪。\n　　“为什么？”他厉声喝道。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "落处。\n　　小皇帝看不到那道剑，但他能够看到柳亦青的目光，他的脸色变得越来越苍白，早已无法屏止呼吸，紧张地喘息着，觉得下一刻自己的肺便要炸开，心跳的越来越厉害，仿佛随时可能崩裂，他伸手捂住胸口，痛苦地开始吐血。\n　　横木立人的刀势至，空中发出滋滋的响声，那是火焰焚烧空气的声音，光明之前，挡着辟易，柳",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，忽然出现了无数道细密的裂纹，城墙青砖间崩落无数细碎的石粉，转眼间裂纹扩展，皇城将倾。\n　　城墙上的人们并不知道自己的脚下正在发生什么事情，南晋小皇帝的喘息变得越来越急促，心脏跳的越来越快，脸色变得越来越苍白。\n　　终于，有人听到了城墙裂开的声音，看到了那些恐怖的裂痕，发出惊慌的呼喊，武将与修行强者",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "有这样恐怖的一把刀。\n　　与之相反，横木立人的脸色有些苍白，神情有些惘然，清澈而坚定的眼眸里，写满了愤怒和不解，以及浓郁的羞辱感。\n　　“为什么？”他看着柳亦青问道。\n　　柳亦青隔着白布看着他，没有说话。\n　　横木立人知道柳亦青是个瞎子，但不知道为什么，他觉得此时白布下那双眼睛里写满了嘲弄和同情的情",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "你拼死守国门，但你怎能自己把国门打开？\n　　从那一刻开始，南晋的江山便变了颜色，临康的城墙不再有任何意义，那么无论是皇城的墙，还是潼安门的城墙都塌了吧。\n　　虽然你今年只有十三岁，虽然你是南晋皇室最后的直系血脉，虽然你喊了我数年老师，虽然你的品德可以称为善良，但还是死了吧。\n　　柳亦青是这样想的，也",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，被火光、尤其是昊天神辉照耀时，没有任何斑驳的感觉，就像颗黑色的宝石。\n　　这颗黑色宝石的表面，忽然出现了无数道细密的裂纹，城墙青砖间崩落无数细碎的石粉，转眼间裂纹扩展，皇城将倾。\n　　城墙上的人们并不知道自己的脚下正在发生什么事情，南晋小皇帝的喘息变得越来越急促，心脏跳的越来越快，脸色变得越来越苍",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "“为什么？”他厉声喝道。\n　　自从那场春风化雨后，横木立人对自己的实力境界从来没有产生过怀疑，他不认为人间有谁是自己的对手，但先前看着柳亦青一剑摧城，他必须承认，如果柳亦青把这一剑用在自己身上，那么自己应对起来也会有些麻烦。\n　　可是为什么？\n　　为什么柳亦青的第一剑不是刺向自己？难道在此人的眼里，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "不见事物，眼睛上蒙着白布，但他还是静静看着城墙上，握剑的手断了，剑跌落尘埃，但剑意早已破空而去，已经来到了城墙上。\n　　青石筑成的城墙，在夜色里泛着厚重的黑，被火光、尤其是昊天神辉照耀时，没有任何斑驳的感觉，就像颗黑色的宝石。\n　　这颗黑色宝石的表面，忽然出现了无数道细密的裂纹，城墙青砖间崩落无数细",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "像颗黑色的宝石。\n　　这颗黑色宝石的表面，忽然出现了无数道细密的裂纹，城墙青砖间崩落无数细碎的石粉，转眼间裂纹扩展，皇城将倾。\n　　城墙上的人们并不知道自己的脚下正在发生什么事情，南晋小皇帝的喘息变得越来越急促，心脏跳的越来越快，脸色变得越来越苍白。\n　　终于，有人听到了城墙裂开的声音，看到了那些恐",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "皇帝重要？还是说此人自大到以为可以用第二剑杀死自己？\n　　柳亦青仿佛感觉不到眉心前那道刀锋。\n　　他说道：“因为你不配。”\n　　横木立人觉得这是自己听到过的最好笑、最荒谬的一句话。\n　　柳亦青说道：“这是我的第一剑，所以哪怕你是西陵神殿的大人物，是整个道门寄予厚望的神子，依然不配。”\n　　横木立人说",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，横木立人握在手里，很稳定，他只需要向前一送，柳亦青便会死去，没有任何人能够改变这一切。\n　　柳亦青缓缓举起左手，擦拭到唇角浓稠的血水，神情很平静，仿佛自己的眉前根本没有这样恐怖的一把刀。\n　　与之相反，横木立人的脸色有些苍白，神情有些惘然，清澈而坚定的眼眸里，写满了愤怒和不解，以及浓郁的羞辱感。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

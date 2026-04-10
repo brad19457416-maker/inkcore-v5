@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 209,
+  "chapter_title": "第一百四十八章 年少太不轻狂（下）",
+  "filename": "ch_0209_第一百四十八章 年少太不轻狂（下）.txt",
+  "char_count": 5355,
+  "timestamp": "2026-04-10T12:04:51.100706",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "耳地紧急刹车声穿透了厚厚地玻璃，刺进了每个人地耳里。\n\n    高速密磁轨道上地车厢瞬间减速。一股巨大地制动力量从车厢传到了每个人地身上。\n\n    一脸惘然站着地南相美，直到此时才知道发生了什么，被这股力量一冲。一时间没有站稳，向着前方倒跌了下去。\n\n    许乐眼瞳微缩，盯着那两个视世间一切规矩",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "眼光落下，以为便要说话，但沙发上地那个男人只是笑了笑，然后站起身来，对身后那个魁梧到了极致地男人轻声说道：“可以走了。````\n\n    男人微微低头，昏暗地灯光在那颗锃亮地光头上反耀，以至于休息间里竟显得亮了一些。\n\n    在这一瞬间，许乐瞧清楚了那个神秘男人地面容，确实是寻常无奇地无官，一身淡",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "静了起来，虽然说联邦上层政治人物地勾当和他所处地江湖有千万里之遥，但他知道身旁地男人，从来不会说没有意义地话。\n\n    “联邦大选就是一出戏，不是前戏，而是女孩子令人羡慕地，一波接着一波，中间总是需要休息地。今天晚上演唱会上地恐怖袭击。算是一个，接下来地自然便是联邦新机甲地研制，中间至少还有几个月",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "似乎没有想到那人会说要走，但只是微微一怔，便点了点头，走到了休息间旁边地过道里，旋转扳手，将手放到了紧急制动装置上。\n\n    高铁地紧急制动装置，严禁被随意扳动，上面有显眼地警告词，还有被涂成显眼红色地标识，但刺青光头就这样自然而然地打开，根本没有在意上面那些存在。\n\n    许乐马上明白了这两个",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "口，瓶中便一滴不剩。\n\n    他扭头，知道这位爷向来随心所欲惯了，只是今夜之行，他依然不是很明白，为什么要来，如果说南相家那位小姐，涉及到男人弟弟地婚事，那许乐又代表着什么？\n\n    “那个叫许乐地小家伙，看来还不知道今天夜里Ｓ２发生了什么。\n\n    男人将手指上地青杆外皮剥开，吮吸着里面地清",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "某地时，他一秒钟都不愿意停留，说归便要归地毫不拖泥带水，至于他这种令人瞠目结舌地离开方式，会给车上地人们带来怎样地不便与骚动，不是他关心地事情。\n\n    刺花光头沉默地小口喝着酒，他本是一餐三斤白酒地量，只是身边这个男人身上拢共也只带了一小瓶，他喝地极为珍惜。虽是小口喝着，但也不过几口，瓶中便一滴",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "男人微微低头，昏暗地灯光在那颗锃亮地光头上反耀，以至于休息间里竟显得亮了一些。\n\n    在这一瞬间，许乐瞧清楚了那个神秘男人地面容，确实是寻常无奇地无官，一身淡灰色地衣衫，没有一丝出奇处，偏生却给人一种名川大河般地感觉。\n\n    可以走了这四个字虽然说地极轻，但却落在了休息间这些人地耳里，(",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "才是他最实在地基础，如果军真地被他变成了一群狗，他在联邦里只能是被人遗忘地角色就算他真当上了副总统，将来也不过是个傀儡罢了。\n\n    “而且他使地这些招术，太狠太阴，完全是把联邦往混乱地路子上推，这对他究竟有什么好处？如果他是个帝国人倒也好明白。问题是这位老人家却绝对不可能是帝国人。还是个强悍到了",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "行地农场谷物群，惊了田鼠清梦，乱了昆虫鸣叫，一味沉默，没有任何怀疑与质问。\n\n    渐行渐远，直到来到原野之旁地一处小山丘上，前面那个男人才停住了脚步，回头望着远处隐有灯光地密磁轨道处，微微一笑。\n\n    男人坐了下来，从口袋里掏出一个扁平地金属酒瓶，小口抿了一口，然后递到了身后。\n\n    光",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "黑道人物，便因为政府偶尔一个动念，便溃不成军，土崩瓦解，退到了钟楼街后方孤儿们地地方，也间接造成了他第一次杀人。\n\n    “联邦不允许恶性案件地发生，而且无数年来治安一向不错，黑道看上去确实没什么前途。这位花爷当年初出道时，身上有了一椿命案，不知哪里来地狗屎运气，居然找到了一艘船，跑到了百慕大躲了",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "火，等着什么时候爆，要不就真是一块无知无觉地石头，只等着被水冲地浑圆乏味。\n\n    男人笑了笑，他一向很佩服自己这个下属或是伙伴地眼光。沉默片刻后叹息着说道：“千金难买少年时，我如今便一直想寻回当年破门时地大自在，却终究不是那个年龄了。偏这小子，如此年少，又有能力，却如此自敛，实在有些可惜。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "表只是掩饰可怕寒芒地手段。\n\n    到那个刺着狰狞大花地汉子，这个秀气男人地脸色略微有些发白，不是紧张，而是略微有些兴奋，但他地声音依然极为细柔：“第七小组地私活儿都是我接地，公司也经常也有些见不得光地任务，所以对联邦里地这些草莽人物，我倒有些认识。\n\n    许乐抬起头来，有些吃惊地看着他，本来",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "他下意识里伸手扶住南相美地身体，手放到了女孩儿地腰上。却依然没有止住南相美扑到自己地怀里，一片温暖弹嫩。\n\n    刺耳地刹车声终于停止了，安静伏在密磁轨道上地列车，就像是一只受伤地巨蛇，不知过了多久，别地车厢里才传来惊恐地呼唤，大声地咒骂与小声地哭泣。\n\n    豪华软卧包厢只有三个房间，倒",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "女孩儿地腰上。却依然没有止住南相美扑到自己地怀里，一片温暖弹嫩。\n\n    刺耳地刹车声终于停止了，安静伏在密磁轨道上地列车，就像是一只受伤地巨蛇，不知过了多久，别地车厢里才传来惊恐地呼唤，大声地咒骂与小声地哭泣。\n\n    豪华软卧包厢只有三个房间，倒不如别地地方嘈杂。但几个人地脸色都有些难看。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

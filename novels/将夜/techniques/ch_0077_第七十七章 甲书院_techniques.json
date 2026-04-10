@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 77,
+  "chapter_title": "第七十七章 甲书院",
+  "filename": "ch_0077_第七十七章 甲书院.txt",
+  "char_count": 3494,
+  "timestamp": "2026-04-10T12:11:11.994816",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "们的荣耀。\n　　石坪远处，宁缺和桑桑并肩而立，他看着那处的热闹场景，忍不住嘲讽说道：“真弄不明白这是为什么，难道那个什么三公子长的比别人漂亮些？”\n　　这只是一句渭城常见的俗语，比如说某军卒要比同伴多喝两碗酒，同伴就会耻笑他凭什么，难道你比别人长的漂亮些？宁缺只是顺口调侃一句，却没料着身旁的桑桑仰起",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "着身前越聚越多的人群，答道：“呃……我复习的很认真。”\n　　桑桑仰着小脸看他，柳叶眼里满是迷惑之色，心想少爷你知道复习是什么吗？",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "羽箭，让他仿佛回到草原回到梳碧湖畔，下意识里多了些犷意，实际上他并不知道自己的总分能不能过，心情很是紧张不安。\n　　今日的书院入院试汇集了全天下极多青年才俊，如果不是因为御科考场上的那道黑色闪电，样貌衣着普通的宁缺根本不会引起什么注意，此时他远远退出人群，自然也没有谁再去关心他，考生们的注意力依然还",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "少年成名，心中总有几分孤傲之气，去岁在南晋考了个探花，已让他无法接受，所以才会选择来书院证明自己，他最终的目标当然是在传闻中极为玄妙的书院二层楼，却没想到自己终究还是比那人要慢了许多。\n　　箭袍少女身旁的少女姓金名无彩，乃是大唐国子祭酒幼女，自幼性情温和喜爱诗书，对南晋谢三公子这名早有所闻，这些日子",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "美的成绩单，即便放在这十年间的书院入院试里，都可以排入前几名。\n　　谢承运向四周团团揖手行礼，微笑向众人示意，暮色照耀在青年才子的星白衫上，照在他英俊容颜谦和笑容上，极为耀眼。箭袍少女和女伴们不停地拍着手掌，雀跃不已，仿佛这也是她们的荣耀。\n　　石坪远处，宁缺和桑桑并肩而立，他看着那处的热闹场景，忍",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "笑出言岔道：“三公子六科皆甲，还有两门甲上，也算是极罕见的佳绩，至少今次无人能及。”\n　　“正是这番道理，今次书院入院试，阳关钟大俊书科甲上，临州王颖乐科甲上，谢三公子更是双门甲上，谁还能比三位考的更好？”\n　　影壁上的考生纷纷称是，谢承运面色稍霁，自嘲一笑，再次揖手还礼。\n　　那箭袍少女正准备陪同",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "子两门甲上的成绩，说那必然是今次入院试最佳，谁能想到赞美声尚未停歇，一个考出三门甲上的家伙便这样……出现了。\n　　“谁是宁缺？”\n　　“宁缺是谁？”\n　　先前没能看到黑色闪电那幕的考生焦急地询问着身旁同伴，看到那幕的考生则开始津津有味地讲述那匹大黑马从悍妻变乖侍的传奇画面。\n　　司徒依兰则是四处搜索",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "何方神圣，先是考出百年以来最好成绩，刚入书院竟是未读一天便被直接召进了二层楼！\n　　听到那位西陵考生进入了二层楼，南晋三公子的眉梢挑的更高了些，眼瞳里始现凝重之色，但凡少年成名，心中总有几分孤傲之气，去岁在南晋考了个探花，已让他无法接受，所以才会选择来书院证明自己，他最终的目标当然是在传闻中极为玄妙",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "西陵考生拿了六科甲上，全书院教习都跑出来围观，因为那是百年以来最好的成绩！”\n　　此言一出，影壁下方骤然安静下来，谢承运三人蹙眉望向声音起处，入院试居然能考出六科甲上？这等说法实在是太过惊世骇俗，能在书院入院试中考出百年以来最好成绩，那个不知名的西陵考生足以打死全天下的所谓天才了！\n　　“为什么我们",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "雀跃不已，仿佛这也是她们的荣耀。\n　　石坪远处，宁缺和桑桑并肩而立，他看着那处的热闹场景，忍不住嘲讽说道：“真弄不明白这是为什么，难道那个什么三公子长的比别人漂亮些？”\n　　这只是一句渭城常见的俗语，比如说某军卒要比同伴多喝两碗酒，同伴就会耻笑他凭什么，难道你比别人长的漂亮些？宁缺只是顺口调侃一句，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "五岁成诗，成长过程中交游多名士，谢府往来无白丁，府中长辈惜他才学，又不惜重金礼聘各国大才，西席仿似流水席般变换，才就今日之盛名。\n　　盛名之下必无虚士，谢承运今年不过十八岁，却已经是南晋今回科举探花郎，科举结束之后，他坚辞南晋朝廷官职，千里迢迢北上大唐，目的便是要考进书院。\n　　书院虽说招生苛刻，但",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "考生拿了六科甲上，全书院教习都跑出来围观，因为那是百年以来最好的成绩！”\n　　此言一出，影壁下方骤然安静下来，谢承运三人蹙眉望向声音起处，入院试居然能考出六科甲上？这等说法实在是太过惊世骇俗，能在书院入院试中考出百年以来最好成绩，那个不知名的西陵考生足以打死全天下的所谓天才了！\n　　“为什么我们没有",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

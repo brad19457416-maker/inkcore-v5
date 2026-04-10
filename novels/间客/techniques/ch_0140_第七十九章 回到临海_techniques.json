@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 140,
+  "chapter_title": "第七十九章 回到临海",
+  "filename": "ch_0140_第七十九章 回到临海.txt",
+  "char_count": 3358,
+  "timestamp": "2026-04-10T11:53:35.154587",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "个多月地时间里，险些死了一次，脑子里又出现了一个大问题。从南方回到临海，从温暖的海洋气候，回到肃杀的风雪环境之中，许乐却没有过多地考虑自己的身体，自己的脑子，只是微眯着眼，拄着金属拐杖，走出了上野的机场，上了一辆出租车。\n\n    一路车行无话，风雪交加，许乐回到了自己熟悉的临海州大学城，他极为谨慎",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "回到了自己熟悉的临海州大学城，他极为谨慎地没有联络任何人，尤其是张小萌，更不可能回到学校，而是一个人来到那家名店街的咖啡店里，要了一杯咖啡，沉默地看着窗外的雪，盯着青色桌布上泛着金属光泽的手机。\n\n    来到这家咖啡店前，他在大学城随处可见的小铺子里，买了几张全新的手机卡，同时给施清海现在在用地那",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "得这位年轻人真是腼腆的可爱。\n\n    万分感谢中，许乐接过她的手机。翻出脑海里那个施清海正在使用的陌生号码。沉忖片刻，发出了一条短消息：“我是马步。明天九时到，联系我，我有办法。”世，许乐在这一个多月地时间里，险些死了一次，脑子里又出现了一个大问题。从南方回到临海，从温暖的海洋气候，回到肃杀的风雪",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "施清海平静的声音。施清海告诉了他一个门牌号码。\n\n    在电话里，施清海没有感动地长久无语，也没有愤怒地指责他愚蠢，只是平静地说了几句话，因为他和许乐骨子里都是同一类人，知道对方有事儿的时候，都会不顾一切地去帮助对方，既然对方已经为了自己而来，那再说更多的话，没有任何意义。\n\n    许乐买单离开",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，知道对方有事儿的时候，都会不顾一切地去帮助对方，既然对方已经为了自己而来，那再说更多的话，没有任何意义。\n\n    许乐买单离开，有些困难地撑着钢制拐杖，在临海州的末冬风雪中，向着城市深处的街区走去　小＿说t-x-t＿天/堂",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "他就知道对方所说的混乱从何而来。而当简水儿那一头紫色的秀发，从帽下怒放而出时，他已经悄无声息地在四周人群的掩护下，脱下了身上的外套，坐上了机场提供的快速登机电动车。\n\n    时间过去的很快，当他坐上了飞往上野的航班时，邰家的保镖才来得及向上级报告目标失踪的消息。\n\n    “他想离开，应该不好拦，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "鼻梁上，反而显得特别可爱。\n\n    直到此时，与简水儿并排而坐，依然让许乐感到了一股发自内心深处的紧张。他不禁在想，自己何德何能，居然可以认识简水儿，居然还能让简水儿帮自己忙……也就是看到身旁的可爱少女，他才反应过来，简水儿还未满十八岁，先前接触中女孩儿所展现出来的冷静与成熟，并不是一个少女真正应",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "制造混乱，你能不能离开，那就要看你的本事了。”\n\n    说完这句话，简水儿摘下了鼻梁上大大的墨镜，同时取下了自己的帽子，就像在家里一样，很随意地挠了挠有些蓬乱的紫色短发……\n\n    一场因为简水儿的忽然出现而出现的混乱，就这样全无预兆地在辅桥机场发生，无数的乘客兴奋地向着贵宾通道这边涌了过来，闪",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "九章 回到临海 \n\n    疾驶的汽车上，许乐看了一眼驾驶位上的桐姐，又忍不住看了一眼身旁的简水儿，说道：“谢谢……只是怎么摆脱那些人？”\n\n    离开第一军区总医院的过程极为简单，简单到许乐坐上简水儿的专用汽车之后，依然觉得有些糊涂。一身淡黄衣裙的简水儿，就推着许乐乘坐的轮椅，离开了安静而住院部",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "。上野距离临海州比较近。而且是个不起眼的地方。\n\n    桐姐为他订的是经济舱，他并不以为意。因为他从来都不是什么有钱人，问题是他现在还是个病人，右腿还像根白色的水泥棒……在经济舱的位置上，坐着确实有些不舒服。\n\n    好在这趟航班地空中小姐，非常善良地替他免费升了舱。许乐感激地连声致谢。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "到许乐坐上简水儿的专用汽车之后，依然觉得有些糊涂。一身淡黄衣裙的简水儿，就推着许乐乘坐的轮椅，离开了安静而住院部大门，那些邰家安排在医院里的工作人员，一时间都怔住了，没有做出有效的措施，说实话，大概他们也没有勇气对一位联邦偶像、国民少女做出任何不礼貌的言行。\n\n    汽车行驶在第一军区生活区的街道",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "我有办法。”世，许乐在这一个多月地时间里，险些死了一次，脑子里又出现了一个大问题。从南方回到临海，从温暖的海洋气候，回到肃杀的风雪环境之中，许乐却没有过多地考虑自己的身体，自己的脑子，只是微眯着眼，拄着金属拐杖，走出了上野的机场，上了一辆出租车。\n\n    一路车行无话，风雪交加，许乐回到了自己熟悉",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

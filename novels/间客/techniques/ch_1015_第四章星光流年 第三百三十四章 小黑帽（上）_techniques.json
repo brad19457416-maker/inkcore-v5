@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 1015,
+  "chapter_title": "第四章星光流年 第三百三十四章 小黑帽（上）",
+  "filename": "ch_1015_第四章星光流年 第三百三十四章 小黑帽（上）.txt",
+  "char_count": 3686,
+  "timestamp": "2026-04-10T12:05:26.918734",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "开，他都像是完全没有看到。\n\n    自从邰之源决定把晶矿联合体交给全体联邦民众后，莫愁后山在这片凄风苦雨间一直保持着诡异的沉默，那么做为邰夫人亲密政治伙伴的他，自然沉默。\n\n    ……\n\n    ……\n\n    冒着缓缓飞舞的雪花走下议会山长长的石阶，利孝通脸上阴沉的表情没有丝毫舒缓，而在他将要",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "利孝通上车，然后自己坐上驾驶位。\n\n    吱吱轮胎剧烈的磨擦声，那辆委车像道烟尘般在风雪中消失，在人们的眼前消失 ＷＷw.xiＡosＨuotxt.ＣＯＭ\n\n\n\n第四卷星光流年",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "寒意截然相反。\n\n    “强行赋予的罪名，辩解没有任何意义，对于今天的听证会我代表三林联合银行表示愤怒以及失望。”\n\n    席上的利孝通穿着一身黑sè正装，如三年前一般浑身上下依然透着股雪中寒梅的冷煞味道，和三年前相比他唯一的区别，大概就是眉眼间隐隐多出的几丝细纹。\n\n    细纹的产生并不是因",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "想请教议员先生，他什么时候能够被释放？如果他不能被释放，最高法院的违宪诉论便无法进行，那么爱国者法案究竟能不能成立没有任何人知道。”\n\n    利孝通盯着宁议员脸上的皱纹，嘲讽说道：“联邦zhèngfǔ和议会同时动用一个极有可能违宪的法案，来审查支撑联邦金融体系数千年的三林联合银行，难道你不觉得这件",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "在车旁，准备替利孝通拉开车门，无论发生什么情况，他的脸上都没有表情，也没有任何动作，更看不出来有什么危险的地方，就像是一个夜练有素的司机。\n\n    直到利孝通点了点头，中年男人知道这是在示意自己可以动手，于是他动了手。\n\n    他叫曾哥，是这个世界上少数几个能够让许乐感到忌惮的猛人。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "指控利孝通勾结帝国间谍，其意直指其人背后的铁算利家，如此可怕而不容挽回的罪名，表明这是一场没有后路的决战。\n\n    就算是支持利家的议员们也陷入了沉默，先前那名愤怒难抑的中年男xìng议员，接过工作人员递回的鞋，默默穿回左脚，然后系鞋带便系了五六分钟时间。\n\n    打破沉默死寂眉面的是一道刺耳的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "辩解不代表今天的质询就此结束。”\n\n    联邦议会金融委员会主席宁则楷议员，冷冷看着台下的利孝通，说道：“过去数百年甚至数千年上万年间，做为三林联合银行唯一股东的贵家族，欺瞒相关监管部门，通过基金互相持股易名的手段，逃避了所有的反垄断调查，实在是无耻大胆到了极点！”\n\n    “宪章对公民**的周",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的交锋，并不冰冷，与建筑外缓慢飘落雪花所挟的寒意截然相反。\n\n    “强行赋予的罪名，辩解没有任何意义，对于今天的听证会我代表三林联合银行表示愤怒以及失望。”\n\n    席上的利孝通穿着一身黑sè正装，如三年前一般浑身上下依然透着股雪中寒梅的冷煞味道，和三年前相比他唯一的区别，大概就是眉眼间隐隐多",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "会主席望着他叹息说道：“不过那位帝国间谍的妻子和同事好像并不这样认为。”\n\n    议会山巨幅光幕上出现一张照片。\n\n    ……\n\n    ……\n\n    照片，珍珠项链，口供，利孝通沉默听着，双眉皱的越来越紧，脸sè变得越来越难看，所有的证据都指向他与那名帝国间谍有关系，而那名帝国间谍正是古钟号",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "……\n\n    冒着缓缓飞舞的雪花走下议会山长长的石阶，利孝通脸上阴沉的表情没有丝毫舒缓，而在他将要进入专车之前，几名穿着黑sè正装的zhèngfǔ官员拦住了他的去路。\n\n    “利孝通，公民编号……你因涉嫌何友友间谍案，必须跟我们回去接受调查，我们是联合调查部门。\n\n    宣读完这句话，三名官",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "会的聆讯人，对于这多达六十九项指控，你有没有什么要解释的？”\n\n    议会山内部宏伟的空间里溢满了紧张的气氛，然而因为那些话语和证据的交锋，并不冰冷，与建筑外缓慢飘落雪花所挟的寒意截然相反。\n\n    “强行赋予的罪名，辩解没有任何意义，对于今天的听证会我代表三林联合银行表示愤怒以及失望。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "权联邦审计局进驻三林联合银行总部的请求。”\n\n    听到这句警告或者说威胁，本来尚算平静的议会山里骤然变得热闹起来，支持利家的议员愤怒的拍打着桌子，慷慨激昂地表示对zhèngfǔ滥用权力的愤慨，支持帕布尔总统的议员则是激动地挥舞着手臂，表示支持。\n\n    “爱国者法案？”\n\n    利孝通脸sè",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "异的沉默，那么做为邰夫人亲密政治伙伴的他，自然沉默。\n\n    ……\n\n    ……\n\n    冒着缓缓飞舞的雪花走下议会山长长的石阶，利孝通脸上阴沉的表情没有丝毫舒缓，而在他将要进入专车之前，几名穿着黑sè正装的zhèngfǔ官员拦住了他的去路。\n\n    “利孝通，公民编号……你因涉嫌何友友间谍",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "能成立没有任何人知道。”\n\n    利孝通盯着宁议员脸上的皱纹，嘲讽说道：“联邦zhèngfǔ和议会同时动用一个极有可能违宪的法案，来审查支撑联邦金融体系数千年的三林联合银行，难道你不觉得这件事情很荒谬？”\n\n    不等对方回答，他转身望向全体议员，举起手中的文件愤怒挥舞，厉声质问道：“第六十九项",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "算平静的议会山里骤然变得热闹起来，支持利家的议员愤怒的拍打着桌子，慷慨激昂地表示对zhèngfǔ滥用权力的愤慨，支持帕布尔总统的议员则是激动地挥舞着手臂，表示支持。\n\n    “爱国者法案？”\n\n    利孝通脸sè阴沉抬起头来，望着上方的议员先生，沉声回答道：“如果我的记忆力没有发生偏差，首都特区",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

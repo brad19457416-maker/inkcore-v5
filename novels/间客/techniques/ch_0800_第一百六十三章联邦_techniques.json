@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 800,
+  "chapter_title": "第一百六十三章联邦",
+  "filename": "ch_0800_第一百六十三章联邦.txt",
+  "char_count": 5716,
+  "timestamp": "2026-04-10T12:05:17.628557",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "喜悦温暖。\n\n    忽然而至的急促刹车声，从数十台墨绿色军车的特制防弹轮胎底挤压了出来，尖利的划破寂静的夜空，紧接着，装甲车轰隆隆的碾道声混入了这种声响，惊醒了广场四周那些富贵达人们的梦。\n\n    有人疑惑地走到窗边，看着广场四周迅散开的装甲车和军车，看着那些密密麻麻全副武装的士兵快冲进包括财政",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "能准确地判断出。门外那此十兵肯定是仓副御织刁上穿着全硬陶防弹背心，戴着沉重的透明防弹头盔，手里紧握着危险的大火力枪械。\n\n    书房和机要室之间那扇门也一直没有打开，那个联邦最有权力的男人就在门后。\n\n    许乐舔了舔干的嘴唇，将烟头塞进嘴里，深深地吸了一口知道那扇门是冲不过去的，至于背后的门外",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的那颗金属扣沉声说道：“再次重复头儿的命令，不准抵抗！不准抵抗！”\n\n    这是一次保密等级极高的秘密军事行动，此项军事行动调集了第三军区铁七师及都警备区警二师、卫一团的精锐忠诚部队，在行动开始之前，只有这三支部队的最高军事长官才知道今夜行动的具体内容。\n\n    甚至此次秘密军事行动全部依靠的是",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "压了出来，尖利的划破寂静的夜空，紧接着，装甲车轰隆隆的碾道声混入了这种声响，惊醒了广场四周那些富贵达人们的梦。\n\n    有人疑惑地走到窗边，看着广场四周迅散开的装甲车和军车，看着那些密密麻麻全副武装的士兵快冲进包括财政部大楼在内的多幢重要建筑，不由被吓了一跳。\n\n    这里是都特区，很少出现令人",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "五人小组仿古铜雕像还在打量着那位新来的同伴，不解为什么那个军神看上去会如此苍老。\n\n    偶尔一阵风拂过，牵起地面上的青色树叶慢悠悠的滚动，因为时值深春而没有萧瑟的感觉，却也并不如何喜悦温暖。\n\n    忽然而至的急促刹车声，从数十台墨绿色军车的特制防弹轮胎底挤压了出来，尖利的划破寂静的夜空，紧接",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "广场。政客如鲫白般册视删出的议会山，都已变得无比安静，只有广场中间的五人小组仿古铜雕像还在打量着那位新来的同伴，不解为什么那个军神看上去会如此苍老。\n\n    偶尔一阵风拂过，牵起地面上的青色树叶慢悠悠的滚动，因为时值深春而没有萧瑟的感觉，却也并不如何喜悦温暖。\n\n    忽然而至的急促刹车声，从数",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "下午的新闻布会上，你对着镜头说，你回来了，问”我们准备好没有。”\n\n    “我很担心你他摇了摇头，感慨说道：“我担心你没有足够的心理准备来面对这一切。”\n\n    许乐很认真地看着帕布尔的脸，觉得很奇妙，为什么到了这个时候，依然没有办法在他的脸上看到任何不真诚的感觉，于是他依旧保持着沉默，想听听对",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "部队必须听从总统先生的命令，而对于七组来说，许乐和白玉兰的话才是不可抗拒的命令，所以哪怕心中有再多的愤怒担忧不甘，队员们依然用最快的度整理完装备，准备撤离各自所在的位置。\n\n    就在这个时候，正在销毁二十四小时电子数据的顾惜风，听到了地面远处传来的刺耳刹车声。隔着洗手间的窗户，看着正源源不断自各",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "”\n\n    “另外都警察总署已经派员警过来。国防部指调中心质问我们究竟在做什么。”\n\n    车窗缓缓降落，露出杜少卿那张没有一丝表情，冷漠到了极点的脸，他望着夜色之中的宪章广场，并不关心都警察总署和国防部方面的询问，轻轻捏着墨镜腿，问道：“刚才那枪声是怎么回事？”\n\n    “有名七组队员试图翻",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "在很短的时间内，这支部队中间一辆军车上方牵引出一幅大型光幕，上面无声地显示着演习的字样，同时有很多士兵开始进入建筑内部向这些惶恐不安的民众们进行讲解。\n\n    原来这是一场针对议会山袭击事件而展开的特殊军演。\n\n    这当然不是军演。\n\n    散布在总统官邸四周的七组队员，在收到通",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "顾惜风明白队员们此刻的心情，对于许乐每逢关键时刻便扔掉队员自行去扮演孤胆英雄，谁都知道那是因为他担心队员们出事儿，但谁都没有办法接受自己没办法帮到许乐。\n\n    “头儿不喜欢带我们玩，咱们能怎么办？”藏身在财政部大楼倒数第二层洗手间内，负责整个团队系统沟通的他，略微停顿片刻后，终究还是回复了临",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“就凭我们这二十几个人想强攻总统官邸，难度是不是大了点？”顾惜风嘲讽了一句，然后蹙着眉头说道：“撤吧，这是头儿的命令。”\n\n    “又撤？”\n\n    “撤个锤子噢！”\n\n    通话系统内响起七组队员们恼怒的抗命声，不知道是谁压低声音格外郁闷地说道：“每次正经要打仗的时候，头儿他都要",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "防弹头盔，手里紧握着危险的大火力枪械。\n\n    书房和机要室之间那扇门也一直没有打开，那个联邦最有权力的男人就在门后。\n\n    许乐舔了舔干的嘴唇，将烟头塞进嘴里，深深地吸了一口知道那扇门是冲不过去的，至于背后的门外，左手边的窗外，官邸四周的草坪上，已经被数百名联邦最精锐的特种士兵所占据，只要自",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "组时，我就对这情节相当的不喜欢，但必须写。\n\n    不喜欢的原因不是许乐被虐什么的，我向来是后爹，从来不管这些。不喜欢的原因是，其实”我还挺喜欢帕布尔李在道杜少卿这三个丫挺的，结果在这故事里，他们只能是配角，这可怜的。\n\n    为故事服务，写不喜欢的东西。这是很给力的态度，所以我写的很认真，很给",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的时间内，这支部队中间一辆军车上方牵引出一幅大型光幕，上面无声地显示着演习的字样，同时有很多士兵开始进入建筑内部向这些惶恐不安的民众们进行讲解。\n\n    原来这是一场针对议会山袭击事件而展开的特殊军演。\n\n    这当然不是军演。\n\n    散布在总统官邸四周的七组队员，在收到通讯系统中许乐命令时",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "偶尔一阵风拂过，牵起地面上的青色树叶慢悠悠的滚动，因为时值深春而没有萧瑟的感觉，却也并不如何喜悦温暖。\n\n    忽然而至的急促刹车声，从数十台墨绿色军车的特制防弹轮胎底挤压了出来，尖利的划破寂静的夜空，紧接着，装甲车轰隆隆的碾道声混入了这种声响，惊醒了广场四周那些富贵达人们的梦。\n\n    有",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

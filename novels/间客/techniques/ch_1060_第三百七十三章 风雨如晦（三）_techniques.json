@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 1060,
+  "chapter_title": "第三百七十三章 风雨如晦（三）",
+  "filename": "ch_1060_第三百七十三章 风雨如晦（三）.txt",
+  "char_count": 3582,
+  "timestamp": "2026-04-10T12:05:26.913280",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "……\n\n    ……\n\n    随着青龙山反zhèngfǔ军和西林钟家的强硬表态，恐怖的内战阴影就像天空中的铅云般四处蔓延，那种无形而强大的压力让很多人默默转变了态度。\n\n    支持zhèngfǔ的铁忠派民众当中有很多变得沉默，环山四州三大工会里帕布尔的残余力量也不再像前些rì子那般激昂好斗，有些",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "上缓缓啜着，又点燃一根烟，望着窗外的乱雪铅云沉默了很长时间。\n\n    一名东林矿工子弟，极为幸运地来到首都星圈，然后成为一名律师，一名公益律师，一名穷律师，一名险些再也亢法执业的笨律师，然后他成为一名三大公会的律师顾问，zìyoú派媒体的宠儿，联邦政治圈的一缕清风，直至最后成为联邦最有权力的男人。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "次流程投票，正式进入弹劾程序。\n\n    看到新闻上的画面，守候在议会山前联邦电视台前的沉默行军民众爆发出最激动的欢呼声和尖叫声，而与之形成鲜明对比的是，风雪中的总统官邰一片沉默。\n\n    这并不是帕布尔总统第一次遭到弹劾，但上次由邰之源提出的弹劾提案连程序一读都没有通过，便惨淡收场，谁能想到今天",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "想要狙杀杜少卿必须等到对方走出军营。\n\n    忽然间，他的眼瞳骤然紧缩，被真气强行降低的心跳在这一瞬间急速跳动起来，然后再回复平缓。\n\n    山脉对面，铁七师驻地里有些动静。\n\n    从外表上看，那些层层叠叠的营房，那些像雕像般覆在防雨布下的机甲，和先前看上去没有任何变化。只不过西侧的库房右地",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "无法完全遮住大毛层来的阳光，晨光早已变成笼罩四野的明亮，正因为光明无所不在，所以人们才常常忘记它们的存在。\n\n    身体僵硬的许乐，像个石头人般静静躺在巨石下，通过脸旁的微型光幕，监控着山脉对面的军营动静。\n\n    在峥顶观察了很长时间，他依然没有找到杜少卿可能在的营房，事实上，因为距离过于遥远",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "得沉默，环山四州三大工会里帕布尔的残余力量也不再像前些rì子那般激昂好斗，有些议员也开始思kǎo前路究竟在何方。\n\n    议会山经过一夜的激烈辩论，终于结束了程序方面的讨价还价，完成三次流程投票，正式进入弹劾程序。\n\n    看到新闻上的画面，守候在议会山前联邦电视台前的沉默行军民众爆发出最激动的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "不打联邦人，然而今天这些表情坚毅的西林军人展现给全联邦的态度，似乎和那句话截然相反。\n\n    联邦第一次内战会不会就此拉开序幕？千万年来与首都星圈若即若离的西林，会不会无视宪章宣布**？\n\n    如果领导西林本土向首都星圈发出最强硬声音的是一位表情阴鹜的老人，联邦社会和媒体肯定会马上开始口诛笔伐",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "到自己被戴上手铐的画面，一定会有更多的人离开公寓楼，走上jiē头。\n\n    为了应对西林局势和愈发紧张的气氛，驻守在s3的第三军区各地面部队开始紧张备战，然而当某全机甲师要求鸭山总装基地配发相关构件时，却没有得到回应。\n\n    鸭山总装基地，是联邦最大的后勤物资集散基地，基地驻防部队提高警备等级",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "会无视宪章宣布**？\n\n    如果领导西林本土向首都星圈发出最强硬声音的是一位表情阴鹜的老人，联邦社会和媒体肯定会马上开始口诛笔伐，给此人戴上无数顶丧心病狂野心家、嗜血好杀阴谋家的帽子。\n\n    但出现在全宇宙面前的是一位父母俱亡的孤女，在大多数人都开始相信首都特区rì报特刊，相信古钟号爆炸是联",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。库房注能设备在地面下，负责替军用机甲补充能量。\n\n    通过这些细节，他马上判断出，铁七师正在做战斗准备，自己最不想面对的局面终于还是不可避免的发生！\n\n    果不其然，铁七师军营中响起无数道低沉的嗡鸣机甲自检声，这些声音汇在一处变得无比沉闷而震撼人心。\n\n    许乐眯着眼睛死死盯着微型光幕",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "雪云铅灰沉重，却依然无法完全遮住大毛层来的阳光，晨光早已变成笼罩四野的明亮，正因为光明无所不在，所以人们才常常忘记它们的存在。\n\n    身体僵硬的许乐，像个石头人般静静躺在巨石下，通过脸旁的微型光幕，监控着山脉对面的军营动静。\n\n    在峥顶观察了很长时间，他依然没有找到杜少卿可能在的营房，事实",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "票，正式进入弹劾程序。\n\n    看到新闻上的画面，守候在议会山前联邦电视台前的沉默行军民众爆发出最激动的欢呼声和尖叫声，而与之形成鲜明对比的是，风雪中的总统官邰一片沉默。\n\n    这并不是帕布尔总统第一次遭到弹劾，但上次由邰之源提出的弹劾提案连程序一读都没有通过，便惨淡收场，谁能想到今天这次弹劾",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "叠的营房，那些像雕像般覆在防雨布下的机甲，和先前看上去没有任何变化。只不过西侧的库房右地基阀门开启，同时那片后勤营地里的人员走动显得密集了些。\n\n    许乐在联邦部队里呆的时间太长，他知道右地基阀门开启，是为了清理库房注能设备需要的水，而后勤营地人员行动密集，说明这不是常规动作。库房注能设备在地面",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "前台，那位三年前被解除国防部长职务，发配至总装基地的闲散将jūn转过身来，望着忠诚于自己的下属们平静说道：“军队确实不应该拥有自己的思想，但宪章在上，联邦部队……不打内战。现在的联邦已然风雨飘摇，难道我们需要一个帝国人帮助才能走回正轨？身为联邦军人，我丢不起这个脸，我们必须自救。”\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "鸭山总装基地，是联邦最大的后勤物资集散基地，基地驻防部队提高警备等级，两扇巨大沉重的合金门缓缓关闭，无数重火力基群随时准备向外界射击。\n\n    基地会议室里，几名联邦将领毫不犹豫驳回第三军区的第四次调配请求，昏暗的前台，那位三年前被解除国防部长职务，发配至总装基地的闲散将jūn转过身来，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

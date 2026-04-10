@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 14,
+  "chapter_title": "第十四章 一件证物的旅行（上）",
+  "filename": "ch_0014_第十四章 一件证物的旅行（上）.txt",
+  "char_count": 2609,
+  "timestamp": "2026-04-10T11:53:11.023892",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "警察局真要查下去，会不会查到自己头上，再查到封大叔的身上，以至于揪出他逃兵的身份？\n\n    他应该愤怒于李维把那根电击棍弄丢，因为这是事前他反复叮嘱过的事情，然而此时看着李维满足和疲惫的脸，许乐的心头一软，没有说什么，听说这一个月里，李维那帮孤儿一直在抢地盘，大概也是累着了。\n\n    从军方流落",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "变得更强一点，还能有什么办法？”\n\n    “你还在担心那根电击棍？”封余皱着眉头，不理解这个小孩子为什么天生就这般谨小慎微，忽然间微笑说道：“不要忘记你脖子后面的那块芯片，在第一宪章的光辉之下，如果警局真的要逮捕你，你能逃到哪里去？难道去百慕大做流民，还是去帝国当叛国贼？”\n\n    遍布整个联邦",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "一声。\n\n    他和李维这些孤儿们，对于政治方面一无所知，敬而远之，不想触摸，更没有兴趣。虽然联邦社会里确实存在着不公平，比如以七大家为首的上层社会，总是要比普通的民众拥有更美好的一切一切，那些黑暗的压迫，总是隐藏在法律正义光明外衣的下面……然而这和他们又有什么关系？他们这一生本来就是在不公平里长",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "鉴定科。\n\n    这位失势的副局长只是本能里想弄清楚这件事情，却没有想到，他的这个小动作，却对联邦日后的将来造成了怎样巨大的影响。\n\n    ——ＷＷＷ.xiＡosＨuoＴＸＴ.com",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "行（上） \n\n    你怎么知道我在州立大学？”许乐低着头问道。李维并没有注意到同伴心情的沉重，笑着说道：“你进了修理铺，现在很多人都知道了，我想着这件事情虽然不会有什么麻烦，但毕竟是你辛苦做出来的东西，总要通知你一声。”\n\n    没什么麻烦？真的吗？许乐在心里自问了一句，却是找不出来什么答案。那",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "他和李维这些孤儿们，对于政治方面一无所知，敬而远之，不想触摸，更没有兴趣。虽然联邦社会里确实存在着不公平，比如以七大家为首的上层社会，总是要比普通的民众拥有更美好的一切一切，那些黑暗的压迫，总是隐藏在法律正义光明外衣的下面……然而这和他们又有什么关系？他们这一生本来就是在不公平里长大，早已习",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "要一件证物居然也要打报告，而且这个报告居然需要两个月的时间审批。”鲍副局长看着桌上真空袋里的金属轴，自嘲地笑了起来，以他的职位，如果放在以前，哪里需要这么麻烦。\n\n    一念及此，他心里对那些孤儿们的恨意便愈发浓烈，如果不是钟楼街出了那回事，自己请调的报告只怕早就批下来了，首都星圈的家族也不至于对",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "坑与那些野猫为伴，不停地跳着生硬的舞蹈。\n\n    有一天，封余讥讽地看着大汗淋漓的他说道：“你不是一向认为个人的力量在金属机械的面前没有什么用？”\n\n    许乐闭着眼睛感受着体内每一道肌肉的颤抖，以及那些颤抖越来越明显的走势，试图寻觅出这种颤抖的真正作用，颤着声音，咬牙回答道：“直到现在，我也没",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "件证物的旅行（上） \n\n    你怎么知道我在州立大学？”许乐低着头问道。李维并没有注意到同伴心情的沉重，笑着说道：“你进了修理铺，现在很多人都知道了，我想着这件事情虽然不会有什么麻烦，但毕竟是你辛苦做出来的东西，总要通知你一声。”\n\n    没什么麻烦？真的吗？许乐在心里自问了一句，却是找不出来什",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "铺，许乐有些犹豫地将关于电击棍被警方截获的消息，告诉了老板封余。出乎他的意料之外，封余大叔没有丝毫的担心，似乎觉得自己那个叛逃的军方机修师身份，绝对不会曝光。\n\n    事实也确实如此，接下来的十数天里，东林大区除了因为这次联邦大游行而震惊之外，并没有什么新的事情发生。帮派争斗使用了军方制式武器，这",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "儿们，对于政治方面一无所知，敬而远之，不想触摸，更没有兴趣。虽然联邦社会里确实存在着不公平，比如以七大家为首的上层社会，总是要比普通的民众拥有更美好的一切一切，那些黑暗的压迫，总是隐藏在法律正义光明外衣的下面……然而这和他们又有什么关系？他们这一生本来就是在不公平里长大，早已习惯，难以热血。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "长决定把这件事情查下去，当然，他不敢亲自去查，而是针对这根电击棍，他想确认一下，是不是真的有联邦特工进入了河西州。\n\n    在首都星圈，鲍副局长有几个在研究机构的战友，应该可以帮这个忙。在公务邮件的外封上填好了收信人地址，鲍副局长吩咐秘书将这件证物拿了出去，寄往上林区十七研究院的鉴定科。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "身份？\n\n    他应该愤怒于李维把那根电击棍弄丢，因为这是事前他反复叮嘱过的事情，然而此时看着李维满足和疲惫的脸，许乐的心头一软，没有说什么，听说这一个月里，李维那帮孤儿一直在抢地盘，大概也是累着了。\n\n    从军方流落到黑市里的武器应该很多，那根电击棍藏在卷轴晶屏里，虽然巧妙，但想来也不会引起",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

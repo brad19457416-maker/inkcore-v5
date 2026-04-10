@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 897,
+  "chapter_title": "第七十章 那些你们所不能了解的事",
+  "filename": "ch_0897_第七十章 那些你们所不能了解的事.txt",
+  "char_count": 3361,
+  "timestamp": "2026-04-10T12:11:27.406171",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "直接手笔。\n　　这场举世伐唐之战，真正对唐国带来最大伤害的便是何明池，在唐国必杀的报复名单中，他毫无疑问也排在首位。正是因为这个原因，在战后掌教把他遣往了南方，直到光明祭才让他回到桃山。\n　　宁缺看着栅栏外的他，眼神平静，看不出一丝怒意，但这种绝对的平静，才真正表明了他的态度，因为只有看死人时才会这",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "谈话最终还是被他带回了那个关键的点，因为他非常清楚，自己在何明池这样虔诚的道门信徒心中是怎样亵渎的存在。\n　　何明池沉默不语站起身来，把黄油纸伞重新夹回腋下。\n　　宁缺提醒道：“伞是湿的，腋下打湿看着不雅，容易让人猜测你有狐臭。同样的道理，如果你想杀我，就不要对我有杀意，不然很难成功。”\n　　何明",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "有些遗憾，当日在桃山前坪承受天启，箭指四方，举世无敌之时，他曾经寻找过何明池的踪影，但不知道此人是对危险有超乎想象的预判能力，还是幸运到了极点，竟提前离开了掌教的神辇，不知躲去了何处。\n　　何明池没有说话，宁缺自然也不会说话，他没有和这个人说话的兴趣，于是囚室里的安静一直持续，直到一声极轻的声音响起",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "证明昊天不能无所不能。”\n　　何明池说道：“是的。”\n　　宁缺说道：“所以你很想杀死我。”\n　　谈话最终还是被他带回了那个关键的点，因为他非常清楚，自己在何明池这样虔诚的道门信徒心中是怎样亵渎的存在。\n　　何明池沉默不语站起身来，把黄油纸伞重新夹回腋下。\n　　宁缺提醒道：“伞是湿的，腋下打湿看着不雅",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "声音响起。\n　　一滴水从黄油纸伞前端落在了地面上。\n　　宁缺望向石窗，发现只能看到灰鞯奶炜眨看不到落雨。\n　　何明池说道：“外面下雨了，可惜你在这里却看不到。”\n　　宁缺说道：“不能被雨淋，怎么看也不能算是坏事。”\n　　何明池说道：“如果永远都淋不到雨，怎么看也不能算是好事。”\n　　“你不可能是来问",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "“像我这样的人物，有一万种被人嫉妒的原因，人太优秀那便没有办法，你不用因此而觉得自卑。”\n　　何明池自嘲一笑，说道：“身陷囹圄，这辈子都不可能活着离开桃山，却依然如此自信骄傲，在这方面我确实不如你。”\n　　宁缺说道：“在所有方面你都不如我，这不需要怀疑。”\n　　何明池说道：“那是你自己的看法，不代表",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "注意。\n　　现在宁缺自然清楚，这只不过是他的刻意扮演出来的表象，他在昊天道门里的地位，只怕要远远超出人们的想象，不然观主和掌教不可能把那么重要的任务交付给他，他也不可能有资格进入幽阁来看自己。如果说隆庆是西陵神殿阳光下的煌煌美神子，何明池便是隐藏在西陵神殿阴影里的那个相对者。\n　　此人城府极深，修行",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "门里的地位，只怕要远远超出人们的想象，不然观主和掌教不可能把那么重要的任务交付给他，他也不可能有资格进入幽阁来看自己。如果说隆庆是西陵神殿阳光下的煌煌美神子，何明池便是隐藏在西陵神殿阴影里的那个相对者。\n　　此人城府极深，修行境界只怕早已超越洞玄上境，哪怕经历长安之乱，唐国依然没有人知道此人究竟有没",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "辇，不知躲去了何处。\n　　何明池没有说话，宁缺自然也不会说话，他没有和这个人说话的兴趣，于是囚室里的安静一直持续，直到一声极轻的声音响起。\n　　一滴水从黄油纸伞前端落在了地面上。\n　　宁缺望向石窗，发现只能看到灰鞯奶炜眨看不到落雨。\n　　何明池说道：“外面下雨了，可惜你在这里却看不到。”\n　　宁缺说",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "第七十章 那些你们所不能了解的事\n　　这是一个很诡异的梦，宁缺沉醉在男欢女爱所带来的愉悦里，同时却感受着剐肉剔骨的恐怖痛苦，两种截然不同、完全相反的感觉，让他的心神似要撕裂成两半，险些便在那道神威之前选择了臣服。\n　　幸运的是在这个关键时刻，他看见了桑桑的脸，那张旧时面容、青稚容颜让他获得了",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "一滴水从黄油纸伞前端落在了地面上。\n　　宁缺望向石窗，发现只能看到灰鞯奶炜眨看不到落雨。\n　　何明池说道：“外面下雨了，可惜你在这里却看不到。”\n　　宁缺说道：“不能被雨淋，怎么看也不能算是坏事。”\n　　何明池说道：“如果永远都淋不到雨，怎么看也不能算是好事。”\n　　“你不可能是来问我事情，因为那些",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

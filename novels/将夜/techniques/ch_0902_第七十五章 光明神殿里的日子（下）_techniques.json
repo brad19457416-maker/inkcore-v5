@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 902,
+  "chapter_title": "第七十五章 光明神殿里的日子（下）",
+  "filename": "ch_0902_第七十五章 光明神殿里的日子（下）.txt",
+  "char_count": 3430,
+  "timestamp": "2026-04-10T12:11:27.470049",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "间便重新覆了一层雪，那幅草书就这样被毁了。\n　　宁缺停下扫雪的动，握着竹扫帚，站在风雪中，看着灰暗的天空问道：“究竟要到什么时候，你究竟想做什么？”\n　　桑桑说道：“我替你洗过很多次脚，做过很多次饭，拖过很多次地，刷过很多次碗，你现在做的，不及我做的百分之一。”\n　　宁缺沉默片刻后说道：“你知道这是",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的脸很陌生，但这样静静看着，他却觉得越来越熟悉，好像过去这些年她一直就是长的这样。\n　　他不明白这是为什么。\n　　因为她是昊天，还是因为她是自己的妻子？\n　　西陵神殿上空的夜穹被雪云覆盖，看不到月亮的身影，光明神殿内漆黑一片，幽静无比，所以能听到雪落有声。\n　　他的声音像雪那般洁净，那般松软脆弱。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "仿佛正在做最香甜的睡睡，她的容颜是那样的普通，却像极了最尊贵的公主。\n　　对宁缺来说，桑桑现在的脸很陌生，但这样静静看着，他却觉得越来越熟悉，好像过去这些年她一直就是长的这样。\n　　他不明白这是为什么。\n　　因为她是昊天，还是因为她是自己的妻子？\n　　西陵神殿上空的夜穹被雪云覆盖，看不到月亮的身影，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "冷很多，很早就开始下雪，并且始终没有停止。\n　　宁缺没有在西陵生活的经验，却也明白这种情况有些罕见，心想老师把桑桑这个昊天留在了人间，难道永夜真的还会降临吗？\n　　他缓缓坐起身来，走到榻旁望向桑桑。\n　　桑桑闭着眼睛，睫毛轻轻搭着，每根睫毛的长度以及距离都是那样的精确，看上去就像是画出来的一般，透着",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "叹息有些委屈。\n　　想当年在岷山里，他和桑桑向来是一起睡的，在渭城里虽然有一床一炕，但睡着睡着两个人最终也会睡到一张床上。\n　　去到长安城后更是如此，无论老笔斋还是雁鸣湖畔，终究只有一张床是暖的，如今身份地位倒转，他竟连上床的资格都没有了。\n　　两名白衣女童手里拿着梨木竿，正在把幔纱挑落，看着这幕画",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "上也没有笑容，就像寒冷的群山。\n　　竹扫帚在积雪上簌簌划过，像是毛笔在微糙的芽纸上写字，露台上被扫出无数道潦乱的痕迹，看上去就像是一幅草书。\n　　提笔写草书的那人，情绪有些躁狂。\n　　偏在这时，风雪骤怒，不停地向山崖洒落，刚刚清扫一半的露台，瞬间便重新覆了一层雪，那幅草书就这样被毁了。\n　　宁缺停下",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "挪了挪，手落在了被褥上。\n　　桑桑看着他，明亮的柳叶眼里没有任何情绪，连厌憎也没有了。\n　　宁缺的脸瞬间变白，开始咳嗽。\n　　咳嗽一旦开始，便再难停止，他咳的撕心裂肺，痛苦地拘偻着身子，直至咳出心血，落在地面上，如殷红的梅。\n　　他的胸口像被一把烧火的刀刃捅穿般痛苦，他很担心再这样咳下去，可能会血尽",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的经验，却也明白这种情况有些罕见，心想老师把桑桑这个昊天留在了人间，难道永夜真的还会降临吗？\n　　他缓缓坐起身来，走到榻旁望向桑桑。\n　　桑桑闭着眼睛，睫毛轻轻搭着，每根睫毛的长度以及距离都是那样的精确，看上去就像是画出来的一般，透着股不真实的感觉。\n　　宁缺静静看着她，看了很长时间。\n　　他看着她",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "地拘偻着身子，直至咳出心血，落在地面上，如殷红的梅。\n　　他的胸口像被一把烧火的刀刃捅穿般痛苦，他很担心再这样咳下去，可能会血尽而死，更有可能会把心肝都咳出来。\n　　桑桑的脸上没有任何表情。\n　　宁缺站起身来，离开榻畔，揉着生疼的胸口，抱起应该属于他的被褥，走到阴暗的角落，铺好，躺在上面发出一声叹息",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "人。\n　　宁缺是个很冷血的人，但他觉得没有必要死更多人，尤其是在这座冰冷的光明神殿里，他想要带来的是温暖而不是别的。\n　　两名白衣女童自去侧殿休息，夜色里的光明神殿变得格外安静，风雪从露台处飘入殿内，却没有让殿内的温度下降丝毫。\n　　宁缺没有睡着，在这样的情形下，确实很难睡着。他看着露台方向越来越大",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "那句火热的身躯，更是有些像年轻的诗人写下的拙劣诗句，有一种直棱的喜感。\n　　桑桑不觉得欢喜，神情漠然说道：“不用。”\n　　宁缺觉得她是在客气，或者说假装客气，或者说他要说服自己她是在客气，于是他很不客气地往榻上挪了挪，手落在了被褥上。\n　　桑桑看着他，明亮的柳叶眼里没有任何情绪，连厌憎也没有了。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "这些每天都必须做的家务活，他还要服侍桑桑的衣食起居，包括烹茶弈棋，烹茶这种事情好说，弈棋……陈皮皮都从来没有赢过桑桑，更何况宁缺，所以弈棋反而成为了他最痛苦最羞辱的事情。\n　　日子就这样简单枯燥地重复着，他疲惫地做着各种事情，夜里脑袋沾着枕头便睡着，再没有精神站在榻畔看她看一夜。\n　　桑桑看上去没有",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "咳下去，可能会血尽而死，更有可能会把心肝都咳出来。\n　　桑桑的脸上没有任何表情。\n　　宁缺站起身来，离开榻畔，揉着生疼的胸口，抱起应该属于他的被褥，走到阴暗的角落，铺好，躺在上面发出一声叹息。\n　　这声叹息有些委屈。\n　　想当年在岷山里，他和桑桑向来是一起睡的，在渭城里虽然有一床一炕，但睡着睡着两个",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

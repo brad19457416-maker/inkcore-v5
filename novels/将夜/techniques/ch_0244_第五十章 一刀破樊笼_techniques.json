@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 244,
+  "chapter_title": "第五十章 一刀破樊笼",
+  "filename": "ch_0244_第五十章 一刀破樊笼.txt",
+  "char_count": 4632,
+  "timestamp": "2026-04-10T12:11:12.045065",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "何物燃烧而成的小火堆骤然瑟缩，似乎快要熄灭，室内的温度急剧降低，盖着皮褥的荒人母子口鼻处吐出的湿气，瞬间变成了白雾，但似乎并没有马上醒来。\n　　三名神殿裁决司的黑衣执事，沉默看着幽暗火光映照下的荒人母子，听着这两道悠长的呼吸，缓步向前，笼在黑袖的双手向前探出。\n　　忽然间皮褥掀起，那名荒人妇女手中不",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第二名黑衣执事向后疾退，双手在身前一挥，洒出道道神辉线条。\n　　宁缺弃刀，缩身如猿跳起，避开那些危险的线条，跳到对方的上空。\n　　一抹衣袂飘落。\n　　宁缺双手探出，指尖用力抠住那名黑衣执事脸骨，双膝闪电般蹬向对方胸骨。\n　　啪的一声脆响，这名黑衣执事胸骨尽碎。\n　　借着前扑之势，两个人翻倒在帐外",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第五十章 一刀破樊笼\n　　帐帘掀起，风夹着雪花飘了进来，昏黄不知何物燃烧而成的小火堆骤然瑟缩，似乎快要熄灭，室内的温度急剧降低，盖着皮褥的荒人母子口鼻处吐出的湿气，瞬间变成了白雾，但似乎并没有马上醒来。\n　　三名神殿裁决司的黑衣执事，沉",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "事情变得严肃，同样擅长把严肃的事情变得好笑。所以三名黑衣执事觉得自己的信仰受到了前所未有的羞辱，非常愤怒。\n　　黑帽遮脸看不到愤怒燃烧的眼神，但微微颤抖的黑衣，帐内天地元气急剧的波动，都在证明执事们的愤怒以及即将出手的事实。\n　　莫山山面无表情看着三名黑衣执事说道：“我们可以解释。”\n　　为首那名黑",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "极窄极细的道剑在极精湛的念力控制下，刺破那蓬微弱火堆上的火苗，刺向荒人妇女的胸口。\n　　然而不知道因为什么原因，那名荒人妇女身体骤然一倾，那枝窄细道剑没有刺进她的胸口，而是擦着她的肩头飞了过去。\n　　妇人肩上的皮袍在剑尖撕开，内里微黑的肌肤出现一道极浅的伤口，伤势并不是太重，仿佛她的皮肤比钢铁更要坚",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "这几句推断在他们看来是天经地意的事情，所以不需要思考。\n　　宁缺有些赞叹于这些裁决司执事的相声本领，心想当初在长安城里看见隆庆皇子这位裁决司大佬时，怎么没有这般有趣？\n　　他忍不住笑了起来，望向莫山山说道：“我说过没有人会信，结果你不信。”\n　　然后他望着那三名黑衣执事说道：“要去裁决司当执事，是不",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "他们身上漆黑沉重一直垂到脚面上的外衣，很自然地想起西陵神殿那个最令人感到厌憎或是恐惧的机构，微微蹙眉说道：“你们是裁决司的执事？”\n　　三名黑衣执事没有点头，没有回答，只是沉默看着她和宁缺，因为光线角度的缘故，看不到他们的眼神，但可以清晰地感觉到沉默里蕴着的冷酷和强大。\n　　莫山山的眉头蹙的更加厉害",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "阴暗的角落，先前他们只听到了两道呼吸声，根本没有想到帐蓬里还有别人，然而这时候他们很确定还有别的敌人存在，因为他们听到了角落里响起的悠长呼吸声。\n　　因为阴暗角落里那两个人让他们听到了自己的呼吸声。\n　　宁缺余光注意到先前那刻，莫山山垂在身畔的右手轻轻动了一下，知道是她救了那名荒人小男孩儿，于是对稍",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "枝窄细道剑没有刺进她的胸口，而是擦着她的肩头飞了过去。\n　　妇人肩上的皮袍在剑尖撕开，内里微黑的肌肤出现一道极浅的伤口，伤势并不是太重，仿佛她的皮肤比钢铁更要坚硬一般。\n　　三名裁决司执事察觉到了帐内的诡异之处，身周一阵急剧的念力波动，其中二人向阴暗角落里望去，目光阴沉，先前那名黑衣执事，左手探出衣",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“所以没有误会，你们该死。”\n　　三个黑衣执事语句之间没有任何停顿，接驳的非常自然流畅，仿佛已经说过无数遍，又或者证明说这几句推断在他们看来是天经地意的事情，所以不需要思考。\n　　宁缺有些赞叹于这些裁决司执事的相声本领，心想当初在长安城里看见隆庆皇子这位裁决司大佬时，怎么没有这般有趣？\n　　他忍不住",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "配合到这么好，还真有些困难。”\n　　他说话的语气很认真，所以听上去很好笑。\n　　三名神殿裁决司执事，来到荒原深处，想要杀死一些荒人，包括帐内这对荒人母子，不管他们是为了昊天的光辉，还是为了中原的和平繁荣，还是为了神殿的万世基业，总之这些执事们认为杀人是一件很严肃的事情。\n　　然而宁缺擅长把好笑的事情",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "稍后的事情有了更多的把握。\n　　莫山山看着帐帘处那三名把面孔隐藏在黑色帽影里的男子，看着他们身上漆黑沉重一直垂到脚面上的外衣，很自然地想起西陵神殿那个最令人感到厌憎或是恐惧的机构，微微蹙眉说道：“你们是裁决司的执事？”\n　　三名黑衣执事没有点头，没有回答，只是沉默看着她和宁缺，因为光线角度的缘故，看",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "向下刺来的那一瞬间，仿佛有一双无形的手，抓住了小男孩儿的双肩，把他硬生生地拖走了。\n　　那名黑衣执事缓缓转头，和两位同伴一样，沉默望向帐蓬阴暗的角落，先前他们只听到了两道呼吸声，根本没有想到帐蓬里还有别人，然而这时候他们很确定还有别的敌人存在，因为他们听到了角落里响起的悠长呼吸声。\n　　因为阴暗角落",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "蕴藏着的昊天神辉之力，把那些看似神异强大的淡金线条切的粉碎！\n　　数千声极细微又极清脆的断裂声，几乎同时密集响起，就像数千具蛮人铁琴被同时断弦，又像是数千只铁蜈蚣风筝同时断了线。\n　　啪啪啪啪……\n　　樊笼道法的千根金线，被刀风吹成乱絮，四处飘离，再无任何力量。\n　　之所以会出现这样的情况，并不是因",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

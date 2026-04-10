@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 615,
+  "chapter_title": "第二百四十七章 我是一只来自西林的虎(下)",
+  "filename": "ch_0615_第二百四十七章 我是一只来自西林的虎(下).txt",
+  "char_count": 3452,
+  "timestamp": "2026-04-10T12:05:08.560199",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "钟夫人，忽然紧紧地抓住他的手，脸上露出一丝恳求的神色。\n\n    钟瘦虎知道妻子想说什么，微微一笑，说道：“我明白，那个小家伙确实在那艘战舰上。”\n\n    他按下通话按扭，接通了相隔极远的那艘联邦运输舰，淡然问道：“许乐在不在？”\n\n    片刻后，明显慌乱一片的通话系统那头传来许乐微颤的声音：“",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "情绪，已然处于死境绝地，这头老虎居然还如此狂妄强悍地试图让帝国指挥官为他陪葬？\n\n    一股强烈的危险感觉涌上心头，他椎开舱门，脚步沉稳而快地向着战舰某处走去，在那里有一台蒙着灰尘的狼牙机甲，正一直等待着他。\n\n    卡顿郡王的情绪，比任何人都觉得荒谬，他震惊地看着古钟号的最后一次调整舰姿，猜到",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "活捉的环节表现的相当淡漠，大概是因为陛下非常清楚，像钟瘦虎这种人物是不可能被机甲击败的。\n\n    第一次，怀草诗心中生起某种强烈的战斗**，他很想和那台不可一世的黑色机甲打一场。\n\n    就在此时，他的目光敏锐的注意到古钟号在漫天弹火间，艰难而冒险地做了一次舰姿调整，舰身旁的一块合金护板正在打开",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "帝国机甲居然全军覆没，那头来自西林的老虎，在机甲之中竟然也是如此凶悍。\n\n    直到此时他才明白，为什么陛下一直对计划活捉的环节表现的相当淡漠，大概是因为陛下非常清楚，像钟瘦虎这种人物是不可能被机甲击败的。\n\n    第一次，怀草诗心中生起某种强烈的战斗**，他很想和那台不可一世的黑色机甲打一场。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "悍猛的新式机甲群，终于突破了飞船外层的坚囡合金壁，疯狂地杀了进来。\n\n    他的脸色愈平静，神情愈轻松，眼眸里却蕴着前所未有的坚定与狠厉。\n\n    被无数合金壁区隔开来的飞船内部，无数惨烈的战斗正在打响，电磁束炸弹喷射出的电弧碰线条，烧灼着鼎壁，出哧哧的响声，到处都是武器射出的蚀孔和激起的烟尘。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "事实上自都星圈回到西林继承家业之后，再也没有人看到过他操控机甲，在战场上呼啸如虎的模样。\n\n    人们或许会敬畏他的权势，惊叹他的指挥才能，却很少有人注意过他的机战水平，只有联邦军神李匹夫，曾经在费城湖畔某次私下谈话中，给予这头西林猛虎以至高的评价。\n\n    无数道机甲残影破开空间的拘束，凌厉地",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "死寂宇宙，没有任何声音，美丽地令人无比恐惧。\n\n    机甲座舱中。\n\n    脸色苍白的钟夫人身体颤抖，无力地靠在他的身边，说道：“我害怕。”\n\n    又有一场爆炸响起，艳丽的红光占据了巨大豁口那片令人心悸的宇宙画面，像是夕阳正在落下。\n\n    “我们在一起，不要怕。”\n\n    钟瘦虎看着如",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "放弃计划，杀了他！”\n\n    古钟号的弹射装置终究没有能够启动，钟瘦虎操控的黑色机甲，也失去了绽放人生最后一次壮烈光彩的机会，因为随着帝国指挥官的命令，高巡航在古钟号四周的战舰群，将准备了很长时间的一次集射，送给了他。\n\n    同时，侵入古钟号飞船内部的帝国机甲，也按照穿越猎杀计划中的最后环节，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "战场上呼啸如虎的模样。\n\n    人们或许会敬畏他的权势，惊叹他的指挥才能，却很少有人注意过他的机战水平，只有联邦军神李匹夫，曾经在费城湖畔某次私下谈话中，给予这头西林猛虎以至高的评价。\n\n    无数道机甲残影破开空间的拘束，凌厉地互相撞击，有座舱被击垮，有火星四溅，有沉闷而震耳欲聋的金属撕裂声…",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "孔和激起的烟尘。\n\n    帝国人的新式机甲就像一样嗜血的野兽，破开飞船外壳，疯狂地向着下层进，此时进入飞船内部的机甲数量并不是太多，然而这些如同黑色幽灵一样高趋避闪动的新式机甲，让完全没有任何心理准备的西林官兵付出了惨重的代价，很多制式反机甲武器全部落空，黑烟阵阵，爆炸连连，却无法将这群兽潮挡住片",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "部，方向正对着自己所在的战舰。\n\n    这头老虎想做什么？\n\n    怀草诗的眼睛眯的更加厉害了，猛然间他明每了对方的企图，眼瞳猛地一缩，泛起一丝荒谬而震撼的情绪，已然处于死境绝地，这头老虎居然还如此狂妄强悍地试图让帝国指挥官为他陪葬？\n\n    一股强烈的危险感觉涌上心头，他椎开舱门，脚步沉稳而",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "片刻后，侵入古钟号内部的机甲拍摄的战场画面才传了回来，看着画面中那台恐怖的黑色机甲，怀草诗的眼睛缓缓眯了起来，执行活捉计划的帝国机甲居然全军覆没，那头来自西林的老虎，在机甲之中竟然也是如此凶悍。\n\n    直到此时他才明白，为什么陛下一直对计划活捉的环节表现的相当淡漠，大概是因为陛下非常清楚，像",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "随着帝国指挥官的命令，高巡航在古钟号四周的战舰群，将准备了很长时间的一次集射，送给了他。\n\n    同时，侵入古钟号飞船内部的帝国机甲，也按照穿越猎杀计划中的最后环节，生了猛烈的自爆，平台上方那些变成残骸的二十台狼牙机甲，变成了令人胆寒的烈性**，其余侵入飞船引擎系统的帝国机甲，则是成功地凭借自己的",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "怕。”\n\n    钟瘦虎看着如大海般的星辰，看着归路，紧紧地抱着妻子，把她的脸埋进自己厚实的胸膛，用温柔的声音安慰道：“不要看，不要看……”\n\n    然后死去。\n\n    就此死去www.xiaoshuotxt。com",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 245,
+  "chapter_title": "第五十一章 白雪墨眉不相欺",
+  "filename": "ch_0245_第五十一章 白雪墨眉不相欺.txt",
+  "char_count": 5556,
+  "timestamp": "2026-04-10T12:11:12.047064",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第五十一章 白雪墨眉不相欺\n　　天空放晴，晨光渐至，醒来觅食的野兽在耐寒树林间穿行，振落树枝上覆着的雪，露出黄黑的树枝本色，苍茫一片的雪原上多了一些颜色与生气，然而看着帐外渐被雪花掩埋的稠稠血渍，少女的脸色依旧苍白。\n　　莫干山的莫",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "了些什么，站起身来安慰说道：“有些事情做了就做了，事后再后悔，除了让自己精神上多些负担之外，没有任何意义。”\n　　莫山山缓缓摇了摇头，漂亮的睫毛轻轻忽闪，看着他的眼睛，很认真地说道：“反省可以让我们以后少做一些错事，还是说你不认为需要反省？”\n　　“如果是说昨天夜里这场莫名其妙的战斗……”\n　　宁缺",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "莫山山并不害怕，只是有些惘然无措，精神上有些无法接受这个事实。她怔怔想了半夜，还是没能想明白，为什么当时的局面会发展成这副模样，为什么宁缺开始反击之后，她很自然地用焚天符把那名裁决司执司烧成了漫天飞舞的轻灰，竟根本没有思考什么。\n　　宁缺端着一碗肉汤，蹲在帐蓬门口美滋滋地喝着，帐外不远处那些黑",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "帮着杀几个人？”\n　　莫山山眼帘微垂，看着棉布厚裙边沿下探出的脚尖，完全不知道该对这个家伙说些什么，心想你我虽然不惧神殿中人，但怎么从你口中说出来，杀死几名神殿裁决司执事，就像是在路上顺手打了两只黄羊一般？\n　　少女轻声喃喃说道：“但他们是神殿的人啊。”\n　　昨夜清理尸体时，宁缺从被自己劈成两半的裁",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "许会让很多青春热血的少男们感到有些不悦，但宁缺看着她明亮的眼睛，却觉得有些感动，因为感动而有些莫名的紧张。\n　　为了尽快驱除掉这份紧张，他摇头说道：“就算这些裁决司执事没办法对付我们，但那对荒人母子怎么办？他们要杀人时，你究竟拦还是不拦？”\n　　宁缺看着少女呵呵笑着说道：“你心肠好，当然不可能看着孤",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "回书院，说起来，我还没有见过夫子他老人家，抢卷天书当见师礼，想着就觉得很兴奋啊……”\n　　宁缺越说越激动。\n　　莫山山的眼眸里忽然闪过一抹羞意，说道：“我要你抄录的那份。”\n　　宁缺挥了挥手，豪迈说道：“你先挑。”\n　　站在雪地里，二人想像着可能性几乎为零的美好未来，都笑的有些痴憨。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "山山苍白的脸颊上，注意到她平日散漫漠然的眼神此时显得有些惘然脆弱无助，大概明白了些什么，站起身来安慰说道：“有些事情做了就做了，事后再后悔，除了让自己精神上多些负担之外，没有任何意义。”\n　　莫山山缓缓摇了摇头，漂亮的睫毛轻轻忽闪，看着他的眼睛，很认真地说道：“反省可以让我们以后少做一些错事，还是说",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "思去看少女好看的脸。\n　　他看着莫山山低着头无辜无助的神情，下意识里想伸手去戳戳那可爱的鼓起的粉腮，骤然间想起对方书痴的身份，强行敛下心头的冲动，宽解说道：“呆会儿我就把尸体处理掉，这个事情我很擅长，那就没人知道这件事情了。”\n　　可惜世间只有一个书院，也只有书院才能教出宁缺这样的学生，莫山山虽是名",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "：“反省可以让我们以后少做一些错事，还是说你不认为需要反省？”\n　　“如果是说昨天夜里这场莫名其妙的战斗……”\n　　宁缺耸耸肩，把碗里剩下的最后那口肉汤喝掉，然后说道：“当然不需要反省，我可不理会他们是神殿裁决司的什么重要人物，我只知道他们想要杀我，那么我反击自然是天经地义的事情。”\n　　接着他很认",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "神殿某位重要人物的家人。然而宁缺并不畏惧，因为这种事情只要没有证据，谁也拿他没辄。\n　　他虽然和世间众人一般信奉昊天，但自幼颠沛流离，见惯诸多丑恶，又在底层挣扎求存，所以对神殿这种传说中地方并没有太深的敬畏之心，后来回了长安城进了书院，被那座大山里的骄傲自恋二气薰陶日久，敬畏之心更淡。\n　　又因为在",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "颜色与生气，然而看着帐外渐被雪花掩埋的稠稠血渍，少女的脸色依旧苍白。\n　　莫干山的莫山山没有杀过人，来到荒原的莫山山开始杀人，但她没有杀过自己人，对于中原的昊天子民而言，神殿中人理所当然都是自己人。\n　　她的老师是神殿客卿，她信奉昊天，她奉神殿之命进入荒原查探敌情，结果却在昨天那个黑沉的夜里杀死了三",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "慰说道：“有些事情做了就做了，事后再后悔，除了让自己精神上多些负担之外，没有任何意义。”\n　　莫山山缓缓摇了摇头，漂亮的睫毛轻轻忽闪，看着他的眼睛，很认真地说道：“反省可以让我们以后少做一些错事，还是说你不认为需要反省？”\n　　“如果是说昨天夜里这场莫名其妙的战斗……”\n　　宁缺耸耸肩，把碗里剩下的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "何意义。”\n　　莫山山缓缓摇了摇头，漂亮的睫毛轻轻忽闪，看着他的眼睛，很认真地说道：“反省可以让我们以后少做一些错事，还是说你不认为需要反省？”\n　　“如果是说昨天夜里这场莫名其妙的战斗……”\n　　宁缺耸耸肩，把碗里剩下的最后那口肉汤喝掉，然后说道：“当然不需要反省，我可不理会他们是神殿裁决司的什么",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "该倾向于他们。”\n　　“谁对你不好，你就应该对谁不好，神殿对你不好，那他们的死活不关你的事，而你以前从来没有见过荒人，你为什么要帮神殿杀荒人？荒人千里迢迢南下至此，那位大姐没说见着你像见鬼一样拿刀就砍，而是拿了一块肉给你吃，这时候又在给你熬肉汤……吃了一块千年而来的肉，这叫什么？这就叫缘份啊。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

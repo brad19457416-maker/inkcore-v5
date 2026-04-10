@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 203,
+  "chapter_title": "第一百四十二章 复仇者",
+  "filename": "ch_0203_第一百四十二章 复仇者.txt",
+  "char_count": 3367,
+  "timestamp": "2026-04-10T12:04:51.084859",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "德林议员又代表了环山四州民众的集体意志，在大选即将展开的时候，联邦里的政治人物，大概都不会愿意冒这种风险。\n\n    电脑光屏上显示着帐号里的数字，第一次亲眼看到这么多资金在自己的掌握中，即便冷静如许乐，也不禁一时间有些失神。直到今天，他还是不能完全明白，利家那位七少爷究竟是基于何种考虑，愿意向自己",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "肃时而可爱的面庞。\n\n    许乐和施清海已经失去了很久联系，他并不知道施公子正在一步步地逼近事情的真相，甚至已经掌握到了一些麦德林议员参与临海州暗杀事件的证据，问题在于他们二人都是孤独行走在复仇道路上的年轻人，手里就算拿着证据，大概也不知道应该往哪里送。\n\n    邰家那位夫人本来应该是最为愤怒此",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "将展开的时候，联邦里的政治人物，大概都不会愿意冒这种风险。\n\n    电脑光屏上显示着帐号里的数字，第一次亲眼看到这么多资金在自己的掌握中，即便冷静如许乐，也不禁一时间有些失神。直到今天，他还是不能完全明白，利家那位七少爷究竟是基于何种考虑，愿意向自己投资。\n\n    不拘一格的斧子？这种说法太过唯",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "第一百四十二章 复仇者 \n\n    人体内的血终究不是消防车里贮存着的水，从断腕处喷涌而出，不过刹那便已衰竭，滴滴渗着，打湿了沙前面那一片合成毛毯，毛毯吸饱了鲜血，颜色变得极深极沉，血腥味却没有被吸住，而是开始不停地向房间四周弥漫。\n\n    穿着合成毛衫的中年人叫王玄，一个很普通的名字，一个很",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "被斧子劈开了一道缺口的大门。\\在门后沙旁，已经死去的王玄闭着眼睛斜倒在血泊之中。\n\n    乘坐地铁来到都南效的旧机场附近，听着街头那些流浪艺人敲击空炮壳的音乐，施清海沉默地走到拐角处一个火炉旁。深春的天气已经开始显得燥热，火炉的四周没有任何人愿意靠近，里面只是残留着一些用来祭奠逝的香灰，似乎佑兰节",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "仇道路上的年轻人，手里就算拿着证据，大概也不知道应该往哪里送。\n\n    邰家那位夫人本来应该是最为愤怒此事的大人物，可是在联邦大和解的背景之下，麦德林议员又代表了环山四州民众的集体意志，在大选即将展开的时候，联邦里的政治人物，大概都不会愿意冒这种风险。\n\n    电脑光屏上显示着帐号里的数字，第一",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“对方是一名军官，他背后是谁我不清楚，但有一次查到似乎是议会山里某位大人物，最开始我以为是七大家里的谁，但后来分析应该不是。”\n\n    王玄瘫软地倚靠在沙上，双眼有些无神地看着手腕处滴下地鲜血，没有丝毫犹豫，便按照施清海的要求进行供述，他也曾经是组织里地一分子，十分清楚组织对于叛徒处置的严",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "用怨冷的眼神看着身前的漂亮男人，没有问对方是怎么找到自己的住所，虽然这是他最大的好奇，他只是强自冷静说道：“你想要什么？”\n\n    公寓外的简易监控系统和报警系统，在对方破门而入的时候，没有丝毫反应，看来对方提前已经将公寓四周清洗了一遍。王玄虽然只是一名情报人员，但自保的本事也不差，然而在对方面前",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "不想因为失血过多而死亡，他也不认为面前这个漂亮的男人会马上杀死自己。\n\n    做他们这种工作的人，一向极为小心，他们死亡的方式往往是死于背叛或被上级灭口，很少有这种被敌人直接找上门来，砍断手臂的暴戾场景。\\\n\n    王玄抬起头来，用怨冷的眼神看着身前的漂亮男人，没有问对方是怎么找到自己的住所，虽",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "的脸上流露出一丝怪异的神情，喘息着说道：“先前那些，我只是求你能给我一个痛快，你明知道这个要求我不能满足你。”\n\n    施清海将钱包扔在地上，取出里面的一张照片，照片是王玄和他妻子女儿合影。\\\n\n    他将照片放在王玄的双眼之前，没有说一句话，只是等着对方的回答。\n\n    王玄死死地咬着嘴唇，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

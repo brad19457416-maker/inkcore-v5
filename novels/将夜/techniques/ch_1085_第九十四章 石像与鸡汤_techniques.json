@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1085,
+  "chapter_title": "第九十四章 石像与鸡汤",
+  "filename": "ch_1085_第九十四章 石像与鸡汤.txt",
+  "char_count": 3467,
+  "timestamp": "2026-04-10T12:11:34.938418",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "落，堆满了山谷，碾破了半座旧寺。\n　　幸运的是，那些巨大的岩石没有对小镇造成灭顶之灾，这些年被海雨天风不停浸润，渐渐覆上青苔，反而变成了一片难得的风景，在盂兰节会停力，烂柯寺香火渐衰的当下，已经成为吸引游客唯一的办法。\n　　小镇居民现在最主要的收入，便是来自这些佛祖石像变成的石头，人们把这些巨石破开",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "他站在萧瑟的秋风里，站在燕国成京城头，静静等着宁缺的到来。\n　　有很多人一直以为宁缺和隆庆之间的这场战斗无可避免，应该随时会发生，然而令人意想不到的是，宁缺迟迟未至，战斗始终没有发生。\n　　宁缺在秋雨里的烂柯寺看桑桑。\n　　桑桑现在在看什么？\n　　极北寒域里的黑夜那般的漫长寒冷，热海早已被厚雪覆盖，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的当下，已经成为吸引游客唯一的办法。\n　　小镇居民现在最主要的收入，便是来自这些佛祖石像变成的石头，人们把这些巨石破开成无数小块，然后雕成佛像，卖给那些慕名而来的游客――当然，想要把巨石破开，是件很辛苦的事情，再沉重的铁锤和再锋利的铁刀，都无法帮助居民简单地达成目的，人们最常用的方法还是火烧水淋。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "四章 石像与鸡汤\n　　当年宁缺和桑桑被修行界围攻，通过佛祖棋盘去到西荒，秋雨里的烂柯寺，承受了书院的愤怒，君陌铁剑破空而去，便把瓦山峰顶世间最大的那尊佛祖石像斩成无数碎块，那些碎块从峰顶滚落，堆满了山谷，碾破了半座旧寺。\n　　幸运的是，那些巨大的岩石没有对小镇造成灭顶之灾，这些年被海雨天风不停浸润，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "场旁的山坡上，看着居民破石的过程，沉默观看了很长时间，看着那些火与水的交替，看着那些覆着青苔的巨石上出现的裂痕，发现绝大多数裂痕出现的时候，都依循着一定的规律，两道斜斜的裂口在某处交会。\n　　两道裂缝组成一起，很像那个字，他很自然地想起多年前在天弃山峰深处、在那片大明湖底看到的那些石头上的剑痕，小师",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "城的街上，有个胸口碎大石的小姑娘。\n　　时隔多年，她还是那般豪气干云。\n　　宁缺想起当年的画面，有些感慨。\n　　他做为师叔，不方便看她的手落处。\n　　陈皮皮却没这方面的忌讳，喃喃叹息道：“本来就不大……”\n　　在烂柯寺外，有数千名新教信徒在等着陈皮皮和唐小棠，他们将要前往宋国，就像宁缺万里杀人，他们",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "吧，想要什么。”\n　　唐小棠指着亭外那排被雨水打湿的石像，说道：“送我一个。”\n　　宁缺有些没想到，走出亭外拾起一个自己最满意的石像，递给他说道：“又不是没见过真人，何必看这冷冰冰的像。”\n　　唐小棠接过石像，用袖子擦去上面的雨水，珍重放进行礼，说道：“如果你能把她找回来，何必刻这些冷冰冰的像？”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "石破开成无数小块，然后雕成佛像，卖给那些慕名而来的游客――当然，想要把巨石破开，是件很辛苦的事情，再沉重的铁锤和再锋利的铁刀，都无法帮助居民简单地达成目的，人们最常用的方法还是火烧水淋。\n　　火是镇外田野里干草点燃的野火，水是从瓦山那面汲来的海水，小镇东南方向的采石场里，从早到晚都冒着薰眼的烟，热气",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "瓦山那面汲来的海水，小镇东南方向的采石场里，从早到晚都冒着薰眼的烟，热气蒸腾，被烧至微微发红的岩石，骤然遇着寒冷的海水，发出嗤嗤的声音，一次两次无味地重复，终有某刻，那些坚硬的岩石上会迸出清晰的裂口，而那便是破石的关键。\n　　宁缺站在采石场旁的山坡上，看着居民破石的过程，沉默观看了很长时间，看着那些",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "“如果让叶苏或是大师兄来写，或者更合适些，你知道我终究还是个无信者。”\n　　这是他在烂柯寺静修观石的同时写的一些文字，如果能够被通过，那么便有可能成为新教教义最后也是最重要的那卷。\n　　陈皮皮接过卷宗，说道：“大师兄来做，成功的机会自然更高些，我来做会比较辛苦，不过放心，你的心血，不会在我手里被糟蹋",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "块尺许见方的石块，只需要十余个日夜，便会变成雕工精美的佛像。\n　　宁缺看完破石，再看石匠雕佛，看了三日后，他开始跟随那些工匠学习雕佛，没有用多长时间，他便成了瓦山雕工最好的那个人――在佛祖棋盘最后的那些年里，他把整整一座山都修成了佛的模样，那些石块对他又能有什么难度？\n　　只是他雕出来的佛像与小镇石",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "间确实已经不多，要抓紧些。”\n　　陈皮皮翻开那封卷宗，看着上面有关新世界、有关神国或来世的说法，眉头缓缓蹙起，说道：“真是很壮阔的画面。”\n　　宁缺说道：“从老师到师叔，再到我们这一代，书院用了整整一千年时间来准备，如果还不能出现一个壮阔的画面，那多不好玩。”\n　　陈皮皮收好卷宗，看着他眉眼间掩之不",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "盘里的朝阳城里减了些。”\n　　宁缺将石像放到旁边十余个石像里，搁下刻刀，拍拍身上的灰站起。\n　　那人说道：“一千年时间就减了这么点？昊天看来也不是无所不能。”\n　　宁缺笑了笑，转身与他相拥，说道：“你以前不是挺喜欢她？现在说话怎么这么刻薄？也不符合现在你新教之主这么高大上的身份。”\n　　陈皮皮有些无",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

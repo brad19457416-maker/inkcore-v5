@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 1004,
+  "chapter_title": "第三百二十六章 我是我的眼（下）",
+  "filename": "ch_1004_第三百二十六章 我是我的眼（下）.txt",
+  "char_count": 3456,
+  "timestamp": "2026-04-10T12:05:26.901974",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "挟持的机师也被救了回来，在座舱弹射前的最后瞬间，这名机师被扔了出去，短暂昏迷后便醒了，并没有什么生命危险。\n\n    晨风拂过，十几台黑色机甲望着东方的天空，这些联邦最优秀的军人脸上挂着愤懑不平和不某（甘）的神色，他们恼火地咒骂着许乐的无耻狡诈，然后神情复杂地望向斩喜机甲。\n\n    做为李疯子直属",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，就如同你父亲是个混帐东西，但我并不认为你是混帐，我也不认为你需要承担代价。”\n\n    “叛军？你真相信基地那位将军的话，你相信军方上层的指控？不，我知道你不相信，七组是我和老白一手带出来的，你知道他们是多么了不起的家伙。”\n\n    “熊临泉他们战前被临时调进ntr，被派遣到西南战区，被刻意遗忘",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，有需要的时候，我会比你更不讲理更暴戾，因为此时此刻，我比你更理直气壮！”\n\n    “你给了我公平决战的机会？”\n\n    许乐眯着眼睛环视四周黑色石像群般的联邦机甲，说道：“把你的mxt给我，我一个人干你们全部这算不算公平？你们不要忘了这些机甲都是我设计的，联邦这么对我公平吗？”\n\n    环视",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "射装置全面启动，强大的反作用力带动整个座舱瞬间脱离机身，如同一个浑圆的金属壳，呼啸着喷向斜上方的荒原天空！\n\n    几乎同时，数百米外安静沉默太长时间的灌木丛处也传来剧烈的轰鸣声，一艘浑身涂满光学吸附材料的深色飞船，在强劲引擎的推动力下，呼啸斜掠而至！\n\n    十余台联邦mx机甲根本无法做出任何",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "木丛微微颤动，不知道发生了什么。\n\n    许乐盯着李疯子的脸，声音陡然提高，不再压抑已经压抑数日的愤怒，厉声喝斥道：“联邦打的最惨的部队有没有这么高的死亡率？杜少卿往西南战区投的四个师有没有？海峡会战区的部队有没有？如果都没有，那么你来告诉我，这他妈的又算什么狗屁公平！”\n\n    李疯子眉梢微挑",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "色mx机甲开始剧烈颤抖，噗噗连续闷响声中，十几处精密火箭推射装置全面启动，强大的反作用力带动整个座舱瞬间脱离机身，如同一个浑圆的金属壳，呼啸着喷向斜上方的荒原天空！\n\n    几乎同时，数百米外安静沉默太长时间的灌木丛处也传来剧烈的轰鸣声，一艘浑身涂满光学吸附材料的深色飞船，在强劲引擎的推动力下，呼",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "！”\n\n    “你给了我公平决战的机会？”\n\n    许乐眯着眼睛环视四周黑色石像群般的联邦机甲，说道：“把你的mxt给我，我一个人干你们全部这算不算公平？你们不要忘了这些机甲都是我设计的，联邦这么对我公平吗？”\n\n    环视一圈，像钉子般的目光最终落在李疯子那张冷漠的脸上，他舔了舔发干的嘴唇，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "李疯子眉梢微挑，缓声说道：“老七组死的这些人是在为你承担代价。”\n\n    “但他们没有道理承担。”忤乐看着他，嘲讽回答道：“我是不是帝国人和他们没有关系，就如同你父亲是个混帐东西，但我并不认为你是混帐，我也不认为你需要承担代价。”\n\n    “叛军？你真相信基地那位将军的话，你相信军方",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "默，机甲群外围的灌木丛微微颤动，不知道发生了什么。\n\n    许乐盯着李疯子的脸，声音陡然提高，不再压抑已经压抑数日的愤怒，厉声喝斥道：“联邦打的最惨的部队有没有这么高的死亡率？杜少卿往西南战区投的四个师有没有？海峡会战区的部队有没有？如果都没有，那么你来告诉我，这他妈的又算什么狗屁公平！”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "情我会去查，轮不到你这个帝国太子来教训，但你必须死！”\n\n    “你有你的眼睛？”\n\n    许乐缓缓松开左手，让脸色发白的机师能够呼吸到一点新鲜空气，望着李疯子眯眼说道：“可问题在于这个世界，联邦里大部分人的眼睛已经瞎了。”\n\n    说到此处，不知是想起什么事情，他深深吸了一口气，停顿片刻后，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "反作用力带动整个座舱瞬间脱离机身，如同一个浑圆的金属壳，呼啸着喷向斜上方的荒原天空！\n\n    几乎同时，数百米外安静沉默太长时间的灌木丛处也传来剧烈的轰鸣声，一艘浑身涂满光学吸附材料的深色飞船，在强劲引擎的推动力下，呼啸斜掠而至！\n\n    十余台联邦mx机甲根本无法做出任何反应，眼睁睁看着弹射而",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "威武。\n\n    因为他一直记得，三年前在那封著名的告别信里，许乐曾经这样说过：“无论是政亾府还是七大家，我要看着你们会把联邦变成什么模样，把自己变成什么模样，不要试图伤害我想保护的人，不然总有一天我会变成一块燃烧的陨石从天而降，将你们所有人的宫殿与权座砸个稀烂。”\n\n    他想保护的人是沉默行军",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "然后他们很强悍的活了下来，并且很漂亮地完成了那些该死的任务，结果呢？”\n\n    “结果就是已经快要进入绝境的他们，被联邦军方当成叛军追杀！你刚才说我无耻，那我想问一下这又算是什么？联邦现在究竟怎么了？怎么就变成了这样一个垃圾场？”\n\n    “李疯子，我曾经是这个部队的人，但我未曾想过短短三年时间",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

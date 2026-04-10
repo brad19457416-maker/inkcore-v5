@@ -1,0 +1,232 @@
+{
+  "novel": "将夜",
+  "chapter_number": 597,
+  "chapter_title": "第九十九章 破阵！",
+  "filename": "ch_0597_第九十九章 破阵！.txt",
+  "char_count": 3443,
+  "timestamp": "2026-04-10T12:11:26.689628",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "伞在万丈佛光之下变得越来越薄，默默等待着最后时刻的到来。\n　　曾经的少年们已经长大成人，成为修行界里最强大的存在，叶苏渐渐变得不那么骄傲冷漠，唐似乎什么都没有改变，改变最大的是七念，他已经很多年没有开口说话，仿佛要变成真正的哑巴。那名书生则是在烂柯寺外的石阶下站着，身上的旧袄微振，腰间系着的木瓢轻荡",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "会骗人，我担心小师弟看出问题，偷偷带着桑桑跑了，所以我要守在山下，随时准备把他抓回来。”\n　　小书童心想大先生和歧山大师如果说因为太老实而不会骗人，但以少爷你这种性情，只怕也没办法骗人，哪里有资格说别人什么。\n　　“那我们要在这里转多长时间？”\n　　二师兄又道：“如果歧山老和尚不像别的秃驴那般爱说大",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "小书童骑在后面那匹白马上，与雄骏高大的马身一衬，显得愈发可爱，他看着前面，稚声不解问道：“少爷，我们为什么忽然下山？”\n　　二师兄说道：“老师前些天告诉我，师兄想骗小师弟和桑桑去烂柯寺治病，但我以为师兄和歧山都太老实，不怎么会骗人，我担心小师弟看出问题，偷偷带着桑桑跑了，所以我要守在山下，随时准备把",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "以无论寺中的僧人，还有七念等人，都把精力放在寺门处，没有人注意到他的神情有些变化。\n　　因为心情过度紧张，宁缺也没有注意到大师这段话里面的某些细节――大师说会让观海把棋盘交给大师兄，而且把解开棋盘的方法也寄托在夫子的身上。\n　　“宁缺，我只希望你无论以后遇到什么事情，都不要变成第二个莲生，你可以做轲",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "里响起。\n　　宁缺沉默片刻后，微微低头。\n　　忽然就在这时。\n　　烂柯寺前中后三寺震动不安，无数梅树骤然粉碎，无数道寺墙碎成粉砾，十七座古钟哑然失声，佛光大阵破！\n　　有人闯入寺门，所经之处不断有僧人被震飞空中，十余名修行者喷着血水横飞数十丈，更有数座石尊者像被击飞到天上。\n　　后寺殿前的人们，看不",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "大阵，那么桑桑下一刻便会被万丈佛光净化成一道青烟。\n　　宁缺从来不知道绝望怎么写，如果只是他自己面临危险。正如他一直告诉自己的，真的要死绝望又有什么用？然而如果面临死亡危险的是桑桑，他无法不绝望，因为桑桑死了，他还会活着，而那才是真正的痛苦。\n　　就在这个时候，那道苍老而疲惫的声音，再次在他耳中响起",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "腰间系着的木瓢轻荡，灰尘渐离，一脸平静。\n　　相隔十六年，曾经因为冥王之子降世而相聚、或相聚而不知的人们，再次因为冥王之女的苏醒而相聚，时间的流逝和世事的变迁，总是这样令人感慨。\n　　……\n　　……\n　　整齐的颂经声，回荡在烂柯后寺的庭院之间，石坪上的黄衣僧人们浑身是血，却慈悲无双，他们的声音早已嘶",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "书院大先生都破不了，来者是谁？\n　　……\n　　……\n　　早前某时，齐国某处。\n　　这里是当地最著名的风景名胜，这段山道却是最偏僻的角落，罕有人至，所以那两匹雄骏异常的白马行走在其间，蹄声清晰。\n　　二师兄君陌坐于白马之上，峨冠博带，姿仪颇盛，只是稍嫌过于古板中正，无论骏马如何摇晃，他的上半身都保持绝",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "像，心头微动。\n　　而就在这时，忽然一道青烟自远处奔来，溅起无数尘砾。\n　　一路风尘仆仆。\n　　君陌来到烂柯寺前。\n　　他满身灰尘，比大师兄破棉袄上的灰尘还要多，但头上那顶高高的古冠，依然笔直，没有一丝一毫的偏移。\n　　师兄弟二人对视一眼，没有说话。\n　　君陌一声清啸。\n　　烂柯寺外秋树颤抖，青叶飘",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "笔直，没有一丝一毫的偏移。\n　　师兄弟二人对视一眼，没有说话。\n　　君陌一声清啸。\n　　烂柯寺外秋树颤抖，青叶飘落。\n　　瓦山之上，满山红叶飘落。\n　　君陌并指为剑，刺进佛光之中。\n　　他狂喝一声。\n　　高冠下的黑发，被劲风吹拂着向后散开，狂舞！\n　　他的手指在佛光罩里艰难而不容阻挡地下移，生生撕开",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "佛光之下变得越来越薄，默默等待着最后时刻的到来。\n　　曾经的少年们已经长大成人，成为修行界里最强大的存在，叶苏渐渐变得不那么骄傲冷漠，唐似乎什么都没有改变，改变最大的是七念，他已经很多年没有开口说话，仿佛要变成真正的哑巴。那名书生则是在烂柯寺外的石阶下站着，身上的旧袄微振，腰间系着的木瓢轻荡，灰尘渐",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "位黑黑的、被夫人判定为邪祟的女婴，相隔不远的柴房中，宁缺拿起柴刀开始杀人。\n　　在遥远的北方荒原上，出现了一道黑色的沟壑，道门少年叶苏与魔宗少年唐还有年轻的僧人七念，在黑线外的那棵树下看蚂蚁搬家，看了很长时间，警惧不安，不敢逾越半步，而在黑线的那一头，有位书生在池塘边看书，倦时便少歇，渴时便解下腰间",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "烂柯寺石阶前，已经没有大师兄的身影。\n　　转瞬之间，大师兄进入寺院，来到十七座佛殿。\n　　他几乎是同时出现在这十七座佛殿里。\n　　在檐下，在室里，在廊前，在梅边……\n　　大师兄连破十七座古钟。\n　　佛光大阵，就此而破！",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "：“老师前些天告诉我，师兄想骗小师弟和桑桑去烂柯寺治病，但我以为师兄和歧山都太老实，不怎么会骗人，我担心小师弟看出问题，偷偷带着桑桑跑了，所以我要守在山下，随时准备把他抓回来。”\n　　小书童心想大先生和歧山大师如果说因为太老实而不会骗人，但以少爷你这种性情，只怕也没办法骗人，哪里有资格说别人什么。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "骏高大的马身一衬，显得愈发可爱，他看着前面，稚声不解问道：“少爷，我们为什么忽然下山？”\n　　二师兄说道：“老师前些天告诉我，师兄想骗小师弟和桑桑去烂柯寺治病，但我以为师兄和歧山都太老实，不怎么会骗人，我担心小师弟看出问题，偷偷带着桑桑跑了，所以我要守在山下，随时准备把他抓回来。”\n　　小书童心想大",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "大师说会让观海把棋盘交给大师兄，而且把解开棋盘的方法也寄托在夫子的身上。\n　　“宁缺，我只希望你无论以后遇到什么事情，都不要变成第二个莲生，你可以做轲先生，你可以做任何人，不要做莲生师弟，因为那样太痛苦。”\n　　歧山大师虚弱而充满追悔的声音，在宁缺脑海里响起。\n　　宁缺沉默片刻后，微微低头。\n　　忽",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "毁灭之时，大师兄依然无法破开烂柯寺的佛光大阵，那么桑桑下一刻便会被万丈佛光净化成一道青烟。\n　　宁缺从来不知道绝望怎么写，如果只是他自己面临危险。正如他一直告诉自己的，真的要死绝望又有什么用？然而如果面临死亡危险的是桑桑，他无法不绝望，因为桑桑死了，他还会活着，而那才是真正的痛苦。\n　　就在这个时候",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

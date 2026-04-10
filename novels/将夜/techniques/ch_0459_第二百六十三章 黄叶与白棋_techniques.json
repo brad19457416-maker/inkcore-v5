@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 459,
+  "chapter_title": "第二百六十三章 黄叶与白棋",
+  "filename": "ch_0459_第二百六十三章 黄叶与白棋.txt",
+  "char_count": 3604,
+  "timestamp": "2026-04-10T12:11:21.722759",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "沉凝的温井水中时起时伏，知道宁缺正盯着自己看，唇角缓缓释出一道微嘲的笑意，说道：“想看清楚自己的仇人究竟长什么模样？在土阳城里你可没有这般放肆。”\n　　宁缺没有否认他的话，但也没有承认，手指轻轻转着天青色的小茶盅，说道：“土阳城里我敬的是大师兄，并不是你。”\n　　听到这句话，夏侯缓缓抬起头来。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "间的气氛并不像人们想像的那般剑拔弩张，对坐在长桌两头的夏侯与宁缺，只是沉默地吃着饭，偶尔说几句荒原的风光，山门里的遭逢。\n　　简单的晚宴很简单便进行到了尾声，婢女们鱼贯而入，悄无声息地把长桌上的残羹剩菜收走，又端上了两盘青天色的茶壶。\n　　两位夏侯公子替宁缺分了第一道茶，然后很有礼貌地告辞，走出园外",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "”\n　　宁缺这时候终于抬起头来，看着他说道：“将军威武。”\n　　地面上的黄色落叶被秋风拂向四周，直至来到墙角才停歇，看上去就像是湖水一波一波拍打着堤岸，泛起很多层浪。\n　　夏侯说道：“仇恨这种事情，有时候不能解也必须解。”\n　　落叶在庭院墙角越堆越高，最上面的落叶簌簌落下，又被依旧占据着地面的秋风再",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "动你。”\n　　宁缺认真问道：“这是威胁？”\n　　夏侯说道：“我是在教育你，任何背景靠山，都是没有任何意义的事情，在真正的生死面前，只有自己的力量才值得信任。”\n　　宁缺看着他笑了起来，说道：“当年我小师叔一剑挑了魔宗，将军发现自己的背景靠山尽数变成泡影，所以才会叛出师门投靠西陵？但我的情况可不同，夫",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "大将军强势的威压和秋风黄叶带来的肃杀意，想着二人之间那深刻化不开的怨仇，就算不生畏惧大概也会感到有些紧张，但宁缺没有，他的脸上甚至没有一丝表情。\n　　夏侯看着他的眼睛，毫无任何先兆，忽然问道：“你是林光远的儿子？”\n　　宁缺看着杯中色泽渐深的茶水，摇了摇头。\n　　带着肃杀气息的秋风，在庭院间持续缭绕",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "闻中夏侯大将军奢阔的排场完全不一样。\n　　此时大概整座长安城都在关注着这场晚宴，然而席间的气氛并不像人们想像的那般剑拔弩张，对坐在长桌两头的夏侯与宁缺，只是沉默地吃着饭，偶尔说几句荒原的风光，山门里的遭逢。\n　　简单的晚宴很简单便进行到了尾声，婢女们鱼贯而入，悄无声息地把长桌上的残羹剩菜收走，又端上",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "侯大将军的脸变得腥红一片。\n　　不是每次脸红都是喝醉。\n　　今夜喝的是茶。\n　　夏侯大将军的脸红，是愤怒。\n　　宁缺敢如此嘲讽，自然是料定，对方纵使贵为镇军大将军，再如何暴戾嗜杀，依然不敢对出身书院的自己如何。\n　　果然，夏侯静静看着他，就像看着桌上的一片枯黄落叶，脸上的腥红之色渐渐隐去，情绪也渐趋",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "夏侯看着杯中大片乌枞在略嫌沉凝的温井水中时起时伏，知道宁缺正盯着自己看，唇角缓缓释出一道微嘲的笑意，说道：“想看清楚自己的仇人究竟长什么模样？在土阳城里你可没有这般放肆。”\n　　宁缺没有否认他的话，但也没有承认，手指轻轻转着天青色的小茶盅，说道：“土阳城里我敬的是大师兄，并不是你。”\n　　听到这句话",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "抚摩着茶杯，然后他抬起头来，望向长桌那头的夏侯，就像前一刻看茶壶那般专注认真，就如同两年前在书院殿前第一次看到亲王李沛言时，似要把夏侯的脸烙进自己的眼底。\n　　夏侯看着杯中大片乌枞在略嫌沉凝的温井水中时起时伏，知道宁缺正盯着自己看，唇角缓缓释出一道微嘲的笑意，说道：“想看清楚自己的仇人究竟长什么模样",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "年清福。”\n　　宁缺看着他微笑说道：“当然，我只是就事论事，将军你不要误会什么，实际上我以为将军既然马上便要归老，便不应该说这些不吉利的话。”\n　　听到归老二字，夏侯微微眯眼，黝黑如铁的脸庞上浮现出淡漠的情绪，说道：“无论朝廷还是西陵，都以为我能够平安归老，应该觉得很满意才对，其实我并不满意，我麾下",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "供奉却不免有些遗憾。\n　　万雁塔顶层，大唐国师李青山站在石窗边，看着将军府的方向，欣慰说道：“我一直担心宁缺的性情，如今看来跟随夫子学习了这么长时间，果然比当初要识大体的多，也不枉颜瑟师兄将衣钵与阵眼都交给了他。”\n　　黄杨大师看着他微微一笑，没有说什么。\n　　李青山离开塔畔，走回桌旁，把那些佛经推",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "回老家的族人亲眷，也会被老师碾死吧。”\n　　在大唐境内，能够真正让夏侯噤若寒蝉，不敢有任何妄动的人，从来都不是皇帝陛下，而只能是书院后山的那位夫子。\n　　夏侯看着他漠然说道：“如先前所说，我不敢动你，你动不得我，所以主客之势在我手中，我离开长安前的这段日子里，你如果真想做些什么，做的事情让我无法忍受",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，却又温润毫不夺目，茶是乌枞，也是极温和的茶，便是茶温此时也恰到好处。\n　　宁缺专注地看着茶壶，伸手缓缓抚摩着茶杯，然后他抬起头来，望向长桌那头的夏侯，就像前一刻看茶壶那般专注认真，就如同两年前在书院殿前第一次看到亲王李沛言时，似要把夏侯的脸烙进自己的眼底。\n　　夏侯看着杯中大片乌枞在略嫌沉凝的温井",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

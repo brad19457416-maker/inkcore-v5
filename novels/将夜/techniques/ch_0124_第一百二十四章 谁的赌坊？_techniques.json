@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 124,
+  "chapter_title": "第一百二十四章 谁的赌坊？",
+  "filename": "ch_0124_第一百二十四章 谁的赌坊？.txt",
+  "char_count": 2201,
+  "timestamp": "2026-04-10T12:11:12.003074",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "誓死效命，加上现在谁都知道鱼龙帮乃是陛下当年扔在江湖里的一条鱼，即便是官府也不敢太过怠慢，齐四爷毫无疑问是长安黑道唯一的领袖，上得城楼观风景又何足道哉。\n　　然而此时面迎夜风，提着壶酒的齐四没有任何骄傲得意情绪，反而面色黯淡，饮一口酒，叹一声气，成功由一位普通黑道领袖化身为文艺黑道领袖。\n　　他很想",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "发糟糕，可当他看到推门而入的那人时，心情和脸色都变得极为怪异起来，极想发笑却又想哭，想哭却哭不出来，心想这他妈的叫怎么个事儿？\n　　……\n　　……\n　　听到齐四爷三个字，推门而入果然看到那个青衣竹竿般的男人，宁缺的脸色也瞬间变昨极为精彩，心想怎么闹到熟人头上了，说道：“我说咱们熟归熟……实际上也不怎",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "事儿？\n　　……\n　　……\n　　听到齐四爷三个字，推门而入果然看到那个青衣竹竿般的男人，宁缺的脸色也瞬间变昨极为精彩，心想怎么闹到熟人头上了，说道：“我说咱们熟归熟……实际上也不怎么熟……这样，看在朝小树面子上，先前所有帐目我给你打个对折。”\n　　他脑子的反应速度奇快，一句话里竟是转了三个弯，心想如",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百二十四章 谁的赌坊？\n　　一个穿着薄薄青衣，身材瘦高的男子，这时候正在西城门楼最高处的石墙上吹风，因为太瘦，身上青衣仿佛被挂在竹竿上，城楼上夜风一起便猎猎作响。\n　　长安城的夏夜闷热难当，富贵人家自有婢女执扇，冰块盈房，普通人家则只能开了房门，袒腹街巷竹床之上，世人皆知愈往高处走，夜风愈凉，然",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "你穷疯了之后傻逼到去当杀手，所以给你备了些产业。”\n　　齐四爷像看着鬼一样看着震惊无语的宁缺，摇着头愤怒感慨说道：“现在看起来大哥的担心的真的是太他妈有先见之明了，堂堂一个修行者居然跑到赌坊里面来骗银子，这他妈叫什么事！我说你丫真是穷了这么多年穷疯了是吧？”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "死尸让桑桑上街卖身葬主，哪里还顾得上什么旧日交情和大方之类的事情。他看着齐四，轻咳两声后说道：“话说第一次见面时，齐四爷你可是说过只要你活着，这东城任我横趟来着。”\n　　“这里是西城。”齐四爷没好气反驳了一句，然后起身从上了锁的匣子里取出几份地契和官府认证的契书，扔到他面前桌上，说道：“反正这赌坊是",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "句话里竟是转了三个弯，心想如果表现的太熟，那真不好意思拿赢的那些银子，可如果要沉着脸扮演完全不熟，又担心对方真的翻脸，他可是很清楚鱼龙帮不好惹，所以最后才把朝小树这面大旗搬了出来。\n　　齐四爷被他这番话弄的一怔，气的险些笑出声来，狠狠瞪了他一眼，恼火说道：“从这赌坊里赢的银子，你确定想要？”\n　　宁",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "绝对没错，已经派人去银勾打听过了，那小子先去那边赢了一万多两。”\n　　齐四爷犹自不信，摸着后脑勺犹疑说道：“修行者去赌坊捞银子？有这么不懂事儿不要脸的主儿？怎么听着总觉得有些怪？”\n　　那名下属苦着脸说道：“谁也不信啊，银勾那边的大掌柜开始也不信，可后来还不是老老实实把银子交了出来，然后赶紧向我们这",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "些笑出声来，狠狠瞪了他一眼，恼火说道：“从这赌坊里赢的银子，你确定想要？”\n　　宁缺心想还是那句话，大家熟归熟并且确实只见过两面谈不上太熟，难道你就好意思借此不给银子？其实如果涉及的银钱数目少些，他倒不介意在齐四面前扮演一下兄弟情深英雄豪迈大方，但他先前可是赢了七万多两银子……\n　　为了七万多两银子",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "三个字，但必须要说，以前在鱼龙帮最上层的那几位兄弟当中，他真是最不成器的那个，而现如今随着春风亭老朝离开长安，常三等人现了明数，回到朝廷做事，他便理所当然继了鱼龙帮帮主一位。\n　　如今他随便一声令下，便有三千青袍为之誓死效命，加上现在谁都知道鱼龙帮乃是陛下当年扔在江湖里的一条鱼，即便是官府也不敢太过",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

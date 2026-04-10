@@ -1,0 +1,128 @@
+{
+  "novel": "间客",
+  "chapter_number": 561,
+  "chapter_title": "第二百零三章 东北偏北(三)",
+  "filename": "ch_0561_第二百零三章 东北偏北(三).txt",
+  "char_count": 3622,
+  "timestamp": "2026-04-10T12:05:08.539095",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第二百零三章 东北偏北(三) \n\n    大地一片茫茫雪，天空却是沉沉乌云，再加上那些升腾在空中，随风雪四处飘散的黑烟，光线显得有些黯淡。四面八方不时响起一些零星的枪声，无论是隐匿于冰“间的帝国远征军，还是因为意外被伏击的清龙山部队，似乎都被严寒冻住了呐喊与",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "只剩下丁一半兵员，一场惨烈的近身射击战在那一片雪原间突兀展开，疯狂的帝国士兵们根本不在间近距离溅射的危险，更不在乎小区域内的交火会不会误伤同伴！\n\n    枪声骤然响起，大约三分钟后落霎依止，只剩下一片尸体和痛苦哀嚎的重伤者，和十几名眼中泛着暴戾疯癫光芒的帝国士兵。\n\n    就在此时，一名双腿被炸",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "以安布里老将军为首的司令部，虽然依然强力地控制着数万名残军，但那种没有后方，没有去路的凄惨境遇，让帝人们都进入了某种疯癫甚至近乎自杀般的状态二因为暴风雪和地磁暴的原因，帝国远征军非常幸运地围困住了一支联邦军队，他们集结了一个整编大队的兵力，向这支联邦军队发起了攻击……\n\n    他们很清楚自己的装备",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "即便将这支联邦军队全部歼灭，也无法改变帝国被消灭于西林的残酷事实。\n\n    但这又如何？在临死前的刹那，尚未回光返照，忽然发现能够杀死更多的敌人，这种机会他们怎会不抓住？帝国人甚至毫不关心，这支被围困的部队在联邦里的番号，在他们看来，联邦政府军和**军没有任何区别，他们都是联邦人，于是他们都该死。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "乎也没有太多的选择。\n\n    “你的压机箱好像比以前那个要小些。”商秋扶了扶鼻粱工的眼镜，忽然开口说道。\n\n    “这之某人送给我的礼物，稍后看到的事情，请你保密。”许乐回答道，没有解释这是简水儿通过特殊渠道送的那份礼份，一套费城李家专用的新型拟真系统。\n\n    他脱下自己的机师服，露出匀称而",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "人，没有人注意到西南方向陡峪的冰峰侧腰处，有两台雪白色的联邦机甲安静地半伏深雪之中。\n\n    已经进入地磁暴活跃区，t机甲的c全域监控系待，和大半径高敏度雷达都受到了强烈的干扰，光幕上不时闪过警报的字符，浅红色的灯光在座舱内亮起。\n\n    许乐没有理会这些问题，沉就地注视着光幕视界，注视着离自己",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "熊临泉沉就做着火力系统预备动作，白玉兰通过光，幕，看着远方那些并不激烈却格外血腥残酷的战斗画面，语气沉重对系统说道，“小心一些，这批帝国人比我们以前遇到的那些更要疯狂。”是的，在三个行星系中已经走到末路的帝国远征军都已经陷入了临死前最后的疯狂，走其是局面最惨淡的旦奶星球上，以安布里老将军为首的司令部",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "到令人迷醉的力量又回到了身体中。\n\n    随着他的动作，一直安静隐匿于风雪间的白色t机甲左膝微蹲，缓缓地站了起来。\n\n    按照事先拟定好的计划“他们的目的是支援清龙山部队指挥部，而不是疯狂到凭着两台机甲就要去击溃帝国远征军的整编大队，许乐的机甲将做为先锋或是诱饵，吸引战区外围帝国人的火力，强行",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "射击的动作却依然准确无比，一丝不芶。\n\n    尖啸的子弹掠过，击中一名帝国士兵的眼眶，血花伴着脑浆同时飙了出来，他却没有马工倒下，而是凭着某种临死前的本能，向着前方射出了最后两颗子弹，直到联邦人的后续子弹，将他的胸口击成一团乱麻，他才心甘情愿倾倒冰雪之工，双脚微一抽搐便再也没有任何动静，似解脱一般",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

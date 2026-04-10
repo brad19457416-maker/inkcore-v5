@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 279,
+  "chapter_title": "第八十五章 入魔（十）",
+  "filename": "ch_0279_第八十五章 入魔（十）.txt",
+  "char_count": 3329,
+  "timestamp": "2026-04-10T12:11:21.731020",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "已经到了冥界。\n　　莫山山虚弱地靠在他的肩头上，憔悴不堪问道：“我们要死了吗？”\n　　宁缺沉默片刻后说道：“好像是这样。”\n　　莫山山微微蹙起墨眉，说道：“为什么不能安慰一下我？”\n　　宁缺痛苦地咳了两声，自嘲笑着说道：“如果能死的痛快，其实就算是安慰。”\n　　莫山山明白他这句话是什么意思，稍后如果",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "入他的眼眸，进入他的身体，变成温暖的气流，穿过他的手腕和诸多关节，进入他的五腑六脏，变成某种实质般的存在，冷漠地催促他站起来。那些痕迹里蕴藏的剑意是那般的骄傲，怎么能允许在死亡的面前就此绝望就此投降？\n　　于是，宁缺站了起来。\n　　他仰着头静静地看着屋顶的剑痕，仿佛自己都不知道自己已经站了起来。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "问道：“我们要死了吗？”\n　　宁缺沉默片刻后说道：“好像是这样。”\n　　莫山山微微蹙起墨眉，说道：“为什么不能安慰一下我？”\n　　宁缺痛苦地咳了两声，自嘲笑着说道：“如果能死的痛快，其实就算是安慰。”\n　　莫山山明白他这句话是什么意思，稍后如果被莲生大师直接杀死倒还痛快，若像叶红鱼那样眼睁睁看着自己",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "斑驳剑痕没有随着黑夜消失，而是开始泛出幽幽的光焰。\n　　小师叔当年剑斩魔宗诸位强者，剑上染血再上石墙最终变成今天的鬼火？但宁缺清楚记得鬼火这种事物应是腐尸留下的遗存，而且维持不了太长时间才是。\n　　他眯着眼睛看着屋顶那些越来越清晰的剑痕，渐渐看的入神，再一次习惯性地用永字八法去解，竟浑然忘了身上的伤",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "间里变得死寂一片。\n　　绝对安静的环境，正如莲生大师先前怨毒回忆的那样，持续时间长了确实很恐怖，没有风的声音没有花草的声音，宁缺甚至隐隐听到了自己肺部扩张收缩的声音，听到了自己头发磨擦的声音，觉得很是神奇，却又觉得好生可怕。\n　　如果不是能够清晰感受到莫山山温软身躯，或许他真会认为自己已经到了冥界。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "么？\n　　但他感觉到莫山山的情意，心头一片温润感动，轻声说道：“那我知道了。”\n　　莫山山满足微笑，缓缓闭上眼睛，靠在他的怀里，说道：“那这样就够了。”\n　　幽暗寂静的魔殿房间里，那座骨尸堆成的小山中央，如鬼般的老僧手掌轻轻按在一名浑身是血的美丽少女头顶，寒冷如冬，然而在房间的另一角中，有两个即将迎",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "握紧了几块硬物。\n　　一直在老僧枯掌下低头沉默仿佛早已死去的叶红鱼忽然抬起头来，撑在碎骨上的双手微微颤抖，冷冽的眼眸里涌出绝决自弃的倔狠意味。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "第八十五章 入魔（十）\n　　身体里隐晦的感受并没有引起宁缺太多注意，他甚至以为那道温暖是来自于身后的莫山山，他只是静静看着房顶青石间的斑驳剑痕，想着当年小师叔泼洒剑意时的潇洒气度，想着自己这时候等死的无奈，觉得有些惭愧丢脸。\n　　绝望等死是一件很难过的事情，处于这种境地里的人们惯常",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "悴却依然美丽的脸，嗅在近在鼻端的淡淡少女体息，沉默了很长时间，思考应该怎样回答。\n　　这是他两辈子里第一次被异性告白，这是他两辈子听到的最动听的话之一，虽然有些可惜是在昏暗的魔宗山门里，是在死亡快要到来的那一刻，但依然动听的仿佛湖畔杨柳枝轻轻摩擦的声音，那湖可是莫干山下的墨池？\n　　肩畔的少女无论性",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "“好像是这样。”\n　　莫山山微微蹙起墨眉，说道：“为什么不能安慰一下我？”\n　　宁缺痛苦地咳了两声，自嘲笑着说道：“如果能死的痛快，其实就算是安慰。”\n　　莫山山明白他这句话是什么意思，稍后如果被莲生大师直接杀死倒还痛快，若像叶红鱼那样眼睁睁看着自己被吃掉，那才是人世间最大的恐惧。\n　　一念及此，少",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "气度，想着自己这时候等死的无奈，觉得有些惭愧丢脸。\n　　绝望等死是一件很难过的事情，处于这种境地里的人们惯常都会沉默，此时莲生大师不再说话，宁缺自然也没有说话的兴致，魔殿房间里变得死寂一片。\n　　绝对安静的环境，正如莲生大师先前怨毒回忆的那样，持续时间长了确实很恐怖，没有风的声音没有花草的声音，宁缺",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。\n　　屋顶石上的剑痕在视野里依循某种规律流转，那道暖意仿佛与之相应，也开始在他的身体里流转，从腕间来到颈间，所过之处一片温润舒服。\n　　宁缺此时神思有些恍惚，下意识里追逐着那些温暖，想要驱散身上的寒意，与之相应他的目光也在那些剑痕之上缓慢移动，那些痕迹渐渐烙印在他的识海之中。\n　　那些剑痕进入他的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "“那我知道了。”\n　　莫山山满足微笑，缓缓闭上眼睛，靠在他的怀里，说道：“那这样就够了。”\n　　幽暗寂静的魔殿房间里，那座骨尸堆成的小山中央，如鬼般的老僧手掌轻轻按在一名浑身是血的美丽少女头顶，寒冷如冬，然而在房间的另一角中，有两个即将迎来死亡的年轻男女轻轻相拥着，像小动物般窃窃私语，温暖如春。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "倒还痛快，若像叶红鱼那样眼睁睁看着自己被吃掉，那才是人世间最大的恐惧。\n　　一念及此，少女美丽的脸颊骤然变得极为苍白，长而疏的睫毛微微颤动，薄薄的嘴唇紧紧抿成了一道红线，沉默很长时间后，她望向宁缺因为咳嗽而深深皱成川字的眉头，声音微颤说道：“在王庭我说过我喜欢你的字。”\n　　宁缺不知道书痴为什么这时",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "陛下想必都会乐见其事，这是理所当然是良配。论兴趣爱好，二人可以说的上是志同道合的同道，若真的在一处，日后漫漫长夜除闺房事外还可并肩泼墨互赏，岂不妙哉？\n　　最关键的是喜欢吗？当然是喜欢的，男人的喜欢有时候很复杂，但大多数时候都很简单，像莫山山这般值得喜欢的女子，理所当然应该被喜欢，宁缺也如此。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

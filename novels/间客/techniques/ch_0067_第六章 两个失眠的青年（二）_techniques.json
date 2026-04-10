@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 67,
+  "chapter_title": "第六章 两个失眠的青年（二）",
+  "filename": "ch_0067_第六章 两个失眠的青年（二）.txt",
+  "char_count": 3506,
+  "timestamp": "2026-04-10T11:53:35.124598",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "和李维都称赞过他是天才，他有时候自己也觉得自己是天才，但那种天赋好像都体现在机修水平方面，他可不会自大地以为自己第一次真正操作机甲，便可以散发出星辰之力，化身成为人类联邦最强大的机甲战士。人世间从来没有生而知之的人物，许乐自认也不是。\n\n    ……\n\n    ……\n\n    第六级的机甲操作训练测",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "过他是天才，他有时候自己也觉得自己是天才，但那种天赋好像都体现在机修水平方面，他可不会自大地以为自己第一次真正操作机甲，便可以散发出星辰之力，化身成为人类联邦最强大的机甲战士。人世间从来没有生而知之的人物，许乐自认也不是。\n\n    ……\n\n    ……\n\n    第六级的机甲操作训练测试果然很简单",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "体现在机修水平方面，他可不会自大地以为自己第一次真正操作机甲，便可以散发出星辰之力，化身成为人类联邦最强大的机甲战士。人世间从来没有生而知之的人物，许乐自认也不是。\n\n    ……\n\n    ……\n\n    第六级的机甲操作训练测试果然很简单，眼前占据所有视线的光屏上，只是不断地出现各种色块和光线，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "了三十四次，他最长一次能够坚持的时间也不过是……区区五秒。\n\n    “太变态！”\n\n    许乐的性格注定了他不会认为这种被色块和光线充斥的测试太过枯燥，本来就极为初级的联邦虚拟技术，也不可能在光屏里为他展现栩栩如生的城市街巷建筑或山林的三维画面，可他实在有些受不了种连续的失败和看不到任何进步希望",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "和操作速度？机甲操作里好像有一个行话叫做手速？许乐盯着自己的双手发呆，根本没有放弃的念头，因为他今天来到Ｈ区，本来就是想要查找自己体内力量与机甲操作之间的关系，先前虽然试验了很多次，都只坚持了八秒，可是他真正需要试验的东西还没有进行。\n\n    闭着眼睛回想了一遍那十个姿式，一股淡淡的暖意开始在许乐",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "时间内做出反应，然而大脑对指尖的指令却似乎不再通过身体里的神经束传递，而是下意识里被体内的那股热流与颤抖抢去了承载的权利……\n\n    进步了，十一秒七。许乐瘫软无力地靠在了操作舱的座位上，浑身大汗淋漓，在全神贯注下，他甚至没有注意到先前体内的异样，说实话，那些太微观的改变，确实不是人类自身可以观测",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "生而知之的人物，许乐自认也不是。\n\n    ……\n\n    ……\n\n    第六级的机甲操作训练测试果然很简单，眼前占据所有视线的光屏上，只是不断地出现各种色块和光线，按照终端说明里介绍的，但凡是绿色的色块需要进行跳跃，黑色的色块需要进行击毁操作，至于那些光线则代表着对方武器所发射出来的能量，唯一有",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "高自己的反应速度和操作速度？机甲操作里好像有一个行话叫做手速？许乐盯着自己的双手发呆，根本没有放弃的念头，因为他今天来到Ｈ区，本来就是想要查找自己体内力量与机甲操作之间的关系，先前虽然试验了很多次，都只坚持了八秒，可是他真正需要试验的东西还没有进行。\n\n    闭着眼睛回想了一遍那十个姿式，一股淡淡",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "门子官司，渴睡却又因亢奋而睡不着，这种感觉最令人难受。许乐揉了揉有些发涩的眼，看着开阔房间尽头那台在无数电缆连接下的合金机甲，顿时再也感受不到先前那种精神折磨，无来由为之一振，眼睛也亮了起来，真的很漂亮，纯黑色的机体表面反射着淡淡的哑光，而它身后连接入墙壁中各个端口的电缆，则是依据传输数据或是能量的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "那边靠过去，虽然已经得到了准入许可，可是忽然间看见一个民间极少见到的机甲出现在眼前，他依然难抑心头的紧张和兴奋。\n\n    这是Ｍ系列机甲的原型机，去除了所有的武器系统，和操纵舱的舱门。许乐走到机甲下方，仰头望着半空中正在泛射着金属光芒的它，很简单地判别出了它的型号。在这间开阔的房间里，找到了终端光",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "系统不相同，不过用来测试训练熟悉应该是绰绰有余了。\n\n    黑色的Ｍ原型机甲在他的手掌放上去的那一瞬间，发出了滋的电流通过声，原本空无一物的舱门所在缓缓降下了一片极薄的光屏，占据了许乐所有的视线，看上去就像是戴着真实头盔时所看到的那一种。\n\n    “请选择综合操作能力测试等级。”\n\n    许乐",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "黑色的Ｍ原型机甲在他的手掌放上去的那一瞬间，发出了滋的电流通过声，原本空无一物的舱门所在缓缓降下了一片极薄的光屏，占据了许乐所有的视线，看上去就像是戴着真实头盔时所看到的那一种。\n\n    “请选择综合操作能力测试等级。”\n\n    许乐毫不犹豫地选择了……最低的第六级测试环境。虽然封余",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

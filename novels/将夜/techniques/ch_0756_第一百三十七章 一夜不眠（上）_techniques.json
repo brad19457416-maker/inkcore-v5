@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 756,
+  "chapter_title": "第一百三十七章 一夜不眠（上）",
+  "filename": "ch_0756_第一百三十七章 一夜不眠（上）.txt",
+  "char_count": 3606,
+  "timestamp": "2026-04-10T12:11:27.120928",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "却不知道能不能保住性命。\n　　如果大先生那一棍是击向自已，自已应该如何应对？\n　　她思考了很长时间，最终得出的结论是，自已无法应对。\n　　不过她没有因此气馁，或生出挫败的情绪。\n　　她从来都不是那样的人。\n　　她从来都不是最强大的那个人。\n　　但事实证明，最后她总能战胜比自已强大的敌人。\n　　此时她",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "观主道袖轻挥，便有云出，青山明湖之间，天地气息骤然闭锁。\n　　清丽的秋日阳光，无法落下。\n　　秋风，只能在道观后方已成废墟的山林里穿行，却无法逾过道观的墙。\n　　知守观的大阵发动。\n　　道观便成了一个独立于昊天世界存在，却与昊天世界息息相关的小天地。\n　　没有人能离开这片小天地。\n　　哪怕无距境",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "：“你因何能确认我一定会随你离开青峡？”\n　　“因为我来到了知守观，您便必须跟着我来知守观，哪怕慢一刹那都不行。”\n　　大师兄平静说道：“事前，我与师弟们一直在思考，对于观主您来说，有什么事情会比灭唐灭书院更重要，能够让您舍弃在青峡处出手的机会，也必须全力去救援，我们想了很长时间，始终没有想出一个合",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "所以他坐下时，铁甲撞击之声清脆无比，坚定而肃杀。\n　　正如他随后说出的话。\n　　“互相靠着，总能轻松些。”\n　　四师兄微微一笑，疲惫地向后靠去，然后缓缓闭上眼睛。\n　　二师兄把铁剑自肩头递向后方，搁在他的小臂下。\n　　……\n　　……\n　　夜空里有一轮明月。\n　　今天的月亮比较暗，所以能够看清楚夜",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，一弦一棒便扭转了整个局势。\n　　虽然观主的出现，给西陵神殿联军重新注入了信心与狂热的情绪，然而出乎众人的意料，观主随后便消失不见，青峡之前似乎没有发生任何变化。\n　　联军连遭重挫，自身实力的损耗还在其次，关键是燃烧的神辇和满地的骑兵尸体，还有那道怎样也无法攻破的青峡出口，让将士们的士气变得异常低落",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "正如他随后说出的话。\n　　“互相靠着，总能轻松些。”\n　　四师兄微微一笑，疲惫地向后靠去，然后缓缓闭上眼睛。\n　　二师兄把铁剑自肩头递向后方，搁在他的小臂下。\n　　……\n　　……\n　　夜空里有一轮明月。\n　　今天的月亮比较暗，所以能够看清楚夜穹里的繁星。\n　　叶红鱼静静看着夜空，脸上没有表情。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "道人站在湖畔一块青石下，臂上搭着拂尘，脸色苍白而神情凝重，直到看到观主出现，才稍微变得放松了些，疲惫说道：“见过师兄。”\n　　观主没有理会他，看着坍塌一半的草屋，沉默不语。\n　　簌簌声起。\n　　大师兄从草下钻了出来，头发里和棉袄上粘着草枝，唇角残留着血渍，看上去显得有些狼狈，应该是与那名中年道人交手",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "着血渍，看上去显得有些狼狈，应该是与那名中年道人交手受的伤。\n　　修行界没有几个人知道那名中年道人的存在，但这并不意味他不强大。\n　　多年前，夫子用一根木棒迫使陈某远离陆地，只敢在南海漂流，从那天开始，知守观的一切，便是由那名中年道人处理。\n　　中年道人是知守观第二高手，隐世不出，一朝出手亦是石破天",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，观主面色微寒。\n　　一名中年道人站在湖畔一块青石下，臂上搭着拂尘，脸色苍白而神情凝重，直到看到观主出现，才稍微变得放松了些，疲惫说道：“见过师兄。”\n　　观主没有理会他，看着坍塌一半的草屋，沉默不语。\n　　簌簌声起。\n　　大师兄从草下钻了出来，头发里和棉袄上粘着草枝，唇角残留着血渍，看上去显得有些",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "说道：“你明知道师弟留守道观，却刻意来此，在我看来，殊为不智。”\n　　大师兄回答道：“观主既然追着我来到这里，那就说明我的选择是正确的。”\n　　观主忽然问道：“你来过知守观？”\n　　大师兄平静摇头。\n　　观主微微蹙眉，问道：“那你如何在识海里标注知守观的位置？”\n　　“老师知道知守观的位置。”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "思考了很长时间，最终得出的结论是，自已无法应对。\n　　不过她没有因此气馁，或生出挫败的情绪。\n　　她从来都不是那样的人。\n　　她从来都不是最强大的那个人。\n　　但事实证明，最后她总能战胜比自已强大的敌人。\n　　此时她想的更多的是别的事情。\n　　她越想，眉头蹙的越紧。\n　　她想了整整一夜。\n　　直至天",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

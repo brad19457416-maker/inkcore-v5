@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 499,
+  "chapter_title": "第一百四十一章 被",
+  "filename": "ch_0499_第一百四十一章 被.txt",
+  "char_count": 3582,
+  "timestamp": "2026-04-10T12:04:59.272504",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "肥沃原野，钉进了装甲车的外壳，安静的如此莫名。\n\n    距离潭畔矮灌约二十米的地方，浑身灰土的顾惜风眯着眼睛，于烟雾沙尘之中，盯着那台骄傲的帝国装甲车，手指在身旁的电触装置上快速跳跃摁动，就如同是在跳舞或是弹钢琴。\n\n    电触装置嘀的一声轻响。\n\n    火箭弹外壳滋滋剧响，有金属片屑飞起，隐",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "缓坡上出现了一道斜斜掠下，深可见行星之骨的恐怖直线。\n\n    在这条笔直的直线上，有十几名帝国士兵瞬间之内，身体崩出无数烟尘及后涌出的血花朵朵，然后爆开，倒下，用腥腥血色涂满身下的深沟。\n\n    沉重无比的达林旋转机炮，在熊临泉粗壮的手臂中，就像是无可抵御的开天之斧，偏生他还能强悍地在巨大反作用",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "里有些变态人物，可以扛着达林上战场，后来看到熊临泉，才知道所谓传奇就在身边。\n\n    只是这一刻，第一次亲眼看见熊临泉端着达林机炮，疯狂一般喷吐烟花的壮猛场景，他仍不禁有些心神摇晃。\n\n    那两只手臂肌肉紧绷，全部力量展现出来后，竟似比一般女子的大腿都要粗上几分，沉重而冰冷的达林机炮不停轰鸣烟",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，只有全域战机和强攻重型直升机才会采用，极少有陆战部队使用——用尽了吃奶的力气都提不动丝毫，怎么用于战斗？\n\n    战场上总是有传奇的，许乐以前就听说过某些传闻，联邦军营里有些变态人物，可以扛着达林上战场，后来看到熊临泉，才知道所谓传奇就在身边。\n\n    只是这一刻，第一次亲眼看见熊临泉端着达林",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "展现出来后，竟似比一般女子的大腿都要粗上几分，沉重而冰冷的达林机炮不停轰鸣烟火，熊临泉整个人也在随之颤抖，带动着地面都似乎颤了起来。\n\n    沉闷巨大的枪声之中，达林旋转机炮与枪声相较格外秀气的弹壳，密密麻麻若急雨般弹到许乐的身上，脸上，一片生痛微烫，但他没有如熊临泉提示那般，立即转移射击阵地，而",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，战地步兵指挥系统里响起了白玉兰冷静的命令声。\n\n    在战斗中始终显得异常沉默，根本无法发现有人存在的缓坡东侧潭畔矮灌之中，嗖的一声，一枚肩扛式火箭带着尾烟，向着最边缘的一台装甲车轰去。\n\n    熊临泉达林旋转机炮的直线狂暴射击，瞬间压住了帝国装甲小队的绝大部分火力，那些暴雨般落在装甲车上的高",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "甸四周的射击密集程度略有降低，当然，熊临泉手中的沉重旋转机炮还在狂吼，谁也想不明白，这个生猛的枪械师究竟随身携带了多少弹丶药，居然能够维持这么久的火力压制。\n\n    “熊临泉，右边！”\n\n    许乐眯着的双眼里忽然闪过一丝异色，注意到有五名帝国士兵正悄无声息地绕了远路，避开了达林机炮的狂暴射击范",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "秀的品质，知道自己擅长什么，知道自己应该怎么做，所以站在达林弹壳热雨之中，他根本没有站起来一同开火的念头，即便此刻发现侧后方有异动，也只是大吼了声：“大熊。”\n\n    “什么，头儿？”\n\n    熊临泉黝黑的脸色涨的通红，粗壮的双臂上青筋暴现，似乎随时可能爆炸，一脸沉峻地维持着艰难痛苦的火力覆盖，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "为惊人——因为恐怖的杀伤力及火力覆盖面积，被称为“收割之王”——每当它始呜啸着旋转，它的面前，便会有无数的人死去。\n\n    威力惊人，重量也自惊人，经过最高效率减震后的后座力依然能让地动山摇，所以除了m系列机甲用达林机炮作为标配之外，只有全域战机和强攻重型直升机才会采用，极少有陆战部队使用——用尽",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "先撤退的那些士兵背影还是如此清晰。\n\n    两分钟，能顶住吗？如果让这个帝国装甲小队直接冲过缓坡，进入可以发挥装甲车大功率，高机动性的草原区域，那七组真就惨了。\n\n    草甸四周的射击密集程度略有降低，当然，熊临泉手中的沉重旋转机炮还在狂吼，谁也想不明白，这个生猛的枪械师究竟随身携带了多少弹丶药",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "有些心神摇晃。\n\n    那两只手臂肌肉紧绷，全部力量展现出来后，竟似比一般女子的大腿都要粗上几分，沉重而冰冷的达林机炮不停轰鸣烟火，熊临泉整个人也在随之颤抖，带动着地面都似乎颤了起来。\n\n    沉闷巨大的枪声之中，达林旋转机炮与枪声相较格外秀气的弹壳，密密麻麻若急雨般弹到许乐的身上，脸上，一片生",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "一幅山水大墨图。\n\n    何其生猛。\n\n    ……\n\n    几乎就在熊临泉震碎草垛，天神暴击的同时，战地步兵指挥系统里响起了白玉兰冷静的命令声。\n\n    在战斗中始终显得异常沉默，根本无法发现有人存在的缓坡东侧潭畔矮灌之中，嗖的一声，一枚肩扛式火箭带着尾烟，向着最边缘的一台装甲车轰去。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "这台装甲车，甚至根本没有发生爆炸，就像是一把秀气的小刀cha进了深厚的肥沃原野，钉进了装甲车的外壳，安静的如此莫名。\n\n    距离潭畔矮灌约二十米的地方，浑身灰土的顾惜风眯着眼睛，于烟雾沙尘之中，盯着那台骄傲的帝国装甲车，手指在身旁的电触装置上快速跳跃摁动，就如同是在跳舞或是弹钢琴。\n\n    电",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "密密麻麻若急雨般弹到许乐的身上，脸上，一片生痛微烫，但他没有如熊临泉提示那般，立即转移射击阵地，而是大声吼道：“你丨疯了！”\n\n    熊临泉此时如天神般站在缓坡上方，却也是最明显的靶子。许乐身体肌肉一紧，准备弹起将他扑倒，余光却忽然震惊无比地发现，这条汉炮喷射的密集弹雨，竟暂时压制住了下方整个帝国",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 586,
+  "chapter_title": "第九十章 冥王的女儿（上）",
+  "filename": "ch_0586_第九十章 冥王的女儿（上）.txt",
+  "char_count": 3284,
+  "timestamp": "2026-04-10T12:11:26.676516",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "十章 冥王的女儿（上）\n　　宁缺走进佛光，撑开大黑伞，动作很自然，就像这些年他一直在做的那样，替她遮风，替她挡雨，哪里需要思考什么？\n　　这是他的习惯，而习惯比佛光还要强大。\n　　殿内的人们，此时依然处于绝对的震惊之中，所以对宁缺的举动，没有什么反应，也来不及去想他这个动作代表着什么意思。\n　　看着",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "他横握朴刀于胸前，铁弓箭匣在身后，面无表情看着殿内的众人，没有说话，眼神冷而狠厉，就像是护崽的母虎般危险。\n　　殿内诸人都是强者，然而看着他的眼神，下意识里不想与他的目光接触。\n　　紧接着，人们又发现了很神奇的事情，所以心情稍微平静了些。\n　　宁缺向佛光外走去，却没能走出佛光。\n　　那道远自瓦山顶峰",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "看着万丈佛光里脸色苍白的桑桑。宝树大师震惊无语。\n　　即便是摇铃的他也没有想到，盂兰铃揭示出来的事情真相居然是这个，他离开悬空寺踏足红尘来到瓦山，所做的一切准备，都是因为他坚信冥王之子是宁缺，哪里想到桑桑的身上？\n　　曲妮玛娣等人甚至显得有些茫然无措，最震惊的还是程立雪，做为西陵神殿天谕司的司座大人",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "到不安的是，大黑伞伞面上那些十几年时间都没能被雨水冲洗掉的油垢灰尘，在佛光的冲洗下正在不停变薄，似乎最终还是会被净蚀成空。\n　　因为震撼，宝树大师手指间的盂兰铃已经停止，烂柯寺里的钟声还在回荡，那道清脆的铃声，渐渐消失无踪。\n　　宁缺把桑桑背到身后。\n　　桑桑低着头靠在他的肩上，脸色苍白，身体虚弱，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "师震惊无语。\n　　即便是摇铃的他也没有想到，盂兰铃揭示出来的事情真相居然是这个，他离开悬空寺踏足红尘来到瓦山，所做的一切准备，都是因为他坚信冥王之子是宁缺，哪里想到桑桑的身上？\n　　曲妮玛娣等人甚至显得有些茫然无措，最震惊的还是程立雪，做为西陵神殿天谕司的司座大人，他的脸色变的比他的眉毛还要雪白，没",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "柄，轻拍从腰间探出的刀鞘。\n　　人们以为他此时的沉默代表着剧烈的心理挣扎，神情各异，程子清叹息一声，心想即便是你的生身父母，但那是冥王之女，你还能有什么选择？\n　　只有歧山大师隐约知道宁缺这时候在想什么。\n　　宁缺看着歧山大师，发现大师虽然神情黯然甚至有些悲伤，但没有任何震惊，确定大师很早便知道了桑",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "光的冲洗。\n　　宁缺背着桑桑向佛光外走去。\n　　他横握朴刀于胸前，铁弓箭匣在身后，面无表情看着殿内的众人，没有说话，眼神冷而狠厉，就像是护崽的母虎般危险。\n　　殿内诸人都是强者，然而看着他的眼神，下意识里不想与他的目光接触。\n　　紧接着，人们又发现了很神奇的事情，所以心情稍微平静了些。\n　　宁缺向佛",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "黑伞落下。\n　　大黑伞就像是瀑布里的一块黑色石头，被不停地冲刷着，撞击着，再如何稳固坚强，也渐渐有了颤抖不安的感觉。\n　　宁缺握着伞柄的右手微微颤抖，没有感受到有磅礴的力量从伞柄处传来，但却清晰感受到伞外的恐怖佛威，他体里的每根骨头都开始咯吱作响。\n　　更令人感到不安的是，大黑伞伞面上那些十几年时间",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "！\n　　……\n　　……\n　　“十三先生，请把她放下。”\n　　宝树大师面带悲悯，宣了一声佛号，看着宁缺说道。\n　　程子清低首坐在佛殿门口，剑已出鞘，横于膝上。\n　　宁缺看了一眼宝树大师手指间的小铜铃。\n　　他又看了一眼程子清膝上的那把剑。\n　　然后他抬头看了一眼大黑伞。\n　　宝树大师乃是悬空寺首座，大",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

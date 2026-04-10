@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 539,
+  "chapter_title": "第四十六章 终于听到了您的声音",
+  "filename": "ch_0539_第四十六章 终于听到了您的声音.txt",
+  "char_count": 2292,
+  "timestamp": "2026-04-10T12:11:26.561482",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "视宁缺，心想即便你是夫子的亲传弟子，居然敢直称伟大裁决神座的名讳，如此大不敬亦不可接受。\n　　然而他愤怒的眼光，在触到那块腰牌后，顿时一凝。\n　　看着这块样式普通的腰牌，红衣神官苍老的眼眸里，涌现出极为震惊的情绪，他想起去年回神殿述职时听到的传闻，想起传闻中宁缺身旁那个小侍女，身体开始不受控制地颤抖",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "那个声音的一刻，浑浊的眼泪便开始在红衣神官苍老的脸上纵横，深刻的皱纹顿时被打湿，就像干涸无数年的龟裂大地，终于迎来了春雨。\n　　他泪流满面，浑身颤抖，幸福地忘记了站起来。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "面前，也要保持足够的尊敬。\n　　看着那辆黑色的马车和车旁的宁缺，红衣神官浑浊的眼眸里出现警惕的神情，心想都说此人已经离了唐国使团，直去烂柯寺，怎么今天会出现在这里？\n　　听着十三先生四个字，先前那些警惕冷漠的护教骑士，终于知道了黑色马车旁年轻人的身份，不由情绪变得极为复杂。\n　　大唐帝国是世间最强大",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "一无法控制的世界，书院和昊天道门向来隐隐敌对，在凡人无法知晓的层级里，更是不知道发生过多少惊天动地的战斗，只不过双方一直没有撕破脸。\n　　尊崇的红衣神官，面对书院二层楼弟子这等身份的来客，不可能作出骄傲神态，却也不会流露出怯畏的神情。\n　　而在西陵神殿的庇护下，似宋国齐国这等属国，没有感受过唐国铁骑",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "那些警惕冷漠的护教骑士，终于知道了黑色马车旁年轻人的身份，不由情绪变得极为复杂。\n　　大唐帝国是世间最强大的国度，也是西陵神殿唯一无法控制的世界，书院和昊天道门向来隐隐敌对，在凡人无法知晓的层级里，更是不知道发生过多少惊天动地的战斗，只不过双方一直没有撕破脸。\n　　尊崇的红衣神官，面对书院二层楼弟子",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "光明之女降临人间之国。”\n　　光明之女这四个字在建筑里缓缓飘荡，未来得及撞到墙壁，便消失无踪，然而在人群的耳中依然像雷鸣般在持续。\n　　只听得密密麻麻的布料摩擦声，膝头触地声，重重地叩首声，在幽静的白色道殿里密集响起，人们无论是站在石阶上，还是正在颂读教典，在听到中年神官那句颤抖的话语后，都以最快地",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "是谁，即便是西陵神座亲身降临，也不至于令红衣神官行出如此大礼。\n　　只有那名中年神官隐约猜到了事情的真相。\n　　身为红衣神官最信任的下属，去年红衣神官自西陵神殿述职归来以后，他曾经在很多个深夜里，看到红衣神官饮醉后狂喜如歌的模样，断断续续听到过一些什么。所以他毫不犹豫地在红衣神官身后跪了下去。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "便是齐国皇帝在他面前，也要保持足够的尊敬。\n　　看着那辆黑色的马车和车旁的宁缺，红衣神官浑浊的眼眸里出现警惕的神情，心想都说此人已经离了唐国使团，直去烂柯寺，怎么今天会出现在这里？\n　　听着十三先生四个字，先前那些警惕冷漠的护教骑士，终于知道了黑色马车旁年轻人的身份，不由情绪变得极为复杂。\n　　大唐",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "只有那名中年神官隐约猜到了事情的真相。\n　　身为红衣神官最信任的下属，去年红衣神官自西陵神殿述职归来以后，他曾经在很多个深夜里，看到红衣神官饮醉后狂喜如歌的模样，断断续续听到过一些什么。所以他毫不犹豫地在红衣神官身后跪了下去。\n　　中年神官对着黑色的马车重重地叩首行礼，然后带着无尽的恐惧或者说敬畏，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "红衣神官听着叶红鱼的名字，有些耳熟，却一时没有想明白，因为他一直生活在道门里，除了最开始那些年，便从来没有听谁直呼过这个名字。\n　　片刻后，才醒过神来，怒视宁缺，心想即便你是夫子的亲传弟子，居然敢直称伟大裁决神座的名讳，如此大不敬亦不可接受。\n　　然而他愤怒的眼光，在触到那块腰牌后，顿时一凝。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "动用武力，自然也没有必要让神殿和书院之间发生一场战争。\n　　就在他准备把手从腰带里取出来时，道殿深处缓缓响起一道苍老的声音：“十三先生不用拿了，这里不是荒原，我也不是程立雪。”\n　　随着这道苍老的声音响起，那位中年神官和护教骑士们神情顿时一肃，片刻后，一名身穿深红色神袍的老年神官缓步走了出来。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "上纵横，深刻的皱纹顿时被打湿，就像干涸无数年的龟裂大地，终于迎来了春雨。\n　　他泪流满面，浑身颤抖，幸福地忘记了站起来。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "有感受过唐国铁骑的恐怖，所以也不怎么畏惧，所以道殿里其余人等也还算平静。\n　　看着那名红衣神官，宁缺说道：“既然你知道我是谁，也不想出现荒原上那些事情，那我想应该可以商量一下，我只是需要你们这里的一些药材，而且我愿意付钱，只是麻烦你们快一些。”\n　　红衣神官从那名中年下属身上接过清单，白眉缓缓皱起，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 635,
+  "chapter_title": "第十六章 杀生的石头",
+  "filename": "ch_0635_第十六章 杀生的石头.txt",
+  "char_count": 3289,
+  "timestamp": "2026-04-10T12:11:26.794751",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "光，他刀锋落下，砍死一名面相老实的中年男人。\n　　然后他刀锋横掠，割开一名僧侣的胸腹，向前再踏一步，心想，就算自已用符用箭，也没有办法把面前这些人全部杀死。\n　　就算自已能杀死，老师和大师兄也不会同意。\n　　这个念头忽然在他的脑海里闪过，然后瞬间被他强行抹灭――如果自已和桑桑真要死，老师和大师兄不同",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第十六章 杀生的石头\n　　人群发出惊恐的尖叫，向后退去；人群发出愤怒的呐喊，向前冲来。宁缺挥动手中的朴刀，只要有人敢拦在他和桑桑的身前，他便一刀砍落。\n　　湖畔地面上的血喷洒的越来越多，惨呼和痛唤声不时响起，断肢落下，肝肠寸断",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，也不是二师兄，在需要的时候他从不惮于杀人，无论是什么人。\n　　看着惨不忍睹的场间，有苦修僧再也无法压抑，呼啸破风，持杖向宁缺当头打来。宁缺挥刀相迎，左脚悄无声息自衣襟下方踢出，正中那名苦修僧胸腹，将此人踹至人群深处，然后断喝一声，双手执刀当头砍下！\n　　刀锋之下是七枚大师的两只手。\n　　只见残缺的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "会射完，刀会磨损，即便刀不磨损，你每挥一刀都要消耗气力，最关键的是，刀锋与人的骨肉相斫，反震力虽微却存在，如此累积下去，总有那么一个时刻，会让你受伤。\n　　此时，朴刀锋利的刃口，不知砍开了多少人骨，竟磨擦的有些发热，上面的血水冒着淡淡的雾气，宁缺收刀入鞘，开始用鞘横打。\n　　把刀鞘变成铁棍，把拦在身",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "没有听到她在说些什么，又或者是装作没有听到。\n　　陆晨迦愤怒地盯着他的背影，喊道：“他反正都要死了，为什么还要让他死之前承受这些痛苦？”\n　　宁缺还是没有在那名痛苦不堪的学生身上再补一刀，因为他清楚，想要震慑住已经陷入疯狂状态的人群，杀死人并不足够，因为死亡有时候等同于沉睡，在尸身腐烂之前，并不能给",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "声，双手执刀当头砍下！\n　　刀锋之下是七枚大师的两只手。\n　　只见残缺的七根手指骤然间金光大作，然后瞬间敛没，肉身佛的宏伟力量与宁缺体内磅礴的浩然气再次相遇，湖畔一阵劲风鼓荡，便是天地气息都有些紊乱不宁，周遭的人群像草一般被震倒。\n　　靴底在泥土上画出一道痕迹，宁缺被震退数丈，正是先前他拔刀杀人的起",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "丈，正是先前他拔刀杀人的起始点，七枚大师身体微微摇晃，终是退了半步，面色苍白。\n　　佛宗的僧人们果然最终都会堕落到伪善的世界里，宁缺擦去唇角渗出的鲜血，静静看着不远处的七枚，在心里想着，既然一开始便把自已往修罗境里逼，那么现在你们就不应该出手。\n　　便在这时，他余光注意到，那些西陵神卫不知何时，已经",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "兄，在需要的时候他从不惮于杀人，无论是什么人。\n　　看着惨不忍睹的场间，有苦修僧再也无法压抑，呼啸破风，持杖向宁缺当头打来。宁缺挥刀相迎，左脚悄无声息自衣襟下方踢出，正中那名苦修僧胸腹，将此人踹至人群深处，然后断喝一声，双手执刀当头砍下！\n　　刀锋之下是七枚大师的两只手。\n　　只见残缺的七根手指骤然",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "第十六章 杀生的石头\n　　人群发出惊恐的尖叫，向后退去；人群发出愤怒的呐喊，向前冲来。宁缺挥动手中的朴刀，只要有人敢拦在他和桑桑的身前，他便一刀砍落。\n　　湖畔地面上的血喷洒的越来越多，惨呼和痛唤声不时响起，断肢落下，肝肠寸断，画面看着极其血腥残忍。\n　　佛宗意图",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "方依然嘈杂混乱，叫骂不断，但附近的人，都下意识里安静下来，紧张地看着这幕画面，惊恐地等待着血腥的事情出现。\n　　宁缺看着那名男童，脸上没有任何表情，轻挥刀鞘，把他推到一边。\n　　桑桑靠在他的肩头，脸色苍白，很是虚弱。看着地上痛声哭泣的男童，她困难地挤出一丝微笑，说道：“赶紧回家去。”\n　　男童抽泣着",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "桑桑被捆在他的背上，就算看到了，也没有办法躲避。\n　　啪的一声，那块石头砸中她的额头，一道鲜血缓缓流下。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的满是血污的脸，他明白了很多人都说过的一句话――修行者再如何强大，也很难一个人对抗整个世界。\n　　因为人类的悲欢无法相通，人类的恐惧也无法相通，你不可能凭借自已的实力震慑住所有的人，所以如果你要对抗整个世界，那你就需要杀死足够多的人。\n　　宁缺自幼杀人，尤其是去渭城后，在梳碧湖不知杀了多少马贼，单以",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "你们想要活着，便需要我们去死。”\n　　宁缺看着四周的人群，说道：“但你们要清楚，如果今天试图阻止我们离开，那么你们的世界今天便会毁灭，你们今天就会死。”\n　　然后他望向七枚，说道：“先前你我对了一记，便震死了四个人，你更应该清楚，你我一场大战，场间要死多少人，所以正如我先前说的那样，如果稍后你试图在",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "里怒目注视自已。\n　　佛号声起，七枚大师看着浑身是血的宁缺，看着他手中那把已经杀死了十几个人的朴刀，说道：“我没有想你会真的动刀。”\n　　宁缺用刀指着场间的尸体，说道：“你应该很清楚，这些人是你杀的，从你命令这些秃驴们散开那一刻起，今天死的所有人，都是你杀的。”\n　　他被震回最开始拔刀的地方，那名惨",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

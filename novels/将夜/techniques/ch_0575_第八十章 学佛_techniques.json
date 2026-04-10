@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 575,
+  "chapter_title": "第八十章 学佛",
+  "filename": "ch_0575_第八十章 学佛.txt",
+  "char_count": 4404,
+  "timestamp": "2026-04-10T12:11:26.663324",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "么前些天钟声再起时，自然是感应到他在红莲寺秋雨里对隆庆做了些什么。\n　　歧山大师明显已经猜到了事情的真相，但他没有揭穿这个真相，慈祥说道：“我如今年老体衰将死，所谓正魔之分虽不敢说看透，但至少也看的淡了，然而这个世上还有很多人无法看淡，比如悬空寺和道门。”\n　　“在昊天道门眼里佛宗都是外道，更何况是",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "昊天道门眼里佛宗都是外道，更何况是魔宗？宁缺，你要明白人是不能胜天的，轲先生再强，最终也未能强过这片天空，夫子再高，也不可能比这片天空还高，所以有些事物能不接触便不要接触，如果已经接触，也把它忘了吧。”\n　　宁缺知道大师是善意，劝说自己不要在入魔的道路上越走越深，无论面对何种情况，都不要使用邪恶血腥",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "得一定有死。\n　　一念及此，再看秋雨缠绵竟有了春雨的感觉，他不禁有些倦意，心想便是闲聊，也应该聊些有意义的事情，倚着栏杆问道：\n　　“如果说佛祖也是位修行者……那他最后到了什么境界？”\n　　“身为佛门弟子，哪里能妄揣佛祖之能？”\n　　“佛祖慈悲，说说也算不上什么罪过。”\n　　宁缺看着大师，试探着问道",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "的离奇遭遇，默想有生并不见得一定有死。\n　　一念及此，再看秋雨缠绵竟有了春雨的感觉，他不禁有些倦意，心想便是闲聊，也应该聊些有意义的事情，倚着栏杆问道：\n　　“如果说佛祖也是位修行者……那他最后到了什么境界？”\n　　“身为佛门弟子，哪里能妄揣佛祖之能？”\n　　“佛祖慈悲，说说也算不上什么罪过。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "里三次最关键时刻的表现。你入符道时凭借的是一场夏雨，你入洞玄时靠的是书痴煎的一条鱼，而前些天你更是在战斗中知命，全无先兆。”\n　　大师继续说道：“修道者讲究循序渐进，学习对天地元气规律的掌握，而我佛宗弟子则是依靠常年苦修积累之后的一朝洞彻，这便是所谓悟。”\n　　宁缺想起了当年在万雁塔寺上黄杨大师的教",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "道门。”\n　　“在昊天道门眼里佛宗都是外道，更何况是魔宗？宁缺，你要明白人是不能胜天的，轲先生再强，最终也未能强过这片天空，夫子再高，也不可能比这片天空还高，所以有些事物能不接触便不要接触，如果已经接触，也把它忘了吧。”\n　　宁缺知道大师是善意，劝说自己不要在入魔的道路上越走越深，无论面对何种情况，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "山上恐惧异常，烂柯寺十七殿里的钟生出警兆，同时敲响，钟声回荡三天三夜。”\n　　歧山大师转身，看着宁缺说道：“而就在前些天，烂柯寺里十七座佛钟再次自主鸣响，钟声传到瓦山，我才明白原来那道血腥之气又出现了。”\n　　听着这话，宁缺脸上的神情没有丝毫变化，黑色院服里的身体却不由自主地缓缓绷紧，心头微乱，然后",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "着宁缺说道：“而就在前些天，烂柯寺里十七座佛钟再次自主鸣响，钟声传到瓦山，我才明白原来那道血腥之气又出现了。”\n　　听着这话，宁缺脸上的神情没有丝毫变化，黑色院服里的身体却不由自主地缓缓绷紧，心头微乱，然后警意大作。\n　　烂柯寺里的佛钟，当年曾经因为莲生的饕餮大法而鸣，那么前些天钟声再起时，自然是感",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "……\n　　秋雨中的烂柯寺一片幽静，不知哪座殿内燃着的香，倔强地穿透重重雨丝，飘到了后殿廊前，把压抑寒冷的气氛变成了庄肃。\n　　听完宁缺的讲述，歧山大师沉默了很长时间。\n　　他闻着这淡淡的香味，抬起瘦削的手臂，手指微颤在空中滑过，似乎想要抓住些什么，然而禅香有味而无形，就像是回忆，根本无法抓住。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "第八十章 学佛\n　　“那日一道血腥之气直冲天穹，我在瓦山上恐惧异常，烂柯寺十七殿里的钟生出警兆，同时敲响，钟声回荡三天三夜。”\n　　歧山大师转身，看着宁缺说道：“而就在前些天，烂柯寺里十七座佛钟再次自主鸣响，钟声传到瓦山，我才明白原来那道血腥之气又出现了。”\n　　听着这话，宁缺脸上的神情没有丝毫",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "缺说道：“忍与自我欺骗，互为表里，说的都是同一回事，我极擅长忍，不需要学，至于……自我欺骗的法门，我担心如果骗自己骗的久了，竟忘了初衷，以为那些都是真实的，无法醒过来。”\n　　“二先生持礼，自然见不得佛门无父无君的作派。”\n　　歧山大师问道：“可如果人生本就是一场大梦，何必醒来？”\n　　宁缺说道：“",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "那间偏殿里全部是白骨与干尸，莲生大师就坐在骨尸堆的中间……”\n　　……\n　　……\n　　秋雨中的烂柯寺一片幽静，不知哪座殿内燃着的香，倔强地穿透重重雨丝，飘到了后殿廊前，把压抑寒冷的气氛变成了庄肃。\n　　听完宁缺的讲述，歧山大师沉默了很长时间。\n　　他闻着这淡淡的香味，抬起瘦削的手臂，手指微颤在空中滑",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "原来那道血腥之气又出现了。”\n　　听着这话，宁缺脸上的神情没有丝毫变化，黑色院服里的身体却不由自主地缓缓绷紧，心头微乱，然后警意大作。\n　　烂柯寺里的佛钟，当年曾经因为莲生的饕餮大法而鸣，那么前些天钟声再起时，自然是感应到他在红莲寺秋雨里对隆庆做了些什么。\n　　歧山大师明显已经猜到了事情的真相，但他",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

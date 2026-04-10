@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 770,
+  "chapter_title": "第一百五十一章 千百剑里取一剑，至清至浅",
+  "filename": "ch_0770_第一百五十一章 千百剑里取一剑，至清至浅.txt",
+  "char_count": 2449,
+  "timestamp": "2026-04-10T12:11:27.136940",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "优势……\n　　这是初学剑法的普通人，才会想象的战斗场景。\n　　他与君陌是世间剑道最强的两个人。\n　　最终却真的用这种方式，为这场战斗画上了句号。\n　　他忽然想到，清澈的小溪会变成浊浪滔滔的大河，入海后却会重新变清，莫非剑道修行至极深处，也会依循同样的道理？",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的现实情况。\n　　握着剑柄的是断臂。\n　　君陌握着自已的断臂。\n　　这幕画面看上去很血腥，但没有任何意义。\n　　除了铁剑仿佛变长了一截。\n　　……\n　　……\n　　君陌出剑，专注而严谨，哪怕浑身浴血，却依然毫无动摇。\n　　柳白出剑，后发而先至，世间依然没有谁的剑比他更快。\n　　然而柳白手里只剩下半截断",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "足处，身形微转，脚便落在那处。\n　　他再次睁开眼睛，看着河水像时光一样在脚下流淌，没有像老师那样发出感慨，眼眸深处散发出一抹及明亮的光泽。\n　　他的脸颊苍白，神情却依然是那样的宁静。\n　　一声清啸，从他的唇间迸出。\n　　如雏凤清鸣，更像凤凰浴火重生后的第一声。\n　　秋风渐狂，君陌黑发飘舞。\n　　他张",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "周的天地里，充斥着君陌狂肆磅礴的念力。\n　　无数柄剑，受到这股念力的召唤，自四面八方而来，疾逾闪电，瞬间穿越遥远的距离，来到青峡之前，直刺柳白！\n　　柳白神情凝重，收回断剑横于身前，再次布下咫尺世界。\n　　千百剑，骤然静止于他身周的秋风里，悬停在空中。\n　　剑的数量太多，形成一个极大的剑球，遮蔽住天",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "剑的人反而刺死了对手，又因为某种原因，持长剑的人获得了优势……\n　　这是初学剑法的普通人，才会想象的战斗场景。\n　　他与君陌是世间剑道最强的两个人。\n　　最终却真的用这种方式，为这场战斗画上了句号。\n　　他忽然想到，清澈的小溪会变成浊浪滔滔的大河，入海后却会重新变清，莫非剑道修行至极深处，也会依循同",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "是那样的宁静。\n　　一声清啸，从他的唇间迸出。\n　　如雏凤清鸣，更像凤凰浴火重生后的第一声。\n　　秋风渐狂，君陌黑发飘舞。\n　　他张开双臂，衣袖在风中拂荡。\n　　他的鲜血从断臂处不断喷涌。\n　　他的念力向着周遭的天地间狂肆地喷涌。\n　　……\n　　……\n　　青峡铁篷下，炉架里的一柄剑，感受到了那道狂肆",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "陌狂肆磅礴的念力。\n　　无数柄剑，受到这股念力的召唤，自四面八方而来，疾逾闪电，瞬间穿越遥远的距离，来到青峡之前，直刺柳白！\n　　柳白神情凝重，收回断剑横于身前，再次布下咫尺世界。\n　　千百剑，骤然静止于他身周的秋风里，悬停在空中。\n　　剑的数量太多，形成一个极大的剑球，遮蔽住天光，显得格外森寒。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "疾掠。\n　　青山深处，数片落叶轻轻覆盖在一柄宽大的铁剑上，一只断臂还紧紧握着剑柄，忽然间，铁剑剧烈地颤抖起来，然而破松涛再次飞起！\n　　……\n　　……\n　　原野四周的天地里，充斥着君陌狂肆磅礴的念力。\n　　无数柄剑，受到这股念力的召唤，自四面八方而来，疾逾闪电，瞬间穿越遥远的距离，来到青峡之前，直刺",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "他开始咳嗽。\n　　咳出来的都是血。\n　　他看着胸口那道剑伤，眉头微蹙。\n　　此时他终于明白了，君陌为什么要驭如此多剑。\n　　因为君陌要他算。\n　　他虽然是当世第一强者，但毕竟不是桑桑这种天算之人，他再如何强大，也不可能算尽所有变化。\n　　君陌不用算，因为千百剑都是假的，只有他自已的铁剑是真的。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，不见黄河天上来，避开柳白致命的一剑。\n　　他清啸，青山原野震动不安，无数剑至。\n　　柳白的剑意终于出现了缺口。\n　　君陌的铁剑，便从那个缺口里刺了进去。\n　　那个缺口，也许是柳白故意为之。\n　　因为他相信在这么近的距离内，他的剑最快。\n　　但他没有想到一件事情。\n　　剑道分为剑与法，又分为势与术。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "这股念力的召唤，自四面八方而来，疾逾闪电，瞬间穿越遥远的距离，来到青峡之前，直刺柳白！\n　　柳白神情凝重，收回断剑横于身前，再次布下咫尺世界。\n　　千百剑，骤然静止于他身周的秋风里，悬停在空中。\n　　剑的数量太多，形成一个极大的剑球，遮蔽住天光，显得格外森寒。\n　　杀意十足。\n　　这是剑的世界。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "念力的召唤，嗤的一声，刺破厢柜，破篷而飞，向原野间飞去。\n　　南方原野，西陵神殿联军营中，忽然暴发出无数声惊呼。各宗派的修行者们，忽然发现本命剑，脱离了自已的控制！\n　　清脆的摩擦声，在军营里此起彼伏响起，那是剑与剑鞘的摩擦声，无数飞剑自行出鞘而飞，向着青峡前疾掠。\n　　青山深处，数片落叶轻轻覆盖在",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "流淌，没有像老师那样发出感慨，眼眸深处散发出一抹及明亮的光泽。\n　　他的脸颊苍白，神情却依然是那样的宁静。\n　　一声清啸，从他的唇间迸出。\n　　如雏凤清鸣，更像凤凰浴火重生后的第一声。\n　　秋风渐狂，君陌黑发飘舞。\n　　他张开双臂，衣袖在风中拂荡。\n　　他的鲜血从断臂处不断喷涌。\n　　他的念力向着周",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

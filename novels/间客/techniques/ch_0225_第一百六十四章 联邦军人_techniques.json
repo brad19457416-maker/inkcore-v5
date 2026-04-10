@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 225,
+  "chapter_title": "第一百六十四章 联邦军人",
+  "filename": "ch_0225_第一百六十四章 联邦军人.txt",
+  "char_count": 3427,
+  "timestamp": "2026-04-10T12:04:51.170549",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "先前那种肃然的情绪中醒过来，他向着邹郁的病室走去，却被几名军官拦在了门外。\n\n    许乐微微一怔，心想今天一天看过的军官，竟是比前半生加起来看到过的更多，这老天爷究竟是怎么回事儿？是想用这些一脸严肃地同僚，来提醒自己的新身份？\n\n    那几名军官毫不客气地拦在病房外，动作是如此地理所当然，透着一",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "半军半民，许乐只是一名文职少尉，并不在军事战斗编列之中，联邦与帝国间的战争，政丨府与反政丨府军之间的冲突，和他并没有什么直接的关系。然而当他对mx机甲研究地重要性渐渐显露，并且被证明之后，联邦军队不会允许这种重要人物，还游走在体制的边缘“必须提前就把他吸收进来。此时此刻，那封文件夹里的肩章和权限，已",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第一百六十四章 联邦军人 \n\n    许乐自己都不知道，为什么会说了这样一句话。邹应星缓缓抬起头来，看了他一眼，却什么也没有说，只是重新戴上了眼镜，俯下头去，认真开始审看那份需要总统先生过目的文件。\n\n    沉默有时候就代表着态度，许乐不相信这位副部长会",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "出一份文件夹，递给了许乐，微笑着说道：“这里面是国防部的通行证，还有升职命令，关亍进入权限的问题，你第一次去的时候，用通行证进行申请。\n\n    另外就是，你现在的人事档案还暂时留在果壳里面，但要接受果壳公司和国防部地双重管辖。“许乐接过父件夹打开，快速地看了两眼，看到里面有一张通行证，一封标准格式",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "书军官从保险箱中取出一份文件夹，递给了许乐，微笑着说道：“这里面是国防部的通行证，还有升职命令，关亍进入权限的问题，你第一次去的时候，用通行证进行申请。\n\n    另外就是，你现在的人事档案还暂时留在果壳里面，但要接受果壳公司和国防部地双重管辖。“许乐接过父件夹打开，快速地看了两眼，看到里面有一张通",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "自己这个。难道他找到了一些什么线索？\n\n    他闭上了眼睛，用只有自己才能听到的声音。自言自语喃喃说道：\n\n    “军人可以有思想，但军队绝对不能有自己的思想，许乐，你必须明白这一点。才能成为一名真正的联邦军人。“麦德林就像联邦历史上曾经出现过地那些完美政治人物一般，永远能与前台发生的一切黑暗事",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "他离开房间之后，邹副部长又一次抬起头来，放下了手中的文件，眼里飘过一些复杂的情绪。s2环山四州恐怖袭击的事情，震动了整介，联邦，无论是联邦调查局还是军方，都在暗中加紧着调查，最关键的是宪丨章局那边已经隐隐有了一些线索，只是他却不能对许乐说些什么。\n\n    “还在想着那个小女朋友亦“，“",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "还拥有国防部总装基地技术军官的相应权限，虽然只是个上尉，但是部里特批，给了你溢出权限。“秘书军官面色凝重，认真地交待道：“邹副部长吩咐过，他不理会你和科学院之间的瓜葛，但既然你现在暂时不想让对方知道你参加了机甲研制，那总装基地的权限最好少用。”许乐认真地听着，这位秘书既然把话说的如此直白，肯定是极得",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "少校与警卫说了几句什么，出示了证件和手令，转过身来，微笑着说道：“你可以走了。“昨夜靠在邹郁的床边，担心惊着那个刚刚生下来几天地小孩子，许乐睡眠的质量其实极差，一大清早便被揪来云后宾馆。此时心情放松之余，竟有些犯困。上午地阳光，透过宾馆庭园四周那些大枫树的青叶，变成了无数的光斑，在他的脸上眼帘上轻轻",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "地一直过来，军衔熬了出来，但暂时还没有合道的岗位，所以一直都跟着老首长。“许乐心头微微一动，知道如果日后邹应星能够在国防部主政，面前这位秘书必然会飞黄腾达，招摇而上。他四天前才去的港都，进入果壳工程部，今天便拿到了国防部的升职文件和相关的权限，绝对是连夜办成，面前这位秘书军官想必花了不少精力。“贵姓",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "便被揪来云后宾馆。此时心情放松之余，竟有些犯困。上午地阳光，透过宾馆庭园四周那些大枫树的青叶，变成了无数的光斑，在他的脸上眼帘上轻轻拂动，就像是催眠一般。以至于他愣了愣后，才反应过来，向对方说了声谢谢，走出了宾馆大门。\n\n    一辆越野军车在门外等着他，许乐上车之前。下意识回头眯眼看去，看着宾馆里",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第一百六十四章 联邦军人 \n\n    许乐自己都不知道，为什么会说了这样一句话。邹应星缓缓抬起头来，看了他一眼，却什么也没有说，只是重新戴上了眼镜，俯下头去，认真开始审看那份需要总统先生过目的文件。\n\n    沉默有时候就代表着态度，许乐不相信这位副部长会不了解年初时那件事情的内幕，邯",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "自幼两个理想之一，如今成了联邦军队里地技术上尉。而且还拥有了总装基地的权限，难免会有些理想照进现实的满足感在云后宾馆入门处，焦少校与警卫说了几句什么，出示了证件和手令，转过身来，微笑着说道：“你可以走了。“昨夜靠在邹郁的床边，担心惊着那个刚刚生下来几天地小孩子，许乐睡眠的质量其实极差，一大清早便被揪",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

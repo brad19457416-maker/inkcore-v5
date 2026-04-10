@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 321,
+  "chapter_title": "第一百二十七章 血馒头",
+  "filename": "ch_0321_第一百二十七章 血馒头.txt",
+  "char_count": 3184,
+  "timestamp": "2026-04-10T12:11:21.720489",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "：“那馒头被冻的硬的像梆子，非得白菜梆子汤泡软了才能吃，原汤化原食你不懂吗？你怎么能就那么吃了呢？你为什么一定要跟着我呢？你害我没有馒头吃了，以后谁来给我馒头吃？”\n　　破庙里不停响起他像疯子一般的嚎叫。\n　　胆小的乞丐早已如惊鸟般四处散去，那些不愿离开这难得栖身之所的胆大乞丐惊惧地藏在角落里，看着",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "己贪生怕死，既没有勇气去面对旧有的人或事，又没有勇气去死，我只是一个阴沟里的老鼠，我会怀念当老虎时的风光，但我现在只想吃着腐肉活下去，活着比什么都好。”\n　　陆晨迦看着跪在自己身前的乞丐，想着曾经的那个风采逼人的完美男子，心头恸至不忍触碰，颤着手指轻轻抚摩着他的头顶，带着哭腔恳求道：“但你可以不用在",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "净透亮而像是蒙了些油腻的尘埃，又透着无情绪的冷漠，愈发令她感到不安。\n　　“我马上就走。”她低头颤声说道。\n　　“你不用走，我走。”隆庆皇子跪到她的身前，痛苦地低声喃喃说道：“我求求你不要再出现在我面前了，我真的已经废了，我没有什么前途，我讨饭活着不是什么入世修行，也没有奢望昊天赐予我什么奇遇，我承",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "道，破庙里蘸人血馒头的那个疯子如今是乞丐，以前却是真正的王子，即便他日后成为乞丐中的王子，那又有什么意义？\n　　……\n　　……\n　　最近这些天，位于大唐帝国东北边陲最偏远处的土阳城，气氛显得格外异常，当千名玄甲重骑自荒原归来后，这种气氛变得越来越浓郁，即便是城外远处岷山里的狼群，似乎都有些畏惧此间的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "第一百二十七章 血馒头\n　　清晨时分，陆晨迦从噩梦中惊醒，看到了他的脸。\n　　那张已经变得有些陌生的满是污垢的脸离她是这般的近，近到她有些心酸又有些心悸，尤其是那双眼眸不再干净透亮而像是蒙了些油腻的尘埃，又透着无情绪的冷漠，愈发令她感到不安。\n　　“我马上就走。”她低头颤声说道。\n　　“你不用",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "常，非常高大，而且摇头摆首时的神态很是憨喜，边塞军民多见战马，却也未曾见过这样的座骑，不由纷纷称奇，心想车中不知是何人竟奢阔到用这种马来拉车？\n　　车窗窗帘被掀起一角，车厢里的宁缺看着城门墙下一名乞丐，不知想起了什么，沉默片刻后说道：“当年无论我和桑桑过的再艰难，我们都没有想过去要饭。”\n　　大师兄",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "落魄离开破庙，漫无目的向远处行去，身后的雪马低着头，显得无比悲伤。\n　　就在她离开之后不久，破庙里的战斗重新暴发，不知道是因为乞丐们看这个比自己更脏更臭但感觉总有些格格不入的新乞丐有些不顺眼，还是因为隆庆咕哝着喃喃自语里的内容激怒了某些人，总之又是好一场痛殴。\n　　一道清晰的血口出现在隆庆的脸上，血",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "民都知道这意味着某件大事即将发生，很是诧异究竟是谁值得夏侯大将军如此郑重对待？\n　　一辆破烂的马车在无数道目光的注视下，缓缓驶进土阳城。\n　　和简陋到随时可能散架的车厢相比，拉车的那匹大黑马神骏异常，非常高大，而且摇头摆首时的神态很是憨喜，边塞军民多见战马，却也未曾见过这样的座骑，不由纷纷称奇，心想",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "不翼而飞，甚至连那个被他当作宝贝的瓮都不知去了何处。\n　　隆庆回头望向破庙里那些神情各异的乞丐同伴，愤怒地大声喊道：“谁他妈的敢抢我的馒头！都还给我！还有我的瓮呢？我的瓮呢！”\n　　他向着那两名唇角带着油渍，满脸得意不屑神情的青壮乞丐扑了过去，想要抢回属于自己的馒头和白菜汤，然而受过重伤，身体比普通",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "的更好一些？\n　　只是他们并不知道，破庙里蘸人血馒头的那个疯子如今是乞丐，以前却是真正的王子，即便他日后成为乞丐中的王子，那又有什么意义？\n　　……\n　　……\n　　最近这些天，位于大唐帝国东北边陲最偏远处的土阳城，气氛显得格外异常，当千名玄甲重骑自荒原归来后，这种气氛变得越来越浓郁，即便是城外远处岷",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，尤其是那双眼眸不再干净透亮而像是蒙了些油腻的尘埃，又透着无情绪的冷漠，愈发令她感到不安。\n　　“我马上就走。”她低头颤声说道。\n　　“你不用走，我走。”隆庆皇子跪到她的身前，痛苦地低声喃喃说道：“我求求你不要再出现在我面前了，我真的已经废了，我没有什么前途，我讨饭活着不是什么入世修行，也没有奢望昊",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的情绪，这个世界总是凶险的，如果要活下去便要学会拒绝这些情绪，不能让自己沉浸在这种情绪中无法自拔。我一向以为那些遇着些挫折便冒充孤独、模仿绝望、哭天喊地、伤害自己伤害亲人、以为全世界都对不起自己的家伙，都是废物中的废物。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "不犹豫再刺你一剑，因为我不想再做那个隆庆皇子，我只想简单地活下去。”\n　　说完这段话后，隆庆头也不回离开了树林，此时天已亮了，晨光照耀着破落的荒庙，他佝偻着身子回到了庙里，对着那堵覆着残雪的破墙发了半天呆，然后被腹中传来的饥饿感惊醒，回到自己席畔的砖墙下摸了半天。\n　　摸了半天还是空，他藏在那里的半",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "大事即将发生，很是诧异究竟是谁值得夏侯大将军如此郑重对待？\n　　一辆破烂的马车在无数道目光的注视下，缓缓驶进土阳城。\n　　和简陋到随时可能散架的车厢相比，拉车的那匹大黑马神骏异常，非常高大，而且摇头摆首时的神态很是憨喜，边塞军民多见战马，却也未曾见过这样的座骑，不由纷纷称奇，心想车中不知是何人竟奢阔",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

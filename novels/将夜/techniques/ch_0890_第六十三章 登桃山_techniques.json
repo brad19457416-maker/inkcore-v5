@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 890,
+  "chapter_title": "第六十三章 登桃山",
+  "filename": "ch_0890_第六十三章 登桃山.txt",
+  "char_count": 3679,
+  "timestamp": "2026-04-10T12:11:27.397841",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "们仿佛忘记了身上的寒冷，依然泡着双脚的冰冷雨水，回想着先前的天地之威，敬畏崇拜再生。\n　　日已入暮，天空的下缘隐隐已经可以看到黑夜的前驱阴影，有人把目光从必将消失的彩虹收回，望向祭坛前的宁缺。\n　　一场持续半日的暴雨，洗去了人间的怨怒与尘埃，洗去了宁缺体内的昊天神力，洗去了清光大阵与神符，却无法洗掉",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "海上飘浮而至，桃山里的光线变得黯淡了很多，紧接着便是一场暴雨落下。\n　　这场暴雨极为猛烈，秋林和山道瞬间被打湿，地面上残碎的桃花瓣被击成茸碎，未凝的鲜血被迅速冲淡然后消失，前坪上的积水以肉眼可见的速度上升，积水里飘着枯叶，隐约可见断肢在其间沉浮。\n　　暴雨遮蔽了人们的视线，整个世界除了冰冷湿凉的雨水",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "西陵神殿的神官执事，还有赵南海等人正准备举步登山继续追杀之时，掌教忽然神情复杂地伸出手掌，示意众人停下。\n　　……\n　　……\n　　因为光明祭的缘故，西陵神殿所有人都在前坪祭坛四周，此时的桃山上没有一个人，除了石阶旁流水的声音，安静的令人心悸。\n　　安静骤然被脚步声打破，宁缺在石阶上化作残影，以",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "缘难以斩断，神国的门很难开启，光明祭会失败，这些事情其实依然在天算之中，但当这些事情真的发生，她依然愤怒。\n　　看着山下祭坛前的那个身影，想着这些事情全部被他破坏，想着他竟敢用自己的神力杀伤自己的信徒，她负在身后的双手微微颤抖起来。\n　　世间所有的事情都在她的计算之中，只有他是唯一的例外，所以她没有",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "约可见断肢在其间沉浮。\n　　暴雨遮蔽了人们的视线，整个世界除了冰冷湿凉的雨水，仿佛再也没有任何其余的存在，轰隆的落雨声竟像是打雷一般。\n　　天地的威力附着在暴雨里，不停地冲刷着桃山，冲刷着人们的身体与灵魂，前坪上的数万名信徒脸色苍白、惊恐不安地跪在雨水中。\n　　暴雨不停落下，祭坛上方的那道光光被洗的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "符，却无法洗掉前事。\n　　掌教看着宁缺，缓缓举起右手，向神殿诸人发出进攻的命令。\n　　没有人能明白，为什么暴雨变小的那段时间里，宁缺没有趁机逃走，他的体内已经没有昊天神力，除了逃走还能做什么？\n　　宁缺看着四周的人们，看着七念、金帐国师、赵南海这些绝世强者脸上的神情，把铁弓背到肩上，然后握紧了铁刀的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "落，甚至能看到极南方黄河流入大海的画面。\n　　然后他望向峰顶仿佛伸手可及的那座神殿和身前笔直的石阶，心想我便要再上层楼，你可还会躲到千里之外？",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "安静的桃山空无一人，石阶下方也没有追击者，他不停地奔跑，一个人不停地奔跑，不觉得孤单，也没有什么紧张。\n　　他是去见她的，那么怎么会孤单，怎样紧张？他甚至越奔跑，越高兴，脸上露出愉快的笑容，即便雨后的秋风寒厉如刀，也无法割掉。\n　　两道清光大阵被他用铁刀和神符硬生生撕开。\n　　他来到了神殿下方，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "攻击的范围，变成了山道上一道极为淡的身影。\n　　西陵神殿的神官执事，还有赵南海等人正准备举步登山继续追杀之时，掌教忽然神情复杂地伸出手掌，示意众人停下。\n　　……\n　　……\n　　因为光明祭的缘故，西陵神殿所有人都在前坪祭坛四周，此时的桃山上没有一个人，除了石阶旁流水的声音，安静的令人心悸。\n　　安静",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，因为雷霆雨露，皆是神恩。\n　　如果说这场恐怖的暴风雨有中心，那么宁缺便站在那处，他感知到的昊天神威最强大，付出的代价也最惨重，数十道V字神符已然涣散，最恐怖的是在暴雨的冲洗下，他体内昊天神力的消失速度变得越来越快。\n　　雨水在他苍白的脸颊上不停淌落，感受着体内神力的消失，他寒冷的不停发抖，看上去虚",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "间的怨怒与尘埃，洗去了宁缺体内的昊天神力，洗去了清光大阵与神符，却无法洗掉前事。\n　　掌教看着宁缺，缓缓举起右手，向神殿诸人发出进攻的命令。\n　　没有人能明白，为什么暴雨变小的那段时间里，宁缺没有趁机逃走，他的体内已经没有昊天神力，除了逃走还能做什么？\n　　宁缺看着四周的人们，看着七念、金帐国师、赵",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "快的笑容，即便雨后的秋风寒厉如刀，也无法割掉。\n　　两道清光大阵被他用铁刀和神符硬生生撕开。\n　　他来到了神殿下方，站到了崖坪上。\n　　雨后的秋空是那样的干净，高山上的视野更是一片开阔，他能看着白日依着西方的远山渐落，甚至能看到极南方黄河流入大海的画面。\n　　然后他望向峰顶仿佛伸手可及的那座神殿和身",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "显得那般渺小，只有宁缺站着，虽然那般孤单，却显得那般高大。\n　　他不是勇敢而高傲的海燕，为了活下去他从来不在乎尊严之类的东西，便是先前他也曾经跪过，但这时候他不想跪。\n　　他已经与她重新建立了联系，既然你是我的本命，那你就是我的桑桑，你就是我的妻子，可以举案齐眉，怎能下跪？\n　　――有本事你就杀了我",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "雨时间要长很多。\n　　暴雨一落便是半日才渐渐变小，细细的雨丝终于有了些淅淅沥沥的感觉，前坪的风也变得温柔了很多，带着湿意落面令人感觉极为舒服。\n　　数万信徒醒来，发现肆虐的暴雨不再，桃山周遭终于回复了宁静，有很多人被暴雨侵袭至昏迷，甚至有人已经没有了呼吸，湿透了的衣衫向人们的身体里传达着刺骨的寒意，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "来没有想过要离开桃山。\n　　环顾皆强敌，宁缺的脸上却没有一丝惧意，他看着崇明太子还有那些诸小国的国君说道：“今日我不杀你们，不是因为修行者不得滥杀普通人的规矩，而是我觉得你们更应该死在我大唐军人的手中。”\n　　没有人明白，为什么他已经身处绝境，却还能如此平静自信，他在想什么？掌教厉声喝道：“难道你以",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 355,
+  "chapter_title": "第三十五章破营（再中",
+  "filename": "ch_0355_第三十五章破营（再中.txt",
+  "char_count": 8167,
+  "timestamp": "2026-04-10T12:04:59.193053",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“这是什么地方？”邹部长惑地问道，虽然军演指挥大厅对于演习双方的兵力部署与战损情况非常清楚，但此时众人的目光随着那台黑色机甲狂奔了这么久，都被带地有些糊涂了。\n\n    “蓝池山……二号峰。”还是那名负责信息捉捕的军事参谋，他从工作台后站了起来，声音微颤说道，充满了不可置信的情绪。\n\n    “嗯",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "气势，沉重的合金机身每一步踏在岩石之上，都要踩迸出几块碎屑，似乎整座山峰都在为之颤动。\n\n    巨大地反震力又被机甲高效的连结装置和球状关节所吸附，变成向前地冲击力，于是黑色机甲每一步踏下，它的速度便会再快上几分！\n\n    机甲脚下，山石迸裂，在晨光中尤如一道黄龙，黄龙尽头黑色地mx机身异常冷冽",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "机甲在烟尘之中，在弹雨之中……浑身颤抖，身边无数高速榴弹与它擦身而过，对面难以相逢。\n\n    极度危险的状态，黑色机甲随时可能被击中，但它却偏偏凭借着不可思议的操作扭曲着机身，如一道黑光般跳跃着，就好似一株颜色渐深的老柳，任由河畔风雨击打，却总是能够坚强地活下来。\n\n    迈尔斯上将霍然起身，用",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "是超越自己的身躯甚至是身体外的机甲，通过颈后地芯片，与宇宙间的宪章光辉联结。\n\n    这是他最大的秘密，黎明前的黑暗里，当铁七师近卫营即将取得军演胜利的时刻，他决定动用这种令他自己都有些心寒、想要躲避的能力。\n\n    黑梦的那头再次归于沉默，细腻的光点凝结成地网格，模拟出三维地图，传输进他的大脑",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "并不是那位冷酷的像冰刀般的杜师长。\n\n    果不其然，重新开启的mx机载雷达与scc搜寻系统，忽然爆发出来了尖锐的警告声，身处剧烈震动中的许乐盯着光屏，双眼眯了起来。\n\n    看着光屏上代表着杀伤力的繁复线条，许乐真的很想不明白，西门瑾难道猜到自己会从这片山坡上冲下来？不然对方的营部怎么可能在如",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "疑惑，黑色机甲看似无头苍蝇一般的狂奔，难道隐藏着没有人能够猜到的含意？\n\n    这个谜底在黑色机甲第一次停下，也是最后一次停下时揭开了。\n\n    黑色机甲摸至一处山峰的顶部，然后悄无声息地半蹲了下来，似乎正在准备着什么。\n\n    山谷下方隐约有一处营地。\n\n    “这是什么地方？”邹部长惑地",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "摇篮之中。\n\n    “报那台机甲战损。”迈尔斯上将急促地问道。\n\n    大厅里的军官们有些讶异，心想在这样密集的火力覆盖下，难道司令员还认为那台机甲能够保存一定战斗力？要知道铁七师近卫营的这轮榴弹齐射，看似简单，实际上时间点和覆盖范围已经完美到一塌糊涂。\n\n    参谋听到迈尔斯上将的话后愣了愣",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "都陪在他的身边，需要延迟一段时间才能接触到对方，是他从来没有体验过的事情。\n\n    只是身处惨烈而紧张的军事演习现场，许乐没有足够的精力捕捉这次的异象，并且引起足够的警惕，他只是下意识里觉得老东西今天开口说的第一句话，隐隐有些不一样的感觉。\n\n    “帮我找一个人，铁七师中校军官西门瑾。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "第三十五章破营（再中\n\n    到这句话，许乐皮肤上的所有毛孔同时舒展，那些汗，在这一瞬间，似乎也都化为雾气离散而去，只剩一片舒爽。之所以会有如此强烈的感受，是因为先前沉默的七秒钟让他十分惊栗。\n\n    无远弗届的宪章光辉，凭借着周游于宇宙中无数的飞行器，卫星",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "生出一丝怪异的情绪，盯着光幕上被参谋震惊放大的画面。画面上那台黑色机甲在烟尘之中，在弹雨之中……浑身颤抖，身边无数高速榴弹与它擦身而过，对面难以相逢。\n\n    极度危险的状态，黑色机甲随时可能被击中，但它却偏偏凭借着不可思议的操作扭曲着机身，如一道黑光般跳跃着，就好似一株颜色渐深的老柳，任由河畔风",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "永远没有缺口，没有空窗的巨型网络。\n\n    以往在黑梦中，在清醒时，许乐想要通过这个网络与那位伟大存在进行主动联系时，从来不会发生任何延迟，对方就像是一位有求必应的神，时刻都陪在他的身边，需要延迟一段时间才能接触到对方，是他从来没有体验过的事情。\n\n    只是身处惨烈而紧张的军事演习现场，许乐没",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "慌。至于铁七师究竟在营部四周布置了怎样的防御力量，也不关他地事，他是一个简单直接的人，一斧要砸出一个将来，一刀要劈开一道亮光，此时m机甲在手……身体内的力量尽数澎湃，除了冲下去，他根本没有为自己准备第二套战斗方案！\n\n    正是因为这种绝决壮烈，黑色机甲从山峰上沿着陡坡一冲而下，不是偷袭也变成了偷",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "但自主电子屏蔽状态下的机甲，依然成功地瞒过了铁七师布防严密的电子监控设备。\n\n    黑色的mx机甲来到了蓝池山峰顶，前面是一道陡坡，下方便是铁七师近卫营的指挥营地，在黑暗中远远看去，营地里只有些微灯火，根本看不出来究竟隐藏着多少火力。\n\n    机甲中的许乐皱着眉头，仔细地分辩着地形与对方营地的布",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "第三十五章破营（再中\n\n    到这句话，许乐皮肤上的所有毛孔同时舒展，那些汗，在这一瞬间，似乎也都化为雾气离散而去，只剩一片舒爽。之所以会有如此强烈的感受，是因为先前沉默的七秒钟让他十分惊栗。\n\n    无远弗届的宪章光辉，凭借着周游于宇宙中无数的飞行器，卫星，地面的电子监控网络，甚",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "地坐回了沙发上，花白的眉毛微微一挑，显得极为满意。邹部长依然是一脸沉稳，却端起茶几上没有喝几口的茶，缓缓地啜了几口。\n\n    指挥大厅\n\n    无法保持安静，所有地人都开始私下议论，嗡嗡的声吃惊的情绪，弥漫在整个地下空间之中。\n\n    杜少卿望着光幕怔了怔，就连他都不知道西门瑾会把指挥部放在哪",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "觉。\n\n    “帮我找一个人，铁七师中校军官西门瑾。”\n\n    望着左眼里的那些网格，许乐快速地说道。联邦中央电脑并不会每一次都以老管家的面目出现在他的视网膜上，有时候只是一些比较简单枯燥的线条，不知道那代表着联邦中央电脑怎样的运算法则。\n\n    在狐狸堡垒黑狱中，许乐和宪章局那台电脑的对话很",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "窗的巨型网络。\n\n    以往在黑梦中，在清醒时，许乐想要通过这个网络与那位伟大存在进行主动联系时，从来不会发生任何延迟，对方就像是一位有求必应的神，时刻都陪在他的身边，需要延迟一段时间才能接触到对方，是他从来没有体验过的事情。\n\n    只是身处惨烈而紧张的军事演习现场，许乐没有足够的精力捕捉这次",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 499,
+  "chapter_title": "第六章 我们都看见了路尽头的夜色（上）",
+  "filename": "ch_0499_第六章 我们都看见了路尽头的夜色（上）.txt",
+  "char_count": 3474,
+  "timestamp": "2026-04-10T12:11:21.799781",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "沉默片刻后说道：“老师，这几年里我一直在做一个梦，梦里的故事似乎在一步步地发展。”\n　　夫子问道：“为什么要来问我呢？”\n　　宁缺说道：“因为梦里面有老师的身影。”\n　　夫子笑着说道：“我又不是桑桑那丫头，你何必梦我？”\n　　宁缺恼道：“老师，我是很认真地在说这些事情，你能不能不要开玩笑。”\n　　夫",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "明世界，冥王获胜时，便是冥界到来。”\n　　“冥界入侵，白天没有烈日，夜晚没有繁星，世界变得无比寒冷，大地上的生灵只能靠地热取暖，到那时，火山与温泉还有南海里的热流，将会变成最宝贵的资源，无数的战争将会在那里发生。”\n　　“战争持续不了太长时间，绝大部分人都会死去，因为饥饿因为寒冷因为绝望的厮杀，要知",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "：“师兄，这种事情你不用和我比。”\n　　陈皮皮正色解释说道：“我和棠棠并不是你想的那样。”\n　　宁缺心想棠棠这么肉麻的称谓都说出口，还有什么好解释的？不由嘲弄说道：“你不觉得男人不认帐是世间最恶心的事情？”\n　　陈皮皮转头望向他诚恳说道：“我们就是牵牵手。”\n　　宁缺嘲讽说道：“她只不过是个小姑娘，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，他忽然心头微动，交待唐小棠照看桑桑，便走出了小院。\n　　离开镜湖，穿过山林，绕过瀑布，走出窄峡，便来到了书院后山的后山、那片云海前的绝壁之间，此时已然夜深，周遭一片静寂，只有绝壁间的瀑布破石而出的轰鸣声不停回荡。伴着瀑布的声音，他走上陡峭的石径，用了不短的时间，才走到曾经囚禁自己整整一个春天的崖洞",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "的世界。而数十年之后，整个大地都会变得异常静寂，仿佛进入了永远不会醒来的沉睡，无论人类还是禽兽，只有最强壮最坚毅的那些能够熬过来。”\n　　“这些寒冷而黑暗的年代，佛宗称为末法时代，道门称为冥王降世。”\n　　夫子说道：“而我习惯称之为……永夜。”",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "间有句俗话，丑媳妇总要见公婆……我母亲早就死了，父亲还活着，棠棠自然不丑，但在我父亲眼中，出身魔宗的人们肯定长的不怎么好看，这个问题要解决，我终究需要回去一趟。”\n　　宁缺微微蹙眉，说道：“你有没有想过，你回知守观，便有可能再也回不来？那到时唐小棠怎么办？”\n　　陈皮皮看着他情真意切说道：“师弟，你",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "也可以用来说话问道，终究还是看你怎么选择，不过这倒没有什么对错可言。”\n　　宁缺哪里有听不懂这番话的道理，沉默片刻后说道：“老师，这几年里我一直在做一个梦，梦里的故事似乎在一步步地发展。”\n　　夫子问道：“为什么要来问我呢？”\n　　宁缺说道：“因为梦里面有老师的身影。”\n　　夫子笑着说道：“我又不是",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "夫子微笑看着他说道：“那你继续说梦。”\n　　看着夫子那双仿佛能够洞悉世间一切事的眼睛，宁缺觉得有些紧张，声音微哑说道：“其实那些梦，老师您应该知道。去年今夜在这崖畔，我们谈到冥界入侵时，你曾经问过我，在我梦里冥界在哪个方向。”\n　　夫子静静看着自己最小的学生，说道：“这个问题现在依然有效。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "在大唐都城长安是最幸福的事，在书院里的日子更有他这辈子从来没有体会过的幸福，所以他不知道应该怎么说，担心一旦自己说破那些事情，便会失去这些幸福。\n　　夫子夹起一块带着明亮筋丝的牛肉，送入唇中缓缓咀嚼了半晌，面露陶醉神情，待把肉香尽数抿化，赞美说道：“有酒有肉，一生无忧。”\n　　说完这句话，他端起小酒",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "道：“怎么了？”\n　　陈皮皮看着镜湖里的水草和水面上无数万枚金币，圆乎乎显得非常可爱的脸上满是落寞，说道：“看着你和桑桑感情这么好，我有些感触。”\n　　宁缺心头微动，暗想莫非是他和唐小棠小两口又在闹什么矛盾，拍了拍他的肩膀安慰说道：“师兄，这种事情你不用和我比。”\n　　陈皮皮正色解释说道：“我和棠棠",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "睡，无论人类还是禽兽，只有最强壮最坚毅的那些能够熬过来。”\n　　“这些寒冷而黑暗的年代，佛宗称为末法时代，道门称为冥王降世。”\n　　夫子说道：“而我习惯称之为……永夜。”",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "宁缺想了想，说道：“是的，我无法想像没有她的日子。”\n　　陈皮皮说道：“我也一样，我也无法想像以后的日子没有棠棠在身旁，所以我决定回知守观一趟。”\n　　宁缺不知道该说些什么，两年前陈皮皮否认自己是西陵掌教私生子后，他便隐约猜到了这个家伙的身世，只不过今天才得到确认，依前面的语境来看，他要回知守",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "有开口。\n　　生活在大唐是件很幸福的事情，生活在大唐都城长安是最幸福的事，在书院里的日子更有他这辈子从来没有体会过的幸福，所以他不知道应该怎么说，担心一旦自己说破那些事情，便会失去这些幸福。\n　　夫子夹起一块带着明亮筋丝的牛肉，送入唇中缓缓咀嚼了半晌，面露陶醉神情，待把肉香尽数抿化，赞美说道：“有酒",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "该怎么说，担心一旦自己说破那些事情，便会失去这些幸福。\n　　夫子夹起一块带着明亮筋丝的牛肉，送入唇中缓缓咀嚼了半晌，面露陶醉神情，待把肉香尽数抿化，赞美说道：“有酒有肉，一生无忧。”\n　　说完这句话，他端起小酒壶美滋滋地嘬了一口。\n　　宁缺坐在夫子身旁，用手拈起片牛肉扔进嘴里，蹙起了眉头，因为他觉得",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "个高大的背影，他很自然地联想起梦里的那个背影，于是他犹豫了很久，还是没有开口。\n　　生活在大唐是件很幸福的事情，生活在大唐都城长安是最幸福的事，在书院里的日子更有他这辈子从来没有体会过的幸福，所以他不知道应该怎么说，担心一旦自己说破那些事情，便会失去这些幸福。\n　　夫子夹起一块带着明亮筋丝的牛肉，送",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 124,
+  "chapter_title": "第六十三章 议员阁下",
+  "filename": "ch_0124_第六十三章 议员阁下.txt",
+  "char_count": 3404,
+  "timestamp": "2026-04-10T11:53:35.135630",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "脸上的表情顿时显得无比震惊。似乎怎么也没有想到，议员阁下会如此畏惧邰家，甚至不惜将自己在联邦政府里最大地支持者干脆利落地斩断。\n\n    那名军人和那名穿着合成毛衫的人，确实如他们所言，都只是联邦里不起眼的小人物，但他们所服务的人群，却是联邦里位高权重、影响力极为深远的人。他们不知道彼此的姓名与身份",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "第六十三章 议员阁下 \n\n    清脆的枪声，回荡在那些紧张前行的军人耳膜中，回荡在大学城北郊安静的高速公路上，回荡在冰雪覆盖的天地间。\n\n    邰之源收回了注视光屏的目光，紧紧了身上的大衣，看着远处那台破损严重的黑色机甲，皱着眉头，许久一言不发。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "尔议员与**军达成初步和解协议，今天便有了一场针对您地暗杀行为，看来军方鹰派对于家族这次的插手，非常愤怒。”\n\n    “先不要急着锁定嫌疑目标是谁。事后地调查与审判是联邦政府地事情。我虽然愤怒。但也不可能凌驾于法律之上去宣判某些人有罪。”邰之源地眼神一如从前那般平静。“如果这件事情与和解协议有关。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "家，取下了耳边的电话，来到邰之源的身边，压低声音说道：“机甲里的军人是那多少校，四枚紫星勋章获得者，战斗英雄，隶属于第二军区特种机甲大队，任副大队长。他今天本应该在首都特区参加一个国防部主持的培训。”\n\n    邰之源沉默了片刻后，问道：“第二军区……国防部的春季攻势，应该就是以第二军区为主力。如果",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "公路尽头隐隐传来直升飞机的声音。\n\n    额头上的血痕已经干涸的靳管家，取下了耳边的电话，来到邰之源的身边，压低声音说道：“机甲里的军人是那多少校，四枚紫星勋章获得者，战斗英雄，隶属于第二军区特种机甲大队，任副大队长。他今天本应该在首都特区参加一个国防部主持的培训。”\n\n    邰之源沉默",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "升飞机的声音。\n\n    额头上的血痕已经干涸的靳管家，取下了耳边的电话，来到邰之源的身边，压低声音说道：“机甲里的军人是那多少校，四枚紫星勋章获得者，战斗英雄，隶属于第二军区特种机甲大队，任副大队长。他今天本应该在首都特区参加一个国防部主持的培训。”\n\n    邰之源沉默了片刻后，问道：“第二军区",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，他们居然就能查到培训中\n\n    “自己的儿子险些死了，谁都能想到那位夫人该是多么的愤怒，而在某种意义上来说，就是总统阁下，在那位夫人的怒火面前也要表示一下退让。”\n\n    “我必须走了。”军人很干脆利落地转身。离开了这个幽暗地房间。\n\n    他走在这幢属于国防部军官的福利公寓楼梯上，取出了怀",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "？”先前还在被追击地紧张时刻。邰之源便已经让靳管家直接跟踪政府方面对体育馆地处理。就是想知道许乐……究竟能不能在那样地绝境中活下来。此时听到没有找到四个字。邰之源音调微高。微怒说道：“生便能见人。死也能见到尸体……没有找到是什么意思？”\n\n    “军用机甲地火力太猛。留下地……遗体基本上已经残缺不",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "整理桌上的文件，低着头说道：“虽然直到此时我还不知道你身后的人究竟是谁，这次合作也没有成功。但我希望将来还有合作的机会。”\n\n    桌子对面那个穿着灰色合成毛衫的普通人笑了笑，没有站起身来，也没有急着离开，颇有深意地看着他说道：“谁说我们的合作没有成功？虽然邰家少爷命大逃过了一劫，但我想，你身后那",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "靳管家花白的头发在寒风中飘拂，他带着复杂神情看着少爷地背影，虽然他知道这是少爷成长历程中第一次经历朋友死亡地打击，可他依然没有想到，少爷一惯的平静已经快要掩饰不住他内心地情绪，许乐自然是死了，要动用宪章局帮忙，实在不是什么明智的做法。\n\n    “通过政府部门向宪章局发出申请，再到核准，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "彻底的失败。\n\n    他们以及他们身后地那些大人物，必须要尽快脱离邰家将要掀起的风波，所以他们必须马上把诱饵抛出去，让联邦政府的眼光投向那片山区小.说。t/x/t天.堂",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "二军区的军官，这一次不知道要被清洗多少。”\n\n    “没有想到政府和邰家的反应居然会这样快。”军人缓缓站直了身体，带着一丝惊惧之意说道：“那边的暗杀刚刚结束，他们居然就能查到培训中\n\n    “自己的儿子险些死了，谁都能想到那位夫人该是多么的愤怒，而在某种意义上来说，就是总统阁下，在那位夫人的怒火",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "到了那人的身后，眯着眼睛看着联邦政府国防部大楼，叹了口气说道：“身为军人，其实我很敬佩这些为了联邦的命运，勇于无视法律地同僚。”\n\n    “而你却害得他们要去坐牢。”穿着合成毛衫的人眼瞳剧缩。看着大街上十几辆军车冲进了国防部大楼旁边的培训中心，说道：“第二军区的军官，这一次不知道要被清洗多少。”",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "那名军人和那名穿着合成毛衫的人，确实如他们所言，都只是联邦里不起眼的小人物，但他们所服务的人群，却是联邦里位高权重、影响力极为深远的人。他们不知道彼此的姓名与身份，只是为了一个共同的目标而暂时走到了一切，与联邦军方里的某些大人物达成了默契，开始执行联邦二十年来最不可思议的一次暗杀行动。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

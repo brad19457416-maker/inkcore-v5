@@ -1,0 +1,245 @@
+{
+  "novel": "间客",
+  "chapter_number": 113,
+  "chapter_title": "第五十二章 敬我们的总统",
+  "filename": "ch_0113_第五十二章 敬我们的总统.txt",
+  "char_count": 3525,
+  "timestamp": "2026-04-10T11:53:35.121432",
+  "techniques_count": 18,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "邰家必须要有这种对于媒体的控制力，以及对于联邦政府内部无数势力派别的判断能力，才能让这个新闻事件打了众人一个措手不及。\n\n    联邦公民们如果真的能摆脱内战的阴影，那么他们一定会在很长的一段时间内记得，当人人都在欢度新年的时候，一位身份尊贵的联邦议员冒着极大的风险，秘密前往**军控制的山区，与对方",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "然猜不到施清海的具体担心，但也能听出来。对方是在关心自己，避开这个问题，说道：“说说你吧，调查局什么秘密任务要你离开这么久。我去四科找过你，连你的科员都不知道你去了哪里。”\n\n    “嗯。既然是秘密任务，那些小崽子们自然不清楚。”施清海的眉梢一挑，说不出地风流得意，“名义上我只是请了两个月的假，去",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "样行走着。\n\n    邰之源的唇角微翘，笑了起来。\n\n    度过**礼地他，终于拥有了全部的权限，第一次真正**地开始操作一件能够影响到整个联邦地大事，在邰夫人的密切关注下，在整个家族无数工作人员的帮助下，在付出了很多天的精力透支之后，他终于满意地看到，自己的工作有了一个不错的结果。\n\n    光",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "遥远，我可不知道他能不能成功当选。”\n\n    “相信我，他已经是总统了。”施清海略显疲惫地笑了笑，心想如果在这样的舆论风潮之下，帕布尔议员还不能把握住这个机会，那只能说明组织里的上层和邰家都同时看走了眼。\n\n    他同时想到，联邦普通的民众，只看到了今天新闻上的这一幕，却不知道为了这一幕能够准时",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "地他快要不能呼吸，更没有洗澡地时间。\n\n    如今一切都暂时结束了，双方达成了协议，几十天的辛苦与紧张似乎换来了一个不错地结果，看着画面上面色黝黑如铁的帕布尔议员的风姿，他竟一时间感到有些心力交瘁。\n\n    “知道吗？画面上这个像岩石一样的家伙，明年就会成为我们的总统阁下。”施清海放下酒杯，点燃",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "城综合体育馆召开。”靳管家沉默片刻后说道：“但根据不同渠道的情报消息，我建议您不要参加，因为可能存在危险。小说^t*xt-天.堂",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "地势力都会试图在联邦电视台里探出自己地手。而一向低调沉稳的邰家，则是对联邦电视台最重要地新闻部，拥有最强悍的影响力。\n\n    邰之源双手撑着栏杆，回想着脑海里新闻的那一幕，很满意于帕布尔议员先生在镜头前的表现，他相信在不久后的将来，帕布尔议员的竞选办公室，一定会将那个画面挑选为最主要的海报封面，贴",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "你去了哪里。”\n\n    “嗯。既然是秘密任务，那些小崽子们自然不清楚。”施清海的眉梢一挑，说不出地风流得意，“名义上我只是请了两个月的假，去南方热带度假去了。”\n\n    “既然如此。这个任务自然也是不能告诉我的。”许乐笑着说道。\n\n    施清海耸耸肩，默认了这个说法。很舒服地躺倒在沙发上，一边",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "海的具体担心，但也能听出来。对方是在关心自己，避开这个问题，说道：“说说你吧，调查局什么秘密任务要你离开这么久。我去四科找过你，连你的科员都不知道你去了哪里。”\n\n    “嗯。既然是秘密任务，那些小崽子们自然不清楚。”施清海的眉梢一挑，说不出地风流得意，“名义上我只是请了两个月的假，去南方热带度假",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "大学城综合体育馆召开。”靳管家沉默片刻后说道：“但根据不同渠道的情报消息，我建议您不要参加，因为可能存在危险。小说^t*xt-天.堂",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "邰之源双手撑着栏杆，回想着脑海里新闻的那一幕，很满意于帕布尔议员先生在镜头前的表现，他相信在不久后的将来，帕布尔议员的竞选办公室，一定会将那个画面挑选为最主要的海报封面，贴满整个联邦的大街小巷，为他争取到无数的选票。\n\n    想到这一点，少年忍不住笑了起来，对于自己这些天的工作感到满意。与**军之",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "轮的磋商，最后才能够在协议上签字。普通的民众，更不知道在这看似传奇的议员和解旅程的背后，隐藏着多少不为人知地内幕。\n\n    这些内幕施清海都知道。因为他就是当事人。他静静地看着许乐，想到双月节舞会时的那一场谈话，想到面前这个好朋友只怕永远都不会知道他在这个事件里所扮演的重要角色，忍不住微微笑了起来",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "女人怎么又回到了你的身边？”施清海看到他地神情。秀气的眉毛皱了皱，在电话里知道张小萌和许乐在一起，他马上推想到麦德林议员那方面。想到那个女学生或许是想通过回到许乐身边继而接近邰之源，他便很难掩饰心中的反感，冷声说道：“难道你忘了舞会前的事情？”\n\n    许乐老实地笑了笑，虽然猜不到施清海的具体担心",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "笑了笑，心想如果在这样的舆论风潮之下，帕布尔议员还不能把握住这个机会，那只能说明组织里的上层和邰家都同时看走了眼。\n\n    他同时想到，联邦普通的民众，只看到了今天新闻上的这一幕，却不知道为了这一幕能够准时在新年时刻发生，事件的双方暗中进行了多少次谈判，彼此进行了多少轮的磋商，最后才能够在协议上签",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "中的反感，冷声说道：“难道你忘了舞会前的事情？”\n\n    许乐老实地笑了笑，虽然猜不到施清海的具体担心，但也能听出来。对方是在关心自己，避开这个问题，说道：“说说你吧，调查局什么秘密任务要你离开这么久。我去四科找过你，连你的科员都不知道你去了哪里。”\n\n    “嗯。既然是秘密任务，那些小崽子们自",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "麦德林议员那方面。想到那个女学生或许是想通过回到许乐身边继而接近邰之源，他便很难掩饰心中的反感，冷声说道：“难道你忘了舞会前的事情？”\n\n    许乐老实地笑了笑，虽然猜不到施清海的具体担心，但也能听出来。对方是在关心自己，避开这个问题，说道：“说说你吧，调查局什么秘密任务要你离开这么久。我去四科找",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "她家里今天有聚会，所以先回去了。”\n\n    实际上，张小萌根本不想回去那个充满陈腐气，只知道在上流社会里不停交际的家中。然而她今天向许乐坦承了自己的间谍身份，许乐自然不会把她带来和施清海相见，毕竟施清海是联邦调查局的官员。想到张小萌，许乐的表情渐凝，关于少女的心事，他怎样也不能完全明白。“有些天没",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "这个像岩石一样的家伙，明年就会成为我们的总统阁下。”施清海放下酒杯，点燃了一根香烟，美美地吸了一口，满足地叹息了一声，在心里苦涩地加了一句，至少在这个家伙正式当选为总统之前，自己在联邦中应该是安全的。\n\n    看着光幕上正在与**军首脑握手的帕布尔议员，施清海的心里对于邰家在联邦的影响力生出无比的",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

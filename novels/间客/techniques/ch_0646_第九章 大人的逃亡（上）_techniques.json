@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 646,
+  "chapter_title": "第九章 大人的逃亡（上）",
+  "filename": "ch_0646_第九章 大人的逃亡（上）.txt",
+  "char_count": 3439,
+  "timestamp": "2026-04-10T12:05:08.614752",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，身为联邦俘虏兵不能奢望能够得到真正的尊重，所谓浏览观光，所谓帝国美食，只是对方有所求罢了，此刻环境危险，对方哪里还顾得上什么攻心？\n\n    那名身份特殊的帝**官受了重伤，可探手一抓的动作依然那般强劲，并不大的手掌比钢铁还要坚硬，顺着此人手臂淌下来的血，在他的肩上湿成一片，粘粘的。\n\n    …",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "怀草诗冷冷瞥了一眼不远处的许乐，大步走了过去，一把抓住他的后颈拎了起来，扔给身后的下属军官，然后带着众人快离开。\n\n    这是一种像抓小鸡般的耻辱待遇，只是许乐清楚，身为联邦俘虏兵不能奢望能够得到真正的尊重，所谓浏览观光，所谓帝国美食，只是对方有所求罢了，此刻环境危险，对方哪里还顾得上什么攻心？",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "到这里。”\n\n    关于那些胆大包天行刺的势力，他们有所猜测，但不管对方是谁，竟敢行刺大人，那毫无疑问就是叛徒。\n\n    怀草诗嗯了一声，对于他来说，选择这个接应点最重要的原因不是为了这里隐秘，而是因为这里有他纵横宇宙的信心来源。\n\n    帝国的历史是由血书写的，他自幼就很清楚这一点，然而自陛",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "上，无人胆敢轻慢的存在，可是怎么居然有人敢刺杀那名年轻的帝**官？甚至还出动了战机！\n\n    死亡瞬间后便要到来，许乐依然不甘心，他急促 地呼吸混着烟尘的空气，努力向墙角处跑了几步，那里的建筑（是）梁柱结构，应该能在楼塌后为人们提供更多生存下来的可能，哪怕只是从万分之一提升到千分之一，终究也是可能",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "转瞬间，他脸上的情绪忽然变得异常沉重，不知道想到了什么事情，令这个在亡命刺杀面前依旧镇定，只愤怒不惊恐的帝国年轻强者，也感到了有些惘然失措。\n\n    不过这些情绪只是暂时，怀草诗冷冷瞥了一眼不远处的许乐，大步走了过去，一把抓住他的后颈拎了起来，扔给身后的下属军官，然后带着众人快离开。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "漠脸上那丝一闪即过的狠戾配合起来，令人感到有些不寒而栗。\n\n    转瞬间，他脸上的情绪忽然变得异常沉重，不知道想到了什么事情，令这个在亡命刺杀面前依旧镇定，只愤怒不惊恐的帝国年轻强者，也感到了有些惘然失措。\n\n    不过这些情绪只是暂时，怀草诗冷冷瞥了一眼不远处的许乐，大步走了过去，一把抓住他的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "眉头微皱，咳嗽了两声，他不明白此人脸上的凝重忧虑因何而来，明明半身染血也不皱眉的怪胎强者，这时候是在担心什么？应该不是在担心后方的追击，下属们的生死，像他们这类人早就已经吧这些看的很淡才是。\n\n    后方的街道里忽然响起密集的枪炮声，轰炸声，许乐后头看去，只见那出火光隐作，硝烟冲天。\n\n    …",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，刺目的火光，纷飞的碎砾，刺鼻的硝烟，瞬间占据了整座餐厅，右前方的墙壁被炸出了一个巨大的豁口，外界的风呼啸着灌了进来，被燃烧着的火苗一舔，高温滚烫。\n\n    细高秀美的高层建筑大楼，如同少女被顽劣的男同学拍了下后脑勺，摇晃了一下，然后对于建筑内的人们来说，就像是经历了一场可怕的地震，地板剧烈地震动",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "。\n\n    ……\n\n    ……\n\n    帝**人以最快的度保护着怀草诗，推搡甚至是拖踢这许乐，来到了建筑下方，在街边已经有十几辆防弹军车正在那里等待出。\n\n    然而那些胆敢进行这次疯狂刺杀的人们，并没有放由这一行人就此离开的意愿，负责安保监控的帝**人，有些表情难看地监测到，就在三个街区之",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "人，请先离开。”\n\n    负责保安工作的帝**官满脸通红向怀草诗敬了一个军礼，然后对四周的军人大声说道：“就地阻击，马上构筑临时工事！”\n\n    帝**人整齐的齐声应是，快地行动起来。\n\n    他们大声喝叫着，将街道两侧的巨型电子招牌全部炸了下来，拦在街道中央，作为阻止对方机械化战车的工事，同",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "刺眼导弹喷射气流线条。\n\n    在联邦人的认识中，帝国皇室应该是他们星域中高高至上，无人胆敢轻慢的存在，可是怎么居然有人敢刺杀那名年轻的帝**官？甚至还出动了战机！\n\n    死亡瞬间后便要到来，许乐依然不甘心，他急促 地呼吸混着烟尘的空气，努力向墙角处跑了几步，那里的建筑（是）梁柱结构，应该能在",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "帝国的防御诱弹集群阵？\n\n    在爆炸到来前的那刻，许乐认出了这些东西，电光火石间忽然间生出一个念头，够资格让这些战场武器随队保护，那个年轻军官的身份应该和自己的猜测相差不远。\n\n    ……\n\n    ……\n\n    急升空的密集诱弹，在最短的时间，成功拦截了三枚威力极大的导弹，却遗漏了最后一",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "怀草诗一行人终于惊险地暂时摆脱了敌方部队的追击，来到了一处安静的民宅外围，地下车库的大门缓缓开启，三辆军车鱼贯而入，随着大门的再次关闭，再也没有人能够现此地的异常。\n\n    昏暗的地下车库中，怀草诗依然表情沉重，他看着电子地图，开口问道：“中断与外界的任何联系，在此地停留二十分钟，观察",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "他们大声喝叫着，将街道两侧的巨型电子招牌全部炸了下来，拦在街道中央，作为阻止对方机械化战车的工事，同时他们把决定留下的军车开了过来，也同样横在了街道中。\n\n    明知是必死的阻击任务，可是这些帝**人没有任何犹豫，他们的脸上也没有任何畏怯，反而满是强悍的战斗**，为了保护帝国的骄傲，最崇拜的长官",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "不甘心，他急促 地呼吸混着烟尘的空气，努力向墙角处跑了几步，那里的建筑（是）梁柱结构，应该能在楼塌后为人们提供更多生存下来的可能，哪怕只是从万分之一提升到千分之一，终究也是可能性更大些。\n\n    嗖嗖嗖无数密集的声音，上百道白色气流线，从餐厅所在高层建筑下方升空，快掠过环形玻璃落地窗，然后猛然急转",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

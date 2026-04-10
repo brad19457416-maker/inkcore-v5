@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 692,
+  "chapter_title": "第五十六章 夺表",
+  "filename": "ch_0692_第五十六章 夺表.txt",
+  "char_count": 3265,
+  "timestamp": "2026-04-10T12:05:08.607729",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "沃斯领袖和许乐坐在幽暗房间内，没有人想看到在帝国搜捕日渐严密的紧张局势下，内部还要生大的冲突，所以齐大兵被留在了门外。\n\n    许乐看了一眼手中的联系方式，大致确认如果联邦政府和帝国抵抗组织开始合作的话，那个叫齐大兵的骄傲帝国人，将扮演非常重要的角色，按照面前这位老人先前带着几分交待后",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "火石间的画面闪烁于幽暗的地下道内，最终齐大兵不敌，被许乐一脚踹中胸膛跌入水道之中。\n\n    按惯常道理，在当时紧张而又昏暗的环境中，许乐很难记住一个如很多人般侧在自己面前的敌人，但他确实记的很深刻，因为这个帝**官展现出来的战斗力，尤其是那些让他感觉非常熟悉的近战技巧，曾经带给他很多猜想。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "明明是很正确的话，但不知道从齐大兵的嘴里说出来，便带着一股生辣生硬的味道，令听者心情十分压抑，就像是生生硬了一块被辣概油泡了二十年的大块蛋白肉……\n\n    许乐却依然没有任何反应，低声与沃斯领袖说着话，看都没有看这个骄傲的帝国男人一眼。\n\n    被无视的齐大兵目光愈锋利，盯着许乐近在",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "过，那时许乐的身份是被无数帝国部队追杀的联邦逃犯，齐大兵是机动局专程从皇家特种营征调的精锐战斗力量，骤然相遇一场激斗，犀利狠辣电光火石间的画面闪烁于幽暗的地下道内，最终齐大兵不敌，被许乐一脚踹中胸膛跌入水道之中。\n\n    按惯常道理，在当时紧张而又昏暗的环境中，许乐很难记住一个如很多人般侧在自己面",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "说道：“为了进入帝**方高层，我付出了很多年的努力，为了救你这个联邦人，这些努力全部化成了灰烬。如果将来的事实证明我们付出的代价，没有得到公平的回报，我想为了你的人生安全，你最好不要再回到帝国。”\n\n    很直接浅显的人身威胁，许乐表现的却有些无动于衷，在联邦早早就体会到只有枪口才能喷出轻风淡云的",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "专程从皇家特种营征调的精锐战斗力量，骤然相遇一场激斗，犀利狠辣电光火石间的画面闪烁于幽暗的地下道内，最终齐大兵不敌，被许乐一脚踹中胸膛跌入水道之中。\n\n    按惯常道理，在当时紧张而又昏暗的环境中，许乐很难记住一个如很多人般侧在自己面前的敌人，但他确实记的很深刻，因为这个帝**官展现出来的战斗力，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "。”\n\n    很直接浅显的人身威胁，许乐表现的却有些无动于衷，在联邦早早就体会到只有枪口才能喷出轻风淡云的道理，面前这个帝国男人虽然很明显是抵抗组织内的重要角色，实力强悍……但终究只不过是他的手下败将，他对这个男人投注的兴趣，其实一直在别的方面。\n\n    余光在齐大兵手腕上一掠而过，他看到了一根",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "是他的对手。\n\n    强自撑着墙壁不让自己侧下的齐大兵，带着强烈的不甘与痛苦望着他，握紧的左手微微颤抖，却保持了足够的清醒，没有再次冲上前去。\n\n    许乐根本没有看他，只是静静地看着掌心的手表，眉毛渐渐蹙起，眯着的眼睛却是渐渐放松，表情有些怪异小＿说txt天'堂",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "我是许乐，我们曾经见过，而且我想你应该知道我是谁。”许乐望着面前这个给人一种危险感觉的帝国男人，平静说道。\n\n    齐大兵锐利的眼神并没有因为双方的握手而变得柔和起来，他点了点头，回答道：“去年在地下水道里，见识过许乐上校你的实力。听说你怀疑组织的能力，我想有必要让你知道，大师范府墙外那台狼牙……",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，大师范府墙外那台狼牙……是属于我的。”\n\n    “谢谢。”许乐能够想到对方此时忽然提到这件事情是为什么，他并不介意表示自己的感谢。\n\n    但很明显，单纯的感谢，并不能让齐大兵不知从何处来的警慢抵触情绪变少，他冷冷望着许乐说道：“为了进入帝**方高层，我付出了很多年的努力，为了救你这个联邦人，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "但很明显，单纯的感谢，并不能让齐大兵不知从何处来的警慢抵触情绪变少，他冷冷望着许乐说道：“为了进入帝**方高层，我付出了很多年的努力，为了救你这个联邦人，这些努力全部化成了灰烬。如果将来的事实证明我们付出的代价，没有得到公平的回报，我想为了你的人生安全，你最好不要再回到帝国。”\n\n    很直",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "星球上还有谁能够找到最后一艘飞船，那个人……肯定是木恩。”沃斯老人轻轻抚摩着轮椅，微笑说道：“你不用担心太多。”\n\n    齐大兵在一旁冷漠说道：“你现在需要做的事情就是老老实实地呆着，按照我们的安排行动，你要记住，你任何擅自的行动，都可能让我们的人付出血的代价。”\n\n    明明是很正确的话，但不",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "不能看一眼你戴的手表？”算乐盯着齐大兵的眼睛问道，言语似乎礼貌，态度却是难得一见的强硬，完全不符合他性格的强硬。\n\n    “不能。”齐大兵靠墙而立，脸上保持着轻蔑从容的态度，右脚很放松地蹬在墙壁上，回答的语很慢，却显得比许乐更为强硬强势。\n\n    许乐沉默片刻，继续问道：“我能不能知道你的近战技",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "种奇怪的气氛升腾。\n\n    因为他们曾经见过，去年在枫湖外的地下水道里曾经见过，那时许乐的身份是被无数帝国部队追杀的联邦逃犯，齐大兵是机动局专程从皇家特种营征调的精锐战斗力量，骤然相遇一场激斗，犀利狠辣电光火石间的画面闪烁于幽暗的地下道内，最终齐大兵不敌，被许乐一脚踹中胸膛跌入水道之中。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "坐在轮椅上的老人明显感受到两个人之间针锋相对的情绪，却一直没有什么表示，直到他看到许乐皱起了眉头，才缓缓抬起右臂，微笑说道：“我介绍你们认识，是因为在今后的很多年里，你们都可能是合作的搭挡，即便你们不喜欢彼此，也必须接受这个现实。”\n\n    就在这个时候，木恩接到了一个电话，看了许乐一眼，低身附在",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "面前这个给人一种危险感觉的帝国男人，平静说道。\n\n    齐大兵锐利的眼神并没有因为双方的握手而变得柔和起来，他点了点头，回答道：“去年在地下水道里，见识过许乐上校你的实力。听说你怀疑组织的能力，我想有必要让你知道，大师范府墙外那台狼牙……是属于我的。”\n\n    “谢谢。”许乐能够想到对方此时忽然",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

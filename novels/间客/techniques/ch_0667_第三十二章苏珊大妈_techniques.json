@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 667,
+  "chapter_title": "第三十二章苏珊大妈",
+  "filename": "ch_0667_第三十二章苏珊大妈.txt",
+  "char_count": 3367,
+  "timestamp": "2026-04-10T12:05:08.563718",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "低声咒骂几句，在围裙上擦掉手上的灰清，走到管理处拿了一面分配下来的小旗，踩着满地的泥泞与烟头，汇入了人群。\n\n    今天都城的地下交通系统全部免费开放，将来自各区的民众源源不断地送到凯旋门空旷的广场上。来自西北角贫民区的人们，并没有花多长时间，便进入了那片隐隐燥动着的人海。\n\n    苏珊看了一眼",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "始复古味道的黑色绞刑架被起重机吊起，看着那些头罩黑布的贵族罪犯被军人们押送出来，走到绞刑架前，人海里骤然出第一波欢腾的呼号，以广场中心为圆点，一道由人头形成的波浪此起彼伏，延展开去。\n\n    一名脸色苍白，形容憔悴的贵族被押上了绞刑台，取下黑色面罩后的他，有些不适应这阴天里的光线，眯着眼睛恐惧地扫",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "生病而亡，只留下她和儿子相依为命。\n\n    当年穿着华丽舞鞋踩着小石砾便会蹙眉如柳的贵族小姐，就在命运无情的磨折下，变成了一个性格泼辣尖酸，腰如水桶，穿着硬底仿军靴。能将菜场里的泥水踩出啪啪声的大妈。\n\n    那副健硕或者说臃肿的身躯。压在那小小的电动三轮车上，看上去除了滑稽，不知怎么还有些心酸",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "骂阵，想起那些放纵污秽绝不敢让儿子听到的脏话，想起少女时期的矜持，忍不住举起满是老茧的双手，捂住满是风霜之色的脸颊，慢慢蹲下身体。\n\n    噢，这是怎样的一生啊。\n\n    对于艰辛的生活来说，回忆是奢侈的，只能偶尔一次，甚至连心酸都是奢侈的，因为那会让生活变得更加艰辛，苏珊大妈倔犟地站直身体。拍",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "了一眼手中的小旗，觉的旗上的黑横花有些刺眼，捏着旗柄的手掌汗津津的有些难受，她像个木偶一样，随着身周激动的人群机械地挥动着小旗，心里却在不停地咒骂。\n\n    今天是帝国白横王朝皇历七百二十三年。\n\n    前些日子闹的沸沸扬扬的贵族叛乱已经全部平息，按照皇宫诏令里的说话，少部分贵族野心家，趁着联邦",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，苏珊大妈倔犟地站直身体。拍了拍大臀部上的灰尘，低声咕哝了几句，转身走进自己的小院。\n\n    她的人生还有希望，还有那个乖巧懂事的儿子，那个。正在都城第二大学深造的儿子，她艰苦困厄的一生。因为那个子而不再全是灰黑的色调。\n\n    按照她的收入，绝对无法支付第二大学昂贵的学费，幸亏陛下一力推行的无",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "上那些贵族小姐们一般嫩玉似的小腿。\n\n    身为中层贵族的父母因为牵涉到某次帝国六部间的斗争，惨被秘密处死，侥韦生存下来的她和兄长在家族唯一遗留的宅院里相依为命，后来她那位性情坚毅温和的兄长为了恢复家族的荣耀，勇敢地加入了帝国远征军，然而多年后，苏珊却迎来了兄长违反军纪被处决的噩耗。\n\n    家",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "面分配下来的小旗，踩着满地的泥泞与烟头，汇入了人群。\n\n    今天都城的地下交通系统全部免费开放，将来自各区的民众源源不断地送到凯旋门空旷的广场上。来自西北角贫民区的人们，并没有花多长时间，便进入了那片隐隐燥动着的人海。\n\n    苏珊看了一眼手中的小旗，觉的旗上的黑横花有些刺眼，捏着旗柄的手掌汗",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "纵污秽绝不敢让儿子听到的脏话，想起少女时期的矜持，忍不住举起满是老茧的双手，捂住满是风霜之色的脸颊，慢慢蹲下身体。\n\n    噢，这是怎样的一生啊。\n\n    对于艰辛的生活来说，回忆是奢侈的，只能偶尔一次，甚至连心酸都是奢侈的，因为那会让生活变得更加艰辛，苏珊大妈倔犟地站直身体。拍了拍大臀部上的灰",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "菜场卜买了很多廉价的青菜。交了本帅一啊…额本息金，把菜提回自家破落的小院。递给从偏室伸出来的那双手，同时从那双手里接过一批需要贩卖的货物。放到了自己的三轮电动车上。\n\n    仔细地清查了一遍货物的数量。现有些不对，苏珊大妈本就有些恼怒烦闷的心情终于忍不住暴出来，叉着水桶般的腰肢，对着旁边的房间骂道",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "星都城里各阶层的民众，前来凯旋门广场，目睹这一场正义的审判。\n\n    经过长时间安静中带着焦燥的翘期待后，黑压压的观刑民众终于等到了绞刑架立起的时刻，看着那些带着原始复古味道的黑色绞刑架被起重机吊起，看着那些头罩黑布的贵族罪犯被军人们押送出来，走到绞刑架前，人海里骤然出第一波欢腾的呼号，以广场中心",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "为命。\n\n    当年穿着华丽舞鞋踩着小石砾便会蹙眉如柳的贵族小姐，就在命运无情的磨折下，变成了一个性格泼辣尖酸，腰如水桶，穿着硬底仿军靴。能将菜场里的泥水踩出啪啪声的大妈。\n\n    那副健硕或者说臃肿的身躯。压在那小小的电动三轮车上，看上去除了滑稽，不知怎么还有些心酸。\n\n    在市场里和竞争",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "开放，将来自各区的民众源源不断地送到凯旋门空旷的广场上。来自西北角贫民区的人们，并没有花多长时间，便进入了那片隐隐燥动着的人海。\n\n    苏珊看了一眼手中的小旗，觉的旗上的黑横花有些刺眼，捏着旗柄的手掌汗津津的有些难受，她像个木偶一样，随着身周激动的人群机械地挥动着小旗，心里却在不停地咒骂。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "空气中徒劳地蹬动，**，直至安静，就像在光天化日下观看了一场令人兴奋的阴私表演，忍不住出近乎呻吟般的满足叹息。只是脸上马上又换了羞且怯且不忍的假面具。\n\n    苏珊大妈被兴奋的人群挤的东倒西歪，看着那些被吊死的贵族家姐。她握着黑横花小旗的手越来越紧，宽厚的嘴唇抿的越来越紧，粗直的眉毛皱的越来越紧，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "黑年轻人苦闷地搓了搓脸。那些淡淡的伤痕已经不再清晰，他望着门口那个粗壮的妇人，无可奈何的轻声辩解道：“我昨儿就说了。你的上家给你的货不对，那些卡口自旋螺型号有问题，根本没办法拧。我得一个一个打磨，时间当然很慢\n\n    “别找理由”。苏珊大妈竖眉瞪眼，吼道：“不要以为你是贵族就可以吃白饭",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

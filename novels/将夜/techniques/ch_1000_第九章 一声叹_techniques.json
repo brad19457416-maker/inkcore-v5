@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1000,
+  "chapter_title": "第九章 一声叹",
+  "filename": "ch_1000_第九章 一声叹.txt",
+  "char_count": 2270,
+  "timestamp": "2026-04-10T12:11:27.652881",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "这个大时代。”\n　　崭新的大时代，帷幕已然掀开，你是启幕的人，我将是出演的人，我们应该一道看看幕后的风景，如此才能不负来这世间走过一遭。\n　　隆庆的这句话，是对柳亦青极高的评价，但柳亦青只是艰难地笑了笑，没有对此发表什么看法，然后他看向横木立人，说道：“这幕戏刚刚开场，但我的部分已经结束了，即便再有",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "抖，他的眼神很复杂，有不甘也有暴虐，如当年上山砍柴的童儿，看见枯树上的寒蝉，有同情，更多的却是自怜和愤怒。\n　　话音落处，一道圣洁的昊天神辉，从他的掌心喷出，落在柳亦青的胸口，他的脸色以肉眼可见的速度消瘦，同时，柳亦青的伤势以肉眼可见的速度恢复。\n　　四周的人们，面色骤变，尤其是来自西陵神殿的那些神",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，瘦削的脸颊惨白如雪。\n　　他盯着柳亦青的脸，不明白这个南晋人在生死之间往还，受了这么多的精神冲击，为什么还能如此平静，他更不明白为什么在这个时候，自己还能清楚地从对方处感知到怜悯的情绪，这些人究竟在同情自己什么？\n　　隆庆说道：“道门需要你散播光辉，而不是发疯。”\n　　横木立人癫狂地笑了笑，说道：",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "你就必须活着，你想死都不可能！”\n　　“活着又如何？便能让你好过些？”\n　　“也许最终，你也不肯与我战斗，拒绝用失败来证明昊天的意志不可抗拒，但我会让你承受无尽的痛苦，来告诉整个人间，背叛昊天会迎来怎样的下场。”\n　　“我让你活你就必须活，因为我代表着昊天的意志！”\n　　“我要你活着，不是要你看什么",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "境界！我想你活着，你就必须活着，你想死都不可能！”\n　　“活着又如何？便能让你好过些？”\n　　“也许最终，你也不肯与我战斗，拒绝用失败来证明昊天的意志不可抗拒，但我会让你承受无尽的痛苦，来告诉整个人间，背叛昊天会迎来怎样的下场。”\n　　“我让你活你就必须活，因为我代表着昊天的意志！”\n　　“我要你活",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "甚至显得有些冷漠，他很清楚，横木立人付出如此大代价让自己活着，必然不会让自己活的很舒服。\n　　“没有意义。”他说道。\n　　一位知命境的强者不想活着，那么没有谁能够让他不死。\n　　横木立人的面容微微抽搐，显得很可怕，在圣洁的神辉里，看上去就像是受了重伤的魔鬼，他的声音就像是哭泣般，非常难听。\n　　“你",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "柳亦青重复问道：“一个有童年阴影的可怜孩子？”\n　　隆庆依然没有说话，这便是默认。\n　　柳亦青感慨说道：“神殿真是一代不如一代了。”\n　　隆庆还是沉默，依然是默认，他同意柳亦青的看法，想了想后，他举起右手――指间开着一朵黑色的桃花，花瓣里隐藏着寂灭的气息。\n　　场间只有这朵黑色的桃花可以打断横",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "落在柳亦青的胸口，他的脸色以肉眼可见的速度消瘦，同时，柳亦青的伤势以肉眼可见的速度恢复。\n　　四周的人们，面色骤变，尤其是来自西陵神殿的那些神官们，感知着这道昊天神辉里蕴藏着的生命气息，更是震惊的说不出话来。\n　　隆庆的脸色变得沉凝起来，说道：“你知道自己在做什么吗？”\n　　横木立人没有理他，盯着柳",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，要损耗极多的昊天神辉，可以看见的容颜的枯槁是一方面，看不见的生命的流逝才是真正重要的那部分，而且他马上便会因此身受重伤。\n　　当年被宁缺砍瞎之后，柳亦青的眼睛再也没有任何感觉，但此时，他忽然觉得自己的眼睛有些发热，有些发痒，甚至隐约看到了模糊的白光。\n　　那是白布的颜色还是圣洁的光辉？\n　　柳亦青",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "话音落处，一道圣洁的昊天神辉，从他的掌心喷出，落在柳亦青的胸口，他的脸色以肉眼可见的速度消瘦，同时，柳亦青的伤势以肉眼可见的速度恢复。\n　　四周的人们，面色骤变，尤其是来自西陵神殿的那些神官们，感知着这道昊天神辉里蕴藏着的生命气息，更是震惊的说不出话来。\n　　隆庆的脸色变得沉凝起来，说道：“你",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第九章 一声叹\n　　隆庆看着柳亦青颈间那道越来越清晰的血线，说道：“像你我这样的人，应该活着，看看这个大时代。”\n　　崭新的大时代，帷幕已然掀开，你是启幕的人，我将是出演的人，我们应该一道看看幕后的风景，如此才能不负来这世间走过一遭。\n　　隆庆的这句话，是对柳",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "章 一声叹\n　　隆庆看着柳亦青颈间那道越来越清晰的血线，说道：“像你我这样的人，应该活着，看看这个大时代。”\n　　崭新的大时代，帷幕已然掀开，你是启幕的人，我将是出演的人，我们应该一道看看幕后的风景，如此才能不负来这世间走过一遭。\n　　隆庆的这句话，是对柳亦青极高的评价，但柳亦青只是艰难地笑了笑，没",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

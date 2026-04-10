@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 36,
+  "chapter_title": "第三十六章 历史的尘埃",
+  "filename": "ch_0036_第三十六章 历史的尘埃.txt",
+  "char_count": 3366,
+  "timestamp": "2026-04-10T11:53:11.038923",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "能看到的星星总是少的可怜，原来这一切都是被这些尘埃遮住了。一想到多少万年前，人类第一次从联邦中心地带来到东林区，极其艰辛地开拓荒星，以极大的魄力改造自然环境，他的心中对于那些先民充满了敬意。\n\n    他看着小西瓜轻轻摆动的黑发摇了摇头，苦笑了一声，他感到震惊的另外一个原因便是，连一个六岁小女孩儿都",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "许乐没有办法，他实在是没有违背小女生意愿的想法，而且隐隐中，他也习惯了房间里有这个小女孩儿的存在，这种存在或许可以让他伪装逃亡之旅变得不那么冰冷，不那么孤独。更令许乐感到惊讶的是，未满六岁的小女生懂的东西真的很多，看来她的家庭拥有优渥的环境，自小就对她进行书本知识方面的培养。许乐这几年里虽然",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "是那般的灰蒙蒙，夜晚能看到的星星总是少的可怜，原来这一切都是被这些尘埃遮住了。一想到多少万年前，人类第一次从联邦中心地带来到东林区，极其艰辛地开拓荒星，以极大的魄力改造自然环境，他的心中对于那些先民充满了敬意。\n\n    他看着小西瓜轻轻摆动的黑发摇了摇头，苦笑了一声，他感到震惊的另外一个原因便是，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "没有违背小女生意愿的想法，而且隐隐中，他也习惯了房间里有这个小女孩儿的存在，这种存在或许可以让他伪装逃亡之旅变得不那么冰冷，不那么孤独。更令许乐感到惊讶的是，未满六岁的小女生懂的东西真的很多，看来她的家庭拥有优渥的环境，自小就对她进行书本知识方面的培养。许乐这几年里虽然没有上学，但是依照封大叔的吩咐",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "许乐依然在努力地寻找着小姑娘的家人或者说是蹊跷，可是没有任何效果，几番打听下来，根本就没有听到类似的风声。\n\n    许乐没有办法，他实在是没有违背小女生意愿的想法，而且隐隐中，他也习惯了房间里有这个小女孩儿的存在，这种存在或许可以让他伪装逃亡之旅变得不那么冰冷，不那么孤独。更令许乐感到惊讶的是，未",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "次群爆炸，同时经过五人小组精密计算，才达成了后来的效果。”\n\n    许乐愣了半晌，他直到今天才知道为什么自己无论是在钟楼街畔，还是在矿坑上，还是在自然保护区的绿色原野上，看到的天总是那般的灰蒙蒙，夜晚能看到的星星总是少的可怜，原来这一切都是被这些尘埃遮住了。一想到多少万年前，人类第一次从联邦中心地",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "星光是如此的明亮。”许乐低下头，想起了可能化作飞灰洒在东林星上的老板，想起了被联邦关进监狱里的李维，自嘲地笑了笑，说道：“我以前的人生理想是成为联邦的一名战舰辅官，如今看来，天天呆在战舰上，只怕会被这些星光照成矿坑里的野猫。”\n\n    “许乐哥哥，野猫怎么了？”\n\n    “矿坑里的野猫啊，只要被",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "这些古怪的事情总会落到自己的头上来。\n\n    他不认为小姑娘是个麻烦，是个包袱，因为他就是一个这样性格的人，只要真正需要帮助的人来到他的身边，他总愿意尽自己的力量去做些什么，更何况对方是一个可怜的小孩子。\n\n    半个小时之后，轰鸣声结束，就在令人心悸的久久沉寂之中，古钟号商务飞船离开了东林星，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "管道，直接将自己从32区带到了一个完全陌生的地方。\n\n    他拍了拍身上的灰尘，小心翼翼地推开面前沉重的舱门，然后看到了一块军绿色的油布，许乐好奇地将油布掀开，然后愕然发现了一个正对着自己的机械臂。机械臂的主人是一个很破烂的老式机甲，不知道被扔在这里多少年了，上面布满了历史的尘埃小-说-t-xt-",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第三十六章 历史的尘埃 \n\n    ……\n\n    滋的微弱电机声音中，房间舷窗上的固定窗帘缓缓拉开，太空飞船外的星光清清扬扬地洒了进来。正在埋头嚼着合成牛肉的许乐愕然抬起头来，发现剪着西瓜头的小女孩儿正安静地望着窗外，唇角微微翘着，甜甜地笑着，稚嫩的面容上布满了羡慕的眼光。\n\n    直到",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "“啊？你是说这些尘埃是人造的？”\n\n    “是啊，好像是进行了历史上最大的一次群爆炸，同时经过五人小组精密计算，才达成了后来的效果。”\n\n    许乐愣了半晌，他直到今天才知道为什么自己无论是在钟楼街畔，还是在矿坑上，还是在自然保护区的绿色原野上，看到的天总是那般的灰蒙蒙，夜晚能看到的",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，许乐再如何乐观开朗，心情也有些低落。也许是不想让自己的情绪影响到小女孩儿，他牵强一笑，指着那颗星球说道：“我可从来没有想过从这个角度看它，以前在学校里看的画册，可比真实的画面要漂亮许多。”\n\n    安静的星球悬浮在太空之中，蓝色的海水，绿色的原野清晰可见，甚至在太空船上都能看见那些大的出奇的白色",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "寂之中，古钟号商务飞船离开了东林星，像个漂浮瓶一样幽静地向着宇宙深处进发，速度越来越快，然而飞船上的人们却没有丝毫感觉，在大体系的世界中，肉眼的速度对照已经失去了作用，只有那种惘然若失的感觉，笼罩在个巨大的合金飞船之上。\n\n    在之后的几天里，许乐在飞船上保持着绝对的低调，除了去餐厅领取食物之外",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

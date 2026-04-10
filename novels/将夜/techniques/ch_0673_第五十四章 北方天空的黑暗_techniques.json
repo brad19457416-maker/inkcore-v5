@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 673,
+  "chapter_title": "第五十四章 北方天空的黑暗",
+  "filename": "ch_0673_第五十四章 北方天空的黑暗.txt",
+  "char_count": 2324,
+  "timestamp": "2026-04-10T12:11:26.899823",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "极震撼，将夜里的这段，当然有受影响，包括大预言术和佛言子曰的关系，只不过将夜里的这段，从来源解释以及意义上来说，是完全不同的东西，甚至可以说，嗯，不能剧透，我只能说，我是写情景喜剧的好不……）",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，终于完全释放了出来。\n　　一道幽黑的圆球，以她的身体为中心，向着四面八方扩散而去，抱着她的宁缺，被瞬间击飞到数十丈外，气息所至之处，原野结冰，青草覆霜，生息全无！\n　　宁缺重重地摔落到地面上，噗的一声吐出血来，鲜血瞬间冻住，直到第三口血才开始冒出热气。\n　　他被那道阴寒气息震飞，大黑伞却留在了原地",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "鸦似乎感知到了些什么，嘎嘎乱叫而飞，扑扇着黑色的翅膀不停向着天空高处飞去，似乎想要离她越远越好，直至最终全部飞进了暗淡的云层。\n　　那片云跟随桑桑的时间要更长，从西部荒原开始便一直没有离开过，越集越多越厚，光线穿透折射艰难，渐渐变成乌云，但云本身应是白的。\n　　十几只黑鸦飞进云层之后，便变成了小黑点",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "……\n　　“这是怎么回事？”\n　　“怎么那边天黑了？”\n　　“这就是永夜吗？”\n　　荒原地面上的人们，看着被光明与黑暗分割开来的天空，没有发出惊呼，没有发出尖叫，喃喃自言自语着，他们受到的震撼太大，大到连震惊恐惧的情绪也已经忘记，神情显得麻木而惘然，仿佛失去了灵魂。\n　　西陵神殿联军站在南方光明",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第五十四章 北方天空的黑暗\n　　桑桑哭出声来，眼泪滑过微黑的小脸，落在宁缺的身上，黑布骤硬，落在地面上，变成冰珠，每颗都是那样的晶莹浑圆，大小完全相同。\n　　一阵极细碎的声音，在她的身体里响起，就像是骨头被碾碎成无数",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "桑桑摇头说道：“不喜欢。”\n　　宁缺说道：“忍忍。”\n　　桑桑说道：“忍不住。”\n　　宁缺问道：“为什么不喜欢？”\n　　桑桑抬起头来，看着南方，说道：“因为没有人会喜欢我了。”\n　　宁缺说道：“有点儿出息，至少也要清醒一些。”\n　　桑桑问道：“怎么叫清醒？”\n　　宁缺说道：“你长这么难看，脾气也不",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "。此时的荒原北方天空，就是一片没有光的黑色，除了没有星星之外，看上去就像是黑夜。\n　　黑夜不会在白天出现，夜穹上会有星星。那么在白天出现、没有星星的黑夜，自然不是普通的黑夜，或者会有别的名字。\n　　……\n　　……\n　　“这是怎么回事？”\n　　“怎么那边天黑了？”\n　　“这就是永夜吗？”\n　　荒原地面",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "：“有点儿出息，至少也要清醒一些。”\n　　桑桑问道：“怎么叫清醒？”\n　　宁缺说道：“你长这么难看，脾气也不好，除了我，这个世界上本来就没有人喜欢你，现在就算没有人会喜欢你，只要我还喜欢你，那和以前就没有任何区别。”\n　　桑桑想了想后说道：“好像是这个道理。”\n　　……\n　　……\n　　（半天光明半天",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "如今的人间，没有人会再喜欢她。\n　　桑桑低头看着探出裙摆的鞋尖，看着脚下那两朵盛开的冰雪莲花，低声说道：“老师死这前，一直看着北方，我现在才明白，原来他当时看到的就是现在的我，原来那时候他就已经确定，我就是黑夜的影子。”\n　　宁缺走到她身后，伸手牵起她的手。\n　　桑桑的脚踩在冰雪凝成的莲花上，与地",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "她越远越好，直至最终全部飞进了暗淡的云层。\n　　那片云跟随桑桑的时间要更长，从西部荒原开始便一直没有离开过，越集越多越厚，光线穿透折射艰难，渐渐变成乌云，但云本身应是白的。\n　　十几只黑鸦飞进云层之后，便变成了小黑点，就像是有人在洗笔的水瓮里滴下了几团浓墨，云层的颜色渐渐变得越来越黑。\n　　荒原地面",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

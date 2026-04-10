@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 475,
+  "chapter_title": "第二百七十九章 雪落",
+  "filename": "ch_0475_第二百七十九章 雪落.txt",
+  "char_count": 3389,
+  "timestamp": "2026-04-10T12:11:21.752646",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "胜利。”\n　　一道声音在城墙上响起，此人说话的节奏很缓慢，在满天风雪中却依然是那样的清晰，似乎能够让人们的心境安宁起来。\n　　大师兄走到叶苏身旁，向着城墙下方远处漆黑一片的雁鸣湖方向看去。\n　　叶苏说道：“晨时才相见，你又来了？”\n　　大师兄说道：“是啊，来看看。”\n　　叶苏问道：“来看什么？”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "吞入腹中，便再也没有开口说话，修闭口禅至今。\n　　今夜他再次踏足红尘，谁也不知道他会不会开口说话，他究竟会说些什么，人们只知道闭言十五年，一朝启唇，佛音必然清亮如雷。\n　　即便是强大的知守观传人叶苏，都不想面对他开口说的第一句话。\n　　谁来与僧人对话？\n　　真的需要夫子下山？\n　　就在这个时候，一片",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "一位知命境的大修行者剑不能出！\n　　三供奉震惊无比，他想像不出世间有哪个修行者能够拥有这样的手段，转瞬间便猜到了这名僧人的来历，眼瞳剧缩。\n　　悬空寺来人？\n　　三供奉看着越来越近的那名僧人，看着他温和而坚毅的眉眼，僵硬的身体因为惊恐而微微颤抖起来。\n　　他闷哼一声，脸色骤然变得潮红一片，枯瘦的五指",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "他却并不知道世界上有我这样一个人一直在默默地注视着他，所以这处的不公平也算是扯平。”\n　　“只要这场战斗局限在我与他之间，那么我便承认这是公平的。”\n　　桑桑紧握着大黑伞的伞柄，缩着身子，这样才能保证大黑伞不会被暴烈强劲的风雪所刮走，低声说道：“少爷你在担心有人会插手？”\n　　“夏侯毕竟在帝国王将之",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "九章 雪落\n　　“这场夜雪似乎对我不公平，实际对夏侯才是真的不公平。”\n　　宁缺看着湖对岸，和湖上的风雪摇了摇头，继续说道：“阵眼杵被陛下取走，自然不会令我高兴，不过这也很公平。我的修为境界远远不如夏侯，似乎不公平，但实际上我准备了整整十五年，而他却并不知道世界上有我这样一个人一直在默默地注视着他，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "花落在厚厚的积雪之上，然而剑身只抽出一半时，便被迫停止。\n　　三供奉的眉梢渐要飞起，握着剑柄的手微微颤抖，体内的修为尽数喷出。\n　　然而他身后的鞘中剑非但没有继续向外抽出，反而是缓缓收回鞘内。\n　　剑与鞘摩擦的声音静如落雪，却令他心悸难安。\n　　那名戴着笠帽的僧人在风雪中缓缓行来，距离他只有数丈距离",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "这场夜雪似乎对我不公平，实际对夏侯才是真的不公平。”\n　　宁缺看着湖对岸，和湖上的风雪摇了摇头，继续说道：“阵眼杵被陛下取走，自然不会令我高兴，不过这也很公平。我的修为境界远远不如夏侯，似乎不公平，但实际上我准备了整整十五年，而他却并不知道世界上有我这样一个人一直在默默地注视着他，所以这处的不公平也",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "也来了。夏侯将军身上的伤都是他留下的，所以说他的人虽然没有来，但他的拳头来了。”\n　　叶苏说道：“有道理，但即便夏侯身上残留着唐的无数个拳头，在我看来，这场越境之战，宁缺依然没有任何机会。”\n　　“我知道你想说什么，在担心什么，我尊重小师弟，所以我不会出手。”\n　　大师兄感慨笑道：“当然我更清楚，如",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "兄很清楚叶苏想点明的是什么，但他保持着沉默，没有接话。\n　　叶苏望着雁鸣湖，忽然感慨说道：“十五前，出现在黑线周边的那些人……除了唐以外，我们大家都到了。”\n　　大师兄说道：“其实唐也来了。夏侯将军身上的伤都是他留下的，所以说他的人虽然没有来，但他的拳头来了。”\n　　叶苏说道：“有道理，但即便夏侯身",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "缺来的。”\n　　大师兄很清楚叶苏想点明的是什么，但他保持着沉默，没有接话。\n　　叶苏望着雁鸣湖，忽然感慨说道：“十五前，出现在黑线周边的那些人……除了唐以外，我们大家都到了。”\n　　大师兄说道：“其实唐也来了。夏侯将军身上的伤都是他留下的，所以说他的人虽然没有来，但他的拳头来了。”\n　　叶苏说道：“",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "西陵神殿不想看到这场夏侯与宁缺之间的战斗，事实上神殿的使臣确实已经向皇宫里提出了异议，但代表昊天道门来到长安城的他，可以不用理会神殿的态度，他虽然也想看到夏侯平安归老，却并不介意这场战斗的发生。\n　　因为叶苏无论怎样推演，都想像不出宁缺可能获胜。\n　　夏侯能够获胜，这样很好。\n　　夏侯杀死宁缺，得罪",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "桑桑紧握着大黑伞的伞柄，缩着身子，这样才能保证大黑伞不会被暴烈强劲的风雪所刮走，低声说道：“少爷你在担心有人会插手？”\n　　“夏侯毕竟在帝国王将之外还有道门客卿的身份，我总觉得有些人会来打扰这场战斗，先前握着阵眼杵的时候，我也确实感到了一些什么。”\n　　宁缺想着书院里的同门，说道：“但我并不担心，因",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "利益考虑，他不能允许任何人打扰到这场战斗，然而先前他心有所感，所以他来到了林中默然等待。\n　　夜雪中缓缓行来一名僧人。\n　　林中漆黑一片，但偏生僧人身上的木棉袈娑和头顶的笠帽却是那样清楚可见，自然透着股光明正大的意味。\n　　三供奉看着风雪中行来的僧人，花眉微微蹙起。\n　　数年前，他便已经是知命境的大",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

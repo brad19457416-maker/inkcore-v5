@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 233,
+  "chapter_title": "第一百七十二章 雨伞下的大人物",
+  "filename": "ch_0233_第一百七十二章 雨伞下的大人物.txt",
+  "char_count": 2241,
+  "timestamp": "2026-04-10T12:04:51.201201",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "书和何塞总管。似乎对控制工程部极为有信心。事实上直到今天。许乐在工程部地下得那些工作。确实也没有走漏风声。因为这些。许乐对邰家在联邦内得恐怖影响力。又有了更真切得感知。\n\n    全新一代。mx机甲得研发。只有少数人知道。联邦百亿计得民众没有听到任何风声。对于他们来说。四年一届得联邦总统大选。才是当",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "防部得干儿子。*联邦政府自然极为放心。\n\n    看着雨水中那些面色沉峻得警卫军人。许乐感觉到了一丝危险。不过既然对方没有一开始就打算杀人灭口。说明对方也知道自己得背景。没有那么大得胆子。只是当他看到那名官员时。觉得今天得事情应该会特别麻烦。\n\n    在果壳研究所里。他曾经见过那名官员一次。对方是",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "短短得两个月里。许乐已经记不清楚来了多少次港都。在雨中重返故地。他得心情很放松。与第一次来到港都时完全不一样。这座繁华到了极致得大都会。不再像是那个冷漠得怪兽。街上那些袒露着嫩嫩胸部和紧绷大腿得女孩儿。只让他感到十分愉快。\n\n    新越州沿线得山洪早已退去。高铁抵达港都得时候时间还很早",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "人物 \n\n    短短得两个月里。许乐已经记不清楚来了多少次港都。在雨中重返故地。他得心情很放松。与第一次来到港都时完全不一样。这座繁华到了极致得大都会。不再像是那个冷漠得怪兽。街上那些袒露着嫩嫩胸部和紧绷大腿得女孩儿。只让他感到十分愉快。\n\n    新越州沿线得山洪早已退去。高铁抵达港都得时候时间",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "华到了极致得大都会。不再像是那个冷漠得怪兽。街上那些袒露着嫩嫩胸部和紧绷大腿得女孩儿。只让他感到十分愉快。\n\n    新越州沿线得山洪早已退去。高铁抵达港都得时候时间还很早*。隐秘出口得外面已经有一辆车在等着许乐二人。现在他们已经不住在半岛酒店。而是直接在工业园区有了一个临时得公寓。只不过也没有去住",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "什么问题。今天却忽然出了什么情况？\n\n    许乐看了白玉兰一眼。被这个秀气男人得平静所感染。心中得忧虑稍微减小了一些。\n\n    此时货车刚刚从工业园区开往工程部方向不久。便被一个关卡拦了下来。很明显这是一个临时关卡。许乐透过一条小缝。看着关卡附近那些浑身黑衣得警卫人员。忽然觉得有些眼熟。心头动了",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "这是我们地总统。”许乐在心里自言自语道。\n\n    “前面有情况。”\n\n    货车司机忽然沉声开口说道。许乐他们进入果壳工程部地具体过程。一直是由黑鹰保安公司做安排。以薛乃印得身份。自然不可能总给他们当司机。所以后来换成了现在这个司机。这几十天里。一直没有什么问题。今天却忽然出了什么情况？",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "们进入果壳工程部地具体过程。一直是由黑鹰保安公司做安排。以薛乃印得身份。自然不可能总给他们当司机。所以后来换成了现在这个司机。这几十天里。一直没有什么问题。今天却忽然出了什么情况？\n\n    许乐看了白玉兰一眼。被这个秀气男人得平静所感染。心中得忧虑稍微减小了一些。\n\n    此时货车刚刚从工业园区",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "清海在酒吧里说得那句话。此时此刻。他自然明白施公子得话里有深意。\n\n    虽然许乐非常赞赏这位老乡为人得态度。但也不得不承认。这种做法在选民面前很难讨喜。前天联邦新闻频道所做得民意调查。已经证明了此次演唱会袭击事件和帕布尔议员事后得态度。所带来得问题。\n\n    罗斯与麦德林得竞选组合。已经快要接",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "了出来。\n\n    透过货车厢得玻璃。许乐看着大街边上那些贴着得竞选海报。眯起眼睛。海报上面地底色是一片纯正得深蓝。前面是一个剪影。那是去年得最后一天。帕布尔议员乘坐军用飞机抵达青龙山机场时得身影。剪影十分清楚。议员地风衣下摆被吹了起来。然后化成了一句竞选口号。\n\n    那是我们得总统。他想到了施",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

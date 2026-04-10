@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 453,
+  "chapter_title": "第二百五十七章 一夜观剑遂画之",
+  "filename": "ch_0453_第二百五十七章 一夜观剑遂画之.txt",
+  "char_count": 4500,
+  "timestamp": "2026-04-10T12:11:21.711384",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "便把他想要的东西给了他，以至于当他捧着那厚厚的好几本书籍时坐上马车时，依然有些没有醒过神来。\n　　他心想按照今天的经历，岂不是自己可以随时随地从书院里偷出那些珍贵的修行书籍？如此说来自己这辈子倒是可以不愁衣食了。\n　　回到雁鸣湖畔的宅院里，宁缺直接去了后院，把怀中厚厚几本书籍，全部扔到了书桌上，说道",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "此，是因为他的念力已经冲破纸剑边缘令识海剧痛的锋利无形边界，进入到纸剑的内部，从而感受到了那道剑意的真相。\n　　前些日子在别居里的那场战斗中，当叶红鱼自怀中取出这把小纸剑时，他曾经感受到纸上附着的那道如大江大河自天上来的恐怖剑意。\n　　此时的小纸剑在他的指间安静雌伏，所以他可以更细腻更真切地去感悟这",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "第二百五十七章 一夜观剑遂画之\n　　山风灌入草庐，拂的纱幔乱晃，雾气从夫子手中握着的茶杯里冒出，然后瞬间消散，想来杯中的热茶也会凉的更快一些。\n　　宁缺不是陈皮皮，脸没有被风吹出皱纹，但被夫子一通恼怒训斥，也不免显得有些愁苦，说道：“就是想请您看看，到底是好处多还是坏处多。”\n　　夫子喝了一口茶，把",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "夜，他已经确定了很多事情，知道以自己如今的修为境界，最多只能领悟到这等程度，就算再多看两夜也没有任何意义。\n　　叶红鱼看着他苍白的脸颊，感慨说道：“清醒地知道自己能力的极限在哪里，并且能够抵抗住这把纸剑的诱惑，不愚蠢的贪痴妄进，我不得不承认宁缺你虽然资质一般，但心性却是世间第一流。”\n　　换作平日，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的念头，也没有去思及这片薄纸曾经在道痴胸前的软肉间轻轻摩蹭过。\n　　他只是想通过这个动作来缓解心头的紧张。\n　　这片纸剑很薄，纸质普通寻常，只有人的两根手指般大小，纸剑边缘是浓淡粗细不匀的墨线，墨线之外是些毛糙的纸边。\n　　最开始的时候，这应该是画在纸上的一把小剑，然后被人撕开，从纸剑边缘的那些墨线",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "令识海剧痛的锋利无形边界，进入到纸剑的内部，从而感受到了那道剑意的真相。\n　　前些日子在别居里的那场战斗中，当叶红鱼自怀中取出这把小纸剑时，他曾经感受到纸上附着的那道如大江大河自天上来的恐怖剑意。\n　　此时的小纸剑在他的指间安静雌伏，所以他可以更细腻更真切地去感悟这道剑意，静思半夜他终于明白，原来这",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第二百五十七章 一夜观剑遂画之\n　　山风灌入草庐，拂的纱幔乱晃，雾气从夫子手中握着的茶杯里冒出，然后瞬间消散，想来杯中的热茶也会凉的更快一些。\n　　宁缺不是陈皮皮，脸没有被风吹出皱纹，但被夫子一通恼怒训斥，也不免显得有些愁苦，说道：“就是",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "但他今天心中有事，识海里的剑，并没有与她多话，便告辞而去。\n　　他乘着马车离开了雁鸣湖，用最快的速度来到书院，穿过云门阵进入书院后山，来不及与镜湖处的师兄师姐打招呼，一路皱眉愁苦自言自语，神情时而惘然时而坚定，向着山腰间那片崖洞走去。\n　　静湖亭榭里的七师姐放下手中的绣针，看着消失在山林中的宁缺背影",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，他从这种情绪里摆脱出来，看着神思已然开始沉浸在书籍中的叶红鱼，提醒道：“我的呢？”\n　　叶红鱼抬手缓缓解开道袍领间的布扣。\n　　宁缺盯着她手指的移动，便是他自己此时也不知道，究竟是在期待那柄似乎蕴藏着无数玄机的纸剑，还是期待道袍下的白皙曼妙风光。\n　　叶红鱼取出那张藏在亵衣深处的薄薄纸剑，却没有递",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "宁缺背影，蹙起秀眉，喃喃说道：“小师弟……今天看着有些古怪，好像发痴一般。”\n　　正在溪畔修补水车，同时放鱼给木鱼这只大白鹅玩耍的六师兄，直起身子，看着那个方向，摇头说道：“小师弟今天怎么像十一师弟般？”\n　　宁缺根本不知道师兄师姐的议论，他就像个痴傻的家伙般，失魂落魄走到了崖洞下方，走到读书人那张",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "叶红鱼抬手缓缓解开道袍领间的布扣。\n　　宁缺盯着她手指的移动，便是他自己此时也不知道，究竟是在期待那柄似乎蕴藏着无数玄机的纸剑，还是期待道袍下的白皙曼妙风光。\n　　叶红鱼取出那张藏在亵衣深处的薄薄纸剑，却没有递过去，而是盯着宁缺的眼睛说道：“有两个要求。”\n　　宁缺说道：“你说。”\n　　叶红鱼",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "会凉的更快一些。\n　　宁缺不是陈皮皮，脸没有被风吹出皱纹，但被夫子一通恼怒训斥，也不免显得有些愁苦，说道：“就是想请您看看，到底是好处多还是坏处多。”\n　　夫子喝了一口茶，把茶杯放下，摇头说道：“我年纪这般大了，哪有精神去想这些小事情，你自己觉得划不划算？”\n　　宁缺认真说道：“从她提出这个要求后，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "走到桌后，把读书人从凳子上挤开，取纸提笔蘸墨，开始埋头狂书。\n　　读书人是书院后山最奇异的存在，平时脾气非常好，但如果有人打扰到他读书，他的脾气会变得非常不好，即便是大师兄或二师兄，都不敢在他读书入神的时候来打扰，今天却被宁缺如此粗暴的挤开，正捧着一卷农工书看的津津有味的他，顿时大怒，卷起袖子便准备",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "缓解开道袍领间的布扣。\n　　宁缺盯着她手指的移动，便是他自己此时也不知道，究竟是在期待那柄似乎蕴藏着无数玄机的纸剑，还是期待道袍下的白皙曼妙风光。\n　　叶红鱼取出那张藏在亵衣深处的薄薄纸剑，却没有递过去，而是盯着宁缺的眼睛说道：“有两个要求。”\n　　宁缺说道：“你说。”\n　　叶红鱼说道：“这柄纸剑你",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

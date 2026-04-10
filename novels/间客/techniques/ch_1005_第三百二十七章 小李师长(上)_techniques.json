@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 1005,
+  "chapter_title": "第三百二十七章 小李师长(上)",
+  "filename": "ch_1005_第三百二十七章 小李师长(上).txt",
+  "char_count": 3407,
+  "timestamp": "2026-04-10T12:05:26.903488",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "走下军车，脸上没有任何感慨神情，只有蕴积到快要无法压抑的暴戾愤怒。\n\n    路上他已经拿到了所有的秘密纪录，对所谓叛军指挥和追杀完全明白，所以他不再隐藏自己的真实情绪，不屑德蕺。\n\n    “滚!“骚!“滚!\n\n    年轻代理师长魁梧身躯一路闯进军营，那些奉命监视十七师的宪兵，被一连串风雷般的怒",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "薄嘴唇间摇晃不安「时不时弹出几缱青烟，在玻璃上涂菜片刻便散无影踪，就像他此时脑海里正在快速闪过的那些念头。\n\n    杜少卿被调回首都星图之前，曾经在战地墓场上与他有过一番长谈。在谈话中这位联邦名将最担忧的并不是自己走后墨花星球的战局，而是联邦部队内部的问题。\n\n    联邦政坛尤其是首都特区的政治",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "在很多人眼中他性情暴戾冷酷，看着那艘飞船远去还可以冷漠讨论自己的亲生父亲将要被许乐这种人物追杀而不动念，事实上却没有圣少人能够触碰到暴戾身躯里真正的火热。\n\n    向基地驶去的军车摇晃不安，烟卷在他薄薄嘴唇间摇晃不安「时不时弹出几缱青烟，在玻璃上涂菜片刻便散无影踪，就像他此时脑海里正在快",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "来，根本没有资格留在联邦部队，更没有资格留在光荣的十七师里。”\n\n    李封缓缓站起身来，将缜间的风纪扣认真最好，望着桌后方的军方大佬沉声说道：“我确实是费城李家的人，但将军你忘记了一\n\n    件事情，祖父做为一名联邦军人，他绝对不会把任何一支联邦部队，包括十七师在内看成自己的私兵。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "新十七师不会上笛线，军方高层和调查部门应该没有做任何手段后，他放松了下来，然后连绵战事之末，有些愕然愤怒地收到新十七师n队叛变的消息。\n\n    “这是一场意外，如果当时达文西肯老老实实接受审查，而不是选\n\n    择开枪还击，那么就不会有后面所有事情的发生。”\n\n    基地深处司令郜昏暗房间里，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "是两个完全不同的概念。”\n\n    “但终究是死了人!”胡链将军看着他的眼睛，揉了揉发闷的眉心，沉声说道：“r二号营地里也死了人，然后达文西逃了!”\n\n    “逃兵和叛变依然是两个完全不同的概念。”\n\n    青年军官的声音依旧平静，任凭将军努力想要分辩他的真实意图，始终无法捕捉清楚。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "能是走火，也可能是达文西等人的冷血谋杀。”\n\n    胡钣将军是前线最高长官，拥有最高权威和权限，按道理他没有任何必要向一名上校解释这些事情，但因为对方特殊的身份，以及此时冷静面容下隐藏的暴戾气息，他不得不解释。\n\n    李封薄唇微启，声音里没有任何情绪波动；“走火和谋杀是两个完全不同的概念。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "胡钣将军脸上的表情渐渐变得严肃起来，皱眉盯着他的脸，沉默很长时间后说道：“老七组那群兵匪的脾气，部队里所有人都很清楚，还记不记得三年前白玉兰是怎么把东方的耳朵活生生割掉的？如果让熊临泉他们知道这次枪击事件后，会做出怎样的反应？他们肯定会乱来!”\n\n    “我是司令，我要为前线整个战局考虑",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "是我要的，出了事我替他担着，哪怕是宪章局那边。“是。”“另外……”\n\n    李封微微蹙眉，想起许乐离开前的那番话，说道：“查一下比基高原那边的地震究竟是怎么回事。\n\n    一相破烂的军车在荒凉的暮色中驶进军营。\n\n    远处隐德可见烟尘蒸腾，大概是那三只蝥装机械师调防时的动静，数百台机甲同时启",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "时间一晃过去漫漫数年，这些军官们跟着他战西林入帝国，忠诚与能力无可质疑。\n\n    感受着车内异样的压抑气氛，没有任何人说话，其中一名参谋军官一直盯着膝上的工作台光幕，不知道看到了什么，他用力地挥舞了一下手臂，然后快速向前方报告道：“司令郜任命书已经入档，您正式成为新十七师代理师长。”\n\n    “",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，容不得星点渣滓，那么酬功也罢，犒劳也好，请您把靳十七师交给我指挥。\n\n    “赫雷已经被停职，我马上签署命令。\n\n    郐链说道。\n\n    李封向办公室门外走去，在门槛处忽然停下脚步，说道：“既然从现在开始，新十七师已经是我的部队，那么希望将军阁下能够尽快将我部驻地周边那三个机械师调走，部队",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "碾压烟尘呼啸驶出前进基地，向新十七师驻防区域狂奔而去，李封再次点燃一根烟，让烟卷和自己魁梧强壮的身体同时摇晃不安，徼蹙着的眉间落着风暴。\n\n    他坐在副驾驶位上，后座坐着几名军官，这几名军官是当年他大闹议会山砸烂锡安议员办公室后，军神李匹夫专门替怊i挑选的助手或者说监管者，时间一晃过去漫漫数年，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "的联合调查部门早就想把触角伸入空间通道之外的前线，只是迫于杜少卿的咸势而不敢稍动。\n\n    杜少卿忧虑自己走后，无人压制拥有极高权限的联合调查部门，担忧那些秽烂不堪闻的政治倾轧会侵入部队，所以暗中交待李封密切观察注意或者说防备这种异象。\n\n    这件看似很困难的嘱托，对于李封来说非常简单，因为他",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "颗星星。”\n\n    “我从来不需要靠椅星来证明自己的战绩，我的机甲机械腿上色广经\n\n    漆满了无数颗星。”\n\n    李封缓缓放下右手，沉声说道：“既然您坚持联邦部队的正统性，坚持认为十七师是费城李家的部队，容不得星点渣滓，那么酬功也罢，犒劳也好，请您把靳十七师交给我指挥。\n\n    “赫雷已",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "了不让熊临泉他们乱来，所以基\n\n    地决定乱来，决定把叛变的罪名安在他们头上？”\n\n    李封缓缓蹙眉看着桌后的将军。\n\n    胡链将军沉默了很长时间，回答道：“他们跟随帝国太子还有帝国士兵一起行动，甚至对联邦部队发起了三次攻击，司令部有充分证据证明他们已经背叛了联邦。”\n\n    李封紧紧",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "novel": "间客",
+  "chapter_number": 284,
+  "chapter_title": "第二百一十七章首都初雪",
+  "filename": "ch_0284_第二百一十七章首都初雪.txt",
+  "char_count": 3492,
+  "timestamp": "2026-04-10T12:04:51.194434",
+  "techniques_count": 18,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "自己这个犯之间。究竟还有什么关系。好事坏。好像都已经不关他的事。\n\n    安坐楼中。看窗外初雪。纹风不动。\n\n    首都特区落下了雪。轻轻扬扬的似极了临海州那间大学的花海。落在街道建筑之上。部分瞬间化去。徒留森森之色。偶有几处残存洁白。十分醒目。\n\n    ……\n\n    ……\n\n    总统官",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "了他一眼。在这位秀气的男人看来。许乐是他的老板。是他的金主。是他要为之卖命的人。他从来担心为钱卖命的危险性。只是在乎金主的精神状态。而很明显。从旧月基的回来之后。本应该精神愉悦的许乐。不知碰到了什么事。忽然间变的消沉了许多。\n\n    的面下的热保护系统已经启动。街道上的冰雪早已化成了涓涓细流汇入下",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "国家安全事务顾问似笑非笑的看了席格总统一眼。似乎觉的听到了一句十分好笑的话语。\n\n    在秘密连线中。宪章局那位苍老的局长。再一次向联邦总统确认了。暂时还没有找到任有关麦德林员涉及恐怖活的直接证据。\n\n    席格总统听到这个报告。整个人明显的放松下来。放下电话的动作要显平缓了许多。官邸拱",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "会山带来根本性的改变。现在需要做决定的。便是你本人。”\n\n    虽然在前一段时间**之中。席格总统第一次对于身后的老师及友人感到了不满意。但是他现在才发现站在联邦权力的峰顶上。他最后能够信任的人。还是只有这个老家伙。\n\n    “还需要我做决定-倪部长不是已经做出了他的决定？”席格总统的手掌拍打着",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "统上台之后。将有更加灿烂光明的未来在等待着他。\n\n    国家安全事务顾问微带嘲讽的看着总统的背影。心想在此次总统大选中。你既然选择了在那个妇人一边。便应该很清楚其中的风险。联邦有句古谚语。叫做向老虎借皮毛做大衣。在这位政坛老将的心目中。家那位看上去平宁和的夫人。才是一头真正凶猛的母老虎。当初他之所",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "己没有死。让他不要为自己报仇。今天这封邮件想要表达的思也比较接近。意说自己并没有发生什么不测。让不用担心。\n\n    联想到这两天联邦最重要的新。他很轻易的推论出。发来电子邮件的是那个女孩儿。前些天的邮件也是她发过来的。而不是大叔发来的。许乐沉默的坐在公寓的沙发上-里有些想不明白。既然以前未曾在意。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "下短短两个月任期的席格总统。沉默的看着窗外草坪上的白雪。许久没有说话。这十年里做为联邦的领袖。他留给社会一个暴燥而怯懦的形。但只有他自己清楚并且满足他为联邦赢来了十年安定发展的时间。前一次与帝国大战所造成的战争创伤。正是在他的总统任期内被逐渐修复。\n\n    只是稳定真是的压倒一切的重要事情吗？席格",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "广场的方向驶去。恰好经过了司法部大楼。\n\n    许乐忽然间转过头来。眯着眼睛盯着司法部大楼处拥护的人群和那些抵抗严寒不肯退去的威人群。意识到那里好像有什么事情正在发生。\n\n    “停车。”他低声说道：“我想去看看。”\n\n    ……\n\n    ……\n\n    （旅游十数日。反而累的不像话。甚至连",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的社会。总统先生和自己都需要很多的尊崇的位以及荣耀。\n\n    政府的任期还有两个月。但他们这些人的人生还有很长。国家安全事务顾问相信。席格总统一定能够明白这一点。并且支持这个计划。\n\n    “帮我接通宪章局。”席格总统然对房门\n\n    公室副主任布林说道。\n\n    国家安全事务顾问皱了皱眉头",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的重要事情吗？席格总统眯着眼睛看着草上东一团西一处的雪想到先前离开的那位夫人。问自己最真实的内心。他一向尊重并且倚重那位夫人政治智慧。只是议会正在调查麦德林的关键时刻。联邦府来一次急转弯。向那个无耻的政客退让。以换取燃遍整个联邦的抗议之火熄灭同时尽快的平环山四州的大罢工事情。这样的代价究竟需不需要去",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "……\n\n    ……\n\n    连着下了数日的雪。再易化的白终也积成了一片茫茫。首都特区秋天的离去竟是这样的匆。而冬天的到来令很多人都有些措手不及。街道上时常能够看到搓着双手快步走过的行人。\n\n    驾驶座上的白玉兰很轻松的扭过向盘。避开了前的一个中年人。难开了两次黑色汽车。他早已经喜欢上了",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "到来令很多人都有些措手不及。街道上时常能够看到搓着双手快步走过的行人。\n\n    驾驶座上的白玉兰很轻松的扭过向盘。避开了前的一个中年人。难开了两次黑色汽车。他早已经喜欢上了这种沉稳流畅的驾驶感觉。有时候更会猜想一二。许乐这位小老板的背景究竟有多深。依照他的见识。这种特制的车只怕联邦政府顶层也没有多",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "纹风不动。\n\n    首都特区落下了雪。轻轻扬扬的似极了临海州那间大学的花海。落在街道建筑之上。部分瞬间化去。徒留森森之色。偶有几处残存洁白。十分醒目。\n\n    ……\n\n    ……\n\n    总统官邸西拱厅的落的窗旁。只剩下短短两个月任期的席格总统。沉默的看着窗外草坪上的白雪。许久没有说话。这十",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "正在调查麦德林的关键时刻。联邦府来一次急转弯。向那个无耻的政客退让。以换取燃遍整个联邦的抗议之火熄灭同时尽快的平环山四州的大罢工事情。这样的代价究竟需不需要去付出？\n\n    “从理智上考虑政府不再调查麦德林。确实是在最短的时间内平息联邦内乱的好方法。|个老鬼不亲自出面呼吁。联邦里的那些年轻人便不会",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "吁。联邦里的那些年轻人便不会平静下来”\n\n    国家安全事务顾问先生。走到总身后。用微哑的苍老声音说道：“胡夫。夫人及她所能响的人物。可以对议会山带来根本性的改变。现在需要做决定的。便是你本人。”\n\n    虽然在前一段时间**之中。席格总统第一次对于身后的老师及友人感到了不满意。但是他现在才发现",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "是必须要做的。即将卸任的胡夫席格总统在心这样想到。而不愿意去思考。联邦政府做出这样的决。到底有几分与以后的利益相关。\n\n    距离总统官邸数十`里。那一条单行道的尽头。宪章局的大楼被掩盖在纷飞的雪花之中。苍老的局长满眼忧虑的望了一窗外。是的。直到今天。宪章局依然没有找到能够指控麦德林议员的直接证据",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "据。\n\n    席格总统听到这个报告。整个人明显的放松下来。放下电话的动作要显平缓了许多。官邸拱厅内安静了很久。这位联邦领袖面无表情的站在桌旁。思考了很久之后。轻轻点了点头。\n\n    房间内的国家安全问以及布林副主任。同时注意到总统先生这个小动作。同时松了一口气。离开了房间。\n\n    在当前的局",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "坪上的白雪。许久没有说话。这十年里做为联邦的领袖。他留给社会一个暴燥而怯懦的形。但只有他自己清楚并且满足他为联邦赢来了十年安定发展的时间。前一次与帝国大战所造成的战争创伤。正是在他的总统任期内被逐渐修复。\n\n    只是稳定真是的压倒一切的重要事情吗？席格总统眯着眼睛看着草上东一团西一处的雪想到先前",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

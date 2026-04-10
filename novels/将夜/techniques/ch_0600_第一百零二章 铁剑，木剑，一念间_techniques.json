@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 600,
+  "chapter_title": "第一百零二章 铁剑，木剑，一念间",
+  "filename": "ch_0600_第一百零二章 铁剑，木剑，一念间.txt",
+  "char_count": 3404,
+  "timestamp": "2026-04-10T12:11:26.693097",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，每至尽处，又会严重违背修行者心中驭剑术的规则，陡然折回，依然走的是直线。\n　　叶苏的道剑是最细的寒风，最微的秋雨，能够入世间一切有间。\n　　君陌的铁剑则是方正到了极点，风雨不能进。\n　　极短的瞬间之内，木剑与铁剑在雨中交会碰撞了不知道多少次，又似乎一次碰撞都没有发生，秋雨被这两道强大的剑势，逼的横",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "！\n　　钟裂如瓦！\n　　梅丛成雪！\n　　……\n　　……\n　　秋雨中，二师兄的黑发向后飘舞，博带乱飘，愤怒到了极点。\n　　然后他做了一件谁都想不到、哪怕是同样骄傲的叶苏，都无法想到的事情。\n　　他伸手召回自己宽方的铁剑，竟是根本不理会身后那柄带着风雷之势的道剑，怒啸声中，把铁剑向着殿前的七念掷了过去！",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "细的寒风，最微的秋雨，能够入世间一切有间。\n　　君陌的铁剑则是方正到了极点，风雨不能进。\n　　极短的瞬间之内，木剑与铁剑在雨中交会碰撞了不知道多少次，又似乎一次碰撞都没有发生，秋雨被这两道强大的剑势，逼的横斜而飞。\n　　忽然间，君陌神情微凛，竟是毫不犹豫转身向佛殿疾掠而去！\n　　此时叶苏的木剑，正在",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "院墙，看着坡下的一道寺檐，眼眸里隐有雷电之意！\n　　君陌走向残破佛殿，叶苏看着院墙飞檐，都是年轻一代最强大的人，都是最骄傲的人，那么要看便对视，不看便皆转身。\n　　烂柯寺上空的雨云里，渐有明亮积蕴，闪电落下，雷声大作。那道穿行秋雨里的木剑，仿佛被雷电击中，带上丝丝亮泽，挟着风雷之势，继续向君陌刺去！",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "白，被秋雨浸染，依然显得有些干枯，当微微翕动时，便像是雨中的枯白落叶，轻轻颤抖。\n　　殿前石阶周遭的人们，震骇到了极点，神情剧变，因为他们知道，马上便会看到，修行界里传说已久的闭口禅被一语道破的画面。\n　　佛宗行走七念修行闭口禅已有十六年，从未破戒，哪怕当初在长安城湖畔的雪林里，他面对着神秘的魔宗宗",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "者可以借用昊天的力量，但他和他的铁剑对某个规则的信奉，却是那样的坚不可摧，以至于那个规则，甚至从某种意义上已经变成了他自己的规则，那个规则便是秩序。\n　　他的铁剑守护的便是绝对的秩序。\n　　……\n　　……\n　　七念的双唇有些发白，被秋雨浸染，依然显得有些干枯，当微微翕动时，便像是雨中的枯白落叶，轻轻",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "忽然间，君陌神情微凛，竟是毫不犹豫转身向佛殿疾掠而去！\n　　此时叶苏的木剑，正在秋雨中纵横无双，将将来到他身后三丈之地。\n　　君陌看着佛殿里的七念，面色微白，广袖向身后一拂。\n　　那把方正宽大的铁剑，自西面寺墙处鸣啸而回，不再像先前那般画着方正的图案，而是极其简单地开始画直线，显得更直更硬，所以更",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的修道天才，自然有让他出剑的资格。\n　　君陌高冠博带，袍服宽大，看不出剑匣放在何处。\n　　但当他的剑出现时，寺内所有人都能够看到。\n　　因为他的剑与世间所有剑师的剑都不同，剑身极宽，宽的难以想像，看上去根本不像是一柄剑，而更像是一块方方正正的铁片。\n　　这样一块方铁片，极为显眼，想看不见都很困难。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "忽然间，君陌神情微凛，竟是毫不犹豫转身向佛殿疾掠而去！\n　　此时叶苏的木剑，正在秋雨中纵横无双，将将来到他身后三丈之地。\n　　君陌看着佛殿里的七念，面色微白，广袖向身后一拂。\n　　那把方正宽大的铁剑，自西面寺墙处鸣啸而回，不再像先前那般画着方正的图案，而是极其简单地开始画直线，显得更直更硬，所以更强",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "他没有看见那张棋盘。\n　　沉默片刻后，他从身前的砖木碎砾里拣起已经有些变形的铁剑，双臂用力把铁剑慢慢扳直――虽然不是太直，但已经足够砍人。\n　　然后他望向七念。\n　　悬空寺戒律院首座，经过片刻喘息后，回复了一些修为，左手颤抖着，在身前的血泊里拿起佛祖留下的盂兰铃，向着阶上掷了过去！\n　　君陌看都",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "禅一朝破戒，那会意味着什么。\n　　七念嘴唇微开，隐约可以看到里面残破的半截舌头，他脸上的神情很平静，轻声说出了一个字，因为太长时间没有说话的缘故，显得有些含浑不清。\n　　“疾。”\n　　他说的太过寻常随意，让人根本感觉不出，这像是一个十六年没有说话的人，说出的第一个字，与人们的想像形成了极大的落差。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

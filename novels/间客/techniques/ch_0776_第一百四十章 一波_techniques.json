@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 776,
+  "chapter_title": "第一百四十章 一波",
+  "filename": "ch_0776_第一百四十章 一波.txt",
+  "char_count": 3382,
+  "timestamp": "2026-04-10T12:05:17.588629",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "地互相拜托某些事情之后，停机坪上便进入了沉默状态。直到基地办公楼里那位少将级别的主官，乘坐自行轨道车来到他们的面前。\n\n    “很抱歉，许乐上校，你的申请没有被批准，我无法给这艘战舰下通行证。”\n\n    这位少将去年底刚刚从第二军区调来，担任长风军事基地的最高指挥官，他的调动是联邦政府借由钟瘦虎",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "幢楼都垮了。\n\n    感觉到左手传来的压迫感，许乐笑了笑，抽出手用力地揉着小姑娘微湿顺直的黑，低声说道：“没事儿。”\n\n    用力地掐熄烟头，灌了一整杯冰水。许乐揉了揉鼻子，拿起电话拔通一个电话号码，低声说道：“是这样的，田叔。我有些事情需要回引一趟，麻烦你让办公室帮我打一份申请。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "开西林长风基地后半小时，位于加里走廊南端某偏僻基地里有三艘纯黑色的联邦战舰缓缓驶离船坞，奉命执行某项秘密演习任务的战舰上，没有喷涂任何标识　小说-txt天堂",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "许乐在说宗那声顶住！后，紧紧握着电话等了两分钟铆电话那头一片安静，没有任何回答的声音。最终只等来了联邦中央电脑那介。令人浑身寒冷的确认。\n\n    纬二区老宅里像日光一样的灯光没有一丝温度，他沉默坐在椅上，那把黑色的寒冷的“口手枪安静地握在手中，另一只手牵着钟烟花软软暖暖的小手，不知道",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "她抬起头来。望着天花板或者是老宅上方的苍穹，疑惑问道：“网才他是在和你说话吗？”\n\n    长风军事基地，呼啸的秋风从战舰下方空间里喷涌而出，将停机坪上的落叶扫的簌簌粉碎，战舰侧后方巨大的晶态引擎群处于半激状态。深蓝色的光束蕴而未，像炉中初生的火般幽然。\n\n    穿着一身笔挺联邦军装的许乐，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "新放回桌面，沉默了很长时间的电话，觉得自己有些顶不住了，闭上眼睛靠在软椅上。然后忽然又坐直了身体，用颤抖的手指取出蓝色的烟盒，取出一根三七牌香烟，大口大口的猛吸，直到肺部一阵涩痛，咳嗽连连。\n\n    刚刚洗完头的钟烟花忧郁地望着他，用力抓住着他的手，很害怕他会就这样咳的整幢楼都垮了。\n\n    感",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "。想起电视上面曾经不停播放的那个画面。想着刚刚过世的元帅和那个年轻上校在湖畔院内握手，不由唇角微翘，自嘲说道：“谁敢这么对付军神的接班人？”\n\n    战舰开始做起飞预推，晶态多引擎群开始二层激，强劲的动力从多旋合金口内喷薄而出，空旷的停机坪上温度瞬间上升了不少。 在巨大的噪音和呼啸狂风之中，田大棒",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "去年底刚刚从第二军区调来，担任长风军事基地的最高指挥官，他的调动是联邦政府借由钟瘦虎之死向西林进行的无数渗透当中的一部分，所以他和西林军区尤其是老宅方面的关系向来不怎么妥当。只是由于这份通行证涉及到许乐，所以他亲自前来解释。\n\n    “我不明白你的意思。”许乐那双浓如墨块的眉毛微微皱起。紧了紧肩上",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "战舰开始做起飞预推，晶态多引擎群开始二层激，强劲的动力从多旋合金口内喷薄而出，空旷的停机坪上温度瞬间上升了不少。 在巨大的噪音和呼啸狂风之中，田大棒子拍了拍将军的肩膀，大声说道：“那就不用为难了。”\n\n    最高法院的判决非常倾向于钟烟花或者说钟家老宅，虽然还有很多产业归属需要进行细分，但古钟",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "上层的命令，我很为难啊。”\n\n    “一切必要之手段，包括把这艘战舰打下来？”田大棒子望着战舰腹部缓缓关闭的舱门，微笑问道。\n\n    少将耸耸肩，轻挥着烟卷说道：“当然。”\n\n    “那你会把这艘战舰打下来吗？”田大棒子问道。\n\n    少将摘下军帽，轻轻挠着被汗水蘸的有些痒的鬓角，沉默片复。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "山所有修身馆，却一直和老李家常去那家修身馆保持着非常安全的距离。”\n\n    他背负着双手，转头头来忧虑地望着许乐的眼睛，缓声说道：“费城李家没有得罪过我。我也没胆子去得罪他们，最关键的是，没有这种必要。”\n\n    “这次联邦死了很多大人物，包括拜伦在内。”\n\n    田胖子继续说道：“你调查古钟",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "钟烟花忧郁地望着他，用力抓住着他的手，很害怕他会就这样咳的整幢楼都垮了。\n\n    感觉到左手传来的压迫感，许乐笑了笑，抽出手用力地揉着小姑娘微湿顺直的黑，低声说道：“没事儿。”\n\n    用力地掐熄烟头，灌了一整杯冰水。许乐揉了揉鼻子，拿起电话拔通一个电话号码，低声说道：“是这样的，田叔。我有些事",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

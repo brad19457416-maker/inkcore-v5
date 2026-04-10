@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 566,
+  "chapter_title": "第七十二章 书院，胜在有桑桑",
+  "filename": "ch_0566_第七十二章 书院，胜在有桑桑.txt",
+  "char_count": 3691,
+  "timestamp": "2026-04-10T12:11:26.652522",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "这样的对手下一盘棋，能下这样一盘棋，然后做为人生最后一盘棋，还有比这更完美的结局吗？”\n　　秋亭外的众人很是震惊，想到涧旁的乱柯局已封，秋亭里的第二局棋也成了最后一局，难道传说中的瓦山三局今日便成了绝响？\n　　……\n　　……\n　　黑色马车缓缓向山顶驶去。\n　　宁缺想着先前秋亭里的棋局，终究还是没能忍",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，没想到他居然一直记得。”\n　　听大师提到自己的老师，南晋棋师不敢插话，只是终究还是无法压抑住心头的疑问，问道：“大师，您为何消失了这么多年？”\n　　老僧沉默片刻后说道：“很多年前，一个少年来到烂柯寺，棋力惊人，横扫寺间诸僧，于是我下瓦山与他对了三棋，前两局胜负各一，到了第三盘残局，我与他因为对某个",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "里，他偶尔会清醒过来，看着黑棋不禁生出些许疑惑，总觉得这股肃杀的棋风有些熟悉，似在哪里见过。\n　　他心想大概是被洞明大师重现人世震惊，所以弄得有些恍惚，看见什么好东西便总觉得眼熟，觉得自己在哪里见过，随后便忘了这件事情。\n　　……\n　　……\n　　秋亭里，大棋盘上的黑白棋子越来越密。\n　　黑白两色在棋",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "！\n　　在黑白棋子间移动目光的过程里，他偶尔会清醒过来，看着黑棋不禁生出些许疑惑，总觉得这股肃杀的棋风有些熟悉，似在哪里见过。\n　　他心想大概是被洞明大师重现人世震惊，所以弄得有些恍惚，看见什么好东西便总觉得眼熟，觉得自己在哪里见过，随后便忘了这件事情。\n　　……\n　　……\n　　秋亭里，大棋盘上的黑",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "然是最传奇的人物。\n　　南晋棋师看着亭中的老僧，想着这位老僧不知被多少棋手视为祖师爷，身体难以抑止的颤抖起来，颤声说道：“您还活着？”\n　　老僧有些意外地看了他一眼，说道：“没有想到世间还有人认得我？”\n　　南晋棋师终于稍微镇静了些，急忙跪在蒲团上大礼参拜，恭恭敬敬说道：“学生自幼在道场里观看祖师爷",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "物。\n　　南晋棋师看着亭中的老僧，想着这位老僧不知被多少棋手视为祖师爷，身体难以抑止的颤抖起来，颤声说道：“您还活着？”\n　　老僧有些意外地看了他一眼，说道：“没有想到世间还有人认得我？”\n　　南晋棋师终于稍微镇静了些，急忙跪在蒲团上大礼参拜，恭恭敬敬说道：“学生自幼在道场里观看祖师爷画像，所以识得",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "布看着桑桑，微笑说道：“黑白分隔，本就是随心意而定，你想选黑便是黑，你想选白便选白，只看自己如何想，人生与棋局也没有什么差别。”\n　　然后他站起身来，看着亭外的观海僧并烂柯寺住持，缓声说道：“既然师弟封了涧旁的乱柯局，那我这一局也封了，若有想上山的客人，你们不要拦阻。”\n　　观海僧很是吃惊，不解问道",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "“敢问姑娘……可是随宋谦大师学棋？”\n　　桑桑有些惘然地摇了摇头。\n　　宁缺眉头微皱，觉得这名字虽然陌生，但确实好像在哪里听过。\n　　老僧看着帷布，关切问道：“宋先生在书院可好？”\n　　听着这句话宁缺终于想起来了，书院后山去年发冬服的时候，二师兄家的小书童曾经报过一个叫宋谦名字，那不就是……\n　　“",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "抑住心头的疑问，问道：“大师，您为何消失了这么多年？”\n　　老僧沉默片刻后说道：“很多年前，一个少年来到烂柯寺，棋力惊人，横扫寺间诸僧，于是我下瓦山与他对了三棋，前两局胜负各一，到了第三盘残局，我与他因为对某个连环劫的算法不同产生了争执。”\n　　“那少年骄傲到了极点，大概是急了眼，所以说话也越来越难",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "小下过一盘棋，没想到他居然一直记得。”\n　　听大师提到自己的老师，南晋棋师不敢插话，只是终究还是无法压抑住心头的疑问，问道：“大师，您为何消失了这么多年？”\n　　老僧沉默片刻后说道：“很多年前，一个少年来到烂柯寺，棋力惊人，横扫寺间诸僧，于是我下瓦山与他对了三棋，前两局胜负各一，到了第三盘残局，我与",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "亭里的第二局棋也成了最后一局，难道传说中的瓦山三局今日便成了绝响？\n　　……\n　　……\n　　黑色马车缓缓向山顶驶去。\n　　宁缺想着先前秋亭里的棋局，终究还是没能忍住，问道：“到底谁赢了？”\n　　桑桑说道：“我应该赢了几个子，不过黑棋本就占便宜。”\n　　宁缺怔了怔，然后大笑起来。\n　　然后他感慨说道：",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "那般的冷酷无情强硬，如同天意降临世间！\n　　南晋棋师看洞明大师的白棋时，便觉得自己仿佛融进三春景里，温暖美好地不愿醒来，看桑桑的黑棋时，却觉得自己仿佛来到冬瀑之前，看积雪山崖溅起寒冷的水花，清醒无比地感受着那份美丽与疼痛，想离开却又舍不得。\n　　一时春暖一时冬寒，一时湖上一时瀑前，这名南晋棋师看着这",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "是吃惊，不解问道：“这是何故？”\n　　洞明大师说道：“能和这样的对手下一盘棋，能下这样一盘棋，然后做为人生最后一盘棋，还有比这更完美的结局吗？”\n　　秋亭外的众人很是震惊，想到涧旁的乱柯局已封，秋亭里的第二局棋也成了最后一局，难道传说中的瓦山三局今日便成了绝响？\n　　……\n　　……\n　　黑色马车缓缓",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

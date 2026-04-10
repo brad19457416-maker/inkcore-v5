@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1010,
+  "chapter_title": "第十九章 秋风秋雨杀闲人（中）",
+  "filename": "ch_1010_第十九章 秋风秋雨杀闲人（中）.txt",
+  "char_count": 2237,
+  "timestamp": "2026-04-10T12:11:34.913061",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "唐当前的局势极为严峻，皇宫里御书房里的灯火昼夜不歇，各部衙更是忙碌到了极点，他实在想不明白，上官扬羽为什么会出现在这里，只是因为时间急迫的缘故，他也懒得去问。\n　　上官扬羽见着他，酒意便醒了大半，只觉腹中坠坠，想去茅厕解决问题，却哪里敢离开，问道：“十三先生有何事交待？”\n　　宁缺说道：“我要杀些人",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第十九章 秋风秋雨杀闲人（中）\n　　宁缺找到上官扬羽的时候，这位大唐的新贵正在红袖招里灌酒，那双颇有特色的三角眼因为迷离而显得愈发猥琐，蘸着酒水的山羊胡就像是墨笔一样在桌上扫来荡去，形状滑稽甚至令人感到厌恶。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "灵魂都全部效忠于对方。\n　　当年如果不是宁缺杀了御史刘贻琦，他根本没有可能坐上长安府尹的位置，从某种意义上来说，他是宁缺杀人最早的观众，也是最初的收益者，那些满是血腥的记忆，他从来没有忘记过。\n　　然而宁缺现在已经是大唐最重要的大人物，他说的话比皇帝陛下更有威力，无论他要杀谁，都没有人敢反对，那么他",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "院里没有任何声音，在凄迷如烟的雨中显得有些阴森。\n　　上官扬羽知道这片宅院是做什么的，愈发觉得不解，心想如果宁缺要杀的人住在这里，随便杀了便是，为什么一定要把自己带着？\n　　走进宅院正堂，坐在太师椅上，接过刑部官员递来的热茶，宁缺拎着茶盖轻轻拔了两下，看着他说道：“户部的那些钱粮师爷过会儿就到。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "局势极为严峻，皇宫里御书房里的灯火昼夜不歇，各部衙更是忙碌到了极点，他实在想不明白，上官扬羽为什么会出现在这里，只是因为时间急迫的缘故，他也懒得去问。\n　　上官扬羽见着他，酒意便醒了大半，只觉腹中坠坠，想去茅厕解决问题，却哪里敢离开，问道：“十三先生有何事交待？”\n　　宁缺说道：“我要杀些人。”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "所以我今天要杀人，要杀很多很多人，只有这样，才有希望让对方不敢再杀我们的人。”\n　　上官扬羽的三角眼骤然明亮，他知道书院准备怎么做，然而下一刻，他的眼神再次黯淡起来，因为这并不见得能解决问题。\n　　便在这时，羽林军护送着十余名户部官员冒风雨前来，这些人都是最优秀的算帐好手，数什么都不会数错，数人头自",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "无论书院决定做什么，宁缺想杀谁，他都必须跟着――他毕竟不是曾静大学士，可以把宁缺骂的狗血淋头，也不用担心自己在朝中的位置，更不担心会被书院杀死，谁让他没有生出一个好女儿？――只是宁缺究竟想杀谁？他不会真的再杀死一位大唐的皇帝陛下吧？\n　　秋雨淅淅沥沥，长街早已湿透，车轮碾压石板的声音渐渐停止，上官扬",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "意便醒了大半，只觉腹中坠坠，想去茅厕解决问题，却哪里敢离开，问道：“十三先生有何事交待？”\n　　宁缺说道：“我要杀些人。”\n　　他说的很轻描淡写，落在上官的耳中却像是一道惊雷，剩余不多的酒意顿时全部消解，小腹更是一阵抽搐，打了个寒噤，仿佛已经去了趟茅厕。\n　　之所以会反应这般大，是因为上官非常清楚，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "上长安府尹的位置，从某种意义上来说，他是宁缺杀人最早的观众，也是最初的收益者，那些满是血腥的记忆，他从来没有忘记过。\n　　然而宁缺现在已经是大唐最重要的大人物，他说的话比皇帝陛下更有威力，无论他要杀谁，都没有人敢反对，那么他为何要来找自己？\n　　上官扬羽有些想不明白，脸上的神情更加谦卑，宁缺知道他在",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "说道：“时间有些紧，所以要快些。”\n　　当年举世攻唐，李珲圆趁机篡位，何明池掌管天枢处和南门观，掀起一片混乱，那些夜晚的长安城，不知道流了多少血。\n　　宁缺和皇后回到长安城稳定局势后，紧接着做的事情便是镇压和肃清，天枢处和南门观那些参加过叛乱的修行者们，被杀死或擒获，现在便关押在这一大片宅院里，这里",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的缘故，他也懒得去问。\n　　上官扬羽见着他，酒意便醒了大半，只觉腹中坠坠，想去茅厕解决问题，却哪里敢离开，问道：“十三先生有何事交待？”\n　　宁缺说道：“我要杀些人。”\n　　他说的很轻描淡写，落在上官的耳中却像是一道惊雷，剩余不多的酒意顿时全部消解，小腹更是一阵抽搐，打了个寒噤，仿佛已经去了趟茅厕。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

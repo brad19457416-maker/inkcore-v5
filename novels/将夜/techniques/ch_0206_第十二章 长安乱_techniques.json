@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 206,
+  "chapter_title": "第十二章 长安乱",
+  "filename": "ch_0206_第十二章 长安乱.txt",
+  "char_count": 3439,
+  "timestamp": "2026-04-10T12:11:11.973349",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "不寻常。他那双能够看到世间一切黑暗的眼眸里，所有的风景街景市井生活，都仿佛披了一层极淡的纱，未曾遮蔽真相，却掩住了天地间流传的命机。\n　　老人背着双手，佝偻着身子向巷尾那家不起眼的客栈走去，摇头感慨想道：\n　　“好一座大阵。”\n　　……\n　　……\n　　长安城的大阵未曾发动，便掩了天机，让老人无法看到",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "”\n　　颜瑟大师的表情也不知道是赞叹还是喟叹。\n　　李青山听着天书二字，眉梢微挑说道：“荒原之上已然风起云动，然则日字卷失落已久，或许根本不在荒人部落中，所以各方都只派出年轻一代去尝试找找，而师兄你那位老友若重现人世，份量比那边可是要重多了。”\n　　颜瑟大师摇摇头，没有继续讨论这个问题，问道：“陛下",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的神官及强者，天下各处道观里忠诚于他的下属更是数不胜数，如今脱桃山后麓樊牢而出，自有人帮助他悄无声息来到长安。\n　　在雄城外下了马车，顺着幽深厚实的南门洞走了进去，老人耷拉着眼帘，佝偻着身子，缓步踏着石板路向前行走。忽然间他仿佛感受到了什么，右脚在踏上朱雀大街前的那一瞬间，微微僵硬，然后收了回来，转",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "还是交给我来处理吧。”\n　　颜瑟大师摇了摇头，面无表情说道：“既然是道门之事，自然也没有请书院帮助的道理，但单凭南门和天枢处的力量，根本不可能杀死他。”\n　　李青山说道：“世间的事情总不能单以印象去判断，没有什么事情是不可能的。”\n　　颜瑟大师看着他直接说道：“他以前就比你强，我相信现在的他比以前的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "曾遮蔽真相，却掩住了天地间流传的命机。\n　　老人背着双手，佝偻着身子向巷尾那家不起眼的客栈走去，摇头感慨想道：\n　　“好一座大阵。”\n　　……\n　　……\n　　长安城的大阵未曾发动，便掩了天机，让老人无法看到他已经苦苦追索了十四年的黑夜影子，不过这座令他赞叹警惕的大阵，也没能发现他是一位自西陵而来的绝",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "么手段，竟是轻松推倒了樊笼。裁决大神官道心牵丝在樊笼之上，受到反噬受了不轻的伤，别的神官道人更是死伤无数。神殿方面推断他会来帝国，所以希望我们能不惜一切代价抓住或者是杀死他。”\n　　李青山注意到师兄听到这句话后，眼窝似乎比先前陷的更深了一些，稍一停顿后继续沉声说道：“信中还说，天谕大神官带着天谕院书",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "们这对师兄弟，也不想多加谈论。\n　　“这封信是怎么说的？”\n　　“他逃出神殿时不知用了什么手段，竟是轻松推倒了樊笼。裁决大神官道心牵丝在樊笼之上，受到反噬受了不轻的伤，别的神官道人更是死伤无数。神殿方面推断他会来帝国，所以希望我们能不惜一切代价抓住或者是杀死他。”\n　　李青山注意到师兄听到这句话后，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "耷拉着眼帘，佝偻着身子，缓步踏着石板路向前行走。忽然间他仿佛感受到了什么，右脚在踏上朱雀大街前的那一瞬间，微微僵硬，然后收了回来，转身向东方走去。\n　　在周遭行人眼中，老人只是腿脚有些不便，并没有觉察到有什么怪异之处，更不知道，就在老人右脚脚掌即将踏上街面的那一刻，朱雀大街远处那幅深刻在石质地面上的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "异之处，更不知道，就在老人右脚脚掌即将踏上街面的那一刻，朱雀大街远处那幅深刻在石质地面上的朱雀绘像，缓缓睁开了眼睛。\n　　不知道过了多长时间，朱雀绘像的眼帘又缓缓阖上。\n　　……\n　　……\n　　“好大一座阵。”\n　　老人背着双手，佝偻着身子在东城的街巷里缓慢行走，微笑暗自想道。\n　　片刻后，老人缓慢",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "要，谁也不敢出声打扰。\n　　道殿深处，乌黑色的木板上有两个锦绣棉垫。国师李青山看着对面的颜瑟大师缓声说道：“师兄，那人应该是往长安城来了。”\n　　在皇帝陛下和尊敬的师兄面前，李青山经常会习惯性地回到当年惫赖调笑的模样，然而今天他的神情异常严肃，脸上还挂着几分认真的探询意味。\n　　颜瑟大师深深看了他一",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "话真的听进去，不由在心底深处轻叹一声，想着那位老友的性情，摇头说道：“尽力而为，不好做便不要管，一切命运，自有昊天安排。”\n　　李青山走后，颜瑟大人坐在乌黑木地板上发了很长时间的呆，苍老干瘦的身躯，在清冷殿柱与地板的映衬下显得愈发孤单。\n　　良久他拾起身前的冷茶，以手指蘸茶水，在地板上写下一个字，然",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 605,
+  "chapter_title": "第二百三十七章 不要招惹他 0",
+  "filename": "ch_0605_第二百三十七章 不要招惹他 0.txt",
+  "char_count": 3726,
+  "timestamp": "2026-04-10T12:05:08.539523",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "是，上次在车厢里，你解除了林斗海与南相小姐之间的婚约，事后想来让我很佩服，因为这和你的利益甚至是行事风格没有任何关系，只是关系到一个普通女生的幸福。”\n\n    “你是个好人。\n\n    听到电话那头许乐认真语气说出的评价，林半山默然无语良久。\n\n    房间中的黑衣中年人和张小花则是同时张大了嘴，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的性格。这个世界上像你这样疯狂的人不少，那些无能的疯子。惯常只敢对弱者比如孩子或女人下手，因为这种泄愤怒以寻求精神平静的手段，能够安全并且轻易的达成。”\n\n    “但很少有人敢像你这样，当面扇林家的耳光。扇的人们惊愕难言，羞辱难当。”\n\n    “将老人们最重视的家族荣光踩在脚下，需要真正的勇气和",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "“将老人们最重视的家族荣光踩在脚下，需要真正的勇气和疯劲儿。要知道连我有时候都忌惮且深深不解，为什么七大家这种恐怖的畸形怪兽，能够在联邦里存续如此长的时间，却没有因为能量太大而自我爆炸。”\n\n    林半山平静沉稳的目光中生出一丝笑意，说道：“老人们很多年没有碰到像你这样疯狂的人物，他们已经不",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "多。敬他的人多，厌憎他，恨不得生食其肉的人更多，但很少有人会投予喜欢这种情绪。\n\n    今天更是他第一次听到有人用“好人”这种身份来形容自己，林半山心情有些莫名。感到有趣，觉得电话那头的小家伙，真是一个很妙的人。\n\n    “联邦政府和国防部不会为我这种人拍纪录片。所以我不习惯听这种好话。我更习惯",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "他那些队员肯定挡不住，他会不会请费城方面出面，还是说希望总统先生话？说真的，我确实很好奇您的家族一旦全力出击，会在联邦里掀起怎样的风浪来。”\n\n    张小花站在他的身后微笑问道，刺青变形狰狞着从衣领处挣脱而出，分外鲜明。\n\n    “如果父亲相信我刚才那个电话里所说的内容。那么接下来就不会有任何风",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "精神平静的手段，能够安全并且轻易的达成。”\n\n    “但很少有人敢像你这样，当面扇林家的耳光。扇的人们惊愕难言，羞辱难当。”\n\n    “将老人们最重视的家族荣光踩在脚下，需要真正的勇气和疯劲儿。要知道连我有时候都忌惮且深深不解，为什么七大家这种恐怖的畸形怪兽，能够在联邦里存续如此长的时间，却没有",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "里存续如此长的时间，却没有因为能量太大而自我爆炸。”\n\n    林半山平静沉稳的目光中生出一丝笑意，说道：“老人们很多年没有碰到像你这样疯狂的人物，他们已经不习惯和你这样的人打交道，所以后续手段具体的事宜由我来和你谈。”\n\n    说到此处。这位曾经震撼整化大家的男人语锋微微一顿，说道：“虽然我早已",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "庄园。白玉兰直插此间，二人照面便沉默对坐，从始至终都没有动过手，孔叔微显黯淡的脸颊上带着丝年华老去的感慨。\n\n    电话挂断后，林半山对那位脸色苍白的黑衣中年人说道：“上次你说利孝通送了一个叫李维的年轻人去了百慕大，最后查出来是许乐的朋友？”\n\n    “已经确定，但很奇怪的，我们一直查不到许乐中",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "狂愤怒的暴。避免联邦出现一场轰轰烈烈的内战，我们应该尽快达成一致。”\n\n    听到这句话，电话那头马上响起许乐干净利落的声音：“我会放人。”\n\n    听到这个答案。林半山的眉头终于微微皱起，他转过身来，看着黑色书桌上的电话。有些没有想到对方的决断来的如此之快，而且如此干脆。\n\n    房间一角沙",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "写的。我一直很欣赏这位主编先生，颁奖词写的很不错，很像你。”\n\n    他望着窗外或是玻璃上那些向下缓缓滑落的水痕，没有回头，声音在房间里回荡，然后通过黑沉书桌上的电话向着远方另一颗星球传去。\n\n    “颁奖词写的很像你的性格。这个世界上像你这样疯狂的人不少，那些无能的疯子。惯常只敢对弱者比如孩子",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "听到电话那头许乐认真语气说出的评价，林半山默然无语良久。\n\n    房间中的黑衣中年人和张小花则是同时张大了嘴，表情有些怪异，似乎想笑。然而当着他的面却又不敢笑出来。\n\n    林半山在宪章光辉笼罩四野的前提下，依然能够轻挥衣袖，破门而出。与家族横眉冷眼相对，单凭双手，在白昼与黑间里侵伐纵横，生生",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "所当然，你既然不杀他，这半条命我就接过来，从今天起，我欠你半条命。”\n\n    “虽然我很想说你不用担心老人们可能的怒火反扑。但这种陈腐家族究竟是因为尊严而严守承诺，还是因为尊严而不要脸，我也说不准，毕竟我当年就是因为觉得这些事情太过无聊而离开。”\n\n    他继续平静说道：“但我可以保证，林斗海会",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "的人物。\n\n    莫愁后山那位夫人曾经评价他在乱世可为枭雄，事实上他这种人，哪怕在太平盛世狗欢愉的时代，也必然成为一名枭雄。\n\n    对于林半山这个人，联邦官员与权贵，百慕大的海盗团和地下世界，怕他的人多。敬他的人多，厌憎他，恨不得生食其肉的人更多，但很少有人会投予喜欢这种情绪。\n\n    今天",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "中生出一丝笑意，说道：“老人们很多年没有碰到像你这样疯狂的人物，他们已经不习惯和你这样的人打交道，所以后续手段具体的事宜由我来和你谈。”\n\n    说到此处。这位曾经震撼整化大家的男人语锋微微一顿，说道：“虽然我早已破门而出，但我相信自己有资格做这个代表。”\n\n    巨大的黑色沉木书桌上的电话安静",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，声音在房间里回荡，然后通过黑沉书桌上的电话向着远方另一颗星球传去。\n\n    “颁奖词写的很像你的性格。这个世界上像你这样疯狂的人不少，那些无能的疯子。惯常只敢对弱者比如孩子或女人下手，因为这种泄愤怒以寻求精神平静的手段，能够安全并且轻易的达成。”\n\n    “但很少有人敢像你这样，当面扇林家的耳",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "究竟是因为尊严而严守承诺，还是因为尊严而不要脸，我也说不准，毕竟我当年就是因为觉得这些事情太过无聊而离开。”\n\n    他继续平静说道：“但我可以保证，林斗海会被带回我会亲自找人看好他。”\n\n    “你手下的七组，在落日州的事件里出过力、冒过险。一亿现金，算是对他们的补偿。当然，这笔钱是家里老人出",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "之间的婚约，事后想来让我很佩服，因为这和你的利益甚至是行事风格没有任何关系，只是关系到一个普通女生的幸福。”\n\n    “你是个好人。\n\n    听到电话那头许乐认真语气说出的评价，林半山默然无语良久。\n\n    房间中的黑衣中年人和张小花则是同时张大了嘴，表情有些怪异，似乎想笑。然而当着他的面却又",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

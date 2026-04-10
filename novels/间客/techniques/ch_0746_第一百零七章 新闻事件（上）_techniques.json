@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 746,
+  "chapter_title": "第一百零七章 新闻事件（上）",
+  "filename": "ch_0746_第一百零七章 新闻事件（上）.txt",
+  "char_count": 3766,
+  "timestamp": "2026-04-10T12:05:17.612820",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的话，总觉得自己应该报名去参军。”那名联邦调查局的青年探员将深绿瑟(河)的军用大衣披在他的肩上，认真说道：“可我不知道这个程序怎么走？”\n\n    许乐醒过神来，低头系着军大衣的领扣，认真回答道：“国防部有特殊召募计划，像你这种有专业技能的正辅(河)官员，至少是少尉起。”\n\n    青年探员温和地笑",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "这本身就是存疑的问题，自己是联邦通辑犯，那又如何？当年被戴着墨镜的莱克上校拿枪顶着额头，莫名其妙开始逃亡，自己又没有做过错事。\n\n    想到这一点，许乐皱着眉尖，努力地睁开了眼睛，望着面前炫白一片的灯光，进行了三次深呼吸，平静地向前走了一步，微微低头，对着密密麻麻的话筒，准备认认真真地讲几句话，他",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "和嘈杂被隔绝的相当彻底，在黑鹰公司的精确引导和控制下，没有任何联邦媒体的转播车能跟上他们的车队，就连天空中三台负责直播的直升飞机，也在黑鹰公司的战斗直升机拦阻下被迫降落。\n\n    “很大的场面。”许乐脱下军大衣，望着正绮窗观雪景的消痪青年说道：“夫人同意你这么做吗？”\n\n    “母亲不同意你很多",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "明白为什么联邦如此激动。”\n\n    “因为这有话题性，涉及到反英雄主义那些东西，很多人容易激动甚至愤怒。”伍德耸耸肩，揉着如今依然有些酸痛的膝头，说道：“你的说法，法学上怎么算？民众也不会答应。\n\n    “我很想知道，这件事情会怎么展下去。”鲍勃主编的目光穿透烟雾，落在电视光幕上那个刚刚钻出黑车",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "故意要瞒你们，只不过……，逃犯的身份真的不怎么好听。”\n\n    当车队回到望都公寓的时候，这些年轻人们才现自己低估了联邦媒体的强大。往日里安静的青年公寓楼下花园，此刻人声鼎沸，十几辆高频转播车占据了公共绿地的很多角落，穿着正装的记者们拿着话筒，一边与台里的长官通话，一边向联邦民众介绍着当前的情况。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "政治原因，却现缺少第一手的消息，沉默片刻后摇头说道：“叛国贼的学生并不见得是叛国贼，这是一个很简单的道理，我不明白为什么联邦如此激动。”\n\n    “因为这有话题性，涉及到反英雄主义那些东西，很多人容易激动甚至愤怒。”伍德耸耸肩，揉着如今依然有些酸痛的膝头，说道：“你的说法，法学上怎么算？民众也不会",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "轰向他的脸颊，令他忍不住眯起了眼睛，不是以前立意暴或杀人时的眯眼，而是想要逃避的眯眼。\n\n    可为什么要逃避呢？大叔是联邦头号通辑犯，是卖国贼，这本身就是存疑的问题，自己是联邦通辑犯，那又如何？当年被戴着墨镜的莱克上校拿枪顶着额头，莫名其妙开始逃亡，自己又没有做过错事。\n\n    想到这一点，许",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "情况。\n\n    车队驶来，顿时引一阵骚动，记者们一边转移着摄录角度，一边大声地喊道：“许乐上校已经出现，我们很想知道，如果他真的是叛国贼余逢的学生，他真的是联邦通辑犯，会怎样面对此刻的镜头，和镜头后的民众。”\n\n    ……\n\n    ……\n\n    新闻一出，整个联邦震惊，军神李匹夫亲自挑选，并",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "你是怎么逃到了都星圈，联邦中央电脑又因为什么给了你这么高的权限。”\n\n    邹之源盯着许乐的眉眼，感慨说道：“我真傻，真的。当年在梨花大学，你能进图书馆h1区，我就应该猜到你和斩教授的关系，虽说他的身份知道的人不多，但我家是知道的……所以说我真傻，真的。”\n\n    “我那时候比你傻，我走进了梨花",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "丝复杂神思。\n\n    钻进矿坑，爬上自行破车，急促的呼吸，黑暗的巷壁，污浊的地下水，他逃离了东林，来到了都星圈，从那时候起，他隐藏了自己通辑犯的身份，默默地生活，心中却一直时刻没有忘记这件事情，对于他来说，逃犯的身份，隐隐自闭的心理，在自己都没有注意到的地方一直在挥着作用。\n\n    比如这时，望",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "感应器，让那扇昂贵的旋转门转了起来，对他说道：“明白了，您慢走。”\n\n    许乐耸耸肩，走了出去，瞬间有雪花与寒意扑面而至，让他下意识里紧了紧衣领，紧接着，无数耀眼的闪光灯和尖锐的询问声，压过了漫天飞舞的雪花与寒冷，猛烈地轰向他的脸颊，令他忍不住眯起了眼睛，不是以前立意暴或杀人时的眯眼，而是想要逃",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "无比富丽堂皇，许乐站在门后看着玻璃外面片片落下的大雪花，那些被拦在警戒线之外的记者们亢奋变形的五官，缓缓停住了脚步，眼眸里泛过一丝复杂神思。\n\n    钻进矿坑，爬上自行破车，急促的呼吸，黑暗的巷壁，污浊的地下水，他逃离了东林，来到了都星圈，从那时候起，他隐藏了自己通辑犯的身份，默默地生活，心中却一",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "冒了出来。这些戴着墨镜一脸冷酷的大汉，甫一出场便控制住了局势，把那些亢奋快要疯狂的记者们拦到了身后，同时护拥着许乐从侧方的石阶快的离开。\n\n    这些大汉的动作非常干净利落，看上去就像是受过专业训练的军人，许乐很快从绘着黑鹰的肩章处认出了他们的身份，自然猜到了这些是由谁安排的，联邦三大保安公司之一",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "天总算是得到了某种程度的证明。”\n\n    鲍勃主编点燃粗烟草后吹熄了火柴，他的表情平静里透着深深的忧虑，想要从这件抱(河)炸性新闻中找到更深层的政治原因，却现缺少第一手的消息，沉默片刻后摇头说道：“叛国贼的学生并不见得是叛国贼，这是一个很简单的道理，我不明白为什么联邦如此激动。”\n\n    “因为",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "十度的酒，有些疲惫地绮在窗边，望着他说道：“这和利益无关，只和平衡有关，老爷子终究老了，家里还指望你日后能够把那些疯子的压力顶住。”\n\n    许乐耸耸肩，目光投向车厢的另一角，穿着红瑟(河)狐皮大衣的邹郁倚在真皮椅上，黑瑟(河)的头被简单的束起，素瑟(河)的绢花所在辫上，与火一般的大衣一配，显得格",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "谁安排的，联邦三大保安公司之一的黑鹰公司，一直都是邰家的私人产业。\n\n    宽敞的黑瑟(河)汽车里温暖如春，外界的风雪和嘈杂被隔绝的相当彻底，在黑鹰公司的精确引导和控制下，没有任何联邦媒体的转播车能跟上他们的车队，就连天空中三台负责直播的直升飞机，也在黑鹰公司的战斗直升机拦阻下被迫降落。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 569,
+  "chapter_title": "第七十五章 棋枰之间说黑白",
+  "filename": "ch_0569_第七十五章 棋枰之间说黑白.txt",
+  "char_count": 3506,
+  "timestamp": "2026-04-10T12:11:26.655745",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "海沸腾，大山倾覆。\n　　桑桑身下的山剧震而散，把她震飞到了空中。\n　　无数规则化成的光团，向着这边的天空飞了过来，光明大作。\n　　这些光团里蕴着乳白色的光辉，没有任何温度，看上去就像冰冷的白色棋子。\n　　桑桑悬浮在空中，惘然看着那些光明的棋子。\n　　她就像一颗孤伶伶的黑色棋子。\n　　下一刻便会被光明",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "里。\n　　她不知道这个世界是不是真实的，是梦境还是某位大能力者营造的精神幻境，但既然知道了事情的片段真相，便足够她推导出来更多的东西。\n　　正如宁缺说过的那样，她是个很聪明的女孩儿，只不过习惯了站在宁缺身后，懒得动脑筋，什么事情都让宁缺去想。这一次她懒的时间稍微长了些，直到确认宁缺不会来找自己，或者",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的洪水，从湖里生出的高峰，度过炽热的夜晚和寒冷的白昼，只是盲目而荒乱地逃着。\n　　在某个路口，逃亡的人群被迫停了下来。\n　　有一辆黑色的马车，横在那个路口里，撞翻了好几辆马车，让本来就极为混乱的路口变得更加混乱，堵的任何人都无法移动。\n　　黑色马车堵在这里，想往南边逃的人无法南去，想要往西边逃的人无",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "法抓到街道对面那个衣衫不整的少女，从死尸堆里爬出来的少年，看见自己的初恋却无法拥抱。\n　　末世的人们愤怒的呼喊着，痛骂着，有人拾起泥块向那辆黑色马车砸去，然而黑色马车上那名年轻人，似乎根本听不到这些声音，任由那些泥块砸中自己的身体，然后震成碎片，他依然抬头看着天空发呆。\n　　天上有很多白色的光团，他",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "师，而是世界本身的规则，她需要做的事情，便是战胜这些规则。\n　　规则是世界构成的基础，世界之所以能够存在，人之所以能够活着，正是因为有些这些规则，在规则之中战胜规则，怎样看都是不可能做到的事情。\n　　但桑桑认为自己不是这个世界的人，就算不能战胜这个世界的规则，也应该能够找到两个世界相通之处，也就是两",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "自己的腰带，系到了树上。\n　　颈子有些痛。\n　　下一刻，她站在树下，怔怔看着重新回到自己腰上的衣带，心想应该选别的方法。\n　　离树不远的地方，有片湖。\n　　湖水也能淹死人。\n　　湖水没能淹死她。\n　　……\n　　……\n　　在此后的几天里，桑桑尝试了各种各样的死法，但都未能如愿，她依然站在这座山里，除了",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "毁灭之前的世界一片混乱，幸存下来的人类终于感受到了死亡的恐惧，驾着自家马车或是抢了别人的马车，开始逃亡。\n　　他们不知道要逃到哪里去，才能避开从天上落下的洪水，从湖里生出的高峰，度过炽热的夜晚和寒冷的白昼，只是盲目而荒乱地逃着。\n　　在某个路口，逃亡的人群被迫停了下来。\n　　有一辆黑色的马车，横在",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "把体内所有的浩然气，全部通过这一刀轰了出去，混着昊天神辉，走的是柳白的大河剑决。\n　　这是他能砍出的最强的一刀。\n　　烟尘大作，光辉点点。\n　　朴刀被棋盘震回。\n　　棋盘安然无事。\n　　桑桑没有醒来。\n　　宁缺却握着刀……睡着了。\n　　歧山大师的脸色愈发憔悴，叹息说道：“真是一对痴儿。”\n　　……",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "自己大概遭遇到那名樵夫相同的事情，只不过那名樵夫是在现实的世界里虚度百年，而她则是离开了现实的世界，来到了这里。\n　　她不知道这个世界是不是真实的，是梦境还是某位大能力者营造的精神幻境，但既然知道了事情的片段真相，便足够她推导出来更多的东西。\n　　正如宁缺说过的那样，她是个很聪明的女孩儿，只不过习惯",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "是走到崖畔，跳了下去。\n　　然后她重重地摔到了崖下，浑身骨碎，痛楚无比，眼前一黑……\n　　然后她重新出现在崖上，还是站在那棵树下，仿佛什么都没有发生过。\n　　桑桑的神情有些惘然，总觉得哪里不对劲。\n　　如果这局棋，真如她推导的那般在进行，那么她的选择应该是正确的，可为什么自己没有办法死去？没有办法在",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，瘦弱的身体剧烈颤抖，显得非常痛苦，甚至让人能够感受到她在睡梦里的恐惧。\n　　宁缺的心情一直处于极度紧张中，早已到了忍耐的上限，此时看着桑桑有异状，他想也未想，拔出身后的朴刀，向着棋盘猛地砍了下去！\n　　歧山大师说这是佛祖留下的棋盘，那么必然非常珍贵。\n　　但在这种时刻，莫说是佛祖留下的棋盘，就算是",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "缺松了一口气。\n　　然后桑桑再次皱眉。\n　　她再次平静。\n　　如是重复数次。\n　　忽然间，桑桑的脸色骤然变得极为苍白，眉尖紧紧地皱在一起，瘦弱的身体剧烈颤抖，显得非常痛苦，甚至让人能够感受到她在睡梦里的恐惧。\n　　宁缺的心情一直处于极度紧张中，早已到了忍耐的上限，此时看着桑桑有异状，他想也未想，拔出",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "多次，她还活着，甚至没有长大，这个世界与真实世界的时间流逝速度明显不同，应该与烂柯寺的传说刚好相反，同时证明作用在她身上的时间规则，依然是棋盘外的世界。\n　　棋盘世界的物理规则与真实世界的时间规则，同时作用在她身上，那么她便是两个世界规则的联结处，她本人也就是矛盾之所以。\n　　那么如果她在这个世界上",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "棋盘安然无事。\n　　桑桑没有醒来。\n　　宁缺却握着刀……睡着了。\n　　歧山大师的脸色愈发憔悴，叹息说道：“真是一对痴儿。”\n　　……\n　　……\n　　毁灭之前的世界一片混乱，幸存下来的人类终于感受到了死亡的恐惧，驾着自家马车或是抢了别人的马车，开始逃亡。\n　　他们不知道要逃到哪里去，才能避开从天上落",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

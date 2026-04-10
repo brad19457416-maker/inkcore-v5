@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 647,
+  "chapter_title": "第二十八章 泥塘里",
+  "filename": "ch_0647_第二十八章 泥塘里.txt",
+  "char_count": 3316,
+  "timestamp": "2026-04-10T12:11:26.810100",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "些黑鸦没有任何办法，只当自已看不到，黑色乌鸦的胆子越来越大，此时甚至有两只落到了车厢上。\n　　沼泽很危险，雾气终年不散，非常容易迷路，覆着浅水草藓的稀泥里，不知隐藏着多少噬人的暗潭，即便是宁缺没有十足的信心走出去。\n　　黑色马车停在沼泽边上，暂时休息整理，宁缺做了些简单而富含热量的食物，和桑桑大黑马",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，哪里会相信光明神座亲自挑选的传人会是冥王之女？\n　　人们坚信桑桑是光明之女，坚信自烂柯寺之后的满世风雨，只不过是西陵掌教及道门其余势力勾结佛宗打压光明神殿的阴谋，是极肮脏阴秽的事情。\n　　既然如此，他们怎么可能眼睁睁任由光明之女被囚或者被杀，只不过实力相对较弱，于是只好隐忍多时，然后骤然发力，挟着",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "山，便是没有人的地方。\n　　世上人烟最稀的地方，自然便是荒原。\n　　从烂柯寺经由佛祖留下的空间通道，来到极西荒原，再然后入月轮，宁缺思考过东面的葱岭线路，以及如今的线路，却从来没有想过往南方走。\n　　因为月轮国南方一直显得太安静。\n　　佛道两宗的强者，始终停留在月轮东境与北境，与大河国及南晋隔着原始",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "桃山上，光明神殿显得非常特殊。\n　　已经长达十余年时间没有主人，依然拥有强大的隐藏实力，光明神殿里的人们，还拥有世人及别的神殿神官们难以想像的坚定信仰。\n　　这与光明神殿的性质有关，又与道门的历史有关。无数年来，光明大神官似乎永远是道门里最特殊的那一个，到卫光明时更是如此。\n　　光明神殿的信条便是光",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "里的人们来说，是难以承受的羞辱，加上这些年西陵掌教和其余两座神殿不遗余力地打压弱化光明神殿，更让他们愤怒到了极点，哪里会相信光明神座亲自挑选的传人会是冥王之女？\n　　人们坚信桑桑是光明之女，坚信自烂柯寺之后的满世风雨，只不过是西陵掌教及道门其余势力勾结佛宗打压光明神殿的阴谋，是极肮脏阴秽的事情。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "不惜杀人灭门，无所不用其极，而他在无名山上和师傅同归于尽的时候，已经流露出看穿你真实身份的意思，那他为什么没有说出来？”\n　　在烂柯寺里，桑桑的身世被揭露开，其中自有很多证据，而事后他与桑桑提及此事时，桑桑向他说了当年在长安郊外那座山上的故事，两相印照，自然可以看出，卫光明死之前其实便已经知道了桑桑",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "但那些强者是可以想像的强大，而安静的南方，他不知道是剑圣柳白的剑还是西教掌教大人在等着自已，如果观主出现怎么办？\n　　黑色马车继续向着荒原深处前进。\n　　没有过多少日子，一片被雾瘴笼罩的沼泽地，出现在马车之前，此时天光暗淡，所以雾中的沼泽显得格外幽静阴森，宁缺知道，如果视野好时，能看到这片沼泽向着南",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "既然如此，他们怎么可能眼睁睁任由光明之女被囚或者被杀，只不过实力相对较弱，于是只好隐忍多时，然后骤然发力，挟着海雨天风自人间各处而来，然不断地牺牲、不断地死去，用自已的生命和灵魂，极为惨烈或者更应该称悲壮地，护送着那辆黑色马车穿越佛道两宗的拦截，成功地进入了荒原。\n　　宁缺没有信仰，所以他很难理",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "问道。\n　　宁缺点点头说道：“沼泽里雾气太重，没有看到牧民们以前说的那些碎石小道，车厢有符阵，我倒不担心，就担心大黑会不会陷进去。”\n　　听到在说自已，大黑马轻嘶两声。\n　　桑桑拿着大黑伞走了下来，宁缺猜到她要做什么，不赞同地摇摇头，说道：“我说过黑伞尽量别用，而且你现在的身体这么弱。”\n　　“在朝",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "强大的信仰，更是令他无法理解，生出极大震撼。\n　　黑色马车行走在荒原上。\n　　他看着窗外的黑土融冰，说道：“我全家还有小黑子全村，都等于死在你老师手中，但我不得不承认，你那老师是个很了不起的人物。”\n　　“千年之前那位光明大神官开创明宗，千年之后你这位光明之女变成冥王之女，在这中间的整整一千年里，你",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "柯寺经由佛祖留下的空间通道，来到极西荒原，再然后入月轮，宁缺思考过东面的葱岭线路，以及如今的线路，却从来没有想过往南方走。\n　　因为月轮国南方一直显得太安静。\n　　佛道两宗的强者，始终停留在月轮东境与北境，与大河国及南晋隔着原始森林相接的南境，却没有布置任何人手。\n　　这种安静显得很诡异，在宁缺看来",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "轮，宁缺思考过东面的葱岭线路，以及如今的线路，却从来没有想过往南方走。\n　　因为月轮国南方一直显得太安静。\n　　佛道两宗的强者，始终停留在月轮东境与北境，与大河国及南晋隔着原始森林相接的南境，却没有布置任何人手。\n　　这种安静显得很诡异，在宁缺看来，很可怕。\n　　所以他坚定地选择向东向北，就是不向南",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

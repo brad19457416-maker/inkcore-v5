@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 724,
+  "chapter_title": "第八十七章 费城故事（五）",
+  "filename": "ch_0724_第八十七章 费城故事（五）.txt",
+  "char_count": 2310,
+  "timestamp": "2026-04-10T12:05:17.578013",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "女儿，也就是那位帝国皇后，也是普通人，所以她也死了\n\n    “当时还是个小婴儿的木子，也正处于战火危险境地之中\n\n    “联邦前线部队，自认为已经控制大局，将最重要的一批战略物资，运抵该边陲星球\n\n    “就在这个时候，也许是为了替那位帝国皇后报仇，也许是为了趁乱救出木子，总之，他要做些什么。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "“还是那句话，若早知事态如此展，当初我早应该亲手杀了他\n\n    “后来究竟生了什么？大叔为什么变成了头号通辑犯？而且是机修师封余的身份？”\n\n    老爷子挥挥手，示意他继续擦背的工作，低声说道：“后面依然是一个很俗套的故事，这个故事很俗套的与一个女人有关。”\n\n    许乐将手中湿答答",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "一十一人。”\n\n    “至于丧失战斗力的士兵，更是不计其数。”\n\n    “郜夫人命令晶矿联合体尽全力筹备的七十四吨晶矿，在这场爆炸中全部毁灭\n\n    “联邦部队被迫撤回\n\n    “筹备了整整八年的战争，就此终结\n\n    “官方报道中说帝国无数士兵拿到了这个叛国贼提供的兵力布署，倾巢而出，所",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "。\n\n    无数蒙着一层血色的画面在许乐的眼前快掠过，纵身处微烫的温泉水池之中，依旧浑身寒冷，开始颤抖起来www.xiＡoshuotxＴ.cＯＭ",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "讨论芯片和狗链之间的关系，第一宪章多达七十万字的限制条款，也不想提联邦监控网络对于一个星际政权的实际意义 “这个可以提一提。”许乐蹙着眉头说道：“小的时候我曾经思考过这个问题，但没有答案。”\n\n    “你去过帝国李匹夫看着他的眼睛，说道：“一个星域辽阔，信息交流和武力传递度有层级差异的太空政权，想",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "延的逻辑关系，可李匹夫老爷子将大叔对抗宪章光辉一事指向经年仇怨，而与自由无，关，依然令许乐感到非常不愉快。\n\n    颈后那片能够令他自在周游联邦各地的伪装芯片，已经伴随了他很长的岁月，对他来说，这块芯片和大叔教的方法等同于自由二字，哪怕后来与联邦中央电脑有了那样诡异的类友谊关系，依然如此。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "李匹夫的语调越来越冷漠。\n\n    听着这些话，许乐的直眉越来越挑，说道：“女人死了，女儿马上就要死，谁都会疯\n\n    李匹夫冷冷看了他一眼，说道：“那一场物资储备基地大爆炸，联邦最精锐的机械化部队，在这场爆炸中牺牲了七万六千三百一十一人。\n\n    “最后的官方报道，只承认了一万余人牺",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "七十万字的限制条款，也不想提联邦监控网络对于一个星际政权的实际意义 “这个可以提一提。”许乐蹙着眉头说道：“小的时候我曾经思考过这个问题，但没有答案。”\n\n    “你去过帝国李匹夫看着他的眼睛，说道：“一个星域辽阔，信息交流和武力传递度有层级差异的太空政权，想要维系下去，如果没有全方位的电子监控网",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "烈起伏，震的微乳温泉水一阵荡漾，“我想说的是那个男人的态度，一个拥有越国家机器管制能力的人，试图突破社会最底层的保障体系，他所追求的是无管制的自由”可怕的是，他拥有这种能力，那么谁会知道他会做些什么？”\n\n    “这依然是把推论放在大叔是个坏人的基础上许乐摇着头。\n\n    “人类诞生之始，没有善",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "安的复仇计刮 他居然都没有心情贯彻始终，而是不负责任地玩几年便扔掉。”\n\n    “他在联邦里扮演了无数角色，结识了无数朋友，但他可曾在乎哪个？可有再联系哪位？郜家上代那位温和忠厚的男子，因为他的事情郁郁而终时，他可有回引看过他一眼？”\n\n    “这样的人若还不是薄情冷酷，谁还配这四个字？”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "许乐沉默。\n\n    “这个。问题不要继续老爷子咳了两声，干瘦的胸膛剧烈起伏，震的微乳温泉水一阵荡漾，“我想说的是那个男人的态度，一个拥有越国家机器管制能力的人，试图突破社会最底层的保障体系，他所追求的是无管制的自由”可怕的是，他拥有这种能力，那么谁会知道他会做些什么？”\n\n    “这依",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

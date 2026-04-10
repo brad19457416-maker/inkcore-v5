@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 138,
+  "chapter_title": "第七十七章 二十七杯酒",
+  "filename": "ch_0138_第七十七章 二十七杯酒.txt",
+  "char_count": 3331,
+  "timestamp": "2026-04-10T11:53:35.152537",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "乐的心里本就有些着急，只不过因为他自己的脑子里面出了大问题，加上前一段时间，施清海为了执行政府的什么秘密任务。也曾经离奇失踪过好几十天，所以许乐并没有太过担心。\n\n    此时他终于开始担心起来，施清海用地是全新的号码，并且用的是二十七杯酒的代称，这个世界上，除了自己和对方之外，大概没有谁能够明白二",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "自己无法掌控的时候，他地心情复杂之余，更忍不住叹息起来。他看着手中已经被挂断了的电话，自嘲地笑了笑，心想正是因为那家伙不止一次救了自己，所以自己更要阻止对方不明智地举动。\n\n    “让医院的人加强控制，不要让许乐偷偷溜回临海。”邰之源对身旁的靳管家平静交待道：“已经开始调查张小萌，而施清海更已经成",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "少爷的身旁有一位学生朋友，最令他们惊叹的是，这位学生在那次暗杀事件中，所表现出来的，比特种军人更加强大地战斗能力。\n\n    “那就不上措施了，只是让人二十四小时跟着，用肉墙把他堵在医院里。 www。xiaoshuotxt。com",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "员服务，张小萌也应该不会有什么问题啊？\n\n    许乐躺在病床上，双眼微眯，思考了很久，放弃了给那个陌生号码拔回去的想法。这事情里透着蹊跷。他要更小心一些。手指摁在手机的数字二上面，也没有摁下去。最终他还是摁下了一。\n\n    “有些事情，我想请你帮个忙。”\n\n    “什么事情？”电话那头邰之源的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "代称，这个世界上，除了自己和对方之外，大概没有谁能够明白二十七杯酒代指的究竟是谁。更令许乐感到惘然与紧张的是，施公子让他小心张小萌……这又是为什么？\n\n    张小萌一直暗中替**方面那位麦德林议员服务，在去年最后一天的铁塔上。她就已经严重违反纪律，告诉了许乐。许乐暗自想到。施公子毕竟是政府联邦调查",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的身旁有一位学生朋友，最令他们惊叹的是，这位学生在那次暗杀事件中，所表现出来的，比特种军人更加强大地战斗能力。\n\n    “那就不上措施了，只是让人二十四小时跟着，用肉墙把他堵在医院里。 www。xiaoshuotxt。com",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "拙朴的语言，讲述了一个雨中独饮的年轻人，看着窗外的景致，心思渐飞入山河大川之中，历经数世数地之想像，最终神归己体，忆及逝世去亲人，独潸然而泪下……\n\n    这首简单而动人的诗辞，最初的作者早已不可考证，而且在如今科技文明高度发达的今天，也没有多少人还会将这首小辞记在心中。\n\n    许乐在东林大区",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "调，斥道：“你能不能冷静一些？成熟一些！”\n\n    电话这头的许乐沉默了很久。声音没有变大，更没有愤怒。只是平静说道：“施清海是我的朋友，你也是。在朋友出事的时候，我没办法太过冷静或成熟。如果在体育馆里，我再冷静成熟一些……你已经死了。”\n\n    关于朋友的概念有很多种，但在许乐的脑子里，当对方",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，眯着眼睛，感到了一丝不怎么好的征兆。\n\n    “我知道施清海是你地朋友。”邰之源拿着电话，平静地说道：“关于他的消息，我前些天就知道了，本想着当时就告诉你，但是你现在身体的状况太差，所以就没说。”\n\n    许乐的眯着的眼睛里闪过一道疑惑，问道：“他身上发生了什么事？”\n\n    “联邦调查局正",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "若心悸的你我躲在叶下看秋雨渐衰。二十七杯酒，弹几点泪，轻轻放下酒杯。\n\n    这首古老的歌摇，一直存在于联邦国民小学的公用教材之上，是所有联邦公民大概都曾经学习过的诗辞。这首诗用平常简单甚至有些拙朴的语言，讲述了一个雨中独饮的年轻人，看着窗外的景致，心思渐飞入山河大川之中，历经数世数地之想像，最终",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "事。”\n\n    “我可以帮你查，究竟发生了什么。”邰之源没有把所有的实情告诉许乐，因为他知道许乐的性格，如果许乐知晓施清海是因为他的缘故。被联邦政府调查，最终被通缉，只怕许乐会回去地更坚决。\n\n    “但是你冷静一些，你只不过是个学生，你就算马上回到了临海。又能有什么用？”邰之源皱着眉头说服他：",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "终于大哭失声，任涕泪纵横于……许乐地衣襟之上。\n\n    所以看到短信，看到二十七杯酒这五个字，许乐马上明白，这条短信是施清海发的。已经快一个月没能联络到施清海这家伙，许乐的心里本就有些着急，只不过因为他自己的脑子里面出了大问题，加上前一段时间，施清海为了执行政府的什么秘密任务。也曾经离奇失踪过好几",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "问题，加上前一段时间，施清海为了执行政府的什么秘密任务。也曾经离奇失踪过好几十天，所以许乐并没有太过担心。\n\n    此时他终于开始担心起来，施清海用地是全新的号码，并且用的是二十七杯酒的代称，这个世界上，除了自己和对方之外，大概没有谁能够明白二十七杯酒代指的究竟是谁。更令许乐感到惘然与紧张的是，施",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "正的朋友。很刻意地让自己与许乐的谈话相处。都像普通联邦公民一样自然。但他毕竟不是一个普通人，而是这个社会里最顶尖的那个阶层。邰之源的掌控**天然强烈。偶尔的言谈举止中，总会流露出些许上位者的姿态，而这正是许乐所不习惯的。\n\n    当他发现许乐是自己无法掌控的时候，他地心情复杂之余，更忍不住叹息起来",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "酒，临渊而窥，山崖还给年岁。十三杯酒，蜗牛有角，彼世界如此世界一般疲惫。十四杯酒，迷眼渐累，火堆旁的人们渐要沉睡……\n\n    二十五杯酒，想起父亲，窗外的雨点坠了下来。二十六杯酒，乌蝇不飞，若心悸的你我躲在叶下看秋雨渐衰。二十七杯酒，弹几点泪，轻轻放下酒杯。\n\n    这首古老的歌摇，一直存在于联",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "乐。\n\n    最近一次许乐听到二十七杯酒，那是在临海州的那间酒吧。酒量极为惊人地施清海。在那个雨夜安静的酒吧中，这位流氓官员连喝了二**杯烈酒之后，终于醉了。他用筷子敲打着酒瓶，伴着当当当的节奏，舒缓而又极为动情地唱了一遍这首歌。\n\n    歌声并不怎么好听。不过被烟酒折磨的有些沙哑的嗓音，和这些",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

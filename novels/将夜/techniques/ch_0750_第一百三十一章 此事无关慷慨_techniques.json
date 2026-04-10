@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 750,
+  "chapter_title": "第一百三十一章 此事无关慷慨",
+  "filename": "ch_0750_第一百三十一章 此事无关慷慨.txt",
+  "char_count": 3527,
+  "timestamp": "2026-04-10T12:11:27.057514",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "红衣神官喜悦说道：“说明那人也会累，他撑不了多久。”\n　　程立雪身体有些僵硬，想要说些什么，却最终什么都没有说，只是挥挥手让那名红衣神官离开，脸上现出一丝苦涩的笑容。\n　　只要是人那便会累，二先生也是人。\n　　但那个男人只是把铁剑换到了左手，便让己方兴奋成如此模样，可以想象他站在青峡之前，给神",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "由来打扰她的静思。\n　　片刻后，神殿联军阵营里忽然再次暴发巨浪般的欢呼。\n　　裁决神殿的下属终于难以压抑情绪。一名黑衣执事走上神辇，跪在幔纱之外，恭谨禀报道：“宋国崔道人的飞剑，刺中了对方。”\n　　听着这句话，叶红鱼脸上的情绪终于有了些变化，因为她知道崔神官是谁，即便是她，对崔道人的出手也寄予了一些",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "剑，所有人只想哭。\n　　有些人想哭也哭不出来，心惊胆寒。\n　　修行者们，在这柄铁剑之前，再也无法鼓起战斗的勇气，终于退去。\n　　青峡前重新变得安静。\n　　地面上的血水已然积成水洼，反照着阴暗的天空，显得有些发乌。\n　　书院诸人从篷下冲了出来。\n　　王持左手拎着一个凳子，右手紧紧攥着药囊，冲到二师兄身",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "为他很紧张。\n　　一名红衣神官来到神辇畔，喘息说道：“还没有。”\n　　程立雪神情微变，问道：“那为何众人会欢呼？”\n　　那名红衣神官兴奋说道：“他换手了！他现在是用左手执剑！”\n　　程立雪微微皱眉，不解问道：“那又如何？”\n　　红衣神官喜悦说道：“说明那人也会累，他撑不了多久。”\n　　程立雪身体有些",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "无法鼓起战斗的勇气，终于退去。\n　　青峡前重新变得安静。\n　　地面上的血水已然积成水洼，反照着阴暗的天空，显得有些发乌。\n　　书院诸人从篷下冲了出来。\n　　王持左手拎着一个凳子，右手紧紧攥着药囊，冲到二师兄身后让他坐下，把药囊凑到他嘴边，用最快的速度抽进去。\n　　七师姐提着水壶拿着水碗，看着怕是有些",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "然抬头，望向神辇外，急声问道：“赢了？”\n　　他的声音有些微微颤抖，因为他很紧张。\n　　一名红衣神官来到神辇畔，喘息说道：“还没有。”\n　　程立雪神情微变，问道：“那为何众人会欢呼？”\n　　那名红衣神官兴奋说道：“他换手了！他现在是用左手执剑！”\n　　程立雪微微皱眉，不解问道：“那又如何？”\n　　红",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "充满了惊喜与欢愉的情绪。\n　　程立雪霍然抬头，望向神辇外，急声问道：“赢了？”\n　　他的声音有些微微颤抖，因为他很紧张。\n　　一名红衣神官来到神辇畔，喘息说道：“还没有。”\n　　程立雪神情微变，问道：“那为何众人会欢呼？”\n　　那名红衣神官兴奋说道：“他换手了！他现在是用左手执剑！”\n　　程立雪微微",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "青峡之前，剑气纵横。\n　　原野南方的西陵神殿联军营中，一片死寂。\n　　天谕大神官放下幔纱，缓声说道：“我这一生，从未见过这般杀人的，当年轲先生入魔宗，大概便是这等气势。”\n　　程立雪跪坐在神辇一侧，不知该如何言语。\n　　神辇内外一片安静。\n　　不知道过了多长时间，忽然辇外响起一声惊呼，然后是海",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "：“……这是第一次有人能用剑刺中那人，这说明那个人还是能被刺中的。”\n　　“虽然愚蠢，但愚蠢的也有些道理。”\n　　叶红鱼的目光透过幔纱，望向远方青峡处，美丽的容颜上没有任何情绪，一片漠然，说道：“看来差不多了。”\n　　几乎同时。\n　　在另一座神辇里，天谕大神官伸出手指，抚摸着身前的教典，苍老的容颜上",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "迈，不可慷慨，不可潇洒，只能冷淡，冷漠，冷酷，只有真正做到这几点的人，才有本事杀尽所有敌人。君陌毫无疑问便是这样的一个人，我昨夜对他的点评，如今看来竟还是低估了他。”\n　　“他依然是那个最骄傲的男人，我只是没有想到，在战场上，骄傲如他竟能把自已所有的骄傲全部扔掉，或是藏进盔甲的最深处。”\n　　柳白微",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "叶红鱼微微蹙眉，说道：“那你想告诉本座什么？”\n　　黑衣执事愈发紧张，声音颤抖说道：“……这是第一次有人能用剑刺中那人，这说明那个人还是能被刺中的。”\n　　“虽然愚蠢，但愚蠢的也有些道理。”\n　　叶红鱼的目光透过幔纱，望向远方青峡处，美丽的容颜上没有任何情绪，一片漠然，说道：“看来差不多了。”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "二师兄不是寻常人，各方面都不寻常，被忙手忙脚的师弟师妹们包围，情绪竟然依然保持着镇静，以水送药，转瞬间便吞入腹中。\n　　四师兄和六师兄这时候也已经跑了过来，蹲在二师兄身前，对着盔甲胸口某处，神情凝重地在查看着什么。\n　　崔道人的本命道剑，正是刺中了这个地方。\n　　在那柄知命境界的道剑刺中盔甲时，盔",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "郡七大姓，即便死，都不能痛快地去死。”\n　　崔道人叹息一声，说道：“原来如此。”\n　　说完这句话，他缓缓坐到地面上，开始喘息，因为肺叶和气管都已经被铁剑所破，喘息再如何剧烈，也无法呼吸到空气，所以显得特别痛苦。\n　　不知道过了多长时间，他疲惫地低头，终于痛苦地死去。\n　　满天的阴云遮蔽了阳光，天地间",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "目光透过幔纱，望向远方青峡处，美丽的容颜上没有任何情绪，一片漠然，说道：“看来差不多了。”\n　　几乎同时。\n　　在另一座神辇里，天谕大神官伸出手指，抚摸着身前的教典，苍老的容颜上流露出恬静而坚定的神情，说道：“差不多了。”\n　　……\n　　……\n　　一柄锋利而华丽的道剑，此时变成了横卧原野间的数片残剑",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "四师兄在一旁做着计算与图形指导，又望向二师兄问道：“剑有没有问题？”\n　　六师兄望向二师兄，有些担心。\n　　铁剑是最重要的装备，如果被损坏，虽然书院连铁炉都带来了，可以修复，但西陵神殿方面，肯定不会给他们留这么多时间。\n　　二师兄看着手中宽直的铁剑，说道：“还能撑很久。”\n　　北宫未央和西门不惑",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

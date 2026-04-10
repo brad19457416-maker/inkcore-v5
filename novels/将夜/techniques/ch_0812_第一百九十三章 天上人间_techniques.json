@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 812,
+  "chapter_title": "第一百九十三章 天上人间",
+  "filename": "ch_0812_第一百九十三章 天上人间.txt",
+  "char_count": 3211,
+  "timestamp": "2026-04-10T12:11:27.245119",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "理，情之一物，我也要琢磨。”\n　　她抬起头来，看着宁缺说道：“那年在瓦山，我曾经想问歧山大师一句话，最终却没有问出口，当其时，我以为自已已经想明白了，然而回大河后，坐在墨池畔看水面倒影，看青天里流云，却发现所谓想明白依然只是逃避，我始终有些不甘，这便是贪心，因为红墙白雪你曾说过喜欢，我依然喜欢。”",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "如果夫子这时候有空闲喝下弟子们敬的酒，只怕会醉的一塌糊涂。\n　　很平静很温馨，仿佛一切如昨，但事实上众人都觉得，现在的书院后山少了些什么，而且缺少的那些很重要，也许是最喜欢当美食品鉴家的老师，也许是前些年一直在负责做饭的桑桑。\n　　新旧两年相交之时，世间的局势也发生了很多重大的变化，因为天气严寒的缘",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百九十三章 天上人间\n　　吃了羊杂汤，接着宵夜，酒却喝的不多，宁缺走出朝宅，被寒风微拂，便没了酒意，又觉着有些不尽性，或者说烦闷。\n　　马车去了礼宾馆，他让车夫离开，自已扶着拐，在雪中深一脚浅一脚地走进园中，透过雪窗，看到莫山山正在提笔写字。\n　　烛火如当年，女子的眉眼还是那般秀",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "白，南晋人更想不明白，尤其是因为丧子始终沉浸在极端悲痛中的南晋皇帝陛下，更是不可能想明白，所以他非常愤怒。\n　　然后他便气死了。\n　　新年之后，南晋皇帝的死讯传遍天下。\n　　按照南晋朝廷的官方说法，这位伟大的南晋皇帝是因为操劳国事过甚，连续批阅奏章，三天两夜未眠，突发疾病而亡。\n　　大唐天枢处在南方",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "们确实没有什么意思。\n　　真正最令人震惊的变化，发生在青峡处，号称数十万之众的西陵神殿联军，不知道因为什么缘故，竟开始收兵南撤，不再试图打通青峡，也没有绕道北伐的意图，而是撤回了清河郡，沉默地等待着什么。\n　　大唐镇南军千里奔援青峡，一路丢弃了无数辎重，甚至大部分士兵连盔甲皮甲都扔进了深山里，疲惫不",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "世间的局势也发生了很多重大的变化，因为天气严寒的缘故，金帐王庭的骑兵终止了疯狂的进攻势头，与唐军暂时进入了休战状态。金帐王庭以七城寨的开平为大营，唐军则是坚守在向晚原一带，寸步不退。\n　　月轮国的国主以及大军的主帅等重要人物，都死在大师兄手中，大军主力在葱岭前被大唐西军歼灭，西军趁势突破葱岭，直袭朝",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "军送来粮草清水还有染红的鸡蛋，最开始坚决反对撤军的西军将领们，在看到这一幕幕画面后，终于确认这个常年温暖的国度实在是不能以常理论，征服他们确实没有什么意思。\n　　真正最令人震惊的变化，发生在青峡处，号称数十万之众的西陵神殿联军，不知道因为什么缘故，竟开始收兵南撤，不再试图打通青峡，也没有绕道北伐的意",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的事情说了一遍，至于最后交待陈七的那些阴秽事，自然没有提，感慨说道：“五年前送李渔回长安，在北山道口第一次看见华山岳，当时我就不喜欢这个人，现在依然不喜欢，但我怎么也想不到，他居然舍了命也要救李渔，情之一物，着实令人猜不透。”\n　　“情之一物……”\n　　莫山山轻转酒杯，静静看着宁缺说道：“本就是极难",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "夜来找我？”\n　　宁缺沉默片刻，把今夜发生的事情说了一遍，至于最后交待陈七的那些阴秽事，自然没有提，感慨说道：“五年前送李渔回长安，在北山道口第一次看见华山岳，当时我就不喜欢这个人，现在依然不喜欢，但我怎么也想不到，他居然舍了命也要救李渔，情之一物，着实令人猜不透。”\n　　“情之一物……”\n　　莫山",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "惫不堪、完全靠意志力在苦撑，因为西陵神殿联军的南撤，他们终于迎来了珍贵的喘息机会，只是幸福降临的如此突然，无论是镇南军的将领们还是长安城，都不明白究竟发生了什么事情。\n　　最强大的神殿联军，在这场举世伐唐之战里，等于什么事情都没有做，或者更准确来说，没有起到任何作用，便这样退了回去，这究竟是为什么？",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "却不知该说些什么。\n　　宁缺此时想饮酒，想和莫山山饮酒，进得闺舍才发现此时已是深夜，不知如何开口，便说道：“天猫女那丫头现在怎么样？”\n　　“说了门亲事……”莫山山准备给他斟茶，看着他的神情，忍不住微微一笑，说道：“我这时候有些想饮酒，你陪不陪？”\n　　几碟小菜，两碗青菜粥，一壶大河国老酒，二人对饮",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "相比，没有什么太大的区别，但在有心人的眼中，这位皇帝陛下的死亡却是件非常重要的事情，因为这代表着人间权力结构的根本性改变。\n　　修行者并没有足够的力量，能够影响世俗的皇权，这场举世伐唐战争里的很多细节，早已证明了这一点，无论是燕国的修行者，还是唐军里的阵师剑师，或者是金帐王庭里的祭司，在千骑冲锋和满",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "心，以前或者有可能，现在大概没可能，我也不会因此而感到伤心，因为这大概便是天意。”\n　　她斟了杯酒，缓缓推到宁缺身前。\n　　然后她望向雪窗外的夜穹，微笑说道：“谁让她就是天。”\n　　宁缺看着她那令人心颤的美丽容颜，饮尽杯中酒，以为敬。\n　　……\n　　……\n　　长安城越来越寒冷，冬天变得越来越冷酷，日",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

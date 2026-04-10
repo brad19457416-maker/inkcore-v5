@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 509,
+  "chapter_title": "第一百五十一章 军旗沉睡或飘扬(让我再中)",
+  "filename": "ch_0509_第一百五十一章 军旗沉睡或飘扬(让我再中).txt",
+  "char_count": 3423,
+  "timestamp": "2026-04-10T12:05:08.528352",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "海战术。\n\n    在横亘星球南北的落矶山脉两侧，帝国远征军不计代价地派出了无数支小型队伍，洒向那些危险的森林，河流，平原，就像是赌命一样，他们希望能够赌赢一次。\n\n    在这些过程中，大部分的帝国分队或是枯守十余日夜，憔悴不堪中等到了给养枯蝎，或是被联邦军队安现，集中优势兵力攻击至死。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "白玉兰快速的补充：“左右十五度！”\n\n    ……\n\n    ……\n\n    河滩这侧的树林里，猛然爆发出突突的声音，一蓬艳丽的火苗如骤射的星辰，撕裂了这方的空气，带着焦灼与死亡的味道，轰向了对岸的树林。\n\n    达林机炮终于发威，河滩对面的林间左右五十米的区间内，无数树木咯喇碎裂，缓缓倒下，那些",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "……\n\n    ……\n\n    沉寂了半分钟的帝国移动山的平射榴弹，开始再次轰击，河滩这岸的大地开始颤抖，巨大的响声快要掩盖住通话系统里的指挥声，圆石黄沙上有断肢横飞，山林里不时响起爆炸，烈日下的枯干树叶开始蓬勃燃烧。\n\n    林间偶尔还会响起七组队员的惨呼，反击的枪声一直响着。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "他的声音依然平静，只是比平时的语速快了很多“”组。\n\n    在帝国人突如其来的狂暴火力面前，七组被瞬间打懵，但老兵和已经经受过锻炼的新兵们，做出了最专业的反应，在最短的时间内，寻觅到可靠或不可靠的掩地，一面进行躲避，一面开始进行还击，只是此时的河滩边……已经倒下了好几名队员。\n\n    恐怖的枪声",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "……\n\n    ……\n\n    沉寂了半分钟的帝国移动山的平射榴弹，开始再次轰击，河滩这岸的大地开始颤抖，巨大的响声快要掩盖住通话系统里的指挥声，圆石黄沙上有断肢横飞，山林里不时响起爆炸，烈日下的枯干树叶开始蓬勃燃烧。\n\n    林间偶尔还会响起七组队员的惨呼，反击的枪声一直响着。\n\n    一支帝",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "宴轻机的后槽盖，几乎同时，握着枪把的左手一抖，卡宴从中弯折，枪管瞄准了大石方后，河滩上的景象通过光纤出现在头盔光屏之中。\n\n    突突突！大石旁的卡宴喷吐火苗，向着河滩对面射去，然而片刻后，他的右手猛震，紧握着的半金属枪械被帝国人的射击打的崩了起来。\n\n    身后的大石头也在不停震动，震的他后背",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "还击的战友们分心。\n\n    许乐的脸色也很苍白，眼瞳却很亮，越来越亮，因为他发现自己和自己的队伍都进入了绝境之中，远处林间有人影晃动，应该是帝国人的士兵从下游通过了河滩，准备包抄自己这些人的后路。\n\n    满是烟尘的脸上闪过一丝厉色，他狠狠地扯掉卡宴机枪后端连接的数据线，咯嗒一声机械上膛，对着那",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "火力被这猛烈的射击瞬间压制，不知道多少帝国士兵就在这一轮射击中肢离破碎化为血肉，仅仅是那些倒下绽开的沉重树木，都压死了十几名帝国人。\n\n    熊临泉趴在林间的一棵横木之后。虎目圆瞪，整个的身体都随着达林旋转机炮的震动而震颤，但他强悍的臂力与射击本领，让达林喷出的六道火线，竟是没有偏移许乐、白玉兰二",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "轰向了对岸的树林。\n\n    达林机炮终于发威，河滩对面的林间左右五十米的区间内，无数树木咯喇碎裂，缓缓倒下，那些凶猛的弹着点轰然炸开，就像是一个个白色的烟团，而这些烟团从左至右扫过，连成了一条笔直的白线。\n\n    对岸的火力被这猛烈的射击瞬间压制，不知道多少帝国士兵就在这一轮射击中肢离破碎化为血",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "自在，实际上他的身体早已经紧绷起来。\n\n    紧接着，他将左腕间的黑色线插进卡宴轻机的后槽盖，几乎同时，握着枪把的左手一抖，卡宴从中弯折，枪管瞄准了大石方后，河滩上的景象通过光纤出现在头盔光屏之中。\n\n    突突突！大石旁的卡宴喷吐火苗，向着河滩对面射去，然而片刻后，他的右手猛震，紧握着的半金属",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第一百五十一章 军旗沉睡或飘扬(让我再中) \n\n    满天枪炮，不知道有多少子弹击中了大石，溅起无数锋利的碎片，像花朵一样四处散开。\n\n    许乐抱着枪靠在石头上，双眼看着斜上方的树林，看似无视距离身体极近的呼啸子弹，透着乘小舟悠游巨浪间的自在，实际上他的身体早已经紧绷起来。\n\n    紧接着",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，震的他后背有些麻，可以想见帝国人的火力覆盖有多猛。\n\n    烟雾与凄厉的弹雨声中，他对着通话系统大声说了几句什么，眼角余光却忍不住又瞄了一眼石旁不远处的那具血肉模糊的身体，那名官员已经死了，他还不知道他的姓名。此时只能看清楚那一头卷发糊在血中。\n\n    许乐快速地做出了自己的判断，这不可能是帝",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

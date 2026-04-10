@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 272,
+  "chapter_title": "第二百零八章 麦德林议员（下）",
+  "filename": "ch_0272_第二百零八章 麦德林议员（下）.txt",
+  "char_count": 3383,
+  "timestamp": "2026-04-10T12:04:51.156066",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "然而事态的发展却出乎了他的预料。\n\n    麦德林议员被司法部请去调查的当天，首都星圈无数城市里便爆发了游行示威，永远没有可能完全了解政治黑幕的联邦普通公民们，按照惯常的想法，将麦德林议员受指控一案，也当成了联邦无数黑幕中的一种。民众的想法很朴素，很简单，来自Ｓ２环山四州的麦德林在联邦的政治体系中",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "种**裸的政治迫害发生在三十七宪历的今天，实在是令人难以想像，难以忍受。\n\n    联邦社会开始有了冲突的前兆小说^t*xt-天.堂",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "两点了。\n\n    ……\n\n    ……\n\n    深夜的议会山不像往日那般庄重安宁，充满了呼喊着的人群。在远处宪章广场那座巨大雕像的冷漠注视下，麦德林议员的支持者们，手里拿着乔治卡林的画像和麦德林议员的画像，在拼命地怒吼着，辱骂着，向拦在自己面前的防暴警察比着中指的姿式。\n\n    议会山下方按照",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "几丝敬佩地感觉。\n\n    没有过多久。司法部官员便从议会山里走了出来。在人群地正中间。穿着一身灰色风衣地麦德林议员神色如常。看上去并不显得如何颓废。\n\n    闪光灯顿时照亮了半片夜空。议会山大厦圆柱上地雕像在这些人工光明地照耀下。显得栩栩如生。格外狰狞。\n\n    麦德林议员被押送着往石阶下走去",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "沈老教授曾经说过，宇宙里没有道理这回事儿。而最近半年联邦里接连发生的大事，却似乎说明道理这种东西还存在着，至少存在于某些人的心中。因为这个认知，因为封余大叔还活着的消息，似乎被很多人遗忘了的许乐，很乐于当一个观看戏剧的观众，看着杀人放火者被送上法庭，修桥铺路者在地下安心。\n\n    然而事态的发展",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "满地指责联邦政府部门，在这件事情当中扮演了极不光彩的角色，并且声明不排除在适当的时刻，揭露一些丑陋的真相，要求司法部马上释放麦德林议员，并且进行诚恳的道歉，同时宣布竞选办公室已经向法院递交了函件，控告首都特区日报以及某家私营电视台涉嫌散布不实信息危害公共安全罪，诽谤罪，新闻从业人员收受贿赂罪……",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "在这一次联邦管理委员会紧急会议上，司法部长和来自第一军事学院的**检查官分别做了详细的阐述，同时表明了事态的严重议。一番无比激烈的辩论甚至是咒骂之后，议会最终以差距极小的投票结果，暂时剥夺了麦德林议员的司法辖免权。\n\n    因为麦德林议员如今还是总统大选的候选人，所以还需要联邦法院的最高法",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "一个巅峰，无数的支持者在唤喊着这位老人的名字，泣不成声地痛骂着政府的无耻，而那边人数较少的队伍，则是愤怒地喊着凶手，婴儿杀手，伪君子之类的名词。\n\n    没有任何表情从麦德林议员的脸上泄露出来，他的脚步依然稳定，他的面容苍老之中依然平静自信，他向着支持自己的民众挥了挥手，表示谢意。\n\n    “麦",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "和徐松子带着十几名司法部官员，向议会山里走去，这些天他们已经来到这座联邦最高立法机构很多次了，最初的紧张亢奋早已经变成了平静和获得线索之后的喜悦，只是很明显，今天来示威的民众比往常要多很多，两旁的闪光灯也显得特别耀眼，大概是消息走漏了出去。\n\n    草坪旁地街道上。一辆黑色地汽车安静地停在那里。许",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "部门，在这件事情当中扮演了极不光彩的角色，并且声明不排除在适当的时刻，揭露一些丑陋的真相，要求司法部马上释放麦德林议员，并且进行诚恳的道歉，同时宣布竞选办公室已经向法院递交了函件，控告首都特区日报以及某家私营电视台涉嫌散布不实信息危害公共安全罪，诽谤罪，新闻从业人员收受贿赂罪……\n\n    做为控制",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "愤怒的民众开始向伍德扔纸团，吐口水，场面一片混乱，几辆特制的公务用车，在防暴警察们的保护下，缓缓地驶离了议会山。\n\n    许乐关掉了远程监控光屏，沉默地吸完了最后一口烟，想到先前那些群众和那些愤怒的青年们，想到就连邹应星最开始的时候，都不相信麦德林会做出如此无耻的事情来，他忽然间明白了自己",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "所以他这些天干脆也没有去白水公司上班。而是天天来到议会山。能够在第一时间看到麦德林被绳之于法。是他最盼望地事情。\n\n    当发现司法部调查小组成员里。居然有萧文静和徐松子时。他不禁有些吃惊。旋即心里又生出了几丝敬佩地感觉。\n\n    没有过多久。司法部官员便从议会山里走了出来。在人群地正中间。穿着",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "过很多次手铐，但每次我都证明了我\n\n    ，安全地回来。”议会山上变得安静了些许，麦德t举着双手，说道：“然而今天却证明了，这个联邦仍然处处充满着无形的手铐。”\n\n    “我不希望联邦会因为这件事情而陷入某种割裂情绪之中。”麦德林议员向着记者，向着支持自己的民众们大声说道：“回去吧，至少历史将会",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "呐喊，认为这种**裸的政治迫害发生在三十七宪历的今天，实在是令人难以想像，难以忍受。\n\n    联邦社会开始有了冲突的前兆小说^t*xt-天.堂",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，也凝住她脸上的血……\n\n    萧文静和徐松子带着十几名司法部官员，向议会山里走去，这些天他们已经来到这座联邦最高立法机构很多次了，最初的紧张亢奋早已经变成了平静和获得线索之后的喜悦，只是很明显，今天来示威的民众比往常要多很多，两旁的闪光灯也显得特别耀眼，大概是消息走漏了出去。\n\n    草坪旁地",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

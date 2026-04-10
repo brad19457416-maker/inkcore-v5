@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1040,
+  "chapter_title": "第四十九章 一道白烟",
+  "filename": "ch_1040_第四十九章 一道白烟.txt",
+  "char_count": 5833,
+  "timestamp": "2026-04-10T12:11:34.961451",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "杀声，有兵器撞击的声音，王景略艰难地抬头望去，知道城墙上面，那些忠于长安的年轻人，正在被神殿的强者们追杀，他的拳头握的越来越紧，却无法做些什么，不由心生绝望。\n　　又有人落了下来，重重地砸在被冻硬的田野上，砸出泥土，溅出血花，紧接着有越来越多的身影落下，不停地死去。\n　　他苍白的脸上满是绝望与痛苦，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "傲得意，但此次的情况不同。\n　　今夜，金帐王庭即将整体南迁。\n　　南迁便是南侵。\n　　这意味着最后的决战即将开始，意味着将与统治世界千年的唐国你死我活，便是金帐最骄傲的勇士，也开始紧张起来。\n　　最先离开渭城南下的，是一个看上去很普通的车队，车队由十余辆大车组成，人手不多，也没有什么辎重，所以走的轻",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "座肃杀的神殿，也无法再迎回自己的主人。\n　　……\n　　……\n　　黑夜深沉，月儿被掩在厚厚的云层后方，大地上纵横交错的溪流，那些清水上的石桥、桥下耐寒的野花，都被夜色吞噬。\n　　今年很是寒冷，阳州城外的田野被冻的有些结实，便在夜深人静之时，一声闷响，有人从城头落下，重重地砸在地面，把冻实的地面砸出了数",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "开始。\n　　宁缺没能想到，他也没有想到，西陵神殿，会在这样的情况下突然出手。他们的事业，清河郡的年轻人们，遭受了难以想象的损失。\n　　但是，我会回来的。\n　　当我回来的那天，铁蹄将会踏碎这片艰难寒冷的田野，火把将会插满富春江畔的庄园，死去的年轻人的英魂，将会得到最盛大的祭奠。\n　　王景略向着漆黑的夜",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "在给座骑佩鞍，数万名精锐骑兵即将启程，场面很壮观，却听不到什么声音，除了牲畜不安的鸣叫，气氛显得有些压抑。\n　　做为大陆北方最强大的势力，在过去这些年与唐国的战争连获胜利，金帐王庭的贵族子民有足够的资格骄傲得意，但此次的情况不同。\n　　今夜，金帐王庭即将整体南迁。\n　　南迁便是南侵。\n　　这意味着最",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "这座城市是宋国的都城，在大陆上并不出名，无法和临康相提并论，更不要说长安，但这座城市，对道门来说，意义很深远。\n　　这里有大陆上最古老的道观，有最悠久的历史，这里曾经为西陵神殿奉献了很多大神官，知守观里的人们，更与这里有撕扯不开的关系。\n　　观主陈某，也是此间人。\n　　宋国，是道门的源头之一，是最",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "程里，他将和车队里的人们，一起等待着那枝铁箭的到来，等待着余帘的到来，他要折了那箭，杀了那人。\n　　为什么？因为他想这样做，他要报复那个叫宁缺的唐人，他要战胜传说中的书院，他想，既然自己这么想，那么这应该便是长生天的意志。\n　　……\n　　……\n　　宋国都城，此时尚未下雪。\n　　广场上的对峙已经持续了",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，将此间当成新教的大本营，想来也是基于这方面的考虑，他要在最险恶处前行，要在深渊里见天日。\n　　便在思忖间，远处忽然传来钟声。\n　　钟声起处，应是宋国的道殿。\n　　隆庆神情微凝。\n　　待他看见道殿处升起的白烟时，确认那个消息终于到了。\n　　肃穆的钟声，一道袅然直上云层的白烟，只代表了一件事情。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "音。\n　　王景略的眉拧的极紧，纵使黑夜深沉，也无法掩去脸上的苍白之色，无数颗汗珠从他的身体里逼出来，瞬间打湿全身。\n　　他擦去唇角震出的血水，以手为足，在地面上艰难向前爬行，待钻进一片灌木丛里，确认不会被人轻易发现，才略微松了口气。\n　　便在这时，城墙前再次响起重物坠地的声音，他拔开灌木向那处看去，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "苏动手。\n　　隆庆知道，却不在意，因为他清楚那是必然的事情，不论是今夜，还是明天清晨，她的死亡，总会来到场间。\n　　所以他还是像白天那样，非常认真地劈着柴，拣着柴枝，然后堆到院子中央，堆的很仔细，就像在做一件精致的工艺品。\n　　隔着一堵院墙，墙外千万人在对峙，他在墙这边堆柴。\n　　因为时间很充裕，他",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "上的那人，也被火把照清楚了容颜，脸上满是血，但勉强能看清楚五官――王景略的身体微震，握着树枝的手微微颤抖起来，脸色变得更加苍白，因为他识得那人，准确来说，他和那人很熟。\n　　过去这几年，王景略代表朝廷，在阳州城里暗中联络那些心怀故唐的年轻人，取得了很多进展，此时死去的那名年轻人，便是其中一人。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "很奇怪的是，那疤不再那般恐怖难看，灰暗的眼眸在美丽的容颜上显得格外迷人。\n　　听着墙外传来的颂经声，缓缓重复着，向柴堆上搁着细柴，隆庆在越来越亮的天光下重复着这些动作，然后忽然停止。\n　　“我们自己，就是道路、真理以及生命。”\n　　他抬起头来，视线越过院墙，落到东方，不知是日起处，还是别的什么建筑，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "对着神殿来袭，他们不知能撑多久，更无法离去，所以只有等待。\n　　南海少女小渔的脸色有些难看，因为她此时代表着道门的态度，然而白天最关键的时刻，道殿响起了钟声，她只能停下等待。\n　　等待？为什么要等待？难道昊天还会给予这些叛教的逆贼宽容？难道宁缺真的能说服观主放过叶苏和新教的信徒？等待什么？\n　　没有",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "长时间。\n　　他和她出身天谕院，共事于裁决司，他是二司座，她是大司座，他是西陵神子，她是绝世道痴，他从来都不如她。\n　　当他为了力量选择背叛道门，变成那只孤魂野鬼的时候，她已经坐上了那方墨玉神座――他念念不忘的墨玉神座。\n　　在叶红鱼面前，他始终是个失败者，就像在宁缺面前一样。\n　　当年他最风光的时",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "对他最好的那个人。\n　　那个人，去了。\n　　叶苏沉默，无言。\n　　“你们走吧。”不知过了多久，他开口说道：“老师要我死，我便去死，你们活着，那就很好。”\n　　是的，活着总比死了好。\n　　看着那道白烟，他悲伤地想着。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

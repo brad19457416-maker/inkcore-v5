@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 628,
+  "chapter_title": "第二百六十章 怒后无音",
+  "filename": "ch_0628_第二百六十章 怒后无音.txt",
+  "char_count": 4040,
+  "timestamp": "2026-04-10T12:05:08.583095",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "…”\n\n    迸！\n\n    一个飞掷而来的瓷质花瓶，打断了这些大人物们的愤怒，清脆的碎裂声，砸的众人心头一惊，砸得指挥大厅里出现了瞬间的安静。\n\n    李封根本不知道自己扔过去的是什么，他沉着脸大步走了过去，指挥大厅里的宪兵马上围了过来。此时坐在二楼看台上，表情沉峻的总统先生挥了挥手，宪兵们只",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "全体任务，安全等级也已经提起来了，我想知道这是为什么。”\n\n    以他的家世背景，联邦军方没有任何秘密可以瞒住他，只是费城家中不会允许他利用这种特权，好在他年龄虽然不大，在联邦里也有几个值得信任，而且有大能力的同年龄段友人。\n\n    然而令他感到震惊和强烈不安的是，电话那头的都郁在努力很长时间之",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "个飞掷而来的瓷质花瓶，打断了这些大人物们的愤怒，清脆的碎裂声，砸的众人心头一惊，砸得指挥大厅里出现了瞬间的安静。\n\n    李封根本不知道自己扔过去的是什么，他沉着脸大步走了过去，指挥大厅里的宪兵马上围了过来。此时坐在二楼看台上，表情沉峻的总统先生挥了挥手，宪兵们只好散开，任由这名性情暴戾的中校，直",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "***都别想拦我。”\n\n    电话那头沉默片刻，李在道根本没有想到钟瘦虎的死讯，居然会让自己的儿子愤怒激动到这种程度，片刻后，他开口说道：“许乐已经先过去了。”\n\n    “给我权限。”李封停顿片刻后说道：“我要看着他去做。\n\n    都特区郊区的指挥大厅内，一片嘈乱，无数的高级技术人员，正在对一",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "不像湖畔那位祖父般遥不可及，而是那般的真切和亲切，他的少年，青春时期，是在那个人的关怀下长成。从某种意义上来说，那个人在他的人生中部分替代了父亲这个角色。\n\n    没有人知道他和那头西林老虎之间的关系亲密到了何种程度，费城家中都不知道，更没有人能够想像出，当他听说读个噩耗后，会有怎样的心情。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "第一军区特种机甲大队的训练场上，茂密的树叶轻扇着光线，分隔着温度，让深春与初暑的感觉时混时分。往日里紧张严肃的军营，因为这个难得的漫长假期而显得多了几丝轻松活泼，再也没有半夜的紧急集合命令，那似乎永远也打不完的实战演习，也终于暂时告一段落。\n\n    特种机甲大队军营旁有一方小池塘，名义上归htd局",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "暑的感觉时混时分。往日里紧张严肃的军营，因为这个难得的漫长假期而显得多了几丝轻松活泼，再也没有半夜的紧急集合命令，那似乎永远也打不完的实战演习，也终于暂时告一段落。\n\n    特种机甲大队军营旁有一方小池塘，名义上归htd局管辖，实际上早已经变成官兵们的后院小湖，满是雄性激素的年轻人们，因为好奇，而",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "觉得心情有些莫名的烦燥不安，却遍寻不找这种烦燥不安的来源，于是他凌晨起床进行完例行的电流刺激之后，便来到了这方小池塘边，沉默，思考。\n\n    他少小离家，在西林的战火中完成了自己的青春期育，成长经历刺激甚至有些畸形，很少回费城家中，但也许是血脉和崇敬使然，他总在下意识里学习或者说模仿那位伟大的祖父",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“应该生了一件大事，只是我的权限不够，打听不出来。”一名军官将电话移离耳畔，望着李封厚实的背影不安说道。\n\n    李封的脚步骤然一停，回头接过他的电话，拨通子一个号码，等待片刻后，轻声说道：“郁子，是我。今天忽然紧急集合，已经确认这是四个军区的全体任务，安全等级也已经提起来了，我想知道这是为什么",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "一个飞掷而来的瓷质花瓶，打断了这些大人物们的愤怒，清脆的碎裂声，砸的众人心头一惊，砸得指挥大厅里出现了瞬间的安静。\n\n    李封根本不知道自己扔过去的是什么，他沉着脸大步走了过去，指挥大厅里的宪兵马上围了过来。此时坐在二楼看台上，表情沉峻的总统先生挥了挥手，宪兵们只好散开，任由这名性情暴戾的中",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "骄子精英，即便许乐横空出世，也无法夺走他的光彩，将要踏入二十岁最美好年华的边缘，正是浓翠密叶招展于春风中的好时光。\n\n    但不知道为什么，最近这几天他总觉得心情有些莫名的烦燥不安，却遍寻不找这种烦燥不安的来源，于是他凌晨起床进行完例行的电流刺激之后，便来到了这方小池塘边，沉默，思考。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "中心，依据相关条例，请登记你的姓名……”\n\n    李封眉宇间的狠色骤然一黯，不可置信地瞪圆了双眼，缓缓挂断了电话。电话那头是最合规范的转接程序，然而他清楚，从十二岁开始，只要是自己打电话，电话那头的家伙绝对会马上接通。\n\n    一辆军车呼啸着驶离特种机甲大队营地，正紧急集合的官兵们吃惊地看着道路",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "住微微一抽，霍然起身，向营房里走去。\n\n    池塘边的接村下，两名军官闪身而出，跟上了他快的脚步，同时在他的目光示意下，开始快拨打电话，争取在国防部命令清楚之前，抢先知道这次紧急集合究竟意味着什么。\n\n    几年前，李封大闹议会山，捋锡安议员办公室砸成垃圾场，为了防止这种恶**件再次生，费城方面",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "暴戾的中校，直接走到了控制台前。\n\n    此时距离古钟号遇袭已经过去了几十个小时，在外表安宁的联邦社会中，只是寻常的几次昼夜交替，但对于知道这件震惊消息的人们来说，却是极大的煎熬。\n\n    那般宪章局三翼舰以一种决然鲁莽的姿态，跟踪着帝国舰队进入了对方的星域之中，信号穿越了巨型扭率空洞，又没有固",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "看球，只是这次请假的集因就是累，仅此而已。\n\n    三四月常说累，并且讲原因，大抵容易令人厌恶，所以后来我就只说累，不讲原因，其实叫苦的成分不多，更多是在安慰自己，就像受伤时，我常会高呼低叹，因为有研究说，这样会减轻痛苦。\n\n    昨天让家里的小黄小黑太监了，它们也很痛苦，对不起它们，不过我不会",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "军装的年轻人，紧绷的军装下面隐藏着那具魁梧而充满爆力的身躯，眉眼清冷间夹着丝傲而暴戾的情绪，只有清晨温暖而清湛的日光直射他的脸庞，才能照出这张脸上最后那抹青涩的稚气。\n\n    李封来自费城，联邦军方屈一指的骄子精英，即便许乐横空出世，也无法夺走他的光彩，将要踏入二十岁最美好年华的边缘，正是浓翠密叶",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

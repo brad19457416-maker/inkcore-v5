@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 940,
+  "chapter_title": "第一百一十三章 佛的手掌心",
+  "filename": "ch_0940_第一百一十三章 佛的手掌心.txt",
+  "char_count": 3294,
+  "timestamp": "2026-04-10T12:11:27.518254",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "更准确的说，佛光是把这道崖坪与云层连在了一处。\n　　山峰上方不知何时飘来无数层云，把真正湛蓝的天空完全遮住。\n　　桑桑背着双手，抬头望向佛光深处，神情平静。\n　　她的脸本就极白，此时被明亮的光线照耀，更是如雪一般。\n　　既然要背起双手，自然她没有再继续牵着宁缺的手。\n　　因为即便是她，面对这道",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "穷无尽的痛苦与恐惧，然后她开始和宁缺一起被整个人间追杀。\n　　那道佛光，对宁缺和桑桑的人生来说，毫无疑问是最根本的一次转折，其后发生的所有故事，其实都开始于此。\n　　宁缺怎么可能记不住？\n　　此时看着崖坪上的这道佛光，看着佛光里的桑桑，他仿佛回到了当年，那些最痛苦的、最寒冷的情绪，全部涌进了他的脑海",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "也不知道空中那些散着金光的字意味着什么，但他在符道方面的天赋举世无双，只凭直觉便推算出，如果那些金字最终排列成一篇佛经，便是佛宗真正一击到来的时候，只怕桑桑要应付都会觉得很麻烦，她为什么还不出手？\n　　桑桑抬头看着佛光深处，看了很长时间。\n　　忽然，她望向脚下的崖坪，说道：“原来如此。”\n　　……",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "组合。\n　　幽暗的原野被这些金光经文照耀的十分明亮。\n　　在原野间黑压压跪着的信徒们，脸上流露出无比激动的神情，更加虔诚，向佛之心更加坚定，祈祷的声音越来越整齐明亮。\n　　在崖壁近处的某个蓝湖畔，与跪着的牧民们相比，静静站立的君陌显得非常特殊，他的身影显得那样孤单而强大。\n　　他看着向巨峰飞去的那些",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "“没什么。”\n　　宁缺微笑说道，然后发现真的不知道该说什么，于是又吐了口血。\n　　桑桑有些烦躁，心想人类真是麻烦的生物，一时惊恐，一时微笑，自己居然算不清楚他的脑子里到底在想些什么。\n　　看着宁缺唇角溢出的血水，她以为自己明白了他的意思――以宁缺的境界，没有被她牵着手，自然在佛光的威压之下痛苦难",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "的眉微微蹙起。\n　　她转身望向宁缺，问道：“不要什么？”\n　　宁缺被佛光波及，正在痛苦地吐血，又因为担心她的安危，脸色变得极为苍白，哪里想到，事情的发展与自己的想象完全不一样。\n　　他看着佛光里的桑桑，不知道该说些什么。\n　　桑桑没有哭，没有吐血，没有恐惧，没有喊他的名字。\n　　桑桑不像当年那般瘦弱",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。\n　　从那一刻开始，她便成为了冥王之女，承受了无穷无尽的痛苦与恐惧，然后她开始和宁缺一起被整个人间追杀。\n　　那道佛光，对宁缺和桑桑的人生来说，毫无疑问是最根本的一次转折，其后发生的所有故事，其实都开始于此。\n　　宁缺怎么可能记不住？\n　　此时看着崖坪上的这道佛光，看着佛光里的桑桑，他仿佛回到了当",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "之女，承受了无穷无尽的痛苦与恐惧，然后她开始和宁缺一起被整个人间追杀。\n　　那道佛光，对宁缺和桑桑的人生来说，毫无疑问是最根本的一次转折，其后发生的所有故事，其实都开始于此。\n　　宁缺怎么可能记不住？\n　　此时看着崖坪上的这道佛光，看着佛光里的桑桑，他仿佛回到了当年，那些最痛苦的、最寒冷的情绪，全部",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "、最寒冷的情绪，全部涌进了他的脑海。\n　　“不要！”他痛苦地喊道。\n　　……\n　　……\n　　这道佛光出现的是如此突然，把崖坪与天穹连在一起，即便是桑桑，也无法分辩出究竟是自天而降，还是从崖坪地底生出。\n　　更准确的说，佛光是把这道崖坪与云层连在了一处。\n　　山峰上方不知何时飘来无数层云，把真正湛蓝的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "唱颂着经文。\n　　在山腰雾气里的数十座寺庙里，数千名身穿灰色袈裟的僧人盘膝坐在禅室里，双手合什，神情紧张，不停唱颂着经文。\n　　在山下幽暗的数百座寺庙里，无数身穿杂色僧衣的僧人盘膝坐在佛像前，双手合什，神情惘然，不停唱颂着经文。\n　　在天坑底的广阔原野间，数百万黎民对着悬空寺的方向双膝跪倒，无论衣衫",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "绪，全部涌进了他的脑海。\n　　“不要！”他痛苦地喊道。\n　　……\n　　……\n　　这道佛光出现的是如此突然，把崖坪与天穹连在一起，即便是桑桑，也无法分辩出究竟是自天而降，还是从崖坪地底生出。\n　　更准确的说，佛光是把这道崖坪与云层连在了一处。\n　　山峰上方不知何时飘来无数层云，把真正湛蓝的天空完全遮住",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "是不能离开自己的小侍女，她已经不再需要自己的保护，相反她开始保护他。\n　　“没什么。”\n　　宁缺微笑说道，然后发现真的不知道该说什么，于是又吐了口血。\n　　桑桑有些烦躁，心想人类真是麻烦的生物，一时惊恐，一时微笑，自己居然算不清楚他的脑子里到底在想些什么。\n　　看着宁缺唇角溢出的血水，她以为自己明白",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，还是从崖坪地底生出。\n　　更准确的说，佛光是把这道崖坪与云层连在了一处。\n　　山峰上方不知何时飘来无数层云，把真正湛蓝的天空完全遮住。\n　　桑桑背着双手，抬头望向佛光深处，神情平静。\n　　她的脸本就极白，此时被明亮的光线照耀，更是如雪一般。\n　　既然要背起双手，自然她没有再继续牵着宁缺的手。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "稍夺她的光彩。\n　　他这才想起来，桑桑已经长大了。\n　　她现在是无所不能、无所不知的昊天，不再是不能离开自己的小侍女，她已经不再需要自己的保护，相反她开始保护他。\n　　“没什么。”\n　　宁缺微笑说道，然后发现真的不知道该说什么，于是又吐了口血。\n　　桑桑有些烦躁，心想人类真是麻烦的生物，一时惊恐，一",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "峰飞去的那些金光经文，眉头微挑。\n　　……\n　　……\n　　数千个泛着金光的经文，从四处聚来，绕着巨峰缓缓转动，把峰间的青树寺庙照的明暗不定，崖坪上那道佛光变得更加明亮。\n　　佛光里，宁缺双手紧握伞柄，脸色苍白，苦苦却撑。\n　　桑桑看着佛光深处，脸变得越来越白，但她依然没有出手，因为她想要看清楚这道佛",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

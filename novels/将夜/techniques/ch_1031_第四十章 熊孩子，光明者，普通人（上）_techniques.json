@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1031,
+  "chapter_title": "第四十章 熊孩子，光明者，普通人（上）",
+  "filename": "ch_1031_第四十章 熊孩子，光明者，普通人（上）.txt",
+  "char_count": 3269,
+  "timestamp": "2026-04-10T12:11:34.948815",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "着那张处于阴影里却依然明媚美丽的面庞，再次确认现在的她已经不再是当年那个小姑娘了，于是有些莫名其妙地愤怒起来。\n　　叶红鱼没有惊讶，没有愤怒，没有讥讽，没有恨意，什么表情都没有，看上去似乎并不意外于他的出现。\n　　因为她的平静，熊初墨变得更加愤怒――当年最丑陋邪恶的举动被人揭破，这让他感到非常不安，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的呼吸变得沉重起来，有些像是重病之后的喘息，眼瞳也染上了一层血腥的潮红色，声音微颤。\n　　“你在知道真相之后，想来除了愤怒，也会有很多的不解，为什么当年身为掌教的我，会冒着被叶苏发现的危险，也要做那件事情，其实连我都没有确切的答案，事后想起来，或者是嫉妒？”\n　　他看着她发畔的月光，看着她美丽的容颜",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "次眯起，如一道线，如一道剑。\n　　那个人是赵南海，南海大神官一脉的神术源自光明，此时他将气息境界提至巅峰，于是整个人光明一片。\n　　熊初墨不知道赵南海为什么会出现，但他欢迎这种变化，因为赵南海的出现极有可能代表着观主的某种意愿。\n　　叶红鱼望向裁决神殿入口处。\n　　中年道人也来了――他在知守观里处理",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "暗的道殿角落里响起一道声音。\n　　“很遗憾，或者这一切都不会发生。”\n　　随着这道声音响起，那个角落瞬间变得明亮起来――站在角落的那个人很亮，仿佛有万道光线正从他的身躯里射出来。\n　　裁决神殿里再次多了一个人，依然没有人发现他是怎么进来的，叶红鱼的眼睛再次眯起，如一道线，如一道剑。\n　　那个人是赵南",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "“你在知道真相之后，想来除了愤怒，也会有很多的不解，为什么当年身为掌教的我，会冒着被叶苏发现的危险，也要做那件事情，其实连我都没有确切的答案，事后想起来，或者是嫉妒？”\n　　他看着她发畔的月光，看着她美丽的容颜，有些失神。\n　　叶红鱼平静说道：“我对这些不感兴趣。”\n　　“不感兴趣？”\n　　熊",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "这些年他始终藏身在万丈光幕的身后，把身影弄得高大无比，正是有这方面的心理疾病。\n　　当年他冒着极大的风险，极为不智且疯狂地欺凌还是幼女的叶红鱼，或者也是来自于他这方面的心理疾病。\n　　叶红鱼淡然说道：“我知道你很想看到什么，你想看到我难过悲伤愤怒绝望，看到我觉得自己不再洁净从而羞辱，但很遗憾，你不会",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "尊严受到了极大的伤害，他宁肯看到一个因为疯狂而恐怖的裁决大神官，也不想看到对方的眼眸里根本没有自己的存在。\n　　“你和观主说了些什么？”他问道。\n　　叶红鱼看着他，没有应答。\n　　熊初墨沉默片刻，忽然笑了起来，丑陋猥琐的苍老面容里，有着一丝极为变态的快意，说道：“原来你在怕我。”\n　　叶红鱼还是没有",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "怒起来。\n　　叶红鱼没有惊讶，没有愤怒，没有讥讽，没有恨意，什么表情都没有，看上去似乎并不意外于他的出现。\n　　因为她的平静，熊初墨变得更加愤怒――当年最丑陋邪恶的举动被人揭破，这让他感到非常不安，对方的平静让他感到惘然不解，让他觉得尊严受到了极大的伤害，他宁肯看到一个因为疯狂而恐怖的裁决大神官，也",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "的那些月光星光尽数被她甩在身后，脸上的苍白因为阴影的遮掩而淡了很多。\n　　她静静看着掌教，没有说话，思绪却有万千。\n　　熊初墨也静静地看着她，看着被月光星光勾勒出来的线条，看着那张处于阴影里却依然明媚美丽的面庞，再次确认现在的她已经不再是当年那个小姑娘了，于是有些莫名其妙地愤怒起来。\n　　叶红鱼没有",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "算现在的你不怕，当年那个可怜的、瘦弱的双腿像芦柴棒般的女童，又怎么不害怕那片阴影？\n　　他的呼吸变得沉重起来，有些像是重病之后的喘息，眼瞳也染上了一层血腥的潮红色，声音微颤。\n　　“你在知道真相之后，想来除了愤怒，也会有很多的不解，为什么当年身为掌教的我，会冒着被叶苏发现的危险，也要做那件事情，其实",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "看着他，没有应答。\n　　熊初墨沉默片刻，忽然笑了起来，丑陋猥琐的苍老面容里，有着一丝极为变态的快意，说道：“原来你在怕我。”\n　　叶红鱼还是没有说话。\n　　“是的，你很怕我。”\n　　熊初墨的眼眸深处有幽芒闪烁，像是狼，又有些怪异，声音也带着因为兴奋而产生的颤抖：“当年的事情，让你记忆太深刻，当你发现",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "事情怎能忘记？若能忘记，当年在道观里沐浴被陈皮皮看到身体，她何至于一定要杀她？\n　　若能忘记，她为何从来不在意被别人看到自己曼妙的身躯？难道不是因为潜意识里觉得这具身躯很脏？\n　　好吧，那便无法忘记，但那又如何？\n　　她看着熊初墨微讽说道：“我不是天谕院里那些发癫的教授，我对你的心理状态不感兴趣，或",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的声音依然平静，神情依然平静，眼神依然宁静，就这样静静看着熊初墨，就像看着一个死人。\n　　裁决神殿里一片静寂，月光落在露台上，落在她的肩头，于是那些星光便被掩盖，如尘埃落地，如这段往事。\n　　然而就在这个时候，黑暗的道殿角落里响起一道声音。\n　　“很遗憾，或者这一切都不会发生。”\n　　随着这道声音响",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "你将承受无尽的煎熬与痛苦，而这……就是我还赠于你的。”\n　　她的声音依然平静，神情依然平静，眼神依然宁静，就这样静静看着熊初墨，就像看着一个死人。\n　　裁决神殿里一片静寂，月光落在露台上，落在她的肩头，于是那些星光便被掩盖，如尘埃落地，如这段往事。\n　　然而就在这个时候，黑暗的道殿角落里响起一道声音",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

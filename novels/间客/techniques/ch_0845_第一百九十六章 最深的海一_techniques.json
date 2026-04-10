@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 845,
+  "chapter_title": "第一百九十六章 最深的海一",
+  "filename": "ch_0845_第一百九十六章 最深的海一.txt",
+  "char_count": 3381,
+  "timestamp": "2026-04-10T12:05:17.629982",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "夫人和那位令人畏惧的上校先生之间有怎样的交易或者说就契，事实上他也并不准备询问，每个大人物都有自己的秘密，尤其是涉及到这种大事。然而夫人看似随意说出 的这句话，却让他心脏的温度有些微的升高，沉就很长一段时间后，抬起头来平静说道：“但很明显，总统先生似乎并不希望在大选前解决这件事情。”\n\n    根据",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "那扇合金门之前-，特勤局 试图阻止，因为他们担心我的人身安全。”\n\n    帕布尔总统忽然说出一段令众人感到意外的话，他那张拗黑的脸颊上没有什么情绪，声音在椭圆办公厅里显得格外低沉。\n\n    “当时我说，当许乐上校都想要杀我的时候，那说明我真的是该死了。”他双手扶在桌上，宽厚的双肩如往常那般稳定，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "员应该和官邸方面很早就建立了联系，不过没有人清楚他们之间究竟搭成了或者搭成过什么协议。\n\n    流风坡会所里一片幽静，联邦副议长锡安先生喝了一口名贵的红酒，轻轻抚弄着头顶花白的头，矜持而又极礼貌地与桌对面的夫人进行对话。\n\n    “今天辛苦您了。”邰夫人微笑望着老人，似乎很随意地说道：“拜伦先生",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "第一百九十六章 最深的海一 \n\n    椭圆办公厅内寂静一片，官员们神情复杂地望着帕布尔总统，没有人敢说话。\n\n    沉就了相当长一段时间，总统将电话放到桌上，动作非常缓慢，电话与桌面接触时没有出任何声响，只有宽厚的手背渐隐的青筋表现出他此刻真实的愤",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "”\n\n    话还没有说完，帕布尔总统站直身体，用力地挥动右臂，平日演讲中浑厚迷人的声音，在这 一刻瞬间变得格外暴躁：“民意民意民意！这些东西有什么用 ！”\n\n    总统先生马上反应过来自己难得的失态，沉就片刻后，拍了拍表情震惊的布林主任肩头，声音低沉说道：“抱歉，我今天的情绪有些糟糕。“没关系。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "山里，无数人在暗中痛恨他，然而却没有一个人敢当面表现出这种情绪，因为冷酷无情在很多时候都是震慑人 心最强大的武器。“这是四科的内部行动，我不认为有什么需要向你解释。”张小萌平静说道，既然已经清楚委员的目的，她甚至连敬称都直接省去。\n\n    房间里的人们陷入了绝对的震惊，包括那位身材妖艳的女性职员在",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "话放到桌上，动作非常缓慢，电话与桌面接触时没有出任何声响，只有宽厚的手背渐隐的青筋表现出他此刻真实的愤怒情绪。\n\n    “在财政部大楼里，我曾经和许乐上校有过一次长时间的谈话，在进入那扇合金门之前-，特勤局 试图阻止，因为他们担心我的人身安全。”\n\n    帕布尔总统忽然说出一段令众人感到意外的话",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "所说的辛苦所指何事，关于空港那场欢迎仪式，他只需要两个电话，便成功地转移 了政府机构的注意，从某种意义上说，如今还处于绝对保密期的军事法庭袭击一案，和他有很深层的关联。\n\n    老人并不清楚邰夫人和那位令人畏惧的上校先生之间有怎样的交易或者说就契，事实上他也并不准备询问，每个大人物都有自己的秘密",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "关条例，当联邦政府总统在任期内意外死亡或者因为其-它原因无法履行职责时，将由副总统接替，而副总统如果出现这种情况，则会由管理委员会副议长接替。\n\n    拜伦副 总统死在施清海枪下已经过去很长一段时间，联邦各大势力一直催促帕布尔总统尽快完成此次更替程序，由锡妥副议长出任联邦副总统，然而官邸方面一直宣",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "都想要杀我的时候，那说明我真的是该死了。”他双手扶在桌上，宽厚的双肩如往常那般稳定，脸上现出不知道是自嘲-还是嘲讽的复杂笑容“现在 想起来，这个笑话大概并不怎么好笑。”\n\n    总统先生疲惫地伸出右手挥了挥，椭圆办公厅里的官员们合意，草草结束了针对今天下午军事法庭袭击的情况汇报，快离开。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "筋表现出他此刻真实的愤怒情绪。\n\n    “在财政部大楼里，我曾经和许乐上校有过一次长时间的谈话，在进入那扇合金门之前-，特勤局 试图阻止，因为他们担心我的人身安全。”\n\n    帕布尔总统忽然说出一段令众人感到意外的话，他那张拗黑的脸颊上没有什么情绪，声音在椭圆办公厅里显得格外低沉。\n\n    “",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "政部大楼里，我曾经和许乐上校有过一次长时间的谈话，在进入那扇合金门之前-，特勤局 试图阻止，因为他们担心我的人身安全。”\n\n    帕布尔总统忽然说出一段令众人感到意外的话，他那张拗黑的脸颊上没有什么情绪，声音在椭圆办公厅里显得格外低沉。\n\n    “当时我说，当许乐上校都想要杀我的时候，那说明我真",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "邸办公室主任布林推开沉重的复古门走了进来，他表情复杂地看着总统先生疲惫的背影，犹豫片刻后走上前去轻声说道：“总统先生，刚刚拿到的大选民意调查，您的支持车上升了百分之……”\n\n    话还没有说完，帕布尔总统站直身体，用力地挥动右臂，平日演讲中浑厚迷人的声音，在这 一刻瞬间变得格外暴躁：“民意民意民意",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "锡安副议长再次摩娑了一把额顶花白的头，细细地品尝着唇舌间名贵红酒有如烈酒的灼烫感，专卜- 声轻微的满足叹息，微笑默然想着，这场风波越大越好。\n\n    安着金属脚的 浴缸边缘雕着 瓷花，虽然触感并不舒服，但看上去感觉十分奢华，浴缸里的水温滚烫无比，翻滚着热气。\n\n    许乐右手端着一杯红酒，大半",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

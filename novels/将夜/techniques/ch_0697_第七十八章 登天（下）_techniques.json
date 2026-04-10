@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 697,
+  "chapter_title": "第七十八章 登天（下）",
+  "filename": "ch_0697_第七十八章 登天（下）.txt",
+  "char_count": 3591,
+  "timestamp": "2026-04-10T12:11:26.932249",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "头。\n　　当流火入海时，那颗水晶，折射着天穹散放的光明，在空中画出一道明亮的弧线，向着人间北方而去，最终不知落在何处。\n　　……\n　　……\n　　书院后山。\n　　老黄牛无精打采地躺在草甸上。\n　　大师兄把一篮最新鲜的青草放在它身前。\n　　二师兄把一盘最鲜美的鱼脍放在他身前。\n　　老黄牛不肯吃草，也不肯",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "提着一壶酒，走进一间肉铺。屠夫关上铺门，带着那人登上二楼天台，对桌坐下，开始喝酒吃肉。\n　　酒徒望向天空某处，嘲讽说道：“他总说昊天飞的再高又有什么用，如今看来他再强又如何？终是要离开人间，向天空飞去。”\n　　屠夫说道：“为了那些莫名的念头，便要放弃永生，去对抗永远不可能战胜的上苍，在有些人看来这或",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。\n　　他是道门最强大的人，晋入传说中无距境界。\n　　但夫子的木棍，亦有无距的境界。\n　　他只能继续逃亡，直到夫子真正离开人间。\n　　或者到那时，这根木棍才会落入海中。\n　　……\n　　……\n　　知守观后方有座山。\n　　山岩与泥土都是红色的，似极了陈年的血，只不过山崖表面生着无数青藤，所以看上去像是一",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "气息。\n　　数十道或沙哑或尖锐的笑声，从洞窟里传出，穿透青藤，向人间而去。\n　　这些笑声里充满了悲伤愤怒，又显得那般狠毒暴戾。\n　　青山蚁窟里，住着很多道门强者，其中绝大多数都已经是知命境巅峰，甚至有几个人已经越过五境，成为传说中的存在。\n　　他们都已重伤，都已重残，一半人是伤在书院轲浩然的剑下，另",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "青山蚁窟里，住着很多道门强者，其中绝大多数都已经是知命境巅峰，甚至有几个人已经越过五境，成为传说中的存在。\n　　他们都已重伤，都已重残，一半人是伤在书院轲浩然的剑下，另一半人，则是伤在当年夫子登桃山斩花一役中。\n　　书院这两个字，是这些道门隐世强者的恶梦。\n　　轲浩然很多年前便遭天诛而死，今日夫子终",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "来说，他终于可以登岸了。\n　　但青衣飘飘，依然在南海无数海岛间来回。\n　　一座葱葱郁郁的海岛上，忽然出现他的身形。\n　　下一刻，他便消失。\n　　数千里外，他的双脚落在另一座海岛的沙滩上。\n　　然后他再次消失。\n　　在每一座海岛上，他都只能停留片刻，甚至无法停留，便要再次奔亡。\n　　青色道衣上染着血水",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "再高又有什么用，如今看来他再强又如何？终是要离开人间，向天空飞去。”\n　　屠夫说道：“为了那些莫名的念头，便要放弃永生，去对抗永远不可能战胜的上苍，在有些人看来这或者很潇洒，实际上不过是愚蠢罢了。”\n　　……\n　　……\n　　西陵神国深山老林里。\n　　陈皮皮跪在知守观里的湖畔，对着天空不停流泪，双肩塌",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "愿意现身，那便善终吧。”\n　　夫子的声音响起。\n　　一只脚从天空里落下，踩向青山。\n　　青山里的笑声骤然变成了惊怖的尖叫，与恐惧的呼喊。\n　　数十道极强大的气息喷涌而出，向着青山外逃去。\n　　然而哪里还来得及。\n　　那只脚落在青山上。\n　　青山平。\n　　道门隐世强者，尽灭。\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "。\n　　他们太过放肆。\n　　那些强大的气息，不止向人间四处散播，甚至快要触到天穹之上。\n　　他们并不担心昊天会惩罚自已，因为他们是昊天最虔诚的信徒，最忠实的下属，昊天不会让他们这时候便回归昊天神国。\n　　但他们忘了此时的天空上还有人。\n　　那道高大的身影虽然渐渐消失在无限光明之中，却还没有完全离开人",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "进一间肉铺。屠夫关上铺门，带着那人登上二楼天台，对桌坐下，开始喝酒吃肉。\n　　酒徒望向天空某处，嘲讽说道：“他总说昊天飞的再高又有什么用，如今看来他再强又如何？终是要离开人间，向天空飞去。”\n　　屠夫说道：“为了那些莫名的念头，便要放弃永生，去对抗永远不可能战胜的上苍，在有些人看来这或者很潇洒，实际",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "地方，如果往北一直走，最终都会走到一座雪峰下，那座雪峰，便是这个世界最寒冷最北的地方。\n　　极北寒域从来没有下过雨，只下雪，当黑夜延长，荒人部落南迁之后，这片全无人烟的静寂之地，更是连雪都很少下。\n　　但就连这个地方都开始下雨。\n　　热海表面的雪层，被暴雨击打的千疮百孔。\n　　那座世间最高的雪峰上，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "可以回来，至少这算是一件好事。”\n　　……\n　　……\n　　陈皮皮的父亲是知守观观主。\n　　他叫陈某，无数年来身上都是一袭青色道衣，故号青衣道人。\n　　多年前，书院轲浩然遭天诛而死，夫子登桃山，入西陵神殿，知守观被迫全力出击，此一役，道门无数强者殒命或重残，青衣道人哪怕请动悬空寺讲经首座联手，依然无法",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "吃肉。\n　　酒徒望向天空某处，嘲讽说道：“他总说昊天飞的再高又有什么用，如今看来他再强又如何？终是要离开人间，向天空飞去。”\n　　屠夫说道：“为了那些莫名的念头，便要放弃永生，去对抗永远不可能战胜的上苍，在有些人看来这或者很潇洒，实际上不过是愚蠢罢了。”\n　　……\n　　……\n　　西陵神国深山老林里。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "二师兄把一盘最鲜美的鱼脍放在他身前。\n　　老黄牛不肯吃草，也不肯吃鱼，显得很落寞，很疲惫。\n　　它缓缓闭上眼睛，有滴水从眼角淌下。\n　　又有水滴落在它的脸颊上。\n　　然后是越来越多的水滴。\n　　大师兄和二师兄抬头望天，才发现下雨了。\n　　……\n　　……\n　　夫子登天后，整个世界开始下雨。\n　　这场",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "那当然不是真的月亮，或者说，不是宁缺熟悉的那个月亮。\n　　他的视力很好，没有看到环形山，只看到温暖的光明。\n　　荒原深处传来几声狼嚎，它们从来没有见过月亮，不知道这是什么。\n　　宁缺知道这轮明月是什么。\n　　夫子还活着，还在天上战斗，只不过换了一种方式。\n　　夫子说过，那一定很美。\n　　这画面",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

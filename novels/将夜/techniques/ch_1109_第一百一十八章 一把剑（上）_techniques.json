@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1109,
+  "chapter_title": "第一百一十八章 一把剑（上）",
+  "filename": "ch_1109_第一百一十八章 一把剑（上）.txt",
+  "char_count": 2976,
+  "timestamp": "2026-04-10T12:11:34.924224",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "他身上到处都是血，凝结的血，因奔跑而重新破裂的伤口，又流出了新血，旧血新血混在一起，再加上八千里路的风尘，看着很脏，就像个被同伴痛揍了无数顿的可怜的乞丐，就像是曾经当年的隆庆。\n　　他自千里外狂奔而来，两天一夜不眠不休、未作调息，不顾伤势，早已濒临崩溃，然而他手执铁弓，静看酒徒，却自有一种岷山撼不动",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "像那些鬓毛与瓦片一样，竟都拦不住酒徒这根指头！\n　　一声怒嚎，青狮溅血而退。\n　　桑桑手腕一翻，算盘瞬间散裂，数十颗算珠嗤嗤破空而飞，尽数穿过那道清光，落在酒徒的胸间，发出一连串密集的噗噗声响。\n　　酒徒唇角溢血，脚下却依然如电如魅，一指继续点向她的眉心，决意杀她，甚至就连算珠写成的符开始散播符意，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "酒徒。\n　　宁缺保持着挽弓的姿式，沉默地瞄准着酒徒，没有松弦，双臂因为先前的连环射消耗过剧，有些微微颤抖。\n　　他身后的箭筒里，只剩下数枝普通羽箭和一枝铁箭。\n　　酒徒看着他面无表情说道：“有本事，你就射中我。”\n　　宁缺没有说话，因为他确实射不中他。\n　　因为他的沉默，酒徒笑了起来，笑容里有很多嘲",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "深插着箭。\n　　青石板上，羽箭射出了蛛网般的裂痕。\n　　能够射进坚硬的石头，可以想象宁缺的箭道，现在究竟霸道到了什么程度。\n　　这样的箭法，却依然没有射死酒徒。\n　　宁缺保持着挽弓的姿式，沉默地瞄准着酒徒，没有松弦，双臂因为先前的连环射消耗过剧，有些微微颤抖。\n　　他身后的箭筒里，只剩下数枝普通羽箭",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "灵动，失去了所有的生命，变得僵直无比。\n　　酒徒的眉梢微挑，感觉到这枝羽箭的不凡之处。\n　　宁缺终于出现了。\n　　他站在小镇长街那头。\n　　他身上到处都是血，凝结的血，因奔跑而重新破裂的伤口，又流出了新血，旧血新血混在一起，再加上八千里路的风尘，看着很脏，就像个被同伴痛揍了无数顿的可怜的乞丐，就像是",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "而重新破裂的伤口，又流出了新血，旧血新血混在一起，再加上八千里路的风尘，看着很脏，就像个被同伴痛揍了无数顿的可怜的乞丐，就像是曾经当年的隆庆。\n　　他自千里外狂奔而来，两天一夜不眠不休、未作调息，不顾伤势，早已濒临崩溃，然而他手执铁弓，静看酒徒，却自有一种岷山撼不动的感觉！\n　　看着这样的宁缺，看着",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。\n　　酒徒回到街上，解下腰间的酒壶，递到唇边痛饮数口，不顾酒浆淌落满身，然后他静静看着宁缺，从壶中缓缓抽出一把锋利的剑。\n　　铁箭再至。\n　　他再避。\n　　他再次回来。\n　　他看着宁缺身后的箭筒，问了一个很重要的问题。\n　　“你还有几根铁箭？”\n　　宁缺没有回答他的问题，满是污垢与鲜血的脸上，神情",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "消耗过剧，有些微微颤抖。\n　　他身后的箭筒里，只剩下数枝普通羽箭和一枝铁箭。\n　　酒徒看着他面无表情说道：“有本事，你就射中我。”\n　　宁缺没有说话，因为他确实射不中他。\n　　因为他的沉默，酒徒笑了起来，笑容里有很多嘲弄和不屑：“你射啊。”\n　　宁缺没射，也没有放下铁弓。\n　　他在等。\n　　他在等酒",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "空声，箭声是那样的密集，竟仿佛没有断绝处。\n　　嗖嗖嗖嗖！\n　　嗤嗤嗤嗤！\n　　噗噗噗噗！\n　　羽箭离开弓弦，以恐怖的速度，准确无比地射向酒徒，撕裂空气，撕破黑夜，无数箭影，甚至要将昏暗的小镇照亮。\n　　箭影箭风箭啸里，酒徒身形如魅，拂袖如舞。\n　　无论宁缺的箭再快，再如何准确，就是射不中他。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

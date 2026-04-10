@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 656,
+  "chapter_title": "第十九章 自杀也是战斗",
+  "filename": "ch_0656_第十九章 自杀也是战斗.txt",
+  "char_count": 3739,
+  "timestamp": "2026-04-10T12:05:08.544094",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "花板，直至唇角泛起一丝复杂莫名的笑意。才低声嘶哑回答道：“当然不甘心，我还有很多事情没有做，还有很多秘密不知道。”\n\n    “比如？”怀草诗喝了一口咖啡。\n\n    “你看过我的档奉，应该知道张小萌这个人。”\n\n    “你的初恋。”\n\n    “不错。”许乐的眼睛眯了起来，轻声感慨说道：“我以前",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "大耳的老鼠般在身体里穿行，他依然保持着绝对的朴素唯物主义观，他悲伤且又执着地认定，头顶没有天堂，只有天空和星空。\n\n    天堂\n\n    果然没有黑洞和圣洁的白光。然而却有黑梦，很没有新意的黑梦，只不过宪章电脑老东西并没有出现在梦中，穿一身老年管家制服或真的穿上黑丝短裙讲述一些玄之又玄的东西。黑梦",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "黄金链总有金属块儿，更何况这个世界上放眼望去都是高楼低楼深坑浅坑大山小山大树小树高度深度足够致人死的存在。\n\n    即便，即便你在求死那瞬间运气烂到什么都找不着什么都看不到，你总归还有舌头    咬舌自尽或许有太多闺怨气息，然而在死亡的面前。其实什么手段都是平等的。\n\n    所以说，自杀并不是一",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "断无误，面前这个小眼睛男人大概这辈子都不会再站起来了。\n\n    她想起了在桑树海里的那些连绵不止的逃亡与战斗，并不感怀，更不会伤感，因为她对敌人向来没有丝毫同情心，只觉得有些可惜。\n\n    这个宇宙里有资格与她并肩作战的人不多，曾经与她并肩作战的人更是只有吐血昏迷的许乐一人，机战天下第一和机修天",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "如果需要他活着，必须马上送回地面进行抢救\n\n    “那你们还在迟疑什么？”怀草诗皱着眉头看着军医官说道：“刑场上需要的是一个活生生的联邦战斗英雄，而不是一具尸体。”\n\n    “但现在问题的是，就算运气不错把这个人救活，他也没有办法再站起来。\n\n    军医官抹了抹额头上的汗，他的医疗小组配备了足",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "调皇家特种营负责看守。”怀草诗垂目思考片玄后做了决定，“尽可能地救活他。  。\n\n    帝国百年来第一次的贵族叛乱，起于贵族对于皇室的疑虑震惊，这种情绪又起于卡顿郡王的离奇死亡，如今这场叛乱即将烟消云散，然而要完全打消庞大的贵族阶层尤其是那\n\n    ，\n\n    皇室很需要一个活着的许乐。然后死",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "有任何冲动去辩认。\n\n    “醒了！”\n\n    随着这声惊讶地喊声，病房里响起密集嘈乱的脚步声，紧张的治疗合议声，各式各样先进的医疗设备被连到了他的身上。\n\n    金属触片贴在**的肌肤上应该十分冰凉，在联邦6军总医院里曾经有过非常不愉快过往的许乐，在心中默默想道，然后身体下意识里准备颤抖。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "眼望去都是高楼低楼深坑浅坑大山小山大树小树高度深度足够致人死的存在。\n\n    即便，即便你在求死那瞬间运气烂到什么都找不着什么都看不到，你总归还有舌头    咬舌自尽或许有太多闺怨气息，然而在死亡的面前。其实什么手段都是平等的。\n\n    所以说，自杀并不是一件难事。\n\n    怀草诗少时是帝国高",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "死体验，说人类在死亡来临的那一瞬间会以最快的度回顾一下过去，感受一下现在，展望一下。对不起，这里没有将来，只有黑色的墙壁凝成的高后退的洞，洞口的那头是一片纯白的圣洁世界，和人类出生时的血污截然不同。\n\n    许乐从来都不相信这种说法。这个没有完成联邦法定教育的半文盲脑子里充斥着机械原理和机械的世界",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "散，然而要完全打消庞大的贵族阶层尤其是那\n\n    ，\n\n    皇室很需要一个活着的许乐。然后死给众人看。\n\n    很多民科或科学院之科普书籍里都会提到濒死体验，说人类在死亡来临的那一瞬间会以最快的度回顾一下过去，感受一下现在，展望一下。对不起，这里没有将来，只有黑色的墙壁凝成的高后退的洞，洞口",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "权？那野猫的濒死体验会是什么？无数只肥头大耳的老鼠？\n\n    哪怕大叔教会他那丰个姿式。灼热的神奇颤抖力量像无数只肥头大耳的老鼠般在身体里穿行，他依然保持着绝对的朴素唯物主义观，他悲伤且又执着地认定，头顶没有天堂，只有天空和星空。\n\n    天堂\n\n    果然没有黑洞和圣洁的白光。然而却有黑梦，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "奉，应该知道张小萌这个人。”\n\n    “你的初恋。”\n\n    “不错。”许乐的眼睛眯了起来，轻声感慨说道：“我以前总想着死之前一定要和她再做一次爱，现在看来没机会了，这大概就是最大的不甘。”\n\n    听到这个出乎意料的回答，怀草诗难得动容起来，问道：“为什么不是你们的国民少女简水儿？当然。在我",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "的墙壁凝成的高后退的洞，洞口的那头是一片纯白的圣洁世界，和人类出生时的血污截然不同。\n\n    许乐从来都不相信这种说法。这个没有完成联邦法定教育的半文盲脑子里充斥着机械原理和机械的世界观，在他看来，人类和矿坑外面吃剩牛肉的野猫，除了审美观之外根本没有太多本质上的差别，凭什么能够拥有死亡前重读人生的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "怀草诗沉默片刻，向床边走去，忙碌的帝**医们赶紧让开一条道路，听着嘀嘀的仪器响声，她将双手缓缓背到身后，看着濒临死亡的许乐，那双直眉微微蹙起，忽然间手指如闪电般探出，用力地点在许乐的胸口处。\n\n    噗的一声闷响，重度昏迷的许乐没有任舟反应。\n\n    “居然不顾我的警告，试图把断了的经",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

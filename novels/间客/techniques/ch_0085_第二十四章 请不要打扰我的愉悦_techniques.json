@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 85,
+  "chapter_title": "第二十四章 请不要打扰我的愉悦",
+  "filename": "ch_0085_第二十四章 请不要打扰我的愉悦.txt",
+  "char_count": 3525,
+  "timestamp": "2026-04-10T11:53:35.146655",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "孩儿穿着一身黑色的套服，下面的紧身裙刚刚过漆，像极了临海州里那些大公司女职员的模样，浑身上下没有一点风尘气，但胸前却挂着一个表明她身份的铭牌，尤其是此时眉眼间的时不时流露的疲惫和淡淡春意，更是透露她先前做了些什么。\n\n    这个女孩儿走进来，休息室里的女孩儿们都露出了真诚的笑容，因为对方是会所的牌",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "吻，极其平稳的语速和自己说话，哪怕说的话十分恶毒。他挠了挠头。说道：“说好只是陪你。”\n\n    “难道你不动心？”\n\n    “呃……当然有一点，但你知道，我是有女朋友的人，如果我是单身，你又愿意请客，我自然会很高兴地做些什么。”\n\n    “我记得你好像失恋了。”\n\n    “失恋啊……我还没有",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "久，她们就会忘了那个清晨便来**的奇怪学生二人组。\n\n    房间门又被打开了，露出前台小姐那张略显紧张的脸：“琪琪，赵老板刚才点你地钟一直被那个学生占着，他这时候很生气，你要不要先避避？”\n\n    “我按制度做事，他怎么好难为我？”白琪没有做错事，倒不害怕那个临海州地夜店大佬，但她马上想道那个不",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "夹着股令人心寒的味道。许乐微微眯眼，盯着对方的手，然后有些无奈地发现对方的腰间果然带着枪，与军人进行冲突，果然没有办法谋求平等。\n\n    邰之源听到侑子那两个字后，眼睛也眯了起来，摇了摇头。\n\n    爬_书 www。xiaoshuotxt。com\n\n\n\n第二卷上林的钟声",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "时脾气太硬，得罪了多少客人，今天好不容易瞧上一个，别人却瞧不上你。”\n\n    漂亮的露露哼了一声，说道：“我就喜欢老实的学生。”\n\n    这时候房门打开了，一个疲惫到了极点的女孩儿走了进来，嗔道：“现在的学生还有老实的？我这辈子就没见过加了五个钟的怪物。”\n\n    走进来的这个女孩儿约摸二十岁",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "木头人，这都还算好的啦……反正我啊，等存够钱了，自然就不做了。”\n\n    话题又回到了她们最熟悉的人生接客规划之中，说不定这样再过不久，她们就会忘了那个清晨便来**的奇怪学生二人组。\n\n    房间门又被打开了，露出前台小姐那张略显紧张的脸：“琪琪，赵老板刚才点你地钟一直被那个学生占着，他这时候很",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "意。\n\n    不论邰之源自幼接受的什么教育，拥有怎样地城府，毕竟只是个刚刚成人的年轻人。对于自己的第一次**，总会回味片刻，也正是逐渐的回味，才明白了先祖们安排这种成人礼的含义，一个男人只有到了十八岁的时候。才会拥有初步地控制力，才能被允许去接触那些美妙的事情。才能真正看出是否会被这些美妙而噬魂的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "唯一可供消遣的青涩男孩儿走了，休息室里的气氛回复到了往日慵懒而死寂的氛围中。有个小姐取笑露露：“平时脾气太硬，得罪了多少客人，今天好不容易瞧上一个，别人却瞧不上你。”\n\n    漂亮的露露哼了一声，说道：“我就喜欢老实的学生。”\n\n    这时候房门打开了，一个疲惫到了极点的女孩儿走了进来，嗔道：“",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "难得地流露出了一丝淡淡的羞涩之意。\n\n    这时候休息室里的女孩儿才发现，原来白琪有些走不动道了。众人不由大惊失色，心里均自想着，那个学生初哥该不会是变态，把白琪弄伤了吧？但马上她们注意到了白琪眉眼间的那抹羞意和春情，才震惊到了极点。露露不可思议地扶着她坐到沙发上。急忙问道：“你该不是动心了吧？”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "服输地小老虎，最后还是变回了软绵绵的小猫，心情便愉快起来。\n\n    打扰他此时愉悦心情地，是会所里走出来的一群人。许乐一眼就看出那些人来意不善，尤其当他认出人群后面的两个人，马上下意识里将邰之源拉到了自己的身后。\n\n    他以为这些人是来找自己麻烦的。而且他总以为邰之源是个身体孱弱很可怜的小男生",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "原来白琪有些走不动道了。众人不由大惊失色，心里均自想着，那个学生初哥该不会是变态，把白琪弄伤了吧？但马上她们注意到了白琪眉眼间的那抹羞意和春情，才震惊到了极点。露露不可思议地扶着她坐到沙发上。急忙问道：“你该不是动心了吧？”\n\n    白琪自然不肯承认，但她不得不承认……今天一时兴起接待的那个十七八",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "地运气确实不怎么好，看样子我那位师兄也不在。”\n\n    许乐从这句话里听出，对方一定不会放过自己，缓缓调匀呼吸：“我同学与这事儿无关，让他先走？”\n\n    钩子不在意地挥挥手，用一种盯住猎物的眼神盯着他，“不是我要灭你。至于今天是杀了你，还是打残你，我要打一个电话。”\n\n    邹侑回了第三军区",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "六个小时了，那个初哥还能走动道吗？”\n\n    白琪在星辰会所很出名。不是因为她的长相，而是因为她的温柔和善解人意，尤其是那些方面地本事。但今天听到露露的问话，她的脸上难得地流露出了一丝淡淡的羞涩之意。\n\n    这时候休息室里的女孩儿才发现，原来白琪有些走不动道了。众人不由大惊失色，心里均自想着，",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "：“琪琪，赵老板刚才点你地钟一直被那个学生占着，他这时候很生气，你要不要先避避？”\n\n    “我按制度做事，他怎么好难为我？”白琪没有做错事，倒不害怕那个临海州地夜店大佬，但她马上想道那个不停加钟的学生，紧张说道：“那个……客人没事儿吧？”\n\n    “不知道，赵老板不会在会所里闹事，但好像……派",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

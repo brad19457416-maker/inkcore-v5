@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 2,
+  "chapter_title": "第二章 一百个黑衣少年的背后",
+  "filename": "ch_0002_第二章 一百个黑衣少年的背后.txt",
+  "char_count": 2626,
+  "timestamp": "2026-04-10T11:53:11.015824",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "滑过，似乎想要寻找到一些什么——这些孤儿怎么可能知道今天自己带着记者参观的行程？他们闹这样一出究竟是为什么？难道真的就是为了简水儿这个名字？简水儿对于这些孤儿来说，就像是遥远星界的小仙女儿，可是也不足以支撑这些孤儿们有这么大的胆子。\n\n    事情好像有些有趣，总感觉像是有人在幕后操控了这一切，如果",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "东林曾是联邦社会最富庶最发达的矿星。不论是在怎样的文明中，从事采矿工作的人们总要承担更多的风险。虽然晶矿自动掘进机的发明，电脑无差漏覆盖控制，在很大程度上保证了采掘业的安全，然而星球内部复杂的矿脉变动，以及那些怎样也无法通过计算预知的地质变动，依然在这数千数万年的岁月里，葬送了不少矿工的性",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "“简水儿！”\n\n    警笛声不停响起，负责钟楼街一带治安的河西州第二警察分局，接到了副局长愤怒的指令，用最快的速度前来支援，将超过一百名的孤儿们隔离在了街道的中心。\n\n    然而面对着手持警棍和盾牌的警察们，钟楼街黑衣少年孤儿们没有丝毫畏惧，叫嚣仍然在持续，只是那些被写在破油布上的标语被",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的性命，这些矿工的孩子，则成了流连于东林区城市街道上的异类。\n\n    无父无母，无父有母，不一样的人生造就了这些孤儿们不一样的心理，联邦政府全额负担了他们的生活及学习费用，却没有办法不让这些孩子们天天逃学。不到合法饮酒的年纪，在体内芯片的监视下，他们不能像矿工大叔们一样饮酒度日，他们也不可能去从事",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，还有……孤儿。\n\n    东林曾是联邦社会最富庶最发达的矿星。不论是在怎样的文明中，从事采矿工作的人们总要承担更多的风险。虽然晶矿自动掘进机的发明，电脑无差漏覆盖控制，在很大程度上保证了采掘业的安全，然而星球内部复杂的矿脉变动，以及那些怎样也无法通过计算预知的地质变动，依然在这数千数万年的岁月里，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "向冷酷的鲍副局长唇角忽然泛起了一丝温暖的笑容，便是街中心这些令他厌恶的孤儿竟也不是这么可恶了。只是转瞬间他的笑容就凝结了起来。\n\n    这些可恶的孤儿今天让自己的颜面大为受损，今天这一幕如果真的上了新闻，新闻部与制作部之间的矛盾，肯定会闹到州长办公室甚至是委员会，那自己会不会被当作替罪羊？",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "些，对着警察封锁线后方的摄像机镜头高声喊道：“我们要看二十三频道！”\n\n    一百个请愿的少年郎，同时悲愤起来，在街头与联邦政府对抗，却只是为了看电视，这是……何等样荒谬的场景啊。\n\n    ……\n\n    ……\n\n    然而鲍龙涛并不认为这是一出闹剧，也不认为这是何其荒谬的事情。因为从听到二十",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "多的便是从事黑事贸易的小商人，在阴影中警惕注视巡警的黑暗人物，还有……孤儿。\n\n    东林曾是联邦社会最富庶最发达的矿星。不论是在怎样的文明中，从事采矿工作的人们总要承担更多的风险。虽然晶矿自动掘进机的发明，电脑无差漏覆盖控制，在很大程度上保证了采掘业的安全，然而星球内部复杂的矿脉变动，以及那些怎",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "美好，幻想美好的自由，而这种自由对于他们来说，是生活里的油盐酱醋，无法缺少的。\n\n    简水儿……一向冷酷的鲍副局长唇角忽然泛起了一丝温暖的笑容，便是街中心这些令他厌恶的孤儿竟也不是这么可恶了。只是转瞬间他的笑容就凝结了起来。\n\n    这些可恶的孤儿今天让自己的颜面大为受损，今天这一幕如果真的上",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "间的矛盾，肯定会闹到州长办公室甚至是委员会，那自己会不会被当作替罪羊？\n\n    鲍龙涛的眼睛微眯，缓缓地在这些亢奋喊着口号的孤儿们脸上滑过，似乎想要寻找到一些什么——这些孤儿怎么可能知道今天自己带着记者参观的行程？他们闹这样一出究竟是为什么？难道真的就是为了简水儿这个名字？简水儿对于这些孤儿来说，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "他们来说，是生活里的油盐酱醋，无法缺少的。\n\n    简水儿……一向冷酷的鲍副局长唇角忽然泛起了一丝温暖的笑容，便是街中心这些令他厌恶的孤儿竟也不是这么可恶了。只是转瞬间他的笑容就凝结了起来。\n\n    这些可恶的孤儿今天让自己的颜面大为受损，今天这一幕如果真的上了新闻，新闻部与制作部之间的矛盾，肯",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

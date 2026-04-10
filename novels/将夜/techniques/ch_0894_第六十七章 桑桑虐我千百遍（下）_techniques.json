@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 894,
+  "chapter_title": "第六十七章 桑桑虐我千百遍（下）",
+  "filename": "ch_0894_第六十七章 桑桑虐我千百遍（下）.txt",
+  "char_count": 3633,
+  "timestamp": "2026-04-10T12:11:27.403092",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "耳酸的惨呼，但此时他连声音都发不出来，神殿里死寂的令人极度不安。\n　　宁缺的眼睛黯淡到了极点，就像是风中随时可能熄灭的烛火，又像是覆着青苔的旧墓夜间飘着的萤火，幽幽的很是}人。\n　　如果换成普通人，此时早已死了，即便是修行过浩然气的他，也断然支撑不到这个时候，但桑桑不让他死，他便死不了。\n　　活着，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "子。\n　　看着这个女子，他这辈子第一次生出如此强烈的恐惧，也正因为如此，他这辈子第一次生出如此强烈的愤怒。\n　　他像濒死的野兽般盯着桑桑，痛苦地喘息，眼眸血红。\n　　他无法说话，却能在意识里对她说话。\n　　“我操。”\n　　桑桑的脸上没有任何情绪，静静地看着他。\n　　他看着她说道：“我操你。”\n　　桑",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "骄傲的嘲讽表示不屑。\n　　神殿外的星光，静静地看着这幕最残忍血腥的画面。\n　　时间缓慢地流逝，这毫无疑问是宁缺此生最漫长的一个夜。\n　　他不断被凌迟，不断被治愈，极致的痛苦，让他无比地渴求死亡，他这才明白，原来死亡真的不是最可怕的事情，但此时他已无法死去。\n　　他的意识都因为痛苦而扭曲碎裂，渐渐模糊",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的血不停地淌落，他半眯着眼睛，透过血色的帘幕，看着地面上那个高胖的女子。\n　　看着这个女子，他这辈子第一次生出如此强烈的恐惧，也正因为如此，他这辈子第一次生出如此强烈的愤怒。\n　　他像濒死的野兽般盯着桑桑，痛苦地喘息，眼眸血红。\n　　他无法说话，却能在意识里对她说话。\n　　“我操。”\n　　桑桑的脸上",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "桑桑说道：“你确实成功地激起了我的愤怒。”\n　　宁缺忽然觉得自己的大腿间传来一阵凉意。\n　　按道理来说，他此时的身体已然因为痛苦而麻木，应该感觉不到什么凉意才是，那么说明这道凉意不仅来自生理上，也来自于心理上。\n　　宁缺艰难地低头望去，只见自己的双腿间血肉模糊一片，有个很重要的事物已经消失不见",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "上是走的嘻哈路线，神成人的过程，是将夜想写的重点，只不过我想走的路数不一样，我想偏家庭喜剧范，因为做为人来说，最扎实和普遍的，不就是家庭喜剧吗？）",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "不想臣服于她。\n　　桑桑站在神殿地面上，静静看着上方。\n　　宁缺腿上的裤子变成碎布，然后他的腿上出现无数道细细的红线。\n　　无形的刀不停地切割着，血肉如蝴蝶般离开他的身体，片刻后白骨渐现。\n　　宁缺的脸色异常苍白，眉眼因为痛苦而不停地抽搐，像是在哭，又像是在笑，他的嘴唇微微动了动，仿佛要说些什么。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "他面无表情说道。\n　　宁缺静静看着她，说道：“你有没有听说过意淫这个词？”\n　　话音落处，桑桑的神情骤然剧变。\n　　因为她感觉到有一双手正在抚摸自己的身体。\n　　那双手很淫亵，很放肆。\n　　那双手并不是真的手，而是一道意念。\n　　宁缺的目光落在她丰满的胸脯上。\n　　桑桑细眉紧蹙，觉得那双手探入自己的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "话，却能在意识里对她说话。\n　　“我操。”\n　　桑桑的脸上没有任何情绪，静静地看着他。\n　　他看着她说道：“我操你。”\n　　桑桑依然没有什么反应。\n　　他说道：“有本事你就杀死我，不然总有一天，你还是会被我压在身下，到时候我会像你今天这样，不停地操你。”\n　　桑桑说道：“愚蠢的人类。”\n　　她的声音",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "“操，是低级生命为了繁衍后代而进行的性行为，既然你试图让我始终记得曾经发生过的那次性行为，并且想要以后可能会发生性行为而威胁我，那么我便毁掉你的性器，没有性器，自然无法发生性行为。”\n　　桑桑看着他面无表情说道。\n　　宁缺静静看着她，说道：“你有没有听说过意淫这个词？”\n　　话音落处，桑桑的神情骤",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "宁缺腿上的裤子变成碎布，然后他的腿上出现无数道细细的红线。\n　　无形的刀不停地切割着，血肉如蝴蝶般离开他的身体，片刻后白骨渐现。\n　　宁缺的脸色异常苍白，眉眼因为痛苦而不停地抽搐，像是在哭，又像是在笑，他的嘴唇微微动了动，仿佛要说些什么。\n　　桑桑有些满意。\n　　血肉片在空中飘舞，双腿已成白骨，宁",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "说在自己离开的这些日子里，他的身上发生了一些什么变化。\n　　光明神殿里夜风轻拂。\n　　风很轻柔，比最温柔的情人的手还要温柔，落在宁缺身上，却给他带来了极度的痛苦，紧接着，他感到了难以抵御的寒意，冷的浑身轻轻颤抖起来，便是唇间吐出的气息都夹了一些霜花。\n　　他此时身上已经没有一寸完好的肌肤，便是肉都已",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

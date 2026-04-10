@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 953,
+  "chapter_title": "第一百二十六章 反正，都是剑（下）",
+  "filename": "ch_0953_第一百二十六章 反正，都是剑（下）.txt",
+  "char_count": 3419,
+  "timestamp": "2026-04-10T12:11:27.594526",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "地之间的无数秋风，便尽数进入他的双唇之间，开始拂洗佛心不停。\n　　如此佛威，天地自然有所感应，碧蓝的天空上飘着丝状的云，那些云被牵扯的更加细长，仿佛怎样拉也拉不断的糖丝。\n　　四周约一里范围内的野草忽然折下腰身偃倒于地，如在膜拜，露出那些不知人类还是兽类的白骨与蒙着尘的宝石，被风吹的不停滚动。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "开始抽搐，唇间吹出的那缕清风难以为继，散作一团护住面门。\n　　虽然他很愤怒，但清醒地知道，如果不把最危险的面门护住，君陌的下一剑，极有可能直接把他的头拍成碎片。\n　　君陌没有继续攻击，因为三名戒律院长老，此时在七念身后做好了出手的准备，他只想突破入山，自不愿意在此久留。\n　　血色僧衣微飘，君陌腾空而",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "会发生这样大的变化，行军路线不再奇诡，悍勇至极地向着峰下突进――完全不顾以叛军的实力，就算杀到峰下，最终也只能被歼灭――原来这是敲山震虎，他们要把山里的虎诱至平阳，君陌想做的事情是进山抢棋盘！\n　　看着那些如海水退潮般撤退的农奴叛军，七念沉默不语，知道凭自己和三位戒律院长老，或者还真不一定能把君陌拦",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "文。\n　　君陌伸手握住铁剑，念珠骤然崩断，变成满天的佛珠。\n　　戒律院长老们齐声断喝。\n　　那串念珠瞬间爆散，佛威笼罩原野之间。\n　　君陌掠起，踩着长老的头顶，高高跃起，然后落在远处的地面上。\n　　他就这样完全不讲道理地冲了过去。\n　　那些佛珠里的神通，尽数落在了他的身上。\n　　戒律院长老看着原野间",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "开始颤抖起来，溢着鲜血的唇角也开始抽搐，唇间吹出的那缕清风难以为继，散作一团护住面门。\n　　虽然他很愤怒，但清醒地知道，如果不把最危险的面门护住，君陌的下一剑，极有可能直接把他的头拍成碎片。\n　　君陌没有继续攻击，因为三名戒律院长老，此时在七念身后做好了出手的准备，他只想突破入山，自不愿意在此久留。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "绽现，不动明王法身再次显迹于原野之间，然后于刹那间敛入他的身躯之内，从此不见。\n　　看不见不代表就不存在，不动明王法身被七念收回身躯，从这一刻起，便不再是身外法身，而是身如法身，他的肉身坚若金刚。\n　　铁剑重重落在七念的脸颊上。\n　　啪的一声脆响，如同耳光响亮。\n　　七念的脸颊上出现一道极清楚的红印",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的肉身坚若金刚。\n　　铁剑重重落在七念的脸颊上。\n　　啪的一声脆响，如同耳光响亮。\n　　七念的脸颊上出现一道极清楚的红印，真的很像被人打了个耳光。\n　　然后他的脸以肉眼可见的速度变肿，九颗最坚固的牙齿被拍落，被震成碎屑，在他的嘴里弥漫开来，鲜血从唇角流下。\n　　身如不动明王法身，坚若金刚？只要不是讲",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "神通，谁能比他更快？\n　　君陌的剑，比呼吸更快，比秋风更快，比暴雨更快，不用一息时间，只是一眨眼，便来到了七念的身前、眼前，双唇之前！\n　　这道铁剑，竟似比没有发出的声音还要更快！\n　　君陌的剑，来到了七念的身前一尺。\n　　君陌的剑，就是君陌。\n　　七念，自然也来到了君陌的身前一尺。\n　　从柳白开始",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "水色。\n　　七念启唇，便是修行二十年的闭口禅。\n　　禅法闭口不言，启唇自然无声，只有一缕清风自双唇间缓缓游出，这缕清风是那样的温柔，那些的慈悲，其间隐隐有檀香弥漫。\n　　在无尽秋风肃杀意，找到那抹春风温柔意，这便是闭口禅的本事，淡淡檀香与风之清味相依并不相融，一味平静。\n　　佛法无声，并不是真的无声",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "厚云里积蕴。\n　　厚云骤散时，便有暴雨滂沱，便有雷声轰隆，那声佛吼，便将把君陌镇压在这荒凉的原野上，同时通知峰间悬空寺里的僧人。\n　　呼吸是人类的身体最经常做、也是最容易忘记的动作，所以自然，而且快速，在佛家里，呼吸也是一种时间度量，极短。\n　　呼吸之间，七念便启动了佛宗的大神通，谁能比他更快？",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "，抢至峰里，他需要的便是时间，除此之外一切都可以不管。\n　　当然这不代表他会不在意今天受的伤，只不过以后的事情以后再说。\n　　今后在战场上，他相信自己还会遇到七念，还会遇到那三名戒律院的首座，反正都会重逢，到时候自然会再来一剑。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "佛祖留下的棋盘――因为宁缺现在被困在棋盘里，生死未知，因为宁缺是他的小师弟。\n　　那座雄峻的山峰里有无数寺庙，未知佛阵，更有七念和戒律院长老这样的佛宗强者，他不认为自己能够硬闯上去，于是他带着叛乱的农奴在原野间不停突杀，借势把七念和戒律院长老诱到了此间。\n　　只要能够越过这四人，君陌便能直上峰间，如",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "修行二十年的闭口禅。\n　　禅法闭口不言，启唇自然无声，只有一缕清风自双唇间缓缓游出，这缕清风是那样的温柔，那些的慈悲，其间隐隐有檀香弥漫。\n　　在无尽秋风肃杀意，找到那抹春风温柔意，这便是闭口禅的本事，淡淡檀香与风之清味相依并不相融，一味平静。\n　　佛法无声，并不是真的无声。\n　　于无声处听惊雷，有",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

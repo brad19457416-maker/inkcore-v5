@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 290,
+  "chapter_title": "第九十六章 该谁走？",
+  "filename": "ch_0290_第九十六章 该谁走？.txt",
+  "char_count": 3412,
+  "timestamp": "2026-04-10T12:11:21.754752",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "上才落下的那枚黑子，看着对面的桑桑不解问道：“怎么能下这里？”\n　　桑桑睁着眼睛看着他，不解问道：“为什么不能下这里？”\n　　陈皮皮很仔细地给她讲解了如此下法的问题，然后非常不解地问道：“你是一个很聪明的人，而且记忆力又如此恐怖，那么在了解规则之后，只需要稍微动一动脑筋，便能知道问题所在，那你为什么",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "心里在想些什么事情，不由大感被轻蔑无视的羞辱，暴跳说道：“再找别的法子！”\n　　桑桑睁大眼睛看着他，心想这人长的真是有意思，明明鞋底跳离地面没有超过两寸，但落下来时的动静真大，弄得自己竟有些担心新买的瓮会不会被震裂。\n　　陈皮皮确实是聪明人，难受也在于他太聪明，竟从桑桑的眼神里清晰地明白了她的意思，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "当然是聪明人，所以从小侍女的神情他很清楚地明白对方心里在想些什么事情，不由大感被轻蔑无视的羞辱，暴跳说道：“再找别的法子！”\n　　桑桑睁大眼睛看着他，心想这人长的真是有意思，明明鞋底跳离地面没有超过两寸，但落下来时的动静真大，弄得自己竟有些担心新买的瓮会不会被震裂。\n　　陈皮皮确实是聪明人，难受也在",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "陈皮皮忽然想到一件事情，喊道：“且慢！”\n　　桑桑身形骤然一僵，然后加快脚步冲进里屋。\n　　陈皮皮猛然醒悟，不可置信说道：“你居然真背过这些银票上的字！”\n　　房门紧闭，门后一片安静。\n　　陈皮皮震惊无悟，良久后望着紧闭的房门痛心疾首说道：“我就没听说过有谁会无聊到天天在家里看银票！还背银票上的字",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "里氤氲着的圣洁光辉，想着世间这些天让长安城警惧不安的那件事情，这次真的傻眼了，拈着黑色棋子的手指微微颤抖，不知道应该是落到棋盘上，还是放回棋瓮里。\n　　老人低头看着棋盘上的局势，继续问道：“该谁走。”\n　　陈皮皮老实说道：“该我走。”\n　　说完这句话，他站起身来便准备走出老笔斋。\n　　老人抬起头来，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，上前重重捶了两下木门，喊道：“既然不怕输给我，那你陪我再比试一场又如何？”\n　　桑桑心想确实是这个道理，赢了对方一百两银子，总得让他把气给顺了，推门房门，看着陈皮皮认真说道：“但不许再赌银子，赌博不好。”\n　　为了不把银子输回来，竟能厚颜无耻到这种地步？陈皮皮愈发无语，看着小侍女微黑的脸颊，心想宁",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "过银子，今儿才知道比你这贪财的丫头差的远了！你们主仆俩到底是什么人啊！”\n　　桑桑紧紧抱着银票匣子，紧张地靠着木门，心想万一他强行冲进来怎么办？听着门外传来的破口大骂声和痛心疾首的教育，她又是害怕又是想笑。\n　　是的，先前她说过没有人会无聊到看银票，但她没有想到陈皮皮居然就真的信了，要知道在她看来，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "老笔斋。\n　　老人抬起头来，看着他疑惑说道：“我是说该谁走棋。”\n　　陈皮皮看着他看了很长时间，然后缓缓重新坐回椅中。\n　　他手指间拈着的那枚黑子轻轻落下。\n　　老人把手伸进棋瓮，摸出一枚白子，半晌没有落下，似乎在思索该如何应对。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "做比试的对象最是合适不过。\n　　陈皮皮说道：“不错，就用这个。”\n　　桑桑有些憨傻地笑了笑，说道：“同时看，同时记，然后公子先背。”\n　　陈皮皮挥了挥手，豪迈大气说道：“我怎么能占你这种小姑娘便宜，你先背。”\n　　……\n　　……\n　　“彤宝辰二八八九四胜己根耳利丰四五五。”\n　　“意莫辛宝银塞九七五",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "睛看着他，心想这人长的真是有意思，明明鞋底跳离地面没有超过两寸，但落下来时的动静真大，弄得自己竟有些担心新买的瓮会不会被震裂。\n　　陈皮皮确实是聪明人，难受也在于他太聪明，竟从桑桑的眼神里清晰地明白了她的意思，不由愈发羞辱难当，赶紧以手扶腰稳住微颤的胖肉，委屈难过说道：“按宁缺的话，太伤自尊了！今天",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "到看这个。”\n　　陈皮皮想了想，觉得这个提议着实不错。为了防止被假冒，各大钱庄都有自己独特的银票编码制度，银票上的编码不是单纯的数字，而且也没有什么固定的规律，极难记忆，用来做比试的对象最是合适不过。\n　　陈皮皮说道：“不错，就用这个。”\n　　桑桑有些憨傻地笑了笑，说道：“同时看，同时记，然后公子先",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "步冲进里屋。\n　　陈皮皮猛然醒悟，不可置信说道：“你居然真背过这些银票上的字！”\n　　房门紧闭，门后一片安静。\n　　陈皮皮震惊无悟，良久后望着紧闭的房门痛心疾首说道：“我就没听说过有谁会无聊到天天在家里看银票！还背银票上的字！宁缺这家伙平日里就像八辈子没见过银子，今儿才知道比你这贪财的丫头差的远了！",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "上的局势，继续问道：“该谁走。”\n　　陈皮皮老实说道：“该我走。”\n　　说完这句话，他站起身来便准备走出老笔斋。\n　　老人抬起头来，看着他疑惑说道：“我是说该谁走棋。”\n　　陈皮皮看着他看了很长时间，然后缓缓重新坐回椅中。\n　　他手指间拈着的那枚黑子轻轻落下。\n　　老人把手伸进棋瓮，摸出一枚白子，半",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

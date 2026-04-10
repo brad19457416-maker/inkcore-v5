@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 9,
+  "chapter_title": "第九章 愤怒的公牛",
+  "filename": "ch_0009_第九章 愤怒的公牛.txt",
+  "char_count": 2387,
+  "timestamp": "2026-04-10T11:53:11.020096",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "的暴躁之意愈来愈浓。\n\n    许乐本还有些担心，但这时候看见这头野牛的挑衅模样，也忍不住生出气来，心想我只不过想吃吃你的肉，用得着这么鄙视我？\n\n    只听得哞哞几声，封余的嘴里学着野牛的声音向着电子围墙那边吼了几声，野牛群首领顿时被激怒，向着电子围墙便冲了过来，紧接着封余便和许乐沿着围墙快速的",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "第九章 愤怒的公牛 \n\n    从某种意义上来说，联邦法律里最严苛，也是被执行的最为彻底的两条法律，便是第一宪章和野生动物保护法，也正是修理铺老板封余最痛恨的两条法律。[阅读文字版，请上]\n\n    第一宪章的由来早已久远不可考证，虽然触",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "在联邦公民的心中，似乎早已经习惯了它的存在，没有人提出过丝毫质疑，或许数十万年的文明平缓发展，让许多真相都湮没于历史的阴影之中。\n\n    而野生动物保护法，则是联邦历史中的另一道谜题，很多社会活动家一直不明白，为什么在联邦中，野生动物和天然植被的地位竟远远在人类之上。除了开采资源之外，联邦文明对于",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "展，让许多真相都湮没于历史的阴影之中。\n\n    而野生动物保护法，则是联邦历史中的另一道谜题，很多社会活动家一直不明白，为什么在联邦中，野生动物和天然植被的地位竟远远在人类之上。除了开采资源之外，联邦文明对于星球表面的改造极为有限，似乎有一只无形的手，一直推动着这个文明尝试与自然界更和谐的相处。",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "种钢材做成，内部配置着芯片管理系统，一旦受力过重，便会自动弹出电流。这不知多少年过去了，电子围墙不惧风吹雨打，毫无锈迹和被冲撞出来的痕迹，可想而知其坚固程度。\n\n    “老规矩，你杀牛，我望风。”封余大叔理所当然地吩咐道。\n\n    “呃……”许乐早已经认命了，垂头丧气地走到了电子围墙下面，下意识",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "第九章 愤怒的公牛 \n\n    从某种意义上来说，联邦法律里最严苛，也是被执行的最为彻底的两条法律，便是第一宪章和野生动物保护法，也正是修理铺老板封余最痛恨的两条法律。[阅读文字版，请上]\n\n    第一宪章",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "于，这种相处无法和谐，尤其是对于许乐封余这种特别喜欢吃肉的家伙来说——吃不到嘴里的肉，怎么能让人心情愉快？\n\n    虽然合成的食物已经能够达到很丰富的口感和滋味，可是世上总有人无法抹去本能里的那些东西，就是无比热爱天然的食材。\n\n    “这次可一定得小心一些，半年前杀了那头牛，ＨＴＤ的人把黑市掀",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "牛宠大的身躯指了过去。\n\n    滋的一声，蓝色的电弧闪动，公牛没有办法抵挡惯性，在与许乐擦身而过的瞬间，被那根小巧却又威力十足的军用电击棍直接击中。\n\n    轰的一声，公牛倒在了草地之上，激起一些尘土和草屑。许乐向它走了过去，脸上没有丝毫兴奋，只有警惕。\n\n    ——小说^t*xt-天.堂",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "发白，但他依然冷静，就在公牛锋利的犄角离自己还有一米远的时候，他左脚腕一扭，整个人向着侧方倒了下去，同时右手向着公牛宠大的身躯指了过去。\n\n    滋的一声，蓝色的电弧闪动，公牛没有办法抵挡惯性，在与许乐擦身而过的瞬间，被那根小巧却又威力十足的军用电击棍直接击中。\n\n    轰的一声，公牛倒在了草地",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "类身上散发出的敌意，警惕而嚣张地抬起了巨大的牛首，眼睛里的暴躁之意愈来愈浓。\n\n    许乐本还有些担心，但这时候看见这头野牛的挑衅模样，也忍不住生出气来，心想我只不过想吃吃你的肉，用得着这么鄙视我？\n\n    只听得哞哞几声，封余的嘴里学着野牛的声音向着电子围墙那边吼了几声，野牛群首领顿时被激怒，",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，暗想如果国防部招生考试的主官不是瞎子，一定能够看出这个少年的实力。\n\n    而如果让联邦社会里的人们，知道有人可以不经过电子解码，而直接翻越这道被黑市贩子称为哭墙的电子围墙，只怕会震惊的说不出话来。联邦的电子监控无处不在，为什么这个少年明显越境，脖子里的芯片却没有发出脉冲，监控系统没有反应！",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“ＨＴＤ如果真那么铁面无私……咳咳……”修理铺老板咳嗽着，说不出的嘲讽，他将烟头扔到脚下踩熄，说道：“钟楼街黑市上那些兔子肉羊肉从哪儿来的？”\n\n    “可咱们宰的是……野牛啊。”许乐还是有些后怕，“好几年都没人敢卖那个东西了。”\n\n    “我们又不卖给黑市。”封余一挥手，斩钉截铁说道：“",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

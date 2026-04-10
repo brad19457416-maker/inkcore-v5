@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 795,
+  "chapter_title": "第一百七十六章 君子国的不甘（下）",
+  "filename": "ch_0795_第一百七十六章 君子国的不甘（下）.txt",
+  "char_count": 3429,
+  "timestamp": "2026-04-10T12:11:27.166202",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "仿佛天地都感受到他生命燃烧所带来的炽热，淅微的雨水骤然间停止，原野上方的雨云渐渐消散，露出一线湛蓝的天空。\n　　阳光从云缝间洒落，落在他的身上。\n　　落在书院诸同门的身上。\n　　……\n　　……\n　　朝老太爷看着满街的唐人尸体，忽然间老泪纵横，然后又笑了起来，看着观主大声喝道：“……临大节而不可夺，君",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "立片刻，然后继续前进。\n　　他们疲惫地低着头，哪怕明知道已经晚了，却依然不肯停下自已的脚步，冒着生命危险，蛮不讲理地奔跑着，拼命地赶着路。\n　　……\n　　……\n　　杨二喜砍翻了一名东荒蛮人。\n　　他很珍惜这把从战场上得来的弯刀，把刀收回鞘中，从肩上取下草叉，然后重重地砸了下去，确认那名蛮人死透。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "符，依然飘拂在长安城的大街小巷里，隐匿在风雪中，借助着惊神阵补给的力量，始终没有散去。\n　　这是宁缺最强大的手段，但此时已经证明，并不能战胜观主。\n　　他看着观主的脚，仿佛在观主的鞋底下看到了密密麻麻的蚂蚁的尸体，这些蚂蚁都是最勇敢也是最无畏的，只是现在都已经死了。\n　　令人惊叹的勇气都不能改变天与",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "样的死去，能甘心吗？”\n　　回答他这个问题的是朝老太爷。\n　　朝老太爷拄着拐杖，颤巍巍走到人群之前，说道：“甘是甜，甘心就是舒服，怎么能让自已感到舒服？我不知道外面的人会说出怎样的答案，但对于我们这些老长安人来说，只要死的时候不感到羞愧，就会感到舒服。”\n　　“原来甘心可以如此解释。”\n　　观主看着",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "阵，这座城，是老师们和陛下托付给他的。\n　　那么直到死，他都不会放下。\n　　朝老太爷握着拐杖的手微微颤抖，声音骤然激昂。\n　　“可寄百里之命……”\n　　……\n　　……\n　　青峡前。\n　　君陌衣衫已正，冠已正。\n　　他单手执铁剑，望向原野间如铁流般的敌骑。\n　　他面无表情，开始燃烧最后的念力。\n　　仿",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "人惊叹的勇气都不能改变天与人之间的差距，那么人间的万姓，除了对昊天表示臣服还能做什么？不甘心又有什么意义？\n　　……\n　　……\n　　观主一生修道，修的便是昊天无情，而且他妙算无碍，最善隐忍，能忍之人，惯能忍人，绝对没有什么不忍之心。\n　　今日在雪街上争先赴死的唐人，虽然没有改变这场战斗的结局，但一幕",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "最后终结的人，但那些人无一例外都是超凡脱俗的大修行者，普通人却是极少。\n　　在长安这座城里，居然同时出现了这么多平静迎接死亡的普通人，这一点出乎了他的意料，或者说超出了他对普通人的评价。\n　　“唐人……或许真的有些特殊。”\n　　观主负手看着面前这些老弱妇孺，看着风雪中那一张张没有任何恐惧神情的脸，忽",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“像蚂蚁一样的死去，能甘心吗？”\n　　回答他这个问题的是朝老太爷。\n　　朝老太爷拄着拐杖，颤巍巍走到人群之前，说道：“甘是甜，甘心就是舒服，怎么能让自已感到舒服？我不知道外面的人会说出怎样的答案，但对于我们这些老长安人来说，只要死的时候不感到羞愧，就会感到舒服。”\n　　“原来甘心可以如此解释。”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "盔甲遮掩的清秀的面容，此时所有人都能看出来，原来这名军官竟是个女子。\n　　她是司徒依兰。\n　　她提着沉重的朴刀，带着满身的伤与怒，带着最后的下属，重新开始战斗，她不知道要战斗到何时，但知道要战斗到死亡或者胜利时。\n　　……\n　　……\n　　“长安有这样一句话，可托六尺之孤……”\n　　朝老太爷看着观主继",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，是老师们和陛下托付给他的。\n　　那么直到死，他都不会放下。\n　　朝老太爷握着拐杖的手微微颤抖，声音骤然激昂。\n　　“可寄百里之命……”\n　　……\n　　……\n　　青峡前。\n　　君陌衣衫已正，冠已正。\n　　他单手执铁剑，望向原野间如铁流般的敌骑。\n　　他面无表情，开始燃烧最后的念力。\n　　仿佛天地都感",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "面对最后终结的人，但那些人无一例外都是超凡脱俗的大修行者，普通人却是极少。\n　　在长安这座城里，居然同时出现了这么多平静迎接死亡的普通人，这一点出乎了他的意料，或者说超出了他对普通人的评价。\n　　“唐人……或许真的有些特殊。”\n　　观主负手看着面前这些老弱妇孺，看着风雪中那一张张没有任何恐惧神情的脸",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，在唐国的每一寸土地上回响。\n　　可托六尺之孤，可寄百里之命，临大节而不可夺，君子也！\n　　“我大唐从来都不缺少这样的人，大唐就是君子国。”\n　　朝老太爷盯着观主的眼睛，厉声说道：“如此美好的国度却要被你们这些贼老道从人间毁掉，你还问我是否甘心……”\n　　他举起拐杖便准备砸过去。\n　　“我干你奶奶！",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的嘀咕，他才万般不乐意地接了下来。\n　　但只刷了一半，便看到了那份公告，他便背着草叉与酒肉，离了家乡来到了遥远的东疆，学堂的墙不知何时才能刷完。\n　　不知道还有没有机会刷完。\n　　至少在他的手上。\n　　杨二喜看着故乡的方向，想着这些让他觉得很麻烦的事情，恼火地皱了皱眉，那道新添的伤疤又裂开了口子。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

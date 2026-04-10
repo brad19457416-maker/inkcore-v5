@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 74,
+  "chapter_title": "第十三章 爱情这东西",
+  "filename": "ch_0074_第十三章 爱情这东西.txt",
+  "char_count": 3290,
+  "timestamp": "2026-04-10T11:53:35.133203",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "行动不便地离开，戴着红色恶魔角的精灵，在晨雾之中悄然消失，就像她从来没有出现过。怅然若失的许乐睁着大大地眼睛，却不明白应该说对不起地是自己，为什么她要说　小＿说txt天'堂",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "浸在那种温暖而温柔的梦乡之中，双手生涩地按上着女孩儿娇嫩的胸部，觉得人生在这一刻似乎终于找到了真正的意义。\n\n    在黑暗中，伏在许乐怀里的张小萌哭了，哭的很伤心。听到哭声，许乐无比紧张地问道：“痛吗？”\n\n    “有点儿，还能忍。”\n\n    “……我忍不住了。”\n\n    “对不起……如果我",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "第十三章 爱情这东西 \n\n    这是许乐第一次在正式的餐厅里请一位异性吃饭，所以他稍微有些紧张，一旦紧张，眼神便会下意识里不去看别的地方，只是盯着对面唯一熟悉的那个女孩儿。\\\\然而一眼看过去，却看见了天蓝色吊带裙没有遮掩住的胸前春光，那两抹",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "欢你。”许乐再一次重复了那句话，因为是第二次的缘故，说的比先前自然了很多，他看着张小萌那张清秀的脸，心想，当你看着窗外的时候，我总想你能看着自己。这应该就是喜欢吧？\n\n    “为什么呢？”张小萌低下了头，有些慌乱，她今天只是想最后拥有一次淡淡的青春。尽情地享受，却没有想到许乐却给了她一个突然的问题",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "身体有些冷，睡裙搭在大腿上，显得无比柔滑。往日在芯片组和元件上无比稳定的手掌，顺着裙摆摸了上去，开始颤抖，触摸着光滑而微起寒栗的少女娇嫩肌肤，这秋日地寒冷早已变成了火热。\n\n    是不是太快了些？许乐只来得及想了这么一句话，便又沉浸在那种温暖而温柔的梦乡之中，双手生涩地按上着女孩儿娇嫩的胸部，觉得",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，这秋日地寒冷早已变成了火热。\n\n    是不是太快了些？许乐只来得及想了这么一句话，便又沉浸在那种温暖而温柔的梦乡之中，双手生涩地按上着女孩儿娇嫩的胸部，觉得人生在这一刻似乎终于找到了真正的意义。\n\n    在黑暗中，伏在许乐怀里的张小萌哭了，哭的很伤心。听到哭声，许乐无比紧张地问道：“痛吗？”",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "老实的男生，怎么也想不到对方居然会如此直接地对自己告白，一时间她的语言能力也变得匮乏了不少，吃吃艾艾说道：“你在……说什么？”\n\n    “我说，我很喜欢你。”许乐再一次重复了那句话，因为是第二次的缘故，说的比先前自然了很多，他看着张小萌那张清秀的脸，心想，当你看着窗外的时候，我总想你能看着自己。这",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "着张小萌那张清秀的脸，心想，当你看着窗外的时候，我总想你能看着自己。这应该就是喜欢吧？\n\n    “为什么呢？”张小萌低下了头，有些慌乱，她今天只是想最后拥有一次淡淡的青春。尽情地享受，却没有想到许乐却给了她一个突然的问题，而且这问题来的如此迅猛和坚定。\n\n    “喜欢一个人不需要理由。”许乐看着",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "个来自遥远宇宙深处的精怪。\n\n    房间里那个小门房正沉浸在白天的情绪之中，甜蜜而无限担忧地思考着将来，忘记了他应该做地所有事情，也根本无法入睡，然后发现自己做了一场梦，那个他在梦中轻轻拥抱着的女孩儿，钻进了他的被窝，紧紧地拥抱住了他。\n\n    女孩儿的身体有些冷，睡裙搭在大腿上，显得无比柔滑。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "道：“好看吗？”梨花大学安静的梨园后门。夜雾之中有一个女孩穿着单薄的睡衣，**着双足。在寒冷中悄悄地来到了小门房，敲开了门。她的头上戴着红色地小巧恶魔双角，看上去就像是一个来自遥远宇宙深处的精怪。\n\n    房间里那个小门房正沉浸在白天的情绪之中，甜蜜而无限担忧地思考着将来，忘记了他应该做地所有事情",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "第十三章 爱情这东西 \n\n    这是许乐第一次在正式的餐厅里请一位异性吃饭，所以他稍微有些紧张，一旦紧张，眼神便会下意识里不去看别的地方，只是盯着对面唯一熟悉的那个女孩儿。\\\\然而一眼看过去，却看见了天蓝色吊带裙没有遮掩住的胸前春光，那两抹被衣料包裹住一半的白嫩让他心头一乱，赶紧把视线上移",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "张小萌低下了头，有些慌乱，她今天只是想最后拥有一次淡淡的青春。尽情地享受，却没有想到许乐却给了她一个突然的问题，而且这问题来的如此迅猛和坚定。\n\n    “喜欢一个人不需要理由。”许乐看着桌子上地餐盘，盘上还残留着牛排和汁水，就像看着一个极难逾越的难关，双手紧紧地握着刀叉，说道：“如果从生理学和心理",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "懂。”\n\n    许乐抬起头来，盯着她的眼睛。犹豫片刻后认真说道：“以前我有一个长辈告诉我，如果少年时代碰见一个女生，明明长的很漂亮，但你却根本不想去窥视她地身体，更不敢在脑中幻想那些与**有关的事情，那就证明你喜欢上了她。而且是真正的那种喜欢。”\n\n    张小萌傻乎乎地看着他。问道：“这……这…",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "”\n\n    **着双足的女孩儿有些行动不便地离开，戴着红色恶魔角的精灵，在晨雾之中悄然消失，就像她从来没有出现过。怅然若失的许乐睁着大大地眼睛，却不明白应该说对不起地是自己，为什么她要说　小＿说txt天'堂",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "换。”\n\n    此时还是处男地许乐。自然相信爱情。选择性地忘记了大叔后面那段话。\n\n    长久的安静，餐厅远处的钢琴正在流淌着音符，间或有几声银制刀叉触碰在瓷面上地声音响起。在这片沉默之中，许乐低着头等待着对方地回答，没有注意到张小萌在长久的沉默之后，正用一种负疚而哀怨地眼光看着他。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[project]
+name = "inkcore-v5"
+version = "5.0.0-beta"
+description = "墨芯 v5.0 - 小说技法智能分析系统"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.0",
+    "pyyaml>=6.0",
+    "apscheduler>=3.10",
+    "fastapi>=0.100",
+    "uvicorn>=0.23",
+    "websockets>=11.0",
+    "httpx>=0.24",
+    # OpenViking 将在后续集成
+    # "openviking>=0.1.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4",
+    "pytest-asyncio>=0.21",
+    "black>=23.0",
+    "mypy>=1.5",
+]
+
+[tool.black]
+line-length = 100
+target-version = ['py310']
+
+[tool.mypy]
+python_version = "3.10"
+strict = true
+warn_return_any = true
+warn_unused_configs = true

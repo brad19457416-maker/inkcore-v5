@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1101,
+  "chapter_title": "第一百一十章 一山齐天，一棍齐眉",
+  "filename": "ch_1101_第一百一十章 一山齐天，一棍齐眉.txt",
+  "char_count": 3330,
+  "timestamp": "2026-04-10T12:11:34.911371",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "黑伞为大黑伞，就像习惯叫黑马为大黑马，因为确实很大，哪怕黑伞撑开后看着极小，实际上却大到可以遮住整片天空。\n　　只要能遮住眼，便能遮住天空。\n　　大黑马和青狮狗，惊恐不安地藏在桑桑的身后，藏在黑伞下方。桑桑举着黑伞，抱着宁缺，倚在他肩上，歪着脑袋，看着那座空中落下的山。\n　　观主的手越过寒潭，来到对",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "迎昊天重新在人间显露神迹，然而桑桑的脸却有些苍白。\n　　她蹙起了眉尖，柳叶般的眼睛更加眯了，显得有些愤怒，有些不悦，与没能射死观主无关，她的不悦始终是因为自己的身体状态――她无法容忍自己这般弱小，需要和人类进行这样的战斗，甚至，还无法取胜。\n　　是的，先前帮助宁缺射出那一箭，她已经尽了最大的力量，天",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "与没能射死观主无关，她的不悦始终是因为自己的身体状态――她无法容忍自己这般弱小，需要和人类进行这样的战斗，甚至，还无法取胜。\n　　是的，先前帮助宁缺射出那一箭，她已经尽了最大的力量，天算瞬间而动，消耗极大，此时再想算出观主的方位，有些不适，小腹隐隐作痛。\n　　这场战斗是最高层级的战斗，自人类历史开篇",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "惯常被称作天弃山，因为这里是魔宗的固有势力范围，所以这里是被昊天遗弃的山脉。\n　　观主是道门之主，按道理来说，他与这道巍峨山脉的气息并不相通，甚至相抵触，但现在不同，就像千年之前曾经的同门――那位开创明宗的光明大神官一样，他已经背叛了昊天，更准确地说，他遗弃了昊天！\n　　他和这座被昊天遗弃的山脉融为",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "再拥有世人难以企及的强大境界，但她帮助宁缺射出的这一箭，却比光明祭时，宁缺射向清河郡的那道铁箭更强，为什么？\n　　因为光明祭时，宁缺是用二人之间的本命联系，强行夺取了掌教熊初墨的天启，把她的力量尽数揽入怀中，而这一次却是她的主动意愿。\n　　这是真正的天人合一，谁能敌？\n　　宁缺在她身边，再次弯弓搭箭",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "手里，却一朵黑色的花盛开――那是一把破旧的黑伞。\n　　已经消失了很长时间、不知去了何处的黑伞，就这样出现在她的手里，伴着一声响撑开，迎向空中落下的那道山脉。\n　　黑伞如当年一般破旧，伞面上满是灰尘与油腻，曾经被佛光照耀露出本体的伞面，不知何时，又变回了原来的模样。\n　　宁缺和她习惯叫黑伞为大黑伞，就",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "碧空，碾压到寒潭之上，巨山之下，大黑伞看着就像个不起眼的黑点。\n　　轰隆巨响，连绵不断地响起！\n　　无数烟尘，向着天空与四野的荒原喷射，无数石砾，像万枝羽箭一般，把天空割出无数道痕迹，整个世界都开始震动起来。\n　　地面剧烈地震动，远处的山峦间深深抓着岩石的松树，都被震向半空，更远处雪峰下的那些蓝色的",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "伞下方。桑桑举着黑伞，抱着宁缺，倚在他肩上，歪着脑袋，看着那座空中落下的山。\n　　观主的手越过寒潭，来到对岸。整座天弃山脉，破开碧空，碾压到寒潭之上，巨山之下，大黑伞看着就像个不起眼的黑点。\n　　轰隆巨响，连绵不断地响起！\n　　无数烟尘，向着天空与四野的荒原喷射，无数石砾，像万枝羽箭一般，把天空割出",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "直接剧烈，两道山崖里出现了无数裂缝，到处都有岩石剥落垮塌，像瀑布一般，声音很是惊心动魄。\n　　那两扇沉重高大的城门，阻挡了草原蛮人无数年，此时已经严重变形，扭曲，露出极大的豁口，数百年来从来没有被陷落的军事要塞，眼睁睁地毁了！\n　　种种恐怖的声响音浪，神奇而不可再现的人间丽景，山崖渐倾，要塞被毁，都",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "人类进行这样的战斗，甚至，还无法取胜。\n　　是的，先前帮助宁缺射出那一箭，她已经尽了最大的力量，天算瞬间而动，消耗极大，此时再想算出观主的方位，有些不适，小腹隐隐作痛。\n　　这场战斗是最高层级的战斗，自人类历史开篇以来，便只有夫子入神国与昊天战引发的那场百日大雨更胜一筹，自然只需瞬间，便能分出胜负。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "宁缺用最快的速度将她捆在自己身前，翻身上马。\n　　残破的山崖里响起一道冷漠的声音。\n　　观主看着他说道：“你以为还能逃走？”\n　　宁缺没有回答，此时桑桑已然重伤难战，单凭他，确实很难从观主的手里逃脱，但他知道肯定会有人来帮助自己。\n　　只要他知道自己在哪里，他就一定会来――观主发出惊天动地的一击，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "。\n　　那两扇沉重高大的城门，阻挡了草原蛮人无数年，此时已经严重变形，扭曲，露出极大的豁口，数百年来从来没有被陷落的军事要塞，眼睁睁地毁了！\n　　种种恐怖的声响音浪，神奇而不可再现的人间丽景，山崖渐倾，要塞被毁，都只能说明，观主落向寒潭对面的那只手，恐怖到了什么程度。\n　　不知过了多长时间，地震终于",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "里方圆里的天地，指向任意一处，只要听到她的声音，便会松开弓弦。\n　　满山的野花被风拂起，飘至高空然后缓缓坠下，看着就像是天女隐藏在云端散花，恭迎昊天重新在人间显露神迹，然而桑桑的脸却有些苍白。\n　　她蹙起了眉尖，柳叶般的眼睛更加眯了，显得有些愤怒，有些不悦，与没能射死观主无关，她的不悦始终是因为自己",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "能撑住观主带来的这场灭顶之灾！\n　　桑桑没有给他这个机会。\n　　她的手自宁缺腋下穿过，像是要给他一个温暖的拥抱，下一刻，她的手里，却一朵黑色的花盛开――那是一把破旧的黑伞。\n　　已经消失了很长时间、不知去了何处的黑伞，就这样出现在她的手里，伴着一声响撑开，迎向空中落下的那道山脉。\n　　黑伞如当年一般",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

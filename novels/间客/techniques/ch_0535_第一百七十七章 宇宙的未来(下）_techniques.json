@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 535,
+  "chapter_title": "第一百七十七章 宇宙的未来(下）",
+  "filename": "ch_0535_第一百七十七章 宇宙的未来(下）.txt",
+  "char_count": 4243,
+  "timestamp": "2026-04-10T12:05:08.575334",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "了观看狂潮，想必第三集一出，又会出现无数台电视光幕变成同一画面的壮观景象。\n\n    许乐微微一怔，心想好像比新闻频道预告要提前子些时间，会不会与前些日子那个新闻事件有关？\n\n    兰晓龙挤到人群里，大声问道：“你又想一个人溜哪儿去玩？把我带着。”\n\n    许乐看了他一眼，老实回答道：“我要去纬",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的红油鼠肉了。”\n\n    胜利军事行动，联邦已然必胜，这位军方的最高指挥官胸臆中生出淡淡厌倦之意，说道：“帝国那位公主在星云那边等着我们，但联邦的太子爷已经开始脱衣服赤膊上阵，还有你，有许乐这个连我都经常觉得莫名其妙的家伙，我似乎有些期盼将来会发生些什么事情。”\n\n    听到太子爷这三个字，李封",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "心，用的是费城家中的名义，想必军方会慎重对待。\n\n    许乐一怔，不明白是什么样的礼物，居然要占据紧张的军用物资输送渠道，并且让简水儿愿意调用费城李家的权威地位。\n\n    百思不得其解，他去了封邮件认真地询问一二，处理完手头这些事情后，他走出营房，低声对白玉兰交待了几句，便开着黑色汽车向营房外驶",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "件来自商秋，她介绍了一下眼下果壳工程部关于在w机甲上加载增压系统的研制进度，同时询问了一下，在最近的战斗中，那台工程部全体同仁专门为许乐调较，用起来感觉如何。\n\n    许乐在回复的邮件中只写了谢谢二字，便停了下来，脸上闪过一丝苦笑。在这几个月的战斗中，他从来没有机会使用机甲，哪里能谈及什么感受？",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "最新指示，所以他们无法进行针对性的培训，只好被勤奋到令人发指地进行艰苦模拟战场撤退科目演练，以保证在日后的战场上，能够多活几个伙计。\n\n    在训练场地旁边的阴影处，金星纪录片厂的摄像组依然在忠实地执行他们的工作，拍摄出海量的素材，然后剪辑浓缩成短短的几十分钟，送到千家万户的电视光屏中。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "一怔，心想好像比新闻频道预告要提前子些时间，会不会与前些日子那个新闻事件有关？\n\n    兰晓龙挤到人群里，大声问道：“你又想一个人溜哪儿去玩？把我带着。”\n\n    许乐看了他一眼，老实回答道：“我要去纬二兔子。”\n\n    兰晓龙脸色微黑，倒吸一口冷气说道：“我不歧视同性恋，但您这样正大光明地吼",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "） \n\n    三颗沦陷星上的铺网进程已经突破百分之九十七，整个联邦三分之一的兵力全部砸了进去，藏在山里的帝国人除了合成肉还有什么可以吃的？就算换个白痴来当总司令，也不可能再输，我还留在这里做什么？”\n\n    钟瘦虎微微侧身，望向战舰下方那颗美丽的星球，黑暗与光明的分界线在淡黄色的星球上是那样的明",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "不出金来，战场生死的自然淘汰才能真正欢迎最后的胜利者。”\n\n    随着3行星的自转，联邦战舰群缓缓进入黑暗天穹区“恒星的光芒被行星挡住绝大部分，四周的空间由深蓝在往重墨过渡，阴影从落地舷窗外渗了进来，将椅上的钟瘦虎身躯全部覆盖，也为他的这句话蒙上了一层冷冽的怪异味道。\n\n    “联邦上层一直在关",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "还有几句，上飞机时穿短袖，下飞机前空姐甜甜说零下十三度，身旁在三亚呆了四个月的哈尔滨大叔愤怒的都快爆了，我没有爆，我带了足够保暖的衣服的。\n\n    然而还是感冒了。重复第n遍的感慨，咱们伟大的祖国真丨他妈的太大了，重复第n加1次的感慨，我是一只并不多愁善感却格外易感，长相粗笨难看却格外",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "李封不期然想到很小的时候，祖父拖着自己说过的那句话。由这话延伸联想到十二岁便开始的畸形铁血人生，想到战场上所经历的一幕幕惊险甚至是硝烟间死神的冷冷一瞥1年轻中校那颗向来不知畏惧为何物、暴戾无双的大心脏竟是猛地一缩。\n\n    冰川矿坑，荒原密林，流弹那么多，碎石那么密，烧不尽的野火并不知道",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "许人类的历史，联邦的发展，终究还是会一如数万年间那般无聊黑暗，但总得坚信未来是有可能干净的，这样不明真相的公民们才能走的比较坚定”\n\n    “这句是乔治卡林说的，我比较同意，我希望宇宙的未来是你们这批干净的年轻人，但很悲哀的是，我似乎总能看到你们将来也会像我一样染上那种令人厌恶的老旧气息。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "则是那部叫做《七组》的纪录片，这部纪录片只播放了两集，便在联邦里引发了观看狂潮，想必第三集一出，又会出现无数台电视光幕变成同一画面的壮观景象。\n\n    许乐微微一怔，心想好像比新闻频道预告要提前子些时间，会不会与前些日子那个新闻事件有关？\n\n    兰晓龙挤到人群里，大声问道：“你又想一个人溜哪儿",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "倒吸一口冷气说道：“我不歧视同性恋，但您这样正大光明地吼出来，是不是有些过于嚣张无耻”\n\n    他马上转身离开黑色汽车，骂咧咧埋怨道：“这他妈的就是联邦重点培养的未来？”\n\n    （必须啰嗦几句，废话：昨天上午写了几百字，中午上大巴，傍晚到武汉，在机场写了几百字，很苦，在飞机上写了一千多字，写完",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "细阅读一份果壳公司的内部通稿，实际上却是在脑海中通过中央电脑的帮助，梳理着那两个白色光点的行动轨迹，同时关心联邦军事行动的动静。\n\n    “不要再念席勒的台词了，我们顶得住，刘佼可顶不住。”他抬起头，对舞台剧演员一般的兰晓龙挥了挥手。\n\n    “哟，我只知道咱们的许乐长官能一鼻子嗅明白”系列机甲",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "来，如一只碗般扣在腹部的治疗仪随之上下起伏，似乎随时可能射将出去。\n\n    白玉兰担忧地望着他，很担心他会不会把肠子笑出来或者笑断。\n\n    许乐坐在军用板凳上，看似在仔细阅读一份果壳公司的内部通稿，实际上却是在脑海中通过中央电脑的帮助，梳理着那两个白色光点的行动轨迹，同时关心联邦军事行动的动静",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "。\n\n    许乐在回复的邮件中只写了谢谢二字，便停了下来，脸上闪过一丝苦笑。在这几个月的战斗中，他从来没有机会使用机甲，哪里能谈及什么感受？\n\n    在邮件的最后，商秋很认真地提到，可能在不久之后，她会带一个测试小组亲自来西林前线。\n\n    想到前线无处不在的死亡，许乐眉梢微重有些担心，恍然间",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "浪淘不出金来，战场生死的自然淘汰才能真正欢迎最后的胜利者。”\n\n    随着3行星的自转，联邦战舰群缓缓进入黑暗天穹区“恒星的光芒被行星挡住绝大部分，四周的空间由深蓝在往重墨过渡，阴影从落地舷窗外渗了进来，将椅上的钟瘦虎身躯全部覆盖，也为他的这句话蒙上了一层冷冽的怪异味道。\n\n    “联邦上层一直",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "novel": "将夜",
+  "chapter_number": 793,
+  "chapter_title": "第一百七十四章 君子国的不甘（上）",
+  "filename": "ch_0793_第一百七十四章 君子国的不甘（上）.txt",
+  "char_count": 2401,
+  "timestamp": "2026-04-10T12:11:27.164230",
+  "techniques_count": 8,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "多人，震飞了很多人，越过了很多人，无视很多人，步步行来，身后尽是鲜血。\n　　朱雀大道上到处都是死伤的人群。\n　　观主走到了宁缺身前不远外。\n　　此时在二人之间，只剩下了最后的数百名老弱妇孺。\n　　瘦道人这辈子都生活在长安城里，从最普通的小道士变成现在的道人，却依然只是在那个小道观里生活。他没有见过西",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "包围。\n　　这名军官有些矮小，不像一般的唐军那般强壮有力，但在这样危急的时刻，他却暴发出来难以想象的战斗力，连续砍倒了三名敌人。\n　　数柄弯刀破空而至。\n　　矮小的军官举刀相格，被压的单膝跪下，苦力支撑。\n　　他听到丘陵四周传来的痛呼声，越过眼前飘拂的发丝，他看到很多同伴战死倒下，看着那些蛮人在同伴",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "意味着伐唐联军，确认长安城能够被攻破。\n　　朝小树的脸，瘦削的像是被切开的硬石，黝黑而憔悴。\n　　寒风吹拂在他的脸上。\n　　晚了很多天，他和他的骑兵才去追，应该追不上了。\n　　就算追上，又能如何？\n　　但他依然要求部属继续向着长安城狂奔。\n　　因为他，不甘心。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "死去的唐人，仿佛就是在证明他的这句话。\n　　然而看着被血染红的长街，看着不停倒下的人，宁缺的心却开始颤抖起来，睫毛上残留的冰霜发出细碎的声音。\n　　远处传来一声清啸，他知道大师兄终于赶来，并且出手――这并不是书院寻找的时机，书院的时机在宁缺在身上，然而面对着喋血的长街，大师兄无法再等待沉默下去，就像",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "受过的那些了不起的人。\n　　无论是夫子还是小师叔，或者是莲生，都是真正大彻大悟，自我解脱然后明白自已究竟想要什么的人，所以他们强大的难以想象。\n　　观主也是这样的人。\n　　今日书院败在观主手中，是理所当然的事情，书院信奉理所当然，那么便应该长街上死去的那些人们一样平静而从容。\n　　但他做不到这点。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "机在宁缺在身上，然而面对着喋血的长街，大师兄无法再等待沉默下去，就像此时的他也快要忍不住一样。\n　　来到这个世界已有二十余年，他依然坚信自已是非典型唐人，遇见过太多黑暗的他，向来信奉冷血的生存法则，只要能够活着，付出怎样的代价都可以，他的心就像先前被观主寂灭意冰封的身体一样冷酷。\n　　冰雪剥落大半，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "声，从小道士手中接过香炉，朝观主砸了过去。\n　　香炉是小道观用来祭奉昊天的，真材实料，青铜打铸，非常沉重，瘦道人心情很沉重，而且很瘦弱，哪里能够掷远。\n　　只听啪的一声闷响，香炉砸到了瘦道人的脚上，脚上顿时冒出血来，他连声痛唤，在小道士的搀扶下才没有摔倒。\n　　楚老太君从三媳妇儿的手中接过马刀，拦在",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "讳热血这种感受，但看着无数人死在观主身前，从伤口里流出的血怎能不冒出热雾？\n　　只是热血代表着希望与渴望，宁缺渴望活着，希望能够战胜观主，面对着这个寻找不到一丝希望的故事结局，热血又有何用？\n　　不时有人从他的身边跑过，向着不远处的观主冲去，他从雪地里拣起先前落下的朴刀，艰难地撑住自已的身体。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

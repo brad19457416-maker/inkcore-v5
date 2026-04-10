@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 880,
+  "chapter_title": "第五十三章 剑起时，你我在桥的两头",
+  "filename": "ch_0880_第五十三章 剑起时，你我在桥的两头.txt",
+  "char_count": 4547,
+  "timestamp": "2026-04-10T12:11:27.384839",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "之声响。\n　　依然是西陵教典奉天篇，却来自南海诸神官之口。\n　　包括赵南海在内，南海诸人都不知道自己为什么要开始颂祭，仿佛冥冥中有个声音对他们发出了指引。\n　　他们脸色苍白，眼眸里充满了敬畏的神情。\n　　西陵神殿的神官、天谕院的师生，还有瑟瑟发抖跪在前坪上的数万信徒，都开始跟随南海诸神官颂祭，神圣庄",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "第五十三章 剑起时，你我在桥的两头\n　　一股莫名的威严，从桃山巅峰落下，笼罩了整个前坪。\n　　人们感觉到了不属于人间的力量。\n　　神辇里，掌教大人毫不迟疑的双膝跪下。\n　　叶红鱼想了想，缓缓从坐姿变成跪拜的姿式。\n　　赵南海先前正准备斥责叶红鱼，忽然感觉到这道天",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "神殿的普通执事，还有天谕院那些不起眼的杂役，黑压压的一片。\n　　来自光明神殿的磅礴神力，便落在那处的人群中。\n　　落在人群里一名青衣小厮的身上。\n　　昊天的神力不停灌进他的身体里，始终未曾断绝。\n　　看上去就像是一座桥。\n　　这座桥的那头在山上，这头在山下。\n　　那头在她的身上，这头在他的身上。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "便会变成纯净的昊天神辉，他会被烧成青烟，而其后还会发生什么事情，便再也没有人知道。\n　　他看到湛蓝的天空里，好像多出了一条缝。\n　　他好奇说道：“你们快看，天要开了！”\n　　没有人听到他的声音，因为桃山前坪绝大多数人的心神，都集中在颂祭上。\n　　南海少女小渔看着他，泫然欲泣，满脸悲伤，然而这是昊天的",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "向的桃山，对山顶那座光明神殿，对光明神殿里的她的态度。\n　　掌教大人是场间最注意到这幕画面的人，他很愤怒，然后有些不解，他想不明白，剑阁与书院之间有深仇未解，柳亦青双眼便是被宁缺斩瞎，不知多少剑阁弟子死在唐人的手中，柳白最多在这场道门与书院的战争里保持中立，怎么可能像现在这样，居然敢用自己的剑挑衅桃",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "诚地跪下。\n　　桃山前坪所有人都跪了下来，包括佛宗僧人在内，都没有例外。\n　　陈皮皮坐在白石祭坛上，心想自己反正是要死的人了，那还跪个屁。\n　　唐小棠知道谁在桃山之上，所以她不想跪，如果你是昊天，我是明宗弟子，怎能跪你？如果你是桑桑，我是你的朋友，凭什么跪你？\n　　她倔强地站着，承受着无穷无尽的压力",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。\n　　满天桃花，呼啸秋风里，陈皮皮大骂一声，四仰八叉地躺在了祭坛上，姿式虽然极为不雅，却在与昊天的战斗里再次获得了胜利。\n　　宁缺跪的很快，甚至比身旁那些杂役小厮跪的更快一些，一面跪一面安慰自己，这些年让你跪着替我洗脚很多次，今天还你一次又如何？\n　　天地之间有风声，然后有颂祭之声响。\n　　依然是",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "，没有感受到一丝恢宏神力的味道！\n　　天启呢？自己不是动用了天启神通，为什么自己感受不到体内有神力的存在？究竟发生了什么事情！\n　　柳白的剑根本没有进入巨辇，也没有在掌教身前停留，只是依照书院的请求，以剑意凌之，便向桃山上飞去。\n　　这把剑没有刺向错愕中的掌教，因为这把剑来自人间，却已经在人间之上，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "震惊于对方的选择，愤怒于对方敢令昊天感到不悦，但他其实也很欢迎这种情况。\n　　既然二十三年蝉始终不敢出现，那么便让我毁掉你的剑，杀掉你这个世间第一强者，替西陵神殿重筑无上威望吧！\n　　西陵掌教大人乃是逾五境的至强者，被昊天治愈好，威势更胜从前，然而即便如此，如果还是当年，面对剑圣柳白时，他也不会像现",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "他的敌手？\n　　掌教伸出双手，掌心隔着巨辇，迎着湛湛青天。\n　　一道磅礴的力量，自桃山光明神殿降落，来到桃山前坪。\n　　这道力量是那般的恐怖，比先前的天地之威强上无数倍！\n　　掌教看着自己新生的嫩嫩的手掌，微笑想着，自己才是昊天之下最强的那个人，无论柳白还是林雾，哪怕夫子复生，也不是我的对手！",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "道：“剑圣大人，快把我救上一救。”\n　　宁缺看着微微仰首的那把剑，沉默不语。\n　　余帘说没有变化，因为人算不如天算，大概是真的，所以她什么都没有算，只是顺着天意而行，那么便有变化发生。\n　　他一直在等的变化，终于发生了。\n　　……\n　　……\n　　桃山千里之外是南晋，南晋有剑阁。\n　　剑阁弟子们跪在那",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。\n　　人们感觉到了不属于人间的力量。\n　　神辇里，掌教大人毫不迟疑的双膝跪下。\n　　叶红鱼想了想，缓缓从坐姿变成跪拜的姿式。\n　　赵南海先前正准备斥责叶红鱼，忽然感觉到这道天地之威，神情剧变，哪里还敢多言，满脸敬畏地跪拜于地。\n　　西陵神殿里所有人都跪下了，南海诸人跪下了，金帐国师万里迢迢来桃山参",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，而其后还会发生什么事情，便再也没有人知道。\n　　他看到湛蓝的天空里，好像多出了一条缝。\n　　他好奇说道：“你们快看，天要开了！”\n　　没有人听到他的声音，因为桃山前坪绝大多数人的心神，都集中在颂祭上。\n　　南海少女小渔看着他，泫然欲泣，满脸悲伤，然而这是昊天的意志，即便她是他的未婚妻，也不敢逆天行",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

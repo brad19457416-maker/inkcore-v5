@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 179,
+  "chapter_title": "第一百一十八章 葬礼",
+  "filename": "ch_0179_第一百一十八章 葬礼.txt",
+  "char_count": 3418,
+  "timestamp": "2026-04-10T12:04:45.699454",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "间所有人等待。\n\n    总统阁下的科学顾问与伞下的沈教授亲切握手后。站在墓坑旁。十分沉重而怀念地对众人宣读了总统先生的亲笔信，高度赞扬了沈老教授很多年以前，为联邦的机甲研制所发挥的重要作用……\n\n    许乐眯着眼睛。看着细雨中所有人地表情，他知道所谓葬礼不过是另一种交际地方式，可是想着墓坑中正在",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "葬礼。葬礼地地点选在首都郊外地银河公墓园。当三三两两地黑色汽车。沿着山间公路缓缓向墓园驶去时。深春地天空忽然下起雨来。雨点淅淅沥沥。润泽着这个充满了宁静气氛地世界。\n\n    许乐撑着一把黑雨伞。沉默地站在沈教授地身后。替他遮挡着来自天上地冷雨。双眼平静地扫视着墓坑旁地人群。\n\n    沈老教授虽然",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "被调离了实验室区域，接下来的办公地点距离停车场倒不远。\n\n    从一名研究人员变成一个打杂的，毫无疑问这是一种羞辱和沉重的打击，但他的表情很平静，这种平静反而让那名主任感到了一丝不妥。\n\n    昨天夜里邹郁已经帮他分析了情况，虽然说他的手里握有沈老教授和果壳机动公司之间的协议，可以阻止那些人进入",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "昨天夜里邹郁已经帮他分析了情况，虽然说他的手里握有沈老教授和果壳机动公司之间的协议，可以阻止那些人进入沈老教授的实验室，但是他的人却依然属于果壳研究所和国防部管辖，只需要一个人事调动的命令，那些人便可以把他赶到边缘地带，剥夺他的权限，让他再也无法靠近实验室。\n\n    不能靠近实验室，自然无法阻止",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第二天是沈老教授地葬礼。葬礼地地点选在首都郊外地银河公墓园。当三三两两地黑色汽车。沿着山间公路缓缓向墓园驶去时。深春地天空忽然下起雨来。雨点淅淅沥沥。润泽着这个充满了宁静气氛地世界。\n\n    许乐撑着一把黑雨伞。沉默地站在沈教授地身后。替他遮挡着来自天上地冷雨。双眼平静地扫视着墓坑旁地人群。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "离了联邦地学术中心。但毕竟是一位星云奖得主。在学术圈里名望极高。此时斯人已逝。不论是否已经遗忘了他地存在。很多人还是选择来送他最后一程。\n\n    参加葬礼地人们。穿着深色地衣服。大部分是黑色。胸口别着一朵小白花。在这深春冷雨景致之下。衬着墓园背后地冷山。透出了一份悲伤庄重地感觉。\n\n    许乐地",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "第一百一十八章 葬礼 \n\n    联邦里什么时候出现过像你这样目无长官的东西！”\n\n    果壳机动公司研究所三部主任官员，佩的是文职上校军衔。他坐在自己办公室的椅子上，大声地训斥道。他看着面前这名面相平凡的助理研究人员，想到昨天被此人拦在实验室门",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，接下来的办公地点距离停车场倒不远。\n\n    从一名研究人员变成一个打杂的，毫无疑问这是一种羞辱和沉重的打击，但他的表情很平静，这种平静反而让那名主任感到了一丝不妥。\n\n    昨天夜里邹郁已经帮他分析了情况，虽然说他的手里握有沈老教授和果壳机动公司之间的协议，可以阻止那些人进入沈老教授的实验室，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "见面的场景，但怎么也没有想到，会是在一场葬礼上。宣读完总统先生地亲笔信，那位科学顾问先生，又与沈教授轻声交谈了几句，表达了一下私人的慰问，这才摘下胸口地白花，轻轻地放入墓坑之中。\n\n    有了开始，便有结束，参加葬礼的人们，纷纷将自己胸前的白花扔进墓坑之中。黑色棺木之上，似乎飘着一层白雪。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "权威被挑战的阴怒。\n\n    “从今天起，你被调到了后勤部门。”主任轻蔑地看了一眼许乐，这种使用手中权力玩弄下级的手法，让他的心情变得舒服了许多。他直接将手里的文件扔了过去，骂骂咧咧道：“以后这些年，你看我怎么玩死你！”\n\n    许乐从脚边拣起那些人事调动的文件，打开文件夹看了看，发现自己已经被调",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "这种使用手中权力玩弄下级的手法，让他的心情变得舒服了许多。他直接将手里的文件扔了过去，骂骂咧咧道：“以后这些年，你看我怎么玩死你！”\n\n    许乐从脚边拣起那些人事调动的文件，打开文件夹看了看，发现自己已经被调离了实验室区域，接下来的办公地点距离停车场倒不远。\n\n    从一名研究人员变成一个打杂",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

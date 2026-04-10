@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 1078,
+  "chapter_title": "第三百八十八章 那小爷我就是星空灿烂",
+  "filename": "ch_1078_第三百八十八章 那小爷我就是星空灿烂.txt",
+  "char_count": 5630,
+  "timestamp": "2026-04-10T12:05:26.947297",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "严重违背最高三定律……”\n\n    “不要跟我说三定律，我见过你违规，我更知道面对让前代文明消失的大危机，设定程序的五人小组肯定给会你设置例外程序……”\n\n    联邦中*央电脑没有反驳，沉默0.002秒钟后机械回答道：“烈阳号战舰没有远程控制芯片，战舰内部信号屏蔽系统完备，除你之芯片信息，无法捕捉",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "个重要消息后，因为许乐侵入而略显紧张的战舰内响起一片热烈的掌声和欢呼声，甚至有激动的军官把军帽扔上了天空。\n\n    站在观察窗边望着监控光幕的李在道，神情依旧平静甚至显得有些冷漠，负在身后的两只手上青筋隐现。\n\n    因为战舰下层那个房间里的安静，因为许乐此时那些看不出目的的动作，因为先前他手镯",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "丝仿佛嗅到某种气息，嗤的一声从手镯里弹了出来。\n\n    能够摘取或者替换颈后的身份芯片，是大叔的大秘密，也是他的大秘密，这个秘密有些人猜到过，但从来没有人能够确认。\n\n    然而此时此刻，他没有提前毁去房间里的探头，对让李在道或者战舰内更多人看到这一幕，显得完全不在意——ａ今天他和这艘名为烈阳号",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "绷，开始剧烈的抖动，尖锐的前端像受惊的蛇般拼命向下钻去！\n\n    微弱的电流从手镯金属丝不停输入，瞬间连通了神经系统，在淡至不可闻的焦糊味道里，许乐因为那种极致的痛楚颤抖起来。\n\n    片刻后，他体内神经束里的生物电流，相对缓慢抵达颈后的芯片，被烙印上特殊而唯一的身份信息片段，激散成脉冲信号散出",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "行。\n\n    确认这个重要消息后，因为许乐侵入而略显紧张的战舰内响起一片热烈的掌声和欢呼声，甚至有激动的军官把军帽扔上了天空。\n\n    站在观察窗边望着监控光幕的李在道，神情依旧平静甚至显得有些冷漠，负在身后的两只手上青筋隐现。\n\n    因为战舰下层那个房间里的安静，因为许乐此时那些看不出目的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "得完全不在意——ａ今天他和这艘名为烈阳号的战舰只有一方能够活下来，如果他会死去，保守这些秘密又有什么意义？\n\n    锋利的金属丝刺进他的后颈，不知道是因为疼痛还是因为寒冷，那片肌肤四周栗起密密麻麻的小突起，然后金属丝骤然紧绷，开始剧烈的抖动，尖锐的前端像受惊的蛇般拼命向下钻去！\n\n    微弱的电",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "新植入芯片，主动让宪章光辉捕捉到自己，就等同于把自己的生命双手奉给那台冰冷的联邦中*央电脑，然而正如第一次杀进帝国被怀草诗俘虏时他想过的那样，有时候自杀也是一种战斗。\n\n    时间过去了很长或者很短，没有听到意想中的机钱询问声，许乐思考片刻后紧紧闭上眼睛，问道：“建立主动联系，是否接受……”",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "过涛，进入首都郊外宪章局大楼方后的超大型接受仪器里。\n\n    宪章局大楼内列，官员和黑帮分子们正在紧张搜索，老局长和林半山正神情复杂看着什么都没有的光幕，暗自祈祷许乐能够拯救联邦，却不知道那个人的信号已经抵达此间，并且深入地底。\n\n    地底不知多少米深的空尊幽暗空间内，那幅巨大的二维光幕上，如",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "为寒冷，那片肌肤四周栗起密密麻麻的小突起，然后金属丝骤然紧绷，开始剧烈的抖动，尖锐的前端像受惊的蛇般拼命向下钻去！\n\n    微弱的电流从手镯金属丝不停输入，瞬间连通了神经系统，在淡至不可闻的焦糊味道里，许乐因为那种极致的痛楚颤抖起来。\n\n    片刻后，他体内神经束里的生物电流，相对缓慢抵达颈后的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "传至舰身外的信号放大器。\n\n    带着身份信息片段的脉冲信号通过放大器，离开这艘全封闭的幽灵战舰，进入有些黯淡的光辉边缘，向远方那颗星球传去，穿越太空抵达首都特区上空的大气层，经由最后一次信息加辐过涛，进入首都郊外宪章局大楼方后的超大型接受仪器里。\n\n    宪章局大楼内列，官员和黑帮分子们正在紧",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "控制台被拆开，各式各样的数据线和电子构件裸露在外，显得一片凌乱，许乐平静地坐在凌乱之间，低着头喃喃说道：“我现在处在你的控制之中，只要你愿意，你可以随杀死我，不知道现在的你懂不懂诚意的意思，如果你懂”那么应该感受到我的诚意。\n\n    在这时候他想起了很多过往的画面，医院里的癫痛黑梦，左眼里的线各",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "区？我在的地方都不怎么暗……”\n\n    许乐望着探头，对那位不惜毁灭半个世界也要强行带着世界向未知将来裸奔的将军说道：“如果你真是那么想变成一颗太阳，华么你必须先派人来杀死我。来吧，把合金闸门打开，让你的部属你的机甲过来把我杀死，这个故事就结束了……小.说。t/x/t天.堂\n\n\n\n第四卷星光流年",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "联系，是否接受……”\n\n    当年是对方先说出的这句话。\n\n    轰的一声闷响在许乐脑海里炸开，无数或鲜艳或黑白的画面涌进黑色的意识空间，ss瑰丽的红岩，费城湖畔的雪峰，三哟的流凌，美丽的女孩儿，繁复的结构图纸，然后是无尽的灿烂星空。\n\n    在极短暂的时间内”这无数张画面再次崩裂，分散成密密",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "淡湮没于远处，变成一个纯粹黑色的世界。\n\n    一个很久没有做过的黑色的美妙的梦。\n\n    许乐缓缓睁开双眼，看着左眼黑梦里向自己走来的那个存在，那个穿着黑色礼服的老管家，差点脱口而出喊出老东西三个字，却因为对方没有什么表情的面容而咽了回去。\n\n    依旧化身为老管家的？？钟央电脑，没有像多年",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "依据宪章核心条例规定，中*央电脑严禁进行任何物理操作，对方并非异常状况”故不能与其芯片建立双向联系，同时该提议严重违背最高三定律……”\n\n    “不要跟我说三定律，我见过你违规，我更知道面对让前代文明消失的大危机，设定程序的五人小组肯定给会你设置例外程序……”\n\n    联邦中*央电脑没有反驳，沉",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "能够摘取或者替换颈后的身份芯片，是大叔的大秘密，也是他的大秘密，这个秘密有些人猜到过，但从来没有人能够确认。\n\n    然而此时此刻，他没有提前毁去房间里的探头，对让李在道或者战舰内更多人看到这一幕，显得完全不在意——ａ今天他和这艘名为烈阳号的战舰只有一方能够活下来，如果他会死去，保守这",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

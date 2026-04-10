@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 709,
+  "chapter_title": "第九十章 胜在千世",
+  "filename": "ch_0709_第九十章 胜在千世.txt",
+  "char_count": 2309,
+  "timestamp": "2026-04-10T12:11:27.005139",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "第九十章 胜在千世\n　　像冼植朗一样坚信大唐必然会获得最终胜利的人，还有很多。\n　　有些人已经死在了昨夜的战斗中。\n　　有些人还有战斗。\n　　一名唐将，挥刀把一名燕侍卫的脖子砍断一半。\n　　他是大唐东北边军锋营统领，姓胜名永利。\n　　他的名字很吉利，尤其",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "敢的太监尖叫着拿起木棍向他砸去。\n　　胜永利想要挥刀，却发现自已所有的力量，都似乎在先前推开宫门的那瞬间使了出去，竟抬不起胳膊。\n　　砰的一声闷响，太监手中的木棍重重击在他的额头上。\n　　他的额头上已经有两道深的伤口，流了很多血，所以多了这一棍子，也看不出有什么变化，棍棒的力量，却让他眼前一黑，险些",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "燕皇已经重病多年，随时可能毙命，全靠着长安城派过来的御医和珍药维持，如今陛下已经死了，这个糟老头儿为什么还不死？\n　　胜永利愤怒地吼叫了起来。\n　　然后他用尽全身力气，把手中的半截朴刀，向远处那个糟老头儿掷了过去。\n　　以身上的伤势来说，他早就应该死了，之所以不死，是因为胸口一直憋着那口气，身躯里",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "章 胜在千世\n　　像冼植朗一样坚信大唐必然会获得最终胜利的人，还有很多。\n　　有些人已经死在了昨夜的战斗中。\n　　有些人还有战斗。\n　　一名唐将，挥刀把一名燕侍卫的脖子砍断一半。\n　　他是大唐东北边军锋营统领，姓胜名永利。\n　　他的名字很吉利，尤其是对于一名将军来说，无论是先帝还是夏侯大将军，都很喜",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "能毙命，全靠着长安城派过来的御医和珍药维持，如今陛下已经死了，这个糟老头儿为什么还不死？\n　　胜永利愤怒地吼叫了起来。\n　　然后他用尽全身力气，把手中的半截朴刀，向远处那个糟老头儿掷了过去。\n　　以身上的伤势来说，他早就应该死了，之所以不死，是因为胸口一直憋着那口气，身躯里所有的力气，加起来也没有剩",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "尤其是对于一名将军来说，无论是先帝还是夏侯大将军，都很喜欢在战报上看到他的名字，于是他的名字在战报上出现的次数也越来越多，牢牢掌握着东北边军最强大的重骑营。\n　　当然，哪怕他是皇帝陛下的私生子，也不可能只靠一个名字，便在军中升到这样重要的位置，胜永利很善战善于胜利，这才是关键。\n　　他这辈子在战场上",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "确实是大唐的罪人，但你们莫非真的以为，这场成京之战能决定一切？灭我大唐？就凭你们？”\n　　冼植朗看着众人微讽说道，然后回剑自刎而死。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "血腥。\n　　他已经很疲惫，但想着大将军的军令还没有完成，所以他拖着受伤的右腿，用缺了半截的朴刀支撑着沉重的身体，继续向皇宫深处走去。\n　　胜永利没有回头，便知道跟随自已杀进皇宫的部属都已经全部牺牲。\n　　因为他没有听到身后有脚步声。\n　　胜永利不在乎，他继续向前。\n　　血色的视野里，忽然出现了几抹明",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "然被吓死了？这也叫皇帝？”\n　　说完这句话，完成冼植朗交付的军令的他，这时候才真正感觉到疲惫和伤痛，缓缓坐到地上，带着一丝满足的笑容闭上眼睛。\n　　大唐东北边军锋营统领胜永利，获得了他军事生涯的最后一场胜利。\n　　……\n　　……\n　　燕皇驾崩的消息，很快便从皇宫传到了王府前。\n　　看着黑烟滚滚的皇宫",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "一片，隆庆沉默不语。\n　　冼植朗静静看着二人，眼神异常寒冷，说道：“这还不够，我现在就可以告诉你们，日后成京城，必遭我唐军血洗。”\n　　隆庆说道：“世上再不会有唐这个国家，自然也就不会再有唐军。”\n　　“殿下和我确实是大唐的罪人，但你们莫非真的以为，这场成京之战能决定一切？灭我大唐？就凭你们？”",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "有个穿明黄色衣服的老头，下意识里觉得自已有些眼花，伸手揉了揉眼睛。\n　　手指离开眼睛时，指腹上全是血水。\n　　有勇敢的太监尖叫着拿起木棍向他砸去。\n　　胜永利想要挥刀，却发现自已所有的力量，都似乎在先前推开宫门的那瞬间使了出去，竟抬不起胳膊。\n　　砰的一声闷响，太监手中的木棍重重击在他的额头上。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "回手中，看到太监宫女身后有个穿明黄色衣服的老头，下意识里觉得自已有些眼花，伸手揉了揉眼睛。\n　　手指离开眼睛时，指腹上全是血水。\n　　有勇敢的太监尖叫着拿起木棍向他砸去。\n　　胜永利想要挥刀，却发现自已所有的力量，都似乎在先前推开宫门的那瞬间使了出去，竟抬不起胳膊。\n　　砰的一声闷响，太监手中的木棍",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "？”\n　　说完这句话，完成冼植朗交付的军令的他，这时候才真正感觉到疲惫和伤痛，缓缓坐到地上，带着一丝满足的笑容闭上眼睛。\n　　大唐东北边军锋营统领胜永利，获得了他军事生涯的最后一场胜利。\n　　……\n　　……\n　　燕皇驾崩的消息，很快便从皇宫传到了王府前。\n　　看着黑烟滚滚的皇宫方向，冼植朗安静了很长",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "油灯，幔纱顿时燃了起来。\n　　胜永利看着眼前这幕画面，过了半晌才明白究竟发生了什么事情，喃喃自言自语说道：“居然被吓死了？这也叫皇帝？”\n　　说完这句话，完成冼植朗交付的军令的他，这时候才真正感觉到疲惫和伤痛，缓缓坐到地上，带着一丝满足的笑容闭上眼睛。\n　　大唐东北边军锋营统领胜永利，获得了他军事生",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

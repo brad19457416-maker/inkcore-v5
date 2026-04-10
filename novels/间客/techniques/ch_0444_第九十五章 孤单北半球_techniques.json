@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 444,
+  "chapter_title": "第九十五章 孤单北半球",
+  "filename": "ch_0444_第九十五章 孤单北半球.txt",
+  "char_count": 3593,
+  "timestamp": "2026-04-10T12:04:59.259875",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "方地大佬们不是一群白痴。他们敢于答应简水儿地请求。让她进入真正地前线举行劳军演唱会自然知道这件事情地危险程度。南半球地联邦军队早已经进入了警备状态。更可怕地是。那支联邦中型舰队一直在太空里巡游。冷漠地压制着行星火力分界线。这支舰队护送简水儿一行乘坐地轻型战舰进入回明走廊之后。竟是一直没有撤回……",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "明。\n\n    走下战舰的人们都忍不住抬头望碧天，他们大部分人来自都星圈，这一生都没有看过如此透亮的天空。\n\n    许乐摘下墨镜，眯着眼睛看着头顶隐约可见的联邦战舰，不禁震惊于视界之辽远，心中却开始怀这些战舰没有离去的真实原因。\n\n    联邦舰队向来会在星系中层空间巡游，像现在这种低太空巡游，需",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "冰雪中出来，自然带着一股冰雪之意。\n\n    北半球还有无数的冰川下，生着相同的一幕。枫林联队战斗力最强悍的三个整编机械大队，都将投入到这场起因荒谬注定将名留青史的战争中，虽然这颗行星的战斗只是这场波澜壮阔战争的序曲。\n\n    安布里老将军平静地看着脚下碾冰雪而过的隆隆战车和正在进行战前检查的鹞式",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "许乐摘下墨镜，眯着眼睛看着头顶隐约可见的联邦战舰，不禁震惊于视界之辽远，心中却开始怀这些战舰没有离去的真实原因。\n\n    联邦舰队向来会在星系中层空间巡游，像现在这种低太空巡游，需要抵抗行星的巨大引力，消耗的能量，不是如今的联邦愿意承受的。\n\n    “怎么了？”简水儿从黑车走了下来，好奇地问",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "“怎么了？”简水儿从黑车走了下来，好奇地问道。\n\n    许乐低下头，重新戴墨镜，解释道：“第一次看见这么透明的天，有些不适应……感觉有些心慌。”\n\n    ……\n\n    ……\n\n    看到有说怀草诗棘打帝国皇帝，问他忘记杀父之仇吗……这段是照抄银英。\n\n    呃，默然，银英我很喜欢，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "这支舰队护送简水儿一行乘坐地轻型战舰进入回明走廊之后。竟是一直没有撤回……\n\n    “除了让联邦人愤怒。花这么大地代价杀死那位少女明星。对帝国能有什么好处？”安布里老将军安静地想道。然后沙声对诺曼军官吩咐道：“参谋本部紧急会议。商讨一下这件事情。”\n\n    只为了陛下一句话肯定是要打的，而且一定",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "扑向南方去追杀那位少女明星有什么好处。这就证明简水儿在联邦内再备受宠爱究也不过是位明星，没有任何战略价值本没有资格作战场的诱饵。\n\n    这是一个很简单的逻辑推论，既然没有理由成为诱饵圈套的说法自然也无法成立。\n\n    “南边那些人最近这几个月一直在不断增兵，应该是准备着什么大动作，这场演唱会也",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "反对意见。”\n\n    老将回头望着基地后方壮丽而冷酷地冰川。微感寒意。那里藏着枫林编队地全部家当。难道就要为了那个联邦地国民少女。就全部投进去？\n\n    他法理解陛下地军令。但却会毫无问地执行。绝对不会拖泥带水。一方面是对陛下地无敬畏。一方面……是因为他地家人。还在遥远地故乡。\n\n    “是为",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "演唱会地进行击邦人地信心。还是因为别地什么？”\n\n    安布里老将军眼窝深陷。心中默然想道。南边地人们肯定早有准备。演唱会召开地时候。绝对不是好时机。\n\n    他地判断没有出错。联邦军方地大佬们不是一群白痴。他们敢于答应简水儿地请求。让她进入真正地前线举行劳军演唱会自然知道这件事情地危险程度。南",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "崩离析，更不想看到陛下因为此事而暴的怒火。\n\n    天京星与联邦西林边陲三个星系之间的信息传递频率骤然加密，帝部总参署，开始与远征军的军事领袖们密集磋商，布置远征军向行星南半球进攻的战略安排。\n\n    最近二十年间帝国远征军的主要战略思想，是在己方控制的两个半小星系中固守待援，做为楔进联邦疆土的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "就是这个大动作的宣传造势。”\n\n    安布里老将军捧着茶杯，像一个普通的老人，用苍老的声音对下属们缓缓说道：“既然要打，当然不能只把目标放在那位明星身，我们要打赢，还要把他们的势头打下去。”\n\n    老将军缓缓抬起头来，本有些浑浊的双眼里精光乍现，自室内的军官脸一一扫过，沉声说道：“军部的命令，",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "，迟钝地捂住自己的耳朵。\n\n    四十分钟之后5４６０北半球帝征军控制范围内，十七个半山式军用机场同时启用，无数黑点般的微型无人飞行器嗡鸣着起飞，飞越冰川与森林，向着南方飞去。\n\n    最擅长千突袭的月狼机甲大队，开始进行超额充能。远征军司令部下辖的电子部队，无法避过宪章光辉的监测，却动用了一直",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "这个大动作的宣传造势。”\n\n    安布里老将军捧着茶杯，像一个普通的老人，用苍老的声音对下属们缓缓说道：“既然要打，当然不能只把目标放在那位明星身，我们要打赢，还要把他们的势头打下去。”\n\n    老将军缓缓抬起头来，本有些浑浊的双眼里精光乍现，自室内的军官脸一一扫过，沉声说道：“军部的命令，只是",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "第九十五章 孤单北半球 \n\n    部高层拟定了很久以后一个宏伟而阴险的计划，里，该计划得到了皇帝陛下的允可，于是整个军部地下大楼的军官们开始进行繁复的战术推演，务必要求在仅仅是可能性的前提下，将这场血腥的突袭规划的无懈可击。\n\n    想到突袭将会在",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "礼。\n\n    既然要全力出击，仅仅完成陛下交付的任务，实在是得不偿失的一种安排。帝国远征军绝对不会满足于此点，他\n\n    势而行，一吐枯守多年的幽怨情怀和对联邦人的仇并不违反军部的命令，事实或许遥远故土的那些同僚们，也正期望他们拥有此等壮勇气魄。\n\n    安布里老将军缓缓站起，将茶杯放在桌，望",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

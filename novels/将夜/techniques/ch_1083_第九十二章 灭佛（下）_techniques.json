@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1083,
+  "chapter_title": "第九十二章 灭佛（下）",
+  "filename": "ch_1083_第九十二章 灭佛（下）.txt",
+  "char_count": 3278,
+  "timestamp": "2026-04-10T12:11:34.935329",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "“首座讲经时，我曾见过无数飞蚂蚁浴光而起。”\n　　“会飞的蚂蚁最终还是会掉下来，它们永远触不到天空。”\n　　“蚂蚁会飞也会掉，但它们更擅长攀爬，擅长为同伴做基础，不惧牺牲，一个个蚂蚁垒起来，只要数量足够多，那么肯定能堆成一个足以触到天穹的蚂蚁堆。”\n　　七念悚然而惊，浑身寒冷。\n　　叶苏最后开",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "方行走。\n　　他们走的很沉默，从日暮一直走到清晨。\n　　他们现在已经知道地面是什么，却依然期待，然后紧张，甚至有些畏惧。\n　　沉默的行走，只有脚步声，密密麻麻，沙沙沙沙。\n　　任何看到这幕画面，听到这些脚步声的人，都会因之而动容。\n　　不知道走了多长时间，终于有一道光线，落在最前面一名少年的脸上。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "战，像尺，可以量。\n　　他不想战了，因为战遍人间，依然孤单。\n　　峰间，所有人都跪着，那些跟随他苦苦战斗了多年的人们，在佛祖现出真身的那瞬间便跪了，他一个人站着，真的很孤单。\n　　他也不想量了，因为人心真的很难量清楚。\n　　他眉间生出层浅浅的霜――那霜来自心底，有些冷。\n　　佛唱声里，他就这样低着头",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "着急。\n　　越着急，越觉得那些佛唱很烦人，直至烦心。\n　　他的胸膛不停起伏，呼吸变得急促起来。\n　　最终，所有的情绪汇集到一起，变成三个字，从他的双唇迸了出来。\n　　他望着万丈佛光里的佛，大声喊道：“闭嘴啊！”\n　　就在这一瞬间，佛唱仿佛停了片刻。\n　　有很多人听到了这三个字。\n　　君陌低着头，眉眼",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "佛就是那个样子。\n　　看着佛光里的君陌，他忽然觉得很惭愧，觉得很丢脸。\n　　一种说不清楚来源的勇气，来到他的身体里。\n　　他用颤抖的手摸到剑柄重新握住，然后颤颤巍巍地站了起来。\n　　他站了起来。\n　　他望向四周的同伴，想要说些什么，想要号召他们像自己那样勇敢地站起来，却发现没有人望着自己，雄浑庄严的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "便不一样了。\n　　因为看见，所以恐惧？\n　　不。\n　　只有看见，才不会恐惧。\n　　一名年轻的奴隶，用颤抖的手支撑着自己的身体，难以抑止住心头强烈的好奇和关心，恐惧不安地抬起头来，向山道前方望去。\n　　他看到了佛光，看到了佛光里孤单落寞的君陌，他也看到了佛的容颜。\n　　原来，佛长那个样子。\n　　原来，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "寒冷。\n　　叶苏最后开始相信蚂蚁，开始带着那些蚂蚁向天空飞去。\n　　他却早忘了当年说过的话，相信过的道理。\n　　他望向那名站在佛光里的奴隶，忽然绝望。\n　　这只是第一只蚂蚁，还会有更多的蚂蚁站起来。\n　　是的，跪在佛光里的奴隶们，互相看着，眼光虽然惘然，却有更多的人站了起来，有的人喊着闭嘴，更多的人",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "使者，也不是人间的代表，他只是书院里的一名书生。\n　　那名路见不平，便要拔剑的高冠书生！\n　　天空里出现一道清晰的剑影，云层被切开一道大缝，阳光从那道缝里洒落，冲淡了峰间的佛光，却让世界依然明亮。\n　　铁剑落下。\n　　佛，被铁剑所斩！\n　　多年前，他在烂柯寺里，将佛祖石像斩成无数石头。\n　　多年后，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "以量。\n　　他不想战了，因为战遍人间，依然孤单。\n　　峰间，所有人都跪着，那些跟随他苦苦战斗了多年的人们，在佛祖现出真身的那瞬间便跪了，他一个人站着，真的很孤单。\n　　他也不想量了，因为人心真的很难量清楚。\n　　他眉间生出层浅浅的霜――那霜来自心底，有些冷。\n　　佛唱声里，他就这样低着头站着。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "因为战遍人间，依然孤单。\n　　峰间，所有人都跪着，那些跟随他苦苦战斗了多年的人们，在佛祖现出真身的那瞬间便跪了，他一个人站着，真的很孤单。\n　　他也不想量了，因为人心真的很难量清楚。\n　　他眉间生出层浅浅的霜――那霜来自心底，有些冷。\n　　佛唱声里，他就这样低着头站着。\n　　所有奴隶都低着头，恐惧地",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "山坡，向上方行走。\n　　他们走的很沉默，从日暮一直走到清晨。\n　　他们现在已经知道地面是什么，却依然期待，然后紧张，甚至有些畏惧。\n　　沉默的行走，只有脚步声，密密麻麻，沙沙沙沙。\n　　任何看到这幕画面，听到这些脚步声的人，都会因之而动容。\n　　不知道走了多长时间，终于有一道光线，落在最前面一名少年",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "君陌走到那株菩提树下，开始休息。\n　　他看了眼树下佛祖涅时留下的痕迹，没有说什么，又抬头望向明月说道：“在这件事情上，老师你不如我。”\n　　……\n　　……\n　　（这章牛逼，建议回头看序章，有两段话是完全一样的，我牛逼……当然，我就是照抄的，终于写到这段来了，算是将夜数个点题章里的一章。最后一句话",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "苦苦战斗了多年的人们，在佛祖现出真身的那瞬间便跪了，他一个人站着，真的很孤单。\n　　他也不想量了，因为人心真的很难量清楚。\n　　他眉间生出层浅浅的霜――那霜来自心底，有些冷。\n　　佛唱声里，他就这样低着头站着。\n　　所有奴隶都低着头，恐惧地以额触地，不敢直视佛光，更不敢去看佛祖的真颜，自然看不到他有",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的人站了起来，有的人喊着闭嘴，更多的人沉默。\n　　但他们站起来了。\n　　越来越多的奴隶，在万丈佛光里缓缓站起，像黑色的潮水。\n　　越来越响亮的喊声，在天地间回荡。\n　　闭嘴！\n　　闭嘴！\n　　君陌低着头，听着，唇角越来越高，最后变成笑容。\n　　起始是微笑，然后是展颜的笑，最后是开怀放声大笑，他笑的快",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

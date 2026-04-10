@@ -1,0 +1,258 @@
+{
+  "novel": "间客",
+  "chapter_number": 136,
+  "chapter_title": "第七十五章 诊断与治疗",
+  "filename": "ch_0136_第七十五章 诊断与治疗.txt",
+  "char_count": 3399,
+  "timestamp": "2026-04-10T11:53:35.150245",
+  "techniques_count": 19,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "衣，他这条性命，只怕早就挂在那个黑暗潮湿地空间里。\n\n    一念及此，许乐不禁有些后怕，不明白自己为什么总这么热血冲动，救邰之源他当然愿意，只是险些送了性命，却不是他的本意。同时令他感到警惧地是，他的眼中再次出现了幻听，只不过这一次不再是那张动力结构图，而是一幅很熟悉的矿坑画面……\n\n    许乐",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "有事儿，可以打电话给我。”\n\n    邰之源和许乐在梨花大学区结识，已经过了很多天，直到此时，许乐才第一次知道他的私人电话号码。\n\n    邰之源走后，许乐在第一军区总医院里，又接受了几天地保守治疗与监控，那些医术高明的专家教授们，最终确认许乐大概是因为在那次事件中，遭受到某种外力的打击，脑颅部的损",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "这个病也就是一般人常说的羊癫风或抽风。再如何乐观开朗积极向上的年轻人，如果知道自己得了这么种病，只怕瞬间内也会让悲观二字写上自己的脑门……\n\n    得病不可怕，哪怕身患绝症、或者断了条腿必须得演出身残志坚……也不会击倒像石头般拧狠坚忍的许乐。\n\n    唯独这种随时可能浑身抽搐，口吐白沫，耳歪口斜",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "听到癫痫两个字，许乐的脸唰一下就白了。\n\n    他并不知道癫痫的具体成因或深奥的医学道理，但他知道这个病也就是一般人常说的羊癫风或抽风。再如何乐观开朗积极向上的年轻人，如果知道自己得了这么种病，只怕瞬间内也会让悲观二字写上自己的脑门……\n\n    得病不可怕，哪怕身患绝症、或者断了条",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "经元的异常放电。但是我们分析之后认为，癫痫应该是最有可能的原因。”专家听着许乐的话，忍不住微微一笑，心想这位病人倒是会给自己找稀奇古怪地理由。他加重语气说道：“尤其是后半夜的监控显示，当你进入深层睡眠的时候……随着大脑的异常放电，你的全身肌肉也开始进行间歇性的痉挛。”\n\n    “这是癫痫患者地典型",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "”\n\n    “不过您也不用担心，根据检查的结果，以及你痉挛时的幅度来看，这应该不是源发性癫痫，所以危险并不大。如果调理好自己的生活以及情绪，说不定将来很难复发……当然，就算复发。只要身边一直保证有人，晚上不睡过高的床，应该也没有什么危险。”\n\n    “绝大部分癫痫病人，就是生活有些小麻烦，至少从",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "，以及你痉挛时的幅度来看，这应该不是源发性癫痫，所以危险并不大。如果调理好自己的生活以及情绪，说不定将来很难复发……当然，就算复发。只要身边一直保证有人，晚上不睡过高的床，应该也没有什么危险。”\n\n    “绝大部分癫痫病人，就是生活有些小麻烦，至少从目前的统计数据来看，癫痫病人地寿命不会受到任何影",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "邰之源走后，许乐在第一军区总医院里，又接受了几天地保守治疗与监控，那些医术高明的专家教授们，最终确认许乐大概是因为在那次事件中，遭受到某种外力的打击，脑颅部的损伤，让他的大脑皮层神经元受损，开始异常放电，从而导致了癫痫。\n\n    正如那位专家所说，癫痫这种病没什么好治的，而且总医院的治疗重",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "医疗系统内部注名。”\n\n    邰之源沉默了许久之后，从口袋里掏出一个药瓶。递给了许乐。“以后不要太激动……另外，出院之前。安个微型的脑电波监控仪，一旦发现有什么问题，就吃一片药。”\n\n    许乐接过药瓶，沉默地看了看标签，果然没有联邦医药管理局地标志，又看了一下注意事项，微微偏头，疑惑地望着邰之",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "前那刹那。自己体内那股神秘力量所带来的剧烈痛苦，尤其是那道如电流一般地感觉，通过了自己地颈后，化成了无数万根细针，不停地扎着自己的脑袋……\n\n    不需要手术，只需要用药物辅助治疗，关键还是要休息充分，调整心态，保持乐观地情绪。医生很随意淡然的嘱咐，其实就是对病人对大的安慰，当然，如果许乐得的是无",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "下就白了。\n\n    他并不知道癫痫的具体成因或深奥的医学道理，但他知道这个病也就是一般人常说的羊癫风或抽风。再如何乐观开朗积极向上的年轻人，如果知道自己得了这么种病，只怕瞬间内也会让悲观二字写上自己的脑门……\n\n    得病不可怕，哪怕身患绝症、或者断了条腿必须得演出身残志坚……也不会击倒像石头般",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "住微微一笑，心想这位病人倒是会给自己找稀奇古怪地理由。他加重语气说道：“尤其是后半夜的监控显示，当你进入深层睡眠的时候……随着大脑的异常放电，你的全身肌肉也开始进行间歇性的痉挛。”\n\n    “这是癫痫患者地典型症状。我承认你先前所说的受刺激。或脑颅部的外伤，都有可能引发大脑皮质神经元的异常放电……",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，如果许乐得的是无药可救的绝症，大概医生也会说类似的话。\n\n    好在许乐确实是一个很乐观的人，很轻松地从先前那些灰色的情绪里摆脱出来。虽然那些安慰其实并没有什么用处，不过不用在脑子上动手术，总是一个相对而言值得庆祝的事情。\n\n    手机是邰家工作人员买来的，用的还是老号子，许乐不知道对方如何能",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "不禁有些后怕，不明白自己为什么总这么热血冲动，救邰之源他当然愿意，只是险些送了性命，却不是他的本意。同时令他感到警惧地是，他的眼中再次出现了幻听，只不过这一次不再是那张动力结构图，而是一幅很熟悉的矿坑画面……\n\n    许乐开始对癫痫的诊断结果，表示怀疑 www/xiaoshuotxt.co m",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "了一丝寒意：得个肝癌捧腹忍痛而死，欣赏自己额头上黄豆大小的汗珠，那也算死的壮烈，死的潇洒，可若要一直担心自己时刻可能变成傻子，在地板上不停地抽抽，即便能够和常人一样生活……这种活法，未免也太不美型了些。\n\n    “您确定我得的是……癫痫？”许乐满怀企盼之色，看着床边的专家医生，用沙哑的声音问道。",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "性极大，至少在百分之九十以上。”那名专家这一生不知看过多少位病人，自然不会把癫痫这种病放在心上，平静说道：“昨天晚上你入睡之后，脑电图的显示，和电极传回的信号，都确认……在你大脑这个区域中，每隔一段时间，神经元便会发生异常放电的现象。”\n\n    专家指着大脑成像地某一区域。很认真地说道：“正常人的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "，我再来看你。”\n\n    许乐点点头，没有挽留对方的意思，虽然他救了邰之源一命，但他也清楚，对方在社会中是一个高高在上的人物，想必也是一个十分忙碌的家伙，对方亲自前来医院探望自己，已经足够了。\n\n    “我的私人电话号码在你手机的第一位，有事儿，可以打电话给我。”\n\n    邰之源和许乐在梨花大",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "术？”\n\n    “不需要，除非你想冒着变成一个傻子的风险，来帮我们医院挣一大笔联邦公民医疗基金。”安静的病房内，唯一能够动弹的左手。下意识里摸着自己的脑袋。怎么也很难相信，自己的脑袋居然坏了。难道是地下停车场那一战的后遗症？是机甲强悍机身的回震力让自己的大脑受了外伤？还是说……他猛然想到了最后昏迷",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "“这是探望病人地必备程序，不过很可惜，小说或电影里面，削苹果。并且一口一口喂的，应该是个漂亮温柔地女孩子。”许乐接过苹果，啃了一大口，盯着窗边说道：“如果小萌这时候在就好了。”\n\n    听到张小萌的名字，邰之源的眼睛微微眯了一下，笑了笑却没有对那个女孩儿发表任何意见。说道：“你今天的话忽然",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

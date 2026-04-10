@@ -1,0 +1,128 @@
+{
+  "novel": "间客",
+  "chapter_number": 6,
+  "chapter_title": "第六章 他不是特工",
+  "filename": "ch_0006_第六章 他不是特工.txt",
+  "char_count": 2402,
+  "timestamp": "2026-04-10T11:53:11.018270",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "感觉到了一阵突如其来的痛苦！\n\n    一股巨大的电流瞬息间占据了他的全身，令他浑身抽搐，痛苦难堪，颤抖不已，就像癫痫病发作一样瘫倒在地，唇角也开始吐出了白沫。\n\n    空气中淡淡的焦糊味道一现即逝，墙上却留下了电流灼烧的些许痕迹！\n\n    确认了鲍龙涛再也没有反抗的力量，许乐小心地将手中的电击",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "是民间那些帮派能够仿制，鲍龙涛只听说过军方能够配有这样的装备，而且还是特工专用。\n\n    那个少年究竟是管理委员会的人，还是总统的人？不过不论是哪一方的人，都是遥不可触的阶层。鲍龙涛恐惧地扶着墙壁爬了起来，知道自己今天犯了大错，这件事情再也不能碰了。\n\n    ……\n\n    ……\n\n    水龙",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "壁爬了起来，知道自己今天犯了大错，这件事情再也不能碰了。\n\n    ……\n\n    ……\n\n    水龙头在汩汩流着热水，联邦的福利在这些细节方面向来体现的不错。蒸腾的热气让整个卫生间都充满了一种迷幻般的味道。许乐站在浴室的镜子前，看着镜子上被水蒸气渐渐模糊的脸庞，怔怔地站了很久很久，才重重地吐出了",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "让对方交代出能够侵入警局内部程序，以及利用河西州上层斗争的那个幕后人士的名字。\n\n    警棍的尖端马上便要戮到许乐的腰上，鲍副局长却忽然感觉到了一阵突如其来的痛苦！\n\n    一股巨大的电流瞬息间占据了他的全身，令他浑身抽搐，痛苦难堪，颤抖不已，就像癫痫病发作一样瘫倒在地，唇角也开始吐出了白沫。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "对许乐加以威胁——即便他自己不亲自出手，许乐也不要指望能够隐藏住自己的身份。\n\n    可是许乐并不担心这一点，在他看来，李维那些孤儿有的是方法生存下去，他不着痕迹地避开了鲍副局长亲热的表现，低着头，有些谦卑地向着黑暗里行去。\n\n    鲍龙涛松开了手中的警棍，对着少年的背影喊道：“有机会，我们会再",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "妨碍他对面前这个以帽遮脸的少年投以足够的警惕。往前迈了两步，他低下头来，隔着那个帽子在许乐的耳边轻声说道：“或许我不应该问你，我应该去问李维。”\n\n    一位联邦官员要对付街道黑暗中的势力，就像是动物园的管理员对付那些不听话的野兽，不论是皮鞭还是鲜肉，总有无穷的手段可以利用。鲍龙涛这个时候说出李维",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "属扣子。\n\n    许乐低着头，大口地呼吸着，想要将内心的恐惧全部吐出去。凭着两颗金属扣子便瞒过了令无数孤儿害怕的鲍龙涛，他的心里却没有丝毫成就感，如果不是担心鲍龙涛会对李维下手，他绝对做不出来这种事情。\n\n    他不是什么特工，更和遥远的首都星圈的那些大人物没有丝毫关系，他只是一个在机械方面有些",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "发出来的电流却远在先前交给李维的那根之上，更不用提鲍龙涛手里握着的那根了。\n\n    鲍龙涛假意放他离开，却想在阴暗的角落里进行惨忍的逼供，只怕他怎么也想不到，这个瘦弱少年竟然能够轻易击倒自己。\n\n    许乐走到了鲍龙涛的身边，蹲下身体察看了一下对方的状况，将一粒金属片状的物体放入了耳中，压低声音",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "他的住所，自然不是青色花园。\n\n    ……\n\n    ……\n\n    许久之后，墙壁下的鲍副局长缓缓地睁开了眼睛，确认了那个神秘的少年已经消失，他才敢挣扎着坐了起来，抹去了唇边的白沫，面色阴晴不定地看着少年消失的方向。\n\n    体内肌肉神经的酸楚疼痛还在持续，却止不住鲍副局长心头的震惊。被那根",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

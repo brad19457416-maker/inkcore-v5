@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 834,
+  "chapter_title": "第七章 满山桃花开遍",
+  "filename": "ch_0834_第七章 满山桃花开遍.txt",
+  "char_count": 3016,
+  "timestamp": "2026-04-10T12:11:27.273020",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的一句话。\n　　“你看那个人，好像一条狗啊。”\n　　她无所不知，无所不能，但直到今天，依然想不明白，为什么那个家伙在说完这句话后，会笑的那样开心，开心地直流眼泪。\n　　她眉头微蹙，黑瞳深处有圣洁的光焰生出。\n　　掌教开始痛苦地嘶嚎，被余帘用蝉翼刺伤的眼睛，也开始有光焰燃烧，片刻之后，光焰熄灭，一抹灰",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "着冬日积下来的灰，透着股死气沉沉的感觉，举目望去，在山野间看不到一朵野花。\n　　桃山上的气氛紧张而且压抑。伐唐战争极不顺利，即便是天谕大神官和天下行走叶苏这样的道门强者都身受重伤，神殿联军在青峡之前寸步难进，而掌教大人从长安城回来后，便再也没有在人前露面。\n　　留在神殿里的人本来就不多，因为这些事情",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "……\n　　……\n　　虽然西陵神国较诸唐燕诸国要温暖很多，但刚刚入春，气温也没法太高，在山间吹拂的风还带着些微寒意，满山的青树蒙着冬日积下来的灰，透着股死气沉沉的感觉，举目望去，在山野间看不到一朵野花。\n　　桃山上的气氛紧张而且压抑。伐唐战争极不顺利，即便是天谕大神官和天下行走叶苏这样的道门强者都",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "在长安府里，显得那样的可怜，而当时他第一次施展天下溪神指，便是为了保护她。\n　　桑桑静静看着陈皮皮，来到人间后，陈皮皮是第一个敢向她出手的人，即便是酒徒也只敢逃，屠夫只敢蹲在角落里哭。\n　　奇怪的是，她并没有惩罚陈皮皮对昊天的不敬，而是转身望向长安城的方向，没有任何情绪说道：“在那里你拒绝了我。”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "掌教的身影。\n　　现在的桑桑虽然也很高大，但和那个身影比起来，却是那样的渺小。\n　　那个高大身影忽然颤抖起来，穿过幔纱的声音也颤抖起来。\n　　“你不是林雾，你是谁？”\n　　桑桑面无表情继续向前，她每走一步，便高大一分。\n　　与之相照，幔纱后的那个高大身影变得越来越渺小。\n　　她走进幔纱里，走进万道光",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "日，当时桑桑还是个干瘦的黑丫头，抱着厚厚的被褥有，沉默而倔强地站在长安府里，显得那样的可怜，而当时他第一次施展天下溪神指，便是为了保护她。\n　　桑桑静静看着陈皮皮，来到人间后，陈皮皮是第一个敢向她出手的人，即便是酒徒也只敢逃，屠夫只敢蹲在角落里哭。\n　　奇怪的是，她并没有惩罚陈皮皮对昊天的不敬，而是",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "陈皮皮脸色微白，肩头多了一道血洞，那是他自已的天下溪指意，再看向桑桑的眼神里，便多了一抹苦涩和感慨。\n　　这抹苦涩感慨与境界差距无关，他根本就没有奢望过自已能够战胜她，这是她的世界，伤不到她是理所当然的事情，如果能够伤到她，那才是难以理解的事情，他此时的情绪有些感伤，是因为他想起数年前的新年第",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，光明神殿的万年长灯熄灭，因为有人走进了神殿，她就是光明，不需要象征。\n　　西陵神殿四周山野间的野花骤然怒放，引来无数诧异的目光，要知道西陵虽然温暖，但此时离花期还有很长一段时间。\n　　更令人震撼的事情也发生了――数十年前夫子登桃山斩遍桃花，从那之后，桃山的桃花便再也没有开过一次。\n　　今日却有无数",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "够看清这个世界究竟会走向何方。\n　　昊天也不能。\n　　……\n　　……\n　　虽然西陵神国较诸唐燕诸国要温暖很多，但刚刚入春，气温也没法太高，在山间吹拂的风还带着些微寒意，满山的青树蒙着冬日积下来的灰，透着股死气沉沉的感觉，举目望去，在山野间看不到一朵野花。\n　　桃山上的气氛紧张而且压抑。伐唐战争极不顺",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "年长灯熄灭，因为有人走进了神殿，她就是光明，不需要象征。\n　　西陵神殿四周山野间的野花骤然怒放，引来无数诧异的目光，要知道西陵虽然温暖，但此时离花期还有很长一段时间。\n　　更令人震撼的事情也发生了――数十年前夫子登桃山斩遍桃花，从那之后，桃山的桃花便再也没有开过一次。\n　　今日却有无数株桃花盛放，满",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "情，甚至把程立雪等天谕司的执事都赶出了神殿，平静地等待着回归昊天神国的那一天。\n　　这座神殿已经幽暗安静了很长时间，没有任何人敢来打扰神座临终前的平静，此时忽然响起蹄声，天谕大神官有些艰难地睁开眼睛，向那边望去，便看见了那头大黑马和牵着缰绳的那名少女。\n　　看了一眼，他便看明白了很多事情，枯槁的目光",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "蹲在角落里哭。\n　　奇怪的是，她并没有惩罚陈皮皮对昊天的不敬，而是转身望向长安城的方向，没有任何情绪说道：“在那里你拒绝了我。”\n　　她看着长安城，这句话却是对板车里的陈某说的，说的是前几日观主单身入长安，最后用了清静境的事情。\n　　陈某没有解释，很奇异地笑了起来。\n　　他的笑容里有很多情绪，有终于",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

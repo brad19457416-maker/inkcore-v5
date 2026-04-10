@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 361,
+  "chapter_title": "第三十九章 星辰在上",
+  "filename": "ch_0361_第三十九章 星辰在上.txt",
+  "char_count": 3412,
+  "timestamp": "2026-04-10T12:04:59.203066",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "叫遗世**的风范。繁华浮世之中，千万人群之中，你一抬头一回眸，便能看见他的存在。\n\n    杜少卿毫疑问就是这一类人，他平静地离开了库房，军姿依然标准精确，那身笔挺的军装和这个人，依然从容自信优雅里透着血腥铁锈味儿。\n\n    虽然铁七师今天的胜利显得有狼狈，目送他离开的军人们依然不敢对这位师长有丝",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "许乐沉默了很久后说道：“现在不能，但不代表将来不能。”\n\n    他很明白杜少卿与自己这番谈话的意义之所在，所以他决定不做丝毫让步。\n\n    杜少卿冷冷地看了他一眼，说道：“就算你能，别人也不能。”\n\n    针对此次军演，是一个直触要害的判断。如果没有宪章光辉帮助作弊，如果没有大叔传授下来的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "果你面对的是一个整编机械团，你能突进团部吗？”\n\n    这位联邦最年轻的少将师长，并没有因为昨天的冲突飙而刻意在许乐面前不戴手套，军营磨砺多年的心脏，早已可以不因为这些小事情而改变跳动的速度。\n\n    许乐沉默了很久后说道：“现在不能，但不代表将来不能。”\n\n    他很明白杜少卿与自己这番谈话",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "却被一个小人物肆意挑战，实在令他难以释怀。\n\n    杜少卿在心中默默告诉自己：你的征途是星辰大海。刹那间他的心情平静下来，缓缓转头看着窗外壮阔的太空景象，久久沉默不语。\n\n    ……\n\n    ……\n\n    与此同时，许乐正坐在基地操场的石阶上，手里提着一瓶麦酒，向头顶仰望星空。\n\n    他",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "干净的心，所以目光的穿透力极强。\n\n    相处数年，他依然能感受到大叔内心深处的那份淡薄，人生若只初见，他便抓住了施清海邰之源隐藏极深的某种相同波段，相识冷酷，相交荒唐，他却老神在在地陪着邹郁走了一段关键旅程，与这三人成为莫逆好友，均是因为他能看出对方最真实的那些念头。\n\n    如果说起走眼，大",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "荒唐，他却老神在在地陪着邹郁走了一段关键旅程，与这三人成为莫逆好友，均是因为他能看出对方最真实的那些念头。\n\n    如果说起走眼，大抵也只是白玉兰这个人罢了。拥有这等眼光，许乐看透雪松般的杜少卿心里究竟在想什么，并不是一件困难的事情。\n\n    “师长您想做第二个李匹夫，第二个联邦军神。”许乐微眯",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "下来，缓缓转头看着窗外壮阔的太空景象，久久沉默不语。\n\n    ……\n\n    ……\n\n    与此同时，许乐正坐在基地操场的石阶上，手里提着一瓶麦酒，向头顶仰望星空。\n\n    他眯着眼睛，看着那些眨眼睛的万古存在，忽然间想到左手手镯上的那句话语，又想到了一些很复杂的事情。\n\n    铁七师与杜少",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "没有像昨天那样愤怒，已经将对这个年轻人的反感情绪全部沉淀进了骨头里，他望着许乐说道：“联邦有现代军事制度，指挥官死了还有替补，这也正是为什么你破营成功，狙杀西门瑾，但军演指挥大厅依然判断蓝方取胜。”\n\n    “邦有现代军事制度，但……帝国没有。”许乐望着他说道：“李元帅击杀帝国皇帝帝国便被迫撤兵。",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "石一样夺目，即便身处沉瘴毒雾之间，依然呼吸如冰，让人感受一下什么叫遗世**的风范。繁华浮世之中，千万人群之中，你一抬头一回眸，便能看见他的存在。\n\n    杜少卿毫疑问就是这一类人，他平静地离开了库房，军姿依然标准精确，那身笔挺的军装和这个人，依然从容自信优雅里透着血腥铁锈味儿。\n\n    虽然铁七",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "黑灰的矿石堆中，依然像钻石一样夺目，即便身处沉瘴毒雾之间，依然呼吸如冰，让人感受一下什么叫遗世**的风范。繁华浮世之中，千万人群之中，你一抬头一回眸，便能看见他的存在。\n\n    杜少卿毫疑问就是这一类人，他平静地离开了库房，军姿依然标准精确，那身笔挺的军装和这个人，依然从容自信优雅里透着血腥铁锈味",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "起来，抬头说道：“报告师长，你们那个合格的指挥官刚刚被我干掉了。”\n\n    杜少卿并没有像昨天那样愤怒，已经将对这个年轻人的反感情绪全部沉淀进了骨头里，他望着许乐说道：“联邦有现代军事制度，指挥官死了还有替补，这也正是为什么你破营成功，狙杀西门瑾，但军演指挥大厅依然判断蓝方取胜。”\n\n    “邦",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "不戴手套，军营磨砺多年的心脏，早已可以不因为这些小事情而改变跳动的速度。\n\n    许乐沉默了很久后说道：“现在不能，但不代表将来不能。”\n\n    他很明白杜少卿与自己这番谈话的意义之所在，所以他决定不做丝毫让步。\n\n    杜少卿冷冷地看了他一眼，说道：“就算你能，别人也不能。”\n\n    针对",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "脏，早已可以不因为这些小事情而改变跳动的速度。\n\n    许乐沉默了很久后说道：“现在不能，但不代表将来不能。”\n\n    他很明白杜少卿与自己这番谈话的意义之所在，所以他决定不做丝毫让步。\n\n    杜少卿冷冷地看了他一眼，说道：“就算你能，别人也不能。”\n\n    针对此次军演，是一个直触要害的",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "这句话，难道仅仅是为了感慨军队里突然多了许乐这样一个异类？\n\n    看着走下山丘，铁七师官兵簇拥着离开的杜少卿，许乐心头泛起复杂的情绪，令他感到无穷警惕的是，杜少卿与他最后这番谈话时的语气，竟是那样的平和，将昨天的那些冷冽与杀意全都掩灭的干干净净……\n\n    这世上有一类人具有某天生的气质，记仇",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "关，事实上从很早以前开始，他就无比尊敬并且信服对方，只是也正因为对方的诚恳请托，他才一直在基地里强行压抑着对许乐的怒意。\n\n    想到那个小眼睛的年轻男人，想到对方在自己耳畔轻声说的那些关于飙的话语，杜少卿脸色阴郁之色大作，在心中幽幽想道：“职业军人，从不在战场上向自己同袍背后开枪，但如果你将来触",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "向来冷酷静默的杜师长，隔着无数万公里还要站起来立正。\n\n    放下电话之后，杜少卿端正地坐在椅上，缓缓摘下墨镜，深若雕像般的眼眸里满是隐怒与阴沉。\n\n    他的情绪与这个电话无关，事实上从很早以前开始，他就无比尊敬并且信服对方，只是也正因为对方的诚恳请托，他才一直在基地里强行压抑着对许乐的怒意。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

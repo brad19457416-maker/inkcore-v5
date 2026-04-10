@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 358,
+  "chapter_title": "第三十七章最耻辱的胜利（上）",
+  "filename": "ch_0358_第三十七章最耻辱的胜利（上）.txt",
+  "char_count": 3448,
+  "timestamp": "2026-04-10T12:04:59.198667",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "军演指挥大厅里顿时了忙碌的计算与震惊的议论。参谋军官们无法理解。明明黑色mx已经突营功。为什么忽然间又被打到爆机。铁七师近卫营的装甲小还未靠近。那个指挥部里究竟发什么？\n\n    坐在沙发上的迈尔上将怔了怔。眉头一皱。旋即想到了此次临时军演中。铁七师一直没有调用的那部分战斗力。沉默片刻后",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "增加的便是这支只有两个基数的导弹部队。从黎明前开始的演习中。铁七师一直没有动过这支部队。竟是一直生生压抑着。直到最后才瞄准了自己的指挥部。不分敌我的了一遍狂轰！\n\n    这支虚拟部队配备是锐刺二型导弹。拥有近乎恐怖的绝对速度。却也有极大的致命缺陷。直喷式涡流发动机。让这种快速导弹无法进行精密导航。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "坐在沙发上的迈尔上将怔了怔。眉头一皱。旋即想到了此次临时军演中。铁七师一直没有调用的那部分战斗力。沉默片刻后。脸上流露出来欣赏的意味。\n\n    杜少卿面无表情看光幕。那双眉毛重新挑了起。虽不如先前那般不可一世。势不可。但终究是回复了几分光彩。\n\n    从军演开始到现在。西门瑾指挥的近卫",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "。手边的咖啡杯再没有端起来过。他的心情并不像他的表情那般平。早已沸腾沉怒到了极点。指挥着铁七师战斗力最强大近卫营。居还被对方一mx就突了进来。指挥官被杀？这是何等样的耻辱。\n\n    他没有抬起头来与黑色机甲上的许乐说话。因为那样总会让人觉的许乐是在居高临下。以一胜利者的姿说些什么。\n\n    ……",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "（明天就考。发现老了。看不进去那些题目……昨天晚上看着看着就睡着了。最近几天写的会少些。大家多担待。(未完待续。如欲知后事如何。请登陆章节更多。作者。阅读！小.说。t。xt-天/堂",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "039;震于黑色机甲的现。惊叹那名机师所表现出来的超乎想像的机控水杜少卿也同如此他的#039;中除了愤怒阴沉之外。更是生起了强烈的不理解。\n\n    作为事全才的杜少卿师长。操控机甲的水准也相当优秀。可是亲眼看到许乐操控的黑色mx他无法用一种合符逻辑的推断说服自己这是一个正常人能做出来的事情。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "轻型导弹去远程攻击机动力强悍的mx机甲。很难取什么战果。\n\n    然而西门瑾却将发射基的放在了蓝池山后侧方的谷的里。瞄准了自己的指挥部！\n\n    这位优秀而严谨的官。在整个演习的过程中。一直以一种绝对的自制和冷静。将这支力量留在了最后。哪怕许乐操控的黑色机甲从山峰上冲下来时。依然因为锐刺二型导弹",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "了强势攻击。设定中导弹的爆炸威力。在虚拟的光屏中将这一整片营房变成了火海。\n\n    几乎和指挥大厅同时。黑色机甲连结的战损系统冷漠而机械的报出了战损情况。只不过是一眨眼的功夫。在突营之中战损还不到百分之三十的黑色mx。代表机甲状况的红柱就像急剧失血般连续跌下。直至最后被系统判定为爆机！",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "额上的汗水。就在微微发烫的机上坐了下来。靠着坚硬的合金护甲。望着下方营房里那位表情沉郁的指挥官。认真说道：“我承认你们铁七师有骄傲的资格。”\n\n    这是真心话。\n\n    今天的临时军演中。周玉那批军官生在寂寞岭与黄山岭一带。已经发挥了他们最坚硬的实力。不然也不可能把近卫营的大批兵力拖了这么久。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "阀门。……\n\n    ……\n\n    伴随着液压系统和电机的声音。铁七师近卫营指挥部门黑色机甲操舱。缓缓的打开。\n\n    此时军演指挥系经判定指挥部附近所有人员全部死亡。所以那些铁七师的官兵只是脸色难看的看着打开的。而没有端起武器去瞄准对方。\n\n    虽然最后这台黑色机甲爆机而亡。但先前对方突营",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

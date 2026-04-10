@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 265,
+  "chapter_title": "第七十一章 伟大与渺小的石洞",
+  "filename": "ch_0265_第七十一章 伟大与渺小的石洞.txt",
+  "char_count": 3406,
+  "timestamp": "2026-04-10T12:11:21.701546",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "戴着毡帽的魁梧中年人大概是管事或护卫，轻声劝解了几句，却反而惹来了一通教训。\n　　忽然间，晴朗的碧蓝天空上忽然出现了无数碎丝絮般的白云，仿佛被一只无形的巨手直接撕烂了蓝色的画布，渗出了后面的白色颜料。\n　　草原蛮子和中原商人们同时注意到了天上的异象，惊讶向上方望去。\n　　那名领头的商人骂咧咧地吼了几",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "里，在那座大山旁，即便骄傲强大如他，也没办法靠近对方。\n　　今年，线那头的那个人终于离开了那座大山，来到了荒原上。\n　　他不知道那个人在哪里。\n　　但他知道自己会遇到那个人。\n　　因为那座大山的独特气质和那个人的性情决定了这一点。\n　　那个人要护着那个叫宁缺的小家伙。\n　　那么宁缺真正遇到危险的时候",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "们。\n　　中原商队的人们正在湖畔生火做饭，数十人围坐在火堆旁，趁着天气难得晴朗，没有进入帐蓬避寒，看众人动作，隐隐以其中一名商人为首。\n　　那名颇为富态的商人拿着油糊糊的羊腿啃着，时不时发几句牢骚，很明显对草原人的招待不是太满意，旁边一个戴着毡帽的魁梧中年人大概是管事或护卫，轻声劝解了几句，却反而惹",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "石声，问道：“哥，天书真的在里面吗？”\n　　唐摇了摇头，说道：“不知道。”\n　　唐小棠不解问道：“那为什么神殿那些老家伙派人过来？”\n　　唐说道：“根据中原那边传来的消息，天谕大神官自南方归来后批了一道示谕，说圣地因应天时而开，天书便会出现。”\n　　唐小棠挠了挠头，问道：“可你不是说圣地被毁之后已经",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "山的独特气质和那个人的性情决定了这一点。\n　　那个人要护着那个叫宁缺的小家伙。\n　　那么宁缺真正遇到危险的时候，那个人一定在旁边。\n　　所以他只需要等到宁缺遇到真正危险的时候。\n　　只是此时宁缺正在魔宗山门外。\n　　他为什么却要离开魔宗山门向南方去？\n　　……\n　　……\n　　天弃山麓南向有一处碧蓝的",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "那张白里透红嫩嫩的小脸，听着远处传来的剑破顽石声，问道：“哥，天书真的在里面吗？”\n　　唐摇了摇头，说道：“不知道。”\n　　唐小棠不解问道：“那为什么神殿那些老家伙派人过来？”\n　　唐说道：“根据中原那边传来的消息，天谕大神官自南方归来后批了一道示谕，说圣地因应天时而开，天书便会出现。”\n　　唐小棠",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "绊己心，哪怕那些外物是天书。\n　　而且他和唐以宁缺与隆庆的破境之约作赌，既然输了，自然便要认输，这不存在能不能看破的问题，他只是不能允许自己在心境上留下丝毫阴影。\n　　他出现在荒原和天书无关，和荒人南下无关，和魔宗山门重启也无关。\n　　他自幼生活在观里，从识字开始的启蒙读物便是那六卷天书。他自幼便冷",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "唐说道：“根据中原那边传来的消息，天谕大神官自南方归来后批了一道示谕，说圣地因应天时而开，天书便会出现。”\n　　唐小棠挠了挠头，问道：“可你不是说圣地被毁之后已经变成一片废墟，里面什么都没有了？那个叫天谕的老家伙凭什么肯定天书在这里？”\n　　唐说道：“神殿三大神座，各有妙感精诣，天谕大神官上感昊天",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "那名领头的商人骂咧咧地吼了几句。\n　　那名神态恭顺的魁梧中年人护卫，眯着眼睛看着天上的云丝，神情渐趋凝重。\n　　不知道为什么，看着中年人凝重的神情，那名富态商人竟是神情一凛，再也不敢训斥出声，低着头掩饰眼中的敬畏情绪，低声问了几句。\n　　那名身材魁悟的中年男人静静看着天上的白色云丝，感受着遥远北方那",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "生这种感受。\n　　走进巨大的石门，向上攀爬了不知几万级的漫长石阶，来到魔宗山门本殿的时候，这些感受也瞬间占据宁缺和莫山山的脑海。\n　　因为他们看到的魔宗山门比以往看到的任何建筑都更加宏伟巨大。\n　　魔宗山门就在山中，更准确地说是在大明湖畔的雄伟雪峰之中，魔宗便在一座高耸入云的雪峰腹部完全掏空后形成的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "般的白云，仿佛被一只无形的巨手直接撕烂了蓝色的画布，渗出了后面的白色颜料。\n　　草原蛮子和中原商人们同时注意到了天上的异象，惊讶向上方望去。\n　　那名领头的商人骂咧咧地吼了几句。\n　　那名神态恭顺的魁梧中年人护卫，眯着眼睛看着天上的云丝，神情渐趋凝重。\n　　不知道为什么，看着中年人凝重的神情，那名富",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "下丝毫痕迹，飘飘有若神仙。\n　　当遥远山脉里魔宗山门重启时的天地元气波动，从身后传到他的世界里时，他缓缓停下脚步，面无表情回头看了一眼，却没有过去看一眼的想法。\n　　做为知守观的天下行走，叶苏比任何人都更早知道天谕大神官的那道批谕，他甚至比天谕大神官自己都更早知道，七卷天书里的明字卷会在荒原上重新出",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "遥远北方那道山麓深处传来的天地气息波动，被毡帽阴影遮住的容颜上缓缓现出极复杂的神情――那神情是怀念是温暖是久远之后的平静，却又夹着某些极淡的怅悔还有感伤。\n　　然后这名中年男人说出很简洁的三个字：“门开了。”\n　　……\n　　……\n　　宁缺背着莫山山虚弱的身体，艰难踩着满地乱石前行，抵达湖心，然后看到",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

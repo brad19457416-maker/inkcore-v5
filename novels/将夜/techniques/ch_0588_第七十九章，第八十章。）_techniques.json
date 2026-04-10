@@ -1,0 +1,76 @@
+{
+  "novel": "将夜",
+  "chapter_number": 588,
+  "chapter_title": "第七十九章，第八十章。）",
+  "filename": "ch_0588_第七十九章，第八十章。）.txt",
+  "char_count": 925,
+  "timestamp": "2026-04-10T12:11:26.678512",
+  "techniques_count": 5,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "三局是想让你看到世界毁灭的景象，所有的这些，都要让你学会放弃。”\n　　“很遗憾的是，前面两局对你没有意义，而第三局里，那个即将毁灭的世界，也不能让你的心意有任何改变，那么真实的世界呢？”\n　　歧山大师看着宁缺的眼睛，叹息说道：“如果我们身处的人间世界，将要因为你背上的小姑娘而毁灭，你会怎么选择？”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第七十九章，第八十章。）\n　　“大黑伞究竟是什么？”\n　　“是一片夜色。”\n　　歧山大师的答案很玄妙，很难懂，但宁缺懂了。\n　　……\n　　……\n　　歧山大师看着宁缺，说道：“十六年前，佛道魔三宗天下行齐集聚荒原，听闻大先生也去了，为的便是",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "然而当时的他，并不知道那个刚刚出生的女婴，对自己意味着什么。\n　　宁缺想到今天在烂柯寺里，自己对程立雪和曲妮玛娣说过两次：光明大神官也有看错的时候，这才明白原来所有这一切，真的只是看错了……\n　　如今的大学士夫人，当年的通议大夫府小妾在怀上桑桑的时候，那位令人敬畏的光明大神官，便比世间所有人都更早看",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第七十九章，第八十章。）\n　　“大黑伞究竟是什么？”\n　　“是一片夜色。”\n　　歧山大师的答案很玄妙，很难懂，但宁缺懂了。\n　　……\n　　……\n　　歧山大师看着宁缺，说道：“十六年前，佛道魔三宗天下行齐集聚荒原，听闻大先生也去了，为的便是冥王之子降临的天兆，而也",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "夜色。”\n　　歧山大师的答案很玄妙，很难懂，但宁缺懂了。\n　　……\n　　……\n　　歧山大师看着宁缺，说道：“十六年前，佛道魔三宗天下行齐集聚荒原，听闻大先生也去了，为的便是冥王之子降临的天兆，而也正是在那一天，桑桑在通议大夫府里出生。”\n　　也正是在那一天，宁缺逃进了通议大夫府的柴房，握住了那把柴刀",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

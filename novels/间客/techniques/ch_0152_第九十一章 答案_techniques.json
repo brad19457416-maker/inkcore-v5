@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 152,
+  "chapter_title": "第九十一章 答案",
+  "filename": "ch_0152_第九十一章 答案.txt",
+  "char_count": 3365,
+  "timestamp": "2026-04-10T12:04:45.662601",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的果壳机动公司工程部主管何塞，仔细地看着光屏上传送过来的考生答案，最后落在了许乐的答案上，忍不住惋惜说道：“看来这个年轻人地基础知识比我想像的要好很多，前面可以过基数线……只是最后这道题对于他来讲，确实难度太大，这种系统结构他不可能看见过。”\n\n    已经快要截止交卷时间，许光的试卷上，最后那一页",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "考生，他的眉头微皱，明显不满意自己对最后一张结构图的改动，只是他清楚自己已经做到了极致。走出会议室，来到安达的身边，顺着安达嘲讽的眼光往会议室里望去，周玉看到了面色微白的许乐，不禁疑惑问道：“他还没出来？”\n\n    “客观题可以蒙。最后这道题只怕他连题目都看不懂……”安达压低声音耻笑道：“我们出来",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "加对照……这个过程许乐越来越熟练，他隐隐想到，自己应该是拥有了某种很可怕的能力。\n\n    他的心中激动起来，脸上却依然一片平静，面色微白，眯着双眼，盯着面前地光屏。\n\n    考核结束地时间还没有到，绝大多数的考生已经离开了会议室，他们当中有地人虽然计算出来，最后那道题的问题应该是出在电子喷流器上",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "经在他地脑海中根深蒂固。在他看来。无论是如何高级地系统。其实和家用电器上面那些简单芯片组。并没有什么本质上地差别。顶多就是复杂一些。\n\n    这种很变态地理念。让许乐地思路与众不同。他不知道这张结构图是联邦某型战舰地主炮激发装置。就算知道了。他脑海里地想法也不会有丝毫迟疑。\n\n    大叔说过。只",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "不仅仅是电子喷流器。而是整张结构图都要进行改动……\n\n    对一个完整系统结构设计进行改动。这需要无数工作人员。耗时许久。经过无数次实验才能完成。哪怕仅仅是概念性地设计改动。依然需要大量地工作。最关键地是。对于这些考生来说。已经被学院派教育培养出了某种既定地思维模式。谁也不会想到。一道招募考试地题",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "”\n\n    全系统设计改动？周玉心头一惊，正准备说什么，一旁的安达已经无比嘲讽说道：“吹，继续吹，马上考官就会公布成绩，我看你到时候还怎么吹。 www.dxsxs.com",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "后，何塞的脸色微微有些通红，指着光屏上许乐的答案，不停地点着手指。旁边的考官看着他这副模样，不禁有些担心，问道：“怎么了？”\n\n    “人才！人才！”何塞深深地吸了口气，满脸含笑地看着光屏，说道：“工程部要这个人。”\n\n    四周的考官好奇地调出了自己光屏上地答案。看了半晌之后，脸色都变得极为精",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "会同情这个可怜的蹲坑兵，但更多的人则是用一种嘲弄轻蔑的眼光看着角落里的许乐，在他们看来，既然没有这种水准，就不应该来丢人现眼。\n\n    沉默了很久的许乐，终于动了，他举起手指，将光屏上的图纸放大到最大倍数，然后移到了右下侧的一处复杂结构处，然后……他再次沉默，眯着眼睛盯着那里，眼睛眨都没有眨一下。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第九十一章 答案 \n\n    渐渐有越来越多的考生离开了会议室，这些年轻人有礼貌地在室外保持着安静，隔着落地玻璃，注视着前面的同行者。然而当他们看到后方那个面色有些发白，一动不动的年轻人之后，有些人的眼睛里闪过笑意与微讽之意。\n\n    最后一道大题，这些考生只能凭借着课堂上的些微了解，做出尝",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "学生，将思路放到了结构图的其余部分，并且有几位成功地捕捉到了一些问题，进行了相应的改动，虽然依然不能满足试题的要求，但已经算是极为不易。\n\n    周玉是倒数第二个离开会议室的考生，他的眉头微皱，明显不满意自己对最后一张结构图的改动，只是他清楚自己已经做到了极致。走出会议室，来到安达的身边，顺着安达",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 410,
+  "chapter_title": "第二百一十五章 借剑（中）",
+  "filename": "ch_0410_第二百一十五章 借剑（中）.txt",
+  "char_count": 3342,
+  "timestamp": "2026-04-10T12:11:21.738772",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "生就是冰坨子。”\n　　那名剑阁弟子沉默了很长时间，再次长揖及地行礼，诚恳致歉说道：“抱歉，我没有想到最终会是这样的结果。”\n　　柳白面无表情说道：“裁决司要借我剑阁的剑杀人，事先应该要和我说一声，不问而取那就不是借，而是偷。”\n　　那名剑阁弟子感慨说道：“职司所在，我也不想这样。”\n　　“我知道你不",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "意地涂写。\n　　他不是在写字，而是在画画。\n　　柔软的墨笔在无法铺平的纸张上行走，线条扭曲打结，不时颤抖，简单几笔艰难地构成一个中空狭长的物事，却看不出来是什么。\n　　这幅面非常拙劣，看上去就像是顽童瞎弄出来的作品。\n　　然而就这样一幅拙劣而简单的画，却似乎让柳白耗尽了心神，在水光的映衬下，脸颊显得",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的大腿。\n　　少女依旧美丽动人，而且因为她现在的黯淡处境，那份怯弱让美丽更增添了几分真实气息，让有些人生出敢于占有这份美丽的勇气。\n　　陈八尺的眼神有些亵秽，但他心里不敢亵秽，因为他没有这种勇气，和道痴在他心中的威严回忆无关，只和他今天要说的这件事情有关。\n　　“罗克敌大人是神卫统领，又是掌教大人的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "：“寄到西陵，寄给叶红鱼。”\n　　中年男子再也无法控制住情绪，双膝跪倒在柳白身后，颤声说道：“师兄你为什么要这样做！为什么要寄给道痴？”\n　　柳白端详着手中画着剑的纸，说道：“因为光明神座死在长安城后，这整座桃山，就只有这个女人还让我有几分欣赏。”\n　　“但……但剑阁与裁决司之间已然决裂。”\n　　中",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "：“裁决司要借我剑阁的剑杀人，事先应该要和我说一声，不问而取那就不是借，而是偷。”\n　　那名剑阁弟子感慨说道：“职司所在，我也不想这样。”\n　　“我知道你不想这样。”柳白很乏味地重复了一句。\n　　那名剑阁弟子缓缓直起身体，平静注视着碧潭对面的柳白，能够承受柳白身上所散发出来的凛厉剑意，表明他的真实修",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "畏惧。\n　　剑圣柳白是世间第一强者，令无数修行者敬畏惧怕，但他是西陵神殿的执事，他所执行的命令来自桃山那座黑色的道殿。\n　　用柳白的话，他只是凭借自己管理剑阁的权限，把那把朝小树的剑借了出来，然后再借给即将远赴长安城的柳亦青，同时对他说了几句话。\n　　不问而取确实不是借，是偷。\n　　但既然是西陵神殿",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的是一把剑。”\n　　柳白满意说道：“能看出这是一把剑，师弟你的境界看来有所增益。”\n　　中年男子强行压抑着心头的震惊，问道：“师兄这把剑要给谁？”\n　　柳白平静说道：“寄到西陵，寄给叶红鱼。”\n　　中年男子再也无法控制住情绪，双膝跪倒在柳白身后，颤声说道：“师兄你为什么要这样做！为什么要寄给道痴？”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "笑的愈发开心，说道：“那岂不是日后你可能成为裁大神官。”\n　　那名弟子微笑不语。\n　　柳白脸上的笑容骤然敛去，看着这名弟子面无表情说道：“虽说我剑阁弟子能继任神座，也是我这个做老师的光荣，只是我忽然想到一件事情，你若真成了裁决大神官，我要杀你便有些不方便。”\n　　那名弟子身体骤僵，看着潭对面。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "柳白的话，他只是凭借自己管理剑阁的权限，把那把朝小树的剑借了出来，然后再借给即将远赴长安城的柳亦青，同时对他说了几句话。\n　　不问而取确实不是借，是偷。\n　　但既然是西陵神殿要借剑杀人，那么借便是借。\n　　就算在世人眼中是偷，依然是借。\n　　柳白终究是西陵客卿，要奉昊天之命而行事，又能把自己如何？",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "潭畔的剑阁弟子身体剧震，他已经决定坦承一切，却没有想到，原来师尊早就知道了自己的真实身份。\n　　柳白说道：“我养了你七年，教了你七年，就算是一把冰冷的剑也能捂热，却没想到裁决司的人，天生就是冰坨子。”\n　　那名剑阁弟子沉默了很长时间，再次长揖及地行礼，诚恳致歉说道：“抱歉，我没有想到最终会是这样的结",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "山会接任大司座？”\n　　那名弟子也笑了起来，用沉默表示承认。\n　　柳白笑的愈发开心，说道：“那岂不是日后你可能成为裁大神官。”\n　　那名弟子微笑不语。\n　　柳白脸上的笑容骤然敛去，看着这名弟子面无表情说道：“虽说我剑阁弟子能继任神座，也是我这个做老师的光荣，只是我忽然想到一件事情，你若真成了裁决大神",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "再高出数个层级，依然不可能是柳白的对手，只是他的脸上看不到任何畏惧。\n　　剑圣柳白是世间第一强者，令无数修行者敬畏惧怕，但他是西陵神殿的执事，他所执行的命令来自桃山那座黑色的道殿。\n　　用柳白的话，他只是凭借自己管理剑阁的权限，把那把朝小树的剑借了出来，然后再借给即将远赴长安城的柳亦青，同时对他说了",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "：“职司所在，我也不想这样。”\n　　“我知道你不想这样。”柳白很乏味地重复了一句。\n　　那名剑阁弟子缓缓直起身体，平静注视着碧潭对面的柳白，能够承受柳白身上所散发出来的凛厉剑意，表明他的真实修为境界，要比平时强上很多。\n　　当然就算他的修为境界比现在再高出数个层级，依然不可能是柳白的对手，只是他的脸",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 706,
+  "chapter_title": "第六十九章 太空里的朗诵",
+  "filename": "ch_0706_第六十九章 太空里的朗诵.txt",
+  "char_count": 3997,
+  "timestamp": "2026-04-10T12:05:17.543598",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "艘帝国战舰被甩的不知踪影，终于放松了下来，余悸难消地摇了摇头，忽然想到一件事情。用力拍打着光幕，恼怒说道：“什么身份核准！你来四救我，难道还不知道我是谁？”\n\n    那个很长时间没有见到的老管家形象，有些扭曲地出现在显示光幕上；向他微微鞠身行礼，微笑回答道：“首先，我只是我的一部分，计算核心能力太",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "死死抓着维生头盔，忽然听到这句话后，不由愣了愣，旋即逃亡一年所生出的冉怨暴戾之气顿时暴发，取下呼吸罩愤怒骂道：“别玩游戏了！以为穿了一身破铜烂铁的马甲爷就认不出你来？”\n\n    恼怒地骂完这句话，许乐眼角余光瞥见越来越小的那颗四偏远星球一侧出现了几个。令他感到心惊胆跳的黑影，那应该是帝**方的常规",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "“不要问我从明里来，从哪里来啊”。\n\n    “我的故乡在远方，在远方。”\n\n    “为什么流浪，流浪远方，在宇宙里流浪啊\n\n    浩翰安静的太空之中，一艘破烂的金属飞船像幽灵般的擦过四星系最后一圈陨石带，向着更远处的黑暗飞去。这艘飞船上有一个面朝星辰紧捂双耳的联邦青年，还有一道充满",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "许乐沉默片刻，自嘲地低声说道：“那也不见得\n\n    光幕上的老管家同样沉默了片刻，带着一丝感慨说道：“确实。”\n\n    轻微的电机声和几蓬电火花打破了二人间的沉默，如果可以把联邦宪章电脑称作一个。人的话，自动机械手在舱门外进行着忙碌的维修，前舱四周的二次密封灌压和维生系统修复工作也在一步",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "憨傻的笑容有些向疯癫方向发展的趋势，然而正在此时。超高速穿透大气层的飞船外面那些呼啸的凄厉空气撕裂声瞬间消失，一种令生物本能感到恐慌的绝对寂静笼罩飞船内部。\n\n    许乐感觉到身体渐渐飘浮起来，愕然回首望去，只见舷窗外已经隐隐能够见到那抹星球艳丽的轮廓弧线，这才明白飞船已经穿过了大气层，将要进入太",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "船。”\n\n    许乐此时就像一个将要溺亡的人般死死抓着维生头盔，忽然听到这句话后，不由愣了愣，旋即逃亡一年所生出的冉怨暴戾之气顿时暴发，取下呼吸罩愤怒骂道：“别玩游戏了！以为穿了一身破铜烂铁的马甲爷就认不出你来？”\n\n    恼怒地骂完这句话，许乐眼角余光瞥见越来越小的那颗四偏远星球一侧出现了几个",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "壁四周那些似乎正在嘲笑自己的千疮百孔，眼瞳骤然紧缩，“惶急地闭上了嘴唇，双腿一弹掠向前舱紧闭的大门，拼命地敲打起来。\n\n    前舱合金门缓缓开毒，许乐毫不犹豫地游身而入，用最快的速度把自己绑在靠近观察窗口的座椅上。然后手指向上用力一戳，关闭身后密封舱门的同时，按下维生系统的按扭。可令他感到疯狂绝望",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "墙壁和地面上的此金属构件甲没有一个人，也没有任何声音，只有剧烈的震动和从那些破烂金属缝隙里响起的凄厉风声，才能感受到这种恐怖的速度。\n\n    这艘摧破彩云如神天降的破烂飞船呼啸轰鸣着在苍穹里自由飞舞。对于舱内的人来说，却是一种恐怖的折磨。此复许乐的身体变成了一块疯狂的石头，根本无法控制。在舱内上下",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，愕然回首望去，只见舷窗外已经隐隐能够见到那抹星球艳丽的轮廓弧线，这才明白飞船已经穿过了大气层，将要进入太空。\n\n    他张开嘴准备和一直奇怪沉默的老东西说些什么，却发现没有发出任何声音，他的胸膛微微起伏，然而却没有吸入任何空气，他盯着飞船内壁四周那些似乎正在嘲笑自己的千疮百孔，眼瞳骤然紧缩，“惶",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "过空间通道，他对这艘承载着自己复仇决心的飞船印象太过深亥，即便外表改变了太多，但里面的那种气息却依然存在。\n\n    前一玄在山丘上等死，后一玄就出现在联邦宪章局的三翼舰上。这种过于陡急的境遇转变，让神经无比粗壮的他都不由怔了怔，紧接着满是鲜血的脸上露出了一丝憨傻欢愉至极的笑容。\n\n    帝国的星",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "象太过深亥，即便外表改变了太多，但里面的那种气息却依然存在。\n\n    前一玄在山丘上等死，后一玄就出现在联邦宪章局的三翼舰上。这种过于陡急的境遇转变，让神经无比粗壮的他都不由怔了怔，紧接着满是鲜血的脸上露出了一丝憨傻欢愉至极的笑容。\n\n    帝国的星际走私商人和海盗团无法理解这艘幽灵船，联邦宪章",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "而正在此时。超高速穿透大气层的飞船外面那些呼啸的凄厉空气撕裂声瞬间消失，一种令生物本能感到恐慌的绝对寂静笼罩飞船内部。\n\n    许乐感觉到身体渐渐飘浮起来，愕然回首望去，只见舷窗外已经隐隐能够见到那抹星球艳丽的轮廓弧线，这才明白飞船已经穿过了大气层，将要进入太空。\n\n    他张开嘴准备和一直奇怪",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "眼瞳骤然紧缩，“惶急地闭上了嘴唇，双腿一弹掠向前舱紧闭的大门，拼命地敲打起来。\n\n    前舱合金门缓缓开毒，许乐毫不犹豫地游身而入，用最快的速度把自己绑在靠近观察窗口的座椅上。然后手指向上用力一戳，关闭身后密封舱门的同时，按下维生系统的按扭。可令他感到疯狂绝望的是，前舱的氧气含量仍然在一格一格地减",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "犹豫地游身而入，用最快的速度把自己绑在靠近观察窗口的座椅上。然后手指向上用力一戳，关闭身后密封舱门的同时，按下维生系统的按扭。可令他感到疯狂绝望的是，前舱的氧气含量仍然在一格一格地减少。\n\n    用力拉出座椅侧方的维生面罩，套在面部大口急促地呼吸数次，许乐震惊喊道：“维生系统出了什么问题？。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "维生系统修复工作也在一步步的进行当中。\n\n    与联邦中央电脑重逢，便等于和联邦重逢，和那些过往的温暖重逢。许乐沉默片刻后，重重地仰面倒下。躺在熟悉的座椅上，疲惫地深深吸了口气，脸上泛起满足的微笑，轻声说道：“这艘三翼舰也太破烂了。感觉随时都可能散架，前舱光幕上全部是机油粘着的灰，甚至连维生系统都",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，乃\n\n    飞船内部那道机械的电子合成音依然在冰冷地进行死亡到数，只要它或者他或者她愿意，可以有无数办法让座椅上痛苦挣扎的男人死去。\n\n    就在这时，指挥台蒙着厚厚灰尘的光幕上忽然闪过一道漂亮的蓝色线条，发出了一声嘀的轻响。\n\n    瑰”噫”，呜，，亦，呀\n\n    机械冰冷的电子合成音骤",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

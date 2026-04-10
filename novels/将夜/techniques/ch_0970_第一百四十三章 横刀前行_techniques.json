@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 970,
+  "chapter_title": "第一百四十三章 横刀前行",
+  "filename": "ch_0970_第一百四十三章 横刀前行.txt",
+  "char_count": 2152,
+  "timestamp": "2026-04-10T12:11:27.614303",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "桑桑冲出了这片森林。\n　　他回头望去，只见森林里到处都是金光，然后从西方远处开始，不断有红杉树倒下，大地震动，掀起无数烟尘。\n　　那些红杉树都是被符意切断的，只是符意太过锋利，巨树断而不倒，直到此时某株树倒下，然后所有的树都被震倒。\n　　红杉树很高，直入云层，最矮的也有数百丈，随着这些巨树的倒塌，烟",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的修行法门有本质上的不同，符道是要将意思讲与自然听，然后调动天地气息。符师与自然的沟通是请求，从某种意义上来说，是一种被动的行为，也唯因为如此，才能调动如此多数量的天地元气。\n　　从来没有符师，能够带着他的符意移动，因为人类不可能拥有那么多念力，因为真正的天地不可能听从卑微人类的命令。\n　　宁缺今天",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "意切割成最细微的碎片，然后变成金色的粉末，飘浮在森林里，幽暗的世界早已光明一片。\n　　佛光明亮至极。逃亡多日，宁缺受了很多伤，疲惫憔悴，脸色本就有些苍白，此时被万道佛光照耀，更是雪白一片。\n　　他眯着眼睛，低头横刀继续前冲，脸上没有一丝惧意。\n　　如果他还背着桑桑，就算撑着大黑伞，只怕桑桑也会被这些",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "些佛神情坚毅，继续向他走来。\n　　V字神符源于他掌握的第一道神符：二字符，而二字符则是脱胎于颜瑟大师最强大的井字符，修至极致境界，便是连空间都能切开，更何况是这些佛尊，他此时如果停留在符意之间，根本不需要担心那些佛的到来。但符道自有其先天限制，符意不可能永远飘留在天地自然里，再强大的神符，随着时间的",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第一百四十三章 横刀前行\n　　森林里一片幽暗，诸佛身上散发着淡淡金光，如无数油灯。看着宁缺持刀而立，诸佛有伤恸者，有悲愤者，有敬畏者，反应各有不同。\n　　诸佛感觉到宁缺发生了一些很重要的变化，察觉到那些变化，会对佛祖的极乐世界带来某种影响，只是不解那种变化到底是什么。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "在了无形刀锋之下。\n　　宁缺低着头不停地奔跑，不知道奔跑了多长时间，直到他觉得自己握着铁刀的双手开始颤抖，呼吸重新变得急促，才停下脚步。\n　　水声潺潺，很是静柔，一条大河出现在他眼前。\n　　他背着桑桑冲出了这片森林。\n　　他回头望去，只见森林里到处都是金光，然后从西方远处开始，不断有红杉树倒下，大地",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "眸变得异常明亮，握紧铁刀缓缓提起，向着身前的森林里，看似很随意地斩落两刀。\n　　两道数百里长的刀锋，出现在幽暗的森林里！\n　　狂风呼啸而起，无数地藓翻起，杂草低偃，岩石裂开，数百里刀锋所过之处，没有任何事物还能保持原本的形态，而那些站在刀锋所向区域里的诸家生佛，更是被刀锋直接碾成了碎末，金粉弥漫！",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "被动的行为，也唯因为如此，才能调动如此多数量的天地元气。\n　　从来没有符师，能够带着他的符意移动，因为人类不可能拥有那么多念力，因为真正的天地不可能听从卑微人类的命令。\n　　宁缺今天做到了，这是人类修行史上从来没有发生过的事情。\n　　……\n　　……\n　　两道凌厉符意有数百里之长，贯穿整片森林，随着宁",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "只是不解那种变化到底是什么。\n　　宁缺对这种变化也不了解，他知道桑桑的身体还在自己的背上，但她却已经进入了自己的身体，他觉得自己充满了力量，无所畏惧。\n　　颂经声在森林里再度响起，金光大盛，无数佛在四处现身，向着他缓缓围拢，没有给他留下任何离开的通道。\n　　诸佛神情慈悲，看着他眼露悯意，然而从朝阳城",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "体，他觉得自己充满了力量，无所畏惧。\n　　颂经声在森林里再度响起，金光大盛，无数佛在四处现身，向着他缓缓围拢，没有给他留下任何离开的通道。\n　　诸佛神情慈悲，看着他眼露悯意，然而从朝阳城到现在，诸佛从来没有试图进行说服教化，也没有与宁缺进行过任何真正的交流――因为宁缺拒绝与他们进行交流，任何分歧到最",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "大的井字符，修至极致境界，便是连空间都能切开，更何况是这些佛尊，他此时如果停留在符意之间，根本不需要担心那些佛的到来。但符道自有其先天限制，符意不可能永远飘留在天地自然里，再强大的神符，随着时间的流逝，也会逐渐散去，到时候怎么办？\n　　宁缺本来就没有想过，靠这道宏大而霸道的神符来保命，他说要与这些佛",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

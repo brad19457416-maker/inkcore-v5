@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 923,
+  "chapter_title": "第九十六章 天亦病（下）",
+  "filename": "ch_0923_第九十六章 天亦病（下）.txt",
+  "char_count": 3381,
+  "timestamp": "2026-04-10T12:11:27.496891",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，自去歇息，他站在石窗畔，看着雨中的齐国都城，听着雨中隐隐传来的哭泣声和喊杀声，脸上没有表情。\n　　风雨远处隐隐有喊杀声，每隔一段时间，便有西陵神殿骑兵小队来到道殿前，解开鞍下的布袋，把袋子里的事物倒在殿前的石阶上。\n　　那些袋子里装的都是人头。\n　　一天一夜时间就这样过去，道殿前石阶上的人头变得越",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "？女人为什么要爱自己的男人？子民为什么要爱自己的国家？\n　　哪怕看似没有任何条件的爱，往最深处去看，最终也只能得到一个冰冷、冷的连呼吸都困难的答案吧。\n　　宁缺不知该如何回答这个问题，正如大河国的时候，他和她没有解释清楚爱情，那么现在，他也无法给她解释什么是爱。\n　　就在这时，春雨里的长街那头，缓缓",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "，显得有些惊恐，更多的则是看热闹的兴奋。\n　　“我是昊天。”\n　　桑桑看着烈火中的那堆头颅，面无表情说道：“我的意志，人类必须服从。”\n　　宁缺想了想，说道：“或者可以把服从换成另外一种形容。”\n　　桑桑看了他一眼，说道：“比如？”\n　　宁缺说道：“我虽然没有信仰，但想来这里面，应该也有爱的成分。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "界，所有问题都害怕一直追问，就比如人类一直念念不忘的爱字，一旦追问，哪里就一定会有回响？\n　　是啊，为什么一定要爱呢？母亲为什么爱自己的子女？女人为什么要爱自己的男人？子民为什么要爱自己的国家？\n　　哪怕看似没有任何条件的爱，往最深处去看，最终也只能得到一个冰冷、冷的连呼吸都困难的答案吧。\n　　宁缺",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "是书院想要解决的问题，宁缺知道，这必然是一个漫长而艰险的过程，就像拔河一样，肯定会有往复，所以他有些紧张，但并不以为意。\n　　他走到桑桑身边，望向石窗外雨中的齐国都城，两个人都没有说话，沉默并肩站着，似想把春雨里的街巷刻进眼中。\n　　街道被雨水洗的非常干净，然而片刻后，上面积着的雨水渐渐被染红，看色",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "熊熊火焰里，隐约能够看到那些头颅容颜被烧的变形，仿佛那些已经死去的人还能感知到痛苦，五官扭曲，愤怒而惊恐。\n　　难闻的焦臭味弥漫在道殿四周。\n　　春雨中，数千名齐国民众正在看着眼前这幕画面，他们脸上的神情终于不像平日那般麻木，显得有些惊恐，更多的则是看热闹的兴奋。\n　　“我是昊天。”\n　　桑桑",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "具体的建议，我只想说，怎么做能让你高兴，你就去做吧。”\n　　叶红鱼想了想，说道：“这就是从本心出发的道理？”\n　　宁缺说道：“不错，本能和本心，总是最强大的。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "隐传来的哭泣声和喊杀声，脸上没有表情。\n　　风雨远处隐隐有喊杀声，每隔一段时间，便有西陵神殿骑兵小队来到道殿前，解开鞍下的布袋，把袋子里的事物倒在殿前的石阶上。\n　　那些袋子里装的都是人头。\n　　一天一夜时间就这样过去，道殿前石阶上的人头变得越来越多，血腥味变得越来越浓，雨水根本无法冲淡半分。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "时候，他和她没有解释清楚爱情，那么现在，他也无法给她解释什么是爱。\n　　就在这时，春雨里的长街那头，缓缓行来一座神辇。神辇周围的幔纱是深红色的，被雨水打湿后，仿佛在淌血，显得格外肃杀。\n　　裁决神座，再次降临人间之国土。\n　　宁缺没有意外，在南海畔的时候，他已经隐约猜到西陵神殿骑兵的主事者是谁，这一",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "会离开人间。\n　　在烂柯寺看到残破的佛祖石像后，桑桑便病了，像人类一样，开始疲倦，偶尔会咳嗽，但她却同时变得越来越不像人类。\n　　被人间红尘意留下，还是重新回到神国，这是桑桑面临的问题，也是书院想要解决的问题，宁缺知道，这必然是一个漫长而艰险的过程，就像拔河一样，肯定会有往复，所以他有些紧张，但并不",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "快的速度冲进春雨中，然后分成数个方向疾驶而去。\n　　这些骑兵要赶回桃山，把最新的情况报告给神殿里的大人们，另外他们也要通知都城外驻扎着的那些神殿骑兵和主事者。\n　　两千西陵神殿骑兵一路跟随，宁缺一直有些好奇主事者是谁。\n　　向着城南街道狂奔的那名西陵神殿骑兵，忽然高高举起了手中仿佛血幡一般的旗帜，大",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

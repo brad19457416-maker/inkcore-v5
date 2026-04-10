@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 1018,
+  "chapter_title": "第三百三十六章 小黑帽（下）",
+  "filename": "ch_1018_第三百三十六章 小黑帽（下）.txt",
+  "char_count": 4756,
+  "timestamp": "2026-04-10T12:05:26.922985",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "台整个宇宙最先进的医疗设备，被悄无声息地推走，豪奢的房间顿时变得空旷很多。\n\n    柔软床旁幔布被风吹动，阔大的环境愈发衬得床上那位干瘪老者身躯极为微小。\n\n    铁算利家当代家主利缘宫老人，重重咳了两声，有些厌恶地任由第十七顺位妻子擦去唇边的痰液，望着站在床前的利修竹和利孝通，用沙哑的声音说道",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "姓名，甚至就连民众都不知道你是谁，手中握着不可思议的财富死去，你难道不会不甘心，觉得自己的人生很没有意义？”\n\n    “人生的意义不在于这些。”\n\n    “那在于什么？”\n\n    “到死的时候你就会知道，人生本来就没有意义。”\n\n    利缘宫老人平静望着窗外的雪花，有些动容叹息了一声，低声缓",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "帕布尔总统沉默片刻后回答道：“战争的结局永远不是斩尽杀绝，zhèngfu和民众只需要胜利，需要真相。贵家族有位先祖曾经在临死前说过一句话：我死后哪怕洪水滔天，而zhèngfu并不想看到洪水滔天，所以政丵府可以给贵家族一些承诺，换取你的妥协。”\n\n    “承诺什么？承诺不赶尽杀绝，分拆利家所有",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "愤怒。\n\n    庄园里的人们如此对待应该受到尊敬的民选总统，他最尊敬的人，是不可忍受的事情，他皱眉说道：“利家如此无礼，难道真以为凭借金钱就可以为所欲为？”\n\n    帕布尔总统的表情却非常平静，放下手中的茶杯，看着他微笑说道：“即将离开这个世界人，无论身上背负着多少带金腥味的罪恶，总应该拥有一些",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "我总认为既然活着，就应该做些自己认为有意义的事情。”\n\n    帕布尔总统平静回答道，交谈至此时，他第一次对这位将死的老人用上了敬语。\n\n    利缘宫老人缓声说道：“我这生有两个人看不透，一个是刚才提到的掀我帽子的男人，一个是许乐。”\n\n    “看不透前者，是因为我始终不知道他在乎什么，看不透后",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "是最大的荣耀，因为只有钱才能促进资源的分配流通。从大浩劫之后，我们铁算利家，一直做的事情就是保障人类社会资源的流通。”\n\n    “商人才是现代社会的根基，谁试图阻止商人挣钱，那就是全人类的敌人，那都是在找死。”\n\n    利缘宫老人头顶稀疏的白发，像被风吹旧的柳絮，无力地耷拉着，但他的声音虽然沙哑",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "不是自私的理想实现，而是为联邦民众谋求一个美好的现在。”\n\n    “你甚至没有资格谈论稍微远一些的将来！”\n\n    帕布尔总统微微蹙眉。\n\n    “人类社会组织是很脆弱的，经不起所谓理想的折腾，你坚持这样做，只是满足自己在历史上留名的。”\n\n    利缘宫老人冷漠看着他，说道：“你没有时间，但",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "来越阴沉，冰冷眼眸里虽然没有什么情绪，但谁都能看出他已经快要压抑不住胸中的愤怒。\n\n    庄园里的人们如此对待应该受到尊敬的民选总统，他最尊敬的人，是不可忍受的事情，他皱眉说道：“利家如此无礼，难道真以为凭借金钱就可以为所欲为？”\n\n    帕布尔总统的表情却非常平静，放下手中的茶杯，看着他微笑说",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "联邦zhèngfu和七大家的战争早已掀开帷幕，即将进入白热化状态，就在这种关键时刻，帕布总统却来到了利家庄园，这是很难想像的事情。\n\n    帕布尔为间客吧作了个广什么告，他认为小妖童鞋是个好童鞋。\n\n    因为某些很重要的问题，总统先生必须来一趟，必须在这个老人闭上眼睛之前寻找到答案。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "把野心勃勃的总统拦在外面，和你们说这些话，就是希望你们明白商人最需要坚持和强大内心。”\n\n    他缓缓偏头望向利孝通，带着怜惜之情说道：“三年前告诉过你，投资就一定要坚持到底，许乐那件事情太可惜了，要知道投资一个皇帝是我毕生最大的梦想，可惜这个梦想直到死亡依然没有机会实现。”\n\n    利孝通跪下",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "装的特勤局特工表情漠然下车，监控四周动静，通过耳中的白色小片与系统进行联络，试图解决当前尴尬而又令人愤怒的局面。\n\n    随着时间一分一秒过去，车厢后排中的杜少卿表情越来越阴沉，冰冷眼眸里虽然没有什么情绪，但谁都能看出他已经快要压抑不住胸中的愤怒。\n\n    庄园里的人们如此对待应该受到尊敬的民选",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "间一分一秒过去，车厢后排中的杜少卿表情越来越阴沉，冰冷眼眸里虽然没有什么情绪，但谁都能看出他已经快要压抑不住胸中的愤怒。\n\n    庄园里的人们如此对待应该受到尊敬的民选总统，他最尊敬的人，是不可忍受的事情，他皱眉说道：“利家如此无礼，难道真以为凭借金钱就可以为所欲为？”\n\n    帕布尔总统的表情",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "已经很多年了。关于这场战争，你想做（作）战，我可以应战，事实上只要我这时候说一句话，联邦金融体系便会马上崩溃，联邦zhèngfu今天下午就会破产，整个联邦都会乱起来。”\n\n    任何人说出这句话，都会显得嚣张愚蠢而滑稽，但说出这句话的是利缘宫，就没有人敢怀疑。\n\n    “我很清楚你的来意，zhè",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "源这种七大家贵族身上？”\n\n    “为什么不可以？历史有自己的力量，而人先天具有背叛自己所属阵营的渴望，他做起来会比你更顺利。”\n\n    “垃圾永远不会自己走进历史的垃坂堆，需要有人来做清扫工作。”\n\n    帕布尔回答道，然后眉梢微微一皱，觉得这句话很熟悉，好像几年前听谁说过，因为这种回忆，他",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，也只有钱，继续加大对沉默行军的支持力度，太子爷要什么我们就给什么，另外林半山和田大棒子两边，尽可能满足他们的需要。”\n\n    “至于宣称要回来的许乐，虽然我认为这块臭石头是个念旧情的人，但他毕竟是帝国太子，安静旁观吧。”\n\n    利缘宫老人平静做完最重要的几件指示，然后疲惫地挥了挥手，示意下一",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

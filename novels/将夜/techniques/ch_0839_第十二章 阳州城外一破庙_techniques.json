@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 839,
+  "chapter_title": "第十二章 阳州城外一破庙",
+  "filename": "ch_0839_第十二章 阳州城外一破庙.txt",
+  "char_count": 3276,
+  "timestamp": "2026-04-10T12:11:27.278980",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "南晋人，大声愤怒说道：“我们唐人凭什么要让异国人在自已的土地上嚣张？昨天夜里打伤那小姑娘的神殿执事，为什么今天被送出了阳州城？”\n　　那些握着佩刀的诸阀子弟，脸色有些不豫，人群里也有人恼怒地驳斥他的意见，最后争论自然而然地来到清河人究竟是不是唐人这个方面。\n　　“什么亵渎昊天？这都是西陵神殿的一面之",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的红袖招主事姑娘收了请柬，崔家四管事满意地笑了笑，轻轻抚摩有些发痒的断指，仰首走出了宋氏别院。\n　　来到阳州城街上，一阵扰嚷声进入青帘小轿，四管事微微蹙眉，掀起轿帘一看，沉声说道：“堂少爷在那里做什么？”\n　　……\n　　……\n　　宁缺和王景略回到了阳州城，他们戴着草帽，看上去就像普通的百姓，没有任何",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "处。”\n　　说完这句话，他转身离开祠堂。\n　　他看着富春江对岸，感知着那些庄园里隐隐传来的阵意波动，心想果然不愧是比书院历史还要悠久的地方，底蕴不容小觑。\n　　富春江畔有二人知命，这并不会让他感到畏惧，只是如果要动手，必然动静很大，那么所有人都会知道他已经离开了长安。\n　　至少在进入西陵神国之前，他",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "寄了张银票。\n　　还没有来得及感慨，他的注意力便被街头的喧闹声吸引了过去。他和王景略走过去一看，只见人群围着数名书生模样打扮的年轻人，其中一人正在大声地说着什么，其余数人则是和维持秩序的诸阀武装怒目相向。站在人群里听了会儿，宁缺才知道那名正在大声说话的年轻人，原来是崔阀某旁支子弟。\n　　那名崔公子挥",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "仰首走出了宋氏别院。\n　　来到阳州城街上，一阵扰嚷声进入青帘小轿，四管事微微蹙眉，掀起轿帘一看，沉声说道：“堂少爷在那里做什么？”\n　　……\n　　……\n　　宁缺和王景略回到了阳州城，他们戴着草帽，看上去就像普通的百姓，没有任何起眼处，也没有引起任何人的怀疑。\n　　在街上走着，宁缺忽然停下脚步，抬头望",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第十二章 阳州城外一破庙\n　　阳州城外以富春江风景最美，城内则以瘦湖风光最佳，此时已然入夏，湖面上莲叶如田，湖畔柳树成荫，说不出的清幽怡人。\n　　前往西陵神殿参加光明祭的红袖招歌舞团，如前些年一样，还是住在瘦湖畔的宋阀别院里，气氛也如前些年那次一",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "轻人，原来是崔阀某旁支子弟。\n　　那名崔公子挥舞着手臂，看着街上那些面露骄横神色的燕人或南晋人，大声愤怒说道：“我们唐人凭什么要让异国人在自已的土地上嚣张？昨天夜里打伤那小姑娘的神殿执事，为什么今天被送出了阳州城？”\n　　那些握着佩刀的诸阀子弟，脸色有些不豫，人群里也有人恼怒地驳斥他的意见，最后争论",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "往西陵神殿参加光明祭的红袖招歌舞团，如前些年一样，还是住在瘦湖畔的宋阀别院里，气氛也如前些年那次一样压抑低沉。\n　　前来发请柬的，还是那年那位崔阀的四管事，这位管事并没有把手收在身后，隐藏自已的断指，而是平静地放在身前，仿佛是要这些来自长安的姑娘们看清楚，自已当年曾经因为她们受过怎样的伤害。\n　　三",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "看着那名骑着白马的官员，沉默不语。\n　　那名官员很年轻，神态文雅宁静，身旁有数十名下属和军士护卫，在马上依然不忘向道上的清河郡百姓挥手，惹来阵阵喝彩。\n　　在宁缺眼中，这名年轻官员却很可笑，因为此人身上穿着的官服，明明还是大唐制式，只是改了些细节，显得有些滑稽。\n　　更是因为，宁缺一直认为此人很滑稽",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，现在却要说我不是唐人，要我像那些南晋人，燕人一样去卑贱地做狗，我凭什么要同意！”\n　　人群渐渐变得安静下来，宁缺冷眼旁观，发现这个叫崔华生的还有他身旁那几名年轻人居然都是诸阀子弟，确认清河郡里确实还有很多人心向大唐，尤其是那些没有被青苔院墙蒙蔽眼睛的年轻人。\n　　便在这时，人群渐分，一辆青帘小轿走",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "苦。”\n　　宁缺说道：“富春江畔还有两个知命境，我不会为此人冒险，当然……如果他这次能够活下来，或者以后能够有些用处。”\n　　说完这句话，他转身离开祠堂。\n　　他看着富春江对岸，感知着那些庄园里隐隐传来的阵意波动，心想果然不愧是比书院历史还要悠久的地方，底蕴不容小觑。\n　　富春江畔有二人知命，这并不",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 401,
+  "chapter_title": "第二百零六章 真正简单的一刀",
+  "filename": "ch_0401_第二百零六章 真正简单的一刀.txt",
+  "char_count": 3456,
+  "timestamp": "2026-04-10T12:11:21.721328",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "终于从浑噩的精神状态中醒了过来，唯其清醒，便开始恐惧，因为恐惧至极，便开始疯狂。\n　　他两眼无神望着天空，手里紧紧握着残余的剑柄，像握着最后的救命稻草，对着四周不停疯狂的挥舞，声嘶力竭吼道：“你怎么会用神术！谁教你的神术！”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "一甩腕，体内磅礴的浩然气顺着刀柄，疯狂地向刀身里涌入，哪怕是皇宫里的宝刀，骤然注入这么多浩然气，也会瞬间之内分崩离析成无数金属碎片。\n　　但这把被六师兄千锤百炼，硬生生融进三把朴刀份量的新刀，却极为强悍地支撑住了，细长的刀身以肉眼根本无法看清的恐怖速度颤抖起来，似乎随时可能会断裂，又仿佛永远都会沉默",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "世间任何事情都是这样的，昊天神辉也是如此。\n　　程立雪单手扶着窗棂，感受到书院侧门处传来的凛厉剑意，心想如果面对这记简单一剑的是自己，自己肯定接不下来，只能飘然疾退，退至退无可退之处，以绝境压榨不可能中的可能。\n　　就算隆庆皇子还活着，面对如此简单而又强大的剑意，面对着剑尖那记风雷，他也只能选择暂避",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第二百零六章 真正简单的一刀\n　　柳亦青剑尖的风雷，震惊了所有观战的人。\n　　人们的惊呼声还在咽喉间酝酿，场间一片死寂。\n　　如此简单的一剑，怎会凝聚如此强大的威力？\n　　包括各修行宗派在内，今日在书院侧门观战的人中，能够真正看懂这道简单一剑的人，只有西陵神殿天谕司司座大人程立",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "千锤百炼，硬生生融进三把朴刀份量的新刀，却极为强悍地支撑住了，细长的刀身以肉眼根本无法看清的恐怖速度颤抖起来，似乎随时可能会断裂，又仿佛永远都会沉默地承受一切。\n　　一声嗡鸣！\n　　先前柳亦青展露境界之后，青砖地面看似纤尘不染，但此时青砖缝间那些最细灰的灰尽数被宁缺的刀势震了出来，向四周漫射！",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "能熄灭。\n　　柳亦青震惊。\n　　他没有想到宁缺明明是书院二层楼最弱的一人，甚至被道痴点评为书院之耻，为什么此时却展现出来了如此强大的修为实力。\n　　但他不准备退避，不准备停下剑势，手中剑依然一往无前。\n　　因为他在书院侧门静坐思考了整整三个月，他对这场决斗中可能会发生的状态，包括宁缺苦修破关之后境界",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "他坚信宁缺会思考，那么就算宁缺拥有非人类的意志力，能够保证挥刀的动作没有任何停滞，但他的心境肯定会出现一处缺口。\n　　强者相争，争的是胜负，而胜负往往只在一念之间。\n　　柳亦青知道自己能抓住宁缺心境上的缺口，为此他已经准备了很久。\n　　……\n　　……\n　　然而宁缺的动作没有丝毫停顿。\n　　他闭着眼",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "粉碎，马车车厢壁被他撞破一个大洞。\n　　站在车旁的何明池根本没有注意到身后的动静，握住车轮的右手因为紧张而用力，指节深深陷入车轮之中，木屑四处喷飞。\n　　二人震惊看着书院侧门处，不可思议喊道：“神术！”\n　　……\n　　……\n　　书院侧门前的青砖地面上，响起一道凄厉的惨叫。\n　　宁缺刀身上的万道光耀，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "上了眼睛。\n　　在这种时刻闭上眼睛，往往只有一个解释，那就是想自杀。\n　　宁缺不想自杀，所以在闭眼的同时，他一刀向身前砍了过去。\n　　他知道以自己现在的境界修为，肯定无法接下这道剑，所以他根本没有想过要接，也没有像叶红鱼可能会做的那般抢攻，而是对攻。\n　　他挥刀砍下的动作很简单，比柳亦青的剑刺更简单",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "败给了自己？\n　　朝小树是活着还是死了？\n　　如果朝小树活着，宁缺你这一刀还砍得下来吗？\n　　你就不担心砍下这一刀，朝小树会跟着我陪葬？\n　　你以为你闭上眼睛不看这把剑，就可以让自己停止思考？\n　　柳亦青冷漠想着。\n　　他坚信宁缺会思考，那么就算宁缺拥有非人类的意志力，能够保证挥刀的动作没有任何停滞",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

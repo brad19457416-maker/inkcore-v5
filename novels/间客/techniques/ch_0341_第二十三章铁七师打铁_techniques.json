@@ -1,0 +1,258 @@
+{
+  "novel": "间客",
+  "chapter_number": 341,
+  "chapter_title": "第二十三章铁七师打铁",
+  "filename": "ch_0341_第二十三章铁七师打铁.txt",
+  "char_count": 6053,
+  "timestamp": "2026-04-10T12:04:59.249975",
+  "techniques_count": 19,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第三军区，正是先前用阴冷目光打量许乐的那两个人，或许他们对自己的格斗能力很自信，但奇异的是，不知道因为什么原因，他们似乎一直在寻找正面打击许乐地机会。\n\n    军官们皱了皱眉头，心想就算以自己这些人的军阶，又不是真正的学员，挑战一名小教官输了已经足够丢人，更何况还是二对一。不过当他们认出这两名军官",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "二对一？”\n\n    许乐略有些惑地将目光望了过去。\n\n    ……\n\n    ……\n\n    出乎众人意料，在许乐展现出近身格斗实力后，依然沉声出面挑战的军官，来自第三军区，正是先前用阴冷目光打量许乐的那两个人，或许他们对自己的格斗能力很自信，但奇异的是，不知道因为什么原因，他们似乎一直在寻找正面",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "这种挑战，但他们怎样也无法想到，花小司身为西林军区的强者，在许乐的面前竟是一招都无法支撑下来，一阵微风细雨之后，便被许乐击打成了一根僵硬的棍子，从空中摔到了地面。\n\n    哪怕时间长一点，军官们也容易从心里接受这种局面，但他们只听见一阵密麻如雨点打沙的沉闷声音响起，花小司惨然退后，然后教官踢了一脚",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "…\n\n    ……\n\n    轰隆一声闷响，沉重的水泥块狠狠地砸在了地面上，生生砸出了一个坑！只是一瞬间，不知道多少公斤的石阶被巨大的力量震散开来，碎~四溅，烟尘乱舞。\n\n    然而紧接着，天神一般冲过来的熊临泉却是摊着双手，怔怔地看着石阶落处，震惊地眨了眨眼，根本没有感觉到自己的虎口已经被震裂，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "控制的他们，心里也很清楚，今天坚持当初的挑战约定，更多的是沿袭了军营里的钢铁传统。\n\n    在某些意义上讲，这只是男人们之间的游戏。然而这两名来自铁七师的人，居然在操场之上，众目睽睽之下，要把小许教官的手臂折断！\n\n    难道铁七师杜师长养出来的兵，果然就是这般冷酷异于常人，甚至连军法也不怕？还",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "在修身馆里学习过某种技巧。这样两名军官以二攻一，小许教官能不能撑得住？\n\n    所有人都感觉到一股危险的味道在操场上弥漫，此时基地里没有主官和宪兵在旁，但想必这两名军官也不敢下狠手，但不知道为什么，众人就是觉得有危险将要发生。\n\n    外围的第七小组成员已经站起，他们都是丛林里善战的战士，闻到了",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，一臂格在他地腋下，直待用力，这正是近身格斗技中最狠辣的反关节技！\n\n    如果让这两名军官把力量爆发出来，许乐就算肩关节依然能够完好，但肘部的软骨定然会片片碎裂！\n\n    两名铁七师军官并没有马上用力下压，只是保持着这个姿式，似乎想向四周的军官展现许乐失败后地模样。他们冷冷地看着近在咫尺的许乐",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "但奇异的是，不知道因为什么原因，他们似乎一直在寻找正面打击许乐地机会。\n\n    军官们皱了皱眉头，心想就算以自己这些人的军阶，又不是真正的学员，挑战一名小教官输了已经足够丢人，更何况还是二对一。不过当他们认出这两名军官之后，本准备出口的话语，同时化作了冰雪塞在了嘴唇之间，场间一片沉默。",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "。心中平添几分平静。就像花小司一般。那些本就有些儿戏地渲泄怒意地冲动。渐渐淡去。\n\n    就在一片寂静之中。忽然有人低声说道：“能不能二对一？”\n\n    许乐略有些惑地将目光望了过去。\n\n    ……\n\n    ……\n\n    出乎众人意料，在许乐展现出近身格斗实力后，依然沉声出面挑战的军官，来",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "还是当事者，都只有眼睁睁地看着这一幕发生。\n\n    许乐霍然抬头，微眯着的眼眸里闪过一丝微怒，他的愤怒并不是因为军官出手的阴险狠毒，而是始终不明白对方对自己的恨意从何而来。\n\n    电光火石间，他心境沉稳如磐石，就像过往无数次危险时刻一般，冷静地向前狠狠踏了一步，身体就像根钉子一样扎在地面上，同",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "阶上站起身来，用神情复杂的目光，注视着许乐，他们此时体会到了白玉兰曾经做过的那些评价，大致确认了自己将来直属长官的生猛程度。\n\n    许乐摘下墨镜，伸手去拉地上的花小司。先前出手，他连一丝体内真正的力量都没有调用，完全凭籍着浸入到骨头里的十个姿式与这些年铸就战斗本能，击败对方并不困难，只是却也没有",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，我速度够快，力气还很大哩。”\n\n    ……\n\n    ……\n\n    （喔喔喔喔，杜少卿师长即将登场，很是兴奋啊，当然，任何牛逼哄哄的人物，都是乐乐逐渐牛逼的踏脚石来着……忽然想到，我还真蛮喜欢杨乐乐的。今天这章写的感觉挺顺，熬夜写的，大家看的时候，我应该正在婚礼上帮忙，这三天忙成狗屎，还写了不",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "，挑战一名小教官输了已经足够丢人，更何况还是二对一。不过当他们认出这两名军官之后，本准备出口的话语，同时化作了冰雪塞在了嘴唇之间，场间一片沉默。\n\n    出面挑战的两名军官，在基地地大半年里异常沉默本分，但实际上却格外引人注目，因为这二人隶属于第三军区王牌铁七师。\n\n    每每想到那位联邦军方最",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "只是保持着这个姿式，似乎想向四周的军官展现许乐失败后地模样。他们冷冷地看着近在咫尺的许乐的脸，根本不担心许乐能够败中求胜，因为无论双方地格斗实力差距多大，此时他们已经占据了绝对的优势，物理学中最简单的杠杆理论，双臂被格的许乐，在他们看来根本无法用力。\n\n    围观的军官们在挑战开始时查觉到了某种异",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "败对方并不困难，只是却也没有给对方造成真正的伤害。\n\n    “哪天打赢我了，再用机甲试试。”他笑着说道，一想到不用上机甲去暴露自己并不如李疯子的实力，便感觉十分欣慰。\n\n    花小司撑着上半身，吐了一口带着泥沙的唾沫，恨恨说道：“轻敌了，不然怎么也能多坚持一会儿。”\n\n    军人简单直接，输便",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "许乐没有听说过铁七师，自然也不知道那个师长是多么不可触碰的厉害角色，他只是陷入了深深的疑惑，自己从来没有去过s3和第三军区更没有打过什么交道，为什么面前这两头如同猛虎一般的军官，却对自己充满了杀意？\n\n    两名军官分左右站立，忽然长长地吸了一口气，身上各个关节噼啪乱响起来，令人震惊的是，他们",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "福的事情，可是与他手底下地军官交恶，却绝对是不智之举。\n\n    许乐的眼睛渐渐眯了起来，安静地看着走出人群的两名军官，凭借着封余大叔极为赞赏的识透人心能力，他很清楚地查觉到，隐藏在这两名军官平实寻常面容下的冷厉之意——和花小司他们挑战自己是为了出气不同，这两名军官明显怀着别的意图。\n\n    其中",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "最兴奋和幸福的事情，可是与他手底下地军官交恶，却绝对是不智之举。\n\n    许乐的眼睛渐渐眯了起来，安静地看着走出人群的两名军官，凭借着封余大叔极为赞赏的识透人心能力，他很清楚地查觉到，隐藏在这两名军官平实寻常面容下的冷厉之意——和花小司他们挑战自己是为了出气不同，这两名军官明显怀着别的意图。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "。谁都知道那位杜师长是怎样冷酷无情，却又极其护短的一个人，如果在这种长官地麾下作战，毫无问是最兴奋和幸福的事情，可是与他手底下地军官交恶，却绝对是不智之举。\n\n    许乐的眼睛渐渐眯了起来，安静地看着走出人群的两名军官，凭借着封余大叔极为赞赏的识透人心能力，他很清楚地查觉到，隐藏在这两名军官平实寻",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

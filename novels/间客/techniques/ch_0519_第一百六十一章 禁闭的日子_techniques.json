@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 519,
+  "chapter_title": "第一百六十一章 禁闭的日子",
+  "filename": "ch_0519_第一百六十一章 禁闭的日子.txt",
+  "char_count": 3531,
+  "timestamp": "2026-04-10T12:05:08.545309",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "刚探知的消息，其实是想通过许乐的反应，看看这件事情是不是他有什么关系，此时许乐的回答完全不能解决他的疑问。\n\n    ………………\n\n    ………………\n\n    星球大气层外正在巡游的联邦舰队中，指挥舰的舰身并不是最大，也不是最显眼。在倒数第二层的指挥大厅中，战区最高指挥官易副司令，沉默地坐在宽",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "音较往日更加粗豪，嘴唇上面满是细细的裂口。\n\n    “嗯，说实话确实不怎么样。”坐在门后的许乐笑着说道，他很清楚这些家伙是怕自己被关禁闭太过无聊，所以才换着法子来陪着自己打发时间。\n\n    本来极为愤怒，时刻准备疯狂咆哮的七组，如今早已平静了下来，因为接下来发生的事情，让他们找不到任何发飙的理由",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "兰晓龙耸耸肩，理所当然说道：“难道沉闷的文艺片更能打发时间？”\n\n    许乐懒得理会他，心想小爷如果要看爱情动作片，随便让老东西发几部过来，直接在脑海里看立体效果，你这算是什么享受？\n\n    就在这个时候，他看到营房正门处，有一名穿着装甲师军装的战士鬼鬼崇崇地探头望了进来，与守门的七组",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "宪章局却警惧畏惧的联邦官兵及那些刚刚自山区撤回的铺网小组们，纷纷暗自此事叫好，摩拳擦掌之余，却也开始担心许乐和七组的下场。如今骤然密集的所谓路过，除了好奇兴奋之外，其实也是基层官兵用自己的方式来表达某种无力却格外有趣的支持。\n\n    ………………\n\n    ………………\n\n    “能不能让我们和",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "个本来就很出名，现在名声更猛的主管。\n\n    基地里的战士们，通过各种途径知道了宪章局与七组之间的冲突一——如果说这种大象与蚂蚁之间的对吼真算得上是冲突的话。许乐在战舰上痛殴宪章局官员的爆炸性新闻，更是早已传遍了整个基地。\n\n    向来看不惯宪章局却警惧畏惧的联邦官兵及那些刚刚自山区撤回的铺网小",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "“我可没听出来。”许乐回答道，知道基地官兵的评价大抵是自己平时沉默略显木讷的性格，与忽然间爆发出来的事件，沉默片刻后若有所思说道：“其实我不是一直这么沉默，少年时，其实也经常说些尖酸刻薄的话，不比兰晓龙差。”\n\n    兰晓龙此时比平时沉默很多，听着这句话也只是耸耸肩表示不屑。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "熊临泉粗着嗓子问道，菱形基地设置在高原之上丨，海拨虽然不是太高，但空气格外干燥，加上这些军人们习惯了烟不离唇，所以嗓音较往日更加粗豪，嘴唇上面满是细细的裂口。\n\n    “嗯，说实话确实不怎么样。”坐在门后的许乐笑着说道，他很清楚这些家伙是怕自己被关禁闭太过无聊，所以才换着法子来陪着自己打",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "代表了某种态度。\n\n    沉默片刻之后，当了几天雕像的宪兵终于松动了身体，悻悻然地离开门口，被顾惜风一干队员亲热无比欢天喜地迎进了旁边的房间，然后那个房间里便响起了啤酒开启的声音。\n\n    许乐坐在门内，看着门外烈日下白玉兰发着光的脸，安静地等着对方开口。\n\n    “现在基地里很多人都在说，许",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "道，他很清楚这些家伙是怕自己被关禁闭太过无聊，所以才换着法子来陪着自己打发时间。\n\n    本来极为愤怒，时刻准备疯狂咆哮的七组，如今早已平静了下来，因为接下来发生的事情，让他们找不到任何发飙的理由和借口。\n\n    联邦军方指挥部查觉到了军营里的异象，极为英明地做出决断，把许乐从战舰转移到地面，关",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，抿了抿裂开的嘴唇，疑惑地从兰晓龙伸进门里的手中接过微型数据存储盒，联接到了自己的电话上，看着光屏上出现的那些画面，他的眉头忍不住皱了起来。\n\n    守在门口没有任何表情的宪兵也终于皱了眉头，这些天他们被七组各式各样的慰问活动弄的实在是有些辛苦，此时看到对方似乎要违背禁闭条例，进行“暗中”的信息传",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "象，极为英明地做出决断，把许乐从战舰转移到地面，关进了七组自己的营房……这究竟还算不算禁闭？除了不能走出房间自由行动，他的生活并没有什么问题。\n\n    当然，此时的门外多了两名如雕像一般的宪兵。\n\n    这些天，许乐一直老老实实地呆在房间里，一只脚都没有越过界线，只是一直没有等到首都星圈那边的具",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "们肯定也拦不住。”白玉兰给他们点燃香烟。\n\n    宪兵拿着点燃的香烟，就像拿着红火的铁条，表情异常紧张，虽然对方没有威胁自己，但看着不远处树下正在摆弄链式弹匣的那些汉子们，依然感觉到有些不安。更关键的是，军方上层用这种儿戏般的方式对许乐中校关禁闭，已经代表了某种态度。\n\n    沉默片刻之后，当了",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "及那些刚刚自山区撤回的铺网小组们，纷纷暗自此事叫好，摩拳擦掌之余，却也开始担心许乐和七组的下场。如今骤然密集的所谓路过，除了好奇兴奋之外，其实也是基层官兵用自己的方式来表达某种无力却格外有趣的支持。\n\n    ………………\n\n    ………………\n\n    “能不能让我们和老板单独聊两句？没有什么别",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "这是一首西林民谣，讲述的是几十年前163行星被帝国远征军占领之后，遗失在星球上的联邦民众的生活。联邦社会在这些年里刻意淡忘包括这颗行星在内的三颗沦陷星，但西林大区的原住民们却无法忘记，这首歌摇传播甚广，七组里虽然没有西林籍的队员，但在前线呆的久了，所有人也都会唱这首歌。\n\n    许乐坐在门后的绿色",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "。\n\n    “这不符合规定。”一名宪兵有些犹豫回答道。\n\n    “这几天你们应该很清楚我们头儿的性格，他是不会跑的。当然，如果他要跑，你们肯定也拦不住。”白玉兰给他们点燃香烟。\n\n    宪兵拿着点燃的香烟，就像拿着红火的铁条，表情异常紧张，虽然对方没有威胁自己，但看着不远处树下正在摆弄链式弹匣",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "也不见了，三个月亮升起来，妹妹你什么时候回来？”\n\n    夜穹里三轮或大或小或缺或圆的伴月，照耀着安静的军营，在一片连绵屋顶上镀上一道明亮的银光，几个粗哑的声音轻声哼唱着一首憨拙的歌谣，为这副美丽的夜景做了次不和谐的伴奏。\n\n    这是一首西林民谣，讲述的是几十年前163行星被帝国远征军占领之后",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

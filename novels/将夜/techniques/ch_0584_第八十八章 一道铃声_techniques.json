@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 584,
+  "chapter_title": "第八十八章 一道铃声",
+  "filename": "ch_0584_第八十八章 一道铃声.txt",
+  "char_count": 3507,
+  "timestamp": "2026-04-10T12:11:26.674383",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "宝树大师来自悬空寺，不是黄口稚儿，不可能凭着传闻，便公开指认他这个书院弟子是冥王之子，要知道这毫无疑问是这个世界最严重的指控。\n　　让宁缺心神凛然还有一个重要原因，那便是前些天在瓦山上见到佛辇时的警兆，直到现在，他还不知道警兆预指何事，难道便是这个指控？\n　　“这就是名门正派为私仇寻找大义名份的典",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，便已经看出宁缺便是传说中的冥王之子，先前曲妮玛娣也曾经提到过这件事情。\n　　宁缺曾经因为这个传闻而紧张迷茫过，在经过夫子开解后才渐渐释然，而且背靠书院，也没有人敢在他的面前提起这个传闻。\n　　曲妮玛娣先前提了，宁缺并不在意，因为他知道那是老尼姑羞怒悲愤的发泄攻击，对他没有任何影响，然而此时宝树大师",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "宫前，他当着全世界的人宣布了自己的身世，甚至从更早一些时间，当大唐军方查出他与将军府的关系时，世间便出现了一个传闻。\n　　那个传闻里说，光明大神官早在十六年前，便已经看出宁缺便是传说中的冥王之子，先前曲妮玛娣也曾经提到过这件事情。\n　　宁缺曾经因为这个传闻而紧张迷茫过，在经过夫子开解后才渐渐释然，而",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "要吓死。”\n　　这是一段笑话，这是一段对佛宗极不恭敬，对烂柯寺极为亵渎的笑话，然后佛殿里没有人发笑，人们脸上的神情越来越复杂。\n　　宝树大师看着他说道：“如果只是普通铜铃，你为什么不听一下？”\n　　宁缺说道：“我为什么要听？你不觉得这样看上去很蠢？”\n　　宝树大师平静说道：“若净铃对你没有任何影响，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "猜测，此时听到这铃的名字，不由震惊无语，曲妮玛娣则是露出又惊又喜的神情。\n　　……\n　　……\n　　秋风从殿外进入，拂动他指间那只铜铃，发出清脆的声音，铃声清脆但绝对没有一丝寒冽的意味，显得无比柔和而悲悯。\n　　铃声响起的那一刻，宁缺便记了起来，前些天在瓦山山道上，未见佛辇至，铃声已然先至，其时翠鸟蹈",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "时听到这铃的名字，不由震惊无语，曲妮玛娣则是露出又惊又喜的神情。\n　　……\n　　……\n　　秋风从殿外进入，拂动他指间那只铜铃，发出清脆的声音，铃声清脆但绝对没有一丝寒冽的意味，显得无比柔和而悲悯。\n　　铃声响起的那一刻，宁缺便记了起来，前些天在瓦山山道上，未见佛辇至，铃声已然先至，其时翠鸟蹈而迎之，",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "还没有递到他手上，便只能握住刀柄。\n　　他手腕一翻，沉重的朴刀，挟着昊天神辉隔空砍向宝树大师！\n　　同时他伸出左手食指，在身前空中锋利一划！\n　　宝树大师神情不变，左手单手合什，一道浓郁的佛家气息，在他身前幻作若隐若现的大手印，一把握住了恐怖的刀势。\n　　刀势再破，大手印涣散无踪。\n　　然而宝树大师",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "何事，难道便是这个指控？\n　　“这就是名门正派为私仇寻找大义名份的典型过程？”\n　　宁缺看着宝树微讽说道：“我很庆幸书院也是世间的名门大派之一，若我真是个普通修行者，岂不是会被你们陷害到连渣渣都剩不下来？”\n　　宝树大师说道：“我说你是冥王之子，自然有我的证据。”\n　　宁缺说道：“我很好奇，你所说的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "依然掩不住那道清脆漠然的铃声。\n　　钟声回复助铃声渐飞。\n　　一直飞到瓦山顶峰。\n　　佛祖石像在云中安静，渐渐生出庄严的佛光。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "秋风从殿外进入，拂动他指间那只铜铃，发出清脆的声音，铃声清脆但绝对没有一丝寒冽的意味，显得无比柔和而悲悯。\n　　铃声响起的那一刻，宁缺便记了起来，前些天在瓦山山道上，未见佛辇至，铃声已然先至，其时翠鸟蹈而迎之，神妙异常。\n　　他眉头微微皱起，觉得似乎有些麻烦将要发生。\n　　宝树大师指拈铜铃，慈",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

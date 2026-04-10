@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 713,
+  "chapter_title": "第七十六章 点头（下）",
+  "filename": "ch_0713_第七十六章 点头（下）.txt",
+  "char_count": 6034,
+  "timestamp": "2026-04-10T12:05:17.559144",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "那份被修改后的军事指令序表，吐了一口唾沫：“现在不需要他杜少卿点头了。\n\n    有无数乌云正飘浮在天空中，遮住了清丽的阳光，投下令人心生寒意的阴影。许乐的心头也有无数乌云，焦秘书的死，审查崔聚冬的结果，当年暗杀小西瓜的那名厉害军人，老虎在西林小饭馆里提到的军队里的暗流，无数零散的细苹没有办法串起来",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "被人抹掉了原始记录！”\n\n    刘思福的眉头皱的极紧，缓声回答道：“自上次在５46o星球与宪章局的冲突之后，所有人都猜到你和宪章局高层关系亲密，谁知道是不是你抹掉了原始记录，然后……”\n\n    许乐眼瞳剧缩，没想到对方居然会如此无耻，大声骂道：“小爷那时候正在和帝国人打生打死，改你妈一脸啊！”",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "吸着，脸上浮现出一丝笑容。\n\n    “帮我把原始数据找回来。”\n\n    “不能。”\n\n    “为什么？”\n\n    “因为这是战场即时指令序表，根据战时条例，相关数据被临时储存于司令部数据盒中，以方便随时调阅，然后在标准时间之内传回引。”\n\n    “这和找回数据有什么关系？”\n\n    “原",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "神情问道。\n\n    许乐醒过神来，掐熄烟头，说道：“杜少卿不答应放人。”\n\n    “那怎么办？”众人失望至极，熊临泉情绪低落说道：“头儿……，你要不要去看看老白？”\n\n    “不用，老白出来后我把他看成一朵花。”许乐想到那份被修改后的军事指令序表，吐了一口唾沫：“现在不需要他杜少卿点头了。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，问道：“弄着像是指令序表，但旁边的批注是什么意思？”\n\n    “这是底层数据……”旁边的参谋军官压抑着内心的震惊，向会议室内的将军们解说道：“旁边是联邦中央电脑的数据分析结果，认为……这份序表经过了人为改动，最原始的数据经过修改，而且已经被销毁。”\n\n    “这是铁七师一团在那段时间内的防力调",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "墨镜边缘，淡淡说道。\n\n    这位军方重将并没有威胁什么，但会议室里的将军们都从这句话里听出了他的愤怒，如果许乐只是因为白玉兰之事而泄愤怒，铁七师绝对不会善罢甘休。\n\n    许乐取出一份芯片递给身旁的参谋军官，望着杜少卿说道：“杜师长，我记得在546o冰川军事行动中，东方玉团长因为刻意迟缓救援特",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的脸上。\n\n    杜少卿眼帘微垂，端起被勤务兵冲调的温度将将好的咖啡，轻轻饮了一口，然后极为随意地说道：“死缓。”\n\n    许乐沉默片刻，再次端赶那怀对方亲自泡的亲莉花茶，狠狠地喝了一大口，抬起头来，看着对方的眼睛说道：“不行。”\n\n    杜少卿放下咖啡杯，没有就那个问题姓续难，转向了另一个话",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "单的交流方式，却也是中央电脑最难监控的方式。\n\n    正如封余曾经说过的那句话：最简单的，往往就是最强大的，锁如此，机器如此，人也如此。\n\n    让老东西继续去那个庞大的数据库里寻找线索，许乐则必须把注意力转回基地之中，因为今天晨间的军事会议之前的临时对话，马上便要决定白玉兰的生死。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "为了联邦部队的不间断胜利，杜少卿师长消耗了极大的心血，只是许乐依然有些无法适应疲惫和憔悴这种神情，会出现在他的脸上。\n\n    杜少卿眼帘微垂，端起被勤务兵冲调的温度将将好的咖啡，轻轻饮了一口，然后极为随意地说道：“死缓。”\n\n    许乐沉默片刻，再次端赶那怀对方亲自泡的亲莉花茶，狠狠地喝了一大口",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，我会要求重新审理此案。”\n\n    杜少卿没有回答，也没有起身，只是很随意地挥挥手，然而当看着许乐走出门口的背影，这位联邦少壮派名将的眼眸里难得出现了一抹复杂落寞的情绪。\n\n    茶与交谈，是军人之间的尊重，也是感谢。\n\n    榭谢你冒死去了帝国，杀了卡顿，替老虎，也替她报了仇。\n\n    距",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。”\n\n    “哪里来好权限？”\n\n    “s1宪章局远程操作。”\n\n    许乐猛地睁开双眼，马上想到自己去往帝国前回的情报，那颗让古钟号毁灭的帝国种子之所以能够脱逃宪章局的清洗，肯定也和宪章局有关。\n\n    他眯着眼睛，深深吸了。香烟，低沉问道：“回来前让你帮忙推算的事情，推算的怎么样了？",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "这些尊重早已经被那些乌云遮住，不是完全消失，而是变得极为模糊不清。\n\n    许乐在诸位将军的注视下缓缓站起，平静到令人有些怪异地开口说道：“我今天的心情不好，所以我会尽量说的快一些。”\n\n    “我的部下白玉兰上尉，因为受到袭击长官的指控，而被军事法裁判处死刑，对此，我表示不可接受和强烈不解！”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "，然而基于受到第一宪章严格保护的公民**条例，却没有办法还原除了电子数据之外的很多信息。\n\n    社会是一个无比庞杂的体系，一个人每天要和无数人遇见，遇见之时的一张纸条，一句低声的话语，甚系是一个眼神，便能构织出无限可能的阴谋，而这种最简单的交流方式，却也是中央电脑最难监控的方式。\n\n    正如",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "有多黑的雨云，联邦中央电脑并不是万能的，老东西可以凭借庞大的数据库梳理，准确地回溯调取资料，精确定位某年某月某日，谁和谁在某地见过面，说过话，然而基于受到第一宪章严格保护的公民**条例，却没有办法还原除了电子数据之外的很多信息。\n\n    社会是一个无比庞杂的体系，一个人每天要和无数人遇见，遇见之时",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "般的活了下来，携功而回，整个联邦上至总统，下至摊贩，谁都要给你几分面子。”\n\n    “但我杜少卿，从来不是一个会给他人面子的人，我也不需要给人面子。”\n\n    “我明白军纪的重要性……”他抬起头来，望着杜少卿说道：“但我相信白玉兰不是一个莽夫，他这么做自然有他的原因。”\n\n    “没有任何原因",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

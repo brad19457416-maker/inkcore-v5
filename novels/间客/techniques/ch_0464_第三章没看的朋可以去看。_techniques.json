@@ -1,0 +1,63 @@
+{
+  "novel": "间客",
+  "chapter_number": 464,
+  "chapter_title": "第三章没看的朋可以去看。",
+  "filename": "ch_0464_第三章没看的朋可以去看。.txt",
+  "char_count": 1028,
+  "timestamp": "2026-04-10T12:04:59.214282",
+  "techniques_count": 4,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "月票！我爱月票，请投我月票！\n\n    能看到这里的，那真是铁子或像我一样无聊的人了，告诉你们一个小秘密，我差点儿复的超过一千字，真险。\n\n    学网站官方弱弱问声，您还有票吗？未完待续，如欲知后事如何，请登陆节更多，支持作者，支持小!说!txt!天.堂\n\n\n\n第三卷西林的征途",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "潜台词",
+      "category": "dialogue",
+      "example": "这个！非常感谢！\n\n    我爱月票，请投我月票！\n\n    等着我来复制这一句，以给你们强烈的心理暗示和精神压迫感，横横。\n\n    我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，",
+      "analysis": {
+        "definition": "在文本中使用潜台词技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "感谢！\n\n    我爱月票，请投我月票！\n\n    等着我来复制这一句，以给你们强烈的心理暗示和精神压迫感，横横。\n\n    我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "这个！非常感谢！\n\n    我爱月票，请投我月票！\n\n    等着我来复制这一句，以给你们强烈的心理暗示和精神压迫感，横横。\n\n    我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，请投我月票！我爱月票，",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

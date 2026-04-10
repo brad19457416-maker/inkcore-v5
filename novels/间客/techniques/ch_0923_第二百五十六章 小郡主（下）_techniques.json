@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 923,
+  "chapter_title": "第二百五十六章 小郡主（下）",
+  "filename": "ch_0923_第二百五十六章 小郡主（下）.txt",
+  "char_count": 3386,
+  "timestamp": "2026-04-10T12:05:26.913247",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "流露出无比惊恐的表情。\n\n    “追上去！”\n\n    因为无尽恐惧，这位平日里养尊处优的官员骤然爆发出前所未有的能力，从地面上一跳而起，带着身后三十几名黑衣密探，就像是因为洪水而惘然迁移的田鼠，向着那两道几不可见的身影拼命追赶，一边跑一边痛苦地喊叫：\n\n    “太子殿下！太子殿下”。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "那场冷酷惨案的现场画面。\n\n    冷漠的情报署官员没有理会身周那些小贵族们谦卑的讨好，第一时间通过秘密渠道，将此地的信息和目标精确位置，传出了离孤星，这些信息在幽暗的太空里穿行，不知最终将要抵达哪里。\n\n    望着那几架配有先进武器的军用直升战机消失在天空中，巴依老爷的脸上露出冷酷的笑容，回身望",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "信息在幽暗的太空里穿行，不知最终将要抵达哪里。\n\n    望着那几架配有先进武器的军用直升战机消失在天空中，巴依老爷的脸上露出冷酷的笑容，回身望着那几名位阶更低的贵族，寒声说道：“那些贱民以为有了几个皇族余孽的庇护，便敢和我们做对，等那两个皇族余孽被处死，我要看着他们在我的脚底下流血哭泣！”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "间内空无一人，但好像他是在和谁通话，推开房门走到土操场上，他看着跪满一地的黑衣密探，感受着场间诡异的寂静。表情没有一丝变化，双脚微微一错。\n\n    一个很简单的动作，却让他轻易跨越数米距离，来到了那名正无辜摊手的少女教师身边，他伸手牵住少女微凉的手掌，毫不犹豫地转身就走，瞬间由走转为奔跑，向着桑海",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "轻易跨越数米距离，来到了那名正无辜摊手的少女教师身边，他伸手牵住少女微凉的手掌，毫不犹豫地转身就走，瞬间由走转为奔跑，向着桑海深处而去，整套动作一气呵成，自然迅捷的难以想像。\n\n    跪在地面上的黑衣密探们，直到那一大一小两个身影消失在清幽桑林里，才反应过来，尤其是那位情报署官员，伸手指着空空荡荡",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "时，帝国情报署的精锐行动队已经完成了对这几间破落建筑的包围，身着黑衣表情严肃阴寒的密探们，却被数十名愤怒的贱民子弟学生拦在了教室外，局势处于紧张的对峙之中。\n\n    情报署黑衣密探们手中端着冰冷的金属枪械，黑洞洞的枪管随时可能喷射出致命的子弹，拦在他们面前的那些学生，手里只有几把铁锹，其余人手里提",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "落建筑的包围，身着黑衣表情严肃阴寒的密探们，却被数十名愤怒的贱民子弟学生拦在了教室外，局势处于紧张的对峙之中。\n\n    情报署黑衣密探们手中端着冰冷的金属枪械，黑洞洞的枪管随时可能喷射出致命的子弹，拦在他们面前的那些学生，手里只有几把铁锹，其余人手里提着椅子，对峙双方的实力对比实在是太过悬殊，甚至",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "间诡异的寂静。表情没有一丝变化，双脚微微一错。\n\n    一个很简单的动作，却让他轻易跨越数米距离，来到了那名正无辜摊手的少女教师身边，他伸手牵住少女微凉的手掌，毫不犹豫地转身就走，瞬间由走转为奔跑，向着桑海深处而去，整套动作一气呵成，自然迅捷的难以想像。\n\n    跪在地面上的黑衣密探们，直到那一",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "真严肃地审看这两幅画像很长时间，确认之后身上阴寒的味道骤然消失，满意地点了点头，对身旁的巴依老爷沉声说道：“这件事情办的好，署里会对你有嘉奖\n\n    “身为皇帝陛下最忠诚的臣民，在下不需要任何嘉奖，只希望大人能够将这两个万恶的叛逆捕杀，如此我那可怜的孩子也能安慰于地下。”\n\n    巴依老爷感伤了",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "像绝对不会有错，我那位管家亲自去镇上看过。”\n\n    他虽然是这片桑海最有权势的贵族，但这辈子还是第一次见到如此尊贵的大人物，自然生出无限恐惧敬畏，用了很大的力量，才勉强控制住答话时的声音没有发生严重的变形。\n\n    情报署高官取下皮制手套，指头缓慢地在电子光幕上划过，光幕上那个小眼睛男人和少女",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "生红了眼，拿起手中的椅和铁锹，向身前的密探们砸去，在这样一个等级森严的社会里，习惯为奴隶而挣扎生存的人们，居然敢袭击代表皇室的情报署密探，这需要多大的勇气！\n\n    然而学生们手中的椅子和铁锹并没有砸下去，直接傻眼站在原地，断墙外桑树下那些贵族老爷的笑容骤然僵硬难看。教室的门被人从里面缓缓推开，那",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "敬地询问道。巴依老爷处事沉稳老辣却又保守，自然不会在桑枯镇出结果之前，抢先发动对贱民们的冷血复仇。他缓缓抚摩自己协驯色的头发，冷笑说道！”我要尖那个破镇上，我要亲眼滑发”两个皇族余孽被情报署撕成碎片，只有这样，才能消解我心中的怨恨。”\n\n    当巴依老爷低头走出直升机，在侍卫保护下走到桑林小路尽头",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "候，不用那么小心，甚至有的人还专门戴上手套，像是准备去移动娇嫩的蚕室。书，是用来看不是用来供的，不用担心图书馆里几百本书旧了坏了就没有看的了，那位有钱的大叔现在最大的兴趣就是看书，他会源源不断地补充。”\n\n    桑枯镇公学的图书馆就是教室隔壁的一间破旧房屋，书架上乱糟糟堆着好几层书，地面的灰尘上满",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "”\n\n    在场所有的贫苦学生红了眼，拿起手中的椅和铁锹，向身前的密探们砸去，在这样一个等级森严的社会里，习惯为奴隶而挣扎生存的人们，居然敢袭击代表皇室的情报署密探，这需要多大的勇气！\n\n    然而学生们手中的椅子和铁锹并没有砸下去，直接傻眼站在原地，断墙外桑树下那些贵族老爷的笑容骤然僵硬难看。",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，他站起身走向门口，恼怒说道：“什么叫睡的像猪？你声音大点，难道还不能喊醒我？也不知道你从哪儿染的怪脾气，现在说话总像蚊子在叫。”\n\n    明明此时房间内空无一人，但好像他是在和谁通话，推开房门走到土操场上，他看着跪满一地的黑衣密探，感受着场间诡异的寂静。表情没有一丝变化，双脚微微一错。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "书馆应的安静洁净模样，好在东向的墙壁上有一扇大窗户，明显新补不久的玻璃透光性能良好，纵容着外面的阳光温暖地晒了进来。\n\n    在某人口中饱含某种怨憎意味升级为大叔的男人，这时候正靠着窗户安静的看书，阳光洒在睫毛上微微泛光，不知道是不是因为刺眼的缘故，所以他眯着眼睛，显得有些\n\n    他正在看帝国",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

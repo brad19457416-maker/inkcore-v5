@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 673,
+  "chapter_title": "第三十九章 以文学和平与爱的名义囚禁你(上)",
+  "filename": "ch_0673_第三十九章 以文学和平与爱的名义囚禁你(上).txt",
+  "char_count": 3660,
+  "timestamp": "2026-04-10T12:05:08.574943",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "自己曾经在脑海里构筑的前任大师范衣袋冒蓝光于联邦周游的画面……自然不是真实的，看来想像终究不是历史的真相。\n\n    “如果您愿意帮助我离开帝国，我非常感激。”\n\n    他微微抬起下颌，不愿意看这名中年男人**的一双大腿，沉默片刻后继续说道：“我对当年那些事情没有太完整的了解，但我想您的父亲既然能",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "么震惊，反而有些漠然，摇头回答道：“联邦里有很多历史学家都在做这方面的研究，但在战火面前，这种尝试的意义并不大。”\n\n    “因为我的地面更高，我说出来的话，帝国必须相信。”大师范平静说道。\n\n    许乐默认了对方这个说法。\n\n    “联邦的历史里有浩劫，可浩劫是什么东西？你们在地下可曾挖出一",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，我看的越多，越觉得能够写出这么多部剧本小说的人……，不能是一个人。”\n\n    许乐沉默地听着他的感慨，心情有些怪异，关于这个困扰了联邦文学研究院和民间名人八卦爱好者无数年的问题，他忽然想到难道说席勒真的不存在，也不是五人小组中某位的马甲，而……是老东西写的？\n\n    “席勒不是一个人。”大师范",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "人类社会各个方面的比较工作。”\n\n    大师范嘲讽说道：“只可惜这场本应是人类历史上最温暖，最令人激动的浩荡认亲场面，被联邦那些贪心的矿产商人，直接变成了无数场杀戮。”\n\n    对面这个中年男人看上去就像一个浪荡的花花老爷，但转究是帝国身份最神秘尊贵的大师范，无论从心理倾向还是屁股立场当然都是坐",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "开帝国，我非常感激。”\n\n    他微微抬起下颌，不愿意看这名中年男人**的一双大腿，沉默片刻后继续说道：“我对当年那些事情没有太完整的了解，但我想您的父亲既然能够单独一人乘坐飞船进入联邦，肯定拥有一艘很了不起的飞行器。”\n\n    “那艘飞船确实很了不起。”\n\n    大师范将轻薄的上衣掀起，很不",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "微微一滞，想起当年在简水儿皓玉手腕上看到的那串手链，那串刻着古字母歌词的手链，震惊地现，原来从来没有出现在历史档案中，只在军神李匹夫和邰夫人这样层次的大人物心中默然追寻的重要星图，原来一直就在简水儿的手上。\n\n    可是这件事情有些不对，如果那份藏着星图的手链是帝国大师范祖传之物，为什么上面会镌刻",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "大腿，沉默片刻后继续说道：“我对当年那些事情没有太完整的了解，但我想您的父亲既然能够单独一人乘坐飞船进入联邦，肯定拥有一艘很了不起的飞行器。”\n\n    “那艘飞船确实很了不起。”\n\n    大师范将轻薄的上衣掀起，很不雅地挠了挠光滑的大腿，然后点了一根烟，细细缀吸着说道：“不过我可不知道在哪里，另",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的文学，和平与爱的名义……，暂时囚禁你。”\n\n    话音落下，震的惭散烟雾散的更快了些，许乐的眼瞳骤然一缩，依旧警惕握着枪的右手刚要抬起，数道粗猛的蓝色电弧已然破烟而至，狠狠地击中他的胸膛。\n\n    （这章还可以，我喜欢这个裸着大腿的非常有爱并且有文青病的漂亮大师范www.xiＡoshuotxＴ",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "在哪里。”\n\n    大师范用食指中指夹着烟卷，轻轻拂动那头茂密花白迷人的头，烟雾钻入丝中蕴绕很久才缓缓散，就像是苍穹里的星云，以缓慢到难以忍受的度展示某种沧桑感。\n\n    许乐依旧沉默地握着手枪，瞄准着他的头颅，安静地听着，一句多余的话都没有说，把安静倾听者的角色扮演的极好。\n\n    “因为星",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "展开一场涉及人类社会各个方面的比较工作。”\n\n    大师范嘲讽说道：“只可惜这场本应是人类历史上最温暖，最令人激动的浩荡认亲场面，被联邦那些贪心的矿产商人，直接变成了无数场杀戮。”\n\n    对面这个中年男人看上去就像一个浪荡的花花老爷，但转究是帝国身份最神秘尊贵的大师范，无论从心理倾向还是屁股立",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "同到令人指的天文单位和纪年方式？不论是联邦或是帝国，当政的大人物们只要愿意，可以就此展开一场涉及人类社会各个方面的比较工作。”\n\n    大师范嘲讽说道：“只可惜这场本应是人类历史上最温暖，最令人激动的浩荡认亲场面，被联邦那些贪心的矿产商人，直接变成了无数场杀戮。”\n\n    对面这个中年男人看上去",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "许乐眼光微微一滞，想起当年在简水儿皓玉手腕上看到的那串手链，那串刻着古字母歌词的手链，震惊地现，原来从来没有出现在历史档案中，只在军神李匹夫和邰夫人这样层次的大人物心中默然追寻的重要星图，原来一直就在简水儿的手上。\n\n    可是这件事情有些不对，如果那份藏着星图的手链是帝国大师范祖传之物，为什么上",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "：“只可惜这场本应是人类历史上最温暖，最令人激动的浩荡认亲场面，被联邦那些贪心的矿产商人，直接变成了无数场杀戮。”\n\n    对面这个中年男人看上去就像一个浪荡的花花老爷，但转究是帝国身份最神秘尊贵的大师范，无论从心理倾向还是屁股立场当然都是坐在帝国方面，对他这句吐糟，许乐不打算做任何辩驳。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "那串手链送回给了我那位外甥女，算是回到了我们家人的手里。”\n\n    许乐眼光微微一滞，想起当年在简水儿皓玉手腕上看到的那串手链，那串刻着古字母歌词的手链，震惊地现，原来从来没有出现在历史档案中，只在军神李匹夫和邰夫人这样层次的大人物心中默然追寻的重要星图，原来一直就在简水儿的手上。\n\n    可是",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

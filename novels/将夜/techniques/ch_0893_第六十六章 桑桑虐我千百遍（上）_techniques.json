@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 893,
+  "chapter_title": "第六十六章 桑桑虐我千百遍（上）",
+  "filename": "ch_0893_第六十六章 桑桑虐我千百遍（上）.txt",
+  "char_count": 3477,
+  "timestamp": "2026-04-10T12:11:27.401785",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "无表情地看着宁缺。\n　　宁缺发现体内的雪山气海被自己无法理解的规则瞬间锁死，然后逐渐崩溃，浩然气随夜风而散，他失去了所有的力量。\n　　桑桑缓缓松开手。\n　　宁缺的手不再被温柔的水包融，身体忽然变轻，双脚渐渐离开地面，身体被夜风吹拂着，不受控制地向后方飘掠。\n　　他像蒲公英的花絮般飘到光明神殿的上方，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "独立的存在在一起，我们可以合为一体，但不能合为一体，因为那样便没有你和我，便感受不到你和我，这便没有意义。”\n　　桑桑说道：“书院向来信奉的是有意思。”\n　　宁缺说道：“如果能寻找到一些意义，岂不更好？”\n　　桑桑说道：“我给酒徒和屠夫的，也可以给予你，那必然是客观的独立的神国之永恒，你不需要担心自",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "，当她发现自己无法斩断这段尘缘时，便只能希望宁缺自己来做这件事情。\n　　昊天不会欺骗世人――当初举世追杀冥王之女，也不是她在欺骗世人，而是被尘埃蒙蔽双眼的世人犯的错――她说要赐宁缺以永恒，那么必然有永恒，哪怕宁缺的回答是那样的无礼，她依然不准备改变主意。\n　　如果让掌教知道昊天居然会降下如此大的神赐",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "桑桑的神情没有变化，明亮的柳叶眼深处，却有亿万颗星辰正在毁灭。\n　　她的手不再是温柔的宇宙，而是愤怒的宇宙。\n　　宁缺感觉到一股强大的神威降临到自己的身上，无数座山峰压在肩头，膝盖开始吱吱作响，似乎随时可能折断。\n　　他清晰地感觉到，自己握着的她的手是那样的寒冷而威严。他的眼睛与耳朵开始向外不停",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "冥王的恐吓都无法撕裂开来。\n　　任何有自主意识的生命，面对这样绝对单方面的联系，都会本能里抵触，就算最终接受，也需要很长时间去挣扎。\n　　但当时站在崖上的桑桑没有任何犹豫，更没有挣扎，便同意了这个邀请，因为当时的她还不是昊天，她本来就是他的小侍女。\n　　本命联系一旦建立，便坚不可摧，即便是昊天也无法",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "你，他们喜欢山山，喜欢依兰，甚至喜欢李渔那个白痴，就是不喜欢你。”\n　　“直到现在我才明白，那是因为人们在你的身上感受不到属于人类的感情与热度，因为你确实不是人类。”\n　　他盯着桑桑的眼睛说道：“你让老师登天，老师让你落地，你是高高在上的神，我却要把你变成一个人，如果说这是一场战争，那么便是我们师徒",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "大的神赐，一定会嫉妒的发疯，宁缺的心情却没有什么变化。他盯着她的眼睛，继续说道：“神不与世人谈判，你为什么要和我谈判？喜欢我？还是害怕我？”\n　　“你不是我的子民，所以我可以宽恕你犯下的罪，我厌憎那些回忆，但在其中，你对我足够敬爱，所以我予你神赐。”\n　　桑桑的脸上没有任何情绪，平静的令人心悸。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "欢你，他们喜欢山山，喜欢依兰，甚至喜欢李渔那个白痴，就是不喜欢你。”\n　　“直到现在我才明白，那是因为人们在你的身上感受不到属于人类的感情与热度，因为你确实不是人类。”\n　　他盯着桑桑的眼睛说道：“你让老师登天，老师让你落地，你是高高在上的神，我却要把你变成一个人，如果说这是一场战争，那么便是我们师",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "这便是书院计划里最关键的一环，准确来说这是夫子去年带着桑桑游历人间的延续，也是宁缺敢于离开长安来到西陵神殿的原因。\n　　没有本命物能够拒绝修行者的命令。\n　　然而接下来的发展，超出了宁缺的意料，因为桑桑除了脸色变得白了些，青袖微微颤抖了数瞬，没有任何别的变化。\n　　她没有如他要求的那样昏迷，倒",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，她本来就是他的小侍女。\n　　本命联系一旦建立，便坚不可摧，即便是昊天也无法自行斩断，所以桑桑的脸色瞬间微白，细眉蹙的更紧。\n　　这便是书院计划里最关键的一环，准确来说这是夫子去年带着桑桑游历人间的延续，也是宁缺敢于离开长安来到西陵神殿的原因。\n　　没有本命物能够拒绝修行者的命令。\n　　然而接下来的",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "是胜利的曙光。”\n　　话音方落，他踏前一步，便要把她搂进怀里，左手施出一道V字神符，笼住自己的身体，同时在意识里开始召唤自己的本命。\n　　他开始召唤桑桑。\n　　在那年雪湖畔的山崖上，他唱了首曲给桑桑听，桑桑听懂了这首曲子，明白了他在曲子里发出的召唤与邀请。\n　　和她通过酒徒转述的邀请不同，那个邀请是",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "不更好？”\n　　桑桑说道：“我给酒徒和屠夫的，也可以给予你，那必然是客观的独立的神国之永恒，你不需要担心自我意识的泯灭。”\n　　宁缺说道：“但还是需要臣服于你。”\n　　桑桑说道：“所有的生命，都必须臣服于我。”\n　　宁缺说道：“我不接受。”\n　　桑桑说道：“为什么？”\n　　宁缺说道：“因为你是我的女",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "掌教知道昊天居然会降下如此大的神赐，一定会嫉妒的发疯，宁缺的心情却没有什么变化。他盯着她的眼睛，继续说道：“神不与世人谈判，你为什么要和我谈判？喜欢我？还是害怕我？”\n　　“你不是我的子民，所以我可以宽恕你犯下的罪，我厌憎那些回忆，但在其中，你对我足够敬爱，所以我予你神赐。”\n　　桑桑的脸上没有任何",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "雪山气海被自己无法理解的规则瞬间锁死，然后逐渐崩溃，浩然气随夜风而散，他失去了所有的力量。\n　　桑桑缓缓松开手。\n　　宁缺的手不再被温柔的水包融，身体忽然变轻，双脚渐渐离开地面，身体被夜风吹拂着，不受控制地向后方飘掠。\n　　他像蒲公英的花絮般飘到光明神殿的上方，便被数十道无形的力量缚住，看上去就像是",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "就操到你服。”\n　　桑桑的神情没有变化，明亮的柳叶眼深处，却有亿万颗星辰正在毁灭。\n　　她的手不再是温柔的宇宙，而是愤怒的宇宙。\n　　宁缺感觉到一股强大的神威降临到自己的身上，无数座山峰压在肩头，膝盖开始吱吱作响，似乎随时可能折断。\n　　他清晰地感觉到，自己握着的她的手是那样的寒冷而威严。他的眼睛与",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

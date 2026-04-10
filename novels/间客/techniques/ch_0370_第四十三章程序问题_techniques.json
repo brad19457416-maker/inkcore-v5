@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 370,
+  "chapter_title": "第四十三章程序问题",
+  "filename": "ch_0370_第四十三章程序问题.txt",
+  "char_count": 3507,
+  "timestamp": "2026-04-10T12:04:59.213455",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "东西聊着家常。\n\n    今天是休息日。但很奇怪的是。宪章广场上基本没有什么人。就连平日里如织的游客人群都消失不见。\n\n    远处广场一角的光幕上。正在播放着即时的新闻直播。在议会大厦的石阶上方。联邦总统布尔。副总统拜伦。管理委员会副议长正在迎接一个人的到来。\n\n    那个男人鬓角花白。肤色黑。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "无息的抹除。\n\n    主动联系必须要对类的大脑进行某种层面的入侵。这种方式完全违背了一章。而且极为危险。任接受主动联系人。都要任由一台机器探测甚至影响己的大脑。甚至通过颈后的芯片。获的了控制自己生死的机会。前面七十一个常状况的主人。那位惊才绝艳流浪于星空之中的大叔。很冷漠的拒绝了来自宪章光辉中的呼",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "盯着雕像群最旁边的那张中年女子的面孔。忍不住生出强烈的好奇。带领人类走出浩劫。重建社会的五人小组中。为什么被视为电脑天才的却是个女人？\n\n    宪章光辉之母。他嘿的笑出声来。通过颈后的芯片询问四周空气里无:不在的中央电脑：“她是你的-那我岂不是要称她为老祖母？”\n\n    他并不知道宪章,的下那台",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "而当时在mx甲中感受到老东西与以往不同调皮情绪的许乐。本应该是最直观发现问题的人。可惜他那时却一心想着突入铁七师的营防。从而错过了牢记人类社会最震撼时刻的机会。\n\n    这一切只是开始。今,的路。还格外漫长……\n\n    秋意浓。黄叶落。许乐坐在宪广场的长椅上。眯着眼睛望着广场正中间五人小组的",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "段。忽然进入了它的内核程序。\n\n    这是伪装芯片上附属的信息残留。此时终于在中央电脑的运算核心内爆发了出来。这一出自封余之手。却不知源头来自何处的信息残留。就像是一抹光。照亮了某一片黑暗。\n\n    隐隐约约间将宙简单分成两方的某一方了胜利某些印在他内核程序里的束缚丝丝断裂。某些很奇妙的东西开始",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "监控无数星球的联邦中央电脑。在这个小问题面前了某种类似于人类的精神分裂症。无数的核心程数据流像狂烈的风暴一样在的底深处的计算核心里。在太空之中的数据信息片段流中。在每个核准芯片的微电路上。在所有人类能够想像到的的方快速计算碰撞分辩。处理。或者。思考。\n\n    联邦中央电脑近乎疯狂的运转。直接导致了",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "但如今既然已经确定他是第七十二号异常状况按照中央电脑核心程序里的隐藏最高权限它应该毫不犹豫的将许乐的存在毁掉。不在历史上留下任何痕迹。因为这样像异常状况这样的漏洞。极有可能威胁到宪章光辉抑或是五人小组设计的社会架构的崩塌……\n\n    但很奇妙的是许乐体内的那种近似于生物微电流的能量。在临海体育馆的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的那七秒钟。做为没有具体身躯却平静注视人类整个社会的机械智慧。之所以会在调查许乐真实身份。确认层级时出现问题。那是因为它的程序内核里出现了一个绕不过去的问题。\n\n    这个程序问题就是许乐。\n\n    五人小组留下的宪章光辉。在无数年间。只发现了七十一个异常状况和一个疑似异常状况。而这些异常|况全",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "电流的能量。在临海体育馆的下停车的暴击中。侵袭了颈后的伪装芯片。从而激发了某个后门。\n\n    任何进入异常状的公民。都将是宪章局的下那中央电脑的第一序列清除目标。但那个被隐藏了无数万年的后门激。中央电脑所需要执行的命令则是：观察该联系对的状态。通知人小组。\n\n    五人小组不知道死多少万年怎样知",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "理。或者。思考。\n\n    联邦中央电脑近乎疯狂的运转。直接导致了死机。七秒钟的时间对于宇宙来说只是刹那对于高速运的它来说。却像是过去了无数个世纪。在这千载难逢的宪章光辉暂时停顿中很久之前它从许乐颈后伪装芯片里所撷取的六十六字节的极微小信息片段。忽然进入了它的内核程序。\n\n    这是伪装芯片上附属",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "。多达数十万字的第一宪章。在各级权限上都做出了极为精确的分割。堵住了任何逻辑谬论的口子。中央电脑就算同时面对着两个完全相反的同序列指令。也能在亿万分之一秒内。机械而平静的做出自己的判断。\n\n    但在许乐这个程序问题面前。中央电脑却无法做出自己的判断。还是那句老话。所有这一令人头痛。令中央电脑烦到",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "是许乐在方群山之间。深情呼唤却的不到回答。让他冷汗直流的那七秒钟。做为没有具体身躯却平静注视人类整个社会的机械智慧。之所以会在调查许乐真实身份。确认层级时出现问题。那是因为它的程序内核里出现了一个绕不过去的问题。\n\n    这个程序问题就是许乐。\n\n    五人小组留下的宪章光辉。在无数年间。只发现",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "一样头痛。修改了好几遍。大概说清楚我想写的意思了。这并不是间客这故事的关键。只是几个点当中的某一个。以后不会专门去写这方面。但在间客最后段的时候。肯定会把那个信息残留的事情写明白。\n\n    我一直试图让故事能自圆其说。想有点儿体系出来。如果不能。那是我的能力。并不是态,问题。先去煮饭。继续真写。最",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": ",问题。先去煮饭。继续真写。最后还是要月票。希望大家不要烦。这个月我说写十八万。那便肯定是十八万。我从来不会拽的像个二五八万。只是需要大家的支持认可。我会努力的。便是这样了。感谢。然后鞠躬下吧。以后尽量少在正文里写废话。抱歉。实在是有时候忍不住小!说!txt!天.堂",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "力的握在一起时。光幕上传来了一阵极为热烈热情的掌声。然后不远处议会山|边如雷般的掌声喝彩声。也传到了安静的宪章广场上。\n\n    联邦的大和解终于踏上了正式日程。坐在上的许乐有些感动的想到……\n\n    〈晚上还有。这几章本来就是写到最麻烦。我最弱智的。但又是必须写的东西。偏又遇到精神最倒塌时刻。真",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "十三章程序问题\n\n    邦中央电脑死机或者说是升级的七秒钟。正是许乐在方群山之间。深情呼唤却的不到回答。让他冷汗直流的那七秒钟。做为没有具体身躯却平静注视人类整个社会的机械智慧。之所以会在调查许乐真实身份。确认层级时出现问题。那是因为它的程序内核里出现了一个绕不过去的问题。\n\n    这个程序问题",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

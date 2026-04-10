@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1082,
+  "chapter_title": "第九十一章 灭佛（中）",
+  "filename": "ch_1082_第九十一章 灭佛（中）.txt",
+  "char_count": 2250,
+  "timestamp": "2026-04-10T12:11:34.933674",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "们没有懂过佛经，却是自幼便虔诚地信着佛，直至君陌出现。\n　　他们开始怀疑佛祖是否存在，即便存在，有无意义。\n　　今日，佛在人间出现。\n　　那种根植于灵魂深处的敬畏，让他们艰于思考。\n　　他们下意识里松开手中的兵器，对着山峰化成的佛，恐惧地跪倒。\n　　佛唱声声，万僧肃穆。\n　　没有人敢站着。\n　　君陌",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "洞底部，被铁箭锁死在墙壁上的讲经首座缓缓睁开眼睛，他听到了峰外传来的佛唱，知道悬空寺和佛宗已经到了最危险的时刻，他的眼中流露出不舍，然后渐渐化作淡然。\n　　首座艰难地举起枯瘦的双手，在胸前合什，枯槁如干柴的脸上流露出悲悯的神情，灰色的嘴唇微微翕动，声音虽微，却似天龙吟于九霄云上。\n　　山峰无数崖坪里",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "流露出悲悯的神情，灰色的嘴唇微微翕动，声音虽微，却似天龙吟于九霄云上。\n　　山峰无数崖坪里的佛唱声，最终来到崖洞深处，与首座虚弱的颂经声融为一处，无数僧人的禅念与他的禅心融为一处。他虽是人间佛，也无法承载如此多、如此复杂繁复的信念，他的五官开始缓慢地渗出血水，整个人开始散发淡淡的佛光，然后在佛光里渐",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "整座山峰回荡着佛唱声声，一道悲悯、解脱却又格外庄严神圣的气息，从无数僧人和无数寺庙里释出，弥漫在天空的云和地底的原野之间。\n　　在山峰的最深处，那个被沙石封死的崖洞底部，被铁箭锁死在墙壁上的讲经首座缓缓睁开眼睛，他听到了峰外传来的佛唱，知道悬空寺和佛宗已经到了最危险的时刻，他的眼中流露出不舍，然",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "，只有威严之怒。\n　　义军们看着峰顶方向，满脸惊恐步安，看着万丈佛光里那张威严的面容，身体难以控制地颤抖起来，脸色变得极度苍白。\n　　那是真正的佛。\n　　他们没有懂过佛经，却是自幼便虔诚地信着佛，直至君陌出现。\n　　他们开始怀疑佛祖是否存在，即便存在，有无意义。\n　　今日，佛在人间出现。\n　　那种根",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "第九十一章 灭佛（中）\n　　七念看着他，神情复杂说道：“我佛与你书院究竟有何仇怨，从你到宁缺，似乎都直欲灭而后快，如何都不肯罢手。”\n　　君陌说道：“书院不替天行道，不替人间问话，只做想做之事。想之一字里便有我们的道理，你等对这世界无益，何必存在？”\n　　七念指着崖坪",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "起来，脸色变得极度苍白。\n　　那是真正的佛。\n　　他们没有懂过佛经，却是自幼便虔诚地信着佛，直至君陌出现。\n　　他们开始怀疑佛祖是否存在，即便存在，有无意义。\n　　今日，佛在人间出现。\n　　那种根植于灵魂深处的敬畏，让他们艰于思考。\n　　他们下意识里松开手中的兵器，对着山峰化成的佛，恐惧地跪倒。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第九十一章 灭佛（中）\n　　七念看着他，神情复杂说道：“我佛与你书院究竟有何仇怨，从你到宁缺，似乎都直欲灭而后快，如何都不肯罢手。”\n　　君陌说道：“书院不替天行道，不替人间问话，只做想做之事。想之一字里便有我们的道理，你等对这世界无益，何必存在？",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "道门并无两样，只不过他们是蝗虫，你们是蛆虫，难分高低，同样恶心。”\n　　七念不赞同说道：“佛国乐土，无数前贤大德静思数千年，自有精神美果，有思想美玉，不求你尊重，但至少应该留些火种。”\n　　“佛国乃诸僧之乐土，诸氓之炼狱，美果美玉，只能你等享用，形而上者谓之道，要在人间论道，首先要让大多数人活的像人",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "出悲悯的神情，灰色的嘴唇微微翕动，声音虽微，却似天龙吟于九霄云上。\n　　山峰无数崖坪里的佛唱声，最终来到崖洞深处，与首座虚弱的颂经声融为一处，无数僧人的禅念与他的禅心融为一处。他虽是人间佛，也无法承载如此多、如此复杂繁复的信念，他的五官开始缓慢地渗出血水，整个人开始散发淡淡的佛光，然后在佛光里渐渐褪",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "空的云和地底的原野之间。\n　　在山峰的最深处，那个被沙石封死的崖洞底部，被铁箭锁死在墙壁上的讲经首座缓缓睁开眼睛，他听到了峰外传来的佛唱，知道悬空寺和佛宗已经到了最危险的时刻，他的眼中流露出不舍，然后渐渐化作淡然。\n　　首座艰难地举起枯瘦的双手，在胸前合什，枯槁如干柴的脸上流露出悲悯的神情，灰色的嘴",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

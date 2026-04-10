@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 853,
+  "chapter_title": "第二十六章 花前月下（上）",
+  "filename": "ch_0853_第二十六章 花前月下（上）.txt",
+  "char_count": 3190,
+  "timestamp": "2026-04-10T12:11:27.354246",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "划，随着他在绝壁间看到陈皮皮的脸，不得不做出相应的调整，甚至可能需要全部推倒重来。\n　　宁缺想不明白为什么西陵神殿会把陈皮皮关在幽阁里，就算观主死了，知守观无法继续在幕后控制西陵神殿，就算陈皮皮书院弟子的身份，让道门无法接受，然而把陈皮皮这样身份的人暗中囚禁，还是显得那样不可思议，难道神殿里的大人物",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "。不是被月光驱散的云雾重新开始切割他的身体，而是他发现这果然是很困难的事情。\n　　石窗很小，只能看到天空，便是大些的鸟都飞进不去，想要把陈皮皮从囚室里救出来，便一定要把石窗撬大，然而当他伸手却被挡回后，有些震撼地发现，这片绝壁竟是浑然一片整体。石窗是被人在绝壁上生生开出的小洞，他如果想要把石窗撬破，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "巅峰。正如陆晨迦想的那样，失败并不可怕，然而屡战屡败，甚至败成了习惯，道心再坚毅，又如何能够承受如此沉重的打击？\n　　如果不是燕国新任皇帝崇明向神殿输送了大量利益，并且坚定地表明支持他的态度，如果不是他还遥控着东荒上的数万精锐骑兵，不要说天谕大神官，他甚至有可能连天谕院供奉这个闲职都无法保住。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "的数座神殿里都没有人，但不知为何总觉得有人一直在观察着自己，那道冷漠的目光究竟是谁的？\n　　他承认在战斗中勇气是很重要的东西，但绝对不可能在根本上决定胜负，所以他离开长安城自然不可能单纯依靠勇气，书院事先就做了详尽的计划安排，他隐身神殿便是计划里的重要一环，如果那道冷漠的目光真如猜测的那样，那么对书",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "淡，回到神殿依然重伤难愈。\n　　谁都不相信他还能像上次被宁缺射废后那样，从绝望的深渊里再次爬起，重回巅峰。正如陆晨迦想的那样，失败并不可怕，然而屡战屡败，甚至败成了习惯，道心再坚毅，又如何能够承受如此沉重的打击？\n　　如果不是燕国新任皇帝崇明向神殿输送了大量利益，并且坚定地表明支持他的态度，如果不是",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "云的月亮，说道：“数十年都没有开过的桃花，今年忽然重新开放，盛放至今仍不凋谢，这样神奇的事情居然也被人们习惯了，从来没有人看着满山桃花问一句为什么。”\n　　他的目光落在峰顶的光明神殿上，说道：“我想问一问。”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "极点，早已推算出宁缺必然会变成长安城的囚徒，哪里能想到这个家伙居然胆子如此之大，竟敢来西陵神殿，而且出现在自己眼前。\n　　这是谁都没有预料到的久别重逢，师兄弟二人隔着石窗瞪着彼此，愣了很长时间，然后傻傻地笑了起来。\n　　囚室陈设很简单，只有一张床和一些用具，宁缺透过石窗看着里面，发现还算干燥也没有血",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "是显得那样不可思议，难道神殿里的大人物就不怕道门因此分裂？\n　　深夜时分，宁缺再次顺着桃花丛中的小径来到崖壁前，然而今夜云层厚实，月光无法洒落人间，绝壁下方的云雾缭绕不散，想着昨夜承受的千万刀割切的痛苦和雾丝里的怨毒意味，他根本不敢下去。\n　　随后的几个夜晚同样如此，他没有办法见到陈皮皮。\n　　此后",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "发现还算干燥也没有血迹，小桌上摆着吃食和清水，心情微松。\n　　紧接着他开始观察石窗。虽然这次相遇太过突然，书院完全不知道陈皮皮被关在幽阁里，自然也没有做什么计划，但既然看见了，还有什么好犹豫的，他想都不想，便准备把陈皮皮从幽阁里救出来。\n　　随着观察，他的神情变得凝重起来。不是被月光驱散的云雾重新开",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "他明白陈皮皮想说什么，点点头示意自己已经知道了桑桑身上发生的事情，然后告诉他唐小棠在书院后山，不用担心。\n　　月光从夜穹洒落，落在绝壁间，落在宁缺的身上，有些光线穿过狭小的石窗，落在陈皮皮的脸上，二人无声地说着话。\n　　“等我救你出来。”\n　　宁缺看着陈皮皮的眼睛说道，他说的非常缓慢，发音非常标准",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "要知道无数年来第一个成功逃离幽阁的卫光明，也不敢奢想撬开石窗，而是选择推倒身前的那些木棍。\n　　宁缺说道：“看来你得多在里面呆两天，我要想想办法。”\n　　陈皮皮站在石窗边，有些迷惘，没有反应。\n　　宁缺这才想起，先前两个人相视而笑的时候，他没有听到陈皮皮的笑声，想到一种可能，放慢速度问道：“听不到？",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "道：“数十年都没有开过的桃花，今年忽然重新开放，盛放至今仍不凋谢，这样神奇的事情居然也被人们习惯了，从来没有人看着满山桃花问一句为什么。”\n　　他的目光落在峰顶的光明神殿上，说道：“我想问一问。”",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "个字，感受到自己的决心。\n　　陈皮皮静静看着他，忽然笑了起来，摇了摇头。\n　　宁缺看着他脸上的笑容，缓缓伸出一根中指，说道：“你丫现在就是一囚犯，除了被动地等着被我来救，没有任何选择权。”\n　　说完这句话，他望向自己沐浴着月光的中指，有些不解地想到，只剩下左手的禅定真手印，怎么自己还能在绝壁上如此安",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

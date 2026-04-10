@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1009,
+  "chapter_title": "第十八章 秋风秋雨杀闲人（上）",
+  "filename": "ch_1009_第十八章 秋风秋雨杀闲人（上）.txt",
+  "char_count": 3436,
+  "timestamp": "2026-04-10T12:11:34.911899",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "摇欲坠，并且将不可逆地走向崩溃。\n　　滁州太守死了，朝廷必须做出应对，或者找出并且杀死凶手，或者隐瞒真相，或者让敌人罢手，既然真相无法隐瞒，便只剩下其余两种选择。\n　　能够深入国境，无视天枢处和书院，于悄无声息间，杀死滁州太守的人，世间只有两三人――无论是谁，都不是大唐朝廷能够对付的，哪怕大唐是世间",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "间内，酒徒不会再给机会，西陵神殿的强者们，也会变得很谨慎，而且他们也不敢进长安，那么他再守在城墙上，意义不大。\n　　现在他要解决的问题是，怎样让酒徒不再杀人――如果让酒徒继续杀下去，不等西陵神殿和金帐王庭的大军来袭，唐国便会倾覆。\n　　酒徒以前没有这样做，因为他对书院有所忌惮，因为夫子余威犹存，也是",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "于悄无声息间，杀死滁州太守的人，世间只有两三人――无论是谁，都不是大唐朝廷能够对付的，哪怕大唐是世间最强大的国间――因为那些人已经超出了世俗的范畴。\n　　李渔很清楚这点，看着窗外被雨水打湿的黄菊，说道：“让书院处理吧……杀死那个人，或者想办法让那个人住手……不过，宁缺啊，你最后还是要把那个人杀死啊，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第十八章 秋风秋雨杀闲人（上）\n　　阅历见闻改变气质，层次决定高度，修行者与普通人自然不同，千古以来，那些逾过五境门槛的大修行者，能够呼风唤雨、动天撼地，俯瞰苍生，精神世界自然渐渐远离尘世，向着非人的领域而去。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "总不能始终在水畔行走，而不湿鞋。”\n　　这段平静的话语，隐藏着某种决心，对道门来说，预示着某种极大的危险，一直沉默听着的隆庆微微眯眼，神情渐凛。\n　　“就算你现在开始杀人也没用。”\n　　酒徒的神情很冷漠，说道：“昊天爱世人，我不是昊天，你爱世人，我不是你，我杀人，你会痛苦，你杀人，又能奈我何？”",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "淅沥沥，不急不徐，不像夫子登天那年令人恐惧，更像春雨打湿人心。\n　　滁州也在下雨，东山上的亭檐湿了，人们的衣裳也湿了，两名老仆跪在太守的遗体前痛哭流涕，凌晨从城中赶过来的官员士绅们则是脸色苍白，震惊的无法言语，谁也没有注意到一个师爷模样的男人在亭柱上做了些什么。\n　　东山风景虽好，但地势太高，游人罕",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "高妙，而是隐晦的指责。\n　　像他这般温和的人，居然会指责对方，说明他此时看上去再如何平静，实际上已经愤怒到了极点。\n　　――他愤怒于酒徒杀人，杀贤人，毫无道理地杀贤人，并且可能会杀更多人，这是他很难理解、更不能接受的事情。\n　　横木嘲讽说道：“果然虚伪。”\n　　所谓修行，无论入世出世，图的是成仙还是",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "他不认识滁州那位欧阳太守，只听说过对方的贤名，有些感伤，然后沉默，昨夜举着铁弓瞄准临康城，等待着酒徒出现的那一刻，他就知道自己和师兄的计划如果没有成功，必然会迎来酒徒的反击，只是没有想到反击会来的这样快。\n　　酒徒和屠夫是修行史上的特殊存在，与岁月相伴，境界高深莫测，早已超凡脱俗，如果可能，书院根本",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "杀人，杀贤人，毫无道理地杀贤人，并且可能会杀更多人，这是他很难理解、更不能接受的事情。\n　　横木嘲讽说道：“果然虚伪。”\n　　所谓修行，无论入世出世，图的是成仙还是涅，本质上修的都是与普通人背道而行，先前他便说过书院虚伪，此时听着大师兄说人皆有不忍人之心，坚持把自己放在普通人的范畴里，他忍不住再次出",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "的，可以是精神或者是勇气或者是历史传承，但真正重要的是管理机构，换句话说，就是各级事务官员，再完善的制度，也需要由人来进行具体处理。\n　　当官员随时可能死去，当官员发现自己随时可能死去，管理帝国的体系便会摇摇欲坠，并且将不可逆地走向崩溃。\n　　滁州太守死了，朝廷必须做出应对，或者找出并且杀死凶手，或",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "尽沧桑意，令其余三人沉默。\n　　便在此时，有小雨落下，雨水净了地面的尘埃，柔了河畔的柳叶，湿了头发，为人间带来一股凄冷的秋意。\n　　秋雨里，大师兄看着酒徒说道：“所以我必然会输？”\n　　酒徒说道：“有所爱，故有所惧，你无法不输。”\n　　隆庆和横木在雨中离开皇城，带着两千西陵神殿护教骑兵，向着大泽和宋",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "徒说道：“所以我必然会输？”\n　　酒徒说道：“有所爱，故有所惧，你无法不输。”\n　　隆庆和横木在雨中离开皇城，带着两千西陵神殿护教骑兵，向着大泽和宋国方向进发，凄迷烟雨里，将有千万人死去。\n　　秋雨越来越大，大师兄低头站在辇前，站在柳亦青的遗体前，雨水打湿他的头发，耷拉在额前，显得有些凄凉。\n　　…",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，后来他与宁缺变过此事，他用来寻回本心的方法，很是匪夷所思。\n　　大师兄是世间走的最快的人，却叫做李慢慢，因为他做什么事情都很缓慢，就连青春期以及成为大修行者之后的困惑期，都来的要比旁人慢很多，但来的再慢终究会来，他曾经思考过这个问题，并且拥有自己的见解，或者说选择――此时他说酒徒非人，并不是在赞美",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

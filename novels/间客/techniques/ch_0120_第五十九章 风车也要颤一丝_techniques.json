@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 120,
+  "chapter_title": "第五十九章 风车也要颤一丝",
+  "filename": "ch_0120_第五十九章 风车也要颤一丝.txt",
+  "char_count": 3516,
+  "timestamp": "2026-04-10T11:53:35.129055",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "始伸展。无数地肌肉纤维开始撕裂，腿骨也开始裂开！\n\n    手无寸铁地人类，用自己的血肉之躯，向着庞大地金属机甲发起了进攻，这是一种疯狂的举动，而从那台机甲金属躯体传回的无比巨大的反震力，更是证明了这种挑战，显得过于悲壮而没有效果。\n\n    许乐直接被反震力震的飞了起来，控制身躯的力量早已被机甲反",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "这个世界上本来就不应该存在机修师封余那样的怪物。\n\n    许乐身体剧烈的颤抖。体内那股巨大的力量，瞬间通过他体内的无数路径，全部递送到自己的大腿上，自己地关节上，自己的脚上……那只挟着猛烈呼啸声的脚，狠狠地踹在了冰冷而坚固的合金液压管上。发出一声沉闷的巨响！\n\n    脚下的那双皮靴，在接触到液压",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "为爆炸和高温而自动感应的灭火装置，不停喷吐着水花，就如同是在下雨一般。此时此景，像极了雨夜，那个许乐第一次杀人的雨夜。\n\n    他看着雨水中逼过来的那几名武装分子的身影，知道对方一定带着夜视设备，自己只怕便要报销在这里了……他脸色苍白，紧抿双唇，心头冰冷，却一声不响，右手猛地挥起，手中扣着的枪械开",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "车场里，未满二十岁的许乐，像一只豹子般从地面跃起，像一道黑烟冲到了那台军用机甲的下方，不假思索，浑身颤抖，狠狠的一脚踹在了那根显眼而欠踹的液压管上。\n\n    在他的一生里，液压管这种东西或许真地和他很有缘分。每次都能见证他最恐惧、对自己最狠，最绝的那种时刻。\n\n    无论联邦科学家再如何发挥自己",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "所以设计者从来没有想过在这根液压管之上，再安装什么防打击装置。\n\n    因为这个世界上本来就不应该存在机修师封余那样的怪物。\n\n    许乐身体剧烈的颤抖。体内那股巨大的力量，瞬间通过他体内的无数路径，全部递送到自己的大腿上，自己地关节上，自己的脚上……那只挟着猛烈呼啸声的脚，狠狠地踹在了冰冷而坚",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "甲脚下躺着的那个穿着绿色军风衣的家伙，好像有些不同寻常。然而他却没有时间去探寻这个家伙体内的不同寻常究竟在哪里，就在黑色汽车消失于地下停车场的那一瞬间，这名机甲战士通过联络器向自己的随队士兵发出命令，同时双手如风，在指触式光屏上输入了十七条数据指令。\n\n    在巨大的电机响声中，这台庞大的机甲猛地",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "乐，用垃圾场里捡到了一根废弃机甲肘部液压管尖，戮死了一个河西州的黑道大佬。\n\n    充满了血腥味与压抑气氛的地下停车场里，未满二十岁的许乐，像一只豹子般从地面跃起，像一道黑烟冲到了那台军用机甲的下方，不假思索，浑身颤抖，狠狠的一脚踹在了那根显眼而欠踹的液压管上。\n\n    在他的一生里，液压管这种",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "乐结束自己被震飞的旅程，头部向后一仰，喷出了一大口鲜血，重重地摔落在了地面。\n\n    就在他落地的同时，黑色机甲也已经完成了主炮的发射。\n\n    联邦里有一句谚语，当你开始旅程时偏移正确方向一公分，当你结束旅程的时候，你会发现自己已经远离了目的地一千公里。\n\n    许乐地脚面踹到液压管上。将体",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "色机甲追击着邰之源所在的汽车，伴随着烟尘与空气震荡声，消失在了出口处。许乐此时震惊之余，却根本无法去担心邰之源的死活，因为他此时只能担心自己的死活。\n\n    安静的地下停车场间，充满了焦糊味与血腥味的场间，四周被机甲火力击成酥皮的水泥墙壁，依然不停簌簌坠落水泥块与钢筋碎片，停车场隔断水泥墙上那五个",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "如何发挥自己的想像力，机甲这类庞大的机器身躯，控制系统与结构系统的最关键联动装置，依然像无数万年前的时代一样，全部是这种最原始的液压装置。也曾有科学家提出过别的设计，然而冷酷无情的战场实践早已证明，只有最原始的才是最可靠，最坚固地。\n\n    机甲的机械腿至少有七根以上粗细不同，用途不同的液压管。大",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "露在外的那根液压管全部由合金一次成形，比人类的大腿还要更粗，坚固到足以抵抗密集火力地打击，所以设计者从来没有想过在这根液压管之上，再安装什么防打击装置。\n\n    因为这个世界上本来就不应该存在机修师封余那样的怪物。\n\n    许乐身体剧烈的颤抖。体内那股巨大的力量，瞬间通过他体内的无数路径，全部递",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "联邦科学家再如何发挥自己的想像力，机甲这类庞大的机器身躯，控制系统与结构系统的最关键联动装置，依然像无数万年前的时代一样，全部是这种最原始的液压装置。也曾有科学家提出过别的设计，然而冷酷无情的战场实践早已证明，只有最原始的才是最可靠，最坚固地。\n\n    机甲的机械腿至少有七根以上粗细不同，用途不同",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "了出口处。许乐此时震惊之余，却根本无法去担心邰之源的死活，因为他此时只能担心自己的死活。\n\n    安静的地下停车场间，充满了焦糊味与血腥味的场间，四周被机甲火力击成酥皮的水泥墙壁，依然不停簌簌坠落水泥块与钢筋碎片，停车场隔断水泥墙上那五个触目惊心的浑圆弹洞，正在冒着青烟。\n\n    停车场内的灯光",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

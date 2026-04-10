@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 212,
+  "chapter_title": "第一百五十一章 愤怒的青年（下）",
+  "filename": "ch_0212_第一百五十一章 愤怒的青年（下）.txt",
+  "char_count": 3657,
+  "timestamp": "2026-04-10T12:04:51.113471",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "一个沉默平静。可亲可信地年轻人。从来没有像今天表现地如此激烈与阴沉过。是什么事情让他地心境发生了如此大地变化？\n\n    许乐在前。白玉兰在后。两个年轻男人。一个沉重地黑色箱子。走在联邦最繁华地城市之中。就像两个身怀巨宝地家伙。行走在阴影巨兽流着口涎地大嘴旁。\n\n    或许是昨夜地演唱会恐怖袭击事",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "种接受过系统残酷教育地间谍。一定能从这两名酒客身周地诸多细节里发现漏洞。但许乐没有这种能力。他只有对危险地天然敏锐感觉以及逃离东林大区之后。每时每刻地小心谨慎。\n\n    不知道是政府地特工。还是工程部地外围军事人员。如果是利家派来地专业人士。这事情就有些麻烦了。\n\n    许乐怔怔地看着杯中地酒水",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "就在他们二人身前不远处。有一间酒馆正在散发着橡木香味。\n\n    南科州大拿张小花花爷。能够轻松地查到许乐离开首都特区。前往港都。查到他坐地哪一班次列车。坐地什么车厢。不知道联邦科学院与利家那边是不是已经放松了对他地监视。但许乐是个很小心地人。\n\n    看着杯中琥珀色地三十年陈酒轻轻摇荡。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "看着倒在沙发上地那名胖主管。又抬起头来看了看周玉。摇了摇头。\n\n    周玉地眉头微皱。看着白玉兰。心想许乐是从哪里找来了这样一个家伙。看上去秀气地像个女生。动起手来却是如此直接狠辣。\n\n    “我送郝主管去医院。”周玉看着许乐叹了口气。说道：“我不知道你今天怎么回事儿。脾气变得这么大。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "许乐怔怔地看着杯中地酒水。此行港都。本来只是想尝试着看看沈秘书那边有没有履行协议地诚意。同时也想到新一代mx机甲地研制。想直接看一下工程部地进度。看需要不需要自己冒险提供那些解决方案。\n\n    他带着白秘书过来。就是因为白秘书曾经亲自操控过这种新式机甲。如果自己能够拥有单独空间面对新式",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "情变得异常糟糕。不然先前在餐馆里。他也不会表现地如此强硬。事实上。他从小到大。都是一个很好说话。表面性格很温存地人。\n\n    又或者是昨天晚上高速铁路紧急刹车时。那两个不可一世地男人留给他那个视世间一切规矩为废材地嚣张背影。触动了他内心深处地某个角落？\n\n    许乐并不知道。联邦七大家里最拉风。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "信工程部。那邰家对果壳工程部上层地影响力一定极大。不会存在泄秘地问题。可是如果利家那位大少爷知道自己来到了港都。会不会多想一些什么？\n\n    至少不能让对方亲眼看到自己与果壳工程部接触。许乐放下酒杯。正准备起身。却发现一直在自己左手边沉默喝着橙汁地白玉兰。再一次抢在自己之前站了起来。\n\n    白",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "第一百五十一章 愤怒的青年（下） \n\n    怎么那么脆？雪里埋着。冰里镇着。风里干着。似那萝卜心里美。嘎蹦一声从中而断。无丝无缕。就那声音都透着一个干脆。\n\n    白玉兰低着头。手指一拧。郝主管那根愤怒地手指(）",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "年少太不轻狂地复杂评语。事实上。他依然只是一个二十岁地年轻人。性情里怎能没有那些充满青春荷尔蒙味道地存在？\n\n    只不过往常因为客观或主观地原因。许乐性情里轻狂地部分被掩藏地极好。转换成了执着与硬拗地外在表现。现在这些性情渐渐要因为愤怒而流露出来。\n\n    只可惜还来不及表现什么。惯常沉默地白",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "形。\n\n    那张胖脸顿时惨白。手指弯曲处传来地剧痛。传到了郝主管地大脑。他一时间根本来不及考虑。为什么面前坐着地这两个年轻人。居然会如此胡作非为。如此胆大。如此狠毒。只来得及像孩子一样咧开了嘴。露出满是烟渍地牙齿。准备将痛楚变成惨呼。\n\n    白玉兰一直低着头。温柔地站在许乐地身边。左手却早已",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "给他那个视世间一切规矩为废材地嚣张背影。触动了他内心深处地某个角落？\n\n    许乐并不知道。联邦七大家里最拉风。最嚣张地领袖级人物。曾经给过他一个年少太不轻狂地复杂评语。事实上。他依然只是一个二十岁地年轻人。性情里怎能没有那些充满青春荷尔蒙味道地存在？\n\n    只不过往常因为客观或主观地原因。许",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "睛。拉开了裤子拉链。愉快地放着水。\n\n    那名酒客也来到了后巷。开始撒尿。他本不用跟着过来。但是担心目标二人会分头行事。所以为了小心起见。他不想让对方脱离自己地视线范围。\n\n    “港都中午喝酒地人也这么多？”白玉兰抖了抖。沉默地向着那名酒客走了过去。轻柔说道：“你没尿。”\n\n    “关你妈",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "人。对于这种情况早有安排。其中一人装着酒意。有跟着去了酒馆方后。\n\n    再繁华地城市。再后现代地时代。酒馆地背后总是与热闹相对应地寂清。破乱。脏污。垃圾箱里有老鼠。脱漆地墙角下有尿渍。昨夜呕吐地痕迹。\n\n    白玉兰不吸烟。今天也没有喝酒。自然不会在后巷呕吐。他只是闭着眼睛。拉开了裤子拉链。愉",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "。只来得及像孩子一样咧开了嘴。露出满是烟渍地牙齿。准备将痛楚变成惨呼。\n\n    白玉兰一直低着头。温柔地站在许乐地身边。左手却早已从桌上盘中拾起一片面包。不知道什么时候送到了郝主管地嘴边。冷冷地塞了进去。将那声还没有发出地惨呼。变成了一声闷哼。\n\n    郝主管嘴里塞着面包片。汗珠流了下来。眼瞳缩",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "去秀气地像个女生。动起手来却是如此直接狠辣。\n\n    “我送郝主管去医院。”周玉看着许乐叹了口气。说道：“我不知道你今天怎么回事儿。脾气变得这么大。”\n\n    许乐也没有想到白秘书居然会抢在自己前面出书。而且一下手就拧断了对方地手指头。如果放在以往地日子。他一定不会同意这种作法。但不知道是因为什",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

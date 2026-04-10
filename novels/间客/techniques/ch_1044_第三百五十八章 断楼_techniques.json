@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 1044,
+  "chapter_title": "第三百五十八章 断楼",
+  "filename": "ch_1044_第三百五十八章 断楼.txt",
+  "char_count": 4607,
+  "timestamp": "2026-04-10T12:05:26.971444",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的地下通道系统，在黑暗遮掩下，谁都不知道那些开始响起轻微脚步声的通道通向何方。\n\n    许乐和顾惜风留了下来，身为七组电控水准最优秀的成员，他们要负责组装控制中心。\n\n    各式各样复杂的数据线和电缆在两个人或粗圆或细直却同样灵巧的手指下，渐渐变成铺满地面看似混乱却非常精密的网络，然后与城丵市民",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "魔幻色彩倒下，是非常困难的事情，胡宗华和他的徒弟江锦可能需要在管道里爬更久，卖出去更多炸丵药，冒更多危险。\n\n    然而疗养院大楼刚刚经过加固，合金混编夹层，就像是无数道坚韧的针线，把有些酥脆的整面墙缝成一个结实的整体，于是一倒便是一面，壮观不已。\n\n    疗养院大楼整整一面墙垮了，还是面临河堤",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "掉邮件，他望向房间里沉默待命的队员们，停顿片刻后沉声问道：“计划都清楚没有？”\n\n    “清楚。”众人压低声音回答道。\n\n    “再重复一遍。”许乐握紧举在空中的右拳，面无表情说道：“我要的是全面压制。”\n\n    “明白。”\n\n    右拳在昏暗光线中散开，许乐沉声命令道：“散开。”",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "拂过工作台光幕。\n\n    伴着激昂的音乐，随着手指的颤动，无数道指令从地下房间通过线缆进入疗养院，瞬间侵入对方的战地指挥系统，然后完成所有准备工作。\n\n    钢琴曲段落的最后是一个极重的鼓点。\n\n    顾惜风睁大眼睛，盯着光幕上不停起落的数据曲线，手指高高举在空中，随着那个鼓点进入耳膜，手指落",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "入耳膜，手指落下，重重按动起爆红钮。\n\n    依据爱国者法案，联邦政丵府对鲍勃主编和伍德记者进行了秘密关押，关押地点极为机密，没有多少人知道，这两名胆敢与政丵府做对的联邦新闻名人，一直被关押在春都市第一军区南方疗养院中。\n\n    负责疗养院防御工作的是小眼睛特战部队某分队，还有第四快速反应旅的一",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，顾惜风看了许乐一眼，开始对最后一处进行方位确认，那里将是本次行动最关键的点。\n\n    或许是受到紧张气氛的感染，顾惜风的声音压的更低了，喃喃问道：“药贩子到位没有？”\n\n    漆黑的管道里，弥漫着疗养院特有的药水味道和一般疗养院绝对没有的鲜花香味，南科州影院清洁工胡宗华抬头望着头顶的微光，附着",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "端着茶杯检查着各处的防御措施，心情非常平静，如果疗养院遇到袭击，他的部队只需要坚持半个小时，便能得到来到春都市警备区的支援，到那个时候，不要说是那些叛乱退伍士兵，哪怕是黑鹰保安公司全体出动，也不需要担心。\n\n    靠小眼睛特战分队和一个营能够坚持半个小时吗？陈春雷上校的答丵案是斩钉截铁的肯定，当然",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "他的脖颈忽然感到前所未有的僵硬，望着窗外的眼眸因为恐惧和不可思议急剧收缩，手里的茶杯在重力作用下脱离颤抖手掌，重重摔在地上！\n\n    陈春雷上校瞪圆了双眼，眼睁睁看着身前厚重的墙壁，仿佛像魔幻电影中的场景一般，缓慢地离开大楼本体，然后极其缓慢的倾斜，向河堤方向倒下，露出外面大好明媚阳光和清透的山野",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "“清楚。”众人压低声音回答道。\n\n    “再重复一遍。”许乐握紧举在空中的右拳，面无表情说道：“我要的是全面压制。”\n\n    “明白。”\n\n    右拳在昏暗光线中散开，许乐沉声命令道：“散开。”\n\n    房间隐藏后门开启，二十几名队员低下头快速离开。房间位于春都市地铁线路末端，门后",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "陈春雷上校端着茶杯，望着防弹玻璃窗外的风景，望着河堤对面星点梅花遮掩下的山野，望着那些可能只是存在于幻想中的敌人，脸上泛起嘲讽的笑容。\n\n    在这时候，他忽然想起在学校时曾经学过的某句皇朝古谚语，具体的字句有些忘了，大概的意思是：我坐在某处城楼上，观江山风雨晦暗，自不动心。\n\n    眼看",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "地暂时不为人知却已经让宪章局和联邦政丵府焦虑不安的事丵件报告，看着邮件末端清晰的小红花标识，脸上露出感慨微笑。\n\n    两场战争在太空在地表，在无形空间和寒冽冬意中将要先后打响，他很清楚没有哪一场更重要，但是菲利浦与宪章电脑的交锋将是一切的基础。\n\n    如果不能把宪章光辉从他及队员们的头顶驱除",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "到来到春都市警备区的支援，到那个时候，不要说是那些叛乱退伍士兵，哪怕是黑鹰保安公司全体出动，也不需要担心。\n\n    靠小眼睛特战分队和一个营能够坚持半个小时吗？陈春雷上校的答丵案是斩钉截铁的肯定，当然能！\n\n    因为他们的任务中并不包括保护那两名记者囚犯，只需要保证对方不要逃出去，而相反的，敌",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "三百五十八章 断楼 \n\n    昏暗光线之中，许乐看着光幕上的电子邮件，看着那些发生在联邦各地暂时不为人知却已经让宪章局和联邦政丵府焦虑不安的事丵件报告，看着邮件末端清晰的小红花标识，脸上露出感慨微笑。\n\n    两场战争在太空在地表，在无形空间和寒冽冬意中将要先后打响，他很清楚没有哪一场更重要，但",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "p小红点改狙进行瞄准调适，然后平静平伸黑洞洞枪管，对准河堤那边。\n\n    河堤那边的存养院大楼一片安静，院中隐隐可以看到几个重火力点和十几辆军车。\n\n    河堤这边是队员们隐藏着的山野，满山腊梅正在盛开，或红或白或粉，恰如头盔上那些斑驳的伪装粉墨。\n\n    地铁深处的昏暗房间里，顾惜风继续沉声",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

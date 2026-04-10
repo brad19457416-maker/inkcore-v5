@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 573,
+  "chapter_title": "第七十九章 悬空寺的因果",
+  "filename": "ch_0573_第七十九章 悬空寺的因果.txt",
+  "char_count": 4455,
+  "timestamp": "2026-04-10T12:11:26.660970",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的洞庐内，洋溢着轻松的笑意，然后渐渐回复平静，歧山大师讲解佛法的声音，不时响起，中间偶尔穿插着桑桑的疑问声。\n　　不知道过了多久，今夜的讲解暂告一段落，歧山大师望向宁缺，说道：“治病总是一个漫长的过程，洞庐里潮湿阴寒，不适宜养病，你带着她下山去寺里休息，睡前如果有时间，不妨让她想想今天的事情。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的修为，又如何当得了戒律院首座？既然如此，你更应该谨慎，不得妄动净铃，更不应该被曲妮玛娣说动，从荒原来到人世间。”\n　　歧山大师看着他神情严肃说道：“你是修佛之人，当明白因果，不能被仇恨蒙蔽双眼，道石死在宁缺手中，那自是他的因果。”\n　　宝树微微蹙眉，然后渐渐回复平静。\n　　他说道：“我本是道石的因",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "林，发出簌簌的轻响，却没有惊动鸟儿，隐隐约约间，似乎有清脆而细微的铃声响起，然而那铃声仿佛不是真实，瞬间湮灭无闻。\n　　洞庐外的佛辇依旧安静，忽然一只手从黄色的帷布里伸了出来，掀起一道缝隙，一个穿着深褐色僧衣的僧人，从佛辇上走了下来。\n　　这名僧人双眉直若横尺，眼若宝石，眉眼间隐见风霜之色，额上亦已",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "情。”\n　　歧山大师看着他说道：“如果事情真如你所想像，那么无论是悬空寺，还是知守观做任何事情都没有意义。”\n　　宝树明白这句话的意思，如果夫子知道宁缺是冥王之子，还收入门内，那么算整个世界想要杀死宁缺，夫子也会站在宁缺那一边。\n　　但夫子并不见得知道。\n　　因为佛祖说过，这个世界上没有无所不知的人",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "不是把黑棋变成白棋，而是把自己变白。\n　　看着那枚黑棋，她想着歧山大师的话，有些不好意思地笑了起来，心想如果真能做到想白就白，也不用陈锦记的脂粉，那真是太好了，而且很方便，难怪大师刚才说佛门把这个叫方便法门。\n　　歧山大师微怔，不明白她为什么要发笑，难道自己讲的方便法门哪里有错漏，被这个小姑娘发现了",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "庐。\n　　……\n　　……\n　　崖洞幽静无声。\n　　年逾百岁的歧山大师，今天感受到了在自己漫长的一生里最强烈的一次不安。\n　　甚至要超过数十年前，魔宗血洗烂柯寺前坪那一次。\n　　庐门微响，观海僧回来了。\n　　“师傅，十三先生和光明之女，已经在前寺安歇。”\n　　歧山大师看着自己的徒儿，忽然问道：“盂兰节",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "不时响起，中间偶尔穿插着桑桑的疑问声。\n　　不知道过了多久，今夜的讲解暂告一段落，歧山大师望向宁缺，说道：“治病总是一个漫长的过程，洞庐里潮湿阴寒，不适宜养病，你带着她下山去寺里休息，睡前如果有时间，不妨让她想想今天的事情。”\n　　宁缺说道：“上山下山多有不便，我们不如便歇在这里。”\n　　歧山大师说",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "片刻后点了点头，又说道：“不要想太多，这和你没有关系，佛门高僧对命数自有掌握，更何况是大师这种能预知将来的人。”\n　　夜风渐起，掀起青帘一角。\n　　宁缺看着山道旁那座孤伶伶的佛辇，微微皱眉，他不知道那位悬空寺戒律首座，为什么一直等在洞庐外，而且为什么佛辇旁没有任何人？\n　　……\n　　……\n　　月轮国",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "舍，又道：“桑桑的病还没好，您可别先死了。”\n　　歧山大师气的笑了起来，笑骂道：“你这哪里养成的泼坏性子？如今我总算相信夫子时常会被你气的乱吹胡子，却没办法收拾你。”\n　　宁缺笑着说道：“老师就是喜欢我诚实，疼我所以不收拾我。”\n　　走出洞庐。\n　　宁缺抱着桑桑进了马车。\n　　桑桑倚在被褥上，紧紧握",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "道：“不要想太多，这和你没有关系，佛门高僧对命数自有掌握，更何况是大师这种能预知将来的人。”\n　　夜风渐起，掀起青帘一角。\n　　宁缺看着山道旁那座孤伶伶的佛辇，微微皱眉，他不知道那位悬空寺戒律首座，为什么一直等在洞庐外，而且为什么佛辇旁没有任何人？\n　　……\n　　……\n　　月轮国白塔寺的苦行僧，都被",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "笑真实原因的人，只有宁缺，看着桑桑有些微羞的笑容，他也忍不住笑了起来。\n　　幽暗微寒的洞庐内，洋溢着轻松的笑意，然后渐渐回复平静，歧山大师讲解佛法的声音，不时响起，中间偶尔穿插着桑桑的疑问声。\n　　不知道过了多久，今夜的讲解暂告一段落，歧山大师望向宁缺，说道：“治病总是一个漫长的过程，洞庐里潮湿阴寒",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "这也是我与他的因果。”\n　　“此行来到瓦山，我便是要明白这些因果，然后结了这些因果。”\n　　歧山大师缓缓摇头，说道：“既然你执念如此，那么我只好通知讲经首座，除了你在寺中的职司，然后罚你面壁十年。”\n　　宝树平静说道：“好教师叔知晓，我确实是奉谕而来。”\n　　歧山大师闻言微惊，蹙眉良久后疲惫说道：“",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "白这句话的意思，如果夫子知道宁缺是冥王之子，还收入门内，那么算整个世界想要杀死宁缺，夫子也会站在宁缺那一边。\n　　但夫子并不见得知道。\n　　因为佛祖说过，这个世界上没有无所不知的人。\n　　宝树说道：“我想知道，您究竟在佛祖的棋盘上看到他做了些什么。”\n　　歧山大师沉默片刻后说道：“我看到一辆黑色马车",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "师说道：“悬空寺的由来，其实与冥界入侵的传说息息相关。”\n　　“冥界入侵，是为永夜，佛法里称之为末法时代，到那时，世间一切都会被毁灭，佛祖当年便看到了无数年后的惨怖画面，他冥思苦想数百载，思考怎样解决这个问题，然而却依然没有想到方法。”\n　　“佛祖感知到自己圆寂之期，便于极西荒原深处，觅得一净土，发",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "关。”\n　　“冥界入侵，是为永夜，佛法里称之为末法时代，到那时，世间一切都会被毁灭，佛祖当年便看到了无数年后的惨怖画面，他冥思苦想数百载，思考怎样解决这个问题，然而却依然没有想到方法。”\n　　“佛祖感知到自己圆寂之期，便于极西荒原深处，觅得一净土，发大愿力修筑一寺庙，并予以永世之屏障。佛祖集佛学禅经",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

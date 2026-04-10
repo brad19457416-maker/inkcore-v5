@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 679,
+  "chapter_title": "第六十章 人间之剑（下）",
+  "filename": "ch_0679_第六十章 人间之剑（下）.txt",
+  "char_count": 3864,
+  "timestamp": "2026-04-10T12:11:26.907267",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "敢相信，因为哪怕是最绝秘的教典和最亵渎的黑暗史书里，都没有记载过这样的事情。\n　　神国与人间的战争，最终以人间取胜而告终。\n　　……\n　　……\n　　古意盎然的人间之剑，飞回到了南晋剑阁，自山腹洞口落下，安静地插入干涸见底的潭底，片刻后，潭水无由而生，把剑淹没。\n　　柳白看着身前的水潭，知道自已这辈子",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "子用的武器是一根棒子，宁缺以亲自惨痛经历确认，夫子的武器确实是一根棒子。\n　　夫子不用剑，既然他要让天空里那名光明神将见识一下人间之剑，那么他只有借剑，他伸手向南方，南方便飞来了一把剑。\n　　那柄古意盎然的剑，来自南晋剑阁。\n　　剑圣柳白，盘膝坐在潭畔，看着身前已经干涸的潭水，想着先前破潭而出，疾飞",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "万道裂痕，那些裂痕蔓延至他伟岸的身躯，由昊天神辉凝成的盔甲，也开始迸裂。\n　　光明神将就像座冰雕般，瞬间碎裂，变成无数透明的晶体，簌簌作响向着荒原地面坠落，如同下起了一阵冰雹，但声音更像是暴雨击打着雨檐。\n　　那些细碎的透明晶体里，依然蕴藏着威压恐怖的光明神辉与神力，但却再也无法合为一体，对持着人间",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "世间最强的剑，此时古剑离潭而去，他的剑意与精神气魄也随之而走，自然虚弱。\n　　然而柳白的脸上没有任何愤怒神情，反而显得有些惘然。\n　　他是世间第一强者，他剑道无双，世上却有人能隔着万里之遥，随意取走他的剑，莫说阻止，他连表达反对意见的资格都没有。\n　　片刻后，柳白脸上的惘然神情变成了微微的激动。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "老师终于出手，一动便舞于九天之上。\n　　在他看来，这场注定会被载入史册、甚至必然会成为神话传说的战斗，必然会无比神奇、凶险万分，甚至可能战上三天三夜甚至是数年时间。\n　　他只希望老师能够获胜，能够安然。\n　　而他没有想到，这场战斗和他的想象完全不同。\n　　开始的很快，结束的也很快，非常简单。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的黑夜消失，荒原上的数十万人渐渐清醒过来，他们看到了那个高大的身影，看到了渐渐远去的黑色马车。\n　　人们隐约猜到发生了什么，却不敢相信，因为哪怕是最绝秘的教典和最亵渎的黑暗史书里，都没有记载过这样的事情。\n　　神国与人间的战争，最终以人间取胜而告终。\n　　……\n　　……\n　　古意盎然的人间之剑，飞回",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "几十年里，夫子从来没有出过手，以至于渐渐要被世间百姓所遗忘，甚至就连修行世界里的人，也偶尔也忘记他的存在。\n　　在只有极少数人知道的那些传说故事里，夫子用的武器是一根棒子，宁缺以亲自惨痛经历确认，夫子的武器确实是一根棒子。\n　　夫子不用剑，既然他要让天空里那名光明神将见识一下人间之剑，那么他只有借剑",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "者所遗忘，但在那些真正强大的修行者心目中，这个名字始终都是人间最强大的名字。\n　　很多人都在猜，夫子究竟有多高。\n　　知守观观主和悬空寺讲经首座，曾经惨败于夫子棒下，他们曾经以为自已大概能推算出夫子有多高，然后他们发现自已错了。\n　　柳白因为夫子多年不问世事，猜测夫子应该处于传说中的清静无为境界，但",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "尘。\n　　雨消风停，被光明与黑暗割裂的天空，回复了正常，露出湛蓝的碧空，碧空上飘着朵朵白云，远处甚至出现了像云般的羊群。\n　　“日落沙明天倒开？还是不对。”\n　　夫子看着碧空白云摇了摇头，随意把手中的剑往南方一扔，然后负手于后，带着宁缺和桑桑向黑色马车走去。\n　　刺眼恐怖的光明威压消失，阴寒恐怖的黑",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "静无为境界，但今天他震撼地发现，原来自已还是错了。\n　　贺兰城头。\n　　黄杨大师看着远处的碧空白云，感慨说道：“天启十三年春天，书院开学，陛下在书院主持典礼，我与国师在道畔离亭里下棋，我曾问他夫子究竟有多高。”\n　　皇帝陛下问道：“青山如何答？”\n　　“国师老师曾经说过，夫子有好几层楼那么高。我当时",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "有云自生，有电自云中生，然而怎样也无法摆脱那把人间之剑。\n　　无数龙鳞剥离，就像无数光镜，在荒原上空缓缓飘浮，向着地面落下，反耀着天空里的光明，把整个世界都照耀成了暮色下难以安静的河水。\n　　每一片龙鳞落下，荒原上便会燃起一团天火。\n　　无数人在天火里惨嚎翻滚，然后死云，化为青烟虚无。\n　　人间之剑",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "为境界，但今天他震撼地发现，原来自已还是错了。\n　　贺兰城头。\n　　黄杨大师看着远处的碧空白云，感慨说道：“天启十三年春天，书院开学，陛下在书院主持典礼，我与国师在道畔离亭里下棋，我曾问他夫子究竟有多高。”\n　　皇帝陛下问道：“青山如何答？”\n　　“国师老师曾经说过，夫子有好几层楼那么高。我当时说，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "第六十章 人间之剑（下）\n　　这几十年里，夫子从来没有出过手，以至于渐渐要被世间百姓所遗忘，甚至就连修行世界里的人，也偶尔也忘记他的存在。\n　　在只有极少数人知道的那些传说故事里，夫子用的武器是一根棒子，宁缺以亲自惨痛经历确认，夫子的武器确实是一",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "剑一样感到了荣幸和骄傲。\n　　……\n　　……\n　　古剑破云自万里外而来，落在夫子手中。\n　　夫子双脚离开荒原地面，飘摇而上青天。\n　　黑色的罩衣被风吹的呼啸作响，反射着天空里的光明，把那些圣洁炽热的昊天神辉，尽数耀成了无数细碎的金片。\n　　宁缺抱着桑桑，望向天空，脸上写满了震撼的神情。\n　　老师终于",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

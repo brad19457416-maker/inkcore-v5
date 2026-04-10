@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 258,
+  "chapter_title": "第一百九十六章 抄还抄了个错的！",
+  "filename": "ch_0258_第一百九十六章 抄还抄了个错的！.txt",
+  "char_count": 4715,
+  "timestamp": "2026-04-10T12:04:51.106267",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "商秋依然没有开口，她轻轻地翻着那些数据，似乎遇到了极为为难的事情。许久之后，她深深地吸了一口气，缓缓说道：“刚才科学院的崔教授说两台机甲到最后差不多同时崩溃，我想先解释一下这个问题。”\n\n    “果壳的小白花机甲最后的崩溃，那是因为承受了长时间的外力打击，这一点必须承认操控紫海的机师所拥有的强大战",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "远湖院长道德上的问题，对大师偶像的美好想像一旦幻灭，那会带来精神上的痛苦，所以绝大多数人们宁肯不知道真相，只生活在那些报纸和期刊所营造的崇高假象中。\n\n    商秋有些自嘲地在心里想着，自己何尝不是如此呢？在许乐用数据，用计算，用今天的事实说服自己之前，她又怎么可能相信林远湖院长会做出那些事情来？",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "紫海改造成小白花，有这个必要？”\n\n    这句话回荡在指挥大厅内，科学院区域内的教授专家们都露出了愤怒的神情，因为双方的设计理念虽然相同，但基础的核心数据及函数模型却是分头进行的研究，果壳方面凭什么一口咬定，科学院的如果要进行修正，便只能重走果壳的旧路？\n\n    商秋微微低下头，轻声说道：“之所",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "果壳的小白花机甲最后的崩溃，那是因为承受了长时间的外力打击，这一点必须承认操控紫海的机师所拥有的强大战斗力。而紫海的崩溃却是内部的引擎错误，在日后与帝国间的战斗中，哪一条更为致命，这是一个很简单的逻辑问题。”\n\n    说到这里，商秋的话语顿了顿，她习惯性地用俏直的手指尖顶了顶鼻梁上的镜框，指甲上没",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "下，引擎会出现的致命问题。”\n\n    “让我们继续顺着科学院的设计思路向下计算，因为那个错误参数的存在，导致紫海的４电子喷流器设计还是走的第一条道路，这样所产生的后果……便是先前一号机的引擎忽然滞灭。”\n\n    安静的指挥大厅里，商秋用简单的语言，加上光屏上那些一目了然的推算过程，将紫海机甲先前",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "持不了三分钟。”\n\n    说完这句话，商秋连通了手中的数据存储盒与桌面上的仪器。指挥大厅的光屏上，出现了几张复杂的结构设计图，以及几处不涉及保密的函数模型重要参数偏差。\n\n    看着光屏上那些滚动着的图纸以及参数分析，专家教授们渐渐安静，感觉到这整件事情开始向着诡异的方向发展。指挥大厅里随着这些",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "痛苦，所以绝大多数人们宁肯不知道真相，只生活在那些报纸和期刊所营造的崇高假象中。\n\n    商秋有些自嘲地在心里想着，自己何尝不是如此呢？在许乐用数据，用计算，用今天的事实说服自己之前，她又怎么可能相信林远湖院长会做出那些事情来？\n\n    她不准备再说些什么了，所以她合上了自己准备了很久的计算数据",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "来也不愿知道林远湖院长道德上的问题，对大师偶像的美好想像一旦幻灭，那会带来精神上的痛苦，所以绝大多数人们宁肯不知道真相，只生活在那些报纸和期刊所营造的崇高假象中。\n\n    商秋有些自嘲地在心里想着，自己何尝不是如此呢？在许乐用数据，用计算，用今天的事实说服自己之前，她又怎么可能相信林远湖院长会做出",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "实验室条件下所做的引擎内壁裂痕绘制，那些裂痕呈放射状散开，有迹可遁，触目惊心。\n\n    “旧月卡琪山上那台紫海机甲已经进入了回收程序，稍后可以把紫海机甲引擎爆机后的残余痕迹，与我事先计算出来的这张图纸进行对比，便可以很清楚地知道，紫海机甲所采用的核心数据，以及函数模型，正是果壳早已经掌握了的数据。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "无言以对，没有勇气再做任何辩解。\n\n    台上的商秋脸上的失望情绪溢于言表，她重重地呼吸了几次，才压抑下心头复杂的情绪，准备下台。\n\n    然而就在这个时候，看台上林远湖院长缓缓地站了起来，问道：“你还有什么想要问的吗？”\n\n    商秋沉默了很久，说道：“我们计算出来的紫海引擎故障时间，应该是",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "第一百九十六章 抄还抄了个错的！ \n\n    到果壳的技术代表上台，指挥大厅里马上变得比先前t多，紧接着便是再次掌声响起，这次的掌声小了一些，却也持久了一些。果壳的技术人员们激动地看着台上那个年轻的技术主管，他们比谁都清楚，在机甲的研制中，这个天才的女博士发挥了怎样决定性的作用",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "后，商秋依然没有开口，她轻轻地翻着那些数据，似乎遇到了极为为难的事情。许久之后，她深深地吸了一口气，缓缓说道：“刚才科学院的崔教授说两台机甲到最后差不多同时崩溃，我想先解释一下这个问题。”\n\n    “果壳的小白花机甲最后的崩溃，那是因为承受了长时间的外力打击，这一点必须承认操控紫海的机师所拥有的强",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "了极为为难的事情。许久之后，她深深地吸了一口气，缓缓说道：“刚才科学院的崔教授说两台机甲到最后差不多同时崩溃，我想先解释一下这个问题。”\n\n    “果壳的小白花机甲最后的崩溃，那是因为承受了长时间的外力打击，这一点必须承认操控紫海的机师所拥有的强大战斗力。而紫海的崩溃却是内部的引擎错误，在日后与帝",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "长时间的外力打击，这一点必须承认操控紫海的机师所拥有的强大战斗力。而紫海的崩溃却是内部的引擎错误，在日后与帝国间的战斗中，哪一条更为致命，这是一个很简单的逻辑问题。”\n\n    说到这里，商秋的话语顿了顿，她习惯性地用俏直的手指尖顶了顶鼻梁上的镜框，指甲上没有涂抹任何东西，十分清爽漂亮。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "指控，但也是事实，因为早在此次对战之前，我与工程部另一位技术主管，已经通过原始数据，推算出紫海机甲，进入超频状态之后，坚持不了三分钟。”\n\n    说完这句话，商秋连通了手中的数据存储盒与桌面上的仪器。指挥大厅的光屏上，出现了几张复杂的结构设计图，以及几处不涉及保密的函数模型重要参数偏差。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

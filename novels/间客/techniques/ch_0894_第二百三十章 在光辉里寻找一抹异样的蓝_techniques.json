@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 894,
+  "chapter_title": "第二百三十章 在光辉里寻找一抹异样的蓝",
+  "filename": "ch_0894_第二百三十章 在光辉里寻找一抹异样的蓝.txt",
+  "char_count": 4627,
+  "timestamp": "2026-04-10T12:05:17.634111",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "是无处不在绝不停歇的搜捕追杀。\n\n    联邦的城市，对于此刻殖后已经没有芯片的他来说，反而更像是片危险的原始森林，那些冰冷的金属探头和楼间巷头的联邦民众，随时可能变成最可怕的毒蛇信和惊鸟，为他带来最强悍的敌人。\n\n    他翻过围墙，用最短的时间在郊区某幢民宅内弄了身干净衣服和一顶帽柁极宽的帽子，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "里骤然响起尖锐的警报声，后方的街道上传来清晰的警笛声，更令人感到恐惧的是，前方军事学院的二教学楼方向天空中，有三架漩喷式武装直升机正在高迫近，机舱旁半 固定的达林机炮黑寒夺日。\n\n    终于被追上了，比计算中鹄时间要早了半分钟，看来为了追杀自己，向来官僚气息浓郁的政府机构，终于展觋了前所未有的高效",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "场电影的情侣和刚刚结束晨练的老人们，在街道上微笑着行走。\n\n    许乐扛帽橱压的更低了些，快穿行在人群之中，身体因为紧张而感到有些僵硬，他知道如果被人认出了自己，那么人们脸上宁静祥和的微笑，在变成片刻愕然这后，绝对会再次变化为他不想看到的模样。\n\n    走过热闹的街头，穿过泛着青菜粥和煎合成肉香",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "让无所不在的宪章光辉现，许乐并不清楚，他只是在赌博，短直的黑里隐隐现出湿意，直到钻进幽深的地下通道，紧张的情绪才稍微缓解了一些。\n\n    密若蛛网，四通八达西德敫的城市地下系统，无论是在帝国天京星，港都还是都，都能给他带来最强大的安全感，然而在翻越电子围墙，重新回到人类社会的第一天，在幽暗的地下水",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "地向加固透明墙上劈了 下去。\n\n    迸迸迸三记沉闷的斧斫巨响，坚硬的透明墙出现无数道细密的裂痕，瞬间后，簌然倒塌，在地面四处溅飞。\n\n    握着太平斧继续沉就向前，许乐仿佛回到了多年前的那个夜晚，当年为 了阻止林远湖窃取沈老教授的数据，他就是用手中的这把斧头，硬生生向前劈去，结果却劈出 了一个",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "对使团进行搜捕，那么我必须警告你，谈判随时可能破裂！ 联邦必须承担起全部责任！”\n\n    木恩先生愤怒激动地挥舞着手臂，对冲进来的联邦士兵表达最激烈的抗议，然而李疯子一脸冷漠，根本看都不看他一眼，直接一脚踹开了面前的房间。畚间里空无一人。\n\n    负责接待使团的联邦高级官员，匆忙走到门口，擦着汗",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "复的阅读，在网络上搜集了所有的相关程序，并且为那种极恐怖的可能做了非常细致的准备。\n\n    从某种意义上说，许乐是除了封余之外，最了解宪章光辉运作模式的人类，甚至比宪章局员工更加了解。\n\n    因为老东西的关系，他这几年根本没有机会动用到这些知识储备和应对措施，直到此时此刻。\n\n    沉就站在",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "从东林逃亡到都星图，直封做黑梦之前的近一年时间里，许乐一直过着紧张的生活，害怕被宪章光辉现自己的 秘密，他把多达七十万字的宪章条款进行了反复的阅读，在网络上搜集了所有的相关程序，并且为那种极恐怖的可能做了非常细致的准备。\n\n    从某种意义上说，许乐是除了封余之外，最了解宪章光辉运作模式的人类，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "片危险的原始森林，那些冰冷的金属探头和楼间巷头的联邦民众，随时可能变成最可怕的毒蛇信和惊鸟，为他带来最强悍的敌人。\n\n    他翻过围墙，用最短的时间在郊区某幢民宅内弄了身干净衣服和一顶帽柁极宽的帽子，然后迅离开，从一处标准民用 废水处理基站，进入了地底地下通道。\n\n    这伞过程中有没有扫描系统",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "道这个问题。\n\n    按照精密地图的指引，他用几天的时间横穿黄松野生 动物保护区里最大的那片草原，来到西北方向的另一堵漫漫电子围墙外，望着远处隐约可见的都特区建筑物天际线，眼睛眯了起来，知道一旦翻墙而过，迎接自己的必将是无处不在绝不停歇的搜捕追杀。\n\n    联邦的城市，对于此刻殖后已经没有芯片的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "不休，于最近的一处通道口，爬了出去。\n\n    地表之上热闹无比，正是阳光最曼妙的时刻，初冬的寒意被缓缓驱散，看早场电影的情侣和刚刚结束晨练的老人们，在街道上微笑着行走。\n\n    许乐扛帽橱压的更低了些，快穿行在人群之中，身体因为紧张而感到有些僵硬，他知道如果被人认出了自己，那么人们脸上宁静祥和的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "我那两个下属在哪里？这个问题应该是我问你们，而不是你们来问我 ！我真没有想到，民主自由的联邦，居然会出现如此无礼的场面，你们是哪个单位的 ！”\n\n    “如果你们坚持对使团进行搜捕，那么我必须警告你，谈判随时可能破裂！ 联邦必须承担起全部责任！”\n\n    木恩先生愤怒激动地挥舞着手臂，对冲进来的",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "部尖锐的警报声非常刺耳，紧急灯光不停闪烁，少数还在加班的研究人员依据相关条例，停留在自己的工作间中，同时把房间坚不可摧的合金门完全锁死。\n\n    一道加固透明材料墙拦在了许乐面前，通道后方大门处正在响起暴烈的破门声，如果他无法解决面前这堵忽然出现的墙，那么马上就会被无穷无尽的联邦士兵生生压死。“原",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "踹开了面前的房间。畚间里空无一人。\n\n    负责接待使团的联邦高级官员，匆忙走到门口，擦着汗水低声说道：“上校，麻烦注意一下外交影响。”\n\n    李疯子面无表情盯着空无一人的房间，并不感到意外，没有做任何解释，带着那帮精锐强悍的军人向楼外走去，打了一个电话后坐进防弹军车，在关闭车门之前，他下意识",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "下系统，无论是在帝国天京星，港都还是都，都能给他带来最强大的安全感，然而在翻越电子围墙，重新回到人类社会的第一天，在幽暗的地下水道里走了不到四百米，这种安全感忽然离开了他的身体，取而代之是某种诡异的被窥视感和强烈的直觉危险。\n\n    许乐骤然停住脚步，抬头望向侧上方那盏昏暗的备感应灯，浓黑的眉毛皱",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "大家厚爱。至于别的事情，就不说什么了，我自我调适，明天三更，后天三更，大后天还是三更，因为回家了，很温暖，很有力量，大家明天见www.xiaoshuotxt。com\n\n\n\n第四卷星光流年",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

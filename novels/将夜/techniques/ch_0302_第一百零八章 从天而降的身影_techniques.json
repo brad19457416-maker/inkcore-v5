@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 302,
+  "chapter_title": "第一百零八章 从天而降的身影",
+  "filename": "ch_0302_第一百零八章 从天而降的身影.txt",
+  "char_count": 3476,
+  "timestamp": "2026-04-10T12:11:21.673533",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "缺用空出来的左手揉了揉小白狗的脑袋，发现竟从它的身上感受到了某种熟悉而亲近的气息，眉头不由皱了起来，心想魔宗山门里有小师叔的衣钵，所以自己感到亲近熟悉倒也罢了，这只狗又算是怎么回事？难道是小师叔以前的宠物？\n　　明明嘴里含着一根人类手臂，甚至肚子都感到了人肉的味道，但却没办法咬下去，连舔两口解解馋都",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "下场。\n　　这次突袭阴险而突然，如果是一般人根本无法逃脱快如闪电的一咬。\n　　然而宁缺这一辈子都在和危险的猎物打交道，对这种兽类的动作反应最为敏锐，对丛林里的危险最为机警，哪里会着这种道？\n　　当指尖触着的狗颈处传来一丝极轻微的蓄力感觉时，他便反应了过来，右手向前猛地塞进小白狗的嘴里，接着毫不留情地",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "影，愕然想道，难道天上真的能掉下一个仙女来？\n　　然而当那只破旧的小皮靴在视野中迅速扩大，挟着恐怖的风声离他脸面越来越近时，他终于明白天上掉下来的不是仙女而是一个要自己命的家伙。\n　　锃的一声剑啸！\n　　叶红鱼一直在警惕对方的出现，暗中隐蕴念力很长时间，便在那个身影快要砸到宁缺之前，道诀一释，一道无",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，那人已经来到了斜后上方的云雾里，而当说到的字时，距离地面上的三人已经极近。\n　　云雾急剧扰动不安，瞬间破开一大片，然后一个身影像从天穹上落下的石头般，呼啸自斜上方的绞索处跳了下来，向宁缺的位置跳过去。\n　　宁缺提着小白狗回头望向雾间，看着那个速度奇快绝然不似凡人的绰约身影，愕然想道，难道天上真的能",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "兽，所以有些手生需要熟悉一下对方的生理构造。\n　　便在这个时候，隐在极淡雾后的吊索上，忽然传来了道极愤怒的吼声，因为距离极远而那道声音迅速靠近的原因，那清亮愤怒的声音被压缩的更加尖利。\n　　“谁！敢！动！我！的！……”\n　　……\n　　……\n　　清亮愤怒声音响起时明显还在很遥远的山谷深处，而当说到动字",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "这只雪白的小狗，微微警惕，然而却没有说什么。\n　　宁缺看着小白狗雪一般的绒毛，不知道想起了什么，感慨说道：“我以前一直想养一头漂亮的萨摩，但一直没有机会，没想到结果却撞到了你。”\n　　莫山山听不懂萨摩是什么，不过看着那只小白狗虽然痛苦地乱蹬着后蹄，淌着口水还那般可爱，不免有些同情宁缺的手段过于残忍，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "神情。\n　　“你在山门里遇见了什么事情，实力居然下降的如此严重……我明明看见你在雪崖上已经晋入知命，为什么你这时候只有洞玄的水准？”\n　　叶红鱼脸色微白，唇角露出一丝自嘲的笑容，却没有回答对方的问题。\n　　宁缺看了她一眼，在魔殿里与莲生大师那场惨痛的生死厮杀，他一直有很多疑惑，隐约猜到了某种可能，直",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "终于明白天上掉下来的不是仙女而是一个要自己命的家伙。\n　　锃的一声剑啸！\n　　叶红鱼一直在警惕对方的出现，暗中隐蕴念力很长时间，便在那个身影快要砸到宁缺之前，道诀一释，一道无形剑意极幽寂地刺向那个身影。\n　　那个自雾中跳下的人一声轻哼，双拳在身前做了个十字封，竟是用自己的肉身强行封住了叶红鱼凝念已久",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的身影\n　　那只小白狗很乖巧很可爱，睁着汪汪的眼睛，无辜地望着宁缺。\n　　宁缺怔怔看着它，脑子里转过无数个念头。\n　　忽然，小白狗水汪汪的眼睛里忽然露出一丝得意的神情，猛地张开嘴，露出不长却已经足够锋利的牙齿向宁缺的手腕狠狠咬去，那劲头似乎要把他的手咬断！\n　　前一刻还非常无辜可爱的小白狗，下一刻便",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "……”\n　　……\n　　……\n　　清亮愤怒声音响起时明显还在很遥远的山谷深处，而当说到动字时，那人已经来到了斜后上方的云雾里，而当说到的字时，距离地面上的三人已经极近。\n　　云雾急剧扰动不安，瞬间破开一大片，然后一个身影像从天穹上落下的石头般，呼啸自斜上方的绞索处跳了下来，向宁缺的位置跳过去。\n　　宁",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

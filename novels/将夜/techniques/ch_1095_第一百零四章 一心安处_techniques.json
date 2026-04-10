@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1095,
+  "chapter_title": "第一百零四章 一心安处",
+  "filename": "ch_1095_第一百零四章 一心安处.txt",
+  "char_count": 3429,
+  "timestamp": "2026-04-10T12:11:34.954993",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的房。\n　　“跟我回家。”宁缺对她说道。\n　　桑桑没有回答他，也没有把手从他的手里抽出来，望着窗外的风雪出神。\n　　宁缺知道她没有出神或者走神，因为她是神，她还在这里。\n　　“跟我回家。”他重复说道。\n　　桑桑望向他，面无表情问道：“回哪个家？你最早那个家？”\n　　这一次轮到宁缺沉默。\n　　桑桑说道",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "着侧卧静眠的自己，眼中流露出好奇的神情。\n　　“当然，我最先去的渭城，我总以为那里对你我有比较重要的意义，你可能会呆在那里，可惜没有找到你，嗯，我在那里杀了很多人。”\n　　宁缺忽然停止了述说，沉默了很长时间后，说道：“我不想说了……痛哭一场，捅自己一刀，逼着你出来，那没意思，反正我来了……”\n　　他",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "个世界的规则集合体，如果你要毁灭这个世界，我便没有办法再继续存在下去。”\n　　宁缺说道：“以前我也很担心，但现在不……因为神国里还有一个昊天，而你现在已经变成了一个人，你不会有事的。”\n　　桑桑看着他面无表情说道：“你怎么证明？”\n　　宁缺看着她隆起的腹部，说道：“这难道还不是证明？”\n　　桑桑站起",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "又像是最脆的琉璃从高空落到地面，碎了，然后开了。\n　　昏暗的光线，渐渐弥漫整个空间，从一丝直至万缕，最终照亮整间木屋，照亮桌上侧卧的石像，照亮宁缺的脸，也映出她的身影。\n　　宁缺看着久别的她，看着她臃肿的腰身，看着她身上简陋的兽皮衣裳，莫名心酸起来，上前把她拥进怀里，紧紧地抱着。\n　　桑桑面无表情任",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "他还是看不到她，但他知道她就在这里，所以他开始说话。\n　　“隆庆死了。”\n　　他停顿了会儿，继续说道：“在燕北，我杀了他……我也没想到，这件事情会这么简单的结束，在我原先的安排里，我准备把他废掉，然后把他关进魔宗山门，让他永世不得解脱，就像小师叔当初对莲生那样。”\n　　“但后来一想，这其实很没有",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "你不会有事的。”\n　　桑桑看着他面无表情说道：“你怎么证明？”\n　　宁缺看着她隆起的腹部，说道：“这难道还不是证明？”\n　　桑桑站起身来，走到窗边，看着远方不知何处，说道：“新教在世间传播日久，道门逐渐衰败，我变得越来越虚弱，这又说明什么？”\n　　这说明她依然还是昊天。\n　　“也有可能是因为……怀孕",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "桑桑与他隔的极近，如果没有那道屏障，或者可以听见彼此的呼吸声，听着他的话，她的神情依然冷漠，睫毛却缓缓落下，似有些疲惫。\n　　“我去了烂柯寺，雕了很多石像……你的像。”\n　　宁缺从怀里取出石像，搁到窗前的桌上，说道：“不知道你还记不记得，那年生病的你在禅院里说的那些话，但我还记得。”\n　　桑桑望向",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "亡的世界，宁缺和桑桑的说法都没有错，因为彼此的立场不同。\n　　宁缺沉默了很长时间，然后说道：“人类的命运终究要由人类自己决定，你没有必要继续承担这个责任，那样太累。”\n　　桑桑说道：“我曾经对你说过，我爱世人，只爱爱我的世人，世人的先祖选择了我，我便要继续承担这个责任。”\n　　“这个讨论没有意义。”",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，回首望向那个木屋，情绪有些不安。\n　　宁缺忽然转身，牵着它重新走到木屋前，推门而入。\n　　屋内依然一片黑暗，没有一丝灯光，空荡荡的，没有人。\n　　宁缺松开缰绳，走到窗边，望向雪海。\n　　桌上那盏油灯亮着，桑桑静静地看着他。\n　　他还是看不到她，但他知道她就在这里，所以他开始说话。\n　　“隆庆死了。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

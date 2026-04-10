@@ -1,0 +1,141 @@
+{
+  "novel": "间客",
+  "chapter_number": 660,
+  "chapter_title": "第二十三章 棘条在谁身",
+  "filename": "ch_0660_第二十三章 棘条在谁身.txt",
+  "char_count": 2260,
+  "timestamp": "2026-04-10T12:05:08.549336",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "极高，然后迅速低落。\n\n    帝**务大臣柏乌亲王，他是陛下的亲兄弟，皇族和大师范府当年的那些纠葛秘密对于他来说并不是秘密，他很清楚纳斯里这个名字对皇帝意味着什么，在震惊于这名联邦军人与纳斯里关系的同时，更有些黯然地想道，陛下既然让自己听到这些事情，大概心中已经做了决断。……帝国皇帝怀夫差缓缓站起",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "了一个很致命的问题如果帝国皇室时封余的能力非常了解知道他有手段取出颈后的芯片那么怎么会不防范着自己的逃亡。\n\n    李匹夫这种人不会有私生子。”怀夫差漠然说道再你又是一个会八稻的联邦人那你就自然就是纳斯里的儿子。”\n\n    想到先前帝国皇帝和那名贵族间的对话许乐愈发感觉古怪为什么帝国人坚持认为自",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "。……帝国皇帝怀夫差缓缓站起身来。长袍如流云倾泻而下他没有理会场间一人的震惊错愕看着拍乌亲王面无表情说道卡顿的死我本不需要向你解释但我没有想到。你会愚蠢到这种地步。你们总说这个世界上没有人能够在那样的情况下杀死卡顿所以他的死一定是我的阴谋是怀草诗的决断而此时。纳斯里的后人亲口承认是他杀死了卡顿你还有",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "封余的儿子而没有想到是学生难道正如怀草诗曾经说过的那样八稻真气这种古怪的玩意儿真的是一种血统论的无聊存在。\n\n    这是很简单的推论很有趣的是整个宇宙中大概也只有几个人能够推论出来。”怀夫差面容冷淡。并不显得有趣现在我的问题在于他既然死了二十几年来我蕴积着的怒火应该向谁去诉。”\n\n    有风自楼",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "异常明亮全身瘫疾的他本应感受不至痛楚但这种被凌辱的折磨似乎让他痛在心里。\n\n    呼啸风过他的下颌出现一道凄惨的血口。\n\n    他没有眯眼明亮的眼眸瞪的圆怒无比盯着面前那个疯狂的君王。喷着血沫吼叫道**你妈”\n\n    （差六章并两千字　小＿说txt天＿堂",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "秘密对于他来说并不是秘密，他很清楚纳斯里这个名字对皇帝意味着什么，在震惊于这名联邦军人与纳斯里关系的同时，更有些黯然地想道，陛下既然让自己听到这些事情，大概心中已经做了决断。……帝国皇帝怀夫差缓缓站起身来。长袍如流云倾泻而下他没有理会场间一人的震惊错愕看着拍乌亲王面无表情说道卡顿的死我本不需要向你解",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "手于身后目光悠远望楼外悠远之云悠悠说道但我很难接受你们会因为这样一个愚蠢的理由而动手我更不愿意为自己从来没有做过的事情承担道德上的责任。”\n\n    拍乌亲王不再回答任何话沉默地整理衣着然后向栏边走去。\n\n    栏杆尽头几名军人正等着逮捕这位贵族叛乱的幕后主使。\n\n    拍乌集王笑了笑满是皱纹的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "以为，除了费城李家那少数几人之外，这个世界上没有人知道自己和封余之间的关系，然而谁能想到，在远离故土无数光年之外的帝国，面前这位皇帝陛下居然一语道破了无数玄机。\n\n    站在金色向日葵屏风旁的怀草诗和软榻前的那位白发贵族，比他的反应要更大一些，听到纳斯里这个名字后，向来冷静从容的怀草诗惊愕地抬起了",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，在远离故土无数光年之外的帝国，面前这位皇帝陛下居然一语道破了无数玄机。\n\n    站在金色向日葵屏风旁的怀草诗和软榻前的那位白发贵族，比他的反应要更大一些，听到纳斯里这个名字后，向来冷静从容的怀草诗惊愕地抬起了头，贵族的眉梢挑的极高，然后迅速低落。\n\n    帝**务大臣柏乌亲王，他是陛下的亲兄弟",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "里关系的同时，更有些黯然地想道，陛下既然让自己听到这些事情，大概心中已经做了决断。……帝国皇帝怀夫差缓缓站起身来。长袍如流云倾泻而下他没有理会场间一人的震惊错愕看着拍乌亲王面无表情说道卡顿的死我本不需要向你解释但我没有想到。你会愚蠢到这种地步。你们总说这个世界上没有人能够在那样的情况下杀死卡顿所以他",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

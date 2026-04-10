@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 478,
+  "chapter_title": "第二百八十二章 井里井外",
+  "filename": "ch_0478_第二百八十二章 井里井外.txt",
+  "char_count": 3519,
+  "timestamp": "2026-04-10T12:11:21.758299",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "勺子，但如果让我不停敲下去，天长地久敲下去，这座山峰依然会让我拍松，拍的表面松动，岩石化粉簌簌落下，最终山倒地摇。”\n　　说完这句话后，宁缺把手里的大黑伞递给桑桑。\n　　桑桑接过大黑伞，看着他说道：“是的，少爷，你肯定会赢的。”\n　　隔着一片湖，同时触发数百道符纸，宁缺的念力急剧消耗，脸色有些苍白，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "怕，再微弱的符意，混在那些切割空间的湍流里，都仿佛具有了某种特殊的威力。\n　　夏侯站在这片符意的海洋风暴中间，站在天地元气流湍的漩涡里，脸上的情绪很复杂，有些伤感，又有些愤怒。\n　　因为他清楚地记得，这是他最忠诚的下属，军溪谷溪的施符秘法，他没有料到，宁缺在今夜战斗里，居然用的是这种手段。\n　　寒冷",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "。\n　　夏侯站在这片符意的海洋风暴中间，站在天地元气流湍的漩涡里，脸上的情绪很复杂，有些伤感，又有些愤怒。\n　　因为他清楚地记得，这是他最忠诚的下属，军溪谷溪的施符秘法，他没有料到，宁缺在今夜战斗里，居然用的是这种手段。\n　　寒冷的雪风，狂暴的夜风，灼热的火焰，令人窒息的湿意，各种截然不同的符意，被",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "白，但他的眼光却依然平静，看着湖对岸缓缓抬起右臂。\n　　他的手指颤抖不安，似乎指间用无形的线悬着一座沉重的山峰。\n　　他缓缓移动右臂，在身前的风雪中，画了两横两竖四根线，无形而凝重的线条，指向雁鸣湖对岸的宅院。\n　　宅院里。\n　　满天狂舞的黄纸尽皆化为虚无，耀眼的光线渐渐敛没，狂暴而恐怖的符意，依然",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "的冰霜顿时破碎，然后他向前踏了一步，盔甲上的薄冰也随之破裂，啪啪落在地上。\n　　不过至少，夏侯在这一瞬间，需要以念力凝天地元气于体表，而无法再像先前那般，只凭强悍的身躯和拳头，便能随意相抗。\n　　湖畔宅院里的战斗并未暂时告一段落，就在下一刻，无数道黄色的符纸，从宅院里那些不起眼的角落里激射而出。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "要以念力凝天地元气于体表，而无法再像先前那般，只凭强悍的身躯和拳头，便能随意相抗。\n　　湖畔宅院里的战斗并未暂时告一段落，就在下一刻，无数道黄色的符纸，从宅院里那些不起眼的角落里激射而出。\n　　密集的黄色符纸，纷纷扬扬不停飘舞，密集有如从屋顶洞口落下的雪花一般，围绕着夏侯的身体飞舞着，旋转着。",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "像先前那般，只凭强悍的身躯和拳头，便能随意相抗。\n　　湖畔宅院里的战斗并未暂时告一段落，就在下一刻，无数道黄色的符纸，从宅院里那些不起眼的角落里激射而出。\n　　密集的黄色符纸，纷纷扬扬不停飘舞，密集有如从屋顶洞口落下的雪花一般，围绕着夏侯的身体飞舞着，旋转着。\n　　随着不知来自何处的念力波动来临，像",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "风，狂暴的夜风，灼热的火焰，令人窒息的湿意，各种截然不同的符意，被一只无形的手捏合在了一处，没有任何道理，却是那般的可怕。\n　　夏侯神情漠然握拳，身上那件已经残破的外衣，撕撕作响而飞，露出里面崭新的盔甲，紧接着以雄浑至极的念力，于天地元气的湍流中抽出他所需要的，凝于自己的体表，形成一道无形却坚固至极",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "这个画面很美丽，也很震撼，符纸是如此的珍贵，过往历史上的修行战斗中，谁曾见过如此多数量的符纸同时出现？\n　　紧接着，更多的符纸被激发，无数道符意纠结在一起，将周遭的天地元气撕扯的有如碎絮，变成无数湍流。\n　　元气湍流很可怕，再微弱的符意，混在那些切割空间的湍流里，都仿佛具有了某种特殊的威力。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "。\n　　这个画面很美丽，也很震撼，符纸是如此的珍贵，过往历史上的修行战斗中，谁曾见过如此多数量的符纸同时出现？\n　　紧接着，更多的符纸被激发，无数道符意纠结在一起，将周遭的天地元气撕扯的有如碎絮，变成无数湍流。\n　　元气湍流很可怕，再微弱的符意，混在那些切割空间的湍流里，都仿佛具有了某种特殊的威力。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，震撼说道：“都知道小师弟吝啬，哪里能想到他今夜居然弄出如此奢阔的手笔。”\n　　唐小棠的手有些凉，既担心朋友桑桑现在的情况，又震撼于湖畔那些符纸所带来的冲击力，喃喃说道：“原来符是这般可怕的事物。”\n　　……\n　　……\n　　雁鸣湖南岸山崖畔，宁缺睁开眼睛，看着远处对岸宅院处的火树银火符纸风暴，听着隐",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "我出来战个痛快。”\n　　桑桑看着湖对岸蹙眉说道：“但他的实力太强大，符海似乎对付不了他。”\n　　“我从来不指望这片符风暴能够直接击败夏侯，毕竟我不是神符师，我洒在花盆里的那些符纸，或许只能在他的盔甲上像飞蛾扑火般变成无用的青烟，但可能有符会切断他的一根眼睫毛。”\n　　他接着说道：“一根眼睫毛掉落，算",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "隔着一片湖，同时触发数百道符纸，宁缺的念力急剧消耗，脸色有些苍白，但他的眼光却依然平静，看着湖对岸缓缓抬起右臂。\n　　他的手指颤抖不安，似乎指间用无形的线悬着一座沉重的山峰。\n　　他缓缓移动右臂，在身前的风雪中，画了两横两竖四根线，无形而凝重的线条，指向雁鸣湖对岸的宅院。\n　　宅院里。\n　　满天狂",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "行走，未见有任何动作，身前一堵灰墙轰然倒塌，他看着夜色深沉处，看着宅院南向那些隐隐可见的湖柳处，微嘲说道：“不是神符，又如何伤得了我？你既然急于去死，那便去死。”\n　　……\n　　……\n　　雁鸣湖是不规则的，湖西岸相对较窄，也较遥远，那处湖水清浅，有人修了一道木桥行于湖面，可赏湖中水草。\n　　时值寒冬",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

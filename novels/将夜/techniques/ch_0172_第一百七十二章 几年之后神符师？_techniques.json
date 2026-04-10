@@ -1,0 +1,219 @@
+{
+  "novel": "将夜",
+  "chapter_number": 172,
+  "chapter_title": "第一百七十二章 几年之后神符师？",
+  "filename": "ch_0172_第一百七十二章 几年之后神符师？.txt",
+  "char_count": 6878,
+  "timestamp": "2026-04-10T12:11:12.011686",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "了那片山崖元气于其内。”\n　　“第一道符必然是巧合是自发的存在，而当那位大修行者发现那些剑痕所蕴藏的秘密之后，他必然会再次尝试，如果他再次成功，那第二道符便不再是巧合，而是自觉的存在。”\n　　宁缺问道：“但也有可能那位修行者这一生都没有写出第二道符。”\n　　颜瑟大师看着他说道：“第一位修行者没有成功",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "师咿咿呀呀惊呼连连，狼狈地叩倒在地，对着燃烧的图画不停磕头，臀部上的兽皮因为恐惧而不停颤抖。部落里的人们，听到巫师的尖叫声纷纷冲进了崖洞，然后他们也看到那幅燃烧的图画，恐惧地集体跪到在地，哭着喊着以为是某种邪崇。\n　　巫师是部落里最有智慧的人，他清醒冷静下来之后，把所有人都赶出了崖洞。燃烧的图画渐渐",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "到的些许笔意，全部写进了那张帖里，才会入了大师您的法眼。”\n　　说完这话，宁缺下意识里转头向离亭外的天空望去，心想难道冥冥之中真有天意？\n　　颜瑟大师微笑说道：“不是昊天选择你，而是你有能力有天资赢得这种选择。”\n　　……\n　　……\n　　“大师，先前您随手一画，便有一捧清水打到我脸上。我知道这就是符",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "定式之符依托外物，无论笔墨刻痕还是雕像，画符需要的时间很长，但最后产生的威力更大。无物之符为不定式，瞬间便能完成，但威力一般。”\n　　听着定式和不定式两个词，宁缺同学的思想为之一振，想起那些熟悉的动词特征，土土土土之类的东西。然后他马上清醒过来，想到自己是在离亭之内学习符道，而不是在特长班上学英语。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "天赋这种东西说不清道不明，更何况还是要用这种说不清道不明的东西去实现最关键的那一笔？\n　　“如果符道最终靠的是天赋，那么人世间第一个发现符道的修行者，看到天地间的符纹痕迹，下意识里临摹取意，写出第一道符，按照您的说法，符道无法传承，那么他如何能把……”\n　　他斟酌了一下用词，继续说道：“把这种文明传",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "意，全部写进了那张帖里，才会入了大师您的法眼。”\n　　说完这话，宁缺下意识里转头向离亭外的天空望去，心想难道冥冥之中真有天意？\n　　颜瑟大师微笑说道：“不是昊天选择你，而是你有能力有天资赢得这种选择。”\n　　……\n　　……\n　　“大师，先前您随手一画，便有一捧清水打到我脸上。我知道这就是符，只是难道",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "静下来之后，把所有人都赶出了崖洞。燃烧的图画渐渐熄灭，他看着洞壁上残留的焦黑痕迹，犹豫了很长时间后，紧张地伸出手指轻轻触摸，渐渐他的眼睛亮了起来，转身在洞里找到先前那块红色石块，颤抖着试图重新画出那幅画。\n　　那天之后，巫师再也没能画出燃烧的图画，但他已经成为了高原周边最了不起的巫师。\n　　……",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "太难太艰辛，传承到今日则已经无法用艰辛二字来表容，直似一夫当关般悲壮，所以当我发现你有潜质，才会如此激动，而你既然幸运地拥有这种潜质，一定要珍惜，不止为了你自己珍惜，也是为了符道本身而珍惜。”\n　　宁缺听到了不尽沧桑感慨萧索意，身体微感僵硬，仿佛看到无数万年间的那些画面。\n　　……\n　　……\n　　远",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "然心有所感中，凝念于腰畔剑中，随意一挥便凝了那片山崖元气于其内。”\n　　“第一道符必然是巧合是自发的存在，而当那位大修行者发现那些剑痕所蕴藏的秘密之后，他必然会再次尝试，如果他再次成功，那第二道符便不再是巧合，而是自觉的存在。”\n　　宁缺问道：“但也有可能那位修行者这一生都没有写出第二道符。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "数万年间的那些画面。\n　　……\n　　……\n　　远古，一位穿着兽皮的部落巫师，在主持完一次祭天仪式后，来到崖洞里休息。那位部落巫师一边唱着意味难明的歌曲，一面拣起块红色石块在洞壁上画了一幅画。\n　　那位巫师本想描述今天那堆火燃的特别好特别漂亮特别红，然而没有想到，那幅画只完成了一大半便在洞壁上燃烧起来",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "然无法将符道最核心也应该是最简单的道理传承下去。”\n　　“我年龄太大，已经没有办法跨过那个门槛，如果日后你有机会迈过那个门槛，那我相信符道的传承将成为一件容易的事。到那时以符书大道，挥手动山河……这听上去仿佛是神迹，但我坚信总有一天人可以做到这件事情，而这也应该是符道必须做到的事情。”\n　　颜瑟大师",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "手臂，食指在身前的空气中极简单的画了画。\n　　离亭中的空气骤然变得干燥起来，一蓬微弱的火苗神奇地莫名出现在宁缺眼前，然后噗的一声消失，唬得他差点儿从地上跳起来。\n　　颜瑟大师微笑说道：“你那位朋友说雪山气海是弦，这个说法不错。符的线条也可以认为是弦，弹一首天地能懂的曲子，但我还是以为用文章来形容更准",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "颜瑟大师给自己倒了杯茶润了润嗓子，抬起头来继续说道：“这些都是前贤智慧的结晶，你以后参详天地痕迹的同时，不要忘了参考这些符文。”\n　　“先前就说过，这些是前代符师用他们的文字写出来的只属于他们的文章，你就算抄袭的本事再强，能把范文全部默写一遍，但阅卷老师还是看不懂。”\n　　宁缺遗憾说道：“我知道，",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "蓬微弱的火苗神奇地莫名出现在宁缺眼前，然后噗的一声消失，唬得他差点儿从地上跳起来。\n　　颜瑟大师微笑说道：“你那位朋友说雪山气海是弦，这个说法不错。符的线条也可以认为是弦，弹一首天地能懂的曲子，但我还是以为用文章来形容更准确，符不止让天地听懂旋律的美妙，还可以更清晰地传意表达想法，于动静之外另觅更细",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，越细腻越好，然后根据看到的画出天地元气流淌的痕迹。”\n　　“看不到怎么画？”\n　　“修行者看世界，从来不会用眼睛去看。”\n　　“那就是感觉？”\n　　“不错，凭感觉去画。”\n　　“随便怎么瞎画都行？”\n　　“那你先把自己眼睛给戳瞎了。”\n　　颜瑟大师没好气瞪了他一眼，伸手从身后拿出几本书扔给他。",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "界里依然有符道。”\n　　颜瑟大师看着低着头的宁缺神情凝重说道：“能找到你这样一个传人，我这辈子便已经满足了，然而令人感到悲伤的是，符道的传承正如先前所说，只能传承其精神却无法传承其技法，所以符道的精神能否不在我这根线上断绝，终究还是要看你自己。”\n　　宁缺俯身行礼，应道：“我一定争取不让大师失望。”",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

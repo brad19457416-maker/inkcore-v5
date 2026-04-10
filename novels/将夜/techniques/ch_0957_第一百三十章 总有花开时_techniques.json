@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 957,
+  "chapter_title": "第一百三十章 总有花开时",
+  "filename": "ch_0957_第一百三十章 总有花开时.txt",
+  "char_count": 3363,
+  "timestamp": "2026-04-10T12:11:27.598998",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "洞里，忽然出现一道极明亮的光，那是天光。\n　　一道极深的裂缝，从原野深处，蔓延到地面。\n　　紧接着，大地震动，崖壁坍塌，崩出无数石块泥土，在天坑东面，塌陷出一个十余里长的豁口，画面令人极度震撼。\n　　斜向天坑塌陷的豁口里，有无数蚁窟，有无数鼠洞，有无数秋草的根与被偷的果实，石间有极细的水流，渐渐染湿",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "，能生前一切已往，能算身后一切未来，自然能够算得到今日之事。”\n　　大师兄平静说道：“老师思考千年，最终才想出法子把她留在人间，佛祖能算得到老师的手段？佛祖能算到小师弟的本事？还是说佛祖能算到昊天被我书院分成了两个存在？不，佛祖什么都算不到。”\n　　他的语气很寻常，神情很平静，却透着份自有光彩的自信",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "都不敢离开半步。”\n　　首座说道：“看一年，是因为我要看。”\n　　这句话首尾两个看字，读音可以不同，意义也自会不同，前一个看字是看守，后一个看字是看见，或者说去看。\n　　大师兄问道：“您要看什么？”\n　　首座的两道银眉在秋风里轻轻飘拂，说道：“看佛祖，看众生。”\n　　君陌没有听懂，摇了摇头，把手里的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "首座说道：“不是想进便能进。”\n　　大师兄说道：“首座您难道没有想过，我们既然已经拿到了棋盘，为什么没有离开，而是来到崖坪上？”\n　　首座银眉微飘，若有所察。\n　　大师兄望向青树，伸手轻抚树叶，说道：“这就是那棵梨树？”\n　　首座沉默不语，青藤后的七念诸僧神情微变。\n　　大师兄说道：“听说这棵",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "上，却不敢上前，听着这话，纷纷合什行礼，七念和戒律院三长老也来到了此间。\n　　这场书院与悬空寺之间的战斗，看上去似乎是书院占了上风，但只要书院没有办法把棋盘打开，那么便注定是输家。\n　　君陌终于停下，忽然说道：“不能打开，那便进去。”\n　　大师兄微笑说道：“此言甚是有理。”\n　　首座说道：“不是想进",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "的光，那是天光。\n　　一道极深的裂缝，从原野深处，蔓延到地面。\n　　紧接着，大地震动，崖壁坍塌，崩出无数石块泥土，在天坑东面，塌陷出一个十余里长的豁口，画面令人极度震撼。\n　　斜向天坑塌陷的豁口里，有无数蚁窟，有无数鼠洞，有无数秋草的根与被偷的果实，石间有极细的水流，渐渐染湿乱石。\n　　首座坐在乱石",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "上。\n　　这根木棍不是要虎口夺食，而是要以身饲虎。\n　　首座顿时觉得气息微窒，从虎口到手腕再到胸间，颤抖不安，一身金刚佛骨喀喀作响，仿佛下一刻便会碎开。\n　　他本来只想伸出一只手，因为一只手便可以拦住君陌的铁剑，却未想到，来的却是那根木棍，他想不明白，书院二人难道能够看穿人类的想法？\n　　大师兄和君",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "而且他发现，这两个书院弟子，竟是真的准备天长地久无绝期地砍下去，他暂时还不想死，他还没有看到佛祖重新出现在人间，所以他必须要做些什么，虽然他清楚那样做的后果。\n　　铁剑再次落下，首座松开紧紧抱着棋盘的手，单手合什在身前，举的有些高，刚好挡在铁剑去路的前方。\n　　首座的手没有握住那道铁剑，因为就在他松",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "佛祖。\n　　首座懂了，于是他沉默了很长时间。酒徒在西陵神殿那间石屋里听观主说过，所以他早就懂了，才会来到这里，帮助佛宗。\n　　佛祖为昊天布下生死局，但他哪里能算到，今日的昊天已经变成了两个，用大师兄的话来说，这个局还有什么意义？\n　　“没有意义。”\n　　在极短的时间内，首座变得苍老了很多，因为他明确",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "”\n　　君陌没有听懂，摇了摇头，把手里的铁剑换了个边，继续砍向棋盘。\n　　首座神情微变，酒徒神情愈发凝重，他们都没有想到，君陌停手，不是因为放弃，而只是因为他要把手里的铁剑换个边――那么，就算铁剑真的被砍废了，他也会换个东西，继续去砍吧？\n　　大师兄忽然说道：“佛祖的棋盘砍不开，昊天也杀不死。”",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "手合什在身前，举的有些高，刚好挡在铁剑去路的前方。\n　　首座的手没有握住那道铁剑，因为就在他松手的那瞬间，大师兄也松开了手，握着木棍，便向他砸了下来，重重地砸在他的虎口上。\n　　这根木棍不是要虎口夺食，而是要以身饲虎。\n　　首座顿时觉得气息微窒，从虎口到手腕再到胸间，颤抖不安，一身金刚佛骨喀喀作响，",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "了棋盘！\n　　首座看着大师兄和君陌，神情悲苦，又有惘然解脱诸等神情变幻不停于其间，声音低沉如钟，悯然说道：“没有用。”\n　　什么没有用？就算你们拿到棋盘也没有用，你们不可能打开棋盘，把里面的昊天和宁缺救出来，因为这是佛祖留下的法器，在烂柯寺没有烂，便永远也不会烂，它已经超脱了时间的规则，真正的金刚不",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "经被君陌的铁剑挑走。\n　　酒徒站在塌陷的崖壁边缘，看着这幕画面，脸色骤变，君陌回复到青峡前的境界，李慢慢更是境界提升极快，这令他极为震撼警惕，然而他依然没有想到，这两个人居然能够真的破了首座的金刚不坏，而且抢走了棋盘！\n　　首座看着大师兄和君陌，神情悲苦，又有惘然解脱诸等神情变幻不停于其间，声音低沉",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

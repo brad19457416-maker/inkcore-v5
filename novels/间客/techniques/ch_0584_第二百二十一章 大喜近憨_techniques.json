@@ -1,0 +1,154 @@
+{
+  "novel": "间客",
+  "chapter_number": 584,
+  "chapter_title": "第二百二十一章 大喜近憨",
+  "filename": "ch_0584_第二百二十一章 大喜近憨.txt",
+  "char_count": 2523,
+  "timestamp": "2026-04-10T12:05:08.574065",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "双颊深陷的安布里老将军怔怔望着枪口冒出的青烟，脸上闪过一丝自嘲的表情，前任陛下最喜欢这种仿古枪，风华正茂的自己因为军功得到一把，当时自己曾嘲讽地自问这把老枪能不能打死人……\n\n    能打死人，老枪至乒能够打死老人。\n\n    红若血光的斜阳之下，旦哟行星上的帝国远征军最高长官安布里，开始认真地",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“胜利！胜利！”\n\n    许乐有些麻木地回应着身周的一切，但不知道为什么，情绪却出乎意料的平静，在众人肆意狂欢的气氛中，他有些沉默地拿了一瓶烈酒，悄无声息地穿过人群，来到空港驻留地侧边一处小山坡前。\n\n    天上厚云依旧，冻雨如昨临身，他的身体却有些热，感觉不到寒冷，不知道是酒精的缘故还是别的原",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "国崽子们，去死吧！”\n\n    “胜利！胜利！”\n\n    许乐有些麻木地回应着身周的一切，但不知道为什么，情绪却出乎意料的平静，在众人肆意狂欢的气氛中，他有些沉默地拿了一瓶烈酒，悄无声息地穿过人群，来到空港驻留地侧边一处小山坡前。\n\n    天上厚云依旧，冻雨如昨临身，他的身体却有些热，感觉不到寒",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "招呼、满杯啤酒和极为用力的手掌，半天后才明白究竟是什么样的事情，令留守地面枯燥度日快要疯的官兵们如此激动。\n\n    “头儿，我们赢了！”\n\n    “许乐中校，干杯！”\n\n    “帝国崽子们，去死吧！”\n\n    “胜利！胜利！”\n\n    许乐有些麻木地回应着身周的一切，但不知道为什么，情绪却",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "已经灌入了腹中，他脸上带着一丝绯红之色，望着脚下山坡底本应是丘陵草场如今却是一片泥湖的所在，忽然开口说道：“我们赢了？“\n\n    “是的。“宪章电脑在他的左眼瞳里闪过字符。\n\n    “打仗死了这么多人，我从来没有想像过，只是埋头睡了一觉，就能听到胜利的消息口“许乐挠了挠脑袋，平静的脸上浮现出一丝",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "道路，绝不投降的他们只有绝望，剧情永远不会再有后续的展……\n\n    一声清脆的枪声，那名侍卫官眉心出现了一个血洞，摔倒在地。\n\n    双颊深陷的安布里老将军怔怔望着枪口冒出的青烟，脸上闪过一丝自嘲的表情，前任陛下最喜欢这种仿古枪，风华正茂的自己因为军功得到一把，当时自己曾嘲讽地自问这把老枪能不能",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "眉心出现了一个血洞，摔倒在地。\n\n    双颊深陷的安布里老将军怔怔望着枪口冒出的青烟，脸上闪过一丝自嘲的表情，前任陛下最喜欢这种仿古枪，风华正茂的自己因为军功得到一把，当时自己曾嘲讽地自问这把老枪能不能打死人……\n\n    能打死人，老枪至乒能够打死老人。\n\n    红若血光的斜阳之下，旦哟行星上",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "正如当年麦德林为了自己的目的，而盗用了理想的名义，让无数没有任何武力，只有一腔热血与改变社会不公强烈意愿的年轻人，去充当炮灰的角色，正是他所不能容忍的事情。\n\n    他所不耻，是无辜者受害，是正面的名词被用来当作罪恶的通行证。\n\n    坐在山丘冰冷的草甸中，许乐不停地灌着烈酒，望着脚",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "我们赢了？“\n\n    “是的。“宪章电脑在他的左眼瞳里闪过字符。\n\n    “打仗死了这么多人，我从来没有想像过，只是埋头睡了一觉，就能听到胜利的消息口“许乐挠了挠脑袋，平静的脸上浮现出一丝有些憨憨意味的笑容。\n\n    对于帝国远征军最后的凄惨境遇，许乐没有丝毫生命消亡的同惘之感，而是无比欢愉地",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "为什么，情绪却出乎意料的平静，在众人肆意狂欢的气氛中，他有些沉默地拿了一瓶烈酒，悄无声息地穿过人群，来到空港驻留地侧边一处小山坡前。\n\n    天上厚云依旧，冻雨如昨临身，他的身体却有些热，感觉不到寒冷，不知道是酒精的缘故还是别的原因。\n\n    三点五升装的琥珀色烈酒一小半已经灌入了腹中，他脸上带",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "经摔断，就连爬行都是如此的团难，他只能徒劳地伸出手，想要抓住一些什么。\n\n    安布里的手臂微僵，缓缓低下了头颅，苍苍白在浓郁红日中是那般的刺眼，长时间的沉默之后，他回过头来，望着这名忠诚的下属微微一笑，涩重的笑容里带着一丝劝慰的意味。\n\n    如果这只是一出战地悲歌般的戏剧，失败方的将军想必会",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

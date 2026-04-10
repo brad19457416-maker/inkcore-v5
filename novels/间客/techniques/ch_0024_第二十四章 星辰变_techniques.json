@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 24,
+  "chapter_title": "第二十四章 星辰变",
+  "filename": "ch_0024_第二十四章 星辰变.txt",
+  "char_count": 2559,
+  "timestamp": "2026-04-10T11:53:11.030700",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "乡，一生不再回到联邦。\n\n    而此时少年手腕手镯里……便藏着可以完美伪装的芯片！这代表着什么样的意义，在强烈的情绪冲击下，许乐不能清晰地掌控，但他只知道一点，一块芯片便代表着一个全新的人生。他还想到了老板当初说过的那句话，能够研究出伪装芯片并且付诸实践的人，必将获得联邦科学的最高荣誉，星云奖。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "声巨响外。\n\n    也正是这种震撼，让许乐忽视了手镯另一个令人折服的工艺处理，指纹认证和开启在那一刹那完成。这本身不是什么特别难的事情，然而在这样粗细的一根金属手镯上快速完成，也说明了很多事情。\n\n    ……\n\n    ……\n\n    “我说过，这是我送给你的礼物。”封余似乎不知道自己随手扔给许",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "界不开，会伤神，如果可以改，就改一改。”\n\n    “星辰之间没有造物主，也没有什么光辉需要崇拜，最危险的地方就是最安全的地方，但是这句话只能相信三次。”\n\n    “今日之后忘记我，这四年之事一应拉倒，埋掉，不要奢望去寻觅什么公平和报酬，更不要去搞报仇这种无聊的事情，我又不是你老爸，我又没对你存多",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "定便会被联邦政府判处无期徒刑。可是无论如何，许乐依然被震撼了，需要什么样的知识的力量，才能与联邦文明最强大的宪章光辉相抗衡？\n\n    他愕然地回头看着封余有些疲惫和苍老的脸，张嘴许久，却说不出话来，他这一生未曾如此被震撼过，或许除了十二年前那声巨响外。\n\n    也正是这种震撼，让许乐忽视了手镯另",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "这是什么？”\n\n    矿车在坑道里滑行的速度渐渐降了下来，打铁一般的当当响声渐趋平缓，让许乐声音的颤抖格外明显。[阅读文字版，请上]少年一惯稳定的手也在抖动，摸着左手腕上光滑的手镯，隐约猜到什么，却不敢相信。\n\n    封余没有回答。\n\n    忽然间，零点七cm粗细的金属手镯随着许乐指腹的触摸，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "许乐根本不知道这些事物是如何组合在这样小的面积上，又是怎样发挥作用，但很简单地便和封余先前所说的那个秘密联系在了一起。\n\n    伪装芯片？能在第一宪章的光辉下，通过一切监控检测的伪装芯片！\n\n    许乐的后颈又寒冷了起来，因为他知道自己的颈椎深处，也隐藏着一个类似的芯片，陪伴了自己十七年之久。更",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "，我已经说过原因了。”封余毫无表情地看着少年青涩的脸，说道：“而且这东西只能一个人用，不要问我原因，将来你也不要尝试着用这些芯片去救别的人的命。去吧……换一个身份，去首都星圈，过一个全新的人生，用另一种方法实现你的人生理想。”\n\n    另一个身份？另一种生活？许乐忽然呆了，老板的话，手腕上真实的冰",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "……\n\n    “我说过，这是我送给你的礼物。”封余似乎不知道自己随手扔给许乐的手镯，如果出现在联邦社会里会引起怎样的轩然大波，说道：“如果你不想因为我的关系被捉进监狱关上几年，找点儿时间，找点儿空间，把你脖子里那块芯片取出来，换上手镯里的一个。身份资料和操作方法，都在光幕里，你自己去学…",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "乐很担心这些金属丝会随时被震断。那些微亮的金属粒太小了，小的似乎没有一丝重量，随时可能被矿坑里幽幽的风刮拂而走，再也追寻不到丝毫踪迹。\n\n    在一般人的眼中，这些金属线和小小微亮的金属粒或许只是非常精致而易碎的工艺品，但许乐跟随着封余学习了四年的机修，对一切人类机器文明的结晶都有一份天成的敏感，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "眨地盯着自己的手腕，就像看见了并不存在于世间的神仙或是妖怪。那些金属线太细了，矿车的震动太大，许乐很担心这些金属丝会随时被震断。那些微亮的金属粒太小了，小的似乎没有一丝重量，随时可能被矿坑里幽幽的风刮拂而走，再也追寻不到丝毫踪迹。\n\n    在一般人的眼中，这些金属线和小小微亮的金属粒或许只是非常精",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "是我送给你的礼物。”封余似乎不知道自己随手扔给许乐的手镯，如果出现在联邦社会里会引起怎样的轩然大波，说道：“如果你不想因为我的关系被捉进监狱关上几年，找点儿时间，找点儿空间，把你脖子里那块芯片取出来，换上手镯里的一个。身份资料和操作方法，都在光幕里，你自己去学……以你的本事，应该不是什么难事儿。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "……\n\n    “我说过，这是我送给你的礼物。”封余似乎不知道自己随手扔给许乐的手镯，如果出现在联邦社会里会引起怎样的轩然大波，说道：“如果你不想因为我的关系被捉进监狱关上几年，找点儿时间，找点儿空间，把你脖子里那块芯片取出来，换上手镯里的一个。身份资料和操作方法，都在光幕里，你自己去学……以你的本",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "类似的芯片，陪伴了自己十七年之久。更准确地说，联邦每一位公民的身体里都有这样的芯片……而且无数年来，从来没有人能够仿造这种芯片，甚至也没有人敢于尝试取出芯片，除非他决定逃往它乡，一生不再回到联邦。\n\n    而此时少年手腕手镯里……便藏着可以完美伪装的芯片！这代表着什么样的意义，在强烈的情绪冲击下，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "隐藏着一个类似的芯片，陪伴了自己十七年之久。更准确地说，联邦每一位公民的身体里都有这样的芯片……而且无数年来，从来没有人能够仿造这种芯片，甚至也没有人敢于尝试取出芯片，除非他决定逃往它乡，一生不再回到联邦。\n\n    而此时少年手腕手镯里……便藏着可以完美伪装的芯片！这代表着什么样的意义，在强烈的情",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

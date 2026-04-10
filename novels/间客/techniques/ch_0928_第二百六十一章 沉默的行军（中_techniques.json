@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 928,
+  "chapter_title": "第二百六十一章 沉默的行军（中",
+  "filename": "ch_0928_第二百六十一章 沉默的行军（中.txt",
+  "char_count": 2564,
+  "timestamp": "2026-04-10T12:05:26.922234",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "要证据，回自己的报社或总编室看去，早在两周皂『前，这些东西我已经提交给了司法部和你们，我很疑惑的是，为什么没能在任何一张报纸和任何电视画面上看到那些内容？”\n\n    “我非常欢迎帕布尔总统以此罪名控告我，诬谄是自诉案件，做为律师出身的他，应该清楚不能安排司法部官员直接逮捕我，那么我将有机会在法庭上",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "提出告诉，等同于诬诌。”\n\n    邰之源苍白瘦削的脸颊上，忽然泛起两抹红晕，不是因为激动，不是因为愤怒，而是因为浓浓的嘲讽，他静静看着那位记者，片刻后微笑说道：“你是邮报的记者，难道你没有收到我办公室发过去的电子文件？我不相信你没有阅读过，关于古钟号及相关案件背景调查的疑点汇总，既然如此，你凭什么",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "上，忽然泛起两抹红晕，不是因为激动，不是因为愤怒，而是因为浓浓的嘲讽，他静静看着那位记者，片刻后微笑说道：“你是邮报的记者，难道你没有收到我办公室发过去的电子文件？我不相信你没有阅读过，关于古钟号及相关案件背景调查的疑点汇总，既然如此，你凭什么敢用诬谄这种词语来……诬谄我？”\n\n    不等这位邮报",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "辩论，只希望他不要退却。”\n\n    临时营地旁的临时新闻发布会，进行到此时陷入一种紧张或者说慌乱的寂静之中，记者们看着这位联邦历史上最年轻的大区议员，一时不知道该说些什么，依旧还是那位邮报记者开始提问。\n\n    “在传闻中，有七个家族一直隐藏.在黑幕之中，暗中统治联邦，也就是所谓的七大家。邰议员",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "!”\n\n    联邦最值钱的资源是什么？是晶矿。联邦最重要的资源是什么？是晶矿，身处宇宙大时代的人类社会，不可一日无晶矿，从某种意义上来说，晶矿是比粮食更加不可或缺的社会基础。\n\n    为了晶矿-，早年的联邦不惜消耗大量人力物力远赴边陲星区，炸了一颗伴月，毁了一支舰队，埋进数万条人命，终于成功地在",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "起。\n\n    酒喝的差不多了，我慢慢也找着点感觉了，这个月基本上很悲摧，二十一号回大庆，我到时候多爆发爆发，补偿大家，鞠躬请疼爱……u.　小＿说t-x-t＿天/堂",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "资源是什么？是晶矿。联邦最重要的资源是什么？是晶矿，身处宇宙大时代的人类社会，不可一日无晶矿，从某种意义上来说，晶矿是比粮食更加不可或缺的社会基础。\n\n    为了晶矿-，早年的联邦不惜消耗大量人力物力远赴边陲星区，炸了一颗伴月，毁了一支舰队，埋进数万条人命，终于成功地在东林建立了晶矿基地，而如今的",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "连左天星域之主，帝国皇帝都感到震惊的大手笔，如此之手笔，史书之上未曾见过，甚至是幻想的戏剧之中都未曾出现.\n\n    联邦政府，帝国皇室，都能做得到？谁能想的到？\n\n    情人节快乐，同志们，banb搞了个情人节征文活动，咳-咳，我是评委，大家伙有兴趣的就去玩一下。另外，间客的席勒杯征文，我明天开",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第二百六十一章 沉默的行军（中 \n\n    镇旁燃烧着野火，人群的狂欢还在继续，空气中飘拂着酒精和桅子花混杂的诡异味道，临时营地东侧，邰之源和他的助手，被十几名来自联邦各大媒体的记者包围，他所面对的第一个问题，就极为直接    “议员先生，你的目的究竟是什么？",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "邮报记者毫不示弱地反驳，并且隐隐带上了恶毒的揣测意味。\n\n    “我不能阻止别人怎么称呼我，同时，我是一个什么样的人也不会\n\n    因为一个称呼就发生任何变化。”\n\n    邰之源依旧平静，摊开双手对记者们说道：“如果你们喜欢，你们也可以这样称呼我。”\n\n    就在这个时候，宿营地外侧走",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "由此可见晶矿的重要性。\n\n    数万年前，邰氏皇朝和平退位，共和开端，依据当年的协议，莫愁后山一直拥有联邦所有晶矿资源的开采提炼等所有衍生权利。凭借这种特权，这个人丁零落的前皇族，悄然无声积累了超过铁算利家的恐怖资产，在七大家中始终处于超然的领袖地位，可以与联邦政府平起平坐，甚至可以说一直紧",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "委，大家伙有兴趣的就去玩一下。另外，间客的席勒杯征文，我明天开始看起。\n\n    酒喝的差不多了，我慢慢也找着点感觉了，这个月基本上很悲摧，二十一号回大庆，我到时候多爆发爆发，补偿大家，鞠躬请疼爱……u.　小＿说t-x-t＿天/堂",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

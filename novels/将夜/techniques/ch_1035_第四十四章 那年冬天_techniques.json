@@ -1,0 +1,232 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1035,
+  "chapter_title": "第四十四章 那年冬天",
+  "filename": "ch_1035_第四十四章 那年冬天.txt",
+  "char_count": 3381,
+  "timestamp": "2026-04-10T12:11:34.954122",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "己都认输了，她的道门又如何能够胜利？\n　　崖外的世界是人间，放眼过去都是雪，莽莽沧沧一片，根本分不清天空与地面，仿佛都已经连在了一起。\n　　“那又如何呢？终究是人类自己的事情，昊天死了，那便再寻个新的昊天，道门灭了，那便再创个新的道门，如此而已。”\n　　观主如是说。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "昊天终究会灭亡。”\n　　观主的笑意忽然敛去，再无表情，眼睛深处的情绪却变得极复杂，初始惘然甚至畏惧，最终还是化作了平静的井底秋水。\n　　“但……那又如何？”\n　　道门之主说道门会毁灭，昊天最虔诚的信徒、最强大的代言人说昊天会死去，如果这番话流入人间，会带来怎样的震荡与混乱？\n　　说出这段话的观主却已",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "在师徒二人的对话里，车队渐行渐远，不多时便消失在风雪深处，依然没有人知道国师将去哪里，要做些什么，但人们知道，国师在等着一个人的出现，等着那道铁箭的来临，自然，也在等着昊天的选择。\n　　……\n　　……\n　　人间的事情，由昊天决定，简单来说，那便是天注定，这三个字里透着股无可奈何的意味，也有顺命的从容",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "等着观主的选择，所有人都在等待着观主的选择……\n　　只有隆庆仿佛什么都不知道，听不到墙外传来的数千人紧张的呼吸声，没有收到来自神殿的最新消息，他觉得院子里堆的柴堆不够壮观，重新拾起柴刀，有些不熟练地砍着柴，想象着稍后的火焰。\n　　黑夜渐渐漫长，人间渐渐变凉，温暖的西陵神国，在今年冬天也落了好大的几场",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "想看到道门镇之以静？但……这说不通。”\n　　中年道人抬头望向夜穹里那轮明月，想着遥远的神国可能发生的战斗，皱眉说道：“夫子渐暗，时间拖的越久对书院越不利。”\n　　观主坐在轮椅里，看着月光下的世界，平静不语。\n　　中年道人忽然明白了，说道：“原来这也是他想要的。”\n　　涉信仰根本，他只能隐约体悟，却无",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的箭意，现在他没有出手，则是因为风雪深处缓缓驶来的那列车队。\n　　巡游草原的国师大人，离开了贺兰城，来到了七城寨。\n　　没有人知道他来这里做什么，没有人敢违逆他的意……即便阿打也不行，他虽然是长生天留给草原的礼物，也是国师大人名义上的弟子。\n　　车队在雪中停下，国师沧桑而宁静的声音撕裂风雪，进入阿打",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "踩断，就像是人间的命运线。\n　　“宁缺给我讲的那个故事很有趣，用书院的话来说，很有意思，那么便是很有意义，确实很难说服人，至少很能唬人。”\n　　观主笑着说道：“问题在于，他的那个故事里没有上帝，那个世界里没有上帝，但我们的世界里，真的有昊天。”\n　　中年道人的神情变得越来越凝重，脚步都变得有些沉重，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "上表达了对国师的无上尊敬，因为他坚信只要国师来了，那么南方那道铁箭便伤不到自己。\n　　金帐国师的境界究竟有多高，哪怕在光明祭后，依然没有准确的概念，尤其是今年春天那场雨后，谁知道这位侍奉长生天极为虔诚的草原强者又有没有什么增益，在他警惕戒备的前提下，再加上那十余名强大的草原大祭司，宁缺的铁箭或者真的",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "渐远，不多时便消失在风雪深处，依然没有人知道国师将去哪里，要做些什么，但人们知道，国师在等着一个人的出现，等着那道铁箭的来临，自然，也在等着昊天的选择。\n　　……\n　　……\n　　人间的事情，由昊天决定，简单来说，那便是天注定，这三个字里透着股无可奈何的意味，也有顺命的从容。然而桑桑已经离开人间，她如",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "很多年后，宁缺走过那条陋巷，听到巷深处传来的朗朗书声，听着那个熟悉的声音给孩童们讲解历史，很是感慨，因为当时正好说到某年冬天发生的那些事情。还有很多人和他的感受相同，每每回忆起那年冬天，都会觉得有些不甘、有些伤感、却也有些庆幸，情绪很是复杂。\n　　无论是何种情绪，那年冬天必然成为无法被人间遗忘",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "这也是他想要的。”\n　　涉信仰根本，他只能隐约体悟，却无法用言语说清。\n　　随着这句话，崖坪上的温度骤然降低，寒风透骨而至，明月依然当空，不知何处的云却落下雪来，这雪来的很快，雪片极厚，纷纷扬扬，哗哗啦啦，没有多时便把崖上铺了一层，轮椅上也落了一层。\n　　观主自然也被雪片覆盖，从他双唇间缓缓淌出的言",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "没有出手。\n　　最开始是因为他感受到南方万里之外那道毁灭一切的箭意，现在他没有出手，则是因为风雪深处缓缓驶来的那列车队。\n　　巡游草原的国师大人，离开了贺兰城，来到了七城寨。\n　　没有人知道他来这里做什么，没有人敢违逆他的意……即便阿打也不行，他虽然是长生天留给草原的礼物，也是国师大人名义上的弟子。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "中年道人推着轮椅向崖坪那边走去，轮椅在雪面上留下两道深深的辙，然后被新的脚印踩断，就像是人间的命运线。\n　　“宁缺给我讲的那个故事很有趣，用书院的话来说，很有意思，那么便是很有意义，确实很难说服人，至少很能唬人。”\n　　观主笑着说道：“问题在于，他的那个故事里没有上帝，那个世界里没有上帝，但我",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "过那条陋巷，听到巷深处传来的朗朗书声，听着那个熟悉的声音给孩童们讲解历史，很是感慨，因为当时正好说到某年冬天发生的那些事情。还有很多人和他的感受相同，每每回忆起那年冬天，都会觉得有些不甘、有些伤感、却也有些庆幸，情绪很是复杂。\n　　无论是何种情绪，那年冬天必然成为无法被人间遗忘的一个冬天，因为人间在",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "伤感、却也有些庆幸，情绪很是复杂。\n　　无论是何种情绪，那年冬天必然成为无法被人间遗忘的一个冬天，因为人间在那年冬天仿佛与和平只有一擦身的距离，在书院和道门的战争夹缝里看到了一线生机，似乎有无限希望就在前方。\n　　荒凉的原野上，雪花狂暴地飞舞着，数百丈外的唐军营地，变得非常模糊，至于唐将华颖的身影，",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "柴堆不够壮观，重新拾起柴刀，有些不熟练地砍着柴，想象着稍后的火焰。\n　　黑夜渐渐漫长，人间渐渐变凉，温暖的西陵神国，在今年冬天也落了好大的几场雪，崖坪被残雪覆着，月光下，轮椅的痕迹非常清晰。\n　　中年道人站在轮椅后，神情凝重，他本以为道门以不变应万变，是破了宁缺此局的妙手，但看来观主并不这样认为。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "的声音撕裂风雪，进入阿打的耳朵：“唐人最想看到的便是我们失去理智。”\n　　阿打看着对面风雪里的唐营，说道：“我可以杀死他。”\n　　国师的声音再次响起：“那一刻，你也会被杀死。”\n　　阿打坚定说道：“您在这里，我不怕。”\n　　他是在反对国师的意志，实际上表达了对国师的无上尊敬，因为他坚信只要国师来了，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

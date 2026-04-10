@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 907,
+  "chapter_title": "第八十章 桃山雪乱",
+  "filename": "ch_0907_第八十章 桃山雪乱.txt",
+  "char_count": 2280,
+  "timestamp": "2026-04-10T12:11:27.476823",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "更是显得有些可怜。\n　　殿内只有他和叶红鱼、赵南海三人。他的声音有些疲惫，说道：“道门一定要守住这个秘密，绝对不能让世间的信徒知晓。”\n　　赵南海神情肃然点头，同意掌教的处理措施，叶红鱼面无表情看着石阶上的掌教，红裙间隐着的那把剑隐有凛然之意。\n　　掌教没有感受到她的异样，看着她急声说道：“把裁决神",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，他走进了神殿，过了很长时间后重新走出来，他脸上的神情凝重的就像是山，寒冷的就像是雪。\n　　西陵神殿众人看着掌教大人脸上的神情，知道猜测与真实相差应该不大，脸上的神情变得极其惊恐，有些老年神官更是绝望地直接昏了过去――昊天真的离开了西陵神殿？难道她要抛弃自己这些最虔诚的信徒？\n　　稍后的昊天神殿里一",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "推着轮椅随后而行，观主坐在轮椅里，神情恬静自然，身上的青衣在渐微的薄雪里是那样的清晰，颜色纯的就像是天空一般。\n　　崖坪上的数千名神官执事，看着自山下缓缓行来的三人，想着西陵神殿的清光大阵居然没有任何反应，震惊失色，待他们认出走在最前方的是隆庆，又隐约猜到轮椅里那人的身份，根本没有人敢上前拦阻。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "说道：“在你看来，最好不相见。”\n　　掌教沉默不语，他知道在观主的身前，任何解释、任何言语，都是没有意义的事情，他只是不明白对方要做些什么。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "因为毕竟他活了下来，并且可能是第一个活着走出深渊的人。谁能想到今日又有人走出了深渊，而且那人显得这般轻松随意，只似闲庭信步。\n　　他猜到对方的身份，震撼难言，手里的天书都仿佛失去了吸引力。观主的情绪也有些复杂，抬头望着自天落下的风雪，沉默片刻后感慨说道：“既然她真的离开了桃山，那么便轮到我们回去了。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "和执事们脸色苍白站在光明神殿前，根本不知道接下来应该怎么做，他们已经在风雪中站了整整一夜。\n　　情况紧急，掌教昨夜来到光明神殿前时，来不及乘坐神辇，枯瘦矮小的身躯就这样袒露在人前，雪屑挂在他稀疏的眉上，显得有些可笑，但他的神情却是那样的严肃，根本不在意自己曾经最在意的事情。\n　　再没有什么事情，比光",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "令他感到恐惧的是，他不明白为什么自己会如此恐惧对方，为什么一个废人能给自己带来如此大的压迫感。\n　　最终他还是在轮椅前跪了下来：“见过师叔。”\n　　观主说道：“你当上掌教之后，可曾唤过我师叔？”\n　　掌教低着头，说道：“师叔远游南海多年，难以相见。”\n　　观主说道：“在你看来，最好不相见。”\n　　掌",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "白站在光明神殿前，根本不知道接下来应该怎么做，他们已经在风雪中站了整整一夜。\n　　情况紧急，掌教昨夜来到光明神殿前时，来不及乘坐神辇，枯瘦矮小的身躯就这样袒露在人前，雪屑挂在他稀疏的眉上，显得有些可笑，但他的神情却是那样的严肃，根本不在意自己曾经最在意的事情。\n　　再没有什么事情，比光明神殿里发生的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "度焦虑，完全没有逾五境大强者的潇洒自如气度，看上去就像是街市间与母亲走丢的小孩子。\n　　看着掌教微微颤抖的双眉，叶红鱼的脸上流露出微讽的神色，然后她缓缓举起右手，借着帷幕后的万丈光芒，开始散发光泽。\n　　她准备出剑，只需要道心微动，道剑便将破空而去，她知道掌教虽然连遭重伤，但依然强大，可是她已经不想",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "废人，就连昊天都已经遗弃了他，而且他已经有很多年没有来过西陵神殿，可为什么他什么都不用做，只是在桃山出现，自己便迎来了众叛亲离的结局？直到此时他才明白，自己依然低估了知守观在道门里的地位和影响力。\n　　殿内一片死寂，帷幕后的万丈光芒不知何时已经敛去，就像是燃尽后的蜡烛，透着股凄凉的绝望感。\n　　掌教",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "份，震撼难言，手里的天书都仿佛失去了吸引力。观主的情绪也有些复杂，抬头望着自天落下的风雪，沉默片刻后感慨说道：“既然她真的离开了桃山，那么便轮到我们回去了。”\n　　风雪渐盛，笼罩道观以及四周的群山，吱呀声中，观门被推开，隆庆和中年道人推着轮椅走出来。观主坐在轮椅里，膝上盖着块寻常的毯子，他伸出枯瘦的",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "为他很恐惧，最令他感到恐惧的是，他不明白为什么自己会如此恐惧对方，为什么一个废人能给自己带来如此大的压迫感。\n　　最终他还是在轮椅前跪了下来：“见过师叔。”\n　　观主说道：“你当上掌教之后，可曾唤过我师叔？”\n　　掌教低着头，说道：“师叔远游南海多年，难以相见。”\n　　观主说道：“在你看来，最好不相",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "和中年道人推着轮椅走出来。观主坐在轮椅里，膝上盖着块寻常的毯子，他伸出枯瘦的手把毯上的雪屑掸掉，然后缓缓闭上眼睛。\n　　……\n　　……\n　　桃山亦在风雪中，崖坪上已经聚集了数千名神官执事，却是鸦雀无声，人们看着半成废墟的光明神殿，想起先前绝壁下方深渊里传出的巨响，隐约猜到发生了什么事情，却根本不敢相",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "震撼难言，手里的天书都仿佛失去了吸引力。观主的情绪也有些复杂，抬头望着自天落下的风雪，沉默片刻后感慨说道：“既然她真的离开了桃山，那么便轮到我们回去了。”\n　　风雪渐盛，笼罩道观以及四周的群山，吱呀声中，观门被推开，隆庆和中年道人推着轮椅走出来。观主坐在轮椅里，膝上盖着块寻常的毯子，他伸出枯瘦的手把",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

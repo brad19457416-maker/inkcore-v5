@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 701,
+  "chapter_title": "第八十二章 秋宫凉",
+  "filename": "ch_0701_第八十二章 秋宫凉.txt",
+  "char_count": 4354,
+  "timestamp": "2026-04-10T12:11:26.995160",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "对皇后娘娘的忠犬动手，这落在满朝文武的眼中，并不怎么好看，而且大人执掌天枢处多年，相信手里也握着一些秘密，拥有一些不为人知的力量，陛下不想因为君臣之间的意气之争，而产生不必要的损失。”\n　　何明池看着他微笑说道：“所以陛下想你辞官。”\n　　诸葛无仁盯着他嘲弄说道：“你觉得我会这么愚蠢？”\n　　“这和",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "说完这句话，何明池从案上拿起黄纸伞夹到腋下，走出了天枢处。\n　　……\n　　……\n　　今夜殿外没有传来风雨声，李渔反而觉得有些不适应，情绪也有些不宁，连看了几份奏折，心情也无法安定下来，甚至没有看清楚奏折里写了些什么。\n　　如今她的亲弟弟已经登基为帝，按道理来说，她的监国一职应当失效，但无论是新帝还是",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "第八十二章 秋宫凉\n　　那几名礼部官员得知钦天监监正苗大人的死亡之后，匆匆离去，脸上的神情显得有些复杂难言。\n　　那名太监首领示意徐良守跟着自已进了偏室，自行坐在椅中，脸色阴沉难看说道：“接下来你知道怎么做？”\n　　徐良守恭谨说道：“请公公明示。”\n　　太监首领轻轻敲打桌面",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "对帝位的重要性，而且这本来就是新帝登基之后的第一椿大事，结果却被迫无功而返，所以她猜到弟弟肯定会非常愤怒，却没有想到在自已不知情的情况下，他便开始动手了。\n　　借着烛光的照耀，她细细审看着诸葛无仁的辞职，想在辞呈的字句细节里，看出些更深层的东西，却一无所得。\n　　……\n　　……\n　　因为先帝灵柩未归",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "脸上的神情显得有些复杂难言。\n　　那名太监首领示意徐良守跟着自已进了偏室，自行坐在椅中，脸色阴沉难看说道：“接下来你知道怎么做？”\n　　徐良守恭谨说道：“请公公明示。”\n　　太监首领轻轻敲打桌面，说道：“咱家不懂观星之术，全听你的。”\n　　徐良守沉默片刻后说道：“公公真要卑职写？”\n　　太监首领这时",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "那些跳梁小丑根本撼动不了你，何苦贸然出手？”\n　　李珲圆笑着说道：“我还以为是什么事情，让皇姐你如此紧张慎重，原来不过是封辞呈，不错，是朕派人让诸葛无仁辞官，全大唐的人都知道，那个阴险小人是那女人养的一条狗，我可不想在宫里再看见那张可恶的脸。”\n　　李渔看他神情，便知道没有把自已的话听进心里去，神情",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "看他神情，便知道没有把自已的话听进心里去，神情凝重说道：“你要清楚长安城是不可能从外部攻破的，唯一的危险便是来自内部。陛下你如今便等于是长安城，只要不自乱便可千秋万代。”\n　　听到这番语重心长的话，李珲圆低头沉默了很长时间。\n　　然后他抬起头来，看着李渔说道：“其实我也明白这个道理，但正如皇姐所言，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "了几份奏折，心情也无法安定下来，甚至没有看清楚奏折里写了些什么。\n　　如今她的亲弟弟已经登基为帝，按道理来说，她的监国一职应当失效，但无论是新帝还是朝中两派官员，都极有默契地请求她继续监国。\n　　皇帝要她继续批改奏折，是相信皇姐的政务能力，表示自已的感恩与亲近，公主一派的官员坚持如此，实则是有些不信",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "今新帝已经登基，他只需要一道旨意，便能夺了你的官职，到那时你还剩下什么？”\n　　诸葛无仁额头上的汗珠瞬间变得更多，说道：“既然如此，你们还等什么？”\n　　“陛下刚刚登基，便要对皇后娘娘的忠犬动手，这落在满朝文武的眼中，并不怎么好看，而且大人执掌天枢处多年，相信手里也握着一些秘密，拥有一些不为人知的力",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "门观，诸葛无仁去了书院，他们想做什么难道皇姐你不清楚？”\n　　李渔沉默不语，关于南门观的事情，她并不担心，尤其是随着国师李青山病逝，那个夜晚发生的事情，再也不可能有别人知道，然而书院一直没有表明态度，这才是真正让她觉得不安的地方。\n　　书院一直封门，不要说那些忠于皇后的大臣无法进去，就是她派出的信使",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "动手，这落在满朝文武的眼中，并不怎么好看，而且大人执掌天枢处多年，相信手里也握着一些秘密，拥有一些不为人知的力量，陛下不想因为君臣之间的意气之争，而产生不必要的损失。”\n　　何明池看着他微笑说道：“所以陛下想你辞官。”\n　　诸葛无仁盯着他嘲弄说道：“你觉得我会这么愚蠢？”\n　　“这和愚蠢无关，只与时",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "如果说是因为夫子仙逝，书院封门情有可原，但那些教授们在做什么？书院二层楼里那些有资格影响朝局的人们，现在又在做什么？\n　　“皇姐，那些人不可能甘心，他们死都不愿意承认，父皇选择我继位，对待这些狼心狗肺的东西，一味宽仁只会被他们视为软弱！”\n　　李珲圆看着姐姐，狠狠说道。\n　　李渔听着这话，心头",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "居住，还是住在往年的偏殿里，只不过如今的偏殿，却要比正殿热闹繁华的多。\n　　今夜的宫殿，忽然重新变得安静起来，除了两名最受信任的太监首领守在门口，幽静的殿内没有其余人，只有姐弟二人。\n　　“当年听父皇转述过院长的一句话：治大国就像煎小鱼，不要随便去翻动，要顺其自然，谨慎行事，万万不可心急。”\n　　李",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

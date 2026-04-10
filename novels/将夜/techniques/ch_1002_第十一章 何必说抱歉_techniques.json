@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1002,
+  "chapter_title": "第十一章 何必说抱歉",
+  "filename": "ch_1002_第十一章 何必说抱歉.txt",
+  "char_count": 2255,
+  "timestamp": "2026-04-10T12:11:34.902364",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "皇城前的夜风轻轻缭绕，轻柔的风息向他的衣衫里渗去，甚至就连光线仿佛都要被他的身体所吞噬。\n　　隆庆在人们的眼中变得越来越模糊，渐要与夜色融为一体。\n　　横木立人的选择完全相反，当隆庆向后退去一步，借夜色遮掩自己，甚至把自己变成一片纯粹的黑域时，他向前踏出一步。\n　　他向着大师兄踏出一步，神情漠然而骄",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "解脱之前的那些故事，大师兄对柳亦青说抱歉，沉重而诚恳。\n　　横木立人不想柳亦青得到解脱，这让他感到很愤怒，大师兄不理他，这让他觉得自己没有受到足够的尊重，于是愈加愤怒。\n　　他寒声说道：“大先生终究还是来晚了，或者说，在这件事情结束之前你根本不敢出现，那么这时候你出现，对这个临死之人说抱歉……还有什",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "来晚了，或者说，在这件事情结束之前你根本不敢出现，那么这时候你出现，对这个临死之人说抱歉……还有什么意义？大先生不觉得这很虚伪？还是说这样能够安慰你自己？”\n　　无论如何，书院今夜始终没有出手，柳亦青必然死去，横木立人这些满含嘲讽意味的话语便是最锋利的刀刃，直诛人心。\n　　大师兄却像是根本没有听到这",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "叹息说道：“何苦？”\n　　隆庆有些不安，他觉得在大先生的目光之前，自己仿佛变得浑身赤裸，再也没有任何秘密，自己做过什么事情，想做什么事情，对方都一清二楚。\n　　于是他缓缓向后退了一步，他的身后是浓郁的夜色，只有离夜色更近些，他才会觉得更安全些，甚至会觉得更温暖些。\n　　可还是不足够，隆庆依然觉得自己",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "看着他说道：“抱歉，请放心。”\n　　直到最后，书院依然觉得抱歉，书院让他放心，他便可以放心――无论是将来的南晋，还是那些流离失所的剑阁弟子，他都不再需要担心。\n　　染着血污的白布下，柳亦青的双眼缓缓闭上，就此进入一片黑暗。\n　　这些年他早已习惯了黑暗，故而毫无畏惧，死亡与沉睡并无区别。\n　　大师兄看",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "但他受的伤极重，横木立人用无穷无尽的昊天神辉，让他暂时活着，那种活着必然会比死去更痛苦。\n　　大师兄出现在临康城，出现在皇城废墟前，站在横木立人与柳亦青之间，昊天神辉自然断绝，柳亦青即将解脱――正是因为解脱，又或者因为解脱之前的那些故事，大师兄对柳亦青说抱歉，沉重而诚恳。\n　　横木立人不想柳亦青得到",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "道：“小师弟如今和当年已经不一样了。”\n　　柳亦青微微一怔，想到一件事情，满是血污的脸上流露出笑容，感慨说道：“原来十三先生一直在长安城上看着这里。”\n　　大师兄说道：“或者看不真切，但他必然是看着这里的。”\n　　隔着染透血的白布，柳亦青看着夜色里的皇城废墟，微笑说道：“幸亏我提前想到了他可能看着这",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "没有错过。\n　　今夜，他坐在辇上，这便是他的位置。\n　　辇正对着那座曾经沧桑的城墙。\n　　坐北朝南，风水极好，适宜落葬。\n　　大师兄看着他说道：“抱歉，请放心。”\n　　直到最后，书院依然觉得抱歉，书院让他放心，他便可以放心――无论是将来的南晋，还是那些流离失所的剑阁弟子，他都不再需要担心。\n　　染着",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "天神辉自然断绝，柳亦青即将解脱――正是因为解脱，又或者因为解脱之前的那些故事，大师兄对柳亦青说抱歉，沉重而诚恳。\n　　横木立人不想柳亦青得到解脱，这让他感到很愤怒，大师兄不理他，这让他觉得自己没有受到足够的尊重，于是愈加愤怒。\n　　他寒声说道：“大先生终究还是来晚了，或者说，在这件事情结束之前你根本",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "无论是将来的南晋，还是那些流离失所的剑阁弟子，他都不再需要担心。\n　　染着血污的白布下，柳亦青的双眼缓缓闭上，就此进入一片黑暗。\n　　这些年他早已习惯了黑暗，故而毫无畏惧，死亡与沉睡并无区别。\n　　大师兄看着辇上没了气息的柳亦青，沉默了很长时间，然后他缓缓转过身来，望向隆庆和横木，说道：“何必？”",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "然觉得抱歉，书院让他放心，他便可以放心――无论是将来的南晋，还是那些流离失所的剑阁弟子，他都不再需要担心。\n　　染着血污的白布下，柳亦青的双眼缓缓闭上，就此进入一片黑暗。\n　　这些年他早已习惯了黑暗，故而毫无畏惧，死亡与沉睡并无区别。\n　　大师兄看着辇上没了气息的柳亦青，沉默了很长时间，然后他缓缓转",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "晋，还是那些流离失所的剑阁弟子，他都不再需要担心。\n　　染着血污的白布下，柳亦青的双眼缓缓闭上，就此进入一片黑暗。\n　　这些年他早已习惯了黑暗，故而毫无畏惧，死亡与沉睡并无区别。\n　　大师兄看着辇上没了气息的柳亦青，沉默了很长时间，然后他缓缓转过身来，望向隆庆和横木，说道：“何必？”\n　　说出何必二",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "于是他缓缓向后退了一步，他的身后是浓郁的夜色，只有离夜色更近些，他才会觉得更安全些，甚至会觉得更温暖些。\n　　可还是不足够，隆庆依然觉得自己有些寒冷，被人看穿的感觉太难受，他缓缓运转道念，把所有的气息都敛进身躯的最深处。\n　　敛入身体的气息，带动着皇城前的夜风轻轻缭绕，轻柔的风息向他的衣衫里渗去",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "到解脱，这让他感到很愤怒，大师兄不理他，这让他觉得自己没有受到足够的尊重，于是愈加愤怒。\n　　他寒声说道：“大先生终究还是来晚了，或者说，在这件事情结束之前你根本不敢出现，那么这时候你出现，对这个临死之人说抱歉……还有什么意义？大先生不觉得这很虚伪？还是说这样能够安慰你自己？”\n　　无论如何，书院今",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

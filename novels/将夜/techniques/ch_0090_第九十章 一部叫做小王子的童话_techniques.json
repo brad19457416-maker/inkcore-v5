@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 90,
+  "chapter_title": "第九十章 一部叫做小王子的童话",
+  "filename": "ch_0090_第九十章 一部叫做小王子的童话.txt",
+  "char_count": 3537,
+  "timestamp": "2026-04-10T12:11:12.016989",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "就讲一个小王子的童话给你听好不好？”\n　　小蛮兴高采烈说道：“好啊好啊。”\n　　宁缺躺到竹椅上，看着天空说道：“森林里有蟒蛇，它们的个头儿很大，捕获猎物之后不用嚼就这样直接囫囵吞进肚子里，然后睡上整整六个月，用这些时间去消化肚子里的食物。”\n　　小蛮睁着大大的眼睛，惊恐说道：“……好可怕，不是说童话",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "带回来的继子小蛮，从渭城到长安一路上，尤其是北山道血战之后，宁缺和小男孩儿的接触并不少。\n　　“殿下为什么不让小王子您晒太阳呢？”他笑着问道。\n　　“妈妈说那样容易晒黑。”小蛮很认真地看着宁缺解释道：“我是妈妈的儿子，是陛下认可的外孙，是大唐帝国最骄傲的贵族，所以可以黑，但不能太黑。”\n　　宁缺听着",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "”\n　　小蛮睁着大大的眼睛，惊恐说道：“……好可怕，不是说童话都是开心的吗？”\n　　宁缺瞪了他一眼，心想你可没桑桑当年乖，说道：“才刚开始，别着急……我听到这个故事的时候，对森林里那些事儿比较感兴趣，所以我按照自己的想像画了一幅画，画的就是一条大蟒蛇在吞食一头很大的野兽，我把这幅画拿给别的大人去看，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "黑脸，不知怎的就想起了卓尔，心头微感酸楚。他从椅上站起身来，向着这名很久不见的小男孩儿微微躬身，和声说道：“见过小王子。”\n　　怯生生的小男孩儿正是公主李渔从草原带回来的继子小蛮，从渭城到长安一路上，尤其是北山道血战之后，宁缺和小男孩儿的接触并不少。\n　　“殿下为什么不让小王子您晒太阳呢？”他笑着问",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "么不喜欢她？”\n　　宁缺觉得有必要让小侍女知道自己的真实想法，犹豫片刻后说道：“因为我觉得她不是传统意义上的好人，虽然她对你确实不错。”\n　　不知道为什么，这个问题上桑桑展现出罕见的执拗，认真说道：“殿下如果不是好人，那她当年为什么要去草原？她为什么对小蛮那么好？”\n　　宁缺静静看着她，忽然开口说道",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "子里的情形也画了出来。”\n　　小蛮疑惑地看着他，问道：“不是小王子的童话吗？小王子在哪儿？”\n　　“马上就出来了。”宁缺解释道：“再等一会儿就出来了。”\n　　……\n　　……\n　　没有过多长时间，公主府的教习嬷嬷和宫女们终于找到了前庭，就在这时，公主殿下也结束了与桑桑的叙旧，宁缺牵着小侍女的手，在嬷嬷",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "第九十章 一部叫做小王子的童话\n　　想着这些以他的智商阅历无法完全想明白的事情，宁缺在阳光缓缓闭上眼睛，开始在有些混乱的脑海中重新构画卓尔那张黑到不能再黑的脸，以坚定自己的信心以理清自己纷乱而惘然的思绪。春日的清丽阳光洒在公主府前庭假山旁，洒在竹椅上，洒在他的身躯上，明亮正好暖度正好，逐渐",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "么都别动感情，最后只会伤人又伤己，所以她确实挺白痴的。”\n　　“那为什么刚才少爷你没有骂？”\n　　“以后我会少骂这两个字，因为那些动感情的白痴们……都是可怜人啊。”\n　　……\n　　……\n　　（宁缺给小蛮讲童话故事，没有什么阴谋培养之类的东西，那就是童话，我想把将夜写成美好的童话，而没有太多的那些东西",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "是没有想到公主殿下对小王子的教育爱护会严谨到如此地步，笑着解释道：“偶尔晒晒太阳也不错。”\n　　前庭一片安静，小男孩儿看了看四周，发现教习嬷嬷和宫女都没有发现自己偷溜出来，小脸上露出喜色，蹦跳到竹椅旁，扯住宁缺的袖子，抑着小脸用满是企盼的目光看着他，说道：“可以讲故事给我听吗？”\n　　宁缺怔住了，没",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "族，所以可以黑，但不能太黑。”\n　　宁缺听着小男孩儿的回答，忍不住挠了挠头。他能够想像一个草原的孩子来到富庶繁华长安城后的不适应，只是没有想到公主殿下对小王子的教育爱护会严谨到如此地步，笑着解释道：“偶尔晒晒太阳也不错。”\n　　前庭一片安静，小男孩儿看了看四周，发现教习嬷嬷和宫女都没有发现自己偷溜出",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "你的猜测。”\n　　宁缺说道：“我也希望猜测是错的，我也希望这个世界上都是童话故事，王子和公主最后永远幸福的生活下去，但你看……草原上的王子死了，公主回家了。”\n　　桑桑抬起头来，一滴雨水自她微黑的脸颊上滑落，她看着他有些恼怒问道：“少爷，为什么你眼睛里的世界总是这么黑暗？”\n　　宁缺停下脚步，沉默看",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

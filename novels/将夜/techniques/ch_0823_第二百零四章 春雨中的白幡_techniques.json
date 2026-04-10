@@ -1,0 +1,245 @@
+{
+  "novel": "将夜",
+  "chapter_number": 823,
+  "chapter_title": "第二百零四章 春雨中的白幡",
+  "filename": "ch_0823_第二百零四章 春雨中的白幡.txt",
+  "char_count": 3395,
+  "timestamp": "2026-04-10T12:11:27.258730",
+  "techniques_count": 18,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "自已的名字写在了历史的耻辱柱上。\n　　消息传出，朝野哗然，谁也不知道这个漫长的夜晚里发生了什么事情，为什么皇宫里的大人物们，居然敢冒天下之大不韪，真的签了这份和约。\n　　聚集在皇城前的唐人们再也无法控制自已的情绪，愤怒地骂着脏话，对着朱红色的宫墙吐着口水，然后有些旧年的传闻在人群中流传开来。\n　　那",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "中输掉的，将来必然都会拿回来。”\n　　皇后娘娘不明白他的信心来自于何处，最终还是被他坚定的语气说服，思忖片刻后神情凝重说道：“既然如此，我签了便是。”\n　　宁缺说道：“你不能签，因为不能让你和陛下来承受民众的愤怒。”\n　　皇后说道：“但你曾经说过，书院不能签字，因为这份和约终将反悔。”\n　　宁缺说道",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "皇城前的唐人们再也无法控制自已的情绪，愤怒地骂着脏话，对着朱红色的宫墙吐着口水，然后有些旧年的传闻在人群中流传开来。\n　　那些旧年传闻其实不是传闻，而是所有人都知道的事情，比如燕境的屠村血案，亲王与西陵神殿掌教关系亲密，曾经涉及某椿道门在长安城里掀起的血案，因而才被先帝贬为庶民，直至李珲圆登基才恢复",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "合适的时候死去？”\n　　“是的。”\n　　“宁缺，你果然是世间最冷血的人。”李沛言感慨赞道：“如今大唐风雨飘摇，正需要你这样冷血现实的人物来守护。”\n　　宁缺说道：“所有人都有资格说我冷血，殿下你没有。”\n　　……\n　　……\n　　一夜无眠，不是辗转反侧，而是周游于长安城内。\n　　宁缺离开亲王府，便回到",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "不足以震慑愤怒的人群，王府四周回响着愤怒的口号声。\n　　甚至有人抬出了桐油，点燃了火把。\n　　便在最紧张的时刻，王府墙内忽然响起一片凄凉的哭声。\n　　王府门后伸出一只白幡。\n　　大唐亲王李沛言死了。\n　　街上变得安静无比，看着那张在春雨里格外凄凉的白幡，人们放下了手里的砖块和石头，刚点燃的火把也渐渐",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "二百零四章 春雨中的白幡\n　　夜殿安静无声，烛台如金树招摇，宁缺看着皇后的眼睛说道：“耻辱带来勇气和愤怒，如果能够愤怒释放，剩下的便是勇气，这是娘娘您的原话，现在我们需要考虑的便是由谁来承受唐人的愤怒。”\n　　皇后娘娘没有回答。\n　　宁缺继续说道：“割让向晚原后，战马的问题由书院解决。”\n　　皇后摇",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "贡献。”\n　　李沛言看着桌上的烛台，看着那些淌落的烛泪，感叹说道：“你杀死夏侯之后便一直没有理会我的存在，我一直以为那是书院看在皇兄面子上对你施加了压力，又或是你杀了足够多的人，当年的怨气已经消退，又或者你就是想让我陷在死而未死的恐惧中，却没想到原来你是在这里等着我。”\n　　“没有人能够像昊天一样计",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "需要和平，本王便替你们争取和平，举世伐唐，大唐如何自处？难道还真能与天下为敌？如果你们认为本王错了，日后你们证明给本王看。”\n　　他的神情很漠然，袖中的手却不停颤抖着。\n　　……\n　　……\n　　李沛言回到了王府。\n　　愤怒的民众包围了王府。\n　　书院前院的学生和国子监的学生，正在城里协助工部修葺战争",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "宁缺说道：“所有从我手中输掉的，将来必然都会拿回来。”\n　　皇后娘娘不明白他的信心来自于何处，最终还是被他坚定的语气说服，思忖片刻后神情凝重说道：“既然如此，我签了便是。”\n　　宁缺说道：“你不能签，因为不能让你和陛下来承受民众的愤怒。”\n　　皇后说道：“但你曾经说过，书院不能签字，因为这份和",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "大唐官员的脸色则是非常沉重。\n　　所有人都在等着宁缺回来签字，叶红鱼也在梅园里等着，但宁缺却迟迟没有出现，因为他在回雁鸣湖之前，先去了一个地方。\n　　……\n　　……\n　　清河郡会馆前是直街，后是湖山，此时亦是春雨迷鳎景色很是美丽。\n　　数名侍卫和二十余名鱼龙帮众警惕地注视着会馆四周的动静。\n　　长安",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "书院前院的学生和国子监的学生，正在城里协助工部修葺战争中受损的民宅，听着消息后，抬了无数碎砖和石块来到了这里。\n　　羽林军士兵和侍卫严阵以待，但他们的人数太少，根本不足以震慑愤怒的人群，王府四周回响着愤怒的口号声。\n　　甚至有人抬出了桐油，点燃了火把。\n　　便在最紧张的时刻，王府墙内忽然响起一片凄",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "逃出。事后把这些人抓回来，费了很大的力气，他们不想这种事情再次重演。如果让他们知道，会馆里的这些家伙马上便要被送回清河郡，不知道会愤怒成什么模样。\n　　就是在这样一个时刻，宁缺走进了清河会馆。他接过毛巾擦了擦被春雨打湿的头发，掸掉衣服上的水珠，自然的像是回家。",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，曾经涉及某椿道门在长安城里掀起的血案，因而才被先帝贬为庶民，直至李珲圆登基才恢复爵位……\n　　宫门缓缓开启，李沛言向人群走去，他穿着件黑红缀金的深色长袍，在清晨时落下的微淡春雨里，显得格外醒目。\n　　无数人看着他，目光里充满了鄙夷与愤怒，甚至有人试图冲过来揍他。\n　　一名衙门里的下级吏员痛声质问着",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "尘埃落地。\n　　唐国答应了西陵神殿方面提出来的绝大部分要求，亲王李沛言郑重地在和约上签下自已的名字，同时也把自已的名字写在了历史的耻辱柱上。\n　　消息传出，朝野哗然，谁也不知道这个漫长的夜晚里发生了什么事情，为什么皇宫里的大人物们，居然敢冒天下之大不韪，真的签了这份和约。\n　　聚集在皇城前的唐人们再",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第二百零四章 春雨中的白幡\n　　夜殿安静无声，烛台如金树招摇，宁缺看着皇后的眼睛说道：“耻辱带来勇气和愤怒，如果能够愤怒释放，剩下的便是勇气，这是娘娘您的原话，现在我们需要考虑的便是由谁来承受唐人的愤怒。”\n　　皇后娘娘没有回答。\n　　宁缺继续说道：“割让向晚原后，战马的问题由书",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "，外放某郡做个太守，相信都比现在更有用些。”\n　　“这就是殿下的问题之所在。”\n　　宁缺说道：“在大时代里，你想的事情太过琐碎细小，而且这些年，你对神殿让的太多，陛下不喜欢，书院不喜欢，百姓也不喜欢。”\n　　李沛言说道：“看来我果然是一无是处。”\n　　宁缺说道：“这些形象，正符合殿下将要扮演的那个角",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "沛言的容颜依旧俊朗，笑容可亲，只是眼角的皱纹多了很多，曾经如剑的双眉，也变得很柔和。\n　　“我这辈子从来没有什么大的野心，我只是想替皇兄拾遗补缺，代表皇族缓和一下与道门之间的关系，最多就想做位青史留名的贤王。”\n　　李沛言看着对面的宁缺，自嘲一笑说道：“现在想来，如果我没有生在天子家，外放某郡做个太",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "书房里烛火昏暗，李沛言的容颜依旧俊朗，笑容可亲，只是眼角的皱纹多了很多，曾经如剑的双眉，也变得很柔和。\n　　“我这辈子从来没有什么大的野心，我只是想替皇兄拾遗补缺，代表皇族缓和一下与道门之间的关系，最多就想做位青史留名的贤王。”\n　　李沛言看着对面的宁缺，自嘲一笑说道：“现在想来，如果我没有生在",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

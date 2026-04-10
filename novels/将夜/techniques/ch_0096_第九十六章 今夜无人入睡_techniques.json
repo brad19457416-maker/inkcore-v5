@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 96,
+  "chapter_title": "第九十六章 今夜无人入睡",
+  "filename": "ch_0096_第九十六章 今夜无人入睡.txt",
+  "char_count": 3557,
+  "timestamp": "2026-04-10T12:11:12.027983",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "们就去红袖招？相信你应该也没有什么意见才是。”\n　　宁缺一怔，刚想说自己有很大意见，却见她已经转身向众人宣布了这个消息，听闻今日聚会放在红袖招。听到这个决定，旧书楼内外顿时变得“群情激愤”起来。\n　　某位来自固山郡的学生摇头赞叹道：“能一睹天下第一歌舞行真容，今次长安求学真是不虚此行啊！”\n　　某位",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第九十六章 今夜无人入睡\n　　宁缺用手指拈住纸张两角伸到窗口处，窗外的暖阳春风迅速把墨迹润干，确认没有问题后，他极谨慎地把纸张对折，然后放入书册之中，还是先前那个位置。\n　　他站起身来，把书册放入书架之中的老位置，然后走到东窗畔，向女教授先生恭谨长揖行礼，女教授微微颌首回礼。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "顿早饭还习惯性要精打细算的穷苦少年，宁缺想来想去，总觉得不能放过这种机会，略一停顿后，极为恭谨地开口说道：“先生，学生方才读书时强行忘字形，似乎若有所得，不知这法子可还使得？”\n　　女教授静静看着他，过了很久之后才微笑说道：“依照书院规矩，即便是术科学生在未入二层楼前，也只能凭自身悟性来看这满楼藏书",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "教授先生恭谨长揖行礼，女教授微微颌首回礼。\n　　接着他应该直接下楼，但在直身的过程中忽然间心头一动，心想这位女教授先生在旧书楼内描楷数年，想来也是书院中极了不起的人物，而且看她性情恬静和善，既然那位留书者都愿意指点，说不定她也愿意帮助自己？\n　　做为一个身家已经过了两千两，吃顿早饭还习惯性要精打细算",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "安城里的人们，谈国事论意气时自然朴实强悍，谈文学论风月时自然开放风流，从来都不会觉得这两种做派有任何冲突的地方，朝廷上严肃方正的文官下朝之后会去府边的小酒馆给盲女弹首曲子，花柳巷里的开门妇人说起边塞战争时也会抹着眼泪去捐款。\n　　所以长安城的青楼和其余地方的青楼有所差别，并不一味红灯高悬而淫香阵阵，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "即便是术科学生在未入二层楼前，也只能凭自身悟性来看这满楼藏书，但你本无修行潜质，却凭着毅力悟出了些许道理，虽然那些道理并不见得对，但也算是极为了不起。书院规矩终不能破，那我只好送你一句话。”\n　　宁缺深深鞠躬，恭敬说道：“多谢先生指点。”\n　　女教授看着身前案上那些写了无数年的簪花小楷，平静说道：“",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "悬而淫香阵阵，也有箭装劲舞胡琴铿锵之时，除了那些靠指责他人为生的御史大人们，无论官员还是富商堂而皇之出现在这种地方，都不会觉得有任何不妥之处。\n　　说起青楼，自然首先要提的名字便是红袖招，多少年来，那个丝竹院外从来没有招牌，但谁都知道这是长安城乃至大唐帝国青楼业的第一块招牌，有先帝和陛下夫妻的暗中偏",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "何他也必须参加，左右都是些年轻人，他很直接地说道：“没问题。”\n　　司徒依兰爽朗一笑说道：“你这爽快性子倒是不错，不像陈子贤那几个家伙，借口家中有事都跑掉了，谁不知道他们现在肯定是在哪家赌坊里。”\n　　听着陈子贤这三个字，宁缺微微一怔，旋即想明白她说的是丙舍同学书局富商之子陈子贤，而不是那个倒在柴堆",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "看歌舞，谁也没法说什么。”褚由贤无奈摊手应道。\n　　就在这时书架深处伸出了一只手，一名身材瘦小的学生慢慢挪了出来，正是那名以天才著称的临川王颖，他看着众人怯生生说道：“我能不能跟着一起去？”\n　　诸生看着这名将满十四岁的少年郎，面面相觑。司徒依兰轻咬嘴唇儿，眼珠儿一转，沉着脸说道：“王颖你不能去，要",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "散。\n　　长安城确实开放，女扮男装逛青楼这种事情并不少见，父子先后去找某位姑娘也不是稀罕事，但两辈人同时出现在一个楼子里，总归还是会有些尴尬，很奇妙的是，但凡在这种尴尬局面下，永远是长辈让着晚辈，比如此时。\n　　司徒依兰招呼着同窗们坐下，瞧着从楼子侧门溜出去那背影有些像自家四叔，强忍住心中笑意，潇洒",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "陆雪姑娘则是大不相同，所以此时听着陆雪姑娘竟是在休假中，便不禁有些烦恼。\n　　宁缺低着头跟着诸位同窗进入红袖招后，便拖着褚由贤坐到了最偏处，一边悄悄听着司徒依兰和管事的对答啧啧称奇，一边在沉痛思考今夜由谁结帐的重要问题，片刻后，他看着褚由贤同情说道：“她说今儿有大财主买单，我看来看去，大概又得是你破",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

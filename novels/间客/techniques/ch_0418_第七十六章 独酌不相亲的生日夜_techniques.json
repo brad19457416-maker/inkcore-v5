@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 418,
+  "chapter_title": "第七十六章 独酌不相亲的生日夜",
+  "filename": "ch_0418_第七十六章 独酌不相亲的生日夜.txt",
+  "char_count": 3459,
+  "timestamp": "2026-04-10T12:04:59.219968",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "教室的石板路上不知原因地走着，身边是一位戴着黑框眼镜的清秀女孩儿，教室里那位叫简水儿的国民少女正弹着风琴，带着一群五音不群的孩子在轻声吟唱一首叫做红河谷的歌曲，时不时会抬头望向窗外，笑眯眯地望着自己。\n\n    梦里的内容很简单，许乐就是在教室外不停地走着，心里却充斥着从来没有过的幸福感和喜悦。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "勾来一副薄毯，披在了身上，微低眼帘，睫毛微动，轻声说道：“这种得意虚无的厉害。明星其实是宇宙里最没有意义的一种存在……至于像我这种，更是一个灾星。”\n\n    少女的声音里除了淡淡自嘲，还有一丝与年龄不符的落寞。许乐安静地听着，在心中无声说道：不，至少你满足了很多人的精神生活，比如我，比如大叔，比如",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，然而自幼承载的身世压力，依然让她对任何这方面的询问有些敏感。\n\n    许乐低头看着杯子里的红酒，心想如果只是朋友，自然不用了解这些，问题是自己这种人和联邦最红的少女偶像成为朋友，难度不亚于施清海和邰之源两个人勾肩搭背去**，而如果真的是相亲，女方的家庭背景自然是考察的重中之重。\n\n    他抬起",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "望着他，此时的简水儿，却在真实中这样笑眯眯地望着他。\n\n    ……\n\n    ……\n\n    许乐压抑住心中的情绪波澜，低头看着手腕上的军用手\n\n    待着光屏上数字的变动。简水儿端着酒杯好奇地望道他此时的沉默是因为什么原因。\n\n    数字归零，意味着联邦标准计时已经过去了一夜。无论东林是不是",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "我的家里……我其实是个儿，之所以姓简是因为我是被拣来的。”简水儿将头枕在右臂上，用乌黑的眼眸望着许乐说道：“我不知道我的父亲是谁，母亲是谁，只知道我出生后不久，他们便都死了。”\n\n    说出这句话简水儿自觉得奇怪，为什么会向一个并不熟的、可能中的相亲对象，讲述自己绝少透露的**。然而说出口的感受很",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "我的父亲是谁，母亲是谁，只知道我出生后不久，他们便都死了。”\n\n    说出这句话简水儿自觉得奇怪，为什么会向一个并不熟的、可能中的相亲对象，讲述自己绝少透露的**。然而说出口的感受很轻松忽然想到，近两年前在那间满是阳光的医院中，自己看着轮椅中的许乐时，似乎也有这种无来由的亲近感觉。\n\n    许乐",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "十三岁的时候，便开始看着电视光屏上的紫发少女，展开了一段隔着无数光年距离的爱慕。\n\n    整理干净以后，简水儿像变魔法般又变出了一瓶戛桐红酒，很认真地举杯望着许乐说道：“谢谢你，帮我度过这个生日。”刚认真地说完这句话，又想到先前那一幕，禁不住又格格笑出声来。\n\n    许乐尴尬说道：“其实联邦里记",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "笑，然而发现自己把红酒喷了许乐一脸，不由双颊微红，赶紧跳下椅子找了个手帕递给他。\n\n    许乐生平第一次学会了使用幽的眼神。\n\n    他知道自己说错话了，但偏生这句话其实是实话，只是面对着将酒水喷到自己脸上的简水儿，他无法抱怨，更无法生气，所以纯爷们儿也只好幽怨。\n\n    话说简水儿十二岁不到",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，他从未肆意回忆过自己的过去，今天在简水儿的生日当天，需要破例吗？\n\n    （关于和简水儿的情节，大家伙儿千万别嫌长，别着急，一，不好写，二，有伏笔，三……做为最喜欢看言情的猥琐大叔，请你们允许我偶尔享受一下写言情小说的快感，打个商量好不？想念鸡腿中。\n\n    另外继续号召推荐票，上周推榜的感觉",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "：“我知道你的出生日期，我知道你的鞋码，我知道你最喜欢鱼夫黑巧克力，我甚至还知道……”\n\n    他马上住嘴，没有愚蠢地简水儿的三围数字也报出来。虽然简水儿是联邦里最深居简出，也不接受访问的少女明星，连经纪公司都没有，自然也不可能向公众报告自己的三围，这个数字是某位男性杂志跟踪了三个月的电视剧后，由",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "住又格格笑出声来。\n\n    许乐尴尬说道：“其实联邦里记得你生日的人无处不在。”\n\n    简水儿缓缓饮了一口酒，眼眸异常明亮，静静地望着面前的小眼睛男生，觉得世界上的事情真的很奇妙，这不是观众与偶像的见面，也不是那个讲述保镖的电影，她清楚自己与许乐之间并没有什么阶层差距，对方也不是一个真正的普通",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "笑眯眯地望着自己。\n\n    梦里的内容很简单，许乐就是在教室外不停地走着，心里却充斥着从来没有过的幸福感和喜悦。\n\n    梦里的国民少女坐在风琴旁，笑眯眯地望着他，此时的简水儿，却在真实中这样笑眯眯地望着他。\n\n    ……\n\n    ……\n\n    许乐压抑住心中的情绪波澜，低头看着手腕上的军",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "头望向窗外，笑眯眯地望着自己。\n\n    梦里的内容很简单，许乐就是在教室外不停地走着，心里却充斥着从来没有过的幸福感和喜悦。\n\n    梦里的国民少女坐在风琴旁，笑眯眯地望着他，此时的简水儿，却在真实中这样笑眯眯地望着他。\n\n    ……\n\n    ……\n\n    许乐压抑住心中的情绪波澜，低头看",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

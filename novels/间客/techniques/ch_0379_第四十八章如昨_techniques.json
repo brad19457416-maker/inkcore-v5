@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 379,
+  "chapter_title": "第四十八章如昨",
+  "filename": "ch_0379_第四十八章如昨.txt",
+  "char_count": 3557,
+  "timestamp": "2026-04-10T12:04:59.224972",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "方传来一声恚怒的喝斥，说话的人是议会道德委员会主席，资深议员锡安，此时大厅里很多人都注意到了露台上的冲突，这位德高望重的议员先生刚好在附近，又看到了许乐动手的画面，不悦地教育道。\n\n    许乐往前走了一步，将张小萌拦在自己身后，眯着眼睛看了这位真正权高位重的大人物一眼，说道：“怎么？想给我戴一顶破",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "此一洗，更添两分清丽，她往前又走了一步，靠着许乐更近了一些，轻声地说道：“对不起。”\n\n    毫无疑问，在这一段发萌于一袋小狗饼干，起始于食堂里的饭菜，盛放梅园下的粥与花的青涩感情中，有过亏欠，有过执着，有过伤害，但也有过不容质的真诚。\n\n    今夜没有黑框眼镜的遮掩，那双明丽眼眸里的朦胧泪花，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "她已经不再有资格去诉说什么，而他似乎也没有诉说这些事情的**。\n\n    那便这样安静地站着吧，于秋风露台之中，不需言语味过去。\n\n    然而露台上有别的人。\n\n    那位穿着对襟正装的中年男人，些吃惊地看着张小萌在流泪拭泪，脸色微变备走上前来对她说几句什么，想告诉她大厅里面有人在找她，同时想让",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "水从她的笑脸上淌过，脸上抹的淡妆经此一洗，更添两分清丽，她往前又走了一步，靠着许乐更近了一些，轻声地说道：“对不起。”\n\n    毫无疑问，在这一段发萌于一袋小狗饼干，起始于食堂里的饭菜，盛放梅园下的粥与花的青涩感情中，有过亏欠，有过执着，有过伤害，但也有过不容质的真诚。\n\n    今夜没有黑框眼镜",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "人骗你。”\n\n    许乐曾经在沈教授的墓前对林远湖说过，一个也不原谅，如今林远湖也变成了墓中冰冷的存在。对于张小萌，他不认为存在什么原谅不原谅的问题，只是世事造化以及彼此各有彼此的执念，然而感情之中本来就容不得对旁的事物的执念，哪怕是所谓信仰，更何况过去的终究是过去了，再也回不来了。\n\n    秋",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "名穿着对襟复古装的中年男人许乐先里注意过，此人是青龙山的人，大概是南明秀的随从，不知道对方为什么此时来到了露台。\n\n    张小萌此时静静地望着许乐的脸，没有注意到身后来了人。泪水从她的笑脸上淌过，脸上抹的淡妆经此一洗，更添两分清丽，她往前又走了一步，靠着许乐更近了一些，轻声地说道：“对不起。”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "了下去。\n\n    啪的一声脆响，南明秀的手背上出一道红印，踉跄着向后退了两步。他大感震惊，望着许乐愤怒喝斥道：“快放开她！”\n\n    来到露台的人们同时倒吸了一口冷气，先前他们在大厅内得到那名中年人的报告，才知道被他们邀请前来谈话的张小萌，竟在露台上哭泣，似乎是受了某人的骚扰。\n\n    他们很",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "什么。”许乐静静地看着她清丽地容颜。\n\n    张小萌心头微黯。旋即强颜一笑。瞬间这笑容却变得格外地温柔。因为许乐把手放在了她地头上。轻轻地抚了一下。\n\n    “去年知道你还活着地时候。我很生气。”许乐有些缓慢地收回手来。说道：“不过施公子提醒了我。如果我生气多于喜悦。那岂不是说明我盼着你去死。”",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "在没有几个人还会问母亲和妻子掉河这种愚笨的问题了。”\n\n    他的语气渐渐认真起来，带着一丝痛楚的自嘲说道：“我要的感情，是绝对自私自利的那种……说来可笑，我还会给自己设定障碍题，来判断什么叫爱情。那时候在梨花大学我就想着，不管你是**军的间谍还是什么，我都会如以往那般，我也奢望，哪怕我是一名叛国",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "有什么道理让你原谅？”\n\n    她偏过头来，有些酸楚地望着许乐的侧脸，倔犟地微笑说道：“我知道你的性格，你最讨厌别人骗你。”\n\n    许乐曾经在沈教授的墓前对林远湖说过，一个也不原谅，如今林远湖也变成了墓中冰冷的存在。对于张小萌，他不认为存在什么原谅不原谅的问题，只是世事造化以及彼此各有彼此的执",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "后不要再缠着张小萌，不然我会让南水领袖很后悔只生了两个儿子。”许乐望着南明秀说道。\n\n    露台上众人大哗，不明白怎么台词好像说反了？而且这名军官究竟是谁，看样子明知道南明秀的父亲是谁，也敢在这种敏感时刻口出威胁。\n\n    “放肆，竟敢对南公子如此不礼貌，这是什么场所，把军营里的那套混帐东西收起",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "“不用解释什么。”许乐静静地看着她清丽地容颜。\n\n    张小萌心头微黯。旋即强颜一笑。瞬间这笑容却变得格外地温柔。因为许乐把手放在了她地头上。轻轻地抚了一下。\n\n    “去年知道你还活着地时候。我很生气。”许乐有些缓慢地收回手来。说道：“不过施公子提醒了我。如果我生气多于喜悦。那岂不",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "年男人，些吃惊地看着张小萌在流泪拭泪，脸色微变备走上前来对她说几句什么，想告诉她大厅里面有人在找她，同时想让她离石栏边地个透着冷冽危险味道的军官远一些，在他看来名军官肯定做了什么事情，才会让张小萌哭成这样。\n\n    这一对年轻男女的气正在沉默回味之中，忽然却多了一个扰局之人，张小萌背对着侧门，还没",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "寒风中，他感觉身体有些冷，低头望着身旁的女孩儿，声音微哑说道：“记得在铁塔上我们说过什么吗？我从小所盼望的爱情，是不能被任何东西所牺牲的，如果筹码同样是人世间最美好的东西，我会尝试着一同把握，毕竟现在没有几个人还会问母亲和妻子掉河这种愚笨的问题了。”\n\n    他的语气渐渐认真起来，带着一丝痛楚的自",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "行无阻，谁敢不让自己三分？\n\n    “我警告你……”南明秀冷冷地望着许乐。\n\n    “我警告你，以后不要再缠着张小萌，不然我会让南水领袖很后悔只生了两个儿子。”许乐望着南明秀说道。\n\n    露台上众人大哗，不明白怎么台词好像说反了？而且这名军官究竟是谁，看样子明知道南明秀的父亲是谁，也敢在这种",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "千万人间的目光一触，诸多复杂情绪缠绕心间，怎样也品咂不出那等滋味。\n\n    大厅的灯光透过侧门，在安静昏暗的露台上映出了一个半月的影子，许乐和张小萌就恰好站在这圆月般灯光的两侧，一条无形的线似乎将两人分开，但相隔其实不过两步。\n\n    场间陷入了沉与安静之中，就像回到了三年前的食堂，操场，张小萌",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

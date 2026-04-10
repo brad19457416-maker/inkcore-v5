@@ -1,0 +1,154 @@
+{
+  "novel": "将夜",
+  "chapter_number": 320,
+  "chapter_title": "第一百二十六章 王子与乞丐",
+  "filename": "ch_0320_第一百二十六章 王子与乞丐.txt",
+  "char_count": 3296,
+  "timestamp": "2026-04-10T12:11:21.717385",
+  "techniques_count": 11,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百二十六章 王子与乞丐\n　　一路向北，继续向北。\n　　隆庆皇子在风雪中独行，花痴陆晨迦在不远处默默跟随，雪马无声踢着马蹄缓缓消除着疲惫，从晨走到暮，再从暮走到晨，不知走了多少天，走了多远距离，荒原北方那片黑沉的夜色还是那般遥远，没有拉近一丝距离。\n　　途中隆庆皇子",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "出这个绝望的世界。\n　　某一日，隆庆皇子忽然停下脚步，看着北方遥不可及的那抹夜色，瘦若枯树的手指微微颤抖，然后松开，前些天重新拾的一根树枝从掌心落下，啪的一声打在他的脚上，他低头看一眼树枝打跌的灰白色的脚指甲，发现没有流血。\n　　他抬起头来继续眯着眼睛看向北方的黑夜，然后缓慢地转过身，看着数十丈外的",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "距离。\n　　……\n　　……\n　　燕国地处大陆北端，与草原左帐王庭交境，身旁又有大唐帝国这样一个恐怖的存在，所以国力难谈强盛，民间也谈不上什么富庶，时值年关相交之时，深冬寒意正隆，都城成京里随处可见缺衣少食的流民乞丐。\n　　一个瘦弱的乞丐可能会引发民众的同情心，一百个瘦弱的乞丐就只可能引发民众的厌恶与",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "嫡事中，哪有幸理？\n　　“掌教大人一直很欣赏你，再说还有裁决神座……”她小心翼翼说道。\n　　“愚蠢，难道你真以为桃山是光明圣洁之所在？”\n　　隆庆皇子看着她嘲讽说道：“什么欣赏什么看重，那都要基于你的实力，叶红鱼不会撒谎，她没有必要撒谎，我已经被宁缺一箭射成了个废人，对神殿还有什么用处？莫非你以为我",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "丐一般有独门的乞讨决窍，身上那件在寒风里还泛着酸臭味的外套和比城门绳还要纠结的脏乱头发，让他根本无法进入那些地方。\n　　连续三家酒家直接把他赶了出来，尤其是最后一家的小二，更是毫不客气用棍子在他大腿上狠狠敲了一记，然后把他踹到了街道的中央。\n　　那名瘦乞丐脸上满是污垢，根本看不出年龄，叉着腰，端着被",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "喜欢，她渴时也捧一把雪来嚼，饥饿时从马背上取出干粮进食，看着那个因为饥饿而虚弱的身影，花了很大力气才压抑住去送食物的冲动。\n　　从雪起走到雪停，从风起走到风停，二人一马却还是在黑白二色的寒冷荒原之上，后方远处隐隐还可以看到天弃山脉的雄姿，似乎怎样也走不出这个绝望的世界。\n　　某一日，隆庆皇子忽然停下",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "会这么蠢？回成京做什么？被忠于崇明的那些大臣派人暗杀？还是被父皇为了大局赐死？”\n　　陆晨迦怔住了，马上清醒过来，明白隆庆如果回到燕国都城成京，或许根本无法看到第二日的清晨，因为现在的他不是有神殿支持的西陵神子，而只是一个普通人，牵涉到凶险的夺嫡事中，哪有幸理？\n　　“掌教大人一直很欣赏你，再说还有",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "有流血。\n　　他抬起头来继续眯着眼睛看向北方的黑夜，然后缓慢地转过身，看着数十丈外的陆晨迦，声音沙哑说道：“我饿了。”\n　　陆晨迦眼眶一湿，险些哭出来，强行平静心思，用颤抖的手取出干粮，用每天都暗中备好的温水化软，然后捧到他的面前。\n　　隆庆没有再说什么话，就着她不再娇嫩有些粗砺的掌心，慌乱吞咽干净",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "道这时候那些乞丐大概正在彼此吹嘘今天乞讨的收获，沉默片刻后她转身离开，却没有走远，就在离废庙不远处的一片林子里歇了一夜。\n　　她以为隆庆没有发现自己还跟着他，因为她毕竟是洞玄上境的强者，现在的隆庆只是一个普通人，然而她忘记了一件事情――做为相知相处多年的情侣，她不用念力去感知也往往能清晰感觉到隆庆在",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "丐\n　　一路向北，继续向北。\n　　隆庆皇子在风雪中独行，花痴陆晨迦在不远处默默跟随，雪马无声踢着马蹄缓缓消除着疲惫，从晨走到暮，再从暮走到晨，不知走了多少天，走了多远距离，荒原北方那片黑沉的夜色还是那般遥远，没有拉近一丝距离。\n　　途中隆庆皇子渴时捧一把雪嚼，饥饿时咽几口口水，越走越虚弱，似乎随时可",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "处多年的情侣，她不用念力去感知也往往能清晰感觉到隆庆在哪里，这已然变成一种习惯或者说直觉。\n　　然而幸福或者说不幸的是，隆庆也有这种直觉。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

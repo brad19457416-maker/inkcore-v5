@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 373,
+  "chapter_title": "第一百七十八章 朋友的初见，夫子的惩罚",
+  "filename": "ch_0373_第一百七十八章 朋友的初见，夫子的惩罚.txt",
+  "char_count": 3714,
+  "timestamp": "2026-04-10T12:11:21.750751",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，陈皮皮更是吃惊，打量着这个穿着破皮袄的小姑娘，眉头渐渐蹙了起来，想着大师兄常年不离身的那件旧袄，犹疑问道：“是老师带进来的？难道这小姑娘是大师兄家的人？”\n　　宁缺走到桑桑身旁，听着陈皮皮不着边际的猜测，没好气说道：“不用瞎猜了，知道她的来历，你也不会高兴。”\n　　陈皮皮看着这个抱着雪白小狗的清稚",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "第一百七十八章 朋友的初见，夫子的惩罚\n　　看着仓惶奔逃的大黑马，宁缺忽然想明白一件事情，做为最后入门的老幺，极有可能最受宠爱，但论资排辈也是最没有地位。\n　　因为不知道夫子究竟会如何看待自己，他此时心情惴惴不安，看着眼前",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "怀里。\n　　小白狼觉得自己安全了很多，把头探出她的臂弯望向湖的方向，看着那处正在呼啸追逐的黑影白烟，心想这个地方太古怪了，连我这种血脉尊贵天赋其才的雪原巨狼王子，似乎在这里也排不上什么号。\n　　宁缺不知道唐小棠臂弯里的小白狼与他有着极相近的感慨，不然说不定他会把这头小白狼抱进怀里痛哭一场。\n　　……",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "算把叶红鱼的胆子借给他，他也不敢真把那只大白鹅揪过来踹两脚。\n　　他伸手摸了摸小书童粉嫩的脸蛋，感叹说道：“我只是随口说说，你不要往心里去，也不要往心里记。”\n　　小书童睁着大大的眼睛，用力地点了点头，然后自去追鹅。\n　　大白鹅这时候已经追着大黑马跑到了镜湖畔。\n　　缩成一团躺在草丛里装死的小白狼，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "娘都有一个天下最生猛的兄长，如今看来这两个条件都满足了，而且我必须提醒你一件事情，叶红鱼亲口说过如果战斗，你不是这小姑娘的对手。”\n　　宁缺拍了拍他的肩膀，表示最诚挚的安慰。\n　　唐小棠听不懂这两个人在说些什么，她只是对陈皮皮这个胖子感兴趣，不明白为什么既然他是最年轻晋入知命境的修道天才，却被叶红鱼",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "山弟子聚会聆询的这间草屋，他便是第一次看到。\n　　这间草屋很大，由梁柱搭构而成，四面无墙，极为清旷透风，好在地处后山深坳，并不会显得冷，屋檐上那些淡白如霜的草，也不知道是从哪里运进来的。\n　　草屋前坪有排竹椅，椅上坐着桑桑和唐小棠，椅下藏着一只受惊过度的小白狼，椅后有一只气喘吁吁的大黑马，这憨货不知",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "着宁缺，心想你明知道我喜欢这样式的姑娘，却偏偏不想让我认识，是何居心？\n　　宁缺心想夫子既然让唐小棠进入书院，想必她的身份也没有办法一直隐藏下去，沉默片刻后嘲讽说道：“她是唐的妹妹。”\n　　陈皮皮很豪迈地挥手说道：“那又如何？”\n　　宁缺再次提醒道：“唐，汤唐躺烫里的唐。”\n　　陈皮皮很惘然。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "皮皮沉默片刻后说道：“正是在下，虽然说道魔有别，正邪有分，观里与你魔宗山门势不两立，我这时候似乎应该马上把你打死，但既然这里是书院，你又是老师亲自带进来的，所以你放心吧，我暂时不会对你出手。”\n　　唐小棠稚嫩的脸上满是兴奋的神情，看着他高兴说道：“不要紧啊，我们先打一场怎么样？我一直都很想和你打一场",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "得当时你说过没有比你更强的女生，我当时祝你喜欢上的姑娘都有一个天下最生猛的兄长，如今看来这两个条件都满足了，而且我必须提醒你一件事情，叶红鱼亲口说过如果战斗，你不是这小姑娘的对手。”\n　　宁缺拍了拍他的肩膀，表示最诚挚的安慰。\n　　唐小棠听不懂这两个人在说些什么，她只是对陈皮皮这个胖子感兴趣，不明白",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "novel": "将夜",
+  "chapter_number": 722,
+  "chapter_title": "第一百零三章 京城夜",
+  "filename": "ch_0722_第一百零三章 京城夜.txt",
+  "char_count": 3310,
+  "timestamp": "2026-04-10T12:11:27.024375",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "都出现了刺客。\n　　今夜的长安城，谣言乱飞，杀声震天，民众大乱，又有谁趁乱放火，人群中不断出现莫名的冲突和死亡，混乱的局面越演越烈。\n　　皇后一派的官员，遭受到了极为残酷的打击，死伤惨重，这些大臣府中也都养着强悍的家丁，然而又哪里能够挡得住修行者。\n　　曾经的大学士府，如今早已门庭冷落的曾府，今夜门",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "渐散去。\n　　曾府后园重新回复安静。\n　　曾静夫妇来不及去看府中管事家丁的伤情，看着何明池，生出很多疑问。\n　　如果不是此人，今夜他们夫妇定然会遭毒手。\n　　但很明显，此人便是今夜长安之乱的元凶，不然为何先前那些暴民，还有那个首领会因为他的眼神，便悻悻然退走？\n　　“听说你会成为大唐国师。”曾静说道",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "颤抖起来。\n　　徐崇山举起右拳，面无表情说道：“杀死你很简单，一拳就够了。”\n　　徐崇山一拳击出，破风而至，然后重重落在一把黄纸伞上。\n　　轰的一声，黄纸伞深深下陷，却没有撕碎。\n　　何明池一手持伞，一手紧紧抓着李珲圆，疾退十余丈。\n　　再往后一些，便是那座不起眼的小楼。\n　　……\n　　……\n　　稍",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "几根骨头。\n　　徐崇山如山般站立，握拳欲再击下。\n　　夜色中的御花园里，响起一声轻声。\n　　他的面色瞬间如雪，痛苦地捂胸弯腰，然后倒下。\n　　他的心碎了。\n　　……\n　　……\n　　夜色中的宫殿地面上，到处是被砸碎的精美瓷器，几乎所有太监宫女的脸上都带着掌印或是伤痕，还有惊恐不安的神情。\n　　经过太医",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "珲圆伤势终于稳定，他看了眼赤裸身上紧缚的绷带，又看了眼脸色苍白不停咳嗽的何明池，心中的余悸尽数变成了愤怒。\n　　何明池轻咳两声，说道：“陛下，这件事情应该马上通知公主殿下。”\n　　“不要惊动皇姐。”\n　　不知道为什么，李珲圆现在很不想看到自己的姐姐，或者是不敢见到她，哪怕遇着这样的危险，下意识里也要",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "怎么杀我。”\n　　看似冷静自信，但说到最后，他的声音终于开始颤抖起来。\n　　徐崇山举起右拳，面无表情说道：“杀死你很简单，一拳就够了。”\n　　徐崇山一拳击出，破风而至，然后重重落在一把黄纸伞上。\n　　轰的一声，黄纸伞深深下陷，却没有撕碎。\n　　何明池一手持伞，一手紧紧抓着李珲圆，疾退十余丈。\n　　再",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "变得重新嘈杂紧张起来，管事悬在墙上的灯笼，早已被人用棍棒敲落，在石阶下燃烧。不知从哪里围过来的人群，拼命地呼喊着，试图冲进府中。\n　　轰的一声，曾府大门终于被人群推倒，不知多少人涌了进来，见人便打，见东西便砸，府里的管事家丁拿着兵器，人数相对太少，连连败退，而刚刚赶过来的数名青衣汉子，还没有来得及动",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "不可能是我的对手。”\n　　何明池看着他说道：“君乃魔宗强者，我自然不是你的对手，但有件事情，你的判断出现了偏差，所以今天死的人肯定是你。”\n　　徐崇山忽然感觉到，那些来自檐兽的气息，骤然间变得强横起来。\n　　联想到此人深夜出现在小楼前，不由想到某种不可思议的可能，他看着何明池震惊说道：“你居然敢下小",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的是，前院不知被谁点了一把火，现在火势变得越来越大。\n　　曾静夫妇还有那些互相搀扶着的受伤家人，依次走出府门，等着马车套好后，便去雁鸣湖畔，在女婿的那片院子里藏一夜。\n　　便在这个时候，数十名青衣青裤的汉子，拿着短刀跑了过来，其中为首的那个头目，看着曾静夫妇无恙，不由大松了口气。\n　　“大人，齐四爷",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "丁，然而又哪里能够挡得住修行者。\n　　曾经的大学士府，如今早已门庭冷落的曾府，今夜门前也变得重新嘈杂紧张起来，管事悬在墙上的灯笼，早已被人用棍棒敲落，在石阶下燃烧。不知从哪里围过来的人群，拼命地呼喊着，试图冲进府中。\n　　轰的一声，曾府大门终于被人群推倒，不知多少人涌了进来，见人便打，见东西便砸，府",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "。\n　　……\n　　……\n　　稍远些的宫殿和宫墙上，蹲着很多只石雕檐兽，当徐崇山击出那一拳后，这些檐兽缓缓释出极微渺的气息。\n　　徐崇山感觉到了那些气息，脸色微白，却并不在意。\n　　他在皇宫里当了数十年侍卫，从最普通的带刀侍卫，到如今的侍卫大总管，要论及对皇宫阵法的了解，当世不做第二人想。\n　　即便是",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "第一百零三章 京城夜\n　　“休想骗朕！当年父皇出宫便会有国师或黄杨大师随侍，在宫中却从来不担心安全，便是因为有惊神阵保护，根本没有人能够在宫里刺杀我李姓子弟！”\n　　李珲圆厉声喝斥道：“我倒要看看，你能怎么杀我。”\n　　看似冷静自信，但说到最后，他的声音终于开始颤抖起来。\n　　徐崇山举起右",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "池平静说道：“这些年，你果然隐藏了不少修为，遗憾的是，真实水平的你依然不是我的对手。”\n　　“就算你日后真的成为大唐国师，也不可能是我的对手。”\n　　何明池看着他说道：“君乃魔宗强者，我自然不是你的对手，但有件事情，你的判断出现了偏差，所以今天死的人肯定是你。”\n　　徐崇山忽然感觉到，那些来自檐兽的",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "第一百零三章 京城夜\n　　“休想骗朕！当年父皇出宫便会有国师或黄杨大师随侍，在宫中却从来不担心安全，便是因为有惊神阵保护，根本没有人能够在宫里刺杀我李姓子弟！”\n　　李珲圆厉声喝斥道：“我倒要看看，你能怎么杀我。”\n　　看似冷静自信，但说到最后，他的声音终于开始颤抖起来。\n　　徐崇山",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "书府和太常寺卿府中，都出现了刺客。\n　　今夜的长安城，谣言乱飞，杀声震天，民众大乱，又有谁趁乱放火，人群中不断出现莫名的冲突和死亡，混乱的局面越演越烈。\n　　皇后一派的官员，遭受到了极为残酷的打击，死伤惨重，这些大臣府中也都养着强悍的家丁，然而又哪里能够挡得住修行者。\n　　曾经的大学士府，如今早已门",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

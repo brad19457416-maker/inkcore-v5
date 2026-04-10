@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 689,
+  "chapter_title": "第七十章 摘秧休妻换新天",
+  "filename": "ch_0689_第七十章 摘秧休妻换新天.txt",
+  "char_count": 3306,
+  "timestamp": "2026-04-10T12:11:26.919511",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "可能，昊天世界就是漂流在时间轨道的独立世界。”\n　　夫子摇头说道：“不可能。”\n　　宁缺疑惑问道：“为什么不可能？”\n　　夫子说道：“因为那样太没意思。”\n　　宁缺无言以对，心想如此理所当然的口气，果然是书院一脉相承的气质。\n　　“如果天外有天，昊天世界之外还有世界，或者说，昊天世界处于一个更大世界",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "象愈发变得贪婪起来。\n　　宁缺皱眉思考道：“因为是封闭自守的世界，所以能量只能在其间源源不绝地流转，最终依然会趋向寂灭才对，昊天不会不明白这个道理。那他为什么不破开这个世界，去往更广阔的世界里寻找新的能量来源？”\n　　“首先，昊天是这个世界的规则，如果这个世界破灭，或者是与外界相通，它有可能直接毁灭",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "道原来那不是胡话，而是梦话。\n　　她抬头把被海风吹乱的发发抿到鬓后，顺着夫子和宁缺的眼光向夜空望去，心想如果那里能有一个亮亮的东西，确实应该很美。\n　　繁星映照下的南海，安静温柔，海风轻微温暖，海浪轻柔起浮，就像摇篮一般摇头如婴儿的大船，船舷畔一片安静。\n　　从荒原往北，继续往北便来到了世界南方，数",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "才会有我这样爱吃椰肉的人，才会有那些嗜辣如命的人。”\n　　“面对未知，永远不会缺少勇于尝试的人，因为人们会恐惧，但也会好奇。未知和好奇是相生相伴的两个概念，正是人类最显著的特征。”\n　　“就像那天夜里我与你说过的那般，看见一座山，我们总想知道山那边是什么，看见一片海，我们总想知道海底是什么，看见一片",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "我与你说过的那般，看见一座山，我们总想知道山那边是什么，看见一片海，我们总想知道海底是什么，看见一片天空，我们总想知道天空之上是什么，正是因为好奇，所以人类才会不断地开拓进取，变得越来越强大。”\n　　“这个世界绕来绕去，起点便是终点，这真的很没有意思，人类对未知好奇的天性决定了，我们不可能在一个封闭",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "向夜空望去，心想如果那里能有一个亮亮的东西，确实应该很美。\n　　繁星映照下的南海，安静温柔，海风轻微温暖，海浪轻柔起浮，就像摇篮一般摇头如婴儿的大船，船舷畔一片安静。\n　　从荒原往北，继续往北便来到了世界南方，数十日来见过太多，吃过太多，也听老师说了很多，宁缺总觉得有哪里不对劲。\n　　他的眼睛忽然明",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "南方，数十日来见过太多，吃过太多，也听老师说了很多，宁缺总觉得有哪里不对劲。\n　　他的眼睛忽然明亮，说道：“我总觉得好像在哪里见过……好像叫什么的世界？”\n　　夫子微异，问道：“什么世界？”\n　　宁缺摇头说道：“我忘了在哪里看过，也忘了名字，只记得那个世界是个假的，然后故事里的男主角划着船拼命地往边",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "造绝对稳定均衡，同样是你所说的熵那个东西，热力学第几定律，似乎在这里也是无效的，那么按照你所说的那些道理，我们这个世界，等于是一个独立的世界，不与外界进行任何交流。”\n　　宁缺点点头。\n　　夫子说道：“这种推论是建立在昊天世界是唯一世界的基础之上，如果天外还有天，世界之外还有真实世界呢？”\n　　宁缺",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "出一根短木棍，重重地在宁缺脑袋上敲了一记，教训道：“蠢货，难道你以为我们是在演戏给人看？”\n　　宁缺第一次见到夫子是在长安城的松鹤楼露台上，当时他便被这根著名的棒子砸昏了过去，此时又被砸的生痛，不由好生恼火。\n　　他想不明白老师平时把这根棒子藏在何处，却顾不得研究这个问题，指着头顶的夜空，说道：“说",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "不解问道：“它这么强大，害怕什么？”\n　　夫子接过椰子，用手在坚硬的椰壳上，扳下一小块椰肉，送进嘴里缓缓嚼着，叹息说道：“椰肉久嚼，香过花生。”\n　　宁缺正在专心等着老师的回答，没想到听到这样一句话，苦笑说道：“可没听人说过，也没见谁把椰肉当花生吃。”\n　　夫子放下椰子，说道：“你问昊天害怕什么？它",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "在害怕什么，你怕所有的这些都只是一场梦，或是一场游戏，那种情况确实让人很恼火，不过那种情形确实不需要担心。”\n　　宁缺说道：“因为老师您的推论？”\n　　“不仅如此。”夫子说道：“不管我们生存的世界是什么样的，只要我们是真实的，那么这个世界就是真实的。”\n　　宁缺看着夫子诚心赞美道：“老师，如果您生活",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，才会有我这样爱吃椰肉的人，才会有那些嗜辣如命的人。”\n　　“面对未知，永远不会缺少勇于尝试的人，因为人们会恐惧，但也会好奇。未知和好奇是相生相伴的两个概念，正是人类最显著的特征。”\n　　“就像那天夜里我与你说过的那般，看见一座山，我们总想知道山那边是什么，看见一片海，我们总想知道海底是什么，看见一",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "风轻微温暖，海浪轻柔起浮，就像摇篮一般摇头如婴儿的大船，船舷畔一片安静。\n　　从荒原往北，继续往北便来到了世界南方，数十日来见过太多，吃过太多，也听老师说了很多，宁缺总觉得有哪里不对劲。\n　　他的眼睛忽然明亮，说道：“我总觉得好像在哪里见过……好像叫什么的世界？”\n　　夫子微异，问道：“什么世界？”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

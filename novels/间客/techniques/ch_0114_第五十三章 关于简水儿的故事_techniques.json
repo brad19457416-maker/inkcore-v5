@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 114,
+  "chapter_title": "第五十三章 关于简水儿的故事",
+  "filename": "ch_0114_第五十三章 关于简水儿的故事.txt",
+  "char_count": 3360,
+  "timestamp": "2026-04-10T11:53:35.122620",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "法律文件确实没有效用。但是这一份法律文件，我认可它的效用……因为她是简水\n\n    旷日持久，影响巨大地官司，成为了联邦电视台新闻频道，除了内战之外最好的新闻素材。而官司的最终结果，尤其是联邦首席**官最后那句话，让简水儿在联邦公民心目中的地位更上了一层。\n\n    当时有一个极为有趣的现象，整个联",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "一个半月之后。推出那套一直演到今天地星际电视剧《全金属狂潮》。这部电视剧描写一位联邦战舰女指挥官。从进入军校。再到实习。以及最后加入到与帝国之间战争地全部历程。编剧地功力非凡。成功地描写了一位拥有成年人地智慧与冷静。却同时拥有少女娇俏地女主角。这个女主角自然是由简水儿出演。\n\n    这部电视剧一经",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "能知道我第二天的行程吗？”\n\n    “没有。”\n\n    邰之源看着靳管家微笑着说道：“既然如此，危险又从何而来。”\n\n    “联邦调查局的内部分析，在当前情况下，支持那几位总统候选人的家族，应该对少爷有足够的愤怒。”\n\n    “都只是推测。”邰之源说道：“再过几个月，我就要离开梨花大学，前往",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "旷日持久，影响巨大地官司，成为了联邦电视台新闻频道，除了内战之外最好的新闻素材。而官司的最终结果，尤其是联邦首席**官最后那句话，让简水儿在联邦公民心目中的地位更上了一层。\n\n    当时有一个极为有趣的现象，整个联邦收视率最高的两个频道，都在播放简水儿。只不过频道播出的是她所演的连续剧",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "。”\n\n    “联邦调查局的内部分析，在当前情况下，支持那几位总统候选人的家族，应该对少爷有足够的愤怒。”\n\n    “都只是推测。”邰之源说道：“再过几个月，我就要离开梨花大学，前往西林服兵役，难道你还指望在兵营里，我的身边也布满了家族的保镖？”海州大学城的风雪如往年一般肆虐地下着，将整座面积极",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "个无比可爱的小女孩儿，而他们对简水儿的怜惜又是发自内心，不愿意这个小女生天天忙于拍摄，而没有了自己的人生。\n\n    官司越打越大，颇有背景的儿童权益保护基金会，不停地扩充着被告的名单，联邦电视台，卫星服务商，甚至还有庄臣收视调查机构，都成为了这场官司的被告。基金会最后甚至将两位负责审核电视内容的联",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的愤怒。”\n\n    “都只是推测。”邰之源说道：“再过几个月，我就要离开梨花大学，前往西林服兵役，难道你还指望在兵营里，我的身边也布满了家族的保镖？”海州大学城的风雪如往年一般肆虐地下着，将整座面积极大的城市群，都掩盖在冰雪之中。欢庆新年的家**快乐地逛着街，而那些独自在外地的学生，更习惯躲在公寓",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "席**官，像个老小孩儿一样。笑着望着法院里的摄像机与目瞪口呆的律师们，“我只是想说，像她这样的孩子，将来无论从事什么职业，都会为联邦做出极大的贡献，但既然她选择了填补联邦人民的精神生活……我这个老头子只会表示尊重。”\n\n    基金会的律师举手示意发言，首席**官何英厌烦地摆了摆手，说道：“未满十四",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "电影电视方面的明星多若繁星，而像简水儿这样的明星却极为少见。应该说，这个未满十八岁的紫发小女生，从她出现在联邦频道的那一天起。便迅速占据了所有联邦公民的心。\n\n    不论是她那头时而俏皮，时而柔顺地紫色头发，还是她那双大大的，仿佛会说话的眼眸，还是她在电视剧里所穿着的各个历史时期的战舰指挥官军服，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "在不停争吵。舆论对于这件事情保持着沉默，因为联邦的公众在这件事情上也无法站稳立场，那些白天忙于工作的人们，回到家中后，最习惯做的事情，便是去看光屏上那个无比可爱的小女孩儿，而他们对简水儿的怜惜又是发自内心，不愿意这个小女生天天忙于拍摄，而没有了自己的人生。\n\n    官司越打越大，颇有背景的儿童权益",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "慧与冷静。却同时拥有少女娇俏地女主角。这个女主角自然是由简水儿出演。\n\n    这部电视剧一经推出。马上获得了前所未有地回响。成功地打破了除新闻频道之外所有联邦电视台频道地收视率纪录。而那个将头发染成紫色地小女生。更是成为了联邦中首屈一指地偶像人物。\n\n    如今这套电视剧地剧情。刚刚演至简水儿上",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "。以及最后加入到与帝国之间战争地全部历程。编剧地功力非凡。成功地描写了一位拥有成年人地智慧与冷静。却同时拥有少女娇俏地女主角。这个女主角自然是由简水儿出演。\n\n    这部电视剧一经推出。马上获得了前所未有地回响。成功地打破了除新闻频道之外所有联邦电视台频道地收视率纪录。而那个将头发染成紫色地小女生",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "的揉了揉一头蓬松的紫色头发，对着现场直播的镜头说道：“我很感激基金会为我所做的努力，我也明白基金会是担心未成年人地权益。不能得到最充分、甚至是没有任何先提条件的保护……但是我只想说一句，我所做的决定全部是我自己做的，我喜欢。”\n\n    我喜欢三个字看似简单，却表达了这位联邦头号明星的态度。儿童权益",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "比电视剧更精彩呢？\n\n    今天是简水儿新歌发表会兼个人首场演唱会。除了那部电视剧的片尾曲，简水儿从来没有唱过歌。今天这一场新歌发表会没在首都特区，也没有放在最大的那个都市，而是放在了临海州大学城，这令临海州的官员与民众，都感到了无比骄傲，只看馆外的那些名贵交通工具，便知道今天不知道有多少州议员携",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "地的学生，更习惯躲在公寓暖和的被子里玩游戏，只是今年这个习惯被一场演唱会所打破了，各大校园里显得无比安静，而大学城西北角玫瑰河畔的综合体育馆内，却是无比热闹。\n\n    许乐掸去了身上的雪屑，深深地吸了一口气，抬头看着体育馆上方无比巨大的光幕，看着光幕上那个无比熟悉的紫发女生丽光四射的面容，忍不住笑",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "有谁能知道我第二天的行程吗？”\n\n    “没有。”\n\n    邰之源看着靳管家微笑着说道：“既然如此，危险又从何而来。”\n\n    “联邦调查局的内部分析，在当前情况下，支持那几位总统候选人的家族，应该对少爷有足够的愤怒。”\n\n    “都只是推测。”邰之源说道：“再过几个月，我就要",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

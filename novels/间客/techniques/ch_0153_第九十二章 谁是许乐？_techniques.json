@@ -1,0 +1,128 @@
+{
+  "novel": "间客",
+  "chapter_number": 153,
+  "chapter_title": "第九十二章 谁是许乐？",
+  "filename": "ch_0153_第九十二章 谁是许乐？.txt",
+  "char_count": 3512,
+  "timestamp": "2026-04-10T12:04:45.663694",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "你既然是梨花大学的学生，想必是跟着周教授学习了。”周玉转过头来，微笑望着许乐说道。\n\n    不知道为什么，许乐总觉得对方看自己的眼神有些怪异，他自认自己这张脸十分普通，哪里想到对方仅仅凭声音，就已经认出了自己。\n\n    几句谈话下来，许乐与这位第一军事学院的王牌学生虽然谈不上熟悉，但也多了几分真",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "向了最前排地那位金发考生。虽然他对于机甲作战并没有过太浓郁地兴趣。可是在区地练习。让他对机甲作战并不陌生。他在那次机甲对战中与身旁地周玉战成了平手。但是他心里很清楚。如果不是那套古董级地拟真系统。如果不是自己体内地神奇力量。以及在那一刻极好地运气保障……他绝对没有可能在周玉银色机甲地凌厉攻势下撑下去",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "会议室里本来有些尴尬的考生们，听到这句话后，不禁骚动起来，他们终于确认，这位工程部的主管亲自来到招募考试现场，果然是来招人的！\n\n    所有的考生都想进入工程部，纷纷竖起了耳朵，希望自己的名字能够从这位主管的嘴里说出来。就是那些已经被分配了部门的考生。也好奇地注视着，不知道是哪些幸运儿。或",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "却是越发地紧张。他不知道对方是怎么把那台黑色机甲与自己联系上地。虽然如今地他。已经确认自己体内地神妙颤抖力量。可以被完美地遮掩。就算被人知晓了那台黑色机甲里地机师是自己。也不会出什么大问题。可是下意识里。他还是觉得有些不安。\n\n    幸运的是，周玉平静而充满问号的眼光，并没有直接给予他太久的压力。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "闭上了嘴。\n\n    “你既然是梨花大学的学生，想必是跟着周教授学习了。”周玉转过头来，微笑望着许乐说道。\n\n    不知道为什么，许乐总觉得对方看自己的眼神有些怪异，他自认自己这张脸十分普通，哪里想到对方仅仅凭声音，就已经认出了自己。\n\n    几句谈话下来，许乐与这位第一军事学院的王牌学生虽然谈",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "排考核通过者研习方向的事情，还是交给了其余几名考官。\n\n    果壳机动公司的招募与一般的公司招聘有本质上的不同，但凡通过招募考试的人员，都将直接被分配到不同的部门之中，而没有新进员工的集体培训一说。一方面是因为这间联邦最出名的公司所招募的考生，本身就是最优秀的那群人，必须满足公司来则能用地要求，二",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "己的腕表，发现离回港都的航班时间已经很近，他轻轻拍了拍身前那名考官地肩膀，笑着说了几句什么，便站到了众人的面前。\n\n    他盯着台下依然坐着的考生们说道：“我是工程部人事主管何塞。”\n\n    听到这句话，台下顿时一阵骚动，这些三大军事学院地学生都非常清楚工程部在果壳机动公司内部的地位，除了公司研",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "仅因为他的优秀，更因为他谈吐举止所流露出来的那种气质。\n\n    此时考生们已经全部进入了会议室，或紧张或平静地等待着最后的考核成绩。就如同在食堂里一样，一百余名考生依然按照三大军事学院，分成了三个。而许乐因为和周玉说话的缘故，恰好坐在一院这群学生的中间。\n\n    “坐在第一排的金发考生，是三院的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "有新进员工的集体培训一说。一方面是因为这间联邦最出名的公司所招募的考生，本身就是最优秀的那群人，必须满足公司来则能用地要求，二来也是因为公司一直认为，对新人的培训应该在实践中进行，而不应该浪费任何时间和金钱。\n\n    随着那名面色严肃考官的声音响起，会议室里时不时有考生垂头丧气地离开。这都是没有通",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

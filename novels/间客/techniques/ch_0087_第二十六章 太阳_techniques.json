@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 87,
+  "chapter_title": "第二十六章 太阳",
+  "filename": "ch_0087_第二十六章 太阳.txt",
+  "char_count": 3391,
+  "timestamp": "2026-04-10T11:53:35.149033",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的沉默，似乎正在努力地判断自己哪里做错了，临海州发生了什么事情。\n\n    邰之源没有给对方任何寻找真相，努力解释的时间。平静说道：“我还要在临海上半年学，这半年你不要来临海了。另外告诉郁子一声，我是一个很念旧的人，不要用你们那些光辉事迹，把所有地旧都消磨光。”\n\n    “那个叫钩子的人，以后不要",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "才能救回一条命来。\n\n    手术之前，已经得知了昨天冲突细节的邹侑，阴沉着脸盯着病床上的钩子，强行压抑着怒火低吼道：“我不管那什么许乐！我只问你一句，你上了那个叫白琪的妓女没有？上了没有？”\n\n    钩子咳了半天，才完整地说出了两个字：“没有。”\n\n    邹侑听到这个答案，心情稍安，不得不说，",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "那这两个男人想不铁都很难。邰之源和许乐在的那些夜里，应该算是同窗了，今天虽然没有一起下水，但关于彼此第一次的细节，却了解都不算少，或许正是因为这些原因，邰之源在许乐面前显得比以往更放松了些，眉宇间那些淡淡的疏离与审看也少了许多。\n\n    与邰之源此时的心情相反，许乐的心里反而有些沉重，发现自己的朋",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "。男人没有处女膜，自然不能再重新做一个。”\n\n    听到少爷难得的粗俗的话语，靳管家微微皱了皱眉，心想那个叫许乐的学生，看样子真的让少爷沾染了不少负面习气。但同时他也听出了少爷今天地心情异常的好，犹豫了片刻后说道：“今天的成人礼并不符合家族的规矩。”\n\n    邰之源睁开了双眼，似笑非笑说道：“哪",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "连军医院都没有办法马上解决这个问题，必须动手术才能救回一条命来。\n\n    手术之前，已经得知了昨天冲突细节的邹侑，阴沉着脸盯着病床上的钩子，强行压抑着怒火低吼道：“我不管那什么许乐！我只问你一句，你上了那个叫白琪的妓女没有？上了没有？”\n\n    钩子咳了半天，才完整地说出了两个字：“没有。”",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "很多年前，他就认识了妹妹地那个同学，但那时候他并没有想到，那个人会如此深远地影响到自己地将来。虽然邰家从来没有表示过对他父亲的赏识，但是只要知道自己家与太子之间关系地人，总会有意无意地帮助自己父亲挡开政途前方的荆棘。\\\n\n    邹家原本就有些根基，但这些年能在那一个层面上得到如此多的敬",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "一下的。”邰之源说道。\n\n    黑色地汽车到了梨花大学那处僻静的后门停下。将许乐放下车，然后便在秋风中驶入了校园深处。许乐怔怔地看着那辆没有任何标记的汽车黑色影子，忽然间想起来，好几个月前的那个清晨，就是这辆汽车像个幽灵一样驶进了梨园，险些撞到了张小萌。\n\n    驶进一片不起眼的树林，汽车通过了",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "呆。\n\n    偶尔兴起的成人礼。=小说首发==让他很愉悦，这种小风波本不可能让他平静坚韧的心有丝毫颤抖，但是先前在街边听着那个姓赵的流氓头子对那个军人说到白琪这个名字的时候，他觉得很不高兴。他细细地回味这种可能被称为占有欲和嫉妒地情绪，越来越觉得当年的先祖，实在是很能掌握一个年轻人的心理活动过程。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "安地思索着，自己和妹妹究竟做了什么事情让对方如此不高兴，妹妹和钩子在临海州大学城，难道是妹妹那个火爆脾气惹恼了对方？可是为什么对方最后一句话又专门点明了不想再见到钩子？听妹妹说，那边只是给她打了个电话，连见都没见，这要得罪又从何说起？\n\n    不知道自己究竟做错了什么，便是想弥补都无从弥补。邹侑少",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "，他们兄妹二人能够在这个社会里如此嚣张，凭恃的究竟是什么？父亲邹应星能够在国防部做到一部主管，成为了人们眼中真正的大佬，这又是为什么？\n\n    太阳从来不需要说话，地面上的草原和生灵就印证了他的强大。对于邹侑少校来说，那个已经很久没有见面的“朋友”，或者说那个一直没有真正接触到的家族，亦是如此。然",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "，所以靳管家也不知道具体的过程，只是嘱咐了一句那些工作人员要依法办事。\n\n    靳管家当天晚上亲自来到了星辰会所，准备看望一下让少年完成成人礼的姑娘。而此时，那位与许乐一道引发了临海州大变动的当事者之一，会所牌白琪姑娘，还根本不知道发生了什么事情。\n\n    — www。xiaoshuotxt。c",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "一只手断了，更恐怖的是他的肋骨断了十几根，断开的骨刺扎进了肺叶，一直不停地咳血，就连军医院都没有办法马上解决这个问题，必须动手术才能救回一条命来。\n\n    手术之前，已经得知了昨天冲突细节的邹侑，阴沉着脸盯着病床上的钩子，强行压抑着怒火低吼道：“我不管那什么许乐！我只问你一句，你上了那个叫白琪的妓",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "爷难得的粗俗的话语，靳管家微微皱了皱眉，心想那个叫许乐的学生，看样子真的让少爷沾染了不少负面习气。但同时他也听出了少爷今天地心情异常的好，犹豫了片刻后说道：“今天的成人礼并不符合家族的规矩。”\n\n    邰之源睁开了双眼，似笑非笑说道：“哪里不符合？十八岁那年任意一场舞会上的任意一个女性，几万年的规",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "自喜悦，但也有的人会感到淡淡失望，因为毕竟不是一个世界的人，怎能相处的长久。\n\n    “我只是有些担心。”许乐说道：“可能你家里很有背景，但你知不知道我得罪的是些什么人？那一对兄妹的父亲听说是国防部的大佬，今天把你拖了进来，你的保镖还打伤了一名现役军人，这件事情只怕有些难办。”\n\n    邰之源笑",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "有的人会感到淡淡失望，因为毕竟不是一个世界的人，怎能相处的长久。\n\n    “我只是有些担心。”许乐说道：“可能你家里很有背景，但你知不知道我得罪的是些什么人？那一对兄妹的父亲听说是国防部的大佬，今天把你拖了进来，你的保镖还打伤了一名现役军人，这件事情只怕有些难办。”\n\n    邰之源笑了笑，没有回",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "。\n\n    邰之源听着电话那头邹侑惊喜的声音，唇角泛起一丝嘲讽的笑容，半晌后缓缓说道：“联邦是法治社会，你们兄妹做事是不是应该收敛一些。”\n\n    电话那头的惊喜顿时变成了紧张的沉默，似乎正在努力地判断自己哪里做错了，临海州发生了什么事情。\n\n    邰之源没有给对方任何寻找真相，努力解释的时间",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "电话递给了后排的邰之源。\n\n    邰之源听着电话那头邹侑惊喜的声音，唇角泛起一丝嘲讽的笑容，半晌后缓缓说道：“联邦是法治社会，你们兄妹做事是不是应该收敛一些。”\n\n    电话那头的惊喜顿时变成了紧张的沉默，似乎正在努力地判断自己哪里做错了，临海州发生了什么事情。\n\n    邰之源没有给对方任何寻",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

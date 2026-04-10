@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 964,
+  "chapter_title": "第一百三十七章 看破天，佛掩面",
+  "filename": "ch_0964_第一百三十七章 看破天，佛掩面.txt",
+  "char_count": 3362,
+  "timestamp": "2026-04-10T12:11:27.607750",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "死了她。”\n　　宁缺看着青板僧，平静说道：“你是我杀的，你全家都是我杀的。”\n　　“可是……可是，你为什么要杀我，要杀我全家呢？”\n　　青板僧完全没有仔细听宁缺的话，只觉得很糊涂，挠头说道：“而且我叫青板子，我不叫道石，你是不是弄错人了？”\n　　宁缺说道：“青板……就是铺道的石，道石。”\n　　“师兄",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "他望向禅室的木门，原来，门是假的，门槛也是假的。\n　　他望向禅室屋顶，眼光透过房梁，落在灰暗的天空上。\n　　禅室是假的，寺也是假的。\n　　那么朝城阳城？这片天空呢？\n　　宁缺推开禅室木门走了出去，便在这时，天空里的阴云骤散，露出太阳，世界顿时变得无比清明，白塔清湖美丽如画。\n　　阳光洒落在脸上",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "世界是虚妄的，但这些年……尤其是最开始的那些年，真的很幸福吧，那些日子真的很好，真令人依依不舍，不想离去。”\n　　桑桑靠着他的肩，神情惘然。\n　　宁缺轻抚她鬓上的小白花，说道：“你觉得这天很好看？”\n　　桑桑轻轻嗯了一声。\n　　宁缺说道：“你觉得天空很熟悉，很亲近，所以想看？”\n　　桑桑望向灰暗而高",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "她缓缓站起身来，背起双手。\n　　青板僧看着忽然变成漆黑一片的天空，惊慌不已，抓着宁缺的衣袖，声音颤抖说道：“师兄，这是怎么了？”\n　　宁缺说道：“我们准备离开这里，你去找个地方藏好。”\n　　青板僧说道：“你们要去哪里？”\n　　宁缺说道：“我们要去外面。”\n　　“外面……外面是哪里呢？”\n　　青板",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "拿着馒头指向身前的湖，湖对岸的白塔，委屈嚷道：“明明这些都在，我都能看见，你怎么能说是假的呢？你不讲道理。”\n　　宁缺看着他，沉默了很长时间，说道：“你也是假的。”\n　　青板僧憨痴地看着他，完全不懂他在说什么。\n　　宁缺说道：“很多年前，其实你就已经死了，你只是剩下的一缕佛性……寺中僧人说你的宿慧，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "，然后挽弓搭箭，瞄准她手指指向的遥远处，待弓弦如满月时，骤然松开。\n　　一道圆形的白色湍流，在箭尾处出现，黝黑的铁箭消失于湖面上，不知去了何处，隔了很长时间，都没有任何回音。\n　　“你看，我就说这是假的。”宁缺说道。\n　　桑桑问道：“为什么？”\n　　宁缺说道：“如果长安城在那里，铁箭射过去，书院必然",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "那个局被我书院破解，你父亲死在书院手中，也等于是死在我的手中。”\n　　“更后来我和她逃到了朝阳城，被无数信徒和佛道两宗的强者围困在这座白塔寺里，你母亲曲妮玛娣当时在这里清修，被我掳为人质，我本来准备随后放了她，但因为某些原因，最后还是杀死了她。”\n　　宁缺看着青板僧，平静说道：“你是我杀的，你全家都",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "宁缺没有说话。\n　　青板僧不停地流泪，用僧袖不停的擦试，却怎样也擦不干净。\n　　宁缺的神情忽然变得凝重起来。\n　　青板僧以袖拭泪，泪水擦不干净。\n　　他以袖拭面，把脸擦的很干净，只见他用袖子一擦，眉毛便少了一道，再擦，鼻子没有了，再擦，眼睛也没有了。\n　　他似乎觉得有些不好意思，以袖掩面，憨厚说道",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。\n　　他解下箭匣，在很短的时间内把铁弓组好，然后挽弓搭箭，瞄准她手指指向的遥远处，待弓弦如满月时，骤然松开。\n　　一道圆形的白色湍流，在箭尾处出现，黝黑的铁箭消失于湖面上，不知去了何处，隔了很长时间，都没有任何回音。\n　　“你看，我就说这是假的。”宁缺说道。\n　　桑桑问道：“为什么？”\n　　宁缺说",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "是假的，或者，是真实的，但无论如何，这里都不是她的世界，这里是棋盘的内部，这里是佛祖的世界。\n　　她缓缓站起身来，背起双手。\n　　青板僧看着忽然变成漆黑一片的天空，惊慌不已，抓着宁缺的衣袖，声音颤抖说道：“师兄，这是怎么了？”\n　　宁缺说道：“我们准备离开这里，你去找个地方藏好。”\n　　青板僧说道：",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "着他脸上神情，微微一怔，然后脸上流露出真心欢愉情绪，憨喜问道：“师兄明悟了？”\n　　宁缺看着这痴僧，说道：“是的，全都悟了。”\n　　青板僧睁大眼睛，急切请教道：“师兄悟了些什么？”\n　　宁缺说道：“什么都是假的。”\n　　青板僧不解，下意识里重复了一遍：“什么都是假的？”\n　　“不错。”宁缺站在湖畔，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "单手合什，似极喜乐，然后转身向血海深处走去，渐渐消失。\n　　宁缺看着这幕画面，忽然觉得很是悲伤，似乎以后再也看不到他了。\n　　影散，灰墙渐散，原来，这墙是假的。\n　　他回头望向桌上的蜡烛，原来蜡烛也是假的。\n　　他望向禅室的木门，原来，门是假的，门槛也是假的。\n　　他望向禅室屋顶，眼光透过房梁，落在",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "和她逃到了朝阳城，被无数信徒和佛道两宗的强者围困在这座白塔寺里，你母亲曲妮玛娣当时在这里清修，被我掳为人质，我本来准备随后放了她，但因为某些原因，最后还是杀死了她。”\n　　宁缺看着青板僧，平静说道：“你是我杀的，你全家都是我杀的。”\n　　“可是……可是，你为什么要杀我，要杀我全家呢？”\n　　青板僧完",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "轻握住她的手，看着灰暗的天空，说道：“虽然这个世界是虚妄的，但这些年……尤其是最开始的那些年，真的很幸福吧，那些日子真的很好，真令人依依不舍，不想离去。”\n　　桑桑靠着他的肩，神情惘然。\n　　宁缺轻抚她鬓上的小白花，说道：“你觉得这天很好看？”\n　　桑桑轻轻嗯了一声。\n　　宁缺说道：“你觉得天空很熟",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

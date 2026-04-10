@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 982,
+  "chapter_title": "第三百零八章 异域孤军（中）",
+  "filename": "ch_0982_第三百零八章 异域孤军（中）.txt",
+  "char_count": 4558,
+  "timestamp": "2026-04-10T12:05:26.937116",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "队被确认和帝国人勾结，叛变联邦，要求各师一旦现他们的踪迹，即刻消灭。在联邦基地往前线各bu队的秘密电文中，他们这支ntrb\n\n    疾时的哭泣是背景音，至于牺牲奉献之类的词汇，只是些很不起眼的旁注。死亡才是战争中永恒的主旋律，中dan时的惨嚎、现自己残\n\n    在光辉黯淡不全的帝国星域之内",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "指控我们叛\n\n    ，那支杜少卿的嫡系bu队已经离开了平梁山北麓，现在不知道去了哪里。他们抱着希望来到推演中十一师驻防区域，然而不知道多少天前\n\n    验之外，还随时可能被帝国大bu队包围歼灭。但是他们不可能永远在帝国控制区里并荡，给养dan药面临考\n\n    来推兵计算，这个师现在已经驻扎在这",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "]官鬓角的白纠结在一处，露出那只残破严重的耳朵。许乐顺着缝隙向坑道里看了一眼，于火光照亮坑壁极短的一瞬间\n\n    真地思考突围方向，他们在费热市里潜伏了两个月，手中没有任何情报，根本不知道该怎样选择。坑道里的人们借着昏暗的光线，盯着电子[君]事地图，开始认\n\n    你要在山谷里拣两台报废机甲，头",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "是真正的军人，无论在战场上遇到怎样的突状况，哪怕是\n\n    召开了一次战前会议，所有人都清楚当前的危险局面，所以这次会议的主要目的不是为了统一思想或走动员，只是要简单地商议出一个结果：大家该往何处去。凌晨三点半，在离开废弃石墨矿营地之前，这支孤单的联邦小队\n\n    向东方玉，说道；“我不是看好你",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "那么现在便有一个\n\n    奇的张开一道口子，阳光清丽洒下。突如其来，平梁山北麓的浓雾忽然散开，就连天空中的厚云都神\n\n    总是悲剧结尾，能避免还是避免一下的好。”“孤[君]作战这种画面很悲壮很有力量，但悲壮这种事情最后\n\n    为咱们头儿最擅长的事情就是收破烂修破烂。”“当年咱们七组上前线，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "去做。关于联邦军方上层的感慨，以及关于阵营变化的感慨，很简单的\n\n    片段，不用担心基地现我们的存在，这是一个好机会，至少可以听一下，联邦bu队现在给我们安了什么罪名。”“电子屏蔽伪溢码还能用半小时，自启芯片释放的是十一师信息\n\n    沉声说道：“只不过怎么也没有想到，仅仅这样他们还觉得不够，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "到此为止，熊临泉开始认真地向许乐汇报部队现在面临的情报，商议接下来应该怎样去做。关于联邦军方上层的感慨，以及关于阵营变化的感慨，很简单的\n\n    片段，不用担心基地现我们的存在，这是一个好机会，至少可以听一下，联邦bu队现在给我们安了什么罪名。”“电子屏蔽伪溢码还能用半小时，自启芯片释放的是十一",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "第三百零八章 异域孤军（中） \n\n    众人笑着说道：“我建议绕过平梁山一带，摆脱[君]方上层跟踪之后，主动并且迅速地向联邦地面bu队靠拢.没有什么阴谋能够让墨花星上逾百万联邦bu队随着一起行动，只要我们不被当场击毙，那就有机会说明事情的真",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "意见，用最快的速度向十一师靠拢。”\n\n    变！那些人还要不要脸！”熊临泉重重一拍山洞湿漉的墙壁，愤怒说道：“居然指控我们叛\n\n    ，那支杜少卿的嫡系bu队已经离开了平梁山北麓，现在不知道去了哪里。他们抱着希望来到推演中十一师驻防区域，然而不知道多少天前\n\n    验之外，还随时可能被帝国大b",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第三百零八章 异域孤军（中） \n\n    众人笑着说道：“我建议绕过平梁山一带，摆脱[君]方上层跟踪之后，主动并且迅速地向联邦地面bu队靠拢.没有什么阴谋能够让墨花星上逾百万联邦bu队随着一起行动，只要我们不被当场击毙，那就有机会说明事情的真相许乐放",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "了，难道是被这场怪雾给吞了？”熊临泉缓缓入下手中的望远镜，看着山谷里的雾气，难以掩饰脸\n\n    于第一次听到了联邦[君]方上层的声音，然后沉默。通过这台破烂通讯台，自昨rì通讯静默之后，山洞里的人们终\n\n    ，只有熊临泉和东方玉注意到，许乐抱着那台报废的通讯台，在洞口不停鼓捣着什么。在一处阴森",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "什么？刚才\n\n    上的失望表情，自嘲说道：“这帮家伙跑哪儿去了，难道是被这场怪雾给吞了？”熊临泉缓缓入下手中的望远镜，看着山谷里的雾气，难以掩饰脸\n\n    于第一次听到了联邦[君]方上层的声音，然后沉默。通过这台破烂通讯台，自昨rì通讯静默之后，山洞里的人们终\n\n    ，只有熊临泉和东方玉注",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "议接下来应该怎样去做。关于联邦军方上层的感慨，以及关于阵营变化的感慨，很简单的\n\n    片段，不用担心基地现我们的存在，这是一个好机会，至少可以听一下，联邦bu队现在给我们安了什么罪名。”“电子屏蔽伪溢码还能用半小时，自启芯片释放的是十一师信息\n\n    沉声说道：“只不过怎么也没有想到，仅仅这样",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    }
+  ]
+}

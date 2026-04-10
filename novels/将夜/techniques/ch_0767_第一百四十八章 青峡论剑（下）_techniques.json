@@ -1,0 +1,193 @@
+{
+  "novel": "将夜",
+  "chapter_number": 767,
+  "chapter_title": "第一百四十八章 青峡论剑（下）",
+  "filename": "ch_0767_第一百四十八章 青峡论剑（下）.txt",
+  "char_count": 3461,
+  "timestamp": "2026-04-10T12:11:27.133944",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "和柳白两个人明白――柳白最开始的时候，已经做出了回答，只不过那个回答，不能说明二师兄。\n　　柳白望向天空，没有说什么。\n　　既然没有回答，那么便只能继续，最终还是要以剑论事。\n　　“剑道分为剑与法，法又分为势与术。”\n　　“势是念力，术是手段。”\n　　“我初识之时，曾见滔滔黄河，念力当世最强。我练剑",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "只不过那个回答，不能说明二师兄。\n　　柳白望向天空，没有说什么。\n　　既然没有回答，那么便只能继续，最终还是要以剑论事。\n　　“剑道分为剑与法，法又分为势与术。”\n　　“势是念力，术是手段。”\n　　“我初识之时，曾见滔滔黄河，念力当世最强。我练剑三日，身周八千方位，便无一遗漏，暴雨不能沾衣，手段当世",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，连绵响起无数声凄厉的剑啸。\n　　数十柄剑，像受到重击的石头般，自血染的原野间跃起，变成数十道剑光，瞬间消失不见，再出现时已到了马车之前！\n　　飞剑是修行者用念力操控天地元气，再间接操控本命飞剑的驭剑法门，似柳白这种层次的强者，心在剑间，可以万里割人首级。\n　　君陌用的青山打，则是直接把天地元气作用",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "以你今日必输无疑。”\n　　“既然不以数论，何必算数？”\n　　二师兄说道：“我始终以为，一场没有开始的战斗，便没有确定的胜负。”\n　　柳白大笑，赞道：“好气魄。”\n　　……\n　　……\n　　君陌已经走到了原野之间，离青峡出口有一段距离，在他的身前，是一地零落如秋日枯枝的残箭，还有两百余柄剑。\n　　这些剑",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "这种问题困扰，剑心通明哪会蒙尘，自可以随意择之。\n　　没有人知道，他今日会选择哪一种驭剑方法。\n　　人们只知道他动剑，便没有任何人能够接住，因为他的剑最快，除了无距境界的观主和大师兄，除了讲经首座能够以肉身抗衡，余者皆不足提。\n　　有一个放诸四海皆准的道理，柳白先出剑，便等于胜利。\n　　君陌没有让柳",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "在原野间，像是一片剑冢。\n　　今日当他走到这片剑的坟墓里时，那两百余柄剑却仿佛感应到了一些什么，微微颤抖起来，就像是被风拂动的树枝，成了一片剑林。\n　　很像书院草甸深处的那片剑林。\n　　君陌站在这片剑林里，神情肃穆，举起手中的铁剑。\n　　……\n　　……\n　　柳白静静看着那片剑林，看着剑林里那个身姿挺",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "念力当世最强。我练剑三日，身周八千方位，便无一遗漏，暴雨不能沾衣，手段当世最强。”\n　　柳白看着君陌说道：“若是平日，你与我战，有败无胜，这两日，你剑斩千骑，血气渐旺，胜负之数当为九一，如今你又胜叶苏，剑意通达至极，当为八二，然则剑之一道，不以数论，所以你今日必输无疑。”\n　　“既然不以数论，何必算",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "第一百四十八章 青峡论剑（下）\n　　“能破，便不能遵循。”\n　　这是柳白的回答，也是强者们习惯的道理。\n　　二师兄其实也是这种想法，他的铁剑是自已的规矩，却最擅长斩破他人的规矩，所以他继续问道：“既然要破，为何不破？”\n　　这句话里的意思，只有他和柳白两个人明白――柳白最开始的时候，已经做出了回",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "凄厉的剑啸。\n　　数十柄剑，像受到重击的石头般，自血染的原野间跃起，变成数十道剑光，瞬间消失不见，再出现时已到了马车之前！\n　　飞剑是修行者用念力操控天地元气，再间接操控本命飞剑的驭剑法门，似柳白这种层次的强者，心在剑间，可以万里割人首级。\n　　君陌用的青山打，则是直接把天地元气作用在剑身，略去了念",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "多少层空气，高速地颤抖着，相信就算前面是一块厚实的铁板，也会被这些高速振鸣直接破开。\n　　这把剑就要来到柳白的身前。\n　　就要与那柄横着的锈剑相遇。\n　　……\n　　……\n　　仿佛是烂柯寺未毁之前的古钟集体鸣响。\n　　仿佛是一个顽童把石头扔进平静的湖水。\n　　柳白身前的空中，响起了一道声音。\n　　那道",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "出来比自已的剑更快的法门。\n　　如果是平时，他会赞叹甚至激赏于君陌的强大。\n　　但此时，他的神情必须凝重，因为他要面对这些剑。\n　　他被迫防守。\n　　不得不守。\n　　于是，他横剑。\n　　古剑横于身前，没有齐眉，不是施礼，而是一道剑意。\n　　这道剑意就像古剑本身，绝对的平直，在秋风中没有一丝颤动。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "，把自然的力量尽数转变成剑恐怖的速度。\n　　青峡之前这些剑的速度，已然超出了修行者对飞剑速度的想象，从来没有人想过可以这样驭剑，也从来没有人看见过这样快的飞剑。\n　　这些剑快到原野间的空气都开始哀鸣，快到无论肉眼还是感知，都已经无法捕捉它的痕迹，快到等同于消失了一般！\n　　快到柳白都没有信心，能在这",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "剑尖，近乎要触到他的眼睛。\n　　任何人在这种局面下，大概都会觉得恐惧。\n　　但柳白脸上的神情还是那样宁静。\n　　因为他的剑在手中。\n　　那么这些剑便近不了自已的身体。\n　　不近。\n　　亦不远。\n　　将将一尺。\n　　这就是柳白的身前一尺。\n　　这是他的世界。\n　　这是他手中剑的世界。\n　　风能进，雨能",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "忽然变得柔软起来。\n　　他手中的剑，不再是斑驳的旧城墙，而变成了城下的河水。\n　　护城河。\n　　河水温柔，然而却能守住一座雄城。\n　　……\n　　……\n　　数十柄剑，没有一把能够刺透那道无形的屏障，静止在空中。\n　　这幕画面看上去很诡异，很令人震撼。\n　　仿佛柳白身前的空中，生出了一片横生的剑林。",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

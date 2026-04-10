@@ -1,0 +1,232 @@
+{
+  "novel": "间客",
+  "chapter_number": 348,
+  "chapter_title": "第三十章 两师相对",
+  "filename": "ch_0348_第三十章 两师相对.txt",
+  "char_count": 8018,
+  "timestamp": "2026-04-10T12:04:59.263780",
+  "techniques_count": 17,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "赢了一个刚从学校毕业的废物，实在是没有任何意义。”\n\n    此言一出，四周俱静，一股令人不寒而栗的危险感觉油然而生。军营里军阶秩序森严，在一位少将师长训话时，哪里允许下级随便插嘴？先前军官学员们被训的狗血淋头，满脸通红，却也只能将胸膛挺的更高，此时竟有人横空出世，说了这么一句话，这不是找死是什么？",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "耗时三十四分钟，回援营地需要十二分钟，四十六分钟之内，七师装甲旅无法穿:１24区域。”\n\n    “为什么不能？”杜少卿冷冷看着他。\n\n    “因为路不好走，报告将军。”\n\n    周玉难得地玩了一把俏皮，看来便是温润守礼如他，对于咄咄逼人的杜少卿也生出了一丝反感。先前听到他说起教官时，许乐正低头",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "里的兵力全部在寂静岭东线被牵制，哪里还有多余兵力设伏？就算装甲旅没有摸到你的营地，但自那处一出，海阔天空，绕到你的后侧，与七师主力配合，你认为联合纵队今天还能活下来几个人？”\n\n    “更关键的是。”杜少卿淡漠地望着周玉，加重了语气，压迫感十足说道：“你的营地在那里！军人在战场之上，就要敢于赌博，",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "”周玉面无表情，大声回答道。\n\n    “战术推演第二。”杜少卿淡漠说道：“我来问你，你军机甲营直突寂静岭下方时，七师若放弃后备不作支援，以装甲旅碾过n3通道，强攻你的营地，你如何应对？”\n\n    一直安静无声的场地中间，忽然气氛为之一变，因为所有军官包括在外站立的教官等人，都听出来，这位以战术推",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "至此，在场间众人眼中，已经非常了不起。但是看着一脸酷，戴着墨镜的那位师长，众人心头更是无比震惊寒冷，心想杜少卿的大脑究竟是什么做的？\n\n    那几名跟着杜少卿前来地铁七师中校军官，却是一脸平静，他们看多了自家师长惊世骇欲的军事智慧，早已习惯了这一切，相反，对于与师长进行口头战术推演到现在的周玉，他",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。你们居然还打成这副模样。身为联邦军人。难道不觉得惭愧？”\n\n    杜少卿似乎还不满足。冷冷地看着众人。平静说道：“和第七师打了一场。夺了两个战术目标。你们是不是就感觉很满足？未战之前。便想着要输。身为联邦军人。难道不觉得羞耻？”\n\n    “就连这两个目标。也是本座部下放手给你们地！”杜少卿沉声",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "和沉默，并没有能够让杜少卿脸上的冰雪稍为融化一丝，他锋利的目光透过墨镜地镜片，缓缓地扫视了一周，冷声说道：“像这种设定好的军演，无论胜负，对我联邦军人而言，都没有任何意义。”\n\n    一句话便将联邦军方组织的毕业日军演说的狗屎不如，大概也只有这位集万千目光于一身的少将师长，才敢说出这种话。只不过他",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "墨镜地镜片，缓缓地扫视了一周，冷声说道：“像这种设定好的军演，无论胜负，对我联邦军人而言，都没有任何意义。”\n\n    一句话便将联邦军方组织的毕业日军演说的狗屎不如，大概也只有这位集万千目光于一身的少将师长，才敢说出这种话。只不过他这句话却也将铁七师这些年最令人敬畏的资本一笔抹了，旁人听在耳朵里，",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "拉小提琴。\n\n    军营是个阶层秩序格外森严的地方，杜少卿身为少将师长，无论他说什么，做什么，这些阶级比他低太多的军官也只有老老实实听着，即便不服气，也只有满脸通红，将身躯挺的更加笔直，哪里有人敢出声质疑什么？\n\n    联邦政府如今格外赏识铁七师，军方也倚重杜少卿，今天军演之后，由他来训话，这就",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "场依然安静无声，只是有些军官的脸微微涨红，眼眸丝挣扎，他们感受到了强烈的羞辱感与不解的愤怒，但没有一个人敢说话，因为这是在军营之中，说出这句话的是一位少将师长，正在毫不客气训斥他们的……是杜少卿。『』\n\n    这位军方少壮派名将的面部线条十分清晰，就像他指挥铁七师时的战术那般清晰，透",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "难看。和你们无关。只是想着那些被你们胡乱指挥地普通士兵。身为军官。我不愿意看到基层地士兵。对联邦军方将来地指挥体系完全绝望！”\n\n    “打个假仗。还需要对手刻意留情。身为联邦军人。难道你们不觉得自己是个废物！”\n\n    惭愧、羞耻、废物。一句话比一句话更加锋利。越来越重。尤其是最后杜少卿地说法",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "的正式军籍，划到许乐的手下。他身为主管，此时必然要出面。\n\n    “既然不是受训军官，为什么此时会出现在此地？”西门瑾看着许乐，依然是大声地训斥道，脸色一片阴沉。\n\n    许乐诚恳地回答道：“这是国防部的命令，我也不明白是怎么回事。”\n\n    西门瑾眉头一皱，冷声说道：“他是你的部下？你又是谁",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "“触犯条例，让你的人出来。”\n\n    在军营之中，这个要求并不过分，但许乐并不是职业军人，而且他的性格也决定了他今天不可能把兰晓龙交出来，但面对着森严的军队纪律，他又能有什么办法？\n\n    “先前杜师长与周玉学员进行战术推演，我这位部下只是想参加到讨论当中，并不是刻意打断长官的谈话，我不认为需要",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，要以此向众人证明七师今天给予这些军官们自信心最沉重的一记打击。\n\n    周玉却是丝毫不怯，眼眸里骤然明亮，用清晰的声音回答道：“教官说过，mx机甲最擅长突袭斩，我军依水脉驰援而下，结束战斗需要耗时三十四分钟，回援营地需要十二分钟，四十六分钟之内，七师装甲旅无法穿:１24区域。”\n\n    “为什",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "时所表现出来的严明纪律和沉默，并没有能够让杜少卿脸上的冰雪稍为融化一丝，他锋利的目光透过墨镜地镜片，缓缓地扫视了一周，冷声说道：“像这种设定好的军演，无论胜负，对我联邦军人而言，都没有任何意义。”\n\n    一句话便将联邦军方组织的毕业日军演说的狗屎不如，大概也只有这位集万千目光于一身的少将师长，才",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "三个冰雕的雕像般冷漠，拒人于千里之外。但此时，这三名军官却像是忽然醒过来地猛虎，如刀锋般的三双目光，同时盯住了兰晓龙的脸。\n\n    杜少卿墨镜边如剑般的眉毛微微一挑，缓缓转头，也望了过去。\n\n    军营里哪里会允许这等以下犯上地事情生，兰晓龙久驻地方，在警备区8384队呆着，一直熬到了少校，却也",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "甚至蹲上半个月的黑房。然而兰晓龙并不后悔这一点，身为十七机械师的一员，能够当面嘲讽杜少卿，这是何等样幸福的事情？而且他的性情虽然散漫，却也有联邦军人坚忍的那一面，漠然地望着西门瑾，一言不，就等着稍后被处罚。\n\n    便在此时，他的身后微动，却被某人拉到了身后，他愕然望去，才现是许乐把自己护在了身前",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

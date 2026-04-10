@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 346,
+  "chapter_title": "第一百五十一章 入世之人（下）",
+  "filename": "ch_0346_第一百五十一章 入世之人（下）.txt",
+  "char_count": 3221,
+  "timestamp": "2026-04-10T12:11:21.763982",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "他忽悠的悲苦交加，凝成一道恶意向胆边生，恨不得直接偷了二师兄头顶的棒槌把他敲昏才能发泄出来。\n　　他心想你和夫子天天在外面游览观光，后山里别的家伙弹琴的弹琴，吹箫的吹箫，赏花的赏花，下棋的下棋，过着如此快乐幸福的日子，却要把自己这个排行最小的弟子扔到外间的凄风苦雨里受折磨，这是哪里来的道理？如今想来",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "吹箫的吹箫，赏花的赏花，下棋的下棋，过着如此快乐幸福的日子，却要把自己这个排行最小的弟子扔到外间的凄风苦雨里受折磨，这是哪里来的道理？如今想来，书院把实修改到荒原，自己步步惊心入魔宗山门继承小师叔衣钵……\n　　宁缺悲愤嚷道：“这是一个圈套！”\n　　大师兄笑着说道：“这是哪里说的说法？”\n　　宁缺恼火",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "他发现自己真的很需要帮手。\n　　桑桑自然是最合适的对象，但他想着要与那些修行强者战斗，只怕过程会有些危险，不想把她拖进来。他又想着如果春风亭老朝还在长安城，那便真是无所畏惧了，凭他们两人的实力以及战斗中的默契，别说道痴之流，就算是西陵神殿某位大神官来了，也不见得没有一战成名的机会。\n　　可惜朝小树不",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "宁缺悲愤嚷道：“这是一个圈套！”\n　　大师兄笑着说道：“这是哪里说的说法？”\n　　宁缺恼火说道：“为什么别的师兄师姐不行，非得让我去做那个入世之人？”\n　　大师兄叹了口气，诚恳说道：“你也知道北宫他们那些人，整日里流连山川青林之中，痴于琴棋书画打铁符道，完全不通世务，便如稚子般天真，让他们入世实在",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "荒原，自己步步惊心入魔宗山门继承小师叔衣钵……\n　　宁缺悲愤嚷道：“这是一个圈套！”\n　　大师兄笑着说道：“这是哪里说的说法？”\n　　宁缺恼火说道：“为什么别的师兄师姐不行，非得让我去做那个入世之人？”\n　　大师兄叹了口气，诚恳说道：“你也知道北宫他们那些人，整日里流连山川青林之中，痴于琴棋书画打铁",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "的下棋，过着如此快乐幸福的日子，却要把自己这个排行最小的弟子扔到外间的凄风苦雨里受折磨，这是哪里来的道理？如今想来，书院把实修改到荒原，自己步步惊心入魔宗山门继承小师叔衣钵……\n　　宁缺悲愤嚷道：“这是一个圈套！”\n　　大师兄笑着说道：“这是哪里说的说法？”\n　　宁缺恼火说道：“为什么别的师兄师姐不",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "看着谨守古礼持身甚正，然而君子之气太过沉重，不会那些场面上的东西，很容易被人逼到没有退路的地步，他的性格实在是有点……”\n　　大师兄说到此处，稍一停顿后苦笑说道：“有些二，加上他太过崇拜小师叔，真要放到入世，说不定真会在长安城里掀起一场血雨腥风。”\n　　宁缺又问道：“陈皮皮呢？他可是最年轻的知命，这",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "：“这个叶红鱼，毕竟也算是熟人，说实话做什么？”\n　　然后他开始盘算，如果有像道痴这样强大的修行者，来到长安城向自己发出决斗的邀请，自己应该如何处理，或者说自己应该怎样认输才显得比较潇洒。\n　　就在这时，大师兄正色提醒道：“反正你不能输，因为老师他更丢不起这人。”\n　　连续三个丢不起这人，直接让宁缺",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "流哭着回来。”\n　　“二师兄呢？他这么强。”\n　　“君陌啊，他看着谨守古礼持身甚正，然而君子之气太过沉重，不会那些场面上的东西，很容易被人逼到没有退路的地步，他的性格实在是有点……”\n　　大师兄说到此处，稍一停顿后苦笑说道：“有些二，加上他太过崇拜小师叔，真要放到入世，说不定真会在长安城里掀起一场血",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "和夫子天天在外面游览观光，后山里别的家伙弹琴的弹琴，吹箫的吹箫，赏花的赏花，下棋的下棋，过着如此快乐幸福的日子，却要把自己这个排行最小的弟子扔到外间的凄风苦雨里受折磨，这是哪里来的道理？如今想来，书院把实修改到荒原，自己步步惊心入魔宗山门继承小师叔衣钵……\n　　宁缺悲愤嚷道：“这是一个圈套！”",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

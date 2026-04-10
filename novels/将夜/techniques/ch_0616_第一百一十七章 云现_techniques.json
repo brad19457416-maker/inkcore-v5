@@ -1,0 +1,180 @@
+{
+  "novel": "将夜",
+  "chapter_number": 616,
+  "chapter_title": "第一百一十七章 云现",
+  "filename": "ch_0616_第一百一十七章 云现.txt",
+  "char_count": 3220,
+  "timestamp": "2026-04-10T12:11:26.771981",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，咳出来的是寒气，就像车厢外正在融化的冰块，身体微寒。\n　　不知何处飘来一朵乌云，悬在黑色马车上方的天空里。",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "密布在东北方向的荒原上。\n　　宁缺甚至相信，在更远处还有月轮国的军队正在等待着自己，而且东北路线太过危险，他比谁都清楚金帐王庭骑兵的强大，最麻烦的是，在金帐王庭与西荒之间，有一片绵延千里的不冻沼泽，如果要强行通过，非常冒险。\n　　这些对宁缺来说，谈不上艰难的考验，因为根据对大师兄无距境界的推测，他已",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "对人间世无处不在的目光与繁密如雪的无形恐惧恨意，哪怕你是世间最快的人，哪怕夫子亲自出手，也都没有任何意义。”\n　　……\n　　……\n　　撕下黑伞碎片，埋了佛祖棋盘，悬空寺洒在荒原上的苦修僧，再也没办法像前些日子那般轻而易举地确定黑色马车的踪迹，右帐王庭的骑兵失去了指引道路的佛光，也很难组织起有效的拦截",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "对传说中的无距境界，他没有任何认知，便是放任自己的思想去瞎猜，都无法猜出这等近似神人御风而行的手段究竟如何达成，但既然他坚持信任书院和师兄，便可以在信任的基础上进行推测，然后得出结论。\n　　长安城里的人们肯定已经知道他和桑桑正在极西荒原，大师兄没有出现，应该是他无法确认他和桑桑的具体位置，这也就说",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "章 云现\n　　极西荒原深处，一名满身灰尘的书生，出现在天坑边缘，他看着天坑中央那座巨峰间的黄色寺庙，说道：“我小师弟在哪里？”\n　　书生自然便是书院大师兄。黑色马车曾经在悬空寺出现的消息传到长安城后，他再次踏上寻找宁缺的旅途，纵然容颜已然憔悴，境界渐趋不稳。\n　　他的声音很轻柔，在满是风雪的荒原上，",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "第一百一十七章 云现\n　　极西荒原深处，一名满身灰尘的书生，出现在天坑边缘，他看着天坑中央那座巨峰间的黄色寺庙，说道：“我小师弟在哪里？”\n　　书生自然便是书院大师兄。黑色马车曾经在悬空寺出现的消息传到长安城后，他再次踏上寻找宁缺的旅途，纵然容颜已然憔悴，境界",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "，几乎所有官员和百姓，都对书院提出了质疑。\n　　悬空寺讲经首座的声音在天坑边缘随风雪而起，充满了怜悯感慨与肯定：“你就算知道宁缺在哪里，找到了那辆黑色马车，你又能做些什么？难道你能把全世界的人尽数杀光，把那辆黑色马车带回书院？你没有办法带走他们，也没有办法阻止人们，面对人间世无处不在的目光与繁密如雪",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "能做些什么？难道你能把全世界的人尽数杀光，把那辆黑色马车带回书院？你没有办法带走他们，也没有办法阻止人们，面对人间世无处不在的目光与繁密如雪的无形恐惧恨意，哪怕你是世间最快的人，哪怕夫子亲自出手，也都没有任何意义。”\n　　……\n　　……\n　　撕下黑伞碎片，埋了佛祖棋盘，悬空寺洒在荒原上的苦修僧，再也",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "鱼儿游走在溪水里，狩猎隐踪、采雪煮水，一切都是那般的熟悉，仿佛重新在过很久以前的生活。\n　　一声极力压抑却压抑不住喜悦的马嘶，穿透风雪。\n　　马蹄踏雪无声而回，宁缺从马背跃下，手里拎着一只已经剥了皮的雪狼，大黑马拱了拱白布罩，露在外面的眼睛里满是垂涎的神情。\n　　不多时后，一锅雪狼肉汤煮好，香味被车",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "消失，然而遥远巨峰间的黄色寺庙里，却有人清楚地听到了。\n　　一道宁静而威严的声音，在大师兄身前的空中缓缓响起，就像是一封书信被人拆开封边，平静展露给想要看到这封信的人。\n　　这是悬空寺讲经首座的声音。\n　　“冥王之女在哪里，宁缺便自然在哪里。”\n　　大师兄看着雪雾里的寺庙，沉默了很长时间，知道讲经首",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "，轻轻拍着她的后背，说道：“你是冥王的女儿，怎么会死。”\n　　桑桑靠着他的胸口，声音微颤说道：“可我担心……冥王的女儿醒过来的那一刻，我就不在了，桑桑就不在了。”\n　　宁缺听懂了她的话，把她抱得更紧了一些，说道：“我不知道，但我想老师他一定还有别的方法能够治好你的病。”\n　　桑桑仰起脸，看着他问道：",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "道：“你真的这么信任书院？”\n　　从在通议大夫府柴房杀人的那一刻开始，十几年的时间里，除了桑桑，宁缺从来没有完全信任过任何人，包括渭城里的人们在内，都是如此，他看似随性实则多疑，表面温和其实冷漠薄情至极，桑桑很了解他是一个怎样的人，所以有些无法理解到了现在，他对书院的信任依然没有任何动摇。\n　　“我",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "像是在进行一场横穿荒原的长途旅行。\n　　对普通人来说，秋冬季节的荒原寒冷凄清荒芜，严重缺少猎物，如果离开大队伍单独行动很容易迷路，或因为给养用尽而陷入绝局。\n　　但对宁缺和桑桑来说，这种反而是他们最熟悉的也最喜欢的环境，就像小时在岷山里那样，他们宁肯与凶猛的野兽、残酷的大自然打交道，也不愿意和猎寨里",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

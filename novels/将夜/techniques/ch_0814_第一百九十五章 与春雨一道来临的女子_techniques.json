@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 814,
+  "chapter_title": "第一百九十五章 与春雨一道来临的女子",
+  "filename": "ch_0814_第一百九十五章 与春雨一道来临的女子.txt",
+  "char_count": 3351,
+  "timestamp": "2026-04-10T12:11:27.247389",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "不开的稠血，说道：“在我的眼里他已经死了，只是需要一个正确的时间。”\n　　简大家说道：“你的冷静会让人们觉得恐惧。”\n　　宁缺不再讨论这件事情，问道：“我还是很想知道，皇后娘娘为什么反对我杀死李渔，她不应该是那种能被小情小意影响的人。”\n　　“我真的不知道夏天在想什么。”\n　　简大家望向窗外，此时天",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "的这段日子，他便一直住在这里。\n　　雁鸣湖上的厚雪早就已经融化，冰层变成极薄的镜面，然后纷纷碎裂，被风吹至湖岸堆成雪酥卷，露出了清澈的湖水。\n　　宁缺站在湖畔，伸手把尚未抽出青芽的寒柳枝拨开，看着水中那些隐约可见的细青茎，自然想起了那年夏天，他和桑桑划着船儿在湖上种荷花的画面。\n　　湖上阴云渐至，没",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "鱼说道：“唐国付出的代价会很大，那个魔宗妖女也不可能把朝野里反对的意见全部压下来，那么这份协议有什么意义？”\n　　宁缺说道：“首先我不认为我们会在这份协议上吃太多亏，其次至于协议的效力和执行力，这是书院需要考虑的事情，不需要神殿关心。”\n　　叶红鱼说道：“如果没有效力，谈判就没有意义。”\n　　宁缺说",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "大家静静看着他，问道：“你真想杀了李渔？”\n　　宁缺想都没想，说道：“让她死是最好的选择。”\n　　“为什么？”简大家问道。\n　　宁缺解释道：“杀了李珲圆，再把李渔杀死，朝中的大臣们就算还有二心，他们能向谁效忠？他们就算再痛苦不甘，也必须服从娘娘的意思。这场战争在很多人看来，让朝廷和书院不方便对这些人",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "就是因为一个女人，实在是有些可笑。”\n　　宁缺神情不变，平静说道：“昊天道门统驭世界，号称强者无数，最终却要你这样一个女子来长安城冒险，难道不更可笑？”\n　　叶红鱼说道：“长安城对我来说何险之有？”\n　　宁缺说道：“我现在随时可以杀死你。”\n　　叶红鱼说道：“在沼泽里，如果不是那群野马，你已经被我杀",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "在荒原上相识，至今已经有很长时间，曾经相杀，不曾相爱，曾经同居，从未同心，从最开始的时候，他们就知道将来的某一日，他们会要杀死对方，并且他们已经做过多次尝试。\n　　有意思的是，大概正因为非常清楚这一点，他们两个人相处时，反而显得特别平静，仿佛有清风缭绕其间，令人神清气爽。\n　　宁缺问道：“观主和掌教",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的到来。\n　　时渐入春，神殿使团终于抵达了长安城，在唐人们复杂的目光注视下，使团的车队驶过朱雀大街，进入礼宾馆。\n　　前来谈判的使团人员构成有些复杂，主使是西陵神殿天谕院院长，两名副手分别是南晋的一位王爷还有燕国的丞相，说起来有些好笑但真的不好笑的是，南晋和燕国的皇位现在都还是空着的。\n　　战争暂时",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "的不好笑的是，南晋和燕国的皇位现在都还是空着的。\n　　战争暂时告一段落，两路大军依然在唐国南北，局势紧张难褪，所以双方的谈判随着使团的到来迅速开始，大唐朝廷里的博学之士和西陵神殿使团的成员，坐在长桌两侧，开始像意料中的那样挥舞唇枪与舌剑。\n　　谈判自然需要谈，据理力争却往往看的不是谁更占着道理，而是",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第一百九十五章 与春雨一道来临的女子\n　　简大家说道：“这是给娘娘的面子。”\n　　宁缺说道：“事涉书院，皇后也要喊我一声小师叔，我不用给她面子。”\n　　简大家静静看着他，问道：“你真想杀了李渔？”\n　　宁缺想都没想，说道：“让她死是最好的选择。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "宁缺砍瞎的，谢承运和他相识于书院之中，只是随着时间流逝，很多事情在此时已经没有必要还记得。\n　　院门缓缓关闭，把随行的那些人都关在了门外。\n　　叶红鱼随宁缺走进宅院。\n　　……\n　　……\n　　宁缺和叶红鱼坐在梅园的雨廊下，看着自天落下的春雨发呆，南边的院墙那头，隐隐传来雨水落入雁鸣湖里的声音。",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

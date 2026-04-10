@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 123,
+  "chapter_title": "第六十二章 机甲末路",
+  "filename": "ch_0123_第六十二章 机甲末路.txt",
+  "char_count": 3632,
+  "timestamp": "2026-04-10T11:53:35.134545",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "控的风险，那多操控着机甲在地面上做出了一个令人瞠目结舌的跃起动作，避开了导弹所造成的冲击波。直接向着天空飞去。\n\n    然而令人感到恐怖的是，那枚导弹爆炸后，比烟尘的升腾更快，在一连串奇异尖锐的呼啸声中，弹体猛然炸出无数道反衬着雪光的线状物质！\n\n    黑色机甲避开了正面的冲击波与弹片，在空中却",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "少冰雪与水泥路面，烟尘顿时大作。\n\n    然而一枚导弹却是射在了黑色汽车与机甲的中间，机甲虽然在极危险的一瞬间内，成功地挽救了自己的生命，却无法避开在自己身前水泥地面上爆炸的那枚导弹……\n\n    那枚导弹直接在机甲身前二十米的地方爆炸。\n\n    黑色机甲在最后这一刻，依然展现了自己强大地战斗力",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。\n\n    是联邦装备最多的型战斗机。最多可以悬挂九枚空对地导弹，七架飞机。那就是六十三枚。只是一瞬间，这个数据便浮现在了那多的脑海里，然而在此时他反而平静下来，今天就算失败，也不是战斗不利的责任，而是那些古怪的意外与命运在打扰他的工作。\n\n    军人那多坚毅的面部线条在这一刻变得像刀割一般凛烈",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "时高速行驶在冰雪公路上。那多依然觉得一向如自己身体般地机甲体内。似乎依然有那么一丝若隐若现地波段干扰存在。让他地操控一直不是特别顺畅。所以一直跟着那辆黑色汽车。却无法快速靠近。\n\n    联邦公民大多数是唯物主义者，尤其是首都星圈这三个行政星球上的人们。军人那多感觉到了自己的机甲出了一些小问题，但他",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "间门的大反攻中，在帝国控属的那个星球上，杀入草原，击毁十四辆帝国机甲。\n\n    他所操控的黑色机甲第一次露面，便像一个凶神般破开厚重的水泥墙，自水泥块与烟尘中突兀出现，只用了一秒钟的时间，便清除了除黑色汽车区域外所有的邰家安全人员！\n\n    这台黑色机甲完美地控制了自己扇形射击的角度，尽可能地让",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "得无比破烂，十分凄惨地歪斜在路面上，看上去已经不可能再有任何的作战能力，然而在联邦军人地眼中，机甲是最强大，也是最不可捉摸地作战机器，他们不知道会不会有什么意外发生。\n\n    黑色机甲的舱门缓缓打开，机甲下方地路面上，那些军人抬起了手中的枪口，后方的火力构件金属碰撞声纷纷响起。\n\n    取下了头",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "辆黑色汽车。却无法快速靠近。\n\n    联邦公民大多数是唯物主义者，尤其是首都星圈这三个行政星球上的人们。军人那多感觉到了自己的机甲出了一些小问题，但他怎么也不可能想到，是先前那个年轻西林军人的手段依然在在影响，他下意识里判断为，前方邰家的那辆黑色汽车。正在使用某种干扰设备。\n\n    从地下停车场",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "黑色机甲地主炮发射！\n\n    那多不明白在自己地手中一向无比稳定地机甲。为什么会在那一刻出现了些许颤抖。无论是自动平衡仪。还是自己地手动操控。都无法进行最后地校准。从而让伽工主炮地第一次发射。居然偏离了目标。\n\n    这是那多军旅生涯二十年当中。从来没有遇见过地怪事。那个年轻地西林军人地一脚。得",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "多来说。今天执行任务当中的第二个意外便是那名穿着西林军服的年轻人。\n\n    这名优秀地机师。不知道为什么目标地身边。会忽然出现一名西林军人。但他起始地时候并没有在乎那个非目标……直到对方悍勇而疯狂地向着自己机甲地机械腿踹了那一脚。\n\n    当时地情况很像联邦里地一句谚语：高速公路上。一只可怜昆虫",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "然看这个看似疯狂而愚蠢地动作。却成功地干扰到了黑色机甲地主炮发射！\n\n    那多不明白在自己地手中一向无比稳定地机甲。为什么会在那一刻出现了些许颤抖。无论是自动平衡仪。还是自己地手动操控。都无法进行最后地校准。从而让伽工主炮地第一次发射。居然偏离了目标。\n\n    这是那多军旅生涯二十年当中。从来",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "向前滚去，在水泥路面上，撞击出了一个大坑。碾压出一道笔直的痕迹。导弹之后。战机终于飞临，几道闷响几乎同时响起。对地空炮所发射的弹体，在地面上深深地犁出数条深沟，水泥四溅，烟尘一路行来，直指那台已经丧失操控能力的机甲。\n\n    无数声闷响，同时在黑色机甲的表面响起，那些坚固的机甲合金护甲，在威力强大",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "在了那多的脑海里，然而在此时他反而平静下来，今天就算失败，也不是战斗不利的责任，而是那些古怪的意外与命运在打扰他的工作。\n\n    军人那多坚毅的面部线条在这一刻变得像刀割一般凛烈，无数条动作指令，输入了指触式光屏，而一直保持着全速行进模式的机甲，也开始在极大的电流噪音中，迅速转换形态，下方的履带脱",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "，机甲是最强大，也是最不可捉摸地作战机器，他们不知道会不会有什么意外发生。\n\n    黑色机甲的舱门缓缓打开，机甲下方地路面上，那些军人抬起了手中的枪口，后方的火力构件金属碰撞声纷纷响起。\n\n    取下了头盔，那多抹去了被震出唇角的鲜血，他冷漠地看了一眼逼近机甲的那些士兵，听着那些有些模糊地命令自",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

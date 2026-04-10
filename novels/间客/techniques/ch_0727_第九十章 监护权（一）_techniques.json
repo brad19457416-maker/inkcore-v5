@@ -1,0 +1,180 @@
+{
+  "novel": "间客",
+  "chapter_number": 727,
+  "chapter_title": "第九十章 监护权（一）",
+  "filename": "ch_0727_第九十章 监护权（一）.txt",
+  "char_count": 3981,
+  "timestamp": "2026-04-10T12:05:17.583547",
+  "techniques_count": 13,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "想请教一下曾哥，可惜他不在。”\n\n    他看着利孝通身后空宴荡荡的墙，眯眼想起那个如一把铁枪般凛冽危险的中年男人，有些遗憾。\n\n    “曾哥说既然你在这里，我就是安全的，他难得放个假。”利孝通微笑说道：“对了，你去费城的新闻我已经看了，深受震撼。”\n\n    “为什么震撼？”\n\n    “军神接",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "端着红酒，盯着墙上那幅向日葵油画，说道：“我可不喜欢这幅画……在帝国天京星皇宫里，那位陛下身前的大屏风上，画满了金黄的向日葵，这容易让我朕想起那段很狗屎的逃亡生涯。”\n\n    “那我明天就换了。”利孝通很认真地说道。\n\n    “你怎么不烧了？”许乐耸肩嘲讽道。\n\n    “好，那就烧了。”",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "班，不知道该热闹成什么模样。\n\n    空乘小姐温柔地眨眼笑了笑，端着托盘回到了操作舱，隐隐传来几声压抑的低呼，还有一连串可爱的笑声。\n\n    许乐知道大概那些充满青春活力的姑娘们正在议论自己，忍不住笑了笑，片刻后，忽然现帘外座舱内的乘客们此起彼伏地出阵阵惊呼。\n\n    他有些不解，下意识里抬头",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的吗？\n\n    多年后在费城李家的庄园内，亲耳听到军神李匹夫讲述的那个久远故事，知道了那场大爆炸的真相，许乐心中的疑问愈浓烈，虽然他清楚讲故事的人不同，故事的内容往往也会生很大的变化，可下意识里他感觉老爷子说的是真的。\n\n    当年暴起持枪闯入基金会大楼私杀麦德林，看似暴烈无双，实际上，许乐这个",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "”许乐耸肩嘲讽道。\n\n    “好，那就烧了。”\n\n    利孝通的回答依然很认真，对于他来说，一幅价值连城的油画，远远及不上许乐的感受重要，因为价值连城总是有价，有价的东西对于铁算利家来说都不是东西，而像许乐这样无价的投资对象……或者说友人，才真正值得重视。\n\n    许乐怔了怔，无奈说道：“我就",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "邸中，亲切接见了刚刚归来的许乐上校，双方进行了长时间的交谈。”\n\n    “这是李匹夫元帅近十年来，第一次在费城家中接见联邦现役军官，并且允许新闻媒体进行拍摄，以下，是本台前方记者刚刚回来的现场画面。”\n\n    由费城飞往都特区的夜航飞机上，因为这条新闻陷入了暂时的沉默，然后是一阵自的热烈的掌声。",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "撑自己的行为，并且他和施清海已经找到了足够多的证据。\n\n    封余不需要证据，他只凭自己的喜恶判断瞬间冲动经年仇限而行事，许乐自忖做不到大叔如此极致的随心而行，当初在大师范府中，他对怀草诗说过大自私，那位大叔大抵才是真正的大自私之人吧？\n\n    一念及此，许乐心生惘然失落诸般复杂情绪，如果那位将",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "动作，许乐心有所感，对联邦绝大多数人来说，费城湖畔那个瘦削的老头儿，正是他们拥有安宁生活的最大保障和最强悍的信心来源，只要老人活着，这个世界便会一如既往的美好。\n\n    压下心头的某种复杂情绪，他望着桌对面的利孝通，认真问道：“关于钟家的官司，我请你帮的忙，准备的怎么样了？”\n\n    “很抱歉。",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "是一艘飞船，可能是一片小型庄园，也可能是几个美貌而柔软的女仆，但这些礼物不得转卖，不得出让，家里的老人们主要是想看看这些男孩儿的目光，看多年之后，这份礼物会升值到什么程度。”\n\n    “利修竹当年挑的礼物后来升值很多，很受老人们的好评。而我十二岁时，挑选了你现在看到的这幅画，当时很多人认为我走眼了",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "条重要新闻。\n\n    依然还是几年前宣布帕布尔议员访问青龙山时那位女主播，依然还是那副平稳里混杂着激动心情的语调，端庄漂亮的女主播对着镜头微笑说道：“联邦一级紫勋奖章获得者，著名战斗英雄许乐，迎来了他回归联邦的第三天，出乎所有人的意料，今天他并没有参加由果壳公司组织的盛大晚宴，而是去了……费城。”",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "第九十章 监护权（一） \n\n    李封以为我死了，所以他……”许乐低声说道，想到那个叫自己小叔的暴戾少年，因为忧虑自己死后无人能够抵抗怀草诗，不惜用严重损伤身体的方式提升实力，他便感到有些郁郁。\n\n    “这是自己的选择，而每个人只能对自己的选择负责。”\n\n    李",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "护权（一） \n\n    李封以为我死了，所以他……”许乐低声说道，想到那个叫自己小叔的暴戾少年，因为忧虑自己死后无人能够抵抗怀草诗，不惜用严重损伤身体的方式提升实力，他便感到有些郁郁。\n\n    “这是自己的选择，而每个人只能对自己的选择负责。”\n\n    李在道微笑望着他：“人生百年，和七十并无太",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "吗？”\n\n    一位眉眼如画的空乘小姐，睁着大而无辜的双眼，半蹲在头等舱座位旁，紧张地看着他的脸，温柔而又紧张地问道。\n\n    “没有，味道挺好的。”许乐右手三根手指拈住杯脚举起，温和说道：“对了，刚才谢谢你。”\n\n    自费城登机，头等舱这位美丽的空乘小姐，在第一时间认出了许乐的身份，刚从帝",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

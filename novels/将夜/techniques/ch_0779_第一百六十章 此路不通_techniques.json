@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 779,
+  "chapter_title": "第一百六十章 此路不通",
+  "filename": "ch_0779_第一百六十章 此路不通.txt",
+  "char_count": 2314,
+  "timestamp": "2026-04-10T12:11:27.148524",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "似要变成活物。\n　　观主转头望向朱雀绘像，说道：“孽畜。”\n　　朱雀绘像的眼睛里，流露出挣扎的情绪，最终因为恐惧而黯然。\n　　朱雀绘像是惊神阵里的杀伐神符，威力等同于知命境巅峰的全力一击，即便越过五境门槛的修行者，或者柳白都会对它有所忌惮。\n　　观主却只是神情漠然地说了一句话。\n　　朱雀便自黯然无神",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "第一百六十章 此路不通\n　　观主的身影，消失在风雪中。\n　　大师兄微微摇晃，欲坠又似欲行，旧棉袄上顿时渗出了更多的血。便在此时，余帘伸出手勾住他腰间的衣带，摇了摇头。\n　　“他说的对。”余帘说道：“就算你此时拼命追上他，我没有办法追上他，依然没有",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "于湖山井树间，雄城上空的天地气息骤然发生了极为剧烈的变化，低沉的雪云滚动不安，把朱雀大道上空那道云缝瞬间覆盖，完美地屏蔽了自天穹投下的那道磅礴力量。\n　　观主抬头看了一眼天，确认天启再次被阻，然后他望向长安城的四面八方，感知到了那些气息里所蕴藏的恐怖威力。\n　　但他的神情依旧平静，继续北行。\n　　因",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "。\n　　从清晨开始，长安城万钟齐鸣，天雪燃烧，城中的所有人都知道正在发生什么，只是面对着这种越五境的战斗，世俗的力量没有任何意义。\n　　近了北城。\n　　街畔骤然开阔，一大片覆着薄雪的草甸，让那十余幢小楼和冬林，平添了几分幽静的感觉，那处正是大唐的军部。\n　　如果是普通的战争，覆雪草甸后方的大唐军部，",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "间的衣带，摇了摇头。\n　　“他说的对。”余帘说道：“就算你此时拼命追上他，我没有办法追上他，依然没有意义，你就算想要和他一起离开长安，都做不到。”\n　　大师兄疲惫说道：“那该如何办？”\n　　余帘说道：“既然追不上，就只有等着他被人拦下来。”\n　　大师兄说道：“现在还有谁能拦住观主？”\n　　余帘说道：",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "他忽然把手伸到肩后，握住寒冷的刀柄抽出。\n　　然后斩下。\n　　朴刀随意而斩，嗤嗤两声。\n　　雪湖之上出现了两道清晰的刀痕。\n　　下一刻，那两道刀痕，瞬间从雪湖上消失。\n　　于天地间遁走，不知所踪。\n　　……\n　　……\n　　他在雪湖上斩出的两道刀痕，来到了朱雀大道上。\n　　来到了观主的身前。\n　　观主",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "冬日蝉鸣渐哀渐静，晨雪复起，随风而舞，干冽的雪花落在街面，便被寒风吹拂乱动，笔直的朱雀大道上似有无数盐花在滚动。\n　　漫天风雪中，观主的身影渺渺若飞鸿，又像是一片不起眼的雪花，但长安城毕竟是夫子留下的惊神阵，很快便捕捉到了他的踪迹。\n　　东城三百六十五道街巷里的无数宅落，无数青砖青石，都感觉到了",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "瞬间从雪湖上消失。\n　　于天地间遁走，不知所踪。\n　　……\n　　……\n　　他在雪湖上斩出的两道刀痕，来到了朱雀大道上。\n　　来到了观主的身前。\n　　观主神情凝重。\n　　停下了脚步。\n　　……\n　　……\n　　两道刀痕，一撇一捺。\n　　构成一个简单而凌厉的字。\n　　是为：“V”\n　　形似刀剑相交。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "原处。\n　　他看着身前的风雪，微微挑眉。\n　　风雪骤起，然后渐凝，形成两道痕迹。\n　　观主的神情渐渐凝重。\n　　那两道风雪凝成的痕迹很奇妙，悬停在空中，不散不坠。\n　　就像是有人在空中写了两道笔画。\n　　不是墨字，是雪字。\n　　……\n　　……\n　　宁缺在雁鸣湖畔静思一夜，早已醒来。\n　　醒来时，他的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "旧棉袄上顿时渗出了更多的血。便在此时，余帘伸出手勾住他腰间的衣带，摇了摇头。\n　　“他说的对。”余帘说道：“就算你此时拼命追上他，我没有办法追上他，依然没有意义，你就算想要和他一起离开长安，都做不到。”\n　　大师兄疲惫说道：“那该如何办？”\n　　余帘说道：“既然追不上，就只有等着他被人拦下来。”",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

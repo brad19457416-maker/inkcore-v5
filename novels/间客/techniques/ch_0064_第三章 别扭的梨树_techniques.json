@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 64,
+  "chapter_title": "第三章 别扭的梨树",
+  "filename": "ch_0064_第三章 别扭的梨树.txt",
+  "char_count": 3287,
+  "timestamp": "2026-04-10T11:53:35.121375",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "了手中的一切资源，却依然没能找到那个太子在大学城里的位置。他有时候甚至在怀疑，组织如此重视一个年轻人究竟是为了什么？世界上到底有没有那样的一个人？\n\n    施清海开车走了，留下一个发呆的许乐。他抬头看了看微微刺目的阳光，想到昨天也是在这样的阳光下，他和张小萌在运动场的跑道上缓缓行走，四周有无数的学",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "出了什么好事儿？”\n\n    许乐愣了愣，施清海的脸色却变了，严肃地看着他说道：“不要告诉我，这是你第一次谈恋爱。”\n\n    许乐没有点头也没有摇头，只是在发呆。施清海怔怔地看了他半天，忽然开口认真说道：“别上当，兄弟。爱情是什么？爱情就是一个逼。”\n\n    施清海虽然不是一个正人君子，甚至可以",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "我们这两条敢汪汪叫的狗，只怕也非常愿意。”施清海漂亮的眼眸里闪过一丝阴沉，看着许乐那张老实平凡的脸，心想如果那对兄妹真的乱来，实在不行自己也只有出狠手了，大不了事后被组织开除了事。可是开除和清除好像是同意词？他忽然想到了这点，反而觉得胸膛里海阔天空，笑着对许乐说道：“别太担心，交给我办好了……不过，",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "出狠手了，大不了事后被组织开除了事。可是开除和清除好像是同意词？他忽然想到了这点，反而觉得胸膛里海阔天空，笑着对许乐说道：“别太担心，交给我办好了……不过，你得告诉我，刚才在阳光下面笑的那么，是不是出了什么好事儿？”\n\n    许乐愣了愣，施清海的脸色却变了，严肃地看着他说道：“不要告诉我，这是你第",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "能吸引那些中年雌性生物的灼热目光。\n\n    施清海从铁门空隙里递过去一根烟，自己也点燃了一根，认真说道：“邹家兄妹昨天的航班，已经到了临海州，你自己小心一点儿，最近这些天不要再出校门，直到我给你确切的消息。”\n\n    许乐夹着香类的手指一僵，没顾得上去点火，愣了愣后才想起了那两张并不难看却异常令",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "她经常提醒自己不要太过贪心，有这一段平静的校园生活已经足够了，对方终究只是一个普通人，或许真能达成他进入果壳机动公司的理想，可是……那又将和自己有什么关系呢？\n\n    许乐不知道自己对张小萌是什么感觉，只觉得对方黑框眼镜遮着的那双眼睛很平静，很吸引人。一个未满二十岁的年轻人，第一次与异性有了这样单",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "望着施清海问道：“你从哪儿得的消息？”\n\n    “不要忘记小爷我是外勤处的干探。”施清海的语气毫不轻松，他的心里也觉得晦气，上次他冒着大险在夜店门口开了枪，就想把这滩子水弄浑。结果没想到国防部那位大佬居然一点脸都不要，隔了几个月又把自己的儿女派了过来。施清海倒是不怕对方的报复，只要他的腰里有枪，没",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "自己的儿女派了过来。施清海倒是不怕对方的报复，只要他的腰里有枪，没几个人能对付他，问题在于许乐，他很担心自己这个唯一的朋友。\n\n    没有背景的小门房再能打，也不可能是那些人的对手……而且最令施清海烦燥的是，许乐得罪那一对兄妹，全部是自己的错。\n\n    “世界上有这么记仇的人？”许乐当然知道世界",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "妹，全部是自己的错。\n\n    “世界上有这么记仇的人？”许乐当然知道世界上真有这样的人物，那些处于社会上层的大人物们，一旦颜面受损，不变本加厉地收回来，是绝对不会罢手的，“你说那个少校是第三军区的人，难道为了对付我们专门调来临海？”\n\n    “他们来临海自然不是为了我们，但顺手收拾我们这两条敢汪",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "学一年，去Ｓ２行政区的幼稚举动，在他们的眼里，张小萌是一个很漂亮可人的女同学，而且恰好有不错的家世和性格。虽然最近校园里传说张小萌又变得古怪起来，喜欢和那个穷死了的门房旁听生在一起，可是他们并不愿意相信这一点，据女生公寓的内部消息，张小萌也完全否认了和那个穷小子在一起的可能性。\n\n    或许是走神",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "。他抬头看了看微微刺目的阳光，想到昨天也是在这样的阳光下，他和张小萌在运动场的跑道上缓缓行走，四周有无数的学生投来异样的目光，看来自己已经违背自己意愿的出了名？先前关于爱情的三句话，是那个时常出入休闲中心的封余大叔经常在许乐耳边唠叨的，许乐下意识里说了出来，心里却根本无法认同这种裸的观点。",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "下一个发呆的许乐。他抬头看了看微微刺目的阳光，想到昨天也是在这样的阳光下，他和张小萌在运动场的跑道上缓缓行走，四周有无数的学生投来异样的目光，看来自己已经违背自己意愿的出了名？先前关于爱情的三句话，是那个时常出入休闲中心的封余大叔经常在许乐耳边唠叨的，许乐下意识里说了出来，心里却根本无法认同这种裸的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

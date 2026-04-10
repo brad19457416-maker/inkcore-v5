@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 107,
+  "chapter_title": "第四十六章 荣幸",
+  "filename": "ch_0107_第四十六章 荣幸.txt",
+  "char_count": 3547,
+  "timestamp": "2026-04-10T11:53:35.112982",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "里的地位应该不差……”\n\n    “麦德林同志已经好几年没有进过山了。”中年人很自然地解释了邰之源的疑问。\n\n    “你在山里的排行是？”邰之源微微皱眉，盯着中年人那张异常猥琐的脸。\n\n    “我直接协助南水同志工作。”中年人认真说道：“所以我有全权代理的资格。”\n\n    邰之源再如何冷静，在",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "了摇头，不赞同地说道：“我不知道你为什么不想出名。这实在是很不像一个正常的年轻人。”\n\n    许乐心想我有我地苦处，正如你有你的苦恼，这怎么解释？难道我要告诉你，我是一个协助叛国罪犯的联邦逃犯？为了掩饰心头的那丝复杂情绪，他眯着眼睛笑了起来，很自然地转了话题：“先前就谢过。这时候再谢谢你一下，毕竟",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "认识的时候，你只是个有些钱的普通学生，所以我不习惯。”\n\n    邰之源听到这番话后忍不住笑出声来，说道：“我从没想过，原来在你眼里的我竟是如此不堪。”\n\n    许乐解释道：“不是不堪，是不适应。”\n\n    邰之源沉默片刻后，认真开口说道：“你说的有道理，我不应该苛求什么。这个世界从来都是不公平",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "…我其实从来没有想过要见简水儿。”许乐说地是真心话，他不是一个追星族，简水儿对他而方，是一种极具象征意义的形象，他其实更愿意保持着距离，远远地观看……不过话虽然如此说，心里如此想，他却小心翼翼地将门票收进了礼服的内衬口袋里。\n\n    “不过还是谢谢了。”许乐看着沙发上熟悉而又陌生的邰之源，说道：“",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "武器……所以我愿意给你这个冒险者一个对话的机会，只不过你必须先报上自己的姓名，毕竟我不愿意自己成年后第一次谈判地对象，是一个故弄玄虚的家伙。”\n\n    在那双充满压力的眼光下，中年人没有丝毫不安。端起咖啡喝了一口。说道：“我很感谢你先前没有直接把我毙了，而是给了我一个开口的机会。”\n\n    “我",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "涩地笑道：“看见没有？这是星辰会所里地姑娘给我封地红包。”\n\n    许乐看到他手上拿着地红包。强行压抑着笑意。十分辛苦。觉得这件事情极为荒谬。但不知为何。他地心里竟生出几分得意来。联邦七大家里两位继承人。一个被自己养了好些天。一个被自己带着去破了处。这要编成一套电视剧。只怕要破频道地收视纪录。",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "不再将眼前沙发中的少年当成某种怪物。他挠了挠脑袋后诚恳说道：“谢谢你替我遮掩。”\n\n    “在这个社会上生存，需要很多机遇。而不是每个人都能碰到发光发热的机会。你今天上午遇到了一次，却像惧之如鬼般逃了。”邰之源摇了摇头，不赞同地说道：“我不知道你为什么不想出名。这实在是很不像一个正常的年轻人。”",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "能力。\n\n    邰之源欣赏许乐的性格与能力，甚至生出过将这个年轻人纳入家族地视野中，注视着他成长，将来吸收成为自己得力属下的念头，然而今天这番对话之后，他敏锐地注意到了许乐对某种可能性的天然抗拒。双方虽未明言，却已经在言语表情中展露无遗。\n\n    “许乐离开的时候。问过你在哪里，我说你已经走了。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "露之后呢？\n\n    邰之源地眼光很敏锐，从这些天地细节里，他确认许乐是一个值得信任的诚恳的人，只是性格似乎有些拧了些。而且邰之源越发地发现。许乐其实是一个很有能力的人，只是这个家伙有意无意间，总是在隐瞒自己某些方面的能力。\n\n    邰之源欣赏许乐的性格与能力，甚至生出过将这个年轻人纳入家族地视野",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "“反正不是什么我太喜欢的东西，也许过于平静了些，就像是世界上一切的东西都在你的掌握之中。或许你身边的人们都习惯了你这副模样，可我和你认识的时候，你只是个有些钱的普通学生，所以我不习惯。”\n\n    邰之源听到这番话后忍不住笑出声来，说道：“我从没想过，原来在你眼里的我竟是如此不堪。”\n\n    许乐",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "啡喝了一口。说道：“我很感谢你先前没有直接把我毙了，而是给了我一个开口的机会。”\n\n    “我来自山里。”中年人放下咖啡杯。平静地看着沙发上的少年，“希望没有令你意外。”\n\n    邰之源听到这句话后陷入了沉默，而他身后的靳管家的双眼更是眯了起来，寒意渐透。联邦的特权阶层与山里的**军向来水火不融",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "陌生的邰之源，说道：“你本没必要做这些。”\n\n    邰之源坐在沙发上端着咖啡，毫无滋味地喝着。许乐离开之后，他竟一时间觉得自己没有什么事情可做，双月节舞会对于他而言没有任何意义，他很清楚自己应该要些什么，应该做些什么，那个叫许乐的年轻人，现在还算不上他真正的朋友——他一直在怀疑，他这一辈子究竟有没",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

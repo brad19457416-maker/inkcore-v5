@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 401,
+  "chapter_title": "第六十四章 阁下贵姓(上)",
+  "filename": "ch_0401_第六十四章 阁下贵姓(上).txt",
+  "char_count": 4312,
+  "timestamp": "2026-04-10T12:04:59.195728",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "象。但我总不至于在这间园子里做出那种事情来。”\n\n    林斗海下颌微抬，不屑说道：“我们中午才刚刚冲突过，难道我会蠢到马上找人来杀你？很明显这是有人想借机挑事儿，麻烦你这个工程师能不能多用用脑子？除了机械方面的事情，你也学一点儿人情世故。”\n\n    林斗海的解释很合理，七大家子弟虽然有傲娇，愚蠢",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "没有不依不饶地大叫大闹。而是仔细地感受着许乐和那些大人们异样地表情。安安静静地抱着略显陈旧地小娃娃在众人地身后。\n\n    因为担心将她留在一号院里。反而会:某些人可趁之机以许乐干脆带上了她。给七组地汉子们下了死命令并不怎么担她小姑娘地安全。反而在下午略显淡漠地光影幽林间走过时想到了今天也在木谷庄园",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "的丝遮着他大部分阴冷的目光，他在这些保镖里面认真查看了很久，依然没有找出那个人是谁，不清楚许乐的信心究竟来自何处。\n\n    因为心中早有成算，所以乐并没有说出那名枪手掌心受伤的事实，眼角余光注意着林斗海身后那名穿着灰色工作服的安全人员，一手摁着耳朵里的收音器械……\n\n    “让路吧，我和公子没时",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "。只有他自己清楚这份信心来源于何处联邦政府向宪章局申请定位，大概也不会比他现在更快先前闭眼沉思的那些刹那时光里，他已经通过宪章局里那个老东西认了那名枪手的身份，并且开始即时跟踪那人的方位。\n\n    神目如电，此说的不是费城那位老爷子而是许乐，在联邦中央电脑的全面配合下，再厉害的人物不要奢望能够从他",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "现了事情确实很棘手。\n\n    谁的枪多，谁的声音就大，在宇宙大势间，在联邦政场上，以及在无数次的小风波所在地，这条准则一直被冷酷地执行着。\n\n    “林斗海，我向你保证，这个小女孩儿的安危，绝对比你家和青龙山这群泥腿子们的脸加起来更重要。”\n\n    说出这句话的并不是许乐，虽然他应该是场间唯一",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "拍拍手，我需要你们的月票，就像你们和你们的孩子将来可能会需要我编些奇奇怪怪的故事来打发这无聊的人生……\n\n    我好像把自己看的太生猛了，然则我的qoo签名早就改了：我是一个伟大勤奋的人，以此与诸君共勉，这也是我这辈子的奋斗目标。未完待续，如欲知后事如何，请登陆章节更多，支持作者，支持正版阅",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "报大家的订阅和月票和别的什么乱七八糟的票。\n\n    拍拍手，我需要你们的月票，就像你们和你们的孩子将来可能会需要我编些奇奇怪怪的故事来打发这无聊的人生……\n\n    我好像把自己看的太生猛了，然则我的qoo签名早就改了：我是一个伟大勤奋的人，以此与诸君共勉，这也是我这辈子的奋斗目标。未完待续，如欲",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "西林军区隐秘级强人田胖子施施然自林间走了出来，就像他从来没有一刻离开过钟家小公主。随着他的出现，二十几名像幽灵一样的西林特种军人，也自林间、石后、花下散出，举起黑洞洞、冰冷无比的卡宴枪管，将林家安全人员和青龙山的特卫战士们围了起来。\n\n    (往下翻，有点儿事情和大家交待一下，关于重开无",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "不是许乐，虽然他应该是场间唯一知道钟烟花真实身份的人。\n\n    说出这句话的是一个胖子，一个从林间走出来，笑眯眯有若一个滑稽演员，两条缝的眼睛里却闪耀着林虎狰厉光芒的胖子。\n\n    田胖子。\n\n    西林军区隐秘级强人田胖子施施然自林间走了出来，就像他从来没有一刻离开过钟家小公主。随着他的出现",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "有有些人正是像我们惯常那般想的，所以专门想抓这个空子。”\n\n    关于思维定势这种东西，在局势显得紧张的庄园角落里，并不需要进行太过深入的讨论，倒是利家七少爷的忽然插话，更值得场间众人好生品尝琢磨。联邦七大家中，利林二家向来交好，此时利孝通却毫不犹豫地站在了许乐的一边，说穿了这位一直谋求利家继承权",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "仔细地感受着许乐和那些大人们异样地表情。安安静静地抱着略显陈旧地小娃娃在众人地身后。\n\n    因为担心将她留在一号院里。反而会:某些人可趁之机以许乐干脆带上了她。给七组地汉子们下了死命令并不怎么担她小姑娘地安全。反而在下午略显淡漠地光影幽林间走过时想到了今天也在木谷庄园里度假地南相一家。和那位秀丽",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "淡褐色柔麻礼服地林斗海。眉头皱地极为深刻。想要表现出一丝与他城府不相符地深度。看着拦在身前地许乐嘲笑说道：“这是一个多么愚蠢地判断。木谷是我林家地产业。我承认自己很讨厌你。南公子想必对你也没有好地印象。但我总不至于在这间园子里做出那种事情来。”\n\n    林斗海下颌微抬，不屑说道：“我们中午才刚刚冲",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "狰厉光芒的胖子。\n\n    田胖子。\n\n    西林军区隐秘级强人田胖子施施然自林间走了出来，就像他从来没有一刻离开过钟家小公主。随着他的出现，二十几名像幽灵一样的西林特种军人，也自林间、石后、花下散出，举起黑洞洞、冰冷无比的卡宴枪管，将林家安全人员和青龙山的特卫战士们围了起来。\n\n    (往下翻",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "一般小女孩儿地思维成熟度。她并没有不依不饶地大叫大闹。而是仔细地感受着许乐和那些大人们异样地表情。安安静静地抱着略显陈旧地小娃娃在众人地身后。\n\n    因为担心将她留在一号院里。反而会:某些人可趁之机以许乐干脆带上了她。给七组地汉子们下了死命令并不怎么担她小姑娘地安全。反而在下午略显淡漠地光影幽林",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

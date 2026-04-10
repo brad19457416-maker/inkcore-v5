@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 239,
+  "chapter_title": "第一百七十八章 一个星期的时间",
+  "filename": "ch_0239_第一百七十八章 一个星期的时间.txt",
+  "char_count": 3301,
+  "timestamp": "2026-04-10T12:04:51.219320",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "，塞纳尔便是国家安全顾问，总统先生当年在学校里的老师，朋友，政府里的重要人物。席格总统的这句话，毫无疑问已经明显地表示了对这个人的不满。\n\n    “还有几个月的时间，我的任期才结束，有些人却已经急着要找下家了。”席格总统的唇角泛起一丝嘲讽之意，说道：“帕布尔议员当年还是律师的时候，就已经让塞纳尔难",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "联邦科学院说了些话。才将总统阁下地怒意消除了些许。挂断电话之后。他摸了摸银白地头发。忍不住摇了摇头。心想自己这位朋友兼学生真是一个草包。这些年如果不是自己替他打理很多东西。只怕他真会成为联邦历史上最可笑地总统。\n\n    邹应星离开会议室之后。直接进入了自己地办公室。而一直跟在他身后地焦秘书。则是快",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "这次机甲热潮之中扮演了重要的角色。无数的联邦军事爱好者，不遗余力地通过那仅有的影像资料，分析着机甲的战斗性能。无数的民众幻想着联邦勇敢的军人，操控着强大的机甲，在与反抗帝国侵略的战争中，将那些野蛮的入侵者打个落花流水。\n\n    瞬息之间，联邦的爱国热情得到了充分的激发，所有人都在讨论着机甲，双引擎",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "生看着邹应星的双眼，强硬地说道。\n\n    便在这个时候，一直坐在圆桌角落处的一名官员忽然微笑着望着众人说道：“我认为可以再等两天。”\n\n    会议室里地人们，自然知道这位年轻官员是总统官邸办公室副主任布格，处于官邸办公室副主任的位置，级别权限并不高。但由于与总统之间的关系。所以能够前来旁听。他此",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "具体地时间？”\n\n    邹应星沉默片刻后说道：“一个星期。”\n\n    一场表面上针锋相对，暗底里风起云涌地联席会议就此结束，联邦政府依然没有针对科学院那个爆炸性的新闻，做出任何具体的后续措施。就在会议室外面。安全顾问先生拔通了总统阁下的绝密电话，一面腹诽着这个远在南科州，没有一点儿用处的蠢货。面",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "里透着一丝友人地关心。“关于新机甲地事情。你究竟是怎么想地？”\n\n    电话那头传来了席格总统阁下愤怒地声音：“科学院那边居然没有通知政府这边。便擅自发布消息。那个姓林地还有没有把我这个总统放在眼里？”\n\n    安全顾问先生轻声安慰了几句。又替联邦科学院说了些话。才将总统阁下地怒意消除了些许。挂",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "过往的沉默中跳脱出来，与国家安全顾问正面对抗。\n\n    国家安全顾问先生的脸色有些难看，片刻后淡淡说道：“那就是要等果壳？问题是你要等到什么时候？联邦又要等到什么时候？三个月？半年？我们能等，帝国那些野心家会等吗？在座的诸位应该都清楚，帝国的新式机甲早在三年前就开始了研制，虽然我们还不知道他们究竟",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "作台，可以屏蔽一切无线联系，为什么有人却能侵入工作台，并且向自己发出了信号，难道又是那个他不想想起的存在，闲的无聊想和自己聊天？\n\n    入侵工作台的那方并没让许乐被惊吓太久，第二行小字马上显现了出来。\n\n    “我做了构件图对比，觉得科学院那台机甲的某些设计要更好一些，您要不要看一下？ www",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "揉发涩的眼睛，舔了舔发干的嘴唇，比任何人都有信心地看着面前这台，便在这个时候，工作台的灰色光屏上忽然出现了两个字。\n\n    “你好。”\n\n    许乐微微一怔，眯着眼睛盯着那两个小字，心里生出了震惊的情绪，这是他花了极大功夫才配置好的工作台，可以屏蔽一切无线联系，为什么有人却能侵入工作台，并且向自",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "是自己替他打理很多东西。只怕他真会成为联邦历史上最可笑地总统。\n\n    邹应星离开会议室之后。直接进入了自己地办公室。而一直跟在他身后地焦秘书。则是快速地拔通了港都果壳工程部地电话。找到了许乐。\n\n    “只有一个星期地时间。”焦秘书想着先前首长地疲累之态。加重语气说道：“部长已经尽力了。”",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "，我不能为了安抚一家企业员工的情绪，便把联邦的安全置之度外。”\n\n    会议室里的气氛早就变得有些紧张起来，国防部副部长与国家安全顾问正面对抗，这种事情并不多见，所以大部分人都选择了沉默，即便是暗中站在邹应星这边的科学顾问先生。也不能确认果壳究竟需要多长时间，不方便开口支援。\n\n    “我认为果",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "最重要的秋季攻势也快要被媒体和民众淡忘，只有极少数人才知道，联邦科学院在这次事件中所获取的民意资本，马上就要转换成为罗斯麦德林总统候选搭档的竞选政治资本。\n\n    港都工业园区地下的果壳工程部，表面上并没有被这股热潮所影响，所有的工程人员依然按照既定的日程安排，沉默而努力地进行着自己的工作，生活总",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "顾问先生拔通了总统阁下的绝密电话，一面腹诽着这个远在南科州，没有一点儿用处的蠢货。面部表情和语气却在同时做出变化。\n\n    “胡夫。”安全顾问先生与席格总统地关系极为亲密。所以他直接称呼了总统地名字。而且语气热情里透着一丝友人地关心。“关于新机甲地事情。你究竟是怎么想地？”\n\n    电话那头传来",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "学院那边搞的乱七八糟，塞纳尔现在的心也乱了。”\n\n    这位联邦最高领袖以怯懦与好怒两种截然相反的性格著称，在政治界的评价向来不高，民意支持率也极为一般，但不知道为什么，他却已经连任了一次。\n\n    官邸办公室主任拿着电话沉默地站在总统阁下身后，塞纳尔便是国家安全顾问，总统先生当年在学校里的老师",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

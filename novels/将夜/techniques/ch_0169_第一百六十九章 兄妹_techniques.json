@@ -1,0 +1,245 @@
+{
+  "novel": "将夜",
+  "chapter_number": 169,
+  "chapter_title": "第一百六十九章 兄妹",
+  "filename": "ch_0169_第一百六十九章 兄妹.txt",
+  "char_count": 6763,
+  "timestamp": "2026-04-10T12:11:12.005214",
+  "techniques_count": 18,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "还要奔波很长一段时间。\n　　唐小棠抱着雪狼崽跟在皮袍男子的身后，对于南方那个陌生的世界不时提出自己的疑问。\n　　“我们真的要去南边吗？我觉得在荒原里生活挺好的。”\n　　“唐，南边的世界是什么模样？你一直不肯告诉我。”\n　　“唐，你去过唐国？”\n　　“唐，既然唐国是我们的世敌，是那些人把我们赶到北荒，",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 4
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "兆，也没有看见他屈膝或是弯腿，他的身体猛然呼啸破空弹起，就像是颗被大地力量震飞的石头，直至十余丈高的天空之中，然后高速落下，将一头雪原巨狼狠狠砸倒在坚硬的地面上。\n　　轰的一声巨响，冰砾和黑色的泥土溅的极高，仿佛发生了一场爆炸。\n　　皮袍男子并没有就此停止出手，紧接着再次弹出，只不过这一次的方向不再",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "像捧着珍宝一般，把雪团似的小狼捧了起来，浑没在意，如果那头看似普通的公狼一旦发难，她极有可能遇到生命危险。她睁着明亮的眼睛，看着身前的公狼说道：“放心吧，他不敢不听我的，所以跟着我比跟着他更好。”\n　　普通公狼盯着她怀里的孩子，沉默片刻后转身离狼群方向离去。\n　　那头雪山般的巨大母狼依依不舍看了她怀",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "己的身躯遮蔽着它的身躯，同时警惕地盯着狼群和隘口处，似乎只要有谁想在此时发起对自己丈夫的攻击，它便会瞬间将对方撕成碎片。\n　　狼嚎与飓风同至，唐小棠左脚向后退了一步，深深踩进坚硬的荒原地面里，双手端起那把沉重的红色巨刀遮在了自己眼前，小巧的身躯被风刮的不停颤抖，似乎随时便会被刮走，被吞噬，不时有冰砾",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "乌血从白色的长毛间淌落，显得格外凄惨。它们盯着小女孩儿手中那柄红色巨刀，淌着腥臭口水的口里不时发出不愤怒的低哮，只是没有谁敢违逆领袖的命令，露着利牙不甘地让开了道路。\n　　唐小棠拖着沉重的红色巨刀，气喘吁吁向隘口方向走去，在途中她解下了自己脖子上的那条兽尾，擦了把口鼻间渗出来的鲜血，然后随意插进腰带",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "情，皮袍男子说道：“天地待人如此苛刻严厉无情，我们依然能活下来，这说明只有人本身才是世间最强有力量的存在，你不用害怕什么。”\n　　“明白。”唐小棠抬头看着他问道：“不管能不能进书院，我都会好好活着。”\n　　皮袍男子说道：“在找师傅之前，我还要去杀一个人。”\n　　“谁。”\n　　“一个叫夏侯的唐国将军。",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "了？我真想不明白，为什么这些雪原巨狼会听它的话。”\n　　“道理其实很简单。”皮袍男子回答道：“因为它最强。”\n　　雪原巨狼群极富纪律性地向后退了数十丈，而那头看上去极为普通的小公狼却没有离开，依旧半蹲在距离隘口不远处的地面上，沉默看着唐小棠和皮袍男子。\n　　“它要做什么？”唐小棠问道。\n　　皮袍男子",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "的猎人，也未曾见过这般荒唐可笑却又令人无来由毛骨悚然的画面，然而这却是真实的画面。\n　　那头普通公狼来到狼群之间，缓缓抬起头颅，看着隘口处的那对人类男子，眼眸里泛起一道暴躁却又警惕的神情，仿佛可以从中感知到某些奇异的智慧。\n　　沉默片刻后，这位雪原巨狼的领袖向前探出左爪，轻轻拍打了两下坚硬的荒原地面",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "狼神态极为柔驯，眼眸里充满了宁静与服从，行走之时格外轻柔，似乎极为害怕会误踩到什么。\n　　唐小棠惊讶说道：“噫，这群巨狼的首领居然这么漂亮？”\n　　皮袍男子说道：“这是头母狼，她不是首领，是首领的妻子。”\n　　唐小棠闻言一怔，仔细望去，便看到了一幕令极为震惊的画面，身体微僵。\n　　只见那头漂亮巨大的",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "容易受到兽群的侵袭，他们还要奔波很长一段时间。\n　　唐小棠抱着雪狼崽跟在皮袍男子的身后，对于南方那个陌生的世界不时提出自己的疑问。\n　　“我们真的要去南边吗？我觉得在荒原里生活挺好的。”\n　　“唐，南边的世界是什么模样？你一直不肯告诉我。”\n　　“唐，你去过唐国？”\n　　“唐，既然唐国是我们的世敌，",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "碗蟹黄粥。”\n　　陈皮皮收了威胁，想着先前那话题，摇头说道：“狗是用来吃，不是用来养的。”\n　　宁缺思绪回到很久很久以前的过去，仿佛看到花坛里那条雪白的大狗，沉默很长时间后，摇头说道：“我这辈子就想养一头萨摩耶，然后给它取个名字……叫小白。”",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "劲的泥土碎枝还有那些无形的撕裂力量，击打在他赤裸的身躯上，发出一阵阵令人牙酸的金属摩擦声，甚至溅起了无数白色的空气湍流！\n　　猛然间，皮袍男子深吸一口气，脸色如同燃烧一般红润起来，只见他向前再踏一步，右手自身体画了一道圆弧，再自腰下沉身而出，隔着十余丈的距离，就这样一拳打了过去！\n　　轰的一声，拳风",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "石雨般的撞击，隘口前方便空出了一个极大的圈子。\n　　一声低沉的吼声响起，发出了指令。\n　　雪原巨狼群沉重喘息着，沿着隘口形成一道半圆圈，暂时停止了冲锋，它们盯着隘口处那个半裸的雄性人类，惯常残忍冷漠的巨大眼眸里，终于流露出了恐惧的情绪。\n　　不知道什么时候，围攻唐小棠的十头青壮巨狼也停止攻击，乌血从",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "原上碾压出一道极深的痕迹，直到撞飞了后面扑过来的两头巨狼才停止滚动，却也再无力站起来。\n　　皮袍男子缓缓收回自己静止在空中的腿，面无表情看着越来越近的狼群，忽然间数蓬血一般浓烈的火苗，从他裸着的腿上迸发出来。一阵狂风无由而起，没有任何先兆，也没有看见他屈膝或是弯腿，他的身体猛然呼啸破空弹起，就像是颗",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "毛光滑美丽的母狼，似乎是狼群里唯一不受影响对象，它站在那头普通公狼身后，用自己的身躯遮蔽着它的身躯，同时警惕地盯着狼群和隘口处，似乎只要有谁想在此时发起对自己丈夫的攻击，它便会瞬间将对方撕成碎片。\n　　狼嚎与飓风同至，唐小棠左脚向后退了一步，深深踩进坚硬的荒原地面里，双手端起那把沉重的红色巨刀遮在了",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "形差距那么大，怎么生得出来孩子？”\n　　皮袍男子表情微僵，片刻后回答道：“我是你哥哥，这个问题你应该以后问自己的相公。”\n　　风雪再起，荒原上很冷，兄妹二人间的对话更冷。\n　　……\n　　……\n　　长安城南郊，书院后山石径之上。\n　　“人的感情需求总是隐隐指向自己最缺憾的部分，所以你这个性情怯懦的大胖",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "“人的感情需求总是隐隐指向自己最缺憾的部分，所以你这个性情怯懦的大胖子想找一个清新可爱，身材小巧，性格强悍的小女生，是很可以理解的事情。”\n　　宁缺看了陈皮皮一眼，认真说道：“只是我觉得你还是应该减减肥，不然这两三百斤肥肉有哪家的小姑娘禁得住你压？体形相差太大，终究是个问题。”\n　　陈皮皮毫不理会",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "有补充条件，那个小女生一定要有强大的实力。”\n　　“一个女人，千辛万苦修练出强大的实力，结果就是为了满足被你压这个条件？”\n　　宁缺看着他无奈地摇了摇头，说道：“我估计如果真有那么一个人，到时候就是她被你压，而是你天天被她压在下面，一辈子都无法翻身。”\n　　陈皮皮傲然一笑说道：“强固强矣，但这世间哪",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

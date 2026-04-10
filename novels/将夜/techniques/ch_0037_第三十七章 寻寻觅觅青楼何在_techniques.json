@@ -1,0 +1,128 @@
+{
+  "novel": "将夜",
+  "chapter_number": 37,
+  "chapter_title": "第三十七章 寻寻觅觅青楼何在",
+  "filename": "ch_0037_第三十七章 寻寻觅觅青楼何在.txt",
+  "char_count": 2347,
+  "timestamp": "2026-04-10T12:11:03.423515",
+  "techniques_count": 9,
+  "techniques": [
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "像头熊瞎子般去胡乱碰撞，想碰到那头老熊的机会是不是太少了些。\n　　当他在这家青楼外流连半晌后悻悻转身离去时，忽然听到身后传来一阵银铃般的声音，那些清脆的笑声在长安街上飘的极远，引来无数人的注视。\n　　宁缺蓦然回首，只见那处青楼灯火阑珊，尚未开工的伊人们倚栏而笑，楼间红袖乱招，似是在取笑某个脸嫩不敢进",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "看着楼上那些眼波流媚格格直笑的漂亮妓女们，把心一横，把头一仰，一掀书生衫前摆，意气风发便走进了他的新时代。",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "旁孔武有力的随从，看着街巷间纪律森严的治安军，看着偶尔疾驰过身旁的羽林军骁骑，愈发确定自己不能用当街暴起杀人这种莽法子。\n　　整整一个白天看似没有什么收获。傍晚时分张府府门大开，御史大人似是赴某人正式宴请，御史夫人和几位穿着打扮应该是妾侍的女子相送出门，街上的闲汉们笑着指着那处说着艳羡的话，在茶铺里",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "本闲书，然后便开始在御史台和张府之间不停游荡。\n　　接下来的一天，他走在柳树荫下，站在糖人摊旁，隔着人群远远注视着那位面容方正、不怒而威的御史大人出了御史台，回了自家府，看着这位御史大人身旁孔武有力的随从，看着街巷间纪律森严的治安军，看着偶尔疾驰过身旁的羽林军骁骑，愈发确定自己不能用当街暴起杀人这种",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "而言也并不合用，除了其中一条：御史张贻琦性情方正严肃，但是听说暗底里好色之疾极为严重，私底下经常出入风月之地。只是此人家有悍妻，又背着御史的名声，所以去买欢时格外谨慎小心，卓尔毕竟只是军部的一个底层谍子，始终没有查到此人经常去的青楼是哪家。\n　　“长安城里有这么多楼子，你会去哪家呢？”\n　　宁缺皱着",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "他好生介绍了下长安城里的风月行当。\n　　听着那比书院入院试真题卷还要繁复的名称，宁缺揉了揉眉角，苦笑说道：“太多了，话说最贵的是哪几家？而且要环境安静些。”\n　　……\n　　……\n　　拿着几家著名青楼的名称地址，宁缺在灯火通明的长安街头寻寻觅觅，在那风流之地流连犹豫，有的楼子他并没有进去，只看外观和周",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "“长安城里有这么多楼子，你会去哪家呢？”\n　　宁缺皱着眉头苦苦思索，推翻了先前跟踪对方找到那间青楼的念头，既然军部的专业谍子都没能用这种常规方法查到张贻琦的销魂屋在何处，那么这名御史一定有自己的一套法子。而像这等官员的起居喜好，想必茶馆里爱唠的长安百姓们也不会太在意，所以他很难从市井巷坊里获得自己想",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "待了一句，便走了出去。\n　　桑桑追到门口扶门问道：“你要去哪儿？要不要我跟着去？”\n　　宁缺明白她在担心什么，笑着回答道：“有些地方你可不能跟着去。”\n　　……\n　　……\n　　走在阳光清漫的长安街头，宁缺的心情变得不错起来，那场春雨里的血被他刻意淡忘，然后把自己变成一个异乡游学的少年书生，先去那间书",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "比书院入院试真题卷还要繁复的名称，宁缺揉了揉眉角，苦笑说道：“太多了，话说最贵的是哪几家？而且要环境安静些。”\n　　……\n　　……\n　　拿着几家著名青楼的名称地址，宁缺在灯火通明的长安街头寻寻觅觅，在那风流之地流连犹豫，有的楼子他并没有进去，只看外观和周遭环境便确定那位御史大人肯定不是此间常客，这纯",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

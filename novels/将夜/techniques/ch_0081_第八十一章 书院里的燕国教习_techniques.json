@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 81,
+  "chapter_title": "第八十一章 书院里的燕国教习",
+  "filename": "ch_0081_第八十一章 书院里的燕国教习.txt",
+  "char_count": 3223,
+  "timestamp": "2026-04-10T12:11:12.002666",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "舍内的学生们说道：“无论是云麾将军，还是什么将军，就算他们的拳头比我大，势力比我强，依旧不敢来打我，为什么？因为我是书院教习，而这就是我大唐的规矩。”\n　　书舍后方由贤满脸怯意低声说道：“这书院怎么乱七八糟的，不过宁缺，你可千万不要冲动，去惹这位教书先生。”\n　　宁缺当然没有虽千万人往独往的那种勇气",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "，那名身材魁梧的将军之子，不知道是害怕书院规矩，还是过于尊师重道，竟是根本不敢还手，被枯瘦的苍老教习瞬间打到鼻青脸肿，口角流血，看上去显得异常凄惨。\n　　不知过了多久，教习先生终于住手，气喘吁吁瞪着将军之子阴沉训道：“如果你说的是对的，那我这时候打你就是对的，因为我拳头比你大。”\n　　从教习先生开始",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "案必将具体而微，向微妙处向具体细节里去问询。我们仰望星空，看星辰移动，在心中画出那美妙而恒定的线条，最终便成为观星之术。”\n　　“苍穹是什么？便要从这样具体的一根根线条，一道道云气，天地间呼吸的上沿，元气波动的上限去体会去感悟，而礼字，同样如此，如果你们要问为师，礼之一道若往具体去探究，往具像中去觅",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "鼻青脸肿的楚中天，叹息一声，摇头说道：“这事儿你们根本没处说理去，因为曹知风教授……是燕人。”\n　　人群外的宁缺听到这个答案，也忍不住摇了摇头，暗想你当着一个燕人的面提及帝国大胜，对方太子入质，被人痛揍一番……确实无处说理去。\n　　大唐帝国雄霸天下，子民多自信甚至狂妄，宁缺承认自己在边塞草原上面对蛮",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "上依旧没有丝毫表情，但当他走到那学生身前时，声音却陡然拔高，举起枯树干般的右手，劈头盖脸就打了过去，愤怒地咆哮道：“拳头大就是道理？那我这时候打你就是道理！”\n　　书舍里响起一阵惨嚎，那名身材魁梧的将军之子，不知道是害怕书院规矩，还是过于尊师重道，竟是根本不敢还手，被枯瘦的苍老教习瞬间打到鼻青脸肿，",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "习先生脸上的皱纹渐渐平伏，面无表情看着这名身材魁梧的学生，说道：“你这句话意思就是说，只要拳头大便有道理？”\n　　那名学生有些尴尬地挠挠头，强颈道：“这么理解倒也不为错，像我大唐数攻燕国，哪一次不把他们打的喊爹喊娘，他们甚至要把太子送来长安为质，但他们的皇帝哪里敢对我大唐陛下失毫无礼？还是要尊称为圣",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "为质，但他们的皇帝哪里敢对我大唐陛下失毫无礼？还是要尊称为圣天子。”\n　　宁缺在书舍后方听着这番话，暗想这家伙礼科成绩肯定不会比自己更高。\n　　教习先生缓步向那学生走了过去，脸上依旧没有丝毫表情，但当他走到那学生身前时，声音却陡然拔高，举起枯树干般的右手，劈头盖脸就打了过去，愤怒地咆哮道：“拳头大就",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "字如同苍穹那般高远不可触摸，那我们是不是就不应该向苍穹投以探索好奇的目光了呢？当然不，我们白昼观云探风，夜晚观星探幽，我们想知道苍穹是什么，我们想知道有什么在上面。”\n　　“极宏大的命题，要以一种被我们能理解的方式做出解答，那么我们的答案必将具体而微，向微妙处向具体细节里去问询。我们仰望星空，看星辰",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "兰一眼，说道：“我就是想要证明他的道理，有问题吗？”\n　　司徒依兰紧紧抿着双唇，想着入书院前父兄们的紧张叮嘱，但终究还是没有忍住，将心一横，颤声说道：“是，如果您认为他是错的，那就不应该用他的道理去教训他，既然礼是规矩，您就应该用规矩去束缚他，去惩处他。”\n　　教习先生冷冷一笑，看着她说道：“云麾将",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "救了出来，他再一次明白在大唐地位至高的书院果然不是一般地方，这里的教习果然不是一般人。\n　　当老教习说道礼便是规矩时，书舍里忽然响起一道极不赞同的声音：“先生，我大唐帝国威服四海，圣天子君临天下，重修礼记，靠的可不是什么守规矩。”\n　　书院规矩课堂上可以提问，所以这名学生的质疑倒也正常，但这毕竟是入",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "时常会流露出某种骄纵之气，只是今日看来，长安城南这座书院兼容并蓄，不止学生就连先生都有很多来自异国，日后说话行事当小意些。",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "个鬼地方了。\n　　……\n　　……\n　　午时准点下课，礼科教习先生腋下夹着墨卷，一吹颌下长须，目不斜视走出书舍，傲骄到了某种程度，书舍里的学生稍一错愕然后瞬间炸锅，纷纷聚在一处议论晨时的那一幕，司徒依兰等人则是冲到那名被打学生身旁，关切地取出清水手绢，开始替他清理脸上的伤口，那魁梧男学生脸上满是委屈的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

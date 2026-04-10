@@ -1,0 +1,167 @@
+{
+  "novel": "将夜",
+  "chapter_number": 1106,
+  "chapter_title": "第一百一十五章 天生一对（下）",
+  "filename": "ch_1106_第一百一十五章 天生一对（下）.txt",
+  "char_count": 3309,
+  "timestamp": "2026-04-10T12:11:34.919798",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "闭上眼睛，细眉紧紧地皱起，皱的很紧很紧，很用力很用力，想通过这种方式来记起很久以前的某些回忆。\n　　最终，她成功地记了起来。\n　　那时候，河北道终于下了雨，她还是个婴儿，在宁缺的臂弯里静静地躺着，那时候，他的手臂也还很细，但躺在里面很舒服。\n　　回忆着当年宁缺抱自己的样子，她的双臂渐渐不再那么僵硬，",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "，想通过这种方式来记起很久以前的某些回忆。\n　　最终，她成功地记了起来。\n　　那时候，河北道终于下了雨，她还是个婴儿，在宁缺的臂弯里静静地躺着，那时候，他的手臂也还很细，但躺在里面很舒服。\n　　回忆着当年宁缺抱自己的样子，她的双臂渐渐不再那么僵硬，变得柔和了很多，微微弯起，两名婴儿明显也觉得舒服了很",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "的脸颊上，看着很是可怜，好在眼神还没有涣散的趋势。\n　　中年妇人走到神座前，看着她腹上那柄血剑，声音颤抖着说道：“第一次都这样，您呆会儿再用些力气，也许就出来了？”\n　　桑桑听出她语气里的不确定，微微蹙眉，有些不悦，想要说些什么，却发现力量正在急速地消失，只好闭上眼睛，继续养神，准备下一次用力。",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "响起喧哗声，不知道是不是那些逃跑的神官执事纠集了人前来做什么，青狮警惕地盯着殿门，如果还有人来打扰主人生孩子，那么它也顾不得等什么命令，直接便要把那些家伙咬死。\n　　得得得得，蹄声清脆响起！\n　　大黑马奔入殿内，马背上坐着位有些肥胖的中年大婶，那大婶脸色比桑桑还要苍白，双手紧紧地抓着鞍前，似乎随时会",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "很是可怜，好在眼神还没有涣散的趋势。\n　　中年妇人走到神座前，看着她腹上那柄血剑，声音颤抖着说道：“第一次都这样，您呆会儿再用些力气，也许就出来了？”\n　　桑桑听出她语气里的不确定，微微蹙眉，有些不悦，想要说些什么，却发现力量正在急速地消失，只好闭上眼睛，继续养神，准备下一次用力。\n　　中年妇人当然",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "到针线的痕迹，而看不到创口的模样。\n　　桑桑很疲惫，有些满意，觉得自己表现的很不错。\n　　当然，是做为人类的表现很不错。\n　　忽然间，她想到了很多年前一件特别小的事情。\n　　那时候从渭城去长安城之前，她觉得自己的女红不好，至少和长安城里的那些小娘子们没法比，宁缺似乎也是这样想的。\n　　她想，以后他不",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "生孩子的女人腹上会插着一把剑，浑身都流满了血，看着像魔鬼一样。\n　　事后回想起来，得亏这一生她接生过无数次，见过无数血腥、畸形难看的画面，不然肯定会昏过去，当然，她宁肯自己昏的更早一些。\n　　……\n　　……\n　　桑桑躺在神座上，服了一剂药粉后，精神稍好了些，睁着眼睛，看着在纱幔外忙碌的那名中年妇人，",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "阵的剧痛，脸色越来越苍白，脸颊上汗珠越来越多，便是连举起手的力气也没有。\n　　青狮看着她的模样，很是紧张，不安地围着神座转着圈，尾巴不时拂过墙壁，将壁画上那些庄严神圣的天女神将像，都扫成了碎片。\n　　道殿外忽然再次响起喧哗声，不知道是不是那些逃跑的神官执事纠集了人前来做什么，青狮警惕地盯着殿门，如果",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "…\n　　桑桑躺在神座上，服了一剂药粉后，精神稍好了些，睁着眼睛，看着在纱幔外忙碌的那名中年妇人，虚弱说道：“什么时候能生出来？”\n　　此时已是暮时，距离阵痛开始已经过去了很长时间，那名稳婆在桑桑身旁喊口号已经喊到喉咙嘶哑，但还是没有生出来。\n　　桑桑浑身汗水，身下垫着的帷幕也湿漉漉的，头发凌乱地搭在",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "城之前，她觉得自己的女红不好，至少和长安城里的那些小娘子们没法比，宁缺似乎也是这样想的。\n　　她想，以后他不能这样说了。\n　　想了些小事和旧事，分散了一下心神，缓解了痛苦与疲惫，她才想起来，自己似乎忘记了一些事情，向身旁一望，便蹙起了眉。\n　　她看似有些厌烦或者不悦，其实是有些惘然。\n　　就在她的身",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "要说些什么，却发现力量正在急速地消失，只好闭上眼睛，继续养神，准备下一次用力。\n　　中年妇人当然很想离开，尤其是判断出这女子很难顺产，极有可能难产之后，半个时辰之前，她就曾经试着偷溜过一次，只是看着那头雄武而巨大的青狮，一口咬掉了三名神殿骑士的上半身后，她很老实地走了回来。\n　　……\n　　……",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "他的手臂也还很细，但躺在里面很舒服。\n　　回忆着当年宁缺抱自己的样子，她的双臂渐渐不再那么僵硬，变得柔和了很多，微微弯起，两名婴儿明显也觉得舒服了很多，哭声渐低。\n　　还有一些事情要做。\n　　她记得那时候，宁缺不知从哪里弄来了米糊，用嘴一口一口喂给自己吃。\n　　婴儿是要吃米糊的，没有米糊，那么就要吃",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

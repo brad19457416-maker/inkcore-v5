@@ -1,0 +1,141 @@
+{
+  "novel": "将夜",
+  "chapter_number": 64,
+  "chapter_title": "第六十四章 御书房",
+  "filename": "ch_0064_第六十四章 御书房.txt",
+  "char_count": 3277,
+  "timestamp": "2026-04-10T12:11:11.973501",
+  "techniques_count": 10,
+  "techniques": [
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "巷子里有些好字儿，今天来看看，果然不错，宫里有贵人想瞧你写字儿，你赶紧梳洗梳洗随我走吧。”\n　　宁缺心想这由头倒是不错，看了眼身上穿着，向那小太监揖手一礼，笑着说道：“平日里也就这般穿的，穷酸书生，哪里还能梳洗出朵花儿来。”\n　　他本有些担心对方没有收到红包会不会刁难自己，没想着这位小公公倒是不以为",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "不宽敞的车道上缓慢行驶，不知转了多少道弯，视线全部被车旁的高墙飞檐所遮挡，只看得到被檐角切割成碎片的天空，他根本没有机会一睹皇宫全貌，只觉着里面的宫殿极高极高。\n　　在远远能看见一片碧湖的杂事房处，那位小公公带着宁缺下了马车开始步行，二人顺着湖畔的密密竹海走了约摸几盏茶的功夫，穿过由红柱支撑的一片阔",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 7
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "那小太监揖手一礼，笑着说道：“平日里也就这般穿的，穷酸书生，哪里还能梳洗出朵花儿来。”\n　　他本有些担心对方没有收到红包会不会刁难自己，没想着这位小公公倒是不以为意，反而微微一笑似是有些喜欢他的谈吐，冲着他点点头走出了铺门。\n　　有些逼仄的车厢里，小太监一路闭目养神，看他先前在临四十七巷的表现，应该",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "第六十四章 御书房\n　　今天晚上的长安城肯定很热闹。经历了一夜战斗的宁缺很累，但雨夜里的刀光血水又让他有些兴奋，想象着此时正在各坊市里发生的画面，猜着朝小树的底牌，推测明儿要去的地方是哪儿，辗转反侧，怎么也没办法入睡。\n　　他隔着薄薄的被子把桑桑蹬醒，就这些事情",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "教的回答，就说是禄吉带你进的宫。”\n　　满怀感慨地想着，宁缺完全没有注意到那位小太监不知何时已经悄然离去，当他醒过来时，发现御书房四周已经空无一人。\n　　身处陌生而森严的皇宫之中，身旁没有一个认识的人，荫凉宜人的环境顿时变得有些阴森起来，纵使是胆大如他，也不禁感到有些微微不适，站在廊前等了片刻，他忽",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "手在铺子里随意打量了一番，像老人般点了点头，用清亮的声音说道：“听说这巷子里有些好字儿，今天来看看，果然不错，宫里有贵人想瞧你写字儿，你赶紧梳洗梳洗随我走吧。”\n　　宁缺心想这由头倒是不错，看了眼身上穿着，向那小太监揖手一礼，笑着说道：“平日里也就这般穿的，穷酸书生，哪里还能梳洗出朵花儿来。”",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "缺完全没有注意到那位小太监不知何时已经悄然离去，当他醒过来时，发现御书房四周已经空无一人。\n　　身处陌生而森严的皇宫之中，身旁没有一个认识的人，荫凉宜人的环境顿时变得有些阴森起来，纵使是胆大如他，也不禁感到有些微微不适，站在廊前等了片刻，他忽然想着自己是不是应该先进去？\n　　他和桑桑进长安城就像土包",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "要的部分除了冥想习武便是书法之道，今日极难得地拥有了进入御书房的机会，当然渴望能够看看这间传闻中拥有无数名家神贴的书房，这种渴望是如此的强烈，甚至强烈到他完全忘记了所谓规矩。\n　　推门而入，入眼处依着墙壁是极高的一排书架，书架横平竖直，样式极为普通简单，但用的木料却是极名贵的东屿黄花梨，书架上密密麻",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "中某人，而宫中那人很大可能就是皇帝陛下本人，然而猜忖与证实是两回事，前十六年颠沛流离艰难生存的少年，骤然发现自己似乎拥有了一步登天的机会，心中难免有些震撼，他终于明白朝小树昨夜说的话比真金白银还要真，这真是全天下最粗的一根大腿啊。\n　　“半个小时辰之内，没有人会来这里，如果有人问，你就按我先前教的回",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "下来一个小厮模样的少年，招呼都没有打一声，径直推开半闭的店铺木门，望着刚起床的主仆二人微仰下颌，冷冷说道：“走吧。”\n　　这大概就是朝小树说的来接自己的人。宁缺看着那小厮，注意到此人眉眼宁和却似有若无流露着几丝傲气，从对方平平的喉结还有与普通人有些细微差异的站姿中看出，这家伙应该是宫里的哪位小公公。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    }
+  ]
+}

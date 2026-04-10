@@ -1,0 +1,219 @@
+{
+  "novel": "间客",
+  "chapter_number": 308,
+  "chapter_title": "第二百三十七章 一拳断尽归家路",
+  "filename": "ch_0308_第二百三十七章 一拳断尽归家路.txt",
+  "char_count": 6822,
+  "timestamp": "2026-04-10T12:04:59.191862",
+  "techniques_count": 16,
+  "techniques": [
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "异样，他眯着眼睛，沉稳地继续着自己的施政演说，眼角的余光却在宪章局局长的身上扫了一眼。\n\n    在众人目光之中，满头白的邰局长却是眼观鼻，鼻观心，就像是什么都不知道一般，其实他很清楚此时总统就职仪式上的异样因何生，事实上他是都特区里第一个知道s2杀事件地人。\n\n    便在此时，他怀里的电话震动了",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 6
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "崔聚冬站了起来，走到窗边，看着楼下大厅里忙碌的工作人员们，眉头忍不住皱了起来。西林军区去百慕大地人还没有传回消息，六十几年前的人口买卖记录，确实可能早就被毁了，而第二军区特种小队从青龙山里冒险挖坟取回的生物样本，却依然还在旅途之中。\n\n    在s2宪章局直接命令派出地那个特种小队，已经对双",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "星人般长着八条腿、生着天然虫类外壳，还会不停地喷酸液，却像联邦里的人一样，会走路，会思考，会恋爱，会愤怒，会憎恨……\n\n    崔聚冬局长助理怔怔地看着手中那份档案，看着档案上面麦德林议员的照片，觉得身体如同堕入北极冰坑之中一般，无比寒冷。\n\n    双方交战数十年，早已结下不共戴天的血海深仇，根本",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "……\n\n    联邦第二军区橡树州警备区指挥部。\n\n    “基金会大楼第三次来电，请求紧急支援，敌人攻击速度太快，而且拥有大火力。”一名中尉参谋快步跑到了警备区司令的身后，脸色难看地说道：“司令，要不要派个作战小队过去？”\n\n    “派个屁！”\n\n    警备区司令根本没有理会下属地",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "到证据。他们认为在近百年前忽然与联邦相遇的那个人类社会，应该是联邦当年的一个分支。不然根本无法说明，为什么宇宙间忽然出现了一个帝国，这帝国里的生命并不像电影中的外星人般长着八条腿、生着天然虫类外壳，还会不停地喷酸液，却像联邦里的人一样，会走路，会思考，会恋爱，会愤怒，会憎恨……\n\n    崔聚冬局长",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "子里，却因为远方生的一件刺杀事件，而变得有些怪异起来。\n\n    国家安全顾问悄无声息地走到石阶上，来到当选副总统先生地身后说了几句什么，又指了指帕布尔总统的背影，副总统先生焦虑地摇了摇头。\n\n    还有更多的人望向了观礼台第一排显眼位置，事突然，他们很想知道联邦宪章局那位老局长有什么反应。",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 4
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "如果不是大选失败，他或许不会想到要回家，但他已经获得了足够珍贵的东西，回家也应该能理直气壮了。在这一瞬间，麦德林那股思乡的情绪竟是压倒了对当前局势的隐惧。\n\n    在先前麦德林曾经隔着门对许乐说过，虽然你是个天才的工程师，却无法打开这道安全门。坐在地上的许乐，此时睁开了双眼，看着门后的议员，开口说",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "政府做些什么。\n\n    大厅里面一片慌乱景象，为了应对联邦有史以来最不可思议的序列事件之一，宪章局第一次成立了专案小组。那位姓邰的老局长之所以要瞒着政府成立这个专案小组，正是因为他们所要调查地目标，无论是在政府内部，还是在下层机构中，拥有着难以想像数目的合作伙伴与狂热支持。\n\n    为了保密，宪",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "做出这样一件耸人听闻的恐怖事件。局长拿着电话，偶尔抬头看一眼台上正在演讲的帕布尔总统，眉头微皱，强行压抑着心头的愤怒，低声对下属们做出了指令，然后悄悄地走到国家安全顾问先生的身后，轻身说了几句什么。\n\n    国家安全顾问此时正满面含笑望着石阶之上的总统阁下，希望帕布尔总统能够看到自己真诚的感情投射",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "社会隐喻",
+      "category": "theme",
+      "example": "。\n\n    这宇宙这么大，联邦和帝国却偏偏撞到了一起，大概是造物主的意愿，让两个相为近似的碳基生命社会，在还没有做好心理准备的时候，就猛烈地开始互相撞击。\n\n    哲学家和人类学家一直在试图寻找出联邦人类与帝国人类之间的生理血缘关系，甚至已经将怀的目光指向了无数年前的蛮荒时代。\n\n    大部分",
+      "analysis": {
+        "definition": "在文本中使用社会隐喻技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "委员会，也正是因为保密的需要，一向只负责信息收集，从来不执行具体事务的宪章局，此次没有了联邦调查局地全力支援，竟露出了难得的生涩与慌乱。\n\n    办公室的门被推开，一名专案组成员急促地走了进来，慌乱地翻着手中的案卷，说道：“目标确定今日离开s2前往西林前线看望军队。”\n\n    “去西林？只怕路上",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "难得的生涩与慌乱。\n\n    办公室的门被推开，一名专案组成员急促地走了进来，慌乱地翻着手中的案卷，说道：“目标确定今日离开s2前往西林前线看望军队。”\n\n    “去西林？只怕路上就要跑了。”崔聚冬的心里生起一丝寒意，挥手示意那名工作人员退了出去，然后拿起了手中的电话，拨通了一个号码。",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "支持。\n\n    为了保密，宪章局的暗中调查甚至瞒着总统官邸与联邦管理委员会，也正是因为保密的需要，一向只负责信息收集，从来不执行具体事务的宪章局，此次没有了联邦调查局地全力支援，竟露出了难得的生涩与慌乱。\n\n    办公室的门被推开，一名专案组成员急促地走了进来，慌乱地翻着手中的案卷，说道：“目标",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "们确定，肯定有什么大事生了。\n\n    观礼台倒数第二排一个不起眼的位置上，穿着黑色大风衣的邰夫人，缓缓放下了手中地电话，她那双惯常平静的眼眸里，闪过了一丝怒意，旋即便变成了冰冷。\n\n    紧接着，安静站在人群中的利缘宫以及联邦七大家地家主们，都通过各自地情报渠道，知道了s2上正在生的那一场暴烈暗",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "眼微红盯着光屏上的全息成像地图，看着地图上那些清晰可见的热像痕迹，看着旁边一直闪动地分析数码，再听着另一边参谋部无比嘈杂地声音，心头的所有情绪全部泄了出来。\n\n    他回头狠狠地瞪了那名参谋一眼，说道：“青龙山军队全面出动，整个军区都在部署防御，你这时候要我派人去保护一个狗屁议员，是想让我上军事法",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "忽然出现了一道裂痕！\n\n    ……\n\n    ……\n\n    （光凭许乐一个人肯定是不够的，当然，以后他会经常一个人做些事情……写的有点儿累了。　小＿说txt天＿堂",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

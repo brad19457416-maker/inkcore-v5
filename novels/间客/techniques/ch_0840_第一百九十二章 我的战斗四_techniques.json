@@ -1,0 +1,193 @@
+{
+  "novel": "间客",
+  "chapter_number": 840,
+  "chapter_title": "第一百九十二章 我的战斗四",
+  "filename": "ch_0840_第一百九十二章 我的战斗四.txt",
+  "char_count": 3495,
+  "timestamp": "2026-04-10T12:05:17.620896",
+  "techniques_count": 14,
+  "techniques": [
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "六十九年非法窃取宪章局秘密数据。你被指控非法窃取并且泄漏联邦重要数据。你被指控破坏联邦一级飞行器，以危险方法危害公共安全，触犯联邦军事数据各例。”\n\n    没有什么证据呈堂，也没有什么法庭瓣论，今天的审判更不需丅要什么证人，徐松子有些悲伤地低下头来，静静按着厚厚的卷宗，然后深吸一口气，抬起头继续平",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "军事法庭里肃静异常，参加这次不公开审理案件旁听的人并不多，除了军方和政丅府的代表之外，还象征意义地请来了西林钟家的两位代表，不过那两个中年人很明显对古钟号爆炸没有任何负面的看法，在当前的局势下，依赖联邦政丅府支持的他们，也不可能有任何看法。\n\n    徐松子平静地看着桌上的案卷，都部长被停职",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "脸上浮现出充满自信坚毅从容甚至开始优雅起来的微笑，莱克上校走上了新生的道路。\n\n    就在这一瞬间，铺着红sè地毯的道路却骤然变形，就在莱克上校的身前陡然隆起，像是一场不可思议的微型地壳运动，就这样将将好生在这间军事法庭中。\n\n    变形的道路携带的恐怖力量，让地毯下方坚硬的木地板变成无数片",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "时刻，他想说些什么，也许是想仟悔些什么，声音沙哑道：“我……”\n\n    许乐对枪口下的莱克上校并不陌生，当年正是这个人和他领导的机甲部队，终结了自己的孤儿修理工人生，事实上，从某种角度上讲，此后的逃亡以及他在这个宇宙里做的那些事情，都和这个人有关。\n\n    但此时不需丅要唏嘘历史，感慨当年，他是",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "判处你七个死刑……枪决。”\n\n    如同半年前那场官邸对面建筑内听证会的场景，徐松子复述着当rì疾风暴雨严厉的指控，只不过今天她的语气要显得平静很多，因为她只是坚持要把罪名陈述出来，而根本不再奢望能够获得公正的审判。\n\n    站在被告席中的莱克上校没有争辩，也没有如当rì那般悔怒地咆哮这是政治迫",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "身体丅内部缓慢游丅行，没有任何障碍的力量或者说真气，极为奇妙地帮助他减缓了心跳与呼吸的频率，新陈代谢进入了一种类似冬眠或者沉睡的状态。\n\n    醒来后他身体每一处的肌肉缓缓放松，甚至那些本不能够由大脑控制的平滑肌也是如此，呼吸与心跳开始进入正常的频率。\n\n    黑暗上方的脚步声越来越密集，说话的",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "觉得意外，包括徐松子那些来自国防部法务部门的军官。\n\n    他们甚至没有办法在人们面前表现出自己的愤怒，而只能落宾地收拾案卷，顺着那条铺着红毯的通道走出法庭大门口在那一刻，徐松子觉得高跟鞋下的红地毯似乎变得极为湿漉，像是被无数血水浸泡着般。\n\n    前来旁听的人们依次离开军事法庭，他们的表情或平",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "静地看着桌上的案卷，都部长被停职，时局出了剧烈的变化，隶属国防部法务部门的她和同事们，早已清楚今天的秘密审理，只是走过场，但她坚持亲自来做主控，并且穿上了自己最漂亮的绿sè套裙。\n\n    她起身向主控台走去，脚下漂亮的细长鞋跟踩在地板上，出嗒嗒的响声，像是敲门，又像是某种例数的时间机器。",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "上讲，此后的逃亡以及他在这个宇宙里做的那些事情，都和这个人有关。\n\n    但此时不需丅要唏嘘历史，感慨当年，他是来复仇的，或者说，他是来执行自己的审判，莱克上校只来得及说了一个字，大火力朗格手丅枪便暴出一声沉闷的响声。\n\n    ……\n\n    ……\n\n    强火力喷射而出的子丅弹，从莱克上校的",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "像是敲门，又像是某种例数的时间机器。\n\n    徐松子向高高在上的审判台微躬一礼，没有理会旁听席上的人们，平静望着被告席上的那个穿无肩军装的指控对象，平稳说道：“莱克上校，你被指控于宪历六十七年参与一林谋杀案件，于宪历六十九年非法窃取宪章局秘密数据。你被指控非法窃取并且泄漏联邦重要数据。你被指控破坏",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "身军装肩章上便会多一颗璀灿夺目的金星\n\n    锃亮的黑鞋踏上鲜红的地毯，莱克上校深深地吸了一口气，压抑住心中复杂莫名的情绪，用四根手指轻轻按下军帽檐下飘飞的丝，抬步向法庭外走去。\n\n    防弹车队停在石阶下，来自铁七师的精锐官兵警惕地注视着外围，只要走出法庭大门，他便会迎来全新的人生，至于过往的",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "情感铺垫",
+      "category": "emotion",
+      "example": "开庭。\n\n    他在黑暗狭窄的空间里静静躺了四天四夜，没有进食，没有饮水，如果知道南相美在庄园里的担心，一定会告诉她，这些天自己没有吃，睡的也不怎么好。\n\n    在帝国医院内突破的真实力量，迎来了最艰难的考验，那些在肌肉双纤和身体丅内部缓慢游丅行，没有任何障碍的力量或者说真气，极为奇妙地帮助他减",
+      "analysis": {
+        "definition": "在文本中使用情感铺垫技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "的高跟鞋跟力度透过红se的地毯，落在木质地板上，出嗒嗒嗒嗒的声音，这声间就像是敲门，在木板下方的许乐缓缓睁开眼睛，醒了过来，眼睛看不到一丝光线，狭窄的空间里全是黑暗，隐隐能够听到上方传来的说话声，于是他知道马上就要开庭。\n\n    他在黑暗狭窄的空间里静静躺了四天四夜，没有进食，没有饮水，如果知道南",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "向高高在上的审判台微躬一礼，没有理会旁听席上的人们，平静望着被告席上的那个穿无肩军装的指控对象，平稳说道：“莱克上校，你被指控于宪历六十七年参与一林谋杀案件，于宪历六十九年非法窃取宪章局秘密数据。你被指控非法窃取并且泄漏联邦重要数据。你被指控破坏联邦一级飞行器，以危险方法危害公共安全，触犯联邦军事数",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "novel": "间客",
+  "chapter_number": 299,
+  "chapter_title": "第二百二十九章 听见枪声",
+  "filename": "ch_0299_第二百二十九章 听见枪声.txt",
+  "char_count": 7086,
+  "timestamp": "2026-04-10T12:04:51.239776",
+  "techniques_count": 15,
+  "techniques": [
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "无聊的等待之中，施清海甚至觉得自己快要睡着了，如果不是秋林之中的红叶有些生硬，如果不是晨光还无法普照大地，环境不够温暖……就在这个时候，他忽然听到了一声尖叫声。\n\n    声音从山脚下来，应该就是在基金会大楼那片街区之中，因为相隔的极远，所以声音很小很轻微，他捧着显示屏的双手微~一僵，认真地侧耳听去",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "快节奏",
+      "category": "pacing",
+      "example": "备冒险。\n\n    可惜许乐没有给他表现成熟稳重大局观地机会，军靴在光滑的石质地面上一滑而过，力量在瞬间爆发，两只手横击直打，如摧枯拉朽一般轰在那名警卫地上半身。\n\n    喀喇两声异响，警卫身体一僵，瘫软倒地。在白玉兰的指令下，许乐把警卫拖到了一个无人的房间，换上了那身制服。\n\n    在原定的计",
+      "analysis": {
+        "definition": "在文本中使用快节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 5
+    },
+    {
+      "name": "高潮爆发",
+      "category": "plot",
+      "example": "险。\n\n    可惜许乐没有给他表现成熟稳重大局观地机会，军靴在光滑的石质地面上一滑而过，力量在瞬间爆发，两只手横击直打，如摧枯拉朽一般轰在那名警卫地上半身。\n\n    喀喇两声异响，警卫身体一僵，瘫软倒地。在白玉兰的指令下，许乐把警卫拖到了一个无人的房间，换上了那身制服。\n\n    在原定的计划中",
+      "analysis": {
+        "definition": "在文本中使用高潮爆发技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "的时间便爬到了四楼的窗台处，动作干净利落，毫无拖泥带水。施清海通过瞄准镜看着那人，不禁有些心情摇荡，暗想这种手段未免也太过生猛了些。\n\n    翻进窗户地时候，那个人略微侧了一下身体，露出了帽檐下的大半张脸，虽然在视屏上极为模糊，但落在施清海的眼中，却是那样的清晰。\n\n    他没有惊呼出声，只是眯",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "氛围营造",
+      "category": "scene",
+      "example": "青天，双手捧着acw的连结微电脑显示屏，正在观看一部老电影以打发时间，嘴里还轻声哼着小曲儿，态度十分轻松，不像是来杀人，真像是在郊游。\n\n    显示屏上半边地区域放着电，另一半的区域则是显示着acww电子辅助瞄准镜里地世界，清晨的基金会大楼安静无比，偶有警卫躲在房外抽烟，孤儿院和文化艺术中心的楼上",
+      "analysis": {
+        "definition": "在文本中使用氛围营造技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8500000000000001,
+      "match_count": 2
+    },
+    {
+      "name": "危机开场",
+      "category": "plot",
+      "example": "起头来，疑惑地看着面前两个工作人员，这两名工作人员冷峻的面容上透着一股峭烟的味道，不知道参加过多少场战斗，然而却没有穿着警卫的制服。\n\n    应该称呼他们为武装分子更加合适一些，更何况许乐能够清楚地看到，对方的外衣之下隐藏着两把枪械。\n\n    许乐重新低下头，冲了过去，在这两名武装分子拔出枪来之",
+      "analysis": {
+        "definition": "在文本中使用危机开场技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "始向着前方奔跑，速快，不作丝毫停留，他知道自己现在已经被监控网络盯住，只要自己在某地稍一停留，便会被无数的警卫包围。\n\n    ……\n\n    ……\n\n    左前方的一扇大门猛然被人推开，有枪口瞄准了奔跑中的许乐，正准备抠动扳机。\n\n    许乐转头，手臂一抬，枪口抢先吐出了火苗。随着那道清楚的反",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "候是不是已经惊动了基金会大\n\n    安系统，施公子知道今天的计划必须做出临时的校快地从落叶中爬出，来到了acww大枪地后方，眯着眼睛低下头开始做最后的参数修正，在微电脑上输入了数据之后，他用力地沉重地枪械向后一拉。\n\n    沉重的枪械在预设的后退减震滑道上，顺滑地后移，发出一声沉闷的响声，喀嗒做",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "男孩居然会执着固执天真幼稚到一直等了一夜，捉猫猫把自己捉成了灌木丛里一只夜居动物。\n\n    从某个意义上说，那个小男孩儿具有某种极为优秀的品质，比如专注，比如执着，比如有诺必行。\n\n    这些品质其实乐身上也有，换一个场景，或许许乐会带小男孩儿去游乐场，用冰淇淋当作结义兄弟的祭品，然而当那个小男",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "没有惊呼出声，只是眯着眼睛看着那个家伙消失在大楼之中，证实了自己曾经有过地猜想与先前那刻的直觉，原来果然不止自己一个人想杀麦德林，原来那个家伙果然来了。\n\n    “。”施公子轻声说道：“你这个王八蛋居然要抢小爷的生。”\n\n    许乐来了，而且抢先摸进去了，不知道这时候是不是已经惊动了基金会大",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "脱了所有懊恼的情绪，本来就不可能无声无息地突入麦德林卧室，只看被发现的时间长短而已。\n\n    “你将来应该去唱男高音。”他对那名勇敢的小男孩儿做出这样的评价，然后深深地吸了一口气，将体内那些灼热的力量运至四肢，尤其是十根手指头之上，用力地抠住极细的墙砖边缝，开始凭借着非人的力量，悬挂在空中，稳定而",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "人物出场",
+      "category": "character",
+      "example": "那里，注意着那里几根常青树枝与风的方向不一致的摆动。\n\n    似乎就在刹那时间之后，显示屏的图像上出现了一个人影，那个人穿着宽大的运动服，背着旅行包，一身阳光打扮却有着鬼魅一般的气质，这个人并没有走出灌木丛，而是直接向着后方的基金会文化艺术中心辅楼走去。\n\n    那个人开始徒手爬墙，光滑的建筑外",
+      "analysis": {
+        "definition": "在文本中使用人物出场技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "瞄准镜上的景致占据了整个显示屏，视角随着他右手指拇在红点上地滑动而移动，在基金会大楼附近的清晨建筑间缓缓移动，寻找着那个声音地来源。\n\n    滋滋的轻微声音在秋林里响起，连落叶中地昆虫都无法惊动，acw粗大的枪管缓慢移动，给人一种无比柔滑地感觉，但枪管的口径和前方中空的消音装置，却透露着令人心悸的",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "先前那刻的直觉，原来果然不止自己一个人想杀麦德林，原来那个家伙果然来了。\n\n    “。”施公子轻声说道：“你这个王八蛋居然要抢小爷的生。”\n\n    许乐来了，而且抢先摸进去了，不知道这时候是不是已经惊动了基金会大\n\n    安系统，施公子知道今天的计划必须做出临时的校快地从落叶中爬出，来到了ac",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "温情描写",
+      "category": "emotion",
+      "example": "，施清海甚至觉得自己快要睡着了，如果不是秋林之中的红叶有些生硬，如果不是晨光还无法普照大地，环境不够温暖……就在这个时候，他忽然听到了一声尖叫声。\n\n    声音从山脚下来，应该就是在基金会大楼那片街区之中，因为相隔的极远，所以声音很小很轻微，他捧着显示屏的双手微~一僵，认真地侧耳听去，发现再也听不",
+      "analysis": {
+        "definition": "在文本中使用温情描写技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}

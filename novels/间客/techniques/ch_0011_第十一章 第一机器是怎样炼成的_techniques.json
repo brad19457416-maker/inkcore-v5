@@ -1,0 +1,167 @@
+{
+  "novel": "间客",
+  "chapter_number": 11,
+  "chapter_title": "第十一章 第一机器是怎样炼成的",
+  "filename": "ch_0011_第十一章 第一机器是怎样炼成的.txt",
+  "char_count": 2491,
+  "timestamp": "2026-04-10T11:53:11.022013",
+  "techniques_count": 12,
+  "techniques": [
+    {
+      "name": "哲学思辨",
+      "category": "theme",
+      "example": "明最发达，最富遮，人民生活最安逸的所在。所谓七大家，对于偏居东林的少年许乐来说，是遥不可及的古老上层存在。而封余口里说的那个老头子……\n\n    “我的亲妈呀，你喊军神老头子……”许乐不知道是因为痛苦还是害怕，声音颤抖的极为厉害。\n\n    “好了，今天的马步不用再蹲了，把体操再做一遍吧。”",
+      "analysis": {
+        "definition": "在文本中使用哲学思辨技法",
+        "scenario": "适用于theme类场景",
+        "effect": "增强theme表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.95,
+      "match_count": 3
+    },
+    {
+      "name": "悬念设置",
+      "category": "plot",
+      "example": "上学习到关于机修的知识，而并不是希望能够听到一个令人动容的故事。\n\n    再说，每个人都有他自己的秘密，不愿意被人打扰。\n\n    “其实……我不是傻子。”许乐忽然开口说道，他并没有故意装出十分为难，欲言又止的模样，只是习惯性地在某一个重要的词语前面刹一下车，加重一下语气。从十年前父母妹妹都死在那",
+      "analysis": {
+        "definition": "在文本中使用悬念设置技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.9,
+      "match_count": 3
+    },
+    {
+      "name": "情绪爆发",
+      "category": "emotion",
+      "example": "国防部的机修士官考试，根本不考野战能力，我不想把时间再浪费在这些事情上。”\n\n    许乐的声音开始颤抖，似乎正在承受某种难耐的痛苦和煎熬。封余却是看都懒得看他一眼，平静说道：“以你的性格，既然问出来了，看来你对这个事情是真的很抵触……我只是不明白，你的抵触从何而来。”\n\n    许乐的声音依然颤抖",
+      "analysis": {
+        "definition": "在文本中使用情绪爆发技法",
+        "scenario": "适用于emotion类场景",
+        "effect": "增强emotion表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 1
+    },
+    {
+      "name": "对话推进",
+      "category": "dialogue",
+      "example": "一直看着天地间最后那抹光消失，然后被最全面的黑占据。接过身后递过来的那杯红酒，封余抿了一口，似笑非笑说道：“用我的宝贝儿来讨好我，又有什么想问的？”\n\n    许乐提着酒瓶来到了他的身边，顺着大叔的目光往远方的草原上望去，此时夜色早已深沉，不知先前那刻的落日会是怎样的壮观。他知道修理铺老板肯定有很多",
+      "analysis": {
+        "definition": "在文本中使用对话推进技法",
+        "scenario": "适用于dialogue类场景",
+        "effect": "增强dialogue表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.85,
+      "match_count": 3
+    },
+    {
+      "name": "伏笔埋设",
+      "category": "plot",
+      "example": "仗，我只是想当机修师挣钱，同时从事自己喜欢的工作，用得着在乎这么多？”\n\n    “我们不去讨论你的将来人生，因为在我看来，国防部的考试你不见得能通过，说不定你要给我打一辈子的白工。”封余哈哈笑了起来，然后笑声渐敛。\n\n    “想一想上林那三颗星球上的人们，想想那些延绵数千年的家族，甚至是那七大家",
+      "analysis": {
+        "definition": "在文本中使用伏笔埋设技法",
+        "scenario": "适用于plot类场景",
+        "effect": "增强plot表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "内心独白",
+      "category": "character",
+      "example": "一遍吧。”\n\n    封余没有回答许乐震惊的话语，微笑看着已经保持了半个小时标准马步姿式的许乐，心里暗想着，这小子虽然天生抵触这些东西，但做起事情却格外认真，除了他之外，还有哪个十几岁的少年，可以忍受日复一日，长达两年的马步考验？\n\n    “注意呼吸，放松心神。”封余站起身来，平静而严厉地看着瘫倒",
+      "analysis": {
+        "definition": "在文本中使用内心独白技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "性格刻画",
+      "category": "character",
+      "example": "许乐的声音开始颤抖，似乎正在承受某种难耐的痛苦和煎熬。封余却是看都懒得看他一眼，平静说道：“以你的性格，既然问出来了，看来你对这个事情是真的很抵触……我只是不明白，你的抵触从何而来。”\n\n    许乐的声音依然颤抖，间或有粗重的喘息声响起，他恼怒地说道：“这已经是三十七宪历的第六十三年了……人类的",
+      "analysis": {
+        "definition": "在文本中使用性格刻画技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "群像描写",
+      "category": "character",
+      "example": "不定你要给我打一辈子的白工。”封余哈哈笑了起来，然后笑声渐敛。\n\n    “想一想上林那三颗星球上的人们，想想那些延绵数千年的家族，甚至是那七大家，为什么他们一直对那个老头子和老头子的学生们那般尊敬，为的是什么？不就是因为那个老头子自身力量的强大。”\n\n    上林便是首都星圈的大区名称，首都星圈由",
+      "analysis": {
+        "definition": "在文本中使用群像描写技法",
+        "scenario": "适用于character类场景",
+        "effect": "增强character表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "环境描写",
+      "category": "scene",
+      "example": "制的餐刀划破微有脆意的肉块表面，和“把手”刺破野牛头颅时飙出鲜血的场景不同，虽然这块牛肉也有些一些血水，但更多的还是那些令人食指大动的汁儿。\n\n    常年食用合成食物的联邦普通居民们，对于这种天然的食物根本没有任何抵抗力，更何况是好肉如命的修理铺老板和少年许乐。\n\n    一顿美妙的晚餐结束，许乐",
+      "analysis": {
+        "definition": "在文本中使用环境描写技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 2
+    },
+    {
+      "name": "场景切换",
+      "category": "pacing",
+      "example": "犟地反驳道：“再说了……什么保命，什么最后躯壳，我又不会去西林和帝国野人打仗，我只是想当机修师挣钱，同时从事自己喜欢的工作，用得着在乎这么多？”\n\n    “我们不去讨论你的将来人生，因为在我看来，国防部的考试你不见得能通过，说不定你要给我打一辈子的白工。”封余哈哈笑了起来，然后笑声渐敛。",
+      "analysis": {
+        "definition": "在文本中使用场景切换技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.8,
+      "match_count": 1
+    },
+    {
+      "name": "空间转换",
+      "category": "scene",
+      "example": "红酒，封余抿了一口，似笑非笑说道：“用我的宝贝儿来讨好我，又有什么想问的？”\n\n    许乐提着酒瓶来到了他的身边，顺着大叔的目光往远方的草原上望去，此时夜色早已深沉，不知先前那刻的落日会是怎样的壮观。他知道修理铺老板肯定有很多事情瞒着自己，不过他也并不想去探询，因为他跟着封余，只是希望能够从对方身",
+      "analysis": {
+        "definition": "在文本中使用空间转换技法",
+        "scenario": "适用于scene类场景",
+        "effect": "增强scene表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    },
+    {
+      "name": "慢节奏",
+      "category": "pacing",
+      "example": "了若指掌，运转无碍的第一序列机器。”\n\n    “至于什么机甲，什么战舰，那只是更外延的东西。”封余缓缓闭上了眼睛，“人总不能一辈子都躲在机甲里，你总要吃饭睡觉上厕所，你要**，你要**，你要洗澡……一个人不穿衣服的时间都要占据人生的十分之一，那你不穿机甲的时间呢？”\n\n    许乐听傻了眼，总觉得",
+      "analysis": {
+        "definition": "在文本中使用慢节奏技法",
+        "scenario": "适用于pacing类场景",
+        "effect": "增强pacing表现",
+        "applicability": "网络小说"
+      },
+      "confidence": 0.75,
+      "match_count": 1
+    }
+  ]
+}
